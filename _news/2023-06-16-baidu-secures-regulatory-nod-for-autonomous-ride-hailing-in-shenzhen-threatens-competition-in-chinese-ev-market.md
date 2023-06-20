@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-    excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,"
-    publishedDateTime: 2023-06-16T14:12:00Z
-    webUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
-    ampWebUrl: "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
+  - title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
+    excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
+    publishedDateTime: 2023-06-16T08:26:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 74
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473"
-        width: 800
-        height: 534
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-06-16T14:14:00Z

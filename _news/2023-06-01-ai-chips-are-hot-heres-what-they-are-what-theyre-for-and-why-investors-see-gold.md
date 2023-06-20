@@ -2,11 +2,11 @@
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper. Such chips have suddenly taken center stage in what some experts ..."
-publishedDateTime: 2023-06-01T05:55:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+publishedDateTime: 2023-06-01T05:47:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
+webUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "2NFgZOGOEniCUpKUlh7lQUGZNAzKmsAxj3kBun8IWEKQk1dBTbivDbvJVRY8gdJwyFsY8gcCTi2qxDAPg4xCKH1wqQly+zINeBfJtcYruMl7vsTxGtjg/3Ca7xcoC3UxMQ5YGJF+3ACjRcFrQrthrks37gfQ/w7kEwuQ4d7J1lpEFjbOV4EsApz3Yx+xSCNnl9pQFj6Tu4T6fCfgcAVDCdbgP34RvNB80x9O06aApGO4CYJvEKAOMohnW7LkQxtJ7uASIBWgoBymxznc6C3Z4GZLFTm09JOoq6VYYdfs5UbZZowLQZFoRgQL7JxJLULiiWlp1bdTgjkioZ/He8khKhGebMRp/m9iUg1oQ7QQ84w=;PaW5EyJuAIiONj/shB0/AA=="
+secured: "Ehrp/LZipzbvWU3O57KZrLv9qGr63Hu693bBPPSlj4qQv3qkUr/9Bn+6uXcgOLdQHtkES4zrtEjF/DlWrBwz7OPJmjRCJQ5KHgghA5gxuEB6rYsHsx/nL2Ym57/BWTCAxnw7BjhllMYwOkgfi7HCAx/5LuqJU2buECnzs0Rkxk5OwXjKDmRNyf+yfVZ7TG3Wa+EiPHlAAtj3mCmYz4X1+d0+eGpSfse3fjLIaMfUMcIh74CAKzmydjx0tnPwv+PQ8/mEf28ZKFS7+OwqOBNDXHMwumZKSHP12fI4iRTMVub843P6NL60Kx48Hchwck6AsZ97csHqF67yFp8Ks71dxaQpwq6+VRC9y2/U9r6YALg=;ZrFHEEX+w1fA1fAgRBY+8A=="
 ---
 

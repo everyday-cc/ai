@@ -95,6 +95,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "3 downsides of generative AI for cloud operations"
+    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
+    publishedDateTime: 2023-06-20T09:35:00Z
+    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
   - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
     excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
     publishedDateTime: 2023-06-17T13:00:00Z

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Garda body cams to include facial recognition but real-time use prohibited"
-    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gardaí to get all-clear to buy body cams as Fine Gael rows back on facial recognition tech"
     excerpt: "Gardaí are to get the green light to begin buying body cams after Fine Gael rowed back on its push to bring in facial recognition technology (FRT)."
     publishedDateTime: 2023-06-20T00:29:00Z
@@ -56,6 +42,6 @@ related:
         height: 1265
         isCached: true
 
-secured: "oE/9jtD1pUbYjaLj8mwdg8bHmZEEo7zUXA6icSO9Drdjbx7ypCDo9NQ8vF0RTxcE5wq8j1UDEK8plBck97d0GF6ASIU3AUoZI1G9LLk0/cCtangVy5bgyDyv+t8uOAzKW4MrnKgQPsHshefVobim2jbAgxyjOf/W7pzQcbQ0hwj/OB15P+G0iFnFjT2I07Fy1/xBUM+SNMxmFvwhSVQ/AA0qxt5DtbIt80uSUh9T9lbTMYaLE6+T90uFdToK4vDZjwmll79hKm9JOlL1ln9NFWmtjg16sL0H3GWDmqjB8lj7ifZ31QcN3jN8joXT1roqa+RI9sCJa6kC97N6lKVCyWI+u8mgQxiaHTGLJTkGU4I=;mXHBoub9rGdnWpPOf+lhwQ=="
+secured: "qqDIOgj4H27uJwnj1Dbkhd5C6axxvJ0QhSSiOh9Fz08Dmiwk06Wyl4X6dy7UrH2b/MKntUfIUFPT2wrfGQvyLx4B5AyPvblcliP98xFvLrO+PkZaQh5dIdiq7F1KsoqYIloc+qgq5I5lRKfH3fODW0srC11Sp3weh3qIwkfW0va3AfhselTcq+XgM2MD1rvIUV0WPk+snej3HZB3p6Cc+Jm64+Rt1av//yDpgz/5qTf+gacb5TxNz7hMFClJSORGCtSZjUqlazTh+lz1bTajHfY9t1Fgo6CQzNeTYqyAeQk6AztN78LIPvgbmJhhHyU2Ri5MeWQAYQfqujT3fabNcwXRIArc3eEH0C6cljBC+SfkMT5WvzhLEefgd7+gnQL487eDjLwyEBWMPwL6b5I8/v1VKMgoC028E0Rg/J9lGggxDlm7c+q56RshbMGjipGgnBVOjULlYapl1TVtWH04fX6pDQzFpsPRfAr/Fi47P+fcZRvTju4wsSNQ0Fo3CF1l381d2ED9Y+bQv19zKtI6Vg==;0XJzT0frDjVB67dhj2Cwhg=="
 ---
 

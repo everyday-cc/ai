@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Garda body cams to include facial recognition but real-time use prohibited"
-    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3PAco6huK0zCBQ7mzxOUOOEBQLq4xHCFshGEcjEB8EBQMbqjUOK7RaCYz21cP0IGPG13BItAqZGbk6+R16h9lnRl0nsYBP8HzYw1udBCt2Km+P4KrLKS3DqclDmBVkIpNClI9yvCD3bm1OeUc1buhVWGUNRoizn7xxjOXdIO5K4Dsa8rR8Jcm+OEAAR4wzt519fvlsqRDaAq+XmDfWTvH9iZYZJRbDo8b8OazC/aA5NDTtHvFjt1WACEartTDkiObYp/vqAliMnSRCrz+d+dU0VRaDcNBrR7niLRqXMDCqnYqUFvSAqtLdaVOd2dUJvAuPDSkCZ0lzlVIGDHqJklSp9mxUBTJCy6IHK45gjkY3QpEIxtgc86xdxI9t1IQ+bs9mUV2uXdKcc6GweE6wwMxdeY+QXWgI/d+te74GGK7g6ZKPWPH3nFyNdyC+0GGAE6LegpEbSNC5QLq2KO826ZBQyQWrNkQXMYSfDgs1pVivZmHbC0b9d/rdOlp4hwlENbaztNRTN3L/iEJtaLeduJoA==;N0zvdN59ZVFaOZ3FipcL4g=="
 ---

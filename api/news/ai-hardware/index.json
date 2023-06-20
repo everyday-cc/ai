@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-20-chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-market-dynamics.md",
+      "title": "Chinese Vendors Bypass US Embargo to Supply High-end Nvidia A100 AI Chips: Report Reveals Hidden Market Dynamics",
+      "excerpt": "China's famed Huaqiangbei electronics area in the southern Chinese city of Shenzhen shows startling revelations regarding the availability of Nvidia Corp NVDA AI chips. The U.S. embargo has led to an underground market with vendors dodging scrutiny from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/government/23/06/32917499/chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-mark",
+      "originalUrl": "https://www.benzinga.com/government/23/06/32917499/chinese-vendors-bypass-us-embargo-to-supply-high-end-nvidia-a100-ai-chips-report-reveals-hidden-mark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/06/20/nvidia-photo_by_mizter_x94_via_pixabay.jpg?width=1200&height=800&fit=crop",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32917499",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32917499",
+      "publishedDateTime": "2023-06-20T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
       "title": "Amazon And The AI War: iRobot Acquisition In Focus",
       "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
@@ -1438,49 +1481,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips: Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "originalUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.bte.navigacloud.com/?uuid=421d77fa-01ca-5865-a123-72a4084e2877&function=cover&type=preview&source=false&width=1600&height=1085",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Butler Eagle",
-        "domain": "butlereagle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

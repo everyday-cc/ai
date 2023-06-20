@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
+    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
+    publishedDateTime: 2023-06-20T10:41:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 33
+    images:
+      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Paper shows ideas from Indigenous Australians, not policies in Aboriginal 'voice' referendum"
     excerpt: "A screenshot appearing to show a list of policies has been shared hundreds of times in Australian social media posts that falsely claim it shows measures that will come into force if the country votes to grant Indigenous people a voice in parliament."
     publishedDateTime: 2023-06-20T01:15:00Z

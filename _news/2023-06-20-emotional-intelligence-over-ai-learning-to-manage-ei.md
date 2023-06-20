@@ -52,15 +52,6 @@ related:
         width: 1366
         height: 910
         isCached: true
-  - title: "Investing in AI: What to Consider"
-    excerpt: "Artificial intelligence may prove to be the most disruptive and significant change in technology in a generation. As more companies are moving to incorporate AI into their core businesses, the space appears to be ripe for investment,"
-    publishedDateTime: 2023-06-15T17:36:00Z
-    webUrl: "https://www.cnbc.com/video/2023/06/15/investing-in-ai-what-to-consider.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
 
 secured: "nQs4lGF4H86UjBLruWSfPzQ88vXYARCpL9mrjpq61Y1wbyxohkaj3nF6mR0VdmSYFJ8wXq1VpVhzdEV14GWUdHMStWTumDIUvGv5vqZH/kcuESFwxgI8YtLsAt/L7KPPtdbZRlWhpNo3v4GiUbFJnpO+jzBRIm29ThrDlLiYUJcID5lPnIXt4SkmZTpRBJWF8cI0OWwno/EfA7TQbUrql/jfKIdXuy90q01FEseZdKyA1EioRN10S6PsvuxsZB0zQ+3ppDH34B5UvqBJosMNhLoXBpVWWVJHVdT/p6hgZf/Kq24pSIB+1Wr/JWyPqsvlULWOGCqA0q4X0wT04Wk7JHY+CKD3SuLJsE+XaJNHqvOKfeLXT533JBmy/Mae2TXeOcm5wnw/vS7GUVh/X7R7+UVMkmkOwAwpEMGM+9wDPisHVo+pv64l7F5JTEAVKSBGmFPAfj58mdwlhVzzD4HQ/Q1GrOXLmcwKZOOBmwulrDNHc4S0BsA0S4KZDtVeol9w61WzzELPniTYtu0NPEZ62Q==;7z0IKCPpPTYQR0vfgV3dUw=="
 ---

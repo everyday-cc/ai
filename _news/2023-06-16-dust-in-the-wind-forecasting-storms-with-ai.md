@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-storms-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-storms-ai.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 1499
     height: 1239
     isCached: true
-
-related:
-  - title: "Artificial intelligence in the securities industry"
-    excerpt: "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations."
-    publishedDateTime: 2023-06-15T15:33:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "5 times AI fooled the internet in 2023"
-    excerpt: "After generative AI went mainstream last year with the wide release of text-spewing chatbots, social media erupted with algorithmically generated images and sounds to go along with them. So as AI continued to chalk up wins,"
-    publishedDateTime: 2023-06-15T15:36:00Z
-    webUrl: "https://mashable.com/article/moments-ai-fooled-internet-deepfakes-misinformation"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03l3aZP9u14NepIlfxVCVAY/hero-image.fill.size_1200x675.v1686839866.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uXvxusiWfCXiiDyNCYFT0ZX2jjYWgEOdmlVYZF35boH6g9/hsoulQoSGNOgfPnOaBilRFapzyZrXJkS2zaasdP1yxBXUwWRz70FCCkTgnLjyfZNiVcZ5qWXq3NZii47SgH7Hl2eNukjvNMPzr2L1nVwC6+5gj4OZSIKToHBSURVHxCbXF7/uE98MWZMeJ/RfrdjvMGyKNYLLk08TLZ26cv7P9n1VX5wm7u9ScFkV2VPnCDuhfmpk+hJYLAr5YWszqf6uPUmqhyGRh3lXD6sCEZBqE7pE+TURihTFvs4is6fhH6fOZg0Evc2muNr2BEk7ar5M4PbEPFpARDHA2joNXJ/d39yOnvItn1RhMwjQ0Xs=;ShiQGMOsXO/HA4FA8IYMyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Vimeo unveils AI tools to make video creation a breeze"
+    excerpt: "Vimeo announced today the launch of a suite of AI tools that it says will transform professional video production for businesses."
+    publishedDateTime: 2023-06-20T07:57:00Z
+    webUrl: "https://venturebeat.com/ai/vimeo-unveils-ai-tools-to-make-video-creation-a-breeze/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Podcasts to Make Sense of Artificial Intelligence"
     excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."
     publishedDateTime: 2023-06-20T03:42:00Z

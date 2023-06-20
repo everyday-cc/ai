@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
+        isCached: true
+  - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
+    excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
+    publishedDateTime: 2023-06-20T04:10:00Z
+    webUrl: "https://trak.in/stories/unleashing-the-full-potential-of-ai-moving-beyond-admiration-and-apprehension-opinions-of-a-cto/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 25
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-4-4.jpg"
+        width: 1000
+        height: 465
         isCached: true
 
 secured: "hOiLDSs74XY+uyh9a9t6uUxY6WHLIdz5Ds76a07CuLusIxWQAQbu3LuexQ0xwbFlz0B2T+1OZngWvXqljEIx8xDD0SYAaUyel1SG4gGJI5jqK4KhSaiVyo2IEmHI/fwlaYqoNsmRmYz+vC72IGzU4ptq4xWKu8qP9inUpRpytwVq/CGggTXP0c6fXZkOPDQOSyD1Ie0BUMIZp4kmGkYDDJvMnC10sigEhd3TY0+OixsgmRwU8B+X60qocWKKwaRqgXENBTTDEpt+YSXbVsVnNeJ746OrImF4kFEBA4DNfVLzyvDkD4pZUIO6zpBk7ZUUUvtaoYVEWPDmGMAObBAvEezmVuHExUK6J4Ncrzsa00ove9oj7LsD1Emr15OROtL6wWGIzZGnCUC6IBFWP9NANPNdp2yzxuCBEjB3cVcqb4fp4Czats/aYGFVv58dsT3YiekNirGOzzBOUqVCrKtWpjiLFLVc4QbYaWjhMcSmNjlqsryh6L57Jh5FaK4t504XX7pqRwev3puly4kMMKALUw==;Z2TnmJUyqsejY6ohGISy5g=="

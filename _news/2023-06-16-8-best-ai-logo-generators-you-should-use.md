@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/best-ai-logo-generators/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/best-ai-logo-generators/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Should You Start a Generative AI Company?"
-    excerpt: "Many entrepreneurs are considering starting companies that leverage the latest generative AI technology, but they must ask themselves whether they have what it takes to compete on increasingly commoditized foundational models,"
-    publishedDateTime: 2023-06-19T12:15:00Z
-    webUrl: "https://hbr.org/2023/06/should-you-start-a-generative-ai-company"
+  - title: "The Ghost In The Machine Shouldn’t Be AI"
+    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
+    publishedDateTime: 2023-06-19T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "/IQdGyHgOSt5Z2YxIgS9/deZbCmD1Mv3fHISJt+IXgSEZ0YmeuiqpBZirHJYUX2t1XXATm08P0bJA22wlvHH6TD9a52AhYrZKXEPiWcPcWDqD7S1o/QA1JhR1iffm53nDSblJemkSpOpHjmKYjWKbiLMc020QYS+282CgWdHW1txjvJ6yqqZflUAYLafJp9gzicny7CvbvkeU4bVPXjTUrqpi4XERtJy/ilYaKvs1Mj+z8ICwKks3KXRVhJD+g6pWhEfDuoOHyA7nwplzfypr0pIR88FkJTjShi/2m9ZkfXHKTZPYXWDzNiDp/xtTtvzgPHCqOF+f/mbchLFQ1nEYetHtfOlsF+yDhO7EQNBTww=;hY63aOt8Pw6wgJWCYxg4bg=="
 ---

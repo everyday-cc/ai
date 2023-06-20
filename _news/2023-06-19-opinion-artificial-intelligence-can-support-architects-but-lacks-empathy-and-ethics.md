@@ -80,6 +80,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
+    excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
+    publishedDateTime: 2023-06-20T04:10:00Z
+    webUrl: "https://trak.in/stories/unleashing-the-full-potential-of-ai-moving-beyond-admiration-and-apprehension-opinions-of-a-cto/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 25
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-4-4.jpg"
+        width: 1000
+        height: 465
+        isCached: true
 
 secured: "APD42FqcaPyHHpmklXynThcjEvIHwJs2VJDVJPhupCnt+VbAbieca7N5BCgvO9gYXj1LYIS56l7IE2a+wEx2B75EhmWaQPACDe9zAArRfIFPraJecXkVc7AUES4fvcS2Qz+AqqM69eaTM22skOo08iLQLzSy5zF+wqN58Kbk005LnRMm8JpimYNx+p/fBU/wWsTdUGTvgQP6JtuU6vTmxYQmQyrw5P7A4Nc24tOaSh0OqQTkEOWtB9HzDpc01WIuoj3eaZApLKBq8gGJTKsfOscy+Li+r4tOHxQYr6uDWP7YaVI2RZZ4j5ZgODeE8MIEzPitzvh3GsYjKJaWs55oKYDzrgLnt6Oj+yn4FePgL99HNwsW0/Mm/VDAaztWFqUIn80GkbdX1ER0nkWOOLFFR0zk3B1uqzeG62u8huuKP+7fbJoKJcDfRODKEnoXpruGyKdfCMWd+gVDXf9LHKsSqYaTKIlCT1D17OeA4QD8jtELWGoxvqeS+agaBimYXijZtRBprKSi1BAJGVRItNiGZg==;Sjb4kh4uBkDwy79y0THUtw=="
 ---

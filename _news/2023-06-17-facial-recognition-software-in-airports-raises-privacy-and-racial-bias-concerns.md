@@ -7,7 +7,7 @@ originalUrl: "https://www.wgbh.org/news/science-and-technology/2023/06/16/facial
 webUrl: "https://www.wgbh.org/news/science-and-technology/2023/06/16/facial-recognition-software-in-airports-raises-privacy-and-racial-bias-concerns"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     width: 1963
     height: 1167
     isCached: true
+
+related:
+  - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
+    excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
+    publishedDateTime: 2023-06-20T10:00:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 68
+    images:
+      - url: "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902"
+        width: 620
+        height: 793
+        isCached: true
+  - title: "Garda body cams to include facial recognition but real-time use prohibited"
+    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
+    publishedDateTime: 2023-06-20T03:59:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SV9fu/jm+ICQs6xTgeRxONV5CAMpxVdet35NOdfPmv3oVnqAd6nK62/YoT8/ToEzXW2SJhaLqY/uzExg9SLpNLAnQlESLXdA7UrnxgmScKO26Rb2kdg4XDmoDeSfWPG8hVATY1E49WP01tEw4kLA2ZklGGYWS+l7nwzdllzBM/rmKYbR0UuT7YSrf/gA72qRgndtRblMqP34PAK9utT0kbGgjBTA89RtwZgKwUqE0aJmPZ2/8w8J4Tq6ZfqKTu+D+CMojmXevNXW4outsM9T77hFhVco3jxsap/LLH0z1E/wbckUCjLIbj57zj1wparzgE/3yWtx+t53rzugWp3HOQVFbpC7BxNGjMt8ZOcAy2ZRQai+x6Sqj3OsOiSY5nAgQm1qKbjjBUT0n4DYX/t7m/WINnXnyZH1otS4iAksGANT/A4QxmTwky9jgPbWyZDqoaGLQH1dEeiLqwb5OPv6pl+YNR+8eeg5oAd1+an/+4A5uDfrhW9WEWYHc6jgMThLgsntVBjn8wai57MTaRZyrw==;Gy2eXqup+mGiqzJ8uc9i9g=="
 ---

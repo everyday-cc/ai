@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-has-more-ro
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-has-more-room-to-run-with-boom-in-generative-ai-1032396798"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
-    excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
-    publishedDateTime: 2023-06-15T18:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
 
 secured: "OzHws0F+ZnfFzZHQa2g6F+3TeFLHZvN6CKNWzxnX8Z+GSsaANRPg1D1ttd29DnJve5WIqK/lEWmlWCx44SBWZWI2wP+ldrTCT+cddBKqDyUmZsPOyAshwvZDVlNGpvuggb/RZ5rbK2x11mY6dFBIGzc8pASNJS7ZTEoqDYiRlq0vC9HRSx1b/EuwugzYTsjP6pONV8YY+pKhvwHlmYAGFPwAz9oYzE99mAOwmZDbzDV+L2Eph7HeRs08shevUSthlpAriv+Pu2uyXqouqj27y9r3b7FD0sEiheBFVgGuqabVNzcumo7mXMj8GUFe9Nw6azBkQ5Bz58yvo4UgeIm0wnAoQkPZf4cG6jnfUjThmhwZB+mOu/TEzC5fNoOgFFPGe7tj+zgPmoxn9sKKR1u/XoApY0K5xrIxoKtqhxx5UaXdEjiqgXVUpMp/rV4KkhpOounUGChKVRDqpBy5IutDPooPEyX7Vk+l+gN0OzHLV84t5KqmhlJ2oDJhA8U94MfyfZyplMS4TLYeqWtYXg2ndQ==;N7P2ipG9HTj5ZS6OWKrUHw=="
 ---

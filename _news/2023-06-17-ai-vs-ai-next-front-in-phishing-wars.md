@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Investing in AI: What to Consider"
-    excerpt: "Artificial intelligence may prove to be the most disruptive and significant change in technology in a generation. As more companies are moving to incorporate AI into their core businesses, the space appears to be ripe for investment,"
-    publishedDateTime: 2023-06-15T17:36:00Z
-    webUrl: "https://www.cnbc.com/video/2023/06/15/investing-in-ai-what-to-consider.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
   - title: "Emotional Intelligence Over AI: Learning To Manage EI"
     excerpt: "\"How well you can implement AI, or any other new digital technology, will depend on your company’s emotional intelligence.\""
     publishedDateTime: 2023-06-19T19:43:00Z

@@ -80,7 +80,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
+    publishedDateTime: 2023-06-20T10:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-need-to-be-on-your-must-watch-list-1032398389"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
-secured: "LayZyYu9/Rjq14ntCsJuMDSELQndZ32i80gd9yr6lZ30zVad+Ziq8cDK1PFhGqNCnYD5WDnE1Gdu9rODnUq4PauUvgTmENC2RHCKLeq0pPQPAgM7RX5ZWUgAZ/wK3QLHUN4/06yAL8B5aehvuKK+EqPg8FZsJLKsoNSOISlv6Ec89f8s9XIcuKuJ6ojokwjlH5Pdeqw0HZEdZi1aE7qaLYw1IR3qvnN2bE8E5ZNepN10OyESvBqZGwBxRGuXr8sqwrNY0jT9LCvIpkmcOp9w+Eij5VFUipO1Atac9We+l/gaJEFhtEs9rYELSPBQWAE7RVMlIuICIA5/PE5+ua+FvU1xwBFxOJn5K5K5ZSIWqo4=;gpdXruux5uwy8m9qY/Pryw=="
+secured: "0X6Ij1xZ8LsAnuTmOx3QQfcstuKz5zmd+ppInombyXeopnptiA6QkLMIRrYhJ817vyOV3keHWNF/2K6SQpIY2KRx4HhV6YyTAAidkbXEulgBNmy8xJ/w4AtRaoV+6IRGJ6/m+mW8YtRyxXVfuwOI0FAz+wbWXV0XkxyWwPsc5b6aC/tWumA0LgmHyV1Bu2tL3iwGivBvG3Fs3wxkMp89Pp37As+7kSoBz7zX9EMSvrnKRGi1iisMbgfONAtSLJ2WroceLSwgXQlMgWdeKX9fAziVI2V7y8iMEHlQsbd1+FF6R64iuPkl+ZXfdcwzXznJ4eAfDj+8yaVK4u/JN4418EKPEDCjXXj1uIEajWLgu+idK9MhVnnR/2eADvojlRcUAN8aEASf9fL2W3uWktWpXCD3PWtSdPz+TUaFL1ExVZ0rWmXlXQaTCl5RmtlhjpSus4+KXXM6x0ceg9PVZwX+9mPcw2Tj4C7llRytru2TXMa8vGq/YCf4TyrajUPWr68hZZLBwgDZjKatHfYxT6n0qQ==;IL1cgolpSWD1vHfZSjI/ag=="
 ---
 

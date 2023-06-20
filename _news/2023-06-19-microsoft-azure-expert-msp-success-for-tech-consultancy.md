@@ -55,22 +55,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
-    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
-    publishedDateTime: 2023-06-15T17:34:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 81
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Google is Flattered by Microsoft’s Azure AI Studio"
     excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"
     publishedDateTime: 2023-06-16T04:29:00Z
@@ -133,6 +117,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 29
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "841+JkTWEDa0bKK2xdSbmjNDtMQDxlO0VR9vjKRLbAppfZHbgtL42Bnty2AZdK3nlqWBhwuaIVCr8MmyOlSCTH8rzsspSs+IGRVsFq1vJATdiNBk/HBvPhNJtM6h7fxKP+vmJWMg+SK9vjtbvcdDwfnD+Ifj7CmBGBHdlmxKIiyQkLH4REt6fcJGAOl16UbbeWV23kFIlgZkjueWexOdMHZX+W/O3kW3RcWzQbkCHeMNnsE/zoisiPBdW0VE6mrGlFt1WMqnOOVn8xhrO1/xr4ZR9CObUYn1/Qv+rUeAy2vQ2vrvrmTal/kHNTbV+I2hZMPPVMO0QyCg0+TUPsNaIFwrPGDHS6G6BogkGSciesI=;FaeuNcuvIMS8sg6kKJDXNw=="
 ---

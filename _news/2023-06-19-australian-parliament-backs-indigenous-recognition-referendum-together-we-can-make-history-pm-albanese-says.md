@@ -45,6 +45,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
+    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
+    publishedDateTime: 2023-06-20T10:41:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 33
+    images:
+      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Australian Senate passes Voice referendum bill amid falling public support"
     excerpt: "Now that the bill has passed both houses of parliament, the government must set a referendum date, but the more people learn about the Voice, a proposed unelected institution at the heart of the existing political order,"
     publishedDateTime: 2023-06-20T04:03:00Z

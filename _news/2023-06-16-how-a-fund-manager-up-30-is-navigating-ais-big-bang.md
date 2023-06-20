@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-16/podcast-how-a-f
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-16/podcast-how-a-fund-manager-up-30-is-navigating-ai-s-big-bang"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

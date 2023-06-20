@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
-excerpt: "targets global markets with its B2B Fintech SaaS software (Graphic: Webcash Group) Webcash Group launched 'WABOOKS', the Vietnamese version of 'AI KYUNGRI NARA', last April. AI KYUNGRI NARA is an accounting solution used by 60,000 business customers in the ..."
-publishedDateTime: 2023-06-20T07:48:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
+excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
+publishedDateTime: 2023-06-20T07:40:00Z
+originalUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
+webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8f/c8f65c4d-fb94-5105-9eb2-8595dbaeed28/64915a5d1c55f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "This Fintech Startup Serves A $7.5 Trillion Per Day Market"
@@ -81,6 +87,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
+    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
+    publishedDateTime: 2023-06-20T10:22:00Z
+    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
     publishedDateTime: 2023-06-16T14:34:00Z
@@ -100,6 +120,6 @@ related:
       domain: datacenterdynamics.com
     quality: 0
 
-secured: "6zAJRoGYJWxKhYBE3xl3w1NmpK+aZp51u4b6aijWKmns68iUTE6XcJexgqMKrllnixv7+4mh7HTb3l7RpsVwwTHbZFR+4pdzzHKyiGGw8COB7Y6E3msN9UKkbQITaN2VaqsH4EYPyvCupBAU3YPrrHMjwz9jqfSuDb2K9Ixa+I1q2GiSuqzQOC6xRqpsRnlyjblNJyLar7Lr9UZrS6OQQvBf5hfHGdF9LNGTgs2BGMWxL2AhOZ5pPpgAzcQKvlj0GaU+6Km3uvSW/RdVP03L0ZnhWBVKe4XlsElrRWZFKGluqlpQOPwWYB1rLIGG7BTOSIilLJKQc9xwWZKRRTGvTvhybLViooR6RLt/9sD71Zs=;VD9oJ5xwbFTG8iePS+T5xg=="
+secured: "kKlg/ZrYNEjNaWKJN0r57SkIGsGyKfDlu/VwByhDu24DcH+mbv8V+YuwxVavcjsGsF0/aUMy5c1aem2gurcyVYdCYEfH86S/4de6Z7LMcJI6EF0lnh5pJO6E+f6RtPFtRgj6EWVASywc1wPQee1Vk8FVQ760xO23ISelp/0Qi4+/70xUAFDE7SRu2j/oKzJ1ovLzqzJUGncsiEe3BWfG4KVqS5t8MlniSAQnIGd+40wXnOM4s/Iy2zUewfb5nVmougO8I1eibF5it2ePceBhLOSegg8lFcIIn5/FXprKsFsniwDbgcz2WQIc8Uw/embEetBK6593XvF8WsbbAnpZ0j9jO3doB7SosQRbG8sL2jU=;oIzQURDZTY+zdJSa/hWkDQ=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Computer-driven trading firms fret over risks AI poses to their profits"
-    excerpt: "Hedge funds and other computer-driven trading firms are growing increasingly concerned about the threat that artificial intelligence presents to their profits, after a fake image of an explosion near the Pentagon triggered a brief sell-off in US stocks."
-    publishedDateTime: 2023-06-15T16:18:00Z
-    webUrl: "https://www.ft.com/content/72e59c68-157b-4621-b063-441ab41430b5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
 
 secured: "xYD7sPMtbGasVHmNklhJMPwiACrEtNnTANNFlvWQixbU+nNA7DFBLyX8aOUnQ8vkgSXe0qU4BDc0YPp7O8vuHSwUmcOCtCuzM/MtUA8iCLbUZFePBhNerXSb6LCZ5sum00fL38fpZEDq40jav4OFCkNA+V6KdAw1sKreN/gTb/Rtzm5wofmLXLzZUlNavpQ5XsbDHbFjmYkk1yX3t2INCEWCqSfCHI5fbr9Lda7mb3seAst9s5KA5ko9r7sYToefAFtL/u67DreuhjyofXo/ZMzidolUHlZW/l/94ZPcqd5STmDiEwkmhOHU6VHhnzmuxefIEt6vClSRvPrrSrcTnOhPvY6KlYzv4uX0oSAjAa/AqZAcGNPqiuqwR7n4HyAQDSKD1OHDuQ2Tu7oNboiPqrxpdQjPTDNBV01WXAerdG8Z5xvg4eR/wnIpaBJN37ih5nUZ2E1nlr6db7vHwmFmWFqX/xQm/3LNleZdNWbe+nR/qyjQvLd5iYNAXwjzggrcVv3sDTK/ZcsX9+u7UZJmwQ==;h3G5xf8GX4gZqISmou01Cw=="
 ---

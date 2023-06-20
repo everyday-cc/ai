@@ -41,20 +41,6 @@ related:
         width: 673
         height: 564
         isCached: true
-  - title: "Secret Messages Can Hide in AI-Generated Media"
-    excerpt: "In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines"
-    publishedDateTime: 2023-06-15T16:40:00Z
-    webUrl: "https://www.scientificamerican.com/article/secret-messages-can-hide-in-ai-generated-media/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3F38FBFE-4AE7-4671-ADE8026E72FC5E1F.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Asia's Opportunity for Generative AI"
     excerpt: "Generative AI offers particularly strong potential as an economic catalyst across Asia, building on advanced levels of digital adoption. Already, India and China are global centers of tech talent. Japan,"
     publishedDateTime: 2023-06-16T19:36:00Z

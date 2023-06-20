@@ -73,6 +73,34 @@ related:
         width: 768
         height: 437
         isCached: true
+  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
+    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
+    publishedDateTime: 2023-06-20T10:22:00Z
+    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
+    excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
+    publishedDateTime: 2023-06-20T07:40:00Z
+    webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8f/c8f65c4d-fb94-5105-9eb2-8595dbaeed28/64915a5d1c55f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
     publishedDateTime: 2023-06-16T14:34:00Z
@@ -81,15 +109,6 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 4
-  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
-    excerpt: "targets global markets with its B2B Fintech SaaS software (Graphic: Webcash Group) Webcash Group launched 'WABOOKS', the Vietnamese version of 'AI KYUNGRI NARA', last April. AI KYUNGRI NARA is an accounting solution used by 60,000 business customers in the ..."
-    publishedDateTime: 2023-06-20T07:48:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
     quality: 4
   - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
     excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
@@ -101,6 +120,6 @@ related:
       domain: datacenterdynamics.com
     quality: 0
 
-secured: "Aq/fYnxP/HzvLvyTgCDQkMcKRq4IXfCzWMRSPEoRv8mQ6DWbQYWEA47opp5AYoNeJND/FV9I2s0mr/9FllTfQwbyVApr43JcZcz/Xxj9UJbuf4PkU/yHbOZWrIwY6ssDNnmIgC6uZN6eV8JZdZqYSbdkRJeGJISJURXXMXa2g5TC4dBB1Fp9JCxjd2YiQEJY+y7dp+ujs99QNH5GQ9lBkTqr3pSuV6r16CK1JmTjgm45v8g/hYMMwOvaVVTOeayRLUtrqgXIHtwCxMfQgtmJVQu0IljqZlR1uCdQ2EeAyIqHkfK5vujNnvyhRDVlRvtVOQb9gZ6MepQvKniVIqtKoWivtvG+q3I79dcgJAszpxU=;4skChW45ZHN6YV3vi9QZtQ=="
+secured: "s3BeZ8rm6GUsR8YRESgCC1jTEDzcx+S2cle1TFaWSEaSfI0MfrM1isLwJ08tv66caOFqftqLE4n0m0euJv6DCI4a8kZwyQfaDnvn6q1wFbN2d8FWG+I4k5jpX/PjbC9DEOcR01WMInZd7NxYCC0dCMFTG+fBhTiQw0F4oVEDDxa9CZYrUTxSfhqWsIkxIFbuyHaHFXA70wfzHaF9blZvS8cNCGJWnzJFTVqu3Xvp0fYeqDv8Shb+7MmqD+C/Cl5YZYd2XPpWQ7SsjPL9dqGphILtwGkKTVGq0rgiT5hOwDKdDlcx7tp+nFyCvZpTY5CZ744gTtue5qv4lahgQmRRLXrG6tv7QAqgPYR4ad+xf/8Tner751UB1Qmnjq3jTCHr4XDxX/Z3JUBOTbznjoxinxDlHcNky4QblBO2v+CwrpdaS0+V5CgY7cXfi3pQdxBDO5xtVJltBB+I/TMtJfCFnlxxf9E9n4BBH15n4X/osKPoCCZV3rrRRnfzzuPRO1NrwCAxVWyJqNLFdjD4Fz9Tkw==;87znEBm4rS4noAtgB2FsSQ=="
 ---
 

@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vimeo unveils AI tools to make video creation a breeze"
+    excerpt: "Vimeo announced today the launch of a suite of AI tools that it says will transform professional video production for businesses."
+    publishedDateTime: 2023-06-20T07:57:00Z
+    webUrl: "https://venturebeat.com/ai/vimeo-unveils-ai-tools-to-make-video-creation-a-breeze/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "YpE0eEKFc0YJoIkefTF9dBvK2WQPT7sqT1v3Vq+8sMbO30UgCQFDS7hzGLqLh2iEFtn40n/8n6ELuqmowVNw19e/VikTgE1HFaI6zkMnjS7AOOwqcS8eO3W6tpQhmZ65z3sxDbhCgMicMSmLUofeMdg3tM8z4816fFk5H4Qteo/cS5v4nRu9NRlUC0k376Qx7N4g2R3E3z5mk8K0T82rXg7acmV7hf7Soi4w47CMbXoaUSLuUqQrL4UaUsv7ttePcBMkt96gssK0i7K0PYk24owrPuOuts199NiT0h2gN34LnI12vuriLe8sRMPSA0CNkrBm5yB9fKzPmQzCc9pk4lYyTdsMIXuW1Am1vgdV9fFihJMP7EMJpKzYRISpbGXDIO61ZtOarqEZ0fTs3cgWgW0bpMKpET3zsLQU3JdGQpKYbMFPv6qpDmQdsymKUXgQbZcB9yGhcriTWKKm3+fflAMzAvKEOxb4hR6liQp5l5IXJUH6S+lkzhoqREqJ0MzV7x3bKigFAWJaK+XFGJh1ow==;KkLrAujsDJihWaHWsTSvQg=="
 ---

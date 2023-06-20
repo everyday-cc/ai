@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence (AI) Market 2023 Growth, Trend, Share, And Forecast Till 2029 X Herald"
-    excerpt: "In December 2021, AWS announced the release of AWS Cloud WAN ... and value chain analysis. The“World Artificial Intelligence (AI) Market Research Report” is an in-depth analysis of the global industry with a focus on the current situation of the ..."
-    publishedDateTime: 2023-06-15T17:53:00Z
-    webUrl: "https://menafn.com/1106443771/Artificial-Intelligence-AI-Market-2023-Growth-Trend-Share-And-Forecast-Till-2029-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
 
 secured: "9GwvWPPMKv8GmyTqVIEXtDWtMynvciJW8ch0keoSwyrvbzsr97SMRXVeBqh2zZyF5DJNxVv2lqV5W2MyylNEPgpPV8Sg2ngutvPyD5twc1sRffXXf1s66bw2hZIRiHcjw7G/EEsxbnkrh1DMOTFDXMzSrr0Us/ichdZXvKr7LC4suZ1bj1aLPYtAqeLDAgLLEg5X5WwmDAIXq0VRC2mv2TuHQbTxm0/jwPqTzSb48bOQsKiNFQLyBVfPbLujC7+g4jzwVF7+vYsqEzhJHRnD7cUIpg+pv+zzVdETgg1ylP5GKYZ2OiIjBcMai/iLpeS/sDMfOoP0A+l9WWHmalqdx9DgWoPB40Pb2Jp25kMyPS5oFaqnU13pEmEON6b8OlDXqdiJZI63Odd0bh0U9H2GUzRndKUe655pMocWt+nFLgefRX9HTp1+vuPubq4C4sP86xK+kG3HiHW2Ol6s9z3oE8H7J5+1eSUMJ1+ediAW0rBLmHTfIp2RqUwS2vM3K9zZ1c8X6uzX2B74sGeQqZGs2g==;a6DqjyC1yNGisCAoX0tYMg=="
 ---

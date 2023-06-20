@@ -55,22 +55,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
-    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
-    publishedDateTime: 2023-06-15T17:34:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/hcl-tech-to-partner-with-microsoft-to-spur-adoption-of-generative-ai-with-azure-openai-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 81
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Viettel, Microsoft Vietnam improve AI application capability"
     excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
     publishedDateTime: 2023-06-17T03:35:00Z
@@ -133,6 +117,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 29
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+in81M8o4xu7sZzZP76ESgM7y2SxTFkeF1sJ3DogLd15ad8xox1wAb//MLOZ46EZTIRGsC01Wmklz0UGOReet+HnisBfR0E9qFNJXr1xk+I/gGGX4vmSVYiLGYPQTUSLUuQjNLNc9jGlGWuF9NiBwkzEnIif99MlbBCl3Llk23km/udMLMX1+P0IA5pLYJZMtPiDSkM4MeYzpvdJzBzc2tCupMQN9u9xB6yvPb1igAHXoqbFXQM0LZaET4zTNDwfRZGjy/rhVqta/8hQ6N53age2Zumh3Hjhj56+waZF/eOt0KSLVhz3dmPZSAVyILAf47DEifmxEAekKz/FtUL712EffkC2rkPeW+dIhhnoMXjtYOQPiZ0mGtrXW80Tegt3ugmdpY94GsxbYfl+VmE3ZRZtYH0N968miHLGT+A6wk1ZXIczUEcajGKBftjueHaQSyI6BSze62nOfwCOzOL5+kjYE3d8QJABmYJ/ifA1LtOQ+PafhJJurtsGWOfF/IueWzxbo6+AueKDrCvE6VT6Mw==;z55aa8d5dNZEvcRZwvOs7g=="
 ---

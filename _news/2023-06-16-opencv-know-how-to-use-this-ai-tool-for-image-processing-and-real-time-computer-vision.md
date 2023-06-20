@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/opencv-know-how-to-use
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/opencv-know-how-to-use-this-ai-tool-for-image-processing-and-real-time-computer-vision-71686912741450.html"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Hindustan Times Tech
@@ -25,17 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "New Neural Processor Aids in Adding AI to Small, Low-Power Vision Processing Designs"
-    excerpt: "From video doorbells to modern vehicles, the types of applications that rely on cameras are growing. For many of these systems, having access to real-time,"
-    publishedDateTime: 2023-06-15T15:20:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/54249/new-neural-processor-aids-in-adding-ai-to-small-low-power-vision-processing-designs.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 12
 
 secured: "jvgAAco8uJxZ0/IptvpneG057bDLIZA8wfKJHkRwm27Q27KtaPRsFZHKL9NYbOeXT9wF9fJ+L7jdcnmDQ++/zWXTnnhtwkVV8LbIcakiEZ1TiInqy2upq7WXIbma+95k3Znh6IBSsfgO0MzeE2VrMUpxeC8WinsmKPNRNfl4iujwMeh50D27Jkgi3srq0qfju07ja+z+0SqnDPmcbQt5d4TQBpEFtSUfMVRW2gfChM1oi+c9OytB9+jAYguieng/4Ga9c2s3Y5FH+XuvNwXp7jvKGSEDrnrD/Xqn4QgoSDIq2h6I+2uV+RJBxmhx318fsg8PgpjKmFBwYdfo2Saa+1B0eGra++m/2SMvdKmeYyjnJoD1WM0F2YGfvGunes+yPxlh0mp7bcJ0nCvF9IoUnVMa0cRvJE4Dm9MdJNBtl3lrVlhekN00SNfiZLT3ba+ymnjhCsWqDV5t5xd4HtyalPQ+gXTf9rvfz/asPGyNAXTP4sEXxr66gArc04zi8CTebQMOchXYxxRw003/75zk/A==;RTkLVHabsLA8Df1WdeVRkQ=="
 ---

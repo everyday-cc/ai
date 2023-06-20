@@ -44,6 +44,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Should You Start a Generative AI Company?"
+    excerpt: "Many entrepreneurs are considering starting companies that leverage the latest generative AI technology, but they must ask themselves whether they have what it takes to compete on increasingly commoditized foundational models,"
+    publishedDateTime: 2023-06-19T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/should-you-start-a-generative-ai-company"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "GB5mAB2XCli8HkexPNTbvrvQd4aJzmFyacjIWAVcNKIMvEEyXRnnTW06q8+Rj7+SWBXLV3IVg/YUWGp3Rg3Hv+/EJPP8WlBWMks07qVgv6tLrkn9mz3XBN7Upjo7q+JMsHrcnS2f2bCNrgs7ku0xMciaaPgjyZm/pI1DHFZJsAU+BZ6OA7D4qRIzckMYSAYJsB5xRG/yCZUKGPHYUJR8dksDmFNSgJnIGYibsJ0c3DT8o6O5SwUrHI9meoEHLky/ZC2X+6UJLhlkh3q48iY2pZBPF+zeSKZUSScnNfwAbEe2aNOPtNu76bncSEIdPCa+PbhBkau4VEdRIuVzSmvgRCPIDzY4BXQBUh8g94UPqH8=;8rQDFGcrhXl8IUkAg69fvg=="
 ---

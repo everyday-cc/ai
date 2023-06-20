@@ -25,54 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "How can AI and machine learning improve the use of financial data"
-    excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
-    publishedDateTime: 2023-06-15T17:00:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+  - title: "Tech-Stock Boom Pits AI Against the Fed"
+    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
+    publishedDateTime: 2023-06-19T05:00:00Z
+    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 76
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://images.wsj.net/im-802215/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Determining AI’s Place in Healthcare Financial Management and Improving its Setbacks"
-    excerpt: "Highway to Health” host David Kemp, talks about expectations for the upcoming HFMA 2023 Annual Conference, and artificial intelligence’s (AI) usefulness in healthcare financial management."
-    publishedDateTime: 2023-06-15T23:37:00Z
-    webUrl: "https://marketscale.com/industries/health/determining-ais-place-in-healthcare-financial-management-and-improving-its-setbacks/"
+  - title: "The Best AI Apps to Try Now"
+    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 47
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/06/shutterstock_1044371023.jpg"
-        width: 1000
-        height: 563
+      - url: "https://images.wsj.net/im-799666/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Part One: Can Next Gen AI Upend Financial Services Over The Next Five Years?"
-    excerpt: "The financial services industry has proven surprisingly resilient to disruption. How will generative AI technology change financial services?"
-    publishedDateTime: 2023-06-15T18:04:00Z
-    webUrl: "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-one-can-next-gen-ai-upend--financial-services-over-the-next-five-years/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-  - title: "Massage Therapy And AI"
-    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
-    publishedDateTime: 2023-06-19T00:00:00Z
-    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
-    type: article
-    provider:
-      name: The Mint Hill Times
-      domain: minthilltimes.com
-    quality: 34
 
 secured: "ZhU2fhfoFBhtGkHNlfFHx5rUWgvS7n+vBJPDdK/pHnASgxzua5mv/fDN9eZdFzYCqjdOt48emdg4tHgEyAg3sD2QLLbZ0/W/A3r4ZS/yB+9ByVvQdJqQSi40SgWZmkERSKbgyIzkc35OGBrIR/cs8Uv02/z8b1ipsbuRU16WtpF/0J662QIFGwezdQViFPCmbkPqH9MQPEIDjMB9YPM8zGIGUwToUaRVqHw7V2grW59ycDfUXZyv1gb1/Sr7lnj8JO4OMhpxiCBdzFhBmFioMrQKgBMZSP3iVolrJIKAG/GmKTu/Ca6uPK+7YavUXQJ2Rr5MDOVzDfaLO6Ad14a1oKUyfGpXhKBvNi6x5UpHcPcsOzmjNjDRRNX8/cW6Rmzq4izmg6Eq3/AziIge2d80cln5gcXTiIjM/CJkJr1f+5DJiE8+iTrgEB0bFVmoUuJFSC0rZDdVVp6pVUNR5/nqCaHYtax3bY/pBH9Tl8JTP+As+M77jzUFi4pYlr3KsGg+XIVDZ3Bzz6/oNdo8sL9N/A==;cUaHUX+bwIa/r7Jx6StQzA=="
 ---

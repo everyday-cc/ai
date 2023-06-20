@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/health/determining-ais-place-in
 webUrl: "https://marketscale.com/industries/health/determining-ais-place-in-healthcare-financial-management-and-improving-its-setbacks/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,54 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How can AI and machine learning improve the use of financial data"
-    excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
-    publishedDateTime: 2023-06-15T17:00:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+  - title: "Application Management Services Market Leveraging Artificial Intelligence in 2026"
+    excerpt: "The rising trend towards digitalization, coupled with extensive adoption of smartphones, and the internet, is propelling the growth of the market. The global Application Management Services Market  is forecast to reach USD 55."
+    publishedDateTime: 2023-06-20T11:52:00Z
+    webUrl: "https://www.cmswire.com/the-wire/application-management-services-market-leveraging-artificial-intelligence-in-2026/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 76
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Part One: Can Next Gen AI Upend Financial Services Over The Next Five Years?"
-    excerpt: "The financial services industry has proven surprisingly resilient to disruption. How will generative AI technology change financial services?"
-    publishedDateTime: 2023-06-15T18:04:00Z
-    webUrl: "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-one-can-next-gen-ai-upend--financial-services-over-the-next-five-years/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-  - title: "Artificial Intelligence and the Future of Jobs"
-    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
-    publishedDateTime: 2023-06-16T11:33:00Z
-    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 39
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
-  - title: "Massage Therapy And AI"
-    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
-    publishedDateTime: 2023-06-19T00:00:00Z
-    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
-    type: article
-    provider:
-      name: The Mint Hill Times
-      domain: minthilltimes.com
-    quality: 34
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 14
 
 secured: "NiX5V7Wk59j8tJ24vv1za58Um1OE0gn4+kfIU+bgjCTh5TRR33ZfTaO1PXC/p0y62qekMJmQGscIMqn2cY4kl+Uo/h/s/fnI6sP/407Ti3vPHUu1VFcAetay02ih0NymUHVmfs3sjWfElYOUjN0FYbtFzr3AR/LmQVcr8XoE50pobdOX8Bc3n3QYTLvC8h9OMwWaxkOUGHZtzCy1s1TNNHhl5jljZoQL+ixNkdI9igYdukg1SlLyxozKQCK0CvCbIxxzr6gRQp/sxafYYKXx+3A1DokhW8SPwd2yi+n0Er4edk7l1FEy2lqAnAWg1bYtaHWtE5ThvNza7Q25HFJ0sD+PcMUaFLJ0av2/GzwhjC1lKWgkzVGLdGvpnp+Ta+0RQsyZUGXjGCcN4i0DGWJStV+H5ZkjMWJnG/ZGhgwt/XRqj1hnZVG4RsnIBUtI0egGSEqQDRQa4GRlSpfdV+e6pqlbsGjSx4PNS71XV3zLiIg++nBlJT8qYZDzSqTziJldZr6ggXXfQJDLuhAefiyLJw==;nDqFCgiIbLSb8F2J9hA19A=="
 ---

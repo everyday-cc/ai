@@ -66,6 +66,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
+    publishedDateTime: 2023-06-20T10:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-need-to-be-on-your-must-watch-list-1032398389"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "SKT Strengthens Alliances with AI Companies to Hasten AI Revolution"
     excerpt: "The company has been promoting AI transformation (AIX) through partnerships and collaboration with AI companies. At MWC Barcelona held in March 2023, SKT joined hands with seven AI companies, including SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat."
     publishedDateTime: 2023-06-20T06:52:00Z

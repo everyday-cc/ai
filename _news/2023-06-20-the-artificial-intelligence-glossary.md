@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "A Machine Learning Engineer’s Guide To The AI Act"
-    excerpt: "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law."
-    publishedDateTime: 2023-06-15T17:35:00Z
-    webUrl: "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/"
+  - title: "Forget about the AI apocalypse. The real dangers are already here"
+    excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
+    publishedDateTime: 2023-06-16T08:19:00Z
+    webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648b4afc51f15116deb12f50/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230322173826-person-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
-  - title: "The Best AI Apps to Try Now"
-    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
+  - title: "The Advancement Of Artificial Intelligence Is Inevitable. Here's How We Should Get Ready For It."
+    excerpt: "Additionally, there is an ever-increasing demand for AI applications in the healthcare, finance, and transportation industries. As these industries (and several more) become more reliant on automation and data analytics, the need for AI solutions will only ..."
+    publishedDateTime: 2023-06-16T03:50:00Z
+    webUrl: "https://www.entrepreneur.com/en-ae/growth-strategies/the-advancement-of-artificial-intelligence-is-inevitable/454155"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 56
     images:
-      - url: "https://images.wsj.net/im-799666/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
-    publishedDateTime: 2023-06-19T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
-        width: 1200
-        height: 799
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686821787-Shutterstock-2118106892.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "0yyUVNe67kF27wIoMO8dLyacEJ6KVxKSkT0YSP3uW6Gq0S5YROWsHM4hMdTRGwKUoYIvJOWeToSNWrG1Uuih9ASH07iU/1U4vp0xakqccK/5hfTMF+/DKj9tXcSRk/Crhhxv+EiPlxFUgP3q/Gibr6onG/q9+zJjxVv//TkG5SA1rljGL6YED8iXB2Xbq/h6gtO004pf4JskCzlNur++AN2aA+ECX0z92Yh48kE/FjF9xLru77ra2BKf9izxtt7Hxguwq9UMdY6FfX1kBJ+07/QQu4lkQ2JWyvmWAftQDttDfhUuy/9OJheLAq/L04k9wFdcZHF++mylI8yY4iWH5jVlhjCneooLWrUVMkR9QhU=;WMygp71fE1jXP1OlGvch4w=="

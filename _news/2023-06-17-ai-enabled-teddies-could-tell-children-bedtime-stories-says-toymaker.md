@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/acf0307c-ca6d-445d-889a-50cbe64d61e2?mi
 webUrl: "https://www.ft.com/content/acf0307c-ca6d-445d-889a-50cbe64d61e2?miRedirects=1"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "AI-powered teddy bears could read personalized bedtime stories to kids within 5 years, the boss of a major toy producer said"
+    excerpt: "A major toymaker said that smart toys in the future may know personal information about a child including their name, schools, and friends."
+    publishedDateTime: 2023-06-20T09:49:00Z
+    webUrl: "https://www.businessinsider.com/ai-teddy-bears-read-bedtime-stories-kids-2028-toymaker-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
   - title: "AI-enabled teddies could tell kids bedtime stories, says toymaker"
     excerpt: "Technology predicted to offer personal touch in place of parents once costs fall and privacy issues are dealt with"
     publishedDateTime: 2023-06-16T20:00:00Z

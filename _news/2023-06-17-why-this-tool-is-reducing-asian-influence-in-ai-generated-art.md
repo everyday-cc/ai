@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna89086"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Secret Messages Can Hide in AI-Generated Media"
-    excerpt: "In steganography, an ordinary message masks the presence of a secret communication. Humans can never do it perfectly, but a new study shows it’s possible for machines"
-    publishedDateTime: 2023-06-15T16:40:00Z
-    webUrl: "https://www.scientificamerican.com/article/secret-messages-can-hide-in-ai-generated-media/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3F38FBFE-4AE7-4671-ADE8026E72FC5E1F.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Here’s five Asian AI stock picks to rival Nvidia"
     excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
     publishedDateTime: 2023-06-19T05:57:00Z
