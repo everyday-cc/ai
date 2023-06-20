@@ -51,15 +51,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
-    excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-stock-price-self-driving-tech-f88945dc"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
 secured: "2hXhhbw+RBAXugYGn7IxrAGoRs2U9rTrRFG8q5Vy+pUKmFmyVOrhKkdk51oZ2Xq9iSAkshzL5L2k5ONoUfwL7xlGTsJs6VRBxiR1bvNYeJKR5IlFBgzEMvpgL/aLecVuZ8qngEkAy9K/jECfuSPgaVaYpJkDWok/9npi7xWZwAEknyOKIkNqD9uwLy/wliXuBTt0cJB7OLx4KYRQby3RgMNj3gsayxymbMcDhbp3JhtYwQT3SKnb5ygcTZYHmyqrJTzYCpwRL8/PH6prUKCcqQ1Ci6T2bB6CUw/VSn9bOtheMc4bEnkLKLhQwxdwUjhQBt536Zw0gBfqeIhPwVvgnUmD5JJwLySdlc5kZInODoQ=;Vi0Gh8efDWq4S9iJRG3SlQ=="
 ---

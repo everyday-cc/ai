@@ -35,17 +35,6 @@ related:
         width: 735
         height: 600
         isCached: true
-  - title: "Self-driving car couldn’t avoid running over and killing dog in street, reports say"
-    excerpt: "A Waymo self-driving car could not avoid running over a dog that darted into a San Francisco street, the company said. The accident involving an autonomous Jaguar I-Pace with a human behind the wheel took place at 10:56 a."
-    publishedDateTime: 2023-06-15T11:44:00Z
-    webUrl: "https://www.idahostatesman.com/news/nation-world/national/article276329166.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/nation-world/national/article276329166.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 18
   - title: "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients"
     excerpt: "Type 1 diabetes is one of the most prevalent auto-immune conditions in the UK and is characterised by an insufficiency of the hormone insulin, which is responsible for blood glucose regulation. Many factors affect a person’s blood glucose and therefore it can be a challenging and burdensome task to select the correct insulin dose for a given scenario."
     publishedDateTime: 2023-06-17T09:29:00Z

@@ -19,24 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia's Lead in Generative AI Market Unchallenged Despite AMD's New AI Chip Launch: Analysts"
-    excerpt: "Nvidia Corp (NASDAQ: NVDA) peers have struggled to gain traction in the generative AI chip war as the former grew in leaps and bounds."
-    publishedDateTime: 2023-06-15T18:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
+  - title: "Nvidia: The chip maker that became an AI superpower"
+    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ..."
+    publishedDateTime: 2023-06-19T13:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-  - title: "Nvidia Has More Room to Run with Boom in Generative AI"
-    excerpt: "The AI boom and the demand for AI chips have given a significant boost to chip giant Nvidia (NASDAQ: NVDA). The stock has soared by more than"
-    publishedDateTime: 2023-06-19T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-has-more-room-to-run-with-boom-in-generative-ai-1032396798"
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
+    excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
+    publishedDateTime: 2023-06-20T05:29:00Z
+    webUrl: "https://www.tweaktown.com/news/91976/expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks/index.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 33
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91976_01_expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "S0JCEg0jihLED9KvDNR7RtdJ+wsPeMkepaS/PRnzhrNu4hMgCYNgaEg5u8IOvo6gO9JQt5ul099dRM6jUiUC1Die+df2eqsti9ZJww0g8nAbzois8rEStwUgVTOFj1Rs44PShykiyg17hpSSp0JT33sExHtm7KeBf+X7lrm+1XV3R2vKTu8YyqocUTmd1SHvUbxCmCtYIEAy1JRh5mRk5/rclSI/qiOz+YzWfvki7WuKvpus+v8AWeRteJw5vEl/XrcV7qDRmNmkUgojGZrXspdXaCvZC3jCbIdpWhi4N/RA6JtFGs5NeI6pH2PH0NMx3e2i1mB7ZllPpyDWPVWqPXFNCUm1Q8wMQIydJ7ik+Yw=;k+oAm/VoxwM9MBTlgYr57g=="
 ---

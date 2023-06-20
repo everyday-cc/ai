@@ -48,15 +48,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 6
-  - title: "Dremio Integrates Generative AI, Enables Users to Directly Convert Natural Language to SQL Commands"
-    excerpt: "Mark Sear, director of data at Maersk, expressed his enthusiasm for these innovative additions to Dremio, stating, \"Maersk's data team is embracing the transformative power of generative AI to enhance our capabilities."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "GA7/UQTM6MeUfx3EqUzHoooKnYB1KdGRWR4vOXf702E+Dv1aLbuu1QuBow6WoGuWeW0uSsQWCpk7Lw2Z87h207xKfc9B8ON2zglOMe8foZZwdLOOQmmgOuqW8rH+JlbNxr5UMU6wwdAun37hx2cvZECEWTDNldkY1b4a/dUngmlMSqScefh4fqKMXCJ4omF8JYH4S8QvPMPgfx31bxnG5IGNK/Twiu7Mw31XgwZnvEN8dEbIrgwqeLe+mhWvz/WxFBQ/cUMNgA9iOTRTjNgq6aqc/J+fvw0eQ7BUmCL+mtlcuXN90vMVD/mNvA+gn/mYhZKyWuSm/yENTCt07K/rEnwoIGxNv2kONTAp1GejgkI=;jvOoBZoaTPEbZYRfQ3yThg=="
 ---

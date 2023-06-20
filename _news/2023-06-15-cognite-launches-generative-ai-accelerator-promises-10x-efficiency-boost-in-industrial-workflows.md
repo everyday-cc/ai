@@ -47,15 +47,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Dremio Integrates Generative AI, Enables Users to Directly Convert Natural Language to SQL Commands"
-    excerpt: "Mark Sear, director of data at Maersk, expressed his enthusiasm for these innovative additions to Dremio, stating, \"Maersk's data team is embracing the transformative power of generative AI to enhance our capabilities."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "2qxcTfaLeRgQXjSPyO+g5WeXMOP+3koIVeM6gz3tapJJyZ0htGZ/PV/KGan6olJFwD/zXChbQRib/HOpRx4WTIkYJBZ/04uj9co1A3Qc2lWtyJEgUbLAlDAFIDIzRi0RfZtz0uK0NDYXBRczAQiC2uvuhmEKnz7sWDYiYGa7kZKbwVy/CH4JvAa2h1IG19XOGlpRzNt9W5sRBGgIiNn7bnDvj5ZarQeYgs4iBom1L6QBp/FHFeWSaFGeKpjBIvqmniZcgQn0A6EJoHBNKTNEzu3AVC1Ay15pt4viWKsrV1Tn4vrIyjLYr/l1PEvKkerdxq6k/P+2YiN3QicZmt10vShwnNB7gOyv58JvBbyuyZM=;EVLEgIOHoaBCRbRiyvyMkg=="
 ---

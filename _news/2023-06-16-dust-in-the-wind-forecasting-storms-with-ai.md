@@ -63,15 +63,6 @@ related:
       name: CSR Wire
       domain: csrwire.com
     quality: 34
-  - title: "Immediate Industry Impacts from Gen AI in BWX"
-    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
-    publishedDateTime: 2023-06-15T12:21:00Z
-    webUrl: "https://slator.com/event/immediate-industry-impacts-from-gen-ai-in-bwx/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "uXvxusiWfCXiiDyNCYFT0ZX2jjYWgEOdmlVYZF35boH6g9/hsoulQoSGNOgfPnOaBilRFapzyZrXJkS2zaasdP1yxBXUwWRz70FCCkTgnLjyfZNiVcZ5qWXq3NZii47SgH7Hl2eNukjvNMPzr2L1nVwC6+5gj4OZSIKToHBSURVHxCbXF7/uE98MWZMeJ/RfrdjvMGyKNYLLk08TLZ26cv7P9n1VX5wm7u9ScFkV2VPnCDuhfmpk+hJYLAr5YWszqf6uPUmqhyGRh3lXD6sCEZBqE7pE+TURihTFvs4is6fhH6fOZg0Evc2muNr2BEk7ar5M4PbEPFpARDHA2joNXJ/d39yOnvItn1RhMwjQ0Xs=;ShiQGMOsXO/HA4FA8IYMyA=="
 ---

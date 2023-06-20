@@ -151,15 +151,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 29
-  - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
-    excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-    publishedDateTime: 2023-06-15T12:54:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "841+JkTWEDa0bKK2xdSbmjNDtMQDxlO0VR9vjKRLbAppfZHbgtL42Bnty2AZdK3nlqWBhwuaIVCr8MmyOlSCTH8rzsspSs+IGRVsFq1vJATdiNBk/HBvPhNJtM6h7fxKP+vmJWMg+SK9vjtbvcdDwfnD+Ifj7CmBGBHdlmxKIiyQkLH4REt6fcJGAOl16UbbeWV23kFIlgZkjueWexOdMHZX+W/O3kW3RcWzQbkCHeMNnsE/zoisiPBdW0VE6mrGlFt1WMqnOOVn8xhrO1/xr4ZR9CObUYn1/Qv+rUeAy2vQ2vrvrmTal/kHNTbV+I2hZMPPVMO0QyCg0+TUPsNaIFwrPGDHS6G6BogkGSciesI=;FaeuNcuvIMS8sg6kKJDXNw=="
 ---

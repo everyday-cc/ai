@@ -70,15 +70,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Generative AI is disrupting its own investment case"
-    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
-    publishedDateTime: 2023-06-15T12:32:00Z
-    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "fsJ0w/v5n0zsISU7Gr8ppNALlbZBArNBLiMQj8dNG/LUqOWoUOHxmX3WRKvoqM2tXLNzKQNCmsKH9B3ZQe/nd3Rkz6s1fVsz45vqPMRqpcJYSU0sd2UnrN1mID0PI8F+STbnYdSD/OvxCsu35J5UqWebKufKfxyvYwBwvsgVmMrI9WxnlotzhaxQLqcLazkhoh54LZu238rxW7gZb+D70yjz1EPwdyEiVnSpl2Ud/Hc67lJN+6wEo5MLO3evgzKiHPV6IA2eK96Xh1RjupMN4PXolpuELThqp6g6Wq4Jj4DkzQbchx17w5GP+kJ2Z53sLZlsKupUitEFKBp+QVa/45fu5i/oFQKsuGcQcoZV35Lb9kyaSF7UwSTBUXZ/Lkw/AcBx3PVTrDmJ/FjW92KFo16F5uV54ek75W8YNKmHYj7U/k2qrkvDSYvROYyWgaWOMFtt1l70yZ+320K7qfLdL0q3mjhy4cVy1jOBtMQgRt+bLjIO9iz4VIgJhteLBcANCIZFYLLuKlGhfalkuiJ2zQ==;ggJbiitTig3ESTzFsN1USA=="
 ---

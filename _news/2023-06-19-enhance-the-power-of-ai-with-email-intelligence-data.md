@@ -28,14 +28,14 @@ related:
   - title: "Congress ponders whether artificial intelligence should have the power of the patent"
     excerpt: "Lawmakers are beginning to consider ways in which artificial intelligence systems are involved in inventive processes like discovery of new drugs, and how the use of such technologies affects what is — and is not — patentable."
     publishedDateTime: 2023-06-18T21:45:00Z
-    webUrl: "https://madison.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_fdb1395a-886f-513f-bcff-874ed5580cca.html"
+    webUrl: "https://fredericksburg.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_088f82fa-a454-51b9-a480-a2c149a93fc5.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Fredericksburg.com
+      domain: fredericksburg.com
     quality: 30
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/db/fdb1395a-886f-513f-bcff-874ed5580cca/648a469dca917.preview.jpg?crop=1198%2C630%2C367%2C83&resize=1198%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/0/88/088f82fa-a454-51b9-a480-a2c149a93fc5/648a4695d6b86.preview.jpg?crop=1198%2C630%2C367%2C83&resize=1198%2C630&order=crop%2Cresize"
         width: 1198
         height: 630
         isCached: true

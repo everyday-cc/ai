@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Generative AI is disrupting its own investment case"
-    excerpt: "The very pace of transformative technology makes it tougher for start-ups — and for existing investment portfolios"
-    publishedDateTime: 2023-06-15T12:32:00Z
-    webUrl: "https://www.ft.com/content/00f517b8-41e9-4405-9320-e0b19ac65e6b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "pD2WsL/t+dQWHiCMgu0DiAJryyYFcj+SpjrIL358rm1DlQQZ095pDhJ0lfLvHbsXxlsy+CKZ6Qxc0oJ+9MpfLApziHV1d7R1o0U3iGGEVXPz3NKkA5xhBTrST3BY8mQ5gvPs/NcC/Qx61p1pPQUcrpPbsCxfRBYhexGCA2pCplrRMzRaDNGwu6tJP5IBPnLw2Hf97rcv1HXaf5I8/IFERcoB0mYBelluAHzSSJPDGA9812VugrBKosJxjeH9pXwK7JTA1ympoS2RUkP8DXQEbLJZqOzOhwS/uVyq097CVqRnSIdmHnhOQIffqIodzOR9FBSdglhSfYeDJvkPTj0i/Z3WbbU4gAYPN81bPEaGctabLfo8ZyMCt4oWV+FGXn3FAJiiVcASwAkF7sBLvACDCFo3VjaCJC+r8MKVJfXcLE3Z26GzNakr9fKAC4MjUVRmQy+tzZ6Y1rK5kg+s0Xrx+k9B6ohjdIyPcCJOlnLWUVIYbdTCiQLyknGsHssAfBh50IDWXzOy6xVxI29Q34icuw==;4zJkpHHxuMizoME7Y6gt6w=="
 ---

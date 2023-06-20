@@ -19,31 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "How AI is changing the 2024 election"
-    excerpt: "As the generative artificial intelligence (AI) industry booms, the 2024 election cycle is shaping up to be a watershed moment for the technology’s role in political campaigns. The"
-    publishedDateTime: 2023-06-19T21:50:00Z
-    webUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/"
-    ampWebUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
-    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
+  - title: "Amazon And The AI War: iRobot Acquisition In Focus"
+    excerpt: "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ..."
+    publishedDateTime: 2023-06-20T05:07:00Z
+    webUrl: "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401"
     type: article
     provider:
-      name: KTVE
-      domain: myarklamiss.com
-    quality: 57
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2023/06/twitterAI_061623_getty_AI.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp"
+        width: 1000
+        height: 664
         isCached: true
-  - title: "How is AI changing the course of the security marketplace?"
-    excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
-    publishedDateTime: 2023-06-15T13:01:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/ai-changing-security-marketplace-co-227-ga-co-1151-ga-co-1645-ga-co-1756-ga-co-2566-ga-co-2710-ga-co-4022-ga-co-7200-ga-co-9742-ga-co-1554987129-ga-co-1584600779-ga-co-1610540101-ga-co-1622793934-ga-co-1633418524-ga-co-1637761998-ga-off.1686832187.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 36
 
 secured: "WnFxrFqEncEOLDyLO3EprhBCzpreneVPwTehOcJFUdf4eJ0G/OuSt6n009TGYtUtTvaFv1S9LnwqwaQDzG3F5z5Ri7hxQUBZUAn/2K0A00kq8LRw5gMOzCKC7pCVjnWV0kPGyh0xk9PZpXM18TwsCaWzoBXG/n1Y9LtR/JHSJIdfo/1xPxHVlNQDNIkFTSpq142ba5Y2cA9836W/i3teXkFKTsbq/ILlsi76pPTwYG6hfoxgeaCSbr1Y9/EjoUWoBrAnZl4kzvRaWB02s/kEUcAuWB7+rY34UWks7S5nCM0RQyEWUlSvXm44ZKdyoegazIpxHM8Oz2bo8VUA+gTc8pHJdfPgNH06pTHLRoZHNRp0Ha39Vr7EDjnKxgxcqzMwQJ+4GVwsRD2bHfJ0cdgwbBp4+2HsMpaOFpkoFJtUPcS/SxE/Hlgg5uvVtJpLt2tbgy7fccV+AmJ6sACenF2Trrt2Fa2qHYLivjzSEQFz5L4Y23qWnAcH2+usFa/yVjGCxBpSVr3Bm9Cv4W3W0HHmyg==;+4GAxu/Ku8D+GJp17+eEWw=="
 ---

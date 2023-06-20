@@ -57,6 +57,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
+    publishedDateTime: 2023-06-20T05:00:00Z
+    webUrl: "https://www.burnabynow.com/highlights/opinion-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-7166944"
+    type: article
+    provider:
+      name: Burnaby Now
+      domain: burnabynow.com
+    quality: 47
+    images:
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/weldersinshop.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
     excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
     publishedDateTime: 2023-06-17T13:03:00Z

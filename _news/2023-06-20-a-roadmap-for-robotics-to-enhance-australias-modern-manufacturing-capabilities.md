@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Advanced Navigation Unveils Australia’s Largest Subsea Robotics Centre"
-    excerpt: "Advanced Navigation, the world’s most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is"
-    publishedDateTime: 2023-06-15T12:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Australia’s big test to back the AI good guys"
     excerpt: "There’s no escaping the rise of the AI era, and governments are trying to grease the wheels of invention, while stopping the baddies in their tracks."
     publishedDateTime: 2023-06-15T23:43:00Z
@@ -57,6 +48,50 @@ related:
       - url: "https://i.guim.co.uk/img/media/18a136b40c356e0bf86e24a1a10a56399acb1a91/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=91e28e1a73e22b977d4ca04763d46eb9"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australia: Regulating AI – Emerging Issues"
+    excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
+    publishedDateTime: 2023-06-16T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/42266/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=YCCxEg_3"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Australia politics live: parliament passes law setting up the Indigenous voice referendum"
+    excerpt: "Follow live"
+    publishedDateTime: 2023-06-19T00:19:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim?filterKeyEvents=false&page=with:block-648fa3828f08c1a38208aede"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 35
+    images:
+      - url: "https://i.guim.co.uk/img/media/50747729f646e76a1c061d046d65507970b29cda/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f3d6452dfd05bf4449a90586ac646d8e"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
+    excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
+    publishedDateTime: 2023-06-19T05:06:00Z
+    webUrl: "https://www.breakingnews.ie/entertainment/australias-senate-votes-to-hold-referendum-on-creating-indigenous-voice-1490977.html"
+    type: article
+    provider:
+      name: BreakingNews.ie
+      domain: breakingnews.ie
+    quality: 23
+    images:
+      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMTkwNjAwMTNcXFwvNmEzZDNjM2NiMmU2NGVlMWJlYTZjNTAzZGYyNGI4YWMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YzU5YmJkMTY2M2Y0ODc1YzY4Nzc1MjUxZWE1NTIzMTUxNDJlNWZmIn0=/australia-s-senate-votes-to-hold-referendum-on-creating-indigenous-voice.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "ei1Et3b5gJmJRdHlHJdvHBMqI0hQmumGFT7+1JXcmkLna31x9YJRSXvAHvbQNeXS2lRyP5QQBKv46rmmnY4wj0sUskHsVo18+H83DBrzwGpYBePCjNWc3Z1IAemvSffiEz6SMqvBZdn4jjBvzWxjTsHh3M8ExSWmztKiOMS9GlVaebe0gP+9bqQJzBtVOM+vVKlOhzSetYlgpavXas5VSp7B/4DK3LzesXi7N1OQQ+rPMVT4iv2k52ZcD2gh2FkOz96SsgQGjop75390AxhjpZOazT8PIjVhbPCfcxbYRh4dcMHAnav2dhdiTAWDF+QsoXsBwxDpvFcSyTxfxJIBg1SU90hJBqHCb9hG5FkuG5VdStL3xuojIjfzYwViaWeOxuxrkEt5XLOfu7imj/zaBR2+yofaDcg+OQrniQYVk2rl81W53i4crNgW06c69FVO4SEelVTfcwiO0ZCmcp1SRyS3ZEoMcvUMhXtrElrZpOsvB1bW4qyTKRzlaGanB1uuF6ZKYooMeNepFAIsqj8Bog==;UcxCjZFjw4FMU7VXvyWbow=="

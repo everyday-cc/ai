@@ -55,7 +55,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australian Senate passes Voice referendum bill amid falling public support"
+    excerpt: "Now that the bill has passed both houses of parliament, the government must set a referendum date, but the more people learn about the Voice, a proposed unelected institution at the heart of the existing political order,"
+    publishedDateTime: 2023-06-20T04:03:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/06/20/lelo-j20.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 22
+    images:
+      - url: "https://www.wsws.org/asset/eb0afd5d-9ead-4e0d-b0e1-5b29529554dc?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "KjUIPq4VS8VmRuvZ6wx9FVU8lX/sHETk9gcg5oQ8S3ASHaEPP3o1sCcEteS3jZElflfgcimxfiW8uOOZzhVKqdRl1FywL0eVO3TLTy8hVQgXBzcMPliuMB0D+VinV8LOeS0cFLn9/V96oS5qmSNnlGqOKGewIRsHku7C5Wq0/1yhpXFQLcT8tBIZxhUWbKZmhfmQt9F5GJ3yMojG9XP+HD00U2MQoKJtGAWt7IdSv18Ta5lcju2U/HdMqvbi6c7SXygIebwY8ZKA0W5jtJ8IL56cbNoS5A3vZAcyWEWintxkIOW060VLj848wQavZEzTRhms80FJwMbxjtZo3df0ki1MU96J9NH8/GvUA/q9B5I=;wRzCFh6LxjWxnCk5uLfJlQ=="
+secured: "M8L0u9q+4QSBwlx3l/bLJrynOzaotAnbws9WqJP+B4BOOvgh3Aj/dZ/fUxuhWI7wkA/kDCbQmNynBauGTsZh0DayMPMyubS3kAD4/gEjxsCioPlbYnwFsZn6ch0BTzU/ZLbcvPmAEfaaHZ06KBu0IX3LY8eD+04YkdDSK4nxIvMf3wLWZdphYW1DuuNwk6qMf53LVsKmDaaCQk/6wqopOLmmddC10tjuD4UJRXn1EYrp0xrxss+HmcTO2q6flu9ussjcCZX9+OtQV+TAf/kW62yD1zKerBMDc8qXEG3WxewQXoLF+cDIQw0hwfmCHcKV0adA0YIhBM9ui8bqJy7ngRj9+LXeS+HPXJ50zmJbHYuLYDv5G6D7gZwWpLIkB0hAKfYJ+NJXbydGyqrQmQAYIEheBx5iJZ0qIv3e8sNKkl4esARAmGc6p113PRHRW3O0dky9G+7jydUtSQkKnRZOopapIjysCuKk4OJlk6dIASLk/LYIefIgN3HEJ4xtacUveZYnlr1YZ94kNLYSp/ENNw==;Rm1vdXxPy291U2WR7HEkbA=="
 ---
 

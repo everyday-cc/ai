@@ -63,15 +63,6 @@ related:
         width: 1499
         height: 1239
         isCached: true
-  - title: "Immediate Industry Impacts from Gen AI in BWX"
-    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
-    publishedDateTime: 2023-06-15T12:21:00Z
-    webUrl: "https://slator.com/event/immediate-industry-impacts-from-gen-ai-in-bwx/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "BLc/Az5dXLue4F67D6bFREDYlPutgoAPzDv9yEjEww74+AOc42CtT9s4CUjS+GX3h0cwnQNp7g6PqEdclMGzNO8QwjpaL3OnW8gP7jlFrngCtzvMj6IyStQRYWX3WUXwKaIULdYjc9Uf9GGUQyADEhPl9umUL5e2R1h4V8KSmYXd31ARKeEHxyyxMPcZDjj/4eFNAInUFAQEV9M40R/zuLSJFvkmgAA0evbpyJuwna5MQ6ssjTqV2Ipr86eKbGEx4V/j3/UoxghWqD1Pb5mVPOvPxX6i5B78MsDNcJ3YyiXTGLyoo1AXujiMGscHx72h9Cu5eGT32ne2M9c+yVqHA+voVVN0iP6blwiN7tFUXmpGEgqldyn0ylx0erX+Z0Z4/HCdMV0gHyveVm4cv7KjxZ/5GOUnA/M98VfTboCiWGnTLEQxhjovndr0Gp8PQGgMPcrkFR4OTLxhY/1v8CCk8IFZvwDpBgn4v7n1677YA3Zzxy4Dp9kxhcbpzXpDJ5a/dH0fgCKlCFTS0VhmPanfYg==;nj9f0jUnbEF+a2Yz9z/ylw=="
 ---

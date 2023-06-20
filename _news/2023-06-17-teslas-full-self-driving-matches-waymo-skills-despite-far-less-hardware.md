@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-w
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
 type: article
 quality: 73
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
-  - title: "XPeng Stock Rises. The Tesla Rival Rolled Out Self-Driving Tech."
-    excerpt: "XPeng is the first company to roll out an advanced driver-assistance system in Beijing after it was approved for use on major ring roads and expressways in the capital city."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://www.barrons.com/articles/xpeng-stock-price-self-driving-tech-f88945dc"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
     quality: 19
 
 secured: "s91XiPZ/W6h+++b2wc3Jgfnw6181LkugDhI95ZKI7xX0JRYitOWWaitsAjtP/orP97jLKfO26fij+d1qV6AbpmrweDoQLbfXua1JG8qDI4307did7otK5VjVME4DLzQQ7xso/DAZunYmMX4kVbZ5P4jgOccMLJ2tFf+rcLhwam5UOTlzYVY9yKeduIfB7+vpVD2xj9qmQERO8PKUKwnUJgWqwKosQsuKWAzzXcCUESiOHZi6urohC3yVOxjST8Dahg2OT1Z9fxv/tMocMWVxvCDo5IgQFpQvuNajVaeMr23/TwTux6L2N8i/ckvcBnSlwSi9iboufNBjlsSVa70xTxJlndPXFAIrkUO/vMzK+HcPb7fH5KTgu0L/+C5VcdJV2B79GVFUmuBOnrdbkGDkDyJhaZXrf+DV+Z7Od1UlM7iUIvCX16mRke7ugdwqKkkfRL/5LpE4ZZryOcB9SqFIQwMxQRxLtnF1rTQ6UILLt5UUKe+rMzj2i62x0E11b12/MqAsy0s55/jGq8w3CTqziA==;MKWI0MY0617LWLXfPo9s+A=="

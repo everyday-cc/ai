@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-towar
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
 type: article
 quality: 101
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -155,15 +155,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 29
-  - title: "HCLTech and Microsoft Expand Collaboration to Boost Innovation and Adoption of Generative AI with Microsoft's Azure OpenAI Service"
-    excerpt: "Leveraging HCLTech's deep domain expertise across various industries and Microsoft's Azure OpenAI Service, clients will benefit from innovative solutions that enhance employee productivity, streamline IT operations,"
-    publishedDateTime: 2023-06-15T12:54:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/15/9833322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "om8/2e6FE7MwuLMdHho3WlnUQld64aIWk8gUhS8T4ia0ZMTuPLyvxUe6lfbDqlCDGLqYrUNvZCITJI2CFfNR7wnD31NAn9Ny0Di1TWijiPllxn7R6wp4AHd4uIcZEeUOyMS7YDwAX4bbWwop6y2NIlkDBW5XQYL4i4Gl+spGqP4VTohMOOuTVKGL4cEZCi+WeoeKtkYA3EfyxL3DqJWu3wyNNrhx5E+DEahIFZplWqc6tJLbatvHWYQsCGTqHuR5sy0ipkW7eLkUNrmkMP9X+kmCUzCxDjIT+yhIeuam/aoz7IzHZ5u/eyW2t/WSbarVR+vQSBTdsiqutn5xKJ5wC3t3q/O9YpH0hiejmk/DyT+beswlDSPpiF2MBEbECkkYZOI+fVGHYhLW1pgz8kmDybxDucLkvHu3t+pOO7pBlcaB5+VIaAw0LWTD88O7Mw07HmvCr1PWb9YOsyMyEJfpO0cDhnbyxpTMONm5HoM7wNeYO0P6cQ1QUkIDolLEcRgDZErDLHMF0bLT+ruBqQDU2Q==;ZuJjr1/RvLErqNqPlaD/hQ=="
 ---

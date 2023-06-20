@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/dremio-bets-on-generat
 webUrl: "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 6
-  - title: "Dremio Integrates Generative AI, Enables Users to Directly Convert Natural Language to SQL Commands"
-    excerpt: "Mark Sear, director of data at Maersk, expressed his enthusiasm for these innovative additions to Dremio, stating, \"Maersk's data team is embracing the transformative power of generative AI to enhance our capabilities."
-    publishedDateTime: 2023-06-15T12:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833462.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "6hXb1OFUWJIcmw3EjhQs7aN/C2iocVEmgHiMbmECVyabl5LYqTeNSxYC7rxYZxdnzaqJFJ606tpURKRblHBXOe7AOuABkaIH6YHvu/3pCAIp3pT3IKquehjEyAgGKZHpP4HxjFqG911PFF0tkEbsIvUEbNIduFakOYG6UMbCMQicrvjeHppQiunTJP0MQmLbn+N3vwibALyJmQBHMq2S54bdaC4p+M27dTMN4s13Pu7OY72u9swGhy9H+OeWz79e8pEqfWv2oqRGMOJMn1fLdDHw6vXgthWYXTnG8moTTIJ/dm3CfAYMLsFAmFUu/XeMW/eUeRal9MA+mSApvGpzaYfCiPAnRh2Ttxuw6L+8RPo=;p6IaLY31czDMTghF2sxRRg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Artificial-intelligence-can-support-arc
 webUrl: "https://www.econotimes.com/Artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-1658014"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools."
+    publishedDateTime: 2023-06-20T03:47:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 72
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/GANNETT-AI-0_1687232356033_1687232701698.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Artificial intelligence can support architects but lacks empathy and ethics"
     excerpt: "The use of artificial intelligence in architecture practice and education is limited by its datasets and lack of empathy."
     publishedDateTime: 2023-06-18T11:17:00Z

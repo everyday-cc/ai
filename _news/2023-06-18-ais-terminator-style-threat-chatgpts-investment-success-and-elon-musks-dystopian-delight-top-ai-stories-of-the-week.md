@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Terminator-Style Threat-To-Humanity Warning Labeled As Dramatic Publicity Stunt For Funding"
-    excerpt: "Despite the concerns raised, AI technology has also shown significant potential for positive impact. To stay updated with top startup news & investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter AI algorithms have ..."
-    publishedDateTime: 2023-06-16T11:06:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32890037/ai-terminator-style-threat-to-humanity-warning-labeled-as-dramatic-publicity-stunt-for-funding"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32890037"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32890037"
+  - title: "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5"
+    excerpt: "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ..."
+    publishedDateTime: 2023-06-20T05:25:00Z
+    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/London,,Uk,-,October,2018:,Madame,Tussauds,Waxwork,Museum,,Arnold.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200"
+        width: 649
+        height: 522
         isCached: true
 
 secured: "opiPC0i/mfteWu+PhDbE9TPXsl1rhk0c4X1N2196jPiQ95F+paM/bY2qoIwJf3356fJ6Pi5kzl2QPOgfQKHKjukoKrll5tcKm9DnUyFRkaPyGmWRoiBuBt0XQZLQ9EJvDzk//trsdwy1URhJmPkX0Tsn4wPcDRnpk7ufdsy6ELB5fD66PoESfrmAYVYDVDRPFezT6vYXkJuMEjvYQn/eFR5pSHqzVJ8DvnG7fKKxdfYnCDiCwdmZDTDZpv3UVxkWe8jZK+0h+/Uivst92MB3aFEagJzXfYwSECdaeHX/OJzi/NdQF1OlXzEmk709ENDOlb2Qq0m7ihghtTupZ3t2pn4Br2cl2qoDnVOHUJNL850=;lZ8vqlDoOV87tzQV2d7IQA=="
