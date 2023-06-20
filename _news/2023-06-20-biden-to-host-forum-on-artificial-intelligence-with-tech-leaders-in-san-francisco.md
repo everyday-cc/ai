@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host
 cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to host a forum about artificial intelligence with technology leaders in San Francisco"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco on Tuesday to debate artificial intelligence."
+    publishedDateTime: 2023-06-20T14:01:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 46
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/38aecc01-3c7f-4331-9ed3-ca55716187ef/thumbnail/1200x630/1d0e3238c21f157c64541c99aa418230/biden-bay-area-visit.jpg?v=23da2bed74e9783333cf303fba619e89"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
     excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
     publishedDateTime: 2023-06-20T13:55:00Z

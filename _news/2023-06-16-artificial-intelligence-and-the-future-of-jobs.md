@@ -25,34 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Tech-Stock Boom Pits AI Against the Fed"
-    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
-    publishedDateTime: 2023-06-19T05:00:00Z
-    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
+  - title: "AI And Large Language Models: The Future Of Healthcare Data Interoperability"
+    excerpt: "AI technologies—and, more specifically, LLMs—have a unique opportunity to smooth the edges of legacy system conversion and the adoption of a standard format."
+    publishedDateTime: 2023-06-20T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-802215/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Best AI Apps to Try Now"
-    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "The Impact Of Large Languages Models On Healthcare"
+    excerpt: "Eli Ben-Joseph | Cofounder & CEO | Regard | LinkedIn."
+    publishedDateTime: 2023-06-20T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/the-impact-of-large-languages-models-on-healthcare/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799666/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "ZhU2fhfoFBhtGkHNlfFHx5rUWgvS7n+vBJPDdK/pHnASgxzua5mv/fDN9eZdFzYCqjdOt48emdg4tHgEyAg3sD2QLLbZ0/W/A3r4ZS/yB+9ByVvQdJqQSi40SgWZmkERSKbgyIzkc35OGBrIR/cs8Uv02/z8b1ipsbuRU16WtpF/0J662QIFGwezdQViFPCmbkPqH9MQPEIDjMB9YPM8zGIGUwToUaRVqHw7V2grW59ycDfUXZyv1gb1/Sr7lnj8JO4OMhpxiCBdzFhBmFioMrQKgBMZSP3iVolrJIKAG/GmKTu/Ca6uPK+7YavUXQJ2Rr5MDOVzDfaLO6Ad14a1oKUyfGpXhKBvNi6x5UpHcPcsOzmjNjDRRNX8/cW6Rmzq4izmg6Eq3/AziIge2d80cln5gcXTiIjM/CJkJr1f+5DJiE8+iTrgEB0bFVmoUuJFSC0rZDdVVp6pVUNR5/nqCaHYtax3bY/pBH9Tl8JTP+As+M77jzUFi4pYlr3KsGg+XIVDZ3Bzz6/oNdo8sL9N/A==;cUaHUX+bwIa/r7Jx6StQzA=="
 ---

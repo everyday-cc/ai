@@ -49,6 +49,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
+    excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
+    publishedDateTime: 2023-06-20T16:50:00Z
+    webUrl: "https://sciencebusiness.net/news/AI/ecosystem-artificial-intelligence-act-restrictions-mean-make-or-break-europes-emotion-ai-start"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 33
+    images:
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
+        isCached: true
   - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
     excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
     publishedDateTime: 2023-06-20T15:36:00Z

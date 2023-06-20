@@ -65,6 +65,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
+    publishedDateTime: 2023-06-20T16:18:00Z
+    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Microsoft Azure Expert MSP success for tech consultancy"
     excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
     publishedDateTime: 2023-06-19T11:20:00Z

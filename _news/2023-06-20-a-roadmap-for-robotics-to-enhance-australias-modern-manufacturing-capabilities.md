@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australia’s big test to back the AI good guys"
-    excerpt: "There’s no escaping the rise of the AI era, and governments are trying to grease the wheels of invention, while stopping the baddies in their tracks."
-    publishedDateTime: 2023-06-15T23:43:00Z
-    webUrl: "https://www.afr.com/technology/government-s-big-test-to-back-the-ai-good-guys-20230615-p5dgq1"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 41
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/319b93e95b685c8c48acb514d9a01c104f96960b"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "New Australia v old Australia: a yes vote on the voice is a vote for the future"
     excerpt: "The referendum’s success will be a monumental achievement but to arrive there we must explain to the country why the voice is needed"
     publishedDateTime: 2023-06-18T14:00:00Z
@@ -48,20 +34,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/18a136b40c356e0bf86e24a1a10a56399acb1a91/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=91e28e1a73e22b977d4ca04763d46eb9"
         width: 620
         height: 372
-        isCached: true
-  - title: "Australia: Regulating AI – Emerging Issues"
-    excerpt: "Amid global calls for tailored regulation of artificial intelligence tools, the Australian Federal Government has released a discussion paper on the safe and responsible use of AI.&nbsp"
-    publishedDateTime: 2023-06-16T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/australia-regulating-ai-emerging-issues"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/42266/AI_Artificial_Intelligence_Robot_SMALL_0.jpg?itok=YCCxEg_3"
-        width: 500
-        height: 333
         isCached: true
   - title: "Australia politics live: parliament passes law setting up the Indigenous voice referendum"
     excerpt: "Follow live"
@@ -79,6 +51,38 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Opposition claims Anthony Albanese is treating Australians 'as mugs' ahead of Voice to Parliament referendum bill passing"
+    excerpt: "Anthony Albanese is being urged to consider a bipartisan approach to Indigenous recognition, ahead of the Voice to Parliament reaching a crucial milestone."
+    publishedDateTime: 2023-06-18T23:48:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 34
+    images:
+      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
+    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
+    publishedDateTime: 2023-06-20T10:41:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 33
+    images:
+      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
     excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
     publishedDateTime: 2023-06-19T05:06:00Z
@@ -92,6 +96,34 @@ related:
       - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMTkwNjAwMTNcXFwvNmEzZDNjM2NiMmU2NGVlMWJlYTZjNTAzZGYyNGI4YWMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YzU5YmJkMTY2M2Y0ODc1YzY4Nzc1MjUxZWE1NTIzMTUxNDJlNWZmIn0=/australia-s-senate-votes-to-hold-referendum-on-creating-indigenous-voice.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Australian Senate passes Voice referendum bill amid falling public support"
+    excerpt: "Now that the bill has passed both houses of parliament, the government must set a referendum date, but the more people learn about the Voice, a proposed unelected institution at the heart of the existing political order,"
+    publishedDateTime: 2023-06-20T04:03:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/06/20/lelo-j20.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 22
+    images:
+      - url: "https://www.wsws.org/asset/eb0afd5d-9ead-4e0d-b0e1-5b29529554dc?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Paper shows ideas from Indigenous Australians, not policies in Aboriginal 'voice' referendum"
+    excerpt: "A screenshot appearing to show a list of policies has been shared hundreds of times in Australian social media posts that falsely claim it shows measures that will come into force if the country votes to grant Indigenous people a voice in parliament."
+    publishedDateTime: 2023-06-20T01:15:00Z
+    webUrl: "https://factcheck.afp.com/doc.afp.com.33JW3YC"
+    type: article
+    provider:
+      name: factcheck.afp
+      domain: afp.com
+    quality: 13
+    images:
+      - url: "https://factcheck.afp.com/sites/default/files/styles/twitter_card/public/medias/factchecking/g2/2023-06/7ba301af590ac2fe6f80ad83c834d62f.jpeg?itok=jvB4Dsgi"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ei1Et3b5gJmJRdHlHJdvHBMqI0hQmumGFT7+1JXcmkLna31x9YJRSXvAHvbQNeXS2lRyP5QQBKv46rmmnY4wj0sUskHsVo18+H83DBrzwGpYBePCjNWc3Z1IAemvSffiEz6SMqvBZdn4jjBvzWxjTsHh3M8ExSWmztKiOMS9GlVaebe0gP+9bqQJzBtVOM+vVKlOhzSetYlgpavXas5VSp7B/4DK3LzesXi7N1OQQ+rPMVT4iv2k52ZcD2gh2FkOz96SsgQGjop75390AxhjpZOazT8PIjVhbPCfcxbYRh4dcMHAnav2dhdiTAWDF+QsoXsBwxDpvFcSyTxfxJIBg1SU90hJBqHCb9hG5FkuG5VdStL3xuojIjfzYwViaWeOxuxrkEt5XLOfu7imj/zaBR2+yofaDcg+OQrniQYVk2rl81W53i4crNgW06c69FVO4SEelVTfcwiO0ZCmcp1SRyS3ZEoMcvUMhXtrElrZpOsvB1bW4qyTKRzlaGanB1uuF6ZKYooMeNepFAIsqj8Bog==;UcxCjZFjw4FMU7VXvyWbow=="

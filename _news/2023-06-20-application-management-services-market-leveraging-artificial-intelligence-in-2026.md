@@ -19,19 +19,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Determining AI’s Place in Healthcare Financial Management and Improving its Setbacks"
-    excerpt: "Highway to Health” host David Kemp, talks about expectations for the upcoming HFMA 2023 Annual Conference, and artificial intelligence’s (AI) usefulness in healthcare financial management."
-    publishedDateTime: 2023-06-15T23:37:00Z
-    webUrl: "https://marketscale.com/industries/health/determining-ais-place-in-healthcare-financial-management-and-improving-its-setbacks/"
+  - title: "The Bigger Picture | Artificial Intelligence Applications in the Power and Utilities Sector"
+    excerpt: "Whether applied in operations, at the enterprise level or in the back-office, power and utilities companies using AI applications are beginning to realize positive results. With a foundational AI stra."
+    publishedDateTime: 2023-06-20T14:42:00Z
+    webUrl: "https://electricenergyonline.com/energy/magazine/1391/article/The-Bigger-Picture-Artificial-Intelligence-Applications-in-the-Power-and-Utilities-Sector.htm"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 47
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 27
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2023/06/shutterstock_1044371023.jpg"
-        width: 1000
-        height: 563
+      - url: "https://electricenergyonline.com/EE/MagCovers/158b.jpg"
+        width: 594
+        height: 774
         isCached: true
 
 secured: "7lnmJMMJV7jMYUsWzduJWJjcOhSd2Uh7bXrn+VGW37Eim+XSNVhfv5qgTu6JBtVEuNeIu+XLj6kYUpI7V5EUllzWmEIx907VT11I3wu+SHThULLZ+BxtD8nOWVUae0PUxzhOPoqzkH6wE2t4655haOIhKpk+3FlVJJropC71jEVSltl95iJRnEEkGBvT3sd5qUoAAMe6b/DCWRViR0TsR9ziM1861qjoiq5WuQkc1a5M499ZcNIxKXMGZg352msVI0EYLbFW4E57FnBwC80N295yf4Wt3JaPUiBk1dwYjItB7racN1C+Se2+P9Zg7UhRWtIoLxgeXjhBjdTqhhoKuuJPe1U9i7bhrzXtV/PNxoc=;G6HZXqqd/2b+ZFKI8+VmGg=="

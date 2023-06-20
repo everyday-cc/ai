@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
+    publishedDateTime: 2023-06-20T16:18:00Z
+    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Viettel, Microsoft Vietnam improve AI application capability"
     excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
     publishedDateTime: 2023-06-17T03:35:00Z
@@ -132,6 +146,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "EyoajKdI/gEIVelPW8NTRSBqDI8VCIklbBtPxwGC4304VmTts2K7Z30kM/iUu9I5icXxU3ZzHVfqJlsCFq2U2+4kBXoXeSy+nLeo7nW+SZwrFKyBeSEx+i0aLAP+oRzgIlJfvnhaBWeoaz7xuUL1r/7iM3EYKlpalNyIEAhzjpP52lLwr+KuaAi42dLkP6p9JMV19V/N4EYTeN76KgwioeFQP3Yu1YiaxZBa/JKRs5IQzpab+kr8/nhC+IlM29f+QVHcG/MxwFArkftaxcs3bBc6Kt+jpI0W2/YJLl6bKNn3XIBfhh5aQniNBwF6vG/A9HixbMvgX9uG1QhJUV9dZtAW6hCnZIBxevaDuSP5PLU=;IO1s7rmhvEwQZXCcC4rwVA=="
+secured: "qjXpm31m2g9Uvt3kSUPnzwg0Gug9l35Lx2/uD+eWBpZYMD3oOTTc0nczB/7W5gmdjZ41E3W5cjpgprTFyGUxXiTil75c6ySSaoELUhdIlT1cHWlH2Z0sd2QLFBRxdZcjBW1dctSjM/ZGpe/7XzmUpq82D5i63R39h3JK1OyJVznAA6Zp9Ax9x8dVQMCaWdsrxTwr6/782NBnoKR2utgO+pCULrUTA2MC9Q5uu+mmY8WfXDuxhVsB6GFD3X/ueCPyEd9iZrr27v5mzIY1X+y7JTOFsQwyzfn3YuqbXfsUWvRopN/5ujAaLcv4GG4YlYoMAzQETPOkjUT/69AaFRMXo1cafeYoDPvFmlL/WYrbCdMXeLyCSuuE3BAYxkZ81JKoptntTUBDHKDRjKZu7PG2MYt4eki/bKiaYF1jciQC4OahbkB3RqmDdtJ92Kg20CLw0kwwHSn7MHpn0uEu3fEJuN9ILlZWpsrsbrrYMoakQObiAjsdXChgezvRs2CudcqP6tccNLln7wCID1codJwzkQ==;p56+2ZQfibMt6o5CwPcgBA=="
 ---
 

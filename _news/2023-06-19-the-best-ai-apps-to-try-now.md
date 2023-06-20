@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "2 Best Chip Stocks to Play the AI Boom, Says Analyst"
+    excerpt: "Bernstein analyst Stacy Rasgon says Nvidia and Broadcom are the ideal chip stocks to benefit from the rising demand for artificial-intelligence semiconductors."
+    publishedDateTime: 2023-06-20T17:26:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-803090/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tech-Stock Boom Pits AI Against the Fed"
     excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
     publishedDateTime: 2023-06-19T05:00:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://images.wsj.net/im-802215/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Artificial Intelligence and the Future of Jobs"
-    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
-    publishedDateTime: 2023-06-16T11:33:00Z
-    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 39
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
-        width: 2560
-        height: 1438
         isCached: true
 
 secured: "skek9dcehbEr6+HQJOolCYx2lubCX7izTX0O9N5uxzhy1scFJWrZt+d61aYK5az6KqbEiPgCdWKhdSaXwK7UHQrOAzDeLbcovVeDgUEpfGIJoktYx+zGnNj/FEbnrkKu2Z+xv8kGnasI1f9ChCCI7nrvlN+e9Z3Y9+P6Xj7hlzfV6d2Z/JPFvSh3/9SDlzujROMAvHTi/T/quoNGtryQUgoPBAftaqpTGGB/aTDmzuC8fmqXxJl4jA7uRaB9YsAdiaYltobOun/gJ/w9Be82/+D+vrg1mJeC2o4/rSWaJuU5WV/fja38bnapOpqpMumcFAwo/coPbNEnhX6JRrYT9kFTcrm8bhJLVqIKuKG/Ct7KwBNlUc/e0ZvB7gDX9xT5FUSSka9z38l2POEC8PrFUHjeqtr2wiTR4jukFw3QRAchhNAva6QluIZeFmiqO5i2YLf49ubg2TMVYxeSjaz0BTxAJQN2d3a+IB/07PI3QemPkNmlWd5VIph/pKH7BScywtpzkwfdF+lI1xqJwj8DNw==;qZ+ftjHBNpde4+U/IHzEOQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
+    excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
+    publishedDateTime: 2023-06-20T16:50:00Z
+    webUrl: "https://sciencebusiness.net/news/AI/ecosystem-artificial-intelligence-act-restrictions-mean-make-or-break-europes-emotion-ai-start"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 33
+    images:
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
         isCached: true
   - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
     excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"

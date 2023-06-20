@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AT&T seeks staff benefits in generative AI"
+    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
+    publishedDateTime: 2023-06-20T15:58:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
+        width: 650
+        height: 401
         isCached: true
   - title: "Roleverse empowers users to make their own games with generative AI"
     excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."

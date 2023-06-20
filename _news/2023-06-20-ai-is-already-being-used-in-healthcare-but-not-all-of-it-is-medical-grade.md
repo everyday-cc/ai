@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/ai-is-already-being-used-in-healthcare
 webUrl: "https://theconversation.com/ai-is-already-being-used-in-healthcare-but-not-all-of-it-is-medical-grade-207912"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1356
     height: 668
     isCached: true
+
+related:
+  - title: "AI is already being used in health care, but not all of it is 'medical grade'"
+    excerpt: "In our recent article in the Medical Journal of Australia, we argue using AI effectively in health care will require retraining of the workforce, retooling health services, and transforming workflows. Critically, we also need to collect evidence AI tools are \"medical grade\" before we use them on patients."
+    publishedDateTime: 2023-06-20T16:00:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-us-1.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "YLMI/pc20XP6ABF5o7oo9yGe9t4QhAvKFtZe44Kqj/+m+lCpl7oyRejSKCUFj5gj+qvH3Yiepy8LkZ2V/tUbbJtVIv5HgBPaiwGUKbkEi8lIGpXA+2H+tXbuz+TPMSk8LuEgiKSFZ64IPYaMwXaYiNvfTdv5mxG/G1Qy0nwKcM8p7p6vgG+trXDW8W0lRGaISGF5OUnVbk6b4rsZkxvirZhsG81gNju94bxy206+kDqYJ1iBAot+f16zjR7u44fU3JM44L9ZZXVJMXuHOPsVY0PMirJTKCX3gz1UVkm7l6+FFdcehUBUo7ZHXs1wDR1st5zn3FORAAbO9v3w9eU6U6mqfJct4po9aYrwiafsZZJz1foscfbaHp2sfo/P4x1frbRVGPK8ORFMt7KjnCe8EtMLXOOCv3bLiqBjYjT9+XIm3ZZ5i63GIhtCZQWZ2TSLhlFsEW2/j2vAnQ1h4uJ9uJDasKDjyV1mD2USfp+dfzLenSQpGB4NWLAykkqww7tutyiBVReBh9Zx4nYvJoABtA==;styY44Dvv5epbulizwhkFw=="
 ---

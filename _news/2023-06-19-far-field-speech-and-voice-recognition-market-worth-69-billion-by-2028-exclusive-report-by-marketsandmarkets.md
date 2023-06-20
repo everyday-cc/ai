@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Chip Market: Growing Demand For Smart Homes And High Investments In AI Startups Fuels The Growth"
-    excerpt: "AI Chip Market by Chip Type PORTLAND, OR, UNITED STATES, June 19, 2023/einpresswire.com / -- Artificial Intelligence Chip Market Overview"
-    publishedDateTime: 2023-06-19T05:12:00Z
-    webUrl: "https://menafn.com/1106453645/Artificial-Intelligence-Chip-Market-Growing-Demand-For-Smart-Homes-And-High-Investments-In-AI-Startups-Fuels-The-Growth"
+  - title: "Artificial Intelligence (AI) in Automotive Market Drives Innovation, Projected to Reach US$ 744.39 Billion by 2033 with an Impressive 55% CAGR"
+    excerpt: "The Artificial Intelligence (AI) in the automotive market is anticipated to record a robust CAGR of 55% between 2023 and 2033. The market is anticipated to cross a market share of US$ 9.3 billion by 2033,"
+    publishedDateTime: 2023-06-19T16:25:00Z
+    webUrl: "https://www.fmiblog.com/2023/06/19/artificial-intelligence-ai-in-automotive-market-drives-innovation-projected-to-reach-us-744-39-billion-by-2033-with-an-impressive-55-cagr/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/18/EP_d9769image_story.png"
-        width: 898
-        height: 470
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "1ait1WmJiliMsajn+8Y3DQAa6BPIv7lwte4A/sABm8yc4PO5IMdqiZIOtJ2bStqGF8u7KkcLfa9QW/UQjG6MqekYJ25kBMWM5OM7IU6JZvC5QHfc7b6UMiNCopbtgRDM5xT9JRZW3muPKnaC8ZogUeWLTJWNGZInngMyv7eBNNoXrqNq2ajLe1+vHrXI+BinwsfpNxd+9GKTcT1EZFlnSAszaa8URvZSNZRuEBBiL8nCRN4Ew7t7sPEwcxD+mA8ujoRky9g0QC05i/aH8MKNyCiggJ6OrW0wRNZTe45kBNC5NobbEavsKSL+ghAmtdZyQ86vmcZsSB8tpCvCLsrIQyas//W/4mrjnTd+v4VqqKE=;JwTZjyyMN5gwK8PC6QE06Q=="
 ---
