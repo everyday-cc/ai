@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gardaí to get all-clear to buy body cams as Fine Gael rows back on facial recognition tech"
-    excerpt: "Gardaí are to get the green light to begin buying body cams after Fine Gael rowed back on its push to bring in facial recognition technology (FRT)."
-    publishedDateTime: 2023-06-20T00:29:00Z
-    webUrl: "https://www.independent.ie/irish-news/gardai-to-get-all-clear-to-buy-body-cams-as-fine-gael-rows-back-on-facial-recognition-tech/a1315187913.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 29
-    images:
-      - url: "https://focus.independent.ie/thumbor/8TmAVuNjhB4S7zG4gl5Hw7A_fRQ=/51x0:1949x1265/1898x1265/prod-mh-ireland/0934b862-0dbe-4efa-9ff4-cbea7d6068b7/1077ce88-28fd-45df-9bf6-e7f6693d3783/N%20Helen%20McEntee%20%283%29.jpg"
-        width: 1898
-        height: 1265
-        isCached: true
   - title: "Plans to allow use of facial recognition technology by gardaí will not be included in body-cam law"
     excerpt: "Plans to allow the use of facial recognition technology (FRT) by gardaí will not be included in a new law to bring in body-worn cameras for Garda members, The Irish Times understands."
     publishedDateTime: 2023-06-19T14:17:00Z

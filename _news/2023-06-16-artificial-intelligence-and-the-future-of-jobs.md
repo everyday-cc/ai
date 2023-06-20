@@ -25,75 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact Of AI On Thought Leadership"
-    excerpt: "We are faced with an unprecedented vision of our potential as creative forces as AI has emerged as one of the most promising innovations in the tech industry."
-    publishedDateTime: 2023-06-15T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/the-impact-of-ai-on-thought-leadership/amp/"
+  - title: "How can AI and machine learning improve the use of financial data"
+    excerpt: "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,"
+    publishedDateTime: 2023-06-15T17:00:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&crop=1054,593,x0,y50,safe&width=1200"
-        width: 1054
-        height: 593
+      - url: "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "Regulating AI Isn’t Impossible. It’s A Leadership Commitment."
-    excerpt: "The EU's AI Act is just one early step in a long, ongoing process, and we're nowhere near a systemized regulatory framework. But it’s a start, and that’s what leaders do."
-    publishedDateTime: 2023-06-16T21:43:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/"
+  - title: "Determining AI’s Place in Healthcare Financial Management and Improving its Setbacks"
+    excerpt: "Highway to Health” host David Kemp, talks about expectations for the upcoming HFMA 2023 Annual Conference, and artificial intelligence’s (AI) usefulness in healthcare financial management."
+    publishedDateTime: 2023-06-15T23:37:00Z
+    webUrl: "https://marketscale.com/industries/health/determining-ais-place-in-healthcare-financial-management-and-improving-its-setbacks/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648cd5fb58d4466d39b1e992/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 751
-        isCached: true
-  - title: "This Is the Worst Part of the AI Hype Cycle"
-    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
-    publishedDateTime: 2023-06-16T13:00:00Z
-    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
+      name: marketscale
+      domain: marketscale.com
     quality: 47
-  - title: "The impact of artificial intelligence developments on cybersecurity"
-    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
-    publishedDateTime: 2023-06-18T07:00:00Z
-    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2023/06/shutterstock_1044371023.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Part One: Can Next Gen AI Upend Financial Services Over The Next Five Years?"
+    excerpt: "The financial services industry has proven surprisingly resilient to disruption. How will generative AI technology change financial services?"
+    publishedDateTime: 2023-06-15T18:04:00Z
+    webUrl: "https://www.forbes.com/sites/granteasterbrook/2023/06/15/part-one-can-next-gen-ai-upend--financial-services-over-the-next-five-years/"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
-        width: 930
-        height: 620
-        isCached: true
-  - title: "Western offers new course on the intersection of artificial intelligence and writing"
-    excerpt: "KALAMAZOO, Mich.—As the world of technology continues to evolve at an unprecedented pace, Western Michigan University is at the forefront of innovation bringing together artificial intelligence (AI) and the art of writing. “One of the key aspects of ..."
-    publishedDateTime: 2023-06-19T14:42:00Z
-    webUrl: "https://wmich.edu/news/2023/06/71959"
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Massage Therapy And AI"
+    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
+    publishedDateTime: 2023-06-19T00:00:00Z
+    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
     type: article
     provider:
-      name: Western Michigan University
-      domain: wmich.edu
-    quality: 30
-    images:
-      - url: "https://wmich.edu/sites/default/files/styles/1200x628/public/images/news/2023/06/MSB09517.jpg?itok=9Zym4SlD"
-        width: 1200
-        height: 628
-        isCached: true
+      name: The Mint Hill Times
+      domain: minthilltimes.com
+    quality: 34
 
 secured: "ZhU2fhfoFBhtGkHNlfFHx5rUWgvS7n+vBJPDdK/pHnASgxzua5mv/fDN9eZdFzYCqjdOt48emdg4tHgEyAg3sD2QLLbZ0/W/A3r4ZS/yB+9ByVvQdJqQSi40SgWZmkERSKbgyIzkc35OGBrIR/cs8Uv02/z8b1ipsbuRU16WtpF/0J662QIFGwezdQViFPCmbkPqH9MQPEIDjMB9YPM8zGIGUwToUaRVqHw7V2grW59ycDfUXZyv1gb1/Sr7lnj8JO4OMhpxiCBdzFhBmFioMrQKgBMZSP3iVolrJIKAG/GmKTu/Ca6uPK+7YavUXQJ2Rr5MDOVzDfaLO6Ad14a1oKUyfGpXhKBvNi6x5UpHcPcsOzmjNjDRRNX8/cW6Rmzq4izmg6Eq3/AziIge2d80cln5gcXTiIjM/CJkJr1f+5DJiE8+iTrgEB0bFVmoUuJFSC0rZDdVVp6pVUNR5/nqCaHYtax3bY/pBH9Tl8JTP+As+M77jzUFi4pYlr3KsGg+XIVDZ3Bzz6/oNdo8sL9N/A==;cUaHUX+bwIa/r7Jx6StQzA=="
 ---

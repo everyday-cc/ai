@@ -65,33 +65,21 @@ related:
         width: 768
         height: 437
         isCached: true
-  - title: "Lending A Helping Hand to Fintech Businesses"
-    excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
-    publishedDateTime: 2023-06-15T14:30:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/business-news/lending-a-helping-hand-to-fintech-businesses/454175"
+  - title: "Fintech chiefs debate diversity crisis in Parliament"
+    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
+    publishedDateTime: 2023-06-20T07:47:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 44
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686838737-pexels-karolina-grabowska-4968630.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
-    excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-    publishedDateTime: 2023-06-20T02:01:00Z
-    webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_ee92dac8-db7d-5df4-9013-4d60b33abd4d.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/37/a376aecd-66fd-58c8-844f-36e7b23f11f9/64910a1561295.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
@@ -101,6 +89,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
+    excerpt: "targets global markets with its B2B Fintech SaaS software (Graphic: Webcash Group) Webcash Group launched 'WABOOKS', the Vietnamese version of 'AI KYUNGRI NARA', last April. AI KYUNGRI NARA is an accounting solution used by 60,000 business customers in the ..."
+    publishedDateTime: 2023-06-20T07:48:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 4
 
 secured: "y+l8HE/tSUGyAGpuPRKZkWNkiIOQhFILdFDagTK4amhpQjQp5KuxUPrGOmmm3RL2ZQoEjLIv/8Swl5Sm49bFFnDLcniIBEP++d3B6nQq9HIdLzvryG/RILS7FhRoGcKhkOCNOJvHrhbI+9Uqe/xV1z8r3trx8qNVdYp4yihYvMaVqRvdy7RSrLCDWn1BiDSUEezGNB63rWeIreFSxNRdZ70cyyeqDx6PLcb27JRq+bMVrteytAC1xACSrX0P4IXCG8OOQVDm/iG9x6IOWPkQYaVM3klsowb53eULNuOFn7iWHDzJRppiEimbSBYHF5TlwQMjarF+h5YY9mI7EI0oULyq37iNaZLrlNF2LbcLjWA0V5nR6/5dC3rLf6OqKqvPHcAjYutFTii0c6+QHq+8/d3MwxcBAFyBrpePlB2N+6nskJrSMHedWYFE9czjCIHbDW0DVMYVQfH0nLkGdaCQWXWNw/SXnlZPSyb/PEcTBErC5orF7jOXhfG2XzY6S/zIRNS+fpBbcD1h+cBcr3Th9Q==;a9ET5HWCT3A9T/hshYz0HQ=="

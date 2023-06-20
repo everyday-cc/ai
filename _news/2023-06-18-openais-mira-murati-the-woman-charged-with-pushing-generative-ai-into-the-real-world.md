@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "OpenAI’s CTO Says AI Will Be Your Daily Companion"
-    excerpt: "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT."
-    publishedDateTime: 2023-06-15T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJbKdYalqMck/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6yXOoZkUfzt23ekFJQbjVO592ORzqnepN1J1GNEDIhxwDr8PopOZTBg35sMzOqg3zzEeYAWy/VdOvblMg40B6KDsEJYU3TmZM2F3wSeXIMKxeskbI78QGFhfHfJAYBq4W4AhMd5LPJUKJAVN1AVk2+dDr5Lx7L/E8jqF2Kwkqi22YKbPn/1WHo3jsfjbMyp4UJjtLXje06oPPig/5EbqIkzmlb8jAimYbaSEUcD6LFNR9dr5RrXJYd42dgzt8aOxgZzjflt9C/cl6nOehvQtWXFj7eTOx5iS4LNmd3f7gDjtEKMWXMfBydbW8SxY4tX+k/ybNdjtMb8v8TtRk+5m/chHJAvaBiVWLS1ma6QaeOU=;zBLYcGwxb+dkzVTWXK0G3Q=="
 ---

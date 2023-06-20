@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/predictions-for-the-
 webUrl: "https://www.entrepreneur.com/en-in/technology/predictions-for-the-startup-ecosystem-for-the-second-half/454335"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The number of tech unicorns fell 40% in 2022 | Global Startup Ecosystem report"
-    excerpt: "As venture capital investments fell during the economic downturn, the number of tech unicorns fell 40% in 2022."
-    publishedDateTime: 2023-06-15T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/the-number-of-tech-unicorns-fell-40-in-2022-global-startup-ecosystem-report/"
+  - title: "The Art Of A Good Unicorn| The allure of AI for startup founders"
+    excerpt: "The AI hype has given rise to a situation where you might have to force-fit AI in your startup. Is it a wise move? In the buzz surrounding ChatGPT and other services, startups may feel the heat to integrate AI in their operations. They must think about AI ..."
+    publishedDateTime: 2023-06-20T05:30:00Z
+    webUrl: "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026.html"
+    ampWebUrl: "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026-amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/startup.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/20/1600x900/AI_1685779523053_1687238650133.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "GB5mAB2XCli8HkexPNTbvrvQd4aJzmFyacjIWAVcNKIMvEEyXRnnTW06q8+Rj7+SWBXLV3IVg/YUWGp3Rg3Hv+/EJPP8WlBWMks07qVgv6tLrkn9mz3XBN7Upjo7q+JMsHrcnS2f2bCNrgs7ku0xMciaaPgjyZm/pI1DHFZJsAU+BZ6OA7D4qRIzckMYSAYJsB5xRG/yCZUKGPHYUJR8dksDmFNSgJnIGYibsJ0c3DT8o6O5SwUrHI9meoEHLky/ZC2X+6UJLhlkh3q48iY2pZBPF+zeSKZUSScnNfwAbEe2aNOPtNu76bncSEIdPCa+PbhBkau4VEdRIuVzSmvgRCPIDzY4BXQBUh8g94UPqH8=;8rQDFGcrhXl8IUkAg69fvg=="

@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Unlocking VC Investment: The Key Element For Large Language Model-Backed Startups"
-    excerpt: "How a startup can stay competitive and defensible when building its core based on large language models such as ChatGPT?"
-    publishedDateTime: 2023-06-15T13:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/unlocking-vc-investment-the-key-element-for-large-language-model-backed-startups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
 
 secured: "5QnMjbjhtnQWkvp+/c5XYQg8hDCtBHvMO4iIjZAaHv95u6HKuZaklkEaDlcQsQtvGHGebOKv2IcumR5JIYVFJ/rhNSQDDOu+AokSqrod49HSpT/keU4NaOt8Cb/DqxJsPnZwG7eiWwQDOsjtN1AjAUDIPSRoLkPORS3Qa6lbOpdo3Rr8NFF6KlUyZVtifUPNiOriV5iY2qkBBkBVvrAFPTh5o2MdzvUPbhp0fZalpBdFZJU6zHyAWB6l12x6nKhaBLXzls+ame7eFIkCuFQmWAPTYQlKSxHUucw2BRUacSJUcKpmcmPU95LrdfEuwpN62Lg8zrxHinOS6lAmrA0NKosyIsEAc6TekT+PMTSpufs=;fvqQhNg0nTRmf9lFFGuXAA=="
 ---

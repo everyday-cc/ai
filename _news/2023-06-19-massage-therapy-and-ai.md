@@ -58,6 +58,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "Artificial Intelligence and the Future of Jobs"
+    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
+    publishedDateTime: 2023-06-16T11:33:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 39
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
 
 secured: "AAiPSme2xcsnVuwEHuXUxoPDK3MYZyyFToHTL4manUz/+CQOkU34fj5jJ/oGgAbhLGOAwVcn+5tkgHMu3JcSjasaaxqAKI8d/eFafrjStoEXTS1k2u/WvLg1SkhW/GxabJ1/R4mVmVgegsw7WP5JQFfnrjFVwGn56NIGwhGJp90fjJv4RjcGzqWcR3KZYDiapSYfHPxPNQtjl3tp3XZFFYv1AfQUrvd9L4sOO7aMKqIPg8kKpqADzxqyktNpaofFSnCRlW4YiwyNt/Al/954QnHFXtmWDRsP+hv+pVFZ9BuqIPverKdg5FbeLHKnndKbdcf/sYu+YFGv8uIWXbi8zBB3fK5Hv3CuJpqqKkXvvA0KWN2k+WJAFren+HxfTAYPtSzcdADyQyznOXa5svd5k76AL0JCoJCSaE2OqT1M6vRm4FYJXxpbAW3wwGRO/TRom5DRYPHp2odv4MXg52GDJVMPTrRTbRJk1DMeDarPJXWBRrXVGdnHCDp3jMcOvY10JgWWd9RL1rG/DtXOuknUcA==;9yvbpmoc17LLiUFj2b25Qg=="
 ---

@@ -56,20 +56,6 @@ related:
         width: 619
         height: 376
         isCached: true
-  - title: "These Google AI apps are going to be amazing on Apple’s Vision Pro"
-    excerpt: "Google already has exciting AI apps that can be ported to Apple's Vision Pro spatial computer - here's why they're so interesting."
-    publishedDateTime: 2023-06-15T14:56:00Z
-    webUrl: "https://bgr.com/tech/these-google-ai-apps-are-going-to-be-amazing-on-apples-vision-pro/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all"
-        width: 1599
-        height: 1066
-        isCached: true
 
 secured: "xYD7sPMtbGasVHmNklhJMPwiACrEtNnTANNFlvWQixbU+nNA7DFBLyX8aOUnQ8vkgSXe0qU4BDc0YPp7O8vuHSwUmcOCtCuzM/MtUA8iCLbUZFePBhNerXSb6LCZ5sum00fL38fpZEDq40jav4OFCkNA+V6KdAw1sKreN/gTb/Rtzm5wofmLXLzZUlNavpQ5XsbDHbFjmYkk1yX3t2INCEWCqSfCHI5fbr9Lda7mb3seAst9s5KA5ko9r7sYToefAFtL/u67DreuhjyofXo/ZMzidolUHlZW/l/94ZPcqd5STmDiEwkmhOHU6VHhnzmuxefIEt6vClSRvPrrSrcTnOhPvY6KlYzv4uX0oSAjAa/AqZAcGNPqiuqwR7n4HyAQDSKD1OHDuQ2Tu7oNboiPqrxpdQjPTDNBV01WXAerdG8Z5xvg4eR/wnIpaBJN37ih5nUZ2E1nlr6db7vHwmFmWFqX/xQm/3LNleZdNWbe+nR/qyjQvLd5iYNAXwjzggrcVv3sDTK/ZcsX9+u7UZJmwQ==;h3G5xf8GX4gZqISmou01Cw=="
 ---

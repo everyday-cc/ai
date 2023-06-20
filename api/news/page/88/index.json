@@ -2,6 +2,57 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-04-25-grimes-says-anyone-can-use-her-voice-for-ai-generated-songs.md",
+      "title": "Grimes says anyone can use her voice for AI-generated songs",
+      "excerpt": "Grimes has invited musicians to clone her voice using Artificial Intelligence in order to create new songs. The pop singer, whose real name is Claire Boucher, said she would \"split 50% royalties on any successful AI-generated song that uses my voice\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65385382?at_campaign_type=owned&at_ptr_name=twitter&at_format=link&at_link_origin=BBCWorld&at_link_id=6A68CC54-E352-11ED-B5C7-E39179448730&at_link_type=web_link&at_bbc_team=editorial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CE67/production/_129493825_gettyimages-523637192.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65385382.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65385382.amp",
+      "publishedDateTime": "2023-04-25T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
       "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
       "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
@@ -1179,57 +1230,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-singer-grimes-oks-using-her-voice-for-ai-generated-tunes-no-nazi-songs-please.md",
-      "title": "Singer Grimes OKs Using Her Voice for AI-Generated Tunes (No Nazi Songs, Please)",
-      "excerpt": "After an AI song mimicking Drake and The Weeknd went viral, the Canadian musician invites people to create AI-generated music with her voice, if they split royalties and avoid toxic lyrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
-      "originalUrl": "https://www.pcmag.com/news/singer-grimes-oks-using-her-voice-for-ai-generated-songs-no-nazi-songs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01CeemlISlr3TbaZVbb0ygQ-1.fit_lim.size_1200x630.v1682366595.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

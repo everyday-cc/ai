@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Unlocking VC Investment: The Key Element For Large Language Model-Backed Startups"
-    excerpt: "How a startup can stay competitive and defensible when building its core based on large language models such as ChatGPT?"
-    publishedDateTime: 2023-06-15T13:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/unlocking-vc-investment-the-key-element-for-large-language-model-backed-startups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
 
 secured: "j9D7F7X52NM9d2D0lS7vO/zMmA4h89bALrnXR+cby7xTsRO2QUsEcIVQRT8yQBf12aI+t61vYBknDLo2LS6PEAua/1wVsLFmeyMTXSLzL4UAB2fGdQT8ZpSbELcKDCh0Gx5FMgSHh58pVwsB4Z82uJ48y+ey3m4mlW7NbpKC81MMJWMLNvUcMJIcdYQLCo9DEp/dwnVD76K7JaVCYR5MLUD7nQjw7SdQBizQ5jM3QTSBRLpJFH4LXWULAmkYHH/jrPEk8CALxa6ee6TZjQMfxilC2Of+CP/grO+OGdIjCaDdCUvGKZO7IhyIl+lE5jNDhCwANEjkuF4i6ceAjjtvZC+sGyaVgfCEg9XFlL5qOT1qSXwnmQhbCV3A33Pq5jWrE7dQuJ+IQ41ge9vSCAu6Yp/MH+xkjJ7EbUaYYvi5KmuSgf8RT1LZJJOYeuU8EJ2+1HuhtL1a9SmqJnNh/qcxGfQxQYQZ5hHILw3ItIQGelkGWuSCfYkd5ViwUu1mJFgdOV2bcAIFCm5v2N04eHq/0g==;uEXT8JuqtzuX8/RdCLCilg=="
 ---

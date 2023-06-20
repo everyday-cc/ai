@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-14-wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions.md",
+      "title": "Wanted: Business Leaders Who Can Bend Artificial Intelligence In New Directions",
+      "excerpt": "AI for decision-making means we’re not going to need managers and executives anymore, right? Hold that thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e59be5ec9652e8b12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/14/wanted-business-leaders-who-can-bend-artificial-intelligence-in-new-directions/amp/",
+      "publishedDateTime": "2023-06-14T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-5-analysts-takeaways-from-the-advanced-micro-devices-data-center-and-ai-technology-event.md",
       "title": "5 Analysts Takeaways From The Advanced Micro Devices Data Center And AI Technology Event",
       "excerpt": "Shares of Advanced Micro Devices, Inc. (NASDAQ: AMD) rose in early trading on Wednesday, after the company held on Tuesday its key Data Center and AI Technologies event.",
@@ -551,48 +602,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding.md",
-      "title": "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding",
-      "excerpt": "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "originalUrl": "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inside Bitcoins",
-        "domain": "insidebitcoins.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

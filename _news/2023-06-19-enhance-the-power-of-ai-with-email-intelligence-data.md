@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blackbird.AI Raises $20M via Series B to Empower Organizations with Narrative and Perception Risk Intelligence"
+    excerpt: "Blackbird.AI, which claims to be the leader in AI-driven Narrative and Risk Intelligence, announced the close of a $20M Series B round."
+    publishedDateTime: 2023-06-20T03:19:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Gambling-Roulette-Casino-Risk-1024x678.jpg"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Congress ponders whether artificial intelligence should have the power of the patent"
     excerpt: "Lawmakers are beginning to consider ways in which artificial intelligence systems are involved in inventive processes like discovery of new drugs, and how the use of such technologies affects what is — and is not — patentable."
     publishedDateTime: 2023-06-18T21:45:00Z

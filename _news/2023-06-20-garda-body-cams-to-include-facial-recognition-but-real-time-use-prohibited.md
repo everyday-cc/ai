@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to
 webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 630
     isCached: true
 
-secured: "8dJ2+1UIlilsrja3RttqnCNIYfsJWNqPyfOq+jHUOZ3d9rypmuSk97IgCUJNqICn2EiP96c0dIFaNhBuO6ZXT4kzwZnu/DKGXWG0QbW5GJ1ccq3qw9spkdxYNA7g0DQ4VdzRDfeAk2ZWR75h9MViHTtmNwbevnd/Jkd6tzw0HMbGy/NxPPb/Hb9mUyaPBR3oPK2WaknMWpAAB5Mi19a7qWDumyfkT32eKUyRfE+YmaylJCfkGOctjbGcX/OUs/KInmcc3l0QbbdCUeCAXd2XTJWFFqMGIaAkkpL11BysvC79pMwGrQjzk2MjPuPHcePG7/PZxrHGh8CGUh6/C+nQFl0bHpeGshfYu0KjfcmvLvE=;r6oDQ7BfrJGJAxlh8BnA1g=="
+related:
+  - title: "Gardai get green light to start buying bodycams from TODAY as Minister McEntee looks to progress facial recognition laws"
+    excerpt: "GARDAI will start buying up bodycams from today, the Irish Sun has learned. Justice Minister Helen McEntee is set to tell the Government today that An Garda Siochana is to immediately begin"
+    publishedDateTime: 2023-06-20T05:00:00Z
+    webUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/"
+    ampWebUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 49
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/06/Social-2023-06-19T214531.434.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Gardaí to get all-clear to buy body cams as Fine Gael rows back on facial recognition tech"
+    excerpt: "Gardaí are to get the green light to begin buying body cams after Fine Gael rowed back on its push to bring in facial recognition technology (FRT)."
+    publishedDateTime: 2023-06-20T00:29:00Z
+    webUrl: "https://www.independent.ie/irish-news/gardai-to-get-all-clear-to-buy-body-cams-as-fine-gael-rows-back-on-facial-recognition-tech/a1315187913.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 29
+    images:
+      - url: "https://focus.independent.ie/thumbor/8TmAVuNjhB4S7zG4gl5Hw7A_fRQ=/51x0:1949x1265/1898x1265/prod-mh-ireland/0934b862-0dbe-4efa-9ff4-cbea7d6068b7/1077ce88-28fd-45df-9bf6-e7f6693d3783/N%20Helen%20McEntee%20%283%29.jpg"
+        width: 1898
+        height: 1265
+        isCached: true
+
+secured: "CuF8h8ewKTl3ZfkHOKDm1p9yOCLDquDWqkCrmzi1iLN1e974iGQ2UT5GYmwfu9fwrFWfjEp7wE3wnyse+pdZUubtHh1uegMVmQrC2yRQBeuFP7EYsXSWZa3Sjo/ztO0rK0dLL0RLvAJeu090bpEjs0M5smz2KzsYfOkQGeqEONA+IPymzibPxlT3TE8J7fCJ0znm4iw/4UDXNqQ+J1HfhLt09Cj30MtomL6m4zEdp49SyBcJ9xb0VL6ktnGEjG8Ryc1nfhgrnUchxMUmr5C7PA71S5RYOrumSJ9vNrFW9gDEybQgJGmei6y0pyOCvgS1nJeZR+DecrT9AnRUUnX5uqyMsWnO7+GmHsvYjKJFrp3Hk8PrFPjaZ82rP3A7H3NwgrY006MNQEQ6p3VSQXDBu39lXYMtTsulXpCOj0xcfRMeS9ptAfivqmUJVji3ftLpfnqLMm0mFKxqr+S3iuWpLW4Vs/D3KSLzNB6LxlPmlUSBQpevVVZeCKfj2dyyGw7fBNYp+Q1cHRPBKyXtov53Yg==;3WeZ8fw0MHOWFXEdMESZ0Q=="
 ---
 

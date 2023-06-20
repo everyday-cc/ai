@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-
 webUrl: "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
         width: 619
         height: 376
-        isCached: true
-  - title: "These Google AI apps are going to be amazing on Apple’s Vision Pro"
-    excerpt: "Google already has exciting AI apps that can be ported to Apple's Vision Pro spatial computer - here's why they're so interesting."
-    publishedDateTime: 2023-06-15T14:56:00Z
-    webUrl: "https://bgr.com/tech/these-google-ai-apps-are-going-to-be-amazing-on-apples-vision-pro/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all"
-        width: 1599
-        height: 1066
         isCached: true
 
 secured: "DORFdZ/Y5JNMi69pnwArFzYemuYxiRltBMZvMToXhhIPh0z6oTC1nkNOpcJKw06OPOULNrzyyc1YFGDL/6YbVvYFe4PB8HxW//Uwk6XDZVz4CqB625cbcG//8wY89fXwT7YCkUTdzCYcWnP6YO0LDfVlUK0e4b4ZPmxVd2I8sec+JQce2ZGOO9BAb9Gys6cd/dISSZZvZsDsrEmLnJ/OgZltw6ADiB6qOen1MpkJL1dV7JjHJrSJqWZsA47HzKkWB0XqSSE/VWhaeJVHO+/ci7Ah+n3nCYnmPpuC8xDYwoSpgPrVgPanFcXAe0OXt5zT0JaNtAJMIi6ZU1WqQ99j3yL5cOjp1eRzos5E5I0X0ao=;TDtWCz936xqrkWHyGVlkDg=="

@@ -48,6 +48,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "Introducing Cognite AI, The Generative AI Accelerator For Industrial Data And Value Realization"
+    excerpt: "(business wire )--cognite , a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelera"
+    publishedDateTime: 2023-06-16T04:45:00Z
+    webUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/15/A_57b37image_story.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "PtXaKMIWlixhO3CAnsk8Q35SNQhyY4+oMsSil+xl3iUAwRFcXTTDBgY5ThhaAyLrD0o+Pp7AWJjZjkAkPEcNtXABKG8Y6WU0phiFFcdC4/gwME3bZMSCPWQ3N76WuWe21AEizCc07bR2FkSQ67dx/Y9QbJK3Mub0T/YBnYwVS7pTdy3OXpal0XRrd5en0pAg8K/NHxNsNphGRElvSSIdGnIRdidkZeHox6VvxIdHCo1WpUBq6VQYSUClN/AZ1zXql7M6zJTxJJcU5zOPDFypDZdpsYsLWvRW+G/30bmHUOkNSddoOtUWV6oxW5B87af5N7cB0TwQvOREIpLOF0cHTFDyG3LaBfTAr+rXE3L49mjXjIMkO+IT0ldeeYsSyyKDMn/NRen+wPnZdfk1YeTM6wXroFPscbCmH8Tmr9t4QD1yFgfDIR0YTVrmXcXpnRF6JflsRBREa/SthOYRFu2Eq2fuMFkHRp8r7XG5looe09w7/eDcSHLEup2Co59INQNULzKPr/6gxtGidcRgjGiEmA==;rLA5dfGASy2b68fOrZqKlA=="
 ---

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 979
         isCached: true
+  - title: "SKT Strengthens Alliances with AI Companies to Hasten AI Revolution"
+    excerpt: "The company has been promoting AI transformation (AIX) through partnerships and collaboration with AI companies. At MWC Barcelona held in March 2023, SKT joined hands with seven AI companies, including SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat."
+    publishedDateTime: 2023-06-20T06:52:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32471-skt-strengthens-alliances-with-ai-companies-to-hasten-ai-revolution"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3bacf7ad4de69f1e1a9bf1201aece724.jpg?t=20230620_064518"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "VGKHOSYrRdDg2bY/liI7ySOvqUy1A//T7tnL9NpCRcMfOcF3IkZBMii5/X9JFYfTzdvT+oKmgc0UcYg4vgBDLFGTBawsdFJwVqL1kuiNKibzyCM+9wpCyb/y5Es88fGShM0J67yWZtRodUuB5w6cWU44ZskZekaVUgmCiqNBz0/lRribGWl0ENAeAUUkYMxN+ulA7QhGyGMbPVZG424Wwn765Rxo3KKwaTLfTWRVQ7JjVti7IdTTTwRSc6fP7PVuLQD8I40Qn/0bUR/vTyBmpLbPWBdz4pHvVzPhypYnpyZDlIa6XZ96LhbNHOo6YzvuvuXwmxbfW0YetO4A8C/B38W/nKFOVsipThycCykhgR6sFYE7wtCjHTZf3/v/GpqaG/pwOwb8oxxl7+5YhhYVCbew6BWzO2WQ26CzG0ZRrnSFGki4kOgq/WRcW/JB6fe/pbokPnM0w8dbj3pDZNhmiWhLdzewNjFMTSTVU3hFhH1TPZmbfby13uQcw2uuWgYJs6/UJYhsbvzueP0lZqIWcw==;lSrq2SOAQgajzmYm/Z6TSQ=="
 ---

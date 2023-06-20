@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
+      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
+      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-watch-us-try-to-break-google-bard-and-bing-ai.md",
       "title": "Watch us try to break Google Bard and Bing AI",
       "excerpt": "We asked Google Bard and Microsoft's Bing AI a series of questions to see which is better at delivering facts, replacing me at my job and participating in existential debates..",

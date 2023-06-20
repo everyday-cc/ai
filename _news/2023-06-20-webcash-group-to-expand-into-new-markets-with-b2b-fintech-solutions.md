@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
-excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-publishedDateTime: 2023-06-20T02:01:00Z
-originalUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_ee92dac8-db7d-5df4-9013-4d60b33abd4d.html"
-webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_ee92dac8-db7d-5df4-9013-4d60b33abd4d.html"
+excerpt: "targets global markets with its B2B Fintech SaaS software (Graphic: Webcash Group) Webcash Group launched 'WABOOKS', the Vietnamese version of 'AI KYUNGRI NARA', last April. AI KYUNGRI NARA is an accounting solution used by 60,000 business customers in the ..."
+publishedDateTime: 2023-06-20T07:48:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59377050-webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions-004.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/37/a376aecd-66fd-58c8-844f-36e7b23f11f9/64910a1561295.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "This Fintech Startup Serves A $7.5 Trillion Per Day Market"
@@ -71,19 +65,21 @@ related:
         width: 768
         height: 437
         isCached: true
-  - title: "Lending A Helping Hand to Fintech Businesses"
-    excerpt: "Demonetization acted as a catalyst in India to promote digital transactions which in turn accelerated the use of fintech platforms, including lending tech solutions as an alternative to cash-based transactions. Increase in Embedded Credit and AI-driven ..."
-    publishedDateTime: 2023-06-15T14:30:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/business-news/lending-a-helping-hand-to-fintech-businesses/454175"
+  - title: "Fintech chiefs debate diversity crisis in Parliament"
+    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
+    publishedDateTime: 2023-06-20T07:47:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 44
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1686838737-pexels-karolina-grabowska-4968630.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
@@ -104,6 +100,6 @@ related:
       domain: datacenterdynamics.com
     quality: 0
 
-secured: "WoncYfqIbe6rDfl3tmO0jPSOU87xo+q1meA/qdSYmG/hTvLsduBYftvUNskeVwka3z7FRrj5xCSXv+TQ7TM+srs5HmQrefpP5jOdWc+0X2t0+4Ke7UHwGXY0gAtQHkfxKaYk33ZcOzb1kfbVE+F5wVCDzTBvw+jwTpzIldHaCKof4cDWq5yzADdnjR7YACKqr2JmpKd216VCpBbGgImtjZjfo3q6BZJNdEVNjN5yhzZFxOs8DCNVTagFC8UKgg1BkqmjC6KxJt2+ZGrR8FrOBTxFVmpx5W9wL9LTDIbr3eKOS5QyfSj7TbPq5TbecTjMUc9JslRHanDn5iTM3GyxC4ZqNs/U30D7WNXhlhHYsTAg87y7jHI23GnEy2ehxHZZiI2cnjx/FZ3Wkuka6D8OhxSSsfDVQHgQOYjpqzalGiBB2K9rRxVfPO/e51zC3YuDuJTl+R2XL0OfsuUZfwbnUiG3qfo757QsSilvabSacwcxkRiuZ9cv1OFmfjKP+aP81+gxY0URD+NELtBpXTHjIA==;Vy6o55R5QYZ/5eAwaG4QEw=="
+secured: "6zAJRoGYJWxKhYBE3xl3w1NmpK+aZp51u4b6aijWKmns68iUTE6XcJexgqMKrllnixv7+4mh7HTb3l7RpsVwwTHbZFR+4pdzzHKyiGGw8COB7Y6E3msN9UKkbQITaN2VaqsH4EYPyvCupBAU3YPrrHMjwz9jqfSuDb2K9Ixa+I1q2GiSuqzQOC6xRqpsRnlyjblNJyLar7Lr9UZrS6OQQvBf5hfHGdF9LNGTgs2BGMWxL2AhOZ5pPpgAzcQKvlj0GaU+6Km3uvSW/RdVP03L0ZnhWBVKe4XlsElrRWZFKGluqlpQOPwWYB1rLIGG7BTOSIilLJKQc9xwWZKRRTGvTvhybLViooR6RLt/9sD71Zs=;VD9oJ5xwbFTG8iePS+T5xg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-gener
 webUrl: "https://venturebeat.com/ai/the-future-of-personalization-how-generative-ai-is-elevating-customer-experiences/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 34
+  - title: "Introducing Cognite AI, The Generative AI Accelerator For Industrial Data And Value Realization"
+    excerpt: "(business wire )--cognite , a globally recognized leader in industrial software, today announced the launch of Cognite AI, the Generative AI Accelera"
+    publishedDateTime: 2023-06-16T04:45:00Z
+    webUrl: "https://menafn.com/1106445495/Introducing-Cognite-AI-The-Generative-AI-Accelerator-For-Industrial-Data-And-Value-Realization"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/15/A_57b37image_story.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "emTUsy5xuSKWR9XEpXNxBdFTPuZEzGfCniG9obOG4K1xyOh7Ccv6oJH0V1krIHf02da1w2dl128vh6ODVQPRkvrghJ9nFhtS9hVt3x+XuJ1SV3IaszztmrLPIVzXnfFk9tjEoot+9ftZPkX3pX2X2QjJI2GsnP+rS0yOq8HbPwOItPwwE27YZd1ANAdfdLkzpMZ3v9NMCo0YQU+NivOUqc+l3AKJrCvyrQ8IEUzd5Z5ZFMdCJxjVJSEWFgx2WerDPcUoNqsM/U6c5ZFYvPhstJfTfGVhWxBcA/pEEMumjFIbdO4kXdUDuCchylE94T7BvsTDZlV6JtOEK02nvajuZfud4kHzI2Cnk6uE+tBBC8k=;Lbc9eX8YV6xdbq4F+g0mBw=="
 ---

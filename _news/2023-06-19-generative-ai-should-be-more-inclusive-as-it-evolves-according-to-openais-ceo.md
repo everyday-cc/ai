@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-mor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.wsj.net/im-802734/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "OpenAI’s CTO Says AI Will Be Your Daily Companion"
-    excerpt: "Eight months ago, ChatGPT did not exist to the general public. Now, it’s one of the most talked-about technology products in the world. This week’s episode of The Circuit With Emily Chang goes inside OpenAI, the maker of ChatGPT."
-    publishedDateTime: 2023-06-15T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-15/openai-s-cto-says-ai-will-be-your-daily-companion"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJbKdYalqMck/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
     excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."

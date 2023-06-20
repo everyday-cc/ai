@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-12-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
+      "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
+      "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/11/amazon-bets-big-on-ai-how-the-company-is-investing/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/11/amazon-bets-big-on-ai-how-the-company-is-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/735326/gettyimages-1483272785.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-four-legged-robot-traverses-tricky-terrains-thanks-to-improved-3d-vision.md",
       "title": "Four-legged robot traverses tricky terrains thanks to improved 3D vision",
       "excerpt": "The researchers will present their work at the 2023 Conference on Computer Vision and Pattern Recognition (CVPR), which will take place from June 18 to 22 in Vancouver, Canada. \"By providing the ...",
@@ -1154,51 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-host-ml-models-on-amazon-sagemaker-using-triton-onnx-models.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: ONNX Models",
-      "excerpt": "ONNX (Open Neural Network Exchange) is an open-source standard for representing deep learning models widely supported by many providers. ONNX provides tools for optimizing and quantizing models to reduce the memory and compute needed to run machine learning (ML) models. One of the biggest benefits of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-onnx-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T12:48:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

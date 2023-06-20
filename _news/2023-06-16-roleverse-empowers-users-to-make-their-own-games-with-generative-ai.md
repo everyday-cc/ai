@@ -116,15 +116,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Impact of generative AI on chatbots"
-    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
-    publishedDateTime: 2023-06-15T13:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "cexsev6a4v7JqRq18KKAljvNPpodlgagA1v5wRFT/oLhCCdcbTbrRUoWaIKPikcnZ6p7TDmo4PpN0zvWsx6HOO4VUA5tNnIxojdMKBkyiHuJWbzuVmz3nDy2vC6U3zNzQeiN9y+UNaMEg2CLq520FSxQDyZH5kinDXXtekEXg2dmMRhnUv0jCTFgYxlJF0Iw/DVVlEiRSDbyHH4gi0vPcwhOOqRNitcW98Qsg8wanz+WSoB3pTLQZHxJsYFc2q6UG8PVNJZg27HVdm1StmO+Z2GFVulrITFfn9VrFfZ3KvzBYvYnUTFl7iOTHehBpDly6cOaKiMMaPXy9Mp4VhKV+5B3IQgE8/JqthK9si7oJwiTwDQZXbSY8v4FHijvVLvi1m151q4njAUykkwK6Hx5xjbu0PVCI+tfcDeHHwCOPmEzKkjj2EAolO7jwCJUM2RIsf6Tfnuj0YMnkrVSxqLJpV9XsqtMzdTbxKGq84dqFooYrT4I3JpUfxHY3RpfelrnQGHW+6X++1gDPbnnoDr5LQ==;XrOQpzZ74lowaQMck8hIEQ=="
 ---

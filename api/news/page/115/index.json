@@ -2,6 +2,58 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2023-04-01-ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms.md",
+      "title": "AI Ethicists Slam 'AI Pause' Letter for Ignoring Current Harms",
+      "excerpt": "The open letter co-signed by Elon Musk ignores 'actual harms' caused by AI today, ethicists argue in a rebuttal, including worker exploitation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "originalUrl": "https://www.pcmag.com/news/ai-ethicists-slam-ai-pause-letter-for-ignoring-current-harms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00dshhhhQuoonyFJJ4ekz3q-1.fit_lim.size_1200x630.v1680368067.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-01T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
       "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
       "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
@@ -1142,59 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-an-ai-researcher-who-has-been-warning-about-the-technology-for-over-20-years-says-we-should-shut-it-all-down.md",
-      "title": "An AI researcher who has been warning about the technology for over 20 years says we should 'shut it all down'",
-      "excerpt": "previously told Insider that tech firms are locked in a \"competitive arms race environment\" in an effort to be seen as \"first movers,\" which may result in concerns around ethics and safety in AI being overlooked. Even Altman has acknowledged fears around ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "originalUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64269c90ed593e00183f605f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-researcher-issued-warning-about-technology-shut-it-all-down-2023-3?amp",
-      "publishedDateTime": "2023-03-31T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

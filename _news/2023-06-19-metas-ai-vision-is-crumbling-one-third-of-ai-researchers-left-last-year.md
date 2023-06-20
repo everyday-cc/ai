@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Opera One Offers an AI-Based Web Browsing Experience"
+    excerpt: "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,"
+    publishedDateTime: 2023-06-20T07:00:00Z
+    webUrl: "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Researchers discuss how AI could change the nature of social science research"
     excerpt: "In an article published June 15 in Science, leading researchers from the University of Waterloo, University of Toronto, Yale University and the University of Pennsylvania look at how AI (large language models or LLMs in particular) could change the nature of their work."
     publishedDateTime: 2023-06-16T14:59:00Z

@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Watch Out! Tesla - Rival XPeng Launches Self-Driving Tech in China"
-    excerpt: "Also Read: XPeng Stock Drops After Q1 Earnings and Cautious Outlook: The Details XPeng said its City NGP (Navigation Guided Pilot) system, which is similar to Tesla Inc's TSLA FSD (Full Self-Driving) feature, is also available in Shanghai, Shenzhen ..."
-    publishedDateTime: 2023-06-15T13:12:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32870034/watch-out-tesla-rival-xpeng-launches-self-driving-tech-in-china"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "MbALXeewdozGIHAAzFZ+8Q+GQVQEL9wT0BlmmDRegMr7BzHRDQl+At9ba6og68aVQ5g1e57pfuS6UVw2UY+CMEd4FcgeGXasgiNIE2ulwEkhZA4twzi1F7Fhak439IBOGd+cAQ2UwVzIC+tPeIxsh53QJQl8m+TqgAlE7vXPDM/mMoe7dTSu84dUo+aqnM5YzC3hJ2qvZhlwuNcaEfUikoDNlzQMFwV5Y1iBsLsLlru5CxyodePq0Wh6r60t2RMPIxdQhpmDLKRr9DCQ5j6QEn34Aciv7Ao8F7otgkBXqRhLN9W69WF2A11McT7tOjybBW3fMgzQXJhh92dWKPVRfaagGnyLYPuXymBlhQiokzLgwnwwiOAkBeXopRndIYry74RWmG+OKbJ0WUPmU6VQggnBRwbtBh3u73voPF/0aWrlf4rXde8P7giZ+X4KW+aThxYtkzPaGTmFM42WjmaQMeC0Go7ELxDTmELuQ2stINZLhT7u/Ux2DWhohrO6KPhXCuhkNN/O+p6yOmloocyx9g==;md18igTPIBja2fyEFQ0RhA=="
 ---

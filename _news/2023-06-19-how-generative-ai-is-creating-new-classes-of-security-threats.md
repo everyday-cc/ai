@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "The impact of artificial intelligence developments on cybersecurity"
+    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
+    publishedDateTime: 2023-06-18T07:00:00Z
+    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
+        width: 930
+        height: 620
+        isCached: true
 
 secured: "pD2WsL/t+dQWHiCMgu0DiAJryyYFcj+SpjrIL358rm1DlQQZ095pDhJ0lfLvHbsXxlsy+CKZ6Qxc0oJ+9MpfLApziHV1d7R1o0U3iGGEVXPz3NKkA5xhBTrST3BY8mQ5gvPs/NcC/Qx61p1pPQUcrpPbsCxfRBYhexGCA2pCplrRMzRaDNGwu6tJP5IBPnLw2Hf97rcv1HXaf5I8/IFERcoB0mYBelluAHzSSJPDGA9812VugrBKosJxjeH9pXwK7JTA1ympoS2RUkP8DXQEbLJZqOzOhwS/uVyq097CVqRnSIdmHnhOQIffqIodzOR9FBSdglhSfYeDJvkPTj0i/Z3WbbU4gAYPN81bPEaGctabLfo8ZyMCt4oWV+FGXn3FAJiiVcASwAkF7sBLvACDCFo3VjaCJC+r8MKVJfXcLE3Z26GzNakr9fKAC4MjUVRmQy+tzZ6Y1rK5kg+s0Xrx+k9B6ohjdIyPcCJOlnLWUVIYbdTCiQLyknGsHssAfBh50IDWXzOy6xVxI29Q34icuw==;4zJkpHHxuMizoME7Y6gt6w=="
 ---

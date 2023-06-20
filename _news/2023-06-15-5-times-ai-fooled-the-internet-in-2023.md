@@ -54,15 +54,6 @@ related:
         width: 1499
         height: 1239
         isCached: true
-  - title: "AB: Will AI Transform the Healthcare Industry for Investors?"
-    excerpt: "Healthcare companies are beginning to explore how artificial intelligence (AI) might unlock efficiencies for patients and medical systems."
-    publishedDateTime: 2023-06-15T14:31:00Z
-    webUrl: "https://www.csrwire.com/press_releases/776746-ab-will-ai-transform-healthcare-industry-investors"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 34
 
 secured: "6lCFJXLqaiRiV5n8Oyzz5uud8CrooTnlIRq0fe8vO77sbSLGU5fMtWxC0sQ8YC5tS/7JmNIMutD6K3EBYcO3jD0BUIDcPDecfFT+6/J6ocW9bpu7ItK8ZjCOguJka1sRl53BQaVenOVdtsDx6VnUC4LTqGgWGjEERtpomb10SU9Zs3X7P3CkHYFC4yrnWP5KUGhvc016AmZAlGi8KdGJ6VnB0H+8VBQIH7gKJN1s0gnSMQ2nBKFtY3abBW4QWjAf9aWyj8PmDefDM30DmloRgHwlwrZudck9+lNI4HpJtVy1d4AHa9ylOz92rNejUw8mvmHOE4eamMda/N1L+yJzHd6g9w6Q8ivZKYNVlrzLe6s=;YQRQfq5JzwEEiD4G1ZbLVQ=="
 ---

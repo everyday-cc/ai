@@ -2,6 +2,40 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-04-23-meet-robin-umass-memorials-new-pediatric-robot.md",
+      "title": "Meet Robin, UMass Memorial’s new pediatric robot",
+      "excerpt": "UMass Memorial invited me to \"meet\" Robin, a new robot the hospital brought into the pediatric unit last October. Here what it was like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
+      "originalUrl": "https://www.bizjournals.com/boston/news/2023/04/23/meet-robin-umass-memorial-s-new-pediatric-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-23T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-23-self-driving-cars-autonomous-driving-levels-explained.md",
       "title": "Self-driving cars: Autonomous driving levels explained",
       "excerpt": "They have no autonomous or self-driving controls at all, with all aspects of driving needing to be taken care of by the driver, including reacting to hazards. Level 1: Level 1 autonomy is the most ...",
@@ -1113,57 +1147,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
-      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
-      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
-          "width": 470,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-most-talked-about-technology-2023-april?amp",
-      "publishedDateTime": "2023-04-21T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

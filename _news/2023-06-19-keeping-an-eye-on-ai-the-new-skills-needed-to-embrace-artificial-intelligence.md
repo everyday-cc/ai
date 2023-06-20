@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
 type: article
 quality: 100
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "SKT Strengthens Alliances with AI Companies to Hasten AI Revolution"
+    excerpt: "The company has been promoting AI transformation (AIX) through partnerships and collaboration with AI companies. At MWC Barcelona held in March 2023, SKT joined hands with seven AI companies, including SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat."
+    publishedDateTime: 2023-06-20T06:52:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32471-skt-strengthens-alliances-with-ai-companies-to-hasten-ai-revolution"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3bacf7ad4de69f1e1a9bf1201aece724.jpg?t=20230620_064518"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "QMXnC6gxcbEOGxQZDM3H5KMVt2W1up2nWBSFL12agVD/V5CUObg5RSQLfmwjCXLBac2VylHzmSuqjfbsJktl7IBWjlDEKiIhA98Bbm/7aiA69p1Qb+NiqHli7UtoZetIVnTok8ZajmNtTLWJ+xkN8UQmrHKUumpicJsd58rYYDcUOzI/yHevZGwqaUExi8bUhqgHvPs1SiwBNraEf4c9Hjb3MboavkyhOKp1jNbGwzghNC3qgvbZzWKo1wWxk63JpGPpxv6NuRSPkB/LemBWJQDSbO2EkrnrDcVPtShIbfnuNpqdrPAHxdHOuNWh9ue4pmp2nwlwlNjcDUpDiOFfT2ypVNMdFZlSrK0iXJfC+62tWfpuTUa1RSzidvRcukOyGz39dqx9I51Zx/5fh34Tl3Kbr2r+BBHt0wfFtk7xL7hr7XkdnPTQCDou2cMdvMSZVWebYkvYCckx0Tc0ROY1NUvrf2GtU0ynkzcTUPzGbMttyOZpZHQCBFDETeof33h/sNU5QpkFyMLBbiiEfDw8uw==;iHWb/XFXXzJjUxu2105r2Q=="
 ---

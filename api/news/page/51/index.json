@@ -2,6 +2,48 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-05-15-ibm-tech-now-may-15-2023.md",
+      "title": "IBM Tech Now: May 15, 2023",
+      "excerpt": "Exploring the big announcement coming out of the Think 2023 event: watsonx and it’s three main components.\nThe post IBM Tech Now: May 15, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T06:11:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-what-happens-when-ai-becomes-sentient-3-strategic-outlooks.md",
       "title": "What Happens When AI Becomes Sentient? 3 Strategic Outlooks",
       "excerpt": "As AI advances, it’s important to start thinking about the implications (ethical, social, legal, tech and safety) of such a breakthrough today.",
@@ -1179,58 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
-      "title": "Computer Vision Market Research Analysis, 2023-2030",
-      "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

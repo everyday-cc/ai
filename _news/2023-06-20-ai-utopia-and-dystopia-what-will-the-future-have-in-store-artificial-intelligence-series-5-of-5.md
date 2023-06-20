@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dyst
 ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 95
+heat: 105
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200"
@@ -41,6 +43,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "fTC4Nc7u7u/7yqUyfGUnZl9mpvQNAcEN9y9cF1T/7j8Q6UwMc5AjI31+Qoaxqsq+xRdfifW4PWi6wAYkC1KgkbsZXUw/GUbGWHuUj54UcUBdBod36hrhRMz2Q1YqNkziuM047TWu9Ox6uvwA1eHJkVBHQdfpxX40NeJfr641PvBrhEQ1tYJN3AiAsb1w9hBi9KlRiuDdu3s9NJ3lKGC2z+xclm/GkdGyspNVKbf02Qm0t7rjpDL1IOrvb9Pa0zdFRsXBHSdeXf+roO9B8sTTeuzyRrt5zcgbFQeHgnGNTvRU9d4QYew5YYPY5B47tAqA4rTq8yNb87DuNXyorjrHeeWgnBg2zDXBRZ5xUNLpuk0=;hhsMwR1YFwwOh5jkRhHe2A=="
+secured: "9OEWEsmPhTA9h9qRpfdk0IcuQMjPwuZ4Bz/oI5pnnlydE9hWU0tIZ+0ELGhTQ+e4e49dO+K5Smka6gwu1qhKfHwDXC+ppcrwCgPYFDrOprt0GQgKIv3mf/mpeyEFAO4NcC+gRdfyppxBzRGLlaYt/aQStM6gEjELdYxQYKF67DsgzTeRnCgXJfDdUnBb7du92DtMgiRR3lBr6zoe/+9KQ1rq18T0n2JnZy1as4qmBp8y4fo/vqnaU5uTEV3klzHNODHylptzx3DSq4xJZ3XJUEeNFcKAHgY4Jw4CMjDY/t7+KhhVZm4pc6E9uDvZ6jPBwmL9J/SVnr8zMTgAztS0BVLl2Gbov/5k7GdwlGyPxfaXf9jAdyaNsGEYRuqWAl6LvHiAHZl8iz0736364d+ZLHliiTv/mpD1Pk5uYvYBz6Uxd7tFMOw1JN0E39HhmoCEVw0cRjrjl1nVBG7D7/LAfkdLQ63JebTpkdJ/LtBTqkcRbO9Q0yuPI4J6QdeT6mISvrz815ybVOLt5GfFTGD3Nw==;+Pd6xd0kjnMEg2rM2jDW/Q=="
 ---
 

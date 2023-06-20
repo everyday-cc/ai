@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Zyrobotics becomes Microsoft's first AI for Accessibility grantee"
+    excerpt: "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ..."
+    publishedDateTime: 2023-06-16T18:38:00Z
+    webUrl: "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 84
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
+        width: 760
+        height: 506
+        isCached: true
   - title: "HCL Tech To Partner With Microsoft To Spur Adoption Of Generative AI With Azure OpenAI"
     excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness AI."
     publishedDateTime: 2023-06-15T17:34:00Z
@@ -50,38 +64,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ht6y4m693myozxkm_1686842932.jpeg"
         width: 768
         height: 439
-        isCached: true
-  - title: "HCL Tech, Microsoft expand partnership to spur adoption of generative AI with Azure OpenAI Service"
-    excerpt: "Indian IT services company HCL Tech and tech giant Microsoft have announced the expansion of their strategic partnership to help enterprises harness generative artificial intelligence (AI) and develop joint solutions to enable businesses to achieve better outcomes."
-    publishedDateTime: 2023-06-15T14:56:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/hcl-tech-microsoft-expand-partnership-to-spur-adoption-of-generative-ai-with-azure-openai-service-10804461.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 75
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/HCL-Canada.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "HCLTech to offer generative AI solutions with Microsoft, train 10,000"
-    excerpt: "This program will provide training and certification opportunities to employees and offer access to exclusive resources and tools."
-    publishedDateTime: 2023-06-15T14:24:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/articleshow/101024464.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/hcltech-to-offer-generative-ai-solutions-with-microsoft-train-10000/amp_articleshow/101024464.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-26178,msid-101024428/hcl-tech.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Google is Flattered by Microsoft’s Azure AI Studio"
     excerpt: "Listen to this story Earlier this month, Google announced general availability of Generative AI Studio on Vertex AI. With this update, developers can access its text model powered by PaLM 2, embeddings API for text,"

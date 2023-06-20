@@ -25,31 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI Act is ‘serious blow’ to introduction of facial recognition technology for gardaí"
-    excerpt: "Plans to introduce facial recognition technology (FRT) for use by the gardaí could be dead in the water with the passing of a vote in the European Parliament of the landmark AI Act, according to the Irish Council for Civil Liberties (ICCL)."
-    publishedDateTime: 2023-06-15T21:10:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-act-could-kill-plans-to-introduce-facial-recognition-technology-for-gardai-irish-council-for-ci/"
+  - title: "Gardai get green light to start buying bodycams from TODAY as Minister McEntee looks to progress facial recognition laws"
+    excerpt: "GARDAI will start buying up bodycams from today, the Irish Sun has learned. Justice Minister Helen McEntee is set to tell the Government today that An Garda Siochana is to immediately begin"
+    publishedDateTime: 2023-06-20T05:00:00Z
+    webUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/"
+    ampWebUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 47
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 49
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=8b42d352-372e-9c24-247f-df37100b66df&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8506&x=0&y=0&width=3416&height=1922"
-        width: 3000
-        height: 1687
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/06/Social-2023-06-19T214531.434.png?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Plans to allow use of facial recognition technology by gardaí will not be included in body-cam law"
-    excerpt: "Plans to allow the use of facial recognition technology (FRT) by gardaí will not be included in a new law to bring in body-worn cameras for Garda members, The Irish Times understands."
-    publishedDateTime: 2023-06-19T14:17:00Z
-    webUrl: "https://www.irishtimes.com/ireland/2023/06/19/plans-to-allow-use-of-facial-recognition-technology-by-gardai-will-not-be-included-in-body-cam-law/"
+  - title: "Garda body cams to include facial recognition but real-time use prohibited"
+    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
+    publishedDateTime: 2023-06-20T03:59:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
     type: article
     provider:
       name: The Irish Times
       domain: irishtimes.com
-    quality: 25
+    quality: 37
     images:
-      - url: "https://www.irishtimes.com/resizer/lb-AaDrUbfEkoXuM5XwF9ANERoo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WRPC4K2Q2NPIRZWUZN7SSU6K2Q.jpg"
+      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
         width: 1200
         height: 630
         isCached: true

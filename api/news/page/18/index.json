@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-06-05-artificial-intelligence-is-getting-regulated.md",
+      "title": "Artificial Intelligence Is Getting Regulated",
+      "excerpt": "Like any new innovation or product, there is an accompanying concern over how the use of artificial intelligence may affect people. There have been calls for regulation in response to privacy, copyright infringement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e0286dd32a0292ad81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/",
+      "publishedDateTime": "2023-06-05T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-tsa-expands-controversial-facial-recognition-program.md",
       "title": "TSA expands controversial facial recognition program",
       "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
@@ -1142,58 +1193,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence.md",
-      "title": "AI Anxiety: How These 20 Jobs Will Be Transformed By Generative Artificial Intelligence",
-      "excerpt": "We explore how generative artificial intelligence will transform twenty jobs across industries and how to embrace these changes and thrive in an AI-driven world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-04T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

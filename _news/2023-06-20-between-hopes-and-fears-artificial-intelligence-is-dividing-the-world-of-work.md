@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1240
     height: 827
     isCached: true
+
+related:
+  - title: "This Is the Worst Part of the AI Hype Cycle"
+    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "fZFklH3/9JXgG0yxD2nv4LNtKP/fxw76QP7qUwpAq8lA0KjcuIq436Zz4qUkAWEu7yjR2izXS14Dd+c4QB8Qa2cVO9RXlw0zg0XTDs4f4LPQLna13VqFbTAZugJtdJvSc0PY3Fj31UJR5dpnIzl5P9QiR/kqxdpvBDLKXHb39J50KY/Qov0IzoqnD6G0KLy57MCpA74SyLEg30cxIS+B3tCLEWEikYZBB3zEcFhC9n30FC5TJVlNz3WFhDsZ2lLRoZ0MplSDy5RqsBB2KGMc2JQX9p+CA+pNR6WMjPxdt1c46jFTiDV2KlU/O9y6XUrfQhHq1a11oU9E+bdBLIScFBt5B8+lluZrIzaoaOUD1/V2DMMCq5Qkp4yUifY9jxZQLLO5oBrFyC/jHJtLZaEvGjX4Zh3Ja4EobcK2Mg4vwvfeFYPF5bLW4S4TJBsTdwF8rNc+Y1P23HZg2MIa9mjst7E12w5P7D1PF/fBj1IcLSNHEYM6Na3DGfJA+ieEr1ul+c3V5bPs1AxOX0BXPe+jIQ==;iZCxp4o2m2/jVtypHuuhbg=="
 ---

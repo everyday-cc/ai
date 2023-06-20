@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Impact of generative AI on chatbots"
-    excerpt: "From cloud chaos to clarity.” Generative AI can enable chatbots to provide meaningful and relevant responses to users, but there are risks and challenges that must be considered when adopting it. Click here to continue."
-    publishedDateTime: 2023-06-15T13:05:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/15/1074743/impact-of-generative-ai-on-chatbots/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "czpZ/qcUX5V/c0OQxvaOR3d2EJ8FYXaAC22ems6zeg6FKAAa61nzlwlcOoefKu76BfNSshp31RhvsFIWeeZmEC5lzrA9E3cNdUOUfVM5qFVDWTnLHNJc6EiXZnt8Iviiz1RTYe/Bzn+0Y/MUV1wRlzVDLKjZ6eZlhN5Dj0XpYUQPAlqItqDE3EZCslMylJdqaC8q0aBbkjt2DiGSop902s2wai14hoFC0LK8q5DAQqJdCIAh1IKMQQ6qhGitYktKXXwySrFAzNvC5+OcUmg00+jbISJCjL3oT9hZ1/1uhOsZ5ptuAToQAI0CiUnwCOs6PtEBkpShcwZKlnMzGhhfmelY3RSVAruWD6aYX6P8uSK443PAepHiowICpou2USIs0o7y3hQbVRRhc59+ymK7/l3ZbT1fafDVoWWRciDHa/fuXKt1aZrA52MZik0B686N1ITNl610+srb+64FQ/xFoMZ00xdDCWP8bYphfVS4bRRPQ6QfXNQMjmkmwpVrU4NNTk2lkdLFSDpVu6UxBarm2w==;ixdoUsQDBZXTW0mdJugqXQ=="
 ---
