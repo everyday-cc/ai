@@ -53,22 +53,6 @@ related:
         width: 1111
         height: 566
         isCached: true
-  - title: "AI Safety: New Research Explores Machine Learning Safety Without Conducting Countless Trials"
-    excerpt: "Machine learning has long drawn inspiration from human learning processes, including the valuable lessons learned from mistakes. However, the application of machine learning in safety-critical autonomous systems, such as self-driving cars and power systems ..."
-    publishedDateTime: 2023-06-15T10:36:00Z
-    webUrl: "https://www.techtimes.com/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 63
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429696/ai-safety-new-research-explores-machine-learning-safety-without-conducting-countless-trials.jpg"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "7duFxsTsalCYjC+Uj8JbaL8b3RRqIOHpxxcBWjYaGWqn0H7wmbVaMRIm46Eh6WucupjZlQYBgs5Z2dpDt1YVJekO7CR4PwDLhb1EBgqbGK6spAz6GkZN8HxVZ8V4Cysi6fVHSrdMdJD1Z9eyyXLchsJZNksPse/mKVeYqDsZfX8uxOjv8G/qI/PyrKlRLcf5J/e72xPSEAD5oltU65zqRbQGLs5Rxh6o4zGCUHdpeqqzVSN3KNgdpsiuZhZAijZO+dX3GGQfeavcaBCfyNjAsYaVySmLP8kJlqMlWpIWyBmDptNAwlG/3ugDFMS5nBaOtzZxPzqwQ31+Y8+lswEpl0D3KsfZEik5gjz+4jFGcRRjdu66snvUO2bICyX5HY0pj29E4HyFkvb4xO8k/aBx524uXoNubHDufAZO0CIph6AYJUA2pIwMUgigGFXlnx4/c86bIO6Zh7Tc9wwjvQUnBW7K3GvmEpuufvslgQTzG2ni9uEXCi3uND033FJhLfmBxzqJyiaQm6FkfWKnOBbrAg==;59946DUTtmkki8tNtXzZ5A=="
 ---

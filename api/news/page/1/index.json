@@ -712,7 +712,7 @@
       "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -743,48 +743,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-five-big-takeaways-from-europes-ai-act.md",
-      "title": "Five big takeaways from Europe’s AI Act",
-      "excerpt": "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "originalUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "publishedDateTime": "2023-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1242,6 +1200,57 @@
         "AI",
         "AI in Security",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
+      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
+      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

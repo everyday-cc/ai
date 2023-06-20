@@ -26,24 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Dawn Project Founder Dan O'Dowd shares concerning new figures over Tesla Full Self-Driving safety record"
-    excerpt: "It was recently revealed that Tesla's Full Self-Driving and Autopilot software has been involved in 736 crashes since 2019, according to analysis of National Highway"
-    publishedDateTime: 2023-06-15T10:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869904/dawn-project-founder-dan-odowd-shares-concerning-new-figures-over-tesla-full-self-driving-safety-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32869904"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869904"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-
 secured: "ZHaHDEtDZKEKKpDc2nKitL8OhAIRUCqw6Jv1xSvrBmcHxroRC6JZZenDJK5jVQHxN4jPtw+TWkz2j9cvUp68lVap3qdUzONelE/L5QjuWwcypz0L8mMiPuTH4XI9XAcHLxbI/ZuenyDwm2p+iArbMboqWBJwvCxx5GASoq9Q/ej1Y3iwEAWS27kbAFcMa+Jc3Pz5U9lZnkFGPtzMKMAd69KAX1r525RXh9ADFayDrDJwRXwA+A7T9eS04FiXbSwKxnGTN3OLYTkGg1WwRDtJuNkf2txA+MLg4Z/MkxhkKj4kW+zgUZc1TXoTuNLDx4em/YEv0/BHmo/CTh6JgR9twny0FXJpa98mievP7sQa6f0=;+hCBqlhbDZgMKBWm2ntI1g=="
 ---
 

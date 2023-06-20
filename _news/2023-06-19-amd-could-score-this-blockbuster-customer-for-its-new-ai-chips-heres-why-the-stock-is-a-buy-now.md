@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/18/amd-score-blockbuster-ai
 webUrl: "https://www.fool.com/investing/2023/06/18/amd-score-blockbuster-ai-chips-why-stock-buy-now/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Amazon thinking about using AMD’s AI"
-    excerpt: "It might fit into the invisible plane  Amazon Web Services, the world's largest cloud computing provider, is considering using new artificial intelligence chips from AMD, though it has not made a final decision."
-    publishedDateTime: 2023-06-15T09:56:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57095-amazon-thinking-about-using-amd-s-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/e3d11e5df6ced9311c7bbd71f2cce315_L.jpg"
-        width: 620
-        height: 503
-        isCached: true
 
 secured: "A+pTZ0IabCj2jins0/9VesiqREUUij/wws4hXbqUXnIHBM03Q8UKBAJ3JV7ZTqR3bRfXkeMqGEi/r7RtUb8G8PMZ3w108Kx2cIQMZGca3zZsoiAvB158q1X3hEUD1bM6tj9ym42osX9azyjROhTtRllUCZAZ1207p1Biq8yEDcNmlraViSc1LteiDWCyu91buV4dd5AfDL0rfA0DdtQHKyX1Z3PLuCzZmNqLCBcelhv0qLWd5zm4FCyW/hfZi1t6w7Fa21Nxl/y9u6eghen7sESuMg22hP3FH4QVOeMShpzV3Sh+LEm4ufytcCVzVG4KVV1TLs2eLGXMKalqT5/Hw8hwjwgfioC9pBSYw+e6WXA=;9Bk8aZ3LHkktkLVTEUaUbw=="
 ---

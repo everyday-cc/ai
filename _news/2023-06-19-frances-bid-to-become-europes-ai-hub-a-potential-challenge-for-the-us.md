@@ -35,20 +35,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Europe votes to regulate AI and ban use of live facial recognition"
-    excerpt: "Tech giant Google has urged the EU to coordinate its regulatory approach on AI with the United States, with CEO Sundar Pichai calling their alignment “critical”. And MEPs are set to work with their US Congressional counterparts to develop a short-term code of conduct to cover the period until 2025 when the Act comes into force."
-    publishedDateTime: 2023-06-15T10:39:00Z
-    webUrl: "https://inews.co.uk/news/world/europe-votes-regulate-ai-facial-recognition-2413187?ito=social_ifb_theipaper"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 54
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/06/SEI_158377846.jpg?w=1200&h=675&crop=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ZNu1vTLWKzKhRepRFSZJmTakrjOxV3WMs4+3HiHkfysYMoFxd2nF7Q4Nk+SQcUQLEsFLzWmZhMM3WuPzxXxz/iP5eyN8TYjCdqfuEaJXOK2l1Oc1x2/Z3DYcgLTAzOPB0kDZrC1FcMJwWJ6iBEMullHqIGxAvrHXxTKq0F/inQuI1kSi8ccSH6X9+8P9QuKKmiG7vKXn/4R65nbfVYkpE4hoZ03YDNVZtMnOiYHdrKvNdzMVftJhUxFqcKRdq1wUL2POFuScDoWpwkm4l9rdjiVzJU0OFAL1vwCrq/ibLMY0TFm3Cwyye18vq7l3milhhzljrjWT8weegh2AS8wNfEY8z0gVH6jQleZ762W/BCzuRNAX1NDpnxZbsc9GFc7YFnXck01+qIsITCA7Ry4CG4NGREuiBgrZoL0HLKKjzilKGH/lb6ekUSKkjLN71+QuazaHCzDb/ANsc5NyphxTEApqMBXCb+MaTafcdAsmWA7EYDuP2uBSrq/MJLR6BSN6lPabVhIZ/kZCR0dWZqVZmw==;+agSF4GL9v6A7Zchcm7c4w=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1213
         height: 605
         isCached: true
-  - title: "AI Safety: New Research Explores Machine Learning Safety Without Conducting Countless Trials"
-    excerpt: "Machine learning has long drawn inspiration from human learning processes, including the valuable lessons learned from mistakes. However, the application of machine learning in safety-critical autonomous systems, such as self-driving cars and power systems ..."
-    publishedDateTime: 2023-06-15T10:36:00Z
-    webUrl: "https://www.techtimes.com/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292629/20230615/ai-safety-new-research-explores-machine-learning.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 63
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429696/ai-safety-new-research-explores-machine-learning-safety-without-conducting-countless-trials.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Survey Reveals Buyers Favor Automated Safety Over Self-Driving Technologies"
     excerpt: "Getting into a self-driving car may sound like an out-of-this-world experience, but the idea doesn't sit well with car buyers. In a consumer survey by the S&P Global Mobility, buyers desire automated safety through advanced driver system (ADAS) features in their cars instead of self-driving technologies."
     publishedDateTime: 2023-06-19T00:47:00Z

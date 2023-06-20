@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Paper shows ideas from Indigenous Australians, not policies in Aboriginal 'voice' referendum"
+    excerpt: "A screenshot appearing to show a list of policies has been shared hundreds of times in Australian social media posts that falsely claim it shows measures that will come into force if the country votes to grant Indigenous people a voice in parliament."
+    publishedDateTime: 2023-06-20T01:15:00Z
+    webUrl: "https://factcheck.afp.com/doc.afp.com.33JW3YC"
+    type: article
+    provider:
+      name: factcheck.afp
+      domain: afp.com
+    quality: 13
+    images:
+      - url: "https://factcheck.afp.com/sites/default/files/styles/twitter_card/public/medias/factchecking/g2/2023-06/7ba301af590ac2fe6f80ad83c834d62f.jpeg?itok=jvB4Dsgi"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3Y0PWn1TxuVO9AeKNQUhI+od3dd5L1TTh/G7cdGfxcgvWgtxVqKwAphVfiN8uZxbByrfJ8r++TyiXmPUgkR2lMVekJiS0dh1I8U4OIMYnFK9W7l4mOR31J9udkHNHtgngYFAe79vZb2Vl3LiGqsj7r1ToI11KIlDF86+oiTfsSLUyaB+yPhdYgUrbbqWU//csyNpLSwGc9JbKV45yBzEI1ucKAvqAql+P677VPcW/BQ0v+OcTDjpcbx92JMI6otg0Tgkl7UmE1SNF/OvIDAy52nY1Cm4YqUQFdNOv0jfJRLd563qv1H+7PxRiN8ILSLwOL8g2KkvZ3F2l8IfesZD9WPWNtrOKV952aZoXbZ3NWk=;FobN7kzinORWJSc7F8ptag=="
 ---

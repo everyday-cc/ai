@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-g
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-lead-in-generative-ai-market-unchallenged-despite-amd-s-new-ai-chip-launch-analysts-1032392804"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
-    publishedDateTime: 2023-06-15T10:00:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
     excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
     publishedDateTime: 2023-06-18T02:38:00Z

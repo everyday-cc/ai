@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-17-groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button.md",
+      "title": "Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button",
+      "excerpt": "Google Translate'-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "originalUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2023/06/Fig-3-e1686488009886-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "publishedDateTime": "2023-06-16T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-growth-opportunities-in-artificial-intelligence-machine-learning-generative-ai-nlp-synthetic-data-saas-no-code-designops-2023.md",
       "title": "Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps 2023",
       "excerpt": "The \"Growth Opportunities in Artificial Intelligence, Machine Learning, Generative AI, NLP, Synthetic Data, SaaS, No-Code, DesignOps\" report has been added",
@@ -1413,58 +1456,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-derry-singer-roisin-quinn-who-had-stroke-at-14-finds-her-voice-again.md",
-      "title": "Derry: Singer Roisin Quinn, who had stroke at 14, finds her voice again",
-      "excerpt": "Now, four years on, Roisin has truly found her voice again. She is studying performing arts at Derry's North West Regional College and is choreographing a dance to reflect her journey. Later this month she will perform it at the Derry campus, where she has already starred in re-imaginings of Shakespeare's Romeo and Juliet and Macbeth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17063/production/_129970349_whatsappimage2023-06-01at09.26.08.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-northern-ireland-65786063.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-northern-ireland-65786063.amp",
-      "publishedDateTime": "2023-06-04T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

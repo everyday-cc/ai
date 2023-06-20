@@ -71,19 +71,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Trezy, a fintech that uses AI to help small businesses manage cash flow, just raised $3.3 million with this 23-slide pitch deck"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Trezy, a fintech startup that uses AI to help small businesses manage cash flow, has raised $3.3 million. The Paris and Amsterdam-based company, founded in 2020 ..."
-    publishedDateTime: 2023-06-15T09:46:00Z
-    webUrl: "https://www.businessinsider.com/trezy-cash-management-fintech-startup-raises-33-million-2023-6"
+  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
+    excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
+    publishedDateTime: 2023-06-20T02:01:00Z
+    webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_ee92dac8-db7d-5df4-9013-4d60b33abd4d.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 24
     images:
-      - url: "https://i.insider.com/648ad6891cc64b001ae140ef?width=1200&format=jpeg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/37/a376aecd-66fd-58c8-844f-36e7b23f11f9/64910a1561295.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
     excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."

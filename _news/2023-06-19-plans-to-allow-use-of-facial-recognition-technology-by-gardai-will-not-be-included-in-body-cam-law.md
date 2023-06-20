@@ -39,6 +39,20 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Gardaí to get all-clear to buy body cams as Fine Gael rows back on facial recognition tech"
+    excerpt: "Gardaí are to get the green light to begin buying body cams after Fine Gael rowed back on its push to bring in facial recognition technology (FRT)."
+    publishedDateTime: 2023-06-20T00:29:00Z
+    webUrl: "https://www.independent.ie/irish-news/gardai-to-get-all-clear-to-buy-body-cams-as-fine-gael-rows-back-on-facial-recognition-tech/a1315187913.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 29
+    images:
+      - url: "https://focus.independent.ie/thumbor/8TmAVuNjhB4S7zG4gl5Hw7A_fRQ=/51x0:1949x1265/1898x1265/prod-mh-ireland/0934b862-0dbe-4efa-9ff4-cbea7d6068b7/1077ce88-28fd-45df-9bf6-e7f6693d3783/N%20Helen%20McEntee%20%283%29.jpg"
+        width: 1898
+        height: 1265
+        isCached: true
 
 secured: "+0IuPqcp74z4SutNWpMcakBnJXs54olaRLyh9QfPmecqfWUyrlCBgR0/81vybUUWoBGq25D5rMeyRCjCr0Xcm9KFH9pXLY5ArcsUi9v2Mp7RHHE3eyCXG+R8dBRy9xcwvKxpXnfthCKDmm2qMl6uKNCMOH3tkjUWc5QFNQ9g0MySl6ZyKt1V/gKHCPbmJ2yApehJUjdnJP8NsR1l/LSGArJWNu1vDcz18ER6GlusTU9GjrfbftnF9H7pGstIrTHg4ZummS9mkbFWBgKUE6j1hFBWKs5dluQtBZsfRph53VyUoAAARBP2U6TVFhKKKTz3zqCipVkh/KanP8bzfE51yAo2vrSwd/j8V+ysNXoI6cMYINRMX9KyaKaMLbCTC+vRYEcNFDnk/G1S5+sDhZYqazqXRXiCMmqoXhGYxqfZGwj1yrLBV4PdEXG5XZnxVcjgZlRHZp/sBi/Prxhm2QDi2Z5/9Fg+eSdrKyFTg/VrP4t81z06WplpaCTpDIYbJ7OlINc/fvQdDCjTkGtXrS30aw==;m+4Wl/A8oFRReE8XNFwIZQ=="
 ---

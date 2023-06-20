@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-that-ai-p
 webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032395846"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,19 +22,10 @@ topics:
   - AI
 
 related:
-  - title: "Invest in AI While The Gettin’s Good: 3 Top Stocks for 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The gettin’s good for the best artificial intelligence (AI) stocks for"
-    publishedDateTime: 2023-06-15T09:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/invest-in-ai-while-the-gettins-good-3-top-stocks-for-2023-1032391021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "AI Is the Gold, These 3 Stocks Are the Picks & Shovels"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying the new gold rush hitting Wall Street, which is the"
-    publishedDateTime: 2023-06-15T10:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-the-gold-these-3-stocks-are-the-picks-shovels-1032391172"
+  - title: "7 AI Companies That Could Become Trillion-Dollar Companies"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the world marches towards a future defined by artificial intelligence, the"
+    publishedDateTime: 2023-06-18T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-companies-that-could-become-trillion-dollar-companies-1032395851"
     type: article
     provider:
       name: Business Insider

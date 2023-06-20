@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is not yet killing jobs"
-    excerpt: "In the early 2010s many of them loudly predicted that robots would ... of an ai hit to employment. In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the covid-19 ..."
-    publishedDateTime: 2023-06-15T09:42:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_FNP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Military AI is more than killer robots"
     excerpt: "While the Hollywood cliché of killer robots or computers often springs to mind when thinking about military applications of AI, western militaries are engaged in intense debate around how to use the technology."
     publishedDateTime: 2023-06-16T05:26:00Z

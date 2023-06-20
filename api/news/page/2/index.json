@@ -355,6 +355,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-17-groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button.md",
+      "title": "Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button",
+      "excerpt": "Google Translate'-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "originalUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2023/06/Fig-3-e1686488009886-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/",
+      "publishedDateTime": "2023-06-16T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028.md",
       "title": "Artificial Intelligence Market Growth 2023, Industry Size, Share, Trends and Forecast 2028",
       "excerpt": "IMARC Group, a leading market research company, has recently releases report titled “Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast",
@@ -681,7 +724,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -970,6 +1013,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html",
+      "originalUrl": "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html",
+      "publishedDateTime": "2023-06-16T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-moving-ibm-db2-on-cloud-instances-to-mzrs.md",
       "title": "Moving IBM Db2 on Cloud instances to MZRs",
       "excerpt": "Moving forward, all IBM DB2 on Cloud instances in Toronto and Sao Paulo must be moved to the multi-zone regions (MZRs).\nThe post Moving IBM Db2 on Cloud instances to MZRs appeared first on IBM Blog.\n",
@@ -1102,109 +1188,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-microsofts-stock-rallies-to-record-close-as-more-analysts-see-ai-leadership.md",
-      "title": "Microsoft’s stock rallies to record close as more analysts see AI leadership",
-      "excerpt": "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "originalUrl": "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-801260/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641",
-      "publishedDateTime": "2023-06-16T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.md",
-      "title": "Retail traders are taking profits on AI. Here’s what they are selling",
-      "excerpt": "Vanda Research said in a note to clients that retail traders were trimming their positions in a few hot stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107249473-1685637213225-Traders-Photo-MW-20230601-0206-PRESS-19.jpg?v=1686924006&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

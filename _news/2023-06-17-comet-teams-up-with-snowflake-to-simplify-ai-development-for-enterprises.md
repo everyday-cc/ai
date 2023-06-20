@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation"
-    excerpt: "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from."
-    publishedDateTime: 2023-06-15T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/"
+  - title: "How to navigate the AI jungle with pragmatic steps for enterprise"
+    excerpt: "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight."
+    publishedDateTime: 2023-06-18T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64492aaf47015e74f7f3312b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
 
 secured: "zo3ZEMlOVSn89NWgn4YxV1lJAy30Yultht9iUuvdX7AAvKOSkyEQhRpMAxCbmg2LTCcQ0LRGbeN4DICEbzALHvD/PWi/jo0etKhk8ZDHkZ/8kTJVCM37RKYr/eGrnyIu6amjZVCpKC4ZwiOPAmbV+KOJ9By5CIdf0wAoLUnIaPGJUPR2YOIh5n72EvrAG5nZ9DU2vgbsbMKdNGtBY3go0rwULMPqmHn2F82Numm/azwGWzWJpySHUNM7NtpuYbwQPBQY1dLok9l6RL/YrnXy6KkjTsQb464nck2d/rXWHcGMoI/KIuvhQqHF+iIY/CoEKSxAQpXjP64f1eCmhb7epxHImRgoEpgErATWDu9Wdp+tPbEqnZ6n/eXtc6jUJuVoxC/N8s6867zkqAuBddPy8mW0+TaAOBToCbhTLour7Mop4Pr20Bgz1BcMtN1buZREMW4yTYwIemeBmS9MigGGDnWCxcH64vzC1lpEEF4wL5V8+qit17DzIIL616SEy9PcwvK+OR2VYV599OYZfz+Zzw==;yVexEm9PkTGvahG0F3MxcQ=="

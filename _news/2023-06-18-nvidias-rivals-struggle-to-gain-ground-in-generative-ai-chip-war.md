@@ -37,15 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "Wall Street has singled out a number of chips companies that could get a boost from generative AI. The combined stock market value of AMD, Broadcom and Marvell jumped by $99bn, or 20 per cent, in the two days after Nvidia’s stunning sales forecast last month. But their AI-related sales are not expected to come from the market dominated by Nvidia."
-    publishedDateTime: 2023-06-15T10:00:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "S0JCEg0jihLED9KvDNR7RtdJ+wsPeMkepaS/PRnzhrNu4hMgCYNgaEg5u8IOvo6gO9JQt5ul099dRM6jUiUC1Die+df2eqsti9ZJww0g8nAbzois8rEStwUgVTOFj1Rs44PShykiyg17hpSSp0JT33sExHtm7KeBf+X7lrm+1XV3R2vKTu8YyqocUTmd1SHvUbxCmCtYIEAy1JRh5mRk5/rclSI/qiOz+YzWfvki7WuKvpus+v8AWeRteJw5vEl/XrcV7qDRmNmkUgojGZrXspdXaCvZC3jCbIdpWhi4N/RA6JtFGs5NeI6pH2PH0NMx3e2i1mB7ZllPpyDWPVWqPXFNCUm1Q8wMQIydJ7ik+Yw=;k+oAm/VoxwM9MBTlgYr57g=="
 ---
