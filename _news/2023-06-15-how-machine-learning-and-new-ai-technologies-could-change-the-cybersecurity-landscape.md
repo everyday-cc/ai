@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 38
-  - title: "How is AI changing the course of the security marketplace?"
-    excerpt: "According to a report by the U.S. Government Accountability Office (GAO), artificial intelligence (AI) is expected to transform all sectors of society, including national security. The"
-    publishedDateTime: 2023-06-15T13:01:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/ai-changing-security-marketplace-co-227-ga-co-1151-ga-co-1645-ga-co-1756-ga-co-2566-ga-co-2710-ga-co-4022-ga-co-7200-ga-co-9742-ga-co-1554987129-ga-co-1584600779-ga-co-1610540101-ga-co-1622793934-ga-co-1633418524-ga-co-1637761998-ga-off.1686832187.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 36
 
 secured: "7M6MhdF8KInafkPSkTAu5BGDyf4A5+D4q7q0668QNcK4UZPSd6t01xnc9KxXtwHF4lTuIf1CEEb1Gb9Mz0aTAOFrMUWxitDhhwsMtxI8a8bYlavuZRdNrPzO/uO+lWPXfXt6zDu4G8zoqMJzXWWwW8nYo63mLdLeNcsmgYn6ep2h00m5dXqyBzgPxs3djMUZSPngMlvH6x1jyCPVKVxP9LXexCBQoYqnSRr6xhldd08RAMK+7YjoybaKvQOf9a4aHkx19OSAEeLRXHq9TzPVMgpxtbC+6MBSImW05/Wkh2mMqyWLjcOh7rwqNr5aovTNTC8HfcznjIpNFpYAblWZhStTnyIbZebPoy1NEahC0G5FsSkkdi1gXJ1Sgd647XeWCS7G+D2j1bOdLoYPv61+P5vVp5lR8J8KyxU7+lMxz9EdnM1AxW0F/cUwMHkrLl/oJog7ZX9VA3kIdZoUTTXCPQn8YPwIdXLIJBaX83JERBdr7UJrJb0GVM4BWBK9fzEpvztCnnb3rd1C4lCskn64Mw==;n2xzXuqbZ/H2/rfVPT6imA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-19T16:53:00Z
 originalUrl: "https://venturebeat.com/ai/92-us-based-developers-already-using-ai-powered-coding-tools-at-work/"
 webUrl: "https://venturebeat.com/ai/92-us-based-developers-already-using-ai-powered-coding-tools-at-work/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/1200x630-Blog-Header-With_Logo.png?w=1200&strip=all"

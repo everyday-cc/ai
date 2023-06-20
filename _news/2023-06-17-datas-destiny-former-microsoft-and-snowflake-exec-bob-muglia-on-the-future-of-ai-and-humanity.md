@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-a
 webUrl: "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-and-snowflake-exec-bob-muglia-is-optimistic-about-ai/"
 type: article
 quality: 72
-heat: 76
+heat: 72
 published: true
 
 provider:

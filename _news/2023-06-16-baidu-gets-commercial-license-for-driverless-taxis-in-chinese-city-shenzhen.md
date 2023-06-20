@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-    excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-    publishedDateTime: 2023-06-16T10:58:00Z
-    webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+    excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a commercial licence from regulators for its driverless ride-hailing service in parts of Shenzhen, the country's tech hub. Its fleet of driverless robotaxis,"
+    publishedDateTime: 2023-06-16T14:12:00Z
+    webUrl: "https://www.aol.com/news/baidu-wins-commercial-licence-driverless-082609881.html"
+    ampWebUrl: "https://www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/baidu-wins-commercial-licence-driverless-082609881.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: AOL
+      domain: aol.com
+    quality: 74
     images:
-      - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
-        width: 1200
-        height: 628
+      - url: "https://media.zenfs.com/en/aol_reuters_29/7a888a91cd68db77e6e809f2785b4473"
+        width: 800
+        height: 534
         isCached: true
   - title: "Baidu gets licence to operate driverless taxis in Shenzhen"
     excerpt: "Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen, making it the fourth city in which the company's driverless cars operate in."

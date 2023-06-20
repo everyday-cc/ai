@@ -20,29 +20,47 @@ topics:
   - AI in Security
 
 related:
-  - title: "How machine learning and new AI technologies could change the cybersecurity landscape"
-    excerpt: "Drata's analysis found new technology for data handling has security risks on the one hand and potential security benefits on the other."
-    publishedDateTime: 2023-06-15T11:59:00Z
-    webUrl: "https://www.stltoday.com/collection_f0d7605d-fa7d-59db-970c-90826c16a8e8.html"
+  - title: "How AI is changing the 2024 election"
+    excerpt: "As the generative artificial intelligence (AI) industry booms, the 2024 election cycle is shaping up to be a watershed moment for the technology’s role in political campaigns. The"
+    publishedDateTime: 2023-06-19T21:50:00Z
+    webUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/"
+    ampWebUrl: "https://www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
+    cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/how-ai-is-changing-the-2024-election/amp/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 47
+      name: KTVE
+      domain: myarklamiss.com
+    quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/04/104b1e4e-1dfc-50b8-ac8f-6b0ec96aa1ce/648a2cae8e33b.image.jpg?crop=1080%2C567%2C0%2C101&resize=1080%2C567&order=crop%2Cresize"
-        width: 1080
-        height: 567
+      - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2023/06/twitterAI_061623_getty_AI.jpg?w=1280"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "MIT-based AI apps startup aims to block supply chain attacks with advanced cybersecurity"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More The digital pandemic of increasing breaches and ransomware attacks is hitting supply chains and the manufacturers who rely on them hard this year."
-    publishedDateTime: 2023-06-15T17:07:00Z
-    webUrl: "https://venturebeat.com/security/mit-based-ai-apps-startup-aims-to-block-supply-chain-attacks-with-advanced-cybersecurity/"
+  - title: "Artificial intelligence is the new frontier... in election misinformation"
+    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
+    publishedDateTime: 2023-06-19T21:53:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
+      name: WUSA
+      domain: wusa9.com
+    quality: 56
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "The risk of extinction from the AI robots"
+    excerpt: "Haven’t done the AI thing. Haven’t got the ChatGPT app, apparently the most popular in history. Because now we’re supposed to let the whole evil network of artificial intelligence around the world listen in?"
+    publishedDateTime: 2023-06-17T13:00:00Z
+    webUrl: "https://www.ocregister.com/2023/06/17/the-risk-of-extinction-from-the-ai-robots/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 34
 
 secured: "eSODoAS6L2DeCuAb4cE6OxILH4D/AgwL3p4F+RJMWpQ9od5bG7vTdqsWUn0bqV+SH7cGqXb0oaIg5OU5/57OtQN0ZGT3fHUbyasjgimtdY0o3YZwLYRV06kEW9PVnZ3fu34TFVvNxXG+8MoBbrLIpPdqGLXDJiwauDjdVLPqEcrVzV7OHrFLV9dHAcwcCdXilbYg1hGMZf59q467O5JIqMUHiTwmV8ZSzMwAnOjaZaIOEQJN5f4hciIky2987KUBJ20cgOWVB3INcK2ZFofRm2FLzXcyjLpGFZG1iU9bzVC7LOs/3r+HDEKJeKOLzoU3RcKsnWrvA2yYt5UDQigiqiiVOJA/ZjbWj6nIqdYLtnHKrGzNP2ZUH4dVaFqmmUEHwRCqaxXm+Su8SvA6bYsRunkXC8sHfypl2d067uNOUSoFzQ4hEFc22t/ajX7PKmjnya1wn7oMYgUjBjGXTQxEV8kk3qAGir8d3bwgLumntKU/xTQ+frSbyRluNdbpiCZQDPJ1JrDL0m76mEPJkoPuKA==;XCJCIvkIjjhygEDMyHAZfg=="
 ---

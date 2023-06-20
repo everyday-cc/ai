@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "What does a chatbot know about eating disorders? Users of a help line about to find out"
-    excerpt: "The National Eating Disorders Association’s help line has seen demand climb to unsustainable levels since the beginning of the COVID pandemic, with more people reporting severe mental health"
-    publishedDateTime: 2023-06-15T05:51:00Z
-    webUrl: "https://www.delcotimes.com/2023/06/15/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/"
-    ampWebUrl: "https://www.delcotimes.com/2023/06/15/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/amp/"
-    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2023/06/15/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/amp/"
-    type: article
-    provider:
-      name: Delaware County Daily Times
-      domain: delcotimes.com
-    quality: 36
-    images:
-      - url: "https://www.delcotimes.com/wp-content/uploads/2023/04/2023dmt6.png?w=1024&h=569"
-        width: 1022
-        height: 568
-        isCached: true
 
 secured: "9wrVAgckq55I2ZQykdHwNEFAvEOAFkDiUEdw24e71BGIlq6W7MlQcMqICE66JI/eqAcq4MnYTCIIOENujRhcR6dHV9aMpdOnFTJmkb5B275yLChHNqpl1IizmLDsG7oTM9J6SeghgGYvXTMAxNLqV/xkRfJzZIjnD20apodYDgjlfte+5BxsV+McZALbReJzOVLiJ6RPFWoY56ytuKkz4jKoZBKMPiaMhuQMghRPIcTmTh6G/2DacK4XTXZ9p5+fSAsdfTiFkXlFYNW+P5LIi7DGXjZOR+gH+lnRuUIQH+F8pZgbiQY2udeKgG2vCH/hnktv97EtR3SIF/nidQRZ+xo851UiRQtQZgV9YFBc/mLhaSqJL9qOvwqqdlY/Bxbk2qdmAlPdkzRvu5VRNNx3puAEWOeTXZpZU5ZF/e5eUJgEnBsIBhKnU4epbgExDxYvvhFTl1UYlW5H/EKlEc3R3u0jyMB85UkKNuppKnPvz4VWbHxSG2THs/vzPR6bSXsMBjUREMMDkBtWtltS4Zp5uw==;DzFYVs5gPVUtvR6BpRcdUQ=="
 ---

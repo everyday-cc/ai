@@ -7,7 +7,7 @@ originalUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4086770&ca
 webUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4086770&cat=Science"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Meta unveils MusicGen, an AI designed to create music in just 5 minutes"
-    excerpt: "The Facebook parent company ... The researchers that announced the AI system said that all of the sounds MusicGen was trained on were covered by legal agreements with the owners of those music libraries. \"Open research can ensure that all actors have ..."
-    publishedDateTime: 2023-06-15T06:47:00Z
-    webUrl: "https://www.tweaktown.com/news/91911/meta-unveils-musicgen-an-ai-designed-to-create-music-in-just-5-minutes/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91911_2321_meta-unveils-ai-that-can-create-short-song-in-5-minutes_full.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
 
 secured: "QC/jkaC76aLI/8zcsGGnrClaIKj6onfj+TDeXk9b7ol90tLn2TehjBmvPOhv9APogRF063N97L9D0Pfpk+p2mt40FAA0w6CztYIE2Pky3bcqcfwPLpFJKk5ftkES2V2zvjTipos1Mr/NhrtFG1gmfBG40Lp7tYYRu53902ArWWVzAx5ZcUkh0MHYSK6hZ42kNNKSs92rkrxLJ/skzzzjrQzqzZGmRKRooW8pfrf6jdhvGi8b5I60QJ0UVi27+Ko2VnHCpYFqk72GBT60I6Q8XvyBWiTHbjOhmEaF9XM24wstdtO85NF33j9NtUfPwz2y1s202aKJFgc82Yq0H7bdEG+rCt626Gy1sSQDXMDvYm4=;kjSJci7Omu9tWUr8hg68xQ=="
 ---

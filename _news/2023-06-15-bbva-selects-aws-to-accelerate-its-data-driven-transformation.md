@@ -1,30 +1,22 @@
 ---
 category: news
-title: "BBVA selects AWS to accelerate its data-driven transformation"
-excerpt: "With AWS, BBVA can harness its data to remain at the forefront of banking innovation, boosting its business insights and developing more compelling and personalized banking services quickly and cost-effectively."
-publishedDateTime: 2023-06-15T10:51:00Z
-originalUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/"
-webUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/"
-ampWebUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
-cdnAmpWebUrl: "https://www-bbva-com.cdn.ampproject.org/c/s/www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
+title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
+excerpt: "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data."
+publishedDateTime: 2023-06-15T11:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
 type: article
-quality: 59
-heat: 99
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: bbva.com
-  domain: bbva.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.bbva.com/wp-content/uploads/2023/06/BBVA-datio-AWS-1024x575.jpg"
-    width: 1024
-    height: 575
-    isCached: true
 
 related:
   - title: "Amazon’s AWS Cuts Ties With Triumph Adds BBVA & Veriff"
@@ -50,30 +42,7 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Global Banking Firm BBVA Selects Amazon Web Services (AWS) to Support Data-Driven Transformation"
-    excerpt: "BBVA, a banking leader, will use AWS to deliver analytics and data services in the cloud, taking a step in its data and AI transformation process."
-    publishedDateTime: 2023-06-18T11:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208882-global-banking-firm-bbva-selects-amazon-web-services-aws-to-support-data-driven-transformation/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
-  - title: "With two patents and an IEEE publication, Meta’s Isha Oke is on a mission to democratise data science"
-    excerpt: "Our Women in Tech series features Isha Oke, Data Science Lead at Meta. During her stint in Microsoft, she received two patents for inventing new ways of targeting devices and transforming data into features for ML."
-    publishedDateTime: 2023-06-16T01:15:00Z
-    webUrl: "https://yourstory.com/herstory/2023/06/woman-technology-patents-microsoft-meta"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 9
-    images:
-      - url: "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/Untitleddesign57-1686828172586.png?fm=png&auto=format"
-        width: 1152
-        height: 575
-        isCached: true
 
-secured: "qwsK2tPbBLgZjD3yDIBR9b5DMBgQTPMWDNYcAKei7qV8Ehtt2llKe1D5WvHrYPiX17amnActlmx1Ljzv99sifrIUoN8wAT7WOrWlyexKJBuMiYoWQG52tBLaHI9HWbcyh0FYPSoNK5cmEA83p3FAId4EibBBI2Jt8RL8WOiijIrivh9Rg4mPCecO0n37P1rOSEJHRs0YWlDo+U3CPiHtwBq2Fk7EowBv1hmjtgyFANSzFDSqToKIt7ON7767AGihPou4vKLTS5xpQFqXHz90afR+2DdfqzL3fC1mWqCZLtBi3bzj7LebH1cSbnmtu0AUJnh4GGZJtyslGxYsHDZK7NcTvR3BVTUlMzqMaWCP1CQ=;82R6JlHzjKiFCqMVfeTWBw=="
+secured: "oYROpPCvxsB1OLJ9HgexNn6KQkvbUKD+PXnXxqp0Sr26Tos7fTnG2KvkyKRCWslsu8iJZl7mXggcHC/9ZCoy3lRjx7sYflOEvt1qny683wd9KhKv6q4x4mNB4vdbdvZEINkrvEVh/ITZET6RDHM3fBefaWciJAuPeZ+hCaLNO0DWCNqa/b4gQaQB/A1ESWERORORXHFBNyMS6qefIyYdbWc8VqZXvEkeGkVPdmGqafq82W8o08/1NXkZV+jfWMFv2lMhA0xRj8L7LzKnBySj29D1ThqIaLD4ow13FzdOdsz/0sf5+n3FTZEwi8sGTCyz8SDxFqA8vXTQj/QSN94kdDeMt8hi7SfpJEa8ntmvAD4=;0FmU0FSCJGPKldZp49Ercw=="
 ---
 

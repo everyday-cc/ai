@@ -28,12 +28,17 @@ related:
   - title: "Congress ponders whether artificial intelligence should have the power of the patent"
     excerpt: "Lawmakers are beginning to consider ways in which artificial intelligence systems are involved in inventive processes like discovery of new drugs, and how the use of such technologies affects what is — and is not — patentable."
     publishedDateTime: 2023-06-18T21:45:00Z
-    webUrl: "https://tucson.com/news/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_bb088dd2-fc56-5346-a4e8-8b099dea4b96.html"
+    webUrl: "https://madison.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_fdb1395a-886f-513f-bcff-874ed5580cca.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 10
+      name: Madison.com
+      domain: madison.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/db/fdb1395a-886f-513f-bcff-874ed5580cca/648a469dca917.preview.jpg?crop=1198%2C630%2C367%2C83&resize=1198%2C630&order=crop%2Cresize"
+        width: 1198
+        height: 630
+        isCached: true
 
 secured: "hGfiaInnaj12pDi0papwfcqKZkg/nT4mINeC3P/lV7KlvatQpd6MPVLqIGJ92V+R4zcDNVFVAoie93mcWorAHuHDpnUlZwQzm/uCYKbLDepT9MTT2rjH9NXMVOcfJopjvH+DEw1h1eB69w1rHAV09V41fa03slenejsFlHxAgjvpRSnmoE7F3yQA0BoJd/iFTCx0aD2GLTdkExuJi53IIML4GJf+/US73JqVq4KcZ32ricnVBpARNzAd0NwxA7t6jGQ2gt/xCbv4jcDU+Pbv3fIX71mAgFfPOTzdrA7gyfj5xEVn0Kct4KvTCKTmzZ1ujMIwv46st41IPclac3fpdogk9evIkZpfCBLRyPtQmx4OqKrPumGd6NskvlgvqbYanVswejUcZfyvJTyPdB6ntajdvSArYAuxuoAa+nxhcHIEzcZNwwO8Ukw1GFNg5BizWv9Ex2OnNYnHbuOJuw5otAUlccmA5ycJenKsDmdnuRoYDzBJOiR8mRXON8FMRcZpnrVcYipOeR/yeIah+x01lQ==;18KjxhFarsfLjfFROZK7Eg=="
 ---

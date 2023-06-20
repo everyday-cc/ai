@@ -19,29 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Chip Market: Growing Demand For Smart Homes And High Investments In AI Startups Fuels The Growth"
-    excerpt: "AI Chip Market by Chip Type PORTLAND, OR, UNITED STATES, June 19, 2023/einpresswire.com / -- Artificial Intelligence Chip Market Overview"
-    publishedDateTime: 2023-06-19T05:12:00Z
-    webUrl: "https://menafn.com/1106453645/Artificial-Intelligence-Chip-Market-Growing-Demand-For-Smart-Homes-And-High-Investments-In-AI-Startups-Fuels-The-Growth"
+  - title: "Artificial Intelligence Market Growth 2023, Industry Size, Share, Trends and Forecast 2028"
+    excerpt: "IMARC Group, a leading market research company, has recently releases report titled “Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2023-06-17T01:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32904061/artificial-intelligence-market-growth-2023-industry-size-share-trends-and-forecast-2028"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32904061"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market 2023 Growth, Trend, Share, And Forecast Till 2029 X Herald"
+    excerpt: "In December 2021, AWS announced the release of AWS Cloud WAN ... and value chain analysis. The“World Artificial Intelligence (AI) Market Research Report” is an in-depth analysis of the global industry with a focus on the current situation of the ..."
+    publishedDateTime: 2023-06-15T17:53:00Z
+    webUrl: "https://menafn.com/1106443771/Artificial-Intelligence-AI-Market-2023-Growth-Trend-Share-And-Forecast-Till-2029-X-Herald"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/18/EP_d9769image_story.png"
-        width: 898
-        height: 470
-        isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, June 19, 2023 /PRNewswire/ -- The Far-Field Speech and Voice Recognition Market is projected to grow from USD 3.7 billion in 2023 to reach USD 6.9 billion by 2028; it is expected to grow at a Compound Annual Growth Rate (CAGR) of 13.1% from 2023 ..."
-    publishedDateTime: 2023-06-19T15:19:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59373071-far-field-speech-and-voice-recognition-market-worth-dollar-6-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+    quality: 22
 
 secured: "9GwvWPPMKv8GmyTqVIEXtDWtMynvciJW8ch0keoSwyrvbzsr97SMRXVeBqh2zZyF5DJNxVv2lqV5W2MyylNEPgpPV8Sg2ngutvPyD5twc1sRffXXf1s66bw2hZIRiHcjw7G/EEsxbnkrh1DMOTFDXMzSrr0Us/ichdZXvKr7LC4suZ1bj1aLPYtAqeLDAgLLEg5X5WwmDAIXq0VRC2mv2TuHQbTxm0/jwPqTzSb48bOQsKiNFQLyBVfPbLujC7+g4jzwVF7+vYsqEzhJHRnD7cUIpg+pv+zzVdETgg1ylP5GKYZ2OiIjBcMai/iLpeS/sDMfOoP0A+l9WWHmalqdx9DgWoPB40Pb2Jp25kMyPS5oFaqnU13pEmEON6b8OlDXqdiJZI63Odd0bh0U9H2GUzRndKUe655pMocWt+nFLgefRX9HTp1+vuPubq4C4sP86xK+kG3HiHW2Ol6s9z3oE8H7J5+1eSUMJ1+ediAW0rBLmHTfIp2RqUwS2vM3K9zZ1c8X6uzX2B74sGeQqZGs2g==;a6DqjyC1yNGisCAoX0tYMg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/"
 type: article
 quality: 91
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "City brings in AI technology to deter crime in parking lots"
-    excerpt: "NoiseVu was founded in Albuquerque. This new artificial technology is an audio security system that is always on, providing real-time alerts."
-    publishedDateTime: 2023-06-15T05:19:00Z
-    webUrl: "https://www.kob.com/new-mexico/city-brings-in-ai-technology-to-deter-crime-in-parking-lots/"
-    type: article
-    provider:
-      name: KOB 4
-      domain: kob.com
-    quality: 37
-    images:
-      - url: "https://www.kob.com/wp-content/uploads/akta/3C2E33390EFA0FB902ACA86D23E6B284.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Revolutionizing Business: 5 AI Powerhouses Transforming the Way Companies Thrive"
     excerpt: "Brands that are at the forefront of delivering cutting-edge AI technologies and solutions to empower businesses across various industries., Technology & Science News, Times Now"
     publishedDateTime: 2023-06-16T12:02:00Z

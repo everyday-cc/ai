@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-
 webUrl: "https://www.cnbc.com/2023/06/16/morgan-stanley-says-nvidia-is-the-top-pick-for-ai-over-amd.html"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230614vl207_files/2_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Amazon Ponders AMD's AI Chips Adoption; Boosts Competition in Market Dominated by NVIDIA"
-    excerpt: "Amazon Web Services (AWS) is contemplating incorporating Advanced Micro Devices (AMD)s latest artificial intelligence (AI) chips, potentially diversifying a market largely controlled by NVIDIA. The remarks were"
-    publishedDateTime: 2023-06-15T07:00:00Z
-    webUrl: "https://www.econotimes.com/Amazon-Cloud-Mulls-Using-AMDs-AI-Chips-1657872"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 45
-    images:
-      - url: "https://f1.econotimes.com/2023/06/o3ivuqy5on_th_1024x0.jpg"
-        width: 1024
-        height: 644
         isCached: true
 
 secured: "CcyXcqsaoXtzryvugyew6G1jIRSNh55P5LNRIBmNODUZb4geYXD2FWcdwYGJy3oudn/0wEtS19uKuvSF1u94Y+Cb0Gun10q6gs3WYAifrUkWFN+GTiAYJRGVSX8YCY68cLxwfyOaDIgHejsnWvV6ah8xUYzA33NxbR7/yXWghF+vWKWvpD14LL8pb/wh5GulRvr/ROiDMr+PSOD84b3HBgz2QuqTEtJjoXV1CVSu4xDQk4JbqMiALS1ReorSRWya75X6LEPo+J9wwKseoG8jsN9rqEiLFiCZFP6uZeMWUQx0OlQng4Z3Yg9Yjynn2ALhwtTH0vhxahDtXSgfSveglHaGZGph5oOyXbCxtjvAOoQESHvwMsj3rl+LNXCEk7pO9juW72QZyDtainciN1xwUYdZ/Xb6ceHokPyQZaaVVdStAtwZhNOZbdptD2RErqRtkkQapEvIhJgx2f/G5P9fG86obThWKVRIiMLYkMXD3fjvaIsrxETFUVevQI0fIoI+2d51wkbvJOaDHq4GzZ8Vtg==;7pCOl+bUSy20OTapW76YTg=="

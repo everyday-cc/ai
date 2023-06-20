@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32904061"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32904061"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Benzinga.com
@@ -28,29 +28,24 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI Statistics And Trends In 2023"
-    excerpt: "Do Alexa, automated chatbots, robots or self-driving vehicles intrigue you? If they do, then you must know that they are all based on the technology of “AI” or “artificial intelligence”. AI is a branch of computer science,"
-    publishedDateTime: 2023-06-15T05:22:00Z
-    webUrl: "https://www.forbes.com/advisor/in/business/ai-statistics/"
+  - title: "Artificial Intelligence (AI) Market 2023 Growth, Trend, Share, And Forecast Till 2029 X Herald"
+    excerpt: "In December 2021, AWS announced the release of AWS Cloud WAN ... and value chain analysis. The“World Artificial Intelligence (AI) Market Research Report” is an in-depth analysis of the global industry with a focus on the current situation of the ..."
+    publishedDateTime: 2023-06-15T17:53:00Z
+    webUrl: "https://menafn.com/1106443771/Artificial-Intelligence-AI-Market-2023-Growth-Trend-Share-And-Forecast-Till-2029-X-Herald"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/06/possessed-photography-dRMQiAubdws-unsplash-1-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "How To Use AI To Build A Website In 2023"
-    excerpt: "Do you know that you can create your own website in just seconds with the help of “Artificial Intelligence”? Yes, it is very much possible to design and generate the website on your own with the help of advanced AI powered tools and methods."
-    publishedDateTime: 2023-06-19T12:20:00Z
-    webUrl: "https://www.forbes.com/advisor/in/business/software/how-to-use-ai-for-website-building/"
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+  - title: "Autonomous AI and Autonomous Agents Market worth $28.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The Autonomous AI and Autonomous Agents Market is estimated to grow from USD 4.8 billion in 2023 to USD 28.5 billion by 2028, at a CAGR of 43.0% during the forecast period, according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-06-19T17:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-ai-autonomous-agents-market-worth-285-billion-/2023/06/19/9834940.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "8SBotVcrLxBSGqdoUtKWPDqr1+S+nBaYOHvf0oV8U2EMvNSSZaV/1RV385oizzd8wZbY64L0guBWx+CWDaVUL2N/05zQqCbdkCzH+lV/owaR/L60XMFJeL3/5Ex88e+Q44il6wLxTcdugvsU6PbAgX+zJomGMwGHjMbPDTJTE01C+nkmiyn1YMcrg6ZBTEc97fSKUjcMn3Up3U/dm16plSPawZX7PLhckFB0s3AHA/wG1TL/8LR54WNyZcFU4dgdKJVdQXYXM3o2L4PJ78PvzcOBtKPGG1gyHwPGXotN9auyPFkxrlQReKJoefz7vQ/Fiz4VAOyXiipT8mSEg7+GJOrCYCSlKkGhjdBES7OSRkE=;QWGqhaf1GopUl1AXxyOh2A=="
 ---

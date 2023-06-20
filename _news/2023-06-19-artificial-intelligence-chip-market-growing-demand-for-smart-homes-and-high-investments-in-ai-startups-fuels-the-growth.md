@@ -36,15 +36,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
-  - title: "Autonomous AI and Autonomous Agents Market worth $28.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The Autonomous AI and Autonomous Agents Market is estimated to grow from USD 4.8 billion in 2023 to USD 28.5 billion by 2028, at a CAGR of 43.0% during the forecast period, according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-06-19T17:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-ai-autonomous-agents-market-worth-285-billion-/2023/06/19/9834940.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "wO0j5f2qcqwoSgFLMbOmKqTq5v4ICxdce1kGZVFkCuAxDHo0Wta0wWsPWw5rdRO2OmGjofH33brVE5lGn7ACPdzTVggis3fuEuLxPupfs8tHHwpRozE6Bot7UGLexfO1g0N8Yiykh9mcBucuWlux1hl/3WsCJXkU1LmBd1dEWFdOErpD31Clk9Erq2qaX+RW5ACpHguAEiXK+WMYmH+drEqH/bC+Yckiwbn+DIGPp2Xm+lhRTfInW+RfFtu94a0hO8QIUXMD+XCauLX/sxULlG2WplFHckRU7G8UsIlryWpe9Y2BIGnUOtQJ3fEkdlNv1iHh+EkUBkKKZc3/V+fMqNv/wvdj3qVszHUVUoRFlnSuUyvxMsZTKAQwQ1upeYz8djVD2QF5YSjPbKN/2tZ2YcI4LMm7EXxiYhSBb0FM88Qqkeo+lZdrCBQ7Cgl8Q+wTZRGUsFyH5eQ9t6Wdm2LoHxWNjQYstwWt91/Zz6umecFtvoJc4cMEHyXM4KzqBWkS8odo7YbtFhk9ygCCt/SI2w==;O3s9ZgOW9XJbY/PvbIsQ6w=="
 ---

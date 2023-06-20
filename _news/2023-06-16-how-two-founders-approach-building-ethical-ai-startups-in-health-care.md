@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/
 webUrl: "https://techcrunch.com/2023/06/15/ethical-ai-health-care-startups/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "RAISE-Health addresses ethical and safety issues in AI innovation"
-    excerpt: "Responding to rapid advances in artificial intelligence and the urgent ... Both awareness of AI and skepticism about its use in health care have skyrocketed in the last 12 months."
-    publishedDateTime: 2023-06-15T06:56:00Z
-    webUrl: "https://www.news-medical.net/news/20230615/Addressing-ethical-and-safety-issues-in-AI-innovation.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 56
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "How 16 Vendors Are Helping Partners Build AI Businesses"
     excerpt: "While several of these vendors have been offering AI products and services for years—such as Amazon Web Services, IBM, Google Cloud and Microsoft Azure, to name a few—demand for such technologies has reached new heights recently due to the hype ..."
     publishedDateTime: 2023-06-15T20:40:00Z
