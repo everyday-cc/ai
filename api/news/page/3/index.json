@@ -2,6 +2,142 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-19-omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees.md",
+      "title": "Omnicom Group to Debut Tool Using Generative AI for Advertising Employees",
+      "excerpt": "Ad holding company Omnicom Group plans to debut its first generative artificial intelligence tool as part of a partnership with Microsoft: A virtual assistant to help ad agency employees with tasks across the advertising process such as compiling audience insights and building media plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
+      "originalUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-802415/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics.md",
+      "title": "From manufacturing to mosquitoes, universities explore AI uses, ethics",
+      "excerpt": "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "publishedDateTime": "2023-06-19T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-five-big-takeaways-from-europes-ai-act.md",
+      "title": "Five big takeaways from Europe’s AI Act",
+      "excerpt": "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
+      "originalUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
+      "publishedDateTime": "2023-06-19T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-this-fintech-startup-serves-a-75-trillion-per-day-market.md",
       "title": "This Fintech Startup Serves A $7.5 Trillion Per Day Market",
       "excerpt": "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries.",
@@ -10,7 +146,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -413,7 +549,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -517,7 +653,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -568,7 +704,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -713,49 +849,6 @@
         "AI",
         "AI in Security",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware.md",
-      "title": "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware",
-      "excerpt": "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
-      "originalUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
-      "publishedDateTime": "2023-06-17T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1133,109 +1226,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-elon-musk-backs-ai-regulation-but-offers-only-vague-solutions.md",
-      "title": "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions",
-      "excerpt": "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "originalUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
-      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
-      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
-          "width": 1213,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:08:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

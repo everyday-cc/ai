@@ -82,6 +82,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "NYC grocery stores fight proposed facial recognition ban"
+    excerpt: "Grocery store owners in New York City oppose a bill that would limit use of facial recognition software, saying the algorithms reduce shoplifting."
+    publishedDateTime: 2023-06-20T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202306/nyc-grocery-stores-fight-proposed-facial-recognition-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
 
 secured: "CuF8h8ewKTl3ZfkHOKDm1p9yOCLDquDWqkCrmzi1iLN1e974iGQ2UT5GYmwfu9fwrFWfjEp7wE3wnyse+pdZUubtHh1uegMVmQrC2yRQBeuFP7EYsXSWZa3Sjo/ztO0rK0dLL0RLvAJeu090bpEjs0M5smz2KzsYfOkQGeqEONA+IPymzibPxlT3TE8J7fCJ0znm4iw/4UDXNqQ+J1HfhLt09Cj30MtomL6m4zEdp49SyBcJ9xb0VL6ktnGEjG8Ryc1nfhgrnUchxMUmr5C7PA71S5RYOrumSJ9vNrFW9gDEybQgJGmei6y0pyOCvgS1nJeZR+DecrT9AnRUUnX5uqyMsWnO7+GmHsvYjKJFrp3Hk8PrFPjaZ82rP3A7H3NwgrY006MNQEQ6p3VSQXDBu39lXYMtTsulXpCOj0xcfRMeS9ptAfivqmUJVji3ftLpfnqLMm0mFKxqr+S3iuWpLW4Vs/D3KSLzNB6LxlPmlUSBQpevVVZeCKfj2dyyGw7fBNYp+Q1cHRPBKyXtov53Yg==;3WeZ8fw0MHOWFXEdMESZ0Q=="
 ---

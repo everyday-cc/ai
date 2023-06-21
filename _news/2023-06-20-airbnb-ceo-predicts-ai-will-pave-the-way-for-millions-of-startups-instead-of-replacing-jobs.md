@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-mill
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp"
 type: article
 quality: 76
-heat: 76
+heat: 78
 published: true
 
 provider:

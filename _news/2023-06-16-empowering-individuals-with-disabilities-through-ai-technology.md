@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/"
 type: article
 quality: 91
-heat: 104
+heat: 101
 published: true
 
 provider:

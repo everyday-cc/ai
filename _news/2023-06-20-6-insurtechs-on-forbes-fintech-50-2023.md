@@ -87,6 +87,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "JP Morgan invests in trade finance fintech"
+    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2023-06-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
     excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
     publishedDateTime: 2023-06-20T07:40:00Z

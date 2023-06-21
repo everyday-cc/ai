@@ -39,20 +39,6 @@ related:
         width: 898
         height: 470
         isCached: true
-  - title: "Developing Effective and Safe AI With a Growth Mindset"
-    excerpt: "Not even close. The failure could hardly be blamed on a lack of technical expertise, for IBM tasked an army of engineers to work on Watson Health. Our extensive research on the challenges of developing AI in various commercial settings points to a ..."
-    publishedDateTime: 2023-06-16T06:12:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/developing-effective-and-safe-ai-growth-mindset"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 39
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-05/shutterstock_1798672534_0.jpg?itok=eWLH-K3s"
-        width: 1000
-        height: 587
-        isCached: true
 
 secured: "IB9yo+ulF+hsa+YYPSwsCD9s5GQq0wcWKtFmQKhWipkB0TT1AMyj0WTne7wtt815LZOtmvAbSMqJuKA3V00VuMQznLigLmnqJMwjvh8Dh9IBbWvuNoa25O7EbZZoxpPs+8EvG7K1LiuyOgEdj+t2W5GiBOkCHKcH8N2XC3t2jyDUn3JPqdeG4FYn/hMOc5E/0g1dozQW5FXzt5EymTGIc9wImtwyJgvoeJ6dU3YAnIpoN3opVXpHtbHx7GwK99j574GPoRSfRYS1AXu5e9oWJ+LW+9ydb0LDJr2GUhVjfBPW3BSUzosGtj8D8+ppHrlb2BshLRj9IUZNMzbdolwWq2b6/V+eTWFOllwfEz+JrbE=;XTtYY4xlu86DVIeaE8ToVg=="
 ---

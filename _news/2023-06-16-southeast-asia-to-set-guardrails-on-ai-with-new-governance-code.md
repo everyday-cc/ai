@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/news/asia/southeast-asia/article/3224342/sout
 webUrl: "https://www.scmp.com/news/asia/southeast-asia/article/3224342/southeast-asia-set-guardrails-ai-new-governance-code"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Exclusive: Southeast Asia to set 'guardrails' on AI with new governance code -sources"
-    excerpt: "Southeast Asian countries are drawing up governance and ethics guidelines for artificial intelligence (AI) that will impose \"guardrails\" on the booming technology, five officials with direct knowledge of the matter told Reuters."
-    publishedDateTime: 2023-06-16T07:05:00Z
-    webUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
     images:
       - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
         width: 1200

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-hpe-discover-2023-greenlake-enters-the-ai-market-with-llm-cloud-service.md",
+      "title": "HPE Discover 2023: GreenLake enters the AI market with LLM cloud service",
+      "excerpt": "GreenLake for LLMs was created in partnership with Aleph Alpha, a German AI startup, which provided a pre-trained LLM called Luminous. The Luminous LLM can work in English, French, German, Italian and Spanish and can use text and images to make predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
+      "originalUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg",
+          "width": 794,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-meta-announces-voicebox-generative-ai-model-touting-accessibility-implications.md",
       "title": "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications",
       "excerpt": "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ...",
@@ -1380,59 +1432,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei.md",
-      "title": "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei",
-      "excerpt": "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

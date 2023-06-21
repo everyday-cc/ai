@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crash-safety-self-driving
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Drivers prefer ADAS over self-driving vehicles, report shows"
-    excerpt: "A newly-released report has found that while those shopping for a new car want the vehicle to include advanced driver assistance systems (ADAS), they are less enthusiastic about semi-autonomous"
-    publishedDateTime: 2023-06-20T12:30:00Z
-    webUrl: "https://www.repairerdrivennews.com/2023/06/20/drivers-prefer-adas-over-self-driving-vehicles-report-shows/"
+  - title: "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'"
+    excerpt: "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode."
+    publishedDateTime: 2023-06-20T23:56:00Z
+    webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
     type: article
     provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 4
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg"
+        width: 1600
+        height: 902
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware"
+    excerpt: "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same"
+    publishedDateTime: 2023-06-17T16:37:00Z
+    webUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 73
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla shares jump after Elon Musk declares self-driving cars are near"
+    excerpt: "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability."
+    publishedDateTime: 2023-06-16T17:38:00Z
+    webUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/"
+    ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "DJWV4mhqjivzi1ER0tx50JpCPsuFv6vcoKGLYFWiQxPcsj2yopbbatFJe2QvD+73hIZsLcGYwCJjxeNt4ISMRxobZ1frV+zhApXyjlWVDCOoL1V5k/Xxnp5k5UtoSHLbXH2WeCj/nptG98cABg4IAkZebjdqtGAfQhOFZqZCmYHcX0dcBYGqqmJ1fmg9M4bfadKp3I6HQrxcLzhLUHr05cVlNKyjfPS0hPxPiu3BvMA7Aop5UhnBZVV63Mp7hlh+OmxOx0EkfeSy2Rc889ikpblPR+2OgelfgY2qz5w6oWJqkkuLAOQedV8S5jzg26uZMJT/SXckcUqvUDl+Ss0BeazvvZzhpj+ATcuMqlUdX/4=;0wJBj5AdetZ0jLga2vvWVQ=="
+secured: "sk/T23dn3QvtWHAVxmvBGlJ6jVHlUv1EHQKR5+KSs76bRFtSnc+uhdgcKFKwxX+Oi4HFtrQ0woWlhojFSImU6XPqGegce+umqktXYZ73qMxMN4l8gMZC+VJIijxIYvuFNvI/htCcXLHiH1b24BqzeSoR09y3E8Z7eiWoHgFxW8UnGUOxs1yCqmydRPlJ0jcLK4c61XiGNzH0jl824SHe6gWbb1FKGDwDgqJgeO7yD7y2sCBlnSI7bAi0wdxpw61oi6WjbV9vfhFg+kYVS7Iwhf87PP4l7fNYAxY/VIiS9nPH/CWiwyL3jrZqZuKXdFajoIeuz3K7n2GUVjEdfzyp1odU5nYWNvI++3VmMwHEmdKudE9TqAPg+Y4wrQ3QjDeu026D0zMtpQ3AlpXlUbMrnaXKDG1kzgWnZOT2Xbk6dMuSjdpF8Vb2j6x1JKh/KAtJaZEQd6t7XhXQmsxWcJxdrGULoELrULfASjW2kpJ9t51KTFhZfW0TB8L+dJMHitbxxTH3DjI+/xYVB3TFf1dC9Q==;KYizXKF9W0YTsTr20e5alQ=="
 ---
 

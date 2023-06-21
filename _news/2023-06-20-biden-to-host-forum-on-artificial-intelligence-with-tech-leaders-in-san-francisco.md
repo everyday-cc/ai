@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host
 cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -42,30 +42,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President Biden talks AI with tech leaders in San Francisco"
-    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
-    publishedDateTime: 2023-06-20T20:54:00Z
-    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
-    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
+    publishedDateTime: 2023-06-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
     type: article
     provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
-  - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
-    excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
-    publishedDateTime: 2023-06-20T13:55:00Z
-    webUrl: "https://kotaku.com/twitch-biden-donald-trump-ai-artificial-intelligence-1850555581"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/83171901e6430097427ef734336e8314.png"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
     excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"

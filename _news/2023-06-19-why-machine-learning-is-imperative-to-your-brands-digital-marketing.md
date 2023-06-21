@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-mach
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How AI is Powering Marketing Success and Business Growth"
+    excerpt: "Embracing AI is now more crucial than ever for businesses aiming to thrive in the ever-evolving digital landscape of Canada."
+    publishedDateTime: 2023-06-20T20:33:00Z
+    webUrl: "https://about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/"
+    ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 74
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2023/06/MKG_META_MPS_TITLE-SLIDES_MPMS-Event-Slide_MAIN-SCREEN.png?w=1200"
+        width: 1199
+        height: 738
+        isCached: true
 
 secured: "nCP2DJ8CAOHQbYyVAlz9qWeRDzSnlycvorfB2LkQXoI/zCJPX3S16u5TjymLpXhP6z33UkdGliGoLn5e+Z/En4HxFxxPMvlW/91zPAr/xFbNT0zeFJqh4Cv5oFiPd7cphDcmKO4B7nuA4jxk0v/y0052k3EDXyVu+v9lHbtYwFwPETrt1x0H16bjaiIB6nfE3q4rhcKrY/+6wmC4LdAyARJQe1V7TQaXRMIfwd2H607DnxMhKxP+H+u5GjqPpYD5XzjKiSBYoEnWc6we0vl8Z5vvNqXlnxpXRaBZcfRajXcBolgdb03iyiCdFFsWhofdiFhOm/zJV0scy15GhHY/HEPOnCqcBi5Sa0jYDi845I0DGTkAmHTFA6gXGpiibCV/WNodlrYXSLsiMIqOKKkGu2uDrZhFy0CtBWBBrs5epaTuoQ/C8hUcPSCgHEyGoXqRA6PMOXzpSLpTEUukdLbMB5CFrYnaJgf7uxZD0VoewYWcj+TMpKCaJc7GHAyCyGWgfFODxmJoQO6HWu/bDQgzQA==;HWUvFwu2MFkRGYzgUFSiLg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 101
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AMD Instinct MI300X Datacenter GPU gets 750W TBP"
-    excerpt: "AMD recently presented its latest technological advancement, the Instinct MI300X GPU, at the Data Center and AI Technology Premiere event on June 15th. In the keynote address, specific information"
-    publishedDateTime: 2023-06-16T06:17:00Z
-    webUrl: "https://www.guru3d.com/news-story/amd-instinct-mi300x-datacenter-gpu-gets-750w-tbp.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "77FW4+qDsEZEF6RurcCuSesu7yX+s+HVf+PTyEaFdWbl20yQlvrmUJtIdPB7wziL6k1DCilNqTqyXN0Dqqi5Lxhi4FvXpyiPZv1a158rfTPXWrieRH8q+61bnMZB7ul6ktZ8ajx75KiYpfjVGywePC8Qu4cxmzxoKMcsqZB2etUidyZdLVZ8X95mCafuKy3l8JlzLB44O9kQaxHf2UfyWr4P+SuRsNH2A7ffYr7wOcr44HR1GuuM7G6ix8D7msLmemQcWsPfxfm/hupRljQU10KPfIwOCdeZYqe4P1T8HXY+VO0P6txhwT+PiN8VPgvEA3UhVFomCmkMCV/HiWKD60LQmTbDqVdCnvx0va/aecf1oF23UdB0jsb/gFBJiInzOS0YM40Gnjfr3d0/QSc79tZRf5h5S/vB95vFE4mNb/GvIOC4lPhYhQ4UaUWiAorB4fAjOWNcrVjKVgVQcciwdtoy3X6m4RL6xeYd4nM3TTo8eOUyvsotdVlCxNKeBECIyWDgKVCq1KpbxAkxlXMbEw==;BJUBy+ESrDSSjBtX3iY6kQ=="
 ---

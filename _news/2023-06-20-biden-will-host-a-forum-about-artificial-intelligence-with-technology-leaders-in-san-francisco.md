@@ -50,30 +50,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President Biden talks AI with tech leaders in San Francisco"
-    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
-    publishedDateTime: 2023-06-20T20:54:00Z
-    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
-    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
+    publishedDateTime: 2023-06-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
     type: article
     provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
-  - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
-    excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
-    publishedDateTime: 2023-06-20T13:55:00Z
-    webUrl: "https://kotaku.com/twitch-biden-donald-trump-ai-artificial-intelligence-1850555581"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/83171901e6430097427ef734336e8314.png"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "ComuEo74vr4G6jA4BlaE0ww5ti9seEdwdMncrxoQZtAdJUDcBYXwXsmBsWRaA9NKo4Zhjuvwp+Py/uzYnoYzj1IG1yoINi9ZfMyRkbpDC7Xj7G6o05l/HxMzxpCUo3s3JldSLKE/Mrfx0HAysB59SSRVGu7yTXUrbtlBITWZM3ss7l2L/sdLB94W7gADT0UtRfd5CgdNPuJB8Acwd9Aot6lSZaqJHEOzK/UVve+XTAG2ksPkFlm1v9CWnCm6+RSsa2glg1SvuGIxF9mJJNuHTwrwRqhxzBnDq33/E2p7T12Wvhl0waafiWsz0oHIi2eweK/7vB6+ga70GYxcBcj7UAUizQPytBkVrpCF9NgRu4HzpNK7EV4reYof9lIwUSbh3d1oRYJ3L44wohbu4zJOfuxCTLrgk86HvWF50BiN9HtoJD1q1LhqRcEHAgqaZ0g5+l7BI4wQsmf4AMZGy9TecVfvjMqBmmomE7huFGUQnZxLqkISXTsWeGDntuBTZW/usjXKW5IhZHfmJAq35rQlMg==;GWgIwV2FemEcqpTRg3gCjw=="

@@ -21,37 +21,53 @@ topics:
   - AI
 
 related:
-  - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T11:02:00Z
-    webUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-    ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
+  - title: "Biden participates in meeting on artificial intelligence"
+    excerpt: "Watch live coverage as President Biden participates in a meeting on artificial intelligence in San Francisco. we and our partners use cookies on this site to improve our service, perform analytics, personalize advertising,"
+    publishedDateTime: 2023-06-20T13:08:00Z
+    webUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183451205824"
     type: article
     provider:
-      name: WVNY
-      domain: mychamplainvalley.com
-    quality: 52
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/06/64918813890167.37422042.jpeg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/biden_racial-zy143k.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Biden to host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco on Tuesday to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T14:01:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
+  - title: "Biden holds meeting on 'possibilities and the risks' of AI"
+    excerpt: "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans."
+    publishedDateTime: 2023-06-20T20:37:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183553093957"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 46
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/38aecc01-3c7f-4331-9ed3-ca55716187ef/thumbnail/1200x630/1d0e3238c21f157c64541c99aa418230/biden-bay-area-visit.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
+    excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
+    publishedDateTime: 2023-06-20T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/ai-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
     excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
@@ -67,15 +83,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T13:19:00Z
-    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+  - title: "President Biden Remarks on Opportunities and Risks of Artificial Intelligence"
+    excerpt: "President Biden gives remarks in San Francisco on the opportunities and risks associated with artificial intelligence (AI). Defense Secretary Lloyd Austin spoke at the National Security Commission on Artificial Intelligence Summit. Secretary of State ..."
+    publishedDateTime: 2023-06-20T13:12:00Z
+    webUrl: "https://www.c-span.org/video/?528865-1/president-biden-remarks-opportunities-risks-artificial-intelligence"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 5
+      name: c-span
+      domain: c-span.org
+    quality: 14
 
 secured: "Q6Yqcw0Laackg3h5FFBcxIDqDeJaoUukhc346O65Zbmy6uiLGv/6Gusb3wGoiXtjy4FHoNt+liAHtc1DVrIPGyl8aXl0OEyzmehvlM65mXpfpoxextckDRM5I9xwPyLJIxffkmSO3H+BYtz1Z0EB0d5h7+ZxBhKF+Xxxu4RNBf7VNnc4ZXpxCngWOy5KiddJPwUE4WngCzZcQB9711inyIb0GSn3jjUWpuwGqTbK4vrB4ON2ixXHvF1x/h/DSomvEPQP2XD7aigQC+q3XZuAT1HrNWox9vWLyf7e10UvpdVgXfuKTUZ326cgWI2CyrPxutapDeQDne7KZyU+IjBcJWFHRxZoR8vSmv/em5sdKFvonjW9sIMJ+XLCVFH22HRRtp2WQ3Mb5vf2JFrJhArzE6ATXeCW2IvC32I+5uOhpPN+qQW4WQlMF97/3rwBuwBdZq7lZfX6BWnUqfIPfvvxDrXpdthhakbsCZyA6gqNX79YDk12f+SZ0e2hAgFsgzNKdf/AStvkwckii9HzaoRWVw==;56bmGdcoNjkav5Y0SHZZIA=="
 ---

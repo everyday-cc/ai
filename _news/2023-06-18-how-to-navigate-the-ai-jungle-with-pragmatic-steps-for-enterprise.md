@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-prag
 webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
 type: article
 quality: 67
-heat: 79
+heat: 77
 published: true
 
 provider:

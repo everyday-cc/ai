@@ -33,7 +33,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg"
         width: 794

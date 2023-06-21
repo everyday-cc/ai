@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'"
+    excerpt: "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode."
+    publishedDateTime: 2023-06-20T23:56:00Z
+    webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg"
+        width: 1600
+        height: 902
+        isCached: true
   - title: "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware"
     excerpt: "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same"
     publishedDateTime: 2023-06-17T16:37:00Z
@@ -42,6 +56,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla Has the Most Self-Driving Accidents. There’s a Good Reason for That."
+    excerpt: "With advanced driver assistance systems proliferating, investors need to understand how to read safety data provided by regulators."
+    publishedDateTime: 2023-06-20T21:51:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-crash-safety-self-driving-4d82df2a"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-800161/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "MbALXeewdozGIHAAzFZ+8Q+GQVQEL9wT0BlmmDRegMr7BzHRDQl+At9ba6og68aVQ5g1e57pfuS6UVw2UY+CMEd4FcgeGXasgiNIE2ulwEkhZA4twzi1F7Fhak439IBOGd+cAQ2UwVzIC+tPeIxsh53QJQl8m+TqgAlE7vXPDM/mMoe7dTSu84dUo+aqnM5YzC3hJ2qvZhlwuNcaEfUikoDNlzQMFwV5Y1iBsLsLlru5CxyodePq0Wh6r60t2RMPIxdQhpmDLKRr9DCQ5j6QEn34Aciv7Ao8F7otgkBXqRhLN9W69WF2A11McT7tOjybBW3fMgzQXJhh92dWKPVRfaagGnyLYPuXymBlhQiokzLgwnwwiOAkBeXopRndIYry74RWmG+OKbJ0WUPmU6VQggnBRwbtBh3u73voPF/0aWrlf4rXde8P7giZ+X4KW+aThxYtkzPaGTmFM42WjmaQMeC0Go7ELxDTmELuQ2stINZLhT7u/Ux2DWhohrO6KPhXCuhkNN/O+p6yOmloocyx9g==;md18igTPIBja2fyEFQ0RhA=="

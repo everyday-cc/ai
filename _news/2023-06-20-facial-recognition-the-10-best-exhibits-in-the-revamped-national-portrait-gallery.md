@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "NYC grocery stores fight proposed facial recognition ban"
+    excerpt: "Grocery store owners in New York City oppose a bill that would limit use of facial recognition software, saying the algorithms reduce shoplifting."
+    publishedDateTime: 2023-06-20T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202306/nyc-grocery-stores-fight-proposed-facial-recognition-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
   - title: "Garda body cams to include facial recognition but real-time use prohibited"
     excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
     publishedDateTime: 2023-06-20T03:59:00Z

@@ -68,6 +68,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "NYC grocery stores fight proposed facial recognition ban"
+    excerpt: "Grocery store owners in New York City oppose a bill that would limit use of facial recognition software, saying the algorithms reduce shoplifting."
+    publishedDateTime: 2023-06-20T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202306/nyc-grocery-stores-fight-proposed-facial-recognition-ban"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
   - title: "Garda body cams to include facial recognition but real-time use prohibited"
     excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
     publishedDateTime: 2023-06-20T03:59:00Z
@@ -83,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XOYT2Um52DCIIwCSYUUEMzypaV58/GAJyo9oh1shDC9PVyvds+oFPjpKIlfcw4iM71uJ3UfewlmcKO1QJG8jbNIPgQFKwyVRkbp2HpQgvJhbIIs+vEjA/jn2DJWbWqsgxX7qtDQuudKwuCXMIA8a3Do5cgWcC+xcXoFDdocGRNwRPgH/zQI1nYOuZ09c17gmtvzVGhB3PTwKFx+Zs7irmIZPDIdVBM4/1PkPiFY2uQhzvPIM0tOTzfEdfjYiSEVJOHsxUuCbsyRhP8eMIRTNaz2pus3mpPZAjPGyhNBu5/1rfD74t6K6+VaQpHxXf8zUQxCBrlGXk2UgG8PjyINfdXiJYuuMI53boEfPcn4xO8o=;DDmRdXMjkbLYpXCZiiC+fw=="
+secured: "dsecJVlVuzqq7V3GBwD3DevHf0ZFC6Ggxl5LNJlCnqJH8wUvfEScWnncjwHJd9Ge+bVEH3/Pl5hWoEO+u5bRnq5wWpPhmatx/jim+x0urfvOVubXVdqzMi1rrVoWj91YK8GMGConYoZsEPHl5IuRa/o3Q5n3spwUgEexVTvu7zhfuRx9Eu3omjMvPaV0eigWpY2ddVNCYlBqy3KkVMlXhpTa64Rnj0LIgO0aAzTPVC+fY30OJR1u7ukexFAqOzaw4MGFwVZE3r5Ouz64L+mSq+1JacbF2F+rOvx75YPTGabcKlHzvBBqzJWC7fLi4mkdR9RVx6+XSAnxFn39h8ur97iry6TghpEzn/B3YayRzKnpI/SatfncgIoKSJ89fjZ04pdVocDHVTErIb0cIX46dDMPDjOf1YDilKhWo6OKlxWeaullq+99zwBAPkdCI58t2L7o0suLpDaXnb4jvSliz5IHKFrYUmr59FeqtrI44yz0EoCzXsZRWwaIFJ/Hd5sno6+0ntbcIWhWuoiKZxyekw==;SN+LeMTxL7mPa38BmYOFag=="
 ---
 

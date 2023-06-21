@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-20-harry-styles-cardiff-concert-face-recognition-to-be-used-on-crowd.md",
+      "title": "Harry Styles Cardiff Concert: Face recognition to be used on crowd",
+      "excerpt": "Thousands of fans attending the Harry Styles concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-65960525",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-65960525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/723D/production/_129754292_mediaitem129754291.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-65960525.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65960525.amp",
+      "publishedDateTime": "2023-06-20T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-biden-to-host-forum-on-artificial-intelligence-with-tech-leaders-in-san-francisco.md",
+      "title": "Biden to host forum on artificial intelligence with tech leaders in San Francisco",
+      "excerpt": "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "originalUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/06/64918813890167.37422042.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/",
+      "publishedDateTime": "2023-06-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WVNY",
+        "domain": "mychamplainvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters.md",
+      "title": "Nvidia AI Chips Getting Sold In China's Underground Market Amid US Sanctions: Reuters",
+      "excerpt": "Despite U.S. sanctions, high-end Nvidia Corp. NVDA AI chips are being sold in China’s underground market, Reuters reports. Underground Market: At the Huaqiangbei electronics area in Shenzhen, vendors discreetly offer Nvidia’s A100 artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia_9.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32918479",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918479",
+      "publishedDateTime": "2023-06-20T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai.md",
       "title": "These 3 Approaches Are Key For Businesses To Avoid Being Eaten By AI",
       "excerpt": "Given the deafening buzz in the six months since the public debut of ChatGPT, it can feel like we’ve entered an AI bubble.",
@@ -114,7 +251,7 @@
       "originalUrl": "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -314,7 +451,7 @@
       "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -460,7 +597,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -564,7 +701,7 @@
       "originalUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -717,7 +854,7 @@
       "originalUrl": "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -769,7 +906,7 @@
       "originalUrl": "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1008,7 +1145,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1102,142 +1239,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees.md",
-      "title": "Omnicom Group to Debut Tool Using Generative AI for Advertising Employees",
-      "excerpt": "Ad holding company Omnicom Group plans to debut its first generative artificial intelligence tool as part of a partnership with Microsoft: A virtual assistant to help ad agency employees with tasks across the advertising process such as compiling audience insights and building media plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
-      "originalUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-802415/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics.md",
-      "title": "From manufacturing to mosquitoes, universities explore AI uses, ethics",
-      "excerpt": "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
-      "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
-      "publishedDateTime": "2023-06-19T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-five-big-takeaways-from-europes-ai-act.md",
-      "title": "Five big takeaways from Europe’s AI Act",
-      "excerpt": "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "originalUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "publishedDateTime": "2023-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

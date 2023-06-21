@@ -2,6 +2,108 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
+      "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
+      "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647d9bae4c670bf9090e1092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
+      "publishedDateTime": "2023-06-05T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-australia-launches-consultative-review-of-ai.md",
+      "title": "Australia launches consultative review of AI",
+      "excerpt": "Following the U.S. and Europe, Australia has decided to explore a regulatory framework for AI amid mounting concerns about the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/92274b7619a0efc8c764d029afe0a002410d64b8/2023/06/04/0bdd189c-3a78-47c3-901a-e70e72ad5310/gettyimages-1258297475.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "publishedDateTime": "2023-06-05T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-google-launches-extensive-ai-course-for-free.md",
       "title": "Google Launches Extensive AI Course for Free",
       "excerpt": "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and",
@@ -505,6 +607,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-generation-ai-fear-for-jobs-as-half-of-uk-public-think-robots-will-act-against-human-interests.md",
+      "title": "Generation AI fear for jobs as half of UK public think robots will act against human interests",
+      "excerpt": "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1032,142 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-new-technology-creates-ai-romantic-partners-for-users.md",
-      "title": "New technology creates AI romantic partners for users",
-      "excerpt": "As artificial intelligence continues to advance, some are now turning to technology to fill the void, engaging in friendships and sometimes romances with AI chatbots. NBC News’ Jake Ward explores the new frontier of modern relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1685832939527_nn_jwa_ai_romances_relationships_230603_1920x1080-2873om.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo179778629880",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo179778629880",
-      "publishedDateTime": "2023-06-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-a-synthetic-npr-host-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone.md",
-      "title": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "excerpt": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "originalUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide.md",
-      "title": "How AI could change the ways we live and work, reducing the digital divide",
-      "excerpt": "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

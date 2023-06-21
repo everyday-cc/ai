@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-hacker-claims-tesla-full-self-driving-has-secret-elon-mode.md",
+      "title": "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'",
+      "excerpt": "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
+      "originalUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg",
+          "width": 1600,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-cruise-launches-an-android-app-for-its-self-driving-taxis.md",
       "title": "Cruise launches an Android app for its self-driving taxis",
       "excerpt": "Cruise has finally launched an Android app for ridehailing, giving potential customers in San Francisco the option to call one of its robotaxis even if they're not iPhone users..",
@@ -160,81 +212,29 @@
       ]
     },
     {
-      "path": "_news/2023-06-17-teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware.md",
-      "title": "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware",
-      "excerpt": "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
-      "originalUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/",
-      "publishedDateTime": "2023-06-17T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
+      "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:58:00-07:00",
+      "publishedDateTime": "2023-06-16T01:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

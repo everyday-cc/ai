@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Exclusive: Southeast Asia to set 'guardrails' on AI with new governance code -sources"
-    excerpt: "Southeast Asian countries are drawing up governance and ethics guidelines for artificial intelligence (AI) that will impose \"guardrails\" on the booming technology, five officials with direct knowledge of the matter told Reuters."
-    publishedDateTime: 2023-06-16T07:05:00Z
-    webUrl: "https://www.reuters.com/technology/southeast-asia-set-guardrails-ai-with-new-governance-code-sources-2023-06-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://www.reuters.com/resizer/ea0d2lDu0N6wARD6MMauY1tDj44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4B4CWPO5WVNHTHRQ3CCDGQXKTU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "ADQ2/Kmox+AoErsB+3xxkHHxqiBKE4LkiERlLqmaJKu22d3ReapZ70aN2VToP7C4mDeOODRuBgBYFVDxYJitRa7uxzhNYjuhdVSkpqGoDZhJELDK8ghmWwmas7XB+U9pXfeen9PZEd6+zntIX3ZvxMXSlHjJgSlAKTPYdOu4RQuGqqWuWoeT9aGfq2XyjY8BJmxbXWrwFDUkMHT/PRVS3cJTSRWWpW6E1SHbtov2qpJyJ4zIOWLbrmvT1Y+B5pLHDUM1sVmgYRe3NJ+5FnLeCi8gMnR5bNQcsPKRDgKVtZm6+cbmC9XBqx/LuLqBArF3O1ACc+1EOghRI9Aw+YDSPp1cX+q/YYOKRp3vr+i99yAivw6/GNoKVi+BvWygPOqvBGYbEmAfuCI6jq2+kwLZSufuHu0+WCo2jvNUjsN6VC9AleooqX3nJixz9Sq3K/uT+39SulpEZLFuB6V21XjEEAxXEfBZl1upUQsfQUi6QUXDlrTe7hLPB5LAb1EoNA3eNe99xPGwEBsDxdABaVoqFw==;dt56Y0UEuy72SW7i3Du7GA=="
 ---

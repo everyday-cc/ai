@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/college-will-start-n
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442-amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
