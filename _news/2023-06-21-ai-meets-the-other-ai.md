@@ -25,29 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "This Is the Worst Part of the AI Hype Cycle"
-    excerpt: "The reaction this elicited on WIRED Slack channels was somewhere between “cool” and “gross.” Using AI to resurrect Lennon for a new song has its appeal, but given the recent ethical questions around using the technology to make fake songs from artists like Drake and The Weeknd,"
-    publishedDateTime: 2023-06-16T13:00:00Z
-    webUrl: "https://www.wired.com/story/ai-hype-cycle-burnout/"
+  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
+    publishedDateTime: 2023-06-19T12:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
-    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
-    publishedDateTime: 2023-06-20T02:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
+  - title: "Massage Therapy And AI"
+    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
+    publishedDateTime: 2023-06-19T00:00:00Z
+    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
-        width: 1240
-        height: 827
-        isCached: true
+      name: The Mint Hill Times
+      domain: minthilltimes.com
+    quality: 34
 
 secured: "SmyTtSiQAGwFzqqAaZYNIfPKsoCx+RKWJCkOXl5g2YOs5V6rbrVRRai9jdPjzbTMNytpsTBRCJrsLcr0TT1t9MkXjUe7w8otytT4IWMdpeUuvDXjFAvQzsltWh83r22PchR4v5H5w16sED5qT6lCRrfNqd8kDpKMeEV85Bp5gqeZGHkQWy/QfyqEyGCnMHUX1Uwist1LMluUJJ1IqcbvQckcuOw7CKPcjDaqXKMcSNHhJACJ4Z9TCSPTyr9IOLhv0UKNpyP599s8HQybXGxyG5U4IKk8w7LJxEgMLSfmGC5a/dWvTUExe7cnTvYc10LdXRj9DkrBbWhCZpcokpFVtfs4ydGZaJKc6PqDLgYBv8c=;NUXIlia2J6zesbHoMuQJpw=="
 ---

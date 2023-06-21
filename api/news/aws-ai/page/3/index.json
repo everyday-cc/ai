@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-26-how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation.md",
+      "title": "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation",
+      "excerpt": "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-warhammer-40k-goes-twisted-metal-in-the-combat-racer-speed-freeks.md",
       "title": "Warhammer 40K goes Twisted Metal in the combat racer Speed Freeks",
       "excerpt": "Games Workshop’s Warhammer 40,000 franchise is aiming to fill the Twisted Metal-shaped hole in the hearts of fans with a new car combat racing game. Warhammer 40,000: Speed Freeks, a free-to ...",
@@ -1397,59 +1449,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-cloud-partnerships-and-multi-year-contracts-look-before-you-leap.md",
-      "title": "Cloud Partnerships And Multi-Year Contracts: Look Before You Leap",
-      "excerpt": "Before you consider entering into such a strategic partnership where the cloud provider will use your services if you agree to spend a certain amount with them per year, my recommendation is to look before you leap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646235c328bd309432c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "publishedDateTime": "2023-05-15T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

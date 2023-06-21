@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-20T22:22:00Z
 originalUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/"
 webUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32423-intel-sign.jpeg"

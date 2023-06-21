@@ -2,6 +2,142 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-04-24-the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat.md",
+      "title": "The data that trains AI is under the spotlight — and even I’m weirded out | The AI Beat",
+      "excerpt": "Why do I feel so weird that my creative output has been vacuumed into AI datasets, when so much of my life is already up for grabs?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/The-Pile-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-data-that-trains-ai-is-under-the-spotlight-and-even-im-weirded-out-the-ai-beat/amp/",
+      "publishedDateTime": "2023-04-24T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-eff-calls-for-action-against-californias-new-facial-recognition-bill.md",
+      "title": "EFF calls for action against California's new facial recognition bill",
+      "excerpt": "The latest target of EFF's action is A.B. 642, a new California bill that would \"normalize and incentivize\" police use of facial recognition technology across the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/98420-eff-calls-action-against-california-new-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-researchers-use-ai-to-discover-new-planet-outside-solar-system.md",
+      "title": "Researchers use AI to discover new planet outside solar system",
+      "excerpt": "A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-ai-planet-solar.html",
+      "originalUrl": "https://phys.org/news/2023-04-ai-planet-solar.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-ai-to-1.jpg",
+          "width": 1958,
+          "height": 1670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-ai-planet-solar.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-ai-planet-solar.amp",
+      "publishedDateTime": "2023-04-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-big-tech-cuts-ai-ethics-teams-even-as-development-ramps-up.md",
       "title": "Big Tech cuts AI ethics teams even as development ramps up",
       "excerpt": "Microsoft, Google and Amazon's Twitch are among the tech companies that are scaling back their AI ethics teams At the same time that tech behemoths are accelerating the development of AI products ...",
@@ -1034,155 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-grimes-tells-fans-to-deepfake-drake-her-invites-collaboration-with-ai.md",
-      "title": "Grimes Tells Fans To Deepfake Drake Her, Invites Collaboration With AI",
-      "excerpt": "In the wake of the AI-generated hit Heart on My Sleeve going viral with deepfakes of Drake and The Weeknd, pop star Grimes has invited her fans to experiment with her voice. On Sunday night she tweeted, “I'll split 50% royalties on any successful AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6446290cbc54719eadfa527d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/04/24/grimes-tells-fans-to-deepfake-drake-her-welcomes-collaboration-with-ai/amp/",
-      "publishedDateTime": "2023-04-24T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst.md",
-      "title": "Amid Microsoft-Google AI Rivalry, Apple Could Be The Winner 'No Matter Where Industry Goes:' Analyst",
-      "excerpt": "Artificial Intelligence (AI) tech is an $800 billion market opportunity over the next decade as it pervades into the enterprise and consumer tech space, said Wedbush analyst Daniel Ives in a recent note.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amid-microsoft-google-ai-rivalry-apple-could-be-the-winner-no-matter-where-industry-goes-analyst-1032253335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Apple_logo_on_macbook_2.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia.md",
-      "title": "Artificial Intelligence Discovers Molecules Market 2023 Comprehensive Insights – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia",
-      "excerpt": "Top Leading Companies of Global Artificial Intelligence Discovers Molecules Market are – Insilico Medicine, Verge Genomics, IBM Watson Health, Exscientia, BenevolentAI, Atomwise, Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-discovers-molecules-market-2023-comprehensive-insights-insilico-medicine-verge-genomics-ibm-watson-health-exscientia-2023-04-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -106,6 +106,15 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "azwgAcNSog2rMvzvuOGKpyesCu7DOlAuTuOhFVsF36pjj4Cp6kRWje+9N8wf+4UOLWsXpMkBwBNTsOe+2KE17CDIbvk0FnDC8b4hRn2XB7/Xh6RvbtbLYBfzYQhL9+gfjUief0G4aIYu1/HxsS5UT0yqvinnbYHjjJd0EP4qePBZqkZ5+TtzIgY+EJv3jSAuyzARLAQNafOlobIxgNlHi8mJglWen4xqQ0uCtY/0pPk2Sp4NOw0INbt1zJoBEd8c7e4TDQHsig+GHNnC3k3XDEhnEWzt1/98AFhZefrGhtFNbFS982g3GzdDNnLOHc0UiTLAumMm5LOAiRYImTm8JLtdLUr3UcyCRgeCZo/LK14weMjSbqSXM6yAw/ToRXhJ/xCTaDAyVfyK6Keh1XGsE/KFwKr3dykpDs448nNpQFemScnwU78Q651WrihSiNQHS2a8EzEsiexaPx+ju4TQBUjnmgfNnHV6q8yCu5Bd2e2sEhHpATbx0PZVdqPiRxl8Sb87XLp4toQLgAExgO2cEQ==;sAHriwWRlQeNVp1aCaSSCg=="
 ---

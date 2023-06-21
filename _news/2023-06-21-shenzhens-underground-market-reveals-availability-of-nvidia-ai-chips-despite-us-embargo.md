@@ -39,6 +39,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Billion-Dollar AI Venture Fund Offers Elusive Nvidia Chips to Win Deals"
+    excerpt: "Nat Friedman and Daniel Gross, a pair of founders turned startup investors, set the venture capital world abuzz last week by announcing a novel tactic to win over founders: offering them access to a huge number of free servers equipped with the most advanced chips for training machine-learning"
+    publishedDateTime: 2023-06-20T21:19:00Z
+    webUrl: "https://www.theinformation.com/articles/former-github-ceos-novel-investment-offer-to-ai-founders-rare-server-chips"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/10725/b586ad85-7a05-4471-9151-9dd17e69ccac.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chinese Vendors Bypass US Embargo to Supply High-end Nvidia A100 AI Chips: Report Reveals Hidden Market Dynamics"
     excerpt: "China's famed Huaqiangbei electronics area in the southern Chinese city of Shenzhen shows startling revelations regarding the availability of Nvidia Corp NVDA AI chips. The U.S. embargo has led to an underground market with vendors dodging scrutiny from ..."
     publishedDateTime: 2023-06-20T11:36:00Z

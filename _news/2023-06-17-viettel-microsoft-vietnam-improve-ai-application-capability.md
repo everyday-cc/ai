@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft’s stock rallies to record close as more analysts see AI leadership"
-    excerpt: "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc."
-    publishedDateTime: 2023-06-16T12:16:00Z
-    webUrl: "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
-    images:
-      - url: "https://images.mktw.net/im-801260/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Zyrobotics becomes Microsoft's first AI for Accessibility grantee"
     excerpt: "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ..."
     publishedDateTime: 2023-06-16T18:38:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
         width: 760
         height: 506
+        isCached: true
+  - title: "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity"
+    excerpt: "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More"
+    publishedDateTime: 2023-06-17T15:29:00Z
+    webUrl: "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-and-snowflake-exec-bob-muglia-is-optimistic-about-ai/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/muglia-book.png"
+        width: 730
+        height: 523
         isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
@@ -107,29 +105,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Elon Musk, Microsoft, Google Are Invested in AI: InQubeta Is Your Chance to Align with AI Giants"
-    excerpt: "Artificial Intelligence (AI) has captured the attention of the world’s leading tech visionaries and industry giants. From Elon Musk to Microsoft and Google, these influential figures and companies recognize the transformative power of AI and its potential to reshape industries and societies."
-    publishedDateTime: 2023-06-17T08:00:00Z
-    webUrl: "https://techbullion.com/elon-musk-microsoft-google-are-invested-in-ai-inqubeta-is-your-chance-to-align-with-ai-giants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Invested-in-AI-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "jyWDYmj7/yEK/nS1r5PajxVnQPpFdPI5izciAChoWzjoSgUe8v++2sO86Ty+5TdXKUzpwbC4ftHSeXtRWXGB2baCNKD9dsF2K43yrAiqeUhLV5NRxDqmMjIcisSE1scT/PpPJF8RDZR1b3PTMzTJqbLz/ZEqKYis4dg1PLkzP3TPTs3+DM26TDbEa2PNEiwrWSLRVMFqc/OBDhY+b797lS4I2b2/K80PGbmVY9hwyM/RRLfFSamzQfLORH2WnHXKinULDNvBQpcr8XbvGEm4OY9mOiImHrPXYiey8ZH39nr1U97tHfOS0hu1UC0VjM7gX79FpeQmb8TIU+OQOm5QUa09lghcgCvxK3ATBmZXLSQyGtRFkDB3ojouyCLd5ZhntvREDZEmvTvjz4sT8WBUIxw5lzoohLnE6QDz7foRxC93jpUYU06nOe/9nAbVDNbXOy1MOlXAGPWoKvln8jiztOErVylG7cDsySYD9LKabNXc+S007X+xEXgm1FROU3fh8N1M8FJX/TECzAvk2pJFCg==;hNc78PF+brddosup9VGjZw=="
 ---

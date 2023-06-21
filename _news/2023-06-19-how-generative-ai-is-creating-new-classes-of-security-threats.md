@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "pD2WsL/t+dQWHiCMgu0DiAJryyYFcj+SpjrIL358rm1DlQQZ095pDhJ0lfLvHbsXxlsy+CKZ6Qxc0oJ+9MpfLApziHV1d7R1o0U3iGGEVXPz3NKkA5xhBTrST3BY8mQ5gvPs/NcC/Qx61p1pPQUcrpPbsCxfRBYhexGCA2pCplrRMzRaDNGwu6tJP5IBPnLw2Hf97rcv1HXaf5I8/IFERcoB0mYBelluAHzSSJPDGA9812VugrBKosJxjeH9pXwK7JTA1ympoS2RUkP8DXQEbLJZqOzOhwS/uVyq097CVqRnSIdmHnhOQIffqIodzOR9FBSdglhSfYeDJvkPTj0i/Z3WbbU4gAYPN81bPEaGctabLfo8ZyMCt4oWV+FGXn3FAJiiVcASwAkF7sBLvACDCFo3VjaCJC+r8MKVJfXcLE3Z26GzNakr9fKAC4MjUVRmQy+tzZ6Y1rK5kg+s0Xrx+k9B6ohjdIyPcCJOlnLWUVIYbdTCiQLyknGsHssAfBh50IDWXzOy6xVxI29Q34icuw==;4zJkpHHxuMizoME7Y6gt6w=="
 ---

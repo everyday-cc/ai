@@ -24,6 +24,22 @@ images:
     height: 575
     isCached: true
 
+related:
+  - title: "Nigeria: NHRC Issues Advisory On Role of Media in Countering Hate Speech"
+    excerpt: "The NHRC issued the advisory as part of activities to mark the 2nd International Day for Countering Hate Speech, which is officially observed on 18 June."
+    publishedDateTime: 2023-06-21T04:46:00Z
+    webUrl: "https://allafrica.com/stories/202306210021.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 23
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
 secured: "++U9FdRaOcw/5/HPPZfJAlW/HArACIyV1GCf5/GYdccAI36oUUcwn01FG63CHUjhJwvhqJ3C8vGeqcST3Czelvyc13X5uGL2Rml189rzztuHLkO7R40eJ70c8LtfmqfEnn2e0DwIdoqCObS+FiabzmOoBT7ucq19S4kjYrMVozlNJS7N5ycP4NF1Im++d55jZGmA35xVYFIbY5zy9xaEW3V07p+6b2USc1rDhgMZOOAbxTBlcc4+LC0Wq4umRl2wNT6yITKQhXU+bt3039K/Vsw7vhZ4U2Ui4xQjSkKouEGx0G9Mc8MXW8dDQUNrQzexb/LS+WpFD0cguRRUB6U/11i1IONpP5Y7tOw2WzI5UOs=;h55co0rIhWlMyZlSTCIdXQ=="
 ---
 

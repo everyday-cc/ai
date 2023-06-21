@@ -48,15 +48,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "This expert-led complete ChatGPT Artificial Intelligence training bundle is now on sale for $30"
-    excerpt: "Take on the rising world of AI with The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle, which can help you learn how best to use AI in the workplace, content crea"
-    publishedDateTime: 2023-06-16T13:00:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/chatgpt-ai-training-bundle-deal/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 20
 
 secured: "9wrVAgckq55I2ZQykdHwNEFAvEOAFkDiUEdw24e71BGIlq6W7MlQcMqICE66JI/eqAcq4MnYTCIIOENujRhcR6dHV9aMpdOnFTJmkb5B275yLChHNqpl1IizmLDsG7oTM9J6SeghgGYvXTMAxNLqV/xkRfJzZIjnD20apodYDgjlfte+5BxsV+McZALbReJzOVLiJ6RPFWoY56ytuKkz4jKoZBKMPiaMhuQMghRPIcTmTh6G/2DacK4XTXZ9p5+fSAsdfTiFkXlFYNW+P5LIi7DGXjZOR+gH+lnRuUIQH+F8pZgbiQY2udeKgG2vCH/hnktv97EtR3SIF/nidQRZ+xo851UiRQtQZgV9YFBc/mLhaSqJL9qOvwqqdlY/Bxbk2qdmAlPdkzRvu5VRNNx3puAEWOeTXZpZU5ZF/e5eUJgEnBsIBhKnU4epbgExDxYvvhFTl1UYlW5H/EKlEc3R3u0jyMB85UkKNuppKnPvz4VWbHxSG2THs/vzPR6bSXsMBjUREMMDkBtWtltS4Zp5uw==;DzFYVs5gPVUtvR6BpRcdUQ=="
 ---

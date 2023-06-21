@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-ter
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 635
     isCached: true
 
-secured: "6E954CUqV0zduXnU+qutBAtMyiS32dZnyakHRD6BuH+9QatCE5+Xf7l65IYM1nM+isufwuYLtUiNVN1FhBtmqNEhivYkL9chXquazTSR3SjV9NGfv5M7hpdBjSWhkz5maGJ9NqCawtuFLo6Dhk0IAbNXQPGDClRSj2MWJrSSiQfyzSJ8qHekYLG/F9kUC552UiFYyykX9kiW0AwyUnv8qIkp61Hv+by2m3TEY/bk52HCAZk1hA1vY4gRCR1+OYiSuBsEiI/NWW00l1pSXBkWLArJdhPnsk+Ez3V0xkRjsYv/8/MEuszQkqvI1vGX+yDW3nkKvl+OKvEhYAy4Bf/35Mu0NaINV2TJsGiTVBD4Aok=;/yYbsa5DoQulmRP++av06g=="
+secured: "3+51gyI8zAOXnpXaR7msbxcBdvcIw+meKnNIKEGDs59cg5rCsk5wVl2B9GUco2ZuDRATmJM9f+eOSc448ejdcMmvo2Y5upEMJ6V7RnUSEXQEraBUw3IlEVEWlyLz/G+LaKhIeVDOd2N4ag6oirEXrsFWDuTYfdZZBGMuNQLX6Y+cjh1IlfgtAV8OBOr/K+DyubK1yzeZnzINR5bz6rrDlyObek5/aIQz9GvlPk7oFN+8MJSShMNyL2MB0z/Qej2zej6euxjmNIBt+YDnBNa0V5Cy0nh92pmPSonzHMx853ZmSqDDx0x2ZM71cbYI0wvZuiT/F46MqrrE0khSIN57EARc+gEXoNZN0Y6OjTWfPgts940wrw2kSf1PSKqZDgc4AyFZ+Phlwy1Lx6pLZLlpAGpwmatWDqkxJD7pf7IpKOBDulSuMEG3nECbiJuK0G0eVHru6U0GIBolUO0/YrT8mMFVNF6TQxQo9XVnXww47jkRqcjyUMhSOvmlrYGR0iVia384RgLe3cADwfe+MB0YDQ==;XHQLmUv7ISj+YtGMIEgGYg=="
 ---
 

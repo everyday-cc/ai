@@ -59,18 +59,20 @@ related:
         height: 630
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T10:04:00Z
-    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
+    publishedDateTime: 2023-06-20T11:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 25
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
     images:
-      - url: "https://s.hdnux.com/photos/01/33/30/60/23956504/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"

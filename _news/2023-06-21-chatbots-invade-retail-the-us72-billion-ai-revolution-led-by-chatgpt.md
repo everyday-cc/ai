@@ -34,15 +34,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "This expert-led complete ChatGPT Artificial Intelligence training bundle is now on sale for $30"
-    excerpt: "Take on the rising world of AI with The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle, which can help you learn how best to use AI in the workplace, content crea"
-    publishedDateTime: 2023-06-16T13:00:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/chatgpt-ai-training-bundle-deal/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 20
   - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
     excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
     publishedDateTime: 2023-06-16T16:02:00Z

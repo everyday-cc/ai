@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-l
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Artificial Intelligence and the Future of Jobs"
-    excerpt: "The growth of artificial intelligence (AI) is driving fearful discussions around the disappearance of jobs and tasks that are traditionally done by humans. This has particularly impacted the working class,"
-    publishedDateTime: 2023-06-16T11:33:00Z
-    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-and-the-future-of-jobs/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 39
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2023/06/ai-artificial-intelligence-humanoid-robot-talking-human-consult-advise-wisely-project-development-generative-aix9xa-e1686915161791.jpg"
-        width: 2560
-        height: 1438
-        isCached: true
 
 secured: "r7fzrh8md2xTlh5LUG7pHRk6qWWtFtzuuro+Us95dcTLJvEPkgxjU36LVBvbU4foGmHjJd5XlF0ypSGxkAjOP0mq9jkBPUrXJOvIPHeFf9lWeMDuOQn0HvNCMLvnAN7cA3B8K21sMPCnjGjmOn+q3PpQgt14AaHbmJ/78BcYNPA6ifBbzLKyj1XZi1s1SAQ7s1tgz3+sfNd25XwnEGdNerXt3SreFz6tp+Rjze/hDjUGcmF7TWskyMHnyEnlufm1vSNqM/whyW6c8Yl5vZp/pM7xioxmzgDvsWjY2z6d9YAjhIg7D4Ov+76g0HcQ8enJr1wql0wzmNj1h0szKneVZgs/FEhh1nVUNNtjwhTqZpdVnYiYqrL8DsbEZ9Oci+tAhOa3017Zq74LUboeoy3P/LmRbQNlaLFLVVbG8+GGMyF5vUEh3uj/O6AMReM+Zj3Ny4jmPxd5whTH/TQ4JdnGRZT/ZhxcCsr/2ljTk0judyU4dmazCn9/60BhEqTYX/M6go71T9TiqDhil/JbGFrFww==;EG3kObgm8I2FAwQVhAuzug=="
 ---

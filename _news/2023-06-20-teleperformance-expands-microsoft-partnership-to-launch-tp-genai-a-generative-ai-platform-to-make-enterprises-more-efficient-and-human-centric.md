@@ -19,117 +19,56 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft’s stock rallies to record close as more analysts see AI leadership"
-    excerpt: "A previous version of this article incorrectly stated Microsoft’s previous closing record price. It has been corrected. Microsoft Corp. shares rallied Thursday for a sixth consecutive day of gains and closed at a record high as investors focused more on the tech giant’s artificial-intelligence roadmap and less on the stalled $69 billion acquisition of videogame publisher Activision Blizzard Inc."
-    publishedDateTime: 2023-06-16T12:16:00Z
-    webUrl: "https://www.marketwatch.com/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsofts-stock-rallies-toward-record-close-as-more-analysts-see-ai-leadership-80481641"
+  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
+    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
+    publishedDateTime: 2023-06-20T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
+  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
+    excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology from IBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon"
+    publishedDateTime: 2023-06-21T05:44:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
     images:
-      - url: "https://images.mktw.net/im-801260/social"
-        width: 1280
-        height: 640
+      - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Zyrobotics becomes Microsoft's first AI for Accessibility grantee"
-    excerpt: "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ..."
-    publishedDateTime: 2023-06-16T18:38:00Z
-    webUrl: "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/"
+  - title: "HCLTech and Google Cloud expand partnership on generative AI"
+    excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
+    publishedDateTime: 2023-06-19T09:38:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-google-cloud-expand-partnership-on-generative-ai/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
-        width: 760
-        height: 506
-        isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
-    publishedDateTime: 2023-06-20T16:18:00Z
-    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 19
+  - title: "Compass UOL Launches AI Cockpit with Generative AI"
+    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
+    publishedDateTime: 2023-06-19T15:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Viettel, Microsoft Vietnam improve AI application capability"
-    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
-    publishedDateTime: 2023-06-17T03:35:00Z
-    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
-    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
+  - title: "Leidos Leads Advancements in LLMs and Generative AI, Accelerating Trust and Strategic Partnerships"
+    excerpt: "Leidos, a FORTUNE 500 science and technology leader, has announced the successful deployment of Large Language Models (LLMs)"
+    publishedDateTime: 2023-06-16T16:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/leidos-leads-advancements-in-llms-and-generative-ai-accelerating-trust-and-strategic-partnerships/"
     type: article
     provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 54
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 54
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
-        isCached: true
-  - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
-    excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
-    publishedDateTime: 2023-06-16T15:21:00Z
-    webUrl: "https://techstory.in/a-game-changer-for-microsoft-10-billion-in-annual-ai-revenue-sparks-stock-surge/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 49
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/Microsoft-is-Reportedly-Working-on-AI-Chips-to-Train-LLMs.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Elon Musk, Microsoft, Google Are Invested in AI: InQubeta Is Your Chance to Align with AI Giants"
-    excerpt: "Artificial Intelligence (AI) has captured the attention of the world’s leading tech visionaries and industry giants. From Elon Musk to Microsoft and Google, these influential figures and companies recognize the transformative power of AI and its potential to reshape industries and societies."
-    publishedDateTime: 2023-06-17T08:00:00Z
-    webUrl: "https://techbullion.com/elon-musk-microsoft-google-are-invested-in-ai-inqubeta-is-your-chance-to-align-with-ai-giants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Invested-in-AI-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

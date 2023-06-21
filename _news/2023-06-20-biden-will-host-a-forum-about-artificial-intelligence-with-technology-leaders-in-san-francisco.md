@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-publishedDateTime: 2023-06-20T10:04:00Z
-originalUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
-webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
+publishedDateTime: 2023-06-20T11:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/33/30/60/23956504/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -87,6 +89,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EUjCYhwdnNJy5l+B93BRyF3li1Ng47R3w3ELlvYlNIMWtWLSrJDNPH3W6QX9c4jxxER8D5oOiijt9T1zILPFHA3ytvXEa/knxGmeNEsBDgw5kCUf7OrW29T1aEoXxdAjTyghQf3mjxjw/bRDNi//bA/TfdbL4e2Q8TwSQQgfLb3zOzTCU6xJwsac0fi4Ib6/oQs59CvsSLLJCG6ZXLAhUBu/qiClVTsjSQM/dg7nmzk9NUgs9AkwM9+ihlnFSRLmfH7l5rIpZO9WtWkAebGWUl/m8rsrcz3TmmIx3CCUdr3UZqUGsxM/SRPZZqz3vbOQ5/yX8xFRxqY343cbEZGR9bqPfd/792rn7gBRSrv0d6A=;WlGf6OnAji2xqQprIbxv7A=="
+secured: "Wu2GUg52MIwvM/vo7noDIod9vsc7NXzkVHd7/4rrWedKdtxQ9IrxWvEqB5fk8YfYmqCOOjBSRu8dHYk4z1yuZ1BNcRuNgwPWJD13qKMoIPIH60uInnCWD1tU81F8itjqX3YUNKm7O5//0yWQXYyD9LUT8rM0FZs2rIHWICH7xcI+I5v4h6n+SZLjiZ4C+Ta0VPYOy9NV+INIqV2Ka48wahbIt9oVvoj4BnqTdpqA8j4y80adLBxE8wlwUL/X9id1/LxP85Pq1KR7TDceBQ0FolpcQIjlYCFCRD07g8OtgPs5cSEUmrnUo1BR9Sc4uDKRzQiAZn5aA2WePvWU0ROodNwyiTGJmIJyHdHUI+aTS+k=;KqNQAUL2h8R9n+mh8jPgcQ=="
 ---
 

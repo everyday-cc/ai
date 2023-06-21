@@ -2,6 +2,102 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-20-rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage.md",
+      "title": "RTX 4070 review: An ideal GPU for anyone who skipped the graphics card shortage",
+      "excerpt": "Nvidia's GeForce RTX 4070 is here. It's the company's first launch in over a year of a graphics card that could charitably be described as \"mainstream,\" both in performance and in price. It costs $600.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/IMG_0984-800x533.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/rtx-4070-review-an-ideal-gpu-for-anyone-who-skipped-the-graphics-card-shortage/amp/",
+      "publishedDateTime": "2023-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
+      "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
+      "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
       "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
       "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
@@ -1287,93 +1383,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
-      "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
-      "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/04/11/cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-gpu-for-deep-learning-market-2023-size-and-forecast-to-2031.md",
-      "title": "GPU for Deep Learning Market 2023 Size and Forecast to 2031",
-      "excerpt": "GPU for Deep Learning Marketinformation for each competitor includes (Amazon, Microsoft, Google, Fancy Startup, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2023-size-and-forecast-to-2031-2023-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

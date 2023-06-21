@@ -9,7 +9,7 @@ ampWebUrl: "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-e
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

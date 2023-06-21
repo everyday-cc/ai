@@ -26,6 +26,22 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "Top 5 Fintech and IT Masters Programs in Singapore"
+    excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
+    publishedDateTime: 2023-06-21T05:07:00Z
+    webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Top-5-Fintech-and-IT-Masters-Programs-in-Singapore.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+
 secured: "Zq7OBV8oOdhWIYI9at9svHYXB6upi3NL5lVJE1DBqHvye+ZX8GBgA40DKJ2MqGFmZY6ZeMJ7+iG9Z3lLwAKbYzr6rFswkHHqhTkILw2OqX7h+3WCzAuC/QJwjborJY1tfy9qqEtM6qcznfZgEZdi1KLBmuIH0Kx1nbJbHAboctpjY2BpvgtqO3bYpZWIgNlPMOvFgn9zDpqpRDRKpUQoVkwrNBS61I8cImg+v4/d0hKfBrQew36VbhN/eqf29Sx9utI3JQr4+7DJgHlY/fugIvGbK/FI8SVMOVXTFRDKGoO37X0Q6TVP3SUx9WgfJq3mXbf0GzNszvAa0+oWknqfLvfN4xoMFU10soqCLss1s0Ls492U6qtVKC6anIt4lWApVtWFQOdT5r9r2LCsDF4HEJAn2r/7W6j4NfDfnJLvGuBhuUaJx2jCamaScAQgBFLW/V8sVnxK4QKNOakBh/OOCHOxCqvjjCCR2nT52W/CEuI7Bu9+IM40DBYL1zIyiT8KxF4IatoTa/gL7PVs/GXLPw==;P2v/l/BaodgSYKGNUllfPQ=="
 ---
 

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
+    publishedDateTime: 2023-06-20T11:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
     publishedDateTime: 2023-06-20T21:50:00Z
@@ -71,20 +87,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T10:04:00Z
-    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 25
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/30/60/23956504/3/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "cynR8fTQ+YZej7o5s/RfsuR1gZWPFxz9Ao1ZOSete/0IXmDpUULfPmO9sKwJmsffGEMvT9cmLk1rSu29gWeFHIQp1iU98sunuAzj2MtqYAVMhUeVvPXqTDs1ag7GXg8pA8AQoinXYuThOtMnvk2UfvRWxACj8dqyIwMfBnsF2awacHbdirMw3ut+sLVTF5/egU8KFGr4KLO1YPvr7LSj0hy13aCcLHVo2mDltQILQSmU7WKrEV+TENc7VyA+HDLP7LYDlzjLcXzlCQ5S8AccHzdQmaTU4xkn6DID0K/G6ZFaePvvjWhgp8wNafohwy2eM0+aB+p8U979RDu5lFa0upvsa5F/Okxi2zp4gY513XY=;cnnSwTzyXk9mj2+bDVQm4w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-us-workers-want-to-ado
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/"
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -2,6 +2,99 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-15-eu-takes-major-steps-towards-regulating-ai.md",
+      "title": "EU takes major steps towards regulating AI",
+      "excerpt": "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "publishedDateTime": "2023-06-14T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-mechanical-turk-workers-are-using-ai-to-automate-being-human.md",
+      "title": "Mechanical Turk workers are using AI to automate being human",
+      "excerpt": "\"Turkers\" appear to be using AI to do tasks that were specifically intended to be done by humans because AI couldn't. Great job everybody!",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
+      "originalUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/ouroboros-getty.jpg?resize=1200,870",
+          "width": 1200,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
+      "publishedDateTime": "2023-06-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off.md",
       "title": "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off",
       "excerpt": "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker",
@@ -1123,109 +1216,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms.md",
-      "title": "AI And Retail: Consumer Adoption On The Rise, Yet Uncertainty Looms",
-      "excerpt": "AI technology is redefining the retail industry - from curated tailored promotions and deals to direct product purchase reminders and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64889ccacdfe7d759fb12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
-      "publishedDateTime": "2023-06-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
-      "title": "OctoML debuts self-optimizing compute services for generative AI",
-      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

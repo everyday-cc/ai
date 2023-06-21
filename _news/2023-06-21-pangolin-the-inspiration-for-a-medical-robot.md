@@ -39,6 +39,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Pangolin the inspiration for medical robot"
+    excerpt: "Scientists at the Max Planck Institute for Intelligent Systems in Stuttgart have developed a magnetically controlled soft medical robot with a unique, flexible structure inspired by the body of a pangolin."
+    publishedDateTime: 2023-06-21T04:52:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/992963"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8655934f-fc9e-4526-a432-6bbe50d5c6f7/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "IjlZVW8vL+NsEMP6q7TzG+AwMG8VYqez1jhOAnJTkrAkLGzBegZwk2mEhziUDkYYc8R8F4og2gp05S3bb8v5NPWR+6i+uTT9+/F40vbwORNVHlUXm4tnHu5kRK33E/EDxle/NfSa8mDkt8sJ8Z166Tnm1tMo5BKdAyR8gvOkU4HeQjUN9N+4u6PRVeIqksmecpkLAhpde7FCwPjxQvigMnOsGSo9yxI0uQLr+BWj95Sxs9NXjfXH3Bdt7VlQuRCx1Zxe/j5pfEv+SGkyaybGK/l7d+dErgjJUlQ2U8MIAmuaOvBNc01SQtSujFxmQ/o+NXAY6zPJUL2MJwpzsM+ZM3McaAo7XxNdzSf7weTjPLA=;0jDILP3wYndE5ttBtvElxw=="
 ---

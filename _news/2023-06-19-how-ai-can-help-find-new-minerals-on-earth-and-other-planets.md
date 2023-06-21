@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI meets the other AI"
+    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
+    publishedDateTime: 2023-06-20T20:25:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
+        width: 1984
+        height: 1568
+        isCached: true
   - title: "Massage Therapy And AI"
     excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
     publishedDateTime: 2023-06-19T00:00:00Z

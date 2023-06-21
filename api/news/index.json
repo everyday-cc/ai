@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
+      "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
+      "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_Gigafactory._Photo_by_JHVEPhoto_on_Shutterstock_2.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940159",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940159",
+      "publishedDateTime": "2023-06-20T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-jamia-announces-3-week-training-sessions-on-ai-machine-learning.md",
       "title": "Jamia announces 3-week training sessions on AI, machine learning",
       "excerpt": "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course.",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -96,7 +140,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -200,7 +244,7 @@
       "originalUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -239,7 +283,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -356,7 +401,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -964,6 +1009,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-20-scientists-develop-magnetically-controlled-soft-medical-robot-inspired-by-the-pangolin.md",
+      "title": "Scientists develop magnetically controlled soft medical robot inspired by the pangolin",
+      "excerpt": "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
+      "publishedDateTime": "2023-06-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-apples-machine-learning-head-departs-to-run-ai-thinktank.md",
       "title": "Apple's machine learning head departs to run AI thinktank",
       "excerpt": "The Allen Institute for Artificial Intelligence, a non-profit aimed to furthering AI research, has named Apple machine learning chief Ali Farhadi as its new CEO. Starting from July 31, Darhadi will become the CEO of the Allen Institute for Artificial ...",
@@ -1105,100 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-how-ai-technology-can-positively-impact-small-businesses.md",
-      "title": "How AI Technology Can Positively Impact Small Businesses",
-      "excerpt": "AI is not only a feature of the near future but also of the here and now, ready to help us optimize our operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6d5d914a72e260b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "publishedDateTime": "2023-06-20T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amd-promises-an-ai-chip-power-shift.md",
-      "title": "AMD Promises An AI Chip Power Shift",
-      "excerpt": "For example, AI developers preferred Nvidia chips due to a well-developed software package CUDA that enabled them to access the chip’s core hardware features. But AMD revealed on Tuesday it made its own software for its AI chips, ROCm. If developers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "originalUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/motherboard-closeup-technology-integrated-microchip-circuit-board-computer-processor-with-neon-light_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32924098",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098",
-      "publishedDateTime": "2023-06-20T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

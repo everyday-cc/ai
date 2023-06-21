@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
+    excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology from IBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon"
+    publishedDateTime: 2023-06-21T05:44:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "HCLTech and Google Cloud expand partnership on generative AI"
     excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
     publishedDateTime: 2023-06-19T09:38:00Z
@@ -49,6 +63,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 5
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "FGh8kRr1UqDM1G1jVoWulHtiPyRRl0UWDMdJ3JArRP3bRjP52WeLzahTm5JqQ5tiydwEfP+IT1KubYRa6kkQYRZdw4hLlcfUVGHdp2hFZJ5aPOc3G8aiADuCEXktur2rBQkWX7aRaZGrcaaN1pIavhaUngJlIlcyTMPmMB1EocecBvsAzOwos/mGUuEZT+uIJF79zVkA21G92TfDsne5iTusOfAbKaxrO22aH8RMFoFwRiajvLXlJHbXyL7g/dTD8ZUiBxvv2ErfOJN0Ll/l4PyVXcTJ6x6a5agdp+8tjlAN67S/M4q0h2N+ogudgPzLqz89wPP9vI0wIRkrizigJgiuVAFFrVvoCJCpS68lgxFf0hfhFisL4y0iecf8tMauYhfz4q/HHRx3eIfDskct3mAgGZcnFZyxfmEnCxc05VdDLNXjIJzfasQTTzQilzMfOjqieSYh/OjgIFt60tL8F21poGnf1+MvwntLTKkrVGjvwbMPkXeNSMLynzDPUX4vZnHb6+pYmqZ/n8J0M6INUg==;twqmDuovX4i1qsej8j+XCg=="
 ---

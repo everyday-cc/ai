@@ -47,24 +47,6 @@ related:
         width: 750
         height: 490
         isCached: true
-  - title: "Baidu gets licence to operate driverless taxis in Shenzhen"
-    excerpt: "Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen, making it the fourth city in which the company's driverless cars operate in."
-    publishedDateTime: 2023-06-16T12:35:00Z
-    webUrl: "https://www.poandpo.com/companies/baidu-gets-licence-to-operate-driverless-taxis-in-shenzhen"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 34
-  - title: "Baidu Secures Regulatory Nod for Autonomous Ride-Hailing in Shenzhen, Threatens Competition in Chinese EV Market"
-    excerpt: "Baidu, Inc BIDU bagged a license from regulators to offer ... On Thursday, Chinese electric vehicle maker XPeng Inc XPEV rolled out its assisted-driving technology in Beijing and three other cities. After winning regulatory approval, it became the ..."
-    publishedDateTime: 2023-06-16T13:05:00Z
-    webUrl: "https://www.benzinga.com/government/23/06/32888985/baidu-secures-regulatory-nod-for-autonomous-ride-hailing-in-shenzhen-threatens-competition-in-chines"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "0syq17kXl9TlttHAsvBDGaxe4ZUaFNwjeT/17tdVn6gDzFI2JG8oG+iWsHt4W/XImxJ8Tphayu0XK6ovs9nSqLZo9RzgwTv9RsIKe3HzyDFOBDJkDGFhbDjuEMasCSz/WLh7KdFviVMCGcP6jIdAQBzwxBgE9exBWfS0IP1vbBRD57frpNJmmLZKB8SuzGvrsbFo7WVBVHteXKzi02E8R9uasKq7bh4o94Ahinsl0KrGCuLMmmoQLG8vHQFp0qnM6e4G8icVDasaCkzPXcVk21A7UShPhW5VMuOICs6nKQljH0+CQaCbrCvpr2lIa63U7LEsA+RxRqMpG3R/Gjt5TOipfHBZ76DmRo2SzOCrocu4+9fNm82u+SBitFs8rFf5zkKsxDFJ+tHr1z+iM83CnWmS1LE9aotsucf+x3cjYcbsba5IP/gbtD0XHCqMROMi5k0cmD2aRVcOmKs47tEbUCuTv7eWFZTZVujeqTshw5ubbny8kVehf7UkjVWrGk7Y97jaVNsQEDXQQQh7qJgGOg==;V7QzlAzb4lEzPsXs6dvqdw=="
 ---

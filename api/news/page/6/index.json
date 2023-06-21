@@ -2,6 +2,91 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-15-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia’s Largest Subsea Robotics Centre",
+      "excerpt": "Advanced Navigation, the world’s most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonxdata.md",
+      "title": "The disruptive potential of open data lakehouse architectures and IBM watsonx.data",
+      "excerpt": "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "originalUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-ai-will-stir-the-pot-but-wont-change-the-game-for-decades-mark-zandi.md",
       "title": "AI will ‘stir the pot,’ but won’t change the game for decades: Mark Zandi",
       "excerpt": "The biggest factor contributing to companies' bottom lines right now is artificial intelligence, says Mark Zandi, chief economist at Moody's Analytics.",
@@ -974,8 +1059,8 @@
       "title": "AI and patents: How machine learning can help or hinder innovation",
       "excerpt": "One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
-      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
+      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
+      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1105,99 +1190,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-eu-takes-major-steps-towards-regulating-ai.md",
-      "title": "EU takes major steps towards regulating AI",
-      "excerpt": "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo182262853951",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951",
-      "publishedDateTime": "2023-06-14T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-mechanical-turk-workers-are-using-ai-to-automate-being-human.md",
-      "title": "Mechanical Turk workers are using AI to automate being human",
-      "excerpt": "\"Turkers\" appear to be using AI to do tasks that were specifically intended to be done by humans because AI couldn't. Great job everybody!",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
-      "originalUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/ouroboros-getty.jpg?resize=1200,870",
-          "width": 1200,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
-      "publishedDateTime": "2023-06-14T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

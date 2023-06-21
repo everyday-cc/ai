@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Intento's State of Machine Translation 2023 Report Evaluates 37 MT Engines and 5 LLMs"
-excerpt: "This edition analyzes the performance of 37 MT Engines across 22 language pairs and 9 content domains, providing the latest overview of the rapidly evolving MT landscape. Key highlights include: Out of the 37 Machine Translation Engines evaluated,"
-publishedDateTime: 2023-06-20T18:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intentos-state-machine-translation-2023-report-evaluates-37-/2023/06/20/9835985.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intentos-state-machine-translation-2023-report-evaluates-37-/2023/06/20/9835985.htm"
+excerpt: "Intento, the Enterprise Machine Translation Hub, and e2f, a language intelligence pioneer, teamed up to study the Machine Translation and Generative AI market and"
+publishedDateTime: 2023-06-21T04:00:00Z
+originalUrl: "https://www.asiaone.com/business/intentos-state-machine-translation-2023-report-evaluates-37-mt-engines-and-5-llms"
+webUrl: "https://www.asiaone.com/business/intentos-state-machine-translation-2023-report-evaluates-37-mt-engines-and-5-llms"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "gwA6j0wti9oL4ZnxfiSKsCj0tiWKOFAUScn3djPrGCovgvUtOXna0D8e/YzDzMQQzuwoNIQ9yhQ70c4GmR7MLO4IIRpn2wsHnDDiYGOUwjQ9Z/L2g0Jj35s8lhYDtiBffIVqoo1BXByyx5AWQm0KEgYnyFxp/iRT4Q4JjpaS1Tbb32sYYq1sC6tzTAt8fQ8XcpxYtzmSwtc/a47jQ4vF4FVy/6avZkjXKVsqP3ab2IkYgAgP0ayuRwGvtCCyR3W6B9qc6BQRdCZu6NlRbr6waTGZuq6j2N0iJuy13F+DFusahYj0WwkiUIuz1XVkdIrRbEMKLj4OcLDYioMpNT2QT9/NFF/M6f+jd7+0/OnRn50=;PbwxvfCbR0EzvKghHsRxUA=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_1264.jpg?h=7de12b8a&itok=dVnLvtlE"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "HyKgrn6m4AKdoooqWHmoHr1Bz+ic4iTXDglTm6NA8keKPIHCk3zUbeCIMWYRj+UGq2zea3QDTDNoxBuDOgFDAAXw6DvwU+VMBazeKhu34/4FAYLFqFQQYxGuvaz5TFf1yviAbJaSIkk/qOCRfVx+/C5/Av6sm22tYRJsWSvOvbWEyPXbQ8I3JTrcbsn3srV1GzFLhXsDb5O9wsY6UINRL+WYF4iY/7Jzc/KC3F/OEBtohQB9ajT4FVInXGt1ZoBdhIpGkmASBfOX4uY5zCukHJpOZXg08Sf4YGbRKHrHzzUjgpFBO//hF8sPm19gCkBfwl66l5AHAbtZloiux3Q8KrX8emuLPxtEwrrs5cKoMZM=;5JPEI/UwkGtHTcqIjOKzaw=="
 ---
 
