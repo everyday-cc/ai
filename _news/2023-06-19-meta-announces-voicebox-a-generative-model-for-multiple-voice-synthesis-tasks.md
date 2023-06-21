@@ -119,6 +119,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Meta's New Voicebox AI Sparks Debate Over Generative Speech"
+    excerpt: "Voicebox is reminiscent of a technology unveiled by Amazon last summer that allows Alexa to generate speech using a deceased person’s voice. The tool is purportedly meant to fos"
+    publishedDateTime: 2023-06-21T11:00:00Z
+    webUrl: "https://www.extremetech.com/computing/metas-new-voicebox-ai-sparks-debate-over-generative-speech"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
     excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
     publishedDateTime: 2023-06-20T13:23:00Z

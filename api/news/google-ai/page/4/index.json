@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
+      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
+      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
+      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
+          "width": 2560,
+          "height": 1840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-google-merges-deepmind-brain-research-units-as-ai-race-intensifies.md",
       "title": "Google merges DeepMind, Brain research units as AI race intensifies",
       "excerpt": "Alphabet's Google has consolidated its artificial intelligence research groups into one unit, the company's latest move to keep from falling behind in the AI race.",

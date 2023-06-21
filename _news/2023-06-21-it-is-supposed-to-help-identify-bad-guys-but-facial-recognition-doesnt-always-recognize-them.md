@@ -57,20 +57,6 @@ related:
         width: 750
         height: 416
         isCached: true
-  - title: "Facial recognition software in airports raises privacy and racial bias concerns"
-    excerpt: "The pilot project has expanded to 25 airports across the country, including Logan Airport in Boston. Dr. Joy Buolamwini, founder of the Algorithmic Justice League and an expert in AI bias, told Greater Boston that facial recognition software has a built-in bias,"
-    publishedDateTime: 2023-06-16T17:22:00Z
-    webUrl: "https://www.wgbh.org/news/science-and-technology/2023/06/16/facial-recognition-software-in-airports-raises-privacy-and-racial-bias-concerns"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 52
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/d319c72/2147483647/strip/true/crop/1963x1167+0+0/resize/1963x1167!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fimg_5040_edit_custom-b1f062acfe259ba4af181e6930d9e3a3ddb41373.jpg"
-        width: 1963
-        height: 1167
-        isCached: true
   - title: "New Jersey Questions Facial Recognition’s Accuracy"
     excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
     publishedDateTime: 2023-06-20T20:40:00Z

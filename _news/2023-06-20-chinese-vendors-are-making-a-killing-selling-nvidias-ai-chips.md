@@ -44,6 +44,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "Can SoftBank Become The Next Hot AI Stock Through A Subsidiary That Nvidia Once Tried To Acquire?"
+    excerpt: "The company’s CEO, Masayoshi Son, announced on Wednesday that SoftBank is preparing to “go on the counteroffensive,” leveraging its subsidiary Arm, a company that Nvidia once attempted to acquire. What Happened: The recent boom in AI technologies has reinvigorated SoftBank’s leadership."
+    publishedDateTime: 2023-06-21T11:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32943538/can-softbank-become-the-next-hot-ai-stock-through-a-subsidiary-that-nvidia-once-tried-to-acquire"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32943538"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32943538"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Ai,Processor,3d,Render,,Artificial,Intelligence,Of,Digital,Human_0.jpeg?width=1200&height=800&fit=crop"
+        width: 843
+        height: 562
+        isCached: true
   - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
     excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
     publishedDateTime: 2023-06-18T02:38:00Z

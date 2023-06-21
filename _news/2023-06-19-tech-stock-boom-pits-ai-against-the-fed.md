@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
+    publishedDateTime: 2023-06-21T11:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-as-tech-giants-invest-heavily-in-artificial-intelligence-1032401412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
 
 secured: "pkDMcK5vZDg41pWLWc5w0P6T3fohQCKJJj7dio9jpAs9RzpPbf5avgBgRXdULAH1ArWXVlUTCAXyJpng9A/dVNM6t6AZwYmxKU94Qj5FD97Cbg2vY4n1hk3kmIVjhXuTYVKqcRm2ffykmDSfGajCGNB3j1j8ZUHBrfgzgsE0uOoXkYZLi3lXVnr3sQcOHNI3eXMMNdmuIOpJQiMoEjxybA5P4k58jYVQ04t2PL5Ams2VnMUttNtTRwy9znf9GCnqyYf2e3623uLaohYWyTIq+kayI6abOOsxzfXjXymmUl++0sn8l11Qyq6qkoVrAjMTuW1KcC9ykWAdA+Ms98t0gkq5igzvqOpWZ1PDwh86biaTLwemFtXMD9VsFCg6R0LXCWJsn1IQp2vTJ7bPpTgSb/AiLbAXhHtTOhPBDSVXk3/MKtwa+RAkADOlvEE8U0mzKx2JV31XnTcFN2VRdRBKPQyj0M11MhT7fYAdvFNjooUYrvvTi8hSkVtaWALY829lDpepWyssbJVV8ZdC3NjUWQ==;62FDk7gCFaj8WbibPuXbxA=="
 ---

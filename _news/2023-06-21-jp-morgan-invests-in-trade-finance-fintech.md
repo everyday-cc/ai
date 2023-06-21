@@ -87,6 +87,17 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "6 insurtechs on Forbes' Fintech 50, 2023"
     excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
     publishedDateTime: 2023-06-20T10:22:00Z

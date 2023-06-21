@@ -18,68 +18,48 @@ topics:
   - AI
 
 related:
-  - title: "Five big takeaways from Europe’s AI Act"
-    excerpt: "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different"
-    publishedDateTime: 2023-06-19T09:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
+  - title: "Chatbots invade retail: The US$72 billion AI revolution led by ChatGPT"
+    excerpt: "Juniper Research forecasts AI chatbots driven retail spend to hit US$12 billion in 2023, escalating to US$72 billion by 2028."
+    publishedDateTime: 2023-06-20T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/06/chatbots-invade-retail-the-us72-billion-ai-revolution-led-by-chatgpt/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Europe won’t dictate the terms on Global AI"
-    excerpt: "Two days ago, the European Parliament came to an internal consensus on a draft version of the European Union (EU) Artificial Intelligence (AI) Act. Following this development, horse-trading will intensify among the European institutions to settle"
-    publishedDateTime: 2023-06-20T11:19:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Europe-won-t-dictate-the-terms-on-Global-AI-1789295"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 39
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/Chatbots-2-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Europe unveils strategy to defend AI, chips but divided on China"
-    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
-    publishedDateTime: 2023-06-20T18:04:00Z
-    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
+  - title: "AI, chatbots and ChatGPT: Threat to knowledge work, or a ‘dancing bear’?"
+    excerpt: "AI holds many possibilities for society, but caution is needed, especially at universities where platforms such as ChatGPT threaten academic integrity."
+    publishedDateTime: 2023-06-20T15:25:00Z
+    webUrl: "https://www.news.uct.ac.za/article/-2023-06-20-ai-chatbots-and-chatgpt-threat-to-knowledge-work-or-a-dancing-bear"
     type: article
     provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 34
-  - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
-    excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
-    publishedDateTime: 2023-06-20T16:50:00Z
-    webUrl: "https://sciencebusiness.net/news/AI/ecosystem-artificial-intelligence-act-restrictions-mean-make-or-break-europes-emotion-ai-start"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 33
+      name: news.uct
+      domain: uct.ac.za
+    quality: 38
     images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
+      - url: "http://www.news.uct.ac.za/images/userfiles/images/news/2023/2023-06-20_ai-chatbots.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
-    excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
-    publishedDateTime: 2023-06-19T13:06:00Z
-    webUrl: "https://www.unite.ai/frances-bid-to-become-europes-ai-hub-a-potential-challenge-for-the-u-s/"
+  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
+    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
+    publishedDateTime: 2023-06-19T03:26:00Z
+    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 18
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "KRdIzi0IF4G6etbwJ9U94WNfshn7ShbdTtpHeFIqC4vJG1VFUqwBpqo26cA5hplyhvS4ZQba9tN3JLQL1mvNAojSFWb7gLlpfTQGLh40DWC5LneGcMjVWMtis8NsGMGqIFElDrJ3w8us3rnDJjjz2YfShdtAshE8S/oYdl+yGsOrbD0NSWCWqOEPt2PgTAZfBpFMVDu9M7I5dJ0fTtOXIH16M99BnEVFmQ1Ih71kAAwbRmFS3CsLaxCrdmoMesAIO1dlEGjGDHzKu79ZJAGy52xKJgqGImJaaGcTRfbLlEZmb9/ByBjngfODOst+Wfr0m90PI7Qat5Uh2s0lHx4YznhzkgwZ7s9h57bQyT6wCsFxG6zeYfBEhq3nqXOQDR0g7ZUmGn4gAHhP7y40lXC769mb+sgnqD3jIO5wjSYNcljOsbXG+6sVFoJClCe2Pkkj0YnDTvKs634wqAU26DhZi0WtoLlJBJcQb4mOC8NmLzgEaQORvLG1H1LdHmJRQqS57RYWYC6CN0Ht+/O2RJj8hw==;Ofa9QKQwItX7RX8QAVaLSg=="
 ---

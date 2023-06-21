@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "CS50 Will Integrate Artificial Intelligence Into Course Instruction"
+    excerpt: "Introduction to Computer Science, Harvard’s flagship coding course, will have a new learning tool at their disposal: artificial intelligence."
+    publishedDateTime: 2023-06-21T10:52:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/6/21/cs50-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2015/09/02/223945_1307930.jpg.2000x1335_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
 
 secured: "CCfdSU51XEyY0woYkeJJG3jotfN3ZULUr9egv19J7TlXN1pwxHGxfC7x7d/FJKeipWpsWh3Mnw+6oJFyvFe+Mk3X5CrqwCYag6Ii0+2lAQLrlJatIUhow5ihD/aCrOYQaSnlTNIvDqeyOZ/nYPc6p1UwKR9bPLYzsTMZABK4o4GXWtM7XwGIyO9swKU5Zr4RK/EnnTaJm7klPCXP6+i7Puxj+SORZKk/drea/XI4FhF01yaAIaMLnGhD/0SnE4XSHOX+o/IS7ynfZNAx1VKbaD8yQc0dVa77onxUbSm11gyjUKypNfNe0Loid8bQLF5uhfZGUjpSG/AcL1eyji+WOfWYEDrYhgKqOrPTWt/QA4E=;ipGRacYQ2u7GzN7jYyLv+g=="
 ---

@@ -77,6 +77,17 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "JP Morgan invests in trade finance fintech"
     excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-06-20T23:22:00Z

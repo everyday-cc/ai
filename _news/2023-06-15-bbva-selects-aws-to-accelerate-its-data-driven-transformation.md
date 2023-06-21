@@ -1,20 +1,28 @@
 ---
 category: news
-title: "BBVA Selects AWS to Accelerate Its Data-Driven Transformation"
-excerpt: "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data."
-publishedDateTime: 2023-06-15T11:24:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/15/9833207.htm"
+title: "BBVA selects AWS to accelerate its data-driven transformation"
+excerpt: "With AWS, BBVA can harness its data to remain at the forefront of banking innovation, boosting its business insights and developing more compelling and personalized banking services quickly and cost-effectively."
+publishedDateTime: 2023-06-15T10:51:00Z
+originalUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/"
+webUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/"
+ampWebUrl: "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
+cdnAmpWebUrl: "https://www-bbva-com.cdn.ampproject.org/c/s/www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: bbva.com
+  domain: bbva.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "3KeLr4HJbhintW0fj5IHXrbz3vE9hr/jgNNcptEnT2/aIK49r/wCLqTSiil48JRL//5eoKx8t4GDQbvVelILM0cAcxHZw4Wjl/FigmwhqFDs6LYl3JoTJJlOjPMm7zhRhDPZAs8+eN2FEMc3R2LcJFLqNQRlsibKdF20nZhBRwIWnZHfr8nBaZOcwp5ar7CapLzrc3Rl9L93+J2V3wwuLG3lNOXSbtLXXcpJQHL7evPOVn9vaybdwCfAlkoHXybgOdVPs4Zl1UHpQx7XVc9FL8WyMq07xqdLCQPXu23pXBziNzIHME41lnkTFov8nRWggTd0QXc3VAomYjVteDoO94iUFzcXxP+hzEDiVRNs9nY=;wBJmbFtj8qCCZW6WFXtENA=="
+images:
+  - url: "https://www.bbva.com/wp-content/uploads/2023/06/BBVA-datio-AWS-1024x575.jpg"
+    width: 1024
+    height: 575
+    isCached: true
+
+secured: "35aJj/eEZsPn2gdA0SeC/cbw0pycYQNtQv8ymFccJ7qC8l98zkbHwrX7GGADoNILOr0Z3IUOKZOCAIvgieKkaz8YjM4vDAkUZBqNfWdEndjOatvs73c51QauudtOs+yy33Akc5xJhYJBU75wozrOt5Xii6UrcABDtycWW9u8ceFy52bKzqmctnA93EUqrquj0Dh5huHGaM12glIDAMF/o+S3GKcTGPGV35IkUGc07tpGRMjrWKpQCJkK9DTmpvGZrn2xNNs0UgTARyRZ5qIXrEaMZWfNBB3yndF/Qo5DdnlUlTrgCXe5LSfY2tHUZjsUnVIIo0NGNgvwPOIDE9UCxCFEouKA/bArL0Mhgdto19s=;0T5C53AtH9M7Mvnc8oiz/A=="
 ---
 

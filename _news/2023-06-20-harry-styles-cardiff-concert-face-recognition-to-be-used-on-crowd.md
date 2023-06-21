@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Harry Styles Cardiff Concert: Face recognition to be used on crowd"
-excerpt: "Thousands of fans attending the Harry Styles concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\"."
-publishedDateTime: 2023-06-20T11:54:00Z
-originalUrl: "https://www.bbc.com/news/uk-wales-65960525"
-webUrl: "https://www.bbc.com/news/uk-wales-65960525"
-ampWebUrl: "https://www.bbc.com/news/uk-wales-65960525.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65960525.amp"
+excerpt: "Thousands of fans attending the Harry Styles concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". The technology will be used on both the 20 and 21 June along Queen Street."
+publishedDateTime: 2023-06-20T12:43:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-wales-65960525?at_bbc_team=editorial&at_format=link&at_campaign=Social_Flow&at_ptr_name=facebook_page&at_link_type=web_link&at_medium=social&at_campaign_type=owned&at_link_id=CAE253CE-0F68-11EE-A790-C7067F934D9D&at_link_origin=BBC_Wales_News"
+webUrl: "https://www.bbc.co.uk/news/uk-wales-65960525?at_bbc_team=editorial&at_format=link&at_campaign=Social_Flow&at_ptr_name=facebook_page&at_link_type=web_link&at_medium=social&at_campaign_type=owned&at_link_id=CAE253CE-0F68-11EE-A790-C7067F934D9D&at_link_origin=BBC_Wales_News"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65960525.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65960525.amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -30,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "IQD5Mxrq/EXZTDua8j/Kf4+aQ3Ld6IA81LEPBR08jP5SWAxszwub/WbGhGaItyBU+FziiXWIUIpC6wUYl1sFNKR9V8ceNm+wzzokKxtY2DpzJcXSoQxPknNzBAsenuCFzYyZhy2OeKTR+7ZPzVVeV4VExLKYphsErl22YK8yc9REvxKwv+KDHfY/YOYFOgMKkb0vgyShaMIJdm3hBnOgyiDm0VFcMegSLI+l3UQzqBD9OoHp/noTReXSXuAaZniO9/pADgUyFoioqhqW3XJbzcGhPNMDedD8K6glULCPeGFzFHJs6wbkXlJERARzCphEl96Pph3c76NfNVBGGBaBo4tWYcsJWeOCF3QMszqBbc1gqoD36th3j83uL4GSm52MEQzaw/hR9ghvcP8NUtjq24kipA6YwG/OsrteYqlcwX1j7mzR0eIGH9c5xglg1phjR/sGDX8AQslb7CIqA26jdGz8VTSOTTmqW4p+0EtfMKlNSK1gHJDaUxeY1Geswe1XYK7DrLIv5LPxLFk6xbiOlQ==;cc5AMBHKHB+7mVxby99h7Q=="
+secured: "oDsYwRaxAy15HILb6KWMB+5fum2yScVt6nJENYPPymTG3CmPt0balz7wjHSFX1XnI8v4f4dSH+nNQurMrDLi7C0c6bODjmtTnl/qOWw+GOzwV1LU7h+N26+/2fIuBr0teW/Vk90QudrKJlEbwg3PB5yOkimMJzNQjTwPMPZm74XwsjX5Vz+wEnf1Ypg4Xg7lto6A9ifJv/Wxg7GtZWKxb9T9jeRt8F+VDja8NlmJZCjIx+Dy4F/57HQu3sKyBD+xP8NYHyCEJkyVpzDFgcpqkW4mB4nZrgrlDAjbcwaxvurbUEOYhzjxHxdeYimmXrOGZb0ELWxwwBceHaDNaTTDEgGRYP4crKHqwiA/fntO+gA=;3Da2cHZT6gB0cQHTaqM0xQ=="
 ---
 

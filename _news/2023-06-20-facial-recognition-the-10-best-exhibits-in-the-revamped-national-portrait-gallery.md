@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
         width: 750
         height: 416
-        isCached: true
-  - title: "Facial recognition software in airports raises privacy and racial bias concerns"
-    excerpt: "The pilot project has expanded to 25 airports across the country, including Logan Airport in Boston. Dr. Joy Buolamwini, founder of the Algorithmic Justice League and an expert in AI bias, told Greater Boston that facial recognition software has a built-in bias,"
-    publishedDateTime: 2023-06-16T17:22:00Z
-    webUrl: "https://www.wgbh.org/news/science-and-technology/2023/06/16/facial-recognition-software-in-airports-raises-privacy-and-racial-bias-concerns"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
-    quality: 52
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/d319c72/2147483647/strip/true/crop/1963x1167+0+0/resize/1963x1167!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fimg_5040_edit_custom-b1f062acfe259ba4af181e6930d9e3a3ddb41373.jpg"
-        width: 1963
-        height: 1167
         isCached: true
   - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
     excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."

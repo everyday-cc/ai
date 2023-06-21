@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeawa
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
 type: article
 quality: 57
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "A new accelerator for AI-first startups in Europe and Israel"
+    excerpt: "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network."
+    publishedDateTime: 2023-06-21T11:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg"
+        width: 1300
+        height: 866
+        isCached: true
+  - title: "Europe, US urged to investigate the dangers of AI technology"
+    excerpt: "A transatlantic coalition of consumer groups also wrote to U.S. President Joe Biden asking him to take action to protect consumers from possible harms caused by generative AI."
+    publishedDateTime: 2023-06-21T02:08:00Z
+    webUrl: "https://www.ocregister.com/2023/06/20/europe-us-urged-to-investigate-the-dangers-of-ai-technology/"
+    ampWebUrl: "https://www.ocregister.com/2023/06/20/europe-us-urged-to-investigate-the-dangers-of-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/20/europe-us-urged-to-investigate-the-dangers-of-ai-technology/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 57
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/06/OCR-L-AUTOMATION-0211.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Europe won’t dictate the terms on Global AI"
     excerpt: "Two days ago, the European Parliament came to an internal consensus on a draft version of the European Union (EU) Artificial Intelligence (AI) Act. Following this development, horse-trading will intensify among the European institutions to settle"
     publishedDateTime: 2023-06-20T11:19:00Z
@@ -63,24 +95,6 @@ related:
         width: 1050
         height: 450
         isCached: true
-  - title: "France’s Bid to Become Europe’s AI Hub: A Potential Challenge for the U.S"
-    excerpt: "In a bold move to solidify its position on the global artificial intelligence (AI) map, France is strategically gearing up to become Europe's principal hub for AI. This development is not only set to challenge European nations but also aims to redefine the established hierarchy of global tech giants,"
-    publishedDateTime: 2023-06-19T13:06:00Z
-    webUrl: "https://www.unite.ai/frances-bid-to-become-europes-ai-hub-a-potential-challenge-for-the-u-s/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 18
-  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-    excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
-    publishedDateTime: 2023-06-20T15:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 13
 
 secured: "cckTYT/440g7U4w99FBYTE5Cz8KVDHXUswKd6Fw4DitSaqVrbcw5GWWZdxz0WNOypc2EM9ycmj2Dx+mZ0zPeBBypUso3P28DyBQSXC06boDgSi/F3HJskgj77z7BqzzWIv30SjttokGZ0es7B5AgHIYNNbXeRv/aAiAL/qWpz9FTKplwD476zVwWW6lk6MHYLgotapTYlU+2tDVoHq2CuVwf+mkLHGhdd25/DdrStEA1bSqbg8lxjuJi8ceIzFhkNz2i7aiJDPKBhmRggPp5u+c7zJRVQcVbPKATCs7bZCv5qwWaL2JWs2vgEVhbOweXiaa2U7kmx5gIm68UrvNHrNwEUj/OCbpKkzPAFwFUPAg5XDctcwWrVucCtjAmL1cV7xHq8pJOXW1htk8t9dB1qijhR518G9IzE6qz+IfuukWBYobgAPpWjH3TuOS46c90uThta5RktwAECMjng0AWbb7QT8cZKk7ZBGVrAdg+jwaN280iDvP+VJ/y5lceQhktTWyNWgPuEXqju9/00h8NXQ==;45Y+TQnqnPOjNc+FUGu3Jw=="
 ---

@@ -19,47 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
-    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
-    publishedDateTime: 2023-06-20T19:21:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
+    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
+    publishedDateTime: 2023-06-21T10:12:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
-  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-    excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology from IBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon"
-    publishedDateTime: 2023-06-21T05:44:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 28
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 70
     images:
-      - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
-        width: 400
-        height: 225
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "HCLTech and Google Cloud expand partnership on generative AI"
-    excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
-    publishedDateTime: 2023-06-19T09:38:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-google-cloud-expand-partnership-on-generative-ai/"
+  - title: "Viettel, Microsoft Vietnam improve AI application capability"
+    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
+    publishedDateTime: 2023-06-17T03:35:00Z
+    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
+    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
+    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 19
-  - title: "Compass UOL Launches AI Cockpit with Generative AI"
-    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
-    publishedDateTime: 2023-06-19T15:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
+      name: VOV Online
+      domain: english.vov.vn
+    quality: 54
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T11:20:00Z
+    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elon Musk, Microsoft, Google Are Invested in AI: InQubeta Is Your Chance to Align with AI Giants"
+    excerpt: "Artificial Intelligence (AI) has captured the attention of the world’s leading tech visionaries and industry giants. From Elon Musk to Microsoft and Google, these influential figures and companies recognize the transformative power of AI and its potential to reshape industries and societies."
+    publishedDateTime: 2023-06-17T08:00:00Z
+    webUrl: "https://techbullion.com/elon-musk-microsoft-google-are-invested-in-ai-inqubeta-is-your-chance-to-align-with-ai-giants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Invested-in-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
+    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
+    publishedDateTime: 2023-06-17T12:03:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
+    type: article
+    provider:
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 16
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

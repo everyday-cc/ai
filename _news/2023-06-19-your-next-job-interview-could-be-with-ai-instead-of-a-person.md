@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/your-next-job-interview-cou
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-next-job-interview-could-be-with-ai-instead-of-a-person/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "CS50 Will Integrate Artificial Intelligence Into Course Instruction"
+    excerpt: "Introduction to Computer Science, Harvard’s flagship coding course, will have a new learning tool at their disposal: artificial intelligence."
+    publishedDateTime: 2023-06-21T10:52:00Z
+    webUrl: "https://www.thecrimson.com/article/2023/6/21/cs50-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2015/09/02/223945_1307930.jpg.2000x1335_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1335
+        isCached: true
   - title: "Western offers new course on the intersection of artificial intelligence and writing"
     excerpt: "KALAMAZOO, Mich.—As the world of technology continues to evolve at an unprecedented pace, Western Michigan University is at the forefront of innovation bringing together artificial intelligence (AI) and the art of writing. “One of the key aspects of ..."
     publishedDateTime: 2023-06-19T14:42:00Z

@@ -39,7 +39,16 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Old Mutual Completes All-In Migration to AWS"
+    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+    publishedDateTime: 2023-06-21T10:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "QbDnbYkRm3fCASHsEZ+mXj9f9CSOJ0BW1jNBbocZuH6JWfnMhKwllqcmAbvc2IAiKq18HhJBjc6wl065GmOL4dnM9VSG1swDlUu1uJBiVKOOGmlxZujh1G61Ky5+Grxf5esXm7HwVYPU9Lckkptp8eSWHxJdN6UpN8+BLYCjwVharG7zDQoyGPyoBPo+W/oFNcfmkmXKBjb0zSnM5N3WZ8ApBuontOSTsfDJbicxST++WTFqLc/KPTw9EDK8siYAPWqPEV0Uqo/y8on42ZZztDPhw/g+VzR2YC1wG4qyXOBJoPKpwwDsQWURA63PALaalHSWSemIjgxpLZvV7Il/d6Qkybpx03QETr4NIYVdHwo=;wOuAt+T7m/dek90a1EmzEQ=="
+secured: "J1TsV7Omo6zOiDKrLiLLoBdK5UOGEJVLI942qMKGvMd6/meizvUqQAfGZOimH3eNZGk3SgUuU/2ayQ+vgmK1AY5mZ8fLUo2EYkXdpETHfNvn95IhIsjTJwr/gR4oD1QxcUnSgQnQm++TeizFcNtzXrnlBR+g/xCdUokKGDw1inZxCMNUtTFCdPP1UicN7se1Yd9gfSJWzyQvEEAyYD/Riz6aq/vOc4wYqrhpS3Npoufvfr0QI/rIZvXzfT2NnuPVx6EeemVzMCJkSzS7JhxsR3jL6YRVmVNoOQQzO9B+gpwMnkEMnNkzyiUejX9e7CqauAItejwJQns/ZQhHWvYvM3wxgs0yrx1/au72yh50NDh43yXbHkDOUkqnZlNE8vfoFlZz7ogIyC7fHMNTXkAhfkAivxylisThvfay4SpurA7wz/WKRwuSKkUynMLOgVe+rYxy7verxluhL9FAIPuVb0B5UMJIl2ZYBqJ5yJkTwlQstBb/1/xv308JTQgoDEwRLQRqaM2fYXkd5psSDxCrMQ==;idXzJM86Hg6pQBVBsNEG4g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
+    publishedDateTime: 2023-06-21T11:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-as-tech-giants-invest-heavily-in-artificial-intelligence-1032401412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
 
 secured: "KNYJaH1pMGUTiT5yo6SDnZlxAE8oobwA4xAv6ILfcwDMvXSn6EUn9M6oRv3zcm+rj1jDsEpWJQ17aUOX9bgt58FPI8bRtuWi6rideIHVhrAl8kVu3LdEOaP01N8UvZx9ZpbLDHz1Vy2Ip1zqmqNdf8T/uoP3GGooBL1mxt/XB/VK0ibdX9ldFvdNi7dqcRLuG9kTI3ew6YdxxNJgQVqwLud7muGNwfJ4PvIepopev/DDu7s5yAmn8C95mDQLpOH56v9T59wQLh3PP/9Kyj0Rs69VxzfxDSSABC/vnavcOs5slakCns5HpTz2gPHALfxq9eYf5I2g3MhVCzvoB5GzBmmubOORWWZ3ezC4cb6ulEvvSbB5A4Mt1baLzWqLJemlW5Gt4uJl+QMAdslN7ZergBau3PrXCOvQPC4cpOH6i61NSpwL7N+N5w4Z55CYMT3ToOAZS1gkq417Smt+d7j2E0PQbNQwy7uvWbnFCTdz17P/mWh1MLUxxT+U0tU1weT4ug3fF+zVWmsvmhTCUDUcqw==;pZ5qigQox8pHuk4t2VKrNg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2422523/why-is-modi-getting-global-reco
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2422523/why-is-modi-getting-global-recognition-and-support?amp=1"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Elon Musk surprised by support for AI pause, calls for strong regulation"
+    excerpt: "Aidan Gomez, CEO of Cohere, a $2 billion AI startup, expressed skepticism about the feasibility of implementing the pause, stating that debating the extinction of humanity due to superintelligent AI. was an inefficient use of time and resources."
+    publishedDateTime: 2023-06-19T10:54:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 46
 
 secured: "3bDTouvAUTfHwyNJEAG6NnSor+EGp/m/yN31xWNbZUGpF7Hahd25plIkmtTuUidwkMqiYKxMnHQ2l2loBlSKckxV9LRu6VaUFA8Kdap8p1NEh11gtB9BxLxHj9ScnmpOY5ZKMuMVmRRv+Xm+r9YpoBEm9bzre/MFTS7d2Eu/pBittV9wWyBbgmzrgMfa9yEPJg1ZPH9RinsiMgdr/oyoIU4d/WrRc/qAvptq1sZkAyW6cS4wzJ8fgTrFHpsNhW2ak+q46brVfLVlZ1+g3TkQl+ixPLSJj9Ui/s64Kt0k1WUVNmFS8kNYDU+GWeHXtYzsaJPqRLb9Ula4HcBjIVGE+ZCZd3jetM6dj42rPSkw+1k=;9z5gpXgMkripXg664eVEkA=="
 ---

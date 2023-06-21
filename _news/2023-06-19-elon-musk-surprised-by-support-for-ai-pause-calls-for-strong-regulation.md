@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-
 webUrl: "https://www.gizmochina.com/2023/06/19/elon-musk-surprised-support-ai-pause-calls-for-strong-regulation/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -22,35 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions"
-    excerpt: "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty."
-    publishedDateTime: 2023-06-16T17:10:00Z
-    webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
+  - title: "Why is Modi getting global recognition and support?"
+    excerpt: "A year before the general elections in India, Prime Minister Modi is trying his best to get a third term by stabilising his home ground and strengthening his global credentials. A person who is still called the ‘Butcher of Gujarat’ because of his involvement as a Chief Minister of that state in augmenting Muslim carnage and communal riots of February 2002 has rehabilitated his international image."
+    publishedDateTime: 2023-06-20T05:02:00Z
+    webUrl: "https://tribune.com.pk/story/2422523/why-is-modi-getting-global-recognition-and-support"
+    ampWebUrl: "https://tribune.com.pk/story/2422523/why-is-modi-getting-global-recognition-and-support?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2422523/why-is-modi-getting-global-recognition-and-support?amp=1"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 44
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence is the new frontier... in election misinformation"
-    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
-    publishedDateTime: 2023-06-19T21:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    type: article
-    provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 56
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://i.tribune.com.pk/media/images/2245567-drmoonisahmarnew-1592505682-149-640x4801592661479-0/2245567-drmoonisahmarnew-1592505682-149-640x4801592661479-0.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "OmNr4ssd2jYDA7yQl9tSGcDWNzGxNWsiM8A/IOR5cTevGiUSD+dqesl9vYoRNUfNIP4YLzjTUgfAiHyi3leqh9h5fo5tzqxmX0SRam0FQLYVM0ZPC1idsWydTZS/+mJiAQEcFLKG6hzmTG3xNUoKax7iehPlhTu+Hkzps5h3Ip13g4v1NuvZ6wNb21j+6hiA1D7Y/3z7Ld51OAIW6FIlzDLCtAGVnl9PetZM6oPP2Rv4nQp7yN0WwhGy/3zI5AOLahv1398OL2fE2egHF/5mhj62gcDBp7/S35ZlrXj4UxaCylu2lit7e7V05PD+diMrWf4eyL64nfwdbXqjCEGPDPWnObfLX0xTXyqBR4cvWQk=;FASP94g1nU+re3qy0Pqb9A=="

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Comet teams up with Snowflake to simplify AI development for enterprises"
-    excerpt: "As part of the collaboration, Comet has developed an integration for Snowflake’s Snowpark tool. According to the startup, its new integration will simplify AI projects that focus on using data stored in Snowflake to train neural networks."
-    publishedDateTime: 2023-06-16T18:29:00Z
-    webUrl: "https://siliconangle.com/2023/06/16/comet-teams-snowflake-simplify-ai-development-enterprises/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 16
 
 secured: "hzkEL+tScY/lqhpYkr/i74q9dl/bIMd190ng+A9lcD9kfGRRnZk8Pl2BM2RsB22ZP9v1wLa0JPJGwCJRi4oIU2QkA9Y70xrcxyDeCmn8P/+9ORZbvaYTYo1xKfwDSSMAFcz8JtYlJXCQl0SAn2tKhX5N9nRtNM+fVXGDM1xpzYucjLSx7RQkpxuFXkxQFQdiH4f5puuMXl7guI+dJqxW+Us/WyZGG4kqngqnylV7Hlt56uM5S8rFjyuV4nDVwpp0Jkjvl3/x5QlLEET72cqZodE2+DhAWRIH5Pl+A105rMiFBvV0J69laN0Qdyu/vTFQpCjRwLsmaqsW5DmuC4xB+7IgzV92Wm0THsseIi9ajBm8t41zKLaPC7wuTKZe15B0n9LJntls1Uc6+Q2X6f6WRnIBN3BE0hWxjKLqkOtQ+BzkO2yc6vYZwL6xXjplzGvZrNG611yI5WtMx2VsY5DMkoWQ9bDAgiHCTAmnNVADpchAdFd9c6hrAGWlD6VEDLYO+tALn45gx+Xz057iXrYgrg==;VfC1KyUw/FBqz4sRF7lb3A=="
 ---

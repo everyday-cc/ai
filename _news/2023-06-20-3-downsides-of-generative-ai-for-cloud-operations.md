@@ -84,15 +84,6 @@ related:
         width: 650
         height: 401
         isCached: true
-  - title: "How Google is using generative AI for virtual try-ons"
-    excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
-    publishedDateTime: 2023-06-16T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/how-google-is-using-generative-ai-for-virtual-try-ons/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
     excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
     publishedDateTime: 2023-06-17T13:00:00Z

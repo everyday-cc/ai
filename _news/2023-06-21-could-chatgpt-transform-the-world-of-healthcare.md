@@ -7,7 +7,7 @@ originalUrl: "https://www.galvnews.com/health/free/could-chatgpt-transform-the-w
 webUrl: "https://www.galvnews.com/health/free/could-chatgpt-transform-the-world-of-healthcare/article_3a636c32-629f-51d3-a46e-1910ba6e9b1f.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 368
     isCached: true
+
+related:
+  - title: "AI is revolutionizing healthcare… but for whom?"
+    excerpt: "Guillermo Pepe, Co-Founder and CEO of Mamotest, elaborates on the opportunity of using AI to expand access to healthcare in new"
+    publishedDateTime: 2023-06-21T10:40:00Z
+    webUrl: "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/"
+    type: article
+    provider:
+      name: impactalpha.com
+      domain: impactalpha.com
+    quality: 56
+    images:
+      - url: "https://impactalpha.com/wp-content/uploads/2023/06/Mamotest-Argentina-patients.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "0+dWX2+cq270Y8GEb+Vq/lCqCXtApdWtwrTtgbmNxpO1NBZIqbn17p8c5GKJhn4kwN4C385vtQwY5hCywOzT5AaC2kUxEVQF8eERHmaCjVRORXgqT7EDCQbmffK4YDZS8WcqR+A/C9zaTpNscg0py6d/7/3OaeqWpTK8pAYIIW6O8Y1jlffDJtk8V8D6zW0H02dDScXYKm5leNhrZZr+8BLtFux0619STrbnIo+VdrmGgrhO/KZ/sGrHaAbjVmsqSfRLVo9pUZ2XjH9sUZU/3EgRXIOxGvPokAxDAQSiVpdmRu7q/sPB5PifBbFkxRGfcTYNgIBd1WeoWy4Mjpa8UJ6leWyxXI4GGBiolOA9XIE=;oDs8QGsdM1hZbSsjaJCICQ=="
 ---

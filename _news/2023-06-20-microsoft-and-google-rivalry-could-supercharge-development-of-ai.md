@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zyrobotics becomes Microsoft's first AI for Accessibility grantee"
-    excerpt: "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ..."
-    publishedDateTime: 2023-06-16T18:38:00Z
-    webUrl: "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
-        width: 760
-        height: 506
-        isCached: true
   - title: "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity"
     excerpt: "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More"
     publishedDateTime: 2023-06-17T15:29:00Z
@@ -53,45 +39,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/muglia-book.png"
         width: 730
         height: 523
-        isCached: true
-  - title: "Viettel, Microsoft Vietnam improve AI application capability"
-    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
-    publishedDateTime: 2023-06-17T03:35:00Z
-    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
-    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    type: article
-    provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 54
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 54
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
         isCached: true
   - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI ChatGPT Responds to UN’s Proposed Code of Conduct to Monitor Artificial Intelligence"
-    excerpt: "As artificial intelligence (AI) turns into a global phenomenon, it has triggered widespread speculation on both its positive and negative consequences. Is AI technology threatening to go wild? the sceptics question."
-    publishedDateTime: 2023-06-16T18:29:00Z
-    webUrl: "https://www.ipsnews.net/2023/06/ai-chatgpt-responds-uns-proposed-code-conduct-monitor-artificial-intelligence/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 26
 
 secured: "oHkNOv74AGM9M1TBXH4YDi6RwiaDhG9NNafMHLnZuBw+9y3950I21HtkHlekvciJ8hqph79UPtBrW/ud2tpczPkRbiRxPmDj1HNws9XI1EgXyD726SZL0f4yu/ZyebgrBooWv7yVdu1AaAmEiKWS0o2P/hKAtattiWjBkWl8sn23M3HKJ19E1QmHtecsr4Z6U/gF4uMLPVLy77hGBexXyvAAEwNCqaShenCaebuyOzNS0E6Bxff2DfffVkjhxgozXZDDSUF8uxTia3dgoN39gnk7t9JaY7rhyL5w/JzlrthYVjXKnQJ1K/8a8IUGNh9dQjAIys+65H2yw3FE/L60tByVqwsCOB4rpfeY3/J5bld07fTRM9kQv1SRqpIbqneDjVMBZgXX0XKF0XcWMljpvkD/6SGJZks0sOjQAZI0ZP8idXpxRLokZ6mqjM92e9ZL1mZiBU34mH0O+w6yv3SnLkhOpT7F/K8Yr/OOVS3GkJuTHcg8iv9l2wZRuFPnMWtsjaZ9fw9IfF8W9yRl8KDuKQ==;eq4UcZmH6QnjNF63pGFE0w=="
 ---

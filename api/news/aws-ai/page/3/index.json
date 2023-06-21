@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-27-aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator.md",
+      "title": "AWS Selects 25 Startups For Its First ‘Fintech In Africa’ Accelerator",
+      "excerpt": "African fintech startups have been selected for the first Amazon Web Services (AWS) FinTech Africa Accelerator cohort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
+      "originalUrl": "https://www.techawkng.com/2023/05/27/aws-selects-25-startups-for-its-first-fintech-in-africa-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techawkng.com/wp-content/uploads/2023/03/Gogo.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techawkng",
+        "domain": "techawkng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-film-the-innocent-deep-rising.md",
       "title": "Film: The Innocent, Deep Rising",
       "excerpt": "Familial tensions, criminal hijinks and unexpected romance collide in the uproariously entertaining new comedy hit from the multi-talented Louis Garrel (A Faithful Man). Lyon, present day. When ...",
@@ -1351,58 +1394,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker.md",
-      "title": "GPT-NeoXT-Chat-Base-20B foundation model for chatbot applications is now available on Amazon SageMaker",
-      "excerpt": "Today we are excited to announce that Together Computer’s GPT-NeoXT-Chat-Base-20B language foundation model is available for customers using Amazon SageMaker JumpStart. GPT-NeoXT-Chat-Base-20B is an open-source model to build conversational bots. You can easily try out this model and use it with JumpStart.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gpt-neoxt-chat-base-20b-foundation-model-for-chatbot-applications-is-now-available-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/gpt-neoxt-chat-base-20b-sagemaker-1260x627.jpg",
-          "width": 1260,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T09:42:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -87,6 +87,17 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "JP Morgan invests in trade finance fintech"
     excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-06-20T23:22:00Z
@@ -116,6 +127,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OAhYY4zbHcYiRQLU/IObBgEhNAHijqLxs/j9qvy3LaRKVAzjXqM4VAT6Qd4pCgCcGOpPY9nDIlZqXwrHBV40rC/tYTZ4bnw5r07pg4HjuSBcx5QHvX2k982/Lh2Kg08aikmngrSo8IBKDF2h2qzihwLuAEyy4ebu5j/9iAKgiASrzAg/2LJJE5K+14ZxINXZFYwjjDhK1wl+1HuboZCXXbRhvF7Zix6UHx/a+ow6Oi/mpMoRMxxarLWWjc7Xnqb0g8yCfSvtxqyRotQpFjVrNdTdwKsvSdGbDF+DJrdFEFjB+BB6VsIbrR/JLXLgYCL6Rqk9qdzLQY2oJaOJKGig7qFJ/lEED1EhBxl0cTQWQt8=;KrJQ28smJRkBgHbgghC/pg=="
+secured: "H1JDWOSuxwckb52DhsbmDC1HjgqH5+O5OQjkyoRMKOxVyJLCCm8jSuGfylJojG8uHylf5YYGXH0e0sgGW13t7GOFJGy4+IGfnyuZ8tVSZP0ZaR4YylmOeWlUStCriSEQC9PXi6W6lLtxTO4JN5nHcN7C+wn+nQ+Eutbp5h4i2R32in5mjfQpEsxD0i8+9Q6sOjJoqN/mp6ox/+yg8P+QTvbu9O8Rfonugsevk7BrtSRO9ifuO95ipUGkn8Mm975kSAFehT1G2r3sIsNXIHuX12DA3sw4jVpgtqGaCIAwpjcRjsINarW/yUGvLV/SPmS+Z603SIiUAqGxDlBVeHpNW+ipqQKD6uGvQUaHNN8tIDby4ijU5BedCiVD+lYwu1mJRaChAnTIbOaS07mG+uPITO+jXXiMrEDKrc5/luQCuWVvDsLHbhVbDqwAGR4CIJsAm/iwtNhWyKd5DVtfcYkAfMPJAMKfi66dbVBWIBXF4L6IzRCwxHg20dFxs+vCypuuf2P0Qjlf0OO7T057fdH1dA==;gvB6XJxBTLH8mShE0dXR6A=="
 ---
 

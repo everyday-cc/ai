@@ -25,42 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
-    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
-    publishedDateTime: 2023-06-20T19:21:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+  - title: "Enhancing the Wimbledon fan experience with AI from watsonx"
+    excerpt: "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted"
+    publishedDateTime: 2023-06-21T11:15:41Z
+    webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
-  - title: "HCLTech and Google Cloud expand partnership on generative AI"
-    excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
-    publishedDateTime: 2023-06-19T09:38:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-google-cloud-expand-partnership-on-generative-ai/"
+      name: IBM
+      domain: ibm.com
+    quality: 134
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg"
+        width: 1197
+        height: 602
+        isCached: true
+  - title: "Wimbledon, IBM team up for AI-generated highlight commentary"
+    excerpt: "Wimbledon will use AI commentary for video highlight packages on its website and app at this year's tournament."
+    publishedDateTime: 2023-06-21T11:18:00Z
+    webUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary"
+    ampWebUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
+    cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
+      name: ESPN
+      domain: espn.com
+    quality: 57
+    images:
+      - url: "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0714%2Fr880269_1296x729_16%2D9.jpg"
+        width: 1296
+        height: 729
+        isCached: true
+  - title: "Ace!: Wimbledon to leverage generative AI for video commentary"
+    excerpt: "Generative AI is being applied to produce narration with varied sentence structure and vocabulary to make the clips informative and engaging, said IBM"
+    publishedDateTime: 2023-06-21T10:45:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/ace-wimbledon-to-leverage-generative-ai-for-video-commentary"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
     quality: 19
-  - title: "Compass UOL Launches AI Cockpit with Generative AI"
-    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
-    publishedDateTime: 2023-06-19T15:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DV0axOWsmJBThbs34HSqiMTJ9TnnqBTnNEC90UiZ+F++anupHNP1xY9YrBbSCEsemHDYFsk/gaoAFpC7KVcoa9F+K5vK0wUGLujf9rg1epBSwwHwj8nxhYTj5oIckgrH0pZGbkif2csqgttIX7FL2EkTlIGghSBs69iAhpmifw9swoGtAWWLFJVnWI114ra26CqyhM+mBszP7RtsNAQkcfSe0ZoRvoKnObIylemzjTJh6RWD/WD+mc2zq3UHx57yD2JMZQSxJ2em9+u9Z9bNcAEWk3+xxZK3zZGkg+A0e2gg4AtQyIsrGVk24qybBlh9MsUGqnsS9E8vY4cLjbWgUc5HZeCiqi7bFghshloKu12icBVcoFHFTBalA9DUv0xfiDhpoWFOEKa0Ca5an1DHZK2/couHhpC5aScp5PZfwE6SXOMRP+CFuPqtVVvKd2YVmQGLQlv71hinRQEvq3D9EHYRr3hfSvWY5zktpxw9wOEtLHfoNaYhW3evoO/yOEsJoyMyAVtFOH7gGm+KZer3SA==;77JPJkNno9lge19I6Z3mDA=="
 ---

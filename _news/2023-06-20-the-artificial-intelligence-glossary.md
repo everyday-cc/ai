@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "How Should Artificial Intelligence Be Used in Primary Care?"
-    excerpt: "Artificial intelligence (AI ... study gathered a diverse group of primary care physicians, patients, and other healthcare professionals, including health system leaders, to set out the priorities ..."
-    publishedDateTime: 2023-06-16T19:17:00Z
-    webUrl: "https://www.medscape.com/viewarticle/993343"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 39
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_230616_doctor_ai_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "0yyUVNe67kF27wIoMO8dLyacEJ6KVxKSkT0YSP3uW6Gq0S5YROWsHM4hMdTRGwKUoYIvJOWeToSNWrG1Uuih9ASH07iU/1U4vp0xakqccK/5hfTMF+/DKj9tXcSRk/Crhhxv+EiPlxFUgP3q/Gibr6onG/q9+zJjxVv//TkG5SA1rljGL6YED8iXB2Xbq/h6gtO004pf4JskCzlNur++AN2aA+ECX0z92Yh48kE/FjF9xLru77ra2BKf9izxtt7Hxguwq9UMdY6FfX1kBJ+07/QQu4lkQ2JWyvmWAftQDttDfhUuy/9OJheLAq/L04k9wFdcZHF++mylI8yY4iWH5jVlhjCneooLWrUVMkR9QhU=;WMygp71fE1jXP1OlGvch4w=="
 ---

@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Zyrobotics becomes Microsoft's first AI for Accessibility grantee"
-    excerpt: "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ..."
-    publishedDateTime: 2023-06-16T18:38:00Z
-    webUrl: "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/"
+  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
+    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
+    publishedDateTime: 2023-06-21T10:12:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 84
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 70
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg"
-        width: 760
-        height: 506
-        isCached: true
-  - title: "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity"
-    excerpt: "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More"
-    publishedDateTime: 2023-06-17T15:29:00Z
-    webUrl: "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-and-snowflake-exec-bob-muglia-is-optimistic-about-ai/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/muglia-book.png"
-        width: 730
-        height: 523
-        isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
-    publishedDateTime: 2023-06-20T16:18:00Z
-    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Viettel, Microsoft Vietnam improve AI application capability"
     excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
@@ -78,31 +52,38 @@ related:
       name: VOV Online
       domain: english.vov.vn
     quality: 54
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+  - title: "Elon Musk, Microsoft, Google Are Invested in AI: InQubeta Is Your Chance to Align with AI Giants"
+    excerpt: "Artificial Intelligence (AI) has captured the attention of the world’s leading tech visionaries and industry giants. From Elon Musk to Microsoft and Google, these influential figures and companies recognize the transformative power of AI and its potential to reshape industries and societies."
+    publishedDateTime: 2023-06-17T08:00:00Z
+    webUrl: "https://techbullion.com/elon-musk-microsoft-google-are-invested-in-ai-inqubeta-is-your-chance-to-align-with-ai-giants/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Invested-in-AI-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
-    publishedDateTime: 2023-06-21T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
+    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
+    publishedDateTime: 2023-06-17T12:03:00Z
+    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
+      name: en.qdnd
+      domain: qdnd.vn
+    quality: 16
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "841+JkTWEDa0bKK2xdSbmjNDtMQDxlO0VR9vjKRLbAppfZHbgtL42Bnty2AZdK3nlqWBhwuaIVCr8MmyOlSCTH8rzsspSs+IGRVsFq1vJATdiNBk/HBvPhNJtM6h7fxKP+vmJWMg+SK9vjtbvcdDwfnD+Ifj7CmBGBHdlmxKIiyQkLH4REt6fcJGAOl16UbbeWV23kFIlgZkjueWexOdMHZX+W/O3kW3RcWzQbkCHeMNnsE/zoisiPBdW0VE6mrGlFt1WMqnOOVn8xhrO1/xr4ZR9CObUYn1/Qv+rUeAy2vQ2vrvrmTal/kHNTbV+I2hZMPPVMO0QyCg0+TUPsNaIFwrPGDHS6G6BogkGSciesI=;FaeuNcuvIMS8sg6kKJDXNw=="
 ---

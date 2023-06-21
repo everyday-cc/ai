@@ -26,19 +26,74 @@ images:
     isCached: true
 
 related:
-  - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
-    excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
-    publishedDateTime: 2023-06-20T17:39:00Z
-    webUrl: "https://mashable.com/article/eu-consumer-groups-urgent-investigations-generative-ai-risks"
+  - title: "A new accelerator for AI-first startups in Europe and Israel"
+    excerpt: "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network."
+    publishedDateTime: 2023-06-21T11:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 65
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03B33GOhtKEptX4XVsYoncE/hero-image.fill.size_1200x675.v1687273781.jpg"
-        width: 1200
-        height: 675
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg"
+        width: 1300
+        height: 866
+        isCached: true
+  - title: "Five big takeaways from Europe’s AI Act"
+    excerpt: "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different"
+    publishedDateTime: 2023-06-19T09:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Europe won’t dictate the terms on Global AI"
+    excerpt: "Two days ago, the European Parliament came to an internal consensus on a draft version of the European Union (EU) Artificial Intelligence (AI) Act. Following this development, horse-trading will intensify among the European institutions to settle"
+    publishedDateTime: 2023-06-20T11:19:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Europe-won-t-dictate-the-terms-on-Global-AI-1789295"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Europe unveils strategy to defend AI, chips but divided on China"
+    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
+    publishedDateTime: 2023-06-20T18:04:00Z
+    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 34
+  - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
+    excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
+    publishedDateTime: 2023-06-20T16:50:00Z
+    webUrl: "https://sciencebusiness.net/news/AI/ecosystem-artificial-intelligence-act-restrictions-mean-make-or-break-europes-emotion-ai-start"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 33
+    images:
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
+        width: 1050
+        height: 450
         isCached: true
 
 secured: "pZrUgwvITb59qhuq8rm6DisJt2HbZGYhCUzt6fgSXXziaOPdmpEeQM1t764HVSQ+wg/BXfbhhKba5YIpXCRbgRpEOk0K2R/Gq25BiFf1h8gchxbupSvpDAK5LjozthjJXz0J8gJ3DTXsyYSuCxxClNI5JTM87QRZCaAV9286hq8O0I0784XjUyE0hfvIcrNzHE5qNlm8sGrMxpgV+oZJE1JqIin51xZr/spdsq2SPlLs/bn5a7TtHBVK2C6MVB1LcQ5kyymnaFOrpinCEtDrGUSwDsDfKaS9oJEGV7ykg/TJ6j1/vzPaOP0NBf/sqquX5NJdE7ILsBuSSzSaeTKkRw4Y3GK7WK/AbXmZAmhbySM=;mAihlXFO738O+nbqmGZcAw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-m
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Should Artificial Intelligence Be Used in Primary Care?"
-    excerpt: "Artificial intelligence (AI ... study gathered a diverse group of primary care physicians, patients, and other healthcare professionals, including health system leaders, to set out the priorities ..."
-    publishedDateTime: 2023-06-16T19:17:00Z
-    webUrl: "https://www.medscape.com/viewarticle/993343"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 39
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_230616_doctor_ai_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-06-20T00:36:00Z

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI And Security: Is Your Organization Ready?"
-    excerpt: "“AI can create such convincing content to the average person that it’s going to be difficult for them to discern what’s real without intensive training,” Lefever said. “Social engineering approaches will become much more sophisticated and convincing, and it will require teaching the workforce to be critical thinkers around security.”"
-    publishedDateTime: 2023-06-16T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/larryenglish/2023/06/16/ai-and-security-is-your-organization-ready/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
     excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
     publishedDateTime: 2023-06-19T19:22:00Z
@@ -61,20 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "Tribe AI’s CEO on why generative AI is seeing more rapid uptake by enterprises than web3 and crypto"
-    excerpt: "The second one is continued specialization. AI is not a monolith, it’s not one thing. We’re seeing people start to specialize and focus and go deep on a specific use case or a specific industry. That’s where you’re going to see the most value ..."
-    publishedDateTime: 2023-06-16T17:40:00Z
-    webUrl: "https://venturebeat.com/ai/tribe-ais-ceo-on-why-generative-ai-is-seeing-more-rapid-uptake-by-enterprises-than-web3-and-crypto/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 55
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Jaclyn-headshot.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "5 ways generative AI will help bring greater precision to cybersecurity"
     excerpt: "Cybersecurity vendors have different visions of how generative AI can serve customers but all know they must provide guidance to reduce risk"
     publishedDateTime: 2023-06-20T18:15:00Z

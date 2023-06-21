@@ -86,15 +86,6 @@ related:
         width: 650
         height: 401
         isCached: true
-  - title: "How Google is using generative AI for virtual try-ons"
-    excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
-    publishedDateTime: 2023-06-16T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/how-google-is-using-generative-ai-for-virtual-try-ons/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "3 downsides of generative AI for cloud operations"
     excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
     publishedDateTime: 2023-06-20T09:35:00Z

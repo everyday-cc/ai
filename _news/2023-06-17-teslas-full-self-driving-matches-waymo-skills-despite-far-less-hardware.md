@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 902
         isCached: true
-  - title: "Tesla shares jump after Elon Musk declares self-driving cars are near"
-    excerpt: "Tesla has a market capitalization of around $800 billion, but for years has missed Musk’s targets to achieve full self-driving capability."
-    publishedDateTime: 2023-06-16T17:38:00Z
-    webUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/"
-    ampWebUrl: "https://nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/elon-musk-says-tesla-close-to-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/musk-tesla-self-driving-cars.jpg?quality=75&strip=all&1686920619&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla Has the Most Self-Driving Accidents. There’s a Good Reason for That."
     excerpt: "With advanced driver assistance systems proliferating, investors need to understand how to read safety data provided by regulators."
     publishedDateTime: 2023-06-20T21:51:00Z

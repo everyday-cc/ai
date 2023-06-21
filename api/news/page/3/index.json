@@ -2,6 +2,246 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-20-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics.md",
+      "title": "Artificial intelligence can support architects but lacks empathy and ethics",
+      "excerpt": "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/GANNETT-AI-0_1687232356033_1687232701698.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "publishedDateTime": "2023-06-19T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
+      "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
+      "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "publishedDateTime": "2023-06-19T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-robocat-a-self-improving-robotic-agent.md",
+      "title": "RoboCat: A self-improving robotic agent",
+      "excerpt": "Robots are quickly becoming part of our everyday lives, but they’re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent",
+      "originalUrl": "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6491af728b5eab49d811d5eb_64903510768de9f4a300c2a4_1piq7E0FfPBymopC7adH_nwiyPNOweVIJFp0mguaIjEQKVRrphhKqA_xmtPqiB2FlXLmiEtuhqHdzZ7UOiSjOlFSYpQ6Lhpg6rlp_QCrgsh8xphmDKX2Alw9MRhTWbdMgIvSv3hmySFxJJyh7Y-a7DXgiFxCnohOw9oeyUZQzNN8pjrfLwUiEMDSGTejFoFgSoL9POWilwtKnhpZg1H2UOcb54OcnC0tKAoFMg.png",
+          "width": 1600,
+          "height": 1042,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-airbnb-ceo-predicts-ai-will-pave-the-way-for-millions-of-startups-instead-of-replacing-jobs.md",
+      "title": "Airbnb CEO predicts AI will pave the way for 'millions of startups' instead of replacing jobs",
+      "excerpt": "By making companies 30% more efficient with the same manpower, AI could lead to more startups, Airbnb CEO Brian Chesky said on a recent podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "originalUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6490b6f020f78100189feec7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "publishedDateTime": "2023-06-19T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-artificial-intelligence-is-the-new-frontier-in-election-misinformation.md",
+      "title": "Artificial intelligence is the new frontier... in election misinformation",
+      "excerpt": "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "originalUrl": "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "publishedDateTime": "2023-06-19T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
       "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
       "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
@@ -61,7 +301,7 @@
       "originalUrl": "https://www.zdnet.com/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -216,7 +456,7 @@
       "originalUrl": "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -267,7 +507,7 @@
       "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -319,7 +559,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -689,48 +929,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-19-five-big-takeaways-from-europes-ai-act.md",
-      "title": "Five big takeaways from Europe’s AI Act",
-      "excerpt": "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "originalUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/",
-      "publishedDateTime": "2023-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-19-this-fintech-startup-serves-a-75-trillion-per-day-market.md",
       "title": "This Fintech Startup Serves A $7.5 Trillion Per Day Market",
       "excerpt": "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries.",
@@ -739,7 +937,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -842,7 +1040,7 @@
       "originalUrl": "https://www.zdnet.com/article/your-next-job-interview-could-be-with-ai-instead-of-a-person/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1028,212 +1226,6 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future.md",
-      "title": "AI Delegation: The One Skill You Will Need To Succeed In The Future",
-      "excerpt": "Learn why understanding and using AI tools is a critical skill for both individuals and businesses in the evolving digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648febad4bdd8c39f2b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "publishedDateTime": "2023-06-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-the-ghost-in-the-machine-shouldnt-be-ai.md",
-      "title": "The Ghost In The Machine Shouldn’t Be AI",
-      "excerpt": "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-is-opensource-ai-threatening-the-tech-titans.md",
-      "title": "Is OpenSource AI Threatening The Tech Titans?",
-      "excerpt": "Open-source AI can be defined as software engineers collaborating on various artificial intelligence projects that are open to the public to develop. The goal is to better integrate computing with humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/18/is-opensource-ai-threatening-the-tech-titans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648f7a783dd766b3fe5e44a7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-how-generative-ai-is-creating-new-classes-of-security-threats.md",
-      "title": "How generative AI is creating new classes of security threats",
-      "excerpt": "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
         "Facebook AI"
       ]
     }
