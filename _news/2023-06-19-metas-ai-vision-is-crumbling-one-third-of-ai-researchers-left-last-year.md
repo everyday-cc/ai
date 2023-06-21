@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/19/meta-lower-confidence-ai-emp
 webUrl: "https://www.gizmochina.com/2023/06/19/meta-lower-confidence-ai-employees/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,35 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Researchers build working robot based on AI’s design"
-    excerpt: "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production."
-    publishedDateTime: 2023-06-17T00:00:00Z
-    webUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html"
-    ampWebUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
-    cdnAmpWebUrl: "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
+  - title: "Deteriorating Meta’s AI Vision: 33% of AI Researchers Departed in the Past Year"
+    excerpt: "Discover the crumbling of Meta's AI vision as a staggering one-third of AI researchers bid farewell in the past year. Read on for details"
+    publishedDateTime: 2023-06-19T10:41:00Z
+    webUrl: "https://www.phoneworld.com.pk/deteriorating-meta-ai-vision/"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 74
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Opera One Offers an AI-Based Web Browsing Experience"
-    excerpt: "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,"
-    publishedDateTime: 2023-06-20T07:00:00Z
-    webUrl: "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/06/Metas-AI-Vision.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aw/SYbp7oiWhwegjWBe4NG7wE84WPMKzvdESct/xdL++9mbU9r4vfdg63dqr6wnYAHZrEcPUQ2Ud9vKFDp9uEusWSVhVAC+dxQeQknzIZMoQNMK8SogrMZHnFZdZOKP6ju2YF7WL9B9mpM/PKOPk/9cbgpqxX8KLGc9ssam1GB5c6jRTcT4kiDbh8ksyziGBlFz3rX1ijV1BYl92+P67SQdAoMNYHbKY1+3ap0au9uyCK3/IwA1fqM0qP7Rp+Qkdy/WMq8zsYCv5cx6etN8qxAtXtSkpOZ5JDHpz/3iB40C6VENs7HTXE+L/JLPy01Iqij3vmYlyA0Es3Q+jR0+sHAnpTslp973QbsUFUDb4cx0=;hIXs8z+XEyOxdpJwcc7RaA=="

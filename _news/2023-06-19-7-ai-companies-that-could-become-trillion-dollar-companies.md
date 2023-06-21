@@ -31,6 +31,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Experts Predict Market Rally From AI Stocks Is Temporary"
+    excerpt: "We are not convinced we are at the start of brand new shiny bull market…still feels more like a combo of 2000 or 2008, big rally before the big collapse.’"
+    publishedDateTime: 2023-06-21T17:46:00Z
+    webUrl: "https://observer.com/2023/06/experts-predict-market-rally-from-ai-stocks-is-temporary/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 39
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/06/GettyImages-1498501630.jpg?quality=80&#038;strip"
+        width: 6240
+        height: 4160
+        isCached: true
 
 secured: "4MUCmMKtWpPCKKBcWjart/Uv+wRSvdgZpOD1XRBZN69be6F+9AFpgpIVUTTXN0FvgifwcXyr/wcoSwzdf34ZdOSl3JeUXlvpqLoAXzFgEklb53HObZMnnmsk6uJo66Qy+oL1GD0glFwhwBNppDKbRU2LrbYXZgXRsZIPMim2sExpHvrjIxnjNQTHUwJPN5naW8SsNGBOQTsiUUngtmt/rLjG3MqiYEJ2JyOsLpLgc5282BOqNEISN+aZ10O+urtOQ+vim30HKnUvPwablFCgLQWAWlyHd39o2hxfnfE5WhBbpo9DBEfMh6t9EG2sDSAVQVuCd1YWWSZCkUySVd7QWaKwJPO46X2gVYsieRijzvprosRO///Rzg40Sh8ubzv1LItWvvNVOOWjBw0cijp+xbIJ1INBiq/oDXg0w+0hN55pJjrBbPqT55sz9MLfdPJ8I9LGwMvMmYd+M4MN0pCyz5TfdGrOFjfKZyFGmerUEDYDYlYpGUHHn105iu2CF/X9DMi0Ew67AI5EqzfnYki8+A==;5dR0o4YBtRHCBi68MhB85g=="
 ---

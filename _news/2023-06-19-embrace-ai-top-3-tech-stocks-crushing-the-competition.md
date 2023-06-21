@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robots and AI: A new economic era"
-    excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
-    publishedDateTime: 2023-06-17T01:04:00Z
-    webUrl: "https://www.manilatimes.net/2023/06/17/opinion/columns/robots-and-ai-a-new-economic-era/1896427"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 54
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/17/205184.jpg"
-        width: 1200
-        height: 979
-        isCached: true
   - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
     publishedDateTime: 2023-06-20T10:11:00Z

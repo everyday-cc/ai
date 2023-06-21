@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-prod
 webUrl: "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechCrunch
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Dropbox introduces generative AI-powered products to ease knowledge work"
+    excerpt: "According to the company, Dropbox Dash and Dropbox AI will provide ways to discover, organize and manage their work on the Dropbox platform."
+    publishedDateTime: 2023-06-21T16:45:00Z
+    webUrl: "https://venturebeat.com/ai/dropbox-introduces-generative-ai-powered-products-to-ease-knowledge-work/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1-dash-universalsearch-1200x676-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "/AIbceNUNFeGweTbgAi8NzfTHrJ/ewkU6WfECMAJh5wamlWpdlXxlh5mQYwcCVIJPNOKxbOvXSSKmuaI5h73nV7CT63aHPNZyjVfdWmhDG3vbZwpjOmzC4E4P7/hYe7B7p+oZrXkFA+q2ou6fHi+RXVxpTLjplFqbm9+fTQpcCzOYc7GjBG9ygG5gIp9tf7CM7bGXs5J0BNMIyz3T4VWYuweGPKuZ85scaxWkjrv07T4wf2QNJSLtySIpl8eJbmWm9G7BkT2Kbhj7UYGCpGbfxbY8uMyPKX0HxwSr166QjKaxLn3PNqW34dhk+AGdm2A/STP18HCk960eERuvxLiRBwfbEjKTaR4LfAjGj81QZ0=;Lx3dOWwb34ks4UYwdVhRsw=="
 ---

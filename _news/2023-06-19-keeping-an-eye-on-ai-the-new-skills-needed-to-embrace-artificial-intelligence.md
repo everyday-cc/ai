@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots and AI: A new economic era"
-    excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
-    publishedDateTime: 2023-06-17T01:04:00Z
-    webUrl: "https://www.manilatimes.net/2023/06/17/opinion/columns/robots-and-ai-a-new-economic-era/1896427"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 54
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/17/205184.jpg"
-        width: 1200
-        height: 979
-        isCached: true
   - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
     publishedDateTime: 2023-06-19T12:30:00Z

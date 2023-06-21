@@ -19,24 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Argilla Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Argilla, maker of the first platform that empowers enterprises to build production-ready natural language processing (NLP) solutions with a unique data-centric labeling platform, announced that it has been named to the 2023 CB Insights  AI 100 ranking,"
-    publishedDateTime: 2023-06-20T13:55:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835752.htm"
+  - title: "Speculative headlines about artificial intelligence are missing the point. Here’s what America’s top CEOs told us they intend to use A.I. for"
+    excerpt: "It is hardly surprising that professional services CEOs such as Solomon have such nuanced reflections on where the workflow lines get drawn between artificial and genuine ... a faster and higher scale. Solving health care’s most intractable problems ..."
+    publishedDateTime: 2023-06-21T17:21:00Z
+    webUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/?ref=biztoc.com"
+    ampWebUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "HiddenLayer Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "HiddenLayer recognized for achievements in Security for AI NEW YORK,  /PRNewswire/ -- CB Insights today named HiddenLayer to its seventh annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2023-06-20T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hiddenlayer-named-the-2023-cb-insights-ai-100-/2023/06/20/9836012.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Fortune
+      domain: fortune.com
+    quality: 54
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1258535133-e1687352365129.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
 
 secured: "Bwfib0cwrSw3PbEaEW8Wx6HjjmqSxCPbVvwiQbNh0MtkYNs3vUyQxBjE/nyabHC1S6KTc/sjcYdOV7eVnAWODbdDp41DN0MNO7FBmj/qKi68N6S2rMh0HSFTQV2NVr2r1erj71iBYgxe/lUjGgcDz0Ox1/fvzNOPqKSdlnlrwESQHNHqkb+Akh7yccunj7Gn9kU7CCHFVt3OUsCRIKrUZQ/7dLZTjIXBNSXOc638r/FgSgkIeoz/+TCGCxye7dnI3ED19ldHjwzXRIjhLqRi2dJmi9qCX1IxfTmsUoZviIEtSR0RD0nTm4dHYlo9DX4A5uXabIqZYfcWoBvy24/t+44s0vlwLZydNBOZmT0gXh0=;tiba09cHQnkKjCWt3SDBlA=="
 ---

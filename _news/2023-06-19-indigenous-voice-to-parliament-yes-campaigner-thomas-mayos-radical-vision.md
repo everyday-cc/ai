@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Shock of recognition as Yes vote for Indigenous voice to parliament softens"
-    excerpt: "The Yes campaign for an Indigenous voice to parliament and executive government is in trouble even before final passage of the referendum legislation next week and the official announcement of a poll date – expected to be in October."
-    publishedDateTime: 2023-06-16T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 22
   - title: "What’s next for the Indigenous Voice referendum as key law passes parliament?"
     excerpt: "The wheels have been set in motion on the Indigenous Voice referendum after the laws that will allow the national poll to be conducted passed parliament."
     publishedDateTime: 2023-06-19T09:27:00Z

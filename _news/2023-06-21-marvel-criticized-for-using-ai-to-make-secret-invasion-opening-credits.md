@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-
 webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Marvel used AI to create Secret Invasion’s opening credits and it looks awful"
+    excerpt: "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence."
+    publishedDateTime: 2023-06-21T16:57:00Z
+    webUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/"
+    ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 84
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
     excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
     publishedDateTime: 2023-06-21T12:33:00Z

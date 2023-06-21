@@ -53,6 +53,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
+    excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
+    publishedDateTime: 2023-06-21T16:28:00Z
+    webUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319"
+    ampWebUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-06/f02ulu7g_tesla-has-a-supersecret-driver-mode_625x300_21_June_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Tesla Has the Most Self-Driving Accidents. There’s a Good Reason for That."
     excerpt: "With advanced driver assistance systems proliferating, investors need to understand how to read safety data provided by regulators."
     publishedDateTime: 2023-06-20T21:51:00Z

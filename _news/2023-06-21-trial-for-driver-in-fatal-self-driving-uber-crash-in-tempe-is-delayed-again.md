@@ -7,7 +7,7 @@ originalUrl: "https://www.azcentral.com/story/news/local/tempe/2023/06/20/autono
 webUrl: "https://www.azcentral.com/story/news/local/tempe/2023/06/20/autonomous-fatal-uber-crash-trial-delayed-until-september/70339904007/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "European Uber rival Bolt will deliver food to your door via self-driving robots"
+    excerpt: "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies."
+    publishedDateTime: 2023-06-21T13:32:00Z
+    webUrl: "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595"
+        width: 3840
+        height: 2160
+        isCached: true
 
 secured: "DYtRYdOLEkeZC1LYd5wVDRk1FZPpdJf9ErikX0DJPWt+0XaEm0qbL1N3AezoOimjRMC5hY87MqX9FsGq+R5BZ+vfnZx98Ml8WVfYBrB29krR5PfY6cYp6r+KQyzw9/Q6nt54CkCPPeLHZuSPtTvoZxA8wAOCMXTOLI8x/D28IT6H7vpJyF0Y9bJ5wQFHh8WN9LoIqY7Itr79BdpsWZBUTa/hqkg/bebmzyDE/pAYKvnbvv8AJJeCxCSh+L9ZWgTJGL/ARfcu53TFm/wezUpqd8O4D6lDU1xbR7fX7albQ0LxUcm8Tq2FQQNeZXgs1pJYukGVCSiCkg4uHyJdx0UxrQ6VBNVXr4qVttrT9eMm3hDJePjyrxkLq7beVOJwkgCRvBtmDNisIILDaWermxY5Xec2IRHtmywVlJgzb4UKJNSnUz2MXFWr0Xvo3p/z9LFaHvNtmEyiPcW4Eo7s+lOVThofimJmkH4OezvmMpvXSKJiIQ3ywWk+vYpbVQu94Hid1+/SjkKpiw1q/E7uf/VZbQ==;bYzQOtNchoM75sef6OqpIA=="
 ---

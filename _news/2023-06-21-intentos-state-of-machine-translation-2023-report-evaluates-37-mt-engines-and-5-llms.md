@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intento's State of Machine Translation 2023 Report Evaluates 37 MT Engines and 5 LLMs"
-excerpt: "This edition analyzes the performance of 37 MT Engines across 22 language pairs and 9 content domains, providing the latest overview of the rapidly evolving MT landscape. Key highlights include: Out of the 37 Machine Translation Engines evaluated,"
-publishedDateTime: 2023-06-20T17:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/20/9835985.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835985.htm"
+excerpt: "SAN FRANCISCO, June 20, 2023 /CNW/ -- Intento, the Enterprise Machine Translation Hub, and e2f, a language intelligence pioneer, teamed up to study the Machine Translation and Generative AI market and present the State of Machine Translation 2023 report (the seventh consecutive year for Intento)."
+publishedDateTime: 2023-06-20T18:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-intentos-state-machine-translation-2023-report-evaluates-37-/2023/06/20/9835985.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intentos-state-machine-translation-2023-report-evaluates-37-/2023/06/20/9835985.htm"
 type: article
 quality: 12
 heat: 12
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "VpJP1wC+s6L1Gwmpf+CPk/xYONCMaFRLhFbTvK1AJGlRQ0LTnoBfWt9tfFDnEnBVidqj8ZEs47d9EB3ARJO9zXwM1KFru0QEDr3qQsvmTJe5DMHbRC27aPTPksyNUxNGGlJ4jbE+QUCKinOA2odEmbp2ermIqnGYvx3pTb0cM/yo+i7+wovXcIw/CnkQW1aC4GP28PfRPQAgoOvVGyXmctnZW5ByBetBnL0j6nZet3fA0rdAIU9H+4wvEdOg+6sD5gZLJ8fvyckBkhVVYUq0z0fiUV3ObFRvEF1kBlZWZpsx+cF5qeOXXntRuDcYD+wqiBXw6kWGurdahrc3TPYBohA6mnTgsTVY1U3MQsaCauQ=;yydav74uVfMC0wBRxINrLg=="
+secured: "yiC3cggLMSAR+hPQQ4kVd+GjmO7Kdnp3lkdQzy5NBeKcrqOGhzaEeMva40S5scoFfTCPe4IXCkcfuqpq/XxpbB+2Xz3iR/u0kIwXOo6m5mNP4d1vFtI8rjo5I+fQZrcEcqjUvNvqg8LhHSUzPWYZvL+txVc/+NPK6/M0/RR2zTLRrGjbo8Re71Y0/yf3kTzMFPtZzBrUN8VTIhesLPlXTCpt3UogS1sSjokdYz0d69csAlyS7+He04g0QRHVBu/MEioFHpdU0dk2HUsiyestHbPS1eLIhyXtrhB+wAhtMu1LI83adDKe8nDb7VAZIfjO9dImPRf5PG7szT8lmTW3OCGzF8LG0cTEoRgHEz9L7IU=;NagVunBTFdRpSCi91/it4w=="
 ---
 

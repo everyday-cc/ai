@@ -32,17 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 37
-  - title: "Shock of recognition as Yes vote for Indigenous voice to parliament softens"
-    excerpt: "The Yes campaign for an Indigenous voice to parliament and executive government is in trouble even before final passage of the referendum legislation next week and the official announcement of a poll date – expected to be in October."
-    publishedDateTime: 2023-06-16T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/shock-of-recognition-as-yes-vote-for-indigenous-voice-to-parliament-softens/news-story/dba6e38a90e15946477b3c30aa021d87?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 22
 
 secured: "6xrIUgrcbqFMdFj1YSGlwsWNzwuk2Uoo3M3RUXhY2zlAJMelU2q9BEuhJpQy04Ei4R9flZyjLxhbxF5Bh02I2J2h6+liR0PYbFgiIQ+8C+IPt+688sM4ekZKyQiJYmlaaHfVABgEbUkjy1UcOEnfpBycRYWzh/lrHZdSq40p7CqJBwyjMy1kqgZ9t4YtViVFbkvSnBEBp4NOfikaawsw1dbQ8HU3Wx3Ndr0u9JILv/xRPevPgwb8/Y7LkFVCGFD6j6IKSRsM6k0mydaqihracyINoL4eT4hhsiNmjKWle5OgYu9fGRNsjRYtExLjS+Sgyj97dSbkBp5/6qEx/EuvMSSM/I/HyGRc4e4qggQWNhFqgswvP2DjJKjomwOBV8gOqOxA5KJdIQlBGwBuPBMmA1WSlhbnfJzrMCketQyH0jM89yD0K72DiKp0C56l/FEzH7iI2wYVvSLmSDY9e5HabsWknrgDOihDLW5Uzbr0TOgE6EePhP8yzN8TGXUsQCHNH/AbpaU0qH9I3OPz1f1NrA==;T+c6klXooNp6qq8lYPyTXw=="
 ---

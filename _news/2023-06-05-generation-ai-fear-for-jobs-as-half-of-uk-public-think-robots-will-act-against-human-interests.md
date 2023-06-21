@@ -3,8 +3,8 @@ category: news
 title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
 excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
 publishedDateTime: 2023-06-04T18:06:00Z
-originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
-webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
+originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=related_article_inline"
+webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=related_article_inline"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "XmP7O7fwT2svCMYimNuu6g2iFyhLLILLYLCaeC1QflKSQZTEtSG8dMDj5q6bETcQ8SSOljTOZ94xaCY3MKt5QlwrBYjF+XPwqAsaxg7wBAhN0Odu4p81/J8X98RGvTN1ze3LEwNe8+2/ixu+iwWrvypp/y7Q+AHg8Mc6wcwmQv6JihV1eITanDAj+cwp5g3XJHLM7daZ86QivM5UkNtsiESQjgLHw4YwVDuJr6VhtfXP8gZuw+c+BCXk9tyqLPviwliY2UEuXkCF5nUpuufeqriDRW04wLh0uPCNhMcBRpASkL4NkPXY0N79AOVIYwaRbl/regSp+ZS7LHU00XkiM6gxEIPfNnLdk9N1zo2oHgPL0HdQiJf52cX64DfVXceJxdV1E5yJxhwOEhvjAVL2ce63mEu3S4KhzMAC6L1Ji7Ptu7Twm78LcVdZYUuB09DDymjXnfhiUKPY058l+EYd/aOyjvsF7JBXcLZ4dAk1ZN3acOkOycL9SrqCGgn4XPQHgnzwUzCc/Q7t3FwgRF17sQ==;6oP0KA2NYgUqDnWrSHKbDA=="
+images:
+  - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Dvd8/JL/Vmpor+jeHXhnEHRZ5/zjhdd6h0TD9aPqlATWMQArL4M+nsdGbIxxEv9EDuU5UWlN7qJyIXfWN9YBhrM0AJwRCraSOIKrp5cw9jPkukbXIOuEjKeKO23oPSLiP5tirtuXov9+b8q3IlPjG0LLS1WOjCXLD/YL8IQ8X1vDOi364g0hJucwKfjcBBH1fFWQuzwp9cL0LapwslZ/2CdBKRgtr7li8yMqOhqPSP/gQqxsYiFjSlLnjwKUrGpF8ULq1yqbACHHSL663HGQDwpe5iY4M9YsZO5tdDuDnlJjouk8RxWPvJ4nnKlYrnI/9b5Z7lN7fr+/N9lYNe7vusr2UuWpqDfDNG11Ofn1kr4=;gCUmeift5HCD9W39yMJMPQ=="
 ---
 

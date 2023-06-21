@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
-    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
-    publishedDateTime: 2023-06-21T12:13:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
+  - title: "AtData Unveils Reduction in Email Validation Unknown Rates Utilizing Machine Learning Models Within its Flagship SafeToSend® Service"
+    excerpt: "AtData implements new machine learning algorithms – now available within its email verification and hygiene service, SafeToSend® DEDHAM, Mass.,  /PRNewswire/ -- AtData, the leading provider of Email Address Intelligence solutions to help companies optimize their first party data,"
+    publishedDateTime: 2023-06-21T14:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-atdata-unveils-reduction-email-validation-unknown-rates-utilizing-/2023/06/21/9836566.htm"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "apEiL1BKVKN3TgeNTzLZcBsAX99PgdsjCXA/895SHRVGfGY9Iv3mRn9gTlh2Y2ZQKzrQfz5AymY3iaWTn4aY3cTE/+xZlcUCBLOngLlu91Ho+w2/2zrY9B0z6MGEv8vf0w9pmCOWGMUnckxyMeLZ6Piga3Zjd4/fpEhvspOEd0lKqXgm8GC9RhYKOu0Q1Riag8wXkP19MJbWYdpP1qSOzmsb/DPqmk/S78pkGaxH4RZFH2HYW3lWJRgTt90QklaULSG+XeKHaR5e9bgeWeTsYDdtCs+KdHc4c4Q3xgYMoxC1bhPuFONkYZYlBYAX+uRtZPUm8OC3tG7W81WO7NqAKtFOe62qR72Y++GBLJrYzoI=;PeQ4xniMlhL0Dj+bA1O/Ug=="
 ---

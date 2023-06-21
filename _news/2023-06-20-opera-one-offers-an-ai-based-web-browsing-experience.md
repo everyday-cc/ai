@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsi
 webUrl: "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: PC Magazine
@@ -28,31 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers build working robot based on AI’s design"
-    excerpt: "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production."
-    publishedDateTime: 2023-06-17T00:00:00Z
-    webUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html"
-    ampWebUrl: "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
-    cdnAmpWebUrl: "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html"
+  - title: "Top 5 Cars Already Using AI That Transforms Your Driving Experience"
+    excerpt: "Artificial Intelligence (AI) has become a driving force in modern technology, and now it is making its mark in the automotive industry. These fives cars are the perfect example., Features News, Times"
+    publishedDateTime: 2023-06-19T04:52:00Z
+    webUrl: "https://www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406"
+    ampWebUrl: "https://www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406/amp"
     type: article
     provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 74
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
+      - url: "https://static.tnn.in/thumb/msid-101096406,updatedat-1687150333757,width-1280,height-720,resizemode-75/101096406.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Meta’s AI Vision is Crumbling, One-Third of AI Researchers left Last Year"
-    excerpt: "Meta, the tech giant formerly known as Facebook, is facing significant challenges in the ... Meta has lost a substantial portion of its AI research team, which has had a direct impact on its ability to compete with industry leaders. Factors such as job ..."
-    publishedDateTime: 2023-06-19T03:48:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/19/meta-lower-confidence-ai-employees/"
+  - title: "Genesys Xperience 2023: Unlocking Customer and Employee Loyalty with AI-Powered Experience Orchestration"
+    excerpt: "Genesys unveils expanded relationship with AWS and new Genesys Cloud CX innovations focused on generative AI, work automation and task routing"
+    publishedDateTime: 2023-06-20T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-xperience-2023-unlocking-customer-and-employee-loyalty-with-ai-powered-experience-orchestration-1032399763"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 48
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/2105652/Xperience_Promo.jpg"
+        width: 400
+        height: 223
+        isCached: true
+  - title: "Opera One Browser Launches With Native AI, Modular Design, Tab Islands, and More"
+    excerpt: "Opera One, the new version of Opera browser, got its official public release today, boasting native artificial intelligence integration as"
+    publishedDateTime: 2023-06-20T09:29:00Z
+    webUrl: "https://www.macrumors.com/2023/06/20/opera-one-browser-ai-launches/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 32
+    images:
+      - url: "https://images.macrumors.com/t/dfA74biSklb4F6mFzK7W7WJbAOk=/1600x/article-new/2023/06/opera-one-browser1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "o5LCsFmwEP4cRCjfyEVDZoLj0EaspUttqkL9N7NXij6vPwmeJjDxdLxfh0KIKjTQ+jiLLgHWAVvOC6hMbs3KLLSEPJ7P+9jMeJnNVfmEWGLwFiq8Xg/G43HLtP8Hjd/+b+3/yT3tBl5CU6m9F/0E6p2tRFmTPbtgrvjuwDxDxPW0dxmn+Pdd71ctDz0Gd2NUBf/n2zZu7QV/CapMa+TgnWELMh8BGBatjLHizycfiUyMhzqog21MS9IalxVAzG4S1U2PX6DQKCZi9JBViZCAXr+PXhq0os8YfTblAUsrQUbPf834rSzm9JEa4HHk1PllRrWexw6xHJQA+eTmluM89TNqxAOcCH3Y073iA6cpwrj90c36icXTklFsNNeojYEKLa6i4si9+YNt86Zo40uJ5kczmK4JzGHSzq6k276Soq4PH3g+fqNtMBrrtf4MCELM33pGT+oJaaI1vmsrpJi4EmsQkwgALQk/wl7R3WGu8jua7zot0CZBNVOyCwaPfq6OXZAbaY2Dmh3ftOjpt+37Yw==;n122rab2cq/LwHLqYEL/vA=="
 ---
