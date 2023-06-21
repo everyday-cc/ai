@@ -76,20 +76,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Cisco launches new AI networking chips"
-    excerpt: "Cisco Systems has launched networking chips for AI supercomputers that would compete with offerings from Broadcom and Marvell Technology. Chips from its SiliconOne series are being tested by five of the six major cloud providers,"
-    publishedDateTime: 2023-06-20T19:45:00Z
-    webUrl: "https://www.itnews.com.au/news/cisco-launches-new-ai-networking-chips-597137"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220607070350_0_0_0_0_70__News_20220421072727_cisco_sign.jpg"
-        width: 1255
-        height: 835
-        isCached: true
   - title: "Cisco launches AI networking chips to take on Broadcom, Marvell"
     excerpt: "Cisco said the latest generation of its ethernet switches, called G200 and G202, have double the performance, compared with the previous generation, and can connect up to 32,000 GPUs together."
     publishedDateTime: 2023-06-20T18:36:00Z
@@ -99,6 +85,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
+  - title: "Cisco Launches New AI Networking Chips"
+    excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
+    publishedDateTime: 2023-06-21T15:33:00Z
+    webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
   - title: "Cisco launches new AI networking chips to compete with Broadcom"
     excerpt: "Cisco Systems (CSCO.O) on Tuesday launched networking chips for AI supercomputers that would compete with offerings from Broadcom (AVGO.O) and Marvell Technology (MRVL.O). Chips from its SiliconOne series are being tested by five of the six major cloud providers,"
     publishedDateTime: 2023-06-20T18:18:00Z

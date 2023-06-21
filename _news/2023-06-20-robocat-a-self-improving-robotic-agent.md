@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-age
 webUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
 type: article
 quality: 74
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: DeepMind
@@ -29,24 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Domestic Robotics: Breathing New Life into Housekeeping"
-    excerpt: "Welcome to the future, where housekeeping has evolved from broomsticks and dustpans to advanced robotics that turn chore time into leisure time. In this ever-evolving technological panorama, domestic robotics is a domain that’s redefining cleanliness with cutting-edge innovation."
-    publishedDateTime: 2023-06-17T19:14:00Z
-    webUrl: "https://techbullion.com/domestic-robotics-breathing-new-life-into-housekeeping/"
+  - title: "DeepMind’s RoboCat learns to perform a range of robotics tasks"
+    excerpt: "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks."
+    publishedDateTime: 2023-06-21T16:01:00Z
+    webUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-  - title: "Killing It with Robots"
-    excerpt: "The company is hell bent on building robots and are acing it. The company has unveiled RoboCat, a self-improving robotic agent, which is able to learn and perform a variety of tasks with different arms,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://analyticsindiamag.com/killing-with-robots/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
 
 secured: "di3CNIKqohui8b3dbu8WeHLdvl3enq3WJMVs2cw8cKCcZMgVo6SP/kqYIJu0dy2MxYPKpRJtbE+M4lkARJYf6tmzgg/0G/dOBE036tXyTDYl5aJ6jzUSXJeMdhWxIT1h1R8cHex/eLHb7KSZhCVE2ec6OKiDqIOUUJF9lZEKebccW+mXtYNHTpssXjsEP/FKNCNDG7/WGd3JyNjV9IGrDjbkm6DF0+86jPHcWrTUNqrxRAka/DizXeOJrieIEItmfQYuIN4Quua7eNLnYZ0tNB7ZASShVLNNYkzBlmFnfU6NEUksxtyQ6wr/xDPekI5rwYbt4wIZsGsnlG7eye6o6G0VdMcBlcYEv3Qmw6Vcy0o=;SFrXWC3j29nfWOtKNx4a9Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-crea
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 46
+  - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
+    excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
+    publishedDateTime: 2023-06-21T18:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 46
   - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
     excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."

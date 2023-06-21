@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-21T11:55:00Z
 originalUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
 webUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
 type: article
-quality: 44
+quality: 64
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/ts3_thumbs/2023/03/2023-03-06-ts3_thumbs-38e.jpg"
+    width: 800
+    height: 560
+    isCached: true
 
 related:
   - title: "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'"
@@ -95,6 +101,6 @@ related:
       domain: interestingengineering.com
     quality: 7
 
-secured: "kaUZL/Msz6iVQ206HyGfd2MZYHuTKdpMEu0HVTE2u7Fap22uHAZbwuiOUUI4XwjBJ3S//ingpvLU694Wdyx95OEGhje0ZIYV0tF2Cc2XNXAsyVnyEAiNVaQDz4GP2jOEqtUebcdgcYoN+KRfO1T98pYKCQBePZOK6CvUsGj4nkC44BMytqQCiOp5mS8/mDjqkRT9/Ugop2uOHxToR6cHLgsz6u9RAb1gwaJUvokFoDgMPL/wtIV9w0yZxqsfX/QKkF6TyzWWpFPqMEt9fC4EX/ufKdkg0mZ5cpFW5zZOcUxiyxC8PkLqyfPyWomrA18PWOCqhFBTIZDPVPJKk5jq58uFqAgUlf+1YlpbM7kypCk=;66LKYwcD9EEG+S3jDBOY7w=="
+secured: "ce3alL81ZruEAfYxl4uKCnT/Olw2PeHDZ6DGWRGTEitLBkzGxDQ7yfpd65gwW2umc5XfvO0dAwJx7WJThu5Oxetsq3aZjYkZdwTbfoRZ91iHkjq3I3CAWuspc4IBXODWaDXiPRNeege3n/sSJNzaGjCRvw+vC3mrH9JtrAJPqEMpmJdxFCotkNGXyqJVaVUm7qQZALzNhdAldlp8S2wIRoCJEud5roBlBN9GLU8VvKZNYkjTU0QQ18Tmt3Sqgokv6g6Fr7iR9q6FpQSBwxdd7AAVVD9yEV0n27EUTHwIrD/Armgm2AK4AAIoWrWia0aTRzpdjDu0nvXQ8tHddBAWcMMCqrAx+GoKZP+rz+VvsCk=;SCWJKsrCuK0RkTL3mBzjDQ=="
 ---
 

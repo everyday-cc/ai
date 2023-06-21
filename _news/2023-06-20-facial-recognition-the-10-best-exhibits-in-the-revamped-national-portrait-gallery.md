@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
         width: 1454
+        height: 800
+        isCached: true
+  - title: "Grocery stores in NYC fight facial recognition software bill"
+    excerpt: "Related: Shoplifting: How to protect your store However, Fairway’s parent company, Wakefern Food Corp., told CBS New York that facial recognition technology is helping prevent more crime in stores. The algorithms within the software are able to reduce ..."
+    publishedDateTime: 2023-06-21T19:52:00Z
+    webUrl: "https://www.supermarketnews.com/retail-financial/grocery-stores-nyc-fight-facial-recognition-software-bill"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 39
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/GettyImages-1363480595.jpg"
+        width: 1540
         height: 800
         isCached: true
   - title: "Garda body cams to include facial recognition but real-time use prohibited"

@@ -25,6 +25,24 @@ images:
     isCached: true
 
 related:
+  - title: "Carbon Robotics’ LaserWeeder wins 2023 AI Breakthrough Award for Agriculture"
+    excerpt: "International awards program honors agtech robotics provider among standout AI companies SEATTLE - Carbon Robotics, a"
+    publishedDateTime: 2023-06-21T18:42:00Z
+    webUrl: "https://www.producebluebook.com/2023/06/21/carbon-robotics-laserweeder-wins-2023-ai-breakthrough-award-for-agriculture/"
+    type: article
+    provider:
+      name: Produce Blue Book
+      domain: producebluebook.com
+    quality: 46
+  - title: "Untether AI Wins 2023 Artificial Intelligence Breakthrough Award"
+    excerpt: "Untether AI®, the leader in energy-centric AI semiconductor technology, announced it has been selected as the winner of the \"AI Hardware Innovation Award\" in the prestigious international AI Breakthrough Awards program conducted by AI Breakthrough."
+    publishedDateTime: 2023-06-21T18:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Marchex Receives 2023 Artificial Intelligence Breakthrough Award and 2023 APPEALIE SaaS + Software Award"
     excerpt: "(NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that Marchex Engage for Automotive has been selected as the “Best AI-based Solution For Sales” in the sixth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2023-06-21T13:01:00Z

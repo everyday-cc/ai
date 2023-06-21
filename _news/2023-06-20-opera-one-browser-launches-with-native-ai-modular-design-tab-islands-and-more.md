@@ -38,6 +38,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Opera launches revamped browser equipped with an AI sidekick"
+    excerpt: "Opera has launched Opera One — a new version of the browser that comes packaged with an AI-powered chatbot called Aria. Just like the Bing chatbot on Microsoft Edge, Opera’s AI assistant lives within the browser’s sidebar,"
+    publishedDateTime: 2023-06-21T21:22:00Z
+    webUrl: "https://www.theverge.com/2023/6/21/23768888/opera-one-browser-aria-ai-assistant-chatbot"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/dXmcwDcG8vjfSOIRvhMVvrzheVM=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24741774/O1_Aria_prompts_and_answerimages_2.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Top 5 Cars Already Using AI That Transforms Your Driving Experience"
     excerpt: "Artificial Intelligence (AI) has become a driving force in modern technology, and now it is making its mark in the automotive industry. These fives cars are the perfect example., Features News, Times"
     publishedDateTime: 2023-06-19T04:52:00Z

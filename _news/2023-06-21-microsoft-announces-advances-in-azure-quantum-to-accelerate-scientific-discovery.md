@@ -85,17 +85,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Viettel, Microsoft Vietnam improve AI application capability"
-    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
-    publishedDateTime: 2023-06-17T03:35:00Z
-    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
-    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    type: article
-    provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 54
   - title: "Microsoft Azure Expert MSP success for tech consultancy"
     excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
     publishedDateTime: 2023-06-19T11:20:00Z
@@ -160,6 +149,15 @@ related:
     quality: 34
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T16:00:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 33
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T17:00:00Z
     webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
     type: article
@@ -181,6 +179,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
+    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
+    publishedDateTime: 2023-06-21T19:34:00Z
+    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 28
   - title: "Microsoft is developing AI rap generator DeepRapper – trained on a large set of songs ‘crawled’ from the web"
     excerpt: "Last weekend, Facebook parent company Meta released its own text-to-music AI generator called MusicGen, which the company says has been trained on 20,000 hours of licensed music, including 10,000 “high-quality” tracks and 390,"
     publishedDateTime: 2023-06-20T18:46:00Z
@@ -199,6 +206,15 @@ related:
       name: en.qdnd
       domain: qdnd.vn
     quality: 16
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+    publishedDateTime: 2023-06-21T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z
@@ -209,6 +225,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "5DEHO28dqX9u8d5hayQLVcq6IXtioIx2JE+DUP/Yjk+zZ2ZfuqBn74d3+6XLixjQpLDvvEVZdGXqYbyiWjmXb+cYOttytGCbVBGNBPraC6MYqC/PvmWjXexgwPM7bsHLqhaSdOMQCfmXUo0C3+sS/XOBiDsw/4y29GUYqQrqA8K8DhOxBQFzEHI8CFd5Dv5yuWnvNau+LYCrD18jRa0IQtX/tjWXPdIhZqN982YiOiWot7noXLK+3ibfq/Sp9Flrr7qtrQ+PFqC761trsIh8fiRhTcx/VLWBct6E2CF8fNXGo2XnDnytBr/Spnws9FApJoIeNaP6qS7TW5yev0HbeyYK4U3vR/avaV+/VIaHf9Y=;dgilDoDaeOAPWs5pyIKcEQ=="
+secured: "dLMWFKhbIrA3OFXGW8SRrOaZSBtlo1P4ISxM9F5HHdimYO25C1a+/UWIdpGAUrJT3dtVM6q/zInczABEqAk4rv+bqD5k0aIpwGJgoZ+8oiaTi7l5GjFnwUmktvTEzcF6pUlIeXcEXWtb07Rknc2nLW8qfVOc2uFBEYSpxC6HhfwEA8WcaypGOtllp07XDUQBJ+8hF2N2SZ32L/B3O8tj8jgtGyEQ4QCybgXimunQHKHmxhDDyF8NaTUrXMs6fpZglO04Uek2XbUqqesdJjB9J3b43TEIyNPluQ2YCDSfCcOw2aKZj9PnNtrD3wX6KQUw6B4uJOeIPY0ppfhIXO78XyiJ3PTCMYUYP8IObkZLt5IfTV4zeifN9SgWgebc7dISKiRwmYBhk5DhMg6NSxyTkinjI9uauTdu9wMumRi753GyL5qOH7wVmpZRWHNdZi4t3hy3q2OQyPmcxKQxhaeKRqYxanluUghs6WJy4owzCqHLMLFP74AgNjkgjaoLGNk/Tux4K6TIiGM5xIuBOBE+aA==;Lclh6m0xOwcElON8Ws//Tg=="
 ---
 

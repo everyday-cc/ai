@@ -79,17 +79,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Viettel, Microsoft Vietnam improve AI application capability"
-    excerpt: "Military-run telecom provider Viettel and Microsoft Vietnam have recently signed a strategic cooperation agreement to promote the application of Industry 4.0 technology solutions such as Cloud, Data & AI across various sectors and enhance digital services in Vietnam,"
-    publishedDateTime: 2023-06-17T03:35:00Z
-    webUrl: "https://english.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov"
-    ampWebUrl: "https://amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    cdnAmpWebUrl: "https://amp-vov-vn.cdn.ampproject.org/c/s/amp.vov.vn/en/society/viettel-microsoft-vietnam-improve-ai-application-capability-post1027031.vov?page="
-    type: article
-    provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 54
   - title: "Microsoft Azure Expert MSP success for tech consultancy"
     excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
     publishedDateTime: 2023-06-19T11:20:00Z
@@ -168,6 +157,15 @@ related:
     quality: 34
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T16:00:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 33
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T17:00:00Z
     webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
     type: article
@@ -189,6 +187,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
+    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
+    publishedDateTime: 2023-06-21T19:34:00Z
+    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
+    type: article
+    provider:
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 28
   - title: "Microsoft is developing AI rap generator DeepRapper – trained on a large set of songs ‘crawled’ from the web"
     excerpt: "Last weekend, Facebook parent company Meta released its own text-to-music AI generator called MusicGen, which the company says has been trained on 20,000 hours of licensed music, including 10,000 “high-quality” tracks and 390,"
     publishedDateTime: 2023-06-20T18:46:00Z
@@ -207,6 +214,15 @@ related:
       name: en.qdnd
       domain: qdnd.vn
     quality: 16
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+    publishedDateTime: 2023-06-21T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

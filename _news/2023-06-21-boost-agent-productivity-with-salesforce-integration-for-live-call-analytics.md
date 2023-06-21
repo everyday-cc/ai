@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-producti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
+    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
+    publishedDateTime: 2023-06-21T18:50:00Z
+    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
   - title: "Salesforce touts AI strategy, doubles investment in startups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
     publishedDateTime: 2023-06-19T13:00:00Z

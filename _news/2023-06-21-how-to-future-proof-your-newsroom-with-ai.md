@@ -35,7 +35,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/06/21/600x338/FRANCE-TECHNOLOGY-OPENAI-1_1687334141391_1687334252184.jpg"
         width: 600

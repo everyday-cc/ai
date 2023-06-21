@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI and Automation is Changing Healthcare"
+    excerpt: "Founder of CloudMedx, Sahar Arshad, talks about the transformative benefits of using AI and automation to improve patient outcomes and unite healthcare experiences."
+    publishedDateTime: 2023-06-21T08:00:00Z
+    webUrl: "https://marketscale.com/industries/healthcare/how-ai-and-automation-is-changing-healthcare/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 54
+    images:
+      - url: "http://marketscale.com/wp-content/uploads/2023/06/Healthcare-Rethink-social-card-template-scaled.jpg"
+        width: 2560
+        height: 1338
+        isCached: true
 
 secured: "/qZVbwFdyqDSsN8nIOWSOwaeyZlZVVMrpA4oxUvMNXY/7jYlgZZkJuCtUhJvq/LX7+pZSB/t+WJxY7WzUCpPy9ilTu7ewIzN2WpAouE8zTqxobQ8zAY2vpin90ZND0qdf3a2WzP805D4NToi6H46KX02fyA3rEc69lskb6s9RR0g9NwoDQOux0w2wUQn977qT7XGPOFhkAT+uMba8tWX7R4CUaguxPtQKbEIgBQLOWWO1HuCR0VY94ZwAvAwXT23L/ZARCu/vmp0d3uxa07F/VK8j4Dc9Z1S5HNto8a2/kTuEyp2ypMQz8vLaDBsH5PYnhczO1LDHs5NuXbjo8sqvw5L0Hwz5OAAFVVFCwRaVouYHdz9L4fVBwanFL9tkCEWdaFGu73QQA3lbtWqaPoaXLWGx8NldXMN2GwhDo3npoy5hYyFowRKKih7ZO+BtTIYxKLWf/WOY4JLg+OUycAyjVPu8aBVWMMx0bFGwOdyPx4vEn4wVKm2BKfI5fZSY/tTUjFmyBGnMYKwAFlwhNKrcg==;OCFNu3IK7Ww9v2m1Kay7Qg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-mor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
 type: article
 quality: 83
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.wsj.net/im-802734/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Financial and legal professionals see the value in generative AI, according to a study"
+    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
+    publishedDateTime: 2023-06-21T21:06:00Z
+    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
     excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"

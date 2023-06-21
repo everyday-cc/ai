@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-bran
 webUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "L.A. Times defends its use of AI"
+    excerpt: "but the platform has greatly expanded its AI capabilities by partnering with Amazon Web Services. One of the AWS tools available via Brightspot is Rekognition, which allows for intelligent image and video analysis to identify objects, people, text ..."
+    publishedDateTime: 2023-06-21T18:01:00Z
+    webUrl: "https://www.sandiegoreader.com/news/2023/jun/21/radar-lat-disinformation-machine/"
+    type: article
+    provider:
+      name: San Diego Reader
+      domain: sandiegoreader.com
+    quality: 19
   - title: "Celebrities are using AI to take control of their own images"
     excerpt: "Celebrities ‘get paid, but they don’t have to turn up,’ says Tom Graham, chief executive of AI startup Metaphysic. Stars just need to spend a few minutes in a studio with a 3-D scanner, which can then create representations of them for countless hours of content."
     publishedDateTime: 2023-06-20T17:30:00Z

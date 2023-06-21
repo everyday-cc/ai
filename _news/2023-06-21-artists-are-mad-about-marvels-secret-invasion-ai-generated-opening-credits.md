@@ -47,6 +47,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
+    excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
+    publishedDateTime: 2023-06-21T18:27:00Z
+    webUrl: "https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "Secret Invasion: “Gross” AI opening credits divide MCU fans"
     excerpt: "The opening credits sequence of Secret Invasion was made by AI, and people can't work out whether it's \"cool\" or \"gross.\""
     publishedDateTime: 2023-06-21T09:28:00Z

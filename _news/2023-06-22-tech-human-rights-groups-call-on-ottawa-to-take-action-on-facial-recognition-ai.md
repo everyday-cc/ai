@@ -7,7 +7,7 @@ originalUrl: "https://www.castanet.net/news/Business/432985/Tech-human-rights-gr
 webUrl: "https://www.castanet.net/news/Business/432985/Tech-human-rights-groups-call-on-Ottawa-to-take-action-on-facial-recognition-AI"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 427
     isCached: true
 
-secured: "Tlv1V+zcgUAP4lkk/szmVmAJDaMMeJcqI6zWd3u2PtIWV6msGMMz1Kxf5Ebjjc7c0/ooGkjH5cHEr+nFxkFMRHgSiwckrDQXGJ6FvqvEd7a3ShX8b1yYjYZQ8L3KTiw/BgoVhL0/zIfD8IHWNnPc9GCB7uPXbSfjTmfXhMPTUw5V/bRjENMpXBXSF4Sw8p6Z5skAu0VKwFLuSnNX8KgCstR/YCx/4FkpsvZkoFftjep2j1tgS4j5Zxx5Zo/hvnameNeLTx8pcSHyc0nXAn99XtPY315QXCXIWK/4Z7TOK+2lTuCBRHYqAn48Wz1uC0IjlMY6JXWmqtUZ64kHXg4kaX9vpMlnHjHAdBGdChzRzAQ=;w5/fOahpNqIidssLadl6Mg=="
+related:
+  - title: "Regulate use of facial recognition, civil liberties group urges government"
+    excerpt: "OTTAWA—The Canadian Civil Liberties Association says the Liberal government isn’t adequately addressing the threats posed by facial recognition and artificial intelligence technologies, and should move quickly to put legislation in place."
+    publishedDateTime: 2023-06-21T19:46:00Z
+    webUrl: "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce"
+    ampWebUrl: "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/"
+    type: article
+    provider:
+      name: Windsor Star
+      domain: windsorstar.com
+    quality: 57
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/06/AI-FRT.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "US state, Ireland curb police use of facial recognition"
+    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
+    publishedDateTime: 2023-06-19T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+
+secured: "EDiinOhNWpS0mf7XFjrm8rgfQaiZOl4dNohG7lm7OmySy+wejWt9jZaD/qxUN5fWXZJlwm/KRcO88D8zI0IIEzybvdpiA6Gw8LHIXu1TohRVOokDuNd/rOriT/XIk7ks+1TOCVXoR6K84O+re2yffKBiLEdytCdT1/p6Ea3RJoJfrEVYZ8xuepRTgA2GCveniuUzVzfav/iWFhIV6/PRFIZ9FsL+WHRWM7E+SRf4xTgd9VDEgDgMD3tTSw8afWx4B8YpDYFyEZkJ2mFqJc4LFZrAGkw5ZFRp/ErWwKSFR68DI8xjR+mlJdKvE7JIZohKhI0X6NolWmeAE7RdC8hvxLthH11h6isTtDbV83hbyDLdl5ONpsc3HGiY4xCl/ug4nVPiS+DkS6sQc5rdG/qhE5K8hOgY2PjGL5KOUv9vhvg7NBte88Ce3/0MB3CJWDOOMOLq1rGqDT8Cx14F+tEniNcA2qIP6npaCAlDieTN+pm4KlgpaZIW0n+pCDBaqCA1hwMOFZP8pL3SU8yyqCZS9g==;uZ1N53z4QgZ4Di/0TamZow=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 17
+  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
+    excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to understand which players to follow, how they compare to ..."
+    publishedDateTime: 2023-06-21T19:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330604&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "92O7sg9mAsYPiBySTSRtUz9qa0sRCr3ARNYU3pwKKk1iAU+yq73OEwsP8OMOA67VBCqxmN/6LTLL7gTMibtAjmzdoIyP8Pyn6rLnNqoCH3I+TiXHLrLjyLmtEXWtDRh3tLQUGg+vJICoQYGRg9hb5GPkKD0aY/6/T8RLEhTwfAuAdz8vvhO19kaytmKXKLuyNNVI28L1QNmyOLS86q3+HdmPNlTeO8I4EeJzEEQObhE2m9kNXMMD/JshxhqVcQmlDBuC+wtdThklbEVrCwnc7oqggEZCIvP8+zl2DIk9O93oOdLReTtkVUmx5IJQ59uXQA/YeMQqIqDMjhWleaoLZ42krJTczQvBSuLEwg4PTPA=;22HihIFxVb311gPxsY6klQ=="
 ---

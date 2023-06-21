@@ -31,6 +31,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Test for humans: How to make artificial intelligence safe"
+    excerpt: "As tools based on artificial intelligence spread, calls for regulating the technology – and addressing basic questions of trust – have been rising."
+    publishedDateTime: 2023-06-21T19:34:00Z
+    webUrl: "https://www.csmonitor.com/Business/2023/0621/Test-for-humans-How-to-make-artificial-intelligence-safe"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 17
 
 secured: "iQYvAw2Zc1n8k619QiDiUKlYJY4W42lKeUO+ugINW3c3IJgzQrMuEDdVR0vGFnNhdF99ZTw+/fJt+GJSkDuAdxR7KAXn0YdmW+r26VO1eMcfIp+ljontwg1aolMM0jy6XdRkPbBZ83S7SB/i6WwJ+Vrm4IIOpMs1K7Y3HlkedDa33D1DxJT7vGDcMQ9q6zOB3gs7jOwp8wvvN87ISLQKyjqkYG+oiKO9WqUe2p9247t0/q+pP+ibwdALvLw+tZju5NBtrIOrThg4SfbhDOJ05kd2atWcxoXLI7nOu8EmUEoz1HlBpu+tgLWk0nOtVIJm3mLwLfYLcxsK+7xNsQ11YoANUG0tNSd8J5852RPyX5u3IMjJWCVg3k+UZfQXdF0+5rbrUN3FJs7BMLC8KtAlvT6SYBQ/IUNeG/dK2pV2dEbOPlQmW7nuNdbWR8/GnMMu9P/0lDcLEF2gMV3Nq7JOhCHRsMld7havPka6vL8RSmOKHDRnmERh/9c1t8o1QN9pUp06w/MtqhVMKxH2wRFhJg==;y780MJ/k8Qs9AVOK2KvMww=="
 ---

@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Cisco launches new AI networking chips"
-excerpt: "Cisco Systems has launched networking chips for AI supercomputers that would compete with offerings from Broadcom and Marvell Technology. Chips from its SiliconOne series are being tested by five of the six major cloud providers,"
-publishedDateTime: 2023-06-20T19:45:00Z
-originalUrl: "https://www.itnews.com.au/news/cisco-launches-new-ai-networking-chips-597137"
-webUrl: "https://www.itnews.com.au/news/cisco-launches-new-ai-networking-chips-597137"
+title: "Cisco Launches New AI Networking Chips"
+excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
+publishedDateTime: 2023-06-21T15:33:00Z
+originalUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
+webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
 type: article
-quality: 56
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: IT News For Australia Business
-  domain: itnews.com.au
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://i.nextmedia.com.au/News/20220607070350_0_0_0_0_70__News_20220421072727_cisco_sign.jpg"
-    width: 1255
-    height: 835
-    isCached: true
+  - AI
 
 related:
   - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
@@ -109,6 +102,6 @@ related:
       domain: dunyanews.tv
     quality: 19
 
-secured: "QnQlxKJDzR3hmuJ2AoPJA69nqzTlaqRwmafwQ6kOZICDMD4xLY87p5RleWjpeJa3yzBjH8VpmTo2R+afz3uLGEGBv8VXwt918hK9rCV4qWnFFrBsOuROQu92Kh2GcfNUpO2/fEfKMXRuBODGOgFyeKo6l7J7zOpr6K1Img40yas+bGi80UwudwqGthlqlqyFpGzhdSjK7wNWb6psm2BPSigD6/8fLWmRoVB+pyGwxw4AoL9xVN4oj7+wwRC1jNSVdMlNHp4LNerh8aOMqNOWO9aIwizUPHq5o+lqB0pNw17edV34pElHY3FXdIMkqTPdap9gQJ5NwpK+5JB+kesac8Gx33TtqzSnC/H71yhdSK0VbYEzAXqdFUvtRWoK1soVgj3KHIYynax3U2scRDxQQUdHY69Uydb5y2j3yW45eMOHGwIBnoeO+4eijDkIsxTygwznoCx4apW38OQdfPiECGdOUm8dOPttVPwoDJFeuEjGYo9gH2Q60BvGaipt0tAoyUf/0bgCYs3YQdhx7kFJ5A==;dL3ZGkTUv2YdF9onNkXQmg=="
+secured: "90e+Zehx4FUqpIAKn3760Ufb/psacWxEzTKOpL/+D+Qz95wenN9c19nNOPs9jBRx0eFB/36wyzBORtwtl0XIY4r73SALpDc0AhhTSEFGub4U7CTK7qKGIMTiLMu+aJB81IA4kbcQ6DD6m9eB149O3Lk2ty0+WKjHzQEPvBuSAdPKsMghrL8Z2Qp5t4gRPTJhyHuupPOlbv5kd+fX8tA7lNCkxBgCBFNKlckJbU2C0fw9fbcUEIM2rgX3RpdhnzyYz+pXw9SO4EJEQ1HYcySYqQm7y/UoIb+lpNpDgS4OCPfdtUa4fcm61T4duHp6JYZE2+19hibegmvA6gB6U7zO0oTYHtKN+CTQC2e1ChAFewY=;RrvsRIO7JGyzBr7CflYrAg=="
 ---
 

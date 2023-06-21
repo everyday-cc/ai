@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "US state, Ireland curb police use of facial recognition"
-    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
-    publishedDateTime: 2023-06-19T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
+  - title: "Ireland to introduce a bill on retrospective facial recognition use by police"
+    excerpt: "Legislators in Ireland plan to introduce a standalone bill governing the use of facial recognition by its police force before 2024."
+    publishedDateTime: 2023-06-21T18:22:00Z
+    webUrl: "https://www.biometricupdate.com/202306/ireland-to-introduce-a-bill-on-retrospective-facial-recognition-use-by-police"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
+    quality: 16
   - title: "Strategic Analysis of Global Speech and Voice Recognition"
     excerpt: "As per Facts and Factors study, the global speech and voice recognition market size was nearly $17.18 billion in 2022 and is predicted to surge to about $54.70 billion by 2030 along with recording the highest CAGR of 14."
     publishedDateTime: 2023-06-20T23:40:00Z

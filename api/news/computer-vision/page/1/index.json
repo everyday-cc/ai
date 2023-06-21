@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-22-regulate-use-of-facial-recognition-civil-liberties-group-urges-government.md",
+      "title": "Regulate use of facial recognition, civil liberties group urges government",
+      "excerpt": "OTTAWA—The Canadian Civil Liberties Association says the Liberal government isn’t adequately addressing the threats posed by facial recognition and artificial intelligence technologies, and should move quickly to put legislation in place.",
+      "sourceUrl": null,
+      "webUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
+      "originalUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/06/AI-FRT.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
+      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
+      "publishedDateTime": "2023-06-21T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windsor Star",
+        "domain": "windsorstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-harry-styles-cardiff-concert-face-recognition-to-be-used-on-crowd.md",
       "title": "Harry Styles Cardiff Concert: Face recognition to be used on crowd",
       "excerpt": "Thousands of fans attending the Harry Styles concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\".",
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1316,49 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-travelers-to-uk-face-long-waits-amid-systems-problem.md",
-      "title": "Travelers to U.K. face long waits amid systems problem",
-      "excerpt": "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
-      "originalUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
-      "publishedDateTime": "2023-05-27T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
+    excerpt: "Meet the Expert’ series showcased advanced applications of artificial intelligence (AI) for Arabic language and the benefits"
+    publishedDateTime: 2023-06-21T19:24:00Z
+    webUrl: "https://www.gulf-times.com/article/663389/business/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 15
+
 secured: "9/SQpLo1sua1cgQ+5EYqLFbv4hjLfLdFLMYhI1icaRcXuOM5PElFFx6iSv408mdjBbQsC81IGe3WDJLdx+TbwAeIlrFwoQJa9TcAIn6/wRKeuIaHONTFJFOgMu7JlUvvFJVjCCiouKqEZom9skvzHWx9w5wYqDanq5f++unFEyFjRdmysJvCxgdsmqEAbDq+RYcOJMMdgzSeu2oGzn6VK4AnqHhypIAZ4YQ5hRZ5HJKLhd+PqFVCth6nMId4tfMzyO7ySpt1HCs3Uw/Ictwef+5efnIBEDD9fUw1Eot2RCCYSQhpLEq0UFa4bI494zmYYXbdXG8AkV5C9i42FyyBnVm8En+aK/QzEtH6re8BhwVtQYIPZv8wMAeEbDmWcr/aoqkNA5O8PvyaKeIeIP3QktUUoFhXJqJlJPGaNl5uXtfIuMp0I0h0L5wMTqmMwNI2q/0q1b0vxeKgBi1RHhBRLllaNE5kLqUPlR28s4ncGvANpkpFs2NgTLfUXLA0uw2UPTKTbmjKsqtUMKyce5l+pQ==;YWjvApwY5swGK9ajpfgXcg=="
 ---
 

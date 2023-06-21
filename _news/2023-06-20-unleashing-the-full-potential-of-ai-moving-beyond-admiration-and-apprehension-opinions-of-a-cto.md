@@ -80,20 +80,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
-  - title: "The AI revolution: Harnessing innovation, addressing challenges and shaping our future"
-    excerpt: "In the realm of AI’s endless reach, Potential blossoms, lessons to teach. With thoughtful ethics as our guide, Humans and AI stand side by side. Together we’ll forge a"
-    publishedDateTime: 2023-06-17T09:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/mahi-jain/the-ai-revolution-harnessing-innovation-addressing-challenges-and-shaping-our-future-55294/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "moiTZiiIK9YS7R+G+tlZQ1lMoot+qhw/L+SrjIrHzia6rn+FqUgpvyp50Jfb1O8M6jmZBhcs36axDWfwV4wkGXisyBJzcZrXj8BAP9FoCjifVTjY0prbXLE2UX3T7tGBmcHjsNT/kGUz8gc4L/94PDkXEsfL1/k65Di7sZDZ4mGH/qFEcy/dMbDASRXApJDhiVrWEOV2uusZNHJscWs/4mf9RDyelORa/gDr6Meolc3cyqTBF82CE+y3DC2U0QEBpob8e9vUJcRcGzbnm5vT5d7GyrPxXM2Sa/h9UIxyQf1n+eTL+P9GvNE9FbG6zfAA+pJZknpKYQlOHmO4AY1u0FtIJKgXz95VdUtFSxY/XhBNrMW87YUgSujNI8IPq7CXH9jE9qYGtRwfpe4eKgezxGUrhI/eQOwx2I7X1DErTLd5+GImQWyNq57/KH8HqsMhHWcWGHYyA5bCKqshnVPOsoIdDbr56TfrsTBXicGP16kRnm5jN3iK+vAqx+VqcD/shhPa5LD+aUpS2fVZv9Og0w==;65zChPTDmNWnGBCtrXO/FA=="
 ---

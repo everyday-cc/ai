@@ -33,6 +33,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
+    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
+    publishedDateTime: 2023-06-20T00:00:00Z
+    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
+    type: article
+    provider:
+      name: The Journal
+      domain: thejournal.com
+    quality: 40
 
 secured: "EnmYS06D2aK26de2zhilR95C0gKnlPjoX/BPZSnnEQ+/j3QSZYZMJ3WNqCpt6QeBJ2a39wVxon27sg4mo48itIeE8OweMVqSfqUNi/71bpR7lwZJ07UvQ/m3dsCBFb5PmO2ox5SB5LLLr9aZWmwR2OaiVGfFCuWyRlGJpHQje/RAXGwyYCXELQhM9Ten+D55dFIgULxBATh2fbIXLnPNJhIzRFJi2mQkEgTK7e8F1xJfsv79TEStt5u+rrcbpslBFtTAM8aUCzR9yF9Ue6pqAZGPB8IrtbdXOIoL5TqiSW8IaxVRR50e7dfBWAZ7b6PZBdaF1qwPkRzYWm7fHF0T4nKUR9bz7FmLKJi/j7JX1nM=;WIBYR58XMtKsKcEo/tkiiA=="
 ---

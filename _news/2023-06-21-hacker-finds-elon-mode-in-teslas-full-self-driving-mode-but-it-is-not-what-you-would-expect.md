@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Hacker uncovers secret Tesla full self-driving mode with fewer safety precautions"
+    excerpt: "An undisclosed version of Tesla's full self-driving (FSD) software has recently emerged. Its intended use remains unknown, but it appears to have fewer restrictions than what"
+    publishedDateTime: 2023-06-21T11:55:00Z
+    webUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://www.techspot.com/images2/news/ts3_thumbs/2023/03/2023-03-06-ts3_thumbs-38e.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
     excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
     publishedDateTime: 2023-06-21T16:28:00Z
@@ -81,15 +95,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Hacker uncovers secret Tesla full self-driving mode with fewer safety precautions"
-    excerpt: "An undisclosed version of Tesla's full self-driving (FSD) software has recently emerged. Its intended use remains unknown, but it appears to have fewer restrictions than what"
-    publishedDateTime: 2023-06-21T11:55:00Z
-    webUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 44
 
 secured: "aGCveIo0MdrJlYjuGpZUUXP4AMrYlJPdBxVOEqPSfkqxaujUtni/tZnnuj3iUCZPQkQOHhLjAZjxV9uHKeqNLPxd9VlfUpBPy9RHS6PAHOYQyy+IxXT1O1wbJyRF42f+bQ8Ba12hOSWl4EmSw0EBCMceQb82VY2uiM+AIo7pqKHnIb54e6hAJIBDbPTfOm+sA/Sc25XfHCcjYNRli9kzMUy+yth+nXSKyMKFPqD1ZdRCZBGFDjoPfYb93sOs8kya3P4ENUWEReWXM7wMHoMbBOBvUS3jfGv2C94dJ/s7rV9/rU7yXMbMaVB28C9MMirzXPdcBG+cgNdACaKgQSPlGD+P0+KaW725PNKdUDvOmWQysYY6jkHWa7s+ZsEDT9tW3I6M8NzrzCGpRDSHIdGJ6rnWceAVFH6BGSHBTc1huE/56SbxdN7Isry3+64dUciFz9f2OqfgoGhqswN6bp1oI6LtjsZqCFRdUxRR13VoCQ7fvVxfwwDMalqgcSAcFVN5U8fcd3T2NGEqkQgVq1C01A==;SIbEJoqmIda3MnmnHOD0EA=="
 ---

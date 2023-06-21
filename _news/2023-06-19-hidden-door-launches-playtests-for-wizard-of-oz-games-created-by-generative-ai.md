@@ -77,6 +77,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Toyota Is Using Generative AI to Design New EVs"
+    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "The impact of artificial intelligence developments on cybersecurity"
     excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
     publishedDateTime: 2023-06-18T07:00:00Z

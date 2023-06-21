@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-22-meet-the-6-jpmorgan-execs-tapped-to-lead-a-new-unit-that-will-shape-how-the-countrys-largest-bank-approaches-ai.md",
+      "title": "Meet the 6 JPMorgan execs tapped to lead a new unit that will shape how the country's largest bank approaches AI",
+      "excerpt": "The organization will be led by Teresa Heitsenrether and pulls together some of the brightest tech minds at JPMorgan to drive the bank's AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jpmorgan-ai-strategy-execs-new-data-analytics-team-2023-6",
+      "originalUrl": "https://www.businessinsider.com/jpmorgan-ai-strategy-execs-new-data-analytics-team-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/53c51e046bb3f7e25c2bfcd9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-regulate-use-of-facial-recognition-civil-liberties-group-urges-government.md",
+      "title": "Regulate use of facial recognition, civil liberties group urges government",
+      "excerpt": "OTTAWA—The Canadian Civil Liberties Association says the Liberal government isn’t adequately addressing the threats posed by facial recognition and artificial intelligence technologies, and should move quickly to put legislation in place.",
+      "sourceUrl": null,
+      "webUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
+      "originalUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/06/AI-FRT.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
+      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
+      "publishedDateTime": "2023-06-21T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windsor Star",
+        "domain": "windsorstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-a-moment-of-revolution-schumer-unveils-strategy-to-regulate-ai-amid-dire-warnings.md",
+      "title": "‘A moment of revolution’: Schumer unveils strategy to regulate AI amid dire warnings",
+      "excerpt": "The Senate majority leader released his long-awaited framework for regulating artificial intelligence and said he would launch a series of AI forums this fall featuring a range of experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-chuck-schumer-ew-526p-9c7348.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna90193",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193",
+      "publishedDateTime": "2023-06-21T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-microsoft-and-google-rivalry-could-supercharge-development-of-ai.md",
       "title": "Microsoft and Google rivalry could supercharge development of AI",
       "excerpt": "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.",
@@ -10,7 +147,7 @@
       "originalUrl": "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -97,7 +234,7 @@
       "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -137,6 +274,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
+      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
+      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -244,7 +425,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -568,6 +749,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
+      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
+      "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
       "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
       "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
@@ -576,7 +801,7 @@
       "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -833,7 +1058,7 @@
       "originalUrl": "https://www.itweb.co.za/content/Pero3MZ346xqQb6m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -864,57 +1089,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-chuck-schumer-joins-crowd-clamoring-for-ai-regulations.md",
-      "title": "Chuck Schumer Joins Crowd Clamoring for AI Regulations",
-      "excerpt": "Congress doesn’t have a strong record in addressing perceived harms from technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882",
-      "originalUrl": "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-803525/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1011,187 +1185,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-cisco-launches-ai-networking-chips-for-ai-supercomputers-to-take-on-broadcom-marvell.md",
-      "title": "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell",
-      "excerpt": "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
-      "originalUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
-      "publishedDateTime": "2023-06-21T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
-      "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
-      "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32940522",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940522",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
-      "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
-      "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "originalUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-ai-reveals-ancient-symbols-hidden-in-peruvian-desert-famous-for-alien-theories.md",
-      "title": "AI reveals ancient symbols hidden in Peruvian desert famous for alien theories",
-      "excerpt": "Researchers studying Peru's ancient Nazca Lines used artificial intelligence to uncover four more geoglyphs etched into the country's Nazca desert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "originalUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34a3dc0-7781-491d-8b2e-f4174f3e0c28/fd78257f-da74-491a-8c0d-3fa96814144f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "publishedDateTime": "2023-06-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

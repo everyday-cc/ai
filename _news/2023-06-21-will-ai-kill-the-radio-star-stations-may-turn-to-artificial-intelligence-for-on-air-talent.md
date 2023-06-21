@@ -2,9 +2,9 @@
 category: news
 title: "Will AI Kill the Radio Star? Stations May Turn to Artificial Intelligence for On-Air Talent"
 excerpt: "The debut of ‘AI Ashley’ — a cloned version of real-life DJ Ashley Elzinga — on a Portland Top 40 station has divided the radio industry."
-publishedDateTime: 2023-06-21T16:39:00Z
-originalUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/"
-webUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/"
+publishedDateTime: 2023-06-21T16:31:00Z
+originalUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/#!"
+webUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/#!"
 type: article
 quality: 42
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SyrCAybzOPKCFqVKKKJIHGg78Cd+8+PMbieyvfR5Isa6kKzRL5+Apqy+yrLbCIS5jeDHgODs3fBijOgX6qtdxaNdywYTWwN3ReyQuoCKXcxWoaGJWuTpTbz56Mf7ssMoTHttmGV5VkwUJWT4O8yZfgtfpaN4pzV5IsiJa1qbojf/ZmGil0z0q/H1xWUxyAIjyiTcXzacpQmLxKzQCU99wxGe8d5niztUrXa+JgEVmwrgqLFD/MLhbgUPtFdqEk9pS1Odk7yIy+rGesQckgJ2e7pS8Qa4uF4HuDNYNuuvS2288EzY1PlQBjmvP5Rpbqp3OA8gkJx0ZTvksiI6n7pw6fun6q43L1eWo0sXQpYCDaU=;8G6AzktDcbvsbyRwoclw4Q=="
+secured: "njxFzlMkpEp1saov3+olWR8w7Uvq4oQkIwlqz4MczyeSGDMJ2P9Sj2DOWKT8Pot7iuxGG72ZNI42fDMFBSc6UJEcLks9eB7SOqDi8KSz6zXeSTdkKIRX2fSmXTcgAYgBSFnH7cr0leh7m4Sdu9XufESiBagP9wxKh0rlAxgFKhMKB4tgfwTUA5dpDmXDNkEgw5RCgo6S1Upwob39EbdxOPVyxKESUBIdaTPW5xyAFZS23CZTN58qQ6KBRV5d/6yFrRQFQfN93BtNyuPLxgB49anU2Flo10JMn5YOWVObjRtbY+wn5Fc3ZCArHhBjKAKCnxq5hl9R6otJAJIIu6gfqKrrITXMn6TyRe+xeo66VgU=;S/FR3sjEHjvoGC4HKla2IA=="
 ---
 

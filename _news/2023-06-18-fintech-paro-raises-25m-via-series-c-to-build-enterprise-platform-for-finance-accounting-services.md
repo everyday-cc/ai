@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "73hfV5YpzzkAPxFDCglwS+Xdv+t/bhi3QSFcC8J5cXbCrsmejKhjD6TvKmTP9t0UNJhLbbSskHMA8DEzP+/+/I8flp0g4cHdbMmNQpi2loVnCuGj+NKHJy8cB06ElhL6JwxMPPZxDJU9GAW8ZGOgV3ER6MnIDlqRfRGmMU66J1BlDxXdLkwkc9vPkVfoARxgMDERhLqoyGEAstEVZRgVpR1Bbpcq2GprUY7NAV5zTqPw3pu9qWu5fC+nAqs/X2st9CFywwM4LVqEixah+VDzN1LiYaohD+luw1jWkSjP6rY787xGl23WHyyqBaDKy13Ph0zMXOl2QddlLIflcGA9g5DImFpm9tGlVW0JxyfgNuT4tS0SuC5dOWVNs+IT7235BwVzD41+jcrOK3JYxCHUMC3BAk7Fou8mOIm1qmgb6Vq5YKgMeeykczalP6l2oEOFN/k21/tREvj1Sm0ZGiVnSaW0MLicF05X8kqG/Qve0sJFNv/mkNn674ZRFXOGwkaDa8nl/PTkeQPXnI3raoPgvg==;/IFA8n7rsJGL90guzkL2GQ=="
 ---

@@ -2,6 +2,195 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-05-18-a-third-former-apple-employee-has-been-charged-with-stealing-self-driving-car-tech.md",
+      "title": "A third former Apple employee has been charged with stealing self-driving car tech",
+      "excerpt": "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "originalUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "publishedDateTime": "2023-05-17T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-elon-musk-says-teslas-self-driving-tech-is-better-than-humans.md",
+      "title": "Elon Musk says Tesla’s self-driving tech is better than humans",
+      "excerpt": "He predicted Tesla’s self driving tech will reach a point where it ”exceeds human-level safety this year”. And he said the manufacturer was ahead of the curve on artificial intelligence for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "originalUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Toowoomba Chronicle",
+        "domain": "thechronicle.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-elon-musk-is-right-we-need-to-regulate-ai-now.md",
+      "title": "Elon Musk Is Right: We Need to Regulate AI Now",
+      "excerpt": "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "originalUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/7881e2d7b68e0b07bd4dcf534260ca3af4f6cd1b/hub/2023/05/02/6a359d50-1e7a-4710-b994-d6b1ce857695/230501-yt-vs-chatgpt-bard-bing-v04.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "publishedDateTime": "2023-05-17T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-machine-learning-vs-deep-learning.md",
+      "title": "Machine Learning vs. Deep Learning",
+      "excerpt": "Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences between them. Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/machine-learning-vs-deep-learning/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/machine-learning-vs-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/ew-machine-learning-vs-deep-learning-1024x640.png",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-sting-warns-against-ai-songs-as-he-wins-prestigious-music-prize.md",
       "title": "Sting warns against AI songs as he wins prestigious music prize",
       "excerpt": "Whether AI-written music can be copyrighted is still under debate. Under English copyright law, for example, works generated by AI, can theoretically be protected. However, the US Copyright Office recently ruled that AI art, including music, can't be copyrighted as it is \"not the product of human authorship\".",
@@ -1013,193 +1202,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-how-job-seekers-are-using-ai-to-supercharge-their-job-hunt.md",
-      "title": "How job-seekers are using AI to supercharge their job hunt",
-      "excerpt": "The startup raised $2.3 million last year ... \"I think in a few years, everyone will have their own personal recruiter — their own AI recruiter,\" he said. To be sure, there are potential downsides to robo-applying. There's the possibility that too ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/14/03736f5c-c142-4ec7-bc92-ec942ec01152/thumbnail/1200x630/a6a67b308a63607fdfd13f8320a224f9/job-gettyimages-475352876.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-applications-mass-apply-autofill-job-search/",
-      "publishedDateTime": "2023-05-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-before-ai-takes-over-make-plans-to-give-everyone-money.md",
-      "title": "Before AI Takes Over, Make Plans to Give Everyone Money",
-      "excerpt": "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly.md",
-      "title": "Latest moves show Stability AI is fully committed to open source — well, mostly",
-      "excerpt": "Stability AI released StableStudio, the latest in a series of moves to highlight its bonafides during an open source AI boom.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
-      "originalUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image-6.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
-      "publishedDateTime": "2023-05-17T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare.md",
-      "title": "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare",
-      "excerpt": "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
-      "publishedDateTime": "2023-05-17T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

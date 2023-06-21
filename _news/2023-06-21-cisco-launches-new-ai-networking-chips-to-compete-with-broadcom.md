@@ -83,20 +83,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Cisco launches new AI networking chips"
-    excerpt: "Cisco Systems has launched networking chips for AI supercomputers that would compete with offerings from Broadcom and Marvell Technology. Chips from its SiliconOne series are being tested by five of the six major cloud providers,"
-    publishedDateTime: 2023-06-20T19:45:00Z
-    webUrl: "https://www.itnews.com.au/news/cisco-launches-new-ai-networking-chips-597137"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220607070350_0_0_0_0_70__News_20220421072727_cisco_sign.jpg"
-        width: 1255
-        height: 835
-        isCached: true
   - title: "Cisco launches AI networking chips to take on Broadcom, Marvell"
     excerpt: "Cisco said the latest generation of its ethernet switches, called G200 and G202, have double the performance, compared with the previous generation, and can connect up to 32,000 GPUs together."
     publishedDateTime: 2023-06-20T18:36:00Z
@@ -106,6 +92,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
+  - title: "Cisco Launches New AI Networking Chips"
+    excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
+    publishedDateTime: 2023-06-21T15:33:00Z
+    webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "ZDUxTDhYZNOOww36SRvlQfK1+R4flRY2nkQ/2yxS7cGKHxK+v5+ssIf7idcXtZ93AkqRjNKzj61reui/aIzQ/cB0hYycudCA3UsIwjzgx4W8eJnFG4Tq/u7VhLbwoJhaLD4Ra5LDVHIfqA2m0ux8/dJhVbnGyAYU4gGeAY1/W5ekNKoEvSQCVlYtEgVkho6yM27gHiZpF41p1jtYrJjGQ607fTVAbAVSLwNoakElRFZKXG0lh5EMJWLxMJUH5E2EWbmXJcABT1LHLEkccrpJZyulfMTLZ4Hrsawj5Ib7Xl1k23bWYZLZDHkzrVwT0NX30yIkb9LAu/K99QmM0jNxtpQ59tPRgOYY32Xfbn/agBp8SupUpbEhiBgJAoSyCLOV1Xlm8/bQJFAXCOh+qSBaogTaE/UYr8foJgLQtoYtZS6EmclVcV7nIt7Oghf3YzCn8XnbfpNDb5DUN7Xz1++YeuutInZiYMgzCTXHrcw22i3CgKXOAwZUmj5o+XTyeH3RUKp1UstDjkn+GhIQutA75Q==;XVzztB6oOQ7oONOZEANubA=="
 ---

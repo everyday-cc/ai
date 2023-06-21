@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "Compass UOL Launches AI Cockpit with Generative AI"
     excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
     publishedDateTime: 2023-06-19T15:01:00Z

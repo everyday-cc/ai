@@ -32,6 +32,15 @@ related:
         width: 1018
         height: 630
         isCached: true
+  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
+    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
+    publishedDateTime: 2023-06-21T18:50:00Z
+    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
 
 secured: "QilP7XeI8XfGlCoPYTdsFMxo+Xoqe7zOJiWNvaAxQdbxf58auh85m/LLxxh1MbAcpTqL252aLxId1VC5N0XGy2Scx6/Oa3jnOG+NwrA9jg+EOm+Bh/V7hRl1WA9BxMC7R//mZtyyQ7E5vODxvO0ajge5uTAsywMqTZDW5CGe/93h5NQbvnG2ccnXuL+y9cKV72Ij1Nhp6yFhKd4kYiPZbny2YHvTyReBz5qhKa/o4hywfXGHZbttnBUpQRVpVdHxH9fJJ2Oqj2lYo3H3mfWTXMLeFcsgrhRcRatHgMzhxYZTwAnDO/rRlJnf36rJNLCVgoxzErfkgWTjTkxdOKYBs8f4AGldJnAZRv13dRaRFrb7gTcwUiDfKgLyYfkCvrwTh7g4+mKkwwyrvy1X3QdHwIoT3xJYJiG4f+Z9FO9q9mKes/yF7A2qnDY6hICoeojSYcWOCsgQh+r4EQUWNtuZQJGYhkCTBBLaMVVkXA1G+TADuYRLC3ptATShJiQ6NulwcVe65G2Vpp5s4ACd/piblg==;fxIJGo1VbhoC3uxvnicJzQ=="
 ---

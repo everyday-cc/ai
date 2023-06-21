@@ -25,75 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
+  - title: "‘A moment of revolution’: Schumer unveils strategy to regulate AI amid dire warnings"
+    excerpt: "The Senate majority leader released his long-awaited framework for regulating artificial intelligence and said he would launch a series of AI forums this fall featuring a range of experts."
+    publishedDateTime: 2023-06-21T18:42:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
+      name: NBC News
+      domain: nbcnews.com
+    quality: 80
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-chuck-schumer-ew-526p-9c7348.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
-    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
-    publishedDateTime: 2023-06-19T16:43:00Z
-    webUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
+  - title: "Chuck Schumer Joins Crowd Clamoring for AI Regulations"
+    excerpt: "Congress doesn’t have a strong record in addressing perceived harms from technology."
+    publishedDateTime: 2023-06-21T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-54.jpg"
-        width: 1356
-        height: 668
+      - url: "https://images.wsj.net/im-803525/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
-    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
-    publishedDateTime: 2023-06-20T05:00:00Z
-    webUrl: "https://www.burnabynow.com/highlights/opinion-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-7166944"
+  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
+    publishedDateTime: 2023-06-21T16:10:00Z
+    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
     type: article
     provider:
-      name: Burnaby Now
-      domain: burnabynow.com
-    quality: 47
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/weldersinshop.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
-    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
-    publishedDateTime: 2023-06-17T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
+    publishedDateTime: 2023-06-21T15:27:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
-  - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
-    excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
-    publishedDateTime: 2023-06-20T04:10:00Z
-    webUrl: "https://trak.in/stories/unleashing-the-full-potential-of-ai-moving-beyond-admiration-and-apprehension-opinions-of-a-cto/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 25
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
     images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-4-4.jpg"
-        width: 1000
-        height: 465
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
+  - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
+    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
+    publishedDateTime: 2023-06-21T19:56:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 40
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
+    excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
+    publishedDateTime: 2023-06-21T21:28:00Z
+    webUrl: "https://www.cityandstateny.com/policy/2023/06/how-should-congress-join-ai-revolution-chuck-schumer-has-thoughts/387762/?oref=csny-skybox-lander"
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/06/21/GettyImages_1500406096/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
 
 secured: "jIZ/+vKM3malNafa3q9dnR42NYn6wk/Kd6Z4qz4kyIMX32IxP8UErl4HYMIeaHD6YDvF/a2s81rgSE8Y5s7Kl1pG1j2xKqQWccenkO68YpjpjdsK0pWxkiX4HgZjQW2uVwspDzROPCoaYQZYkFVfY/kuXoIMNNj1QvgwXYvlKcOFK59yvhQm9RImr/cllntUtyoWtEyktGz1u8zJutNZI0WtntGjyyL2U5MbGOa8Fiyv+dCM2lyojWY7VgT/DDHK6izyxMqcPrfM3E/9H6ewfbIFw/OPS7Fmz6v+BuAjOiik9lyafh/7n3Yo1GNzM1z+N4FjQhwS1eInUyvKrGJzH/y5miQAm8s1L+1xvh2AEhA=;DKa2Sx7JOAJZKjnm/ck/+Q=="
 ---

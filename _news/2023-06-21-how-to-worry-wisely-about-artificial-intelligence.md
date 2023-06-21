@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-21T08:02:00Z
 originalUrl: "https://www.livemint.com/ai/artificial-intelligence/how-to-worry-wisely-about-artificial-intelligence-11687333864952.html"
 webUrl: "https://www.livemint.com/ai/artificial-intelligence/how-to-worry-wisely-about-artificial-intelligence-11687333864952.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/06/21/600x338/FRANCE-TECHNOLOGY-OPENAI-1_1687334141391_1687334252184.jpg"

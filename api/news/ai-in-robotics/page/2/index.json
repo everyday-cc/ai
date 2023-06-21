@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-06-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799",
+      "publishedDateTime": "2023-06-06T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing.md",
       "title": "NextGen Food Robotics Provides Update on Lily App and Highlights the Advancements in Generative AI and Natural Language Processing",
       "excerpt": "while emphasizing the significant advancements in Generative AI and Natural Language Processing (NLP). These technologies have proven to be major game-changers in the field, propelling NextGen Food Robotics Inc. to the forefront of innovation. A welcome ...",
@@ -234,22 +277,13 @@
       "title": "Generation AI fear for jobs as half of UK public think robots will act against human interests",
       "excerpt": "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects",
       "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=related_article_inline",
-      "originalUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=related_article_inline",
+      "webUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1299,58 +1333,6 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-110-of-the-sp-500-companies-are-talking-about-ai-2-stocks-to-buy-right-now.md",
-      "title": "110 of the S&P 500 Companies Are Talking About AI -- 2 Stocks to Buy Right Now",
-      "excerpt": "Robots can operate around the clock ... like performance to train the most advanced AI applications. AI start-up Anthropic -- which was founded by ex-OpenAI executives -- plans to use EC2 P5 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/30/110-sp-500-companies-talking-ai-2-stocks-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/734225/two-autonomous-robots-carrying-boxes-through-a-digitized-fulfillment-center.jpg",
-          "width": 5120,
-          "height": 2880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

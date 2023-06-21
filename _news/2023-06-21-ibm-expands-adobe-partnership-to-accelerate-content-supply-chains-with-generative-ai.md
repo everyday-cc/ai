@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "HCLTech and Google Cloud expand partnership on generative AI"
     excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
     publishedDateTime: 2023-06-19T09:38:00Z

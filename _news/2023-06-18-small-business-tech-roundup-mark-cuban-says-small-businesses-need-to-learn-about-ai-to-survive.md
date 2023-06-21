@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "EMBEDDED AI LENDER LAUNCHES TOOL TO SUPPORT SMALL BUSINESSES"
+    excerpt: "Lendica, a Boston-based fintech, announced the launch of the iBranch, a powerful embedded lending software that changes how businesses access capital. The premiere roll out is with"
+    publishedDateTime: 2023-06-21T19:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32954677/embedded-ai-lender-launches-tool-to-support-small-businesses"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954677"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954677"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "qKBu2iviU66Mfwqvl0OSa3xzahBgQwHrXHglpLjsPZ1nitax+5l6f+NHT/pwrawLzGRrCyFilQvLTQAM98FTl2lylO7NaS4CzBO406iQ7Fi6iOvWd5wZBvNVBriUY3WPngWWGdSNba+yBvvL37O2Lg9ZhDO4N3Us9c1vF+1dRUtr6gPplPt9Vk7OYlih+3+LOkBQTIRXmkIrj47LUbcEmEcWHXMPWFIpMdJbxaonjh5ANlmrqPd57/A/49CtyPFMqFGzN7ueYdBrX+hZT3bL8FteqPxoS0N7u5AvVYBlFkjSr9DDEANbJrxhKbMat68j88FagYOGjT0UMqV+RPs/2ZcQ8sFuzc99qFnshm6YIadSiSxArWvDja34lN6lAdCpPyhpM2aKlXXoAWlpjDS4wA3VpoMg+Bn4H6KxpRRtiiISFxSXXJFE2uLmDGKPaP/+eSg3hp3kM4vg8fjsJGMFOXWv3oHgyklanX3BStQJLn0ZmZ3vVds+kc9gneQzKlmZR6lDiIhOqmlkXZJxHiWgmQ==;ZCAEYtJceQRic6bPEv/LXQ=="
 ---

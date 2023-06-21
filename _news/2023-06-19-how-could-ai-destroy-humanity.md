@@ -27,6 +27,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Test for humans: How to make artificial intelligence safe"
+    excerpt: "As tools based on artificial intelligence spread, calls for regulating the technology – and addressing basic questions of trust – have been rising."
+    publishedDateTime: 2023-06-21T19:34:00Z
+    webUrl: "https://www.csmonitor.com/Business/2023/0621/Test-for-humans-How-to-make-artificial-intelligence-safe"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 17
 
 secured: "GxORXnTaiQI5bCrHaX2RUrWd7ezWd1OtYs4HyS1AkhyFOTTDPKJJQLZuOqkHK/3hANBpscEIucG7JZOlHlgnHx80AQFBJTbQSk1Ip+SrDmNabJLS7pwTgYUlpbjDfRRCZHd3wbt5L2NWwWll86/uxb4ZO9ITrk27VY4ExRuvvqJQH7udhxNXVmHrAGrSI8UoigPqr5BrKmUPVvTIEQBaPt1EkuKwlmb+z3MxNqiOe47HZ1RBW3AfXmhpOKo3FpBktB6f+OTB1OsSXMItYDWGTTePP3ghmXCfIwyKq4dGGvGHtWMM1rdANyYOt6rlDlzI/hE2JWzbAa1Q6RbVtaf3uyXXl4w/rIiKXPzvycauzJOozOOjKjkFnphNrS10BWylpkO0Ww7/IqJv7kuInzcH6EzryrwWew7u9CVJNmSbtbwPRuMJLA57KLQYcPPtoy6qisueF+kXliEc+Ky4ZE14wZQcOaEHhOIZ17vLfcB0NqtjZFi2vf07+Ts9O6YgP7xAjqe2S9SXrcw3ii4kZUy9HQ==;yxqbgSV6eFoCZAE48720vg=="
 ---

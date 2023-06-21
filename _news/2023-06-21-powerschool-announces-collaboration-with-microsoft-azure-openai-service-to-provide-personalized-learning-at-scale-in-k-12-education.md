@@ -7,8 +7,8 @@ originalUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collabor
 webUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Bakersfield Californian
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
+    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
+    publishedDateTime: 2023-06-20T00:00:00Z
+    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
+    type: article
+    provider:
+      name: The Journal
+      domain: thejournal.com
+    quality: 40
   - title: "AtData Unveils Reduction in Email Validation Unknown Rates Utilizing Machine Learning Models Within its Flagship SafeToSend® Service"
     excerpt: "AtData implements new machine learning algorithms – now available within its email verification and hygiene service, SafeToSend® DEDHAM, Mass.,  /PRNewswire/ -- AtData, the leading provider of Email Address Intelligence solutions to help companies optimize their first party data,"
     publishedDateTime: 2023-06-21T14:02:00Z

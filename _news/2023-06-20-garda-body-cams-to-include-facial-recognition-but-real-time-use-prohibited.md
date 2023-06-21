@@ -96,6 +96,20 @@ related:
         width: 1454
         height: 800
         isCached: true
+  - title: "Grocery stores in NYC fight facial recognition software bill"
+    excerpt: "Related: Shoplifting: How to protect your store However, Fairway’s parent company, Wakefern Food Corp., told CBS New York that facial recognition technology is helping prevent more crime in stores. The algorithms within the software are able to reduce ..."
+    publishedDateTime: 2023-06-21T19:52:00Z
+    webUrl: "https://www.supermarketnews.com/retail-financial/grocery-stores-nyc-fight-facial-recognition-software-bill"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 39
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/GettyImages-1363480595.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "CuF8h8ewKTl3ZfkHOKDm1p9yOCLDquDWqkCrmzi1iLN1e974iGQ2UT5GYmwfu9fwrFWfjEp7wE3wnyse+pdZUubtHh1uegMVmQrC2yRQBeuFP7EYsXSWZa3Sjo/ztO0rK0dLL0RLvAJeu090bpEjs0M5smz2KzsYfOkQGeqEONA+IPymzibPxlT3TE8J7fCJ0znm4iw/4UDXNqQ+J1HfhLt09Cj30MtomL6m4zEdp49SyBcJ9xb0VL6ktnGEjG8Ryc1nfhgrnUchxMUmr5C7PA71S5RYOrumSJ9vNrFW9gDEybQgJGmei6y0pyOCvgS1nJeZR+DecrT9AnRUUnX5uqyMsWnO7+GmHsvYjKJFrp3Hk8PrFPjaZ82rP3A7H3NwgrY006MNQEQ6p3VSQXDBu39lXYMtTsulXpCOj0xcfRMeS9ptAfivqmUJVji3ftLpfnqLMm0mFKxqr+S3iuWpLW4Vs/D3KSLzNB6LxlPmlUSBQpevVVZeCKfj2dyyGw7fBNYp+Q1cHRPBKyXtov53Yg==;3WeZ8fw0MHOWFXEdMESZ0Q=="
 ---

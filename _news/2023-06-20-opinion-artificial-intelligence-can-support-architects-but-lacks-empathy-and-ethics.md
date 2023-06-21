@@ -66,20 +66,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 36
-  - title: "The AI revolution: Harnessing innovation, addressing challenges and shaping our future"
-    excerpt: "In the realm of AI’s endless reach, Potential blossoms, lessons to teach. With thoughtful ethics as our guide, Humans and AI stand side by side. Together we’ll forge a"
-    publishedDateTime: 2023-06-17T09:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/mahi-jain/the-ai-revolution-harnessing-innovation-addressing-challenges-and-shaping-our-future-55294/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
     excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
     publishedDateTime: 2023-06-20T04:10:00Z

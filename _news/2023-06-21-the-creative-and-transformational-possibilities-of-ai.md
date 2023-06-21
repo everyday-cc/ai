@@ -72,13 +72,13 @@ related:
       domain: valdostadailytimes.com
     quality: 4
   - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
-    excerpt: "OutSystems, a global leader in high-performance application development, today announced new AI features - including the general availability of its new connector for Azure OpenAI, built jointly with Microsoft - and its roadmap for a new suite of generative AI capabilities,"
-    publishedDateTime: 2023-06-21T15:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836896.htm"
+    excerpt: "Company shares live demos of its new connector for Azure OpenAI, built in partnership with Microsoft, that enables the use of ChatGPT, GPT-4 and other large language models - along with OutSystems \"Project Morpheus,"
+    publishedDateTime: 2023-06-21T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32949237/outsystems-unveils-its-generative-ai-roadmap-to-transform-the-way-enterprises-develop-edit-and-ext"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "AQxy3GW+rFHoBNeENFHitzkw0d7oXum01rfXb+Uk5dkqkRMmw1KsFKJfu1Q/LPXS4Djkh1fiVq4i49+GLof2vRTFims5JAI/0yU+P05+DifLoGHUVOnLWG9MYFvoUqEAAgNcFbY8jAlsJt3zuXycERJxQiqYWc2mhdK37qmYbhNQrjVHK2AnEuFzJmnz8rVG9F2ybBLmmBDIXePMMy+zBWPfl+2wYzVu7mfwADaE1UhNtfnFQyRV7hU+Mru5UZ/e0IeDzgc/svoYQJ068oaYlWZpu19LFs+zv60Hx0feF1uzyiwPDSWilySnX1N6yhPpTUTq4c4CkkvAO29L98EhqKS4H2YD64TXbc4LB8W/5LM=;PDGF8AKVRQm5Kc4tpql7xg=="

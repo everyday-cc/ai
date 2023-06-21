@@ -82,6 +82,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 17
+  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
+    excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to understand which players to follow, how they compare to ..."
+    publishedDateTime: 2023-06-21T19:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330604&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "DV0axOWsmJBThbs34HSqiMTJ9TnnqBTnNEC90UiZ+F++anupHNP1xY9YrBbSCEsemHDYFsk/gaoAFpC7KVcoa9F+K5vK0wUGLujf9rg1epBSwwHwj8nxhYTj5oIckgrH0pZGbkif2csqgttIX7FL2EkTlIGghSBs69iAhpmifw9swoGtAWWLFJVnWI114ra26CqyhM+mBszP7RtsNAQkcfSe0ZoRvoKnObIylemzjTJh6RWD/WD+mc2zq3UHx57yD2JMZQSxJ2em9+u9Z9bNcAEWk3+xxZK3zZGkg+A0e2gg4AtQyIsrGVk24qybBlh9MsUGqnsS9E8vY4cLjbWgUc5HZeCiqi7bFghshloKu12icBVcoFHFTBalA9DUv0xfiDhpoWFOEKa0Ca5an1DHZK2/couHhpC5aScp5PZfwE6SXOMRP+CFuPqtVVvKd2YVmQGLQlv71hinRQEvq3D9EHYRr3hfSvWY5zktpxw9wOEtLHfoNaYhW3evoO/yOEsJoyMyAVtFOH7gGm+KZer3SA==;77JPJkNno9lge19I6Z3mDA=="
 ---

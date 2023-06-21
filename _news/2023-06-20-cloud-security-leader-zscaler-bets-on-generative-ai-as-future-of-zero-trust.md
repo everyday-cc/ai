@@ -70,6 +70,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Toyota Is Using Generative AI to Design New EVs"
+    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z
