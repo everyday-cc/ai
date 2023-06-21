@@ -42,6 +42,20 @@ related:
         width: 620
         height: 793
         isCached: true
+  - title: "Facial recognition cameras to boost security"
+    excerpt: "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,"
+    publishedDateTime: 2023-06-21T02:17:00Z
+    webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 56
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
+        width: 750
+        height: 416
+        isCached: true
   - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
     excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
     publishedDateTime: 2023-06-20T19:20:00Z

@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-19-5-ai-job-search-mistakes-you-need-to-sidestep.md",
+      "title": "5 AI Job Search Mistakes You Need To Sidestep",
+      "excerpt": "Learn the most damaging AI job searches that candidates are making, so that you can avoid them and increase your chances of landing your dream job",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/",
+      "originalUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489b33233b97d979475c366/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/",
+      "publishedDateTime": "2023-06-19T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-reshoring-the-risks-of-swinging-the-pendulum-too-far.md",
+      "title": "Reshoring: The risks of swinging the pendulum too far",
+      "excerpt": "From the decades before the turn of the century until the global pandemic, great economic growth spread across the world, driving historic demand in commodities and consumer goods. But this economic growth, coupled with stringent labor laws, drove up labor costs. By sourcing materials and labor from",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/reshoring-the-risks-of-swinging-the-pendulum-too-far/",
+      "originalUrl": "https://www.ibm.com/blog/reshoring-the-risks-of-swinging-the-pendulum-too-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-why-machine-learning-is-imperative-to-your-brands-digital-marketing.md",
+      "title": "Why Machine Learning Is Imperative To Your Brand’s Digital Marketing",
+      "excerpt": "Business owners and executives new to machine learning and its applications may not know the full potential it has for their digital marketing strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6234c761e493a5459f8e0764/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
+      "publishedDateTime": "2023-06-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence.md",
+      "title": "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence",
+      "excerpt": "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-19T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees.md",
       "title": "Omnicom Group to Debut Tool Using Generative AI for Advertising Employees",
       "excerpt": "Ad holding company Omnicom Group plans to debut its first generative artificial intelligence tool as part of a partnership with Microsoft: A virtual assistant to help ad agency employees with tasks across the advertising process such as compiling audience insights and building media plans.",
@@ -146,7 +344,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -653,7 +851,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1037,194 +1235,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-why-this-tool-is-reducing-asian-influence-in-ai-generated-art.md",
-      "title": "Why this tool is reducing Asian influence in AI-generated art",
-      "excerpt": "Sasha Luccioni, a Montreal-based AI ethics researcher at the Hugging Face, an AI startup headquartered in New York City, said text-to-image generators tend to reinforce existing societal biases. “",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
-      "originalUrl": "https://www.nbcnews.com/news/asian-america/tool-reducing-asian-influence-ai-generated-art-rcna89086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230613-style-less-asian-ai-al-1428-25dd68.jpg",
-          "width": 673,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89086",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89086",
-      "publishedDateTime": "2023-06-16T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-regulating-ai-isnt-impossible-its-a-leadership-commitment.md",
-      "title": "Regulating AI Isn’t Impossible. It’s A Leadership Commitment.",
-      "excerpt": "The EU's AI Act is just one early step in a long, ongoing process, and we're nowhere near a systemized regulatory framework. But it’s a start, and that’s what leaders do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648cd5fb58d4466d39b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/06/16/regulating-ai-isnt-impossible-its-a-leadership-commitment/amp/",
-      "publishedDateTime": "2023-06-16T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-how-to-access-install-and-use-ai-chatgpt-4-plugins-and-why-you-should.md",
-      "title": "How to access, install, and use AI ChatGPT-4 plugins (and why you should)",
-      "excerpt": "ChatGPT-3.5 is useful. ChatGPT-4 can be very useful. But, for the most useful version of ChatGPT to date, you need to add, implement, and use ChatGPT-4 with plugins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/71db8dcabc6a9af772ff36d22386eb58ecefc7ec/2023/06/16/30a23833-79b1-4a6e-8e16-60d90aaf9a83/gettyimages-1250609807.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-access-install-and-use-ai-chatgpt-4-plugins/",
-      "publishedDateTime": "2023-06-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
-      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
-      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/",
-      "publishedDateTime": "2023-06-16T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

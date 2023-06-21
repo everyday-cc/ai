@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-    excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-    publishedDateTime: 2023-06-16T10:58:00Z
-    webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan"
     excerpt: "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen"
     publishedDateTime: 2023-06-21T01:37:00Z

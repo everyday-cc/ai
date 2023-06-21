@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -128,15 +128,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
-    excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
-    publishedDateTime: 2023-06-16T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/the-fintech-industry-and-data-centers/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 0
 
 secured: "Hn1Hg/eLXwiO4xmcVPLBOIeZ3/UNVZQtn4EO/NrH19SCekuW6fZqsgonh+NQRw8o/sf2+QpchLMj6P9vVvzvNITFKyRWl1NbVP+Q4ejDukGC0Y7a9plhPMy6IljInnVV1JazaoCNP5X+TT8LgzrDvs5LtXrlCtcS8dt77BXZReTCJwFzexhw5uu43vfk7qAY7diJdPoWgfj3bI851P1Pu5fBMrNqDccYXZ5w1YrEwGQOoRhd946gjVyrgXj7eswvQePjbxGWg4znqgIt/UCKRZWKy//o8YCpfGVoYr5aP5Z20aQVFPoSLCAM/whpkEwmaGBL4PiTCIICNFtZzK68gSj3Me4o0stf8jVXx44jwvNKPTbj1ZxM6lJGmbxeO3ZtfXDHTzuSCu9C/unGLp45vz7DsqttKOQjJgWqqYEhfYLszpHbUGnTt/3Rxp9a7unk3N7YRjjBE+G5yWUXqNmtzUf0bwclYAIDBBH4YlvJpKvnlzRHGtEFk4hoDZpySl1t4IBbdOhPArlC4B/GISPuSg==;JRKjHOajjWxVPmUqSf9IcQ=="
 ---

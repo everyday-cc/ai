@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-age
 webUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

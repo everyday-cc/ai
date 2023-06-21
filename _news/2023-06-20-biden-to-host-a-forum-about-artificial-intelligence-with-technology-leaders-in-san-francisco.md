@@ -59,16 +59,33 @@ related:
         height: 558
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T09:18:00Z
-    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
+    publishedDateTime: 2023-06-20T10:04:00Z
+    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 25
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/30/60/23956504/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
+    publishedDateTime: 2023-06-21T02:28:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/government-politics/in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence/article_0887f2c1-427b-560c-8726-e3dc2c65a89c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/11/2118d5a1-bdad-50d0-aba7-bd2af79669f1/64917f2387ae3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "B+BlHV3d9iYLyf6wL9Vy1pC5n6r+p4ADhKzuuDW4z0fxUvRQHs6gCoCbWopGnON+tS5KmG9pdJbhjq8XqFtveDmp9YyQ8SCf5PHQokPHKucCvvBqLhoa2YkswjwJ73MCi/FA8DciLRL7uKH3AB5yM8JKkmVmOiDpBkShznM5EzSn5olSscdAmfyeVKUWrUCvnQC+2b/MWcLpPD0QAkU0igsRdSEZB+1wEu9UWg57hbMpYlo50coKw1zX7AqlLeHpl/EwdsY4Vewfi4ELWfzebC6mKijxkcIfange6txQtRCQJRctfD9n1PS/EfkX846s2Jjw8I4iuN6QMvWVAjaVdXviIWWUmnA4sSy/M2Aqh1cRpWhca1OKRT+Sunztx5UW8nRtM0nTSkt4EJZOVRqogyT3x06mVUBVWjDcB44VIjhl6rbmq5zKDLnq7hU+kbl/GeuOJtnrAqDH8CDCF91LFG955II86o2pkh2lr675kp8fgLM9M4HxeKns1+FfQh7FxDLxjSK2Dls8xKOz2XbiRA==;IzDNXe4Xir2CRxRpSdnZnw=="
 ---

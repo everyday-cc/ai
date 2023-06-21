@@ -2,9 +2,9 @@
 category: news
 title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
 excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
-publishedDateTime: 2023-06-04T18:06:00Z
-originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
-webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
+publishedDateTime: 2023-06-04T17:16:00Z
+originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=above_article_ticker"
+webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=above_article_ticker"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "aX1U0CyvnqU0KULjbiGOhZl9fzsG1l78XGI6PPMpQUYChEj7OjlbILWzSJlkkW13uspzSuvPOLNtZURn8x3D8Oer75SmNpNTE+2ZqAkK2zIrTRnI6XQqTkL4S/JO2sLWrLKHCGlObB1aYvVSl+ZQXMtVsY2w1FkKQTyq51JwBTb/hxHfDzVkATKGwNLs/8MECbs99REBJ3bvVjRBLz7ben9WiNxFb26ZoPgFd0VKvaOAbbEuw8/d9WW8wosNQGUzcUk8OKwut3bl1Dfs8pz4dnDhC4f/dkiaHSq/1l0KtIuUCp8ELWmvBFGOPNNDa/0PjbIb731UDIPxORgNdvlZQhIVKooOMZQeqeXzot1I6uT3G4cSpN1mxTXz5TwR+HjyRZgtPVqhIBXSu4ZG0LnHQbei3AIjlGHkNQriz9TTqI4QZSFWvJpT8TSyjsuL77QoTAODz+TgH64B5bkaDlwsI6+fKVPfKJr3l51uHEDRMh4tkHYQhQcdxEWu/kyz6ND9QwaMDg4EnFiM8Zi9E6m6Kg==;6pTXyTvllmYkY0zL0rKgTg=="
+secured: "cufafi6fGEdz8Xk+NEaCFm7fCUGzrI/nj5ZLtmPn7WifrqeCnvBgB8sE9jvl9+kPHDgyAktZNb+IbnWqLuO7COgsWFnsUJbNaVppGoVBeMASV7J8zTQIlvjw/r6DmgJZXZOwwIQCURoeuog+mjBOxH0GZ3T2kq2ihquVJVSN7x6bCrQCNUgk4gFlpoCj7OfiRYoAcOXMyID6VGMHP0Nk8LRu4O7VYZBjNsQujGJscjh2A3lDaY+WNmQRFLENK0PprXYxmZY7m2RElGUKUn+TVj8lhUaiJOzNFtfMJfUvlw0My0Fojuv5NY4ZN0m/Nv2Io4MVjMIcPHuA128IOAoA4JvvglOtLtoAZ3w/FWF3760=;za7XHc+xmZDUA2PDu0tKLw=="
 ---
 

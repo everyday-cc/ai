@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Jamia announces 3-week training sessions on AI, machine learning"
+    excerpt: "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course."
+    publishedDateTime: 2023-06-21T03:42:00Z
+    webUrl: "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 74
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/21/w600X390/Jamia1.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Jamia Millia Islamia Introduces 3-Week Training Programme on AI and Machine Learning"
     excerpt: "Jamia Millia Islamia has introduced short-term training programme on artificial intelligence (AI) and machine learning (ML). Registration for the three weeks programmes are ongoing. Check details here"
     publishedDateTime: 2023-06-20T14:20:00Z

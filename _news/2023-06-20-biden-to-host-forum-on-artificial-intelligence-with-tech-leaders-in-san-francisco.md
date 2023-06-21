@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host
 cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -59,16 +59,33 @@ related:
         height: 558
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T09:18:00Z
-    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
+    publishedDateTime: 2023-06-20T10:04:00Z
+    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 25
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/30/60/23956504/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
+    publishedDateTime: 2023-06-21T02:28:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/government-politics/in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence/article_0887f2c1-427b-560c-8726-e3dc2c65a89c.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/11/2118d5a1-bdad-50d0-aba7-bd2af79669f1/64917f2387ae3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MKWHOzP4pR0TSSNiHlUVkmxrg2weTvv5JwRGtDTBQGhOx10HV3Ox3JOpwHYj+poAfMNKCWGCpx4JiJjUoGZ2g0LtG6+HRPGn0fseWBgD8JkhQJAPcu0L2cbsaM/VUqpYHwgDrNL1QtG0ueZy47unQEHiP2Vd8hk5MKvetZNVwveWEqmArp3gO8SS3aT4NpRAAhVtVSm+XcHCFzc6UR8puEMX73eiPke+4eLPWOQBhfTOdTU+/1EEiKHjYymOuZE2U/mQUFGglS4MydhGO/jpWAvEpib92hSTS9yGV2L7PaqYb9JxlOtBEYd3zD+Ent54UP7zmYFdSOG8FlTN8pkLMG6Bte7Wtkj9lFH1RGqR4R4=;RlDa1IB7yp4jbwn/7a29Kw=="
 ---

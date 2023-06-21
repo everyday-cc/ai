@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
 excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
 publishedDateTime: 2023-06-19T15:43:00Z
-originalUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
+webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
 type: article
 quality: 82
 heat: -1
@@ -54,6 +54,6 @@ related:
       domain: ft.com
     quality: 11
 
-secured: "bxCl6wY6NGREsJdEnR3hpuN1Z1ENuk2wBpt7IY4j/67+OD7TiXlT26NH8Q6kxjlCywvQlVZUOyjjReipmv+YZ0yQ2Ho6iEPxJ7aOmlDfc23ZpolWRJ6DzMlgeNXLwS/ugnqGnK+SNULxWU5f/QVJ3H0OmpX45GgeIiXiYTdT08+jc2msicfoSmNK5VwlUjR+21/rLYNueWJWjm2+tPT6kL6n2q8Pf7eEFCdbdDBkTb0EeWD5VxMHbClsCfQJGb5YaO23r2wPXdNSR/00aqep0hb868WIAfxoujJQoXDW7oz8SENZReEhDwxMwgywYgmEklItziv/GvZOijrpzUpOgiOQO2x3afneZmzjs8ReOQX02WAJMACTc2hyPbpHr+zWHLfD+6SukF/dUWzacfShWZY04ZfmBzYTej4j24GeKdcyxwFBoPDojuFkg76kj1HB/dbzDngPNYSmkxFXRQr254Q6WF+LiwRkkI3yBGA9YvWZw/I4G0iVh9/Qz7E1lLG2rzY3SGZbsw8ilJxAMnk9Yg==;2Ln9WljjeVwQkrel30j5aw=="
+secured: "+fI5XM8doFKszKPDxoozkwnn0PLoICztrxTNXEfY6MRhzFH1fSfXBamNMK1jNoGZf0/9QgaVD61dWENZv49HWjNHz584X4FDoKf3Ac9gMAua6r2V8zexIiov+tUafFOf/8B6bAzewYPnbDRdxYKQV60sUpwLlhnmOT+kTC5A3XizKfK6j7Ap+A2iqxna73FnwqezwRCnYlZDBq/EHH7wFUsnz1YIPXtm7l4vpfCa7Hudu/P3DEgrIjXPjF3yqyjzVk4FykAY8VcfG7IxQjFApLJXgCcWSQboktpcxtVp0FC/tdfK1FVW9Nce9uW1xAA+zhfDqhuF7JdsHS5gmoGowWy3aFsWhup6zLd3pdSreZY=;+jmp1vpUqOYw0nIxPT72+A=="
 ---
 

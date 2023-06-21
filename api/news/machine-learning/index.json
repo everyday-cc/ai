@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-jamia-announces-3-week-training-sessions-on-ai-machine-learning.md",
+      "title": "Jamia announces 3-week training sessions on AI, machine learning",
+      "excerpt": "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/21/w600X390/Jamia1.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp",
+      "publishedDateTime": "2023-06-20T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
+      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
+      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
+          "width": 1128,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "publishedDateTime": "2023-06-20T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
       "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
       "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
@@ -63,7 +149,7 @@
       "originalUrl": "https://www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -127,49 +213,6 @@
       "provider": {
         "name": "AppleInsider",
         "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning.md",
-      "title": "Jamia Millia Islamia Introduces 3-Week Training Programme on AI and Machine Learning",
-      "excerpt": "Jamia Millia Islamia has introduced short-term training programme on artificial intelligence (AI) and machine learning (ML). Registration for the three weeks programmes are ongoing. Check details here",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/news/jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning-168633",
-      "originalUrl": "https://www.jagranjosh.com/news/jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning-168633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/June/2062023/jmi-short-term-programme.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/news/amp/jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning-168633",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning-168633",
-      "publishedDateTime": "2023-06-20T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1365,49 +1408,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks.md",
-      "title": "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks",
-      "excerpt": "Deep learning can find the optimal or local optimal solution in operation, making it efficient to compute CGH. CGH has been applied to holographic light traps, 3D displays, planar concentrators, AR displays, etc. CGH technology can obtain the best wave ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

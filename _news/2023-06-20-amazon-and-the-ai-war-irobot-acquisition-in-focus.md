@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-
 webUrl: "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

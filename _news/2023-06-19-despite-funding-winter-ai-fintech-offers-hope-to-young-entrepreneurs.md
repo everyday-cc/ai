@@ -124,15 +124,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "The Future is Hybrid: Financial Services, the Fintech Industry, and Data Centers"
-    excerpt: "In today's digital landscape, fintech has revolutionized the financial services industry, with seamless and convenient ways to manage finances. To achieve this, Fintech companies generate vast amounts of data,"
-    publishedDateTime: 2023-06-16T10:59:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/the-fintech-industry-and-data-centers/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 0
 
 secured: "6LFQeEGiJGRu47OQbZDld4u4Mn4umZ9+9ck3MnlBt8IU8LmNoCopl8be+z9vwxRU/KejZxTV/gsO1XGx2k52VMbKOd6l56yO8LBJmB66QzMkZrvsNaOJxlQOhPY06PiWudiASrNk2fzQbKdc126QhnonRKy80KQNN/9g9qDpdDcRbAsxR9f1lsKnoVeHPT2GrrwoLby9EG9C9ROBNJF9CXKzQncHKo0q+s/wCckEHiXIJNVB9DFUVsfMmXklmMhyCRJGL0Ec0QkwuHf4xtIL6gh1Qro56svt/T6zREFJWhailh0P1bWHz0yYbW88/ebce7rnUKhUaNBfWSj/XRpcj8Zt5nJTpqNzWJLpoHC0cT00rxyNn4zSooW8PtyUyJpoAGJFxjidnNNhA/UmN99hqrnZUcLg/TR5d9fCuVooHJCLBIs8g3xbo+cl4xn7RnTbPhtShN9B6YJRPEy1Z2zY63ss2ZJKjF9LQtznMqP0sfTOKy7Gp/r2tfp6PT8nBwoXKHoPZyU9bJfcEiUKU62nWg==;lXv16yi1Od4q2GUuRappbA=="
 ---

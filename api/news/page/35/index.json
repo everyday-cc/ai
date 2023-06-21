@@ -2,6 +2,263 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-05-25-rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution.md",
+      "title": "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution",
+      "excerpt": "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
+      "publishedDateTime": "2023-05-25T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-cohesity-forges-google-cloud-ai-downwards-to-data-layer.md",
+      "title": "Cohesity Forges Google Cloud AI ‘Downwards’ To Data Layer",
+      "excerpt": "The current renaissance of Artificial Intelligence (AI) and the Machine Learning (ML) processes that we are now developing and finessing is nothing short of ubiquitous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d673a3608cf0ba355c45/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
+      "publishedDateTime": "2023-05-25T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-will-ai-replace-lawyers.md",
+      "title": "Will AI Replace Lawyers?",
+      "excerpt": "This is not to say that lawyers' work won’t change—or even disappear. There will most likely be less administrative work and we will probably need fewer clerks. Lawyers will have to write less, read less, search less and, frankly, also think less. They will become hyper-augmented which might turn them into overqualified project managers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646628c4e6757f61ab41e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
+      "publishedDateTime": "2023-05-25T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-americas-math-coach-is-teaching-fifth-graders-to-outsmart-ai.md",
+      "title": "America’s Math Coach Is Teaching Fifth-Graders to Outsmart AI",
+      "excerpt": "This professor is traveling the country with simple advice for an uncertain future: Be more human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-788010/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-how-ai-is-changing-automation-testing-in-quality-assurance.md",
+      "title": "How AI Is Changing Automation Testing In Quality Assurance",
+      "excerpt": "One major way AI automatic testing of software has changed the process of quality assurance is by speeding up the entire process. With AI, there is no need to make manual calculations or go through the process of manually testing the software over and over again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e109d287ca827f3a62c39/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/",
+      "publishedDateTime": "2023-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-ai-upstart-uipaths-stock-is-down-on-soft-revenue-guidance.md",
       "title": "AI upstart UiPath’s stock is down on soft revenue guidance",
       "excerpt": "AI startup UiPath Inc., whose initial public offering fetched a market value of nearly $30 billion in 2021 only to get creamed before recently rebounding, reported quarterly results Wednesday that topped analyst revenue and earnings estimates but offered ...",
@@ -966,240 +1223,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-microsoft-dives-deeper-into-ai-at-build-2023-here-are-some-updates-on-copilots-and-plugins.md",
-      "title": "Microsoft dives deeper into AI at Build 2023. Here are some updates on copilots and plugins",
-      "excerpt": "Microsoft also introduced new features to help developers build their copilots and next-generation AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2023/05/microsoft-dives-deeper-into-ai-at-build-2023-here-are-some-updates-on-copilots-and-plugins/",
-      "originalUrl": "https://techwireasia.com/2023/05/microsoft-dives-deeper-into-ai-at-build-2023-here-are-some-updates-on-copilots-and-plugins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-microsoft-introduces-new-ui-experience-for-trying-out-computer-vision-with-vision-studio.md",
-      "title": "Microsoft Introduces New UI Experience for Trying out Computer Vision with Vision Studio",
-      "excerpt": "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API. Vision Studio is intended to allow developers to explore, demo and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
-      "originalUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/11/azure-computer-vision-studio/en/headerimage/generatedHeaderImage-1667429468411.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-lightning-onset-of-aiwhat-suddenly-changed-an-ars-frontiers-2023-recap.md",
-      "title": "The lightning onset of AI—what suddenly changed? An Ars Frontiers 2023 recap",
-      "excerpt": "Ars Technica hosted our Ars Frontiers virtual conference. In our fifth panel, we covered—What Suddenly Changed?\" The panel featured a conversation with Paige Bailey, lead product manager for Generative Models at Google DeepMind,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/2023_AI_panel_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
-      "publishedDateTime": "2023-05-24T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
-      "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
-      "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-787338/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-metas-ai-breakthrough-defying-user-tracking-policies-billions-await.md",
-      "title": "Meta's AI Breakthrough: Defying User Tracking Policies, Billions Await!",
-      "excerpt": "The Financial Times reported that Meta Platform (META) has been using AI to circumvent the impact of user tracking policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "publishedDateTime": "2023-05-24T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

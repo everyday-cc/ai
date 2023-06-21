@@ -37,6 +37,20 @@ related:
         width: 620
         height: 793
         isCached: true
+  - title: "Facial recognition cameras to boost security"
+    excerpt: "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,"
+    publishedDateTime: 2023-06-21T02:17:00Z
+    webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 56
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
+        width: 750
+        height: 416
+        isCached: true
   - title: "Facial recognition software in airports raises privacy and racial bias concerns"
     excerpt: "The pilot project has expanded to 25 airports across the country, including Logan Airport in Boston. Dr. Joy Buolamwini, founder of the Algorithmic Justice League and an expert in AI bias, told Greater Boston that facial recognition software has a built-in bias,"
     publishedDateTime: 2023-06-16T17:22:00Z

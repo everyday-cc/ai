@@ -2,6 +2,238 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-15-ai-will-stir-the-pot-but-wont-change-the-game-for-decades-mark-zandi.md",
+      "title": "AI will ‘stir the pot,’ but won’t change the game for decades: Mark Zandi",
+      "excerpt": "The biggest factor contributing to companies' bottom lines right now is artificial intelligence, says Mark Zandi, chief economist at Moody's Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107235733-1683218950741-gettyimages-1252638648-SENATE_GOP_DEBT_LIMIT.jpeg?v=1686828721",
+          "width": 5182,
+          "height": 3455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
+      "publishedDateTime": "2023-06-15T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
+          "width": 873,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
+      "publishedDateTime": "2023-06-15T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-bbva-selects-aws-to-accelerate-its-data-driven-transformation.md",
+      "title": "BBVA Selects AWS to Accelerate Its Data-Driven Transformation",
+      "excerpt": "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/15/9833207.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/15/9833207.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
+      "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
+      "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-06-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation.md",
+      "title": "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation",
+      "excerpt": "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64492aaf47015e74f7f3312b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
+      "publishedDateTime": "2023-06-15T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
       "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
       "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
@@ -967,246 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off.md",
-      "title": "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off",
-      "excerpt": "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187",
-      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy.md",
-      "title": "AI Proves Mightier Than the Fed for Stocks Divorced From Economy",
-      "excerpt": "Turns out not even hawkish saber-rattling by the Federal Reserve is enough to awaken stock investors from the spell cast on them by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-14/ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-14/ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izcGTnfSeJyc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-jesus-is-giving-gaming-and-breakup-advice-on-a-247-twitch-stream.md",
-      "title": "'AI Jesus' is giving gaming and breakup advice on a 24/7 Twitch stream",
-      "excerpt": "The chatbot was created by The Singularity Group, a volunteer group of activists who say they aim to use technological innovations for philanthropic purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/ai-jesus-twitch-stream-rcna89187",
-      "originalUrl": "https://www.nbcnews.com/tech/ai-jesus-twitch-stream-rcna89187",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230612-AI-Jesus-jg-969f75.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89187",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89187",
-      "publishedDateTime": "2023-06-14T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-smart-manufacturing-technology-is-transforming-mass-production.md",
-      "title": "Smart manufacturing technology is transforming mass production",
-      "excerpt": "Smart manufacturing (SM)—the use of advanced, highly integrated technologies in manufacturing processes—is revolutionizing how companies operate.\nThe post Smart manufacturing technology is transforming mass production appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
-      "originalUrl": "https://www.ibm.com/blog/smart-manufacturing-technology-is-transforming-mass-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T12:44:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
-      "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
-      "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg",
-          "width": 2098,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

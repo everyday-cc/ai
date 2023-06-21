@@ -2,6 +2,265 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-04-29-ai-in-healthcare-whats-to-be-done-about-data.md",
+      "title": "AI In Healthcare: What’s To Be Done About Data?",
+      "excerpt": "The widespread deployment of AI in U.S. healthcare will succeed only with the establishment of a national infrastructure for open health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf84647334126cd4c7b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/04/28/ai-in-healthcare-whats-to-be-done-about-data/amp/",
+      "publishedDateTime": "2023-04-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate.md",
+      "title": "AI startup Synthesia made waves this week on both sides of deepfake debate",
+      "excerpt": "Two articles this week highlighted the complex debate around the companies creating deepfakes, or synthetic media.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/img-Hero-WithActor.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-synthesia-made-waves-this-week-on-both-sides-of-deepfake-debate/amp/",
+      "publishedDateTime": "2023-04-28T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-unicef-and-partners-using-artificial-intelligence-to-fight-dengue.md",
+      "title": "Unicef And Partners Using Artificial Intelligence To Fight Dengue",
+      "excerpt": "As the climate changes, mosquito-borne diseases are on the rise. Members of UNICEF's Innovation and Climate teams are working with partners to create AI models that can predict and prevent future outbreaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "originalUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf73c134f548d73f1e352/0x0.jpg?format=jpg&width=1200",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/unicefusa/2023/04/28/unicef-and-partners-using-artificial-intelligence-to-fight-dengue/amp/",
+      "publishedDateTime": "2023-04-28T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-artificial-intelligence-delivery-robot-market-growth-by-2031.md",
+      "title": "Artificial Intelligence Delivery Robot Market Growth by 2031",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Delivery Robot Market\" is segmented by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-growth-by-2031-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence.md",
+      "title": "RSA Conference 2023 Ushers In The Age Of Artificial Intelligence",
+      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend, shares his insights into what he found most compelling at RSA Conference 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644bf598b7ad555c305df357/0x0.jpg?format=jpg&crop=802,450,x0,y0,safe&width=1200",
+          "width": 802,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/28/rsa-conference-2023-ushers-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-04-28T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-facial-recognition-market-report-by-2023-2030.md",
       "title": "Facial Recognition Market | Report By 2023-2030",
       "excerpt": "Top “ Facial Recognition Market ” Size 2023 Key players Profiled in the Report are [, Neurotechnology, Nviso, Cognitec Systems, Daon, NEC, Techno Brain, Idemia, Animetrics, 3M, Facefirst Inc., Ayonix,",
@@ -922,240 +1181,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-making-the-most-out-of-generative-ai-in-your-enterprise.md",
-      "title": "Making The Most Out Of Generative AI In Your Enterprise",
-      "excerpt": "Generative artificial intelligence (AI) has come to the forefront of business leaders' minds with the ongoing stories and innovative capabilities of ChatGPT and the waitlist for its rival, Google Bard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7a52c586aa5faa0d1575/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/making-the-most-out-of-generative-ai-in-your-enterprise/amp/",
-      "publishedDateTime": "2023-04-28T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.md",
-      "title": "Aruba banks on integrated security, AI, NaaS for enterprise growth",
-      "excerpt": "Aruba Networks execs talked about a number of core technologies they expect will dominate enterprise customer environments, and, clearly, integrated network/security, AI and network-as-a-service technologies will be at the heart of those developments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "originalUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/23/10/group-of-executives_collaborate_board-room_board_mentor_advisory-board_colleagues_networking_by-alphaspirit-getty-images-2400x1600-100818573-large-100929428-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3694870/aruba-banks-on-integrated-security-ai-naas-for-enterprise-growth.amp.html",
-      "publishedDateTime": "2023-04-28T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
-      "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
-      "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "originalUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg",
-          "width": 1020,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "publishedDateTime": "2023-04-28T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-adoption-versatility-and-how-companies-can-confront-skill-gaps.md",
-      "title": "AI Adoption, Versatility And How Companies Can Confront Skill Gaps",
-      "excerpt": "Data is the lifeblood of businesses today. Both data science and data analysis are essential tools for understanding the world around us. Data helps organizations make better decisions, understand customer’s needs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a7801230d12e6fdbfa396/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/28/ai-adoption-versatility-and-how-can-companies-confront-skill-gaps/amp/",
-      "publishedDateTime": "2023-04-28T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
-      "title": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI",
-      "excerpt": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

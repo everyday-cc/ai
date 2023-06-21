@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan.md",
+      "title": "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan",
+      "excerpt": "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png",
+          "width": 908,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-hacker-claims-tesla-full-self-driving-has-secret-elon-mode.md",
       "title": "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'",
       "excerpt": "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode.",
@@ -213,37 +265,28 @@
     },
     {
       "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
+      "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:58:00-07:00",
+      "publishedDateTime": "2023-06-16T01:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1364,49 +1407,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say.md",
-      "title": "DMV can't be trusted to prevent crashes by driverless trucks, California legislators say",
-      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. How we got here The Legislature handed driverless vehicle regulation to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
-      "originalUrl": "https://www.eagletribune.com/region/dmv-cant-be-trusted-to-prevent-crashes-by-driverless-trucks-california-legislators-say/article_e2876637-adc7-59ae-b204-437ce2a944da.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

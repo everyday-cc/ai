@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Software developers work best in teams. Here's how AI is helping"
-    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
-    publishedDateTime: 2023-06-20T09:08:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
+  - title: "Funding Is Drying Up for AI-Run Vertical Farms"
+    excerpt: "Industry experts still say that indoor farming is a crucial piece of agriculture’s future, especially as climate change spurs more destructive wildfires and floods. Nonetheless, the ability of vertical farms to carve out meaningful market share on a national scale could be years away, they note."
+    publishedDateTime: 2023-06-16T15:16:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "2YnrSzwSM/+cCPhw0z6ZjnVR/RxBltfFa6tfzul0tk3vtCFWYkP3cE3OpZiKSsMMcrQIOgfl5+0X5v+BSnKNwxPApE5pTPbXq6nqDf3Rm/+7GDi2Z5Dt5IwgWZfrJF4rgWMGOJpOkUk2lDXjm+EtuirG3FZp9fXqa2ittFcy18oPr/FMiT0bTlvg/WNzx326Pdf9fHWZyhOL9c545EjTuzkI1RLYkrnHGdUi6L5Xtp0PPoEx7xze0LBHrdNC7mscxbrr5woF74kKAdWTtG6lN5HocjveEhgq4ieqo91gWqdi1MQGtN1qKw6UNyPsJiDSaaqelZDv5IACmbE0/PUzaZjdRiXVD8qprig6R1ywY6Y=;DUXbF010WuNGokMdOzfi7w=="
 ---

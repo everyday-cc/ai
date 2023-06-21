@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverle
 webUrl: "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: Gizmochina
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-    excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-    publishedDateTime: 2023-06-16T10:58:00Z
-    webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-06-16T14:14:00Z
@@ -85,6 +71,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "a8KERQEGduc2NORwzcdbyoD0DGbMMeBs59plGqsI6y3LmmiXkTcfgLQIh7ZF0PCr6UFnUqkufTRq4c4icoN5hnEPUgeqwshyhzQUn3ph4GcROM682cO+SyZVaKygUWKtI147WmNI8mYqBKAsjG02InFhF53dYFoTBJJzZDt6GhnFYjS+g+TXGW7GAlfHui5HAj8j+g8NruDQXXN7DW6ZK8XH8QviTDrsSvwdsG70EduAZv5tQMbi0lsiUZQGeBuciRMJO/Jww/LO9W8wKsNFaocU2unFx46IUtCp4/JTXxr/Wa3BkkqKuR0ozhB2COO7BjG9PLzQv96zUZNyMV7z3uwWGAjGH7mFBQOkgL3BteA=;f/1768f+yox2VNtlFDP6ZA=="
+secured: "/9gxkxSQ+rrV32Zao8abtpwd08PDO6u6Apx+9DhA5XSOUG7BBydwdWMSZJiipfPg8UdcwWJwxzjDKneNnQrc41wMsFcLxc7C47PegXwcfagntk8hMWBUFr5ssVaiLPKDQyJUJ/UG0Y1WyR/Up8Y+b/+z2t7CC0nVsHhx7foqYwBCpL9ydUOO+AR5anneTFT1NpFmGIDV/s2S9zx/FJSAoAiN79oOMQcBSvHm3PWPfMyJATNkVv0sQ//WnczF7gpH2jAotKrIQgSy+pJ3GVyWUn1atAC9mFi0P/x6pFz0zacX6vy72SkvU00ggE6LevAyutPa83uOzqpFbROsplBzV7aASnC/SJtXAS+Xs4kO72fDe/YMNA9qv1+MFWU52XKoOOYJ+0uzUtdgqC/i8Nf11atUGO6jK/5nwxZ3rnJ2sAJvEwh+3QRbxblICcPcbg0c6/ijPb/23KAxQRGJJDFMHLntSssXi5rHVfcMY9EapuN5SX29R8MSE/67F2hVWjo72KxkqvrBGdrn/tW55NeKng==;DmcqAlUjv81ycTlXIpJJYw=="
 ---
 

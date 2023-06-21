@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
+    excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
+        width: 1198
+        height: 685
+        isCached: true
 
 secured: "zo3ZEMlOVSn89NWgn4YxV1lJAy30Yultht9iUuvdX7AAvKOSkyEQhRpMAxCbmg2LTCcQ0LRGbeN4DICEbzALHvD/PWi/jo0etKhk8ZDHkZ/8kTJVCM37RKYr/eGrnyIu6amjZVCpKC4ZwiOPAmbV+KOJ9By5CIdf0wAoLUnIaPGJUPR2YOIh5n72EvrAG5nZ9DU2vgbsbMKdNGtBY3go0rwULMPqmHn2F82Numm/azwGWzWJpySHUNM7NtpuYbwQPBQY1dLok9l6RL/YrnXy6KkjTsQb464nck2d/rXWHcGMoI/KIuvhQqHF+iIY/CoEKSxAQpXjP64f1eCmhb7epxHImRgoEpgErATWDu9Wdp+tPbEqnZ6n/eXtc6jUJuVoxC/N8s6867zkqAuBddPy8mW0+TaAOBToCbhTLour7Mop4Pr20Bgz1BcMtN1buZREMW4yTYwIemeBmS9MigGGDnWCxcH64vzC1lpEEF4wL5V8+qit17DzIIL616SEy9PcwvK+OR2VYV599OYZfz+Zzw==;yVexEm9PkTGvahG0F3MxcQ=="
 ---

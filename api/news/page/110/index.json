@@ -2,6 +2,194 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-04-07-ibm-watson-services-industry-is-poised-to-surge-at-a-cagr-of-30-over-the-next-ten-years.md",
+      "title": "IBM Watson Services Industry Is Poised To Surge At A CAGR Of 30% Over The Next Ten Years",
+      "excerpt": "The global IBM Watson services market analysis shows that global demand enjoyed year-on-year (YoY) growth of  27%  in 2021, to tota",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105960797/IBM-Watson-Services-Industry-Is-Poised-To-Surge-At-A-CAGR-Of-30-Over-The-Next-Ten-Years",
+      "originalUrl": "https://menafn.com/1105960797/IBM-Watson-Services-Industry-Is-Poised-To-Surge-At-A-CAGR-Of-30-Over-The-Next-Ten-Years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-deep-learning-model-estimates-cancer-risk-from-breast-density.md",
+      "title": "Deep learning model estimates cancer risk from breast density",
+      "excerpt": "Breast density is a known risk factor for breast cancer, and studies have shown that visual analogue scales provide better estimates of cancer risk from breast density assessments than other methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/985452",
+      "originalUrl": "https://www.eurekalert.org/news-releases/985452",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fa65e78b-2313-496f-93a3-a4a0a25c7522/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-artificial-intelligence-chatbots-market-regional-forecast-to-2030.md",
+      "title": "Artificial Intelligence Chatbots Market | Regional Forecast to 2030",
+      "excerpt": "The latest market research report on the Global \"Artificial Intelligence Chatbots Market\" is segmented by Regions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-regional-forecast-to-2030-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-robotics-data-startup-roboto-raises-48m-to-help-developers-save-time-using-ai.md",
+      "title": "Robotics data startup Roboto raises $4.8M to help developers save time using AI",
+      "excerpt": "Roboto Technologies Inc., a startup that emerged from stealth today with $4.8 million in funding, aims to use artificial intelligence to help robotics developers save time when developing robots.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/06/robotics-data-startup-roboto-raises-4-8m-help-developers-save-time-using-ai/",
+      "originalUrl": "https://siliconangle.com/2023/04/06/robotics-data-startup-roboto-raises-4-8m-help-developers-save-time-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-07-ai-equipped-eyeglasses-read-silent-speech.md",
+      "title": "AI-Equipped Eyeglasses Read Silent Speech",
+      "excerpt": "Researchers have developed a wearable interface called EchoSpeech, which recognizes silent speech by tracking lip and mouth movements through acoustic-sensing and AI. The device requires minimal user training and recognizes up to 31 unvocalized commands.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
+      "originalUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-moscow-enhances-the-options-of-the-integrated-artificial-intelligence-service-for-diagnostic-radiology-by-almost-30-per-cent.md",
       "title": "Moscow enhances the options of the integrated artificial intelligence service for diagnostic radiology by almost 30 per cent",
       "excerpt": "The capabilities of the integrated artificial intelligence service have been enhanced in Moscow: a neural network can now simultaneously detect up to nine pathologies using CT scans. The algorithm was launched last year,",
@@ -752,214 +940,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance.md",
-      "title": "Welcome to BloombergGPT, a large-scale language model built for finance",
-      "excerpt": "Market data giant Bloomberg is set to capitalise on the craze for all things AI by building a 50-billion parameter large language model for finance, dubbed BloombergGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
-      "originalUrl": "https://www.finextra.com/newsarticle/42110/welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/code2.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-intelligence-remains-a-dangerous-myth.md",
-      "title": "Artificial Intelligence remains a dangerous myth",
-      "excerpt": "And anyway, self-driving vehicles do not actually require artificial intelligence. The far more important and complex questions involve creativity and intuition. The comical columns concocted from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/artificial-intelligence-remains-dangerous-myth",
-      "originalUrl": "https://www.foxnews.com/opinion/artificial-intelligence-remains-dangerous-myth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-data-science-analytics-trends-to-watch-in-2023.md",
-      "title": "Data science & analytics trends to watch in 2023",
-      "excerpt": "Modern day society is dominated by the extensive use of digital technologies which result in the generation of a large amount of data. Data science helps extract patterns and deduce valuable insights from it.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030.md",
-      "title": "Artificial Neural Networks Market 2023 | Booming Industry Size in 2023-2030",
-      "excerpt": "Apr 05, 2023 (The Expresswire) -- Artificial Neural Networks Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 121 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-11-podcasts-every-ai-and-machine-learning-enthusiast-should-listen-to.md",
-      "title": "11 podcasts every AI and machine learning enthusiast should listen to",
-      "excerpt": "Many are looking to learn more about AI and these podcasts cover the most important companies and people in the space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-artificial-intelligence-machine-learning-podcasts-2023-4",
-      "originalUrl": "https://www.businessinsider.com/top-artificial-intelligence-machine-learning-podcasts-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

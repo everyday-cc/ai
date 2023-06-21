@@ -9,8 +9,8 @@ ampWebUrl: "https://www.jagranjosh.com/news/amp/jamia-millia-islamia-introduces-
 cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/jamia-millia-islamia-introduces-3-week-training-programme-on-ai-and-machine-learning-168633"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: jagranjosh.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jamia announces 3-week training sessions on AI, machine learning"
+    excerpt: "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course."
+    publishedDateTime: 2023-06-21T03:42:00Z
+    webUrl: "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 74
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/21/w600X390/Jamia1.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Jamia Announces 3-Week Training Program on AI & Machine Learning"
     excerpt: "(Representative Image: Unsplash) New Delhi: Jamia Milia Islamia (JMI) has announced a short-term training programme on artificial intelligence (AI) and machine learning (ML) starting next month, registration for which are underway, a university official said."
     publishedDateTime: 2023-06-20T13:41:00Z

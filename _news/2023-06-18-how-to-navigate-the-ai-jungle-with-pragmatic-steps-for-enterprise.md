@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-prag
 webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
+    excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
+        width: 1198
+        height: 685
+        isCached: true
   - title: "Comet teams up with Snowflake to simplify AI development for enterprises"
     excerpt: "As part of the collaboration, Comet has developed an integration for Snowflake’s Snowpark tool. According to the startup, its new integration will simplify AI projects that focus on using data stored in Snowflake to train neural networks."
     publishedDateTime: 2023-06-16T18:29:00Z

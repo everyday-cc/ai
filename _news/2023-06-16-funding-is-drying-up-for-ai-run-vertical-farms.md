@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharv
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Venture Capital’s AI-Run Lettuce Farms Start to Go Bust"
-    excerpt: "The pitch for vertical farming had all the promise of a modern venture capital dream: a new way to grow crops that would use robots and artificial intelligence to conserve water, combat food insecurity and save the environment."
-    publishedDateTime: 2023-06-16T10:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-16/venture-capital-s-ai-run-lettuce-farms-are-starting-to-go-bust"
+  - title: "Developing AI is playing with fire"
+    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
+    publishedDateTime: 2023-06-20T09:23:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.oWmx9lxOeo/v3/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
 
 secured: "tS/7zljbScZl4kaNLvnGFN8GQw1YwUXkj9rxnee/LCC9/FrxPhe9OlsdoVs6PnvepkGDFMREyEfLKw3JzgtTcoX0QlzYWpxarx/p9VkzirZ0HcqoOmMkH8VcYHpWi48MFlULF+NfPlRpdE04txSK0M7fRdyf2gninFdGRYdE5EzAKVL54X/g6jDWlKfla/vyMdXLIRc+fFA2d5Wnp9KoVbQj7+irJlD3acCl9c7LZAeM9VGpTImMt6lWQkmNWL1A31UTe1rKLlnd2IEg9EWGWYPe6QLWBdnqBnnIze5AhpsUC5xJtDITVgxOVlSnqjTTn5COHzepddWjFuRhGuBSX8T/9SA0IIi/9N8WcjnItUFPOLuludHL1jR8BFMnuIR+dKsl3JRB18fQLwKyfqc411CxCS/gd78KtWVYyfNFv+0WME7ve6H5amzJQX8Z5v0VLsbZ6ZM+cbBN2h84YQn/w5OHhgYhbvw6gvqpkcmW/IG+umMSV91rMf6X/0iqAgqIoDlq/xRQsPw50kt3Tu+CzA==;yjUhq+gAfqgm/8Dyr9CSlQ=="
 ---

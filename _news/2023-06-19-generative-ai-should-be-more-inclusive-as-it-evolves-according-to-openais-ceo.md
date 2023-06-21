@@ -33,7 +33,7 @@ related:
   - title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
     excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
     publishedDateTime: 2023-06-19T15:43:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285?mod=latest_headlines"
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
     type: article
     provider:
       name: Wall Street Journal
