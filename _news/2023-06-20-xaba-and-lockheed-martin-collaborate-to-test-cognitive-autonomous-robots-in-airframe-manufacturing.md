@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Xaba and Lockheed Martin Collaborate to Test Cognitive Autonomous Robots in Airframe Manufacturing"
-excerpt: "Xaba's xCognition improved accuracy and consistency of the commercial robot by more than ten times Xaba, developers of the first AI-driven robotics and CNC machine controller, and Lockheed Martin rece"
-publishedDateTime: 2023-06-20T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32917884/xaba-and-lockheed-martin-collaborate-to-test-cognitive-autonomous-robots-in-airframe-manufacturing"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/b32917884/xaba-and-lockheed-martin-collaborate-to-test-cognitive-autonomous-robots-in-airframe-manufacturing"
+excerpt: "Xaba and Lockheed Martin identified a use case focused on a typical robotics work cell used in any aerospace factory to test how Xaba's xCognition \"synthetic brain\" could empower a commercial robot with greater intelligence and understanding of its body and the task it is about to execute while ensuring required quality and tolerances are achieved."
+publishedDateTime: 2023-06-20T11:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-xaba-lockheed-mart-collaborate-test-cognitive-autonomous-robots-/2023/06/20/9835181.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-xaba-lockheed-mart-collaborate-test-cognitive-autonomous-robots-/2023/06/20/9835181.htm"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "OT+Hb9l4kwbm8go5WbhSS4oC/ScNx6RAs6ttsC9YVXhLlQGRwY8j3qitDRtwQF0DyrlC+GHJLF9GdSJbu8oLRGizQS/6xB7IUsYXEZ+OR50El1ljJCcm3aiveI5zQdgeZ87y+d1gvoHHnpK4BWcEtMwKpbHtt+vy9uDPZl5nWGNAIqJXWjrxXXta2puTV0402rPQxVF5IUcjHOJAmSao1VltH/OJ1yq8dSHCJ6Wy6hgrEIodQhroTxBI7O5ONQ6UKHP2QTB557DKHgdo0ncMwWqehbSRNHsemWXXqJ60HEIL5z0c1956Urb2TMNvypu6bV9cEClr0AjLI2zRqKCh3Fph6fAWSo1AC7JSnvbU9JE=;gkQWecUuiEIAkB5/1oFKGQ=="
+secured: "3TYxxtoQEReXgO3SESlqN+WPehmnT7/ffi0gACK+CqfFaUBthMAaY6GV+JqaB67I/sJ8fYA1OlpHe8+9g/7in0r8OsNEjqWEpjI06whAG0L1hpXvfSXa7EuvYTC5qCQpRGKZChUTQgdjbn7ljjesumcg7GCp5915I49v3YaOBwTA8YtRmFdtsSXlj6w39fikxDYQKlC1GkjztqHsx650BaiJCdXKIcMfTAQUO9NHmYWAVLGnn5Tfm84cbYH/qR/F8jbchJbMv7aOpOaMSjmcLZXFS9ZgdOZTXzeu3yXtKEg6LyX/kBbQBF267Om1VYj6WvBsATRTDaMSDyqmKgqJ3PZbZ8Ui/wnCGLADBJHhfvo=;gaLtshVQHGbaNmqEg6RQcw=="
 ---
 

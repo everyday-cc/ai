@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
-excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
-publishedDateTime: 2023-06-16T08:26:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
+title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
+excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
+publishedDateTime: 2023-06-16T10:58:00Z
+originalUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
 type: article
-quality: 64
-heat: 104
+quality: 84
+heat: 134
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,7 +22,27 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
+  - title: "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan"
+    excerpt: "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen"
+    publishedDateTime: 2023-06-21T01:37:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 75
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png"
+        width: 908
+        height: 631
+        isCached: true
   - title: "Baidu gets commercial license for driverless taxis in Chinese city Shenzhen"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-06-16T14:14:00Z
@@ -65,6 +85,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "DnQ5xrdCr4IS1V1v52PiXcsIYFZnSYirbJwqEyVlYDdVmuEkImus1cQsEy+agx7gnoBxW6Uo+tSEEhNyyU0ych2lgWQStrtVc34VGe3m/tRfV3IKtUTuMKeIrHYFJSfVbstEKhFlsNxD/9g5wOeTANA/d55hGbVdNuC05Me5jsBOp93lmC/+HVFoUnc8sbmaIRN8XrZMy0OgqgEwC1RG1sGAZEAPmn65pPG9LXhY3kStiMUiLAFV6H7w4NaqhShaYeNC4ju3Yn8BPsjFitx9/PEgYr+c76363D2IFxwszvqNr38phNPvr3VlFtdMJGpoMh2+HXZN1iUZuFwbNObxv0UeugqzuZq3z2idADdfhlVhBc+PJL5no/NVHzMOXPFZJthjduE55aTk/LnzWF5do73/ewrgFZO3ThsXzuf6rFIuTy35bhishNWFEzLiAZQoTqZ2ZZZPlESRhHOiXJM8O5QNWWSLMGtByl+ZIR+Xwq31juaObA0EZQZcRyq2cksdS3qZUb0FXb0uxbbwgGh1Fw==;yWXpvgjahGcuLr7KlX9CPw=="
+secured: "66d1SqemVMVkwoUHcfADIVz7U1hsWa1ESyko/uDFqR3xzP61Ej8h/tyW9ooC2Ymh9Lm/cLbZg0E2lob6OMVwll4bpxTPHCiSfSV2PquWuMeyIrXFlLMgDahcf2V0In1mUhzsAqw4yK9L13oMZGm/UPsINAE3E5/AhA2Y60NIpuxUW+jytoHGfJDwRl+uVLhfJ3OfUv/rgqJkV2qLx1vbq0cb/70+WBQIjLXCz2rPLKLulmznDbCkrYPr/MZIiIUK9zI0EUNl00hjzgkSXmiVP3PROWttFUfrA4hQeFUugOc/ERGL9fmNx7MHPeuNzs29DeKVIMaHP1KGZpUgneXOIUXNqsCjZRj51ryhHu1M/nE=;txFSGyIMS+X1SfKSDIOUug=="
 ---
 

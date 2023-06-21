@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/even-google-is-warning-its-employees
 webUrl: "https://www.zdnet.com/article/even-google-is-warning-its-employees-about-ai-chatbot-use/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,59 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "How Starbucks could boost profits by putting AI chatbots at its drive-thru windows"
-    excerpt: "However, what hasn’t got as much attention is the opportunity that generative AI applications can bring to other sectors in the form of increased productivity and efficiency — and ultimately, margin improvements."
-    publishedDateTime: 2023-06-16T07:59:00Z
-    webUrl: "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html"
+  - title: "Chatbots invade retail: The US$72 billion AI revolution led by ChatGPT"
+    excerpt: "Juniper Research forecasts AI chatbots driven retail spend to hit US$12 billion in 2023, escalating to US$72 billion by 2028."
+    publishedDateTime: 2023-06-20T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/06/chatbots-invade-retail-the-us72-billion-ai-revolution-led-by-chatgpt/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080"
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/Chatbots-2-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "This expert-led complete ChatGPT Artificial Intelligence training bundle is now on sale for $30"
+    excerpt: "Take on the rising world of AI with The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle, which can help you learn how best to use AI in the workplace, content crea"
+    publishedDateTime: 2023-06-16T13:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-content/chatgpt-ai-training-bundle-deal/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 20
+  - title: "What does a chatbot know about eating disorders? Users of a help line are about to find out"
+    excerpt: "For more than 20 years, the National Eating Disorders Association has operated a phone line and online platform for people seeking help for anorexia, bulimia, and other eating disorders. Last year, nearly 70,"
+    publishedDateTime: 2023-06-16T16:02:00Z
+    webUrl: "https://techxplore.com/news/2023-06-chatbot-disorders-users-line.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 14
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatbot.jpg"
         width: 1920
-        height: 1080
+        height: 1372
         isCached: true
-  - title: "AI and the art of questioning: How investors can use chatbots"
-    excerpt: "The advancement of AI technology has led to the development of more complex machine learning models like rule-based systems, expert systems, and machine learning. The use of AI applications exploded,"
-    publishedDateTime: 2023-06-16T14:18:00Z
-    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/articleshow/101049878.cms"
-    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/ai-and-the-art-of-questioning-how-investors-can-use-chatbots/amp_articleshow/101049878.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://img.etimg.com/photo/msid-99054901,quality-100.cms"
-        width: 681
-        height: 1401
-        isCached: true
-  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
-    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
-    publishedDateTime: 2023-06-19T03:26:00Z
-    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
-    excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."
-    publishedDateTime: 2023-06-16T14:50:00Z
-    webUrl: "https://www.thestreet.com/technology/google-warns-its-own-workers-to-avoid-using-ai-chatbots"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
 
 secured: "yN7VqJHHJ+zeIHJJL8VoxO09dOGbPp8HvVHkVPisXS3FEnlnee81pDObzfRII4Ofp79uJSWpNOfjHIRc6UACcEmVKEav8kTn7PRtyZRVA5HOyAq1jhDYpwtVUISIUqM8OIRCEyFcGQdmuJneFPf6izeO2zXlq8+NNos4Qu/KLVGGdPk2BGK1s8nyn+6LZx/NcIKmZsu61IGYDJPFjGaGauJBHjWQ2/KgaXvCPHQ6ttHwkvoJT9LwH/hybvHSGxOdKZLB5PK1E0vs91vglBSkr7UhmJ9fkLN2jo1hMR1e+YkHiJ5ppo6NH+MFHNk/giwuJ21H3KAa1rO/qBdDv9X/Kc4uDrCVMZMWMlR26qUJoJsbPL2kyHPNdHp+pvUF7ro5rm40DE0n5UFpsQNfgyZnIEq7iri9OUHyJIn7wuyCgxDmh3G1QJePtfGY4KWI88u5nhuLIhUZjAd0Dr9gXr0HGMoqhr5MYbFi4P3/VhSIn5SVI5SQG+mlGGmyIy1QjAE/DtWqkwordjN6KiAOtG+mXw==;nd6aCV4msPOtDuBHAw9hNg=="
 ---

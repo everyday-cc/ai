@@ -59,15 +59,17 @@ related:
         height: 630
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T13:19:00Z
-    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
+    publishedDateTime: 2023-06-20T09:18:00Z
+    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
+    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 5
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
 
-secured: "qrX/QU4sqwI5Yr/iARpWsCha+GvpNK9XBrnps5iM27qs872DnhVIef5VsHWfl7+L4kfT+GWu2Am8GhnWzZAzJccwD3sRhHumD7WQ3amSe3Xa7zIG4wWbUwjRwzQQID4Pmfzc/f+gFpprayWSN2t4QD0Z2apyUUbnXiR8ciJFO4zHaCwKC07d0tri0W7R7iScGV90kEBXxsW+wDU/khIIKZqjQdXvYsGvLviYHOu7YZCcb8adwTngfX73G4khl3LkNntW/Ds/53Xe8Bw+wgqC/NHdq/C1GFp8KSpYnUYGa429zDRaRtABm/c1N/V+pUHGsLx5Spxb44wtpnlxiVq0ut8VTY51SGf7nlcvyW3hji0=;medUo8ju2+bH2bGlVBsCYw=="
+secured: "aiCjDCtlYLDHympHAblryBrwAINwWizKROr6bCtDigZZx5Y7G97lVtioSL+JILTBHBAOiDsu2DSWx1R4mGBnvlGhD6g24jkP6nThBln/mnl4XsiJgFFuhq5fiGMO8CPwq+BnYJ3aSsNYmYLSFbFQSlqdWw2fjnIYMvFZ4gjYKFZclsUwLR03lzzGTdxPakyOWzUqF8tfNd9HIfKOSSh6JTF65IR3gXVvAI6x5v/BR/m3t+oDq0Xs2Xxayq2zpYNQOXeXiXrvjgcHeQewaVzpxSkECcMfQ+G5EkDvOMexgfgl+RfVsIYsuxDk3BviG9gZnBXSPYsmVhswOtWPXbu74OE/yDtidjCWnekT67Or7pEJgK8jYpop2Ek4Gz/MS8rUnG5yZaPih8aHQ2hsKNIo8A4dqffXhFudbIGR51CUusL32MThb7irhDFpt9YWsFmCukHu8bMu8bAI5WKcy2nEmc0YqBnAq7fhA7b7+2hgFvkx/qkA6b3Jj3PujyFIFnxQOIFiT3ZMbSshRHToViihKw==;RDOVyo7wQIJU3afVQHX79w=="
 ---
 

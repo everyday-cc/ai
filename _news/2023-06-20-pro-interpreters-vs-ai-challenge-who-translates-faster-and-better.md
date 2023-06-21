@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-trans
 webUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
 type: article
 quality: 84
-heat: 95
+heat: 96
 published: true
 
 provider:

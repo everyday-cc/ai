@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Forget about the AI apocalypse. The real dangers are already here"
-    excerpt: "Two weeks after members of Congress questioned OpenAI CEO Sam Altman about the potential for artificial intelligence tools to spread misinformation, disrupt elections and displace jobs, he and others in the industry went public with a much more frightening possibility: an AI apocalypse."
-    publishedDateTime: 2023-06-16T08:19:00Z
-    webUrl: "https://www.cnn.com/2023/06/16/tech/ai-apocalypse-warnings/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/16/tech/ai-apocalypse-warnings/index.html"
+  - title: "The Ghost In The Machine Shouldn’t Be AI"
+    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
+    publishedDateTime: 2023-06-19T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230322173826-person-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "0yyUVNe67kF27wIoMO8dLyacEJ6KVxKSkT0YSP3uW6Gq0S5YROWsHM4hMdTRGwKUoYIvJOWeToSNWrG1Uuih9ASH07iU/1U4vp0xakqccK/5hfTMF+/DKj9tXcSRk/Crhhxv+EiPlxFUgP3q/Gibr6onG/q9+zJjxVv//TkG5SA1rljGL6YED8iXB2Xbq/h6gtO004pf4JskCzlNur++AN2aA+ECX0z92Yh48kE/FjF9xLru77ra2BKf9izxtt7Hxguwq9UMdY6FfX1kBJ+07/QQu4lkQ2JWyvmWAftQDttDfhUuy/9OJheLAq/L04k9wFdcZHF++mylI8yY4iWH5jVlhjCneooLWrUVMkR9QhU=;WMygp71fE1jXP1OlGvch4w=="

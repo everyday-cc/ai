@@ -27,42 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Starbucks could boost profits by putting AI chatbots at its drive-thru windows"
-    excerpt: "However, what hasn’t got as much attention is the opportunity that generative AI applications can bring to other sectors in the form of increased productivity and efficiency — and ultimately, margin improvements."
-    publishedDateTime: 2023-06-16T07:59:00Z
-    webUrl: "https://www.cnbc.com/2023/06/16/starbucks-could-boost-profits-by-putting-ai-chatbots-at-its-drive-thru-windows.html"
+  - title: "Generative AI Meets The Enterprise: How Businesses Can Capitalize On Generative AI Beyond The Novelty Of Rapid-Fire Chatbots"
+    excerpt: "Generative AI offers boundless potential for businesses to optimize workflows, offer a superior customer experience and maneuver a range of business challenges."
+    publishedDateTime: 2023-06-20T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/generative-ai-meets-the-enterprise-how-businesses-can-capitalize-on-generative-ai-beyond-the-novelty-of-rapid-fire-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/generative-ai-meets-the-enterprise-how-businesses-can-capitalize-on-generative-ai-beyond-the-novelty-of-rapid-fire-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/generative-ai-meets-the-enterprise-how-businesses-can-capitalize-on-generative-ai-beyond-the-novelty-of-rapid-fire-chatbots/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 60
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/103408730-IMG_9049rr.jpg?v=1686909601&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Even Google is warning its employees about AI chatbot use"
-    excerpt: "Anything you say to an AI chatbot like ChatGPT, Google Bard, and Bing Chat can be used to train it, as these bots are based on large language models (LLMs) that are in constant training. The companies behind these AI chatbots also store the data, which could be visible to their employees."
-    publishedDateTime: 2023-06-16T18:57:00Z
-    webUrl: "https://www.zdnet.com/article/even-google-is-warning-its-employees-about-ai-chatbot-use/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
-    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
-    publishedDateTime: 2023-06-19T03:26:00Z
-    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64468659bd2d2de1e8a821c1/0x0.jpg?format=jpg&crop=877,494,x0,y90,safe&width=1200"
+        width: 877
+        height: 494
         isCached: true
   - title: "Google Warns Its Own Workers to Avoid Using AI Chatbots"
     excerpt: "Alphabet, Google's parent company, is reportedly cautioning employees about how they use chatbots, including its own Bard."

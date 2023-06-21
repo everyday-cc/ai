@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
-    excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
-    publishedDateTime: 2023-06-16T08:26:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
+  - title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
+    excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
+    publishedDateTime: 2023-06-16T10:58:00Z
+    webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan"
+    excerpt: "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen"
+    publishedDateTime: 2023-06-21T01:37:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 75
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png"
+        width: 908
+        height: 631
+        isCached: true
   - title: "Baidu gets licence to operate driverless taxis in Shenzhen"
     excerpt: "Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen, making it the fourth city in which the company's driverless cars operate in."
     publishedDateTime: 2023-06-16T12:35:00Z

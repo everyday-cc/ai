@@ -53,6 +53,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden meets with AI experts in effort to manage its risks"
+    excerpt: "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation."
+    publishedDateTime: 2023-06-21T00:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden visits Marin after AI forum in San Francisco"
+    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
+    publishedDateTime: 2023-06-21T01:18:00Z
+    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
+    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
     excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
     publishedDateTime: 2023-06-20T22:35:00Z

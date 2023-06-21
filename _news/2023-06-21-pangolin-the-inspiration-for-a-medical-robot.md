@@ -1,0 +1,45 @@
+---
+category: news
+title: "Pangolin, the inspiration for a medical robot"
+excerpt: "While pangolins have many other unique features, researchers from the Physical Intelligence Department at the ... are showing how they can flexibly steer the robot through animal tissue and artificial organs."
+publishedDateTime: 2023-06-20T23:23:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Scientists develop magnetically controlled soft medical robot inspired by the pangolin"
+    excerpt: "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails."
+    publishedDateTime: 2023-06-20T15:00:00Z
+    webUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+
+secured: "IjlZVW8vL+NsEMP6q7TzG+AwMG8VYqez1jhOAnJTkrAkLGzBegZwk2mEhziUDkYYc8R8F4og2gp05S3bb8v5NPWR+6i+uTT9+/F40vbwORNVHlUXm4tnHu5kRK33E/EDxle/NfSa8mDkt8sJ8Z166Tnm1tMo5BKdAyR8gvOkU4HeQjUN9N+4u6PRVeIqksmecpkLAhpde7FCwPjxQvigMnOsGSo9yxI0uQLr+BWj95Sxs9NXjfXH3Bdt7VlQuRCx1Zxe/j5pfEv+SGkyaybGK/l7d+dErgjJUlQ2U8MIAmuaOvBNc01SQtSujFxmQ/o+NXAY6zPJUL2MJwpzsM+ZM3McaAo7XxNdzSf7weTjPLA=;0jDILP3wYndE5ttBtvElxw=="
+---
+

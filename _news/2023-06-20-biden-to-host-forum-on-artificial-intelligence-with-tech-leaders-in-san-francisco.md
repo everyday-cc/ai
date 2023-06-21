@@ -59,14 +59,16 @@ related:
         height: 558
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T13:19:00Z
-    webUrl: "https://www.chron.com/business/article/biden-will-host-a-forum-about-artificial-18160448.php"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
+    publishedDateTime: 2023-06-20T09:18:00Z
+    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
+    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 5
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
 
 secured: "MKWHOzP4pR0TSSNiHlUVkmxrg2weTvv5JwRGtDTBQGhOx10HV3Ox3JOpwHYj+poAfMNKCWGCpx4JiJjUoGZ2g0LtG6+HRPGn0fseWBgD8JkhQJAPcu0L2cbsaM/VUqpYHwgDrNL1QtG0ueZy47unQEHiP2Vd8hk5MKvetZNVwveWEqmArp3gO8SS3aT4NpRAAhVtVSm+XcHCFzc6UR8puEMX73eiPke+4eLPWOQBhfTOdTU+/1EEiKHjYymOuZE2U/mQUFGglS4MydhGO/jpWAvEpib92hSTS9yGV2L7PaqYb9JxlOtBEYd3zD+Ent54UP7zmYFdSOG8FlTN8pkLMG6Bte7Wtkj9lFH1RGqR4R4=;RlDa1IB7yp4jbwn/7a29Kw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-med
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 2400
     height: 1350
     isCached: true
+
+related:
+  - title: "Pangolin, the inspiration for a medical robot"
+    excerpt: "While pangolins have many other unique features, researchers from the Physical Intelligence Department at the ... are showing how they can flexibly steer the robot through animal tissue and artificial organs."
+    publishedDateTime: 2023-06-20T23:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "sQJzrVdghDNHbogHsx12v5Kq+K5ngJUSMm+WijkkDh+4MatHH3X+ULHksj/iCiYzD4gKuzU2ScGKXsDkURxsJZsIKEqeqW76KZ+JZdHwFAcf/dp87wQdJg4DE0EkMCn2DJAJo8/zggV+Xici03MTvAtuOW7XXUl9t1YGZKVknPU8KWmf5ddguRA8LEQmjUecak8eelbOd5p/p4KO8lb3sFNZ59DJvW6cJTqCYoFj/FDMtXuiveFjFeJninpKlMU7Y97bsnBbSz2MAUtY4raKzS+7tnPmNTMK0JZxSDMgm19NL5IB5AQmocPHzk3J7cW5iD7Hg+MtG3u82UB6PaKBL/PGMGqXr/J4E0nxeH3/PbkrkVMYmxFF88hfvOG/5we2csY0R7I/5XO8yJI8Vnyjdb0x+5tLBgCABlxtv1RDX7Oa+DLBC77MuCcr4udOTAp0jqqD+aMAfy/nYGJVfxqw0g7VOmRKEgy14hrAacnCXZrmtd3BVbY6o5LYwbhwwWWYGvgB7U5av1z/XTruR3Fz8A==;kpiPK8nhtZiPO2cHf3vQ2Q=="
 ---

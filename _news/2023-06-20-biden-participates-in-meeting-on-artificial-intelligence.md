@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183451205824"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -41,6 +41,38 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden meets with AI experts in effort to manage its risks"
+    excerpt: "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation."
+    publishedDateTime: 2023-06-21T00:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden visits Marin after AI forum in San Francisco"
+    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
+    publishedDateTime: 2023-06-21T01:18:00Z
+    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
+    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
     excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
@@ -93,6 +125,6 @@ related:
       domain: c-span.org
     quality: 14
 
-secured: "fSQEIfOFSL7CzKIAlmlvULQdYAQNkxh7G4Tiawe/ZKApE11ofFbPbgwhSUkbYr+gAs3Zd74X41elXrncRcwAq4DMzkLCIMVTuz/8mW4S8D5fZypl77G4qjwAObuSaCbY4r3ralDOXfWPpt4I8YD3pUpRaM88rTeEvljjrClSfsppzXz63+bhHwA57oOgsTIN+ts+mfylsmEwLdHgNE83voL4lSquMgmikVrzJIrat60SdGpWC3SLd9hwPsZM1XbtG+8M3nk7bFgLd4ZrkDMThewN7KCnsXuENcj2ntfVWGRJuBQa3rasCJlfIfBqKOIhrlNMHTOhjo4vqYslO0SNYaiwBAXVEWRR5yY8DO1FoVA=;F4gtNIjQ4tLzhGK2qYSWig=="
+secured: "by6fKUKEYL1VWp6siwwqmmt94CJzvcy7Lj7mMrmdj1nwoh5azCmvAMj1mdXIYAChij2+nAk1FM2xI3pfSIs2MJahu1l/Z+/+QjJpMG509qSViberWtxbq0Cm6HFRaFoBRAAp2BpbvMkkIswvNw2DvNU0WUEZRIfOZ8bF8yV59HCOmPkc4A70Sk9D54cjyoYH6aYA64YknGPCCSZ/RXa4R4BgB/ykmSx08gOMOXHdIyL3XDU4Ek5U8f6IVpN9JBIoz/mzjGxvuSz56HMXVInnCvvmCN+/HRKcxCSqDTL/o7sPCBuWlpXTu3vjTbnfeXBqKLm3kpWWQ/wBsh6M5KA0ynqV3lvtlBDy1lAMWPSgYMmMBRcO3z7Bh/bA1sTvj3bw1mXWE8NTzLn4etf+5r/Saeh/HoHS3DpCmV3GJDSk6FQivIbmRM8AEAWkmwGi8oU4zkGHA5B0wSpzL2oijERjBWxiImBBJzH7vI7L8HZ/B86L5kIagpCkRUySel5xRTHhD2I7ONiJGF0u0iDUeQQTeg==;1ZCDUTlsgWlARtVZXs/QEg=="
 ---
 

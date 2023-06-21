@@ -58,6 +58,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden meets with AI experts in effort to manage its risks"
+    excerpt: "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation."
+    publishedDateTime: 2023-06-21T00:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90136"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden visits Marin after AI forum in San Francisco"
+    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
+    publishedDateTime: 2023-06-21T01:18:00Z
+    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
+    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Biden talks AI with tech leaders in San Francisco"
     excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
     publishedDateTime: 2023-06-20T20:54:00Z
@@ -93,6 +125,6 @@ related:
       domain: c-span.org
     quality: 14
 
-secured: "gquObmQDu3XIX413LPufjyrrBH2TJH1WTgUUuOf5pr1PrxFKVmSb28Vrnwv4H3YsbF2VLcsI07kmLJGlK/8bOkH/0gjkkSIS5pOZD7kzR49R+qPEglNMUmrQGFeFIGiE4D/m+9vnljny5xdf+eJExPkuWBb5uj2KH5k+k8sLw+XB1NQWNQZuXXD1bJX7Z5qXimYxe5Xo/VvLTr6Cz+D+0u0Jhx2l+L8x7o4SDLTDAhk+p47pt4vrlXZvoZlOJktPzrZGdhu3MmsQTRpfB3TyajbRRD/OWXKVu0AOVenQbuGzqwhyTiJi0T77tZ5UvQP6ApyCtKZ+avonRRgrvg6LsFsOJpKnrOAwDTXW6WKjfhc=;IAnQdhQU2tCS2OV38QV9Ow=="
+secured: "H3+Z48WYNrXPuKy7zxdnC0w+49i1514f2UI35fQzco5gX4Ky196BH7Qu5zPSiVuAlKC6VhrAZ3bR+HPnFDbDlIzcbYNJSZNIaRop0fPzgZIW1mCphJTu3yBwGrNq6QKo0i0Cw5VaB9NcvYotxITYxeLZbHaNwJ0BTpSpsksGC0UST7bdrDLuRaGJSZAiLMjRySVODQT3NHNNr57zWQVNyNqW4WYhIIDoUap3XGPzvDNaca6UiHph8Ky+tchIczyaluJMg1G7L4PVFnBGxB/2HVSu9rzOyEHbAbCjjiAXLrhZUjhHuyMdLkGgaCavdSAmmezbTidTXjrEhXx9FKlAKSLutEb30irLSQHl+oYWbDjIZwCR6UkcPZFa4tVxRn+Qkv39iT5cNQDjfy256+IGCc9VBEtRnFb8rlDN6S/UlMgJn4fMa6lC5kg+4lhKfjHZ4W4RtqBWMk0IZS1/dsFRGJLz4eGWz2lvqeAkCBfXjwvrCj2rnZkICciOm18wIbXDCnOlHawExalbN3aIOrJGuA==;OjF+MtAJS27qiqDK0HqX9w=="
 ---
 
