@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-anno
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: The New Indian Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning"
+    excerpt: "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22."
+    publishedDateTime: 2023-06-21T06:30:00Z
+    webUrl: "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/"
+    ampWebUrl: "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 78
+    images:
+      - url: "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Jamia Millia Islamia Introduces 3-Week Training Programme on AI and Machine Learning"
     excerpt: "Jamia Millia Islamia has introduced short-term training programme on artificial intelligence (AI) and machine learning (ML). Registration for the three weeks programmes are ongoing. Check details here"
     publishedDateTime: 2023-06-20T14:20:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning"
+    excerpt: "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22."
+    publishedDateTime: 2023-06-21T06:30:00Z
+    webUrl: "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/"
+    ampWebUrl: "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 78
+    images:
+      - url: "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Jamia announces 3-week training sessions on AI, machine learning"
     excerpt: "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course."
     publishedDateTime: 2023-06-21T03:42:00Z

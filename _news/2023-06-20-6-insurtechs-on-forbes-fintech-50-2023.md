@@ -103,27 +103,18 @@ related:
         isCached: true
   - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
     excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-    publishedDateTime: 2023-06-20T07:40:00Z
-    webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
+    publishedDateTime: 2023-06-20T08:48:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_e3aea506-fea5-5a93-9526-dc0b238b6628.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8f/c8f65c4d-fb94-5105-9eb2-8595dbaeed28/64915a5d1c55f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/8214429d-a067-570a-b32d-b2b28469f9dd/649168f329c99.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
-    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
-    publishedDateTime: 2023-06-16T14:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "ARBWf5wxE3KGDl5/hxFF54FAisDZ3RzTPp1ktPC6wvyPCx1jw7S4GVsAyj8QzCkaj/4WK8sV2IzDE/i+zN7vEgNdwAxV7xMp7LgNHHl2qASpm0NR857T4UvpVWp6BtDL0id2nB07XhX5Sip51oLsDtjnN0QR6Jztl7CVN8XyX6EHIfM0ypB3Uarw9/lfzYTlxyOC+7Dx+f7+YX/JpSUBXKjOFojx83tBSXpwQLI01DykW7ii8SZCpMUZgWkqG4bfgY8T2iVXMiYqz1JqDUyB46BAnVB6jFO69csyS2BwVLX89DxVmNJyNyTUHFAx11s2T8hJN/+g4A9y9h8I7QFFkz7Y+1l8R+fniyL1VwFWnJ+tL69VLgOBNYeOy7sPS5ycYFK8nKVrCuZxZRHK7RqcVNwnQX5rcbgqWu7lTflGvmKTu637y61Glaz2naQ9hS600lJxBaqUdIC+IKcUGNVRh9LNYeKypCL6LiTVvwC61VScN2W0y/YNDBsglqJ3ytyqXdcTkkNDmrSAD+ky68GQ5Q==;hEQ+OuJ6uub1HTEBQk4grw=="
 ---

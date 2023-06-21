@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Researchers discuss how AI could change the nature of social science research"
-    excerpt: "In an article published June 15 in Science, leading researchers from the University of Waterloo, University of Toronto, Yale University and the University of Pennsylvania look at how AI (large language models or LLMs in particular) could change the nature of their work."
-    publishedDateTime: 2023-06-16T14:59:00Z
-    webUrl: "https://phys.org/news/2023-06-discuss-ai-nature-social-science.html"
-    ampWebUrl: "https://phys.org/news/2023-06-discuss-ai-nature-social-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-discuss-ai-nature-social-science.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot-2.jpg"
-        width: 1920
-        height: 1049
-        isCached: true
   - title: "Meta’s AI Vision is Crumbling, One-Third of AI Researchers left Last Year"
     excerpt: "Meta, the tech giant formerly known as Facebook, is facing significant challenges in the ... Meta has lost a substantial portion of its AI research team, which has had a direct impact on its ability to compete with industry leaders. Factors such as job ..."
     publishedDateTime: 2023-06-19T03:48:00Z

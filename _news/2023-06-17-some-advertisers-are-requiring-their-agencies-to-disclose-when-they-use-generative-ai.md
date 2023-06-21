@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Adobe Proves Its Determination To Lead The New Era Of Generative AI"
-    excerpt: "When it comes to Azure, Microsoft is facing the same dilemma because Amazon.com Inc AMZN has a much bigger representative on this front, Amazon Web Services. Amazon also launched its own platform that allows building and scaling generative AI services ..."
-    publishedDateTime: 2023-06-16T14:52:00Z
-    webUrl: "https://www.benzinga.com/23/06/32894175/adobe-proves-its-determination-to-lead-the-new-era-of-generative-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32894175"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32894175"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/9067755.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -100,15 +84,6 @@ related:
         width: 650
         height: 401
         isCached: true
-  - title: "Roleverse empowers users to make their own games with generative AI"
-    excerpt: "Roleverse is bringing the power of creation to all users by enabling them to create their own games using generative AI."
-    publishedDateTime: 2023-06-16T13:30:00Z
-    webUrl: "https://venturebeat.com/games/roleverse-empowers-users-to-make-their-own-games-with-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "How Google is using generative AI for virtual try-ons"
     excerpt: "Google today announced it is using a diffusion-based AI model to enable a new virtual try-on shopping feature in Search."
     publishedDateTime: 2023-06-16T19:07:00Z

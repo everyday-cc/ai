@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -40,6 +40,20 @@ related:
       - url: "https://images.theconversation.com/files/532806/original/file-20230620-15-4n4270.jpg?ixlib=rb-1.1.0&rect=38%2C214%2C6402%2C3201&q=45&auto=format&w=1356&h=668&fit=crop"
         width: 1356
         height: 668
+        isCached: true
+  - title: "AI is already being used in healthcare. But not all of it is 'medical grade'"
+    excerpt: "Artificial intelligence (AI) seems to be everywhere these days, and healthcare is no exception. There are computer vision tools that can detect suspicious skin lesions as well as a specialist dermatologist can."
+    publishedDateTime: 2023-06-21T07:24:00Z
+    webUrl: "https://www.econotimes.com/AI-is-already-being-used-in-healthcare-But-not-all-of-it-is-medical-grade-1658101"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 51
+    images:
+      - url: "https://f1.econotimes.com/2023/06/vivki3ooex_th_1024x0.jpg"
+        width: 496
+        height: 278
         isCached: true
 
 secured: "SgcCDwFoBMtkDiRKuKLdvpuOL1O7Lr42tp9jXec/lRfn6FVY3qcHmGid1y1oGSEi/+LVr1KgfeLbn9Me/nkPPeBA9eYoojXHJa7TMGoTLY19irtpjN5F8lakIx2Cq3Djq+rshbzXKQ5Zlu3aKOVR57/Y5gFKixdIHGfIOVkJ8ywry0EJ6TodE11SGoDT/tacU2LfLTQNPgEb9KmXghRoWIEOD7pAmcI8pQWNfM3XJggvuJXf4PpeSFvIhhlMZGn7snEwgsNQptNUjqgSEvdnQdstaMN4sNdMuR9uwbeVSOWOoI31r4NQozQmcT3rjqyg5k7SS6U/hMQOoMLyQNUgyYfnIx+Ya4+ub3xbHfwsAxb7KfV7W+URblCuDbU46xfU/SGTu3vLPk6T3cmOXgX3rUUOtu1EpoLxfjjxTrDL777ZuzTdqW6jZw59ORzngj3OuXAIcZZuAotYmYwwcfgRNzCyJTYb+EQjsg61EOHAjhGGOyfAPSyr2ilJFtJS6f50Uv7AeD0WvVkXZGReD+q4HA==;oZLPsXtQO6OeuF7FDaIL+A=="

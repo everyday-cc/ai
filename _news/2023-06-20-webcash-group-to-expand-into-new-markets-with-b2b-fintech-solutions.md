@@ -2,24 +2,24 @@
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
 excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-publishedDateTime: 2023-06-20T07:40:00Z
-originalUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
-webUrl: "https://www.eagletribune.com/region/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_f1795ab0-099e-52e5-a9d7-b8c8a183343f.html"
+publishedDateTime: 2023-06-20T08:48:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_e3aea506-fea5-5a93-9526-dc0b238b6628.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_e3aea506-fea5-5a93-9526-dc0b238b6628.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/c/8f/c8f65c4d-fb94-5105-9eb2-8595dbaeed28/64915a5d1c55f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/21/8214429d-a067-570a-b32d-b2b28469f9dd/649168f329c99.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -115,16 +115,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech in an Era of Rising Interest Rates and Economic Headwinds"
-    excerpt: "Economic Headwinds and Pathways to Success Strong economic headwinds are curtailing the previously unfettered enthusiasm for fintech funding ... and web data using artificial intelligence (AI), machine learning (ML), and advanced analytics."
-    publishedDateTime: 2023-06-16T14:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/24397/fintech-in-an-era-of-rising-interest-rates-and-economic-headwinds"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
-secured: "zCMzB2Ysx66+JpINRtDeomcCoMWNLG1QhIoiysUIDj1pR/MRxmmRQfPdWVy1B7OI2hm3hCESIduF6GqwdRyAStnTsYyHG1k5+F91tC2kFbudfYV35FdsDUW/IUZAuSSUIlsCBJGcjFcsl6yxySn7fLUxlz7aCyJyfn3oInlWJ2AQSxRpNiTDbhxgEtT6OPwzbqyImCm9aRGPAvKd2uLcJVUYGnQ8DvsZz46BBrXNSvbavSsBDUeJtBTPIiQEGYzc6fIUKud3SojfCqif/UcNyEgZPP56HzN5Q5SPE6v+6pjJ70XoFT0RUGkyGCSswjIUdtn8H3O3uVFDD7VxJhARld5fLehAvboX0959KSP5vHdf+zZZeMEJ5IgbzIJPEReFTpIdAQrlZQ4Oy8S7mgnHk5M0XYT8f9C33A1uBnIwVoA+IuT3UW0q7/zqOTtPGbobvt3PNUmhE0CTt7s898bG0M2XYelNIJMEJy4Z6KeuuKWT34c58rOR09uLyaASAvzNtVSFf92b1uWF19Opy3qb0Q==;agHHfi0iz3Un8PBUrYgzgA=="
+secured: "DLrDHMGaj7YByq5AJQKG3LDy/ZITh3vi/HY0io0BeoOtLzUV0d/OfM0KqynemmU0tQlil4K5j1r53pjLmqU5V2R67GAIKsVg3ayrmSDnT8UZ+o1LMqnXxAHrmfD0rwjd7XbysrMoTnJBv1QeSymUQ6S7FZhM+qAi35/kj9utvl0hdkYBDVyXHUX5pdcYjXgdS0WBNU5fdCby6twIKxOAy2ZuMqotAzE+3JZOGPukWfPs58r9e7VvoqHojMzd6o4UDSIjoeITChd2vBY1c+ew1ZuxloS5aaRZTJa26s2T8FoGaoXUcS3TEfPUnCsryKoSfe4mOwwvZNpUYsuhzWThRbKUori4X7y0rnClXwI5vBU=;suXSS27gE0rTPHN4kX7HDw=="
 ---
 

@@ -33,6 +33,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Search warrant, facial recognition leads to discovery of alleged Bosnian War criminal hiding in East Ridge"
+    excerpt: "Through a search warrant and facial recognition, immigration officers were able to discover an alleged Bosnian War criminal hiding in a home in East Ridge, fede"
+    publishedDateTime: 2023-06-20T19:11:00Z
+    webUrl: "https://newschannel9.com/news/local/facial-recognition-identifies-alleged-bosnian-war-criminal-hiding-in-east-ridge-search-warrant-reveals"
+    type: article
+    provider:
+      name: WTVC
+      domain: newschannel9.com
+    quality: 21
+    images:
+      - url: "https://newschannel9.com/resources/media/d0521f9c-043a-4cfa-969c-e280c07129e2-large16x9_Bosnianwarcriminalhouse2.PNG?1687290930193"
+        width: 986
+        height: 554
+        isCached: true
 
 secured: "/FMxDgiI4dvIzEKmzqXp3t6JaUKk9b0rxJbYAqhJgT6y9E+zlwWfHOUUlSqVrIC44anODKHf/dWUWR7ybFZctWNs+5V4VfbtPtfaFBtEQEot9gcdCnQKoLdgIljJymOwiC8smZDtDrYhOiD6MFlKRJTle/kBJ1rkkzmfwgy+pcvwKYOIKrfU15fAxbJtf/FWYoKevhcHIN+1wFNoBJOFwzIarCUDbhU9htNvg5pcLunqG7EMPTuJ5pzYRKs3iTFVFDzX1P0O29qIgMNGfekCxLlYeu/vIAT2lxQc2N71XdYKygwFurJhogG8So0CDAauBrnKD9cFLiX5seHhqNeTUwBdxovMEr053IcdnKravY/O9C2/irzPOVZMJmwd/c77CJXo3F4p0AHmJ/ygkgNv1AqXQBAVBS5o/7ERrdbv8Lnfb82hCdSgSASspczRBIYIttfMixOcB8vnRyuqn68ecbYuecvCNfLCPlHcLA0MnOCVmtRDnpGxLvc2GnIhKb0ZtAPn9mlJIXa/XCuImsldWg==;MGqCChBHPK98/Aj6FRLweQ=="
 ---

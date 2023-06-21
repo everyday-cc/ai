@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offer
 webUrl: "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 46
-  - title: "Southern Baptist Convention makes official statement on dangers of AI"
-    excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
-    publishedDateTime: 2023-06-16T13:34:00Z
-    webUrl: "https://www.christianpost.com/voices/so-baptist-convention-makes-official-statement-on-dangers-of-ai.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 19
 
 secured: "25KUGxqagWBO7RiY5IcKJP+6LXj7VC42J15z/RUnZo+jlC+DEN85FgbVnLP/+7m2fpbV29R1RUGfxJRRI+pWkVqiXc6EJYEEfxHXiHSgIaLSXNzKH4iCCSmSi8SaDfApr/t5qLPjwaHd6NsSBhmyRmvdgSsHou/nZZCynu1JAsXp8txZhUeX0F9eSR7SsmANJOLDDlsOt+MefGWArPDuTm/nQTgyXKvu8RbBVkWYzcDLGyV5+vqbenNoZodFf0FZjUjgBCl21Nuy2N/rnDA0U8wHKH5u5zMS5TTzbMd3wyIV+mhBr6yYx0LrTTYxMSDZbp6UCug4PWR+IdoFNetgdVoqrK5k8gaWpylATEu1CmhU6fxZSuRB8dUWYyalZCXe6E31y+wiCRAYuB4m16nxW+hg6QqFTbqHhHdB5BkWXODHjZ3LZVIqt2y3BsuxEdehFJ+epWoqqQz70ewokzJUiqIczWsY21Kw+BcSoK/9AArRzmvJJDOTlMtRRuROiBY8trD4KmOMMvura1aE4L3HcQ==;LaWvwVJQ1W/2ysFeL0u+7w=="
 ---

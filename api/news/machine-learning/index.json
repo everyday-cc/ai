@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-21-jamia-announces-3-week-training-sessions-on-ai-machine-learning.md",
-      "title": "Jamia announces 3-week training sessions on AI, machine learning",
-      "excerpt": "All students from UG, PG, and PhD scholars and faculty with mathematical backgrounds are eligible for the course.",
+      "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
+      "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
+      "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
       "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.html",
+      "webUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
+      "originalUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/21/w600X390/Jamia1.jpg",
-          "width": 600,
-          "height": 390,
+          "url": "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg",
+          "width": 1200,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/jun/21/jamia-announces-3-week-training-sessions-on-ai-machine-learning-2587109.amp",
-      "publishedDateTime": "2023-06-20T20:42:00-07:00",
+      "ampWebUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
+      "publishedDateTime": "2023-06-20T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.hindustantimes.com/cities/pune-news/college-will-start-new-courses-in-ai-and-ml-101687283571442.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {

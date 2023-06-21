@@ -41,6 +41,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "AI is already being used in healthcare. But not all of it is 'medical grade'"
+    excerpt: "Artificial intelligence (AI) seems to be everywhere these days, and healthcare is no exception. There are computer vision tools that can detect suspicious skin lesions as well as a specialist dermatologist can."
+    publishedDateTime: 2023-06-21T07:24:00Z
+    webUrl: "https://www.econotimes.com/AI-is-already-being-used-in-healthcare-But-not-all-of-it-is-medical-grade-1658101"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 51
+    images:
+      - url: "https://f1.econotimes.com/2023/06/vivki3ooex_th_1024x0.jpg"
+        width: 496
+        height: 278
+        isCached: true
 
 secured: "YLMI/pc20XP6ABF5o7oo9yGe9t4QhAvKFtZe44Kqj/+m+lCpl7oyRejSKCUFj5gj+qvH3Yiepy8LkZ2V/tUbbJtVIv5HgBPaiwGUKbkEi8lIGpXA+2H+tXbuz+TPMSk8LuEgiKSFZ64IPYaMwXaYiNvfTdv5mxG/G1Qy0nwKcM8p7p6vgG+trXDW8W0lRGaISGF5OUnVbk6b4rsZkxvirZhsG81gNju94bxy206+kDqYJ1iBAot+f16zjR7u44fU3JM44L9ZZXVJMXuHOPsVY0PMirJTKCX3gz1UVkm7l6+FFdcehUBUo7ZHXs1wDR1st5zn3FORAAbO9v3w9eU6U6mqfJct4po9aYrwiafsZZJz1foscfbaHp2sfo/P4x1frbRVGPK8ORFMt7KjnCe8EtMLXOOCv3bLiqBjYjT9+XIm3ZZ5i63GIhtCZQWZ2TSLhlFsEW2/j2vAnQ1h4uJ9uJDasKDjyV1mD2USfp+dfzLenSQpGB4NWLAykkqww7tutyiBVReBh9Zx4nYvJoABtA==;styY44Dvv5epbulizwhkFw=="
 ---

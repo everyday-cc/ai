@@ -7,7 +7,7 @@ originalUrl: "https://musically.com/2023/06/19/ai-music-directory-wavs-ai-raises
 webUrl: "https://musically.com/2023/06/19/ai-music-directory-wavs-ai-raises-a-20m-funding-round/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 792
     isCached: true
-
-related:
-  - title: "WAVs AI Secures $20 Million Investment From Regal Investments"
-    excerpt: "Regal Investments' $20 Million Investment in WAVs AI Signals a Bold Move to Lead the AI Music Streaming RevolutionNEW YORK, NY / ACCESSWIRE /"
-    publishedDateTime: 2023-06-16T13:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wavs-ai-secures-20-million-investment-from-regal-investments-1032394522"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "5QnMjbjhtnQWkvp+/c5XYQg8hDCtBHvMO4iIjZAaHv95u6HKuZaklkEaDlcQsQtvGHGebOKv2IcumR5JIYVFJ/rhNSQDDOu+AokSqrod49HSpT/keU4NaOt8Cb/DqxJsPnZwG7eiWwQDOsjtN1AjAUDIPSRoLkPORS3Qa6lbOpdo3Rr8NFF6KlUyZVtifUPNiOriV5iY2qkBBkBVvrAFPTh5o2MdzvUPbhp0fZalpBdFZJU6zHyAWB6l12x6nKhaBLXzls+ame7eFIkCuFQmWAPTYQlKSxHUucw2BRUacSJUcKpmcmPU95LrdfEuwpN62Lg8zrxHinOS6lAmrA0NKosyIsEAc6TekT+PMTSpufs=;fvqQhNg0nTRmf9lFFGuXAA=="
 ---

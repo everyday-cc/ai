@@ -24,6 +24,22 @@ images:
     height: 668
     isCached: true
 
+related:
+  - title: "Iranian protesters remain defiant in the face of violent and brutal regime oppression"
+    excerpt: "The vibrant, brave and unyielding voice of dissent remains strong in Iran despite months of brutal repression by the clerical regime. The women, life, freedom movement is an insistent call for change that is meeting"
+    publishedDateTime: 2023-06-21T07:27:00Z
+    webUrl: "https://www.econotimes.com/Iranian-protesters-remain-defiant-in-the-face-of-violent-and-brutal-regime-oppression-1658056"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 32
+    images:
+      - url: "https://images.theconversation.com/files/532499/original/file-20230618-15-dnqr6b.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 313
+        isCached: true
+
 secured: "aL23pGL3ytBpvhl84lYLFVJVwYOVLirwpmqoHifnHHWc8mfbiXKD6413xPrrDoFqB6d8vddgqPyXjLHf7qzo8KrQYOCsqO8RjxzYMrZPQlcOuHAQDYrha8O9uevUMXgbe2SwlZBGYzLX+UUKsmL7q7nHWFMDsnp9mTOmEZegLajOu6htKDVPrRi+VcbXRTQpqUvR+JtnF8W7zn/hCaRWcq/RW5CoWqi5nSUTmsrFIZnUFs6a4F7g2ekCNLWw7Y/PgKPqu7c6JFOYRXJedRc0JbSXjCekt1Bcozeyj1G2+vh03/mGU5wbrVdiM2ax7SdmWunBsSdHqZiyJaD3FD+1U89yl9RTUnPjt6trfK5UiDM=;e+hO9MxN07nHVsPXMWjtJw=="
 ---
 

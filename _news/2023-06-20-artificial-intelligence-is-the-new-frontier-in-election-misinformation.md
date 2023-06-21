@@ -49,15 +49,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 46
-  - title: "Southern Baptist Convention makes official statement on dangers of AI"
-    excerpt: "It appears this resolution makes Southern Baptists the first religious denomination to make an official statement on the challenges of AI and present a theological and ethical grid for dealing with"
-    publishedDateTime: 2023-06-16T13:34:00Z
-    webUrl: "https://www.christianpost.com/voices/so-baptist-convention-makes-official-statement-on-dangers-of-ai.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 19
 
 secured: "D75wVRuk3kipEo8Tv1qgK0gMyxFCvA7km2Ji2bHHO2vrTOi1eQ0MYqx7fdxk7qSvxD384lKToL5UBxft1jryMp4fbJXp85/P1evuAu4KrmPei4UUx7qALR99z+2GS9EIdBEmryPE+r13uuiGHrQooZKSTY5vigvDuODSZlCXmP43k5+n6S1rBOjOL55PMLAaX2gvGsJBcRpGHX4R0am6X5wzGUZCCkaZVBDGw9IZVkdH//RsXEaGZhkCC3P7zk3cbeAZRzSu2aWyqfhl6tZs0IGYnoegQTjHIFMgbEoBhGsdPKLRTa80k5KCs6XXMaCBlDzbr7ME2Ggn6DnHVosQKdnXtpjN/euMdg/J1DfchLPVePKcOnyQYMA74ZOW1Y8SahKIJ23o6/RtCTzC9yac/zGzosNib8+M2g9raqWMirIRaMOpb7JPTVGJa74WHL3tBnj/OUt/ZsXn0HVuJZvRGG5Fjlwquzo2i+XErk7Y3vMSnbe5cAZF6ZIj3KHyO4N/thPynuFuOMOxZ7PzL9LqJA==;UJ/elOUubvwiJAXkns11yQ=="
 ---

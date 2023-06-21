@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI finds mysterious ‘alien’ shapes hidden in Peruvian desert"
-    excerpt: "The new study, authored by Yamagata University Institute of Nasca and IBM Japan, details the deep learning AI model used for a survey of these figurative geoglyphs"
-    publishedDateTime: 2023-06-16T13:17:00Z
-    webUrl: "https://www.independent.co.uk/news/world/ai-alien-peru-spaceship-ufo-b2359030.html"
+  - title: "AI reveals ancient symbols hidden in Peruvian desert famous for alien theories"
+    excerpt: "Researchers studying Peru's ancient Nazca Lines used artificial intelligence to uncover four more geoglyphs etched into the country's Nazca desert."
+    publishedDateTime: 2023-06-21T06:00:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
     images:
-      - url: "https://static.independent.co.uk/2023/06/16/16/ai-discovers-my--1021225.jpg?quality=75&width=1200&auto=webp"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34a3dc0-7781-491d-8b2e-f4174f3e0c28/fd78257f-da74-491a-8c0d-3fa96814144f/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
 
 secured: "Uf6hY2pIwPwXXHlY04WkU+xmE45MpS2DEM4WKca/DPQE+Rn0CxFm+XVKNNhvVcMyYoahp9OV+AxRQWMNmFDwBYynT0aY2oxo5sZPSof5nfLuTKUAxX534w4p5dClYaOudzOJ9IdHYdNkaK1SvR3Ee0cKEhEfGyfoA5GgaGGmWuwVsym5KCdUnqOjl+xcpLyDhGQQSexvZI/8DMyuYvIUNfjydpEBiIC6rrl09Eavwx3eIQDQPqGy1Oda15HRnW3uavxVDc3/3MbNhq1vWzVyajYpqM/Sqf4ncINnITkM794aiKkHpC83W/WCMyKs6nK1y2m246R3AS3tNdUsTVvvt+Lt6efaYp49cZ+CpbERDEKXOOSsh6wFXGJXaQnjMhbShmEy/s22fx3GLt8XNkEnArmLdUzAIUkAeY3++yPigs7MbeaLG8XvrApDVdFtl+z8SZ7ZHC16uKzUJvnc74tUwg6BP0LGwTmwXxHUmNR+hxJiyaftxhohDNuhqTcsnJ+1EV5wzNMGHg1AY3rI6Zi/lQ==;nc804qJKoUPcYEQRZ4C8Dg=="
