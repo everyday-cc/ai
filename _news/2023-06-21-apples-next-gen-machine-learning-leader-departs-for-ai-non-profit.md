@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple machine learning chief is the new CEO of Allen Institute for AI"
+    excerpt: "A former employee of the renowned institute, Ali Farhadi is returning to spearhead the nonprofit’s AI research and engineering efforts."
+    publishedDateTime: 2023-06-21T07:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ali-farhadi-ceo-allen-institute-for-ai-apple-machine-learning-head"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/a-1.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Apple vet to return to Allen Institute for AI as CEO"
     excerpt: "Farhadi first joined the institute in 2015, where he co-founded the deep learning startup Xnor.ai. The startup spun out in 2017 and was acquired by Apple in 2020. Farhadi has been at Apple since then, his LinkedIn page shows. He has also been a professor ..."
     publishedDateTime: 2023-06-20T21:44:00Z

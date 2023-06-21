@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-21-hpe-takes-on-aws-ms-google-in-ai-cloud-market.md",
+      "title": "HPE takes on AWS, MS, Google in AI cloud market",
+      "excerpt": "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Pero3MZ346xqQb6m",
+      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ346xqQb6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m",
+      "publishedDateTime": "2023-06-21T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-how-to-use-ios-16s-voice-recognition-and-dictation.md",
+      "title": "How to use iOS 16’s voice recognition and dictation",
+      "excerpt": "Learn iOS 16's amazingly powerful voice recognition and dictation features to save time and increase accuracy in your daily tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-use-ios-16-voice-recognition/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-use-ios-16-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062023-screenshot-voicecontrol-figure-1.jpg",
+          "width": 415,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-cisco-launches-ai-networking-chips-for-ai-supercomputers-to-take-on-broadcom-marvell.md",
+      "title": "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell",
+      "excerpt": "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
+      "originalUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
+      "publishedDateTime": "2023-06-21T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
       "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
       "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
@@ -590,50 +728,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-by-top-cloud-providers.md",
-      "title": "Cisco Unveils Game-Changing AI Supercomputer Networking Chips, Tested by Top Cloud Providers",
-      "excerpt": "Cisco Systems has introduced a groundbreaking series of networking chips designed for AI supercomputers, aiming to compete with industry giants like Broadcom and Marvell Technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
-      "originalUrl": "https://www.techtimes.com/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/411327/cisco.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm",
-      "publishedDateTime": "2023-06-20T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
       "title": "‘College will start new courses in AI and ML’",
       "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
@@ -1052,7 +1146,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1092,100 +1186,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
-      "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
-      "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/1z6_0227.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:15:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-scientists-develop-magnetically-controlled-soft-medical-robot-inspired-by-the-pangolin.md",
-      "title": "Scientists develop magnetically controlled soft medical robot inspired by the pangolin",
-      "excerpt": "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
-      "publishedDateTime": "2023-06-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

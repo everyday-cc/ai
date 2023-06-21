@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "New fintech platform on a mission to shake-up angel investing in the UK by closing the gender gap"
+    excerpt: "A new fintech platform is shaking-up angel investing in the UK by aiming to address the current gender gap. The Obu Angel Investment Platform launched this we"
+    publishedDateTime: 2023-06-21T08:26:00Z
+    webUrl: "https://ifamagazine.com/article/new-fintech-platform-on-a-mission-to-shake-up-angel-investing-in-the-uk-by-closing-the-gender-gap/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 11
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/08/gender-5366084_1920.jpg"
+        width: 1920
+        height: 1297
+        isCached: true
 
 secured: "qGW1QC6erl1wjSu4ZHY2fvYclaFbuSd1/kB1HQM+Gr5fW3Lyuz2WEvhoSG+S8l41ordzXNcsi5Pu6JPIptl6WqCA4LK/mwbr0q+wPeobyBJz0RKMXw6iO6AGZVeqg9iASRtPTmMmW3CkXgB1P+Ak9IxKRQ6GL7BCBT+NiBatLbVnicFGFk1fEze1ioEC74d46Ly0CVNPmtrfUOK5aucC7w76l/1dJjJ9dRRl7WeplN+Fl7CMF+mkwEb5lfHk7uRmtXcWpJLPMEn/cPJCWQfdlXYs6yKFIaJGcoPLD/FYdTf5H8ZWQMhTEzEXTnfylMIoS0cVwaw3rcGJJmfLHjDanOseumb48k6mCO5FUNuU1YT9D0l1YKhqBtfga14ggnxK5OVMGH3ceouke8TomgybKW55a83SeiwIpzI+Zrl6SNvm3oCgsUKDZGWjkzOv649xMTxyhc0a2YwIvtlFTmMjHTspbQBijZbV2LUseokSDrGxP3qXI/YV3KYSD3ptUYZPB+nyDHdQRQ0oZ4jnOyM+tA==;4m+7e2JmKrcQoelWOIhW6w=="
 ---

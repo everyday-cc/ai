@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.reuters.com/resizer/nWxnRVa8tZitEsJFI8qeg3L-Us8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAD5NMZL7NOLXAROIUJFCXN5A4.jpg"

@@ -96,20 +96,17 @@ related:
         width: 615
         height: 410
         isCached: true
-  - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
-    excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
-    publishedDateTime: 2023-06-16T15:21:00Z
-    webUrl: "https://techstory.in/a-game-changer-for-microsoft-10-billion-in-annual-ai-revenue-sparks-stock-surge/"
+  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 49
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/Microsoft-is-Reportedly-Working-on-AI-Chips-to-Train-LLMs.jpg"
-        width: 900
-        height: 500
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
 
 secured: "Ycnr45rwNixEmzuIKTCyLYZEVWyLCzgGGK4kJRr33vm0dBCCAcLsa9qmSVxBICtlYONjo1BGukAwzMT/cky6sAa1ATkuharoMKpWTwZkd4M3QeyAyLEb+klAPFvIcjmk6aa+BRGLxPZQTAiLY8STTeriOtNRZsDGrb48ifoLjq4kXlLb3kWVZyhq79t3+RsIz7rIl+ZVQ06MaA0mbwHH+yRiX19mumXVForrQ59WTnTFZuykPGzw7f4ZyXl9qx6adphLuCuoIvMpDoWmUKlPiEN3pF5FWonYepGZ2WP+wgVz0MLmel9mjd7BCHJUF3eWCoZO4XTrYZzm1rYx0Sreg5tOUSHI4Y+Fb9bxJTrXCNw=;FVMK1fXco45k98kyC9OWsA=="
 ---

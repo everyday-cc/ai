@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robots and AI: A new economic era"
-    excerpt: "First, this article is written by a human. I was born and delivered by organic parents.But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI."
-    publishedDateTime: 2023-06-16T16:05:00Z
-    webUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427"
-    ampWebUrl: "https://www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/06/17/opinion/robots-and-ai-a-new-economic-era/1896427/amp"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 74
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/16/204988.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI vs AI: Next front in phishing wars"
     excerpt: "Threat intelligence firm Abnormal Software is seeing cybercriminals using generative AI to go phishing; the same technology is part of the defense."
     publishedDateTime: 2023-06-16T22:36:00Z

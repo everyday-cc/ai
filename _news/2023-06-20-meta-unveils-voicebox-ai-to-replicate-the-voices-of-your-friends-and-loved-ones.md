@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta's Voicebox AI is a Dall-E for text-to-speech"
+    excerpt: "“Our results show that speech recognition models trained on Voicebox-generated synthetic speech perform almost as well as models trained on real speech.” What’s more the computer generated ..."
+    publishedDateTime: 2023-06-19T07:52:00Z
+    webUrl: "https://www.engadget.com/metas-voicebox-ai-is-a-dall-e-for-text-to-speech-150021287.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/Pdgn1binumIAO7SepNVZCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/53dca6c0-0ad7-11ee-bdff-97d6ad440b00.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
     excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
     publishedDateTime: 2023-06-17T16:34:00Z

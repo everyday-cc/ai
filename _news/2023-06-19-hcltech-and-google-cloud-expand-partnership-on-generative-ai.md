@@ -51,15 +51,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
-  - title: "Leidos Leads Advancements in LLMs and Generative AI, Accelerating Trust and Strategic Partnerships"
-    excerpt: "Leidos, a FORTUNE 500 science and technology leader, has announced the successful deployment of Large Language Models (LLMs)"
-    publishedDateTime: 2023-06-16T16:50:00Z
-    webUrl: "https://www.datanami.com/this-just-in/leidos-leads-advancements-in-llms-and-generative-ai-accelerating-trust-and-strategic-partnerships/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 5
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z

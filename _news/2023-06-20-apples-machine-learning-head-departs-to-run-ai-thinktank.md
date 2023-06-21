@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/06/20/apples-machine-learning-h
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple machine learning chief is the new CEO of Allen Institute for AI"
+    excerpt: "A former employee of the renowned institute, Ali Farhadi is returning to spearhead the nonprofit’s AI research and engineering efforts."
+    publishedDateTime: 2023-06-21T07:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ali-farhadi-ceo-allen-institute-for-ai-apple-machine-learning-head"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/06/a-1.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Apple’s ‘next-gen machine learning’ leader departs for AI non-profit"
     excerpt: "Ali Farhadi, one of Apple’s key machine learning executives, is departing the company to take over as CEO of the Allen Institute of Artificial Intelligence. Farhadi joined Apple in 2020 after the company acquired the startup he founded, Xnor․ai, in a deal valued at around $200 million."
     publishedDateTime: 2023-06-20T18:35:00Z

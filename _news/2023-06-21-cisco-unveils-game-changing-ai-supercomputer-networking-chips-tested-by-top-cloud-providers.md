@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/292825/20230620/cisco-unveils
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm"
 type: article
 quality: 65
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: techtimes
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
+    excerpt: "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms."
+    publishedDateTime: 2023-06-21T08:05:00Z
+    webUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555"
+    ampWebUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 66
+    images:
+      - url: "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cisco sets a foundation for AI network infrastructure"
     excerpt: "Cisco adds two new high-end programmable Silicon One devices that can support massive GPU clusters for AI/ML workloads."
     publishedDateTime: 2023-06-20T19:55:00Z

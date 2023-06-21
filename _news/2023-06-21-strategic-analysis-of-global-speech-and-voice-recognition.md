@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Speech Recognition Market Sales Data At The Global, Regional, And Key Country Levels With A Detailed Outlook To 2026"
-    excerpt: "speech recognition market global opportunity analysis and industry forecast, 2019–2026 portland, or, united states, june 21, 2023/einpres"
-    publishedDateTime: 2023-06-21T05:53:00Z
-    webUrl: "https://menafn.com/1106470939/Speech-Recognition-Market-Sales-Data-At-The-Global-Regional-And-Key-Country-Levels-With-A-Detailed-Outlook-To-2026"
+  - title: "How to use iOS 16’s voice recognition and dictation"
+    excerpt: "Learn iOS 16's amazingly powerful voice recognition and dictation features to save time and increase accuracy in your daily tasks."
+    publishedDateTime: 2023-06-21T09:00:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-use-ios-16-voice-recognition/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?882142"
-        width: 333
-        height: 250
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062023-screenshot-voicecontrol-figure-1.jpg"
+        width: 415
+        height: 900
+        isCached: true
+  - title: "US state, Ireland curb police use of facial recognition"
+    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
+    publishedDateTime: 2023-06-19T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "0yJ0XjRjhYC/ktCO0qtqPfNg3cIVc46bVz39IC6eecFmT0N+uqIYwxTLRO5MfW5DVkANaOMUTk6V0ztf0gl4cbsGQNUyLhtapaDtbdqJe3k1fzBlMZcrqFgqUJYXYPZN/iXwvh2pCmni5Yj1FHsbGsf+HdKmR8Z6Hxt0F+Q7nOXJzT6A8ECc01r7e2msQAu0vXd65321MOvTVNIduN0UTGnoqbYhyWZv9g0vn0+Sf6rL2P1gFZX8qploGxRXSfEHwGJcRkU4i6iW7ji0BpMwe/6Pp1GzWx+sIwq5Z7JY3Tw+Qa1UxMWF9sjlg1pzkNZdB8TgY3EaQFev9MGcftMrVVoXTYT37G6NcUnycnGxwRc=;Qu4GfDmejlpZFy1LkFjpeA=="

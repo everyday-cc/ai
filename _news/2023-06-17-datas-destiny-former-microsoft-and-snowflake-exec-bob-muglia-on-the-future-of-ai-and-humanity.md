@@ -96,20 +96,17 @@ related:
         width: 615
         height: 410
         isCached: true
-  - title: "A Game-Changer for Microsoft: $10 Billion in Annual AI Revenue Sparks Stock Surge"
-    excerpt: "Microsoft’s stock soared to new heights on Thursday following positive endorsements from JPMorgan Chase analysts regarding the company’s prospects in the field of artificial intelligence (AI). Closing at $348."
-    publishedDateTime: 2023-06-16T15:21:00Z
-    webUrl: "https://techstory.in/a-game-changer-for-microsoft-10-billion-in-annual-ai-revenue-sparks-stock-surge/"
+  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 49
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/Microsoft-is-Reportedly-Working-on-AI-Chips-to-Train-LLMs.jpg"
-        width: 900
-        height: 500
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
 
 secured: "I5bC/86JBJZhQQqz2X+pNJ0Yx7EE3A+imKESwv+j/kDRaKkTIA5DAQEvLXwhyzsTrLbrE1vsHibt628Rxt9lyIm/bzN4S2ZCXZ9EFEynU3M6pJHQOquilBjZTVRh8PpoaeRyPAygR4WlcXqYU7abSC0b3kfXefoKrhqboFtCWWuJgam+D73cXz9QgGUKPT3Dxr7wE/EdNfH06VXZMoX1tWXnm65fKIP7Gut1HaseUP0U973re5DZElkTqg22IVuUYPp9AxJjh3ZCbr9tU54eGfSsiaYVTdQPZDt42LoL8XbryfRT0dmFq+71NBEjl74QveNgxvezunKo7ZpaB6GECZBf8pnjh4drYbyo0IksVWB2z0bkqq/eHoloUxJoaNtlJhwzYrpawM1AH0HhVELr1z877qjIiLnIGfOtqS2ABTxoO6J8As2ztrhNnznshmoFkO+pTfZTsrHsGSrfAXG6Z2g2gqKNjvPT8a+tCItLvg7phSBTOkp3tJobKvqxey+T/GbtckfGe3QeGkBKOK2D/Q==;cGeSqTIPk0KOL2nCMrLmwg=="
 ---

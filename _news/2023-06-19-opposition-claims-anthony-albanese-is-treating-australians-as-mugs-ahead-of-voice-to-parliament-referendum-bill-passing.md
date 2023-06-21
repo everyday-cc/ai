@@ -126,6 +126,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "View from The Hill: Linda Burney says the Voice won’t be able to advise on Australia Day – but how could that be?"
+    excerpt: "The parliamentary week showed that if the government is to maximise the chance of a “yes” vote, it needs to sharpen its performance – in particular, that of Linda Burney."
+    publishedDateTime: 2023-06-21T08:24:00Z
+    webUrl: "https://theconversation.com/view-from-the-hill-linda-burney-says-the-voice-wont-be-able-to-advise-on-australia-day-but-how-could-that-be-208191"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 3
+    images:
+      - url: "https://images.theconversation.com/files/533098/original/file-20230621-17-895hy4.jpg?ixlib=rb-1.1.0&rect=0%2C988%2C8256%2C4128&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "f3ud8LqR52Xpb44lQ5J2H4BNNoaCu7cSTN0vz2fMtNzW6ARr6zZJcQZ7kLGw4NPTArbWgtKffzKsttCTWbs+nXXfQ6rviF5gUM50onW4ta6I0CTX/UQm7EMNKRr5wfPiMmvFJGOLdTCRAFVkaJ/V2ZB8t635sXR+ffIc8JcaRZGmxkq9zc8im/RxzkE7pm3zmWm/VJ9WRp69tTSkcmb6W+p537xJAaYxlhJ3Mw3mujWgMN9VrQxRIHeTWchhAZnAyujYnAuiIy37VKnYaHTTHgLEJ60CjhJ2naGd0+GJKovdYnzDLwrw5zOfe0GoWbYHmCGvj2lcf5I1pTWqwGqNcqj8x5h+/kpFUmZ+qcleeV2rXHrwSMb4NLx0/UBKcoRR1N+qsJbk3z5kG84X2uqJOIt/OiiAuQjbit9m7ReJ6esStiHuFGX4fyjN1Bx+1ReeRQCLqaoFCO2LcxlkOj9Uabh7gcVKuX+QxBnDber6s6USlVxLqRM4cryG4SafjXZTBrIRituzIUiJxb1yzWo6dw==;59sV6X2D6I2U+TtkU47hGA=="
 ---

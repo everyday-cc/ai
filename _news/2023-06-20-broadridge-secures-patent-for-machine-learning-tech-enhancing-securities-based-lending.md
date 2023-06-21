@@ -23,6 +23,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Broadridge secures US patent for securities-based lending insights powered by machine learning"
+    excerpt: "\"This patent supports Broadridge's commitment to providing wealth management firms and their advisors with innovative and personalized products in wealth lending to meet increasing demand.\""
+    publishedDateTime: 2023-06-21T07:53:00Z
+    webUrl: "https://financefeeds.com/broadridge-secures-us-patent-for-securities-based-lending-insights-powered-by-machine-learning/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 9
+
 secured: "dMO9LlBtiAaSBo70/mj15jW2nzYaJ+mbz17fr4G9DZBTjgRGk40QpWF7fSVLGrTtjGmo3eLHNmZRLMgb0qw2qZ6CTHjgN5Q4xpba0vMqxIA1e2ZJEsOmhzshjBRI+QPv6rKgIUyPsxiY1djwu1MqJ9S2utAYefdSNjwqIj40/RfAPa/GHN/9KLhUehzeouoMEIjgUt7LPXomMbMQrvkJgV/dRhmHKPqU5gsuqZvQl9IJZ9XNHwfWShT6KKEi3iOz5rQzXuTgJI1rz/SZrB/u7Htze2N5PpDOi76RXRrXnWEEzDkKM1w+/nqgU1YDZlXBJKprPFeL8lcbsWB40Wp+R7QiJzGtoKxn7xISKOEzCAY=;qrA0QVgpEXDuQEIZq22ltw=="
 ---
 
