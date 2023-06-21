@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacke
 webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -61,6 +61,24 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Hacker uncovers secret Tesla full self-driving mode with fewer safety precautions"
+    excerpt: "An undisclosed version of Tesla's full self-driving (FSD) software has recently emerged. Its intended use remains unknown, but it appears to have fewer restrictions than what"
+    publishedDateTime: 2023-06-21T11:55:00Z
+    webUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
+  - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
+    excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
+    publishedDateTime: 2023-06-21T13:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/hacker-finds-elon-mode-tesla-fsd"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 7
 
 secured: "cjwEW3RLt9EhMqpPebO/wUHB6MxAsX7+CZkNKsr+nkFj6cwDIdqdEq7lnJLtJ7WQ913Ox+h7M/iv3+a02XKYX14gN92hgPa3kOoMnptRK75o1bmpSE420GuPF4Ov6HcmidDTg9TLzmsosBdy5KMmdJ8EWN0ZLgDem0ycCrK3oDfSxkF5G/BWzIuwU1OJhhvoAxYOuX9NenhAIcJrCOU8jOhDMB//BYsMo/pUeBN6YBuGLjmSLRxJ7BEhvZejIqZVsP0RsNzywMz/Er5Lti8bMQMsUtfZ3oy3WKGa1+oWCsa5wOioJ1gTXPsKluUEShAGriPk6Gxtf8n1VQ407J8ByiHntByIqfYPk9eyYLOXKSWvdz0TmmHi7LSOUbRCOrruae58FaImO4dUE/hm4sp8yoEZkf3DvYgvaiOdASOBx28LBYEQ0KszTDUT01euxFLLueaN7kSfHiLHz4vy2s+5mYHu8Y20R4mp4S0GvECmWTnRBleltowapadkl0JIZZACx5L/yue4bKe1EEfW/QUXag==;pf4BDxl9VfdOlf4SL0Vkhg=="
 ---

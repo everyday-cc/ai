@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI vs AI: Next front in phishing wars"
-    excerpt: "Threat intelligence firm Abnormal Software is seeing cybercriminals using generative AI to go phishing; the same technology is part of the defense."
-    publishedDateTime: 2023-06-16T22:36:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-vs-ai-phishing-wars/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr061723-featuredimg-ai-vs-ai-phishing-wars.jpeg"
-        width: 1366
-        height: 910
-        isCached: true
   - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
     publishedDateTime: 2023-06-19T12:30:00Z
@@ -87,6 +73,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
+    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
+    publishedDateTime: 2023-06-21T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 12
 
 secured: "qQBYURwD0lWuL/VPu43krsRJawNSzAHfBXZangCWdSyLw1k3L+9E+0vwCba8mUOg7wgnT23GaQAflJIVxJId9Rw/GvIqAnjGo7pgKWxdZX/hjvaNeiA/MqSgmjV+lYuY/KgB1nISOwdhYRpKo3+ijK9tBvuHUHMVlkM41xQ0xfH8ZZ3bnp7szxV+vVbUk0NfMvfWoAZkSWiJ2yaiRYOqFroc1D0eh9SprE0dG+ppm6eyt6uWHJLpvXrr5+HvIk7HWvcrzSGjJYSB1RJXJt4UnBrFEEG1Cy1cnkx0d9PI4eow/rvtgqhmxZHFXBTjFOlwDmurDWX97+Sb4aSG0FZoKs1YdqYuK5fH+3DdjNuImmyUuCB1MnUe3PNEvJhq+YpE4AhR5rsn3ZgwhQrF3uJ+DMSubonkpzK0YLqunfPzrj7erv7TQuotFuMmUAJQuz4Z0bKapx6zH8IDP3ZEHavnLm5clJTMe+/qrMBdLITjAq/6wStGhaAeAmi8G+o14jsXPc7j45tiupW9XrYD4CG6IQ==;UahFq2fxXvR5ZHoEVIJRTw=="
 ---

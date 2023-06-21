@@ -42,6 +42,15 @@ related:
         width: 1984
         height: 1568
         isCached: true
+  - title: "How AI Can Help Stressed-Out Managers Be Better Coaches"
+    excerpt: "The expectations placed on managers to assess and guide their employees’ performance have increased, a trend amplified by generational shifts and remote work. Employees want frequent, personalized, one-on-one coaching,"
+    publishedDateTime: 2023-06-21T12:25:00Z
+    webUrl: "https://hbr.org/2023/06/how-ai-can-help-stressed-out-managers-be-better-coaches"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "AAiPSme2xcsnVuwEHuXUxoPDK3MYZyyFToHTL4manUz/+CQOkU34fj5jJ/oGgAbhLGOAwVcn+5tkgHMu3JcSjasaaxqAKI8d/eFafrjStoEXTS1k2u/WvLg1SkhW/GxabJ1/R4mVmVgegsw7WP5JQFfnrjFVwGn56NIGwhGJp90fjJv4RjcGzqWcR3KZYDiapSYfHPxPNQtjl3tp3XZFFYv1AfQUrvd9L4sOO7aMKqIPg8kKpqADzxqyktNpaofFSnCRlW4YiwyNt/Al/954QnHFXtmWDRsP+hv+pVFZ9BuqIPverKdg5FbeLHKnndKbdcf/sYu+YFGv8uIWXbi8zBB3fK5Hv3CuJpqqKkXvvA0KWN2k+WJAFren+HxfTAYPtSzcdADyQyznOXa5svd5k76AL0JCoJCSaE2OqT1M6vRm4FYJXxpbAW3wwGRO/TRom5DRYPHp2odv4MXg52GDJVMPTrRTbRJk1DMeDarPJXWBRrXVGdnHCDp3jMcOvY10JgWWd9RL1rG/DtXOuknUcA==;9yvbpmoc17LLiUFj2b25Qg=="
 ---

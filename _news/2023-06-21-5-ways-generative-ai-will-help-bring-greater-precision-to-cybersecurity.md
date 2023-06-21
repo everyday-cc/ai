@@ -60,6 +60,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -92,6 +101,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "FTX6PAQpsbWq5UpTI5OWYosxcMg8yNiKTUPPkzBffxU0vUc6Qea/ATHXw5vWh/mNky4bU41T70BhnXjR0KgZmv7Lb/hZSZbICYvZxLOHExSHTmDw4Oeo+u8YNLMeW/tfbRX6dywoc06e3gbqYiS7td+DsVTke00LTnTkAklZFBjJ/H8XOQdt7V9Z6bxMfPsYk82qeOMiTEGvHzb+LUe6tZdAiN1a/C4JQlMp2qyA/gy/f1KL1DKKFMaSpqlzyU3R4vRRg7zsxGdFmm1R2cyZMmTwD1u/PAYHBva7IdEMybQjmTXXTUTM3RTQlKojkIVhf8Cuewv/bATpANaDEUG6KdoA3xMf6Y34zSQQIjTPDb0FX6Tk5nY3iNw371H8AhEa9pXLzy32ppQcGCfpEGSM8TqJ+ksOPF5bUN5ejAzzmsrXt1QpbWNGkDA58BbG22w+kVPyESSFx8im58DFEpo49+7azsn7X1WfhJlpbbXQP0yp0Ro5prKK+NcF4H2Ea6T4vuiW8DBizcCMJquvWzqAQg==;GWv5e6SARhxQKwG47oFhrw=="
 ---

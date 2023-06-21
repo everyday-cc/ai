@@ -2,9 +2,9 @@
 category: news
 title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
 excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
-publishedDateTime: 2023-06-04T17:16:00Z
-originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=above_article_ticker"
-webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=above_article_ticker"
+publishedDateTime: 2023-06-04T18:06:00Z
+originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
+webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "cxCxFkZkffKmO3gdcUGKfi8bb09wH6WAOaZ6RrLCgTRTMUKYppWkGUQyvuejvikw6r76Pr5dsB3yDHtnt++oA7IcbXbr0KEjOGZrhtaddjCHmurFt3081Wcl46zIlyGZyrzaCUr7awy9799Q8PoSqRVFIyFOEX9PS7XNyXjHiAs5mzuCAzwHapEBE36pyu7SN4KqnbC27PMU+I0dnQ8uAqiamKMMuRWZP0ILje8GrtH+Ts0z7XAk7DeJeQP/VDGVBeNa+Q3jI0TP3wC3jj9gpU2cxo9mfsGMkZOZPeN3PITn0xmwY8A+TKkjWPuGC7qdVpkZL+nrl+/v9QwUoBGGD3u97xLgmIS6n4nbjkFRgVn8nOxDP07aRmXWYRAjebMYAdMoS0qTaIt/abVCFUOue7sYLstm0hbjU1XG301PwKn5NAxLlM2AVCrGzY98oq/gLfuuDQhGrFfVe2r9vT0hiCMmFXBCq8MjJJghrOrXTaGbzQf77u57bLVL7Q3/gAtrKg/j6m3xOC6pfehEP08ZsA==;xMTKYzpi4196mCAxGfNo9A=="
+secured: "XmP7O7fwT2svCMYimNuu6g2iFyhLLILLYLCaeC1QflKSQZTEtSG8dMDj5q6bETcQ8SSOljTOZ94xaCY3MKt5QlwrBYjF+XPwqAsaxg7wBAhN0Odu4p81/J8X98RGvTN1ze3LEwNe8+2/ixu+iwWrvypp/y7Q+AHg8Mc6wcwmQv6JihV1eITanDAj+cwp5g3XJHLM7daZ86QivM5UkNtsiESQjgLHw4YwVDuJr6VhtfXP8gZuw+c+BCXk9tyqLPviwliY2UEuXkCF5nUpuufeqriDRW04wLh0uPCNhMcBRpASkL4NkPXY0N79AOVIYwaRbl/regSp+ZS7LHU00XkiM6gxEIPfNnLdk9N1zo2oHgPL0HdQiJf52cX64DfVXceJxdV1E5yJxhwOEhvjAVL2ce63mEu3S4KhzMAC6L1Ji7Ptu7Twm78LcVdZYUuB09DDymjXnfhiUKPY058l+EYd/aOyjvsF7JBXcLZ4dAk1ZN3acOkOycL9SrqCGgn4XPQHgnzwUzCc/Q7t3FwgRF17sQ==;6oP0KA2NYgUqDnWrSHKbDA=="
 ---
 

@@ -68,6 +68,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The impact of artificial intelligence developments on cybersecurity"
     excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
     publishedDateTime: 2023-06-18T07:00:00Z
@@ -91,6 +100,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "QPwFoCrF5tjLIpGuTF7RSy+1a3SzuaKoScHUpw+xHl7htOzD55RyZAmjfq0OW2afm+1OqBtz+A1VFMVm2PNSdfE3ltBd9VrFs0UQHCt66JBuKrnRLCFYMLufUaluQFLwDJiuOKiPEk9WssMdPqTCmjI2zOy8gaWzjpa5LPlmJuMfwJUtr9//U1ElHJl3NvYTEQLhaMXKyeJp+5WB84ZBAMIqESE0+aBNAoIaV6aK1KSyFsMC9NyhZ1VSVJjhNo/M9PfAAR/+uNMkfWOC+XVmSyxeL0kVAT+Yl2N911i61TIwj+3+w8zYkxY/+L5mgfAWfAKZKFtQyk2vTgvh4QkW6HJ9i1+DF/aiLqAwLpK06NBI0hBPk8ISbz733LNSNkzn2Bblo7UiMYTTkpOljx2Qo0jZmPUn50zSS4nQ6ObN0VFyHLwDvDWeuE7Z3wQL7SIUwWLH5OSQEISooKXmlTzXk+a2kxh1ttaY6msTq5qfMmIvQkeh3Bs6m0YkcQyLiUeGuv0Uah2tLLhLby5Gm2sGaw==;TA/wm9wHGLKtwkJPXFGD+w=="
 ---

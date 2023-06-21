@@ -44,15 +44,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 50
-  - title: "The rush for AI chips"
-    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
-    publishedDateTime: 2023-06-20T19:32:00Z
-    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 34
   - title: "AMD adds EPYC CPUs, AI features"
     excerpt: "AMD has announced the products, strategy and ecosystem partners that will shape the future of computing, highlighting the next phase of data centre innovation. At its Data Centre and AI Technology Premiere,"
     publishedDateTime: 2023-06-20T09:49:00Z

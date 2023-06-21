@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "4 successful attempts to use AI in restaurants, so far"
-    excerpt: "Restaurateurs are using AI with some surprising successes. Task Group analyzed"
-    publishedDateTime: 2023-06-16T21:30:00Z
-    webUrl: "https://www.thetelegraph.com/personal-finance/article/4-successful-attempts-to-use-ai-in-restaurants-18156415.php"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/26/03/23945430/6/rawImage.jpg"
-        width: 1080
-        height: 770
-        isCached: true
-
 secured: "xxRFNIv0D3N4VCBqbOFHi38kA0LCb3FfOA28QGiInqu4KIhTtOkksJcDVVt56csakIdSNuRcXciBFdD3DqYB2h6hnpiMO8cA9bwoiHav48bk1HDcZvNQIJ78F1ap+MwGUn1cNKOK52RuLkdWZ/c3aaBWSiQGukVBiO2UjSjN/EKDWa7Qpz6aveSmDFgMPAPyO0lKPB4FGOwJuznTyeyjkabvb3E3OWFuEzWHdgvxQLnCDxtGWuhOJUtEL+pvivj/aF9PfUjk8WhRihjmSlDYkNZHcVnQjW2kWJBXwoDHcXvRC4hvYo3vNhuQI6rwlnR71Jk9J/b+4hGbPbNEwniYmbo+2JLx+SgPhb5q3+dwVoIOrGR0GPAu6VlhuxO8xQ+9km/N7hUNMKS5ZnotVx7tPjQZmf2hmIWpPgsu7Kq8njoyUB9Hp+AgFjAZ/7KRTMsElLkUbL3WaFSqXfMTEsFqiKokygyjXcBF3wQm2i/hA4fL6H5ParRcw5AVrWW+S5MTZnDNJUPn3DrsQ2pMeM1IVA==;hsel2tbdNpy4w4vMb0XzOQ=="
 ---
 

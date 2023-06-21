@@ -65,6 +65,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -88,6 +97,15 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "6oF06APt4z+TjUrJGus9CHYMbADq1Rz3Bwz+uxfvMmep1ec6jpHKlI2Vy7IiENKmxl9FEEv0urWr+6a1i456KYhX8q6L9cWsyXLbEBU76PSIBi9i7j9uj3befsUuxrnxB5hLQYdzoAdzK57u4kgCcXLJOZ/snkuc4Djq+Y3kou4nWKfRLVSfMkohQVWCEgnfVdL1EFXyA7UBcXVmHJC7nUHcndaUh6oZNUlgiIKEOWarJuDOyZ5G/SWlhl9v2zE7lsDA9oYQIcQiJTpceDSfIFFxDp2qQg7ESTNmOdtMrAFNtBHk8YvLLt9/MsFDXtpc6r1e1GD6Fs294Yse7LPcmu9DD/HmTxmjW46kUet7JRL1eG7hqigB0bOay9x9g8F4gJuYeKdCC/5+ED51cb/5HzaoXItufPRuKmM6bUb7M7YlZFKUE3s+1CBTHTKqRb3y5d6hRhm2rUuGk71NY+SRC0oIwnvbmNno950ghdJ0cBcUR9vn87tou4gbOYY7EP+XDVeXQbTWiQp2FkpPBiqhaA==;ogzSvQFKKxLpt/z0vJ8Qbg=="
 ---

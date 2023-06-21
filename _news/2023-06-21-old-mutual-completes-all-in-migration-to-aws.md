@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Old Mutual Completes All-In Migration to AWS"
-excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
-publishedDateTime: 2023-06-21T10:34:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+publishedDateTime: 2023-06-21T08:55:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -48,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "EEklaFlmo3v5WPWvWDnXqATOLb10j6un1pGg9D64j56IQ5IODFTJQDKaprSBTfEMVlqRbeL+6eSXcWU46f0tUXhrYbQtiM9eLe4VqQFWfjaOqSzE3YvmmMZ+lV4paW2habbJk/cTn6WR5/PZCEtrU0dVvllKY5fqF41lDUJps11OoAAF7TfTVa+CKRy5zjKdYdrXiMtvjL+r8jsjF2TvG2iVTmYFjR4IBo0HUkAhV07C1NfP0Iu0hv8Jy0VTxYvKpuuYhnO4P0zqId82oNX+XFce0sOC6peloM4EZ0CoO76KK2SfLjqUAJfhpp6Kw0WhvAN4g2SjkVUfy3TvaNbKkroxy7JrNOAxSpLIfq6KFWM=;uIJJJyp0Q3Ig/QiTfp9aXg=="
+secured: "sWU+mlUdgEHqR0Z3YnA7bBZA4BXETCWwVD1E3ikWKgyL5e0jrReLJTBieSKBMrUeRF8bolQ8C1+CBy8Mbg/YYpsrCvWz+w93EYe8LHDt9esUvnljYjIFCsuEWFIchERjqP7TqwJ/km0mR3U+uI4eCwQtyoFjgw+4EKS+JwlF19ZJApjLvphqpDFDg60KqyI6iaB0MFZPKV4FT+2irP8pQzJ9OZ5NZrVZ+oPoAWwcBSKmuhk1RT8/AdZRqhJB45qvpUV7kum6BNS6JvnYztdjLF3Z5uacerQRDQRXM4D1SAxLt3fA5Nxmla2WJHZT6Icr0ZH5KuDfDYPRilNjtlmgbvt7FL5icQsEQFkrEwiVzSs=;H3ruFS8Gi6f8VVvNk2rf5w=="
 ---
 

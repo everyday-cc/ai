@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -68,6 +68,24 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 19
+  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
+    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
+    publishedDateTime: 2023-06-21T11:54:00Z
+    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
+  - title: "Wimbledon Line Judges' Future Uncertain As Grand Slam Embraces AI"
+    excerpt: "Wimbledon technology chiefs say line judges are safe -- at least for now -- even as the grass court tournament embraces artificial intelligence."
+    publishedDateTime: 2023-06-21T12:39:00Z
+    webUrl: "https://www.barrons.com/news/wimbledon-line-judges-future-uncertain-as-grand-slam-embraces-ai-a936e334?refsec=topics_afp-news"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
 
 secured: "92O7sg9mAsYPiBySTSRtUz9qa0sRCr3ARNYU3pwKKk1iAU+yq73OEwsP8OMOA67VBCqxmN/6LTLL7gTMibtAjmzdoIyP8Pyn6rLnNqoCH3I+TiXHLrLjyLmtEXWtDRh3tLQUGg+vJICoQYGRg9hb5GPkKD0aY/6/T8RLEhTwfAuAdz8vvhO19kaytmKXKLuyNNVI28L1QNmyOLS86q3+HdmPNlTeO8I4EeJzEEQObhE2m9kNXMMD/JshxhqVcQmlDBuC+wtdThklbEVrCwnc7oqggEZCIvP8+zl2DIk9O93oOdLReTtkVUmx5IJQ59uXQA/YeMQqIqDMjhWleaoLZ42krJTczQvBSuLEwg4PTPA=;22HihIFxVb311gPxsY6klQ=="
 ---

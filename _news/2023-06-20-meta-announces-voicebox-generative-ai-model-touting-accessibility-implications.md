@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
 type: article
 quality: 85
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 83
     images:
       - url: "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language"
-    excerpt: "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends."
-    publishedDateTime: 2023-06-16T21:02:00Z
-    webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0715307a68876c2264d2924f9491eec206a9622f/hub/2022/04/15/27e03c86-200d-44d3-a570-673e0b1427f7/meta-logo-2022-425.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -128,15 +114,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "yReuxcMglQW6hNC+3ZTXVd9imLlTO7LDLNlmHBkTgbzv7YMidW39ivVLE3UELi4MU2LDx6rp3c47SzEcoVfoJG6k+4lswdAuC4OImCyzx1GAz2fx8IFrzW3pjGk2uFXu2VX5b+2Zv3Wwr6NQ0LmwTYCeFbmozKtBHt+MuIEUFsZ++oU9eNELgEpz1MnCZCyHtIMiXuy4u28sVvqaUbcdiUyTf/0OUr9XwXvU6q7VTHcXyHQ5vMAk8iz+Ir96PcoX271D5yyiccBW2Oq3hoMmlHlfqS/rNnoYPy/hlkfznWGy0CLWLG2R0cZV00asBnM++QnRic1W3acAWB4S7vVinpGM6Doi/Ps2RLmNotnQBFmNgHyoPhotbwGYSf2SUObAVseB7uL9/LTRZRZcyDIiJYLfFM3OUW8lluINVRSrBB3FrbCs2hgHdJjDLytyWcENnzm4VviJ9L4A+nFwA8znqOgJpKscoDpRuq22wTlOG4i4sEjXk+fQCTugreVUxqdGlp8FxvFOJ8yBNTlqABRMKQ==;ioQj14+2cH7LPyqY98bRFw=="
 ---

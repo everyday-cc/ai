@@ -7,7 +7,7 @@ originalUrl: "https://www.dexerto.com/tv-movies/secret-invasion-ai-opening-credi
 webUrl: "https://www.dexerto.com/tv-movies/secret-invasion-ai-opening-credits-divide-mcu-fans-2184401/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,26 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
+    excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
+    publishedDateTime: 2023-06-21T13:25:00Z
+    webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
+  - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
+    excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
+    publishedDateTime: 2023-06-21T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/21/artists-are-mad-about-marvels-secret-invasion-ai-generated-opening-credits/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
 
 secured: "Y0HzHGZTssXi1HBRLFHi0WZ/o/B4vYedNAFFEaAlnKhAh5zDPzR+P8EcsDUwZDoFhA6s28exjrERAeKvBhRrqD5XU5Y8UDbGjf0u2FEqcGJz8keNEQ38IwPqBobWmBlfbokIQgCenv923GsxxVOzDvHAOks44SxocoQtCfX6kx1bXQskUi8K4UhvoJQKNb09UblV92MASrJQPzIPwS7UMkEm5WqPYgaK/j3bbjqckxmWpRCoz3BeWyuAUmE7GKsy+ZuXagLL5a6g7Abwuf+unZm4ZYXLCxcxXrxjvqNxqkCkYuAHLbpqH0oSodhK4S8mp09MhMVgXhxPTkoM+mds3ItMY1KzDqlx5s4neT3gtxQ=;FyFUeYpgObxtoi1ZBaTOJQ=="
 ---

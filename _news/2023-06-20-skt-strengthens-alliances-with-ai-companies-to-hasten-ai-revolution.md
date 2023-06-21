@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI vs AI: Next front in phishing wars"
-    excerpt: "Threat intelligence firm Abnormal Software is seeing cybercriminals using generative AI to go phishing; the same technology is part of the defense."
-    publishedDateTime: 2023-06-16T22:36:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-vs-ai-phishing-wars/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr061723-featuredimg-ai-vs-ai-phishing-wars.jpeg"
-        width: 1366
-        height: 910
-        isCached: true
   - title: "Robots and AI: A new economic era"
     excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
     publishedDateTime: 2023-06-17T01:04:00Z
@@ -87,6 +73,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
+    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
+    publishedDateTime: 2023-06-21T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 12
 
 secured: "0X6Ij1xZ8LsAnuTmOx3QQfcstuKz5zmd+ppInombyXeopnptiA6QkLMIRrYhJ817vyOV3keHWNF/2K6SQpIY2KRx4HhV6YyTAAidkbXEulgBNmy8xJ/w4AtRaoV+6IRGJ6/m+mW8YtRyxXVfuwOI0FAz+wbWXV0XkxyWwPsc5b6aC/tWumA0LgmHyV1Bu2tL3iwGivBvG3Fs3wxkMp89Pp37As+7kSoBz7zX9EMSvrnKRGi1iisMbgfONAtSLJ2WroceLSwgXQlMgWdeKX9fAziVI2V7y8iMEHlQsbd1+FF6R64iuPkl+ZXfdcwzXznJ4eAfDj+8yaVK4u/JN4418EKPEDCjXXj1uIEajWLgu+idK9MhVnnR/2eADvojlRcUAN8aEASf9fL2W3uWktWpXCD3PWtSdPz+TUaFL1ExVZ0rWmXlXQaTCl5RmtlhjpSus4+KXXM6x0ceg9PVZwX+9mPcw2Tj4C7llRytru2TXMa8vGq/YCf4TyrajUPWr68hZZLBwgDZjKatHfYxT6n0qQ==;IL1cgolpSWD1vHfZSjI/ag=="
 ---

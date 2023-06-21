@@ -116,6 +116,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What President Biden said about artificial intelligence during his Bay Area visit"
+    excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
+    publishedDateTime: 2023-06-21T14:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/21/joe-biden-artificial-intelligence-bay-area.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
+  - title: "Biden meets with artificial intelligence experts in California"
+    excerpt: "In brief remarks to reporters before the closed-door meeting, Biden said that he wanted to hear from the world's leading experts on the \"enormous promise\" and \"risks\" of the fast growing technology."
+    publishedDateTime: 2023-06-21T13:36:00Z
+    webUrl: "https://kyma.com/news/california-news/2023/06/21/biden-meets-with-artificial-intelligence-experts-in-california/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 17
   - title: "President Biden Remarks on Opportunities and Risks of Artificial Intelligence"
     excerpt: "President Biden gives remarks in San Francisco on the opportunities and risks associated with artificial intelligence (AI). Defense Secretary Lloyd Austin spoke at the National Security Commission on Artificial Intelligence Summit. Secretary of State ..."
     publishedDateTime: 2023-06-20T13:12:00Z

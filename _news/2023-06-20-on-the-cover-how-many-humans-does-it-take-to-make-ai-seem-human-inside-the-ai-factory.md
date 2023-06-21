@@ -7,7 +7,7 @@ originalUrl: "https://nymag.com/press/2023/06/how-many-humans-does-it-take-to-ma
 webUrl: "https://nymag.com/press/2023/06/how-many-humans-does-it-take-to-make-ai-seem-human.html"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How could AI destroy humanity?"
-    excerpt: "Researchers and industry leaders have warned that artificial intelligence could pose an existential risk to humanity. But they’ve been light on the details."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/how-could-ai-destroy-humanity/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "aTFcbBeDqaSU5t78aE6bn0kgoFYotP7wpVIVaLpNPVeEiyR9ju7qWgK/sniRFaayV4ABajCgQnl8/L+SaEollWzWNaDLZ+Dbhy9LT8W0gDaSpqMvFrVbj+nIpzOB4GxALe7n3xtmkGAPOs6T3saiGhKMG32IlTpoMFtnNUz/oHScfGhAULPPec04+xSG01wFITEVR6SHUSU5JBu/rcETcDJbt6KVmIILWiqbhVxq1ElitHZ+4EXHIisEspKhWUamjl9aRdvQqZxfLKY4dp7cdKNWYELTVyo9xGuZ5/2dhJVzvPhKWpR0Ki36uvlscGH6Jv5eKGiuHa+916rbU5n5hWiuhuR+2jfrdgVPaHtsci9sIwvFDT6F7+UMowycM2jJ0zST1+BuPHMNoXulVXJbZpYRkH/K8MB7163spC4DTGrZ28Rhxz+oq894fP5pXrLam9Jqe8NRqF/5xzFm8jmEUFrFWngz7zi0fGKPQoxcpWspIKl1gu+ophE9DXR6FtYAGQw7a5qTHpgERZcoxI/A1A==;kayksWsLmXzH4geWILVaxQ=="
 ---

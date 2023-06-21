@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial
 cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: WUSA
@@ -26,24 +26,56 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is 'the next productivity frontier', report says"
-    excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
-    publishedDateTime: 2023-06-20T12:20:00Z
-    webUrl: "https://www.ibtimes.co.uk/generative-ai-next-productivity-frontier-report-says-1716910"
+  - title: "The creative and transformational possibilities of AI"
+    excerpt: "James Manyika spoke at the Cannes Lions Festival about AI and creativity. Read excerpts from his remarks."
+    publishedDateTime: 2023-06-21T09:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-creativity/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
-  - title: "How AI is changing the 2024 election"
-    excerpt: "“Using AI to create an ominous background or strange pictures ... Sarah Kreps, director of the Cornell Tech Policy Institute, said people may start to either “assume that nothing is true” or “just believe their partisan cues.”"
-    publishedDateTime: 2023-06-20T09:27:00Z
-    webUrl: "https://www.wate.com/news/politics/how-ai-is-changing-the-2024-election/"
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "The trials and tribulations of AI voice tech"
+    excerpt: "The FT News Briefing is produced by Fiona Symon, Sonja Hutson and Marc Filippino. Additional help by Katie McMurran, Peter Barber, Michael Lello, David da Silva and Gavin Kallmann. Topher Forhecz is the FT’s executive producer. The FT’s global head of audio is Cheryl Brumley. The show’s theme song is by Metaphor Music."
+    publishedDateTime: 2023-06-21T04:00:00Z
+    webUrl: "https://www.ft.com/content/7ad2716d-d16d-4c90-8ae3-417588b8a942"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 17
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fef66a1e9-c2e8-4a8b-9561-57dda1f7cd52?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 900
+        isCached: true
+  - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
+    excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
+    publishedDateTime: 2023-06-20T14:01:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835715.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+  - title: "Cognitive Credit Launches Transformational Credit Modeling Solution"
+    excerpt: "Cognitive Credit, the leading provider of corporate credit data and analytics technology, today announces a major enhancement to its web-based application. Building on the fastest and most accurate credit data in the market,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/cognitive-credit-launches-transformational-credit-modeling-solution/article_1c3346cb-d6b0-5c5d-875b-59d51be8ca39.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 4
+  - title: "OutSystems Unveils its Generative AI Roadmap to Transform the Way Enterprises Develop, Edit and Extend Mission-Critical Applications"
+    excerpt: "OutSystems, a global leader in high-performance application development, today announced new AI features - including the general availability of its new connector for Azure OpenAI, built jointly with Microsoft - and its roadmap for a new suite of generative AI capabilities,"
+    publishedDateTime: 2023-06-21T15:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836896.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "D75wVRuk3kipEo8Tv1qgK0gMyxFCvA7km2Ji2bHHO2vrTOi1eQ0MYqx7fdxk7qSvxD384lKToL5UBxft1jryMp4fbJXp85/P1evuAu4KrmPei4UUx7qALR99z+2GS9EIdBEmryPE+r13uuiGHrQooZKSTY5vigvDuODSZlCXmP43k5+n6S1rBOjOL55PMLAaX2gvGsJBcRpGHX4R0am6X5wzGUZCCkaZVBDGw9IZVkdH//RsXEaGZhkCC3P7zk3cbeAZRzSu2aWyqfhl6tZs0IGYnoegQTjHIFMgbEoBhGsdPKLRTa80k5KCs6XXMaCBlDzbr7ME2Ggn6DnHVosQKdnXtpjN/euMdg/J1DfchLPVePKcOnyQYMA74ZOW1Y8SahKIJ23o6/RtCTzC9yac/zGzosNib8+M2g9raqWMirIRaMOpb7JPTVGJa74WHL3tBnj/OUt/ZsXn0HVuJZvRGG5Fjlwquzo2i+XErk7Y3vMSnbe5cAZF6ZIj3KHyO4N/thPynuFuOMOxZ7PzL9LqJA==;UJ/elOUubvwiJAXkns11yQ=="
 ---

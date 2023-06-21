@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Mayo, Mass General Brigham, Providence are using generative AI, virtual nursing"
-    excerpt: "Explore 24 digital health innovations from health systems around the US, including AI-powered scheduling, virtual nursing, hospital-at-home programs, and more."
-    publishedDateTime: 2023-06-16T20:03:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-mayo-mass-general-brigham-providence-are-using-generative-ai-virtual-nursing.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "OiWzu6w7YUt3CROKNQsU7DaS9UfLeQ0brP0c+KbvBJY5HzQikWV+090T06Rdq1+tPleiEG2jrbEFlLiFoSx7P/zH+cdfnYq4uNlnSIpI/cGWqyqn3dIl99rA9+xJwuItSiFq74bw2ijLxu6yAIRtFBpMSfJX5jaoLGfauFvwajsA42d9Pwc4JtLzt+6edPDW6IzQBBVZc8tU9QmZyB9XykP5N2EgD5pyU0shnYrnYrLtLt/NG82Blx4DWfzhOFenRr7xY0n6H9ibdSYqk++C7fmh/BNgnHgNJ+MS7+qCwk3ftKnl3ZUrP/vsQTWrjrWeHOpMuNwXitnFCJy4oPMSC1sl20YtDKCSt9N4xKzsRfw=;JVUSNdtBxXye4tyhvrvZNg=="
 ---

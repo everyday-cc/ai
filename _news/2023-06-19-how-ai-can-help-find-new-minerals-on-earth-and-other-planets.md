@@ -45,6 +45,15 @@ related:
       name: The Mint Hill Times
       domain: minthilltimes.com
     quality: 34
+  - title: "How AI Can Help Stressed-Out Managers Be Better Coaches"
+    excerpt: "The expectations placed on managers to assess and guide their employees’ performance have increased, a trend amplified by generational shifts and remote work. Employees want frequent, personalized, one-on-one coaching,"
+    publishedDateTime: 2023-06-21T12:25:00Z
+    webUrl: "https://hbr.org/2023/06/how-ai-can-help-stressed-out-managers-be-better-coaches"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "OpXEUiGQZCW4DHXVyQXWm1NN7Hd+CM8kyPt2SsVRkbStxC/cJv4sdv/vEeRTb4fnppxD71UX/D70f0dqt1BZOvHwA0PK8poW1QFg7KMbr5OQ6rkCacJplYmrZD69WQgDgnl4ApDCkYpe76oX5V8YhWIwsyM4nG1rIZn0HQ7+cSeW3AvC+uTPdB+kSQEjKuRSE9SN84Ll+OQXqvpfxzEX0+jg0R24tdGER1aE95JtTZTrtO/IH8v2s6Gha/teQOoVT9e7b8Ra22SGR58UfeBxnpN5aeJ37KvLheNPii4lauxzYNmSHQcBq3FqecbQ2YFQaGfMC5m52hBGzqItJvhg8TJNL0lF1e3Aq9uhOCwbr+OCCcK02x2cDJ+o/sFPDUeyXMIKDOgAhkVF0EIJxspbhTM6yHrALBx/Gtj8lJKKEhbIHGG7mzaH2s7NJH0Acc863Xnmiy4kNxUb/MhY36u4a0M973FcdpgVyKQb6Wj17F3Sd6h4gdkeSkmsK3cJMB1Qt1ty9JnMELcpjL2TQpdc0A==;kWFq+9Xtt7/FAM4IW+/r3A=="
 ---

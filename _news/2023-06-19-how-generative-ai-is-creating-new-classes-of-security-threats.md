@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -94,6 +103,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "pD2WsL/t+dQWHiCMgu0DiAJryyYFcj+SpjrIL358rm1DlQQZ095pDhJ0lfLvHbsXxlsy+CKZ6Qxc0oJ+9MpfLApziHV1d7R1o0U3iGGEVXPz3NKkA5xhBTrST3BY8mQ5gvPs/NcC/Qx61p1pPQUcrpPbsCxfRBYhexGCA2pCplrRMzRaDNGwu6tJP5IBPnLw2Hf97rcv1HXaf5I8/IFERcoB0mYBelluAHzSSJPDGA9812VugrBKosJxjeH9pXwK7JTA1ympoS2RUkP8DXQEbLJZqOzOhwS/uVyq097CVqRnSIdmHnhOQIffqIodzOR9FBSdglhSfYeDJvkPTj0i/Z3WbbU4gAYPN81bPEaGctabLfo8ZyMCt4oWV+FGXn3FAJiiVcASwAkF7sBLvACDCFo3VjaCJC+r8MKVJfXcLE3Z26GzNakr9fKAC4MjUVRmQy+tzZ6Y1rK5kg+s0Xrx+k9B6ohjdIyPcCJOlnLWUVIYbdTCiQLyknGsHssAfBh50IDWXzOy6xVxI29Q34icuw==;4zJkpHHxuMizoME7Y6gt6w=="
 ---

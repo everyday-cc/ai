@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-mor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
 type: article
 quality: 83
-heat: 103
+heat: 115
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
+    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
+    publishedDateTime: 2023-06-21T10:55:00Z
+    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 64
   - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
     excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
     publishedDateTime: 2023-06-18T04:10:00Z

@@ -61,6 +61,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
     excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -93,6 +102,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "fsJ0w/v5n0zsISU7Gr8ppNALlbZBArNBLiMQj8dNG/LUqOWoUOHxmX3WRKvoqM2tXLNzKQNCmsKH9B3ZQe/nd3Rkz6s1fVsz45vqPMRqpcJYSU0sd2UnrN1mID0PI8F+STbnYdSD/OvxCsu35J5UqWebKufKfxyvYwBwvsgVmMrI9WxnlotzhaxQLqcLazkhoh54LZu238rxW7gZb+D70yjz1EPwdyEiVnSpl2Ud/Hc67lJN+6wEo5MLO3evgzKiHPV6IA2eK96Xh1RjupMN4PXolpuELThqp6g6Wq4Jj4DkzQbchx17w5GP+kJ2Z53sLZlsKupUitEFKBp+QVa/45fu5i/oFQKsuGcQcoZV35Lb9kyaSF7UwSTBUXZ/Lkw/AcBx3PVTrDmJ/FjW92KFo16F5uV54ek75W8YNKmHYj7U/k2qrkvDSYvROYyWgaWOMFtt1l70yZ+320K7qfLdL0q3mjhy4cVy1jOBtMQgRt+bLjIO9iz4VIgJhteLBcANCIZFYLLuKlGhfalkuiJ2zQ==;ggJbiitTig3ESTzFsN1USA=="
 ---

@@ -63,6 +63,24 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 19
+  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
+    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
+    publishedDateTime: 2023-06-21T11:54:00Z
+    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
+  - title: "Wimbledon Line Judges' Future Uncertain As Grand Slam Embraces AI"
+    excerpt: "Wimbledon technology chiefs say line judges are safe -- at least for now -- even as the grass court tournament embraces artificial intelligence."
+    publishedDateTime: 2023-06-21T12:39:00Z
+    webUrl: "https://www.barrons.com/news/wimbledon-line-judges-future-uncertain-as-grand-slam-embraces-ai-a936e334?refsec=topics_afp-news"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
 
 secured: "Ic35tABcUmUwA2vp+AS8YSZYRD3MR0DR4rWsxhd5NBCeCy99Iw6tw5Fo6B9NvZjoBzfUXGgj1Pjjls/q4uhfTn/s5QQKjhmDyPrIfE7Ubr9umwagI2AZyk/VZwLgCNXRiQrlhY6OW5CBVCfQ6q4KyRyy70b6NWWMrGSQsVG16ptj/4+5ZPQF+1psQQ98iPSMvEnrR9dbhtGMiip7qxA8iUmYyKYMTqfmgpuDx3EdCdGP+HORbc0fE8dyaPbpHM0Wy3Yar0dHJzWqUcQ8agjkUPwQM2y8BtJeBlDuflD7iiNufO7KFj5mggNfCRFzm97UeGL4dxYFGtAB0tEsKXXH1Jx3H1G8gmQJw3ORKkBPmh0=;wg63J4MhLy2I/BwA8WgrHQ=="
 ---

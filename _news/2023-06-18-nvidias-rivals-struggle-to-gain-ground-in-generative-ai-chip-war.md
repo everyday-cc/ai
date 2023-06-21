@@ -60,6 +60,20 @@ related:
         width: 843
         height: 562
         isCached: true
+  - title: "Here’s five Asian AI stock picks to rival Nvidia"
+    excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
+    publishedDateTime: 2023-06-19T05:57:00Z
+    webUrl: "https://www.afr.com/markets/equity-markets/here-s-five-asian-tech-stock-picks-to-rival-nvidia-20230619-p5dhlm"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.6665%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_126/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8110045d4ce71ea12b5b5a9e268518061fd1db75"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
     excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
     publishedDateTime: 2023-06-20T12:21:00Z

@@ -55,6 +55,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Angry reaction to announcement gardaí will get bodycams with facial recognition tech"
+    excerpt: "There has been backlash from the public following the announcement a standalone bill allowing the use of facial recognition technology (FRT) by gardaí will be brought forward by the end of 2023."
+    publishedDateTime: 2023-06-21T10:18:00Z
+    webUrl: "https://www.sundayworld.com/crime/courts/angry-reaction-to-announcement-gardai-will-get-bodycams-with-facial-recognition-tech/a1155720438.html"
+    type: article
+    provider:
+      name: Sunday World
+      domain: sundayworld.com
+    quality: 12
 
 secured: "3PAco6huK0zCBQ7mzxOUOOEBQLq4xHCFshGEcjEB8EBQMbqjUOK7RaCYz21cP0IGPG13BItAqZGbk6+R16h9lnRl0nsYBP8HzYw1udBCt2Km+P4KrLKS3DqclDmBVkIpNClI9yvCD3bm1OeUc1buhVWGUNRoizn7xxjOXdIO5K4Dsa8rR8Jcm+OEAAR4wzt519fvlsqRDaAq+XmDfWTvH9iZYZJRbDo8b8OazC/aA5NDTtHvFjt1WACEartTDkiObYp/vqAliMnSRCrz+d+dU0VRaDcNBrR7niLRqXMDCqnYqUFvSAqtLdaVOd2dUJvAuPDSkCZ0lzlVIGDHqJklSp9mxUBTJCy6IHK45gjkY3QpEIxtgc86xdxI9t1IQ+bs9mUV2uXdKcc6GweE6wwMxdeY+QXWgI/d+te74GGK7g6ZKPWPH3nFyNdyC+0GGAE6LegpEbSNC5QLq2KO826ZBQyQWrNkQXMYSfDgs1pVivZmHbC0b9d/rdOlp4hwlENbaztNRTN3L/iEJtaLeduJoA==;N0zvdN59ZVFaOZ3FipcL4g=="
 ---

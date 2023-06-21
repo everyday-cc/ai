@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-age
 webUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
 type: article
 quality: 74
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 34
+  - title: "Killing It with Robots"
+    excerpt: "The company is hell bent on building robots and are acing it. The company has unveiled RoboCat, a self-improving robotic agent, which is able to learn and perform a variety of tasks with different arms,"
+    publishedDateTime: 2023-06-21T10:55:00Z
+    webUrl: "https://analyticsindiamag.com/killing-with-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "di3CNIKqohui8b3dbu8WeHLdvl3enq3WJMVs2cw8cKCcZMgVo6SP/kqYIJu0dy2MxYPKpRJtbE+M4lkARJYf6tmzgg/0G/dOBE036tXyTDYl5aJ6jzUSXJeMdhWxIT1h1R8cHex/eLHb7KSZhCVE2ec6OKiDqIOUUJF9lZEKebccW+mXtYNHTpssXjsEP/FKNCNDG7/WGd3JyNjV9IGrDjbkm6DF0+86jPHcWrTUNqrxRAka/DizXeOJrieIEItmfQYuIN4Quua7eNLnYZ0tNB7ZASShVLNNYkzBlmFnfU6NEUksxtyQ6wr/xDPekI5rwYbt4wIZsGsnlG7eye6o6G0VdMcBlcYEv3Qmw6Vcy0o=;SFrXWC3j29nfWOtKNx4a9Q=="
 ---

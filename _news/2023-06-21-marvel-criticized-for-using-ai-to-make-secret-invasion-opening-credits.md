@@ -1,0 +1,51 @@
+---
+category: news
+title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
+excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
+publishedDateTime: 2023-06-21T13:25:00Z
+originalUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
+webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
+type: article
+quality: 46
+heat: 46
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
+    excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
+    publishedDateTime: 2023-06-21T12:33:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/21/artists-are-mad-about-marvels-secret-invasion-ai-generated-opening-credits/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "Secret Invasion: “Gross” AI opening credits divide MCU fans"
+    excerpt: "The opening credits sequence of Secret Invasion was made by AI, and people can't work out whether it's \"cool\" or \"gross.\""
+    publishedDateTime: 2023-06-21T09:28:00Z
+    webUrl: "https://www.dexerto.com/tv-movies/secret-invasion-ai-opening-credits-divide-mcu-fans-2184401/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 37
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/21/secret-invasion-ai-opening-credits.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "z1HDt1Bm7ogdQMSViC691Ri5XsWqUb/SJT+zW5m/cAewPSw7+8ENF2ybMlY7uhRTCuE8JzhSMEoHBpwkG78JZDkBELfg1/mm2DLU/MEksNKODlWkqM6O6/27OjTg9kZ6JnOogA2kqEZG+7Ll1d4+rU7aanzqIrN46FqNbfkf+8v4xbAOUHbh3v9KRYo+Ae+X0krSUgkOJMakYW1+XOok85WfT3nHpBXp8ImBH8i76KGRyeexGespOC2XVsvf3iq5V4SE17xD1ujym3JOQC/1dHQKeach8kWafuKB+Vx0eLp2Ceg5WPycL4JiBmEJin8TBdze2BKUDes8wbi/MllyUfbqGlLNSn4q60TonhwetUHCu30BFUm9rWPhQPHIW/rOvxtTKGwE+4Yz7JbNFWTOl1tSdDryexnoPNVJUEx1n03VJFjI9tEKOtwx2gqQqcdihjz14UUYllP3GJjWmVrWEbkRYJMRyz1W4/orry4inkKiVwD1DinoiW8nXYMnGTGlBlsJB7nl3fvjmxEYQ6JXXw==;nG1M/IV9ektMObP9JxMO+A=="
+---
+

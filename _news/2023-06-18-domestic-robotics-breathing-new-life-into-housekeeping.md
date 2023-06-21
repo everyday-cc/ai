@@ -33,6 +33,15 @@ related:
         width: 1600
         height: 1042
         isCached: true
+  - title: "Killing It with Robots"
+    excerpt: "The company is hell bent on building robots and are acing it. The company has unveiled RoboCat, a self-improving robotic agent, which is able to learn and perform a variety of tasks with different arms,"
+    publishedDateTime: 2023-06-21T10:55:00Z
+    webUrl: "https://analyticsindiamag.com/killing-with-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "lqI7HsEfz00L6KgrF5PZB0GLsXKNShDO3qWuVD/k9OOY9a8KcDK+rsevfVKeyz5qAgUux+HdAA8nwTTzEtQy49JDr8wbWGAWGJKPduTWdV6XlkaRlZmukev4EF4mAL56BdPwiHUQLzhMHl8EQS8aozat2hIjnwi+GYMBtUJL/Ca4BXikIE5MuM8aalGPByXZY1nF3KEzR0LGONb7UAWdWgnE+uX+pmon4yyKh95q2++8SpN7YuGF2OFsDihUhQGhmDrqezI5JUYDWCS9itp+uzK2vONksvy9uHFVZzi9AcUqXlMONAOa+OrU3nyyD9MbLdAPSHOiDSDeZHFgFv/okDWChIvQdyXZxylemKPYzkD2EEOhU31wKR4dvVYCV4BOKobWRt9gVVLInbhjrnBLbh2feTH/Etav/iJPgrRHK7VPgCPNpDzTSy/7KOooskbU446uDAynY3FGsCZDIViF0Etd9x7Z0gIBiPfFnmVMq0HidrWjjqkW8Cotc2gZcFo1Iv9PN6hJ6seQiYYS8xOaLA==;8PlN3t5yoL0i/6EgDgaimg=="
 ---

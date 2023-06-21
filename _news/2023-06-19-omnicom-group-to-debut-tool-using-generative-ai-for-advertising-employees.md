@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-gen
 webUrl: "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Mayo, Mass General Brigham, Providence are using generative AI, virtual nursing"
-    excerpt: "Explore 24 digital health innovations from health systems around the US, including AI-powered scheduling, virtual nursing, hospital-at-home programs, and more."
-    publishedDateTime: 2023-06-16T20:03:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-mayo-mass-general-brigham-providence-are-using-generative-ai-virtual-nursing.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes"
     excerpt: "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models."
     publishedDateTime: 2023-06-19T14:33:00Z

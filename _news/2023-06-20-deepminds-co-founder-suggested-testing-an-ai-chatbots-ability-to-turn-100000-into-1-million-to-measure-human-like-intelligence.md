@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-tur
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
+    excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
+    publishedDateTime: 2023-06-18T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32?ilc=timesradio:morefromthetimes"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fef88028a-0e20-11ee-9d84-6e8ed24abaa3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DeepMind co-founder calls for a better Turing test for AI"
     excerpt: "The old Turing test is not meaningful enough it needs to make money DeepMind co-founder Mustafa Suleyman, co-founder of, suggests chatbots like ChatGPT and Google Bard should be put through a \"modern Turing test\" where their ability to turn $100,"
     publishedDateTime: 2023-06-21T09:01:00Z

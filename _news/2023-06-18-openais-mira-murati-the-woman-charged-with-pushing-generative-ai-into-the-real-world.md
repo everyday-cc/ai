@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
+    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
+    publishedDateTime: 2023-06-21T10:55:00Z
+    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 64
 
 secured: "6yXOoZkUfzt23ekFJQbjVO592ORzqnepN1J1GNEDIhxwDr8PopOZTBg35sMzOqg3zzEeYAWy/VdOvblMg40B6KDsEJYU3TmZM2F3wSeXIMKxeskbI78QGFhfHfJAYBq4W4AhMd5LPJUKJAVN1AVk2+dDr5Lx7L/E8jqF2Kwkqi22YKbPn/1WHo3jsfjbMyp4UJjtLXje06oPPig/5EbqIkzmlb8jAimYbaSEUcD6LFNR9dr5RrXJYd42dgzt8aOxgZzjflt9C/cl6nOehvQtWXFj7eTOx5iS4LNmd3f7gDjtEKMWXMfBydbW8SxY4tX+k/ybNdjtMb8v8TtRk+5m/chHJAvaBiVWLS1ma6QaeOU=;zBLYcGwxb+dkzVTWXK0G3Q=="
 ---

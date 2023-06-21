@@ -23,119 +23,110 @@ topics:
   - AI
 
 related:
-  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
-    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
-    publishedDateTime: 2023-06-20T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones"
-    excerpt: "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos."
-    publishedDateTime: 2023-06-19T20:50:00Z
-    webUrl: "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
+  - title: "Otter.ai's new AI chatbot will automate your next steps after meetings"
+    excerpt: "Now it is adding a new major AI feature to help even more -- Otter AI chat. Users can invite Otter Chat to their meetings where it will act as a meeting participant. Once in the meeting, Otter Chat will be able to provide users with immediate feedback on questions and generate meeting-specific content."
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://www.zdnet.com/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 83
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/75d97106c816f223fe37f683ce9c0c959aa5567f/2023/05/26/e932655c-b2dd-476c-b5aa-6ee12c840ae0/screenshot-2023-05-26-at-3-30-31-pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language"
-    excerpt: "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends."
-    publishedDateTime: 2023-06-16T21:02:00Z
-    webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0715307a68876c2264d2924f9491eec206a9622f/hub/2022/04/15/27e03c86-200d-44d3-a570-673e0b1427f7/meta-logo-2022-425.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's Voicebox AI is a Dall-E for text-to-speech"
-    excerpt: "“Our results show that speech recognition models trained on Voicebox-generated synthetic speech perform almost as well as models trained on real speech.” What’s more the computer generated ..."
-    publishedDateTime: 2023-06-19T07:52:00Z
-    webUrl: "https://www.engadget.com/metas-voicebox-ai-is-a-dall-e-for-text-to-speech-150021287.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/Pdgn1binumIAO7SepNVZCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/53dca6c0-0ad7-11ee-bdff-97d6ad440b00.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
-    excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
-    publishedDateTime: 2023-06-17T16:34:00Z
-    webUrl: "https://www.pcmag.com/news/metas-voicebox-ai-tech-could-give-your-digital-assistant-a-familiar-voice"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Meta's Voicebox AI Mimics Voices of People, Versatile Speech Generator for Audio Editing"
-    excerpt: "The latest development from Meta delivers the Voicebox AI which it claims to help generate audio from text or speeches, as well as act as an audio editing tool for all needs. Meta boasts it to be the most \"versatile\" speech generation tool in the industry,"
-    publishedDateTime: 2023-06-20T01:00:00Z
-    webUrl: "https://www.techtimes.com/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292788/20230619/metas-voicebox-ai-mimics-voices-people-versatile-speech-generator-audio.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 52
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429932/meta-voicebox-ai.png"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
-    excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."
-    publishedDateTime: 2023-06-18T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/meta-announces-voicebox-a-generative-model-for-multiple-voice-synthesis-tasks/"
+  - title: "Otter AI Chat brings new collaboration and insight to real-time voice transcription"
+    excerpt: "Otter AI Chat, built on an LLM based on verbal data, will enable real-time collaboration between people and the AI chatbot in real time."
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://venturebeat.com/ai/otter-ai-chat-brings-new-collaboration-and-insight-to-real-time-voice-transcription/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 50
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_speaks_into_a_microphone_67f9bdd0-06de-49c1-9e51-0eb05f82f74f.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/otter-ai-chat-1.png?w=1200&strip=all"
+        width: 1199
+        height: 762
         isCached: true
-  - title: "Meta's New Voicebox AI Sparks Debate Over Generative Speech"
-    excerpt: "Voicebox is reminiscent of a technology unveiled by Amazon last summer that allows Alexa to generate speech using a deceased person’s voice. The tool is purportedly meant to fos"
-    publishedDateTime: 2023-06-21T11:00:00Z
-    webUrl: "https://www.extremetech.com/computing/metas-new-voicebox-ai-sparks-debate-over-generative-speech"
+  - title: "Matterport's New Artificial Intelligence Play"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-06-21T12:29:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/21/matterports-ai-play-has-promise/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
+  - title: "Chatbots invade retail: The US$72 billion AI revolution led by ChatGPT"
+    excerpt: "Juniper Research forecasts AI chatbots driven retail spend to hit US$12 billion in 2023, escalating to US$72 billion by 2028."
+    publishedDateTime: 2023-06-20T23:59:00Z
+    webUrl: "https://techwireasia.com/2023/06/chatbots-invade-retail-the-us72-billion-ai-revolution-led-by-chatgpt/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/Chatbots-2-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "AI, chatbots and ChatGPT: Threat to knowledge work, or a ‘dancing bear’?"
+    excerpt: "AI holds many possibilities for society, but caution is needed, especially at universities where platforms such as ChatGPT threaten academic integrity."
+    publishedDateTime: 2023-06-20T15:25:00Z
+    webUrl: "https://www.news.uct.ac.za/article/-2023-06-20-ai-chatbots-and-chatgpt-threat-to-knowledge-work-or-a-dancing-bear"
+    type: article
+    provider:
+      name: news.uct
+      domain: uct.ac.za
+    quality: 38
+    images:
+      - url: "http://www.news.uct.ac.za/images/userfiles/images/news/2023/2023-06-20_ai-chatbots.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
+    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
+    publishedDateTime: 2023-06-19T03:26:00Z
+    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 35
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Open-source AI chatbots are booming — what does this mean for researchers?"
+    excerpt: "But while large technology companies such as OpenAI and Google have captured the attention of the wider public — and are finding ways to monetize their AI tools — a quieter revolution is being waged by researchers and software engineers at smaller organizations."
+    publishedDateTime: 2023-06-20T15:44:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01970-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 35
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01970-6/d41586-023-01970-6_25515824.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The rush for AI chips"
+    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
+    publishedDateTime: 2023-06-20T19:32:00Z
+    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 34
 
 secured: "KaSK/OhrGWyEuzmh0RS6c5uFLrbjfWmWvMxYdxlEaud2UYZrKwfSa7L81gkaU6jr1Tf49xKGYEtwVcTlqj/UYuPM9QosXxHtGZ9k3qgKnzihVg0T7GT+1g9PPntyVhXEoUhjP+Y31tWo5JELN71LyHoASq3RaAr8B1z5lrhibg8N5y2WBPh16mcdsMAs4yedcaaPyxXb8knG666Ta9NDzJwcriuRzO6tlzjC5XUqdW5ivn1sZx1zTBon2ebIWIgjDqWuyPQ6S+q6ZMXBbeUboidksur9pR03KeJzGe2Urh5nmWW6GvmKo52RsIags7SbFutzlcdSISL6OSt4ng7aHS/n9d0UISMNRR+oePcLSJu+fAjrjhwz5b0BgEgEKPXKRsYDwsOdrigaBH2BGKqb3hd7eh758fcv7JjdY54v3kImoGxrDSizjsLVu43vkVJVbMVl7PdsTlHukWhDiKXWzIDwdGUKfJEPsbEssBccps8t8s/53ERIyMSlAvri0mvVtOgm8V2euB6HdLq9QaJTWQ==;tzJph7GpV3ms0nuE+LB5SQ=="
 ---

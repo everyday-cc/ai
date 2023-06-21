@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/"
 type: article
 quality: 80
-heat: 80
+heat: 82
 published: true
 
 provider:

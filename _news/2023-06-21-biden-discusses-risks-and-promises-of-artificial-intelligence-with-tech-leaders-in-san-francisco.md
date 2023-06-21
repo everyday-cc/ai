@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-publishedDateTime: 2023-06-20T21:50:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
+publishedDateTime: 2023-06-21T01:15:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
@@ -89,6 +81,6 @@ related:
         height: 630
         isCached: true
 
-secured: "aiCjDCtlYLDHympHAblryBrwAINwWizKROr6bCtDigZZx5Y7G97lVtioSL+JILTBHBAOiDsu2DSWx1R4mGBnvlGhD6g24jkP6nThBln/mnl4XsiJgFFuhq5fiGMO8CPwq+BnYJ3aSsNYmYLSFbFQSlqdWw2fjnIYMvFZ4gjYKFZclsUwLR03lzzGTdxPakyOWzUqF8tfNd9HIfKOSSh6JTF65IR3gXVvAI6x5v/BR/m3t+oDq0Xs2Xxayq2zpYNQOXeXiXrvjgcHeQewaVzpxSkECcMfQ+G5EkDvOMexgfgl+RfVsIYsuxDk3BviG9gZnBXSPYsmVhswOtWPXbu74OE/yDtidjCWnekT67Or7pEJgK8jYpop2Ek4Gz/MS8rUnG5yZaPih8aHQ2hsKNIo8A4dqffXhFudbIGR51CUusL32MThb7irhDFpt9YWsFmCukHu8bMu8bAI5WKcy2nEmc0YqBnAq7fhA7b7+2hgFvkx/qkA6b3Jj3PujyFIFnxQOIFiT3ZMbSshRHToViihKw==;RDOVyo7wQIJU3afVQHX79w=="
+secured: "027jDxLAb91O1nKDAMnaEo5vUreuvfgzR99ij12JO/KbrLk9caybffyybDj8H2SjXmePN8ky6fEe/mfm6bPQiPhPIg/Y16QnyoXhKwuwBtVYME8hhIkrhIHbXsLF2qpSnnMlRVNj/Rq22fv73SI+4O0h3bR79EFg9Fg82pEC2Rh8KC156qObzrzWJJY5QKmysm6XJUzP1ZDem9Fz5AggIsZjWpcSaOQLqR0h7BS+VsEW9D2q3BogQ3Xh6PbBtAY2Qx4r/5cW/wxZcCtLwyFjHmcnfpuW3LXNDqE9HYV57qWTz6SjjZCUxydAfCA5HNofgSj2H5EZfLtJ/TaK/wCZzmjuk8AMH/KB/cWSybJeFsHpzd/FVnhhT4w/Otmkf6KhfLm2w4x1oq9m8S+Ryp5USMQP9Del2czbvBdpJThRzw4b0WD0xnzyk3IgEyb3VcjBApGHX3C/ToLeLCNSu7e/fF2ILpOAnGTMfC82i8adjxgVfLARkcU4Z+kMgXXOu1KZiK/8RADswON42HGFKOMg9A==;3Gz7mpR42mQWqZEtuAdSaw=="
 ---
 

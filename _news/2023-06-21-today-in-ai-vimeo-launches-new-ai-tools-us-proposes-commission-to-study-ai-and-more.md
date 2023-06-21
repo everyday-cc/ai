@@ -1,0 +1,87 @@
+---
+category: news
+title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
+excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
+publishedDateTime: 2023-06-21T13:28:00Z
+originalUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
+webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
+type: article
+quality: 12
+heat: -1
+published: false
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence"
+    excerpt: "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too."
+    publishedDateTime: 2023-06-19T10:13:00Z
+    webUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Robots and AI: A new economic era"
+    excerpt: "But soon many articles and most — if not all — goods and services will be produced, operated and delivered by robots and AI. Robots and AI will change not only the way we work, but also the way we live."
+    publishedDateTime: 2023-06-17T01:04:00Z
+    webUrl: "https://www.manilatimes.net/2023/06/17/opinion/columns/robots-and-ai-a-new-economic-era/1896427"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 54
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/06/17/205184.jpg"
+        width: 1200
+        height: 979
+        isCached: true
+  - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
+    publishedDateTime: 2023-06-19T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embrace-ai-top-3-tech-stocks-crushing-the-competition-1032396831"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
+    publishedDateTime: 2023-06-20T10:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-need-to-be-on-your-must-watch-list-1032398389"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "SKT Strengthens Alliances with AI Companies to Hasten AI Revolution"
+    excerpt: "The company has been promoting AI transformation (AIX) through partnerships and collaboration with AI companies. At MWC Barcelona held in March 2023, SKT joined hands with seven AI companies, including SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat."
+    publishedDateTime: 2023-06-20T06:52:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32471-skt-strengthens-alliances-with-ai-companies-to-hasten-ai-revolution"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3bacf7ad4de69f1e1a9bf1201aece724.jpg?t=20230620_064518"
+        width: 752
+        height: 408
+        isCached: true
+
+secured: "va+71oR5EU+T36xcsUrAmNugZDzw72bgRna2BBLm2IsG5LEC05nvLF6Ws0+K0FVn3Jx5EcD0fcdbsMTMWRa+2t0IJWJyOGAQin2syZv16Km5emV5Vz35bF7QHEbv+VhKeIMLkZbmh5H2739Jj7Vuz7i4iQg6SEBqmbrdH6Fm/OOztWAy2SfHyFfI/Hrv+q3PbtjihpBUbECMpYtXjvsfUXzDc2WtEBNlf0ijqmVf+T8jh4wz/q8u91bOjYRPjgtzCfcoHvAVAfxYVkatdz5/MNLf5ZGpu+h9L7X917MAv0VE6DOFQlYC18rHUTHdHT3s3s/+7BLJrVTv7Aqynms3C81Qc/uUNvZyIEH9NwOPqWouhMDzR+iLKPhq/qA5OVQbIVgV7VrYgVekTSp9UW6VPNcTTKxB0rKN8Z2KfFGwOpGFhyoV8QpQQlRJt7uIpDqncNOxJjT38v/N865X7CeSHoLkK8Ql4V04vTtQ9wE6YgLZbuaoxcdIKOllBWt2gA2JUcI+rsW2idu0LyVMzhlyfA==;0sHQA7AvwMluQwsDhhV9Hw=="
+---
+

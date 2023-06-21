@@ -58,22 +58,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-    publishedDateTime: 2023-06-20T21:50:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
     publishedDateTime: 2023-06-21T02:28:00Z
@@ -88,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
+    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
+    publishedDateTime: 2023-06-21T01:15:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
 secured: "MKWHOzP4pR0TSSNiHlUVkmxrg2weTvv5JwRGtDTBQGhOx10HV3Ox3JOpwHYj+poAfMNKCWGCpx4JiJjUoGZ2g0LtG6+HRPGn0fseWBgD8JkhQJAPcu0L2cbsaM/VUqpYHwgDrNL1QtG0ueZy47unQEHiP2Vd8hk5MKvetZNVwveWEqmArp3gO8SS3aT4NpRAAhVtVSm+XcHCFzc6UR8puEMX73eiPke+4eLPWOQBhfTOdTU+/1EEiKHjYymOuZE2U/mQUFGglS4MydhGO/jpWAvEpib92hSTS9yGV2L7PaqYb9JxlOtBEYd3zD+Ent54UP7zmYFdSOG8FlTN8pkLMG6Bte7Wtkj9lFH1RGqR4R4=;RlDa1IB7yp4jbwn/7a29Kw=="
 ---

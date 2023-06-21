@@ -123,6 +123,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What President Biden said about artificial intelligence during his Bay Area visit"
+    excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
+    publishedDateTime: 2023-06-21T14:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/21/joe-biden-artificial-intelligence-bay-area.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
+  - title: "Biden meets with artificial intelligence experts in California"
+    excerpt: "In brief remarks to reporters before the closed-door meeting, Biden said that he wanted to hear from the world's leading experts on the \"enormous promise\" and \"risks\" of the fast growing technology."
+    publishedDateTime: 2023-06-21T13:36:00Z
+    webUrl: "https://kyma.com/news/california-news/2023/06/21/biden-meets-with-artificial-intelligence-experts-in-california/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 17
 
 secured: "r1+9gM8fcCq8xHLB4h3OSX1DwKh4OvmyqiDuAJiCsASiPkdPk8JAQL1VQMwhmQAMGuYxcd7k/qX8wJYJmxgPuARGQ3bWP7aj5pEaO9er6E/wRFWhKeJsfB/n2nFaQY6Geud69/oVzycrDGs9P8tt57iqiPANd39dZtYLTMtpehNXnrtkmHqJUwP7md6w1h8ErmoLaNchB1RVy2/wzkhepy9bCGPGmd4PDw7pxSFanbU1+ckiR1fBY/q5ZQwSPWIzSDFSh6hD+1bPTxLPbJqKlENwlX/FilRVHZXHgDjM7p0nykvfXDKcJxbZpQ63ThDv8wORDS8pQx8XZ19K/mbidLRRD6lLje2rPId6j0Esb8I=;5eqVEswNgOcRqYImTka3ww=="
 ---

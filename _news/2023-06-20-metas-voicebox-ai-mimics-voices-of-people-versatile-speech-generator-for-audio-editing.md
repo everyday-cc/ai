@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's Voicebox Generative AI Makes Anyone Speak a Foreign Language"
-    excerpt: "Meta says Voicebox can be used to give a natural-sounding voice to virtual assistants or non-player characters in the metaverse, which are digital worlds in which people will gather to work, play and hang out. It could also be used by visually impaired people to hear messages read by the voices of their friends."
-    publishedDateTime: 2023-06-16T21:02:00Z
-    webUrl: "https://www.cnet.com/tech/computing/metas-voicebox-generative-ai-makes-anyone-speak-a-foreign-language/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/0715307a68876c2264d2924f9491eec206a9622f/hub/2022/04/15/27e03c86-200d-44d3-a570-673e0b1427f7/meta-logo-2022-425.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta's Voicebox AI is a Dall-E for text-to-speech"
     excerpt: "“Our results show that speech recognition models trained on Voicebox-generated synthetic speech perform almost as well as models trained on real speech.” What’s more the computer generated ..."
     publishedDateTime: 2023-06-19T07:52:00Z
@@ -125,15 +111,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "yPAvKsPx3AnLfF2HaET32S0Fh/1i5KTRKDRjOW3Ap8iu8rV+lZUyg0zJwlNgv06vl/UbmAqTt1mqnO6Cu3qRPLKvfaUPxoB9GS1a/DNsO/fxndk8OOQokyaqeymJ1moboxofZT0Lu7ZL4F/OGFf6IP1HNpiAwtGwqlcNretHodXp5ilt/HOzQydrP4j2zYR9CmPUwSBYzh3bi2FCni3uonKhPynf9HO24+G3ktb3/v+jvmotp/V7PYia43KoPRRkKppMwAKIhaYEY7a8bjpQqIxOZ5JgpwbQ5mra/mnF8hGshaRHNo8ZrMiiAe9pV4Gibe3ZYFb+nSjaKC6RUpEab/fpVkKuWXKeSU1FsMAJsM//zrJ7KpplPyNcTIrIjyAvai89SnswpzfU221k7RCqC+GRl9WfE4SxPlhOa6sefUzm5Iw/TRmsYxUQBfi5C09I4+nd6nNVnCDQoBYFmpfa2XDCpudJm7CzDwTseSiuxtzdDedhRsvNsO2+tlbWVIb9/kHFsmB1i7wm/og0wbQWgQ==;9JUhfmihmQNaEZOnh4Paog=="
 ---

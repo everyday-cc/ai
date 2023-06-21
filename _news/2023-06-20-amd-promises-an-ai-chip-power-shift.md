@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32924098"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 50
-  - title: "The rush for AI chips"
-    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
-    publishedDateTime: 2023-06-20T19:32:00Z
-    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 34
   - title: "AMD adds EPYC CPUs, adds AI features"
     excerpt: "AMD has announced the products, strategy and ecosystem partners that will shape the future of computing, highlighting the next phase of data centre innovation. At its Data Centre and AI Technology Premiere,"
     publishedDateTime: 2023-06-20T09:38:00Z

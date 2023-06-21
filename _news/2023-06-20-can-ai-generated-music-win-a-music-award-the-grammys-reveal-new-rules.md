@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
 type: article
 quality: 87
-heat: 157
+heat: 127
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Could a robot win a Grammy? AI music is eligible — sort of"
-    excerpt: "Hold the (gramo)phone: Artificial intelligence-generated music is eligible for Grammy Awards — err, kind of. The Recording Academy announced sweeping changes Friday to music’s biggest night, including that it will allow entries that use AI, as long as there is a “meaningful” and “relevant” human component."
-    publishedDateTime: 2023-06-16T23:06:00Z
-    webUrl: "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/"
-    ampWebUrl: "https://nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/16/could-a-robot-win-a-grammy-ai-music-is-eligible-sort-of/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/AI-grammys.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Grammys OK AI Use in Music—But Ban Fully AI-Generated Songs"
     excerpt: "A rtificial intelligence is permeating the artistic world—a fact the Recording Academy, the organization behind the Grammy Awards, is accounting for under their new eligibility requirements that restrict fully AI-generated songs but allow for its use in award-eligible music."
     publishedDateTime: 2023-06-18T17:23:00Z
@@ -80,15 +64,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "Grammy Awards Restrict AI: Only ‘Meaningful’ Human Work Will Be Recognized"
-    excerpt: "Any song created by artificial intelligence must have a “human authorship component” that is “meaningful,” according to new eligibility requirements."
-    publishedDateTime: 2023-06-16T19:34:00Z
-    webUrl: "https://www.forbes.com/sites/tylerroush/2023/06/16/grammy-awards-restrict-ai-only-meaningful-human-work-will-be-recognized/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "New Grammy rule addresses artificial intelligence, says \"only human creators\" eligible for awards"
     excerpt: "Under the new rule, works that features elements of AI are still eligible as long as a human creator is responsible for a \"meaningful\" contribution."
     publishedDateTime: 2023-06-18T00:57:00Z
@@ -105,15 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Grammys: Only 'human creators' eligible to win, recording academy says response to AI"
-    excerpt: "The Recording Academy announced a number of changes to the Grammy Awards, including a rule that stipulates “only human creators” can win the music industry’s highest honor in a decision aimed at the use of artificial intelligence in popular music."
-    publishedDateTime: 2023-06-16T22:10:00Z
-    webUrl: "https://www.chron.com/entertainment/article/grammys-only-human-creators-eligible-to-win-18156627.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 10
 
 secured: "QmVnS9vGBsMcVJcPoYs0OfYbEpUNBomTF28l6BOcot2SGFS62/TgUp/nPl7wz3iOSN1SYkcvUYVM8TntvWVwZc6urxNro7z2ofVH9IoDjyBcP+g5o0K/LsYnbyUm5AG6C9MkgJswRpTXMDkYFKm0tGbUYXmP5u90ofO98FuoEmfvorEnH0JgmQAclZVYdTSwEmGTjtVyRq9P70kI3L3CJqbg7bI7X94596+GZ7Enh1g+vFmi2vMZ/UAIujJC9HC6S/uMXh0TxV1kGgDdHDen/bGBAApMKEIcYIHXdC0Sv/eujBhJ49zfNZGt8Xs+IRcUQ0xxcrfOn8G0QVCp2rL7nTDotfK1Pk9OmPvAC3tO2I4=;oMcDxhmzkwIBoP5UJc4EFw=="
 ---
