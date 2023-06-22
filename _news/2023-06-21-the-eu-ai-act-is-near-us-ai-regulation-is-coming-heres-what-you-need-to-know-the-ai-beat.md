@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Congress is racing to regulate AI. Silicon Valley is eager to teach them how."
-    excerpt: "The overnight success of AI-powered ChatGPT has triggered a frenzy among lawmakers to draft new laws addressing the promise and peril of the burgeoning field."
-    publishedDateTime: 2023-06-17T16:17:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/06/17/congress-ai-regulations-silicon-valley/70332920007/"
+  - title: "Amazon Prime Day 2023 is coming—here's everything you need to know and early deals"
+    excerpt: "The bad news is that you have to be a member of Amazon Prime to get those top-notch items at rock-bottom prices. The good news is that you can give Prime a test run without it draining your wallet."
+    publishedDateTime: 2023-06-21T21:57:00Z
+    webUrl: "https://www.usatoday.com/story/money/reviewed/2023/06/01/amazon-prime-day-2023/70277035007/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 16
+      name: USA Today
+      domain: usatoday.com
+    quality: 18
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/06/01/USAT/232c5295-5f23-43f6-813f-f092e6d53f6d-2023_PrimeDay_Hero_V1.png?auto=webp&crop=2987,1680,x12,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ppLBMnYMyEm20I+ThI53+fMlQ+J8Rr/+DmTga+4qk+BkOmBUuNX0FK0x4K4Iu/714KLd1uNngkCeFZNl0dBWku0rs7le+DLDmrv8jk4o2tRkf/aVfD/Q4VX1S3os3mYZAxvMloAyTQ9qBrJjdfxxZnu6+27R3O3kRg4n0RSpz2Z0gCu2lZHECFa6Eputb59qXo+bOiShHloSKc4A91x2YNf2yLXLJsreGTJY5miRGNJdS9cX2b6Koqomzl8wPQmTp21AmvOhbN3KyJmab7aWCSlU72agjPUmvwPR990GgraLjqit6htPNdkeJWdXtr15h6AhNEQ6lZuvmoJvMJAq3vJtoHGGua4wiadnmMmrID3pxmJd/5NRcLy2r69tGPjdpJT0rUQBgkDW7qrf1Mp35ZE7WzbISNod7J30GvmoLC2EiwFCejyOO9IMNoWe8SpDOAJiBC3fap6a87OxhHJ7HfHLr81+uHj7Pdw1iwBvxKpMK+GVQKwRaXgF3iF576wFOjGmZuNo1f8pcJMr3ImxBw==;Kvtn74Ct1w3Ut803LNEhqA=="
 ---

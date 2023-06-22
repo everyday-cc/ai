@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
+      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
+      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
+      "publishedDateTime": "2023-05-30T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-ai-leaders-warn-mitigating-the-risk-of-extinction-from-ai-should-be-a-global-priority.md",
       "title": "AI Leaders Warn: ‘Mitigating the Risk of Extinction From AI Should Be a Global Priority’",
       "excerpt": "A statement warning that AI needs to be taken just as seriously as a pandemic or the threat of nuclear war has been signed by OpenAI CEO Sam Altman, Google DeepMind CEO Demis Hassabis and other ...",
@@ -1386,40 +1439,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns.md",
-      "title": "AI will create a ‘serious number of losers’ in job market, DeepMind co-founder warns",
-      "excerpt": "Mustafa Suleyman co-founded the Google-owned AI lab DeepMind. Bloomberg via Getty Images Suleyman asserted that the US and other governments will need to consider ways to support workers who lose ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/05/10/ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns/",
-      "originalUrl": "https://nypost.com/2023/05/10/ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

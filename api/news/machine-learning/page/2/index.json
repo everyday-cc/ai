@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-13-the-face-game-a-citizen-science-project-to-learn-how-artificial-intelligence-will-choose-to-appear-to-humans.md",
+      "title": "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
+      "originalUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2023/ai.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp",
+      "publishedDateTime": "2023-06-13T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth.md",
       "title": "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth",
       "excerpt": "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period. With the proliferation of digital devices, sensors,",
@@ -1317,51 +1360,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend.md",
-      "title": "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend",
-      "excerpt": "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T11:40:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

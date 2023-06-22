@@ -35,6 +35,20 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Mobility giant Bolt adopts self-driving Starship robots for food delivery"
+    excerpt: "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year."
+    publishedDateTime: 2023-06-22T09:16:00Z
+    webUrl: "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 53
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "DYtRYdOLEkeZC1LYd5wVDRk1FZPpdJf9ErikX0DJPWt+0XaEm0qbL1N3AezoOimjRMC5hY87MqX9FsGq+R5BZ+vfnZx98Ml8WVfYBrB29krR5PfY6cYp6r+KQyzw9/Q6nt54CkCPPeLHZuSPtTvoZxA8wAOCMXTOLI8x/D28IT6H7vpJyF0Y9bJ5wQFHh8WN9LoIqY7Itr79BdpsWZBUTa/hqkg/bebmzyDE/pAYKvnbvv8AJJeCxCSh+L9ZWgTJGL/ARfcu53TFm/wezUpqd8O4D6lDU1xbR7fX7albQ0LxUcm8Tq2FQQNeZXgs1pJYukGVCSiCkg4uHyJdx0UxrQ6VBNVXr4qVttrT9eMm3hDJePjyrxkLq7beVOJwkgCRvBtmDNisIILDaWermxY5Xec2IRHtmywVlJgzb4UKJNSnUz2MXFWr0Xvo3p/z9LFaHvNtmEyiPcW4Eo7s+lOVThofimJmkH4OezvmMpvXSKJiIQ3ywWk+vYpbVQu94Hid1+/SjkKpiw1q/E7uf/VZbQ==;bYzQOtNchoM75sef6OqpIA=="
 ---

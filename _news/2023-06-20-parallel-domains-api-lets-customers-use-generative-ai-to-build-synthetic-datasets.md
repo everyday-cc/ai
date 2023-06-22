@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "5 tips for business leaders to leverage the real potential of generative AI"
-    excerpt: "It feels like generative AI is everywhere. The explosive launch of advanced chatbots and other generative AI technology, like ChatGPT and others, has commanded the attention of everyone, from consumers to business leaders to the media."
-    publishedDateTime: 2023-06-17T15:21:00Z
-    webUrl: "https://venturebeat.com/ai/chatbots-just-beginning-how-leverage-real-potential-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_artificial_intelligence_technology_coming_out_of_a_compu_53e4a63c-a4cc-46a1-989a-6b3bc275a023.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -92,6 +78,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
         width: 650
         height: 401
+        isCached: true
+  - title: "Navigating the future and ethics of Generative AI"
+    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
+    publishedDateTime: 2023-06-22T07:19:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 54
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "3 downsides of generative AI for cloud operations"
     excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."

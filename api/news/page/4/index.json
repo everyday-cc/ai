@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
+      "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
+      "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200",
+          "width": 649,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "publishedDateTime": "2023-06-19T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier.md",
+      "title": "Vimeo adds a suite of AI tools to make video creation significantly easier",
+      "excerpt": "On Tuesday, Vimeo announced it is adding a suite of AI tools to its platform that will automate a lot of the video-editing process. The features include an AI script generator, a teleprompter, and even a text-based video editor. Also : TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "originalUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb0f8df4687cfc04a4ac734b220e0f4b00c9e0ff/2023/06/16/2c07c14f-1fed-45bd-9a02-dd27d3b4b9cd/vimeo-ai-prompt-720.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "publishedDateTime": "2023-06-19T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
       "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
       "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
@@ -179,6 +284,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-artificial-intelligence-is-the-new-frontier-in-election-misinformation.md",
+      "title": "Artificial intelligence is the new frontier... in election misinformation",
+      "excerpt": "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "originalUrl": "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361",
+      "publishedDateTime": "2023-06-19T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA",
+        "domain": "wusa9.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1055,161 +1202,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
-      "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
-      "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
-      "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
-      "publishedDateTime": "2023-06-18T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future.md",
-      "title": "AI Delegation: The One Skill You Will Need To Succeed In The Future",
-      "excerpt": "Learn why understanding and using AI tools is a critical skill for both individuals and businesses in the evolving digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648febad4bdd8c39f2b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "publishedDateTime": "2023-06-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-the-ghost-in-the-machine-shouldnt-be-ai.md",
-      "title": "The Ghost In The Machine Shouldn’t Be AI",
-      "excerpt": "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

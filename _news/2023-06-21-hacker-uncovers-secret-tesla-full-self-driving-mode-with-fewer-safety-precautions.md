@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 902
         isCached: true
-  - title: "Tesla’s Full Self-Driving Matches Waymo Skills Despite Far Less Hardware"
-    excerpt: "In a single test using each system both vehicles performed without need for human intervention but that doesn't make them the same"
-    publishedDateTime: 2023-06-17T16:37:00Z
-    webUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/"
-    ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-matches-waymo-skills-despite-far-less-hardware/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 73
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Whole-Mars-Catalog.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
     excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
     publishedDateTime: 2023-06-21T16:28:00Z

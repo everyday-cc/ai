@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-09-tensorflow-lite-c-api-reference.md",
+      "title": "TensorFlow Lite C API Reference",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "originalUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-using-tensorflow-to-recognize-your-own-objects.md",
       "title": "Using TensorFlow To Recognize Your Own Objects",
       "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",

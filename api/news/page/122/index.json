@@ -2,6 +2,308 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-03-28-facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech.md",
+      "title": "Facial recognition is helping Putin curb dissent with the aid of US tech",
+      "excerpt": "Facial recognition equipment is pictured at the exhibition during the Sixth Eastern Economic Forum in Vladivostok, Russia, in 2021.  LONDON — Andrey Chernyshov had just entered a Moscow metro station on his way to an anti-war protest last May,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
+      "originalUrl": "https://www.stltoday.com/news/national/facial-recognition-is-helping-putin-curb-dissent-with-the-aid-of-us-tech/article_993af131-23e1-5844-8bc6-1dea6eabbb81.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/993af131-23e1-5844-8bc6-1dea6eabbb81/6422c31341ace.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-what-do-ai-art-generators-think-a-ceo-looks-like-most-of-the-time-a-white-guy.md",
+      "title": "What do AI art generators think a CEO looks like? Most of the time a white guy",
+      "excerpt": "A team of researchers from AI firm Hugging Face — one of whom is a former AI ethics researcher at Google — and a professor from Germany's Leipzig University published a study to identify how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "originalUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6421d4d0b50c290018641ec3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-generators-dalle-stable-diffusion-racial-gender-bias-ceo-2023-3?amp",
+      "publishedDateTime": "2023-03-28T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead.md",
+      "title": "AI's Tipping Point: From Dark Forces To Creative Liberation, What's Ahead?",
+      "excerpt": "We believe that it can start very low, by just answering the basic concerns of people: will my work be disintermediated by AI? Will AI become sentient? And then progressively open up more complex issues to people; let them understand what is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6422a2be50a1d9dd6c10b24d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/03/28/ais-tipping-point-from-dark-forces-to-creative-liberation-whats-ahead/amp/",
+      "publishedDateTime": "2023-03-28T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market 2023 Size Growing Rapidly with Recent Trends",
+      "excerpt": "Artificial Intelligence (AI) in Automotive Market Analysis 2023 \\| by Product Type (, Context Awareness Computing, Machine Learning, Natural Language Processing, Computer Vision, ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2023-size-growing-rapidly-with-recent-trends-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-automatic-speech-recognitionasr-software-market-share-business-till-2030.md",
+      "title": "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-ai-ification-welcome-to-the-next-business-revolution.md",
+      "title": "AI-ification: Welcome To The Next Business Revolution",
+      "excerpt": "Think of any business and imagine the AI-ification of its purpose and processes. Start building the future based on what you see. Artificial intelligence in its current form is giving entrepreneurs the opportunity to completely disrupt existing industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64212664402fcb379210b24f/0x0.jpg?format=jpg&crop=1635,919,x0,y137,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
+      "publishedDateTime": "2023-03-27T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-gpt-4-menya-ibishya-byubu-buryo-bushya-bwa-artificial-intelligence.md",
       "title": "GPT-4: Menya ibishya by'ubu buryo bushya bwa 'artificial intelligence'",
       "excerpt": "ChatGPT yari imaze kumenywa nk’imwe muri za robot za artificial intelligence (AI) zikomeye ku isi, ariko abayikoresha ntibashoboraga kuyiha amabwiriza cyangwa kuyibaza ibibazo utabanje kuyandikira. Ariko ubu, ubwoko (version) bushya bw’iyi chatbot ...",
@@ -897,318 +1199,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-closer-look-voice-typing-in-windows-11closer-look-voice-typing-in-windows-11.md",
-      "title": "Closer Look: Voice typing in Windows 11Closer Look: Voice typing in Windows 11",
-      "excerpt": "For other languages, Microsoft has recommended the use of Windows Speech Recognition instead. Voice typing settings in Windows 11 With Windows 11, the first thing I noticed was that Microsoft has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/closer-look-voice-typing-in-windows-11/",
-      "originalUrl": "https://www.neowin.net/news/closer-look-voice-typing-in-windows-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2021/10/1634794841_vt3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/closer-look-voice-typing-in-windows-11/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/closer-look-voice-typing-in-windows-11/",
-      "publishedDateTime": "2023-03-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry.md",
-      "title": "Deep Agency shows the perils of applying AI to the fashion industry",
-      "excerpt": "Earlier this month, Danny Postma, the founder of Headlime, an AI-powered marketing copy startup that was recently acquired by Jasper, announced Deep Agency, a platform he describes as an “AI photo studio and modeling agency.” Using art-generating AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/",
-      "originalUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/11/489474058a.jpg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/27/deep-agency-shows-the-perils-of-applying-ai-to-the-fashion-industry/amp/",
-      "publishedDateTime": "2023-03-27T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-turing-launches-ai-powered-services-to-form-engineering-dream-teams.md",
-      "title": "Turing launches AI-powered services to form engineering dream teams",
-      "excerpt": "Turing’s Talent Cloud uses AI to eliminate the arduous task of matching highly qualified ... GCP, BigQuery, Node, React, Azure and Python. Turing designs its services using a distributed application framework and the microservices architecture to scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "originalUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247-e1664214930793.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/turing-launches-ai-powered-services-to-form-engineering-dream-teams/amp/",
-      "publishedDateTime": "2023-03-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031.md",
-      "title": "AI and Big Data Analytics in Telecom Market Size and Forecast till 2031",
-      "excerpt": "The \"AI and Big Data Analytics in Telecom Market\" study describes how the technology industry is evolving and how major",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-size-and-forecast-till-2031-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-how-to-use-gptzero-to-check-for-ai-generated-text.md",
-      "title": "How to use GPTZero to check for AI-generated text",
-      "excerpt": "GPTZero can tell you whether a document, report or other item was possibly written by a human or by AI. Here’s a step-by-step guide on using GPTZero for this purpose. With the popularity of ChatGPT, many people are starting to rely on AI to generate emails,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32723-gptzero-detection.jpeg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-use-gptzero-check-ai-generated-text/amp/",
-      "publishedDateTime": "2023-03-27T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Application, Product, Sales and Forecast 2023-2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" Report covers specified competitive outlook consisting of the market proportion and company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-application-product-sales-and-forecast-2023-2031-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
       ]
     }
   ],

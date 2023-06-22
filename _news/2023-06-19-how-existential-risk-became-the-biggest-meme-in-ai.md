@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075140/how-existential-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "How To Invest In Artificial Intelligence in 2023"
+    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
+    publishedDateTime: 2023-06-22T00:08:00Z
+    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Q8NcDopbfPQ4MdpaTrBFq5oIEueUr5P5GjqogAGlIZFus8IhtIA8CT+ueAblbNfWOWPTLQ+usdWs3VHS3XeKxm291hmR1vfGrntgoTbMzCX1Xq+fq5+sWiwo00u1vnzhLed6Hjm4dndpHdfBXzhyxfDo3ZAVyQqnxHmwFdjlcxZQ9snfolH8r2q4rhKbXy4Kjeq29iLHtzM2mnmmd2z2FizIvWsiR3rV+on3+Sw/unZO9ZcaYvu4+BWOXrIX9UADaY1RvcjEtoAJHwoedAnPyCVKr41DRluOzOjMHdkErwkY5nh2gsv1yUSjqO/0GsutzpoohjMb0ix6ZF8Gwtbmx9+0WkD1DBYPY35/9UBCpYK7NxI44quodutd1/C2xFauPzClyWssskfxJGKlWB95O7vx2bTerK0yrhJ4O5ANGzuSs89inTq4snarOdCMU+Nf3EFN0QxW5kSh4NAGs0Q+PMluVyceEOv08sLQcqKIT5bkTao34yYtBJnt6d3C6GdV5AHONSYZsJJZxbom70qBYg==;ruMgklRVViH5ZxzzpM/Uhw=="
 ---

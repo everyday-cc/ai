@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-16-empowering-individuals-with-disabilities-through-ai-technology.md",
+      "title": "Empowering Individuals With Disabilities Through AI Technology",
+      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200",
+          "width": 983,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
+      "publishedDateTime": "2023-06-16T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-unicorns-are-hard-to-come-by-unless-youre-an-ai-startup.md",
+      "title": "Unicorns are hard to come by, unless you're an AI startup",
+      "excerpt": "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
+      "originalUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-moving-ibm-db2-on-cloud-instances-to-mzrs.md",
+      "title": "Moving IBM Db2 on Cloud instances to MZRs",
+      "excerpt": "Moving forward, all IBM DB2 on Cloud instances in Toronto and Sao Paulo must be moved to the multi-zone regions (MZRs).\nThe post Moving IBM Db2 on Cloud instances to MZRs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
+      "originalUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T06:08:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-hybrid-work-could-save-knowledge-workers-jobs-from-ai.md",
       "title": "Hybrid Work Could Save Knowledge Workers’ Jobs From AI",
       "excerpt": "On one hand, the prospect of returning to the office stirs up a cocktail of dread and nostalgia. On the other hand, the threat of AI-driven job elimination looms large.",
@@ -301,6 +429,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
       "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
       "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
@@ -444,49 +624,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
-      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1097,153 +1234,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
-      "title": "A Machine Learning Engineer’s Guide To The AI Act",
-      "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b4afc51f15116deb12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/06/15/a-machine-learning-engineers-guide-to-the-ai-act/amp/",
-      "publishedDateTime": "2023-06-15T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems.md",
-      "title": "EU votes to ban AI in biometric surveillance, require disclosure from AI systems",
-      "excerpt": "The new changes to the European Commission's proposed law—which have not yet been finalized—intend to shield EU citizens from potential threats linked to machine learning technology. The changes come amid the proliferation of generative AI systems that imitate human conversational abilities,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/eu_flag_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/eu-votes-to-ban-ai-in-biometric-surveillance-require-disclosure-from-ai-systems/amp/",
-      "publishedDateTime": "2023-06-15T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-how-can-ai-and-machine-learning-improve-the-use-of-financial-data.md",
-      "title": "How can AI and machine learning improve the use of financial data",
-      "excerpt": "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
-      "publishedDateTime": "2023-06-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

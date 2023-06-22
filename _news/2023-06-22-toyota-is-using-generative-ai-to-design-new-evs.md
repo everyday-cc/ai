@@ -116,6 +116,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
+    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
+    publishedDateTime: 2023-06-22T08:56:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 29
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
     publishedDateTime: 2023-06-21T04:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
     images:
       - url: "https://s.yimg.com/uu/api/res/1.2/Pdgn1binumIAO7SepNVZCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/53dca6c0-0ad7-11ee-bdff-97d6ad440b00.cf.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Meta's Voicebox AI Tech Could Give Your Digital Assistant a Familiar Voice"
-    excerpt: "Meta teased Voicebox as a way to make virtual assistants sound less robotic or power non-playable characters in the metaverse. But it's not releasing the AI model publicly yet."
-    publishedDateTime: 2023-06-17T16:34:00Z
-    webUrl: "https://www.pcmag.com/news/metas-voicebox-ai-tech-could-give-your-digital-assistant-a-familiar-voice"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03NM2PpZqwZLg4BMzrhErAj-1.fit_lim.size_1200x630.v1687019297.png"
-        width: 1120
         height: 630
         isCached: true
   - title: "Meta's Voicebox AI Mimics Voices of People, Versatile Speech Generator for Audio Editing"

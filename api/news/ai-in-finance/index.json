@@ -239,24 +239,33 @@
     {
       "path": "_news/2023-06-14-zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it-transforms-how-contact-center-agents-learn-and-perform.md",
       "title": "Zenarate AI Simulation Training Wins Banking Tech Awards USA's 'FinTech of the Future' as it Transforms How Contact Center Agents Learn and Perform",
-      "excerpt": "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach. PALO ALTO,",
+      "excerpt": "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach Zenarate AI Coach is the ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
+      "webUrl": "https://www.victoriaadvocate.com/zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it/article_70c0cca1-4c5e-56d9-90ac-b0a01f0b6802.html",
+      "originalUrl": "https://www.victoriaadvocate.com/zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it/article_70c0cca1-4c5e-56d9-90ac-b0a01f0b6802.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/b/12/b12edf4d-60bd-5b14-8265-19be7a76b898/636129f116155.image.jpg?crop=792%2C416%2C0%2C98&resize=792%2C416&order=crop%2Cresize",
+          "width": 792,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T07:19:00-07:00",
+      "publishedDateTime": "2023-06-14T09:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

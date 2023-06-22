@@ -2,6 +2,152 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-15-draft-ai-act-passes-banning-police-facial-recognition.md",
+      "title": "Draft AI Act Passes, Banning Police Facial Recognition",
+      "excerpt": "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
+      "publishedDateTime": "2023-06-15T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-when-ai-overrules-the-nurses-caring-for-you.md",
+      "title": "When AI Overrules the Nurses Caring for You",
+      "excerpt": "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "originalUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-799675/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-cambodian-facial-recognition-effort-raises-fears-of-misuse.md",
+      "title": "Cambodian Facial Recognition Effort Raises Fears of Misuse",
+      "excerpt": "The order, signed by Prime Minister Hun Sen and released in March in a recent tranche of government documents, would award the funds to HSC Co. Ltd., a Cambodian company led by tycoon Sok Hong that has previously printed Cambodian passports and installed CCTV cameras in Phnom Penh, Cambodia’s capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "originalUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/C19AFD84-F6C5-43D8-A79C-876DC943775B_w1080_h608_s.png",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "publishedDateTime": "2023-06-15T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse.md",
       "title": "Mailchimp leverages AI to transform into an omnichannel marketing powerhouse",
       "excerpt": "Mailchimp has announced plans to harness the power of artificial intelligence (AI) to expand its offerings of marketing automation solution.",
@@ -921,6 +1067,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-sparsity-preserving-clustering-keras-example.md",
+      "title": "Sparsity preserving clustering Keras example",
+      "excerpt": "This is an end to end example showing the usage of the sparsity preserving clustering API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. # Load MNIST dataset mnist = tf.keras.datasets.mnist (train_images, train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-smart-manufacturing-technology-is-transforming-mass-production.md",
       "title": "Smart manufacturing technology is transforming mass production",
       "excerpt": "Smart manufacturing (SM)—the use of advanced, highly integrated technologies in manufacturing processes—is revolutionizing how companies operate.\nThe post Smart manufacturing technology is transforming mass production appeared first on IBM Blog.\n",
@@ -1013,212 +1211,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-exclusive-42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years.md",
-      "title": "Exclusive: 42% of CEOs say AI could destroy humanity in five to ten years",
-      "excerpt": "Many top business leaders are seriously worried that artificial intelligence could pose an existential threat to humanity in the not-too-distant future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230607154817-person-working-laptop-screen-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "publishedDateTime": "2023-06-14T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-92-of-programmers-are-using-ai-tools-says-github-developer-survey.md",
-      "title": "92% of programmers are using AI tools, says GitHub developer survey",
-      "excerpt": "GitHub partnered with Wakefield Research to survey 500 US-based enterprise developers. They found that 70% of programmers believe AI is providing significant benefits to their code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "originalUrl": "https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/17056194a20c467b3f81bb7510469e8b006f37ee/2023/06/14/96567fed-dc63-4868-b088-eb719664f8f5/gettyimages-1429526787.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/",
-      "publishedDateTime": "2023-06-14T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
-      "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
-      "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/190730113259-disney-pixar-wall-e.jpg?q=x_0,y_95,h_809,w_1439,c_crop/w_800",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "publishedDateTime": "2023-06-14T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future.md",
-      "title": "AMD Laid The Groundwork For Big Hyperscaler AI Accelerator Play In The Future",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as yesterday AMD held an in-person event in San Francisco to cover the latest in its datacenter and AI progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e8531c18e5e7d67d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "publishedDateTime": "2023-06-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

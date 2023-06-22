@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-09-ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai-upgrade.md",
+      "title": "IBM: Remember Watson? It's Still Around, Ready to Give Your Business an AI Upgrade",
+      "excerpt": "IBM has a new AI and data platform called Watsonx (Opens in a new window) aimed at making it easy for enterprises to take advantage of artificial intelligence. The name Watson fir",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai",
+      "originalUrl": "https://www.pcmag.com/news/ibm-remember-watson-its-still-around-ready-to-give-your-business-an-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04mhwYeYHQqvpDeM7PqS7i0-1.fit_lim.size_1200x630.v1683633314.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-accelerate-your-speed-of-business-with-ibm-event-automation.md",
       "title": "Accelerate your speed of business with IBM Event Automation",
       "excerpt": "IBM is announcing IBM Event Automation, a composable solution designed to help businesses put events to work.\nThe post Accelerate your speed of business with IBM Event Automation appeared first on IBM Blog.\n",
@@ -1390,62 +1442,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "These are true artificial intelligence stocks and include those ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "Microsoft AI",
         "IBM AI"
       ]
     }

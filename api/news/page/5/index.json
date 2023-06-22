@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
+      "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
+      "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "publishedDateTime": "2023-06-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future.md",
+      "title": "AI Delegation: The One Skill You Will Need To Succeed In The Future",
+      "excerpt": "Learn why understanding and using AI tools is a critical skill for both individuals and businesses in the evolving digital era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648febad4bdd8c39f2b1e992/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
+      "publishedDateTime": "2023-06-18T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-19-how-generative-ai-is-creating-new-classes-of-security-threats.md",
       "title": "How generative AI is creating new classes of security threats",
       "excerpt": "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1036,6 +1140,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance.md",
+      "title": "Viperatech Supercharges AI Innovation with NVIDIA DGX H100 & H100 GPU's: A New Era in Deep Learning Performance",
+      "excerpt": "and H100 4x GPU models, is set to make waves in the AI and deep learning ecosystem, enhancing capabilities for businesses and researchers around the globe. Designed for an era of AI and high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2020/11/Capture3-2.jpg?w=2000&#038;ssl=1",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN-TV",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-top10-artificial-intelligence-ai-and-machine-learning-ml-development-companies.md",
       "title": "Top10 Artificial Intelligence (AI) And Machine Learning (ML) Development Companies",
       "excerpt": "In this article, we'll look at the key criteria for evaluating AI and ML development organizations. We will discuss the factors that must be considered, such as knowledge, experience, innovation, and others.",
@@ -1077,134 +1225,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-empowering-individuals-with-disabilities-through-ai-technology.md",
-      "title": "Empowering Individuals With Disabilities Through AI Technology",
-      "excerpt": "Tyler Weitzman, cofounder, President and Head of AI at Speechify. The WHO estimates that more than 2.5 billion disabled people will need one or more assistive technologies in 2030. Yet almost a billion of them can’t access these products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b358071553ed0ad9b88a1/0x0.jpg?format=jpg&width=1200",
-          "width": 983,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/empowering-individuals-with-disabilities-through-ai-technology/amp/",
-      "publishedDateTime": "2023-06-16T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-unicorns-are-hard-to-come-by-unless-youre-an-ai-startup.md",
-      "title": "Unicorns are hard to come by, unless you're an AI startup",
-      "excerpt": "Some of the largest funding rounds include OpenAI's deal with Microsoft Corp. that valued the ChatGPT maker at $28 billion, and Cohere, a generative AI startup founded by ex-Google researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
-      "originalUrl": "https://www.bizjournals.com/twincities/inno/stories/news/2023/06/07/generative-ai-unicorn-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-moving-ibm-db2-on-cloud-instances-to-mzrs.md",
-      "title": "Moving IBM Db2 on Cloud instances to MZRs",
-      "excerpt": "Moving forward, all IBM DB2 on Cloud instances in Toronto and Sao Paulo must be moved to the multi-zone regions (MZRs).\nThe post Moving IBM Db2 on Cloud instances to MZRs appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
-      "originalUrl": "https://www.ibm.com/blog/moving-ibm-db2-on-cloud-instances-to-mzrs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T06:08:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

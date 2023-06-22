@@ -21,9 +21,9 @@ related:
   - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
     excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
     publishedDateTime: 2023-06-21T15:27:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
     type: article
     provider:
       name: ABC

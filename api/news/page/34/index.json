@@ -2,6 +2,271 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-05-27-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "The surging demand for AI has brought the stock market’s recent performance into focus, revealing the diverging paths of traditional chip makers and GPU manufacturers and highlighting the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
+      "originalUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-ai-scares-the-bejesus-out-of-me.md",
+      "title": "AI scares the bejesus out of me",
+      "excerpt": "It’s an internet-powered horror story unfolding in front of us in three interwoven acts: (1) AI technology is improving fast enough that I recently had a bit of an existential crisis, wondering if I,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/",
+      "originalUrl": "https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1465454608.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/amp/",
+      "publishedDateTime": "2023-05-27T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
+      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
+      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
+      "publishedDateTime": "2023-05-27T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
+      "title": "How the generative AI boom could deliver a wave of successful businesses",
+      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-alphabets-secret-weapon-in-the-artificial-intelligence-race.md",
+      "title": "Alphabet's Secret Weapon in the Artificial Intelligence Race",
+      "excerpt": "The artificial intelligence (AI ... Automation, personalized experiences, autonomous systems like drones and self-driving cars, and a healthcare revolution are just the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-secret-weapon-in-the-artificial-intelligence-race",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabets-secret-weapon-in-the-artificial-intelligence-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-travelers-to-uk-face-long-waits-amid-systems-problem.md",
+      "title": "Travelers to U.K. face long waits amid systems problem",
+      "excerpt": "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
+      "originalUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
+      "publishedDateTime": "2023-05-27T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it.md",
       "title": "It’s Hard To Rave About A Plain White T-Shirt, So Retailers Are Making AI Do It",
       "excerpt": "Some retailers are using artificial intelligence to churn out hundreds of product descriptions that used to take weeks to write.",
@@ -825,292 +1090,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-marvell-technology-stock-jumps-as-chip-stocks-keep-rising.md",
-      "title": "Marvell Technology Stock Jumps as Chip Stocks Keep Rising",
-      "excerpt": "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-789639?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-powered-ai-chatbot-jugalbandi-is-here-all-you-need-to-know.md",
-      "title": "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know",
-      "excerpt": "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html",
-      "publishedDateTime": "2023-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-internship-computer-vision-for-highway-inspection.md",
-      "title": "Internship | Computer vision for highway inspection",
-      "excerpt": "The Intelligent Imaging department at TNO works on a large variety of computer vision solutions in the field of inspection. One of these projects is the automated inspection of the Dutch highways, where our algorithms are used to monitor the state of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tno.nl/en/careers/vacancies/2023/05/internship-computer-vision-highway/",
-      "originalUrl": "https://www.tno.nl/en/careers/vacancies/2023/05/internship-computer-vision-highway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tno.nl/publish/library/18/hoofdafbeelding_tno_als_werkgever_1.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TNO",
-        "domain": "www.tno.nl",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-ai-stocks-are-soaring-but-average-investors-arent-yet-rushing-in.md",
-      "title": "AI stocks are soaring but average investors aren’t yet rushing in",
-      "excerpt": "Debt-ceiling angst is battling with AI euphoria to leave the Wall Street barometer in the doldrums — bobbing near the top of a channel it has held all year. ‘Neutral’ is thus the apposite new rating for U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae?mod=robert-schroeder",
-      "originalUrl": "https://www.marketwatch.com/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae?mod=robert-schroeder",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-770206/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae",
-      "publishedDateTime": "2023-05-26T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-a-software-package-to-ease-the-use-of-neural-radiance-fields-in-robotics-research.md",
-      "title": "A software package to ease the use of neural radiance fields in robotics research",
-      "excerpt": "Neural radiance fields (NeRFs) are advanced machine learning techniques that can generate three-dimensional (3D) representations of objects or environments from two-dimensional (2D) images. As these techniques can model complex real-world environments realistically and in detail,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-software-package-to-1.jpg",
-          "width": 1929,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-software-package-ease-neural-radiance.amp",
-      "publishedDateTime": "2023-05-26T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-the-future-of-data-security-staying-ahead-of-ai.md",
-      "title": "The Future Of Data Security: Staying Ahead Of AI",
-      "excerpt": "While the benefits of recent AI innovation are enormous, the use of AI in its many forms comes with challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fabe26daa1946a71defd95f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/",
-      "publishedDateTime": "2023-05-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

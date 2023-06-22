@@ -118,6 +118,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
+    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
+    publishedDateTime: 2023-06-22T08:56:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 29
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
     publishedDateTime: 2023-06-21T04:17:00Z
@@ -137,6 +151,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "SN1GbjeHUD73x/vbabY40ydDcIy9+e2qFnJ5pTAFmEXgLZOaTUMHGDh0oKlmusdFnHsk24fWBXw9FlE5eUjSPvtRn2xsdWqIgfqOplgysgRC7/Y9XXJsfOQOtGcl6eS0+hDPvfVinQhf8VF6KgYMzBIW1qR358CC1utjnSPC11QiI6OLPQM02BxCLga9lOsavp+YpJIHopRYDl17K22e9fFd7KR13sHIhJKPEU0bk05ZNH1N5VZEGeGKU+2LjMh2CzH2BiMAOU2eppx2Hos2Bfua+YBKFJCRMjHsn9oWoT2fQGvoQuro8kTbSyY934LYtCQ8aengK7AESFrw3Bec+CR1Lo6Gt3/Zc5rjctLUlBE=;Hghi6zqzdCq+fzITRFHEtA=="
+secured: "ul7t0sY4serhTBa0dB3qGbtTfRdH1vMVKcJQf1blW803VGRTSDmHqRu2g+L1vdkxDODly25c+BYbqWfjAcH4IzPmqprMVAzOMT+00k165x6ne5I12bQT/Xj5hED4mApUtYkc3GY3WjDDfLKK+xY6qwnaVyj+8Et7n0DnWfbHVdQtD9It4Gb7+8heIgvWGiH8LFE7u4rtreL5SHfO9zGM+T3lKHUQ06Gf66InZhZEoJ9Etm+53162kfaxlpGujQQ6PKrZ/+hw9nFGNdMQjxWUz93vLOhG4QuoVzt8XZ7duRxebhB9M5CHuNQ9Ez9ojHfE22d9ycp2kRHhiZ+LpPU/kOZKSb0LNpQrz2U3jf8OqUPHZqMsoxDCMZx0oTc52358rNRzcsmgSN9Qy1BI1jWa6iUgHiiRwQObymLK4XdzfY/Clq8W+PZ0148Igk9fZjPxavq7bZZRgRdlv3NSADsfXQ6eKA7XecxDxqnbjhxs818h/li7SqHNsWkBd750zoxs//beOc9XHTnrdQgWCg85Eg==;L5McFiNXPMl2PbGMtqg5AA=="
 ---
 

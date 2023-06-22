@@ -122,6 +122,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
+    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
+    publishedDateTime: 2023-06-22T08:56:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 29
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
     excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
     publishedDateTime: 2023-06-21T13:38:00Z

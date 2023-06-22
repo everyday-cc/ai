@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-the-creative-and-transformational-possibilities-of-ai.md",
-      "title": "The creative and transformational possibilities of AI",
-      "excerpt": "James Manyika spoke at the Cannes Lions Festival about AI and creativity. Read excerpts from his remarks.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/ai-creativity/",
-      "originalUrl": "https://blog.google/technology/ai/ai-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-20-deepminds-co-founder-suggested-testing-an-ai-chatbots-ability-to-turn-100000-into-1-million-to-measure-human-like-intelligence.md",
       "title": "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence",
       "excerpt": "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore.",
@@ -244,6 +201,58 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-sparsity-preserving-clustering-keras-example.md",
+      "title": "Sparsity preserving clustering Keras example",
+      "excerpt": "This is an end to end example showing the usage of the sparsity preserving clustering API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. # Load MNIST dataset mnist = tf.keras.datasets.mnist (train_images, train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -649,6 +658,59 @@
         "news"
       ],
       "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-tensorflow-lite-c-api-reference.md",
+      "title": "TensorFlow Lite C API Reference",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "originalUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -1440,59 +1502,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
-      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
-      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "publishedDateTime": "2023-05-30T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

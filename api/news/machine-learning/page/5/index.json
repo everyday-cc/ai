@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-12-cedars-sinai-launches-center-for-artificial-intelligence-research-and-education.md",
+      "title": "Cedars-Sinai Launches Center for Artificial Intelligence Research and Education",
+      "excerpt": "The center’s efforts will focus on developing new AI and machine learning algorithms for personalized medicine, genomics, and other healthcare research.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
+      "originalUrl": "https://healthitanalytics.com/news/cedars-sinai-launches-center-for-artificial-intelligence-research-and-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-14-GettyImages-1033717120.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
       "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
       "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
@@ -1361,49 +1406,6 @@
       "provider": {
         "name": "Irish Sun",
         "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-godfather-of-artificial-intelligence-has-spoken-up-about-the-dangers-of-ai-is-it-too-late.md",
-      "title": "Godfather of artificial intelligence has spoken up about the dangers of AI: Is it too late?",
-      "excerpt": "Hopefully, Google scientist Geoffrey Hinton’s warnings about the technology’s potential harms will persuade other researchers to come forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/05/600x338/AI_1683244895616_1683244900703.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "publishedDateTime": "2023-05-04T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
-    publishedDateTime: 2023-06-19T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
+  - title: "How existential risk became the biggest meme in AI"
+    excerpt: "Hundreds of scientists, business leaders, and policymakers have spoken up, from deep learning pioneers Geoffrey Hinton and Yoshua Bengio to the CEOs of top AI firms, such as Sam Altman and Demis Hassabis,"
+    publishedDateTime: 2023-06-19T15:42:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075140/how-existential-risk-became-biggest-meme-in-ai/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-06-20T00:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/Ai-ghoststory1a.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "zQu51ttXRGASF7Rxcu83B4/5ax6fN+SRleZKAOOJnjhJMEE6eponD8ijueBlOVwST9caa2emk+itRvHL+XiE7Xg3xv0HsavYL1LfCkc62z5uuUmwGPOn8zbDBFIPwVRF3k5uBBUJeSjfxJsJ1nMg+i7iy2h5jdyYocg/AItFUo5jKPx2z/9SH3lPvTJAUj6FwuExMDMcBziQI8V/IAOIG/Pf60LLLzQXZsWrp1vC3WUZI+Il5/pIPZUObU4o74sFomvMIdkMsdyAwQODIuzvzgJmpEnAi3a1ZwrU4O2weyQM/IpnykAAEYH4dGoqjATdYa5AF4bEqhBDKYXi8nnA0GYBu6cUu+wEBHm2oVB95w4=;ITsxTjiY4/ge8mRQ9b6MJA=="
