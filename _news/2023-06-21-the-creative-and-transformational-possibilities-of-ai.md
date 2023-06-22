@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/ai-creativity/"
 webUrl: "https://blog.google/technology/ai/ai-creativity/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fef66a1e9-c2e8-4a8b-9561-57dda1f7cd52?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 900
+        isCached: true
+  - title: "Antonio Neri on HPE’s cultural transformation: Unlocking the power of hybrid cloud and AI"
+    excerpt: "Hewlett Packard Enterprise Co. has achieved significant milestones in areas such as edge computing, hybrid cloud and artificial intelligence. Antonio Neri (pictured), president and chief executive officer of HPE,"
+    publishedDateTime: 2023-06-21T22:26:00Z
+    webUrl: "https://siliconangle.com/2023/06/21/antonio-neri-on-hpes-cultural-transformation-unlocking-the-power-of-hybrid-cloud-and-ai-hpediscover/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Antonio-Neri-HPE-Discover-June-2023.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
     excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"

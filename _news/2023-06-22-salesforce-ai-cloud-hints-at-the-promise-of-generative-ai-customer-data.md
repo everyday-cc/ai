@@ -1,0 +1,66 @@
+---
+category: news
+title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
+excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
+publishedDateTime: 2023-06-21T22:01:00Z
+originalUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+type: article
+quality: 66
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
+    width: 1024
+    height: 508
+    isCached: true
+
+related:
+  - title: "Boost agent productivity with Salesforce integration for Live Call Analytics"
+    excerpt: "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging."
+    publishedDateTime: 2023-06-21T15:20:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png"
+        width: 1018
+        height: 630
+        isCached: true
+  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
+    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
+    publishedDateTime: 2023-06-21T18:50:00Z
+    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Salesforce touts AI strategy, doubles investment in startups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+
+secured: "cPUIiQShqGDphoxwJbvvOzOMzEMBYZX/q9kvgHopTi3PnjmDIA4KSmslBKzGjtCQfrw9weDdJRpW/GmcYaWVUXBICiMxGtB8BSriMj58mxi9+uvxG+E0HZhfU9QT8D+sbvgv0t/beE2pzKikTCQ8PLOhv6oNy/+dnMLExOOVVKP1FIaQWJB/RCxnxj1gm/Uz87k/sxRl+ts7+5lUqVlej0fiIZurS+cTsZZECnzuTymW+fe5ky9y49JyOxMiguCMhCIoeT/IjxurVebqnE3lMl76xbZ3gFggaLlAyYWNl0YnNi6onprnGxiARzHM4Kgwa8Ue3OvLh5f/Wf61n2jAcKWKuElXF0EKmH2A1PhnK6c=;K/jvqvfrO3T05z5HBI/2Hg=="
+---
+

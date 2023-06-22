@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-20-meta-announces-voicebox-generative-ai-model-touting-accessibility-implications.md",
+      "title": "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications",
+      "excerpt": "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/",
+      "publishedDateTime": "2023-06-20T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
       "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
       "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
@@ -439,7 +491,7 @@
       "originalUrl": "https://www.nbcnews.com/news/amp-video/mmvo183451205824",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1068,6 +1120,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
+      "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
+      "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/Untitled_design_1687233330640_1687233337610.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "publishedDateTime": "2023-06-19T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics.md",
       "title": "Artificial intelligence can support architects but lacks empathy and ethics",
       "excerpt": "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools.",
@@ -1107,109 +1202,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
-      "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
-      "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
-      "publishedDateTime": "2023-06-19T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-airbnb-ceo-predicts-ai-will-pave-the-way-for-millions-of-startups-instead-of-replacing-jobs.md",
-      "title": "Airbnb CEO predicts AI will pave the way for 'millions of startups' instead of replacing jobs",
-      "excerpt": "By making companies 30% more efficient with the same manpower, AI could lead to more startups, Airbnb CEO Brian Chesky said on a recent podcast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
-      "originalUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6490b6f020f78100189feec7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
-      "publishedDateTime": "2023-06-19T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-producti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
+    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
+    publishedDateTime: 2023-06-21T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 508
+        isCached: true
   - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
     excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
     publishedDateTime: 2023-06-21T18:50:00Z

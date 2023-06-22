@@ -2,6 +2,101 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-05-10-will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert.md",
+      "title": "Will Artificial Intelligence Take Away Jobs? Not Many for Now, Says Expert",
+      "excerpt": "The growing abilities of artificial intelligence have left many observers wondering how AI will impact people’s jobs and livelihoods. One expert in the field predicts it won’t have much effect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
+      "originalUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/01000000-0aff-0242-405c-08db5119be00_w1080_h608_s.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
+      "publishedDateTime": "2023-05-09T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
+      "title": "Back Therapy Kit Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
+      "excerpt": "Back Therapy Kit report provides a detailed analysis of regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis, impact of domestic. The Back Therapy Kit market is expected to witness significant growth in the coming years due to the increasing prevalence of back pain and the need for non-invasive treatment options.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/back-therapy-kit-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-unlimited-opportunities-for-manufacturing-of-medical-devices-in-india-ceo-of-ge-healthcare-south-asia.md",
       "title": "Unlimited Opportunities For Manufacturing Of Medical Devices In India: CEO Of GE HealthCare South Asia",
       "excerpt": "According to Sarawate, who is also managing director, Wipro GE Healthcare, new age technologies like artificial intelligence (AI) are significantly improving care quality and access to care.",
@@ -1065,100 +1160,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
-      "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
-      "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
-      "originalUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
-          "width": 438,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politifact",
-        "domain": "politifact.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-salesforce-unveils-tableau-data-analysis-tools-driven-by-generative-ai.md",
-      "title": "Salesforce unveils Tableau data analysis tools driven by generative AI",
-      "excerpt": "With Tableau GPT and Tableau Pulse users can benefit from an automated approach to data analytics employing generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/",
-      "originalUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/tableau-logo-e1652717649458.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/amp/",
-      "publishedDateTime": "2023-05-09T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,83 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-05-12-migrate-sessionrunhook-to-keras-callbacks.md",
+      "title": "Migrate SessionRunHook to Keras callbacks",
+      "excerpt": "The following TensorFlow 1 examples show how to set up a custom SessionRunHook that measures examples per second during training. After creating the hook (LoggerHook), pass it to the hooks parameter of tf.estimator.Estimator.train. def _input_fn(): return ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-artificial-intelligence-helping-recycling-center-sort-waste.md",
       "title": "Artificial intelligence helping recycling center sort waste",
       "excerpt": "At a recycling center in Boulder, Colorado, automation and artificial intelligence are becoming part of the process. The AI learned how to tell pieces of plastic from sheets of paper and also learns how to grab them.",
@@ -1118,109 +1195,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-eu-nears-ban-on-predictive-policing-and-facial-recognition-after-ai-act-vote.md",
-      "title": "EU nears ban on predictive policing and facial recognition after AI Act vote",
-      "excerpt": "A crunch vote on the AI Act has moved the EU closer to a landmark ban on predictive policing and facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "originalUrl": "https://thenextweb.com/news/ai-act-vote-pushes-eu-ban-on-predictive-policing-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6.jpg&signature=1e7b4390a6a9afa5c53d7775598e0291",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-how-to-sign-up-for-googles-new-ai-driven-search-tools.md",
-      "title": "How to Sign Up for Google's New AI-Driven Search Tools",
-      "excerpt": "At Google I/O, the search giant's annual developer conference, artificial intelligence was the phrase on everybody's lips. Among the more notable announcements from the event yesterday was the news that Google is letting the public test out its latest generative AI experiments by signing up for Search Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/",
-      "originalUrl": "https://www.cnet.com/tech/computing/how-to-sign-up-for-googles-new-ai-driven-search-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/45757153ae157d44b9bae8ae1e2ba6af86bac55a/hub/2023/05/11/3a878f9f-21cd-451b-ae9a-0d7ed8121e23/gettyimages-1230722138.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-sign-up-for-googles-new-ai-driven-search-tools/",
-      "publishedDateTime": "2023-05-11T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

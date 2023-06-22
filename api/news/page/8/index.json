@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-15-deepchecks-raises-14m-to-validate-machine-learning-models-continuously.md",
+      "title": "Deepchecks raises $14M to validate machine learning models continuously",
+      "excerpt": "Deepchecks was co-founded by Chief Executive Philip Tannor (pictured, right) and Chief Technology Officer Shir Chorev (left). It originally intended to be a traditional machine learning operations platform.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "originalUrl": "https://siliconangle.com/2023/06/15/deepchecks-raises-14m-continuously-validate-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/2205-Philip-and-Shir-Deepchecks.png",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai.md",
+      "title": "Why Companies Are Vastly Underprepared For The Risks Posed By AI",
+      "excerpt": "From accuracy and security threats to bias and cultural implications, this article explores the reasons behind organizations' lack of readiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648aaa9fac6d92c810b12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-are-vastly-underprepared-for-the-risks-posed-by-ai/amp/",
+      "publishedDateTime": "2023-06-14T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-artificial-intelligence-wont-likely-reach-human-like-levels-without-this-one-key-component-study-finds.md",
       "title": "Artificial intelligence won't likely reach human-like levels without this one key component, study finds",
       "excerpt": "Artificial intelligence platforms can mimic human learning, but will likely not match human-like cognition unless the programs are connected to robots, study finds.",
@@ -1124,111 +1218,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-8-ways-google-lens-can-help-make-your-life-easier.md",
-      "title": "8 ways Google Lens can help make your life easier",
-      "excerpt": "Lens makes it easy to search what you see and explore the world around you — including the new ability to search for skin conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-lens/google-lens-features/",
-      "originalUrl": "https://blog.google/products/google-lens/google-lens-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/google-lens/google-lens-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-lens/google-lens-features/amp/",
-      "publishedDateTime": "2023-06-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-with-chatgpt-defense-investors-are-learning-to-speak-ai.md",
-      "title": "With ChatGPT, Defense Investors Are Learning To Speak AI",
-      "excerpt": "With AI exploding into the public consciousness, companies that once struggled to explain their machine-learning, national security tools can operate with the confidence that their value proposition is now more intuitively understood by the both the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
-      "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489d53c3e9469660975c365/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/",
-      "publishedDateTime": "2023-06-14T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

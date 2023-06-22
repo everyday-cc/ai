@@ -90,6 +90,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden's AI summit was a hit because of facts — not fear"
+    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
+    publishedDateTime: 2023-06-21T21:53:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "President Biden talks AI with tech leaders in San Francisco"
     excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
     publishedDateTime: 2023-06-20T20:54:00Z

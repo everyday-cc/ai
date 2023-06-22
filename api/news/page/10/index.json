@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-14-korea-issues-first-ai-ethics-checklist.md",
+      "title": "Korea issues first AI ethics checklist",
+      "excerpt": "The government has outlined the first national standard on how to use artificial intelligence (AI) ethically, in a move to bolster the emerging industry's sustainability and enhance its global presence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/aea2f90aea944e83a89d1db0b41f89a7.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-a-new-song-from-the-beatles-is-due-out-this-year-thanks-to-artificial-intelligence.md",
+      "title": "A new song from the Beatles is due out this year, thanks to artificial intelligence",
+      "excerpt": "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230614024930-exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world-00000808.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "publishedDateTime": "2023-06-14T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music.md",
       "title": "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?",
       "excerpt": "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright",
@@ -1127,112 +1221,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations.md",
-      "title": "Striveworks snaps up first funding of $33M to build tools for machine learning operations",
-      "excerpt": "MLOps, or DevOps for those working with machine learning models, has seen a boom of interest in the last year, and that should come as no surprise: organizations want to bring more machine learning to bear in their data science stacks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
-      "originalUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1140706398.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
-      "publishedDateTime": "2023-06-13T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up.md",
-      "title": "French company Mistral AI raises 105 mln euros shortly after being set up",
-      "excerpt": "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg",
-          "width": 4000,
-          "height": 2741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

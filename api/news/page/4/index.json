@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
+      "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
+      "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "publishedDateTime": "2023-06-19T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-airbnb-ceo-predicts-ai-will-pave-the-way-for-millions-of-startups-instead-of-replacing-jobs.md",
+      "title": "Airbnb CEO predicts AI will pave the way for 'millions of startups' instead of replacing jobs",
+      "excerpt": "By making companies 30% more efficient with the same manpower, AI could lead to more startups, Airbnb CEO Brian Chesky said on a recent podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "originalUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6490b6f020f78100189feec7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "publishedDateTime": "2023-06-19T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
       "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
       "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
@@ -164,7 +267,7 @@
       "originalUrl": "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1132,108 +1235,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
-      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
-      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-celebrities-use-ai-to-take-control-of-their-own-images.md",
-      "title": "Celebrities Use AI to Take Control of Their Own Images",
-      "excerpt": "Using AI-generated duplicates, brands also benefit, using stars in ways they never could before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
-      "originalUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-799403/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

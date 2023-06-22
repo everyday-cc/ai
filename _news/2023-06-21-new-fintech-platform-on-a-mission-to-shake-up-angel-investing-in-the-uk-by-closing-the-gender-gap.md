@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech is driving change in India’s lending landscape in sub-urban regions"
-    excerpt: "Considering the blazing pace at which the Fintech sector is evolving to come up with new use cases such as Insurtech, WealthTech, Agri-Fintech, RegTech, and Real Estate Fintech, the future for India’s financial sector looks bright."
-    publishedDateTime: 2023-06-17T05:39:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 40
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/financial-planning.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Top 5 Fintech and IT Masters Programs in Singapore"
     excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
     publishedDateTime: 2023-06-21T05:07:00Z

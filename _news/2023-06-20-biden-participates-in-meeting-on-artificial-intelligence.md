@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183451205824"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Biden's AI summit was a hit because of facts — not fear"
+    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
+    publishedDateTime: 2023-06-21T21:53:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
     excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."

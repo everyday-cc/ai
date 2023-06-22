@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-22-parental-disclosure-requirements-for-sex-ed-gender-identity-clear-ohio-house.md",
+      "title": "Parental disclosure requirements for sex ed, gender identity clear Ohio House",
+      "excerpt": "A bill requiring Ohio's public schools to notify parents of changes in their children's gender identity, as well as almost all sexuality-related lessons, has cleared the state House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house",
+      "originalUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/028e6736-2017-420d-8e34-e708bca1b15b/91f851f0-d833-4905-8a0b-e60a891072ed/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house.amp",
+      "publishedDateTime": "2023-06-21T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-regulate-use-of-facial-recognition-civil-liberties-group-urges-government.md",
       "title": "Regulate use of facial recognition, civil liberties group urges government",
       "excerpt": "OTTAWA—The Canadian Civil Liberties Association says the Liberal government isn’t adequately addressing the threats posed by facial recognition and artificial intelligence technologies, and should move quickly to put legislation in place.",
@@ -1307,58 +1359,6 @@
         "name": "THE WEEK",
         "domain": "theweek.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis.md",
-      "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
-      "excerpt": "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg",
-          "width": 400,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -33,6 +33,20 @@ related:
         width: 1018
         height: 630
         isCached: true
+  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
+    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
+    publishedDateTime: 2023-06-21T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 508
+        isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in startups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
     publishedDateTime: 2023-06-19T13:00:00Z

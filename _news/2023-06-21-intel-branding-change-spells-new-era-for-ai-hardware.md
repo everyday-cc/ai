@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerat
 webUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligenc
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/e481d75a266d744c7241ad109a495cbc"
         width: 800
         height: 534
+        isCached: true
+  - title: "Cisco takes on Broadcom with new chips for AI supercomputer"
+    excerpt: "Cisco claims G200 & G202 will be the “most powerful” networking chips fueling AI/ML workloads. Cisco said those chips ... providers in the world include Amazon Web Services, Microsoft Azure, Google Cloud, and Alibaba Cloud. Just like Broadcom, Cisco ..."
+    publishedDateTime: 2023-06-21T23:33:00Z
+    webUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Cisco launches AI networking chips to take on Broadcom, Marvell"
     excerpt: "Cisco said the latest generation of its ethernet switches, called G200 and G202, have double the performance, compared with the previous generation, and can connect up to 32,000 GPUs together."

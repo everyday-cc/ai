@@ -62,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -404,34 +404,25 @@
     },
     {
       "path": "_news/2023-06-15-bbva-selects-aws-to-accelerate-its-data-driven-transformation.md",
-      "title": "BBVA selects AWS to accelerate its data-driven transformation",
-      "excerpt": "With AWS, BBVA can harness its data to remain at the forefront of banking innovation, boosting its business insights and developing more compelling and personalized banking services quickly and cost-effectively.",
+      "title": "BBVA Selects AWS to Accelerate Its Data-Driven Transformation",
+      "excerpt": "BBVA will leverage a broad portfolio of AWS analytics and AI services across its operations and create a new data platform that will be deployed globally, delivering a secure repository of BBVA's operations and customer data.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/",
-      "originalUrl": "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/",
+      "webUrl": "https://it.tmcnet.com/news/2023/06/15/9833207.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/15/9833207.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbva.com/wp-content/uploads/2023/06/BBVA-datio-AWS-1024x575.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-bbva-com.cdn.ampproject.org/c/s/www.bbva.com/en/innovation/bbva-selects-aws-to-accelerate-its-data-driven-transformation/amp/",
-      "publishedDateTime": "2023-06-15T03:51:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T04:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bbva.com",
-        "domain": "bbva.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

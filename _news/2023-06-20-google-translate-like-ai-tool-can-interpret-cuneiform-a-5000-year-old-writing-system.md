@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Hindustan Times Tech
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Groundbreaking AI project translates 5,000-year-old cuneiform at push of a button"
-    excerpt: "Google Translate'-like program for Akkadian cuneiform will enable tens of thousands of digitized but unread tablets to be translated to English. Accuracy is debatable"
-    publishedDateTime: 2023-06-17T06:58:00Z
-    webUrl: "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/"
-    ampWebUrl: "https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/amp/"
+  - title: "Israeli scientists develop AI tool to translate 5,000-yr-old texts"
+    excerpt: "Israeli scientists have developed an AI tool based on neural language processing to help translate around 5,000-year-old writing system Cuneiform. \"What's so amazing about it is that I don't need to understand Akkadian at all to"
+    publishedDateTime: 2023-06-20T07:42:00Z
+    webUrl: "https://inshorts.com/en/news/israeli-scientists-develop-ai-tool-to-translate-5000yrold-texts-1687246976274"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 69
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2023/06/Fig-3-e1686488009886-640x400.jpeg"
-        width: 640
-        height: 400
-        isCached: true
+      name: Inshorts
+      domain: inshorts.com
+    quality: 34
 
 secured: "GUDu6tTBIcQY8TytLwGcg9TCJMYTqWjHcbi90v11lHH8HzFkVdRYWXL5eYOBX87maPi/lRJeFtN4wUTorERBfga8hsa8Ern3d24iCvPBUc20npWcmvNzxDj5NS25x+SjJwHKNkyRTCGK+A1HDd70f95IgRA5LIczeprRCkYaee9attQH/4ybDjTPrHBdbrnkjrWciuFZ4nYLI7nAahb+GdvSr2QBszTzUHO4OE1GcXRTk0tbPoyOzAEwlnOsWVeoquCc/oObUl0hNckFpLFlbrjKDUO6gmDTkU3m3KSZZWWBm9jt10Z2WyN7U0e6R4atkN1WBdVYn+MulL8TlJ2tFJr4vppz1P9qDCQirDG/Be4=;SHrIcTr+o0el5DqZ4rgJMQ=="
 ---

@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-16-retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.md",
+      "title": "Retail traders are taking profits on AI. Here’s what they are selling",
+      "excerpt": "Vanda Research said in a note to clients that retail traders were trimming their positions in a few hot stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107249473-1685637213225-Traders-Photo-MW-20230601-0206-PRESS-19.jpg?v=1686924006&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms.md",
+      "title": "AI Hits The Water In Electric Boats As 2026 California Mandate Looms",
+      "excerpt": "With a state deadline approaching to electrify short-run ferries and millions in funding to do it, climate focused maritime startups are flocking to San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6483792e6d12c36843fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
+      "publishedDateTime": "2023-06-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure.md",
       "title": "Navigating The AI Frontier: Unlocking New Opportunities For Press And Marketing Exposure",
       "excerpt": "The brands that thoughtfully adopt AI-powered tools and navigate this new frontier that can not only survive but thrive in the age of intelligent machines.",
@@ -51,58 +153,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -249,6 +299,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1160,92 +1253,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-artificial-intelligence-in-the-securities-industry.md",
-      "title": "Artificial intelligence in the securities industry",
-      "excerpt": "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
-      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
-      "excerpt": "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

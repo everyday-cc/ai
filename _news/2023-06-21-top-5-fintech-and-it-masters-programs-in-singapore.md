@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-
 webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech is driving change in India’s lending landscape in sub-urban regions"
-    excerpt: "Considering the blazing pace at which the Fintech sector is evolving to come up with new use cases such as Insurtech, WealthTech, Agri-Fintech, RegTech, and Real Estate Fintech, the future for India’s financial sector looks bright."
-    publishedDateTime: 2023-06-17T05:39:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-is-driving-change-in-indias-lending-landscape-in-sub-urban-regions/3129803/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 40
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/financial-planning.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "New fintech platform on a mission to shake-up angel investing in the UK by closing the gender gap"
     excerpt: "A new fintech platform is shaking-up angel investing in the UK by aiming to address the current gender gap. The Obu Angel Investment Platform launched this we"
     publishedDateTime: 2023-06-21T08:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-mill
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp"
 type: article
 quality: 76
-heat: 89
+heat: 86
 published: true
 
 provider:
@@ -32,13 +32,13 @@ images:
 related:
   - title: "Will AI Kill the Radio Star? Stations May Turn to Artificial Intelligence for On-Air Talent"
     excerpt: "The debut of ‘AI Ashley’ — a cloned version of real-life DJ Ashley Elzinga — on a Portland Top 40 station has divided the radio industry."
-    publishedDateTime: 2023-06-21T16:31:00Z
-    webUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/#!"
+    publishedDateTime: 2023-06-21T16:39:00Z
+    webUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/"
     type: article
     provider:
       name: Billboard
       domain: billboard.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://www.billboard.com/wp-content/uploads/2023/06/ai-ashley-2023-billboard-pro-1260.jpg?w=1024"
         width: 1024

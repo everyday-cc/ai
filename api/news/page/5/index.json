@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
+      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
+      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-celebrities-use-ai-to-take-control-of-their-own-images.md",
+      "title": "Celebrities Use AI to Take Control of Their Own Images",
+      "excerpt": "Using AI-generated duplicates, brands also benefit, using stars in ways they never could before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
+      "originalUrl": "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-799403/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-and-ai.md",
       "title": "Universities Team Up With edx To Offer Micro BootCamps In Machine Learning And AI",
       "excerpt": "X, the global online learning platform, is launching a Machine Learning and Artificial Intelligence MicroBootCamp in partnership with 12 American universities.",
@@ -1099,108 +1201,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.md",
-      "title": "Retail traders are taking profits on AI. Here’s what they are selling",
-      "excerpt": "Vanda Research said in a note to clients that retail traders were trimming their positions in a few hot stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/16/retail-traders-are-taking-profits-on-ai-heres-what-they-are-selling.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107249473-1685637213225-Traders-Photo-MW-20230601-0206-PRESS-19.jpg?v=1686924006&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms.md",
-      "title": "AI Hits The Water In Electric Boats As 2026 California Mandate Looms",
-      "excerpt": "With a state deadline approaching to electrify short-run ferries and millions in funding to do it, climate focused maritime startups are flocking to San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6483792e6d12c36843fbe46d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/16/ai-hits-the-water-in-electric-boats-as-2026-california-mandate-looms/amp/",
-      "publishedDateTime": "2023-06-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
