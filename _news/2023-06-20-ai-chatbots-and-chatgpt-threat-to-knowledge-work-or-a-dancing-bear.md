@@ -115,6 +115,15 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 34
+  - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
+    excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
+    publishedDateTime: 2023-06-22T02:40:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/06/21/outbound-ai-fundraise-madrona-springrock.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
     excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
     publishedDateTime: 2023-06-20T13:23:00Z

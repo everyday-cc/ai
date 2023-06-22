@@ -53,15 +53,6 @@ related:
       name: Nearshore Americas
       domain: nearshoreamericas.com
     quality: 28
-  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
-    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
-    publishedDateTime: 2023-06-17T12:03:00Z
-    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
-    type: article
-    provider:
-      name: en.qdnd
-      domain: qdnd.vn
-    quality: 16
   - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
     excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
     publishedDateTime: 2023-06-21T20:24:00Z

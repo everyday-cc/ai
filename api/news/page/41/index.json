@@ -2,48 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2023-05-24-adobe-adds-generative-ai-to-photoshop.md",
-      "title": "Adobe adds generative AI to Photoshop",
-      "excerpt": "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna85548",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548",
-      "publishedDateTime": "2023-05-23T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-machine-learning-has-potential-to-transform-oil-and-gas-industry-says-globaldata.md",
       "title": "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData",
       "excerpt": "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry.",
@@ -1203,6 +1161,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-nvidia-gpus-see-massive-price-hike-and-huge-demand-from-ai.md",
+      "title": "Nvidia GPUs see massive price hike and huge demand from AI",
+      "excerpt": "It feels like we’ve only just emerged from the debilitating graphics card shortage of the last few years, but a new report suggests we can’t breathe easy just yet. Could a new GPU shortage be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/",
+      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2019/07/nvidia-rtx-2060-super-2070-super-review-04253.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-ai-gpus-shortage-price-hikes/?amp",
+      "publishedDateTime": "2023-05-23T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

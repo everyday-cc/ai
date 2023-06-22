@@ -2,11 +2,11 @@
 category: news
 title: "Samuel L. Jackson Talks AI, Use of Likeness “In Perpetuity” in Contracts: “I Cross That S*** Out”"
 excerpt: "The actor's comments came amid 'Secret Invasion' director and executive producer Ali Selim confirming the Jackson-led Disney+ series used AI-generated art for its title sequence."
-publishedDateTime: 2023-06-21T22:54:00Z
-originalUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/"
-webUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/"
-ampWebUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/amp/"
-cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/amp/"
+publishedDateTime: 2023-06-22T05:47:00Z
+originalUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/?ref=biztoc.com"
+webUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/?ref=biztoc.com"
+ampWebUrl: "https://www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/?ref=biztoc.com&amp"
+cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/tv/tv-news/secret-invasion-samuel-l-jackson-ai-use-of-likeness-1235520948/?ref=biztoc.com&amp"
 type: article
 quality: 46
 heat: 46
@@ -26,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ZyBATT6nXZeY+v/w20zjxEHNDVb1dZeofKqEON5cwpavU360WeV7m4uAq/PX66RqWsiPJ0YdBq6aXo/0oj5YBNhOjpMui5BcAANnaHi7BA8aoTukmo1ogw6tjvF81kIPemrNLWeiOEFU3uVR0nRhBrO8Fm6fNXGywN898GqApRT3idPhi+eOwkVzKJ0n1oFCwHkvq7yxT8nRwPKfE5qt7CkJpSBIPcaIBxNTQ044gVbHjIH5+uwjbpfKiB05/9QChqPaEGjY2nPfEVoxZguTOt9yp+y10YXScBa1pq7m347xGvTDDKBJH49eh8l00v4PzBARP6BmuF18wn8X9vTqUl+lw3DN9y4+Ok0cjqZmWnQz2gf2LmwbNNb9P21S6H0maqs1EpLpPUXMbxycm6gwX6cpqIjykAw0aSsEcHJ/DGLWaX8WdCH94ENYd8n6zyxWSaampvKC/LCyvdjDthN0Zv44wkYh5tBOdotB+3MGXxaq4zVqo0GqWn7StP+wJP2T333f+Jqfyu5MocVkWRCv0g==;8epm4OSmIzlHGJvLh8AlFQ=="
+secured: "O/a7qP0JxMcsZksSex0E9M+qglKdjpT5Cblh/3H/BHYKwX6xvpQRScVHZLWPQ5D4DxSMpG9xqkI3SiEDcIr/fwasSrvzvVK4PQepZkVjoupfkqU7mE+Zkl50U5SniiJeMSk+gh2C+6KrhGCpGI2+RYoVtYJQGbqUoVAmeBYqJX6MhhqoyW3MZKhPOeMFzF91u08xkSdajKghBDNXt6vB+x2ScfA1q5H8npXnyNVS6I2PBUP+xsQTRgXCEK1tqKEZfy+EOwSdgK6wQK0MlvwIVnw1LJ497NKA4eniOFmxEYDoCBfzAqrKVxOmubg0FC4eMHWr+D9pgH4a7MxQRUXwWmqY/6maV/0mDDgsQ1t4qXM=;yD56r/uYTGYHMrodF6Xe4g=="
 ---
 

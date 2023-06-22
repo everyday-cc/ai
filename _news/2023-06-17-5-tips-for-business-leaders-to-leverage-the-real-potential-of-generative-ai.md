@@ -102,15 +102,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
-  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
-    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
-    publishedDateTime: 2023-06-17T13:00:00Z
-    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Generative AI will upend the professions"
     excerpt: "They emphatically refute the idea that AI systems must “think” to undertake the tasks that require “creativity” or “judgment” — a common line of defence from the old guard. High-performing systems do not need to “reason” about the law like a lawyer to produce a solid contract, nor “understand” anatomy like a doctor to deliver useful medical advice."
     publishedDateTime: 2023-06-18T04:00:00Z

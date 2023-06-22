@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/21/danti-uses-natural-language-proces
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "gqHFBcfv5Q0gIb8YGmXRHoROHA80G7DDrN+NtyzBwzceQ+IrEUGzVrZeTAmSJLIgopN16Twz27m6tYMq6Lk36puvr4OGbLk0VzFvw+xd9eJKGkDnYrixzII5B1A68Yc6OWFYRjac+/z09IdKXLgTyxyGw0aiIQVUl56A9bfFp086GDYLHGzsLoOX+D6Y/4hj+Em18/TX+YSgUK+TZPj0Y168shPLDN6hlT/dEEjpNCQGkVVb9uwlK5iQfXtTbX6rDB1hx7MjSzTbF/z+YfcTXBI4kwA1/9TBVDSgeC/bCstl7INP6yxrFm2l9XoUToa35Hxas0X0LI0AYeK/I09PFpD3geDbWkdL6x/RITprpsY=;bgvz2Gz/thpEvpgt4bXsjQ=="
+secured: "GtOhpEgJQSUHhPTNh1EvRjk0/337gfaYAWzOZArgE2n3CoCUSWq+FX+ZghufPVVWxW//bLtqvkkdIZiWLzLIoybLTv5vL1zSpJG3YrjDHNohXDMNA7E2HdyE+58yjve6KuwwZCAArczf4pCpidUvWe0EBW4wztGPmJ6j7wfUnHgoSbDzBVXjYhsMvKsyWlBVTei89HBCtG3Rr7pxlT4NcFQDzaNoN/+o3k4rU2JbUqq1l6IXzLPhTIrP5ooI3t25TKcTHRtFy5zQs6AYQA3fhafclc+REkDfv+4njDS2ALfTy09te/CHMSgvKeSNLocaaIF8anrSNxaEZDvlBelSpHEfoWs2hF1aPhzhJ9ceJBK+2P8VFDRtcNDeph2yHT3G3DOeNN8SWK+6TJy8BgYpEWSuItbLP4Yj31skb+65Itdi9K8qRzcPILHe/9nQ2lSlw4wDLTmFLJq4b6i0OpsF7iSLN+FmuUV1qf31HYCbvgZs1gki4NpCPBhdWnrObxq01lOCH25W1+wYNIZ3L/O6/Q==;zKB3bIA/yDP3t6cHsOolZg=="
 ---
 

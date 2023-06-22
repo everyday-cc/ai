@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/parental-disclosure-requirements-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house.amp"
 type: article
 quality: 71
-heat: 71
+heat: 74
 published: true
 
 provider:

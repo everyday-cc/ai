@@ -33,6 +33,20 @@ related:
         width: 415
         height: 900
         isCached: true
+  - title: "Voice to Parliament is about ‘recognition and listening’"
+    excerpt: "Minister for Indigenous Australians Linda Burney says the Voice to Parliament is about “recognition and listening”. “It’s about making a practical difference,” Ms Burney said."
+    publishedDateTime: 2023-06-22T05:45:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/voice-to-parliament-is-about-recognition-and-listening/video/a9f88aff080bc242e0da009907417b3f"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 24
+    images:
+      - url: "https://content.api.news/v3/images/bin/e17999f889afc86e4fa5b1cda042cc74"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ireland to introduce a bill on retrospective facial recognition use by police"
     excerpt: "Legislators in Ireland plan to introduce a standalone bill governing the use of facial recognition by its police force before 2024."
     publishedDateTime: 2023-06-21T18:22:00Z

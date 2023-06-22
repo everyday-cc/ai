@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
 type: article
 quality: 80
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schumer reveals plan to regulate AI"
+    excerpt: "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues."
+    publishedDateTime: 2023-06-22T03:02:00Z
+    webUrl: "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chuck Schumer Joins Crowd Clamoring for AI Regulations"
     excerpt: "Congress doesn’t have a strong record in addressing perceived harms from technology."
     publishedDateTime: 2023-06-21T09:00:00Z
@@ -53,22 +69,6 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
-    publishedDateTime: 2023-06-21T15:27:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
     excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
@@ -100,15 +100,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
-    publishedDateTime: 2023-06-21T19:25:00Z
-    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 9
 
 secured: "SwsG1zh8Cr+/xYjYk2nyJ32R//RaWfMW1wfWSFHzqbumFprkqPQ5cP2yTs0SbyHLzBciYLnMv5P001eVAL+pwVw94/EyzTQiwpkC8UyKXpuJ13ZmoNHsiprSVzYJPYpzACuUokW+lGc9Do5Q4wqNiPbtew2L9xlvzXeIcM3LJxNUMx6rKdFoKyS9ihAzbmGE0OY/OY742/g3zLtUjSj3l0K+q6sU7VkMg4zeclivS/O+zTNprW1r1Vdrq9I/YvS152DEiMyTR19ElsZ+LGZJ2MsspXIJt0vlzyn7VqYLiV6g/5QiKsZ7PSiAkXSKmK30TlwELgVviA2e6Ph1RzAQ3l1C1jpljzs9YadIooMFfyqdKT64+8mvtbdJAVQBgwbYuqBeTbfI/DmuYMv5zvBR36uirdLUtJiBJ+75ODRWlMeUkpLIixNdxOQ23Cwqx0eA9lwHzgRRJNn+1lvcrJc3HX+b7n1shpx+mhuIIAsSJNd9A5XPRaJ+92A48inC8nwY+pLgtekN/7WVWfdx1P+qBw==;534uh3NJLLWpcqNbEw3ANg=="
 ---

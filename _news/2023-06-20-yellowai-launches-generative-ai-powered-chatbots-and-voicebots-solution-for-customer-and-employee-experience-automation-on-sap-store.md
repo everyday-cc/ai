@@ -127,6 +127,15 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 34
+  - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
+    excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
+    publishedDateTime: 2023-06-22T02:40:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/06/21/outbound-ai-fundraise-madrona-springrock.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "KaSK/OhrGWyEuzmh0RS6c5uFLrbjfWmWvMxYdxlEaud2UYZrKwfSa7L81gkaU6jr1Tf49xKGYEtwVcTlqj/UYuPM9QosXxHtGZ9k3qgKnzihVg0T7GT+1g9PPntyVhXEoUhjP+Y31tWo5JELN71LyHoASq3RaAr8B1z5lrhibg8N5y2WBPh16mcdsMAs4yedcaaPyxXb8knG666Ta9NDzJwcriuRzO6tlzjC5XUqdW5ivn1sZx1zTBon2ebIWIgjDqWuyPQ6S+q6ZMXBbeUboidksur9pR03KeJzGe2Urh5nmWW6GvmKo52RsIags7SbFutzlcdSISL6OSt4ng7aHS/n9d0UISMNRR+oePcLSJu+fAjrjhwz5b0BgEgEKPXKRsYDwsOdrigaBH2BGKqb3hd7eh758fcv7JjdY54v3kImoGxrDSizjsLVu43vkVJVbMVl7PdsTlHukWhDiKXWzIDwdGUKfJEPsbEssBccps8t8s/53ERIyMSlAvri0mvVtOgm8V2euB6HdLq9QaJTWQ==;tzJph7GpV3ms0nuE+LB5SQ=="
 ---

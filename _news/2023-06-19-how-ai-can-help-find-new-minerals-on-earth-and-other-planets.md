@@ -36,15 +36,6 @@ related:
         width: 1984
         height: 1568
         isCached: true
-  - title: "Massage Therapy And AI"
-    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
-    publishedDateTime: 2023-06-19T00:00:00Z
-    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
-    type: article
-    provider:
-      name: The Mint Hill Times
-      domain: minthilltimes.com
-    quality: 34
   - title: "How AI Can Help Stressed-Out Managers Be Better Coaches"
     excerpt: "The expectations placed on managers to assess and guide their employees’ performance have increased, a trend amplified by generational shifts and remote work. Employees want frequent, personalized, one-on-one coaching,"
     publishedDateTime: 2023-06-21T12:25:00Z

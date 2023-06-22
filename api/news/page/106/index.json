@@ -2,58 +2,6 @@
   "page": 106,
   "value": [
     {
-      "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
-      "title": "The best movies on Amazon Prime Video (April 2023)",
-      "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Ticket-To-Paradise-Movie.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-04-14T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-14-revolutionizing-the-consumer-goods-industry-with-integrated-business-planning.md",
       "title": "Revolutionizing the consumer goods industry with integrated business planning",
       "excerpt": "Learn how Al Rabie Saudi Foods Co. Ltd adopted an integrated business planning analytics approach to streamline their planning and budgeting processes.\nThe post Revolutionizing the consumer goods industry with integrated business planning appeared first on IBM Blog.\n",
@@ -1170,6 +1118,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-sophisticated-ai-robot-speaks-several-languages-in-disturbing-footage.md",
+      "title": "Sophisticated AI robot speaks several languages in disturbing footage",
+      "excerpt": "Disturbing footage shows a highly-advanced AI robot speaking several languages. Ameca is a robot developed by UK startup Engineered Arts, who describe the robot as the “world’s most advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "originalUrl": "https://www.aol.com/sophisticated-ai-robot-speaks-several-054650924.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_uk_548/b54fd902279682f3aebe46b948550b8f",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

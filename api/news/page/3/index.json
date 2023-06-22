@@ -1163,21 +1163,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
-      "title": "Amazon And The AI War: iRobot Acquisition In Focus",
-      "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
+      "path": "_news/2023-06-20-vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier.md",
+      "title": "Vimeo adds a suite of AI tools to make video creation significantly easier",
+      "excerpt": "On Tuesday, Vimeo announced it is adding a suite of AI tools to its platform that will automate a lot of the video-editing process. The features include an AI script generator, a teleprompter, and even a text-based video editor. Also : TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
-      "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
+      "webUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "originalUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp",
-          "width": 1000,
-          "height": 664,
+          "url": "https://www.zdnet.com/a/img/resize/bb0f8df4687cfc04a4ac734b220e0f4b00c9e0ff/2023/06/16/2c07c14f-1fed-45bd-9a02-dd27d3b4b9cd/vimeo-ai-prompt-720.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1185,16 +1185,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T22:07:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "publishedDateTime": "2023-06-19T20:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1210,7 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

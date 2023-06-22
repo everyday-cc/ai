@@ -38,13 +38,13 @@ related:
       domain: sciencedaily.com
     quality: 26
   - title: "AI that uses sketches to detect objects within an image could boost tumour detection, and search for rare bird species"
-    excerpt: "Teaching machine learning tools to detect specific objects in a specific image and discount others is a “game-changer” that could lead to"
-    publishedDateTime: 2023-06-21T12:48:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234752"
+    excerpt: "Surrey is set to present its unique sketch-based object detection tool at this year’s Computer Vision, Pattern, and Recognition Conference (CVPR). The tool allows the user to sketch an object, which the AI will use as a basis to search within an image to ..."
+    publishedDateTime: 2023-06-20T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993220"
     type: article
     provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 0
 
 secured: "4mib/mtH8sFXmbswvmNVgnsmk2fGLVUoS2kKADLEH2NRawVGWterwXoY5WydtNALnImoNNe6GI+mMrACAmxDqlhNBkPVS6q+OWvjV2WaQj45BivaIQi7U1ArEf4q43Cg8VKk8JZenvZ18xSFrYjLMYU/ypGNqtYkHq4BPjSG+WLjvS9Tpi1VPu4r+/w2SwEZuepi8pUr6zSYXWeE5eQNvkIapjEq871MfHXX9+x8JJKqNWG9Cuz6AQRVP1J4BNJcVFoROYTkNo4bP0rlORCE5H5TtBXrbX+ZvLLI7hz7e0MrULWOe7/4jwSjY8ErFzUYA01G3BtQl19ZBsegDyjvdlGizFylIA/Jra2ATAF5ejs=;URsyJ/yaMVxbiCjwzya6JA=="

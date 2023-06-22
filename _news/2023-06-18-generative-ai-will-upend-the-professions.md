@@ -111,15 +111,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
-  - title: "Some advertisers are requiring their agencies to disclose when they use generative AI"
-    excerpt: "The marketing consultancy Ebiquity said between 10% to 20% of its clients have updated their contracts with agencies to include wording around AI."
-    publishedDateTime: 2023-06-17T13:00:00Z
-    webUrl: "https://www.businessinsider.com/some-advertisers-want-their-agencies-disclose-when-they-use-generative-ai-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
 
 secured: "h1BzdOytb5UlsF+U/nMg6q4LavvdNetavq7OmGUxIpJUtv9QRrJzcxECFMC5Os5L/JMFrf3tgH4yQ6di1VoHNbfsTM4bCiw4wpql2LswwBuNoNQrOEmzaay09T5QH/agEuB1sXE6DmgItOYIbLHWY5YcoeFkCPkyPA3f3kL4Cm1xwyKQQ/eEmm9Z3dgT96lxyCQEyWUKibxVG2/I1qYjEnj7Kuy3JgFajnxLzow2G+yN6wQYxI0a8fpTM3CBjJ2UU/38DAZDn/55rMNoXziuaX2S7SeZI2e5VJNglPUNGAwX/Sld6qyvORdwgCWWE99jQMO1lyI/z4FA4lWhqksTGunRMIi+IzLIUK0KDbn3G432F7Isvk/8SFxYS+aH8souMkVoLjqFqUMJoyIp4OnWzPAvUf88uQQeYT/CLhOw0KmJOALqx7D0398SLgteOvBcTCszGD87z/iaCt1xXcvl8qm58beWWt8om2UpL+xs0QfyRFDbl+zIj09f5qg7cXYogGg/BACuVu4JGCIGwON/Yg==;keQTbc2oLPiUM1afxg/H1A=="
 ---

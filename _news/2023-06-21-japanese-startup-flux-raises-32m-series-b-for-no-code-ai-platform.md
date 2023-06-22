@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Japanese Startup FLUX Raises $32M Series B for No-code AI Platform"
-excerpt: "The Series B funding will accelerate these research efforts as well as enabling hiring of more AI engineers. FLUX is a venture-backed startup which develops no-code AI platform FLUX AI. Several no-code solutions are based on FLUX AI, each of which enables ..."
-publishedDateTime: 2023-06-21T08:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/japanese-startup-flux-raises-32m-series-b-for-no-code-ai-platform-1032400849"
-webUrl: "https://markets.businessinsider.com/news/stocks/japanese-startup-flux-raises-32m-series-b-for-no-code-ai-platform-1032400849"
+excerpt: "New Funding Follows Rapid Growth of Enterprise-focused AI Tools, with 1,100+ Customers Using FLUX Products - FLUX Inc., Japan's leading AI platform developer, announced 4.4 billion JPY (approximately US$32 million) in Series B funding led by DNX Ventures,"
+publishedDateTime: 2023-06-21T07:19:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/21/9836224.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836224.htm"
 type: article
-quality: 47
-heat: 47
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "qWvvWtgbt8u4x7xtUzQCDMsVCfPimujkbB3Kvmvre72E9BH9rHvVoZvlPE3SAKsltGpH9/h6Kb3UgA8Nh8lfMCkN/lQaJpVAVAonOtY1AvhKzP9VO4s7CYr9HAUi77z+0588DfsWSKgIweGT18W8RfF2T9ZKZia8+ydN6oChmETduBgUvXPMy/pLsbjGJ/ZicRX1j489dbCCEGH/7uPP85vm8fQgkSxEB0MExD/eZyGtXpVReb4ttZfvAJAbUKc56jn7Zi1YsAmAORJWscbfMV4jx1psQg1yTlWOb37KYJLG2X9gnL+EkidRSzEpzoamc+0vYfah8vyq9jkKS5f8arfZTaSluIv6/49RChBYYPA=;ucl5t7bDzKiUHdQFZNwIvQ=="
+secured: "9y4jhJ8u2TTaj5bIjyzpy9jYMwPwNoJ/4aYq1KEpLS1BLK9xZRiwD6jM2HapEdH/LCXsXCZXnLLAALQQiLyq+9T1vUTCNkX9P6cAvze6YokPE0p0CF77O5Hmgm4mSa4yoN7ZpJzm/AmLH/PglOpc9wOHN7xJwhOjtKkyyJpqvntvMsv4H9ig+Q7Zrfz1X6BBP5ww39zKi8NgbpRngFekEFRFkjXUWuheGKLzVC10y2Z4vRmYojQYnRm4/EoFG5N7DToVOSoHx0Z9HPqMmd0IOhvgEN+bEGRh9jYC5XhFBvG65jjULII7iinCFrRGS7JQyGwaT6Ed/bWng3spBnD2Fcn7fZzwoXXOoMAN16z3yjY=;0OMPGgkhJYNYts1NZNEudQ=="
 ---
 

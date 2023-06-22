@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "CSIRO leads on responsible AI"
+    excerpt: "The National AI Centre, housed in the CSIRO, has released a new report to advise small businesses about the uptake and rollout of AI in their operations in a responsible way."
+    publishedDateTime: 2023-06-22T05:29:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "New report to help businesses implement responsible AI"
     excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
     publishedDateTime: 2023-06-21T23:46:00Z

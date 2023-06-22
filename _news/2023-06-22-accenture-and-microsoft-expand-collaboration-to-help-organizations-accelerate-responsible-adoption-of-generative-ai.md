@@ -62,15 +62,6 @@ related:
       name: Nearshore Americas
       domain: nearshoreamericas.com
     quality: 28
-  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
-    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
-    publishedDateTime: 2023-06-17T12:03:00Z
-    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
-    type: article
-    provider:
-      name: en.qdnd
-      domain: qdnd.vn
-    quality: 16
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z
