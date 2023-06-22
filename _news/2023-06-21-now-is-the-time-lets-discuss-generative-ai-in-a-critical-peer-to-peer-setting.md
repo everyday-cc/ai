@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative
 webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,20 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "What’s the H100, the Chip Driving Generative AI?"
-    excerpt: "It’s rare that a computer component sets pulses racing beyond the tech industry. But when Nvidia Corp. issued a blowout sales forecast in May to send its market value above $1 trillion, the star of the show was its latest graphics processing unit,"
-    publishedDateTime: 2023-06-21T02:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/21/what-s-the-h100-the-chip-driving-generative-ai-quicktake/50a8ffa4-1008-11ee-8d22-5f65b2e2f6ad_story.html"
+  - title: "Ready Or Not, Disruptive AI Is Here To Stay"
+    excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7ZQ7FQQBAI65DJCL5S3FYXWVU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1396
+        height: 900
         isCached: true
+  - title: "AI In Real Estate: Where To Start"
+    excerpt: "In this article, I want to share some ideas about how you can start using AI in real estate (without getting too technical). Handling documents in real estate can be time-consuming. Different formats and inconsistent templates make it challenging to ..."
+    publishedDateTime: 2023-06-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-in-real-estate-where-to-start/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "NmpQR31NwIDHZ4IXAYRtpoK1X+9lfrRK906pBSVXIjdw1RI1ksAO16kpG1n8nG1AivMSqvLKVo2RNNYdzs4kJcjsmPGr7XZJGoMtfxkczh+KVdXRZ4cZEEntMtaiEDhI7jAwDHwRah8121IjSN3A5YAJ01zKFTlZh5tO3ZR0mF3Ll9RCTW3wWNW0b0soxUCTvRpCiyNjkysVFfblxChjfR6LgFgzSjJJ777imDmA8CAnp0vjr62Bgq7Dc71FS1esGsVH+W5xrj0BXaNIcqaCJ2nZOLWl73tB0pv0jHxOh/XA3tKJgivSgK0RAzMZqT1t3j/Eb0apIc9Y961b+iNgeCbrNeJ2PKBUya1m0gIRH2tPpxLawFSWsQGbux5LobgQe80BqW3Vc2vWOdC4gzoyzlSnJi+T/DOg2giEzvVogbBSCZlm7Dpa20fIlLlb2wshbT5FE4ydqyFgkLspE+tTt3feDUaxIk6LscPCDITX+tqYFU9V/cQAWBvmwXdZQcMPLiOpyaxZdjGnJAUWi5HQRg==;j5zqWZbsp5xZAPPIX03jUg=="
 ---

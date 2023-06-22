@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029-2023-06-19"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,76 @@ images:
     isCached: true
 
 related:
+  - title: "2023 Artificial Intelligence (AI) Robots Market Size, Share and Growth Forecast to 2030"
+    excerpt: "The \"Artificial Intelligence (AI) Robots Market\" research report for the period 2023-2030 offers a comprehensive"
+    publishedDateTime: 2023-06-19T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 91
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market Growth | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
+    publishedDateTime: 2023-06-19T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Detailed Analysis of Existing and Upcoming Growth by 2030"
+    excerpt: "The Artificial Intelligence (AI) in Fintech Market Scope and Overview Report for 2023 presents a detailed analysis of"
+    publishedDateTime: 2023-06-18T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2023-detailed-analysis-of-existing-and-upcoming-growth-by-2030-2023-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031"
+    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
+    publishedDateTime: 2023-06-21T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) market size to grow by"
     excerpt: "According to Technavio, the global artificial intelligence (AI) market size is estimated to grow by USD 125.3 billion from 2022 to 2027. The market is estimated to grow at a CAGR of 22.26% during the forecast period."
     publishedDateTime: 2023-06-20T17:02:00Z
@@ -43,6 +113,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "South Korea Artificial Intelligence Market Size To Grow At A CAGR Of 14.5% In The Forecast Period Of 2023-2028"
+    excerpt: "The ' South Korea Artificial Intelligence Market Size, Share, Analysis, Report and Forecast 2023-2028' by Expert Market Research gives an extensive outlook of the South Korea artificial intelligence market,"
+    publishedDateTime: 2023-06-20T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/south-korea-artificial-intelligence-market-size-to-grow-at-a-cagr-of-145-in-the-forecast-period-of-2023-2028-2023-06-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Transportation Market 2023 Industry Trends, Growth, Size, Segmentation, Opportunities and Revenue by Forecast to 2031"
     excerpt: "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17."
     publishedDateTime: 2023-06-19T08:58:00Z
@@ -52,6 +136,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Media Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 12.5%"
+    excerpt: "This \"Cognitive Media Market\" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers. This report consists of 166 pages."
+    publishedDateTime: 2023-06-22T03:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market---global-industry-analysis-size-growth-trends-and-forecast-2023-to-2030-with-an-impacting-cagr-125-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

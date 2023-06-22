@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "The Top Five Real Risks Of AI to Your Business"
+    excerpt: "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics."
+    publishedDateTime: 2023-06-22T17:31:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "AI drive-thrus may be good for business. But not for the rest of us"
     excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
     publishedDateTime: 2023-06-19T20:41:00Z
@@ -32,6 +48,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Podcasts to Make Sense of Artificial Intelligence"
+    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."
+    publishedDateTime: 2023-06-20T03:42:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2023/jun/19/podcasts-to-make-sense-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204612650_web-soundtrap-n30_i7mx62o-unsplash_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "New report to help businesses implement responsible AI"
+    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
+    publishedDateTime: 2023-06-21T23:46:00Z
+    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 19
 
 secured: "gnw+MnL0ahUyupDB+ltpnenw/6XBtf6IRxuThVK5xT313XB9k854pjF6gB4HGGawcLVoSSZtTrUonx5YPcYfgxzoj1EOhcJYTp6Y8tzttJ77juBBrJ5/M29r4dPUKcsgxUb6lwVznQAOKa1Y9WDjYwjSmtq2k5UvOuMnXzquZ5uNnm7tUh4JkFewujZTh+46k+APfaRvqtDQAikN2AWJItm4e8OApDk7M6DCRi1RM2OyS57VQc3k2o4fYpSEYXTJzplO2xD3rvEN3B+UGEqMHwwqLdy3kSM/1C3JE7YrAQMcBTpdOtSTlEM+G9tG2jWQ+MAcYd+iYqgCEKfI60QA8d/ok585ct+1JYM9BtNkXas=;kyut5kSGszezWHxMjnsA6A=="
 ---

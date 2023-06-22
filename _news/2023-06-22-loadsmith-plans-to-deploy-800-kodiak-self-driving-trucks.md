@@ -19,15 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving firm Kodiak inks deal to equip 800 Loadsmith trucks"
-    excerpt: "SAN FRANCISCO, June 22 (Reuters) - Autonomous truck technology firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said in a statement on Thursday. Kodiak will start delivering the trucks ..."
-    publishedDateTime: 2023-06-22T13:15:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-firm-kodiak-inks-deal-equip-800-loadsmith-trucks-2023-06-22/"
+  - title: "Kodiak Robotics intends to equip 800 trucks with self-driving systems in 2025"
+    excerpt: "Kodiak Robotics intends to outfit a fleet of 800 commercial trucks with self-driving systems. The trucks are expected to reach the road in the second half of 2025, the company said Thursday. Logistics firm Loadsmith will operate the trucks as part of a ..."
+    publishedDateTime: 2023-06-22T15:21:00Z
+    webUrl: "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
+      name: Automotive News
+      domain: autonews.com
+    quality: 53
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KodiakTruck-MAIN_i.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving firm Kodiak inks deal to equip 800 Loadsmith trucks"
+    excerpt: "SAN FRANCISCO (Reuters) - Autonomous truck technology firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said in a statement on Thursday. Kodiak will start delivering the trucks equipped ..."
+    publishedDateTime: 2023-06-22T13:54:00Z
+    webUrl: "https://www.aol.com/news/self-driving-firm-kodiak-inks-131017840.html"
+    ampWebUrl: "https://www.aol.com/amphtml/self-driving-firm-kodiak-inks-131017840.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-firm-kodiak-inks-131017840.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 44
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DPUPw+KX9YK9I2I1y997UvdoeL6DLrEAWG+rAXwPDt5BvZ/fj6D4uhM0alGXr8yphw+2IgYWxPRgkV5Ygq6Q44ADtiDkAQita7ElQNBuiBDoj/vbh2LpFbrz5OSnW+j7GNbcarV+2u4GWnP6815MW0xIR2UmEfSv49oXQTZA1tgYA7N19g/oBlaOV6Zpd5fxZT1XqU2O8wYdBvxSSqRz+vO8C/AjTh/46ESUnCIUhVxiKS4vUas0//AjfarjYu7tRw7ih+uFCm8WNfXl+SkFTFJhWcCOy1meGin2Z/SXIslM371wLFxQXR1hozenaYzNVCDfhG0UDZ0JpH9Xnb0wy+vGFSEYvZizNNolqzpk1dU=;IP6hAqNHkpr2+2THuqTpog=="
 ---

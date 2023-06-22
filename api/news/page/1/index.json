@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
+      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
+      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
+      "publishedDateTime": "2023-06-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-top-five-real-risks-of-ai-to-your-business.md",
+      "title": "The Top Five Real Risks Of AI to Your Business",
+      "excerpt": "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
+      "publishedDateTime": "2023-06-22T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-amazoncom-to-invest-100-million-in-new-aws-ai-center.md",
+      "title": "Amazon.com to Invest $100 Million in New AWS AI Center",
+      "excerpt": "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
+      "publishedDateTime": "2023-06-22T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-ready-or-not-disruptive-ai-is-here-to-stay.md",
+      "title": "Ready Or Not, Disruptive AI Is Here To Stay",
+      "excerpt": "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1396,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/",
+      "publishedDateTime": "2023-06-22T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws.md",
       "title": "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS",
       "excerpt": "This post is co-written with Aruna Abeyakoon and Denisse Colin from Light and Wonder (L&amp;W). Headquartered in Las Vegas, Light &amp; Wonder, Inc. is the leading cross-platform global game company that provides gambling products and services. Working with AWS, Light &amp; Wonder recently developed",
@@ -106,6 +313,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-22-kodiak-robotics-intends-to-equip-800-trucks-with-self-driving-systems-in-2025.md",
+      "title": "Kodiak Robotics intends to equip 800 trucks with self-driving systems in 2025",
+      "excerpt": "Kodiak Robotics intends to outfit a fleet of 800 commercial trucks with self-driving systems. The trucks are expected to reach the road in the second half of 2025, the company said Thursday. Logistics firm Loadsmith will operate the trucks as part of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks",
+      "originalUrl": "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KodiakTruck-MAIN_i.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-startup-unveils-ai-breakthrough-for-male-fertility-diagnosis.md",
       "title": "Startup unveils AI breakthrough for male fertility diagnosis",
       "excerpt": "A new algorithm can determine male fertility at a faster and more accurate rate than previously possible, according to research by UK startup Bayezian ... machine learning incubation services, applied AI to the problem. “We see accurate diagnosis ...",
@@ -165,7 +416,7 @@
       "originalUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -314,49 +565,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-elon-musk-says-artificial-intelligence-ai-will-be-the-primary-growth-driver-for-tesla-stock.md",
-      "title": "Elon Musk Says Artificial Intelligence (AI) Will Be the Primary Growth Driver for Tesla Stock",
-      "excerpt": "CEO Elon Musk says full self-driving (FSD) software will eventually be the ... mobility and logistics by replacing fallible humans with less fallible artificial intelligence (AI) software. Robotaxis will make car ownership optional, reduce motor vehicle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-how-ai-is-changing-the-future-of-work.md",
       "title": "How AI Is Changing The Future Of Work",
       "excerpt": "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ...",
@@ -365,7 +573,7 @@
       "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -563,7 +771,7 @@
       "originalUrl": "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -615,7 +823,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -711,58 +919,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-old-mutual-completes-all-in-migration-to-aws.md",
-      "title": "Old Mutual Completes All-In Migration to AWS",
-      "excerpt": "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
       "title": "Schumer reveals plan to regulate AI",
       "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
@@ -813,7 +969,7 @@
       "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -952,6 +1108,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-22-financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study.md",
+      "title": "Financial and legal professionals see the value in generative AI, according to a study",
+      "excerpt": "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
+      "originalUrl": "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/",
+      "publishedDateTime": "2023-06-21T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-meet-the-6-jpmorgan-execs-tapped-to-lead-a-new-unit-that-will-shape-how-the-countrys-largest-bank-approaches-ai.md",
       "title": "Meet the 6 JPMorgan execs tapped to lead a new unit that will shape how the country's largest bank approaches AI",
       "excerpt": "The organization will be led by Teresa Heitsenrether and pulls together some of the brightest tech minds at JPMorgan to drive the bank's AI strategy.",
@@ -1043,204 +1250,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-sketch-based-object-detection-tool-using-machine-learning-could-boost-tumor-detection.md",
-      "title": "Sketch-based object detection tool using machine learning could boost tumor detection",
-      "excerpt": "Teaching machine learning tools to detect specific objects in a specific image and discount others is a \"game-changer\" that could lead to advancements in cancer detection, according to leading researchers from the University of Surrey.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/sketch-based-object-de.jpg",
-          "width": 782,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.amp",
-      "publishedDateTime": "2023-06-21T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-danti-uses-natural-language-processing-to-make-searching-earth-data-simple.md",
-      "title": "Danti uses natural language processing to make searching Earth data simple",
-      "excerpt": "Danti, a startup emerging from stealth today with $2.75 million in funding, provides a powerful natural language search engine for location-based data.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/ukraine-query.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/",
-      "publishedDateTime": "2023-06-21T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds.md",
-      "title": "More developers are coding with AI than you think, Stack Overflow survey finds",
-      "excerpt": "With 90,000 responses to the company's annual survey, here's where developers are leaning toward in the generative AI debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "originalUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/545733610b3e2f93753c954165fa6020af63360f/2023/06/21/82341c8e-30ce-4539-9f57-baa07a59b3ec/gettyimages-1443552841.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "publishedDateTime": "2023-06-21T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-dropbox-launches-50m-ai-focused-venture-fund-intros-ai-features.md",
-      "title": "Dropbox launches $50M AI-focused venture fund, intros AI features",
-      "excerpt": "Dropbox AI — powered by an OpenAI model via OpenAI’s API — can review and generate summaries from documents as well as video previews. And it can answer questions in a chatbot-like fashion, drawing from the contents of research papers, contracts, meeting recordings and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/11/dropbox-iphone-2018.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/",
-      "publishedDateTime": "2023-06-21T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

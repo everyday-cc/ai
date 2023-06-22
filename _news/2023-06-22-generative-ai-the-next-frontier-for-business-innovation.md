@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is The Drone Industry Ready For Generative AI?"
+    excerpt: "With the implementation of advanced flight controllers and intuitive AI, any person could quickly pick-up a quadcopter and fly or even start taking professional grade videos. This evolution democratized in many ways the low-altitude skies and in the same ..."
+    publishedDateTime: 2023-06-22T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
+        width: 709
+        height: 472
+        isCached: true
   - title: "Yin and Yang of AI: Balancing innovation, ethics"
     excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
     publishedDateTime: 2023-06-19T07:30:00Z

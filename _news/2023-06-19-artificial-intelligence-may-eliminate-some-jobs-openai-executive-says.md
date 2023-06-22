@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs"
+    excerpt: "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ..."
+    publishedDateTime: 2023-06-22T17:44:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/"
+    ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669"
+        width: 1200
+        height: 669
+        isCached: true
   - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
     excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
     publishedDateTime: 2023-06-19T15:24:00Z
@@ -44,19 +60,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Financial and legal professionals see the value in generative AI, according to a study"
-    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
-    publishedDateTime: 2023-06-21T21:06:00Z
-    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+  - title: "MosaicML challenges OpenAI with its new open-source language model"
+    excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
+    publishedDateTime: 2023-06-22T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/MosaicML.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
@@ -69,38 +83,6 @@ related:
       name: Time
       domain: time.com
     quality: 64
-  - title: "Q&A: DexCare CEO on raising $75M in a ‘rough’ market, using generative AI, and more"
-    excerpt: "We didn’t really start looking at this seriously until April ... Can you explain how the company incorporates generative AI into the product? We use quite a bit of sophisticated, AI-driven decisioning in our platform now so we can ensure patients ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/Untitled-design-20.jpeg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
-    excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
-    publishedDateTime: 2023-06-18T04:10:00Z
-    webUrl: "https://www.ft.com/content/73f9686e-12cd-47bc-aa6e-52054708b3b3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 11
 
 secured: "z8H4PLt9Oiio+B+5JFCuIFwJh4wwmN3SSogwiJkBjtN8T2M6go5HJzRv196aBlapSIAh+qnKYiRqlGfjg/TtJxJVuw9OOIKP76DUAV9raucXqfEWyzXEdIc47q6nwoUqk7XVdO6fls4rOc1V0Wns7C776zPNgWyNTGoDENyMHwF+8DHKCV5BxVGZ7rqoE8juS+8WNv641KYy2bekdEQEzsQF4TMiWozwcLmAjbQjvI2rdlEoQp/yFRBkZ+pUNqBItgYiDEpZoIaElItprC1uqFt4t18pbycvt2ly7lQi3lU2OznjKWpI5Q/+Tie4H6qjFDDcTZl0+8X/TDpypRci4vyzHU78gDcwIajF0SSHE6V74OJfg1e8Y2ViKUP3TU9kYC73TKBPNXs0+rgLQiPndlWl5gxlEpAioPKJQIHIXIfMG3ZI/QlF4HzXeRzy4RWmmvSnXHwjVU60QGvJgrYG49hU12rfZw/b01+2HR0ZZvSF8Cs35qmSGEXPBtwL3E+0DqgZdgmNFJI05h5JFqqheA==;w+1TxMaEqncUKsi0ZbBMpg=="
 ---

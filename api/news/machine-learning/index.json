@@ -1065,6 +1065,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-2023-artificial-neural-networks-market-is-booming-globally-forecast-2030.md",
+      "title": "2023 Artificial Neural Networks Market Is Booming Globally Forecast 2030",
+      "excerpt": "Artificial Neural Networks Market Report Insights: (Report Pages: 113) CAGR and Revenue: “USD million to USD million",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-neural-networks-market-is-booming-globally-forecast-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-neural-networks-market-is-booming-globally-forecast-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
       "title": "How Machine Learning And Location Data Are Disrupting Industries",
       "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
@@ -1386,49 +1438,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
-      "title": "Global Neural Network Software Market Report 2023: Rising Demand For Digitalization Is Expected To Propel Growth",
-      "excerpt": "Neural network software refers to a technique in artificial intelligence that instructs computers to analyze data in a manner patterned after the human brain. Neural network software allows users ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106440832/Global-Neural-Network-Software-Market-Report-2023-Rising-Demand-For-Digitalization-Is-Expected-To-Propel-Growth",
-      "originalUrl": "https://menafn.com/1106440832/Global-Neural-Network-Software-Market-Report-2023-Rising-Demand-For-Digitalization-Is-Expected-To-Propel-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192477",
-          "width": 393,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

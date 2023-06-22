@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "New report to help businesses implement responsible AI"
-    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
-    publishedDateTime: 2023-06-21T23:46:00Z
-    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 19
 
 secured: "qm4QCs1Myv3lE4+GsCg99hPHUId0rcnf3uUcndTii2Df93LBgQPLgXcjDn+dOLVIQzb/cuUvZ3n/JsnRFoH25P45PobtxI1wlhsO8qxgt7q8GS2Flf9nqJR5BZky2x2LRVzvrOfrMcBgEBog/hpD1tSNCOHJdapo5MqSAdrNmJ8JLkSJOnNG69SnST2nnuNadZCkOjtVvN58QRM3kCU8MSrRkNHYc8/FQOSLH8RZYpVAln4T3qwrN72tznBsSIRJgVxTO/K9/IFQZkdp7QE32iz6f4TUqxwzbJQPUCjyAcN7goBMR3E4ZkFv1K6BSTzmX408de6jMzlC9At8oJY7yrguVrpNG7KkgF0KleK1acA=;W+Lu0Q4A6PlqLxWaoY4Fnw=="
 ---

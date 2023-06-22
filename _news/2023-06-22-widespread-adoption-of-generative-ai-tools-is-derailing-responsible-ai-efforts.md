@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "New report to help businesses implement responsible AI"
-    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
-    publishedDateTime: 2023-06-21T23:46:00Z
-    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 19
 
 secured: "ul7t0sY4serhTBa0dB3qGbtTfRdH1vMVKcJQf1blW803VGRTSDmHqRu2g+L1vdkxDODly25c+BYbqWfjAcH4IzPmqprMVAzOMT+00k165x6ne5I12bQT/Xj5hED4mApUtYkc3GY3WjDDfLKK+xY6qwnaVyj+8Et7n0DnWfbHVdQtD9It4Gb7+8heIgvWGiH8LFE7u4rtreL5SHfO9zGM+T3lKHUQ06Gf66InZhZEoJ9Etm+53162kfaxlpGujQQ6PKrZ/+hw9nFGNdMQjxWUz93vLOhG4QuoVzt8XZ7duRxebhB9M5CHuNQ9Ez9ojHfE22d9ycp2kRHhiZ+LpPU/kOZKSb0LNpQrz2U3jf8OqUPHZqMsoxDCMZx0oTc52358rNRzcsmgSN9Qy1BI1jWa6iUgHiiRwQObymLK4XdzfY/Clq8W+PZ0148Igk9fZjPxavq7bZZRgRdlv3NSADsfXQ6eKA7XecxDxqnbjhxs818h/li7SqHNsWkBd750zoxs//beOc9XHTnrdQgWCg85Eg==;L5McFiNXPMl2PbGMtqg5AA=="
 ---

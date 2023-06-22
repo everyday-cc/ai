@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-in-re
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-in-real-estate-where-to-start/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,36 @@ topics:
   - AI
 
 related:
-  - title: "Educators Starting to Incorporate AI into Regular Tasks"
-    excerpt: "An informal poll on social media found that teachers are encouraging students to use ChatGPT for test preparation or brainstorming project ideas, and using it themselves to append lessons in writing or technology."
-    publishedDateTime: 2023-06-20T19:30:00Z
-    webUrl: "https://www.govtech.com/education/k-12/educators-starting-to-incorporate-ai-into-regular-tasks"
+  - title: "Ready Or Not, Disruptive AI Is Here To Stay"
+    excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1396
+        height: 900
+        isCached: true
+  - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
+    excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
+        width: 1198
+        height: 685
+        isCached: true
 
 secured: "BzpzYGzv1YrAgkQN4dJPhREiokM5E5ZaUO8wE7Z2r4j2tMsvb1uhGTSIaUqWsNSn1chUtyQqWyUSrsVNWeizX2J9FzfZMtuapNnk6vnnyOxmGT626E16Cru+50IU63K0PEDlP9JDfw02tREItTrPRre5OZ0R0qbBJHT/YE5gR5LLAiV3p1FJAHoXa+nYZVYDGpa7fdiXjHcWqIxJnp31IaIkVUpIhgx5GqCRXdT4iraCVAVsSSK4Hzam5QrCcFQZ8UxMhugOW05QLP1FUEcP/YVcbmdyFu+PYKbqrLtdk7Vjxu3/z+m8nuWdlW49bnKRToVT7venxiq89yNjgpmWy691lljqwVCY6D/akHvFgUU=;O1XFABxNRB3qvhUzYldg3w=="
 ---

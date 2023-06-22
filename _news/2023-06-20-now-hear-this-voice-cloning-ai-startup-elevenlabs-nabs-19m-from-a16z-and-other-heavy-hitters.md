@@ -24,9 +24,9 @@ topics:
 
 related:
   - title: "Hot AI startup ElevenLabs confirms it's raised $19 million from Andreessen Horowitz and GitHub's former CEO"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup ..."
-    publishedDateTime: 2023-06-20T09:24:00Z
-    webUrl: "https://www.businessinsider.com/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6?trk=public_post_comment-text"
+    excerpt: "Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup, which is based in London and New York, launched in 2022 and uses AI to create convincing text ..."
+    publishedDateTime: 2023-06-20T07:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6"
     type: article
     provider:
       name: Business Insider

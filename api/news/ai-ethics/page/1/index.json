@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-23-the-top-five-real-risks-of-ai-to-your-business.md",
+      "title": "The Top Five Real Risks Of AI to Your Business",
+      "excerpt": "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
+      "publishedDateTime": "2023-06-22T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts.md",
       "title": "Widespread adoption of generative AI tools is derailing responsible AI efforts",
       "excerpt": "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -95,58 +147,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting.md",
-      "title": "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting",
-      "excerpt": "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/",
-      "originalUrl": "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

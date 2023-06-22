@@ -25,47 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ..."
-    publishedDateTime: 2023-06-19T13:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
+  - title: "Nvidia Now Tops Tesla as ESG Funds Ratchet Up Exposure to AI"
+    excerpt: "Nvidia Corp.’s stratospheric ascent has lured at least 100 more ESG funds in recent weeks, transforming the company into one of the most popular stocks among asset managers who integrate environmental,"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in_Z4HUIMDbU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
-    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
-    publishedDateTime: 2023-06-20T14:33:00Z
-    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
+  - title: "The Problem With Tesla’s AI Rally in Eight Charts"
+    excerpt: "Wall Street’s focus has moved from Tesla’s price cuts to a more distant future of driverless vehicles. It may shift again."
+    publishedDateTime: 2023-06-20T10:50:00Z
+    webUrl: "https://www.wsj.com/articles/the-problem-with-teslas-ai-rally-in-eight-charts-e72dbb8f"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 64
-  - title: "Can SoftBank Become The Next Hot AI Stock Through A Subsidiary That Nvidia Once Tried To Acquire?"
-    excerpt: "The company’s CEO, Masayoshi Son, announced on Wednesday that SoftBank is preparing to “go on the counteroffensive,” leveraging its subsidiary Arm, a company that Nvidia once attempted to acquire. What Happened: The recent boom in AI technologies has reinvigorated SoftBank’s leadership."
-    publishedDateTime: 2023-06-21T11:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32943538/can-softbank-become-the-next-hot-ai-stock-through-a-subsidiary-that-nvidia-once-tried-to-acquire"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32943538"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32943538"
+  - title: "Billion-Dollar AI Venture Fund Offers Elusive Nvidia Chips to Win Deals"
+    excerpt: "Nat Friedman and Daniel Gross, a pair of founders turned startup investors, set the venture capital world abuzz last week by announcing a novel tactic to win over founders: offering them access to a huge number of free servers equipped with the most advanced chips for training machine-learning"
+    publishedDateTime: 2023-06-20T21:19:00Z
+    webUrl: "https://www.theinformation.com/articles/former-github-ceos-novel-investment-offer-to-ai-founders-rare-server-chips"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Ai,Processor,3d,Render,,Artificial,Intelligence,Of,Digital,Human_0.jpeg?width=1200&height=800&fit=crop"
-        width: 843
-        height: 562
+      - url: "https://tii.imgix.net/production/articles/10725/b586ad85-7a05-4471-9151-9dd17e69ccac.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Nvidia Has More Room to Run with Boom in Generative AI"
+    excerpt: "The AI boom and the demand for AI chips have given a significant boost to chip giant Nvidia (NASDAQ: NVDA). The stock has soared by more than"
+    publishedDateTime: 2023-06-19T12:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-has-more-room-to-run-with-boom-in-generative-ai-1032396798"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Here’s five Asian AI stock picks to rival Nvidia"
     excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
     publishedDateTime: 2023-06-19T05:57:00Z
@@ -88,15 +93,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 34
-  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
-    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
-    publishedDateTime: 2023-06-20T12:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
     quality: 34
 
 secured: "qrtF2Fa5wy/dY/5uj5Nwcl6m4P/ciCuGrFv5kH4/LhZcnXK651F2iHI577c56CkNO2VycZbZLJfUC+92gouqfPzzUpTxR3kI9w8sJRc2GQbNcp8NgxZphGgtHvg84a4wTnYkjz4V3fW3Xph4Nqyh7/A5P2QiA7mqHnun0JOWRFolJFRzPsy5nJD+oOJfScTcTNJkJc1uzbB74NfX7PdnsfJLY0yUrFzjpO9mRCprzEQrRONOxRLpEqSfbmo6eOMfRI1IAPE2EC8uxoVwZUgg2S3bIMFSBm6bdAvA4j2zPkEngjBTUic+wh3NSQlQHdxvY5wGq4ivps+mcyCJ6+G5HidjAQOWPsL3coHvILf75nnhJW+P9Ab4l+ywTs6cq0BmkTgBRKmEWOfGPscHBIOD1IEAQOAoHDgTDPsxgcKKTukrYPmm55bbcKiSm3S+r47SJUUFcmb2Zr8PISS1PFAOi01vE15+qntDJ+x1qfwnmaBcYASzOgLF9GnLyiL21KJmoAEhlr/s2HgFwXTaFKk8mA==;IY1efzAaA+6s0uxQKgI5Og=="

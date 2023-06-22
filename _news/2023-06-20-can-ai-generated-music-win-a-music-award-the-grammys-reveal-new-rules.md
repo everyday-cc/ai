@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "New Grammy rule addresses artificial intelligence, says \"only human creators\" eligible for awards"
-    excerpt: "Under the new rule, works that features elements of AI are still eligible as long as a human creator is responsible for a \"meaningful\" contribution."
-    publishedDateTime: 2023-06-18T00:57:00Z
-    webUrl: "https://www.cbsnews.com/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/18/f4f3411f-2e77-4f5c-8640-534c45a5a95c/thumbnail/1200x630/4112747c3e4074d6199680dc2f0bdb8c/grammy.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QmVnS9vGBsMcVJcPoYs0OfYbEpUNBomTF28l6BOcot2SGFS62/TgUp/nPl7wz3iOSN1SYkcvUYVM8TntvWVwZc6urxNro7z2ofVH9IoDjyBcP+g5o0K/LsYnbyUm5AG6C9MkgJswRpTXMDkYFKm0tGbUYXmP5u90ofO98FuoEmfvorEnH0JgmQAclZVYdTSwEmGTjtVyRq9P70kI3L3CJqbg7bI7X94596+GZ7Enh1g+vFmi2vMZ/UAIujJC9HC6S/uMXh0TxV1kGgDdHDen/bGBAApMKEIcYIHXdC0Sv/eujBhJ49zfNZGt8Xs+IRcUQ0xxcrfOn8G0QVCp2rL7nTDotfK1Pk9OmPvAC3tO2I4=;oMcDxhmzkwIBoP5UJc4EFw=="
 ---

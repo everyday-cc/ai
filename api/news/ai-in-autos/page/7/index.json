@@ -2,6 +2,205 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-26-a-pioneering-artificial-intelligence-method-to-fight-urban-air-pollution.md",
+      "title": "A pioneering artificial intelligence method to fight urban air pollution",
+      "excerpt": "World Health Organization (WHO). This scenario is exacerbated in urban areas where more than 50% of the world's population is concentrated.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "originalUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-pioneering-artificia.jpg",
+          "width": 2067,
+          "height": 1831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-artificial-intelligence-method-urban-air.amp",
+      "publishedDateTime": "2023-04-25T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "If you’re interested in two of today’s hottest alternative investments but you’re having trouble choosing between crypto and artificial intelligence (AI), there’s good news: You don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
+      "originalUrl": "https://www.aol.com/top-10-artificial-intelligence-ai-190017402.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/mVoD2uWOrG6UMDfUinCT.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/2fb2049818c4e7f748ab277ea4751027",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/top-10-artificial-intelligence-ai-190017402.html",
+      "publishedDateTime": "2023-04-25T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-irbo-like-a-mini-botz-this-etf-could-benefit-from-artificial-intelligence-growth.md",
+      "title": "IRBO: Like A Mini BOTZ, This ETF Could Benefit From Artificial Intelligence Growth",
+      "excerpt": "IRBO invests in companies focused on artificial intelligence (AI) and robotics. AI is one of the hottest topics this year, as its possibilities continue to grow and could move more towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
+      "originalUrl": "https://seekingalpha.com/article/4596218-irbo-mini-botz-etf-benefit-artificial-intelligence-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435014643/image_1435014643.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-black-sesame-to-supply-soc-for-baidus-smart-driving-technology.md",
+      "title": "Black Sesame to supply SoC for Baidu's smart driving technology",
+      "excerpt": "Black Sesame to supply SoC for Baidu's smart driving technology Peng Chen, DIGITIMES Asia, Taipei Tuesday 25 April 2023 0 Black Sesame has become Baidus latest chip partner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230425VL205/adas+av-automotive-ic-news-china.html&chid=10",
+      "originalUrl": "https://www.digitimes.com/news/a20230425VL205/adas+av-automotive-ic-news-china.html&chid=10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-baidu-announces-15-billion-fund-for-self-driving-cars-to-rival-tesla.md",
+      "title": "Baidu announces $1.5 billion fund for self-driving cars to rival Tesla",
+      "excerpt": "Chine internet giant Baidu has announced a 10 billion RMB ($1.5 billion) Apollo Fund to invest in 100 autonomous driving projects in the next three years. It also announced the release of Apollo 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
+      "originalUrl": "https://businesstech.co.za/news/motoring/200336/baidu-announces-1-5-billion-fund-for-self-driving-cars-to-rival-tesla/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesstech.co.za",
+        "domain": "businesstech.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-how-aurora-is-navigating-the-bumpy-road-to-commercial-self-driving-trucks.md",
       "title": "How Aurora is navigating the bumpy road to commercial self-driving trucks",
       "excerpt": "Chris Urmson, the CEO of AV company Aurora, talks about the road to commercial operations, the Uber ATG merger and what challenges lie ahead.",
@@ -1186,232 +1385,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-photographer-admits-prize-winning-image-was-ai-generated.md",
-      "title": "Photographer admits prize-winning image was AI-generated",
-      "excerpt": "Recent advancements in the use of AI in chatbots, driverless cars, song-writing software and ... Photography Organisation that the photograph was \"co-created\" with artificial intelligence. \"In our correspondence, he explained how following 'two decades ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "originalUrl": "https://www.tbsnews.net/world/photographer-admits-prize-winning-image-was-ai-generated-618918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/04/18/ai_image_award.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-chinas-autonomous-driving-companies-mull-to-build-smarter-cars.md",
-      "title": "China’s autonomous driving companies mull to build smarter cars",
-      "excerpt": "A man sits in an autonomous driving vehicle on a pilot road in Guangzhou, South China's Guangdong Province on March 1 of 2021. The city is promoting the development of intelligent",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202304/1289357.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202304/1289357.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-16/1ff0a756-c43f-42d9-bd08-e1c35710afe1.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
-      "title": "Baidu rises as it unveils new advanced driving updates",
-      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
-      "title": "Fears of artificial intelligence overblown",
-      "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
-      "sourceUrl": null,
-      "webUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
-      "originalUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-17432-hero.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "independentaustralia.net",
-        "domain": "independentaustralia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-ai-anxiety-the-workers-who-fear-losing-their-jobs-to-artificial-intelligence.md",
-      "title": "AI anxiety: The workers who fear losing their jobs to artificial intelligence",
-      "excerpt": "Many workers worry AI is coming for their jobs. Can we get past the fear and find a silver lining? Claire has worked as a PR at a major consulting firm, based in London, for six years. The 34-year-old enjoys her job and earns a comfortable salary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fh6sjs.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

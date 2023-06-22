@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-22T03:00:00Z
 originalUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
 webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"

@@ -47,6 +47,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Educators Starting to Incorporate AI into Regular Tasks"
+    excerpt: "An informal poll on social media found that teachers are encouraging students to use ChatGPT for test preparation or brainstorming project ideas, and using it themselves to append lessons in writing or technology."
+    publishedDateTime: 2023-06-20T19:30:00Z
+    webUrl: "https://www.govtech.com/education/k-12/educators-starting-to-incorporate-ai-into-regular-tasks"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 17
 
 secured: "DzGcEoX/sdDATp6gMVugX1SxJ60V0d9jJ+zutXH7d1nT7GIOxYagtTyoEwEzDf36vbZxVS5aGET86HBo3G9Qa0TsafNmRicNzdneRyGvF/cGVu6oxwIucVY5lTdjt4rOvlmuLaKzs33FYgcvlU92k5ksCPNMco1YH0P9l0T4MQyR0hJYxfyWcmdg6IvCqFxSIK5Yza8V4U5z4vgbbfW2D4p+NIehfVO9d+8SdizckiyJQMw5EFqQs8KGG1cAAVnF3cF8d5IavEMZl3hOzJRZEq70HL1SHgIQKiJrI1VYZ+4vj1e5ymTGId7/5hOogbdn60lEp0h8LmDyVKkgVeya42dJqhO/zIHKTsPsJjz6uUw=;lsWRdCAMlzWSqqZlX2vwlw=="
 ---

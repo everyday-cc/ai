@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medicine Software Market Outlook and Forecast to 2030 with Major Players like Enlitic, Atomwise, DeepMind"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 18, 2023 (Heraldkeepers) -- Infinity Business Insights published a new research publication on global AI ..."
-    publishedDateTime: 2023-06-18T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-outlook-and-forecast-to-2030-with-major-players-like-enlitic-atomwise-deepmind-2023-06-18"
+  - title: "Automotive self-driving chip sales Market Current Scenario Analysis Report till 2029"
+    excerpt: "Global “ Automotive self-driving chip sales ” Market Research 2023 provides in-depth information on market segments, geographical areas, and the most recent industry trends and developments. The research provides industry affecting growth variables such as size,"
+    publishedDateTime: 2023-06-20T04:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029-2023-06-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

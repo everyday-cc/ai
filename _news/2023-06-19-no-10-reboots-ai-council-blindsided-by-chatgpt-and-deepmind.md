@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
-    publishedDateTime: 2023-06-20T13:56:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+  - title: "UK’s ‘early access’ to OpenAI and DeepMind models is a double-edged sword"
+    excerpt: "Google DeepMind, OpenAI, and Anthropic grant the UK government 'priority or early access' to their models for research and safety purposes."
+    publishedDateTime: 2023-06-19T12:38:00Z
+    webUrl: "https://thenextweb.com/news/uks-early-access-to-openai-deepmind-models-is-double-edged-sword"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind co-founder calls for a better Turing test for AI"
-    excerpt: "The old Turing test is not meaningful enough it needs to make money DeepMind co-founder Mustafa Suleyman, co-founder of, suggests chatbots like ChatGPT and Google Bard should be put through a \"modern Turing test\" where their ability to turn $100,"
-    publishedDateTime: 2023-06-21T09:01:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57124-deepmind-co-founder-calls-for-a-better-turing-test-for-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c39f4d58ce6086250071b26e36078dfe_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
 
 secured: "kLysS/OsElUMiM6vU9/ThjuVzhIizbYHkbyOux4g43TcoIzzx/gsYBxujyzqSu2INwglCogEnqeea2SroFKcHlwgKF49hJUvQzu+9k9FH69bWv0hgUHO6orrE6EDYG+/r6yhbUitFlUBdZqab0QEmYw7HA64r55QHfkEdv5dRrv+53jVcpq9wEqj3KqBvG5OwK0u63GALsLCd3CWqnrR3IoXsqDScUDSQWvUHilhHRkcAO3BkT5JAJxnwu7A0IhExb7zWNH36Qs6G6lIM5C1f0U1yspx3wp9VG/PBy+36KRL9yI5AfdQwZN6thEk/NscpZyoPLr7uhhT1QwOui5PBPRj2yzkdVnr3O8SnOUneWqwbxBAC9VT0BcMsQ4IvbywBPUf8IDry4Gr+jWoXkPSjr8sysC4Lq5ZfqUFvQnE90FB8Jx87Neb0cObw50JN9mEeRh8aC1ESTJf1i+LnJ5Y4Ug8QwYCs7nEaVE+IKBPR5OKwGuVFUL9Ks2FzsQQba+/p/DBtlQDDq8m888lBN4MVg==;w32Nz5Uh8IJVUwEkw/MyMA=="
 ---

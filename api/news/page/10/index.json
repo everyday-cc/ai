@@ -2,6 +2,477 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-15-europe-moves-forward-with-ai-regulation.md",
+      "title": "Europe Moves Forward with AI Regulation",
+      "excerpt": "European lawmakers today voted overwhelmingly in favor of the landmark AI regulation known as the EU AI Act. While the act does not yet have the force of",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/06/14/europe-moves-forward-with-ai-regulation/",
+      "originalUrl": "https://www.datanami.com/2023/06/14/europe-moves-forward-with-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/06/AI_law_shutterstock_Dragon-Claws.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
+      "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
+      "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
+      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
+      "excerpt": "Louis B. Mendelsohn founded the Florida -based Vantagepoint A.I., LLC in 1979 to develop and license trading software for personal computers. In 1983 the Company released the first commercially available trading software in the financial industry to perform strategic back-testing on personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg",
+          "width": 311,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
+      "title": "Global Neural Network Software Market Report 2023: Rising Demand For Digitalization Is Expected To Propel Growth",
+      "excerpt": "Neural network software refers to a technique in artificial intelligence that instructs computers to analyze data in a manner patterned after the human brain. Neural network software allows users ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106440832/Global-Neural-Network-Software-Market-Report-2023-Rising-Demand-For-Digitalization-Is-Expected-To-Propel-Growth",
+      "originalUrl": "https://menafn.com/1106440832/Global-Neural-Network-Software-Market-Report-2023-Rising-Demand-For-Digitalization-Is-Expected-To-Propel-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?554200",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-eu-takes-major-steps-towards-regulating-ai.md",
+      "title": "EU takes major steps towards regulating AI",
+      "excerpt": "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "publishedDateTime": "2023-06-14T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-mechanical-turk-workers-are-using-ai-to-automate-being-human.md",
+      "title": "Mechanical Turk workers are using AI to automate being human",
+      "excerpt": "\"Turkers\" appear to be using AI to do tasks that were specifically intended to be done by humans because AI couldn't. Great job everybody!",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
+      "originalUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/ouroboros-getty.jpg?resize=1200,870",
+          "width": 1200,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/amp/",
+      "publishedDateTime": "2023-06-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off.md",
+      "title": "AI Crypto Tokens Lose Steam as Post-Nvidia Earnings Hype Wears Off",
+      "excerpt": "Artificial intelligence (AI)-related tokens have lost as much as 25% of their value in June, as hype around the sector wore off after chip-maker",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187",
+      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-crypto-tokens-lose-steam-as-post-nvidia-earnings-hype-wears-off-1032390187",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/eBRDq6blcXlVZ9o6b5PKJ20hi9c=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJ7B7YWIIVFDBNYE4B3C5O4O2Q.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy.md",
+      "title": "AI Proves Mightier Than the Fed for Stocks Divorced From Economy",
+      "excerpt": "Turns out not even hawkish saber-rattling by the Federal Reserve is enough to awaken stock investors from the spell cast on them by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-14/ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-14/ai-proves-mightier-than-the-fed-for-stocks-divorced-from-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izcGTnfSeJyc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-jesus-is-giving-gaming-and-breakup-advice-on-a-247-twitch-stream.md",
+      "title": "'AI Jesus' is giving gaming and breakup advice on a 24/7 Twitch stream",
+      "excerpt": "The chatbot was created by The Singularity Group, a volunteer group of activists who say they aim to use technological innovations for philanthropic purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/ai-jesus-twitch-stream-rcna89187",
+      "originalUrl": "https://www.nbcnews.com/tech/ai-jesus-twitch-stream-rcna89187",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230612-AI-Jesus-jg-969f75.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89187",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89187",
+      "publishedDateTime": "2023-06-14T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-sparsity-preserving-clustering-keras-example.md",
+      "title": "Sparsity preserving clustering Keras example",
+      "excerpt": "This is an end to end example showing the usage of the sparsity preserving clustering API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. # Load MNIST dataset mnist = tf.keras.datasets.mnist (train_images, train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/sparse_clustering_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-smart-manufacturing-technology-is-transforming-mass-production.md",
       "title": "Smart manufacturing technology is transforming mass production",
       "excerpt": "Smart manufacturing (SM)—the use of advanced, highly integrated technologies in manufacturing processes—is revolutionizing how companies operate.\nThe post Smart manufacturing technology is transforming mass production appeared first on IBM Blog.\n",
@@ -754,496 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how.md",
-      "title": "Artificial Intelligence Will Dramatically Impact Facebook And Instagram. Here’s How",
-      "excerpt": "Later, you might use a built-in AI feature that’s part of the app, asking for modifications. Using a text interface, you might ask Instagram to make the photo brighter or even add a brighter smile to your face. On Facebook, you might do a broader text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
-      "publishedDateTime": "2023-06-14T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-6-gmail-ai-features-to-help-save-you-time.md",
-      "title": "6 Gmail AI features to help save you time",
-      "excerpt": "These AI-powered Gmail features can make your email experience even faster, easier and more organized.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/gmail/gmail-ai-features/",
-      "originalUrl": "https://blog.google/products/gmail/gmail-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/gmail/gmail-ai-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/",
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
-      "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
-      "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
-      "originalUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03rpTfXU080tXpK8FhRFeGK-1.fit_lim.size_1200x630.v1686682147.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
-      "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
-      "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
-      "originalUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/andromeda-robotics-at-robotics-summit.jpg",
-          "width": 775,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding.md",
-      "title": "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding",
-      "excerpt": "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "originalUrl": "https://insidebitcoins.com/news/ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebitcoins.com/wp-content/uploads/2023/06/airobothead_cna.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inside Bitcoins",
-        "domain": "insidebitcoins.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-zenarate-ai-simulation-training-wins-banking-tech-awards-usas-fintech-of-the-future-as-it-transforms-how-contact-center-agents-learn-and-perform.md",
-      "title": "Zenarate AI Simulation Training Wins Banking Tech Awards USA's 'FinTech of the Future' as it Transforms How Contact Center Agents Learn and Perform",
-      "excerpt": "Zenarate takes top honors in Artificial Intelligence & Machine Learning Category for developing confident top-performing agents through its personal unbiased AI Coach Zenarate AI Coach is the \"flight simulator\" for customer and prospect engagement where agents in training are immersed in life-like conversation,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/14/9832733.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1690386/Zenarate__Logo.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms.md",
-      "title": "AI And Retail: Consumer Adoption On The Rise, Yet Uncertainty Looms",
-      "excerpt": "AI technology is redefining the retail industry - from curated tailored promotions and deals to direct product purchase reminders and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64889ccacdfe7d759fb12f50/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
-      "publishedDateTime": "2023-06-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
-      "title": "OctoML debuts self-optimizing compute services for generative AI",
-      "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/octoml-debuts-self-optimizing-compute-services-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-openshift-version-413-now-available-in-red-hat-openshift-on-ibm-cloud.md",
-      "title": "OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud",
-      "excerpt": "We are excited to announce the availability of OpenShift version 4.13 for your clusters that are running in Red Hat OpenShift on IBM Cloud.\nThe post OpenShift version 4.13 now available in Red Hat OpenShift on IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/openshift-version-4-13-now-available-in-red-hat-openshift-on-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/ee0d6256-c147-4628-a6bd-14ccb48d7e9d.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T05:50:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-why-are-nvidias-shares-soaring-and-what-is-its-role-in-the-ai-boom.md",
-      "title": "Why are Nvidia's shares soaring and what is its role in the AI boom?",
-      "excerpt": "FROM GAMING TO AI: NVIDIA'S FOCUS SHIFT Nvidia, known for its chips used in videogames, pivoted to the data center market over the last few years. The company's business rapidly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/",
-      "originalUrl": "https://www.reuters.com/technology/why-are-nvidias-shares-soaring-what-is-its-role-ai-boom-2023-05-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/J5SpDHtT6EMtegPDZfWfxx21VVo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ETF2CIGAE5KMRMKA2O3JHQPJ5U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

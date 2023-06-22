@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
-publishedDateTime: 2023-06-20T11:34:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
+publishedDateTime: 2023-06-20T09:18:00Z
+originalUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
+webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
+ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
@@ -58,6 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
+    publishedDateTime: 2023-06-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
     publishedDateTime: 2023-06-21T02:28:00Z
@@ -72,15 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
-    publishedDateTime: 2023-06-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 4
   - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
     excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
     publishedDateTime: 2023-06-22T13:18:00Z
@@ -100,6 +101,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "hTak8jvCvD105eigTYd5OV6TtCV5+Nswe5EBJDDtPtBrC7d5if4gbSdgPPBPS57RB/FB1x1qHbTD8eMyDVUT2tup9756a1a986P4BmLcW7hqBZpgPOWqkRc6qDc/ecV95ts4TZDy1U0aR931VhlglGg3ksmhWiycaNlZNc+OC04pxb+k0fowox+yeQd8xcpUAwnll7YhNdOI/KvVXUKQpgyGWkAMYPMciDcWj1D9tCcUPo0i67e/YB1RVw/aVWJqylnGQmbkyqh0vcCZkKmgVUxXpFe26M8ZLloLVcXTeETGVa+Tul5NlEVln6Oc5069D7r10ybiT4uk48N6wGi75Qk5PXWwBTaOElr77r/HXAcGoNFTeca7BYOPhk4kqLsuD/mTKe8M3/ufZ3vL5yVm1K/wHMl0xf7qd4WLpVYVYE4AapkxyMC4iXp+gsEqfcPBZ7wchOFZcI72kLmkeDok+MaO1/2pDxx0iZxb3Fm7fkpaJ/PTozcZ02jxvdUWmV8Njqwe2WQG726e9N8Y0TQCOg==;b4Q1ybzlCb3yFcdWSsXM/A=="
+secured: "DN2gyjs8Czfo7/OPqVpIa2oGeBl0UEAIIseey0HY6zAccLcRn5wqbhmOgoxUNKGfPvk/LMKPn8QY/bynXIV7VghnlDpZh64XDJlluT5b3+vo3T9bIZpvibms+t//1gSPbtLN0ej1twcGy+faLScyK2d2cB8fWv9ZVjC4CQiEMyhR3Ql1SwEt7eh7x06uPaXSYKtkrmgD50WD9Pa5P+2jvcd1r9YXhiiusqdR9sRw3vEnN0VYtmrUnBDVzgbhaR5vXoq80VlzkYKa59XaP/xQsE50oig/3ZmkvZvHx5RkO0oecfG4U4PU1nFe/NkhQqCYDTMfFAgWL6xEUdLNzoa8jUoYUh6ezau/gUZyHvPfOMnJAtSKGnN0VGDvTekalCEJ1zVU5qZom4hics0pOERSaBMDHvsUS68H/IBi2/DVuYeAvYG351Zht3CzX93tKVH882JSeH80qHt+77tYQXOJ+II807jUyeF1lWoobLLEPH5tkYhSHBTTc9f0tOvhxuJfurOUs5neYKwYPpuj2o0f4w==;snx6KGSsZvN1WNYV59bLzQ=="
 ---
 

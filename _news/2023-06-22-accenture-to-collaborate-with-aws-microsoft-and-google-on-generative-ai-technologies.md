@@ -26,179 +26,151 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT"
-    excerpt: "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories."
-    publishedDateTime: 2023-06-22T01:45:00Z
-    webUrl: "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 88
-    images:
-      - url: "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg"
-        width: 980
-        height: 490
-        isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North"
-    publishedDateTime: 2023-06-22T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education-2023-06-21"
+  - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
+    excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
+    publishedDateTime: 2023-06-22T16:51:00Z
+    webUrl: "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 104
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Although Google has consistently positioned itself at the forefront of AI development, a significant milestone was reached with the introduction of ChatGPT. (Bloomberg) Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI)."
-    publishedDateTime: 2023-06-22T15:14:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
+  - title: "AWS is investing $100 million in generative A.I. center in race to keep up with Microsoft and Google"
+    excerpt: "\"The point is, you're three steps in, and it's a 10K race,\" AWS CEO Adam Selipsky told CNBC. Amazon's cloud unit said Thursday that it's allocating $100 million for a center to help companies use generative artificial intelligence, the technology that's ..."
+    publishedDateTime: 2023-06-22T16:30:00Z
+    webUrl: "https://www.cnbc.com/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1687451401"
+        width: 4000
+        height: 2667
+        isCached: true
+  - title: "AWS invests $100 million to help customers succeed with generative AI"
+    excerpt: "Learn More AWS announced it will invest $100 million in a new program that connects AWS machine learning and artificial intelligence (AI) experts with enterprise customers and partners worldwide to speed up generative AI innovation, deployment and success."
+    publishedDateTime: 2023-06-22T16:30:00Z
+    webUrl: "https://venturebeat.com/ai/aws-invests-100-million-to-help-customers-succeed-with-gen-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-22T085557.027.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
+    excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
+    publishedDateTime: 2023-06-20T13:56:00Z
+    webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 76
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/06/22/1600x900/ai_1687405451710_1687405455307.jpg"
-        width: 1600
-        height: 900
+      - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
+  - title: "HPE takes on AWS, MS, Google in AI cloud market"
+    excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
+    publishedDateTime: 2023-06-21T09:01:00Z
+    webUrl: "https://www.itweb.co.za/content/Pero3MZ346xqQb6m"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 63
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
-    publishedDateTime: 2023-06-20T16:18:00Z
-    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+  - title: "AWS weighs in on the potential of AI to fight wildfires"
+    excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."
+    publishedDateTime: 2023-06-22T16:44:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896?amp=1"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-1282580269.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html"
+  - title: "Old Mutual Completes All-In Migration to AWS"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-22T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
+  - title: "Old Mutual closes data centers and moves to AWS"
+    excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
+    publishedDateTime: 2023-06-22T11:23:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/old-mutual-closes-data-centers-and-moves-to-aws/"
     type: article
     provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 54
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
-    excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
-    publishedDateTime: 2023-06-21T10:09:00Z
-    webUrl: "https://www.techzine.eu/news/security/107857/serious-azure-active-directory-vulnerability-resolved/"
+  - title: "How To Invest In Artificial Intelligence in 2023"
+    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
+    publishedDateTime: 2023-06-22T00:08:00Z
+    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
+      name: AOL
+      domain: aol.com
+    quality: 37
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/shutterstock_1942305688-scaled.jpg"
-        width: 2560
-        height: 1324
+      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
-    publishedDateTime: 2023-06-21T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+  - title: "Old Mutual Completes All-In Migration to AWS"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-21T08:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-  - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
-    excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"
-    publishedDateTime: 2023-06-21T16:25:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-advances-in-azure-quantum-to-accelerate-scientific-discovery/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
-    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
-    type: article
-    provider:
-      name: The Journal
-      domain: thejournal.com
-    quality: 40
-  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
-    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
-    publishedDateTime: 2023-06-21T12:13:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 34
-  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
-    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
-    publishedDateTime: 2023-06-22T10:00:00Z
-    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 25
-    images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
-        width: 644
-        height: 551
-        isCached: true
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 19
 
 secured: "DOs1A6X1VEoRO2sNpaBSp67/HWniLoro1/pbUf7u4ZqBwu5Hwp9WYxYXE7dRZiUAsK4UYAmY59DegnnGpJDJ+9Rt9iVv6Uqqe+1TBzEguBRy43YrwcNy7z+hT/bqreT4fmcFj833udY9WEDdDx5bH4ayUR5kQHg/00ZUfyQHoY6facMMWOArQzMUhz4ZY8Ckoa4BVba1duT9MLUehYFIBFYn1TUMtt8oCdVWEbByepoxcvUm27/OFu1nq1R5+09Z9YCNdAWK4ur4VRj/VIjr7zqwEWQUBESj/QezCqoPZq6Cyq6DpPay1WInKeJ1gChlwrNgUg2M9cKaGT+kEfCY64v2oDVbxtIwSw4Efm/qDab7wpPrmvdl2lldFw1lu4T7F2Wq2H2TiIoKO0g11nolA92QDuhNakjayJe2juHm+gnFjMCK8eG5TV7jVlfJc221tPi7dZlSaVtws/8fFBO8QQ/gta4pGZadNTbuZHm7dCCJfNBE+1BqElSqy3P+Et4dBw5BpYMBLe02gyCJ3yvQHg==;8XYh9UgSYvvqdr7UtGc0qg=="
 ---

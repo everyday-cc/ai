@@ -159,59 +159,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-20-deepminds-co-founder-suggested-testing-an-ai-chatbots-ability-to-turn-100000-into-1-million-to-measure-human-like-intelligence.md",
-      "title": "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence",
-      "excerpt": "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6",
-      "originalUrl": "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp",
-      "publishedDateTime": "2023-06-20T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-20-cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust.md",
       "title": "Cloud security leader Zscaler bets on generative AI as future of zero trust",
       "excerpt": "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI.",
@@ -1451,6 +1398,49 @@
         "AI",
         "Natural Language Processing",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning.md",
+      "title": "Artificial intelligence raises risk of extinction, experts say in new warning",
+      "excerpt": "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
+      "originalUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/20886276/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/",
+      "publishedDateTime": "2023-05-30T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

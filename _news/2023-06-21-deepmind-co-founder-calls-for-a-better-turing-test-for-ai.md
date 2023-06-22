@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
-    publishedDateTime: 2023-06-20T13:56:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+  - title: "DeepMind Claims Image Captioner Alone Is Surprisingly Powerful then Previous Believed, Competing with CLIP"
+    excerpt: "Contrastive Language Image Pretraining (CLIP) is one of the most popular pretraining strategies for high-quality vision backbones, as it demonstrates impressive zero-shot transfer capabilities and its performance rivals that of the best label-supervised approaches."
+    publishedDateTime: 2023-06-20T01:02:00Z
+    webUrl: "https://syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/"
+    ampWebUrl: "https://syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 56
     images:
-      - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "No 10 reboots AI Council blindsided by ChatGPT and DeepMind"
-    excerpt: "Downing Street is overhauling its advisers on artificial intelligence (AI) amid criticism that they were caught out by the advances in large language models suc"
-    publishedDateTime: 2023-06-18T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/no-10-reboots-ai-council-blindsided-by-chatgpt-and-deepmind-mcjknmt32?ilc=timesradio:morefromthetimes"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fef88028a-0e20-11ee-9d84-6e8ed24abaa3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
-        width: 1200
-        height: 675
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
 
 secured: "a9ICuqw7P1BTDfmlg9nqAruowE0GQbGfXkzrV4n9QB0+eJ/0kmuw01rRw/5YkHhnMNPMM1E6P0um9brdR8LB5+kI+fDcIkK6enCC5Q13GNiRHLLUIg5U2grFDDhAu77/F1bsf4szRAoU19PLNRvZF7dLh35X+i5bM55MqT3zafvaAzxVXbsJAYrr0qaT6mTSyJxAlQZmyJOPxW6hgmXDlIcrZVWA43JT3e0QYkPoH0P1iM71IiGz03Qa9MF4Hdt9EPTWNjAEREn8+M6DNaW675YzJX67ooncNvgYjca/WRgk/UxWItfp2eOO0zMblvFnlI5AApRaTw0a1+8TL/cWjIJWccDSP8M8pfUeDlDcQIMlddhHKNU0o7LRJGSy7rZ49j9PvZIcOAdHG8Uv9sXJFid85N7ddvKpSPjIvx+AkWTZp5SRDOUFrqmTPizomree7hthBFigPpwTk95wpusn/B5eCTO9Y8rVYPYT0RojbPIpeoLZ6YzTiRuq9JD8S6IDxeg/7rqGjvDt96XLXiu51g==;4h1GnistDeCz64goi3qZ1g=="

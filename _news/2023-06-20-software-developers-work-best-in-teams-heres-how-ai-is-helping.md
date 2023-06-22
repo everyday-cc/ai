@@ -84,6 +84,22 @@ related:
         width: 459
         height: 306
         isCached: true
+  - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
+    excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
+    publishedDateTime: 2023-06-22T16:31:00Z
+    webUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/"
+    ampWebUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/OF4OOmG6LbQ/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
     excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
     publishedDateTime: 2023-06-20T12:30:00Z

@@ -24,31 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "Vimeo adds a suite of AI tools to make video creation significantly easier"
-    excerpt: "On Tuesday, Vimeo announced it is adding a suite of AI tools to its platform that will automate a lot of the video-editing process. The features include an AI script generator, a teleprompter, and even a text-based video editor. Also : TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/"
+  - title: "The Top Five Real Risks Of AI to Your Business"
+    excerpt: "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics."
+    publishedDateTime: 2023-06-22T17:31:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/bb0f8df4687cfc04a4ac734b220e0f4b00c9e0ff/2023/06/16/2c07c14f-1fed-45bd-9a02-dd27d3b4b9cd/vimeo-ai-prompt-720.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
         isCached: true
-  - title: "Vimeo unveils AI tools to make video creation a breeze"
-    excerpt: "Vimeo announced today the launch of a suite of AI tools that it says will transform professional video production for businesses."
-    publishedDateTime: 2023-06-20T07:57:00Z
-    webUrl: "https://venturebeat.com/ai/vimeo-unveils-ai-tools-to-make-video-creation-a-breeze/"
+  - title: "AI drive-thrus may be good for business. But not for the rest of us"
+    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
+    publishedDateTime: 2023-06-19T20:41:00Z
+    webUrl: "https://kvia.com/news/2023/06/19/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: KVIA
+      domain: kvia.com
+    quality: 39
+    images:
+      - url: "https://kvia.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS01ZDEwY2VjOTZlYzlhNzhjZmI4YzVlN2I0ZmUwZmRmNw-L19wYWdlcy9oXzkyNmE2YmVlOWY2YmNkYzZkNjg3ZTYyYTU2YjQyZTc0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "New report to help businesses implement responsible AI"
+    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
+    publishedDateTime: 2023-06-21T23:46:00Z
+    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
+    type: article
+    provider:
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 19
+  - title: "AI drive-thrus may be good for business. But not for the rest of us"
+    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s<a class=\"excerpt-read-more\" href=\" More"
+    publishedDateTime: 2023-06-19T13:11:00Z
+    webUrl: "https://whdh.com/news/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 17
 
 secured: "YpE0eEKFc0YJoIkefTF9dBvK2WQPT7sqT1v3Vq+8sMbO30UgCQFDS7hzGLqLh2iEFtn40n/8n6ELuqmowVNw19e/VikTgE1HFaI6zkMnjS7AOOwqcS8eO3W6tpQhmZ65z3sxDbhCgMicMSmLUofeMdg3tM8z4816fFk5H4Qteo/cS5v4nRu9NRlUC0k376Qx7N4g2R3E3z5mk8K0T82rXg7acmV7hf7Soi4w47CMbXoaUSLuUqQrL4UaUsv7ttePcBMkt96gssK0i7K0PYk24owrPuOuts199NiT0h2gN34LnI12vuriLe8sRMPSA0CNkrBm5yB9fKzPmQzCc9pk4lYyTdsMIXuW1Am1vgdV9fFihJMP7EMJpKzYRISpbGXDIO61ZtOarqEZ0fTs3cgWgW0bpMKpET3zsLQU3JdGQpKYbMFPv6qpDmQdsymKUXgQbZcB9yGhcriTWKKm3+fflAMzAvKEOxb4hR6liQp5l5IXJUH6S+lkzhoqREqJ0MzV7x3bKigFAWJaK+XFGJh1ow==;KkLrAujsDJihWaHWsTSvQg=="
 ---

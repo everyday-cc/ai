@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Computer Vision Market to Hit $58.29 Billion by 2030: Grand View Research, Inc."
-excerpt: "The global computer vision market size is expected to reach USD 58.29 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to grow"
-publishedDateTime: 2023-06-15T09:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32869270/computer-vision-market-to-hit-58-29-billion-by-2030-grand-view-research-inc"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n32869270/computer-vision-market-to-hit-58-29-billion-by-2030-grand-view-research-inc"
+excerpt: "SAN FRANCISCO, June 15, 2023 /PRNewswire/ -- The global computer vision market size is expected to reach USD 58.29 billion by 2030, according to a new report by Grand View Research, Inc. The ..."
+publishedDateTime: 2023-06-15T11:48:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59346353-computer-vision-market-to-hit-dollar-58-29-billion-by-2030-grand-view-research-inc-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59346353-computer-vision-market-to-hit-dollar-58-29-billion-by-2030-grand-view-research-inc-008.htm"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
-secured: "+FbswTMe9vhuLzH3c7EY6yNULrbu6SyxZh9x+EQeqGHX4brk/puIKUb7/r3SBaOn0JpNYpf5nxFTuWIj2Ciino/72fB6YYRo/IoHbZqj14qdrZfN5WdetEFvfiNAh8GIQLgIBzqhyZuGF7RKhXleqnTXjO1RpHdnEloALFDUtiTBcG7iu7TbleSYqicKF/WBE1JFep4dsnHggqLpz4aeItpAn0qd+Kzu5RSD6LY9W2/eYwttH8Tuo7c7ibzenGpdQo2DLdqdIM1RSL3u6ju2RYRu5NIc9Ylhl+HTaO/BU8xLWnSOoWyyOe0otS6tkRFYPHA9CU5tBjuIfzlI5p9CcE4paQx9CzOQhNppJp/SY5s=;NJBpGo7c1yCoYwg9JlfITw=="
+secured: "q+Wdqa5ge5C+h7cTDoKvVyqD1SI3v3bEiQ1GHMIfeR8qBw66dOX+DhaBy1IMGDWR+51HLUaM3PiQghLmfLecGRl6dcpDIMWHsHQTe/ntpiNZfEPve0YOIb8Oyaekv7TiMQO/IxNlAqZNQrQxaSa63dQ/RgTSu4970gj655Aani+wJt8Gi9QrwNWiZ22BoR/AhKb80Q8ikU3ePcmDQX88lCqOmL9Imku7s5HDSonzW4gOPwwwRHZkvD2o31dPH8dvRUmIxLW4bPDVG7dZ4HPl0+ttqhrlOUcYtghF7MpQe5gWw1RrnenRR5lTLC5cdK6fuA/TC4Wu7ujhsfLG32Qsd8nVJSZpgEv4NmX5hilXDVQ=;coOj/5BTuGeGi/6r5IqjVg=="
 ---
 

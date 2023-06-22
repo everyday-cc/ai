@@ -93,15 +93,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "New report to help businesses implement responsible AI"
-    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
-    publishedDateTime: 2023-06-21T23:46:00Z
-    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 19
 
 secured: "Mqzn/YqYCvNlIwR/aKo7PE9ofe8TxS6ExbyHgJU/AUq1+NnkX9Mid/NYFLHRWSVl+D4TufFcMfw1X+8bDfZz4GfPygbY0NVrHZwbpGdJOFRUDLz0oNZsWYGdz7Ebnzge9gDiYV66Hd5SMviDwN0urNcZzqhWbVVmR3AckoBZQTGco5MF5B/dkK3qh4CBJ/4P+5oUCtzblc7OG5tiR1xpnKeBEwtu88LGeV0KfMzi+xVQSMpOogmZ65HV4OuYwW3cyEfQaqtvA3WBRiRBikoIXjybR7ZZYrgoH3relcH7EdobnqyeAHoJAftHFdfMkfK4LESZgcL3mqvZ4wgmZqTHWdmAcGHpM8Ebk06/ld2VUlLxnG05V7a5QdC2727sO6qD1L+higijPuNqACaRyvgycZ2r9CqMhJuguJdG+OagGK1O/kvXaIv38KfiES+8LUafvckRXn2pVazrZfqmgULMrPj+28wdl9HUSmWouzeNdQyc9DE3L+GJH4BlGWbdtUM88rOkANJp9kw39NdwkOaYcw==;ud9YBziDLd5uuKCWP2rjfw=="
 ---

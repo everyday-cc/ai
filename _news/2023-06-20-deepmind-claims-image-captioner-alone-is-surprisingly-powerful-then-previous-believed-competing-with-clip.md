@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2023/06/19/deepmind-claims-image-captioner-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 790
     height: 320
     isCached: true
+
+related:
+  - title: "DeepMind co-founder calls for a better Turing test for AI"
+    excerpt: "The old Turing test is not meaningful enough it needs to make money DeepMind co-founder Mustafa Suleyman, co-founder of, suggests chatbots like ChatGPT and Google Bard should be put through a \"modern Turing test\" where their ability to turn $100,"
+    publishedDateTime: 2023-06-21T09:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57124-deepmind-co-founder-calls-for-a-better-turing-test-for-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/c39f4d58ce6086250071b26e36078dfe_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
 
 secured: "KkNSF37gNOBSPAzRe7Ewsx9n8rHifvTYzyZZvgVfynp/NcZj4BLmJfC1hvnqiqF7hTZGaoQT2NnMOHGX9ni0Bf10TYfVhdJkdIftfsY6FSezd4GfpfHLZh2pYHLYMt7R3PNGqUanzlbUYrBTlUX5ECopzP9mHQBEVLv3j3ZRWsKM43NQEKhfxFiTi6e47pquWd9jSHbx72xwH2IfifGMT8b5E4IQkK9F3zL8v4csigJmyxC/WEU2Y4InlU7mU9g9cZbrTigudfUEZyuFf/ZhbrdLhtBSwInruADh8uqlwJYAxuglFCzAYD4nfhb3PeM+nobrFI1vzE43n29/MZlPV+lsPqLUlv2VKOPjKqqTcQIb1I220FyxaIU2IAxJy+eUx4tZ+uBWvzj8Igfcvf3XgaPcaBm23K9W4eE/N7sSfVMLkqa2oUGYPKCuWFuEG36p136vvWB0LhEViFtsDcGJN/Au1Fg+o6JLvEeIPCbkpvakaguCJEbzMIuz4Tnm2Nue8+cbXp9wpqyPt/YiE8rIaA==;BKHqmUpNAGnVXcYQSoZahg=="
 ---

@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -235,6 +235,58 @@
         "AI",
         "AI in Autos",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-artificial-intelligence-in-healthcare-service-market-insights-2030.md",
+      "title": "Artificial Intelligence In Healthcare Service Market Insights | 2030",
+      "excerpt": "Jun (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Insights 2023 By Types (, Machine LearningâNeural Networks",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-insights-2030-2023-06-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-insights-2030-2023-06-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1333,49 +1385,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-how-hardcore-can-art-get-does-ai-need-therapy-and-other-thoughts-in-the-air-at-london-gallery-weekend.md",
-      "title": "How Hardcore Can Art Get? Does A.I. Need Therapy? And Other Thoughts in the Air at London Gallery Weekend",
-      "excerpt": "With London Gallery Weekend, the city's art scene is trying to create a mid-year moment for itself ahead of Art Basel.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878",
-      "originalUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p-news-upload.storage.googleapis.com/2023/06/groucho-club.jpg",
-          "width": 1800,
-          "height": 1198,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/london-gallery-weekend-2023-2314878/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/london-gallery-weekend-2023-2314878/amp-page",
-      "publishedDateTime": "2023-06-07T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

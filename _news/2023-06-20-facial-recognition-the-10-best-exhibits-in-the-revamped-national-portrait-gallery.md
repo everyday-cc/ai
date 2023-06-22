@@ -31,10 +31,10 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition – The Key to Safe Future"
-    excerpt: "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels."
-    publishedDateTime: 2023-06-22T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
+  - title: "Automatic Speech Recognition(ASR) Software Market Size | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition(ASR) Software Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
+    publishedDateTime: 2023-06-19T09:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19"
     type: article
     provider:
       name: MarketWatch
@@ -45,19 +45,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition in the city"
-    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
-    publishedDateTime: 2023-06-22T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+  - title: "Speech Recognition Market Sales Data At The Global, Regional, And Key Country Levels With A Detailed Outlook To 2026"
+    excerpt: "speech recognition market global opportunity analysis and industry forecast, 2019–2026 portland, or, united states, june 21, 2023/einpres"
+    publishedDateTime: 2023-06-21T05:53:00Z
+    webUrl: "https://menafn.com/1106470939/Speech-Recognition-Market-Sales-Data-At-The-Global-Regional-And-Key-Country-Levels-With-A-Detailed-Outlook-To-2026"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 48
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
-        width: 1200
-        height: 800
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?882142"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "z5GSHOsgIMrPEv5UHaOf46CfekBDhChpefu4YBKkzI5JTzqAG98Um7rejrW0F5qXP50XUtIQW3V+lnFC102zT+A3ccnb6nXMEb03p1Mv/hDOlMNfKafEV5tqUhW6sJZzBoiGjIEOhmX2PKYvMyxwNqWFYBZqd/k6Rctp8/GqhF9V/MbaLk1tjjr/4/bFpH5Ge39liDTesbZRTaPRNElXQAHrJiLBtKAefzWEvkp28HbqEgfpsWROVQ5MGmohwlvq6ESrGodYU3uf1bwQtEvQKQJ+nf4vdh5lb+C6kF8sjvkYQGQMObIQPs8CO6Y/hdjao8XA48lRuglgDf3qUovEaKuSHG+rbFYFBzOg3b0Z+b+FMhBgcEBIlseY45uhbugrgR+gRgS89UbhCOyMk6PmkLhrpatra91Z6UGH4IWzzX1yUw9BvpwrMKWJssggne0mCxJBRA2Bs8ienUh7OVjO5ZWjxp2O4WOul72yjKoOUIH7ox3k/dgLlMcAohNyU59bwqWcS6cImad6nXq1EoHvZA==;6ltAy7GLEsAQ9WMVynVqdQ=="

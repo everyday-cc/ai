@@ -23,83 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ..."
-    publishedDateTime: 2023-06-19T13:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
+  - title: "Artificial intelligence (AI) Chips Market Briefing 2023 to 2030 | , Intel Corporation, NVIDIA, Adapteva"
+    excerpt: "Chips marketing report is one of the most important, distinctive, and trustworthy market research studies that is tailored to certain business objectives. The Artificial intelligence (AI) Chips industry research is painstakingly created while upholding commitments and timelines in order to provide the best industry insights."
+    publishedDateTime: 2023-06-18T13:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Can SoftBank Become The Next Hot AI Stock Through A Subsidiary That Nvidia Once Tried To Acquire?"
-    excerpt: "The company’s CEO, Masayoshi Son, announced on Wednesday that SoftBank is preparing to “go on the counteroffensive,” leveraging its subsidiary Arm, a company that Nvidia once attempted to acquire. What Happened: The recent boom in AI technologies has reinvigorated SoftBank’s leadership."
-    publishedDateTime: 2023-06-21T11:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32943538/can-softbank-become-the-next-hot-ai-stock-through-a-subsidiary-that-nvidia-once-tried-to-acquire"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32943538"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32943538"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Ai,Processor,3d,Render,,Artificial,Intelligence,Of,Digital,Human_0.jpeg?width=1200&height=800&fit=crop"
-        width: 843
-        height: 562
-        isCached: true
-  - title: "Here’s five Asian AI stock picks to rival Nvidia"
-    excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
-    publishedDateTime: 2023-06-19T05:57:00Z
-    webUrl: "https://www.afr.com/markets/equity-markets/here-s-five-asian-tech-stock-picks-to-rival-nvidia-20230619-p5dhlm"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.6665%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_126/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8110045d4ce71ea12b5b5a9e268518061fd1db75"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Nvidia’s rivals struggle to gain ground in generative AI chip war"
-    excerpt: "In the three weeks since Nvidia shocked the tech world with its forecast of an unprecedented leap in sales, Wall Street has been on the hunt for other chip companies that could benefit from the latest AI boom. But as the search has gone on, the gulf that ..."
-    publishedDateTime: 2023-06-18T02:38:00Z
-    webUrl: "https://www.ft.com/content/052e9375-b828-4d5c-aca8-d16c8926017c?miRedirects=1"
+  - title: "Deep Learning Unit Market to Rise during Forecast Period 2023 to 2030 by Fujitsu, NVIDIA, Intel, IBM"
+    excerpt: "Latest Study on Industrial Growth of Global Deep Learning Unit Market 2022-2030. A detailed study accumulated to offer Latest insights about acute features of the In-vehicle Communication Module market."
+    publishedDateTime: 2023-06-22T03:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-unit-market-to-rise-during-forecast-period-2023-to-2030-by-fujitsu-nvidia-intel-ibm-2023-06-21"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
-    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
-    publishedDateTime: 2023-06-20T12:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
-  - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
-    excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
-    publishedDateTime: 2023-06-20T05:29:00Z
-    webUrl: "https://www.tweaktown.com/news/91976/expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://static.tweaktown.com/news/9/1/91976_01_expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mbwsppkykUx4erQ7ZoWSkGVzOBxNQlrp829ITz4qIxDuZl/VUCSRUN8Q8udoPpTY10f8HEompI4c/SHBHZk1sPoAakmQFRkf5O3NDuh8AKFC13/2MYVwoat5zgZ65UYwUBW9TRwNA7mAnlE/4yG2992Ajb2L5lHgrOnBLxeIKA2nU0+2Ogu0QqT78TTx9409LSXmA1etH6gBgzMgcOmeHhcEJtBL+4m7fzy/EAVTODI86JIzrIyDrvxKxW8d70zsPKhed4KmpPb0f4fPllKs2/mCqMCyPBPfn89rLogP07YECOQq1uW+PuWCEM6GkOFWd05X/Gnj/fgUmrBlTIpAuQiUbc2wT2nukrjTEQaw/qROuzGyIZ1lWAiIHadVAttYpmMpg/nojIehC+koeOKlvqsOj1xafnVjNGcvRXv3kAImMfBZLnEwKkwvVrg4IHANH9SmdvToNwiwthF3/4v75BW+9muC+QqwhoFkTfj3PFcDK2Jry8BnMGUhx1nFMhb2aZMk4dWifaobxXGnoZb59A==;Ew3DPdC1PjJZSchDZB1fKQ=="

@@ -79,22 +79,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "New Grammy rule addresses artificial intelligence, says \"only human creators\" eligible for awards"
-    excerpt: "Under the new rule, works that features elements of AI are still eligible as long as a human creator is responsible for a \"meaningful\" contribution."
-    publishedDateTime: 2023-06-18T00:57:00Z
-    webUrl: "https://www.cbsnews.com/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/grammy-rule-artificial-intelligence-only-human-creators-eligible-awards/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/18/f4f3411f-2e77-4f5c-8640-534c45a5a95c/thumbnail/1200x630/4112747c3e4074d6199680dc2f0bdb8c/grammy.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "57+lA5kvRu9vP17TknTkwZ0LkggnoxYkgKQ4n2a6YKoak7gHGzsBAYYNM+AWaYEqXftm5h3jyyDNAvsyPGhA025T1o9Df1LHV7gNjLWfl5IYcLWqw+h2aMsmSmaGv2rruawoAuuRan+9QbHVHVAPSqfBidbEYnDDrkmlZ0OQsa5qaYj113lLqMagEfsQUIzGAmMuoJ30TBvTNKV7umv9uIj4evvnmuq2h/IaofcgQpCCfqgMXd+4QVJb86Tf/z6Qr7z6lmAq/dnhAHkxCwOgun+shai5iCdtKl61DIhSTs6UT2gqowhLvb2uAemO/ELBknnxSCHO19x30IiFgA0qr9nBZfxvSDbCbQjIm1mHzgE=;Z4RObnZ1JHD7gboLz6nhlg=="
 ---

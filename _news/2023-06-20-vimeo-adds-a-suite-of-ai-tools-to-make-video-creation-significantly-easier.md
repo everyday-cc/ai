@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Podcasts to Make Sense of Artificial Intelligence"
-    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."
-    publishedDateTime: 2023-06-20T03:42:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2023/jun/19/podcasts-to-make-sense-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204612650_web-soundtrap-n30_i7mx62o-unsplash_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "pUCfjOF3ZsKrEsheTkNV3tatWwIjb88su2iLZPO+oyQ99j0U0SsqqsdnapO8LsAA6JPSEAURXz+0nO/SumKxliY8ME/izRHH89s9ejGKLN7FsJrO6Z6Kr9l/dddfksyY2lHTxdzWPNfrjCp6go4OPFYxOl2nCbslc53NUu+wuXW6vN6yLePSne+fv1FL9lkOzp5TFHs5a7bTNF6O2tgAieeP8kDyR16h2lR/DnnH414ktM/A0KtbwJ7wjGtVYW6709CSDHrbW4UI9zzZd19SPyHXpR5fCTMuL6rqMDBcE495J1VSyqzWHz9xd+QWERf5huWGU2e1WoALC9cdEx0ZWuDipOV0MYxDkcTalMnw/0XQ+iZciOCkeZrjgZ8ZcFJeU2a62D1skgtrZpP0f2KJO5ekbHGFByOKS/1lJ/S2l4DSxTxDvulGO8yy7dV/DlJrag0SXcIXkbbnJF7Kz5SF+i52gmKy5tTZ3t0t/+hbsgpgplYa+8t5tBfS8z7mzWlmsniYvUsP+1Yy1ftz3wRIYQ==;q0cf26CIoILUW1tjZA+QRQ=="
 ---

@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
-publishedDateTime: 2023-06-21T01:15:00Z
-originalUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
+publishedDateTime: 2023-06-20T21:50:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
@@ -51,21 +59,16 @@ related:
         height: 630
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
-    publishedDateTime: 2023-06-20T11:34:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
+    publishedDateTime: 2023-06-20T09:18:00Z
+    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
+    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
     publishedDateTime: 2023-06-21T02:28:00Z
@@ -99,6 +102,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "027jDxLAb91O1nKDAMnaEo5vUreuvfgzR99ij12JO/KbrLk9caybffyybDj8H2SjXmePN8ky6fEe/mfm6bPQiPhPIg/Y16QnyoXhKwuwBtVYME8hhIkrhIHbXsLF2qpSnnMlRVNj/Rq22fv73SI+4O0h3bR79EFg9Fg82pEC2Rh8KC156qObzrzWJJY5QKmysm6XJUzP1ZDem9Fz5AggIsZjWpcSaOQLqR0h7BS+VsEW9D2q3BogQ3Xh6PbBtAY2Qx4r/5cW/wxZcCtLwyFjHmcnfpuW3LXNDqE9HYV57qWTz6SjjZCUxydAfCA5HNofgSj2H5EZfLtJ/TaK/wCZzmjuk8AMH/KB/cWSybJeFsHpzd/FVnhhT4w/Otmkf6KhfLm2w4x1oq9m8S+Ryp5USMQP9Del2czbvBdpJThRzw4b0WD0xnzyk3IgEyb3VcjBApGHX3C/ToLeLCNSu7e/fF2ILpOAnGTMfC82i8adjxgVfLARkcU4Z+kMgXXOu1KZiK/8RADswON42HGFKOMg9A==;3Gz7mpR42mQWqZEtuAdSaw=="
+secured: "KqevQzqFM49+OuJKTFO1Xo7gF/PhXDl4Ef5RBzQze9f+nl/H7TtznBOdwiWab1BZ4FZ0ZcwndV1BByKun0YDt0LoeIHUzQKpQsuBk8GEn1BHo8ZUfwqe1ca4rX2BQSyfEkZxLX22Ne2mKhjKpV40NU5+SC47UkBSnmv6rhmaL2sJaF+CPSQ6WtOa3t2UnFGFstOMml5uwAUNRDCN6Vs8UGjLuDExZq9EDXwAwz2M8gwiGy3uYih6rvRtmNfmW0HOhZfCXhaHpH1g6Ql8WEjagdWoC3i2QvEGqdZhXM7gq6RJFxJIeLa/pz1yLJSfAm4CapSkfMALuCcO4oRllm1y9zX8F7/TWkR1ZVFsVYld/40=;xDFWhE4+38LMVFVetqPRZw=="
 ---
 

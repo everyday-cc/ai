@@ -24,22 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "HPE takes on AWS, MS, Google in AI cloud market"
-    excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
-    publishedDateTime: 2023-06-21T09:01:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero3MZ346xqQb6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
+  - title: "AI And Large Language Models: The Future Of Healthcare Data Interoperability"
+    excerpt: "AI technologies—and, more specifically, LLMs—have a unique opportunity to smooth the edges of legacy system conversion and the adoption of a standard format."
+    publishedDateTime: 2023-06-20T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "The Impact Of Large Languages Models On Healthcare"
+    excerpt: "Eli Ben-Joseph | Cofounder & CEO | Regard | LinkedIn."
+    publishedDateTime: 2023-06-20T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/the-impact-of-large-languages-models-on-healthcare/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "B895wS9gxoYcjvtI/z+2wjMImECrqBo58ywPHYPxN+UPELQ6otvIw0f0UR4AghZ7RLXTAmzTRt6n6Eh5nP73nV00KkBT/HZdozSTVnqckqgwZXdBcOag6rx6Uis4VOV918ur4JNZeZPFmZrc1OD466btUC27qmaVcb2V/wRuSrCKHckRptWhgC9U/yb5LeD4gMCeTNltiq1FxcizMJF9gcyTgQnqVKx4z57CISdGQbI6OtJ4W5OkBl4+bg7QKhcveKtaM4QbB4SrWYh9/0z90etQVM35yAgw3wiHM8RGv1JrhacqMm7TyENoYsqBucJz1Tv2lfRfY3gpD7QYOe0JjhymzISbC+NXmexVMB0d1rA=;47QwN/V1fjlBKpjHxPtQYA=="
 ---

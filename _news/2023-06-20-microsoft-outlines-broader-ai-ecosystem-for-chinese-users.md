@@ -33,7 +33,7 @@ related:
     provider:
       name: Thurrott
       domain: thurrott.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
         width: 1066
