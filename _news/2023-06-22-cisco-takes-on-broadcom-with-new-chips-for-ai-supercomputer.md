@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-21T23:33:00Z
 originalUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
 webUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"

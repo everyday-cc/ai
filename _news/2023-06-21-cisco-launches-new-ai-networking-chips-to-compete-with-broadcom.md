@@ -91,7 +91,7 @@ related:
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
         width: 800

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: techxplore
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI that uses sketches to detect objects within an image could boost tumor detection, and search for rare bird species"
+    excerpt: "Surrey is set to present its unique sketch-based object detection tool at this year's Computer Vision, Pattern, and Recognition Conference (CVPR). The tool allows the user to sketch an object, which the AI will use as a basis to search within an image to ..."
+    publishedDateTime: 2023-06-21T23:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230621105422.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 26
   - title: "AI that uses sketches to detect objects within an image could boost tumour detection, and search for rare bird species"
     excerpt: "Teaching machine learning tools to detect specific objects in a specific image and discount others is a “game-changer” that could lead to"
     publishedDateTime: 2023-06-21T12:48:00Z

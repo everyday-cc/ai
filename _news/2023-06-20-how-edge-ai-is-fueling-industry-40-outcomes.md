@@ -30,7 +30,7 @@ related:
     provider:
       name: Times Union
       domain: timesunion.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
         width: 1280

@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-21T21:09:00Z
 originalUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"

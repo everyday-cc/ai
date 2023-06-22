@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Marvel faces backlash over AI-generated opening credits"
+    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash?ref=emergentmind"
+    ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/add59bbb443008b7c410007b37e0dcde5169efef/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=d78d1965b8cc038ca6a3862b760b4b70"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
     excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
     publishedDateTime: 2023-06-21T18:27:00Z

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "How To Invest In Artificial Intelligence in 2023"
+    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
+    publishedDateTime: 2023-06-22T00:08:00Z
+    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0yyUVNe67kF27wIoMO8dLyacEJ6KVxKSkT0YSP3uW6Gq0S5YROWsHM4hMdTRGwKUoYIvJOWeToSNWrG1Uuih9ASH07iU/1U4vp0xakqccK/5hfTMF+/DKj9tXcSRk/Crhhxv+EiPlxFUgP3q/Gibr6onG/q9+zJjxVv//TkG5SA1rljGL6YED8iXB2Xbq/h6gtO004pf4JskCzlNur++AN2aA+ECX0z92Yh48kE/FjF9xLru77ra2BKf9izxtt7Hxguwq9UMdY6FfX1kBJ+07/QQu4lkQ2JWyvmWAftQDttDfhUuy/9OJheLAq/L04k9wFdcZHF++mylI8yY4iWH5jVlhjCneooLWrUVMkR9QhU=;WMygp71fE1jXP1OlGvch4w=="
 ---

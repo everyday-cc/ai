@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/region/health-tech-startup-outbound-a
 webUrl: "https://www.eagletribune.com/region/health-tech-startup-outbound-ai-completes-16m-raise-to-accelerate-growth-of-ai-agents-performing/article_ad08f93d-c610-5885-b00d-2e44c33e857d.html"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Outbound AI closes $16M seed round that includes KCRise Fund"
+    excerpt: "It’s filled with the kind of talent that Outbound AI needs to grow. The startup expects to make more local hires in the future in sales and marketing as well as in client success and product development."
+    publishedDateTime: 2023-06-21T19:18:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2023/06/21/outbound-ai-closes-16m-round-that-includes-kcrise.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "RD+S+/ooHvVSMQqY6PlE2dWsqR0LDX2i90e0IYHkDbD9OkEdh59Z5CVB8nsXwiZJWuUQbIatEIaUW5dNEnCDIhx7UvrxrlMgHdNi4bffpZhxkmhQsxEY7EPLmrenT30JwLKyXmR4ywcsK9QUsNpupeYUK9y9q3oV6OhIfbXB9LqA8aQhuujyPMxBaAdlaQ5j3POeZ0uda7z9X7bCVH5oysqFGA3AkXLsvN1yP+FzUwEZZCMjQLeBV7ndei3Z9Gyr8bCIshp3Co3OFlc7gpxUQUHC/16efd28UsHYaOAuwTdji0MYjd7vVf5pOwEWypMgWSsOu7TW6URwl2e+Aht8NLEH3A0mDgrc+3dgovgM9mtg0JxSXADccSltiV+RUVBfNquF7cn/Qxw6ccxxRCel7myoj9NEOl6/+fLeaVtuosBlcNalAnSOHWOstFoMntE8JVGkZuKJB0vYUWYdNRkKKSv9rfl9g6e7HdmxapqmSXaNlxxKIXKMIY4Lv+R90dYmWT4IddY7OnUABZOO2milPQ==;3ZjITRUWbZjXL/JxyMnugw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-m
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "How To Invest In Artificial Intelligence in 2023"
+    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
+    publishedDateTime: 2023-06-22T00:08:00Z
+    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "5EFg0FE1yrd3xBM9ECeJhByFbqvC9XeXMBH/QRLoEoQ9gNjrioIKAHCGYNSBFMjmKdfow06aBKIgl+qln5jrJSgISOxkFkEqFmfB55eUMfnRO76RSO4tPSaQMF9c7AuzvPxvLTj8xDvdpwH9pW/Iufb4AxDHypIpyIFtzOx2A8fru0oflYAvm6YmEfgHDUfMD8IKbck+w/8y/t0BKJpXIo1Eo5JYdSEZQ2qWmys11N5/GA6AzhL2LPJcOVhn51Z8HfEiWU9lPXO5NZ6QhTmVQDto0OVAjRCMmPb/nqeWRi7vDcql6QfCoGH2jcBT2yaty1IS1cBfZrQ6tOC81WJkv5MRJ06+HJpyh9rX9Q5XhCF9e7YDwv2Kclp4Kxi8irVZFWwf80pkRTgP56sxO3CSKYLweqvpVRs8oakBc35HnKUuMMia+viqGEry8m7+J3ELHT7yCUTqmk1vVdxdWXp7k+PlgBrrKOISgtZudZgzrhrllvp7231a6L5MIB8CJmO7MBpmuSWvBm+K88rZYT81Qg==;+hgnien+jhIGyPI6dKtqjg=="

@@ -35,6 +35,15 @@ related:
         width: 782
         height: 277
         isCached: true
+  - title: "AI that uses sketches to detect objects within an image could boost tumor detection, and search for rare bird species"
+    excerpt: "Surrey is set to present its unique sketch-based object detection tool at this year's Computer Vision, Pattern, and Recognition Conference (CVPR). The tool allows the user to sketch an object, which the AI will use as a basis to search within an image to ..."
+    publishedDateTime: 2023-06-21T23:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230621105422.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 26
 
 secured: "Kmug8mje3dQXZxdGqW90MGrnagtsYbXi5uUvppILvQ63n33pCoEEURK9jcvMMs/stKMs9IqO3yl1WHZW/df8+DYKN71hYNoBciiTWttIEDCuxa2otFQ53J3+T09ExS3Xc6V77RSwzIScbZL3/aDP1jY0rTDAoMbTySdQANrfXOsJwKY+k9cCGSASDPsYAEEGEjFT9848NW5yUAIkiESL5Su5ffCPe+jaaBLdYXY+1IRXnYDphdTejLURLG0O+SvGMlCEcYXa//slaWR140Xnxnum/4ZWoVvDjPCLzsH0ts8Qm0Rtj9CwuTpIsLF/oUiyX0yNBgBUgR4NtSZSRwUUU/QHz9T/lwtumYftpXdBomA=;RLAf2TLBMlaK63IR4CKAvQ=="
 ---

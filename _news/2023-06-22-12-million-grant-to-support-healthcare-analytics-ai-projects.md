@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 508
         isCached: true
+  - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
+    excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
+    publishedDateTime: 2023-06-22T00:41:00Z
+    webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10733/c6ed3399-8a4d-4d1a-bef4-79003d0bed86.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Salesforce touts AI strategy, doubles investment in startups"
     excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
     publishedDateTime: 2023-06-19T13:00:00Z

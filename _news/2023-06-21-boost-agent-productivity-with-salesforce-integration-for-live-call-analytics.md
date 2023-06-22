@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-producti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
         width: 1024
         height: 508
+        isCached: true
+  - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
+    excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
+    publishedDateTime: 2023-06-22T00:41:00Z
+    webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10733/c6ed3399-8a4d-4d1a-bef4-79003d0bed86.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
   - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
     excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."

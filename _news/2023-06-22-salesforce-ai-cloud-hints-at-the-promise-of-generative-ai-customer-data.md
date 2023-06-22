@@ -42,6 +42,20 @@ related:
         width: 1018
         height: 630
         isCached: true
+  - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
+    excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
+    publishedDateTime: 2023-06-22T00:41:00Z
+    webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10733/c6ed3399-8a4d-4d1a-bef4-79003d0bed86.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
     excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
     publishedDateTime: 2023-06-21T18:50:00Z
@@ -61,6 +75,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "cPUIiQShqGDphoxwJbvvOzOMzEMBYZX/q9kvgHopTi3PnjmDIA4KSmslBKzGjtCQfrw9weDdJRpW/GmcYaWVUXBICiMxGtB8BSriMj58mxi9+uvxG+E0HZhfU9QT8D+sbvgv0t/beE2pzKikTCQ8PLOhv6oNy/+dnMLExOOVVKP1FIaQWJB/RCxnxj1gm/Uz87k/sxRl+ts7+5lUqVlej0fiIZurS+cTsZZECnzuTymW+fe5ky9y49JyOxMiguCMhCIoeT/IjxurVebqnE3lMl76xbZ3gFggaLlAyYWNl0YnNi6onprnGxiARzHM4Kgwa8Ue3OvLh5f/Wf61n2jAcKWKuElXF0EKmH2A1PhnK6c=;K/jvqvfrO3T05z5HBI/2Hg=="
+secured: "TinpbTUxuBMktHZHUA4BUv0Cbqjj1wxwl0/uB8DdBaXVfDGep7Qm3OYuKnoVAIVAno6gZOgu+NqsCd9izJiJi/uaYWnefm5gE/reRwI8S9Ek0DsHwwiz9YokT0gjFGeyts7vJBYLRpe+LDHIJ74Kn7uuklsGBCYK8p7yyAWyNdJI2VeXnnZLyxcN/Aa2P1SNNN5xUGZ0oDQQSjTkGVuBbP8TKCulSrANg0nrD36nbs4+P671Ah5rVqUJx1MHDrMvL30GZ9nnfcUn1Fs4sEx8tvC7wmrA3wx4uXObuOGQwIQPFDZPfa0165VT2/axyBlL4Izlc0i7Q4ACclbJspUFkNl2SKNTh4AOOU6wev3mNsBiT8ZSI96DG5h7hpHvdsJDv74yEry1MXCAW38W4RZZLAfQQ3PENouiWlVwxWg5pL8Ru8lojSpPGSxxbOltK/hbp5E5LFTtexdfT/F+63FVZklw41L2sIXHqL9h9rfw0se0JMLAco3IV754f37v0eA5GyKjQEiFCiNQnZGjuj99lA==;4cgBu6JluxobjYCYk2qrLg=="
 ---
 
