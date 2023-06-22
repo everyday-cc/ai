@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-owns-the-code-if-chatgpts-ai-helps-write-your-app-does-it-still-belong-to-you/"
 type: article
 quality: 80
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI May Replace Jobs, But It Can Help You Land Your Next: Reddit User Applies For Jobs Using ChatGPT And Is Flooded With Interviews"
+    excerpt: "See Next: This Startup Invented Programmable, Drinkable Plastic That Dissolves In Water In 60 Hours Since its highly anticipated launch, the artificial intelligence (AI) chatbot has consistently grabbed headlines and captivated users worldwide."
+    publishedDateTime: 2023-06-22T13:04:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32965737/ai-may-replace-jobs-but-it-can-help-you-land-your-next-reddit-user-applies-for-jobs-using-chatgpt-an"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "oHkNOv74AGM9M1TBXH4YDi6RwiaDhG9NNafMHLnZuBw+9y3950I21HtkHlekvciJ8hqph79UPtBrW/ud2tpczPkRbiRxPmDj1HNws9XI1EgXyD726SZL0f4yu/ZyebgrBooWv7yVdu1AaAmEiKWS0o2P/hKAtattiWjBkWl8sn23M3HKJ19E1QmHtecsr4Z6U/gF4uMLPVLy77hGBexXyvAAEwNCqaShenCaebuyOzNS0E6Bxff2DfffVkjhxgozXZDDSUF8uxTia3dgoN39gnk7t9JaY7rhyL5w/JzlrthYVjXKnQJ1K/8a8IUGNh9dQjAIys+65H2yw3FE/L60tByVqwsCOB4rpfeY3/J5bld07fTRM9kQv1SRqpIbqneDjVMBZgXX0XKF0XcWMljpvkD/6SGJZks0sOjQAZI0ZP8idXpxRLokZ6mqjM92e9ZL1mZiBU34mH0O+w6yv3SnLkhOpT7F/K8Yr/OOVS3GkJuTHcg8iv9l2wZRuFPnMWtsjaZ9fw9IfF8W9yRl8KDuKQ==;eq4UcZmH6QnjNF63pGFE0w=="
 ---

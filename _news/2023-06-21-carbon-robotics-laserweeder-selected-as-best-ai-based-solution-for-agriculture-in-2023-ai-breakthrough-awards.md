@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/carbon-robotics-laserweeder-se
 webUrl: "https://www.bakersfield.com/ap/news/carbon-robotics-laserweeder-selected-as-best-ai-based-solution-for-agriculture-in-2023-ai-breakthrough/article_279b9bce-94b2-5427-9c72-f6994c32bac9.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Carbon Robotics’ LaserWeeder wins 2023 AI Breakthrough Award for Agriculture"
-    excerpt: "International awards program honors agtech robotics provider among standout AI companies SEATTLE - Carbon Robotics, a"
-    publishedDateTime: 2023-06-21T18:42:00Z
-    webUrl: "https://www.producebluebook.com/2023/06/21/carbon-robotics-laserweeder-wins-2023-ai-breakthrough-award-for-agriculture/"
+  - title: "Devron Awarded “Best Machine Learning Company” in 2023"
+    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as"
+    publishedDateTime: 2023-06-22T00:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/devron-awarded-best-machine-learning-company-in-2023-2023-06-21"
     type: article
     provider:
-      name: Produce Blue Book
-      domain: producebluebook.com
-    quality: 46
-  - title: "Untether AI Wins 2023 Artificial Intelligence Breakthrough Award"
-    excerpt: "Untether AI®, the leader in energy-centric AI semiconductor technology, announced it has been selected as the winner of the \"AI Hardware Innovation Award\" in the prestigious international AI Breakthrough Awards program conducted by AI Breakthrough."
-    publishedDateTime: 2023-06-21T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836938.htm"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Devron Awarded \"Best Machine Learning Company\" in 2023"
+    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as the winner of the \"Best Machine Learning Company\" award in the sixth annual AI Breakthrough Awards program,"
+    publishedDateTime: 2023-06-21T14:11:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836795.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
-  - title: "Marchex Receives 2023 Artificial Intelligence Breakthrough Award and 2023 APPEALIE SaaS + Software Award"
-    excerpt: "(NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that Marchex Engage for Automotive has been selected as the “Best AI-based Solution For Sales” in the sixth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2023-06-21T13:01:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/marchex-receives-2023-artificial-intelligence-breakthrough-award-and-2023-appealie-saas-software-award/article_22c327cd-449b-5fca-bd99-7d90311973ac.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+    quality: 19
 
 secured: "8riZmX9Up/I56w3hqp/Npdd8LdWNPyTVVqQ/9GVRu6M4ACl0IUbkq3jpkUErCR8/SOwJ4u4Mlj+OpBqT9JiDraYh3MH+qLvBWZDF2JkFZ+3l+YwD+EZlJB3AW/SY1f8Iiz+D8o1+Z+QqjFTrK6Pd63Iqi8mNM1tijpBYJ2h6YPSo6z0Be0QvIiegqefPHOoLYLc89qHdp9mZx+MhfUA0KUbVLoadnOZViDFnea5VX2cynkZxEZFiskFNELsko3Owb2W/GDpEO1ckO9OU5DJZG9pwuBWNXhbOT0UXxKMV15xqaUKcTimL+Mb2sHKVprnkRdkNVTjdFtKf9U5gWA+BNzSRsOyIa8qjC2ITTtiiXbc=;h/ihHVmfZWmdbL2hwre1TQ=="
 ---

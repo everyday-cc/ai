@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,60 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition cameras to boost security"
-    excerpt: "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,"
-    publishedDateTime: 2023-06-21T02:17:00Z
-    webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
+  - title: "Face Recognition – The Key to Safe Future"
+    excerpt: "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels."
+    publishedDateTime: 2023-06-22T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
     type: article
     provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
-        width: 750
-        height: 416
-        isCached: true
-  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
-    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
-    publishedDateTime: 2023-06-20T19:20:00Z
-    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
-    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
-        width: 1680
-        height: 971
-        isCached: true
-  - title: "New Jersey Questions Facial Recognition’s Accuracy"
-    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
-    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "NYC grocery stores fight proposed facial recognition ban"
-    excerpt: "Grocery store owners in New York City oppose a bill that would limit use of facial recognition software, saying the algorithms reduce shoplifting."
-    publishedDateTime: 2023-06-20T22:33:00Z
-    webUrl: "https://www.biometricupdate.com/202306/nyc-grocery-stores-fight-proposed-facial-recognition-ban"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial recognition in the city"
     excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
@@ -99,34 +58,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Grocery stores in NYC fight facial recognition software bill"
-    excerpt: "Related: Shoplifting: How to protect your store However, Fairway’s parent company, Wakefern Food Corp., told CBS New York that facial recognition technology is helping prevent more crime in stores. The algorithms within the software are able to reduce ..."
-    publishedDateTime: 2023-06-21T19:52:00Z
-    webUrl: "https://www.supermarketnews.com/retail-financial/grocery-stores-nyc-fight-facial-recognition-software-bill"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/GettyImages-1363480595.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "Garda body cams to include facial recognition but real-time use prohibited"
-    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "z5GSHOsgIMrPEv5UHaOf46CfekBDhChpefu4YBKkzI5JTzqAG98Um7rejrW0F5qXP50XUtIQW3V+lnFC102zT+A3ccnb6nXMEb03p1Mv/hDOlMNfKafEV5tqUhW6sJZzBoiGjIEOhmX2PKYvMyxwNqWFYBZqd/k6Rctp8/GqhF9V/MbaLk1tjjr/4/bFpH5Ge39liDTesbZRTaPRNElXQAHrJiLBtKAefzWEvkp28HbqEgfpsWROVQ5MGmohwlvq6ESrGodYU3uf1bwQtEvQKQJ+nf4vdh5lb+C6kF8sjvkYQGQMObIQPs8CO6Y/hdjao8XA48lRuglgDf3qUovEaKuSHG+rbFYFBzOg3b0Z+b+FMhBgcEBIlseY45uhbugrgR+gRgS89UbhCOyMk6PmkLhrpatra91Z6UGH4IWzzX1yUw9BvpwrMKWJssggne0mCxJBRA2Bs8ienUh7OVjO5ZWjxp2O4WOul72yjKoOUIH7ox3k/dgLlMcAohNyU59bwqWcS6cImad6nXq1EoHvZA==;6ltAy7GLEsAQ9WMVynVqdQ=="

@@ -3,12 +3,10 @@ category: news
 title: "Marvel faces backlash over AI-generated opening credits"
 excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
 publishedDateTime: 2023-06-21T18:53:00Z
-originalUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash?ref=emergentmind"
-webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash?ref=emergentmind"
-ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
+originalUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
+webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/add59bbb443008b7c410007b37e0dcde5169efef/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=d78d1965b8cc038ca6a3862b760b4b70"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Marvel used AI to create Secret Invasion’s opening credits and it looks awful"
@@ -88,6 +80,6 @@ related:
         height: 900
         isCached: true
 
-secured: "6dz/QNlpuSqHpbPjdFNzxemgLdruaYVEmS/i9QbHZKFKpyOqUznkMN+MQPQDr/Wkv9bIaNyeFcL1UriZ+1ewIuxo8vuWwsY8f8yrNSP+5Y5cC4N6rJEbqQ33i8xeg54r2Gz4ZcBsFCouSjyvoYzrDAlEVnOD2mBqo1m523uiNjSzxJjkvGMJt2y84RvUsFnqzcst+I4BSXJyTCqrofhyxQPvH8j4fXpeNw1wSRWOVu1MIhVkFMJuO3zrxllEr4PTmtecDrsM7EEcoP9YxThoEjt+H2wt1G75P6VijG3uJ35GWhAH23/3DejbUuGoyXj53tlLfaO33CwCGH+WCxU1WsSdIKrSIoHxB4Z0qcPUIssZXJoBmSJ3DnqEBBQS+NC/7sKrKYmLlB1uFaDYNHDD9/DNkeMTDl0QDf0ZX6vc+cAGnzw6//zzBfIRj0dTBAjSgkNr/xmvQJEcUj3/QS1fzFQEUa2QQYkkdOQNdECuSxvvwmxFJvck+5UjfGwDhEaJg0X0bVNu5j+eXzpyDUAD1w==;Uebjr9ix6STOQUWkFBDgMQ=="
+secured: "Q5bUEfeacKv1SKHKDR7f+bnwWxjGMuOKK130geON9ysUQvHPld+swqMRmuZY3eU0kInPL1zswRK02SOTP+gjujkxobAdSFIUI36H51D12LKVh6og1KdaC3I4q8yUL2gEslMDiH2Ew79IpGZl/Tzl/UzAhPQFT4DHK4V2PDoTXvzdxUeg6RwRnXdFT6FjtD/mK+8w/ehbRYEgKOrag8nvAE0DYgBFcHwkqSibdtG7jpaMr74AQDw3twnUyKBCtLmBCMTSdcMghbNWX8XEjrVTe4t4+udqqn8iSC1GzPPYCqFC4+vgmRQo/sLA7znhkBCQISWxPdEVZsNAb/KDH6ZQpArGwIPu1qRy8BOfEeXkpga+Z9+LAUCjx9WcGSb/hRdGmoHSRsRkbQwhee4ZD3LFQAlQDoaDZdGDzQfirZoqgIOQdKozZzgC881HBGXLt9JOY/FO63gTXEjFzAAkTOwhZ3I8VOnCMy+vS2VY+RMRbQ0hNg76h+uEdOq4gFe3569/7Stx+VQstzLKAsa/g1X17A==;ip4Mx+4D1zt3aQvVotjM0g=="
 ---
 

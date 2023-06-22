@@ -2,55 +2,21 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
-      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
-      "excerpt": "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer.",
+      "path": "_news/2023-05-04-police-accused-over-use-of-facial-recognition-at-king-charless-coronation.md",
+      "title": "Police accused over use of facial recognition at King Charles’s coronation",
+      "excerpt": "Met says technology will not be used to target protesters or activists, but campaigners say use is ‘extremely worrying’",
       "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
+      "webUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
+      "originalUrl": "https://www.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
-      "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
-      "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "originalUrl": "https://hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hothardware.com/contentimages/newsitem/61530/content/AMD_Dr_Lisa_Su_EPYC_Hero.jpg",
-          "width": 708,
-          "height": 400,
+          "url": "https://i.guim.co.uk/img/media/b8db4757a16c78241897d176d4991a39cfc6636f/0_576_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=358de4318acd68df80290c528e9dc6a6",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-steep-decline-pc-chip-sales-epyc-silver-lining",
-      "publishedDateTime": "2023-05-03T06:31:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2023/may/03/metropolitan-police-live-facial-recognition-in-crowds-at-king-charles-coronation",
+      "publishedDateTime": "2023-05-03T14:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -74,21 +49,71 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals.md",
-      "title": "CharmHealth Democratizes Generative AI Use Across Clinical Workflows in Healthcare Establishments and Verticals",
-      "excerpt": "CharmHealth integrates search and summarize features, including auto-generating chart note components, note summaries, referral letters, lab result queries, and other features. Clinical virtual assistant features such as auto-suggestion of diagnosis codes and treatment plans are also being rolled out.",
+      "path": "_news/2023-05-04-we-must-regulate-ai-ftc-chair-khan-says.md",
+      "title": "“We must regulate AI,” FTC Chair Khan says",
+      "excerpt": "Khan pledged to use existing laws to regulate AI in a New York Times op-ed, \"We Must Regulate A.I. Here's How.\" In the piece, she warns of AI risks such as market dominance by large tech firms, collusion,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/charmhealth-democratizes-generative-ai-use-across-clinical-workflows-in-healthcare-establishments-and-verticals-2023-05-03",
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lina_khan_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
+      "publishedDateTime": "2023-05-03T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
+      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
+      "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -104,7 +129,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:30:00-07:00",
+      "publishedDateTime": "2023-05-03T14:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -129,68 +154,25 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "AI in Healthcare"
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2023-05-03-sap-signs-ibm-watson-deal-chatgpt-showstopper-waits-in-the-wings.md",
-      "title": "SAP signs IBM Watson deal, ChatGPT showstopper waits in the wings",
-      "excerpt": "Watson is a question-answering system developed by IBM in the Noughties. SAP said the Watson-powered system would help managers and employees in the find answers across various SAP business applications, having already been deployed in SAP Concur, the expense management application.",
+      "path": "_news/2023-05-04-vintras-showcases-its-artificial-intelligence-technology-in-a-demo.md",
+      "title": "Vintra's showcases it's artificial intelligence technology in a demo",
+      "excerpt": "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/",
-      "originalUrl": "https://www.theregister.com/2023/05/03/ibm_watson_chagtgpt/",
+      "webUrl": "https://www.foxnews.com/video/6326697009112",
+      "originalUrl": "https://www.foxnews.com/video/6326697009112",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2021/03/02/shutterstock_sap_bikes.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/03/ibm_watson_chagtgpt/",
-      "publishedDateTime": "2023-05-03T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-trovata-launches-first-generative-ai-finance-treasury-tool.md",
-      "title": "Trovata Launches First Generative AI Finance & Treasury Tool",
-      "excerpt": "Trovata Launches First Generative AI Finance & Treasury Tool May 03, 2023 (PRNewswire via COMTEX) -- PR Newswire SAN DIEGO, May 3, 2023 Trovata",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/trovata-launches-first-generative-ai-finance-treasury-tool-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280d97bb-9421-4560-a8d3-33fd36867cb4/9c935a5d-5894-4272-adb6-2c41dc0c7a74/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -200,14 +182,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T06:00:00-07:00",
+      "publishedDateTime": "2023-05-03T14:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -223,17 +205,120 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-3play-media-study-finds-artificial-intelligence-innovation-has-led-to-significant-improvements-in-automatic-speech-recognition-asr.md",
-      "title": "3Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR)",
-      "excerpt": "Play Media Study Finds Artificial Intelligence Innovation Has Led to Significant Improvements in Automatic Speech Recognition (ASR) ASR technology has never been as accurate as i",
+      "path": "_news/2023-05-04-microsofts-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws.md",
+      "title": "Microsoft's Premium ChatGPT Service Set to Supercharge Azure Growth: Analyst Predicts Even Wider Lead Over AWS",
+      "excerpt": "Microsoft's reportedly upcoming release of premium private ChatGPT service for enterprises should have a positive upwards bias to Horan's already industry-leading FY24E Azure growth of constant currency 24% (+27% USD),",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9806777.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9806777.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/05/03/openai_0.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-new-breed-of-search-with-ai-assist-combines-vector-database-and-keywords.md",
+      "title": "New breed of search with AI assist combines vector database and keywords",
+      "excerpt": "The AI-enabled NeuralSearch from Algolia can understand the intent and context behind queries and deliver optimized results at lower cost.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
+      "originalUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1396158883.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-breed-search-with-ai-assist-combines-vector-database-keywords/amp/",
+      "publishedDateTime": "2023-05-03T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
+      "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
+      "excerpt": "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -243,7 +328,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T05:53:00-07:00",
+      "publishedDateTime": "2023-05-03T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -257,43 +342,69 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2023-05-03-google-deepmind-boss-predicts-ai-as-powerful-as-the-human-brain-could-arrive-within-the-next-few-years-report-says.md",
-      "title": "Google DeepMind boss predicts AI as powerful as the human brain could arrive within the next few years, report says",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. AI that is as powerful as the human brain could arrive within the next few years, according to the boss of ...",
+      "path": "_news/2023-05-04-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Researchers have developed a new high-speed way to detect the location, size and category of multiple objects without acquiring images or requiring complex scene reconstruction. Because the new approach greatly decreases the computing power necessary for object detection,",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-ai-smart-human-brain-2023-5",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-ai-smart-human-brain-2023-5",
+      "webUrl": "https://phys.org/news/2023-05-multiple-images.html",
+      "originalUrl": "https://phys.org/news/2023-05-multiple-images.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64522a62590d7f0018b79d59?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-ai-smart-human-brain-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-ai-smart-human-brain-2023-5?amp",
-      "publishedDateTime": "2023-05-03T05:37:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T12:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-use-a-pre-trained-model.md",
+      "title": "Use a pre-trained model",
+      "excerpt": "In this tutorial you'll explore an example web application that demonstrates transfer learning using the TensorFlow.js Layers API. The example loads a pre-trained model and then retrains the model in the browser. The model has been pre-trained in Python on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/tutorials/conversion/pretrained_model",
+      "originalUrl": "https://www.tensorflow.org/js/tutorials/conversion/pretrained_model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -314,62 +425,19 @@
       ]
     },
     {
-      "path": "_news/2023-05-03-aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai.md",
-      "title": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI",
-      "excerpt": "Aisera Collaborates with Microsoft to Provide AI Enterprise Service Experiences with ChatGPT and Generative AI May 03, 2023 (PRNewswire via COMTEX) --",
+      "path": "_news/2023-05-04-four-investors-explain-why-ai-ethics-cant-be-an-afterthought.md",
+      "title": "Four investors explain why AI ethics can’t be an afterthought",
+      "excerpt": "Some onus lies on investors to make sure these new technologies are being built by founders with ethics in mind.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/aisera-collaborates-with-microsoft-to-provide-ai-enterprise-service-experiences-with-chatgpt-and-generative-ai-2023-05-03",
+      "webUrl": "https://techcrunch.com/2023/05/03/ai-ethics-investor-survey/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/ai-ethics-investor-survey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-these-robot-arms-were-designed-to-help-humans-interact-with-ai.md",
-      "title": "These robot arms were designed to help humans interact with AI",
-      "excerpt": "Jizai Arms is a system of supernumerary robotic limbs. Up to six of these arms can be worn and controlled by the user. The limbs allow the wearer to attach, detach, replace or edit the arms. This was designed to enable social interaction between wearers to support human beings acting with robots and AIs while maintaining a sense of self-awareness and widening the possibility of human actions.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
-      "originalUrl": "https://mashable.com/video/robot-arms-jizai-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/videos/04dRP8kLvImZOxp7RbvFFmD/hero-image.fill.size_1200x675.v1683028082.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/ethics-ai.jpg?resize=1200,675",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -381,291 +449,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with-npci.md",
-      "title": "You Can Now Pay Using Facial Recognition As Airtel Payments Bank Rolls Out Face Authentication With NPCI",
-      "excerpt": "Customers just need to present themselves to get payment. In actuality, Airtel Payments Bank started this service.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
-      "originalUrl": "https://in.mashable.com/tech/51949/you-can-now-pay-using-facial-recognition-as-airtel-payments-bank-rolls-out-face-authentication-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_in/seo/5/52658/52658_ntny.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-ex-openai-researcher-says-theres-a-50-chance-ai-development-could-end-in-doom.md",
-      "title": "Ex-OpenAI researcher says there's a 50% chance AI development could end in 'doom'",
-      "excerpt": "Paul Christiano runs the non-profit Alignment Research Center but previously ran the language model alignment team at OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
-      "originalUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-researcher-ai-doom-50-chatgpt-2023-5?amp",
-      "publishedDateTime": "2023-05-03T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-can-an-auditor-be-replaced-by-ai.md",
-      "title": "Can An Auditor Be Replaced By AI?",
-      "excerpt": "More people are growing concerned that AI could put at risk the careers of auditors, but how much truth is behind this fear?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64510e0d5d052fdb024e9ff2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/03/can-an-auditor-be-replaced-by-ai/amp/",
-      "publishedDateTime": "2023-05-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-palestinians-subject-to-omnipresent-facial-recognition-amnesty-report-finds.md",
-      "title": "Palestinians Subject to ‘Omnipresent’ Facial Recognition, Amnesty Report Finds",
-      "excerpt": "We may earn a commission from links on this page. The Israeli military is increasingly deploying experimental new facial recognition software to monitor Palestinians and “supercharge segregation ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820",
-      "originalUrl": "https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3a07e182985a6acf0f6fbe0f9806767d.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-kinetica-taps-chatgpt-for-natural-language-sql-database-queries.md",
-      "title": "Kinetica taps ChatGPT for natural language SQL database queries",
-      "excerpt": "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
-      "originalUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-where-is-india-in-the-generative-ai-race.md",
-      "title": "Where is India in the generative AI race?",
-      "excerpt": "In the high-stakes race for supremacy in the field of generative AI, India's bustling startup ecosystem is facing an uphill battle.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "originalUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1483825958.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/where-is-india-in-the-generative-ai-race/amp/",
-      "publishedDateTime": "2023-05-03T02:26:00-07:00",
+      "publishedDateTime": "2023-05-03T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -688,25 +472,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-try-4-new-arts-and-ai-experiments.md",
-      "title": "Try 4 new Arts and AI experiments",
-      "excerpt": "Four new online interactive artworks from Google Arts & Culture Lab artists in residence",
+      "path": "_news/2023-05-04-harmonic-drive-showcasing-latest-in-advanced-motion-control-at-robotics-summit.md",
+      "title": "Harmonic Drive showcasing latest in advanced motion control at Robotics Summit",
+      "excerpt": "At the Robotics Summit & Expo, Harmonic Drive will showcase its latest motion control technologies and discuss how to simplify the design of a robotic joint.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/",
+      "webUrl": "https://www.therobotreport.com/harmonic-drive-advanced-motion-control-robotics-summit/",
+      "originalUrl": "https://www.therobotreport.com/harmonic-drive-advanced-motion-control-robotics-summit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Generative_Bundle_Hero_Image_GIF.gif",
-          "width": 600,
-          "height": 369,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/RSE23_1200x628_Zucker_Vs2.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -714,9 +499,146 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/try-4-new-arts-and-ai-experiments/amp/",
-      "publishedDateTime": "2023-05-03T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-beware-the-ai-scams-meta-blocks-1000-links-tied-to-chatgpt-themed-malware.md",
+      "title": "Beware the AI Scams: Meta Blocks 1,000+ Links Tied to ChatGPT-Themed Malware",
+      "excerpt": "Hackers pounced on ChatGPT's popularity to create malware posing as OpenAI's chatbot, and then circulated links to it on Facebook, many to dangerous browser extensions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/beware-ai-scams-meta-blocks-1000-plus-links-tied-to-chatgpt-themed-malware",
+      "originalUrl": "https://www.pcmag.com/news/beware-ai-scams-meta-blocks-1000-plus-links-tied-to-chatgpt-themed-malware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03Nuq1pc0GAzFeP4dTeYrAt-1.fit_lim.size_1200x630.v1683131377.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt.md",
+      "title": "Explained | What is the EU’s Artificial Intelligence Act and how does it plan to rein in tech like ChatGPT?",
+      "excerpt": "As artificial intelligence technologies become omnipresent and their algorithms more advanced—capable of performing a wide variety of tasks including voice assistance, recommending music, driving cars, detecting cancer, and even deciding whether you get shortlisted for a job— the risks and uncertainties associated with them have also ballooned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/n82nfe/article66809441.ece/alternates/FREE_1200/iStock-1474442258.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-what-is-the-eus-artificial-intelligence-act-and-how-does-it-plan-to-rein-in-tech-like-chatgpt/article66794478.ece/amp/",
+      "publishedDateTime": "2023-05-03T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-checks-googles-ai-powered-privacy-platform.md",
+      "title": "Checks, Google’s AI-powered privacy platform",
+      "excerpt": "Checks takes the complexity out of compliance, using AI to help companies quickly discover, communicate and fix issues.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/",
+      "originalUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imageforsocial.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/checks-googles-ai-powered-privacy-platform/amp/",
+      "publishedDateTime": "2023-05-03T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",
@@ -744,21 +666,65 @@
       ]
     },
     {
-      "path": "_news/2023-05-03-midjourney-51-arrives-and-its-another-leap-forward-for-ai-art.md",
-      "title": "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art",
-      "excerpt": "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated.",
+      "path": "_news/2023-05-03-machine-translation-for-cuneiform-tablets.md",
+      "title": "Machine translation for cuneiform tablets",
+      "excerpt": "An AI model has been developed to automatically translate Akkadian text written in cuneiform into English. Hundreds of thousands of clay tablets from ancient Mesopotamia, written in cuneiform and dating back as far as 3,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
+      "webUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200",
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-translation-fo.jpg",
+          "width": 2880,
+          "height": 1216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-machine-cuneiform-tablets.amp",
+      "publishedDateTime": "2023-05-03T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
           "width": 1200,
-          "height": 673,
+          "height": 798,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -766,16 +732,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "publishedDateTime": "2023-05-03T01:29:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-05-03T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -791,178 +757,24 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-adhd-on-tiktok-raising-awareness-or-driving-inaccurate-self-diagnosis.md",
-      "title": "ADHD on TikTok: Raising awareness or driving inaccurate self-diagnosis?",
-      "excerpt": "ADHD is massive on TikTok. Creators who've taken the hashtag to more than 20 billion views say they've helped to spread awareness and normalise the condition. But some worry that the flood of content on our feeds and For You pages is also perpetuating stereotypes and encouraging potentially inaccurate self-diagnosis.",
+      "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
+      "title": "AI threatens 7,800 jobs as IBM pauses hiring",
+      "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
-      "originalUrl": "https://www.bbc.com/news/newsbeat-65457044?at_format=link&at_link_type=web_link&at_link_id=D856A3A0-E98B-11ED-B287-907279448730&at_link_origin=bbchealth&at_bbc_team=editorial&at_campaign_type=owned&at_ptr_name=twitter",
+      "webUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "originalUrl": "https://www.zdnet.com/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8E9C/production/_129580563_phonealamy.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/newsbeat-65457044.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/newsbeat-65457044.amp",
-      "publishedDateTime": "2023-05-03T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-its-not-ai-that-is-going-to-take-you-job-but-someone-who-knows-how-to-use-ai-might-economist-says.md",
-      "title": "It's not AI that is going to take you job, but someone who knows how to use AI might, economist says",
-      "excerpt": "AI is \"giving more power to all workers, but especially those average workers,\" Richard Baldwin, an economist, said at a World Economic Forum panel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64517e2ba19cbe00192dd25e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5?amp",
-      "publishedDateTime": "2023-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-focus-chinas-ai-industry-barely-slowed-by-us-chip-export-rules.md",
-      "title": "FOCUS-China's AI industry barely slowed by US chip export rules",
-      "excerpt": "U.S. microchip export controls imposed last year to freeze China's development of supercomputers used to develop nuclear weapons and artificial-intelligence systems like ChatGPT are having only minimal effects on China's tech sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nvidia-china-idUSL1N36H2TD",
-      "originalUrl": "https://www.reuters.com/article/nvidia-china-idUSL1N36H2TD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20230503&t=2&i=1632021250&r=LYNXMPEJ4208Z&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-should-we-stop-developing-ai-for-the-good-of-humanity.md",
-      "title": "Should We Stop Developing AI For The Good Of Humanity?",
-      "excerpt": "Many high-profile tech figures, including Steve Wozniak and Elon Musk, are calling for a pause in the development of AI over concerns about its potential to cause harm, whether intentionally or unintentionally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6451ff360cd981ad54ee1aee/0x0.jpg?format=jpg&width=1200",
+          "url": "https://www.zdnet.com/a/img/resize/0393b7d5f621704a38027b7cfd596f95695ca462/2023/05/03/d1aff5ee-9f8f-4e70-ad00-0768eff07be4/robot-replace-employee.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -972,16 +784,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/03/should-we-stop-developing-ai-for-the-good-of-humanity/amp/",
-      "publishedDateTime": "2023-05-02T23:29:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-threatens-7800-jobs-as-ibm-pauses-hiring/",
+      "publishedDateTime": "2023-05-03T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1001,21 +813,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-03-artificial-intelligence-detecting-cancer-in-some-us-hospitals.md",
-      "title": "Artificial Intelligence detecting cancer in some U.S. hospitals",
-      "excerpt": "Doctors believe Artificial Intelligence is now saving lives, after a major advancement in breast cancer screenings. A.I. is detecting early signs of the disease, in some cases years before doctors would find the cancer on a traditional scan.",
+      "path": "_news/2023-05-03-optimized-pytorch-20-inference-with-aws-graviton-processors.md",
+      "title": "Optimized PyTorch 2.0 inference with AWS Graviton processors",
+      "excerpt": "New generations of CPUs offer a significant performance improvement in machine learning (ML) inference due to specialized built-in instructions. Combined with their flexibility, high speed of development, and low operating cost, these general-purpose processors offer an alternative to other existing",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6326643971112",
-      "originalUrl": "https://www.foxnews.com/video/6326643971112",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimized-pytorch-2-0-inference-with-aws-graviton-processors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/03/optimized-pytorch-graviton.jpg",
+          "width": 955,
+          "height": 475,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1025,7 +837,146 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T22:21:00-07:00",
+      "publishedDateTime": "2023-05-03T09:02:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Today’s image-free perception methods can only achieve classification, single object recognition or tracking. To accomplish all three at once, the researchers developed a technique known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/988149",
+      "originalUrl": "https://www.eurekalert.org/news-releases/988149",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
+      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
+      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "publishedDateTime": "2023-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-ai-brain-activity-decoder-can-reveal-stories-in-peoples-minds-researchers-say.md",
+      "title": "AI brain activity decoder can reveal stories in peoples' minds, researchers say",
+      "excerpt": "An artificial intelligence system developed at the University of Texas is able to translate a subject's brain activity into a stream of text after storytelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "originalUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cbb3aee-10db-495f-9fe0-b479aa2bec89/0ec766a6-9a55-4885-b3f4-4c77f19ec376/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-brain-activity-decoder-can-reveal-stories-peoples-minds-researchers-say.amp",
+      "publishedDateTime": "2023-05-03T08:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1048,25 +999,26 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
-      "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
-      "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
+      "path": "_news/2023-05-03-why-open-source-is-essential-to-allaying-ai-fears-according-to-stabilityai-founder.md",
+      "title": "Why open source is essential to allaying AI fears, according to Stability.ai founder",
+      "excerpt": "OpenAI. \"There is no way you can use black-box models\" for the world's most valuable data, insists Stability.ai founder Emad Mostaque.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-and-forecast-to-2031-2023-05-03",
+      "webUrl": "https://www.zdnet.com/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/",
+      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.zdnet.com/a/img/resize/9ab494aff84c4674af9e149c4ca3ff16dbf18aa1/2023/05/02/c9dc98f8-65cd-44db-b580-2571270a329a/mostaque-crop-for-twitter-smaller.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1074,16 +1026,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T21:01:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-essential-to-allaying-ai-fears-according-to-stability-ai-founder/",
+      "publishedDateTime": "2023-05-03T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1099,27 +1051,25 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-05-03-baltimore-city-council-to-consider-restrictions-to-facial-recognition-and-surveillance-that-would-be-first-test-of-local-police-control.md",
-      "title": "Baltimore City Council to consider restrictions to facial recognition and surveillance that would be first test of local police control",
-      "excerpt": "Baltimore’s use of surveillance and facial recognition technology would face new restrictions under legislation introduced Monday by Councilman Kristerfer Burnett. The twin proposals ...",
+      "path": "_news/2023-05-03-intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges.md",
+      "title": "Intelligence agencies have used AI since the cold war – but now face new security challenges",
+      "excerpt": "But intelligence agencies, including the CIA, in charge of foreign intelligence for the US, and its sister organisation the National Security Agency (NSA), have been using earlier forms of AI since the start of the cold war.",
       "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
-      "originalUrl": "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-surveillance-facial-recognition-20230502-i2bh36ll5vgr7kyp3ue35iznbu-story.html",
+      "webUrl": "https://theconversation.com/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320",
+      "originalUrl": "https://theconversation.com/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://www.baltimoresun.com/resizer//RErTxFLSFFfAXzhgOnTBj80LEMk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/XEZZN4Y6WZC2TMT3MM6MBQR734",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.theconversation.com/files/522983/original/file-20230426-28-upolxb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1127,13 +1077,109 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T19:48:00-07:00",
+      "ampWebUrl": "https://theconversation.com/amp/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/intelligence-agencies-have-used-ai-since-the-cold-war-but-now-face-new-security-challenges-204320",
+      "publishedDateTime": "2023-05-03T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops.md",
+      "title": "AMD is ready to launch its twice-delayed Ryzen 7000 chips for lightweight laptops",
+      "excerpt": "AMD has delayed the announcement of these chips twice. AMD announced in mid-March that systems would begin shipping in April, and it's currently the beginning of May. One of the laptop makers offering a Ryzen 7040-series laptop,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ryzen-7040-specs-fixed-800x450.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/amd-is-ready-to-launch-its-twice-delayed-ryzen-7000-chips-for-lightweight-laptops/amp/",
+      "publishedDateTime": "2023-05-03T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-californias-wrong-to-expand-the-use-of-facial-recognition-systems.md",
+      "title": "California’s wrong to expand the use of facial recognition systems",
+      "excerpt": "As technology advances, so too do the challenges surrounding the protection of the public’s privacy and our civil liberties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/",
+      "originalUrl": "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/PAS-L-FACE-RECOGNITION-0226-03-SR.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/03/state-wrong-to-expand-use-of-face-id-systems/amp/",
+      "publishedDateTime": "2023-05-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1144,49 +1190,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-center-for-deep-learning.md",
-      "title": "Center for Deep Learning",
-      "excerpt": "The Center for Deep Learning’s (CDL) mission is to act as a resource for companies seeking to establish or improve access to artificial intelligence (AI) by providing technical capacity and expertise, allowing the center’s members to achieve proof of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
-      "originalUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/research/deep-learning/images/logos/anthem-440x248.png",
-          "width": 440,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mccormick.northwestern.edu",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

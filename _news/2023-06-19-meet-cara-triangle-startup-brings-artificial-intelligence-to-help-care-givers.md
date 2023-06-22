@@ -7,7 +7,7 @@ originalUrl: "https://wraltechwire.com/2023/06/19/meet-cara-triangle-startup-bri
 webUrl: "https://wraltechwire.com/2023/06/19/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Meet Cara: Triangle startup brings artificial intelligence to help care givers"
+    excerpt: "The startup – at the cross-section between gig tool and healthcare – aims to tackle the caregiving ... and it’s calling her “Cara.” “Cara” is an artificial intelligence tool being developed to support social workers, as well as other ..."
+    publishedDateTime: 2023-06-22T12:44:00Z
+    webUrl: "https://wraltechwire.com/2023/06/22/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/"
+    ampWebUrl: "https://wraltechwire.com/2023/06/22/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/22/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 55
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/cara--e1687174516256.png"
+        width: 1002
+        height: 564
+        isCached: true
 
 secured: "N+9aoMu5DG4kHWR2o1zUeMtxqefYE6IMRTXW49b6K/sf7F3ExeL1MwlEyoNW5qSxQXkFCzUgCTrvcUp5bBy+iJ2N9sbt2hjQRpHBhKr/mdMgwXUhreoyy7LKUkNB29WmwtgTnw0Fx6B/0sMYkIONqtFfl2H2KfZWLmoLS5Rx2V2Zp/L8eicQ+DltsJX29uK2YigxKA8ez25B/R3JBbZHtJXFCddrRqVQpYOGPDrDORN+N7n3kfuk4hSNSaQhTvSaCVOgIgFGRcuYD7/qXXxIkUvIYY3ti8uDiO3MQAuUCsEd0NwZOnXmzBsMQeoYutEzwZ+7NKVXvC5oaMIMZ3uno+Z/8sJt9qnVpphPGF15UHM2hzrQPCvfDcsUGbCP9qO2FkKPz/ZM9lPahfIm2FTvpNB1Ni68d8MwrwoHVHBs3X2U8QS/iot9YWI0/KynV5y5L9rZgNMCb7RDCbtRgKuhWsN1lOKJQPqrlemPMwUXrbDzG/DPV6mkHIh2L6KqHUXifjRbN9W77hjA4PN0QsMQmw==;Hb6mYp4hHaFIr1E9+i6aKA=="
 ---

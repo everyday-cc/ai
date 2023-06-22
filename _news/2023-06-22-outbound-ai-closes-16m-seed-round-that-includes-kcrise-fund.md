@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/kansascity/news/2023/06/21/outbound-ai
 webUrl: "https://www.bizjournals.com/kansascity/news/2023/06/21/outbound-ai-closes-16m-round-that-includes-kcrise.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
+    excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget"
+    publishedDateTime: 2023-06-21T23:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/health-tech-startup-outbound-ai-completes-16m-raise-to-accelerate-growth-of-ai-agents-performing-administrative-tasks-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
     excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget constraints, which is why demand is on the rise for Outbound AI's pioneering virtual agents and software consoles powered by its proprietary Conversation AI Cloud."
     publishedDateTime: 2023-06-21T12:59:00Z

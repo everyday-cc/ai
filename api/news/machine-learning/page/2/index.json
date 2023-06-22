@@ -2,6 +2,286 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-14-with-chatgpt-defense-investors-are-learning-to-speak-ai.md",
+      "title": "With ChatGPT, Defense Investors Are Learning To Speak AI",
+      "excerpt": "With AI exploding into the public consciousness, companies that once struggled to explain their machine-learning, national security tools can operate with the confidence that their value proposition is now more intuitively understood by the both the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
+      "originalUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489d53c3e9469660975c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craighooper/2023/06/14/with-chatgpt-defense-investors-are-learning-to-speak-ai/amp/",
+      "publishedDateTime": "2023-06-14T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
+      "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
+      "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100975008/100975008.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "publishedDateTime": "2023-06-13T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
+      "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
+      "excerpt": "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/14/9833056.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/14/9833056.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations.md",
+      "title": "Striveworks snaps up first funding of $33M to build tools for machine learning operations",
+      "excerpt": "MLOps, or DevOps for those working with machine learning models, has seen a boom of interest in the last year, and that should come as no surprise: organizations want to bring more machine learning to bear in their data science stacks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
+      "originalUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1140706398.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
+      "publishedDateTime": "2023-06-13T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world.md",
+      "title": "Why Enterprise Leaders Should Be Optimistic In A Dynamic World",
+      "excerpt": "The path forward has to combine a strong overall enterprise strategy with the right set of solutions and processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487220a529198ad83f4b947/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/13/why-enterprise-leaders-should-be-optimistic-in-a-dynamic-world/amp/",
+      "publishedDateTime": "2023-06-13T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-machine-learning-uncovers-the-best-drug-combos-to-prevent-covid-recurrence.md",
+      "title": "Machine learning uncovers the best drug combos to prevent COVID recurrence",
+      "excerpt": "A groundbreaking machine-learning study has unmasked the best drug combinations to prevent COVID-19 from coming back after an initial infection. It turns out these combos are not the same for every patient.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-4.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-machine-uncovers-drug-combos-covid.amp",
+      "publishedDateTime": "2023-06-13T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-the-face-game-a-citizen-science-project-to-learn-how-artificial-intelligence-will-choose-to-appear-to-humans.md",
       "title": "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans",
       "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
@@ -32,6 +312,58 @@
         "name": "sciencex",
         "domain": "sciencex.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-artificial-neural-networks-market-insights-2023-2030.md",
+      "title": "Artificial Neural Networks Market Insights | 2023-2030",
+      "excerpt": "The Global Artificial Neural Networks market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-2023-2030-2023-06-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-insights-2023-2030-2023-06-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1051,314 +1383,6 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
-      "originalUrl": "https://www.reseller.co.nz/article/707450/microsoft-offers-azure-ml-data-import-cli-sdk-snowflake-other-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Accenture Acquires Nextira, Expanding Engineering Capabilities in Artificial Intelligence and Machine Learning",
-      "excerpt": "Nextira will join the Accenture AWS Business Group with a focus on media and entertainment industry clients . Accenture (NYSE: ACN) has acquired Nextira, an Amazon Web Services (A",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-1-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-artificial-intelligence-series-1-of-5-past-present-and-future.md",
-      "title": "Artificial Intelligence Series 1 Of 5: Past, Present, And Future",
-      "excerpt": "Human integration with technology has always been intertwined. From fire to AI. However, the speed of technology development is exponentially changing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477eba34d097636f07fb058/0x0.jpg?format=jpg&width=1200",
-          "width": 614,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/",
-      "publishedDateTime": "2023-06-01T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-security-becomes-much-bigger-issue-for-aiml-chips-tools.md",
-      "title": "Security Becomes Much Bigger Issue For AI/ML Chips, Tools",
-      "excerpt": "Security is becoming a bigger issue in AI and machine learning chips, in part because the chip industry is racing just to get new devices working, and in part because it’s difficult to secure a new technology that is expected to adapt over time.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
-      "originalUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_436324709-security-05-08-23-scaled.jpeg?fit=2560%2C1181&ssl=1",
-          "width": 2560,
-          "height": 1181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-wall-street-breakfast-deep-learning.md",
-      "title": "Wall Street Breakfast: Deep Learning",
-      "excerpt": "Investors will have some deep learning to do after being consumed by everything AI this year, especially as they sort through the growing list of companies talking up how they've been AI plays all ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
-      "originalUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452604857/image_1452604857.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-resonate-offers-ai-neural-network-for-predictive-modeling.md",
-      "title": "Resonate Offers AI Neural Network For Predictive Modeling",
-      "excerpt": "Resonate has introduced an AI neural network designed to help brands transform data into updated consumer attributes. The new network, rAI, fuels predictive models designed to dynamically generate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/385896/resonate-offers-ai-neural-network-for-predictive-m.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/385896/resonate-offers-ai-neural-network-for-predictive-m.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/05/31/screen-shot-2023-05-31-at-60414-pm_SW6XGsa.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
-      "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
-      "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T12:49:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host
 cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
 type: article
 quality: 52
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -81,6 +81,24 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 4
+  - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
+    excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
+    publishedDateTime: 2023-06-22T13:18:00Z
+    webUrl: "https://www.firehouse.com/apparatus/news/53064109/san-francisco-chief-irked-with-robotaxis-tangling-with-firefighters"
+    type: article
+    provider:
+      name: Firehouse
+      domain: firehouse.com
+    quality: 4
+  - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
+    excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
+    publishedDateTime: 2023-06-22T12:04:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 0
 
 secured: "MKWHOzP4pR0TSSNiHlUVkmxrg2weTvv5JwRGtDTBQGhOx10HV3Ox3JOpwHYj+poAfMNKCWGCpx4JiJjUoGZ2g0LtG6+HRPGn0fseWBgD8JkhQJAPcu0L2cbsaM/VUqpYHwgDrNL1QtG0ueZy47unQEHiP2Vd8hk5MKvetZNVwveWEqmArp3gO8SS3aT4NpRAAhVtVSm+XcHCFzc6UR8puEMX73eiPke+4eLPWOQBhfTOdTU+/1EEiKHjYymOuZE2U/mQUFGglS4MydhGO/jpWAvEpib92hSTS9yGV2L7PaqYb9JxlOtBEYd3zD+Ent54UP7zmYFdSOG8FlTN8pkLMG6Bte7Wtkj9lFH1RGqR4R4=;RlDa1IB7yp4jbwn/7a29Kw=="
 ---

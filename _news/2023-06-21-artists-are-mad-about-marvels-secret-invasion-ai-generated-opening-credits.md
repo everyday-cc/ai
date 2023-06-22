@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Marvel faces backlash over AI-generated opening credits"
-    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash?ref=emergentmind"
-    ampWebUrl: "https://amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/add59bbb443008b7c410007b37e0dcde5169efef/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=d78d1965b8cc038ca6a3862b760b4b70"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
     excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
     publishedDateTime: 2023-06-21T13:25:00Z
@@ -86,6 +70,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Marvel faces backlash over AI-generated opening credits"
+    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "zzYT2q0oWToKSFNLFcEUUUQ7JbS8uBQEUXPxRvHJ1FWb36kpM+N5pWjFuDVrCIWQuXrEkOBOMki0m4cuLKkq3NKKGNcxam8hqxKbZpYBEbXMnfRndmJi1dTn/7FyvTC9u9WABuunSBZNN+/x4A3PjMNgTNA4/eIMSQhRhVAlI+4Gc7n5+3708SmKxKm10lqeWY+ckBaRtWcezmf2rDFc+Bfi9awXy2V5+7X3A37FVm9Y5KRiLJLltFSZOGobJuwWjUWWwJ05kDSsM/CTsnt7se+aRF1E36NZIkyJyjb4Aa2AqAfr5cqhoV2S7jhYamD7dYyPQZdm94Xb9cRZlkg+h5Ccdz27HH85aaJQq7AvemEACdHBW+Ug3AUBKCrjEXhm3sLoCtg444Z+uub30nYWUxmQK2zAJifYI4vrkjo57E7jL/ZPE/4djFgK9H0skj1We6t38YjwnM/DSN4zBF2Ct/rVR0TFFfgv344EmsLS/frTjn55hRKBSXmuManFzSxFQFzwmgJRHGMNqWDCdt9ObQ==;84t/4jzT43bp/ErYm+2yfA=="
 ---

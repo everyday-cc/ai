@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transformi
 webUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
     excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
     publishedDateTime: 2023-06-20T14:01:00Z

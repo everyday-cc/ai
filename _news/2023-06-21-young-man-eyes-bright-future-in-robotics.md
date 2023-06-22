@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-rob
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/?outputType=amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Domestic Robotics: Breathing New Life into Housekeeping"
-    excerpt: "Welcome to the future, where housekeeping has evolved from broomsticks and dustpans to advanced robotics that turn chore time into leisure time. In this ever-evolving technological panorama, domestic robotics is a domain that’s redefining cleanliness with cutting-edge innovation."
-    publishedDateTime: 2023-06-17T19:14:00Z
-    webUrl: "https://techbullion.com/domestic-robotics-breathing-new-life-into-housekeeping/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
 
 secured: "xqTpHBjFAV5r5GhPctNeDtdhFdqf7dMTRub6+SqHwttEUCiyHxlgRnq8ajZgUfhzt4s0dOlYjg/moIQrrfKtu7I6D2urdenvB54FY2JZbNI/PqWhCipED44DTQ0q3Mfk/p8l7vrQUHb0I/gbl0TgZDeJl6R0dl+7Bk4oS2u9OGeeO2npseVzr3F5j7LKZqWYr2wOnkFBefAHWVrzQSigfsysZ0OnUVLf4gPcY0hLn26ItmszdREsaw43apeuqRAEIRBBZvzzDzba/JiPdODp+waY2Se4BXecknrif2d4pIc29WYlPtDHlRwKnEwTKkkfSIWmjiKuvDM5eiHPL0F8pZVMthzQAfxkpwb197DZRRNcK1qRsmqAvqZOJwKJn8E5UNns3ATRNaqLyd0WACEICjkwaO1jtctO9SSbfv2a4mBhH7jY+IJtyccfnpCAby7VeswTtweBQwqr2K/q74+Ned3vpJn333axzcoR8zYLOKLVE2xlaoaHdzjIamybmDSRkHMD4zOVMJ9WfQ29V2ydhA==;SlJBHpcZFXwzkk7oCWT10g=="
 ---

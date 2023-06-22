@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition – The Key to Safe Future"
+    excerpt: "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels."
+    publishedDateTime: 2023-06-22T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
     excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
     publishedDateTime: 2023-06-20T10:00:00Z
@@ -40,89 +54,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902"
         width: 620
         height: 793
-        isCached: true
-  - title: "Facial recognition cameras to boost security"
-    excerpt: "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,"
-    publishedDateTime: 2023-06-21T02:17:00Z
-    webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 56
-    images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
-        width: 750
-        height: 416
-        isCached: true
-  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
-    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
-    publishedDateTime: 2023-06-20T19:20:00Z
-    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
-    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
-        width: 1680
-        height: 971
-        isCached: true
-  - title: "New Jersey Questions Facial Recognition’s Accuracy"
-    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
-    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "NYC grocery stores fight proposed facial recognition ban"
-    excerpt: "Grocery store owners in New York City oppose a bill that would limit use of facial recognition software, saying the algorithms reduce shoplifting."
-    publishedDateTime: 2023-06-20T22:33:00Z
-    webUrl: "https://www.biometricupdate.com/202306/nyc-grocery-stores-fight-proposed-facial-recognition-ban"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
-  - title: "Grocery stores in NYC fight facial recognition software bill"
-    excerpt: "Related: Shoplifting: How to protect your store However, Fairway’s parent company, Wakefern Food Corp., told CBS New York that facial recognition technology is helping prevent more crime in stores. The algorithms within the software are able to reduce ..."
-    publishedDateTime: 2023-06-21T19:52:00Z
-    webUrl: "https://www.supermarketnews.com/retail-financial/grocery-stores-nyc-fight-facial-recognition-software-bill"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/GettyImages-1363480595.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "Garda body cams to include facial recognition but real-time use prohibited"
-    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "+0fbzXkm10XGWhwA2fEXiLroO+PP9I9+um3+cI1V/u3V4W6BQQ6Q/nel67P6aGni0QytbtDPhXbJmP2PlPv3rpvYqwhI1rcLaptJ5vodHXjKxtMSRvuBHWHEz4bzB4niRiF8AFya0x7foL+5q4hUsCTSDiVTDq3EV3vF4Tx7ZwhvsJ95EF4lLI1bQKZjxBZfNtSQM+KYCbiCpa6qUwLo0nE/73los4gebnVKikW8ulF5rjhTZzRdhzzW7dva6g0iw6e3LnIoaVIZ1VZB/iXrRlWizlIObgo2XSexbFI6WSjiDIOmeQd7R/1nXHDQJyiIoZFIHrYOoo8ZfVxM9E0X8Z7L3L+CDLix1fosxktNhic=;KWIA8fHF6cmPk4sPHGNC3g=="

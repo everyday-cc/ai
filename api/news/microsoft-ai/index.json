@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -97,7 +97,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -119,6 +119,58 @@
         "name": "brandequity.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu.md",
+      "title": "Cognitive System & Artificial Intelligence (AI) Systems Market Likely to Boost Future Growth Prospects with Google, Brighterion, Microsoft, Baidu",
+      "excerpt": "The Cognitive System & Artificial Intelligence (AI) Systems Market report contains in-depth information on factors influencing demand, growth, opportunities, challenges, and restraints. It includes comprehensive details on the composition and outlook of global and local industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -179,6 +231,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-global-artificial-intelligence-in-iot-market-2023-2030-top-key-players-in-the-industry-are-aws-oracle-thingstel-microsoft-arundo.md",
+      "title": "Global Artificial Intelligence in IoT Market [2023-2030] | Top Key-Players in the Industry are - AWS, Oracle, Thingstel, Microsoft, Arundo",
+      "excerpt": "Global Artificial Intelligence in IoT Market [2023-2030] research report is a compilation of information and analysis obtained from various sources to assist businesses in understanding the current market situation by type trends [Software Solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-iot-market-2023-2030-top-key-players-in-the-industry-are---aws-oracle-thingstel-microsoft-arundo-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-iot-market-2023-2030-top-key-players-in-the-industry-are---aws-oracle-thingstel-microsoft-arundo-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "Microsoft AI"
       ]
@@ -846,7 +951,7 @@
     {
       "path": "_news/2023-06-09-cognitive-computing-market-revenue-is-expected-to-increase-by-usd-2395-billion-by-2032-says-acumen-research-and-consulting.md",
       "title": "Cognitive Computing Market Revenue Is Expected To Increase By USD 239.5 Billion By 2032 Says Acumen Research And Consulting",
-      "excerpt": "Global Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032, with a 23.2% CAGR from 2023 to 2032 North America region led with more than 39% of cognitive computing market share in 2022 Asia-Pacific cognitive computing market growth will record a CAGR of more than 25% from 2023 to 2032 According to a study conducted by Accenture,",
+      "excerpt": "Global Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032, with a 23.2% CAGR from 2023 to 2032 North America region led with more than 39% of cognitive computing market share in 2022",
       "sourceUrl": null,
       "webUrl": "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting",
       "originalUrl": "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting",
@@ -856,9 +961,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036",
-          "width": 332,
-          "height": 249,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?192477",
+          "width": 393,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1399,111 +1504,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-why-ai-is-a-force-multiplier-for-consultants-and-clients-alike.md",
-      "title": "Why AI Is A Force Multiplier For Consultants And Clients Alike",
-      "excerpt": "Just like an expert consultant, only certain use cases are best suited for AI and several considerations should be part of that decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647debb26de784f93b13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/06/why-ai-is-a-force-multiplier-for-consultants-and-clients-alike/amp/",
-      "publishedDateTime": "2023-06-06T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "Microsoft has come out with a new integration that will allow Snowflake and AWS S3 users to bring their data to its Azure Machine Learning (ML) service for AI model training and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-05T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

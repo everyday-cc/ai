@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
+  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools."
+    publishedDateTime: 2023-06-20T03:47:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 72
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/GANNETT-AI-0_1687232356033_1687232701698.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations"
+    publishedDateTime: 2023-06-19T06:21:00Z
+    webUrl: "https://www.econotimes.com/Artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-1658014"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 52
+    images:
+      - url: "https://f1.econotimes.com/2023/06/mqva0lqy3o_th_1024x0.jpg"
+        width: 496
+        height: 251
         isCached: true
   - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
     excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
@@ -57,20 +71,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
-    excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
-    publishedDateTime: 2023-06-20T04:10:00Z
-    webUrl: "https://trak.in/stories/unleashing-the-full-potential-of-ai-moving-beyond-admiration-and-apprehension-opinions-of-a-cto/"
+  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "The use of artificial intelligence in architecture practice and education is limited by its datasets and lack of empathy."
+    publishedDateTime: 2023-06-18T11:17:00Z
+    webUrl: "https://theconversation.com/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-201069"
     type: article
     provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 25
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-4-4.jpg"
-        width: 1000
-        height: 465
-        isCached: true
+      name: The Conversation
+      domain: theconversation.com
+    quality: 32
 
 secured: "APD42FqcaPyHHpmklXynThcjEvIHwJs2VJDVJPhupCnt+VbAbieca7N5BCgvO9gYXj1LYIS56l7IE2a+wEx2B75EhmWaQPACDe9zAArRfIFPraJecXkVc7AUES4fvcS2Qz+AqqM69eaTM22skOo08iLQLzSy5zF+wqN58Kbk005LnRMm8JpimYNx+p/fBU/wWsTdUGTvgQP6JtuU6vTmxYQmQyrw5P7A4Nc24tOaSh0OqQTkEOWtB9HzDpc01WIuoj3eaZApLKBq8gGJTKsfOscy+Li+r4tOHxQYr6uDWP7YaVI2RZZ4j5ZgODeE8MIEzPitzvh3GsYjKJaWs55oKYDzrgLnt6Oj+yn4FePgL99HNwsW0/Mm/VDAaztWFqUIn80GkbdX1ER0nkWOOLFFR0zk3B1uqzeG62u8huuKP+7fbJoKJcDfRODKEnoXpruGyKdfCMWd+gVDXf9LHKsSqYaTKIlCT1D17OeA4QD8jtELWGoxvqeS+agaBimYXijZtRBprKSi1BAJGVRItNiGZg==;Sjb4kh4uBkDwy79y0THUtw=="
 ---

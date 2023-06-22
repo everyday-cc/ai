@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
+    excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget"
+    publishedDateTime: 2023-06-21T23:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/health-tech-startup-outbound-ai-completes-16m-raise-to-accelerate-growth-of-ai-agents-performing-administrative-tasks-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Outbound AI closes $16M seed round that includes KCRise Fund"
     excerpt: "It’s filled with the kind of talent that Outbound AI needs to grow. The startup expects to make more local hires in the future in sales and marketing as well as in client success and product development."
     publishedDateTime: 2023-06-21T19:18:00Z

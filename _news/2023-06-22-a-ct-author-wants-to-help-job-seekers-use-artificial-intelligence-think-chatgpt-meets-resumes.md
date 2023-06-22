@@ -40,21 +40,35 @@ related:
         width: 980
         height: 490
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
-    publishedDateTime: 2023-06-21T17:23:00Z
-    webUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
+    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North"
+    publishedDateTime: 2023-06-22T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education-2023-06-21"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Although Google has consistently positioned itself at the forefront of AI development, a significant milestone was reached with the introduction of ChatGPT. (Bloomberg) Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI)."
+    publishedDateTime: 2023-06-22T15:14:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-and-google-rivalry-could-supercharge-development-of-ai-71687372473426.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg"
-        width: 1356
-        height: 668
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/22/1600x900/ai_1687405451710_1687405455307.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
     excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
@@ -69,6 +83,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/accenture.png"
         width: 1600
         height: 896
+        isCached: true
+  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
+    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
+    publishedDateTime: 2023-06-22T15:34:00Z
+    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 63
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
@@ -170,6 +198,6 @@ related:
       domain: financialexpress.com
     quality: 34
 
-secured: "lO1sYxNE1ZtmiZuv29I/yztY8BcSAf/uy3s380Mj4yJ+jBoVxHkouOlHRIlMvkorVFR5QT3inGREam+9ZPMSNzRjMHL/h/tbIQVbqdrHPBMsd0sqRK0hVGRq9l5W4PfgySyxUG4/OsCB1hxYlpZQ2u0hP1slitr/SwWn48c2bBJj306WQI5GTxED9Z2J0kvVIN0plvp4HxfgWCxSA4wPzNJ6HR/6KJs1SbVzOxZSRWdvYLAd89i5iRT079TICBxEm5QOoemLK8UP+omHv07I8t4lr47eZZQgem5Qw92l9BkhGuiUwqcMOqIP+UQI9nbteuA7Zxw9GakbLwuMP41MCu4Eoo5xvE4kwBaP/P3Jcxg=;KEHiEbFqDfKp0AmOpKyGPw=="
+secured: "jCp8ikFko2U+lolz8kx0CLVNGZuZAQ5t6arl7v/Y5+sPQTfSy+JWPFOk6ETWLgSFLHW/saFZ570rpA7IVyo2boJCpj1EEU7etQlRGXMgAgQ1c+rogVNTkA+iT914y0/BBl302BmhfBhi/yBZlJDRP439A3IroWC2bU/9+fXrn97PYO0YosmbnsabzNVUs8nlc0FESDfdH+9WWvmYpIS08+PBzcsGCO8deoNCjO3uMvrEWG2uQZ+a9OfLPLldRBIfel+UmA03PtYV03iinVfV2MEvjdY1RuxrBhL0uGM2Z77HL2BdjYAttS01KIhfv9fBIXvJD5OB+yhehkc9Xtb3kBBLhOKQfwSEIg83I5Mkrxbqsr37h0dbk0SOKFHm0BBk3aNLDaV9Iw3zhGOf5jr7KMFDaY99aFmXthUdyk0ZlMYP43kUQHkonpOb3nApqwpfmLZSPc8OaK54DTjO7eMjn2BdD+uhnAPyaBJH73lWc5ZWRpnqMnK+JJ8HWq4CXo17Q+deeu6hgoq0POwXJxsmFA==;R37qY0ULSHyWN97QarPnBQ=="
 ---
 

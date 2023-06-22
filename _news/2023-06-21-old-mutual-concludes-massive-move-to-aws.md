@@ -7,7 +7,7 @@ originalUrl: "https://htxt.co.za/2023/06/21/old-mutual-concludes-massive-move-to
 webUrl: "https://htxt.co.za/2023/06/21/old-mutual-concludes-massive-move-to-aws/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Old Mutual Completes All-In Migration to AWS"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-22T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Old Mutual shifts entire IT infrastructure to AWS"
     excerpt: "The move, to Amazon Web Services (AWS) – the world’s largest cloud computing provider – will allow Old Mutual to “accelerate innovation, reduce IT infrastructure costs and harness machine learning to deliver more personalised customer experiences”,"
     publishedDateTime: 2023-06-21T07:51:00Z

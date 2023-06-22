@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Global X Etfs: Artificial Intelligence, Robotics & Automation, And Mobility Are The Key Investment Themes For 2H2023"
+    excerpt: "while labor (onshore and offshore) continues to be more expensive over time, robotics costs have declined. this dynamic alongside improving technology is driving the case for adopting automation. mobility - electric vehicles the adoption of evs is the ..."
+    publishedDateTime: 2023-06-22T12:01:00Z
+    webUrl: "https://menafn.com/1106484719/Global-X-Etfs-Artificial-Intelligence-Robotics-Automation-And-Mobility-Are-The-Key-Investment-Themes-For-2H2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+
 secured: "KIWmE2WmkbO6+VBhvDsoxdoPSzry+1Szx+IUzmTTXHLPVpr+jh+0+n+wzLCdCA6W3PLFjfCuNuhiOkT9rvDqwa7PIHcoy5/tNE7OB20m911yzSj8eNJFfND+nUyL0DQO1mY6gFyTlJ1gKb8OmJMDa969D03VcV5ne7iNihNrU1OwBpvSwwt+GegId6XR6cUTU8iDhTNe2lF3KEsMAloL/AQ+NSBHakL4K/5YB/sYWKfNVWQ90L5tdRL2Ckc2ZWcnQJCkzWnO/HrTkyyhQjjV7IlYp/GkWPkBBX4rKwPhJ/UHqC0x2BypSd5UxcJYT/XHkm+Scwk0LaYoqHhYI7sUZThDV4L8Otg1EYmTPJuCg6PtvKIFUnLnURKz+h8f+Cv03wkey1AUfB3LSeM9wj8JT7A3cGo3RD2Qg8YLkWVQOvmDrb5JczzbVJOuasw8Q74WMzgaXpa7FMwiVAAwvsrT++pRE2kYtgQCYcyzos2w092/eaXl5YxN34a5BrRW6F1JifNSYmK5FbYxE76ms9+iFA==;yN3mo4v6THBTo6YceV1++w=="
 ---
 

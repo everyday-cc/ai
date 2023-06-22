@@ -1,0 +1,34 @@
+---
+category: news
+title: "Global X Etfs: Artificial Intelligence, Robotics & Automation, And Mobility Are The Key Investment Themes For 2H2023"
+excerpt: "while labor (onshore and offshore) continues to be more expensive over time, robotics costs have declined. this dynamic alongside improving technology is driving the case for adopting automation. mobility - electric vehicles the adoption of evs is the ..."
+publishedDateTime: 2023-06-22T12:01:00Z
+originalUrl: "https://menafn.com/1106484719/Global-X-Etfs-Artificial-Intelligence-Robotics-Automation-And-Mobility-Are-The-Key-Investment-Themes-For-2H2023"
+webUrl: "https://menafn.com/1106484719/Global-X-Etfs-Artificial-Intelligence-Robotics-Automation-And-Mobility-Are-The-Key-Investment-Themes-For-2H2023"
+type: article
+quality: 26
+heat: -1
+published: false
+
+provider:
+  name: Mena FN
+  domain: menafn.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023"
+    excerpt: "SINGAPORE - Media OutReach - 21 June 2023 - Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook.Jon Maier, Chief Investment Officer,"
+    publishedDateTime: 2023-06-21T12:45:00Z
+    webUrl: "https://www.asiaone.com/business/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-key-investment"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
+
+secured: "+3GRDnX2wRxSegTcflF5cqKmADVn5HRPsCFzvRtu/kCdSY/17wRVRBDKFsHk3vLsGXr2plA67PLt33+REx1eZ+zYYFEzvEqQDDPRnzWor8QCVdlNQTMkRDaWnVQUc6VQC7HGaZcKxl5YXOIxtq72qrJtSD0Gcz/FYQ9xO8lWrqFi00edtQy48HeVT4phqMUD/5pqdIyVLHbIoWKunzvbuJXbsIyT98pmfGoOELwK7xn87992oP9JW4QEEfwuzZSOryNxFavdaBU7sXfxQJ8wGcpwwdVTN1ht9ezHWhUZclU2KjwR8ghuPFa5wAFO4xq/AispoqClbEjocw7DZD8DqJJ7BX7FJV2kW6SciHjZVDQ=;t0T1dUo6k3M1VtzuuzMpkw=="
+---
+

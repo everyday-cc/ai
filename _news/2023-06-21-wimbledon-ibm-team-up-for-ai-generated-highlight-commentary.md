@@ -41,6 +41,20 @@ related:
         height: 602
         isCached: true
   - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
+    excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology fromIBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon In a first for tennis,"
+    publishedDateTime: 2023-06-21T23:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
     excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology from IBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon"
     publishedDateTime: 2023-06-21T05:44:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
@@ -81,15 +95,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 17
-  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-    excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to understand which players to follow, how they compare to ..."
-    publishedDateTime: 2023-06-21T19:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330604&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 8
 
 secured: "Ic35tABcUmUwA2vp+AS8YSZYRD3MR0DR4rWsxhd5NBCeCy99Iw6tw5Fo6B9NvZjoBzfUXGgj1Pjjls/q4uhfTn/s5QQKjhmDyPrIfE7Ubr9umwagI2AZyk/VZwLgCNXRiQrlhY6OW5CBVCfQ6q4KyRyy70b6NWWMrGSQsVG16ptj/4+5ZPQF+1psQQ98iPSMvEnrR9dbhtGMiip7qxA8iUmYyKYMTqfmgpuDx3EdCdGP+HORbc0fE8dyaPbpHM0Wy3Yar0dHJzWqUcQ8agjkUPwQM2y8BtJeBlDuflD7iiNufO7KFj5mggNfCRFzm97UeGL4dxYFGtAB0tEsKXXH1Jx3H1G8gmQJw3ORKkBPmh0=;wg63J4MhLy2I/BwA8WgrHQ=="
 ---

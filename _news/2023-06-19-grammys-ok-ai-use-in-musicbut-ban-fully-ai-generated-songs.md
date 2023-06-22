@@ -54,6 +54,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
+    publishedDateTime: 2023-06-22T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Grammys' New Rules: AI Can't Win Awards"
     excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
     publishedDateTime: 2023-06-20T19:25:00Z

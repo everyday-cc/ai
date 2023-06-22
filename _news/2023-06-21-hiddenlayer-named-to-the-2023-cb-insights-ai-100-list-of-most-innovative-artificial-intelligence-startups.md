@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
+    publishedDateTime: 2023-06-22T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Argilla Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Argilla, maker of the first platform that empowers enterprises to build production-ready natural language processing (NLP) solutions with a unique data-centric labeling platform, announced that it has been named to the 2023 CB Insights  AI 100 ranking,"
     publishedDateTime: 2023-06-20T13:55:00Z

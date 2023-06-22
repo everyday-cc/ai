@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-prag
 webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1198
         height: 685
         isCached: true
+  - title: "In the AI arms race, Metal aims for enterprise dominance with $2.5 million war chest"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Metal, an artificial intelligence startup focused on enterprise applications, announced today that it has raised $ ..."
+    publishedDateTime: 2023-06-22T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/in-the-ai-arms-race-metal-aims-for-enterprise-dominance-with-2-5-million-war-chest/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
 
 secured: "pH6XensudGM9e0jfk6rCA6ITSNQao6m4R/s2Mm4625fuRWJFpOkzbpOUZrdAJ+7hDLaz+YliLGaRcdG9+HdA1Vz+ccx13H8CDVLA25IGverk0W3yG/P7/L1C1+DdqiAWGiNoDyoSjzqd1A8kYNsgzwobNYKuSBoEMa4r2o/Mf3W6sYQoaJ6eGix8ai7fasSvHHRGARSWhALjWxVEDGTrq0P8UtbVNwF+xRJCF5/P/4OLTska+/frYo5SWC49RWsGXR5qJh/YsxAY+c4Yt0wclRJo3H8Picfpktml7q9uh6qQqoS2zsoXRxZ02cClBPmobyAyWtrFKWNYDcVuQdb0u/Zr0L1aMb+52lmaT7fRzUcuFOznxHa30kCjD+5PEIb+y2O44AViEtm06j0B0PlGBLiEizs+/tIkpicFUJ4c2efIxbTT1nGKymmvljdIgDCOSPN8yOwqWTzWIB8RvKoToW+4Ge/tWffdh1xmXdEDOcMVd6as+Z6dbLNEk/sqpoD4/xSgcV3AQKl9zq34QQLIxw==;T3ghuWBp5RmekEf93bv9Zw=="
 ---

@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
+      "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
+      "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png",
+          "width": 1063,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T09:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-patrick-mahomes-i-think-were-deep-at-receiver.md",
+      "title": "Patrick Mahomes: I think we’re deep at receiver",
+      "excerpt": "The Chiefs lost two of their key receivers from 2022 to the AFC East, as JuJu Smith-Schuster signed with the Patriots and Mecole Hardman signed with the Jets in free agency. But the group that ...",
+      "sourceUrl": null,
+      "webUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "originalUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/05/GettyImages-1257802297-e1685454590347.jpg",
+          "width": 870,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "cdnAmpWebUrl": "https://profootballtalk-nbcsports-com.cdn.ampproject.org/c/s/profootballtalk.nbcsports.com/2023/05/30/patrick-mahomes-i-think-were-deep-at-receiver/amp/",
+      "publishedDateTime": "2023-05-30T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Sports",
+        "domain": "nbcsports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nortons-new-super-naked-cafe-racer-is-highly-saucy-way-too-pricey.md",
+      "title": "Norton's new super-naked cafe racer is highly saucy, way too pricey",
+      "excerpt": "Norton has made good on its threat to turn its slinky V4SV superbike into a cafe racer – without neutering its rorty 1200cc V4 engine. The new V4CR carries an absolutely brutal price tag, but a ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "originalUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b438591/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2Fb7%2F272f2e404139a49750dc2dcb84b0%2Fv4cr-video-thumb-01.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-destiny-2-season-of-the-deep-guides-season-pass-gear-exotics.md",
       "title": "Destiny 2: Season Of The Deep Guides, Season Pass Gear, Exotics",
       "excerpt": "GameSpot may get a commission from retail offers. Destiny 2's second season of 2023 is here, and after Season of Defiance kept the action focused mostly on Earth, Season of the Deep shifts the ...",
@@ -1226,156 +1373,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
-      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
-      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
-      "title": "Nigeria election: The mystery of the altered results in disputed poll",
-      "excerpt": "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/65163713.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/65163713.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/65163713.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp",
-      "publishedDateTime": "2023-05-16T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Size, Share, Demand, Growth Analysis 2023 to 2030 | 3M, Linguamatics, Amazon AWS",
-      "excerpt": "Download Free Sample Natural Language Processing (NLP) in Healthcare Market report  The Key companies profiled in the Natural Language Processing (NLP) in Healthcare Market: The study examines the Natural Language Processing (NLP) in Healthcare Market's competitive landscape and includes data on 3M,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

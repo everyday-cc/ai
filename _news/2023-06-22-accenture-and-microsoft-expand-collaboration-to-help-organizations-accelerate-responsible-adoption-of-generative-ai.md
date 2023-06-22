@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
-publishedDateTime: 2023-06-21T20:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+publishedDateTime: 2023-06-21T19:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
@@ -34,6 +42,22 @@ related:
       - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
         width: 480
         height: 480
+        isCached: true
+  - title: "Mass adoption of generative AI tools is derailing one very important factor, says MIT"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T13:57:00Z
+    webUrl: "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b446c678a6eb546fbd070ce6bc4ba57c69295bd5/2023/06/21/3f7e444c-0a07-480b-8322-b35c465daabb/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Toyota Is Using Generative AI to Design New EVs"
     excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
@@ -79,6 +103,6 @@ related:
       domain: manmonthly.com.au
     quality: 19
 
-secured: "XB0koKXiZs2PJT8QBqxUPV6sdo4VHTXkVWMrciHxzqfOb86vzMYG6Na07V2OKdXJ5PB/T4ySx/S888M/lDZmTUGVO+HPOfY8GTjP/2UN9bPpUq3Aiu+yrZL2+0owyIpP3NU421zZG4bVQn2eiLyowpWPhT+B25PkNQNN5XgNOoee8dxNaBLubMMmmTsNukoxGIFB7odz/IIe3drWLwYhWNhYQXBAmQorrntGIOVohjoH8vy0ZPEXRKayAB2yMeIQG4ZWewWnspxgniN/rydy+5iKnVVCRcnYPkDpwtpW0uj39OMTJ28kB4LWpk3REPh+PW+yuHHmmdfha73QVfK63m9BEKKHDKEw+YGhii6Msu61Q5z3xJ5wPAtsDnQ7/gjRaLaf+z33U6yXd8NcBE3M5QZI3nvIPLkDCnkbvCNTPsEQ4hYcDGi6sppcJJK60x3QyMDIKHHQyRju7Yt4srg9mJ3M53HZ8E9c6RIqRnL9ddL6SIDQD4+CrD0QZUfPDmxg+3kruyhLcZarklyYY3acCg==;yWhLr4m5Myij0SnGLht6uw=="
+secured: "h7m+XY6TLoRjYZyoOBHeDNU29k6Bwyz02+lAAmy+FVfv4zRR9d+v9VnaJz/ldVEmfYPTS/zyTgCXsOt/TYOJWEDuC2l0amJ82yrYHsWPsyfY57dAxD8r0qaMTXLYnvyj5f7rlFdX7wPXFt8LjL2DPDEPBNqptJxkFPGiYvBMA1WclsZReaTP9etz97B5lZmvq2aiRVPhQPE0+uDe9wJa7jVISrKEovHVB8SFs7blwPYvdm+7W/y6N6vtTQVvSmD0fovfH9sSrr0GEcUvZ32akvHr1BbVwVTgTYPtls3JpYkQBVkJU8nDMhMXl/ZgMyS5jcPgRoqvCqIXk5s30Yc7n+jhx2fN4MSKoUENjUY2veM=;1EfDQV1K54kBsDUVQJgsAw=="
 ---
 

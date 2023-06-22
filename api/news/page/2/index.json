@@ -2,6 +2,395 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-22-take-the-lead-with-ai-and-machine-learning-skills-from-msoe.md",
+      "title": "Take the lead with AI and machine learning skills from MSOE",
+      "excerpt": "Today’s leading companies need professionals with machine learning and artificial intelligence (AI) experience to process data, make predictions, inform",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "originalUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/msoe_innovation_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "publishedDateTime": "2023-06-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
+      "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
+      "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "publishedDateTime": "2023-06-21T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
+      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
+      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace.md",
+      "title": "Ekinops Offers Direct Routing Voice and Security Abilities to Microsoft Teams Clients from the Azure Marketplace",
+      "excerpt": "Ekinops is available on the Microsoft Azure Market place. Telecom service vendors can benefit from developing their voice services.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/06/Ekinops-Offers-Direct-Routing-Voice-and-Security-Abilities-to.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "publishedDateTime": "2023-06-21T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations.md",
+      "title": "Use the AWS CDK to deploy Amazon SageMaker Studio lifecycle configurations",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). Studio provides a single web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. Lifecycle configurations",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/21/aws-cdk-sagemaker-lifestyle-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:26:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-boost-agent-productivity-with-salesforce-integration-for-live-call-analytics.md",
+      "title": "Boost agent productivity with Salesforce integration for Live Call Analytics",
+      "excerpt": "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png",
+          "width": 1018,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:20:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai.md",
+      "title": "A thorny question: Who owns code, images, and narratives generated by AI?",
+      "excerpt": "Developers and business people need to better understand the legal implications of generative AI, a new study from Stanford University urges. That's because a wave of court cases may be coming, and the code, language, and images generated through AI may potentially be based on copyrighted material .",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/",
+      "originalUrl": "https://www.zdnet.com/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e0a2f93a891bdaaac0f67690dc03836f480f109f/2023/06/16/765b5039-fdff-4d3c-b9a3-054ba219016d/gettyimages-1490352690.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/",
+      "publishedDateTime": "2023-06-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-european-uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.md",
+      "title": "European Uber rival Bolt will deliver food to your door via self-driving robots",
+      "excerpt": "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "publishedDateTime": "2023-06-21T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-what-is-data-center-management.md",
       "title": "What is data center management?",
       "excerpt": "Data center management encompasses the tasks and management tools necessary to keep their private data centers operational, secure and compliant.\nThe post What is data center management? appeared first on IBM Blog.\n",
@@ -385,6 +774,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-ai-is-revolutionizing-healthcare-but-for-whom.md",
+      "title": "AI is revolutionizing healthcare… but for whom?",
+      "excerpt": "Guillermo Pepe, Co-Founder and CEO of Mamotest, elaborates on the opportunity of using AI to expand access to healthcare in new",
+      "sourceUrl": null,
+      "webUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
+      "originalUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://impactalpha.com/wp-content/uploads/2023/06/Mamotest-Argentina-patients.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "impactalpha.com",
+        "domain": "impactalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.md",
       "title": "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool",
       "excerpt": "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience.",
@@ -393,7 +826,7 @@
       "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -661,6 +1094,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031.md",
+      "title": "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031",
+      "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
       "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
       "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
@@ -702,516 +1187,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan.md",
-      "title": "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan",
-      "excerpt": "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png",
-          "width": 908,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-hacker-claims-tesla-full-self-driving-has-secret-elon-mode.md",
-      "title": "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'",
-      "excerpt": "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
-      "originalUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg",
-          "width": 1600,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-tusimple-tests-removing-human-driver-from-self-driving-truck-in-china.md",
-      "title": "TuSimple tests removing human driver from self-driving truck in China",
-      "excerpt": "TuSimple is doubling down on its China business after completing a fully autonomous \"driver-out\" truck run in Shanghai.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
-      "originalUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
-      "publishedDateTime": "2023-06-20T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-intel-branding-change-spells-new-era-for-ai-hardware.md",
-      "title": "Intel branding change spells new era for AI hardware",
-      "excerpt": "Meteor Lake CPU releases will mark the end of Intel's \"generational\" naming system. Plus, say goodbye to \"i\" naming for client processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr32423-intel-sign.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators.md",
-      "title": "Reduce energy consumption of your machine learning workloads by up to 90% with AWS purpose-built accelerators",
-      "excerpt": "Machine learning (ML) engineers have traditionally focused on striking a balance between model training and deployment cost vs. performance. Increasingly, sustainability (energy efficiency) is becoming an additional objective for customers. This is important because training ML models and then using",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-energy-consumption-of-your-machine-learning-workloads-by-up-to-90-with-aws-purpose-built-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/ML-13388_inference_experiments-1122x630.png",
-          "width": 1122,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:38:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-databricks-marketplace-expands-with-lakehouse-native-apps-ai-model-sharing.md",
-      "title": "Databricks Marketplace expands with lakehouse-native apps, AI model sharing",
-      "excerpt": "Databricks Marketplace is getting bigger with new lakehouse-native applications as well as AI models shared by third parties.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-marketplace-expands-with-lakehouse-native-apps-ai-model-sharing/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-marketplace-expands-with-lakehouse-native-apps-ai-model-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/data-lakehouse-OIG-1-e1681745881369.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-hpe-discover-2023-greenlake-enters-the-ai-market-with-llm-cloud-service.md",
-      "title": "HPE Discover 2023: GreenLake enters the AI market with LLM cloud service",
-      "excerpt": "GreenLake for LLMs was created in partnership with Aleph Alpha, a German AI startup, which provided a pre-trained LLM called Luminous. The Luminous LLM can work in English, French, German, Italian and Spanish and can use text and images to make predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
-      "originalUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg",
-          "width": 794,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse.md",
-      "title": "The AI voice-generating platform that shocked the world is getting an update to fight abuse",
-      "excerpt": "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
-      "originalUrl": "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/",
-      "publishedDateTime": "2023-06-20T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting.md",
-      "title": "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting",
-      "excerpt": "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/",
-      "originalUrl": "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

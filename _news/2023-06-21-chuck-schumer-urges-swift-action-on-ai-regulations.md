@@ -118,6 +118,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Schumer’s AI game plan, by the numbers"
+    excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
+    publishedDateTime: 2023-06-22T13:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2023/06/22/schumers-ai-game-plan-by-numbers/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "BUnRWX7Y4iDCLmQYeTqzLYdPoLu90MY3ytLWOP9zS8N5NWEOWqwpCR7nRdMHvTfsSKjyQJaHX7saxGBrMoxAr8RgzwzMl3zONhqVDl8IYWv425mSQLVQa2KXCAN0NS+bDEy9KoWcGgSQPZ191qVe5xbtuRaaGuLmzB/uYWxKqHyjZcmqAs1i9by331TTxMnNniLEJGXdqT8Y4i+naD2rdffW+YYIKlnc+vVqNg+36KAQHZvW3ts3YZ8o0LShh8OBJPxYU8PIzaFkC+PN4vImXBaunAJEG3OD6a/GVG4YreHWyRDRksSb4aRsZRsjtMjE2+AmrO4FpLXCUD9xDv7Fw+g6yBJlKSqbPOyiGy1+C8dQ1Qv4gOkppM3wfBE+5cEHBUaA4sOHh3mHhkn6ERR2rt3mcuR29Ial0UOvtf5Qy2MEqD4EZ+/ctRVJbGrSvI0Ueitu4oArmh2bl0eLEunAvSu4WkYavD5TKrlaKshyB9tuxHGq7xPjr7VEL7BNtI2cb+bLcJGXMzU9ykovi/Dtdw==;r8sm8YkY/+cMp6A2BiY+Bg=="
 ---

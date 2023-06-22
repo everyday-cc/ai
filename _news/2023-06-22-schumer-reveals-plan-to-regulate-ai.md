@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Schumer’s AI game plan, by the numbers"
+    excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
+    publishedDateTime: 2023-06-22T13:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2023/06/22/schumers-ai-game-plan-by-numbers/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "ropOXh916ExKB+vHgOlMrtXJZFHB0Z+O4U2ITIfJN4zhS18nb9qEnrPJ+bqtwMePXGu43bv8Z6KiLSSYQfkE+OZkUovP3ihUxx4u7KDfvDF+S3gjAkYWbnJrRfwbu5PDEXcqhnioQHsESxH8ew5w2PLF7jFU0HxA5V00GFS845iUuGgaNLi4jCxqWtYLOVePCQEvcgcs+Rq3Nh7RZxxIIdq/w0h+Z8wXXP2GJlKK5+r2N2pYvkVuvmQoYA0a1mX663qrE45qJj3bal57yxzx0JNrA6Z0MmkAkPhznup9n75ueD2JVM0MvHjpRWD8UiJODYUv4w0Mu+fNMeESOaAV0VFFpNyv1pUy3xx92aaKTZv4f6gw2R8v1oJxyCERLh+8AT/rPIa4GD15g4R4U4fURmwwiy+Q9hcBXwoXNxQpu2YL6WiHjifeCJnYCMK3cLV3OKu8Shj+pxSdyjCCC6NFK2yOo59u5+z+qjOEpHGlfohsNvhxAdAAhBtT2Y/BUbj6zoZXhEIs5CNEsLc6S3luSQ==;ehiVvv2FypoB5yARUjda3w=="
 ---

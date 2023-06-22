@@ -38,6 +38,38 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "Mass adoption of generative AI tools is derailing one very important factor, says MIT"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T13:57:00Z
+    webUrl: "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b446c678a6eb546fbd070ce6bc4ba57c69295bd5/2023/06/21/3f7e444c-0a07-480b-8322-b35c465daabb/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
     excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
     publishedDateTime: 2023-06-21T14:20:00Z
@@ -72,15 +104,6 @@ related:
       name: Manufacturers' Monthly
       domain: manmonthly.com.au
     quality: 19
-  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
-    publishedDateTime: 2023-06-21T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "0uSiTJOMz87fxYBuq+9YKpruOSbDOt17kz0ly4fqKBY6Zbu2SYCg9BM7a8b3f72bgc3hWv7fbnxTKx7acSsk5WwvkS2AX3OgBVWFIXjK/TVL+9CE8DlzYaWhZ1LqZxk5M+Lb+3ca41D6XeDAnwZR75LENVJUQ7Mmygk/ZpCg/VwNKq1MMOx6O+4L99r5bwDPiyNNQN9ox9DMHBu5wSHAcn2fFmMXafY5AyRchTXwi2VLBroHDVW7V2bkgvtfdaV9NgiCi+NCcpnXAq9iLl9W/WUwUyZ4smNJBMYo2AElW3ffwrRMEaS7k74pSmTzqwfFMjp+Lkc6J1WvPLPweKlkFWzPMcpa8sHVDxfLzuuPkgyfz/WjW4+GwDiXB1gOUTENSXO3rfI1WoHEn3ThinKdtkRBm/BQvFzlN6cEhCnwXqiz1khspS6z0DtEneSYlly7GRK0odCOInGbHKLTPG419ytR2ZXmOZcD8HgqUarAksJWZr5M4PKG3a9nrnxSOwZSigGDu80mrD+YYiztzF6G0Q==;l31KjCC5bgdNUz+hdHDhkw=="
 ---

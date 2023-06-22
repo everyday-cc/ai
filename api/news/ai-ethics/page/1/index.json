@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-22-military-ais-next-frontier-your-work-computer.md",
-      "title": "Military AI’s Next Frontier: Your Work Computer",
-      "excerpt": "Military-grade AI was intended to target our national enemies ... Gabriel Grill is a researcher at the Center for Ethics, Society, and Computing at the University of Michigan. Christian Sandvig is the Director of the Center for Ethics, Society and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/military-ais-next-frontier-your-work-computer/",
-      "originalUrl": "https://www.wired.com/story/military-ais-next-frontier-your-work-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64938a430a0f9ed43773f101/191:100/w_1280,c_limit/ideas_worker_surveillance_military_ai.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts.md",
       "title": "Widespread adoption of generative AI tools is derailing responsible AI efforts",
       "excerpt": "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ...",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -103,6 +51,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-ai-is-revolutionizing-healthcare-but-for-whom.md",
+      "title": "AI is revolutionizing healthcare… but for whom?",
+      "excerpt": "Guillermo Pepe, Co-Founder and CEO of Mamotest, elaborates on the opportunity of using AI to expand access to healthcare in new",
+      "sourceUrl": null,
+      "webUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
+      "originalUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://impactalpha.com/wp-content/uploads/2023/06/Mamotest-Argentina-patients.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "impactalpha.com",
+        "domain": "impactalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -166,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -220,7 +212,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -350,49 +342,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-19-yin-and-yang-of-ai-balancing-innovation-ethics.md",
-      "title": "Yin and Yang of AI: Balancing innovation, ethics",
-      "excerpt": "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize",
-          "width": 740,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192",
-      "publishedDateTime": "2023-06-19T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
       "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
       "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
@@ -476,6 +425,58 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-data-and-ai-ethics-market-insights-2030.md",
+      "title": "Data and AI Ethics Market Insights | 2030",
+      "excerpt": "Jun (The Expresswire) -- \"Data and AI Ethics Market\" is segmented into Regions, Applications (BFSI, Government and Defense, Healthcare and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

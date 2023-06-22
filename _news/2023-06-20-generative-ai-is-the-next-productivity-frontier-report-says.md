@@ -19,20 +19,100 @@ topics:
   - AI
 
 related:
-  - title: "Military AI’s Next Frontier: Your Work Computer"
-    excerpt: "Military-grade AI was intended to target our national enemies ... Gabriel Grill is a researcher at the Center for Ethics, Society, and Computing at the University of Michigan. Christian Sandvig is the Director of the Center for Ethics, Society and ..."
-    publishedDateTime: 2023-06-22T11:00:00Z
-    webUrl: "https://www.wired.com/story/military-ais-next-frontier-your-work-computer/"
+  - title: "Generative AI: The Next Frontier For Business Innovation"
+    excerpt: "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ..."
+    publishedDateTime: 2023-06-22T14:49:00Z
+    webUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/64938a430a0f9ed43773f101/191:100/w_1280,c_limit/ideas_worker_surveillance_military_ai.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 764
         isCached: true
+  - title: "Yin and Yang of AI: Balancing innovation, ethics"
+    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
+    publishedDateTime: 2023-06-19T07:30:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 888
+        isCached: true
+  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
+    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
+    publishedDateTime: 2023-06-21T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial intelligence is the new frontier... in election misinformation"
+    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
+    publishedDateTime: 2023-06-19T21:53:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+    type: article
+    provider:
+      name: WUSA
+      domain: wusa9.com
+    quality: 56
+    images:
+      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Safeguarding Healthcare Data in the Age of AI: A Critical Imperative for Healthcare Executives"
+    excerpt: "This article explores the imperative for healthcare executives to fortify data protection efforts, delves into the unique challenges posed by AI"
+    publishedDateTime: 2023-06-20T02:14:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/32459-safeguarding-healthcare-data-in-the-age-of-ai-a-critical-imperative-for-healthcare-executives"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 42
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/4938da019dba46f08d9c3be1946ae1d8.jpg?t=20230620_020455"
+        width: 1126
+        height: 550
+        isCached: true
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
+  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
+    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
+    publishedDateTime: 2023-06-22T13:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "wRARff11hgoSjN8XKnVhdGtxK8SVW59eo2Hp+8IWIy199R0TNz1gmC3TqIehYg1/50j7CtL1phBGrUziSQP4KxrQJ79vpauKe1tzzNjM9UA1NPMD/WrVW222ed1+Vv/JIG1lYrTEbr3GWQazHOd4QJjFKRj9ch1lU1j1hctmozIk24HkAJErMTEsWKqJLRmungvGMd65HUEoC364h4V/7dsOdbLhKu/dp0UqDTJPuFW7/YxPku7+7B9eJ4n9aBVpoDrIQiNu8RcwYBf5iIv8o3nlqSCZmOWghBKcDkrVw0kdmb0VH856dzq3258yPoDGXDpEN5zM768ABX9zButgTWlAufZQWuJJyvOTFiHFnrniEzwZ4p4ZWhWN4V5mBwOsWLob5q2MDmhM+9Gfh39aLvwLHobEvp1NtSRsxSZoo/Jpzf8ZV+BFTL4/cU4O5RSmK/3NEjGxJeSum9rj4bT1CCw3jbEPzenCG9VdBscODYR2+Wf+gcNdzVvRl8U8JUxgLDti53mGOVeV70SGtVGQnQ==;c8RLfAPhcYIxkbaLTFTOXg=="
 ---

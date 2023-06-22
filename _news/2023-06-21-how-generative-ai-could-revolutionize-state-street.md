@@ -78,6 +78,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "Q&A: DexCare CEO on raising $75M in a ‘rough’ market, using generative AI, and more"
+    excerpt: "We didn’t really start looking at this seriously until April ... Can you explain how the company incorporates generative AI into the product? We use quite a bit of sophisticated, AI-driven decisioning in our platform now so we can ensure patients ..."
+    publishedDateTime: 2023-06-22T15:34:00Z
+    webUrl: "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/Untitled-design-20.jpeg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "OpenAI’s Mira Murati: the woman charged with pushing generative AI into the real world"
     excerpt: "The potential risks of AI software, especially as it becomes more powerful, are top of mind for policymakers and the business and research communities. Among these are challenges like the spread of AI-generated manipulation and misinformation. In the ..."
     publishedDateTime: 2023-06-18T04:10:00Z

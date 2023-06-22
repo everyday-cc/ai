@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/te
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
+    excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
+    publishedDateTime: 2023-06-22T12:42:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202306224093/canadian-tire-looks-to-microsoft-cloud-ai-to-modernize-business"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 34
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T16:00:00Z

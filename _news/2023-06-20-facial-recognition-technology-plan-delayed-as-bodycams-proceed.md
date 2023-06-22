@@ -25,45 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Gardai get green light to start buying bodycams from TODAY as Minister McEntee looks to progress facial recognition laws"
-    excerpt: "GARDAI will start buying up bodycams from today, the Irish Sun has learned. Justice Minister Helen McEntee is set to tell the Government today that An Garda Siochana is to immediately begin"
-    publishedDateTime: 2023-06-20T05:00:00Z
-    webUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/"
-    ampWebUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
+  - title: "Facial recognition cameras to boost security"
+    excerpt: "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,"
+    publishedDateTime: 2023-06-21T02:17:00Z
+    webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 49
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 56
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/06/Social-2023-06-19T214531.434.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg"
+        width: 750
+        height: 416
         isCached: true
-  - title: "Gardaí to get all-clear to buy body cams as Fine Gael rows back on facial recognition tech"
-    excerpt: "Gardaí are to get the green light to begin buying body cams after Fine Gael rowed back on its push to bring in facial recognition technology (FRT)."
-    publishedDateTime: 2023-06-20T00:29:00Z
-    webUrl: "https://www.independent.ie/irish-news/gardai-to-get-all-clear-to-buy-body-cams-as-fine-gael-rows-back-on-facial-recognition-tech/a1315187913.html"
+  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
+    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
+    publishedDateTime: 2023-06-20T19:20:00Z
+    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
+    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 29
+      name: NJ.com
+      domain: nj.com
+    quality: 47
     images:
-      - url: "https://focus.independent.ie/thumbor/8TmAVuNjhB4S7zG4gl5Hw7A_fRQ=/51x0:1949x1265/1898x1265/prod-mh-ireland/0934b862-0dbe-4efa-9ff4-cbea7d6068b7/1077ce88-28fd-45df-9bf6-e7f6693d3783/N%20Helen%20McEntee%20%283%29.jpg"
-        width: 1898
-        height: 1265
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
+        width: 1680
+        height: 971
         isCached: true
-  - title: "Angry reaction to announcement gardaí will get bodycams with facial recognition tech"
-    excerpt: "There has been backlash from the public following the announcement a standalone bill allowing the use of facial recognition technology (FRT) by gardaí will be brought forward by the end of 2023."
-    publishedDateTime: 2023-06-21T10:18:00Z
-    webUrl: "https://www.sundayworld.com/crime/courts/angry-reaction-to-announcement-gardai-will-get-bodycams-with-facial-recognition-tech/a1155720438.html"
+  - title: "New Jersey Questions Facial Recognition’s Accuracy"
+    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
+    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
     type: article
     provider:
-      name: Sunday World
-      domain: sundayworld.com
-    quality: 12
+      name: Governing
+      domain: governing.com
+    quality: 39
+  - title: "Garda body cams to include facial recognition but real-time use prohibited"
+    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
+    publishedDateTime: 2023-06-20T03:59:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cameroon launches video surveillance with live facial recognition in largest city"
+    excerpt: "The Minister of State, Secretary General at the Presidency of the Republic, Ferdinand Ngoh NGO, switched on the project on Thursday June 15."
+    publishedDateTime: 2023-06-20T20:07:00Z
+    webUrl: "https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "85Dsvu22Q/T8w+cuUd+9KxaUWmFN0JAVeQl7Z5SHMlIr++G5Q0A83taxMvlf+lBvfFy+rjMCC2BlQLlRlRG53rmVimAu+mlPmLka+b1JjJH0QAUb7i/jIg37cFGnENaibbiQkq9BtwTISNDqy2XacUR6bIAp3hYwsCsj0GUK3T+BVumTZQvqbEfcOBF2MrSIT46jrQ2qKnFvAsd5UXWur2WvqwFH9hCmilhWypNuZsO5bvaa/pvKf/ONaU5YBodsFjj0SKkHeAlqIvqoADhnwvkvS5mhg0XDtc7V5iMaDSwyUbjldR/+3qX51BoHITiT4FUTsJPmTUfTqUN8PqeS1SHDLg8Efpih8HxDXDiIBbRD405Ow//xTUQAmOeZBPaoak6yvUxnFdo0kk0WDi9qKxuzva8o6MXqfBqlkebxganhJBwbCtWWh1snTPPIPtkxyO990Ja+kcx/Vz9xCWMTZJVfMgW81Op8QaQTvwKuyJq9hvp8yzOmoD1PzMkxtJyx1YmZdR/du2Hok2ppZms0Rw==;VncYhBJZwbFvwWEaYU5jTg=="
 ---

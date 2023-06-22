@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Old Mutual Completes All-In Migration to AWS"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-22T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Old Mutual concludes massive move to AWS"
     excerpt: "Old Mutual has recently concluding a move to AWS that has been in the works since 2019. The move see’s Old Mutual shutting down over 2 000 on-premises services. The transition to AWS infrastructure allows Old Mutual to enhance it’s product offering by leveraging machine learning and artificial intelligence."
     publishedDateTime: 2023-06-21T09:01:00Z

@@ -54,6 +54,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
+    publishedDateTime: 2023-06-22T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grammys OK AI Use in Music—But Ban Fully AI-Generated Songs"
     excerpt: "A rtificial intelligence is permeating the artistic world—a fact the Recording Academy, the organization behind the Grammy Awards, is accounting for under their new eligibility requirements that restrict fully AI-generated songs but allow for its use in award-eligible music."
     publishedDateTime: 2023-06-18T17:23:00Z

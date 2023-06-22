@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,58 @@
         "name": "BBC",
         "domain": "bbc.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-autonomous-driving-ai-training-chip-market-research-2030.md",
+      "title": "Autonomous Driving AI Training Chip Market Research | 2030",
+      "excerpt": "Jun (The Expresswire) -- \"Autonomous Driving AI Training Chip Market\" Insights 2023 By Types (L3 Level, L4 Level, L5 Level, Other",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-driving-ai-training-chip-market-research-2030-2023-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-driving-ai-training-chip-market-research-2030-2023-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1292,41 +1344,23 @@
       "title": "Why Taiwan Semiconductor Manufacturing Rose on Monday",
       "excerpt": "However, management also noted very strong demand for artificial intelligence (AI)-related chips, and especially tight capacity for advanced packaging needed for 3D-stacked CPU-GPU AI chipsets.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
+      "webUrl": "https://www.nasdaq.com/articles/why-taiwan-semiconductor-manufacturing-rose-on-monday",
+      "originalUrl": "https://www.nasdaq.com/articles/why-taiwan-semiconductor-manufacturing-rose-on-monday",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/736092/robotic-arms-with-silicon-wafers-for-semiconductor-manufacturing.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T13:26:00-07:00",
+      "publishedDateTime": "2023-06-12T13:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1432,58 +1466,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-3-bipartisan-bills-aiming-to-regulate-ai-hit-congress-this-week-heres-what-we-know.md",
-      "title": "3 bipartisan bills aiming to regulate AI hit Congress this week: Here's what we know",
-      "excerpt": "Two bills in the Senate and one in the House were introduced to further regulate AI and ensure the US remains at the forefront of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "originalUrl": "https://www.zdnet.com/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a142c2f98b62d1d057e988f9cfb3200138c0d767/2023/06/09/19d82152-24a3-4883-b04b-e1a34492c3cc/gettyimages-1491432797.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/three-bills-to-regulate-ai-are-swirling-around-congress-heres-what-we-know/",
-      "publishedDateTime": "2023-06-09T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

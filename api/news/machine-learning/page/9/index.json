@@ -2,6 +2,320 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-17-deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robotics-software.md",
+      "title": "Deep Learning Robotics (DLRob) Announces Support for Universal Robots devices in its AI-powered Robotics Software",
+      "excerpt": "Deep Learning Robotics (DLRob), a leading provider of AI robotics software, has announced its support for new hardware devices in its latest software update. The new",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31824160/deep-learning-robotics-dlrob-announces-support-for-universal-robots-devices-in-its-ai-powered-robo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends.md",
+      "title": "GPU for Deep Learning Market Analysis [2023-2030] Understanding the Latest Market Trends",
+      "excerpt": "This GPU for Deep Learning Market report researches the key producers of GPU for Deep Learning, also provides the sales of main regions and countries. Highlights of the upcoming m",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2023-2030-understanding-the-latest-market-trends-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-posts-tagged-aws-artificial-intelligence-and-machine-learning-practice-lead.md",
+      "title": "Posts tagged \"AWS Artificial Intelligence and Machine Learning Practice Lead\"",
+      "excerpt": "Download this eBook to look at each of these trends to give you background on why AI and ML is so powerful today, how businesses are using it responsibly and to their benefit, and how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "originalUrl": "https://www.smartcompany.com.au/tag/aws-artificial-intelligence-and-machine-learning-practice-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/11/Smartcompany_Horizontal_Black_Logo_3000x4000px-e1668556442225.png?fit=3000%2C3000",
+          "width": 3000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization.md",
+      "title": "AI and ML: The new frontier for data center innovation and optimization",
+      "excerpt": "By implementing AI and ML, companies can create autonomous data centers that optimize a multitude of data engineering tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/ai-and-ml-the-new-frontier-for-data-center-innovation-and-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-machine-learning-examples-in-the-real-world-and-for-seo.md",
+      "title": "Machine Learning Examples In The Real World (And For SEO)",
+      "excerpt": "Learn about types of machine learning and take inspiration from seven real world examples and eight examples directly applied to SEO. As an SEO professional, you’ve heard about ChatGPT and BARD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-examples/483887/",
+      "originalUrl": "https://www.searchenginejournal.com/machine-learning-examples/483887/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/04/machine-learning-examples-1-643549b604e75-sej.png",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Searchenginejournal.com",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-analysis-the-era-of-deep-learning-is-coming-to-an-end.md",
+      "title": "Analysis: \"The Era of Deep Learning Is Coming to an End\"",
+      "excerpt": "Deep learning has dominated the field for several years — but may be on its way out. The field of AI has shifted focus roughly every decade since it began in the 1950s. Now, a new analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-end",
+      "originalUrl": "https://futurism.com/deep-learning-end",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2019/01/deep-learning-end.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
+      "title": "AutoML: the Promise vs. Reality According to Practitioners",
+      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
       "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
       "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
@@ -911,280 +1225,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-neural-network-market-research-report-industry-trends-size-usd-15261-billion-by-2030.md",
-      "title": "Neural Network Market Research Report | Industry Trends & Size USD 152.61 Billion By 2030",
-      "excerpt": "Neural network market is expanding as a result of developments in artificial intelligence (AI) industry & the growing cloud disruption in contemporary business. PORTLAND, PORTLAND, OR, UNITED STATES, April 5, 2023 /einpresswire.com / -- The global neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "originalUrl": "https://menafn.com/1105948164/Neural-Network-Market-Research-Report-Industry-Trends-Size-USD-15261-Billion-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-qlik-automl-augments-human-instinct-with-precise-machine-intelligence.md",
-      "title": "Qlik AutoML augments human instinct with precise machine intelligence",
-      "excerpt": "Qlik’s AutoML functionality democratises the use of advanced analytics by simplifying the process of building and deploying machine-learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "originalUrl": "https://techcentral.co.za/qlik-automl-augments-human-instinct-with-precise-machine-intelligence-insprom/224128/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-analyse-automated-machine-learning-automl-market-trends-2023-2030-insights-and-predictions-for-success.md",
-      "title": "Analyse Automated Machine Learning (AutoML) Market Trends 2023-2030: Insights and Predictions for Success",
-      "excerpt": "The Automated Machine Learning (AutoML) market research report spread across 114 pages and analyses the global and regional markets, providing an in-depth analysis of the market's overall growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/analyse-automated-machine-learning-automl-market-trends-2023-2030-insights-and-predictions-for-success-2023-04-04?mod=news_archive",
-      "originalUrl": "https://www.marketwatch.com/press-release/analyse-automated-machine-learning-automl-market-trends-2023-2030-insights-and-predictions-for-success-2023-04-04?mod=news_archive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-two-tasks-are-better-than-one-learning-if-and-how-much-its-raining-improves-deep-models.md",
-      "title": "Two tasks are better than one: Learning if and how much it’s raining improves deep models",
-      "excerpt": "To measure precipitation from satellite data, researchers from the Institute of Industrial Science, The University of Tokyo, developed a deep-learning–based precipitation retrieval framework. Rather than identifying rain areas through classification and then determining the rate of rain through regression,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/985410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/985410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society.md",
-      "title": "Fujitsu Ltd: Fujitsu launches AI platform \"Fujitsu Kozuchi,\" streamlining access to AI and ML solutions to contribute to a sustainable society",
-      "excerpt": "At its Fujitsu Activate Now Technology Summit in Madrid, Fujitsu unveiled a new platform, \"Fujitsu Kozuchi (code name) - Fujitsu AI Platform,\" delivering access to",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58860724-fujitsu-ltd-fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-to-ai-and-ml-solutions-to-contribute-to-a-sustainable-society-011.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos.acnnewswire.com/tr:n-650/FujitsuKozuchiFig1.jpg",
-          "width": 650,
-          "height": 247,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-students-use-machine-learning-in-lesson-designed-to-reveal-issues-promise-of-ai.md",
-      "title": "Students use machine learning in lesson designed to reveal issues, promise of AI",
-      "excerpt": "In a new study, North Carolina State University researchers had 28 high school students create their own machine learning artificial intelligence (AI) models for analyzing data. The goals of the project were to help students explore the challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "originalUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg",
-          "width": 1920,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-04-students-machine-lesson-reveal-issues.amp",
-      "publishedDateTime": "2023-04-04T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-eightfold-ai-announces-talent-intelligence-copilots-bringing-generative-ai-to-its-deep-learning-ai-platform.md",
-      "title": "Eightfold AI Announces Talent Intelligence Copilots, Bringing Generative AI to its Deep-Learning AI Platform",
-      "excerpt": "Since its founding, Eightfold AI has used deep-learning AI to understand a job seeker's skills, potential, ability to learn new skills and adapt to new situations, as well as facilitate the placement of those candidates in roles that help them fulfill their career potential.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/04/9788781.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

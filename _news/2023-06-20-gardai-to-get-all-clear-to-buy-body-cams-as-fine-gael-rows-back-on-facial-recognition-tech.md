@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facial recognition technology plan delayed as bodycams proceed"
-    excerpt: "An Garda Síochána is to immediately begin the process of procuring body worn cameras for frontline members, according to Minister for Justice Helen McEntee."
-    publishedDateTime: 2023-06-20T15:21:00Z
-    webUrl: "https://www.rte.ie/news/primetime/2023/0620/1390239-facial-recognition-technology-plan-delayed-as-bodycams-proceed/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001e4775-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Angry reaction to announcement gardaí will get bodycams with facial recognition tech"
     excerpt: "There has been backlash from the public following the announcement a standalone bill allowing the use of facial recognition technology (FRT) by gardaí will be brought forward by the end of 2023."
     publishedDateTime: 2023-06-21T10:18:00Z

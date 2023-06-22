@@ -41,6 +41,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
+    publishedDateTime: 2023-06-19T16:43:00Z
+    webUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-opinion-artificial-intelligence-architects-lacks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 67
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-54.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
+    publishedDateTime: 2023-06-20T05:00:00Z
+    webUrl: "https://www.burnabynow.com/highlights/opinion-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-7166944"
+    type: article
+    provider:
+      name: Burnaby Now
+      domain: burnabynow.com
+    quality: 47
+    images:
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/weldersinshop.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence can support architects but lacks empathy and ethics"
     excerpt: "The use of artificial intelligence in architecture practice and education is limited by its datasets and lack of empathy."
     publishedDateTime: 2023-06-18T11:17:00Z

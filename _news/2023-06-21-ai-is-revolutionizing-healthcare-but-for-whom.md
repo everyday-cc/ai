@@ -7,8 +7,8 @@ originalUrl: "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-w
 webUrl: "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: impactalpha.com
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Using Robotic Process Automation In Healthcare: Opportunities And Obstacles"
+    excerpt: "It can help healthcare organizations improve efficiency ... As I discussed in a previous Forbes article, RPA can also be combined with artificial intelligence to create intelligent automation solutions that can handle more complex and unstructured data ..."
+    publishedDateTime: 2023-06-22T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/22/using-robotic-process-automation-in-healthcare-opportunities-and-obstacles/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Could ChatGPT transform the world of healthcare?"
     excerpt: "Have you noticed that everyone is talking about the broad impact of ChatGPT? Some say it is the end of the world and others see a savior that will simplify"
     publishedDateTime: 2023-06-21T02:00:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-22-elon-musk-says-artificial-intelligence-ai-will-be-the-primary-growth-driver-for-tesla-stock.md",
+      "title": "Elon Musk Says Artificial Intelligence (AI) Will Be the Primary Growth Driver for Tesla Stock",
+      "excerpt": "CEO Elon Musk says full self-driving (FSD) software will eventually be the ... mobility and logistics by replacing fallible humans with less fallible artificial intelligence (AI) software. Robotaxis will make car ownership optional, reduce motor vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-how-this-self-driving-boat-is-helping-to-tackle-the-issue-of-plastic-waste.md",
       "title": "How This Self-Driving Boat Is Helping To Tackle The Issue Of Plastic Waste",
       "excerpt": "Sometimes inspiration can come from the unlikeliest of sources. In the case of the Hong Kong-based autonomous boat startup Clearbot, it was a trip to Bali, where its founders saw the extent of the plastic pollution crisis first hand. “We were on the ...",
@@ -366,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -466,7 +509,7 @@
     {
       "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
       "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
-      "excerpt": "HONG KONG (Reuters) - China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen.",
+      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
       "sourceUrl": null,
       "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
       "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
@@ -1383,49 +1426,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
-      "title": "How Self-Driving Cars Will Change the Roads",
-      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/self-driving-cars/",
-      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
