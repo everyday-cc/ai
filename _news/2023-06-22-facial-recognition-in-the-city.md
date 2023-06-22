@@ -1,29 +1,27 @@
 ---
 category: news
-title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
-excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
-publishedDateTime: 2023-06-20T19:20:00Z
-originalUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
-webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
-ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+title: "Facial recognition in the city"
+excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
+publishedDateTime: 2023-06-22T07:46:00Z
+originalUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NJ.com
-  domain: nj.com
+  name: business-reporter.co.uk
+  domain: business-reporter.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
-    width: 1680
-    height: 971
+  - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
         width: 750
         height: 416
         isCached: true
+  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
+    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
+    publishedDateTime: 2023-06-20T19:20:00Z
+    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
+    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 47
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
+        width: 1680
+        height: 971
+        isCached: true
   - title: "New Jersey Questions Facial Recognition’s Accuracy"
     excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
     publishedDateTime: 2023-06-20T20:40:00Z
@@ -80,20 +94,6 @@ related:
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
         width: 1454
-        height: 800
-        isCached: true
-  - title: "Facial recognition in the city"
-    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
-    publishedDateTime: 2023-06-22T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
-        width: 1200
         height: 800
         isCached: true
   - title: "Grocery stores in NYC fight facial recognition software bill"
@@ -125,6 +125,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dsecJVlVuzqq7V3GBwD3DevHf0ZFC6Ggxl5LNJlCnqJH8wUvfEScWnncjwHJd9Ge+bVEH3/Pl5hWoEO+u5bRnq5wWpPhmatx/jim+x0urfvOVubXVdqzMi1rrVoWj91YK8GMGConYoZsEPHl5IuRa/o3Q5n3spwUgEexVTvu7zhfuRx9Eu3omjMvPaV0eigWpY2ddVNCYlBqy3KkVMlXhpTa64Rnj0LIgO0aAzTPVC+fY30OJR1u7ukexFAqOzaw4MGFwVZE3r5Ouz64L+mSq+1JacbF2F+rOvx75YPTGabcKlHzvBBqzJWC7fLi4mkdR9RVx6+XSAnxFn39h8ur97iry6TghpEzn/B3YayRzKnpI/SatfncgIoKSJ89fjZ04pdVocDHVTErIb0cIX46dDMPDjOf1YDilKhWo6OKlxWeaullq+99zwBAPkdCI58t2L7o0suLpDaXnb4jvSliz5IHKFrYUmr59FeqtrI44yz0EoCzXsZRWwaIFJ/Hd5sno6+0ntbcIWhWuoiKZxyekw==;SN+LeMTxL7mPa38BmYOFag=="
+secured: "+0fbzXkm10XGWhwA2fEXiLroO+PP9I9+um3+cI1V/u3V4W6BQQ6Q/nel67P6aGni0QytbtDPhXbJmP2PlPv3rpvYqwhI1rcLaptJ5vodHXjKxtMSRvuBHWHEz4bzB4niRiF8AFya0x7foL+5q4hUsCTSDiVTDq3EV3vF4Tx7ZwhvsJ95EF4lLI1bQKZjxBZfNtSQM+KYCbiCpa6qUwLo0nE/73los4gebnVKikW8ulF5rjhTZzRdhzzW7dva6g0iw6e3LnIoaVIZ1VZB/iXrRlWizlIObgo2XSexbFI6WSjiDIOmeQd7R/1nXHDQJyiIoZFIHrYOoo8ZfVxM9E0X8Z7L3L+CDLix1fosxktNhic=;KWIA8fHF6cmPk4sPHGNC3g=="
 ---
 

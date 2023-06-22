@@ -2,11 +2,11 @@
 category: news
 title: "AI Is a Lot of Work"
 excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
-publishedDateTime: 2023-06-19T08:25:00Z
-originalUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
-webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
+publishedDateTime: 2023-06-20T08:00:00Z
+originalUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
+webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 632
+    isCached: true
 
 related:
   - title: "AI is not yet killing jobs"
@@ -35,19 +41,14 @@ related:
         isCached: true
   - title: "AI Is a Lot of Work"
     excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
-    publishedDateTime: 2023-06-20T08:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
+    publishedDateTime: 2023-06-19T08:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
     type: article
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 39
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
+    quality: 19
 
-secured: "hQKuH37c+X6s29roRfhE5ACtIbWoVbZ/08r3/StLwsSJ/a1r5qw2q47DyF2D3z7oDozYgUsRu+l2FIkatg69H5p1OlyCpCMJGVxEHj12cF+qZyW4XeUX8XhoNKfdJbmOKZwB3k9LjduSsfjxHQcwYHzl4WWWNwl/FcUehKA5uyvAppGX/qEzOAVjokGc0Vota39WHE/HxJQqxTE2DKBs8SSTwgF5vj39XfNrHdzD4hy/cA4IM87PTCl5xxjzLPUlAUjwN6hSDK+9Mpgu9glWKZjN9IyAJ8yZpiaUp+x8UlgO6GSZf/fGE/tBEXRj2vjf+MqD7U334oiGFwtr3BwNP1BX9d4qRqUIdKkJ0Sle9SE=;vK/ysSbK0IxvUSw+I5Amtw=="
+secured: "Ecrm2Uin06NGMja9JMCiAEIUfzibOaseJLGwSFE7CEih4ncwRzJtwpmpHPfSj+zm9QEjVyjZCY1+gHPIhmBsw2OWYpvojtrofE7kRruQQCLw+RfWmoAxv4OBk3fr7orSNnJdseVTOGl4/3o2A9SlaFnDk7fInPfB9pl8L1EIaH5TEK6kNeUiN60Qgdfcqq9DBiP0Cv+hVfneTlZqlEu6hPI+WAGkL/yMK+PzuGbdldWSog2MgRTHYnShbo71K4TI9TwBVSso4KEUk8qroFMoEj4n3aFSHkwOZD8aJq0Py/f7LjujjyPATGDMwekFalmHXeyj8+UtnL1D0olYB6RgDz0UOSvsVz1sBjOkipw2z7U=;lr0x6ua6U8yxN9YIZZ47pA=="
 ---
 

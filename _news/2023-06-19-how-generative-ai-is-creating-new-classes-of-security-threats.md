@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T07:42:00Z
+    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
   - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
     excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
     publishedDateTime: 2023-06-20T20:40:00Z

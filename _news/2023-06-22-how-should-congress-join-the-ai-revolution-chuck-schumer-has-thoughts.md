@@ -101,6 +101,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Top Democrat urging swift action on artificial intelligence regulations"
+    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
+    publishedDateTime: 2023-06-22T06:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "cp9eibCUAcCEKqq9UQB6PAtFg/lLseqIP+qEN6Kwa2DAhtFvqX9PgQ2tUELXS19QRx3FEdZ0cNtDUEYswipZ7D9pgzu+H5M4o0xtYGQuB/n0XjIJLoO201dlV/H78NODmbJbZ05OXzEzxKb51I69+/pW+y/RnxgM00xLkHxlei8f3U24C7mN8isX7IxGr6J4olj9ANQojWf5Qxi0pdrm/U/mJ+msLToYI2/gqBnVp5MnTBmeoqsQUKiMrMU+2GBjDSUsXGAwxsR+7zvaIfNlnLiudVgRpzsCi7OiFp/U8ihDJTNvwneyu7BbzQUsdvUHpgbQrDdGTwyr8fkWlIysGAoODAq781Nu/0/Fh6yMKgg=;QaIMo+qZ8TeasRH60CsPzw=="
 ---

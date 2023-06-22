@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pic
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
         width: 1454
+        height: 800
+        isCached: true
+  - title: "Facial recognition in the city"
+    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
+    publishedDateTime: 2023-06-22T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
+        width: 1200
         height: 800
         isCached: true
   - title: "Grocery stores in NYC fight facial recognition software bill"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hot AI startup ElevenLabs confirms it's raised $19 million from Andreessen Horowitz and GitHub's former CEO"
-excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup ..."
-publishedDateTime: 2023-06-20T09:24:00Z
-originalUrl: "https://www.businessinsider.com/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6?trk=public_post_comment-text"
-webUrl: "https://www.businessinsider.com/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6?trk=public_post_comment-text"
+excerpt: "Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup, which is based in London and New York, launched in 2022 and uses AI to create convincing text ..."
+publishedDateTime: 2023-06-20T07:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6"
+webUrl: "https://markets.businessinsider.com/news/stocks/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6"
 type: article
 quality: 49
 heat: 49
@@ -38,6 +38,6 @@ related:
       domain: venturebeat.com
     quality: 37
 
-secured: "YR/2bMdzK1N9EKrye63bOP5v7BDNw7l3GLOnutJyOt7692bxASSfzLPFCdFCVdjQgVxgByZ2TquSpZoqUAj5XAGv7BC65aP6ALj5E3ccrrTh+l6bIVP0FhUsUoMptiE6HPJ5CUGttHXlWWCApLvbjgb355LHxmrMDKepegPes0+7zFeTSU1tdKLI6gxeIr+xm+x6AxOD8Pzw9PCj2YPiMQ+7lM2DfUCkvV3pHUcsKVtFcnkMohYv8v1aTbePeh1VfifyaW11mqgAjQvBQ2FNR3LSObwsGurO4IrfLhQJnQWqwiPsWQ90nCnYeVH8ED6XVR+7SM4hzsQ27QzWIQ0oM+vmqf/iuqgSKPb7OVn5Gjg=;lU438K5eNJAV303ixqmw/g=="
+secured: "ObqzZ3oCEjriHnY2keXvvyhGMeMAEJpi+3jo9bGLL6UwtNKSe7THx73YFUvNeWzEwaKMItgH2CT3VJ0wRlU7j3L4NSoIiGQ1hNHAtjq89ftGurCnbum9ptDdCbGw8Q0ZqR8rCUGtaGYcHCJfo9oUQTak7mqs+RCyH/YUuLNef1iAHBKVTCPufxN7zK2wQIS9mLWYa681lq6T9xQ9AsivqEo3GG0Cujlv14nNJ9T/UUVX7H0loz2PzNH150hJInO2dZ4hTV2hj9hX7EXFpcEqxAkxr/Yzu77CAaaTNKu52Ar/lVqDotyXCstQn/l3J9wjg6LYBJLOt4XXJlOy+iHEqAi06qJv04mY/IHTfFUbrYo=;FOTEUXQuNOlvxKVaTbesNg=="
 ---
 

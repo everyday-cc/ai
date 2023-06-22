@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ethical considerations of artificial intelligence in marketing: Balancing personalisation and privacy"
-    excerpt: "Artificial Intelligence (AI) has revolutionized marketing by decoding complex customer data and driving hyper-personalization. However, as we wield this powerful tool, it’s crucial to balance personalization and privacy – a critical ethical consideration in"
-    publishedDateTime: 2023-06-17T13:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ethical-considerations-of-artificial-intelligence-in-marketing-balancing-personalisation-and-privacy/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
   - title: "Unleashing the Full Potential of AI: Moving Beyond Admiration and Apprehension (Opinions Of A CTO)"
     excerpt: "This is a Guest Blog by Mr. Neelesh Kriplani, Chief Technology Officer, Clover Infotech Advances in Artificial Intelligence (AI) are always received enthusiastically with an underlying feeling of fear."
     publishedDateTime: 2023-06-20T04:10:00Z

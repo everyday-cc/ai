@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/more-developers-are-coding-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/"
 type: article
 quality: 83
-heat: 117
+heat: 118
 published: true
 
 provider:

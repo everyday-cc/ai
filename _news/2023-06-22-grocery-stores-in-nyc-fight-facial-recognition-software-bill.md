@@ -96,6 +96,20 @@ related:
         width: 1454
         height: 800
         isCached: true
+  - title: "Facial recognition in the city"
+    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
+    publishedDateTime: 2023-06-22T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Garda body cams to include facial recognition but real-time use prohibited"
     excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
     publishedDateTime: 2023-06-20T03:59:00Z

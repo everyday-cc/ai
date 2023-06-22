@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
-excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
-publishedDateTime: 2023-06-21T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+publishedDateTime: 2023-06-22T07:42:00Z
+originalUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
 type: article
-quality: 14
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+    width: 480
+    height: 480
+    isCached: true
 
 related:
   - title: "How generative AI is creating new classes of security threats"
@@ -32,22 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T07:42:00Z
-    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
         isCached: true
   - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
     excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
@@ -131,7 +127,16 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
-secured: "oVVtBgURtR3zZjDM3rYcyrA1SHbcKb1BwtCLOoqoGSXi9pu4JcHtVRm7qzhk35jcvqcpW6rJl2S/1QW1aBbo31Cq99oTNFwM2BM4Qp77k24JPWnxJV4M7ny3KukjZeyWgyCoOLqYszX3oOqeS10HhgPYWyyJbuXTSU6rZhrhgwFN4gIVWaWZf2zEED97J7ZH/1drGDE2SITymxkgiU+B+3rGidvCwcSpGHEK6W7JwTTDQw8Z0uknRbp+6r7LX/jnlwGoX5iouLqBYbcOTiK5104crlG2yWjNPiTrkixxqSStFNeApR5HKSsJTIC0Q5EawQLa6PMS6GhYdEddIHS+vtqtwPMzgFQmb+bdt2J80Yg=;4dD96MsCkYDOpeMP9Zop/w=="
+secured: "SN1GbjeHUD73x/vbabY40ydDcIy9+e2qFnJ5pTAFmEXgLZOaTUMHGDh0oKlmusdFnHsk24fWBXw9FlE5eUjSPvtRn2xsdWqIgfqOplgysgRC7/Y9XXJsfOQOtGcl6eS0+hDPvfVinQhf8VF6KgYMzBIW1qR358CC1utjnSPC11QiI6OLPQM02BxCLga9lOsavp+YpJIHopRYDl17K22e9fFd7KR13sHIhJKPEU0bk05ZNH1N5VZEGeGKU+2LjMh2CzH2BiMAOU2eppx2Hos2Bfua+YBKFJCRMjHsn9oWoT2fQGvoQuro8kTbSyY934LYtCQ8aengK7AESFrw3Bec+CR1Lo6Gt3/Zc5rjctLUlBE=;Hghi6zqzdCq+fzITRFHEtA=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T07:42:00Z
+    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
   - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
     excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
     publishedDateTime: 2023-06-19T19:22:00Z

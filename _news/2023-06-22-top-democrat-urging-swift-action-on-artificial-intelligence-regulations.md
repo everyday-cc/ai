@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
-excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-publishedDateTime: 2023-06-21T19:56:00Z
-originalUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+title: "Top Democrat urging swift action on artificial intelligence regulations"
+excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
+publishedDateTime: 2023-06-22T06:00:00Z
+originalUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
+webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
 type: article
-quality: 40
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PBS
-  domain: pbs.org
+  name: Chattanooga Times Free Press
+  domain: timesfreepress.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 399
     isCached: true
 
 related:
@@ -87,6 +85,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
+    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
+    publishedDateTime: 2023-06-21T19:56:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 40
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
     excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
     publishedDateTime: 2023-06-21T21:28:00Z
@@ -101,21 +115,7 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Top Democrat urging swift action on artificial intelligence regulations"
-    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
-    publishedDateTime: 2023-06-22T06:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
 
-secured: "nCFm6NqxnKoruY2CIsYgNs6zYzvI2okVyPYXIKiyTM/Klj644JxKxaGejpPbPjc6tbARxIv5QpKkuQpILyce3iBGBMf7ikgqE/7Aj3W7X6V4ZnMkrcMsv5NgxXpCQi/n54pHsSCviEMo7zZvL16IHfdNqZAJE7AvuszEtHElCmeVdmBv9q2HBLWTqKPP347xLwHRHPyOn9yLUB/n/dgW8ukpKh2tvBnCjA/2Q413S4bNjkaQ/c42lmovJ24e91tglSEHp7Sc+/ynjQWP53S8Tt2JQY0rpKg3UrI4mrzy1uk34Fc7FF1rP4KfNkekWKfYbsH6x03GNFAYhcjQ43Jzw7kww41/QIlCT/ocTvywo9bLsn8ZRPZW5AdICpxeMov6ZWg1R7Bal4SFzpBIit2K7TrjjaFmR19FhV/GLtmc5+Kkc+P4ySgsgYOL1YPrAODV3Yhic8me0YjIVVpidMuXY9FQvnt4otWShqYJNeXCoAtD+Lxc6QWQPFAgQ5FYDhCD6Bi1RIzacD7FSuDnvFZF5g==;gpX7A4rAtC6BOlDRLzP73g=="
+secured: "f5+0US1gEn73iEeOxieBZDX8VWfywAmkA27QdpI/5WKYOs6PrOO3FMMN+ObtNVsWsOtwdo0Vqv3gwT+gu/rZatCh7KpZ+1CrigYyoXLeIBl1PJGHxvq6Urtfs1zbIgmP6O4K438xmvQqtYOX56ljAYRcjgcYsOFxRZZ1xGSTgLKZI40A2rnmwz5xyiCJdMPH3HY3IqjwiNzHGyP9P09t7wKw+m4+o/QjaPfswJ+2fhwLhcANXmyrzYL4ci3arZfPRGZT7jj0uRrNMr29UksrWcz0EuSraMhi4DfdQlQ5DBsicguD0ELmExKkgPDe8JqTC3bGdbkvs+AEoFnTnpVMMYbV0SrUxJBhfsB/zr4gq4s=;lWW8Lx+XgPm7TkHSL+O9aw=="
 ---
 

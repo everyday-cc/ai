@@ -96,6 +96,20 @@ related:
         width: 1454
         height: 800
         isCached: true
+  - title: "Facial recognition in the city"
+    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
+    publishedDateTime: 2023-06-22T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Grocery stores in NYC fight facial recognition software bill"
     excerpt: "Related: Shoplifting: How to protect your store However, Fairway’s parent company, Wakefern Food Corp., told CBS New York that facial recognition technology is helping prevent more crime in stores. The algorithms within the software are able to reduce ..."
     publishedDateTime: 2023-06-21T19:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -100,7 +100,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top Democrat urging swift action on artificial intelligence regulations"
+    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
+    publishedDateTime: 2023-06-22T06:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
-secured: "sO1g8zUyA7inabY/Rg+GSSXSgyUNOeO7kAVbtjYpnBoqLbkAuqKZfhndT3wTmOPY3mWRTXK5BCLvSSLaN4pwNfuhBSdhnJL2ZN9qmG6+4GqYyTSY6AUjcNzCbabDwcVo54Z6Ca4ZG/rmN74NRP671meg1g/666gAs0VAF8EFX21DCMe/nPUIajaRo79Y6sh/xZG5TEmbiMz2Lzu2Qcr361HzL/Wq3x3y0JnKofch3lu3rQ+rX91CCbqcRpcprJ+WSvgnaXULzgpX1iCKZbeiRtUJGe7yRtWDazuct0TnnYBVcBEkWW8CENjS/H18aQOiX7sW5IRsw7FZm/maHNMdR74seZH1DxZyQ2vg0R3kExg=;DMJK6h0g6T8mthu0zlTLFQ=="
+secured: "ropOXh916ExKB+vHgOlMrtXJZFHB0Z+O4U2ITIfJN4zhS18nb9qEnrPJ+bqtwMePXGu43bv8Z6KiLSSYQfkE+OZkUovP3ihUxx4u7KDfvDF+S3gjAkYWbnJrRfwbu5PDEXcqhnioQHsESxH8ew5w2PLF7jFU0HxA5V00GFS845iUuGgaNLi4jCxqWtYLOVePCQEvcgcs+Rq3Nh7RZxxIIdq/w0h+Z8wXXP2GJlKK5+r2N2pYvkVuvmQoYA0a1mX663qrE45qJj3bal57yxzx0JNrA6Z0MmkAkPhznup9n75ueD2JVM0MvHjpRWD8UiJODYUv4w0Mu+fNMeESOaAV0VFFpNyv1pUy3xx92aaKTZv4f6gw2R8v1oJxyCERLh+8AT/rPIa4GD15g4R4U4fURmwwiy+Q9hcBXwoXNxQpu2YL6WiHjifeCJnYCMK3cLV3OKu8Shj+pxSdyjCCC6NFK2yOo59u5+z+qjOEpHGlfohsNvhxAdAAhBtT2Y/BUbj6zoZXhEIs5CNEsLc6S3luSQ==;ehiVvv2FypoB5yARUjda3w=="
 ---
 

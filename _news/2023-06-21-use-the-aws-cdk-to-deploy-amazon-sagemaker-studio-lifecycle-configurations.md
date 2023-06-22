@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/"
 type: article
 quality: 102
-heat: 114
+heat: 112
 published: true
 
 provider:

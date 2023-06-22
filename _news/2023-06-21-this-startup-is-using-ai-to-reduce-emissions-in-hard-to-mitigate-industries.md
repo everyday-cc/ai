@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "This Indian AI Lab is Using Gen AI for Social Good"
+    excerpt: "Wadhwani AI, a non-profit AI lab set up by the Wadhwani brothers is fully dedicated to tackling societal challenges in India with AI."
+    publishedDateTime: 2023-06-22T07:12:00Z
+    webUrl: "https://analyticsindiamag.com/how-an-indian-ai-lab-using-gen-ai-social-impact/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Wadhwani-Gen-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Thai AI-based data startup Ocean Sky Network raises $4.3m in pre-Series A funding"
     excerpt: "Thai AI-powered data solutions provider Ocean Sky Network has raised $4.3 million in a pre-Series A funding round led by an undisclosed private equity investor, the company said. The Bangkok-based company plans to spend the funding proceeds on product development and overseas expansion,"
     publishedDateTime: 2023-06-22T03:03:00Z

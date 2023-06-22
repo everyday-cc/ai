@@ -33,6 +33,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "This Indian AI Lab is Using Gen AI for Social Good"
+    excerpt: "Wadhwani AI, a non-profit AI lab set up by the Wadhwani brothers is fully dedicated to tackling societal challenges in India with AI."
+    publishedDateTime: 2023-06-22T07:12:00Z
+    webUrl: "https://analyticsindiamag.com/how-an-indian-ai-lab-using-gen-ai-social-impact/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Wadhwani-Gen-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "DzGcEoX/sdDATp6gMVugX1SxJ60V0d9jJ+zutXH7d1nT7GIOxYagtTyoEwEzDf36vbZxVS5aGET86HBo3G9Qa0TsafNmRicNzdneRyGvF/cGVu6oxwIucVY5lTdjt4rOvlmuLaKzs33FYgcvlU92k5ksCPNMco1YH0P9l0T4MQyR0hJYxfyWcmdg6IvCqFxSIK5Yza8V4U5z4vgbbfW2D4p+NIehfVO9d+8SdizckiyJQMw5EFqQs8KGG1cAAVnF3cF8d5IavEMZl3hOzJRZEq70HL1SHgIQKiJrI1VYZ+4vj1e5ymTGId7/5hOogbdn60lEp0h8LmDyVKkgVeya42dJqhO/zIHKTsPsJjz6uUw=;lsWRdCAMlzWSqqZlX2vwlw=="
 ---
