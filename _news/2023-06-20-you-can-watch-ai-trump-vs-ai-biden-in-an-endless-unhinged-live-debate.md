@@ -131,6 +131,34 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 39
+  - title: "Expert Who Met With Biden Explains How AI Is Enabling Racism and Sexism"
+    excerpt: "Algorithmic Justice League founder Joy Buolamwini discusses the need to prevent harms already impacting people."
+    publishedDateTime: 2023-06-22T18:51:00Z
+    webUrl: "https://truthout.org/video/expert-who-met-with-biden-explains-how-ai-is-enabling-racism-and-sexism/"
+    type: article
+    provider:
+      name: Truthout
+      domain: truthout.org
+    quality: 39
+    images:
+      - url: "https://truthout.org/app/uploads/2023/06/SEG3-AI-Split.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Factbox-Flurry of US-India deals on AI, defense as Biden, Modi meet"
+    excerpt: "(Reuters) -Indian Prime Minister Narendra Modi and U.S. President Joe Biden met in Washington on Thursday and several agreements were to be announced to strengthen economic and diplomatic ties between the two countries and highlight new private sector investments."
+    publishedDateTime: 2023-06-22T21:41:00Z
+    webUrl: "https://www.aol.com/news/factbox-flurry-us-india-deals-152214541.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b27c40a09a9c20c83cc2c5e4f2dc0aeb"
+        width: 800
+        height: 525
+        isCached: true
   - title: "What President Biden said about artificial intelligence during his Bay Area visit"
     excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
     publishedDateTime: 2023-06-21T14:38:00Z

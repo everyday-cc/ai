@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AWS weighs in on the potential of AI to fight wildfires"
     excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."
     publishedDateTime: 2023-06-22T16:44:00Z
@@ -134,6 +150,80 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
+    excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
+    publishedDateTime: 2023-06-22T18:26:00Z
+    webUrl: "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5?mod=mw_RHF"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "AWS launches $100M program to fund generative AI initiatives"
+    excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ..."
+    publishedDateTime: 2023-06-22T18:58:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+  - title: "AWS pledges $100M to launch generative AI innovation center"
+    excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
+    publishedDateTime: 2023-06-22T20:47:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-generative-AI-center/653726/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 56
+    images:
+      - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
+    excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
+    publishedDateTime: 2023-06-22T20:03:00Z
+    webUrl: "https://www.unite.ai/amazons-aws-invests-100-million-in-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/aws-header_tvMEUF2.width-800.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AWS Investing $100M in Generative AI Center"
+    excerpt: "Amazon Web Services today announced the AWS Generative AI Innovation Center, in which the company is investing $100 million to help customers build genAI solutions. Customers will work with generative AI strategists,"
+    publishedDateTime: 2023-06-22T20:36:00Z
+    webUrl: "https://insidehpc.com/2023/06/aws-investing-100m-in-generative-ai-center/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-22T19:44:00Z
+    webUrl: "https://insidebigdata.com/2023/06/22/aws-announces-generative-ai-innovation-center-with-100-million-investment/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 52
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "Old Mutual closes data centers and moves to AWS"
     excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
     publishedDateTime: 2023-06-22T11:23:00Z
@@ -162,6 +252,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon launches $100M generative AI center, targeting healthcare"
+    excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
+    publishedDateTime: 2023-06-22T18:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/amazon-launches-100m-generative-ai-center-targeting-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "AWS Launches Generative AI Innovation Center"
+    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
+    publishedDateTime: 2023-06-22T18:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
     publishedDateTime: 2023-06-21T08:55:00Z
@@ -171,6 +279,15 @@ related:
       name: newsroom.businesswire.com
       domain: businesswire.com
     quality: 19
+  - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
+    excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-22T19:13:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32974414/amazon-will-be-prominent-player-in-ai-josh-brown-says-as-aws-launches-generative-ai-inno"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "DOs1A6X1VEoRO2sNpaBSp67/HWniLoro1/pbUf7u4ZqBwu5Hwp9WYxYXE7dRZiUAsK4UYAmY59DegnnGpJDJ+9Rt9iVv6Uqqe+1TBzEguBRy43YrwcNy7z+hT/bqreT4fmcFj833udY9WEDdDx5bH4ayUR5kQHg/00ZUfyQHoY6facMMWOArQzMUhz4ZY8Ckoa4BVba1duT9MLUehYFIBFYn1TUMtt8oCdVWEbByepoxcvUm27/OFu1nq1R5+09Z9YCNdAWK4ur4VRj/VIjr7zqwEWQUBESj/QezCqoPZq6Cyq6DpPay1WInKeJ1gChlwrNgUg2M9cKaGT+kEfCY64v2oDVbxtIwSw4Efm/qDab7wpPrmvdl2lldFw1lu4T7F2Wq2H2TiIoKO0g11nolA92QDuhNakjayJe2juHm+gnFjMCK8eG5TV7jVlfJc221tPi7dZlSaVtws/8fFBO8QQ/gta4pGZadNTbuZHm7dCCJfNBE+1BqElSqy3P+Et4dBw5BpYMBLe02gyCJ3yvQHg==;8XYh9UgSYvvqdr7UtGc0qg=="
 ---

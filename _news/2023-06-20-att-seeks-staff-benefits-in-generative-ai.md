@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
+    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
+    publishedDateTime: 2023-06-22T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805133/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Navigating the future and ethics of Generative AI"
     excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
     publishedDateTime: 2023-06-22T07:19:00Z
@@ -98,20 +112,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
-  - title: "Generative AI will upend the professions"
-    excerpt: "They emphatically refute the idea that AI systems must “think” to undertake the tasks that require “creativity” or “judgment” — a common line of defence from the old guard. High-performing systems do not need to “reason” about the law like a lawyer to produce a solid contract, nor “understand” anatomy like a doctor to deliver useful medical advice."
-    publishedDateTime: 2023-06-18T04:00:00Z
-    webUrl: "https://www.ft.com/content/96a1877f-0bbb-48c7-be8f-4fed437810e8"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "3DIDUmIpxFEuCnrln8wmn2dSi6YDFnfOF1UBTI4cSxHDpTaIKZ6EZIcgwRSXMooxGYSaMqSPJKu/xgc4BaD1u5ZvH6N3Vq3dUWY5SeAhoQk2eGzLtkUkhZf0OyAZZNGtCLX7pvGjaaqQohknpZ1RBvaSQh68/q3t0+qi1c9czuO5q3JZQP0YACJZjNegvAPFOnOl3ZAh1SAVQ+gJX9zC3kRBktDDdlAHsHb678d/s/HKQFs/kzS4yP3arLa6KaL6hE81htc6nIxidWpDLHgPTRCuT+BMJrbpYhfSWHdnBKRacggzmp50r6lZpy2EnSuLh65SQYZrzmBx0IYnLVVEYMWflb/o9JCsUljTm1cqGco=;1jBkV7YekxkbjjIASwtLYw=="
 ---

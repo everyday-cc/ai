@@ -8,7 +8,7 @@ webUrl: "https://www.aol.com/news/cisco-launches-ai-networking-chips-152747034.h
 ampWebUrl: "https://www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
 type: article
-quality: 58
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.zenfs.com/en/aol_reuters_29/e481d75a266d744c7241ad109a495cbc"

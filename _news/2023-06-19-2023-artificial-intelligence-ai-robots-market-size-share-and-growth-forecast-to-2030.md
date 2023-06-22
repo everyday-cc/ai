@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence (AI) Chips Market Size, Trends and Global Forecast to 2030"
+    excerpt: "The comprehensive research report titled “Artificial Intelligence (AI) Chips Market” 2023-2030\" provides a detailed"
+    publishedDateTime: 2023-06-19T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-chips-market-size-trends-and-global-forecast-to-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
   - title: "Automatic Speech Recognition Market Growth | 2030"
     excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
     publishedDateTime: 2023-06-19T09:51:00Z

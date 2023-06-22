@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-insights-2030-2023-06-19"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 | Deep Learning Market Research"
+    excerpt: "Jun (The Expresswire) -- \"Deep Learning Market\" Insights 2023 By Types (Hardware, Software, Services), Applications (Healthcare,"
+    publishedDateTime: 2023-06-19T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-market-research-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "yF1PFsvwj3DAad+Z436mX3u2CQvP52YzyOIM2tDRTMjw0VJgjIl/27ifLtncmglpN+Oqaxm/f35BrV2X0JRtiawsPcb/CwaXgWcKfFRlDpGF6A7EhKhrTnhmaFzLzLDCdaP2IJfJLuM+faTyvNU+e9m8vHHBVD+2zqXWQZ+V9KAWbkO1wn4p2c1odfw5Tq2bQ15pdZui9RE7GxrjdWfibIyN2iKgjofe5x2hOSQgpN3G/97yP7sr77Xu0W0Yb451/sz1Nx6jMOxDzdZaFL7BKskiKvd6lxGRj8DT14f9k6jZKTfvqxXu8ZNFHofwdx/PF/t2x3HAzzspgDtbTEc1rarR7pzThOpCtHIaKzXYVB4=;RTh5WRmbJrVgONBqYq7oRg=="
 ---

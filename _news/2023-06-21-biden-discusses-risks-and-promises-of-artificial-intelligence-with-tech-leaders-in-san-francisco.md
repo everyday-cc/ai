@@ -59,16 +59,21 @@ related:
         height: 630
         isCached: true
   - title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T09:18:00Z
-    webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-    ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
+    publishedDateTime: 2023-06-20T11:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 25
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
     publishedDateTime: 2023-06-21T02:28:00Z
@@ -102,6 +107,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "KqevQzqFM49+OuJKTFO1Xo7gF/PhXDl4Ef5RBzQze9f+nl/H7TtznBOdwiWab1BZ4FZ0ZcwndV1BByKun0YDt0LoeIHUzQKpQsuBk8GEn1BHo8ZUfwqe1ca4rX2BQSyfEkZxLX22Ne2mKhjKpV40NU5+SC47UkBSnmv6rhmaL2sJaF+CPSQ6WtOa3t2UnFGFstOMml5uwAUNRDCN6Vs8UGjLuDExZq9EDXwAwz2M8gwiGy3uYih6rvRtmNfmW0HOhZfCXhaHpH1g6Ql8WEjagdWoC3i2QvEGqdZhXM7gq6RJFxJIeLa/pz1yLJSfAm4CapSkfMALuCcO4oRllm1y9zX8F7/TWkR1ZVFsVYld/40=;xDFWhE4+38LMVFVetqPRZw=="
+secured: "VJu4Zk+aehmXjQvwS64GH39MzOcWeEzdWUIJfW1HPPiQNJhjm9pY1UvxgBRX6nRq0J52PlZGvWIwICVyQlAy1oUwlGyayGTLv0bE1y3KlRUw5xBR32X/KzlzoeoHT0tjUwQIlFrYjF1SnUhvYt29By+/Jj5XcBDGhIGCoyxmSac4KQGFdlVPqSrW4MiTaLosokI3rH5slhgrZWfHCuN2zNnbknSDKtuVB8kwrKPNOv6jsSP+J8QjWI1zm+aRFOUM6GzB3DuIfv3l1o+p5u4m+fLOuXIVgyhaSyvf2ObTjRJrbPpKU72ZFwcyqZ9AN3B7U2qeZQdcjImW5Ikn7FkqKCfiX3f8qqld/GI9RHh/VukvGNmVGlJ+LrNhDuKadOlXBeY57MqzUq66SBymITiXzZ3LODWs0PfBGvNJnUhmkrNzK64h7qVcGM7uwQcN91nPbnLjLbvKMdfZ7c0HaRxxl55MzxSfIpvE2S9nyU8kgqJDSl+gJJ7+dRH4vDv8wSPfGCGvkpzpsriULkvmwNMibw==;SHv/fkHXWCR35FScYYViow=="
 ---
 

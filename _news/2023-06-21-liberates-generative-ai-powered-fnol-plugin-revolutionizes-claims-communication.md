@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/liberate-s-generative-ai-power
 webUrl: "https://www.bakersfield.com/ap/news/liberate-s-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication/article_55ec88b1-04ff-50e2-9da8-71e47e343ed1.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,24 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+  - title: "Fractal AI unveils customisable ecommerce UX tool powered by generative AI"
+    excerpt: "The tool is expected to increase sales for businesses, cut customer acquisition costs, and also reduce product research time for the customers through its generative AI advisory."
+    publishedDateTime: 2023-06-21T13:10:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/fractal-ai-unveils-customisable-ecommerce-ux-tool-powered-by-generative-ai-10835071.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "How AI Could Reshape the Growth vs. Value Debate"
-    excerpt: "History tells us value stocks beat growth stocks over the long run. Some analysts say that script could be changing. Value stocks trade at bargains relative to their underlying worth. Growth stocks trade at higher multiples since investors are betting on future profits."
-    publishedDateTime: 2023-06-21T13:08:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-21-2023/card/how-ai-could-reshape-the-growth-vs-value-debate-EySUabfhUIMsk8phAirs"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "hC/auJDruJLz6zEjkh/rJ7CHpAGr6YIktoJiBk969z7Z5lHnOGLK+A7XTxLGJSw0o3FhZgIN+yyf62rxj+u3EGob+JhXXlzo361rDgk7863oae7/iKFcVyASQ/7PBBAP0XwWPtv/DyFDrmv53mIsaj+edpjMQJ6KsQa/TFwr+JKYoTtGTwBkK1RTz0OdOqFBEXCuMYNpOM6pz1CpJJv6Na6Vb8zlKFR7mrUb/U9QPd1lVNcIncYzxnE0r9wajW56WBCy7RceKLCgI8oLncomEIlVWrxGq8zGnpd+Mel3YbUlyizjwIEBFNasMeG3cN/Je1jJNTBBNQZGesgFK/oGcu0WV/SBAhhk7ZtVMcLK2KI=;2vwUu6SDXrHmxR7vMFGtiQ=="
 ---

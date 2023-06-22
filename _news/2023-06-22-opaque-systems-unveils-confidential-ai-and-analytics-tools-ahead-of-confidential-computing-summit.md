@@ -32,6 +32,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
+    excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
+    publishedDateTime: 2023-06-22T19:29:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-confidential-ai-and-analytics-at-the-confidential-computing-summit/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 10
 
 secured: "9LdD5c9PWe/tK+P6kV1aMiMFtavJ0uMEhwRUNjEskuLMGErj3VvsADAprwEoWO4OrUqfm0khOZurH3snGZjnCyY90oUGgnl7BBbGglul4SnGWm8zCGHh63tEtB1OTjckWeel4ypLmeH97FLgHBI30jcX26XzD9uZa3WHhQklBLycmGVYmDi9PpX+TxmS37db1VTtpIf7WzJ0ExyjxXJxE/XFSHmCHHP+wBkjqMhGp7H8PwLQ2gr2KaOHDmobGki0CGPtLt0UQT3a7a30abjUzLPWrLnuaxaGaq2MBEGIHzcih85SvamPE2Ji9dvm6q/VkvU0wZ/Q2OPB/i9zBcz5VFPrU9ck+QGuP9WCCIQCNO0=;Q0ZT7U/vusEM5z599bb2xw=="
 ---

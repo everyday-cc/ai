@@ -100,6 +100,31 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "The people paid to train AI are outsourcing their work… to AI"
+    excerpt: "It’s a practice that could introduce further errors into already error-prone models."
+    publishedDateTime: 2023-06-22T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
+    excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
+    publishedDateTime: 2023-06-22T18:36:00Z
+    webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Software developers work best in teams. Here's how AI is helping"
     excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
     publishedDateTime: 2023-06-20T09:08:00Z
@@ -117,7 +142,7 @@ related:
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
         width: 1200
@@ -224,6 +249,15 @@ related:
       name: WATE 6 On Your Side
       domain: wate.com
     quality: 17
+  - title: "How the White House is moving into the action phase of its effort to regulate AI"
+    excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
+    publishedDateTime: 2023-06-20T23:56:00Z
+    webUrl: "https://www.aol.com/finance/white-house-moving-action-phase-171620546.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "YN/F6ycEwVdZQ18Iy7L9UtE8xe/o8DykINPqTwgbFUGX2q8b5OgLmS3uf8iC/sF2A0hFbnJf66YH5BPNODcvPuypxLLJNeTz7nJEeNCMOwZvdAXhzm1LJhsad33gyGNdtJD/kgmqbgOWUyoOqN4IM7fAdjecYBE/ELJvdTQq9wIyE9tC5pcAoO7s/FsEUgajIdqmKAaE1jRrA5G+8THIXGNO4wMqYd3Rn6torStPyzZI3uiSv8pXPGxyS+fQqLJ83qxBUPuzeiHuiQ6ZOH5rsXVq0lOeOl+6k+1J7TYiq3mPJhf9ztVmx/bNmUnYiKpgVhHQvdm3PyPef+pVdn6AeQLV8aUdZlfbKP1EVFLYJZJtc5ZHKONzMEPrgPg/I9NuvIE2awfqzLBsP0ORefLAFW+tKVj2qa83CgPbBVfuUj9OITEY7THC30lE48veZ44LYur8uydg6+rwacoYaDt/OWD9zPFfMF+Al4ocdMirfL+r1RxS2OhCe3UfJOdMe36h2ZU7Kt9NcF0/6Imj0NbBDA==;DMefDe9tLps9CsxHbWAcJA=="
 ---

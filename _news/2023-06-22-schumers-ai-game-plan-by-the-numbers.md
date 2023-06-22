@@ -109,20 +109,15 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Top Democrat urging swift action on artificial intelligence regulations"
-    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
-    publishedDateTime: 2023-06-22T06:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
+  - title: "Schumer to call for AI regulation in keynote address"
+    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
+    publishedDateTime: 2023-06-21T13:17:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
     type: article
     provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "bWzVnS8QKIZfzkvrZsrfrT4NzhFygvZfdWQ+KdpJowdB6aY0PZjsr8YLaXp2XstnexLGC6zf2Eb/M4FTb7EOoFwUwU5nqCVDG4bPL37Vosq0/Vh9v7fKSX3bUEtDNgy0kmGhX5Hn3IuRcEEwuH4iP1NxloUCaM+EPpPtsPkIqqEtf4wFDeLpTToJEDKxJXEwGYe7kROJ080Eg15UQTFZ3vEIkUyOwxdZeP3O+HNp/MZqzDF1fbk0lsQRD9Xd5D09J7k37oysm19SZ/ZyZNkT0C9Xj3vY9ujlVMTscmqecvvWfWyg4Tvk+e1mPvV5shlkp3B3t474WxfICdPtm6UOnWa05pqV4erpCcpbqBmDLbU=;p12tw9fvFG/ozr9pXhiN+g=="
 ---

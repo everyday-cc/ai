@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-prag
 webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
+    excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
+    publishedDateTime: 2023-06-22T16:01:00Z
+    webUrl: "https://venturebeat.com/ai/stravito-launches-generative-ai-tool-enterprise-search-knowledge-management/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stravito-Answers-Press-Image-1200x675px.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
     excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
     publishedDateTime: 2023-06-20T20:40:00Z

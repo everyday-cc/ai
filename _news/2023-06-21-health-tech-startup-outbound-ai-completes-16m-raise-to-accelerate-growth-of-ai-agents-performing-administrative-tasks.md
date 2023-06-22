@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered healthcare RCM company raises $16M"
+    excerpt: "Health tech startup Outbound AI completes $16M raise to accelerate growth of AI agents performing administrative tasks. AI-powered virtual agents are designed t"
+    publishedDateTime: 2023-06-22T21:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-powered-healthcare-rcm-company-raises-16m.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
     excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget"
     publishedDateTime: 2023-06-21T23:53:00Z
@@ -38,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Outbound AI closes $16M seed round that includes KCRise Fund"
-    excerpt: "It’s filled with the kind of talent that Outbound AI needs to grow. The startup expects to make more local hires in the future in sales and marketing as well as in client success and product development."
-    publishedDateTime: 2023-06-21T19:18:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2023/06/21/outbound-ai-closes-16m-round-that-includes-kcrise.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "RD+S+/ooHvVSMQqY6PlE2dWsqR0LDX2i90e0IYHkDbD9OkEdh59Z5CVB8nsXwiZJWuUQbIatEIaUW5dNEnCDIhx7UvrxrlMgHdNi4bffpZhxkmhQsxEY7EPLmrenT30JwLKyXmR4ywcsK9QUsNpupeYUK9y9q3oV6OhIfbXB9LqA8aQhuujyPMxBaAdlaQ5j3POeZ0uda7z9X7bCVH5oysqFGA3AkXLsvN1yP+FzUwEZZCMjQLeBV7ndei3Z9Gyr8bCIshp3Co3OFlc7gpxUQUHC/16efd28UsHYaOAuwTdji0MYjd7vVf5pOwEWypMgWSsOu7TW6URwl2e+Aht8NLEH3A0mDgrc+3dgovgM9mtg0JxSXADccSltiV+RUVBfNquF7cn/Qxw6ccxxRCel7myoj9NEOl6/+fLeaVtuosBlcNalAnSOHWOstFoMntE8JVGkZuKJB0vYUWYdNRkKKSv9rfl9g6e7HdmxapqmSXaNlxxKIXKMIY4Lv+R90dYmWT4IddY7OnUABZOO2milPQ==;3ZjITRUWbZjXL/JxyMnugw=="
 ---

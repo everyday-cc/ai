@@ -101,20 +101,15 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Top Democrat urging swift action on artificial intelligence regulations"
-    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
-    publishedDateTime: 2023-06-22T06:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
+  - title: "Schumer to call for AI regulation in keynote address"
+    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
+    publishedDateTime: 2023-06-21T13:17:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
     type: article
     provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "Schumer’s AI game plan, by the numbers"
     excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
     publishedDateTime: 2023-06-22T13:25:00Z

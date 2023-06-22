@@ -48,14 +48,14 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Educators Starting to Incorporate AI into Regular Tasks"
-    excerpt: "An informal poll on social media found that teachers are encouraging students to use ChatGPT for test preparation or brainstorming project ideas, and using it themselves to append lessons in writing or technology."
-    publishedDateTime: 2023-06-20T19:30:00Z
-    webUrl: "https://www.govtech.com/education/k-12/educators-starting-to-incorporate-ai-into-regular-tasks"
+  - title: "Hotel Tech Startups Using AI to Combat Labor Shortage"
+    excerpt: "HiJiffy is among the first hotel tech companies using generative AI that has raised venture capital. The startup announced this week that it has raised $4.2 million (€3.8 million). HiJiffy has been using conversational AI for a while to help hotels ..."
+    publishedDateTime: 2023-06-22T17:50:00Z
+    webUrl: "https://skift.com/2023/06/22/hotel-tech-startups-using-ai-to-combat-labor-shortage/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Skift
+      domain: skift.com
     quality: 17
 
 secured: "YLdYDh/KdQ5Api2UQm4YGm+TzEwj4ttfMEg0YmQwe+stmClmr/D/pVvdp0TXi8QpwytQaPdSXnyt1VGB+G8CqRFSA4mEgXoSPaV8gFT8Kt4pl5j2WxnwnVW9lv13nM5Nm24O/n0+TKmc2DBw1mRqd+i9saKOjotO/khf4L6T7Kg6U5bY6tH+d8/BFl36VrHZ+LotwV666QqG/M/jE5AaZEahSSp3LyBiS+Lv14bNlmzKfB3tDYsAGULd0OEUXECVMHVBQQSs920v4tOmXZ5tJg7GhhT6pPipBTHswubwJmkMMHjcjh8i+aT5nOMrBGK1CbClFMNyV3Jdm+8a5uUloczsg7SePs2MKJxFnP7hU80=;6GsnKw3gyinvnBXw07FCvA=="

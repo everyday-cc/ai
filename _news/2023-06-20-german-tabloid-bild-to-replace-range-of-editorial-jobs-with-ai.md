@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2023/jun/20/german-tabloid-bild-to
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jun/20/german-tabloid-bild-to-replace-range-of-editorial-jobs-with-ai"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "After jobs warning, German media executive says artificial intelligence can liberate journalists"
+    excerpt: "BERLIN — A senior executive at German media giant Axel Springer on Thursday said artificial intelligence would free journalists to devote more time to core reporting, days after an internal email warned the technology would lead to significant job losses."
+    publishedDateTime: 2023-06-22T18:29:00Z
+    webUrl: "https://www.stltoday.com/news/local/business/after-jobs-warning-german-media-executive-says-artificial-intelligence-can-liberate-journalists/article_994a84aa-1128-11ee-9545-43b508c8a6be.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 4
 
 secured: "F8hPAJmA1tMvJWILlVWlEEh4Qf0ZZNsEyjWOnNjUTSl5TwqCmzZ44Cpa1FcjeHmStDSJtBfGYXLUkQfiuXgCqA2mPBzxpHwg1XEhKP2V/Q0oQSCHdIPwAb1uBrPs8GA9bAce3HTmD5xU7xCDq7zpgNEQ5oyPM42azF1b+Ip1P2sBhzpI9fcb44YE0sErRwlbFccsfvRLKPd8v31QvJLM/P3ArpDTQ2Bg0r5yG1G7oKApdnNtH4QEMt9WIUV1qcIpVXsIuErDvR8I4iaF+VfvNhUlwFQlpdX8RP+avu9LmAWlyKER/T+bPzqsdjw+75peGI82q/rxJCcsx5a4PcwdiRTd7wecCZWiYQfmfIN4m+8=;/j5ZTWnzFhXrrhwgaW0jPQ=="
 ---

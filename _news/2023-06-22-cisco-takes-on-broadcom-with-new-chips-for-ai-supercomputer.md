@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Cisco launches new AI networking chips to compete with Broadcom, Marvell"
+    excerpt: "The chips are being tested by five of the six major cloud providers, Cisco said, without naming the firms. Key cloud players include Amazon Web Services, Microsoft Azure and Google Cloud, which together dominate the market for cloud computing,"
+    publishedDateTime: 2023-06-20T15:27:00Z
+    webUrl: "https://www.aol.com/news/cisco-launches-ai-networking-chips-152747034.html"
+    ampWebUrl: "https://www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 75
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e481d75a266d744c7241ad109a495cbc"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
     excerpt: "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms."
     publishedDateTime: 2023-06-21T08:05:00Z
@@ -102,22 +118,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Cisco launches new AI networking chips to compete with Broadcom, Marvell"
-    excerpt: "The chips are being tested by five of the six major cloud providers, Cisco said, without naming the firms. Key cloud players include Amazon Web Services, Microsoft Azure and Google Cloud, which together dominate the market for cloud computing,"
-    publishedDateTime: 2023-06-20T15:27:00Z
-    webUrl: "https://www.aol.com/news/cisco-launches-ai-networking-chips-152747034.html"
-    ampWebUrl: "https://www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/cisco-launches-ai-networking-chips-152747034.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 58
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e481d75a266d744c7241ad109a495cbc"
-        width: 800
-        height: 534
         isCached: true
   - title: "Cisco launches AI networking chips to take on Broadcom, Marvell"
     excerpt: "Cisco said the latest generation of its ethernet switches, called G200 and G202, have double the performance, compared with the previous generation, and can connect up to 32,000 GPUs together."

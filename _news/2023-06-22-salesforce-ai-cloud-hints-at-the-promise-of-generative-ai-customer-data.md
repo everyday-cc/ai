@@ -74,6 +74,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
+    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
+    publishedDateTime: 2023-06-22T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 9
 
 secured: "TinpbTUxuBMktHZHUA4BUv0Cbqjj1wxwl0/uB8DdBaXVfDGep7Qm3OYuKnoVAIVAno6gZOgu+NqsCd9izJiJi/uaYWnefm5gE/reRwI8S9Ek0DsHwwiz9YokT0gjFGeyts7vJBYLRpe+LDHIJ74Kn7uuklsGBCYK8p7yyAWyNdJI2VeXnnZLyxcN/Aa2P1SNNN5xUGZ0oDQQSjTkGVuBbP8TKCulSrANg0nrD36nbs4+P671Ah5rVqUJx1MHDrMvL30GZ9nnfcUn1Fs4sEx8tvC7wmrA3wx4uXObuOGQwIQPFDZPfa0165VT2/axyBlL4Izlc0i7Q4ACclbJspUFkNl2SKNTh4AOOU6wev3mNsBiT8ZSI96DG5h7hpHvdsJDv74yEry1MXCAW38W4RZZLAfQQ3PENouiWlVwxWg5pL8Ru8lojSpPGSxxbOltK/hbp5E5LFTtexdfT/F+63FVZklw41L2sIXHqL9h9rfw0se0JMLAco3IV754f37v0eA5GyKjQEiFCiNQnZGjuj99lA==;4cgBu6JluxobjYCYk2qrLg=="
 ---

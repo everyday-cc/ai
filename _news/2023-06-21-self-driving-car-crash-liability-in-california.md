@@ -34,6 +34,15 @@ related:
       name: Capital Public Radio
       domain: capradio.org
     quality: 12
+  - title: "California Professors Test Out AI in the Classroom, Even as Cheating Debate Continues"
+    excerpt: "This spring, as debates were raging on college campuses about the proper role of generative AI in higher education, Diablo Valley College adjunct"
+    publishedDateTime: 2023-06-19T21:43:00Z
+    webUrl: "https://www.noozhawk.com/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
+    type: article
+    provider:
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 12
 
 secured: "SepZJyu9VxEfkeobGJW/uyiy/hefXzEj3mNXuoPoW230NDPioGUV1X7ooI9kxJtgytMS/TxXGOlHrd/zQdBo/bn6U4jPvh699+sNCelvtI3xTEnka8IW8wFrd2bxpVWucs16uDk3QKSZ7hTFnVJpNGQYRf4FN4sGrC5lfIwdVRZNfsasuN6mhTz7/g6Wo7iNa4FGVJdoKrlk2nP/twdUUKSe7RNaUA+7H1/1D82BcauWBjWKSu+k2E6BIT4xLcKj8iOk+tZ/wv5PT2K1PkZQpNzDNo58G24ENQ0pBU7R3iAawCpSy7x3KWAuIpeJggfm4MLngeEaoPAnzV/76VHq1aEAnPEJHl0cnZTBK2rkLeJOfatbMVXp00FDKDC6pLF7/7N6HMJkM/BkWno9Fh4d277QUasXTn0WmI2rSRf+F5++0RO0+N49PDyQbAHsxgAmMYJT3GZKOqZj8MCFgLJCDbbXEigoruUNJC2mcrrvsivSwam1TGqZj4Oanq/5MH0w9lWfhHQ1YNytknc5cLNUAQ==;47ue2kob8IbFAXmxuO5sHw=="
 ---

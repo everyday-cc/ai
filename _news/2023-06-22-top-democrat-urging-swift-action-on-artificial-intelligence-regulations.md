@@ -25,105 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Schumer reveals plan to regulate AI"
-    excerpt: "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues."
-    publishedDateTime: 2023-06-22T03:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
+  - title: "How Regulating AI Could Empower Bad Actors"
+    excerpt: "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities."
+    publishedDateTime: 2023-06-22T20:10:00Z
+    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6494260aedc6b2a6518f46c2/0x0.jpg?format=jpg&crop=2533,1426,x0,y262,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
         isCached: true
-  - title: "‘A moment of revolution’: Schumer unveils strategy to regulate AI amid dire warnings"
-    excerpt: "The Senate majority leader released his long-awaited framework for regulating artificial intelligence and said he would launch a series of AI forums this fall featuring a range of experts."
-    publishedDateTime: 2023-06-21T18:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 80
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-chuck-schumer-ew-526p-9c7348.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Chuck Schumer Joins Crowd Clamoring for AI Regulations"
-    excerpt: "Congress doesn’t have a strong record in addressing perceived harms from technology."
-    publishedDateTime: 2023-06-21T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Could Reshape the Growth vs. Value Debate"
+    excerpt: "History tells us value stocks beat growth stocks over the long run. Some analysts say that script could be changing. Value stocks trade at bargains relative to their underlying worth. Growth stocks trade at higher multiples since investors are betting on future profits."
+    publishedDateTime: 2023-06-21T13:08:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-21-2023/card/how-ai-could-reshape-the-growth-vs-value-debate-EySUabfhUIMsk8phAirs"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-803525/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
-    publishedDateTime: 2023-06-21T16:10:00Z
-    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
+    quality: 47
+  - title: "Despite Federal Regulations, States Likely to Tread Their Own AI Regulatory Path"
+    excerpt: "While federal agencies have been quite vocal about the fact that AI is already regulated in the U.S., states are seeing openings to address the technology's risks for themselves."
+    publishedDateTime: 2023-06-22T21:20:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/22/will-states-become-the-belts-and-suspenders-of-regulating-ai/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Law
+      domain: law.com
+    quality: 34
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/AI-Ethics-Law-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-06-21T19:56:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+  - title: "Educators Starting to Incorporate AI into Regular Tasks"
+    excerpt: "An informal poll on social media found that teachers are encouraging students to use ChatGPT for test preparation or brainstorming project ideas, and using it themselves to append lessons in writing or technology."
+    publishedDateTime: 2023-06-20T19:30:00Z
+    webUrl: "https://www.govtech.com/education/k-12/educators-starting-to-incorporate-ai-into-regular-tasks"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 40
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
-    excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
-    publishedDateTime: 2023-06-21T21:28:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/06/how-should-congress-join-ai-revolution-chuck-schumer-has-thoughts/387762/?oref=csny-skybox-lander"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 39
-    images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/06/21/GettyImages_1500406096/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Schumer’s AI game plan, by the numbers"
-    excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2023/06/22/schumers-ai-game-plan-by-numbers/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 19
+      name: Government Technology
+      domain: govtech.com
+    quality: 17
 
 secured: "f5+0US1gEn73iEeOxieBZDX8VWfywAmkA27QdpI/5WKYOs6PrOO3FMMN+ObtNVsWsOtwdo0Vqv3gwT+gu/rZatCh7KpZ+1CrigYyoXLeIBl1PJGHxvq6Urtfs1zbIgmP6O4K438xmvQqtYOX56ljAYRcjgcYsOFxRZZ1xGSTgLKZI40A2rnmwz5xyiCJdMPH3HY3IqjwiNzHGyP9P09t7wKw+m4+o/QjaPfswJ+2fhwLhcANXmyrzYL4ci3arZfPRGZT7jj0uRrNMr29UksrWcz0EuSraMhi4DfdQlQ5DBsicguD0ELmExKkgPDe8JqTC3bGdbkvs+AEoFnTnpVMMYbV0SrUxJBhfsB/zr4gq4s=;lWW8Lx+XgPm7TkHSL+O9aw=="
 ---

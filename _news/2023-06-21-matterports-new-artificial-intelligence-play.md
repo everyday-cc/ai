@@ -80,6 +80,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Open-source AI chatbots are booming — what does this mean for researchers?"
+    excerpt: "But while large technology companies such as OpenAI and Google have captured the attention of the wider public — and are finding ways to monetize their AI tools — a quieter revolution is being waged by researchers and software engineers at smaller organizations."
+    publishedDateTime: 2023-06-20T15:44:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01970-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01970-6/d41586-023-01970-6_25515824.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
     excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
     publishedDateTime: 2023-06-19T03:26:00Z
@@ -93,20 +107,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Open-source AI chatbots are booming — what does this mean for researchers?"
-    excerpt: "But while large technology companies such as OpenAI and Google have captured the attention of the wider public — and are finding ways to monetize their AI tools — a quieter revolution is being waged by researchers and software engineers at smaller organizations."
-    publishedDateTime: 2023-06-20T15:44:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01970-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 35
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01970-6/d41586-023-01970-6_25515824.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
     excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"

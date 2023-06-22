@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-producti
 webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
+    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
+    publishedDateTime: 2023-06-22T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 9
 
 secured: "X0WU4olh6yLhwU+3YotU8nSMayXvUsT6oZsp0frRSR7kiymGQ1wupdRcrX0P90EurrIfDmS06nI+2rBw2BII0zLie8Y0G+ZjLMoKzQSt05Hf3Pcrn7hOuiugWltFSN4Qz9S36Fg9wpZOfMY2Gqihg9+zSTNIoHFzwEKXK1o4ZkCO/1H9euA+TuIL3ZcNuDMXkjZxAo9VbKQ7wgOPInlOWaN+dDxqFlNyDn7haSF/Wu2xbL9T6X2lNRk5gRWLZToSf6h970yC9KrzOhn4aAwatgisBwybJoQln5xx/oN0J7kbKTnXHzojzHFck65U6Lgtppmc8dHLeC0sWBI0G9748Z2C7Yt38ack02DUbvyQndI=;tXlSrfKEAPod7CUXlhS1/w=="
 ---

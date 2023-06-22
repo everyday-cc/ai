@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2030 | Deep Learning Market Research"
+    excerpt: "Jun (The Expresswire) -- \"Deep Learning Market\" Insights 2023 By Types (Hardware, Software, Services), Applications (Healthcare,"
+    publishedDateTime: 2023-06-19T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2030-deep-learning-market-research-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
 
 secured: "2nVSXRzjFnpIirjkn4SByJKAFB1avJ053p8MMm555gbqyEYsRN7lP3G3qCJSRejn8NAGPcYLKMKfwBSl/zXtIXKucZ6v2sT6BYgmtaXHy0aJTD/uz9RagI79lviIdjPDjGOgaz3NNM2j7M8OSdRNv1zAzpzHgYD91QhPaXYW0yFyElqLnvGUhEo0CfT9zsruewjL+75HwsQAhL01T3n65wIgZ2RtH03tPjIvzWJZm06ER5pECz+XrZEJUDhlIup4ooMX17RXiSq2JVBahOlEvhm748gYLqHawzj++vLxvHk4ucg175hfz44lxOD7I76QeejfC9k9Kp2Tc+oB571CPBTDjogVV0eYkjBZIOaaDxs=;AdrTOFQTH4FHaMRHO7/FXw=="
 ---

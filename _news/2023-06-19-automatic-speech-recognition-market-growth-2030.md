@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence (AI) Chips Market Size, Trends and Global Forecast to 2030"
+    excerpt: "The comprehensive research report titled “Artificial Intelligence (AI) Chips Market” 2023-2030\" provides a detailed"
+    publishedDateTime: 2023-06-19T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-chips-market-size-trends-and-global-forecast-to-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Detailed Analysis of Existing and Upcoming Growth by 2030"
     excerpt: "The Artificial Intelligence (AI) in Fintech Market Scope and Overview Report for 2023 presents a detailed analysis of"
     publishedDateTime: 2023-06-18T20:43:00Z

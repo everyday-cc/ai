@@ -102,6 +102,31 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "The people paid to train AI are outsourcing their work… to AI"
+    excerpt: "It’s a practice that could introduce further errors into already error-prone models."
+    publishedDateTime: 2023-06-22T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
+    excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
+    publishedDateTime: 2023-06-22T18:36:00Z
+    webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
     excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
     publishedDateTime: 2023-06-20T12:30:00Z
@@ -128,7 +153,7 @@ related:
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
         width: 1200
@@ -221,6 +246,15 @@ related:
       name: WATE 6 On Your Side
       domain: wate.com
     quality: 17
+  - title: "How the White House is moving into the action phase of its effort to regulate AI"
+    excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
+    publishedDateTime: 2023-06-20T23:56:00Z
+    webUrl: "https://www.aol.com/finance/white-house-moving-action-phase-171620546.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "0yyUVNe67kF27wIoMO8dLyacEJ6KVxKSkT0YSP3uW6Gq0S5YROWsHM4hMdTRGwKUoYIvJOWeToSNWrG1Uuih9ASH07iU/1U4vp0xakqccK/5hfTMF+/DKj9tXcSRk/Crhhxv+EiPlxFUgP3q/Gibr6onG/q9+zJjxVv//TkG5SA1rljGL6YED8iXB2Xbq/h6gtO004pf4JskCzlNur++AN2aA+ECX0z92Yh48kE/FjF9xLru77ra2BKf9izxtt7Hxguwq9UMdY6FfX1kBJ+07/QQu4lkQ2JWyvmWAftQDttDfhUuy/9OJheLAq/L04k9wFdcZHF++mylI8yY4iWH5jVlhjCneooLWrUVMkR9QhU=;WMygp71fE1jXP1OlGvch4w=="
 ---

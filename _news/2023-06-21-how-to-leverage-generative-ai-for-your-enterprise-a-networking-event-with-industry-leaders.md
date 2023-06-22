@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
+    excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
+    publishedDateTime: 2023-06-22T16:01:00Z
+    webUrl: "https://venturebeat.com/ai/stravito-launches-generative-ai-tool-enterprise-search-knowledge-management/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stravito-Answers-Press-Image-1200x675px.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In the AI arms race, Metal aims for enterprise dominance with $2.5 million war chest"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Metal, an artificial intelligence startup focused on enterprise applications, announced today that it has raised $ ..."
     publishedDateTime: 2023-06-22T13:00:00Z

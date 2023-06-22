@@ -33,6 +33,15 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "California Professors Test Out AI in the Classroom, Even as Cheating Debate Continues"
+    excerpt: "This spring, as debates were raging on college campuses about the proper role of generative AI in higher education, Diablo Valley College adjunct"
+    publishedDateTime: 2023-06-19T21:43:00Z
+    webUrl: "https://www.noozhawk.com/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
+    type: article
+    provider:
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 12
 
 secured: "kSzBgWpXkhDSNmoKTzTUtTChzJ/crTr8/jRkhq0aewsMzEGWu6a0QbtXodic3hGNwfDmBMaKLZ1V+KrXxZHsQRS+9yJB6Qpv3GuMXjYEnHbzHNOrJLUZdZHcZHhNJC2tzjY+n/+XySOg4Ttbug3nEVIFHxbNsa5YZZ4yFpzuV1TeqidmZX/c+c+LXo8S1n1wh0/++QTjZDcKbkqpgmH7fur5uC/0KFAtM0mhBX+dKX3W1BL0UyAD6Ben9FK/r7Yhxt8qQaC2KjJjypUWVPHznKBUFueUJ0sojUNKxdCf4Pjw+tosgn/70BzrZFGCR1r5NuPTKDN3ukbWj+aYedpYnECEd1QXXnvEZQrFJOQoCs4=;RhIN4Cx4U1KRcTDXkAcnNQ=="
 ---

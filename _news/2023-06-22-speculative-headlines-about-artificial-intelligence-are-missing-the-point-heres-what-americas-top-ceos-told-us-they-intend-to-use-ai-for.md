@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-inte
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
-    publishedDateTime: 2023-06-21T12:14:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html"
+  - title: "Is America Ready For AI-Powered Politics?"
+    excerpt: "“Astroturfing,” the practice of professional public opinion operations masquerading as organic, grassroots political organizing, has a rich history in America, where the return on investment for movements like the tea party can be astronomical."
+    publishedDateTime: 2023-06-22T21:00:00Z
+    webUrl: "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee"
+    ampWebUrl: "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 0
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/648cc1312500006600dc72e5.jpg?cache=8DzA0NLnBX&ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SgqTytj7upssVtx0kHxcc4rhX+uCpYYVbyLMUxnogIuDywsZrxBpZELcH9z1vaEQiK7XQThH1doWw63o8KWnbGItWSlq5zjeC0IIPMoGzxU00rZL5NmDnTckpbrKvko+9Q+61RoX5O/zoBfV0qdxPPovjwkK0EORaoY0NE6dGuPZQp19O1GV3IF7UYNqzHpFH8UzWRyy2fIBZjgUvWuDbY6/HjG7Ur6k6wN9UGCUT96GtGQzSBwja3UVxBHt6Y/tt9JRXAsqE8UWtSerhLzzzQgwH7l3UWlLO63wLWElGxR5n8BdqGzJTgpDe6mAeiRp/Y7DhzMX7iEQIA2nJlrlRC7CkSzA73vRMWVI/JnOAm4=;7nbG6ZCLDKkOdsW0/skjxw=="
 ---

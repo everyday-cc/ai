@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-21T22:37:00Z
 originalUrl: "https://www.nationaljournal.com/s/721842/killer-robots-military-weighs-advantages-risks-of-artificial-intelligence/"
 webUrl: "https://www.nationaljournal.com/s/721842/killer-robots-military-weighs-advantages-risks-of-artificial-intelligence/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.nationaljournal.com/media/media/2023/06/20/south_korea_koreas_tensions_05058.jpg.optimized.jpg"

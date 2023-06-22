@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
+    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
+    publishedDateTime: 2023-06-22T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805133/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -101,20 +115,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 47
-  - title: "Generative AI will upend the professions"
-    excerpt: "They emphatically refute the idea that AI systems must “think” to undertake the tasks that require “creativity” or “judgment” — a common line of defence from the old guard. High-performing systems do not need to “reason” about the law like a lawyer to produce a solid contract, nor “understand” anatomy like a doctor to deliver useful medical advice."
-    publishedDateTime: 2023-06-18T04:00:00Z
-    webUrl: "https://www.ft.com/content/96a1877f-0bbb-48c7-be8f-4fed437810e8"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "3+EHN+/JFfzXNhP552K3AHEQUICFto6+cFLFtD+6sWnbw4l2mFtSJIO/3SYsdhC4xY4BN9FtsKUEabTCugi1aGmfcpa2rsAxm4BDfTEMd6sPgLu16/pZr5ruy0ov+Ik+WQ86SqswLuOa0fQOfj0CyMd4cETj+D+vNe+MPMty25oJMri5nUhrCxFiyiTb4kh3lolgG9LMN+6Wl1fpBbTmPelm07vVSzywWRDdYJJKkfYI8uPafYC0IcRAeUjPns3B2xtKVlqNKfT0Zav/poQIQlkbBrlJ1R7HOEQMGtcAjHoDEAteCsFJgyKifWGTCg5Hpl+FFoQe2d9sPA6uwcOzC+z0hOv7dpGUsVPuX3/+Q9U=;sJP4jsii4YiSdc8xAP9A8w=="
 ---

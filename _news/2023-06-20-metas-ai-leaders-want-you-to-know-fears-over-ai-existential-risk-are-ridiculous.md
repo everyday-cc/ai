@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-20T08:18:00Z
 originalUrl: "https://www.technologyreview.com/2023/06/20/1075075/metas-ai-leaders-want-you-to-know-fears-over-ai-existential-risk-are-ridiculous/"
 webUrl: "https://www.technologyreview.com/2023/06/20/1075075/metas-ai-leaders-want-you-to-know-fears-over-ai-existential-risk-are-ridiculous/"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,7 +16,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "48twam+Jr+sDTqAV+h3u9k/4xIzamVLhacVDWed14kge7NRcCaMcM5o2L7oNUNpZrMxOC9nva86LFBRen0vnYmUS2KLHLcW4bSGx61bs4zkP/seNmF1mb/oudb553TnQPlTm9zWay7x6fKEkF7IVayaP/ntGT99mw5pyAE1Y2hcoJyB8CHaPcdwFaVhZqGft7/b8Vj+9o8XpVxi0g7D6ZUNj7iYDR3yACyZIg0L8d0TxUiqPfyxJXFxRY+PpWVXVeGlt4Vj0cDIHTMkHK48sBm4P9MiEwrdz0OBJR7cxuIJ2xMQha5D0hPHv1dKAi9dSXv396mCy5avQypVrsYTQNO6IpgTDMvl8DN4srRW+ZG0=;XxDv/XN3HwMweM7x/IjpNA=="
+secured: "nQ3CptCjR1Y602EG8k6eMFqvLXiMFMpY02ZWx/SrfKGFn8PbsDwYchpWJgzhyx3ZGuHqxXWUbi89PYfvYVYuPOT6oXj+LFihDmJDXEF0C3V3HYVH0nB3TITYwTKDe7zQ06h0eqc1W9k0a3PtY/KH6NEhuTop8XkOUSLN6hzF85Uqcr9HmoZbZGK8LrYc4quvKWoiO2s8gF0N8CgUTn9HP8itslPnrlobuj1pBowDxPf99RPgfjANG7wUnP0zk4lrS32dtgcwnpCprvxe387vVLiaxyvDc/5HWBnQAtnlMfu8G/SKDIoqsbE0UQxjW7bEm6PME8E4no2IVK3Jx/wQvnlXZ07cN/Z1Z4Cm3CSkV7arKBIvAQCWr2+XZ9LROXEfciw+ArcvkbuHLJEWfGQfXO8pbIveRp7AHcR5jM5uRFkv69N3ZQWQLzGlf54qDcR0lmVewTCOdz9C7O/4pAy//HQSQ0MYydG6ju9yVT8ZmKsYCh5K0YZaM88qRpv/DXtLT8tv7emGJALPFsdZHlQXAw==;qYCC/dOa8FegH9ZadHMG9A=="
 ---
 

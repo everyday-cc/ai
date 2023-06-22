@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Biden will host a forum about artificial intelligence with technology leaders in San Francisco"
-excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence."
-publishedDateTime: 2023-06-20T09:18:00Z
-originalUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-webUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-ampWebUrl: "https://www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/?amp=1"
+excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco to debate artificial intelligence"
+publishedDateTime: 2023-06-20T11:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225013"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
@@ -101,6 +107,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "DN2gyjs8Czfo7/OPqVpIa2oGeBl0UEAIIseey0HY6zAccLcRn5wqbhmOgoxUNKGfPvk/LMKPn8QY/bynXIV7VghnlDpZh64XDJlluT5b3+vo3T9bIZpvibms+t//1gSPbtLN0ej1twcGy+faLScyK2d2cB8fWv9ZVjC4CQiEMyhR3Ql1SwEt7eh7x06uPaXSYKtkrmgD50WD9Pa5P+2jvcd1r9YXhiiusqdR9sRw3vEnN0VYtmrUnBDVzgbhaR5vXoq80VlzkYKa59XaP/xQsE50oig/3ZmkvZvHx5RkO0oecfG4U4PU1nFe/NkhQqCYDTMfFAgWL6xEUdLNzoa8jUoYUh6ezau/gUZyHvPfOMnJAtSKGnN0VGDvTekalCEJ1zVU5qZom4hics0pOERSaBMDHvsUS68H/IBi2/DVuYeAvYG351Zht3CzX93tKVH882JSeH80qHt+77tYQXOJ+II807jUyeF1lWoobLLEPH5tkYhSHBTTc9f0tOvhxuJfurOUs5neYKwYPpuj2o0f4w==;snx6KGSsZvN1WNYV59bLzQ=="
+secured: "Y3gd9AM2HkQV1pFoyFNxBwXh+SmUEWKedEi9Wve5tKCkvtywM+NRNeGeKSi1QQXUyNaQUNjberIxUTr6T4j1CcccOAk9sU2R2xlJ5k0e6acJM1yXbTm3Ln3pfi+z33T1NNbffTQFU0iuy0hy4cHicxlihL1oJDPyXNNM99W0Igi5BwFclcdoVMaZT39mvj8dCPTSUZVhzfv6JUoTMCE5wizT1yiQ8SQyX7VGaKeEdOTOk0OUvMDOrzfGPcYqLeuIrJAmKM+cEYvmzGfokqJ5qlBJlNfnQ+cC7yFW8/frItUueekqOvYhe44xQ1vcZtKk1QCrNZ9K2ZpOK7OsE0vkB/uVvd3ueIJJwxQP4OjxOug=;0y0YDzbtsHx6dyUaMEt1ig=="
 ---
 

@@ -69,6 +69,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
+    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
+    publishedDateTime: 2023-06-22T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 9
 
 secured: "QilP7XeI8XfGlCoPYTdsFMxo+Xoqe7zOJiWNvaAxQdbxf58auh85m/LLxxh1MbAcpTqL252aLxId1VC5N0XGy2Scx6/Oa3jnOG+NwrA9jg+EOm+Bh/V7hRl1WA9BxMC7R//mZtyyQ7E5vODxvO0ajge5uTAsywMqTZDW5CGe/93h5NQbvnG2ccnXuL+y9cKV72Ij1Nhp6yFhKd4kYiPZbny2YHvTyReBz5qhKa/o4hywfXGHZbttnBUpQRVpVdHxH9fJJ2Oqj2lYo3H3mfWTXMLeFcsgrhRcRatHgMzhxYZTwAnDO/rRlJnf36rJNLCVgoxzErfkgWTjTkxdOKYBs8f4AGldJnAZRv13dRaRFrb7gTcwUiDfKgLyYfkCvrwTh7g4+mKkwwyrvy1X3QdHwIoT3xJYJiG4f+Z9FO9q9mKes/yF7A2qnDY6hICoeojSYcWOCsgQh+r4EQUWNtuZQJGYhkCTBBLaMVVkXA1G+TADuYRLC3ptATShJiQ6NulwcVe65G2Vpp5s4ACd/piblg==;fxIJGo1VbhoC3uxvnicJzQ=="
 ---
