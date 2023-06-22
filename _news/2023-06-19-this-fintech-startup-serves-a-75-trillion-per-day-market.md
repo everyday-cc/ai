@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
+    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
+    publishedDateTime: 2023-06-22T11:28:00Z
+    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
+        width: 332
+        height: 249
         isCached: true
 
 secured: "Hn1Hg/eLXwiO4xmcVPLBOIeZ3/UNVZQtn4EO/NrH19SCekuW6fZqsgonh+NQRw8o/sf2+QpchLMj6P9vVvzvNITFKyRWl1NbVP+Q4ejDukGC0Y7a9plhPMy6IljInnVV1JazaoCNP5X+TT8LgzrDvs5LtXrlCtcS8dt77BXZReTCJwFzexhw5uu43vfk7qAY7diJdPoWgfj3bI851P1Pu5fBMrNqDccYXZ5w1YrEwGQOoRhd946gjVyrgXj7eswvQePjbxGWg4znqgIt/UCKRZWKy//o8YCpfGVoYr5aP5Z20aQVFPoSLCAM/whpkEwmaGBL4PiTCIICNFtZzK68gSj3Me4o0stf8jVXx44jwvNKPTbj1ZxM6lJGmbxeO3ZtfXDHTzuSCu9C/unGLp45vz7DsqttKOQjJgWqqYEhfYLszpHbUGnTt/3Rxp9a7unk3N7YRjjBE+G5yWUXqNmtzUf0bwclYAIDBBH4YlvJpKvnlzRHGtEFk4hoDZpySl1t4IBbdOhPArlC4B/GISPuSg==;JRKjHOajjWxVPmUqSf9IcQ=="

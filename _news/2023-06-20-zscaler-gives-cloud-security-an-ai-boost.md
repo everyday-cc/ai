@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/zscaler-gives-cloud-
 webUrl: "https://www.eweek.com/artificial-intelligence/zscaler-gives-cloud-security-ai-boost/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AI in Security
+
+related:
+  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
+    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
+    publishedDateTime: 2023-06-19T19:22:00Z
+    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "wS0jvJA/Rtxptf4+bS2gx/vZgTQ7i1F9TYr0vMtTOi+yrm9YDFq/3KdPj4PlVlX6jPEGbUkLr7gAOVcadrwQe1X8FI0oxOMqLFkE8/6Z7jxV7Y3L7mEqn8iHYpIiR6DQ829buiJOrJ9pIdEgLOJttNbFw6URkp5qYV2LmsxMFoZxfZhSMOiINc+yd1hJOeedc4DVdfZ2242Oy05qFh+snSWf3xtqH6MBYTeDrzlnn4Aw3veQBX0d+tSSiD6QjPEyzymZ+YuQXEuOqG4i/+XEmUzdxGn7wKMX0jd+erZydS3+HzXtLGMac0nVkafoyfIoxWTXt+ilCQQCmvI0QNqBsDVOaHbVODP0/nRCIPpD0CTicOg6eaZRaYt9SVDdt27Rkz6oSJZD8yNsubrAw7I9+Hy92z+5XkT6Aq/aFDqzrL/oNRs+5ip02x3tvWMQsQyI3byRafgc2IYqdzDh8QQ7VHAgY4pEG/XsOTpwQZfqPx462KlkXELyuOHsHj1dSSBVisgQTD+dSOFqjc7Eq34tVw==;6yPCE2DjaYq0/WOkBskqsw=="
 ---

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco Unveils Speedy AI Networking Chip"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ..."
+    publishedDateTime: 2023-06-22T11:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
     excerpt: "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms."
     publishedDateTime: 2023-06-21T08:05:00Z

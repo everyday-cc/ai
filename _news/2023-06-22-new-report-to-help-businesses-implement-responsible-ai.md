@@ -19,19 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Empowering the public sector to implement responsible AI practices"
-    excerpt: "SAS’s Joseph Castle, PhD, sheds light on the importance of responsible AI practices and explores challenges in operationalizing AI, ensuring ethical development and managing data."
-    publishedDateTime: 2023-06-20T15:34:00Z
-    webUrl: "https://fedscoop.com/video/empowering-the-public-sector-to-implement-responsible-ai-practices/"
+  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T07:42:00Z
+    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "Toyota Is Using Generative AI to Design New EVs"
+    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
+    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
+    publishedDateTime: 2023-06-21T14:20:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/06/Header_SAS.png"
-        width: 1728
-        height: 946
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "CSIRO leads on responsible AI"
     excerpt: "The National AI Centre, housed in the CSIRO, has released a new report to advise small businesses about the uptake and rollout of AI in their operations in a responsible way."
@@ -44,6 +69,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+    publishedDateTime: 2023-06-21T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "dLAoC13pzpxgfnJGflb7enJqusaY2Cym3g51xRmAij8D9opM+baEaVmkbwjWMmiDwFgnma7AJLtuN9QWtriFR1e5e7Qu/9LPSidtX446b07MXr9XoSLf+sBNLHfvT6wXpn4OLWujj4i7Odv9adt3q9ARkCJQp6/QcrUKAAx/IHmp+wgCZKu7vY/kCtP4C8qXYBbTSlCdlLGxCuAPm4y4mWlZu6+O8xV1q1a8eROgT8s8yJXYcuubhfsPkQ4rtq56WEetr/vXphmc3A+MKwiL4PUsjUdyI8WWDjVyRuLF2m9uhMAAPv0tKcl9Z9xg3j/9Penp0o3dVzSKEdESPmNZZ3ch6CyzFLPkjK5a05pyyQhTLK3Oz33EgNS2QCa7IftpNRhX5iaxhIMxySIrNj24WgGDT2vzhKePV+s4iN2cRLSz9WeM9H5zmWgPcrs2MFWygzG7EsihW69V/a3MwSMg9T7iyb9QOj+A1KelTLFS2r61+IPPRyJkmVnrpMl7XKuxVoGsae/pda+yMHbsLjCPRA==;31fNp0DGCm0k0OjmwlFusg=="
 ---

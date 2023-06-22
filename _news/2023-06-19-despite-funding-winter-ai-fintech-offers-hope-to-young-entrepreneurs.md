@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
+    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
+    publishedDateTime: 2023-06-22T11:28:00Z
+    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
+        width: 332
+        height: 249
+        isCached: true
 
 secured: "6LFQeEGiJGRu47OQbZDld4u4Mn4umZ9+9ck3MnlBt8IU8LmNoCopl8be+z9vwxRU/KejZxTV/gsO1XGx2k52VMbKOd6l56yO8LBJmB66QzMkZrvsNaOJxlQOhPY06PiWudiASrNk2fzQbKdc126QhnonRKy80KQNN/9g9qDpdDcRbAsxR9f1lsKnoVeHPT2GrrwoLby9EG9C9ROBNJF9CXKzQncHKo0q+s/wCckEHiXIJNVB9DFUVsfMmXklmMhyCRJGL0Ec0QkwuHf4xtIL6gh1Qro56svt/T6zREFJWhailh0P1bWHz0yYbW88/ebce7rnUKhUaNBfWSj/XRpcj8Zt5nJTpqNzWJLpoHC0cT00rxyNn4zSooW8PtyUyJpoAGJFxjidnNNhA/UmN99hqrnZUcLg/TR5d9fCuVooHJCLBIs8g3xbo+cl4xn7RnTbPhtShN9B6YJRPEy1Z2zY63ss2ZJKjF9LQtznMqP0sfTOKy7Gp/r2tfp6PT8nBwoXKHoPZyU9bJfcEiUKU62nWg==;lXv16yi1Od4q2GUuRappbA=="
 ---

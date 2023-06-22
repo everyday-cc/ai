@@ -25,17 +25,148 @@ images:
     isCached: true
 
 related:
-  - title: "AI is not yet killing jobs"
-    excerpt: "In the early 2010s many of them loudly predicted that robots would ... of an ai hit to employment. In the spring of 2020 white-collar jobs rose as a share of the total, as many people in service occupations lost their job at the start of the covid-19 ..."
-    publishedDateTime: 2023-06-18T12:22:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/06/15/ai-is-not-yet-killing-jobs?itm_source=parsely-api"
+  - title: "How AI Is Changing The Future Of Work"
+    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
+    publishedDateTime: 2023-06-22T11:06:00Z
+    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
+    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Exploring The Impact Of AI On IoT And The Future Of IoT"
+    excerpt: "IoT can be seen as a huge network of connected things and people, all of which collect and share data relating to their usage."
+    publishedDateTime: 2023-06-21T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How generative AI is creating new classes of security threats"
+    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
+    publishedDateTime: 2023-06-18T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How to future-proof your newsroom with AI"
+    excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.journalism.co.uk/news/how-to-future-proof-your-newsroom-with-ai/s2/a1045763/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
+    images:
+      - url: "https://www.journalism.co.uk/assets/189/Untitled_design%282%29.1.png_resized_460_.png"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
+    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
+    publishedDateTime: 2023-06-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Software developers work best in teams. Here's how AI is helping"
+    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
+    publishedDateTime: 2023-06-20T09:08:00Z
+    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI meets the other AI"
+    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
+    publishedDateTime: 2023-06-20T20:25:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 39
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230617_FNP502.jpg"
+      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
+        width: 1984
+        height: 1568
+        isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-06-20T00:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
+    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
+    publishedDateTime: 2023-06-20T02:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "The rush for AI chips"
+    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
+    publishedDateTime: 2023-06-20T19:32:00Z
+    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 34
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
+    publishedDateTime: 2023-06-21T21:09:00Z
+    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -48,6 +179,33 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 19
+  - title: "Developing AI is playing with fire"
+    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
+    publishedDateTime: 2023-06-20T09:23:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
+  - title: "How AI’s legal risks are challenging marketers"
+    excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
+    publishedDateTime: 2023-06-20T12:22:00Z
+    webUrl: "https://www.marketingdive.com/news/how-ai-artificial-intelligence-legal-risks-challenging-marketers/652707/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 19
+  - title: "How AI is changing the 2024 election"
+    excerpt: "“Using AI to create an ominous background or strange pictures ... Sarah Kreps, director of the Cornell Tech Policy Institute, said people may start to either “assume that nothing is true” or “just believe their partisan cues.”"
+    publishedDateTime: 2023-06-20T09:27:00Z
+    webUrl: "https://www.wate.com/news/politics/how-ai-is-changing-the-2024-election/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 17
 
 secured: "Ecrm2Uin06NGMja9JMCiAEIUfzibOaseJLGwSFE7CEih4ncwRzJtwpmpHPfSj+zm9QEjVyjZCY1+gHPIhmBsw2OWYpvojtrofE7kRruQQCLw+RfWmoAxv4OBk3fr7orSNnJdseVTOGl4/3o2A9SlaFnDk7fInPfB9pl8L1EIaH5TEK6kNeUiN60Qgdfcqq9DBiP0Cv+hVfneTlZqlEu6hPI+WAGkL/yMK+PzuGbdldWSog2MgRTHYnShbo71K4TI9TwBVSso4KEUk8qroFMoEj4n3aFSHkwOZD8aJq0Py/f7LjujjyPATGDMwekFalmHXeyj8+UtnL1D0olYB6RgDz0UOSvsVz1sBjOkipw2z7U=;lr0x6ua6U8yxN9YIZZ47pA=="
 ---

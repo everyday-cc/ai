@@ -155,6 +155,20 @@ related:
       name: The Journal
       domain: thejournal.com
     quality: 40
+  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
+    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
+    publishedDateTime: 2023-06-22T10:00:00Z
+    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 25
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
+        width: 644
+        height: 551
+        isCached: true
 
 secured: "Z2xXkFMiSLDyOIg0xJRuJ7jf1+uCgWI11GcLMckUiPMi2UPqbM/uPcYvlpri6bRqcTDQODVTGthlb06bgNQdTGD5eNNRizY6xe75c3t8U9Wwv7YY6rnZWGnszQs8bRp45Opm9MjUypYPo5u/ePllmwRPLRtBVrR5xq/YlGJyRvphKvB0+rEoKbzcf8C9lwBCmkMArEtHFScq2NAEGFKtpsyMadomlcviJPurS/ZyXQrWqSMEAVBOjyFMZTpJrxVx4SAwEABsOOeYfJNS3+l8Rgv1hU8cKPdKaFfaecAkOhcsuCvs4oL6VVyjPVo021N3cmfnZ0fCoyzlga/YiKZRgCVGC6jG3dgRwVEa86+E2trkd0QBqKsMA3dgGzV9gB5KkE605j0A1A7q6S2j2FwSvzPjuQJacevOiKKTxENKIAnY0OyMYeoBzHKne48HUJ3kx6KwIt7+OjJ3ikW44WMsP6CYEBm9BBs/CQD9spYf4E4QYeW/LAwKYj9tAU7XTKo0TFhgwzmVZ9i+WZNtjEFl3w==;pbuhEylzDQG1O/jcIOCaZQ=="
 ---

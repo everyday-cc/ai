@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The rush for AI chips"
-    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
-    publishedDateTime: 2023-06-20T19:32:00Z
-    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 34
   - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
     excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
     publishedDateTime: 2023-06-22T02:40:00Z

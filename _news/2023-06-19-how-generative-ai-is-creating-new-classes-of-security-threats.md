@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-class
 webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
 type: article
 quality: 86
-heat: 196
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,127 +30,187 @@ images:
     isCached: true
 
 related:
-  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T07:42:00Z
-    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
-    excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
-        width: 1198
-        height: 685
-        isCached: true
-  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
-    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
-    publishedDateTime: 2023-06-19T19:22:00Z
-    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "5 ways generative AI will help bring greater precision to cybersecurity"
-    excerpt: "Cybersecurity vendors have different visions of how generative AI can serve customers but all know they must provide guidance to reduce risk"
-    publishedDateTime: 2023-06-20T18:15:00Z
-    webUrl: "https://venturebeat.com/security/5-ways-generative-ai-will-help-bring-greater-precision-to-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+  - title: "How AI Is Changing The Future Of Work"
+    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
+    publishedDateTime: 2023-06-22T11:06:00Z
+    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
+    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "Toyota Is Using Generative AI to Design New EVs"
-    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Exploring The Impact Of AI On IoT And The Future Of IoT"
+    excerpt: "IoT can be seen as a huge network of connected things and people, all of which collect and share data relating to their usage."
+    publishedDateTime: 2023-06-21T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to future-proof your newsroom with AI"
+    excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.journalism.co.uk/news/how-to-future-proof-your-newsroom-with-ai/s2/a1045763/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
+    images:
+      - url: "https://www.journalism.co.uk/assets/189/Untitled_design%282%29.1.png_resized_460_.png"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
+    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
+    publishedDateTime: 2023-06-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
+  - title: "Software developers work best in teams. Here's how AI is helping"
+    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
+    publishedDateTime: 2023-06-20T09:08:00Z
+    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "The impact of artificial intelligence developments on cybersecurity"
-    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
-    publishedDateTime: 2023-06-18T07:00:00Z
-    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI Is a Lot of Work"
+    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
+    publishedDateTime: 2023-06-20T08:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 39
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
-        width: 930
-        height: 620
+      - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
-  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
-    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
-    publishedDateTime: 2023-06-22T08:56:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
+  - title: "AI meets the other AI"
+    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
+    publishedDateTime: 2023-06-20T20:25:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 29
+      name: Politico
+      domain: politico.com
+    quality: 39
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
-        width: 570
-        height: 367
+      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
+        width: 1984
+        height: 1568
         isCached: true
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
-    publishedDateTime: 2023-06-21T04:17:00Z
-    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-06-20T00:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
+    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
+    publishedDateTime: 2023-06-20T02:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "The rush for AI chips"
+    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
+    publishedDateTime: 2023-06-20T19:32:00Z
+    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 34
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
+    publishedDateTime: 2023-06-21T21:09:00Z
+    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI Is a Lot of Work"
+    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
+    publishedDateTime: 2023-06-19T08:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 19
-  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
-    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
-    publishedDateTime: 2023-06-21T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+  - title: "Developing AI is playing with fire"
+    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
+    publishedDateTime: 2023-06-20T09:23:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
+  - title: "How AI’s legal risks are challenging marketers"
+    excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
+    publishedDateTime: 2023-06-20T12:22:00Z
+    webUrl: "https://www.marketingdive.com/news/how-ai-artificial-intelligence-legal-risks-challenging-marketers/652707/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 19
+  - title: "How AI is changing the 2024 election"
+    excerpt: "“Using AI to create an ominous background or strange pictures ... Sarah Kreps, director of the Cornell Tech Policy Institute, said people may start to either “assume that nothing is true” or “just believe their partisan cues.”"
+    publishedDateTime: 2023-06-20T09:27:00Z
+    webUrl: "https://www.wate.com/news/politics/how-ai-is-changing-the-2024-election/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 17
 
 secured: "pD2WsL/t+dQWHiCMgu0DiAJryyYFcj+SpjrIL358rm1DlQQZ095pDhJ0lfLvHbsXxlsy+CKZ6Qxc0oJ+9MpfLApziHV1d7R1o0U3iGGEVXPz3NKkA5xhBTrST3BY8mQ5gvPs/NcC/Qx61p1pPQUcrpPbsCxfRBYhexGCA2pCplrRMzRaDNGwu6tJP5IBPnLw2Hf97rcv1HXaf5I8/IFERcoB0mYBelluAHzSSJPDGA9812VugrBKosJxjeH9pXwK7JTA1ympoS2RUkP8DXQEbLJZqOzOhwS/uVyq097CVqRnSIdmHnhOQIffqIodzOR9FBSdglhSfYeDJvkPTj0i/Z3WbbU4gAYPN81bPEaGctabLfo8ZyMCt4oWV+FGXn3FAJiiVcASwAkF7sBLvACDCFo3VjaCJC+r8MKVJfXcLE3Z26GzNakr9fKAC4MjUVRmQy+tzZ6Y1rK5kg+s0Xrx+k9B6ohjdIyPcCJOlnLWUVIYbdTCiQLyknGsHssAfBh50IDWXzOy6xVxI29Q34icuw==;4zJkpHHxuMizoME7Y6gt6w=="
 ---

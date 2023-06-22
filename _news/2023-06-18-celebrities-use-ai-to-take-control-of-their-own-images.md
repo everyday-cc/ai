@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-bran
 webUrl: "https://www.wsj.com/articles/ai-deepfakes-celebrity-marketing-brands-81381aa6"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     provider:
       name: Nieman Journalism Lab
       domain: niemanlab.org
+    quality: 17
+  - title: "How to use AI to expand the background of any image"
+    excerpt: "Use these simple AI image extender tools to expand the background of any photo or illustration you like—they'll make up something that should fit."
+    publishedDateTime: 2023-06-21T12:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-image-extender-tools/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
     quality: 17
 
 secured: "E2PXI56Z/8HopR8J4plP7f5wWYLV4RjW3mJ+Co5Qvhooedlj4+lEsdgGnYsl/0UFMzyZAqlNXGbppSTOJsNnqXF89zEJ5nOySlYLxeJQgY7Lhv5FKQ5OtCOyqh0d9yazC+adYgxoY8SfhvnccSnaHFIEcxcBkp5KsSAEWuaAKbrHRo9MqtBz2D5tmrWnRjAIpHR8RK1GBRIalhHZ/bux2JgeBXj6swa07mRR5ycc3daeuDz6LIoquBdFJNH/5wpNQNwtJCgTPg32t13CUD6I+Cjl909roAi9bQgEu6p3TeHgNlCNyc/OFKGG7wOAdsLSRze0d1IkD6UsX74p8v/kXJ5haoj8yHmP5UQ4q21IDt2b8cNLZu5Z0B9jmpnsy9rCdz7BkDR7qC9Q1CS82RcHxzuV5QO0+RCizIxrUVfAnJvCmgOJ+9PJInTQ3YT3gY4JY6gsjK4/UFD01RpCsn+pOnhQbsLYnfA4NL2W9jMT+8FVEXae/MEiSlERWI6hq4RsYFlMtn/rYYnX32ER7cDH3w==;GfrLZ27piqAk+qRAqvJdbg=="

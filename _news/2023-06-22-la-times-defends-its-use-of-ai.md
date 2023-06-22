@@ -42,6 +42,15 @@ related:
       name: Nieman Journalism Lab
       domain: niemanlab.org
     quality: 17
+  - title: "How to use AI to expand the background of any image"
+    excerpt: "Use these simple AI image extender tools to expand the background of any photo or illustration you like—they'll make up something that should fit."
+    publishedDateTime: 2023-06-21T12:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-image-extender-tools/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "BgApn1KGcmvtTc9tDudz7uXAsz025LpOxQCL33h7mkJBtH2OqnHC5piJA9DPV+jqJ0JwIJYaEVjfF+mpoZOaaI5v2JMnhxcu5i/rf5Q/pTYbv8e/dRHFk+7u0YzfhJp4xqeWJs5zALTEwrVdQQRw8eM5YvOUY67jwQh2VCuG+Uf+6V9+gPqFO7fBlbvBVByCLKWpFFWWdHfDFj5mOY2I9fDMu0ZVpr9LI2bif2vbcTPld4CL8B8WLNWQkutI+J0IQdQ7lzoA1KBF0+bIAk1H83eB/KEJuYTjUiyykEO41POgudcEZJguHR/6vwsrl6YeupSx98LiPq1w/T8pLjfGo/ActMFjR8FhjVRSJtv0+xc=;jFZopkH6doSTFljH1O1Zcg=="
 ---

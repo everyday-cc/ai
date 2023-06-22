@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "How generative AI is creating new classes of security threats"
-    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
-    publishedDateTime: 2023-06-18T18:09:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
     excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
     publishedDateTime: 2023-06-22T07:42:00Z
@@ -52,102 +38,49 @@ related:
         width: 480
         height: 480
         isCached: true
-  - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
-    excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
+  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
+    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
+    publishedDateTime: 2023-06-21T14:20:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
-        width: 1198
-        height: 685
-        isCached: true
-  - title: "Cloud security leader Zscaler bets on generative AI as future of zero trust"
-    excerpt: "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI."
-    publishedDateTime: 2023-06-19T19:22:00Z
-    webUrl: "https://venturebeat.com/security/cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "5 ways generative AI will help bring greater precision to cybersecurity"
-    excerpt: "Cybersecurity vendors have different visions of how generative AI can serve customers but all know they must provide guidance to reduce risk"
-    publishedDateTime: 2023-06-20T18:15:00Z
-    webUrl: "https://venturebeat.com/security/5-ways-generative-ai-will-help-bring-greater-precision-to-cybersecurity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "The impact of artificial intelligence developments on cybersecurity"
-    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
-    publishedDateTime: 2023-06-18T07:00:00Z
-    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
-        width: 930
-        height: 620
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
-    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
-    publishedDateTime: 2023-06-22T08:56:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
+  - title: "CSIRO leads on responsible AI"
+    excerpt: "The National AI Centre, housed in the CSIRO, has released a new report to advise small businesses about the uptake and rollout of AI in their operations in a responsible way."
+    publishedDateTime: 2023-06-22T05:29:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 29
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
-    publishedDateTime: 2023-06-21T04:17:00Z
-    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+  - title: "New report to help businesses implement responsible AI"
+    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
+    publishedDateTime: 2023-06-21T23:46:00Z
+    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
     quality: 19
-  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
-    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
-    publishedDateTime: 2023-06-21T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+    publishedDateTime: 2023-06-21T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 14
+    quality: 12
 
 secured: "0uSiTJOMz87fxYBuq+9YKpruOSbDOt17kz0ly4fqKBY6Zbu2SYCg9BM7a8b3f72bgc3hWv7fbnxTKx7acSsk5WwvkS2AX3OgBVWFIXjK/TVL+9CE8DlzYaWhZ1LqZxk5M+Lb+3ca41D6XeDAnwZR75LENVJUQ7Mmygk/ZpCg/VwNKq1MMOx6O+4L99r5bwDPiyNNQN9ox9DMHBu5wSHAcn2fFmMXafY5AyRchTXwi2VLBroHDVW7V2bkgvtfdaV9NgiCi+NCcpnXAq9iLl9W/WUwUyZ4smNJBMYo2AElW3ffwrRMEaS7k74pSmTzqwfFMjp+Lkc6J1WvPLPweKlkFWzPMcpa8sHVDxfLzuuPkgyfz/WjW4+GwDiXB1gOUTENSXO3rfI1WoHEn3ThinKdtkRBm/BQvFzlN6cEhCnwXqiz1khspS6z0DtEneSYlly7GRK0odCOInGbHKLTPG419ytR2ZXmOZcD8HgqUarAksJWZr5M4PKG3a9nrnxSOwZSigGDu80mrD+YYiztzF6G0Q==;l31KjCC5bgdNUz+hdHDhkw=="
 ---

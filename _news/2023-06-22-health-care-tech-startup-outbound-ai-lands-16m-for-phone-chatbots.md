@@ -114,15 +114,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The rush for AI chips"
-    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
-    publishedDateTime: 2023-06-20T19:32:00Z
-    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 34
   - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
     excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
     publishedDateTime: 2023-06-20T13:23:00Z

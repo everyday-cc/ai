@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligenc
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
 type: article
 quality: 66
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: gadgets360
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco Unveils Speedy AI Networking Chip"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ..."
+    publishedDateTime: 2023-06-22T11:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cisco Unveils Game-Changing AI Supercomputer Networking Chips, Tested by Top Cloud Providers"
     excerpt: "Cisco Systems has introduced a groundbreaking series of networking chips designed for AI supercomputers, aiming to compete with industry giants like Broadcom and Marvell Technology."
     publishedDateTime: 2023-06-20T18:20:00Z

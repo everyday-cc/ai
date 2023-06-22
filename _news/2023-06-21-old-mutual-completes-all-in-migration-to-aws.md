@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Old Mutual closes data centers and moves to AWS"
+    excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
+    publishedDateTime: 2023-06-22T11:23:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/old-mutual-closes-data-centers-and-moves-to-aws/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sWU+mlUdgEHqR0Z3YnA7bBZA4BXETCWwVD1E3ikWKgyL5e0jrReLJTBieSKBMrUeRF8bolQ8C1+CBy8Mbg/YYpsrCvWz+w93EYe8LHDt9esUvnljYjIFCsuEWFIchERjqP7TqwJ/km0mR3U+uI4eCwQtyoFjgw+4EKS+JwlF19ZJApjLvphqpDFDg60KqyI6iaB0MFZPKV4FT+2irP8pQzJ9OZ5NZrVZ+oPoAWwcBSKmuhk1RT8/AdZRqhJB45qvpUV7kum6BNS6JvnYztdjLF3Z5uacerQRDQRXM4D1SAxLt3fA5Nxmla2WJHZT6Icr0ZH5KuDfDYPRilNjtlmgbvt7FL5icQsEQFkrEwiVzSs=;H3ruFS8Gi6f8VVvNk2rf5w=="
 ---

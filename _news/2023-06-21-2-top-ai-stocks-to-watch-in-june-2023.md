@@ -28,6 +28,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How to worry wisely about artificial intelligence"
+    excerpt: "Regulation is needed, but for more mundane reasons than saving humanity. Existing AI systems raise real concerns about bias, privacy and intellectual-property rights. As the technology advances, other problems could become apparent. The key is to balance the promise of AI with an assessment of the risks, and to be ready to adapt."
+    publishedDateTime: 2023-06-21T08:02:00Z
+    webUrl: "https://www.livemint.com/ai/artificial-intelligence/how-to-worry-wisely-about-artificial-intelligence-11687333864952.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 41
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/21/600x338/FRANCE-TECHNOLOGY-OPENAI-1_1687334141391_1687334252184.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "RlNfrDFGbhKuBB4nYMhg4JiY+yOIgI7X5HFFt++WKAJoJyWIdLv8uzO95ubTHWDIkW9Si0CyKr6KK+f354CoQIvdjUES2BETv+7L2zdihzjQ6L9SATN593msp0gYTYX8S54CaanKp8p+byzlSMNAcHEHPkPr5SPE5IQIS+z7zR/37BMiXkZSk8iydOPrNvXaTfHhhGMUmJlGQCuuCnNuIvIlHUQMOiCY2BKxuyp132Cf/w/SdSwlcTWdcDC1ditxxiGkgXYDicpaR7tZPuPovccYNOq+19o7ugzr2Je5zb7q9nzKq0mg3bVkp2ybrg5hjPOakvR1XbPCSo3yWRL6aeN7HGUGTZi4JqImEijWvwQ=;JakSgHhaAxx5f+Cg3nte9Q=="
 ---

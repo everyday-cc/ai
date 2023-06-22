@@ -19,118 +19,191 @@ topics:
   - AI
 
 related:
-  - title: "Otter.ai's new AI chatbot will automate your next steps after meetings"
-    excerpt: "Now it is adding a new major AI feature to help even more -- Otter AI chat. Users can invite Otter Chat to their meetings where it will act as a meeting participant. Once in the meeting, Otter Chat will be able to provide users with immediate feedback on questions and generate meeting-specific content."
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
+  - title: "How AI Is Changing The Future Of Work"
+    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
+    publishedDateTime: 2023-06-22T11:06:00Z
+    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
+    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Exploring The Impact Of AI On IoT And The Future Of IoT"
+    excerpt: "IoT can be seen as a huge network of connected things and people, all of which collect and share data relating to their usage."
+    publishedDateTime: 2023-06-21T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/75d97106c816f223fe37f683ce9c0c959aa5567f/2023/05/26/e932655c-b2dd-476c-b5aa-6ee12c840ae0/screenshot-2023-05-26-at-3-30-31-pm.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Otter AI Chat brings new collaboration and insight to real-time voice transcription"
-    excerpt: "Otter AI Chat, built on an LLM based on verbal data, will enable real-time collaboration between people and the AI chatbot in real time."
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://venturebeat.com/ai/otter-ai-chat-brings-new-collaboration-and-insight-to-real-time-voice-transcription/"
+  - title: "How generative AI is creating new classes of security threats"
+    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
+    publishedDateTime: 2023-06-18T18:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/otter-ai-chat-1.png?w=1200&strip=all"
-        width: 1199
-        height: 762
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Matterport's New Artificial Intelligence Play"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-06-21T12:29:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/21/matterports-ai-play-has-promise/"
+  - title: "How to future-proof your newsroom with AI"
+    excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.journalism.co.uk/news/how-to-future-proof-your-newsroom-with-ai/s2/a1045763/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
+    images:
+      - url: "https://www.journalism.co.uk/assets/189/Untitled_design%282%29.1.png_resized_460_.png"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
+    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
+    publishedDateTime: 2023-06-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Chatbots invade retail: The US$72 billion AI revolution led by ChatGPT"
-    excerpt: "Juniper Research forecasts AI chatbots driven retail spend to hit US$12 billion in 2023, escalating to US$72 billion by 2028."
-    publishedDateTime: 2023-06-20T23:59:00Z
-    webUrl: "https://techwireasia.com/2023/06/chatbots-invade-retail-the-us72-billion-ai-revolution-led-by-chatgpt/"
+  - title: "Software developers work best in teams. Here's how AI is helping"
+    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
+    publishedDateTime: 2023-06-20T09:08:00Z
+    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI Is a Lot of Work"
+    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
+    publishedDateTime: 2023-06-20T08:00:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/Chatbots-2-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
-  - title: "AI, chatbots and ChatGPT: Threat to knowledge work, or a ‘dancing bear’?"
-    excerpt: "AI holds many possibilities for society, but caution is needed, especially at universities where platforms such as ChatGPT threaten academic integrity."
-    publishedDateTime: 2023-06-20T15:25:00Z
-    webUrl: "https://www.news.uct.ac.za/article/-2023-06-20-ai-chatbots-and-chatgpt-threat-to-knowledge-work-or-a-dancing-bear"
+  - title: "AI meets the other AI"
+    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
+    publishedDateTime: 2023-06-20T20:25:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
     type: article
     provider:
-      name: news.uct
-      domain: uct.ac.za
-    quality: 38
+      name: Politico
+      domain: politico.com
+    quality: 39
     images:
-      - url: "http://www.news.uct.ac.za/images/userfiles/images/news/2023/2023-06-20_ai-chatbots.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
+        width: 1984
+        height: 1568
         isCached: true
-  - title: "AI chatbots in dermatology: Promising, but proceed with caution, says new study"
-    excerpt: "Study finds AI chatbots in dermatology show promise in answering patient questions and simplifying medical jargon, but limitations in accuracy and knowledge highlight the need for cautious integration into clinical practice."
-    publishedDateTime: 2023-06-19T03:26:00Z
-    webUrl: "https://www.news-medical.net/news/20230618/AI-chatbots-in-dermatology-Promising-but-proceed-with-caution-says-new-study.aspx"
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-06-20T00:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
+    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
+    publishedDateTime: 2023-06-20T02:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 35
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_751389_16871450926988823.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Open-source AI chatbots are booming — what does this mean for researchers?"
-    excerpt: "But while large technology companies such as OpenAI and Google have captured the attention of the wider public — and are finding ways to monetize their AI tools — a quieter revolution is being waged by researchers and software engineers at smaller organizations."
-    publishedDateTime: 2023-06-20T15:44:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01970-6"
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
+    publishedDateTime: 2023-06-21T21:09:00Z
+    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 35
+      name: Times Union
+      domain: timesunion.com
+    quality: 28
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01970-6/d41586-023-01970-6_25515824.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
-    excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
-    publishedDateTime: 2023-06-22T02:40:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/06/21/outbound-ai-fundraise-madrona-springrock.html"
+  - title: "AI Is a Lot of Work"
+    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
+    publishedDateTime: 2023-06-19T08:25:00Z
+    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
+  - title: "Developing AI is playing with fire"
+    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
+    publishedDateTime: 2023-06-20T09:23:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
+  - title: "How AI’s legal risks are challenging marketers"
+    excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
+    publishedDateTime: 2023-06-20T12:22:00Z
+    webUrl: "https://www.marketingdive.com/news/how-ai-artificial-intelligence-legal-risks-challenging-marketers/652707/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 19
+  - title: "How AI is changing the 2024 election"
+    excerpt: "“Using AI to create an ominous background or strange pictures ... Sarah Kreps, director of the Cornell Tech Policy Institute, said people may start to either “assume that nothing is true” or “just believe their partisan cues.”"
+    publishedDateTime: 2023-06-20T09:27:00Z
+    webUrl: "https://www.wate.com/news/politics/how-ai-is-changing-the-2024-election/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
     quality: 17
 
 secured: "MFEbuFqJrCOooRxfJ1aN76MPhFxASRPx23ozDEQsavvll7Xpp7kD8WilAG7vOCf+HTLZUIrRnrjwhHP6hMSTnMx70DUmWmZiQn16Mda+M5fBnh9QGxuIoZdmHOqfKI+z975UjG5r9rdsvczWfpwYkRzezS5QsR1V96QMNYxmyjHv8eN1KVvUHPMsGOrKnXT1oEJTPcxshgGvACUwrgc1tBik7WcxdYo14U9uhZ1Z9hoMa7qqQYEnjWa1WSfzdcFTWGLli2QgUgEyrxW3JXzGZTfKNyV8H0VgX1FIyhaV33zINSkAHQxjwToah/LJg/W6vkgGw8WysOfriJOa2c9YRfIW79tPp3tGKdqdS4Pwsz9OItgj25iA2DcGpBg7u79XgfHwtlX3oMT8gpLnPemFRlPVSEhZXviJbcYo+uHK0XVQ747+nxB+yudPBim3xs03mnc60oNMa466H0PPnoita4vQuBuoKq7gPWSwLVAo+m+t5i5JTgAOqpuXC6WF0I/cpuUkH0p4sN9Nz26ABYpaiA==;4+GG8tBKc/nTd6OM+qQogA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/more-developers-are-coding-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/"
 type: article
 quality: 83
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Software developers work best in teams. Here's how AI is helping"
-    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
-    publishedDateTime: 2023-06-20T09:08:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Global survey finds consumers embracing artificial intelligence"
     excerpt: "A survey of 10,000 consumers in 13 countries has found that generative AI apps are becoming an important part of many people’s personal and working lives."
     publishedDateTime: 2023-06-19T14:08:00Z
@@ -53,15 +44,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Developing AI is playing with fire"
-    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
-    publishedDateTime: 2023-06-20T09:23:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "8WQxzQTJ6Yx6wpv1QQ2ct8Q3AB1prqx5JLPYaORals1Cz/yKUVhJD46ls7UdZmeP1M/EvOoIQQUi5omX10vCBK2I2ubBYYluWkSpPXQh9wjd1heU664dE/ERdMbCgMZ1VxmsFwOFYaaso7f+fpMqGlKi8tDvYQ96VdyZ6kczXwy2dr6Dxzq7TcPt3h5+GNNAmmH5SsG/Sqv9zeB2fsit1/Wvsy6wx9OxbOtbQ5r3nLqKQJHks0uTqT18hsyjUk7Bn0C8pmgxVhsESbTmEUDeRqpH7KZFRvPB2CJPQmoxiuRwmrXMgr/7+48exnZt+dzUe4Q1Zj39U8Rfl5KCQl7XHvVJcFuQNmWoCiU0+3GSHUM=;xqDxlHzDD79n8hpCUSgLtg=="
 ---

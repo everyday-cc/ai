@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-21-cisco-launches-ai-networking-chips-for-ai-supercomputers-to-take-on-broadcom-marvell.md",
-      "title": "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell",
-      "excerpt": "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms.",
+      "path": "_news/2023-06-22-cisco-unveils-speedy-ai-networking-chip.md",
+      "title": "Cisco Unveils Speedy AI Networking Chip",
+      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ...",
       "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
-      "originalUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555",
+      "webUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 166,
       "tags": null,
       "images": [
         {
-          "url": "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG",
-          "width": 1200,
-          "height": 675,
+          "url": "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp",
-      "publishedDateTime": "2023-06-21T01:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T04:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -53,7 +63,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {

@@ -156,6 +156,20 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
+  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
+    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
+    publishedDateTime: 2023-06-22T10:00:00Z
+    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 25
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
+        width: 644
+        height: 551
+        isCached: true
 
 secured: "dLMWFKhbIrA3OFXGW8SRrOaZSBtlo1P4ISxM9F5HHdimYO25C1a+/UWIdpGAUrJT3dtVM6q/zInczABEqAk4rv+bqD5k0aIpwGJgoZ+8oiaTi7l5GjFnwUmktvTEzcF6pUlIeXcEXWtb07Rknc2nLW8qfVOc2uFBEYSpxC6HhfwEA8WcaypGOtllp07XDUQBJ+8hF2N2SZ32L/B3O8tj8jgtGyEQ4QCybgXimunQHKHmxhDDyF8NaTUrXMs6fpZglO04Uek2XbUqqesdJjB9J3b43TEIyNPluQ2YCDSfCcOw2aKZj9PnNtrD3wX6KQUw6B4uJOeIPY0ppfhIXO78XyiJ3PTCMYUYP8IObkZLt5IfTV4zeifN9SgWgebc7dISKiRwmYBhk5DhMg6NSxyTkinjI9uauTdu9wMumRi753GyL5qOH7wVmpZRWHNdZi4t3hy3q2OQyPmcxKQxhaeKRqYxanluUghs6WJy4owzCqHLMLFP74AgNjkgjaoLGNk/Tux4K6TIiGM5xIuBOBE+aA==;Lclh6m0xOwcElON8Ws//Tg=="
 ---

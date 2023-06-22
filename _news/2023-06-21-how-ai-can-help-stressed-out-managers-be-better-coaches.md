@@ -27,20 +27,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI meets the other AI"
-    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
-    publishedDateTime: 2023-06-20T20:25:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
-        width: 1984
-        height: 1568
-        isCached: true
 
 secured: "MwCDG7dsJTq4c8AZfQ57BfMciQL2ELcLeCQFydOTl0gx5+AHSE5mIN5OPo7cDIVJjbqPc2jC4lzJPzhmlfeI+jkaCo815Yi2obYscI38+VNCRt6X4sWJFi7nNkIai8LlLO5UcEkXJ3rzUge89Du1ghI/rY8w+YEWY5ftM/fp6OI2b5magOwKEBe3UtMYoMTbMdTrKUhW25ymCP1chhp8r/U/C//aGufaMR/XCIMtugemso1qR1BXNa1wl0olObBtQNYuG+UzvaBQTzz3MwWR/3Hsd8eUWHxceqY5k0HPo3BXk0YkBPKtxlnI0S+isYwsBXdByngOxqp2Y8rf9/2/aTwh57Xb3OI34vJg9peE/gBsrRe+sDlj+alL8ltqTXByVgdiQGQycusku32ZVfrA5ASk8OlAC/c684KaqtbMr+4DLcy7+gwjbCbojKXCKp4FYot3TdMc9xELmELsqZQKzDgKmtwQclJJP7pSzDgZqJ2NM2/l3vmnpqxpOyIyKQfHzBPAC19DFCAPFWeZqbp6qQ==;u77wdUOb2exHyz6meZBiUQ=="
 ---

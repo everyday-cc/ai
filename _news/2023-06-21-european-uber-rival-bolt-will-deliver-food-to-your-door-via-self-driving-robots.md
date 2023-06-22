@@ -39,7 +39,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 53
+    quality: 70
     images:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca"
         width: 1280

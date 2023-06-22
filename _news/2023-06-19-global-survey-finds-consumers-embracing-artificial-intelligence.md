@@ -40,24 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Software developers work best in teams. Here's how AI is helping"
-    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
-    publishedDateTime: 2023-06-20T09:08:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Developing AI is playing with fire"
-    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
-    publishedDateTime: 2023-06-20T09:23:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
 
 secured: "zkVdq1VCa8k/YLCG+Q+9wmwUSQszilaAklq5Rc6N6ZJlvrN/D01w4r1gGIdlHW/yehJY1zSAoaESzSOVpiW7euFNuovs+meRpLzIjIgIKEZYjMJcvOTq7ZiBm5G9rGx7OGiU5Bef9+MUV3d5DYLonzi5fubBRZd7/A2PcGZG7TnJ8VLbwXqWnUmR4DTA5FSMmKoHRl9ohos5jCKLAntIA1vx6mn8VtjWOyYE/H61grJ3XSpp7YDkHDE1/WSf36jmPEyyCTx3k9Ph1+CshJEou5hGtWSXKuivu4ZDz3cfZhJJXYN86qKWvagupqEA8iUH1ZvlDf6SkOpZEiYYDXr8uQm6cWbGaV+gdUBDcC2FRqoVja0MejRxO8OKtEGOkuupZyG5tNQxSRdluxo8EL4UghAF9PhWwi3ahbA6ru6WvaK9qjUg+0bj8AtCWuo9TTgXsrk9DImq3qDCdhbh9foY6wK7qtvWOitJXoYpYJOEy+jK6xH28lAiFbDWaPkOETyqVH8OFU198FYUBcl9EB+03w==;IM3fibDJwyOoBU5ECflewA=="
 ---

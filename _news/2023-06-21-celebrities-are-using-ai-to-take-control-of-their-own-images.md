@@ -41,6 +41,15 @@ related:
       name: San Diego Reader
       domain: sandiegoreader.com
     quality: 19
+  - title: "How to use AI to expand the background of any image"
+    excerpt: "Use these simple AI image extender tools to expand the background of any photo or illustration you like—they'll make up something that should fit."
+    publishedDateTime: 2023-06-21T12:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-image-extender-tools/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "I4q59vnVbsSpbTe74ciU82xhdwrMC2dQMGskJ/uK8BugDgzVk3DNwpTw0HkqZs8M9PjJzcgm+pc5+9WkRZUvAxTjpkqLZNUyIL+KUIrP/VvGTHDdvd+9tMv6v9TibyJfhLyakT890CnalMVQV9Qoyep2eE1L5OJU0goDQh9buUtsz6zXF/cdkk5Ou2tmaKnIwXRBg1rEWKgHTZ5hDh13PjK5zvaYUrzMVG2RETC4F38WSBfXu35wmG798+32rcUio9DN9VcVCl80Iu27HQq5Kkd19PkShFZAqp+I7I9UzBB1E3yPbiwFk53oJR5uOcJlrkUX0LoOLkEtvlTQR0P5x2cLAjSfygBuNVc8X5uLzmA=;IZQSgk8py+SATA6keM3j8A=="
 ---

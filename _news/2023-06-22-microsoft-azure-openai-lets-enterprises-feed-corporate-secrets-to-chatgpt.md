@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
 type: article
 quality: 88
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
+  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
+    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
+    publishedDateTime: 2023-06-22T10:00:00Z
+    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 25
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
+        width: 644
+        height: 551
+        isCached: true
 
 secured: "y3sHQjBWPEp6oJH5BpG4rvy1KxRX7vZ+Nevd/Aq7nhq7vY/Kl5JVEdxXmoXXym+2kGHvhMnTTIw0QHJ0cMhF4SWTrLmtfK1fDVGIgwBI2LrQeKUCpy/RzreYQddZspg9EQR75AOwcRX4tiqQTsI2j5FzrG6Mjy2ZkJq9xW4wBr5U1AikzdvjS6cIK8z8oh8toZ36DsUvQ7SSFoJKUY0sXlEsO9pBPMEF1QCSztYh75CdqCCNPp0A1aA0PGYaTmArINLLIsUWLE9ncZXbWn1hWvvbhxTOu1pYjWfsn9eyAQKbOV5qGU6ZdudONA5pDVfPk+imjwMqW+O03htcu7Hl0TkTmh5t5tRNq6hNHcDJLg6yuNAI4wZq/2Q9mFT6PD0vp/SKJe9RfdEHYnvsDMcSGiWN6CVPyKp4zr2gUKxAyhHygLHT/Ra/6jh9+ltZHFw31ePzc/b2iWBSPG67quY19w5ymhU+XgKtFA7mREGUNsHRBtiOdBiu5kzj/BWQR/iwpgYaYuHzZX3ICR9seO5mMA==;0kFvYdtmgr1VPuVirtzFfg=="
 ---

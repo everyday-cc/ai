@@ -74,6 +74,15 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "6yXOoZkUfzt23ekFJQbjVO592ORzqnepN1J1GNEDIhxwDr8PopOZTBg35sMzOqg3zzEeYAWy/VdOvblMg40B6KDsEJYU3TmZM2F3wSeXIMKxeskbI78QGFhfHfJAYBq4W4AhMd5LPJUKJAVN1AVk2+dDr5Lx7L/E8jqF2Kwkqi22YKbPn/1WHo3jsfjbMyp4UJjtLXje06oPPig/5EbqIkzmlb8jAimYbaSEUcD6LFNR9dr5RrXJYd42dgzt8aOxgZzjflt9C/cl6nOehvQtWXFj7eTOx5iS4LNmd3f7gDjtEKMWXMfBydbW8SxY4tX+k/ybNdjtMb8v8TtRk+5m/chHJAvaBiVWLS1ma6QaeOU=;zBLYcGwxb+dkzVTWXK0G3Q=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
 excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
 publishedDateTime: 2023-06-21T15:27:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274838"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
 type: article
 quality: 49
 heat: 49
@@ -36,6 +36,6 @@ related:
       domain: chron.com
     quality: 9
 
-secured: "/sblPe0voYvXF/HNaAn2+QkSqUnMqEqnoC+kInFNcx75hHE3OWM2mp4GpV9u41OMuISrjCcqBJqy1Zl8RnUh8Nd5ML+KWv44LXzMJW1ATOnPuJcH2GoTUWqnceXKJr1W0CGMk9wIc8wMlgWrhQvxEnx+GLbVEWvNTY36U1TxdsinJ2zK+peiuAKUlqBtbi1y/0fD5atF+GRdG3w05zg8hOMeA95xvsO12MZG3QGh7fkS+TucZImZQ/VdH+pB7iaqbCzS+m8V3qJ+nTG5J/r8XLgjfYaqNPvBiwqzx978fJ1f6+5BcJstM1O5RWdyyrAUq3KDzPJH3CFKOC/ViNQfxA4iANpObjFoHnDYVF+nDeY=;uLjnSEakBUPqxzRZht2kYA=="
+secured: "JAYWpwZ5GLuxZTL0i7vKR6/Wm2VbqNV3Nt60Xe5kQn1Xf5W0/QApgPM2NbIDlVZ8fIIqUj90pwyiDUUGeJq11fCj+MYDXLx+Fe/23xbgFUk1/tpzb1k9RaiRooHlfUma85Bl/H4ojakjrjX8Z7kd8t9LciubH4fzWAVDyOkM/clcmO43d2MnQIQ4LwcDrZGKPBM2jMzFCY577gFnkso7ivpV7+VfWADMfavGUVzcmCQwITR+7L0WicEZLS5pV2Te8CJRrLf/iGX9MM1DockpXRo+H0EEw3CTwxgJezcFFf1EAnV9K80n+6t8oOv9xxE4igKE+ithFbxQW6cQzqDwBLiE/b/As51yujVp1fgmqTA=;14IVy0oL91Hm0zfCy0ZU8w=="
 ---
 

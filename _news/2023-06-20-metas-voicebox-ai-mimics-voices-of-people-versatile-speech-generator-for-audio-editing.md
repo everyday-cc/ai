@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
   - title: "Meta's New Voicebox AI Sparks Debate Over Generative Speech"
     excerpt: "Voicebox is reminiscent of a technology unveiled by Amazon last summer that allows Alexa to generate speech using a deceased person’s voice. The tool is purportedly meant to fos"
     publishedDateTime: 2023-06-21T11:00:00Z

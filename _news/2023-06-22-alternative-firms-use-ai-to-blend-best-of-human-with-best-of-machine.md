@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-fir
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 100
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 799
         isCached: true
 
-secured: "4OcXE7sAwYKvlaEfn+8X+R0UpEflp2W61/sTK3MuR7M6Bz/kqg5tAkObr0n2ETT9+NcW2iCUZUlHf+9w1oIKziiY0Tiyl+aNAkhUrfmUwEJP80SjGTM0ALuxaTEbyvC93ZAiOyV0P8i8hxrTVauIyIJ9RGBjcm5fEBWN6nOwj7tqlnnZDo1SQHAHaL6Y2rFS5nCGcW5HHgorchHkDF/X3aOvEaCWAt8z9xGQyXhXr3XeDWbKA3FMHflQVwBqIbczEdjvzN+n21Gr+5U6kD6VCQsGSmydV7CAnrnrw0pn74dafWH0lAwwjQGJi4SSdzojDUpl2M7hHcEy/nHFTtrsYDxDSTcpBopehgjJDXqP84E=;sYsCmZ7ntGPG0rTs+y1fkg=="
+secured: "rqP2Jy/L4vFq41U0trm2LI3Gv4DuBH0I/x7CQlpiMmn0Ot7fpf42tt6BeYa0pkgjcxNb1KXoj6WVBVj24Mdv4CiXJwNm57YE7T+Yzu+YGKXVz1qobVrwzQ5OPFA0bsciHKXmGXo4+1M9CJyosFNJjgZILEBvTaGawbCQLjQ2Kyxq11t5E7zAs9Tn8g98fzHxCISQjvdTGV+qLMYCzIroNTjmJAMUzcCi0angEkey5S/LqDem/YM+TcjNK6qMhTnBM9DkMn6SuTUysOw8f/Y0+UqYYSYBohiuLvmhNQMWXaD4Tkdm3WY9PldEuEcHR6A0HpGG0j8zdeqVER0zuQFVQuJrGTYerVjNYj3JGYNq9QPyasQo/ZnLQh7PjT2WUskPqOcrNsyynFcMpijC5mDVKa2pEFR/nIw5HeRyBaFPwnV5wrBkV0P14+OT70Gv7p0rJkziMU56DIBSJZaBUjFfwMc70rJFUS17qhh/xAn2ztYE4x9y8SMNEp+/nf8dtvFfkufJ07sWZfa4+nyHP60SZA==;cA5YlJjG23kF36t0aSCKtQ=="
 ---
 
