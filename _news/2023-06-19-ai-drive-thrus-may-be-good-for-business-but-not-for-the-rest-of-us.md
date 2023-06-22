@@ -19,15 +19,6 @@ topics:
 
 related:
   - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants have been investing in artificial intelligence tech for drive-thrus. They say it will spped up the drive-thru and boost sales. But customers — and workers — may not be thrilled with the technology."
-    publishedDateTime: 2023-06-17T09:05:00Z
-    webUrl: "https://www.cnn.com/2023/06/17/business/ai-drive-thru/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
     excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
     publishedDateTime: 2023-06-19T20:41:00Z
     webUrl: "https://kvia.com/news/2023/06/19/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"

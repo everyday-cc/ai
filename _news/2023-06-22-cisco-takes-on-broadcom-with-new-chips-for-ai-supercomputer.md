@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cisco takes on Broadcom with new chips for AI supercomputer"
-excerpt: "Cisco claims G200 & G202 will be the “most powerful” networking chips fueling AI/ML workloads. Cisco said those chips ... providers in the world include Amazon Web Services, Microsoft Azure, Google Cloud, and Alibaba Cloud. Just like Broadcom, Cisco ..."
+excerpt: "Cisco also shared that its AI chips from its SiliconOne series are currently being tested by five of the six major cloud provider."
 publishedDateTime: 2023-06-21T23:33:00Z
-originalUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
-webUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
+originalUrl: "https://techwireasia.com/2023/06/cisco-ai-chips-takes-on-broadcom/"
+webUrl: "https://techwireasia.com/2023/06/cisco-ai-chips-takes-on-broadcom/"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: techwireasia.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
@@ -118,6 +117,6 @@ related:
       domain: dunyanews.tv
     quality: 19
 
-secured: "1yK06fdcMb/D8ulUkofz4+SJwmcddsmk16VlzzefpPXfFexxTXyKIPhLE2yPZgL0o+ihnj7/WIq46M/o+N0E5e8VKa19zpvINOvBvI8xYPF9jSfuGKyUHNmapxtpDLa6SZlZ4u8NwY3ybNvHfigHn7IoXiJg8zsEZU1+J5HfkNKOPkKpJARWj2YDqd4rgWdfdqelnVKgYmgeu86loiEGUKC+OG+GQd1+8sH5LzyeR9F+SKiTN0DEzACEwfOw2qpWjPSq8XfSV4uxMHNVTogxO7Sd61HoWd1JcGABV7MtkLfOjQSdAIUb875MSV/qo8HshbZPomAMqYV9ItQ9VdYgRZsGMKkkyqcoWTpr5yil6cI=;0cDqN92hf++kK3aiKl3PrQ=="
+secured: "YF0xM0NbU9j8jPX3JzN7iACEBJnDo/ob+JsiX5WU6lWS/8/lgw1UZwxKnL68iO9FY1YkA72xLMoxVseRnbxApdWSmGMrgpZ3075DbEVhY3o8lrsbA22GBMhujTnHwNCMbk4nws36e1PEZ/gCQga6R09RBk6/v8JaVr/Eg1Uw+mIyYfCFyoqOQ2zTOLoA/b6U4bTHR/MnvM05tmUhs9Z8K1bOUaCnnLhQ08ExAvesHhKzjY96hiSkNNJ4Bgcfa+jnpywN6yaVPv3KHn5pMLWSXSUetq0YUNwxuDjnxeyYBRz19OSRZkKp9Uu0rTaB+Br8vTjyBWZz5XYZj8+RjOgjLDmGZoh0F4cWyxTgQjvRlx4=;qUruAoT673Au2GzW/7FV1g=="
 ---
 

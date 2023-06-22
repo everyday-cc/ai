@@ -358,6 +358,40 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-3-fintech-stocks-with-high-potential-for-growth.md",
+      "title": "3 Fintech Stocks With High Potential for Growth",
+      "excerpt": "The financial technology (fintech) industry continues to reshape ... further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations.md",
       "title": "Striveworks snaps up first funding of $33M to build tools for machine learning operations",
       "excerpt": "MLOps, or DevOps for those working with machine learning models, has seen a boom of interest in the last year, and that should come as no surprise: organizations want to bring more machine learning to bear in their data science stacks,",
@@ -1344,49 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
-      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
-      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
-          "width": 1000,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "publishedDateTime": "2023-05-26T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

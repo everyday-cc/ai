@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
 type: article
 quality: 80
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://cdn.cityandstateny.com/media/img/cd/2023/06/21/GettyImages_1500406096/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "The AI revolution: Harnessing innovation, addressing challenges and shaping our future"
-    excerpt: "In the realm of AI’s endless reach, Potential blossoms, lessons to teach. With thoughtful ethics as our guide, Humans and AI stand side by side. Together we’ll forge a"
-    publishedDateTime: 2023-06-17T09:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/mahi-jain/the-ai-revolution-harnessing-innovation-addressing-challenges-and-shaping-our-future-55294/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
         isCached: true
   - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
     excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"

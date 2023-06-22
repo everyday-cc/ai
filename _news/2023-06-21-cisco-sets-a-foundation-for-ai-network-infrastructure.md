@@ -76,14 +76,14 @@ related:
         height: 534
         isCached: true
   - title: "Cisco takes on Broadcom with new chips for AI supercomputer"
-    excerpt: "Cisco claims G200 & G202 will be the “most powerful” networking chips fueling AI/ML workloads. Cisco said those chips ... providers in the world include Amazon Web Services, Microsoft Azure, Google Cloud, and Alibaba Cloud. Just like Broadcom, Cisco ..."
+    excerpt: "Cisco also shared that its AI chips from its SiliconOne series are currently being tested by five of the six major cloud provider."
     publishedDateTime: 2023-06-21T23:33:00Z
-    webUrl: "https://techwireasia.com/2023/06/cisco-takes-on-broadcom-with-new-chips-for-ai-supercomputer/"
+    webUrl: "https://techwireasia.com/2023/06/cisco-ai-chips-takes-on-broadcom/"
     type: article
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
         width: 800

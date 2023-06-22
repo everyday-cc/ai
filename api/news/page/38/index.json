@@ -2,6 +2,155 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-05-25-microsoft-introduces-new-ui-experience-for-trying-out-computer-vision-with-vision-studio.md",
+      "title": "Microsoft Introduces New UI Experience for Trying out Computer Vision with Vision Studio",
+      "excerpt": "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API. Vision Studio is intended to allow developers to explore, demo and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "originalUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/11/azure-computer-vision-studio/en/headerimage/generatedHeaderImage-1667429468411.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-lightning-onset-of-aiwhat-suddenly-changed-an-ars-frontiers-2023-recap.md",
+      "title": "The lightning onset of AI—what suddenly changed? An Ars Frontiers 2023 recap",
+      "excerpt": "Ars Technica hosted our Ars Frontiers virtual conference. In our fifth panel, we covered—What Suddenly Changed?\" The panel featured a conversation with Paige Bailey, lead product manager for Generative Models at Google DeepMind,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/2023_AI_panel_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "publishedDateTime": "2023-05-24T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
+      "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
+      "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-787338/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-metas-ai-breakthrough-defying-user-tracking-policies-billions-await.md",
       "title": "Meta's AI Breakthrough: Defying User Tracking Policies, Billions Await!",
       "excerpt": "The Financial Times reported that Meta Platform (META) has been using AI to circumvent the impact of user tracking policies.",
@@ -1035,126 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-automated-machine-learning-automl-market-worth-64-billion-by-2028-growing-at-a-cagr-of-446-report-by-marketsandmarkets.md",
-      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028, growing at a CAGR of 44.6%: Report by MarketsandMarkets™",
-      "excerpt": "By deployment it is further bifurcated into cloud and on-premises. AutoML solutions are designed to automate many of the tasks involved in developing and deploying machine learning models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32552421",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32552421",
-      "publishedDateTime": "2023-05-24T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-tech-giants-trigger-generative-ai-investment-boom.md",
-      "title": "Tech Giants Trigger Generative AI Investment Boom",
-      "excerpt": "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit.",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
-      "originalUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-israels-sapiens-microsoft-partner-to-use-ai-to-revolutionize-insurance.md",
-      "title": "Israel's Sapiens, Microsoft partner to use AI to revolutionize insurance",
-      "excerpt": "The alliance between Microsoft's AI technology and Sapiens' AI, cognitive services, and process automation is set to empower insurers at every stage of the insurance value chain. By combining forces, the partnership aims to enable instant responses across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/530832",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
-      "cdnAmpWebUrl": "https://www-jpost-com.cdn.ampproject.org/c/s/www.jpost.com/business-and-innovation/tech-and-start-ups/article-744104",
-      "publishedDateTime": "2023-05-24T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

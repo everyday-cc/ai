@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Thai AI-based data startup Ocean Sky Network raises $4.3m in pre-Series A funding"
+    excerpt: "Thai AI-powered data solutions provider Ocean Sky Network has raised $4.3 million in a pre-Series A funding round led by an undisclosed private equity investor, the company said. The Bangkok-based company plans to spend the funding proceeds on product development and overseas expansion,"
+    publishedDateTime: 2023-06-22T03:03:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/ocean-sky-network-funding-349153"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 32
+    images:
+      - url: "https://media.dealstreetasia.com/uploads/2023/06/S__6381757.jpg?fit=1000,667"
+        width: 1000
+        height: 667
+        isCached: true
+
 secured: "WG5qAnd2xGMRgwzawdh99X88sj8cO0lUeTXJXt5Eqxp2D/DchvGY2W7tn+cMJEP3S8rJhmcJmNwkpVD0wUBQ3SZ1PKl9BCeNrBU9AuiOoLdp96/AM69clMR7qxbye9uZqkviXO4HfCeGgWYz79/z/87xylDNSb6qj4OGa9iDKfpG+eVsyhTO3kAtatpXt+z1OS8iEjiobYgEaQIDoY44oV+M65FxgWC/6ON6diuDlio2ANo8y0Nu0XDss+Gk4qxS6vu351Ro5kAOJ0fTrvrRInXfbk2X08fn0uVZU5XrGIj7yCIueVn1RoDHuhZGjZ+l6SYFh6G4woyvMfJUy/9KXok0DSVuw7NXPjBYZZCbeqO9mb1jMS2KJed25pUx2sQphSyuElIXhNKzJm0FxQH3IK5fnwx7Pyc8MmO38QAwDTNvs0NTwVZZ5F1tIXRDpt3J3alKxPwQhC8zeDB4B6Jyy5P7C3LopidKmE3/j0Hvw6ZMEmqLW1qQZC9LhQC2/tZXKAvBB6Vm7293bX+lv3oPow==;JqN8qvHW+pv+Xb0DMvX+Uw=="
 ---
 

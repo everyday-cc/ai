@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT"
+    excerpt: "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories."
+    publishedDateTime: 2023-06-22T01:45:00Z
+    webUrl: "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 88
+    images:
+      - url: "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg"
+        width: 980
+        height: 490
+        isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
     publishedDateTime: 2023-06-21T17:23:00Z
@@ -42,36 +58,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity"
-    excerpt: "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More"
-    publishedDateTime: 2023-06-17T15:29:00Z
-    webUrl: "https://www.geekwire.com/2023/datas-destiny-why-former-microsoft-and-snowflake-exec-bob-muglia-is-optimistic-about-ai/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/muglia-book.png"
-        width: 730
-        height: 523
-        isCached: true
-  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
-    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
-    publishedDateTime: 2023-06-21T10:12:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
     excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
     publishedDateTime: 2023-06-22T01:35:00Z
@@ -86,6 +72,20 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
+    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Azure Expert MSP success for tech consultancy"
     excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
     publishedDateTime: 2023-06-19T11:20:00Z
@@ -99,20 +99,6 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
         isCached: true
   - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
     excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
@@ -153,6 +139,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
+    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
+    publishedDateTime: 2023-06-20T00:00:00Z
+    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
+    type: article
+    provider:
+      name: The Journal
+      domain: thejournal.com
+    quality: 40
   - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
     excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
     publishedDateTime: 2023-06-21T12:13:00Z
@@ -162,83 +157,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 34
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 33
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T17:00:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 33
-  - title: "Microsoft looks to speed up materials science research with quantum-compatible system"
-    excerpt: "The quantum computer-ready system is intended to help scientists identify viable molecules in a short amount of time."
-    publishedDateTime: 2023-06-21T15:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/06/microsoft-looks-speed-materials-science-research-quantum-compatible-system/387707/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/20/062123_getty_ngfcw_chem/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
-    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
-    publishedDateTime: 2023-06-21T19:34:00Z
-    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 28
-  - title: "Microsoft is developing AI rap generator DeepRapper – trained on a large set of songs ‘crawled’ from the web"
-    excerpt: "Last weekend, Facebook parent company Meta released its own text-to-music AI generator called MusicGen, which the company says has been trained on 20,000 hours of licensed music, including 10,000 “high-quality” tracks and 390,"
-    publishedDateTime: 2023-06-20T18:46:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/microsoft-ai-researchers-china-developed-a-rap-generator-called-deeprapper-trained-on-a-large-set-of-songs-crawled-from-the-web/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 17
-  - title: "Viettel, Microsoft cooperate to promote application of Industry 4.0 solutions"
-    excerpt: "Telecoms Group (Viettel) announced on June 16 that its affiliate Viettel Solutions has signed a strategic cooperation agreement with Microsoft Vietnam to foster the application of Industry 4.0 technology solutions such as Cloud,"
-    publishedDateTime: 2023-06-17T12:03:00Z
-    webUrl: "https://en.qdnd.vn/economy/military-businesses/viettel-microsoft-cooperate-to-promote-application-of-industry-4-0-solutions-553466"
-    type: article
-    provider:
-      name: en.qdnd
-      domain: qdnd.vn
-    quality: 16
-  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
-    publishedDateTime: 2023-06-21T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "eNNoUsJ3jLvUQkr4zf8fctF65Hvjqa13dfD4UEZwVwDgJ08wIT31dnA3IExlm0yTTip152DDpUMrRA1/jAH3wea8+lgfqo5Wji0cAEfzD4tI0YBPuiLeCH9vdcaYxJ059Z17pbPcpK2CE6VhFzjx73ZK59kL8SZAcnNzYQR5Wouyr2lg0Do/PuzYAuQE7I24A0Tnmdl8gTXbwR528BKc8gL6qQbcJ101MEUUYhpjdUkSWNjen7wc8vsZq+nA2z3O/EsZi9h+ELNRWpZNCbII4ab6Q02U1to8loJzAegYQDWePd/gadezLfQPLJVScWdpZXLQTsZIMkcUXkaFLLcB/kTmCTdogBMJ73SY2GATFxu6z3SEruvcsWQoa0qsVJhbLlAmRotlfQBY1S3k9oKEXYquHEw0lXrrAW7FxpbWPdUu1jvKozhcVSYt5mIW7nymvU0ZHHHZ8yVfdt+4dXBa2njvkApA5HQ3a4RK5rDCJKt6QRjL2pij11LhFfTbEwDqXAg4EGB4aZD3inQr6oGQUg==;X9nvXuZflZ3xXUoL5d7WFw=="
 ---

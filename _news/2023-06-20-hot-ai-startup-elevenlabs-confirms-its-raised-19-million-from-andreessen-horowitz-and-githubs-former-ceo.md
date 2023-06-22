@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Hot AI startup ElevenLabs confirms it's raised $19 million from Andreessen Horowitz and GitHub's former CEO"
-excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup ..."
-publishedDateTime: 2023-06-20T09:24:00Z
-originalUrl: "https://www.businessinsider.com/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6?trk=public_post_comment-text"
-webUrl: "https://www.businessinsider.com/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6?trk=public_post_comment-text"
+excerpt: "Year-old AI voice startup ElevenLabs has raised $19 million in early-stage funding, as venture capital investors rush to back firms in generative AI. The startup, which is based in London and New York, launched in 2022 and uses AI to create convincing text ..."
+publishedDateTime: 2023-06-20T07:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6"
+webUrl: "https://markets.businessinsider.com/news/stocks/elevenlabs-ai-startup-raises-19-million-series-a-from-a16z-2023-6"
 type: article
 quality: 49
 heat: 49
@@ -38,6 +38,6 @@ related:
       domain: venturebeat.com
     quality: 37
 
-secured: "wdV9T8XRLz3argkay4qL5CDKyp/HxFWbUqCWBCHLnm+0TgklyU4Jf7tPV3mJNaLp2kh6/7v6cizYCwBduP178JRo/tGK2j/q9UngOBSzvRxspjCgEwLQazpaP/C0RpqUy8d62hudApwi1jGtidHeeI6pQHmtGZZN/JeA+tXW3PuG81zpomjJelr+7DuWSofBkNaLpxa1u65x17gmdzQFv+I94yiJyIGG/Q8WODAH4K+h2bj61BsojPb6MGSIiS3RMUQHuyisqQfY+NQVEnXc+omJBhDnKHqd5NpJmRTBBESjjIh1l79cMmKH+//BIvIm2GarkhMWwsMouzxMT77+1+uFmDYMJJqg3aMyCQaIl6A=;NfAnXnkNkasXxs1/T9qm5A=="
+secured: "NQ4Q29JkfBxL3WGRUrMEihjMQ4ECJmzrh/5hmJGYPu6F9c1Tt0MviVqpbeTkYDnXWE+uPCNeCMuwerU0pgP4ooGZ0dnU0Rp9Y9bBg6fipnZGjib2lWnqeak9GL27BX8G+nRkKSTIJHSdeipzpn14i6DC6fiysB8AlzxeBNggZwL9IA3vpyhchYgeSH+h4MDKCXxN4LMwH1ZPU350+zYsDPILFOKp84D+IbigundFZ30FAdGhh4xLR+f9QjOZ5yTIORfXjAtuAovHPA1OvksUFWxtRM1MK6lZ2oPbgG/UrYyYOcS5GGXJfvy17tLlrXXZT78pzL2rXbC2cgYOUKXtRLxj9de9aPQbsfJxET8WUto=;FAaFqIKKYWoFKv7g2RewIw=="
 ---
 

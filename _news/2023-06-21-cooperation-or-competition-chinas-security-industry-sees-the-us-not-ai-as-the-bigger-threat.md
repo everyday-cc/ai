@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Cooperation or competition? China's security industry sees the US, not AI, as the bigger threat"
-excerpt: "After years of breakneck growth, China’s security and surveillance industry is now focused on shoring up its vulnerabilities to the United States and other outside actors, worried about risks posed by hackers,"
-publishedDateTime: 2023-06-21T12:15:00Z
-originalUrl: "https://www.chron.com/news/world/article/cooperation-or-competition-china-s-security-18162612.php"
-webUrl: "https://www.chron.com/news/world/article/cooperation-or-competition-china-s-security-18162612.php"
+excerpt: "China’s security and surveillance industry is now focused on shoring up its vulnerabilities to the United States and other outside actors, worried about risks posed by hackers, advances in artificial"
+publishedDateTime: 2023-06-21T09:01:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/cooperation-competition-chinas-security-industry-sees-us-ai-100265891"
+webUrl: "https://abcnews.go.com/Business/wireStory/cooperation-competition-chinas-security-industry-sees-us-ai-100265891"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/cooperation-competition-chinas-security-industry-sees-us-ai-100265891"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cooperation-competition-chinas-security-industry-sees-us-ai-100265891"
 type: article
-quality: 22
-heat: 22
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "u6oGs8qz3dJSboZHiv5/nF2hFtMj0JL+9YtOEivbOYW0FSR81rAQPREBK3nziJ3+zZgs32LroLrWquvDDFjzsEl2arFMbjjWmK2Ztt+Uu7W0Hl5z8sQk5/+3Mj7qcZ4l2eAY9/BdKgSkHk7p7mccMnIBFeMlJ+QLa8SUogXt2mJFRDOhVDhx0U/Mqk08Kri8ceCObAF7pC6AoQxmTu38Vx8ezncNFydzPOMf+PQrDS+cnt2Ta9Ke5yPvmFhuuONtwquk4jbcKjgDa4eRZqUEA5aw9sYlvEQ/heuCyYItpVcGawn4nmzAa9Cj/x3lnXsDycmyqK6ksKgMAgbJlioheCt63/PoRb0k1pFYCDeIP/dQcqQEy5CTF2yxtYF8rLXqjS4B44ylmZOnuDDptIDz8JJqrtzk1iixidT/ve/vZVo1jCa+2JBaW6rCRp/YMhW3NL4ECerDdQkh65h2RSyoKzddpnyDRYZakC7jjl2pbUpTj3HFVspsTWqIuQHp7In9Z0JFLaLZqpidIGqiLXZC8Q==;IGNUuprUljBIygza0dnk+g=="
+images:
+  - url: "https://s.abcnews.com/images/International/wirestory_ef1bc69a66d27727c744eca6bd4909ec_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "KWWaUmBpBUWjVgxSiOZZyqqTW1zsEP//UqjYKedWU6CAFxh1U2orBgSBrgOlup7/biExfL1B1PIfbUbApWky/dVDnrxJ22CzMgVcU+aRh5CJxUx8upAYDGISLow1k9PwZWF/CLM99y3c1KHpZAX2A0CNZ5S0ADxVxQWYeG9AetVc4XMRKbgh3nm37khD2Vd0/V2f7NEtAtzkAbbG3y61xMfBVYlFQFqE4jAmDKhf6Zr9paTokuZvamfMGo8zwM8QWqIjMbOn7mnIvvyn2NVuXLuCCukMmEZpGQnUcASyDP2wgXDT395PohlGnFr8jFa2tFMRY1yVNDQMirX0gMVGkJcLHhqoC+AzkDMiirM150A=;jKd2/biixap4aujHr0cLXA=="
 ---
 

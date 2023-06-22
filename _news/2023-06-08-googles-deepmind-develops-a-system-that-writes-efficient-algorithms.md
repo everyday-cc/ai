@@ -1,16 +1,11 @@
 ---
 category: news
 title: "Google’s DeepMind develops a system that writes efficient algorithms"
-excerpt: "Sorting is so basic that algorithms are built into most standard libraries for programming languages. And, in the case of the C++ library used with the LLVM compiler, the code hasn't been touched in over a decade."
-publishedDateTime: 2023-06-07T21:44:00Z
-originalUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/"
-webUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/"
-ampWebUrl: "https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/amp/"
+excerpt: "The description here sounds very similar to a genetic algorithm with a weighted/biased search space - use of Monte Carlo random selection of a mutation in the algorith, combined with a fitness ..."
+publishedDateTime: 2023-06-08T14:52:00Z
+originalUrl: "https://arstechnica.com/civis/threads/google’s-deepmind-develops-a-system-that-writes-efficient-algorithms.1492545/page-3"
+webUrl: "https://arstechnica.com/civis/threads/google’s-deepmind-develops-a-system-that-writes-efficient-algorithms.1492545/page-3"
 type: article
-quality: 89
-heat: 129
-published: true
 
 provider:
   name: Ars Technica
@@ -25,66 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1403644222-800x533.jpg"
-    width: 800
-    height: 533
+  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64807d68d425bdd22cc43233_Copy%20of%20alphadev_01_06_crops_crop5_0114%20(1).png"
+    width: 1920
+    height: 1080
     isCached: true
 
-related:
-  - title: "Inside Google DeepMind’s approach to AI safety"
-    excerpt: "Lila Ibrahim, COO of Google DeepMind, will speak at TNW Conference on June 16. Ahead of the talk, she shared the lab's approach to AI safety."
-    publishedDateTime: 2023-06-09T09:10:00Z
-    webUrl: "https://thenextweb.com/news/inside-google-deepmind-ai-safety-strategy-lila-ibrahim"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-4.jpg&signature=95de9df374e2fef286cd748ac5d07e5c"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "OpenAI, DeepMind will open up models to UK government"
-    excerpt: "Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech"
-    publishedDateTime: 2023-06-12T10:07:00Z
-    webUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/"
-    ampWebUrl: "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 74
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/05/31/GettyImages-1248338134-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Can Apple keep the Metaverse dream alive? Plus, Google's DeepMind AI develop \"extremely\" optimised algorithm tool."
-    excerpt: "After Meta boss, Mark Zuckerberg has spent countless hours and billions of dollars on his Metaverse dream, has Apple just blown that dream out of the water with its new spatial reality headset? Plus,"
-    publishedDateTime: 2023-06-08T06:53:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/drive/can-apple-keep-the-metaverse-dream-alive-/102458142"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 32
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/5ad45e8c5f9db438c30c9e71f6e44722?impolicy=wcms_crop_resize&cropH=1103&cropW=1960&xPos=0&yPos=0&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
-  - title: "The Download: carbon-capturing super trees, and DeepMind’s sorting breakthrough"
-    excerpt: "The news: A year after DeepMind used a version of its game-playing AI AlphaZero to find new ways to speed up the calculation of a crucial piece of math, the AI research lab has pulled the same trick again—twice."
-    publishedDateTime: 2023-06-08T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/08/1074316/the-download-carbon-capturing-super-trees-and-deepminds-sorting-breakthrough/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 15
-
-secured: "uuUwIhNhCYStaVudrEpHfXkOt6j8Cd2GjAvwI333FFp2zgHe+UEq86K6Yk9tSrMENayY/XxuNyK+gGRUW08TR0fxnkLtFQXnCeD/vDAZdEhKQkDapwN3ZLByAQA0GEV2S33a3TiSrZTCKagquSnyyKsXe2rLAKYTPgKdM+FrV1RhO54KehPsW2+1kZ8U0N5xwhZYl/d9QmsVCzvxn1n60sobNn+AhSzjpWsGTlbwrxpR2s8c5A0yE6SlSwUMpxJ5GDePIxH+COLrK3uKbIOmD8Je+DzQQVu0gzJUItbdHsCbmDAgXbNXGxfbcNNpwRyL+4QxlFUKvns9gqMOdAvruksEKQFY7y6QCPcLvoL6MugljBMGZoL1jui9JdXld2hx+Iuuq9zqNaziaBGHfnE0gNb5Wp+pzivo7qyNJaar9MqU9J2uHHo8bwup9XIn3VyQntMNBwNGK9mVeUZUQnsEeXb1LI6xkMtuhO2PdLfgHi/AckmDoVD4mifDGb9T8DNLh/0a14IyW3fAZ9mL3iNCNA==;03IYv/SsInRO1rv/H28Pzw=="
+secured: "Oua3SuBLEc4qXJu2rXcnU2yqWvebr6oQ0kdD3NuRQRwBgoL8fINPhGyq+B71LJ5Pu7/YwvJRDyT6L7oJTlpL7325ZZJVk8ikP7XWrbeBuC2BSjRJVMzWsa6zQa1qn71437ePJL2nAtATQV2LJ/Born3qs+WCCVCoB3VLC8ND2qXo6ashzeaPy76p6Q+1kS7p5HxsBajbiZPE2NEWBcpCi8bUVHKR2bjn6vMSuZ1WtlxqwNLlrZxlxM5ymv+U9V5Fi4qvAjjORgkfZnJONbq7mtis6rP9blztWfXynxyIrFibq9xslsktt/A87nppRISV5m704w3QTUByYlHuT1C4rPrAayoMw3giKBeIJCvUvLw=;AVOctBDS6Z2a5jiMEjVpJw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
+      "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
+      "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
+      "originalUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+          "width": 1125,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-as-fintech-thrives-can-ai-make-or-break-the-banking-industry.md",
       "title": "As fintech thrives, can AI make or break the banking industry?",
       "excerpt": "The banking industry continues to be a proponent of emerging technologies like artificial intelligence (AI). While the pace of the adoption may be",

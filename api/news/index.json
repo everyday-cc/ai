@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-22-microsoft-azure-openai-lets-enterprises-feed-corporate-secrets-to-chatgpt.md",
+      "title": "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT",
+      "excerpt": "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg",
+          "width": 980,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
+      "publishedDateTime": "2023-06-21T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-parental-disclosure-requirements-for-sex-ed-gender-identity-clear-ohio-house.md",
       "title": "Parental disclosure requirements for sex ed, gender identity clear Ohio House",
       "excerpt": "A bill requiring Ohio's public schools to notify parents of changes in their children's gender identity, as well as almost all sexuality-related lessons, has cleared the state House.",
@@ -193,6 +236,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-22-danti-uses-natural-language-processing-to-make-searching-earth-data-simple.md",
+      "title": "Danti uses natural language processing to make searching Earth data simple",
+      "excerpt": "Danti, a startup emerging from stealth today with $2.75 million in funding, provides a powerful natural language search engine for location-based data.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/",
+      "originalUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/ukraine-query.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/",
+      "publishedDateTime": "2023-06-21T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds.md",
       "title": "More developers are coding with AI than you think, Stack Overflow survey finds",
       "excerpt": "With 90,000 responses to the company's annual survey, here's where developers are leaning toward in the generative AI debate.",
@@ -201,7 +296,7 @@
       "originalUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -252,7 +347,7 @@
       "originalUrl": "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -334,50 +429,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-microsoft-and-google-rivalry-could-supercharge-development-of-ai.md",
-      "title": "Microsoft and Google rivalry could supercharge development of AI",
-      "excerpt": "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp",
-      "publishedDateTime": "2023-06-21T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -571,7 +622,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -944,50 +995,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
-      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
-      "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     },
     {
