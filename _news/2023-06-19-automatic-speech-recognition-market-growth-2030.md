@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+  - title: "Latest “Artificial Intelligence for Healthcare Applications Market” 2023 to 2030 with Business Analysis"
+    excerpt: "The Artificial Intelligence for Healthcare Applications market report provides conclusive information about the industry, making it easily accessible to readers and users. It is a valuable resource for businesses of all sizes to establish their commercial ..."
+    publishedDateTime: 2023-06-18T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-for-healthcare-applications-market-2023-to-2030-with-business-analysis-2023-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Detailed Analysis of Existing and Upcoming Growth by 2030"
     excerpt: "The Artificial Intelligence (AI) in Fintech Market Scope and Overview Report for 2023 presents a detailed analysis of"
     publishedDateTime: 2023-06-18T20:43:00Z

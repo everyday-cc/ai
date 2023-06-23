@@ -1,33 +1,31 @@
 ---
 category: news
 title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-excerpt: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology PR"
+excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
 publishedDateTime: 2023-06-22T21:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbreaking-ai-powered-uv-c-disinfection-technology-3e5b4313"
-webUrl: "https://www.marketwatch.com/press-release/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbreaking-ai-powered-uv-c-disinfection-technology-3e5b4313"
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
+ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
 type: article
-quality: 48
-heat: 48
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "9XQwooUtJ1rEy0ALzJFw5ahUVUqNmuFZGLbwSY7BnM7JE6Lf8IDs25XAqWzO7zwDYxRaaAtMi8JZV2zOjWezRU/97rtSqixL+bClSv4tGM5xCn+7SaSCSNagXKj+LUR0fAEZP6jR7AUS9XByYOXnlWZF9ajF0hZxEYez2gQw+i8NP6C4cq8aq8Y7Pm/jw46/kucup6Cwd7xPT0cgFxRRK/lu5g88hwi76z/QgZQ5dRdos1OoLKPntAg/tVhoOIE6OpJ+c2I5yTm1QF0ZjHTOoSWbvr0kRjYiBYR1QtJ/MoTNvmPlyvYUonwsyKh2/iOZRWZictnkWiWil79ccIKQP/rhbU8QxLczlos1xjZ6eFA=;tpvVLVS38NOcWbRslQ7K3A=="
+secured: "8ztZE+lXIgrVZ/gOC4DK3hPcZ8B28nUzKR8NT5sB7PnlPIo+jneFkKCqceuOPTd5FdTFSPTkVlZNwJj/R1mqdvBksPTgqrdJzkl84wPa34SUeYZBn7EeM5DfaqxYJ1wtqwvlwUoMDKXWMw5d7frcatAVgQXUnt/QqqQ+lMRe38IZb2aG62sp57tHXqTgktAeymbfvO9mRJAzHeQ0TIF3EKkgeqHql/cbc8ux1rL8M/Wy7fRjAVFSWfCNMkjh5Qh/RsIoFOVNubE2BpMzLQweh9VtTlYrsH/S6pmexYZEiOFRHoukoeY7ip2+Eqb/hCG2738NAmt1mILnkwbFuin5S8lMmphsIYf/ANrrxtmsg2U=;900kMHtUPFDen0YsC35gVg=="
 ---
 

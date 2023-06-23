@@ -73,20 +73,20 @@ related:
         height: 558
         isCached: true
   - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-    publishedDateTime: 2023-06-20T21:50:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
+    publishedDateTime: 2023-06-21T01:15:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
+        width: 1200
+        height: 630
         isCached: true
   - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
     excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."

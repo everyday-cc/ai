@@ -33,20 +33,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "The impact of artificial intelligence developments on cybersecurity"
-    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
-    publishedDateTime: 2023-06-18T07:00:00Z
-    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
-        width: 930
-        height: 620
-        isCached: true
 
 secured: "LJDt+95be3HUNB/QG9onuyrU3WZc3IBFvVJzNHnd4QfyypIEhZlbkbzw+f3EeDvSa8LDhl56KyP6Httb/g/+vhKGLtNzj6SU/iCaLI6KZBz+ege2OckwV8qKLsjIOMFojBNQSsc7ZDrY9suJ1nQ2qfRVhT2kFiPfPkFCswd/aL4w9b4n0pLVhbuKr254MnkgxcugQ9glG7J7Dx+72im8mcR8P8k74b0P7RD9et2FgqkDlh3Qg6O21yGpK3VrxWF/yaxhD+g7wHmJyfPGOciy4/6gC5wZkLofLZsRbWiDB9qfoVblRCv4Zi+gRSwkZVr4/YfomrwBZ5HMAxYOfnnTNh3DhpfUJloz7vVieK2mWek=;Dtrb2FyzUglba0bxS10Ehg=="
 ---

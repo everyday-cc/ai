@@ -102,6 +102,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "How AI is changing the way humans interact with machines"
+    excerpt: "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ..."
+    publishedDateTime: 2023-06-22T15:15:00Z
+    webUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines"
+    ampWebUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "The people paid to train AI are outsourcing their work… to AI"
     excerpt: "It’s a practice that could introduce further errors into already error-prone models."
     publishedDateTime: 2023-06-22T13:00:00Z
@@ -117,6 +133,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
+    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
+    publishedDateTime: 2023-06-22T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
     excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."

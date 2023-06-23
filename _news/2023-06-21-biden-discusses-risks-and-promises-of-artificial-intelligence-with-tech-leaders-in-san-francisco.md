@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-publishedDateTime: 2023-06-20T21:50:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
+publishedDateTime: 2023-06-21T01:15:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -107,6 +107,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "VJu4Zk+aehmXjQvwS64GH39MzOcWeEzdWUIJfW1HPPiQNJhjm9pY1UvxgBRX6nRq0J52PlZGvWIwICVyQlAy1oUwlGyayGTLv0bE1y3KlRUw5xBR32X/KzlzoeoHT0tjUwQIlFrYjF1SnUhvYt29By+/Jj5XcBDGhIGCoyxmSac4KQGFdlVPqSrW4MiTaLosokI3rH5slhgrZWfHCuN2zNnbknSDKtuVB8kwrKPNOv6jsSP+J8QjWI1zm+aRFOUM6GzB3DuIfv3l1o+p5u4m+fLOuXIVgyhaSyvf2ObTjRJrbPpKU72ZFwcyqZ9AN3B7U2qeZQdcjImW5Ikn7FkqKCfiX3f8qqld/GI9RHh/VukvGNmVGlJ+LrNhDuKadOlXBeY57MqzUq66SBymITiXzZ3LODWs0PfBGvNJnUhmkrNzK64h7qVcGM7uwQcN91nPbnLjLbvKMdfZ7c0HaRxxl55MzxSfIpvE2S9nyU8kgqJDSl+gJJ7+dRH4vDv8wSPfGCGvkpzpsriULkvmwNMibw==;SHv/fkHXWCR35FScYYViow=="
+secured: "2nEZT0PlGON2Qs4NkJwdz9o+07oyFx8CuPL05NjZ1tK64xQ3MJeajASZXioPuOh2N/taaBQ8373FjRn3nCfe16KS4GeS2JaTCKniYIkVRMKG/tpl0lYWPM4oVb5rxuoIpNom9NxDRNS83BkcuKH/O+5p3DSKaJwbwgpWlgOfuWLTWU27fQTUYRmRM24+u0QIe5cRiczczfpMbfTRScGA5jlKWbPvscZ3P1iPd4GEtjmSjYPyyEr8T+ixHD45o9oTal+MUTnsEiXJnGDdPhD0aungOoWw4qI3+h2e0PP4Y+M6D6AwAcsdv2tsSDKbPnpC48lFYCaMWZ+UR7jAxh6HTEwOWoy5Mkgom6tM1Mrfilw=;KgbSbTflWst8QDLI0RNrjQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-trans
 webUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
 type: article
 quality: 84
-heat: 97
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Man vs. AI: Who makes a better beer?"
+    excerpt: "A brewery in Bucks County is testing whether or not artificial intelligence can brew a better beer than its head brewer. Howard Monroe is at Second Sin Brewing in Bristol to explain how this competition came about and whose is better."
+    publishedDateTime: 2023-06-22T22:07:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/man-vs-ai-who-makes-a-better-beer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/22/071b2096-bc11-4f6c-bbe7-facd1280b376/thumbnail/1200x630/cb3e8b0775e93c1032389279a6878402/7c42fd7e83cc5771665b514edb6eea8d.jpg?v=74b410729cdff54299e4158e8919d920"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-ter
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647"
 type: article
 quality: 72
-heat: 75
+heat: 72
 published: true
 
 provider:

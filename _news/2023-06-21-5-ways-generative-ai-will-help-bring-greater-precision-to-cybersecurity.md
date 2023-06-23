@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The impact of artificial intelligence developments on cybersecurity"
-    excerpt: "By taking a closer look at the evolutions of artificial intelligence, IT security professionals are preparing to face new kinds of threats."
-    publishedDateTime: 2023-06-18T07:00:00Z
-    webUrl: "https://gulfbusiness.com/impact-of-artificial-intelligence-cybersecurity/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/konstantin.jpg"
-        width: 930
-        height: 620
-        isCached: true
   - title: "Rouble Malik Unveils the Power of Artificial Intelligence in Cybersecurity"
     excerpt: "According to a survey conducted in 2021, an alarming 68% of respondents acknowledged the potential use by cybercriminals of artificial intelligence (AI) for impersonation and spear-phishing attacks targeting their organizations."
     publishedDateTime: 2023-06-21T07:40:00Z

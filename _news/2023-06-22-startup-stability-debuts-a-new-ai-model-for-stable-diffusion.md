@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-22T13:15:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png"
+    width: 1200
+    height: 604
+    isCached: true
 
 related:
   - title: "Startup unveils AI breakthrough for male fertility diagnosis"
@@ -36,21 +42,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI-Driven Medical Breakthrough: Leveraging Artificial Intelligence for Novel Drug Discovery"
-    excerpt: "AI in drug discovery is doing wonders for the pharmaceutical industry. Learn how AI accelerates the drug discovery and development process."
-    publishedDateTime: 2023-06-22T08:18:00Z
-    webUrl: "https://www.unite.ai/ai-driven-medical-breakthrough-leveraging-artificial-intelligence-for-novel-drug-discovery/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 44
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Featured-Blog-Image-AI-Driven-Medical-Breakthrough-Leveraging-Artificial-Intelligence-for-Novel-Drug-Discovery-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
-secured: "KHyXdW38pbhPSiEEc7krpT/9VwWLXpq0/LEtaY5Ob4opmzd5O6qdAczgC+oIxHuEUZrOpXvr2fW1Ervm6HCPJcKdAbhIUZlM/C8QWa6r7ZSQ3fh6bwqzFKbOHmAj3y5QiTKzMpg7lclVmYlYXIWmPQqtJT+X/8JV7t/KX6D5qsFXPClcO9UT+Cz2y9RwcmI3wCk7xbeZ6QoiOuQIeBXayle/lmqW0D8aXlJ69P/aVyMX7Q2+TyDNQcnHevoNOCDxGvjVkJLyI0OViN0cpgZMDX5coN03q4s7u4QUQuHITIUXiGyBjn/NaT9L7g4K4Eqw/cAvbMRJimMNw2J9dOHHlC4MjLhe2WHEsq1cnoilPHo=;kt6RdE+Tixix4OU/ggpbpw=="
+secured: "+vO2dwOcF3CDENX0irI7E6Ny3l0uI4SSfqn6axfO/B0p3OGzhNm2cqhRC+g13WKdAYBky2EJUjrlFZJ3we6+Ttsd08Qa3TJmP5a6qhjkgWcfVvMLuhao3PY8GdPfGd/z7DbAF3TcPyXAYakCfo5O7MuhxEP2p7Hk81XxP9jvK41yRtU27sAKjAJSOrt6tTFG6dWq5uJU9MxjqLPqUktWA39tQBM2bj35Ef8BSFJiCmuuGlboTrUWlnpuIt9adnX+O6b7HUhhitYr0F/etVAnos54xHWGTMU+9GVs97+FbvZvo/U37sA7bQvd4O8NmBHe/4A5nwPsMQ8WDGggmX0VTLHLTauq7RSGmkCynjhUqbI=;e3iPQNV2fNoSUfoQfnVwgw=="
 ---
 

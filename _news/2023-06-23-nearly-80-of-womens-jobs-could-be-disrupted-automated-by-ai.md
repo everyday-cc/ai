@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Nearly 80% of women’s jobs could be disrupted, automated by AI"
-excerpt: "\"AI represents an opportunity and a threat all at once ... including ensuring that the applications are used responsibly and potential concerns around bias and ethics are fully understood and addressed, she noted. \"Over time, it will replace some jobs ..."
-publishedDateTime: 2023-06-22T21:56:00Z
-originalUrl: "https://www.wdsu.com/article/women-jobs-disrupted-by-ai/44306467"
-webUrl: "https://www.wdsu.com/article/women-jobs-disrupted-by-ai/44306467"
-ampWebUrl: "https://www.wdsu.com/amp/article/women-jobs-disrupted-by-ai/44306467"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/women-jobs-disrupted-by-ai/44306467"
+excerpt: "Recent research shows that although outnumbered by men in the U.S. workforce, women could be disproportionately affected by businesses' adoption of generative AI."
+publishedDateTime: 2023-06-22T20:51:00Z
+originalUrl: "https://www.wesh.com/article/women-jobs-disrupted-by-ai/44306467"
+webUrl: "https://www.wesh.com/article/women-jobs-disrupted-by-ai/44306467"
+ampWebUrl: "https://www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI Ethics
@@ -26,6 +26,6 @@ images:
     height: 677
     isCached: true
 
-secured: "r7Vr+3W/YOq/8sm7ZrGnajPr+KQTt/Sco7nPqywgJ/PzOBV8yVZfTx1WOnvdIUYxPxJKPw4foyLgsG1z8E2vfcE+9vSAvZy1toH0gWjk0USxi9BB8TNppCg5mYOAXNiNn16DtOPh99+h5pOOaCxfOTwVMhJwLMw9fJsQ1Zj7ryF3kKpMoBsex6iUa06i8r567tDfUYk+prPhWz9ZgTMlUJliGiWM7icYuysR6W+/wpY6xwOkkr+7+LHxHrH8OwazxzG5R8OXVgfbEpCZ6NqY2pmDDDusaSIyY77KMugRR0ibLhBhharD+AzqKf33Orog5esGyK08xlWwFR7F8MEsxEpcc2MEQTCDGZBiiN4Emfo=;EayfD6NynXa2Pnb7OMGUmw=="
+secured: "d6VgngnGtgNTQxAPXnFvTT97PyBra0DzqfMFhiy/V78MmZSqviL1k5sa2gjigjAU/fecUrdDkqaudfTPBSjdj4WQKfvda6Q9jsUmS5L2Nff3usVcp6kJOrmech27WKgFFI5iWnolaZpCuoSYPvCX9dWpTjncYFyG+L5gEpLh6rOnalK8qlRJfqzBRjJryuUp5H9Uy4J0Q7VTyDi2bFEjEz32Ds0bffNdxsJkqjXC4Y4ZjqwZ8kV0hAfaYXzXYXaM9q5RLpLFbYsTHGKJ+H/rV+VNpK+2+hBm1xOv4XSOSdgw4QyyjMHXpwTXiLWuYzWPnZY+Kewgf2VI0YJLlcw89JKbTp0wN0RVf+uytd5/0DI=;7CyRKJzI2gTdtP7NjTnScg=="
 ---
 

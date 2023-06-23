@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Man vs. AI: Who makes a better beer?"
+    excerpt: "A brewery in Bucks County is testing whether or not artificial intelligence can brew a better beer than its head brewer. Howard Monroe is at Second Sin Brewing in Bristol to explain how this competition came about and whose is better."
+    publishedDateTime: 2023-06-22T22:07:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/man-vs-ai-who-makes-a-better-beer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/22/071b2096-bc11-4f6c-bbe7-facd1280b376/thumbnail/1200x630/cb3e8b0775e93c1032389279a6878402/7c42fd7e83cc5771665b514edb6eea8d.jpg?v=74b410729cdff54299e4158e8919d920"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "arBhVEsKSZVphKhC0aiMOkWZm42NdIX7Fmm8xrgAqD6P1RFPbtMUTVgUZ3BP1E2WNDlSP6vRdY0T3Bc5UJ7wWiTpZSJ4yv2gF8Rj//eTpnebWzanLD2tPMC3GFLaPttDXgeh6pIRknseovsPk6QSlML4bVDkGG9MCEKy9yEjsGxTmpeSWMQ9sDzefONAiVsYV31i5/zoWH7NB9+qCkwS1/hnDEbXtAXT1z514CdD7uCn5T5GInhnDsDyd4UKMYBt8c/Ml5xwBhj9SOtQtYvhMWz2x7WnR/2wPjFMSq6sgUM7VQ9e0VkyotnSV/MOS0L90wA2zilvraaOqiXqHVLQdssNPNGo/bNc9o4gKM477ow=;R+4fPtJIRkFef47UDjw3Bg=="
 ---

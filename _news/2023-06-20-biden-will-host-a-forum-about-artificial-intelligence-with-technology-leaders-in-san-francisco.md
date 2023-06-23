@@ -59,20 +59,20 @@ related:
         height: 630
         isCached: true
   - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-    publishedDateTime: 2023-06-20T21:50:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
+    publishedDateTime: 2023-06-21T01:15:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
     excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
@@ -107,6 +107,6 @@ related:
       domain: latimes.com
     quality: 0
 
-secured: "Y3gd9AM2HkQV1pFoyFNxBwXh+SmUEWKedEi9Wve5tKCkvtywM+NRNeGeKSi1QQXUyNaQUNjberIxUTr6T4j1CcccOAk9sU2R2xlJ5k0e6acJM1yXbTm3Ln3pfi+z33T1NNbffTQFU0iuy0hy4cHicxlihL1oJDPyXNNM99W0Igi5BwFclcdoVMaZT39mvj8dCPTSUZVhzfv6JUoTMCE5wizT1yiQ8SQyX7VGaKeEdOTOk0OUvMDOrzfGPcYqLeuIrJAmKM+cEYvmzGfokqJ5qlBJlNfnQ+cC7yFW8/frItUueekqOvYhe44xQ1vcZtKk1QCrNZ9K2ZpOK7OsE0vkB/uVvd3ueIJJwxQP4OjxOug=;0y0YDzbtsHx6dyUaMEt1ig=="
+secured: "s7kjoE6OpaDsfC+dI43JzDG6/0aA128Iiajk/LcWodiUf5FeHM66z26kmgJhqb0laX5jM6kA6M8/ep4DTl5H7bb73Kofs6JYN1o1QP7jay9UvtvmX6s6Fk9uYY9V4YdVWhBB/NoPy3NG7dSvGcjyqxl222yzk3b59SWEim7GsrBW6pyltc8o29ZsiTMxQOYJNFG8G5br7Q2l8XyzMsGLx+TQ6/oZCJZaK7E7sgwCNvqozgI2Kvm78Z3TSppscs3/Re+lRToQM0rav+hHK1Q2J1evZy2AJ+P9viPAWWBODmXslYzijEsGRRMprsvS4NixVUYALmpujVEFHEF6zh9SW8M61twx3Dp0sDdjq2NlbtI3rQ4fcTcA7DgA8hYLbSse5dl8ZmR7hOeY/abGu+TZCx1RLCbe5ob8LdzEYe978s9l3uuTK/kC5jLR7VH5XhFASZYJJ8VSC7ccSs1ycANGUyoVE4REFGaQOOx76Vacgzn0HEJEQxBnZ14IPQI6FSGCTQ3ubgawSY2SZpkn3sea/Q==;Izk+8M0QnIAfDD/xpuVWaA=="
 ---
 

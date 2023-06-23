@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19"
 type: article
 quality: 91
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest “Artificial Intelligence for Healthcare Applications Market” 2023 to 2030 with Business Analysis"
+    excerpt: "The Artificial Intelligence for Healthcare Applications market report provides conclusive information about the industry, making it easily accessible to readers and users. It is a valuable resource for businesses of all sizes to establish their commercial ..."
+    publishedDateTime: 2023-06-18T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-for-healthcare-applications-market-2023-to-2030-with-business-analysis-2023-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

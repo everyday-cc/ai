@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
         isCached: true
   - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
     excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."

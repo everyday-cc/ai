@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "AXH2k9cHWHIQ1N2wr5rL0jdiGW7761JHB5awNENme5VMFHNmFpZ9abUxQdrU6D3fHQJ8wUeL895SulvbtQCygOhUunYgN6ZPkHPefomqfO+EiS9c7dXQqhP5MfCUBkzDyRlEX+G/j2ArGMSH4s7ZjuWarMbkiW2OrSFNq9tVLb/e/z4ADQnN487O0tfKTFptrwAWD4sDHrqjSZysZ3wFYwebjnwBd9ah4xZFnvFlvDQi1Mz4DX3UmmeNsxix32yWczqP8/SZLQMmLKMkluommDzyNAGbT3S8a/ZjYYh4MQT3N7p/xzNkBKA6DWUsO6os1hK734wpUe78Pm3PWaUDXPP1FQarWUEbjqOGaAO8sWk=;yUWg2Ct82cTL36Qv3fzpDQ=="
 ---

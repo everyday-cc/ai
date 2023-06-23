@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/startup-bayezian-reveals-ai-breakthrou
 webUrl: "https://thenextweb.com/news/startup-bayezian-reveals-ai-breakthrough-for-male-fertility-diagnosis"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -36,20 +36,11 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 47
-  - title: "AI-Driven Medical Breakthrough: Leveraging Artificial Intelligence for Novel Drug Discovery"
-    excerpt: "AI in drug discovery is doing wonders for the pharmaceutical industry. Learn how AI accelerates the drug discovery and development process."
-    publishedDateTime: 2023-06-22T08:18:00Z
-    webUrl: "https://www.unite.ai/ai-driven-medical-breakthrough-leveraging-artificial-intelligence-for-novel-drug-discovery/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 44
+    quality: 67
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/Featured-Blog-Image-AI-Driven-Medical-Breakthrough-Leveraging-Artificial-Intelligence-for-Novel-Drug-Discovery-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png"
+        width: 1200
+        height: 604
         isCached: true
 
 secured: "fJUjh8OOVWgTHGRfvg6+bbCurVSuiqngZBHruXyZeVNENLldtwSD7h//njBcp/mEnkceS2vvRTINntfo9HTglDr127QwUmvTM0dNihT3oRySDeDzpS7Ff4VfJrCpcRVOgUgN/XcH26VL+zn0kDdotgSRPJuKLH/Dooq05xrh/HU4trH4NRLWFB4iY7wwrEQ4lbiGALLe+o1yNbBooiPsrOwNrg+dVY0WLyhoBc/CMpZqXCzloDgLXBOtahEk7YqkzmPsHrfNFMbMZl6lMbP/JQLoaVrzs/6t9oWfHM2ShugtHcYN0KskqO4FcMxH9W2Czh6fh9ZQv7VzE8k5dxrHwOzanFGUx9EFvZhZrr1jNnc=;Y0UM+u1l5ROkHYDx4Z5PdA=="

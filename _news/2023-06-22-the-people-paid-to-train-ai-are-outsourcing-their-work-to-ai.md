@@ -104,6 +104,36 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "How AI is changing the way humans interact with machines"
+    excerpt: "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ..."
+    publishedDateTime: 2023-06-22T15:15:00Z
+    webUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines"
+    ampWebUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg"
+        width: 740
+        height: 492
+        isCached: true
+  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
+    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
+    publishedDateTime: 2023-06-22T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
     excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
     publishedDateTime: 2023-06-22T18:36:00Z
@@ -256,6 +286,6 @@ related:
       domain: aol.com
     quality: 14
 
-secured: "ApAJUIlvM9CsJn/SiG9oP8LKQ87Y01NirlK5s0cO57tt79fKp8yUMy9aP/Ij8YE+XaNO6LvWVhCJ2+5uwpiWNUkYz3EBtxj8SxnxAYgBHr/oAq46REu93lBytfC0IZzFBk91KtYFoZYoibilwoda3MRo3AXluaIHKBzduA/LFwX58rOvQMkl6Cjlo4Kk4QmFEQ8WOerRZnNHc85fjyZggwnf7v880haV4ANBmYLe9IiQqRZUDWoja5EbANznXjfzoGKr8EqCDpjzyOUNQ8FxhSubzVpU3LFinCcPRKKyc+vVzsKIzXhfKqQbVEQjompEjZL1ybDojOi7CAo4cwjDs/w19TNR6Nd5IwH0kgKaTKM=;XH7sp3ljJODxT+VBFXfauw=="
+secured: "w09kINzP/HnFZG01wFm+vdI6UJr2uEBAXGjhWzMjlb13tD+v+DvUMFbAEKqT6fuBE3ayRxTHzca13O1MCipZfHxwE4+G9LvWkJVR2muOub6Ar1CMkTZAvxIcwJ7EGaX9jw3EsMqdPymLCXno9NbWpHp0DVwccKWuL3APPEclluowPwcRaxFkykvP3/NI8S8Dc03SE/12tLIv7bnbr39k0LX3DQRl5eog8C2BBGpW1NT6A9sTBkG5QhgLW9DQkFT89dqZUSGkM7B8L2M88S5IXCu2zmuO47NxFPy9HIu4mJQ2p/ZeohgcWRRXxUeQflsayByny6mbNHforESqVlyqSeCMAO3WgSeCAlzxsVijIfUod26D5mlx1dIYqoNOXP4vqnVBXiT1LQOUd08RiviP5QNVCGDLZ5i1gAhIJpIUX+gDiZWq11zLESTXLfVLDr99cPOdAxfwqLEDJlCqrIFSgHgdRa+ykShyxzTcUDX+ixGpFygjgIVS+d1FwobLeAFzlYCq/e2DoW+9ohCNGqozMQ==;V0YAhbvbqYrD23QGrfIbPw=="
 ---
 

@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest “Artificial Intelligence for Healthcare Applications Market” 2023 to 2030 with Business Analysis"
+    excerpt: "The Artificial Intelligence for Healthcare Applications market report provides conclusive information about the industry, making it easily accessible to readers and users. It is a valuable resource for businesses of all sizes to establish their commercial ..."
+    publishedDateTime: 2023-06-18T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-for-healthcare-applications-market-2023-to-2030-with-business-analysis-2023-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031"
     excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
     publishedDateTime: 2023-06-21T05:39:00Z
