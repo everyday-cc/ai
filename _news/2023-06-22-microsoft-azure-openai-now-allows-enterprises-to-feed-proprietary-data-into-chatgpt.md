@@ -71,6 +71,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
+    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
+    publishedDateTime: 2023-06-22T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 60
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
     publishedDateTime: 2023-06-20T16:18:00Z
@@ -185,6 +199,6 @@ related:
         height: 551
         isCached: true
 
-secured: "AXXcE+ylGPCQk1METqa8CzDTOyNBWX++V/oVgE0/5/RsjtLLFPycBRm9enJEB/vrPI6M7qX5YbuU3035PLM/uibhhY4wg6tZdzBn5f8KZKZe3ZBx+NEfX3mCmk5cYOmHB8RG4eB3t7hTUXJ+3zoKuQ/5TjrA+WEy1+1wErvKNxuCsFjmKA0H0kkE3Csmlq7FzLA661bcOlRBpB28nm9BALED3Ni9F5+of2RL/tTn3DDN2BfcLvDo4pEPUYBsqAmJWagZKn6XAmXt85anGqhwzGIxRUbQUoCJpXB82wfoVCSa3sQE6B2s4UVEnPwhPl++E0q+M7aqrjIinFPAZEHK8FD56SNXetU47OEW7Q60tOM=;8HVDIg07osiR6ZMWg7h9kw=="
+secured: "u+4tg3IFPhmfFuYhUa2NyJBeSvdT3ts1ysYJqzPAKnZwtrrZKksd4Nc7ruNLvKhetevKMzNz0Ci/K6OwFXTGYhNubkMlsbgtFSW1eBQ+u2gzi0IO7Z6qJj8g3Yle678i2C4yEGlSWMjey1V52UPG4MRN/aVIZ5+M9mL0JZwFPDVcIrYSPFK5lLTM4BMXhFkYsz6sMe2qA/hgK7ad2BJZ4fDsO7SrpktF6K85YJr84mPv86Js72+vlf+7auCv/Wi5mRdUXW57YKgrEGhar6s5duFi4bWrQ47XppunSOsVFroMEXd7nrLYeuDdCnyK8rJpn2vBkB6LQmE+FuTue63O7168TXRjFJQWq8Qfh0iKaahOFGg9mKe228cXpTZKq5jUs1R7ET7G13aww2EqbON+yC+nS3ZF/R10pBpQciLE43dEm8E2d1fNO11HTM3xxuklG/IIDogH+OrQRzHVolCC7tpuODaTk/hM3X6+Ii0QN48UWY6uFjaMjIzbWyXqey0puJkv9rnVvFFbtmC3RAG+0w==;oEXe5n/IYI7V4+Fu469Hhw=="
 ---
 

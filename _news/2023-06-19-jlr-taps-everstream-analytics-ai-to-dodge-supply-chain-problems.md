@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-06-18/jlr-ta
 webUrl: "https://money.usnews.com/investing/news/articles/2023-06-18/jlr-taps-everstream-analytics-ai-to-dodge-supply-chain-problems"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -31,7 +31,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 36
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/OS_Logo_Final_Print_O_Logo_Web_Color.jpg?w=1200&strip=all"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
     excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
     publishedDateTime: 2023-06-22T19:29:00Z

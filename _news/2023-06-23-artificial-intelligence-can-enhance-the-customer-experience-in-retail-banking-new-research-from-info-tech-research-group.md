@@ -1,26 +1,33 @@
 ---
 category: news
 title: "Artificial Intelligence Can Enhance the Customer Experience in Retail Banking: New Research From Info-Tech Research Group"
-excerpt: "\"Retail banking is undergoing a significant transformation, requiring banks to adopt advanced technologies such as natural language processing (NLP), artificial intelligence (AI), and machine learning (ML) to become trusted partners and deliver improved ..."
-publishedDateTime: 2023-06-22T18:40:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-can-enhance-the-customer-experience-in-retail-banking-new-research-from-info-tech-research-group-16c2d646"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-can-enhance-the-customer-experience-in-retail-banking-new-research-from-info-tech-research-group-16c2d646"
+excerpt: "The firm's research suggests that banks take into account emerging AI trends, as the existing offerings, services, procedures, and operational"
+publishedDateTime: 2023-06-22T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-can-enhance-the-customer-experience-in-retail-banking-new-research-from-info-tech-research-group-1032405528"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-can-enhance-the-customer-experience-in-retail-banking-new-research-from-info-tech-research-group-1032405528"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-secured: "olVQSiUF2kl8SLT5SYdvcBoxu5MiihZ6uE0OG7dtyG8gMf3+26awoSdPgk0V/7DGtbUD7zy0mMJbV85avBLVK7kmN6we9paJNz7MA+1uMOvhRMfRpHRnCjyjveUbTlKZ7GFThbCiUhE70KACc6Oh1jX5nZ7zrgUCQKyW7bFcZiAB3imUKN04CSxnP/wFPMc/GJ2w78WQCYaPV708HdCAQhN4Y5Kx3ibBpkGxPwbu60OmPWEBsHivfbf6aoHOsM8/zPl4zhZScZVE0Dyj0hDmQ63qtm+HuKfQoBRz98uJ5n+BEpCtWQsfCtuqj89LmeTsYe7uy2tapI4xTcUnWFZHTbpqERU1DCtjo+i+il/86vQ=;wOjF+4B6K7OigzC/zJ9F+A=="
+images:
+  - url: "https://mma.prnewswire.com/media/2108966/Info_Tech_Research_Group_Artificial_Intelligence_Can_Enhance_the.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "E62RTT+RfFcrrFedBVVWQz+8q+trbeQfI/qkrfgn1CMHg7vue0GFO78RHVUstiBjoMQlbcEUhtALNS7BFlUWlt6q8T8EpBpJ5Q08hD8MVg0FBFUs/41JwT9ZczpFyA+z+CvJruxudlIhzf/Z+qLvjYXpuDCuswE/zDJsCKECiyXGiWngx6l8VGJtw2KfW/8Rv3bA1+Be8iY3fwoWkhnJCRS9odqq9BkvVlXEQtuUrS3hupeA/JTtApfjvJq9ttpfWILmsKJZSGFSltXpyICeNFrp9arJGFNtb4K6ef8F8EoZynj+ANnTRUeEd29Trae0ijtwLE9c4JVTPal2sJlVL9Zm/egsgvwWqqSdVKWQAcQ=;C0o5k0MWx330QNrWToJ/Tg=="
 ---
 

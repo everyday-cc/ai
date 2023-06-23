@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -113,6 +127,6 @@ related:
       domain: infoworld.com
     quality: 47
 
-secured: "CpkXMl2TVlizDFhQ0PRMPso8VciooFEK0ffJBCWCb7qBxVxag8vHrqDpgvOjlEpw4zbjy0O3l+LxYUheriOLayL4hWoxYyoZZFyWk/Xbk42s69hFXk5noW5ZcFbVt5Nk43vU+Xwt5fmYHNuS8NadUWp5BQsMCKfzcbrAzlMqEZonUJG2NrHKqEg0iw0iYLae5cBNvmk49bfayOJ2UZDUy4pcGuMfgAUEGbfrxLzWAv2odSpUrn8WvuObaNvVfNtsF4RkJMZFIoMo9xostlK6kD/qPIR0ieCaT8ZT9fXbmT062Hitn8pNrRXyqB8HpeFJSpTO7AzjvlRBos4DVj8jgigyd9bVn1BI1wBCHQ/5FGg=;gTuvMvNW5AftHuk8zo3RlQ=="
+secured: "mL1LmxWg0ZC15kwUFlplnyH3ZxmeDELh6Nm4QrBkVufZURm/nJxQfgtzO/q40y0TEKElUKg5G7c7BXHKc9b8+gH0dlnhfKFZ3RgyTQpG0PMoOeePHA0D3Y/jGDh+Y+hJVZPIABkVow1vwjeCq9pWohSMahfonSuIn7QFcTlSwt7gu254D1jqKnQKGauUN5Q0Ubh1oiF8Efn1IVnSAl/jbzdezteubqwvPzbaEeb6TXChJQ7kwZHVaKUrPlNe5ilawd5CpKa5Z8Sp5mTwJay+gQ20Kfyw2EFu7SZNO+dVejflf7MW+cmThfFDa0U+I3bAT4XZaizofFyfT6338I2Wkoa8jLZS4+2HpPQ2aNfTxDJ5OKC/oaIBfJzNzZLdaXs5nQgic3I+txKr4sgGRL/Q7DPXLginn5BnDRkcBfsW/jj4PiTXUaiY7DWVXzfX1QhCtLoquIVi8HLyW8hEdBromyg0I+m6TxL9ySnJrQ7bYdAtGOr9I0tMa2L74bHRGP0dlbTYwC6A74ffQKYYzIqIiw==;cc9LytTcxAdNDH9MPnRFTw=="
 ---
 

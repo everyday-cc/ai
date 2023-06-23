@@ -1,0 +1,61 @@
+---
+category: news
+title: "For the first time ever, self-driving buses in Hajj"
+excerpt: ". For the first time ever, these advanced buses will serve as a means of transportation, specifically catering to the transfer of pilgrims from Arafat to Muzdalifah. In a groundbreaking move, Saudi authorities have introduced a cutting-edge self-driving ..."
+publishedDateTime: 2023-06-22T19:02:00Z
+originalUrl: "https://www.albawaba.com/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+webUrl: "https://www.albawaba.com/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+ampWebUrl: "https://www.albawaba.com/amp/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Al Bawaba News
+  domain: albawaba.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-06/32TH28Z-preview.jpg?itok=8H13CWjc"
+    width: 1920
+    height: 1280
+    isCached: true
+
+related:
+  - title: "Hajj 2023: Saudi Arabia now has AI-powered electric self-driving buses for pilgrims"
+    excerpt: "Saudi Arabia testing AI-powered self-driving electric buses for Hajj pilgrims Hajj 2023: Saudi Arabia now has AI-powered electric self-driving buses for pilgrims Electric Buses, electric vehicle, Hajj,"
+    publishedDateTime: 2023-06-21T16:16:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/hajj-2023-saudi-arabia-now-has-ai-powered-electric-self-driving-buses-for-pilgrims"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 33
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/06/21/hajj-self-driving-bus.jpg"
+        width: 1200
+        height: 762
+        isCached: true
+  - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
+    excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
+    publishedDateTime: 2023-06-22T05:51:00Z
+    webUrl: "https://gulfbusiness.com/saudi-tga-introduces-self-driving-electric-buses/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 13
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Screenshot-2023-06-22-at-9.38.53-AM.png"
+        width: 930
+        height: 644
+        isCached: true
+
+secured: "Q8WkGcpW+fQivbIPnO8e3lVGSDNG+HCfq+7nmqkDRPSAg9Mql399UqH/YmaGk4HpUt8Rb1+eMYS6b3v5iqR6d+xivgGPNK/kT6xzwhcS9z60GPkqHjmRcLklWfa0UqFWgvB38OoAi3o4t0yrsLPtD6apK/Gb39jjAJgm0L3wX56O168Yf89Qy1Ly/v7GshejxyYGi6YfXdMpG4L4260bGILVcc2rTN8OJuP4fAG480+2yplEKv55Xs1rDO07S86bme349pqPVBK/ygwuY1H1IIIqbJUoD23FL15Xmbyg3HwitZOtosBeq2qsDhTy/SMVdElXjecdYoaDdgVmmNYsClzykHN5Rq8l2WbMbnbdhaM=;QT2Fk29UAvC8ZfmGN3EqJA=="
+---
+

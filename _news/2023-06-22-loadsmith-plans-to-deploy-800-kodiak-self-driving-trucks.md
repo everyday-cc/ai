@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-22T12:51:00Z
 originalUrl: "https://www.fleetowner.com/technology/article/21268284/loadsmith-orders-800-kodiak-selfdriving-trucks"
 webUrl: "https://www.fleetowner.com/technology/article/21268284/loadsmith-orders-800-kodiak-selfdriving-trucks"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/06/16x9/Loadsmith_trailers.649439929c5f4.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Kodiak Robotics intends to equip 800 trucks with self-driving systems in 2025"
@@ -50,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DPUPw+KX9YK9I2I1y997UvdoeL6DLrEAWG+rAXwPDt5BvZ/fj6D4uhM0alGXr8yphw+2IgYWxPRgkV5Ygq6Q44ADtiDkAQita7ElQNBuiBDoj/vbh2LpFbrz5OSnW+j7GNbcarV+2u4GWnP6815MW0xIR2UmEfSv49oXQTZA1tgYA7N19g/oBlaOV6Zpd5fxZT1XqU2O8wYdBvxSSqRz+vO8C/AjTh/46ESUnCIUhVxiKS4vUas0//AjfarjYu7tRw7ih+uFCm8WNfXl+SkFTFJhWcCOy1meGin2Z/SXIslM371wLFxQXR1hozenaYzNVCDfhG0UDZ0JpH9Xnb0wy+vGFSEYvZizNNolqzpk1dU=;IP6hAqNHkpr2+2THuqTpog=="
+secured: "ilNqdlpHuB4OzDrTcs6Rzta39kb2QOpWI21oYf579DSm/Op/hq2YTDyISeLVO1mF2CswxZv7DAAJePUzfXOjgTZQAVY/ggcyXc0x92u1zGV/4cKU6K6OLo7YYLkItN7ArwFpI6Dxs7gCNmgzyr6djHAjQHf78wP3fLd+1qajwtZwq8WGAsp5vR/vEXuZAs4UqYzlpDRLprBjk5G1mAuB9oaPf6RwCKlMnGG45SvGy81AQbuSbxij8G81TP1qJUhK3KM9S6oHHMLpEgo1NSOOpJ+WhBSHRs98i3NX1IAf91vXeDMF+M4sbV4D1ElKbcc/9OUnoLaJNcYSusnNU5afYCt6+N5aa6z5qjFcYH0LdEU=;PGS5SNow/+vT6mPDx5+hvQ=="
 ---
 

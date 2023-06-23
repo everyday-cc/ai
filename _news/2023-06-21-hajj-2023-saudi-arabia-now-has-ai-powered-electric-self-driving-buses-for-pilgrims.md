@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/transport/hajj-2023-sau
 webUrl: "https://www.arabianbusiness.com/industries/transport/hajj-2023-saudi-arabia-now-has-ai-powered-electric-self-driving-buses-for-pilgrims"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "For the first time ever, self-driving buses in Hajj"
+    excerpt: ". For the first time ever, these advanced buses will serve as a means of transportation, specifically catering to the transfer of pilgrims from Arafat to Muzdalifah. In a groundbreaking move, Saudi authorities have introduced a cutting-edge self-driving ..."
+    publishedDateTime: 2023-06-22T19:02:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/first-time-ever-self-driving-buses-hajj-1524032"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 44
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-06/32TH28Z-preview.jpg?itok=8H13CWjc"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
     excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
     publishedDateTime: 2023-06-22T05:51:00Z

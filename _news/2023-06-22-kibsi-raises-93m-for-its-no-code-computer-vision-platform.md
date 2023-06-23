@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Kibsi Sees $9.3M For AI Computer Vision"
+    excerpt: "Irvine-based Kibsi, a computer developing AI-powered computer vision tools, says it has raised $9.3M in a Series A funding. The funding came from GTMfund, NTTVC, Preface Ventures, Ridge Ventures, Secure Octane, and Wipro Ventures. According to Kibsi ..."
+    publishedDateTime: 2023-06-22T16:26:00Z
+    webUrl: "https://socaltech.com/kibsi_sees_9_3m_for_ai_computer_vision/s-0083504.html"
+    type: article
+    provider:
+      name: Incubators
+      domain: socaltech.com
+    quality: 34
 
 secured: "AeV8VJrXnvcLw2HZMCjY5J1MUfDt+6DAHNjpj2E+HietyArn+U4+qGcYB08RMtqii3BHtS5W4JRKyn5hJdLT315yi8dWV61HA/6S9ZxVwBHFDRxnYrzaBahf+1HiZIljCWa0sXUMT+Ge0qnzSUcqTWcBEAi2nNC2XiZcE1ErxrQnD9/7KDb7Mvk0mTB+UbNHNTwxymq/otQsx49GaWQAqMa0+WJwsdSu8HflRVENY0nDwGlCJUmHATy5+RB+S25GvoxPHYFQauC5WzNCVciHg1q8rOO/BKW05dR+kMvq88WXeXjXJUvWnnJnmmgMUy8HPUVV8XkT3z0geXWP5QTr627ro3tlWSGpgNuuVaaLvsY=;wEeGl8Q33nb4mOIw+cAsBg=="
 ---

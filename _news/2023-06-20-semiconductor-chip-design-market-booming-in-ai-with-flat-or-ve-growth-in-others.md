@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Chip Market: Growing Demand For Smart Homes And High Investments In AI Startups Fuels The Growth"
-    excerpt: "AI Chip Market by Chip Type PORTLAND, OR, UNITED STATES, June 19, 2023/einpresswire.com / -- Artificial Intelligence Chip Market Overview"
-    publishedDateTime: 2023-06-19T05:12:00Z
-    webUrl: "https://menafn.com/1106453645/Artificial-Intelligence-Chip-Market-Growing-Demand-For-Smart-Homes-And-High-Investments-In-AI-Startups-Fuels-The-Growth"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/18/EP_d9769image_story.png"
-        width: 898
-        height: 470
-        isCached: true
-
 secured: "IB9yo+ulF+hsa+YYPSwsCD9s5GQq0wcWKtFmQKhWipkB0TT1AMyj0WTne7wtt815LZOtmvAbSMqJuKA3V00VuMQznLigLmnqJMwjvh8Dh9IBbWvuNoa25O7EbZZoxpPs+8EvG7K1LiuyOgEdj+t2W5GiBOkCHKcH8N2XC3t2jyDUn3JPqdeG4FYn/hMOc5E/0g1dozQW5FXzt5EymTGIc9wImtwyJgvoeJ6dU3YAnIpoN3opVXpHtbHx7GwK99j574GPoRSfRYS1AXu5e9oWJ+LW+9ydb0LDJr2GUhVjfBPW3BSUzosGtj8D8+ppHrlb2BshLRj9IUZNMzbdolwWq2b6/V+eTWFOllwfEz+JrbE=;XTtYY4xlu86DVIeaE8ToVg=="
 ---
 

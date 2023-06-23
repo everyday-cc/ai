@@ -26,7 +26,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Generative_AI_image.png?w=1200&strip=all"
         width: 1199

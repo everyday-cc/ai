@@ -49,7 +49,12 @@ related:
     provider:
       name: Fleet Owner
       domain: fleetowner.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/06/16x9/Loadsmith_trailers.649439929c5f4.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V/NSPL88uRuMwVm1aMGLXee7Db++0/OvUjLICPbOJqUlwqQjCLpIoNF0phqZ4NflXu0Ma/jE8mRsTMhM8Hs/Ho2pAo20xncTySbKqMfLSeVHGohZfb169mYvQ+vaTWRwqt5Abipntvh9+ObnFmeI/78eFzR/Sgz2MqorY3DGVxS6YDEXSSZpvFLdceE88IJMR7CZNiBiPvgHD8VWeBXfbntOX6FRQe/woSD9rCnD/vw0Z+To8scj5bYDmXD4i9jzm9vJbCTwFWK6eOzS9QsJBJoRlaTZSMKRpKzYQf9sc8XAKkNyiR3DPH5CUHbS/PgZM44JffgBFXkldy55g7PTWOKBlRVJELlPvWMdRfodjWA=;z3QH1OZAOZzx28irNsME8A=="
 ---

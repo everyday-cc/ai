@@ -26,6 +26,22 @@ images:
     height: 382
     isCached: true
 
+related:
+  - title: "Cops arrest man for taping photos to a dummy to trick mobile banking facial recognition"
+    excerpt: "Brazilian police have arrested a man accused of taping photos of victims’ faces onto dummies to trick mobile banking facial recognition technology and then take out loans."
+    publishedDateTime: 2023-06-23T01:46:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42534/cops-arrest-man-for-taping-photos-to-a-dummy-to-trick-mobile-banking-facial-recognition"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 31
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/download.jpeg"
+        width: 480
+        height: 270
+        isCached: true
+
 secured: "Ke9w9uninWw4tKNGFrsJvIsGwC5LDyHglxkV+oMK2k9FW/JmKxm7o0CeoamWD4e5EIWTFPYeg58WSMJcQ8dCpc7i30tPybIxDM4jiexhpuqpX+i4KwBGZ8vhlUws5dbcexQivrr/hKTud4e5fKNoDTBoih4DFbyLWzY2iyu42e9p6JtuY0ryvMcAu+HjEpeHEF4MwnMRWshRbtptXQLxo887dMd8bwCKeBcKYA/iqxULqjby32qREGygrWBp5qOG2CrYlBiJ4BiVC6HzgFG8AYSvuSnZs4j040jZ4p5zj+VAz9FPkOSBN8SKAtAph/a8aMUq78ry6ov8H3Bo1PAT5CUJUOIipfbXTBNbwCEv+X0=;4i+zIwCnparJi3k5PNV5hQ=="
 ---
 

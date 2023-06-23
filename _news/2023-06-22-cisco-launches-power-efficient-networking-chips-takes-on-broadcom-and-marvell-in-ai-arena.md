@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market"
+    excerpt: "Cisco joins AI race with new networking chips to rival Broadcom and Marvell, targeting AI/ML workloads. Here are the"
+    publishedDateTime: 2023-06-22T20:17:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/cisco-new-ai-chips.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cisco launches new AI networking chips to compete with Broadcom, Marvell"
     excerpt: "The chips are being tested by five of the six major cloud providers, Cisco said, without naming the firms. Key cloud players include Amazon Web Services, Microsoft Azure and Google Cloud, which together dominate the market for cloud computing,"
     publishedDateTime: 2023-06-20T15:27:00Z

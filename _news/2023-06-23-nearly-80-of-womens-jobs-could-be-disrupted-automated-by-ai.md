@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Nearly 80% of women’s jobs could be disrupted, automated by AI"
-excerpt: "Recent research shows that although outnumbered by men in the U.S. workforce, women could be disproportionately affected by businesses' adoption of generative AI."
-publishedDateTime: 2023-06-22T20:51:00Z
-originalUrl: "https://www.wesh.com/article/women-jobs-disrupted-by-ai/44306467"
-webUrl: "https://www.wesh.com/article/women-jobs-disrupted-by-ai/44306467"
-ampWebUrl: "https://www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
+excerpt: "\"AI represents an opportunity and a threat all at once ... including ensuring that the applications are used responsibly and potential concerns around bias and ethics are fully understood and addressed, she noted. \"Over time, it will replace some jobs ..."
+publishedDateTime: 2023-06-22T21:59:00Z
+originalUrl: "https://www.wlwt.com/article/women-jobs-disrupted-by-ai/44306467"
+webUrl: "https://www.wlwt.com/article/women-jobs-disrupted-by-ai/44306467"
+ampWebUrl: "https://www.wlwt.com/amp/article/women-jobs-disrupted-by-ai/44306467"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/women-jobs-disrupted-by-ai/44306467"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI Ethics
@@ -26,6 +26,6 @@ images:
     height: 677
     isCached: true
 
-secured: "d6VgngnGtgNTQxAPXnFvTT97PyBra0DzqfMFhiy/V78MmZSqviL1k5sa2gjigjAU/fecUrdDkqaudfTPBSjdj4WQKfvda6Q9jsUmS5L2Nff3usVcp6kJOrmech27WKgFFI5iWnolaZpCuoSYPvCX9dWpTjncYFyG+L5gEpLh6rOnalK8qlRJfqzBRjJryuUp5H9Uy4J0Q7VTyDi2bFEjEz32Ds0bffNdxsJkqjXC4Y4ZjqwZ8kV0hAfaYXzXYXaM9q5RLpLFbYsTHGKJ+H/rV+VNpK+2+hBm1xOv4XSOSdgw4QyyjMHXpwTXiLWuYzWPnZY+Kewgf2VI0YJLlcw89JKbTp0wN0RVf+uytd5/0DI=;7CyRKJzI2gTdtP7NjTnScg=="
+secured: "rgoZMKlEIEcVhzeF2l53ecnNPm1cpgrSWZTtQwFtAYE0mRvPhQLO2BZ6L75c6Veyp9oVwjNAHnsZlRZmyVbsEQZWz7a/ueETXlpeUnwOPgYDxxNIm/ZfQTQ1yXtsRXofyAwyBOsD3DP66CngluNfpAe/qJgmVSH+79tKMibGoX3kn7M2AFxyrhiWr2dlIVgUBmwVqk24Hr1gNhWV3PhATY0NpUmUkBWPGkY+YsL+fa+NcUBtSKBM0UHCQfLD8d3nLQl2QbsHHxo9s0smI99BiNpCraKorZ3xvXWjt2vTGhqm813HolufaDG5WbPeJtTghPIzgHJHoHL7khF7GuxPm+yUZl6pUdpRXwl+FINancs=;xtNaOU13XnSWiOW4bLx2iA=="
 ---
 

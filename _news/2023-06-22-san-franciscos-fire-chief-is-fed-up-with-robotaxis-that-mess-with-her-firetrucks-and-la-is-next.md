@@ -84,18 +84,20 @@ related:
         height: 630
         isCached: true
   - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence. The Biden administration is seeking to figure out"
-    publishedDateTime: 2023-06-21T02:28:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/government-politics/in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence/article_0887f2c1-427b-560c-8726-e3dc2c65a89c.html"
+    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
+    publishedDateTime: 2023-06-20T21:50:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 23
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/11/2118d5a1-bdad-50d0-aba7-bd2af79669f1/64917f2387ae3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
     excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."

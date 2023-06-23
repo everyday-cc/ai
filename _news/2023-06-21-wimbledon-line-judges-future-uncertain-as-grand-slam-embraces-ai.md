@@ -32,6 +32,22 @@ related:
         width: 1197
         height: 602
         isCached: true
+  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
+    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
+    publishedDateTime: 2023-06-21T14:51:00Z
+    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind"
+    ampWebUrl: "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88"
+        width: 620
+        height: 372
+        isCached: true
   - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
     excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology fromIBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon In a first for tennis,"
     publishedDateTime: 2023-06-21T23:38:00Z
@@ -84,15 +100,6 @@ related:
     provider:
       name: tvbeurope.com
       domain: tvbeurope.com
-    quality: 19
-  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
-    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
-    publishedDateTime: 2023-06-21T11:54:00Z
-    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 19
 
 secured: "LMjv9Rcf2ufaEqsiZSVMFaOieB3ktEI3KBhGfOsAZ5iy+9N+J4+i71nYleFAS1ZA5QVVPtr6GQ4lEHRuqOGe8WHLJEvmxFils5YNbhNbW3i53a+lQs+hLeM1xvoThV/j4wZ4gPEyLRqdzuYh3WTXh/Rb0Y2oGFeLhVPlivJQCMHtMBiW1EI2tcbITKMUsyZVd6WPpc8mRnKzY1MGcLcYd/xRJmJHPeTYuEP8dtqxwv8cONs2HLkbgphVrONaHVH78k1O4vD1hWoXfyGFEVlkQe/nur61Q2TgMQect5PrReyuop6Ep6VcrO6fx/pgzPjaE/oCBgU2c5KHcpQej+sPrwqHfbzAYz3+01zILlMGzKHaZHhU5cUA+sBCAvwkC7X5Clo3jQc5ONEY2wKMTo09Vp15g29BsxsuOyfdL2YpYX2/5Eoo+FqrCkxxoAbTTyqz9OWIk6g/L8aD9jBh/RgF7TqibPfzjXpCc+i9zihRUkcfNv9i2cVQKVdHTZajEIQKrTSNo3biM1/sKzn26HBW0A==;UsaXKScZdGU6mSb/s3Alrw=="

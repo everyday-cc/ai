@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-22T23:08:00Z
 originalUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/"
 webUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/"
 type: article
-quality: 65
-heat: 75
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Generative_AI_image.png?w=1200&strip=all"
@@ -38,6 +39,6 @@ related:
       domain: autonews.com
     quality: 12
 
-secured: "buzS60nns4uHiD0sDyxRzlHCRdcBEkF00e9iAa+8UeJdk/bVKmpIbl1paHXsyjjmjPUSpsmL7U1CJ/YcuEJ33iZghR6u64c0RjSI73epJrnb6LnLciq3sz5EGZuQ31hU1R4ZNJ9j0AEcX6WNFLJNOF2j+/CxqwZwHCVdZmsWb9r4OK2Xm3QINFRKZhdw8yHTddryjId1n7GYWAOXoznCeck2A3IW3mMd7FK4lOl4Q1Uo/xtjjLgfI3873PJbDQt5z0pORmhjOgTMxxWmogQl82Rh05k0yZ6ezz45hkw2EgmwzVUQSWLzvR3Tf6Klek9t37pyCQbeTjd3tSNyYR68g1ZetCUhJ33M+3DkO80ihBk=;N3PrZeFWGNJE/fVh2OySkQ=="
+secured: "vqUaSVeyanixdnc8zlG73KRUJ0VvZD3LPVmLHwR4DzQbJ5f25CZMqhwHHYbVeXkTLyz9dhODB4GY98yBQUk9FYgjlxq5otyKnPMELxKEhYK7OmwWl3fF6D+iXu+7Rlsby9FHhmgYw8HkXwUfgVn1/vnixYor7oxE6tU6lcdkhOEg5aRm01o08XrvYlNpZ2KRexnR2ihbgit853yg1+nS+LMhWGg+REO5TMyW2To/0feKra1KDh8o8JAiiavA+/+Z6u91SIWXmMtRXwJ/l4I7we5dcQZUoN0q29rAvTLuGFe6zP1X90r1dMszvpSJ8xuuyuKaGI9BpI2LwAf0qAktKg560cSkcsYWq5Plzm4Z9+NxsXSBf7P+Mun9F4BUWQ9I97AG59+UO3cLmGeIjJvODgAMhpCXiHaYPnKBQLN7QHQ82lYWM7syN5LIOkItSS1uGjmiOB88z4VNLg/cxw1xisBSUpOixB5zGxwBHbNbSMcE2O7yX3dpdhMQpe94bDMEHr5sD56pL5fR6RqZ/AEC5Q==;w/4R4eDetoD3KBaj4APDUA=="
 ---
 

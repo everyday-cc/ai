@@ -34,6 +34,20 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 0
+  - title: "Smart Cameras Market Is Anticipated To Reach Usd 5.92 Billion At A 9.57 % Of Cagr By 2030- Report By Market Research Future (Mrfr)"
+    excerpt: "(globe newswire) -- according to the research report published by market research future (mrfr), smart cameras market i"
+    publishedDateTime: 2023-06-23T00:58:00Z
+    webUrl: "https://menafn.com/1106490228/Smart-Cameras-Market-Is-Anticipated-To-Reach-Usd-592-Billion-At-A-957-Of-Cagr-By-2030-Report-By-Market-Research-Future-Mrfr"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?5137"
+        width: 323
+        height: 250
+        isCached: true
 
 secured: "PO8f3O5Fpg42eV/FAeR2iO2M1XI+s0CT1jK9Q80kjPdBfaC9rGQAIh9CmXtBighnyPZDX9AX4Ht4J76WcVadrwUosLKuuy4qX8JQk8blv+V4yWplrUEYNQtVDnwsFhrizIMSQKuPng05YgeW99fM26dIJ4FEfcz2Cy5v9qDBHsi2nY1TAqxhb/iZWiWRRDKjD1G9XKSLNWeCdgn40nTV7DdHx2LQX49FTLZnHf+hd6kaoWLVSypoBS9FHfUvvWPAOrRxeKcB1bdzFGUAdDV8lnph0uZJxNdPnG8pEOYuVTQjvUIRWSv3ZgJ+XXYZMs5gJ2pPOIdhMOyrwJ9bOkz8cOkrz6I15zCc+Gneq67zbcE=;X5VuWKgqNzaTrFQlVM4etg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
     quality: 39
     images:
       - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon is spending $100 million to teach cloud customers about AI"
+    excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."
+    publishedDateTime: 2023-06-23T01:05:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/22/amazon-is-spending-100-million-to-teach-cloud-cust/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/B5UxYNbrnMprdCPmokm4DWurUZY=/1200x630/smart/media.spokesman.com/photos/2023/06/22/6494e22b7058e.hires.jpg"
         width: 1200
         height: 630
         isCached: true

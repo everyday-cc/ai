@@ -2,11 +2,13 @@
 category: news
 title: "Wimbledon to introduce AI-powered commentary to coverage this year"
 excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
-publishedDateTime: 2023-06-21T11:54:00Z
-originalUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+publishedDateTime: 2023-06-21T14:51:00Z
+originalUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind"
+webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind"
+ampWebUrl: "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Enhancing the Wimbledon fan experience with AI from watsonx"
@@ -100,6 +108,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "NEvz/wPqOe62DlSZpJudxu422bs+sveWU0pY2HVZ1vu4CDluDBXPy34lcl9JqlJm1MJiahx9uNP0yIK6iEzRIWgO2uEU2lOYaxFjTFLtPY0enGUoX2Z/6bodGoylM4lTt8iWpXYoA0vfJfwsWvimh+e1/azdcGl0WhDiRmPHrCiG5O/QgxsG9DLiTikci5pJ1nQ7hHqjVANYa3t4gzyczIIHdVjEvsSBQnblvtzbH7U6wQQLIESHtmIhnVItd+lzoP0ikSXvUmzw2eK7cx7rUXXx6LG+fUyZBZxJGEFbMlPwzfPDMBYwFALrvtYRgYVhZaDIlILR1258XbgxbpdwQpAQz8MEjUrTONXHRejGUeeiae4t2TMamk3nAFKytdnffjVkJOJpDl15vbhCJ6fUeUr39dfNIQu41xK0G/BflNfjQ1Q0W7pZaeiRRKS9Q+oevRMk8TBGExtabcHB3remceyVCc+9ZHa1Bc96bh/2WmrQNlZXOWurymOfBE6CPf14RQeRiGOlBJTN5nsa9XKOZw==;6ewt8JHCF6z7plZdBuNp0g=="
+secured: "yn4d/+XUsPXT/xZjSxhejr9tPcSl9WwBGYNYIXkx19qIi9aotRdyzpQMJs9z2yE2fdB20lVMaO1hrxAG2OCR9wehtN/D5WeJ/EuK0eVZeeldq3khocfqjGAHrskgUmflqBmHUPrTa8pQFXVkk9luHw5Kl2lmeKvEKgp2kszlqmOgBmNZXzQXYAesL+3ya2yonUoVpHGqP0mtXfMNhSsg50GEn3FRXsUAXCR3oFWSQR/HeYNnS54dN7ts5y65P4OdeneQ83bF2PJLwbfRS5a9+8Uvz7fqOkO8KRmoxLUyOr2wt5dImfA8vuT4uXERWGCCQMGhoibV4HrO3COkxCr3i6dijkcJiK5HTohC43/AU3Y=;X/ybAOZ2k53OcT3E6zQ7Og=="
 ---
 

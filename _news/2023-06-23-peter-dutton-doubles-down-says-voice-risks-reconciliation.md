@@ -2,17 +2,19 @@
 category: news
 title: "Peter Dutton doubles down, says Voice risks reconciliation"
 excerpt: "Peter Dutton is refusing to back down from claims the Voice to parliament referendum is a risky manoeuvre that threatens reconciliation despite the Prime Minister accusing him of speaking “without a heart”."
-publishedDateTime: 2023-06-22T23:14:00Z
-originalUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
-webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
+publishedDateTime: 2023-06-22T22:38:00Z
+originalUrl: "https://www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
+webUrl: "https://www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
+ampWebUrl: "https://www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272?amp"
+cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272?amp"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: Couriermail
+  domain: news.com.au
 
 topics:
   - Natural Language Processing
@@ -31,6 +33,6 @@ related:
       domain: theage.com.au
     quality: 24
 
-secured: "5SvJoFus0u9NothrYUqi+LVUtbpqE+yb1qePIlsWgvJJ9c1NotCJJX2vSIIyF9MDy8SgiaWzp5vzbzxWz0OoUlz2nh4J/GvHGy1t6TImO3MSEHQg3J1hQcta1n9FLczxx1SGNktGXg5FRx5/SY2D/yqLQS6xXa1sEOQpValA0u0+oedTJhs46VUjJmLT2tdHU1gd42YxyILLyITwkD523OTtPsPIKeKd4Xy3enoF/U9zWgZcJisO4zYnNw4s9a6yKbHbGGEV9sVP3HwhbhYdBChOAIG3JIWymz70U3pEGvU0l4QiIJokm6PDkMvxtwowNF6so56Rh5rgONPpReaL0qfq2Yx2D1tWiPlYhEE1t3QnjsA8DrKp91y5sYrcTtsvIwVWNgx9dNjc6cBlaxz7a0V+EBSQwOYEEnnznMRKG4XaYsBri0FNjQNrNUPBomFy47J5pvp0QEioXjmo+Pe1J+X7AM8WzbuE8L+cebXL5Zo9cV1sve/yEqoWN2Dk9R02w41Y+IyimaZnr2HPTzYEKw==;xVv10C5xPDm7v+o7/H6yoQ=="
+secured: "dWD5JuRLxnhAjtR9pW+IagLqfwmnOQfgTu5F/dD1neY/YIcKEtUnJv4VR4lzJ8yf+tNGgDkpdz8zOs07fKNj0W86uiJEvbJ9ymnGpQgStTFZG7xTOmePKQ8f3wS5kX/J9WRNFiWIzJQumItADp8m83g8sufdoqv6fTI0glFJ00TG5TJ9wlUoP9cpAVoL4phTSNK4oBCm/fOv5l/UKzCV+irA2VtOqyBTCTqouXlAOODsYpeaTnGItmDYzub7iOZuNW8KYgriGjyjO3b+kC0fXj/B/a4AJMCG2fko9BhF6c2pdED278zTS9FlvtuomMA+UkN0YmXTELBOumayhliSrViK/xiON+B1tsUzp7md9nU=;fwEcIp+LRy+00g/iFPdwNA=="
 ---
 
