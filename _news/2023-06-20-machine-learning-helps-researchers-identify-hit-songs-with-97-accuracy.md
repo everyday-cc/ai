@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-machine-songs-accuracy.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-machine-songs-accuracy.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Machine Learning Helps Identify Hit Songs With 97% Accuracy, New Study Shows"
+    excerpt: "However, this approach does not reliably predict if songs will become hits, lingering at a 50% accuracy rate. Now, a study by a group of researchers in the United States has harnessed the power of comprehensive machine learning techniques applied to brain responses,"
+    publishedDateTime: 2023-06-20T10:31:00Z
+    webUrl: "https://www.techtimes.com/articles/292810/20230620/machine-learning-helps-identify-hit-songs-97-accuracy-new-study.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292810/20230620/machine-learning-helps-identify-hit-songs-97-accuracy-new-study.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292810/20230620/machine-learning-helps-identify-hit-songs-97-accuracy-new-study.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 56
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429967/machine-learning-helps-identify-hit-songs-with-97-accuracy-new-study-shows.png"
+        width: 1500
+        height: 935
+        isCached: true
 
 secured: "GixaQz6d9dutjf+ZZvi0ltTmLio0RcXLWoG7PtX0zkqwQsZAE6EI+8vpaLofwO1KRd/f0CVfGK3MBEtjOBN4fygMmPWvIWMokOhVcCCO7P/Kid4RYXFq65dhBslpad4MGkIGU8PYN0jgnIJAFPyvrTKqSLinntp7hbnwTX1G1sxYQRl04Q5nvQCxkEnsFER4GNiej95R9Y1Bh0/JuCGPtehqtzF+7eUUwYrg64hLEzBFFIMUa9ajkbGNg48xwA8MTAnZB1DuXp3TkBgnigWkIItB2a4jJSZ17RoTQf9d1RU046mpX4eWk2KZLzSl67Ku6OTBudtQhxbLayLeEM3OUUXmzoStiHegqPLsvVF0wFFMROK0Xk73xhGW9Xu5GCpqm8d61AtJBUYHwsWGH8UcPrgzzgbWL8X5ZjUKl2yLT/VuDLuZzeh5ZNIhbxC5M+NNxEtII9ncb606qU2fV3ewUVpLS8ojYiX0WM0GnIS3/vs86ZYmxWlUjehoL6Ga8RdLFtXyqisDEmJAb3087jayYA==;CxfVnk49dyoaBhvvut4IaQ=="
 ---

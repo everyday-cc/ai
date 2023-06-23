@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023"
-excerpt: "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon Maier, Chief Investment Officer, Global X ETFs said:"
-publishedDateTime: 2023-06-21T12:45:00Z
-originalUrl: "https://www.sinchew.com.my/20230621/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
-webUrl: "https://www.sinchew.com.my/20230621/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
+excerpt: "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon"
+publishedDateTime: 2023-06-21T04:45:00Z
+originalUrl: "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
+webUrl: "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
 type: article
-quality: 26
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: sinchew
-  domain: sinchew.com.my
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg"
+    width: 1210
+    height: 680
+    isCached: true
 
 related:
   - title: "Global X Etfs: Artificial Intelligence, Robotics & Automation, And Mobility Are The Key Investment Themes For 2H2023"
@@ -43,6 +49,6 @@ related:
       domain: menafn.com
     quality: 26
 
-secured: "S6f4mR6D7GA7ZTyearDGnYwC6nUcHhqoV3MCE3nZLHaaJI8/089gtpC65YFkVydu7oGbcKHNRpLDA53+DLqxCT80ZC7gnWU5WIg+ZbaOShcF0WivhXJ3PRzjhDRt0P29LyPvbxjhzc9Cu5nbDlRxilRVKYX/BW+bm0wxDvzw+2dNcg5WhvL45nfLt7HndxAAErN/OEg4O0xHa/XM4CFR8DKjfjieui75WjGeewZi/XiOR+y9L0hFg8WHUYXhZQrWvSE1xDZvBf/tZRIRbV5Q1pqi3jG5mY7iwQn4oTvkSewmu5m3jOwz+ccc3OenDnZQnu0kY6ugTIe4e+HdkOhEdRDv34juOfDOkojZCxu8srse/IhwiIpU07M2gzM0utgorvAExBQKoD6/3pp2RJiPoaVpyuBZ383xKn/U9+yfojI27qeplcCCBjlfCcztS0qmIDgxNAdQX2hRY04UzCkfW4kBtj2yWlyIQb/BCDf3SOtupDKc8iEnftroa6MfYh3Ib5cS6N4HjGgsUNUB99NSgg==;BB8X0tTnrNdbph5tj18vcw=="
+secured: "h3Eq8Tk4WUH4SwA+wZXm+f03imsDSETc8/QIPeRWBEWKV5w1laTLNjVZpu/zYfBNATWHV1cmPmevDI4qX1lll9b+Q3895OzPC8uKsiLr8UfH7uBPdi4Zl0iT6lHrVN8Lo5Ymg6JkScxqVV3CQ5npJEWakhpzsHxxmN6lAdc/gp5o5ZkSR5NdUb+gYn/BGkg1ehIxWC15lysuY22hngxgJy29b6eedXl6CmVsfFqS8zyaWWDtxD1Qc3VvNGM0zR16abU56Ihgg9utO/NZZ7/rdHuE0C5Ew9cteaAGQRKMaHnNzgXraYbiU3JzY1CdZI7TCnvyYChzA26eyDvAkMgL0KHf5HQ1vRm8bp8x0c+R+I4=;rsC9CilFXreg02KXlWB2NQ=="
 ---
 

@@ -66,6 +66,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
+    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
+    publishedDateTime: 2023-06-21T17:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Bet on These 3 Artificial Intelligence Stocks Right Away"
     excerpt: "For solving problems, artificial intelligence (AI) is imitating human intelligence in computer systems. It is through machine learning that AI is now being created. This basically signifies training a system by utilizing an enormous volume of data."
     publishedDateTime: 2023-06-22T15:42:00Z

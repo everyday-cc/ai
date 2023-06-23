@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AWS invests $100 mn to help customers build generative AI solutions"
-excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy"
-publishedDateTime: 2023-06-23T04:29:00Z
-originalUrl: "https://glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions"
-webUrl: "https://glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions"
-ampWebUrl: "https://glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions?amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions?amp=1"
+excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions."
+publishedDateTime: 2023-06-23T05:48:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/articleshow/101208673.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/articleshow/101208673.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/amp_articleshow/101208673.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/amp_articleshow/101208673.cms"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/06/eaeb9a94d664f10af2bed3ba537dd5b1.jpg"
-    width: 2000
-    height: 1500
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60300,msid-101208700/illustration-shows-aws-amazon-web-service-cloud-service-logo.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -152,6 +152,22 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-1282580269.jpg"
         width: 724
         height: 483
+        isCached: true
+  - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
+    excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
+    publishedDateTime: 2023-06-23T07:28:00Z
+    webUrl: "https://www.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
+    ampWebUrl: "https://amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 73
+    images:
+      - url: "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg"
+        width: 1125
+        height: 750
         isCached: true
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
@@ -339,6 +355,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "o+cJsjezt/ScVN98OGn/lEKkZsErEvq23pKNUalHSo5Nitn+XJf9rIy6AfsY/ZX4gGTVvsuRQx1ABNkEynXQB4cIXrg5PTYlWGzwIfZelorjgymFLVG2BsJDyu7MUXs/8NJR+61Ev6cVyb0wFhEHr0s0ChTK11rObblQ62H1KJGlM/DUEO2z0ZjmKvlCkNDc41+fHABgnBhPrBmiyHbNiZwVnFjvxV7eo13Jvb/qF7zRg0nZNe4Nh1bHRgJNCuBfx2terEly/tBgxAKLxGmLRG3Gpk4PKmDlpHP+wxmStx/LAacZTNoIJROPcnHZN0jPf7P1MoOl4LMQLERfi+42eMG/knz0v/jlH7ogNkiUqvo=;8Eai5wRdTGE4ndAQW9ZuwA=="
+secured: "GZfjuXupcU7Sr5MT6/S+lLvB93NjCpmftVhlCKCyHph1QnK2+iImsWTUBBqmZgeUmwsFoh40aq6dUAdlQ6ufYvZ+WDc4Mtejkcg5c4TUo+/kDg4OxNSDehy13l+hrofCW+yrTu+dKPSI2Nof0pSe1M1Kg2o1WN83arCTWNiLVkv7EO0mts/gr28RqR+f36zIrm9H3+UUVaxSduoo55CA0fe3Rn8mD900M1dwIlLAwseKMpO1Wb1uGw8wNKARVNlnVyDDz7+w2oh1LmzGtYyOAri7ZgrkolzgUwKv4BnzLNz3SRWBwPUqWVdYA6is2u4+SS9TmgO0jQOdEHUveuLhQB4EbkV+0Nyw+MUq7R8omes=;uxCPHREjqPP+19QatSzCQw=="
 ---
 

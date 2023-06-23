@@ -21,6 +21,20 @@ topics:
 related:
   - title: "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication"
     excerpt: "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences."
+    publishedDateTime: 2023-06-22T00:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication"
+    excerpt: "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences."
     publishedDateTime: 2023-06-21T13:42:00Z
     webUrl: "https://www.bakersfield.com/ap/news/liberate-s-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication/article_55ec88b1-04ff-50e2-9da8-71e47e343ed1.html"
     type: article

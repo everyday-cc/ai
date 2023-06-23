@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
+    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
+    publishedDateTime: 2023-06-21T17:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
     publishedDateTime: 2023-06-21T11:06:00Z

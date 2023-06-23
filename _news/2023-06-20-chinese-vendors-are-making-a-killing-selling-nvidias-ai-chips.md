@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
+    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
+    publishedDateTime: 2023-06-20T14:33:00Z
+    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "Can SoftBank Become The Next Hot AI Stock Through A Subsidiary That Nvidia Once Tried To Acquire?"
     excerpt: "The company’s CEO, Masayoshi Son, announced on Wednesday that SoftBank is preparing to “go on the counteroffensive,” leveraging its subsidiary Arm, a company that Nvidia once attempted to acquire. What Happened: The recent boom in AI technologies has reinvigorated SoftBank’s leadership."
     publishedDateTime: 2023-06-21T11:36:00Z

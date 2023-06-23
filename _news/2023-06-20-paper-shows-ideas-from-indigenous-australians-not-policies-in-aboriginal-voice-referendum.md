@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Australia v old Australia: a yes vote on the voice is a vote for the future"
-    excerpt: "The referendum’s success will be a monumental achievement but to arrive there we must explain to the country why the voice is needed"
-    publishedDateTime: 2023-06-18T14:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jun/19/new-australia-v-old-indigenous-voice-referendum"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 40
-    images:
-      - url: "https://i.guim.co.uk/img/media/18a136b40c356e0bf86e24a1a10a56399acb1a91/0_0_4500_2700/master/4500.jpg?width=620&quality=85&auto=format&fit=max&s=91e28e1a73e22b977d4ca04763d46eb9"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Australia politics live: parliament passes law setting up the Indigenous voice referendum"
     excerpt: "Follow live"
     publishedDateTime: 2023-06-19T00:19:00Z
@@ -57,21 +41,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Opposition claims Anthony Albanese is treating Australians 'as mugs' ahead of Voice to Parliament referendum bill passing"
-    excerpt: "Anthony Albanese is being urged to consider a bipartisan approach to Indigenous recognition, ahead of the Voice to Parliament reaching a crucial milestone."
-    publishedDateTime: 2023-06-18T23:48:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
+  - title: "Australian parliament backs Indigenous recognition referendum: ‘Together, we can make history’, PM Albanese says"
+    excerpt: "The referendum will seek support to establish an Aboriginal and Torres Strait Islander voice to advise the government on issues affecting those communities."
+    publishedDateTime: 2023-06-19T11:05:00Z
+    webUrl: "https://www.scmp.com/news/asia/australasia/article/3224633/australian-parliament-backs-indigenous-recognition-referendum-together-we-can-make-history-says-pm"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 34
+      name: scmp.com
+      domain: scmp.com
+    quality: 33
     images:
-      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
-        width: 1280
-        height: 720
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/19/956fcb73-6a89-451f-a120-f3c9954adfa1_f5ca44e5.jpg?itok=Ae-mOu0_&v=1687172680"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
     excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
@@ -89,15 +71,17 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "A roadmap for robotics to enhance Australia’s modern manufacturing capabilities"
-    excerpt: "As industries that have always prioritised innovation, manufacturing and robotics have a long and illustrious history."
-    publishedDateTime: 2023-06-20T01:01:00Z
-    webUrl: "https://www.manmonthly.com.au/a-roadmap-for-robotics-to-enhance-modern-manufacturing/"
+  - title: "Indigenous voice to parliament: How should I vote in voice referendum?"
+    excerpt: "Aussies will have a chance to make history when they have their say on the voice to parliament – but what does it all really mean? Aussies will soon head to the polls to have their say on the voice to parliament referendum."
+    publishedDateTime: 2023-06-20T00:39:00Z
+    webUrl: "https://www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b"
+    ampWebUrl: "https://www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b?amp"
     type: article
     provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 30
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
   - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
     excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
     publishedDateTime: 2023-06-19T05:06:00Z
@@ -125,20 +109,6 @@ related:
       - url: "https://www.wsws.org/asset/eb0afd5d-9ead-4e0d-b0e1-5b29529554dc?rendition=1600x900"
         width: 1600
         height: 900
-        isCached: true
-  - title: "View from The Hill: Linda Burney says the Voice won’t be able to advise on Australia Day – but how could that be?"
-    excerpt: "The parliamentary week showed that if the government is to maximise the chance of a “yes” vote, it needs to sharpen its performance – in particular, that of Linda Burney."
-    publishedDateTime: 2023-06-21T08:24:00Z
-    webUrl: "https://theconversation.com/view-from-the-hill-linda-burney-says-the-voice-wont-be-able-to-advise-on-australia-day-but-how-could-that-be-208191"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 3
-    images:
-      - url: "https://images.theconversation.com/files/533098/original/file-20230621-17-895hy4.jpg?ixlib=rb-1.1.0&rect=0%2C988%2C8256%2C4128&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
 
 secured: "M8L0u9q+4QSBwlx3l/bLJrynOzaotAnbws9WqJP+B4BOOvgh3Aj/dZ/fUxuhWI7wkA/kDCbQmNynBauGTsZh0DayMPMyubS3kAD4/gEjxsCioPlbYnwFsZn6ch0BTzU/ZLbcvPmAEfaaHZ06KBu0IX3LY8eD+04YkdDSK4nxIvMf3wLWZdphYW1DuuNwk6qMf53LVsKmDaaCQk/6wqopOLmmddC10tjuD4UJRXn1EYrp0xrxss+HmcTO2q6flu9ussjcCZX9+OtQV+TAf/kW62yD1zKerBMDc8qXEG3WxewQXoLF+cDIQw0hwfmCHcKV0adA0YIhBM9ui8bqJy7ngRj9+LXeS+HPXJ50zmJbHYuLYDv5G6D7gZwWpLIkB0hAKfYJ+NJXbydGyqrQmQAYIEheBx5iJZ0qIv3e8sNKkl4esARAmGc6p113PRHRW3O0dky9G+7jydUtSQkKnRZOopapIjysCuKk4OJlk6dIASLk/LYIefIgN3HEJ4xtacUveZYnlr1YZ94kNLYSp/ENNw==;Rm1vdXxPy291U2WR7HEkbA=="

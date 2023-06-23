@@ -27,8 +27,8 @@ images:
 related:
   - title: "New AI Platform, BioAutoMATED, is Fit for a Biologist"
     excerpt: "Recently, automated machine learning (AutoML) methods have been developed that can automate the design and deployment of ML tools, but they still require a certain amount of expertise. Now, a group of scientists at the Wyss Institute for Biologically ..."
-    publishedDateTime: 2023-06-22T12:02:00Z
-    webUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
+    publishedDateTime: 2023-06-22T12:57:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
     type: article
     provider:
       name: GEN

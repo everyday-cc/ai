@@ -23,34 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market Briefing 2023 to 2030 | , Intel Corporation, NVIDIA, Adapteva"
-    excerpt: "Chips marketing report is one of the most important, distinctive, and trustworthy market research studies that is tailored to certain business objectives. The Artificial intelligence (AI) Chips industry research is painstakingly created while upholding commitments and timelines in order to provide the best industry insights."
-    publishedDateTime: 2023-06-18T13:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18"
+  - title: "Nvidia: The chip maker that became an AI superpower"
+    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ..."
+    publishedDateTime: 2023-06-19T13:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Deep Learning Unit Market to Rise during Forecast Period 2023 to 2030 by Fujitsu, NVIDIA, Intel, IBM"
-    excerpt: "Latest Study on Industrial Growth of Global Deep Learning Unit Market 2022-2030. A detailed study accumulated to offer Latest insights about acute features of the In-vehicle Communication Module market."
-    publishedDateTime: 2023-06-22T03:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-unit-market-to-rise-during-forecast-period-2023-to-2030-by-fujitsu-nvidia-intel-ibm-2023-06-21"
+  - title: "Can SoftBank Become The Next Hot AI Stock Through A Subsidiary That Nvidia Once Tried To Acquire?"
+    excerpt: "The company’s CEO, Masayoshi Son, announced on Wednesday that SoftBank is preparing to “go on the counteroffensive,” leveraging its subsidiary Arm, a company that Nvidia once attempted to acquire. What Happened: The recent boom in AI technologies has reinvigorated SoftBank’s leadership."
+    publishedDateTime: 2023-06-21T11:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32943538/can-softbank-become-the-next-hot-ai-stock-through-a-subsidiary-that-nvidia-once-tried-to-acquire"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32943538"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32943538"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Ai,Processor,3d,Render,,Artificial,Intelligence,Of,Digital,Human_0.jpeg?width=1200&height=800&fit=crop"
+        width: 843
+        height: 562
         isCached: true
+  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
+    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
+    publishedDateTime: 2023-06-20T12:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "mbwsppkykUx4erQ7ZoWSkGVzOBxNQlrp829ITz4qIxDuZl/VUCSRUN8Q8udoPpTY10f8HEompI4c/SHBHZk1sPoAakmQFRkf5O3NDuh8AKFC13/2MYVwoat5zgZ65UYwUBW9TRwNA7mAnlE/4yG2992Ajb2L5lHgrOnBLxeIKA2nU0+2Ogu0QqT78TTx9409LSXmA1etH6gBgzMgcOmeHhcEJtBL+4m7fzy/EAVTODI86JIzrIyDrvxKxW8d70zsPKhed4KmpPb0f4fPllKs2/mCqMCyPBPfn89rLogP07YECOQq1uW+PuWCEM6GkOFWd05X/Gnj/fgUmrBlTIpAuQiUbc2wT2nukrjTEQaw/qROuzGyIZ1lWAiIHadVAttYpmMpg/nojIehC+koeOKlvqsOj1xafnVjNGcvRXv3kAImMfBZLnEwKkwvVrg4IHANH9SmdvToNwiwthF3/4v75BW+9muC+QqwhoFkTfj3PFcDK2Jry8BnMGUhx1nFMhb2aZMk4dWifaobxXGnoZb59A==;Ew3DPdC1PjJZSchDZB1fKQ=="
 ---
