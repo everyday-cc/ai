@@ -2,9 +2,9 @@
 category: news
 title: "New AI Platform, BioAutoMATED, is Fit for a Biologist"
 excerpt: "Recently, automated machine learning (AutoML) methods have been developed that can automate the design and deployment of ML tools, but they still require a certain amount of expertise. Now, a group of scientists at the Wyss Institute for Biologically ..."
-publishedDateTime: 2023-06-22T12:57:00Z
-originalUrl: "https://www.genengnews.com/topics/artificial-intelligence/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
-webUrl: "https://www.genengnews.com/topics/artificial-intelligence/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
+publishedDateTime: 2023-06-22T12:02:00Z
+originalUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
+webUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "toF3AaDFTW/Jzi3nJTe32JIrJMX9lCqU9hSJ0udwLB6u9o68e3v9RphWAbcR5ImrTc7b/bGvLYBLokad8IqWwO/ppku6GT8xAUWnyM1PZlDxFHyY0lGOgQTqCm3h0A+6A2K+aAgdPfXNVFBch7oA50lKuCwcfUKvsVFBAY1KJMGe3r1LvfZH5Wl9HWQDYEjXG9QnSGdtxZbncZ46PFkrgCmrycLJzfhIU9hHGvppd/LE0xxzHyvip0hbE7xvI4csgScbxUcFDKdBvfuFcrj3W8kcQ/RmmPM8hnbYpOwVW7+dtwdUH0za4zNU6CLINCyI8tlQotKyB6qkYsvF2isxWh2rmdUA57jZmliXsSqnGfE=;8tMrg1pLudqUnrG5vl3aeQ=="
+secured: "ROS9lSXB9d9cLXcNCF7QNC+LP+bwgx7uj6Zpl7ztMOD5wWtVsSQdefKuQRI9XKLrtnFa3RSGYdfahgVeCOSfd1cYvxylUqeNgVwEe+Dq4QESeemrRwTs+ohvJ9AuoPW8I0kx9Jew2Jy8YrLYe0f7nacvcc2K9QwHJj9H8ArDJleILZcG6BV4j64FSRcmPI+1ffB6O4sRUxpAkE5HEjL95SNiPabtTnamSxbDZXuX6ZkDLFoyqSnazcx6ZdiNhCRWEgd8RmBB+EKDhffJ8/4TZLCZ8p/GQhbQ+SiPOSjUWotsp4enZQfaY/FgRx7ZMyqW+EGFrQIS68Jf924gKkVtbtQ9PEb6nG0LjSUBLCI9gLY=;GqeuQylTvbCKoANEvr++YQ=="
 ---
 

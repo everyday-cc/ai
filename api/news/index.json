@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-23-googles-duet-ai-can-generate-custom-templates-in-sheets.md",
+      "title": "Google's Duet AI can generate custom templates in Sheets",
+      "excerpt": "Google has been quickly expanding the AI's toolset since it announced Duet for Workspace at its I/O conference last month. When testers enter a prompt in the web version of Docs, Duet can generate text for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0vANP293s5E52OlDZP5u5A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-12/07bfc550-71ae-11ed-8feb-d9a461d9371d.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "publishedDateTime": "2023-06-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about.md",
       "title": "Samuel L. Jackson Warns Actors About AI: ‘Could Be Something To Worry About’",
       "excerpt": "The Marvel star said that when it comes to any mentions of using his likeness in his contracts, \"I cross that shit out.\"",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -164,7 +216,7 @@
       "originalUrl": "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -404,6 +456,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-23-red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone.md",
+      "title": "Red Cat and Athena Announce New AI and Computer Vision Abilities for Teal 2 Drone",
+      "excerpt": "Red Cat, Athena AI Announce New AI and Computer-Vision Abilities for Teal 2 Drone by DRONELIFE Staff Writer Ian M. Crosby Military technology company Red Cat Holdings has announced its completion of t",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
+      "originalUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/06/Image-2-2.jpg",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
+      "publishedDateTime": "2023-06-22T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-how-regulating-ai-could-empower-bad-actors.md",
       "title": "How Regulating AI Could Empower Bad Actors",
       "excerpt": "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities.",
@@ -599,6 +694,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.md",
+      "title": "MongoDB adds vector search to Atlas database to help build AI apps",
+      "excerpt": "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
+      "originalUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
+      "publishedDateTime": "2023-06-22T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1053,73 +1200,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-your-ceo-is-not-your-brand.md",
-      "title": "Your CEO Is Not Your Brand",
-      "excerpt": "Corporate leaders like Jeff Bezos at Amazon, Larry Ellison at Oracle, Mark Zuckerberg at Meta and Elon Musk at Twitter, Tesla and Space X, all have global name recognition ... it also serves as an object lesson as to why the CEO must be separated from ...",
+      "path": "_news/2023-06-22-designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai.md",
+      "title": "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI",
+      "excerpt": "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
+      "webUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
+      "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 238,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f1060b59bb0980007fed7d3/0x0.jpg?format=jpg&width=1200",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
-      "publishedDateTime": "2023-06-22T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-cisco-unveils-speedy-ai-networking-chip.md",
-      "title": "Cisco Unveils Speedy AI Networking Chip",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1129,14 +1224,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:20:00-07:00",
+      "publishedDateTime": "2023-06-22T04:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1152,112 +1247,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-ai-is-changing-the-future-of-work.md",
-      "title": "How AI Is Changing The Future Of Work",
-      "excerpt": "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "publishedDateTime": "2023-06-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-this-self-driving-boat-is-helping-to-tackle-the-issue-of-plastic-waste.md",
-      "title": "How This Self-Driving Boat Is Helping To Tackle The Issue Of Plastic Waste",
-      "excerpt": "Sometimes inspiration can come from the unlikeliest of sources. In the case of the Hong Kong-based autonomous boat startup Clearbot, it was a trip to Bali, where its founders saw the extent of the plastic pollution crisis first hand. “We were on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64930a628e868fd424b3466b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
-      "publishedDateTime": "2023-06-22T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     }

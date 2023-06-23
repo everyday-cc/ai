@@ -5,8 +5,10 @@ excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI ra
 publishedDateTime: 2023-06-22T18:58:00Z
 originalUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
 webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
+ampWebUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
 type: article
-quality: 64
+quality: 104
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
@@ -305,6 +313,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "91+jkQ+jJOLMgjxfUCoHXRrZ/fJq9qFJrSgPw/0lW6Twx4V5q6+LORilwHNHB6T98+n9Yg2znNUcOFH7WeVyocGV1VLbh84ZAoLL8yXER668PqFOdXP3IyxUkY8M72WHeejDEoBmvLPVYJ1MTqurcUOJnqH7QpiXfm62T28JkirsUjvkAuLxmwm/P7MxHEIGGP1QU5WE6c/MQCToW082N6MeN2BC9C1VWtEATuIlMhG1DulniAiwEEAwgVPofr2c1ARObVgZQ0tQWsGdbfT5sRl0ld6QIdfmS6Z/4+KAacNOQfp05Ok566JYq5GUe/b9e437r+ctgniBy5Bi/JIMFbobUSAU4OE8+CdfQ9VXc00=;L0JYPhSL11evsmkNGyPu2g=="
+secured: "RTwU6i3ezkG5kj3XfTQC7WnuTfpuLG3RiUfz50qvoSMQnsjjsAjk0zI2DkaH7m0AAGuykyC+tcSE67AHQ1F8O2ZZ9ozrYLb45BKtxeRx2LgQvR71fQRBRG6pGef6v3z8TyjvqZ7MiknfWdeccCHb7mrEG91wQ7ODbeavZo+ewxREaH8qkjhvT1xTwZo6ckqVLyJz8WCzpLWMIExsJsfFWVEsMUSZz+eERwj7vUCwDEyhjyHHBaxe1Z9EX72z+vTohrQsB72/4GjYYgasErJ/Kn+CpLkuwkP0DH4P/zNwHw2s25URGTaN8Gb1jhCW01TeNHj5p9rzJ2VTN75padSHhpM8cDWbN57FwaLfOw3c7Xc=;bTrTKX0EP97VRCYZNrLJ7Q=="
 ---
 

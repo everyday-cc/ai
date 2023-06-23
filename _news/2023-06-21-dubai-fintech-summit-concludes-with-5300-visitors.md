@@ -113,15 +113,15 @@ related:
         isCached: true
   - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
     excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-    publishedDateTime: 2023-06-20T08:48:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
+    publishedDateTime: 2023-06-20T07:40:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_d7f61c45-9457-5431-b4d1-2dcbe45928b1.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Kentucky Today
+      domain: kentuckytoday.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/e/15/e15c3806-9727-5304-b149-2eafb4c82c72/64915aeaec54b.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

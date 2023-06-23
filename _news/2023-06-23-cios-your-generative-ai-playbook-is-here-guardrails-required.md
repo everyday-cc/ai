@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "fAy+MNo0ogqC9ARXN4NQ5lE4fXQnAaCLd6GjWRx/WNfD8mBokmeC0Vn3pqBu7mXu0LuTT7durLjod4xcp7u8Not3ZMQ70Cq3DAv8KjOETADfYld1HWeexBfZMECNUdahnOPKWRZS3F7bpwrp68xLy6k1o4y2oo42A+qV2Yb7I11MTb/pvYE/uyj7ksmhRMLvB3PVAeunUtEqjA9SqdtuYt8itf9f49pTv4TnyrdQYYgIbD/N+F6qWypwalDDCPIb2IUshU7oARJUjY6/Wx4nFjLD8rAooI38zgzVnA1QSfmfV5+aZovhfLb3ZA9BTcAwz4TRQ/4ACwZtMYy5zNj7uZLWsWAKjDp6pFtUTv0k/MY=;Ypgi92O9IgcYjBfzVIbgeQ=="
+secured: "hvbivDT2zrcm8kNjHxnZaKrI3u5do2TnED+6EPSn/TdMFVFe2T2xre7aSuXQHQqGmgyyMOtBJdHfV5ff8ClhRMpeC+b5dZFyUH0MJsmfAscqJdVybaz2qlE/kRiESQoOdwl2oDMYrFBjG5qHafj56yUTfZ60bzvYRDKpM3yp5PONxj4tRtv4Opyea+iiMrAi0UbPtIoLGWDequkwK/ezdT1MLUiAqA6j2RQ1IhWF/onJsPPZdtE608qMGphCN3GupXYIN3acFcwZGpfxcKHaBqGLHTmTeaBYzM0YLFfInqZvcGJtuX1aFP2eKiZ/a+Q5tDiMSMYNHnBoWfpuA7WuybUhsliUOs5zvhWxO6GbExU89wT5AyYvOvJ4GOlvS/EdTlqpsHQ1oDk2f14IoVvnlfWQPji7e3p/NFW4uk5hLRS35snzb77uz4QdZye58Ksph6baWMHXYJH6Hab+xnHvVbN0+WLWKHGNVf1vGLo6bQlcFP50ChX4x8FOp670ewpnZGSlplmEUsD5k3a5F/24jg==;507wSLgiZfnvCKZmn5WxwQ=="
 ---
 

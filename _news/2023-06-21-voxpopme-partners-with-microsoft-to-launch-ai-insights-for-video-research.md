@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
+    excerpt: "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,"
+    publishedDateTime: 2023-06-22T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
+    publishedDateTime: 2023-06-21T17:23:00Z
+    webUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
     excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
     publishedDateTime: 2023-06-21T10:12:00Z
@@ -35,6 +65,126 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
+    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
+    publishedDateTime: 2023-06-22T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 60
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Satya Nadella Talks Microsoft and AI"
+    excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
+    publishedDateTime: 2023-06-22T03:00:00Z
+    webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 58
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
+    publishedDateTime: 2023-06-20T16:18:00Z
+    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T11:20:00Z
+    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
+    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
+    publishedDateTime: 2023-06-20T15:30:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
+        width: 615
+        height: 410
+        isCached: true
+  - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
+    excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.techzine.eu/news/security/107857/serious-azure-active-directory-vulnerability-resolved/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/shutterstock_1942305688-scaled.jpg"
+        width: 2560
+        height: 1324
+        isCached: true
+  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
+    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
+    publishedDateTime: 2023-06-21T12:13:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 34
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -53,24 +203,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
-  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
-    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
-    publishedDateTime: 2023-06-21T19:34:00Z
-    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
-    type: article
-    provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 28
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "sEMsP9rx/sDdvU8ZOZqFCi1m5Xb2WqDYgS1nAEqTU91YlFuoilhpnQzPy0B7STzK6QgWEBbq+p/KBYISnd/rm1qLbqTms2pQPWfjhoHmozxMZ0U5zeugMgg91D1ywgyx6QeguNla0z7P++zBzmQYo3LMtAcWPNCi/8/HlZBDqZhH1KgRuHSCIq42WiS6qmKvp/9+r4k97wtzgqfkOphAI5upXo5WTuXeOxo6Q/I58UdiPoMo71UZ3LFiKDa71zWj+KxzvHamFzmINddx9fmJEFZ5YsQ8tzMMsKb2gCD52wXD+LfjajL3Lqyn85tYrtw4amYia32MvHGH0znm40fZLXzM1k2bzeON4rLARtfciJYhSn5r2fAKv7hzrnCblz+fGlpaw3Q0B9nzn7oAPfcQmidOaMPFmZmTHx65VXSBVERsBY+QUSC+HXdl8Uayd7gNihS52q2S1nxbhlKSVYeMhj/NPSyOGVfvmK/Slwx2zNKerrLnIxQvSNfCzMaom+N4jLPwZGajAn/TSNavJ62Rdg==;6X/Tw04dPeR7uKObYX8rjw=="
 ---

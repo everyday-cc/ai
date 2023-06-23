@@ -27,72 +27,183 @@ images:
     isCached: true
 
 related:
-  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T07:42:00Z
-    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+  - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
+    excerpt: "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,"
+    publishedDateTime: 2023-06-22T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
     images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Mass adoption of generative AI tools is derailing one very important factor, says MIT"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T13:57:00Z
-    webUrl: "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b446c678a6eb546fbd070ce6bc4ba57c69295bd5/2023/06/21/3f7e444c-0a07-480b-8322-b35c465daabb/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Toyota Is Using Generative AI to Design New EVs"
-    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
+    publishedDateTime: 2023-06-21T17:23:00Z
+    webUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
-    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
-    publishedDateTime: 2023-06-21T14:20:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
-        width: 1200
-        height: 676
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "CSIRO leads on responsible AI"
-    excerpt: "The National AI Centre, housed in the CSIRO, has released a new report to advise small businesses about the uptake and rollout of AI in their operations in a responsible way."
-    publishedDateTime: 2023-06-22T05:29:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
+  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
+    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
+    publishedDateTime: 2023-06-21T10:12:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 70
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
+    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
+    publishedDateTime: 2023-06-22T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 60
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Satya Nadella Talks Microsoft and AI"
+    excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
+    publishedDateTime: 2023-06-22T03:00:00Z
+    webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 58
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
+    publishedDateTime: 2023-06-20T16:18:00Z
+    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Microsoft Azure Expert MSP success for tech consultancy"
+    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
+    publishedDateTime: 2023-06-19T11:20:00Z
+    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 54
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
+    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
+    publishedDateTime: 2023-06-20T15:30:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
+        width: 615
+        height: 410
+        isCached: true
+  - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
+    excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.techzine.eu/news/security/107857/serious-azure-active-directory-vulnerability-resolved/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/shutterstock_1942305688-scaled.jpg"
+        width: 2560
+        height: 1324
+        isCached: true
+  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
+    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
+    publishedDateTime: 2023-06-21T09:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
+    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
+    publishedDateTime: 2023-06-21T12:13:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 34
+  - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
+    excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
+    publishedDateTime: 2023-06-22T12:42:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202306224093/canadian-tire-looks-to-microsoft-cloud-ai-to-modernize-business"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 34
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T16:00:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 33
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T17:00:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 33
 
 secured: "h7m+XY6TLoRjYZyoOBHeDNU29k6Bwyz02+lAAmy+FVfv4zRR9d+v9VnaJz/ldVEmfYPTS/zyTgCXsOt/TYOJWEDuC2l0amJ82yrYHsWPsyfY57dAxD8r0qaMTXLYnvyj5f7rlFdX7wPXFt8LjL2DPDEPBNqptJxkFPGiYvBMA1WclsZReaTP9etz97B5lZmvq2aiRVPhQPE0+uDe9wJa7jVISrKEovHVB8SFs7blwPYvdm+7W/y6N6vtTQVvSmD0fovfH9sSrr0GEcUvZ32akvHr1BbVwVTgTYPtls3JpYkQBVkJU8nDMhMXl/ZgMyS5jcPgRoqvCqIXk5s30Yc7n+jhx2fN4MSKoUENjUY2veM=;1EfDQV1K54kBsDUVQJgsAw=="
 ---

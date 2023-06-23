@@ -22,6 +22,34 @@ topics:
   - AI
 
 related:
+  - title: "Global Summit On Ai Takes Action To Ensure Artificial Intelligence Benefits Humanity"
+    excerpt: "global summit on ai takes action to ensure artificial intelligence benefits humanity un tech agency will host crucial discussions on the guardrails"
+    publishedDateTime: 2023-06-23T02:54:00Z
+    webUrl: "https://menafn.com/1106490400/Global-Summit-On-Ai-Takes-Action-To-Ensure-Artificial-Intelligence-Benefits-Humanity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?853887"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Artificial intelligence doesn’t have to be inhumane"
+    excerpt: "Sue Hendrickson and BKC Responsible AI Fellow Rumman Chowdhury write about the role of global governance alongside the development of AI."
+    publishedDateTime: 2023-06-23T03:19:00Z
+    webUrl: "https://cyber.harvard.edu/story/2023-06/artificial-intelligence-doesnt-have-be-inhumane"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 37
+    images:
+      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How could AI destroy humanity?"
     excerpt: "Researchers and industry leaders have warned that artificial intelligence could pose an existential risk to humanity. But they’ve been light on the details."
     publishedDateTime: 2023-06-19T13:00:00Z

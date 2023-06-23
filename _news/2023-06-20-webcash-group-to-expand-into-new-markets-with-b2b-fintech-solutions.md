@@ -2,24 +2,24 @@
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
 excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-publishedDateTime: 2023-06-20T08:48:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
+publishedDateTime: 2023-06-20T07:40:00Z
+originalUrl: "https://www.kentuckytoday.com/news/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_d7f61c45-9457-5431-b4d1-2dcbe45928b1.html"
+webUrl: "https://www.kentuckytoday.com/news/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_d7f61c45-9457-5431-b4d1-2dcbe45928b1.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/e/15/e15c3806-9727-5304-b149-2eafb4c82c72/64915aeaec54b.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -155,6 +155,6 @@ related:
         height: 249
         isCached: true
 
-secured: "UpNPbO+a23BVYsRB5wxefK+7jydlMEEzp7k6rLURuXEjohTbTGtALFDVyjIAPk80L+9mPhVs3lS/dU5LML8zV06876GVR7c4PQ3/W9+QGBIMSUREXS3K8CnObk8ycS2shv6zw6F3kXEMDCMhqygf2rse67gOtYG0Uk41ggjzPP2E9Xz4ZSdoVFTquJWiwonXGzc+ZVgVJgaWKDI5F1K/e1ixdfyrga8YLISE6QF1rMPnDdJ87mhrybXT6l+KqUmFsjHfrtDCWuDffz1j/U/szWzndfFeuZ6sslw8v0QVh1dudEIwg+CtWnlJjtNRBd3TL4yd9wTPOHAMrv1XpnZykBLwXDruO+2FUOyoveURJ4XYvJjj66GnmcH3Ip8ALtiFhHo2D9j1DsBTl6QkiFsnuhwLVKZtmqRUAVARGDUzLWZIA0Pjh5Y1Sq93xlVNRErrbGbOMvk2tfA9C1qy1PWpt/mH/yEyjhLDMcM2GeHrjRP2M8xjmgRpnKnMYU5PLUme6JSQK/7AbTwJT/lYA5DkXQ==;q8Di1YP1KgVT1jfItE6ajA=="
+secured: "Snie2MiaJW514p4KqxyP+vkRxHki1+icJremV+/2buiDdsVbLAhmQeS7wMrJCEssLnD+TXYzmbm0kFcUsmwEZSVk+P+oQgIGDiy+/jwK2v8lVqouD/XEL83Er4lsKMQKfVBRsrfFoNy6sg8nh58LG4TFNh4vQL2L9wdVrDRrQKvDYX5XWiX9b1ky1YTFIILbIygDQtsJPLq7MPrswQCAe9ZMTdQ9Z7fu1WE7D2oMcXyacCRnbaXj3jdpvJMOBnS9CceH+P9smbpT/w/NbjoxCkJYjcZl8Do9ucmagg6X4TK6c/lQ3+SkPTYzgnAU2/qqfoMyq0RyW+H+fm2+DsaMCFZx1ddgQNrLRjJlK1ovfZk=;qY52yTObURWOh1BoB3Sbig=="
 ---
 

@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT"
-    excerpt: "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories."
-    publishedDateTime: 2023-06-22T01:45:00Z
-    webUrl: "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 88
-    images:
-      - url: "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg"
-        width: 980
-        height: 490
-        isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North"
-    publishedDateTime: 2023-06-22T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education-2023-06-21"
+  - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
+    excerpt: "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,"
+    publishedDateTime: 2023-06-22T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 98
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -65,19 +49,21 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
+  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
+    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
+    publishedDateTime: 2023-06-21T10:12:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 63
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 70
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
     excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
@@ -93,6 +79,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Satya Nadella Talks Microsoft and AI"
+    excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
+    publishedDateTime: 2023-06-22T03:00:00Z
+    webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 58
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Microsoft and Google rivalry could supercharge development of AI"
     excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
     publishedDateTime: 2023-06-20T16:18:00Z
@@ -107,20 +107,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft Azure Expert MSP success for tech consultancy"
     excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
     publishedDateTime: 2023-06-19T11:20:00Z
@@ -134,6 +120,20 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
+    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
+    publishedDateTime: 2023-06-20T15:30:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
+        width: 615
+        height: 410
         isCached: true
   - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
     excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
@@ -160,43 +160,49 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 53
-  - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
-    excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"
-    publishedDateTime: 2023-06-21T16:25:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-advances-in-azure-quantum-to-accelerate-scientific-discovery/"
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
     images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
-        width: 1024
-        height: 768
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
-    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
+  - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
+    excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
+    publishedDateTime: 2023-06-22T12:42:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202306224093/canadian-tire-looks-to-microsoft-cloud-ai-to-modernize-business"
     type: article
     provider:
-      name: The Journal
-      domain: thejournal.com
-    quality: 40
-  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
-    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
-    publishedDateTime: 2023-06-22T10:00:00Z
-    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
+      name: Morningstar
+      domain: morningstar.com
+    quality: 34
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T16:00:00Z
+    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 25
-    images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
-        width: 644
-        height: 551
-        isCached: true
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 33
+  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
+    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
+    publishedDateTime: 2023-06-21T17:00:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 33
 
 secured: "Z2xXkFMiSLDyOIg0xJRuJ7jf1+uCgWI11GcLMckUiPMi2UPqbM/uPcYvlpri6bRqcTDQODVTGthlb06bgNQdTGD5eNNRizY6xe75c3t8U9Wwv7YY6rnZWGnszQs8bRp45Opm9MjUypYPo5u/ePllmwRPLRtBVrR5xq/YlGJyRvphKvB0+rEoKbzcf8C9lwBCmkMArEtHFScq2NAEGFKtpsyMadomlcviJPurS/ZyXQrWqSMEAVBOjyFMZTpJrxVx4SAwEABsOOeYfJNS3+l8Rgv1hU8cKPdKaFfaecAkOhcsuCvs4oL6VVyjPVo021N3cmfnZ0fCoyzlga/YiKZRgCVGC6jG3dgRwVEa86+E2trkd0QBqKsMA3dgGzV9gB5KkE605j0A1A7q6S2j2FwSvzPjuQJacevOiKKTxENKIAnY0OyMYeoBzHKne48HUJ3kx6KwIt7+OjJ3ikW44WMsP6CYEBm9BBs/CQD9spYf4E4QYeW/LAwKYj9tAU7XTKo0TFhgwzmVZ9i+WZNtjEFl3w==;pbuhEylzDQG1O/jcIOCaZQ=="
 ---

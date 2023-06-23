@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perf
 webUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

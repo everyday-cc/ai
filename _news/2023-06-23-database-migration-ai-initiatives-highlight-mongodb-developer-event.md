@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/software/database-migration-ai-initiative
 webUrl: "https://www.crn.com/news/software/database-migration-ai-initiatives-highlight-mongodb-developer-event"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "MongoDB adds vector search to Atlas database to help build AI apps"
+    excerpt: "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform."
+    publishedDateTime: 2023-06-22T17:02:00Z
+    webUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html"
+    ampWebUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CtYUgaJiBmDEDXbdMsLuxjXsossqjIhneoGKLkhPpxYK5bSs1AK+7bG78GHTOaTTRKJwAPdyNqMMyFItASLfBOxjmdEDufVJ0XZfHrGPd2q/KLI4ZMU5NFcmlvzdwVFC4xzCtyWz3lmGcz++qBTmCPnH5omWjMGB6t9xdc/vnPehDq/kfS0b7ts0NBxWa/iN9voXH8wUHFoFt7zW18jx0graACR0jtAq8VEwS07mGY26LoXKJEqBz22ry4ylwi9+n8usFNaRQj+r9CbZjtC2k5KCUI15x/E8J8cPe/p4SePstcqb+Y1dFRTCMh1IKombg3CHY+g962GNJSYdIqlKc2aZ6YIB05e3hEJNMSb3Ck8=;I3JnDqJhJtYrswReztGQJQ=="
 ---

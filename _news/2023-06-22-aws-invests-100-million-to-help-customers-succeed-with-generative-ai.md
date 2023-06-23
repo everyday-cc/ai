@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS launches $100M program to fund generative AI initiatives"
+    excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ..."
+    publishedDateTime: 2023-06-22T18:58:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
+    ampWebUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AWS is investing $100 million in generative A.I. center in race to keep up with Microsoft and Google"
     excerpt: "\"The point is, you're three steps in, and it's a 10K race,\" AWS CEO Adam Selipsky told CNBC. Amazon's cloud unit said Thursday that it's allocating $100 million for a center to help companies use generative artificial intelligence, the technology that's ..."
     publishedDateTime: 2023-06-22T16:30:00Z
@@ -161,15 +177,6 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
-  - title: "AWS launches $100M program to fund generative AI initiatives"
-    excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ..."
-    publishedDateTime: 2023-06-22T18:58:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
     quality: 64
   - title: "AWS pledges $100M to launch generative AI innovation center"
     excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
@@ -306,6 +313,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "V1VQq8bMJ5ET/ccxVXR4p9o5pif5PhppH/WGsGwhpQNmJqaxyFEBwebfFyrnkrX843Qo9VWrfTYZiEtdqEi59GSEGxDD+1zj4blebRl5hJNyUmNTbGMrn+x9Eo+x+w8z+xWspNj2CNWgIQ0Kwa3hQNctRGBFr7s1pd222KkETNYlOCBbFa0t6fkR7fN6z17JI4u9WT12InS8cCojnBLx7gSH24NsJzLkYk2ILxyDofSYf0t+JPr9mMwCCGFezoZsezdOgC9yIqYM0oUewQJ6K4DqD07W+2jVynJFmsvHKjgBmKVDKEAjGNopQ757znRz2Lm7P8/X7WU+4V+nsiknCwV6jruo1wzWRe2pR20E+qw=;S5mna5Hwnli8/Ve/87mb2A=="
+secured: "+HDodK3Mjlp2S0whcsIen5rlpIrD/L8paX1v45IikkIg4DpR/n9Ne0PUv4X2UxlRAyri+0jL/v5QP/TrQ8QAgeOTLeMj93tR7NK4PW0L/fzkvv0MvbVO9Iq8f6lZ5NWCPIUFvU74a8D7Zy7Ws+uFEZXrKqQq1liSJLoBSpoVfXkKKu4Sr1qjDeLcPy30O0xwc5gIjYC7wb0vmkqQNIPP3vx8ee+BkOkn4MCthLRanA2bjivNFl5lLt4pLGaHOBxutrBhLwpvIriUuLVlSqqIsLCNKre94DBjI3nnkSXlGvuAEPgDUWJJyd5HhuZaC3W0J0W2QJaX+b2g49nt485dk4ooPLw8UvdSj9fWkdmDSBExKOImqLRManX9QHeaJgpO4JSeXnZoKXJTYlifaUXhNPtHr/y/hLpQP/67N1GfE9xPzEXK3O32MGQtmEzEACRzN7WDlFMbBDrDO6g6d1XuBsJTv99gaGGxoSi9gO5d0oMGYyQp6Gx/xRKrqnakqKFAxCUN6GbRvq16IQRTYIzicg==;kFN/qd3uVVXHA2sB6VRsiQ=="
 ---
 

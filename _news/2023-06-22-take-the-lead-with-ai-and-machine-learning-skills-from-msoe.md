@@ -9,7 +9,7 @@ ampWebUrl: "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skil
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

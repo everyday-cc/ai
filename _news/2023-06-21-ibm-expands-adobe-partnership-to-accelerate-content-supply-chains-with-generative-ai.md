@@ -40,6 +40,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "FGh8kRr1UqDM1G1jVoWulHtiPyRRl0UWDMdJ3JArRP3bRjP52WeLzahTm5JqQ5tiydwEfP+IT1KubYRa6kkQYRZdw4hLlcfUVGHdp2hFZJ5aPOc3G8aiADuCEXktur2rBQkWX7aRaZGrcaaN1pIavhaUngJlIlcyTMPmMB1EocecBvsAzOwos/mGUuEZT+uIJF79zVkA21G92TfDsne5iTusOfAbKaxrO22aH8RMFoFwRiajvLXlJHbXyL7g/dTD8ZUiBxvv2ErfOJN0Ll/l4PyVXcTJ6x6a5agdp+8tjlAN67S/M4q0h2N+ogudgPzLqz89wPP9vI0wIRkrizigJgiuVAFFrVvoCJCpS68lgxFf0hfhFisL4y0iecf8tMauYhfz4q/HHRx3eIfDskct3mAgGZcnFZyxfmEnCxc05VdDLNXjIJzfasQTTzQilzMfOjqieSYh/OjgIFt60tL8F21poGnf1+MvwntLTKkrVGjvwbMPkXeNSMLynzDPUX4vZnHb6+pYmqZ/n8J0M6INUg==;twqmDuovX4i1qsej8j+XCg=="
 ---

@@ -109,6 +109,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Schumer unveils new artificial intelligence regulatory framework"
+    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national s"
+    publishedDateTime: 2023-06-23T01:57:00Z
+    webUrl: "https://starlocalmedia.com/news/national/schumer-unveils-new-artificial-intelligence-regulatory-framework/video_c69cdcc6-9d5e-51dc-b506-e386f53751f7.html"
+    type: article
+    provider:
+      name: Star Local Media
+      domain: starlocalmedia.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/c/69/c69cdcc6-9d5e-51dc-b506-e386f53751f7/64950b7d50182.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Schumer’s AI game plan, by the numbers"
     excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
     publishedDateTime: 2023-06-22T13:25:00Z

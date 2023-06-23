@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-gener
 webUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
