@@ -103,6 +103,15 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 34
+  - title: "Cameroon’s largest city switches on live facial recognition video surveillance programme"
+    excerpt: "Live facial recognition is now in place across Douala, Cameroon’s largest city, in a move designed to reduce urban crime rates."
+    publishedDateTime: 2023-06-23T13:34:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/cameroons-largest-city-switches-on-live-facial-recognition-video-surveillance-programme/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 10
 
 secured: "dsecJVlVuzqq7V3GBwD3DevHf0ZFC6Ggxl5LNJlCnqJH8wUvfEScWnncjwHJd9Ge+bVEH3/Pl5hWoEO+u5bRnq5wWpPhmatx/jim+x0urfvOVubXVdqzMi1rrVoWj91YK8GMGConYoZsEPHl5IuRa/o3Q5n3spwUgEexVTvu7zhfuRx9Eu3omjMvPaV0eigWpY2ddVNCYlBqy3KkVMlXhpTa64Rnj0LIgO0aAzTPVC+fY30OJR1u7ukexFAqOzaw4MGFwVZE3r5Ouz64L+mSq+1JacbF2F+rOvx75YPTGabcKlHzvBBqzJWC7fLi4mkdR9RVx6+XSAnxFn39h8ur97iry6TghpEzn/B3YayRzKnpI/SatfncgIoKSJ89fjZ04pdVocDHVTErIb0cIX46dDMPDjOf1YDilKhWo6OKlxWeaullq+99zwBAPkdCI58t2L7o0suLpDaXnb4jvSliz5IHKFrYUmr59FeqtrI44yz0EoCzXsZRWwaIFJ/Hd5sno6+0ntbcIWhWuoiKZxyekw==;SN+LeMTxL7mPa38BmYOFag=="
 ---

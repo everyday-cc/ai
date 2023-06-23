@@ -110,6 +110,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What’s next for the Indigenous Voice referendum as key law passes parliament?"
+    excerpt: "The wheels have been set in motion on the Indigenous Voice referendum after the laws that will allow the national poll to be conducted passed parliament."
+    publishedDateTime: 2023-06-19T09:27:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7"
+    ampWebUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
 
 secured: "M8L0u9q+4QSBwlx3l/bLJrynOzaotAnbws9WqJP+B4BOOvgh3Aj/dZ/fUxuhWI7wkA/kDCbQmNynBauGTsZh0DayMPMyubS3kAD4/gEjxsCioPlbYnwFsZn6ch0BTzU/ZLbcvPmAEfaaHZ06KBu0IX3LY8eD+04YkdDSK4nxIvMf3wLWZdphYW1DuuNwk6qMf53LVsKmDaaCQk/6wqopOLmmddC10tjuD4UJRXn1EYrp0xrxss+HmcTO2q6flu9ussjcCZX9+OtQV+TAf/kW62yD1zKerBMDc8qXEG3WxewQXoLF+cDIQw0hwfmCHcKV0adA0YIhBM9ui8bqJy7ngRj9+LXeS+HPXJ50zmJbHYuLYDv5G6D7gZwWpLIkB0hAKfYJ+NJXbydGyqrQmQAYIEheBx5iJZ0qIv3e8sNKkl4esARAmGc6p113PRHRW3O0dky9G+7jydUtSQkKnRZOopapIjysCuKk4OJlk6dIASLk/LYIefIgN3HEJ4xtacUveZYnlr1YZ94kNLYSp/ENNw==;Rm1vdXxPy291U2WR7HEkbA=="
 ---

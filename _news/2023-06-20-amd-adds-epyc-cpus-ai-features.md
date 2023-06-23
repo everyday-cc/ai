@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD Could Score This Blockbuster Customer for Its New AI Chips -- Here's Why the Stock Is a Buy Now"
-    excerpt: "AMD's new chip has caught the eye of the world's largest cloud services provider. The artificial intelligence (AI) wars are heating up. Software companies are battling it out for consumers' attention, but hardware giants are also jostling for position in ..."
-    publishedDateTime: 2023-06-18T21:24:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/18/amd-score-blockbuster-ai-chips-why-stock-buy-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 50
   - title: "AMD adds EPYC CPUs, adds AI features"
     excerpt: "AMD has announced the products, strategy and ecosystem partners that will shape the future of computing, highlighting the next phase of data centre innovation. At its Data Centre and AI Technology Premiere,"
     publishedDateTime: 2023-06-20T09:38:00Z

@@ -183,6 +183,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
+    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
+    publishedDateTime: 2023-06-23T13:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805564?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
     excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
     publishedDateTime: 2023-06-22T01:35:00Z
@@ -407,6 +421,15 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 34
+  - title: "AWS weighs in on the potential of AI to fight wildfires"
+    excerpt: "Canada is currently facing its worst wildfire season in recent memory, with blazes burning in nearly all provinces and territories. Last week, we saw the air quality index in Ontario swell to unprecedented levels,"
+    publishedDateTime: 2023-06-23T12:58:00Z
+    webUrl: "https://www.itbusiness.ca/news/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/125382"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
     publishedDateTime: 2023-06-21T08:55:00Z
@@ -426,6 +449,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "V1R655w6lAoM55NQrh5i6BhNO1W2aP0tkJeTjxPimliHPqagxTBvZIYZn+JbHApjn7ZicApmc+1cg3dXHW0hs5oZA0nMutT7Fb4CAUpfYGZL42LncQKhWvy/FxaLpXwk63KN3JoDbOibfhBNMY1vr9bP5PhHCxYQhtiCs1wpMMV5iO3CLVJLITjY7MiC+05ejP1OPATY6sn2b4jThQricRjPfqjoWMCr/OMZRGoq22pp/UgEKhLaGNci1A7Xht/2YF6jMfEdnVeGG8lPCVxw986T3nE+U8Nry1iEuoURULYdXm73CkNw37tkEyD9Adok8azJMEScIRJluoFgbnyuDA7irY/erzsmSaIzLMbBoXQ=;6WAdAQlyuipGdzLa+pABdA=="
+secured: "USCaJ9dfxJNueT532Ew6Z4ZJugIpal74iBO7A+O12DPht9dH8s8BNirHJO54v8CiX6gGLixNzaifspkKv1QYGOVVqGNnaNHunFV9xmbC3wMlVnYlRuCvOj5lE9OEEcZCC5Oq/uUwlcpUdbPPYvyudSCzdi5eeTGMtzF7DzRsN1WJtLNTfYfV4TFfriy4mS7xGSYDkngetDhkclumaKt7yN4rI8h6s2xFOkxW+1hnlK4xQQsKGLKQU/fakrNkn0KnLQSgAorg4+t4nRuTDzW+OCkE3UiZCpnYZlHLx3fs3N5lxJ5vi2boVo7wwusxeQHARAF7FJQMs5xmwiCUbUoDb6yqNuRepIh3y0h8dKkaM3Ax3F+HTf2XWy4uu/OtiN72V/UQhyvNBBVGB//XX17D/Dj9l53D0w5MBbCygbBvbFP3pvdHLB6j21jQDaeZEXdTXgDewrg6cVBAdX61AKRBa/7vnqiWIxRhfkC8kA2/4N8IzMIHTcP+xM/iTy5lVDFLmiB4cZWhvyybRtpHi1GzVQ==;f4P/al4A2fHxvm7qx+G0zw=="
 ---
 

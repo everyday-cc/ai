@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230623/New-rapid-automated-vir
 webUrl: "https://www.news-medical.net/news/20230623/New-rapid-automated-viral-plaque-detection-system-enabled-by-holography-and-deep-learning.aspx"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Platform, BioAutoMATED, is Fit for a Biologist"
-    excerpt: "Recently, automated machine learning (AutoML) methods have been developed that can automate the design and deployment of ML tools, but they still require a certain amount of expertise. Now, a group of scientists at the Wyss Institute for Biologically ..."
-    publishedDateTime: 2023-06-22T12:02:00Z
-    webUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
+  - title: "Deep learning and holographic imaging accelerate the detection and quantification of viral plaques"
+    excerpt: "Viral infections have challenged humanity for centuries. Even with progressive scientific advancements, the struggle against viruses continues, as exemplified by the recent COVID-19 pandemic. In the fight against these viral infections,"
+    publishedDateTime: 2023-06-23T13:34:00Z
+    webUrl: "https://phys.org/news/2023-06-deep-holographic-imaging-quantification-viral.html"
+    ampWebUrl: "https://phys.org/news/2023-06-deep-holographic-imaging-quantification-viral.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-deep-holographic-imaging-quantification-viral.amp"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
+      name: Phys.org
+      domain: phys.org
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-and-holo.jpg"
+        width: 830
+        height: 314
+        isCached: true
+  - title: "Accelerating scientific discovery with Azure Quantum"
+    excerpt: "Microsoft is announcing new advances to Azure Quantum aimed at accelerating scientific discovery. From the Iron Age revolutionizing agriculture to the Silicon Age revolutionizing how we communicate, new materials have always created inflection points for societal progress."
+    publishedDateTime: 2023-06-21T18:24:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/06/21/accelerating-scientific-discovery-with-azure-quantum/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 19
 
 secured: "h+e+kjmwCU526KvhRYlOJycCSP0/IEQzvatJ/bVGanVboFm5bNeKDM1sgmu8qr8ybw8ZgJfWvNkf4vHxvPa1wVyrAs63SxZul107URxwaUEcz/0MhNjCQwsHL/PfuMxPtmMRnC+Hzn2qDgIEQG9+5cXQC0zSRUMWSr4penEHugAok6sBIRDtGbwP7q7npPGmSr/BQiO/ZoQZaK0/vNqpn2Vgm44vNY6NLntz0YojkG5CDvc0B+fyMPVnlWCjZ/sh2C20IfErM2GV1paLjobhZWAuANoFBYZCIAASL7kwD3Z2fIzwlS6X/eAlSvDzKusVIW+Lib9qnKGUlSeg7q4GL5cJKL8DQ/jdgVzMeYpYH+c=;+YX/SOlUXGnm1+A6og0flA=="

@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta announces Voicebox, a generative model for multiple voice synthesis tasks"
-    excerpt: "One of the interesting applications of Voicebox is voice sampling. The model can generate various speech samples from a single text sequence."
-    publishedDateTime: 2023-06-18T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/meta-announces-voicebox-a-generative-model-for-multiple-voice-synthesis-tasks/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 50
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_robot_speaks_into_a_microphone_67f9bdd0-06de-49c1-9e51-0eb05f82f74f.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Lilt Launches Generative AI Multilingual Writing App"
     excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
     publishedDateTime: 2023-06-21T04:17:00Z

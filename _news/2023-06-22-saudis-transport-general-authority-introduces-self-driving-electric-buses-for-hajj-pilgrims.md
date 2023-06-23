@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 762
         isCached: true
+  - title: "Saudi Arabia Introduces Self-Driving Buses for Hajj Pilgrims"
+    excerpt: "A new self-driving bus service has been introduced for the convenience of Hajj pilgrims. Alongside the traditional transport options, this year's Hajj"
+    publishedDateTime: 2023-06-23T11:26:00Z
+    webUrl: "https://propakistani.pk/2023/06/23/saudi-arabia-introduces-self-driving-buses-for-hajj-pilgrims/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 4
 
 secured: "HBh9BGp/HsQW+TzHxnqNttFwu0yHPjWSF2nAIpgKuqDN8wB72PoUo8WMvS0DdwEtaPyRC8eNTbwbnblwRGXR25424WMd0evkr95LQdzytkCO1uWvyQ1BF02RBE6lK2siFe0tfYtFffSbgOUneCOvLfDH6YRilLCV6etWxY5bifO2LdCXTojOgHH4DGY2dbfocCSnZJ8pafiXIzxLPjA8ZHuGyvBfLu5qAv5BJ5vLSRSlnjadZf60ATr6kc9voaHSPHqO6NHQpko8C3ra8fHdedRHp6y3bvcdORO9aGHqJGFYeApI6+/vznirh+kNU1eQRhUsaj4xjaaEP0tLq/m88rtiwpwXqvgdEXhIvoTe+1s=;N28IG/OulO+ew4FuQTJ0zA=="
 ---

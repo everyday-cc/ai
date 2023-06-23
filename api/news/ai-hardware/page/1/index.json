@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -297,7 +297,7 @@
       "originalUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,58 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
+      "title": "Amazon And The AI War: iRobot Acquisition In Focus",
+      "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
+      "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp",
+          "width": 1000,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1433,49 +1485,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-tech-chips-away-at-pain-points-for-health-care-providers.md",
-      "title": "Tech chips away at pain points for health care providers",
-      "excerpt": "State of play: Carbon Health, a primary care startup, is using AI to write notes during patient appointments, one of the most time-intensive tasks for physicians. Tempus, a precision medicine company, has rolled out its Tempus One voice and text assistant for clinicians that uses generative AI to retrieve and access patient data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/06/12/tech-health-care-shortage",
-      "originalUrl": "https://www.axios.com/2023/06/12/tech-health-care-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/sE7ya98MsDVW1L9uxwiZYk5q_Sw=/0x0:1920x1080/1366x768/2023/06/12/1686600941252.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

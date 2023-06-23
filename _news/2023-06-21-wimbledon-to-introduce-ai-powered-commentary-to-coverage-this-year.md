@@ -107,6 +107,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 17
+  - title: "AI watch: from Wimbledon to job losses in journalism"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-23T11:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/23/ai-watch-from-wimbledon-to-job-losses-in-journalism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "yn4d/+XUsPXT/xZjSxhejr9tPcSl9WwBGYNYIXkx19qIi9aotRdyzpQMJs9z2yE2fdB20lVMaO1hrxAG2OCR9wehtN/D5WeJ/EuK0eVZeeldq3khocfqjGAHrskgUmflqBmHUPrTa8pQFXVkk9luHw5Kl2lmeKvEKgp2kszlqmOgBmNZXzQXYAesL+3ya2yonUoVpHGqP0mtXfMNhSsg50GEn3FRXsUAXCR3oFWSQR/HeYNnS54dN7ts5y65P4OdeneQ83bF2PJLwbfRS5a9+8Uvz7fqOkO8KRmoxLUyOr2wt5dImfA8vuT4uXERWGCCQMGhoibV4HrO3COkxCr3i6dijkcJiK5HTohC43/AU3Y=;X/ybAOZ2k53OcT3E6zQ7Og=="
 ---

@@ -18,17 +18,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "4gGfblWGljnDx10iAZsfqoq3/DGYWmnXL7zpqE/xrDoKPul5HxOo/AjuJvqEh0926E7d4i+vcvf48rp8/L1mjVcAg/DAQLBmhOI8wtYplV0eYILP9LZ7Y1/oUt9rHcDOrqY/AHUa+DYPHsEQhsBL7klkOU3ApoK5cChaY2OlOMSYOhKAxtkiNNUxujjWFnU/rS3+89f5M2Zr+EBokfTjIErpYyBf52ZQcxwez6aJ1aG5LcVp5mXw/hb4XZsKnc7RpzBDID29zmH9Ns15m4p/CzziVx/8XgBrP5Mpcaia0XSdValGG+AgzT4lbm/emRuXOguPWXc12wT1T27WQoGNZeHI9dmUItlrTdJGv/jWELs=;Cr/KbYDewTTOKBGMRsMIQg=="
 ---
 

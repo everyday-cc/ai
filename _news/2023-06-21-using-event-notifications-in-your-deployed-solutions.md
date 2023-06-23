@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/using-event-notifications-in-your-deploye
 webUrl: "https://www.ibm.com/blog/using-event-notifications-in-your-deployed-solutions/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "The business value of operating core insurance solutions on the cloud"
+    excerpt: "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-23T13:23:39Z
+    webUrl: "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "pEt/bsfmGhPMQVNXosazbv91SQdYn1tsrKxmwmX2noSSdpZsjR5gLlPQPshJBTEL/sO33VhWRhzBak5PxzZKyJjMUzx3HEeYxyFCzOKPnOfz8BD0o9aX+x7eXX+P5AV7E4h2Sp/+iUpPjA+m98bPtEI610QQ63FQk8s0JZ3qHQjbri9ZIlcmjhEmaVvlwR8oNYwzpyhL6SWmsHUcdOiqcW3LqECgcoV1eASGHomBI4yYKkoJ7zHF+kCeYkSxuCA4pQVc182MClq3RftzKTZynLScZywa5lwF2Xs6QOAn1vkfHwpoptlW9ZngF/Zz3vCVxQ3qTP+zVx+QEf0zpCrPzMcEbcY+VRGRmJuiJXO47mM=;OOi8iaxPwTViYVKL0LPhTQ=="
 ---

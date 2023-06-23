@@ -101,6 +101,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 19
+  - title: "AI watch: from Wimbledon to job losses in journalism"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-23T11:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/23/ai-watch-from-wimbledon-to-job-losses-in-journalism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "LMjv9Rcf2ufaEqsiZSVMFaOieB3ktEI3KBhGfOsAZ5iy+9N+J4+i71nYleFAS1ZA5QVVPtr6GQ4lEHRuqOGe8WHLJEvmxFils5YNbhNbW3i53a+lQs+hLeM1xvoThV/j4wZ4gPEyLRqdzuYh3WTXh/Rb0Y2oGFeLhVPlivJQCMHtMBiW1EI2tcbITKMUsyZVd6WPpc8mRnKzY1MGcLcYd/xRJmJHPeTYuEP8dtqxwv8cONs2HLkbgphVrONaHVH78k1O4vD1hWoXfyGFEVlkQe/nur61Q2TgMQect5PrReyuop6Ep6VcrO6fx/pgzPjaE/oCBgU2c5KHcpQej+sPrwqHfbzAYz3+01zILlMGzKHaZHhU5cUA+sBCAvwkC7X5Clo3jQc5ONEY2wKMTo09Vp15g29BsxsuOyfdL2YpYX2/5Eoo+FqrCkxxoAbTTyqz9OWIk6g/L8aD9jBh/RgF7TqibPfzjXpCc+i9zihRUkcfNv9i2cVQKVdHTZajEIQKrTSNo3biM1/sKzn26HBW0A==;UsaXKScZdGU6mSb/s3Alrw=="
 ---

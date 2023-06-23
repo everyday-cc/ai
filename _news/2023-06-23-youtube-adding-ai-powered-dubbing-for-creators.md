@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "YouTube to boost AI-generated foreign language dubs for videos"
+    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
+    publishedDateTime: 2023-06-23T11:56:00Z
+    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
     excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."
     publishedDateTime: 2023-06-23T05:41:00Z
@@ -51,6 +60,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "YouTube adding AI dub technology to translate videos for creators"
+    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
+    publishedDateTime: 2023-06-23T13:12:00Z
+    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 34
 
 secured: "ZCXR8cvDG08YRGFd37oc2emzwR+KusP0TydeswTm6IdZ6scybXpRRxiKnRCzSxU+8WT33MzaK0QD5mDRzdax1lLc1mt7LJjnwF4V2R/fYrK3RRfffJ5j3QlKm7QD+5y52k/N41ZtANW9CYIoisS8YTmU8Jukpe/gk/gpZstp02I1R1DzamvwB4tFdJA2OTfuY6r4nzgMhfK+tk9OFKVAjcLbo+lWcHzmk0oIxB4xysXUE8YvuMBDpns4gvzdzCVRg6nyuyReOSzptUqfTlphcBwnBaeDjIo2cxr1Up3FvTCcCKsv1+jq+Vtxt8v7ySQtKKi8i+yXYfm2kJ+JMm68m15ja/cRTuhaoNDUUYJxjT0=;gvGfIE8pab/Zqb3gPEcb0A=="
 ---

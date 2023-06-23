@@ -46,6 +46,20 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Autonomous delivery robots are taking to the streets of Europe"
+    excerpt: "These small vehicles are powered by artificial intelligence and are designed to deliver your groceries or take-out. And while trials of autonomous"
+    publishedDateTime: 2023-06-23T15:10:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/23/autonomous-delivery-robots-are-taking-to-the-streets-of-europe/76029"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/23/thumbs/400x400/124149.jpg"
+        width: 400
+        height: 266
+        isCached: true
   - title: "Trial for driver in fatal self-driving Uber crash in Tempe is delayed again"
     excerpt: "Rafaela Vasquez was charged with negligent homicide in the death of Elaine Herzberg after the 2018 crash on Mill Avenue near Curry Road in Tempe."
     publishedDateTime: 2023-06-20T21:59:00Z

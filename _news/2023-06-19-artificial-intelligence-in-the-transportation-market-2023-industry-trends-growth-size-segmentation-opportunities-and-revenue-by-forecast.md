@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Detailed Analysis of Existing and Upcoming Growth by 2030"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Market Scope and Overview Report for 2023 presents a detailed analysis of"
-    publishedDateTime: 2023-06-18T20:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2023-detailed-analysis-of-existing-and-upcoming-growth-by-2030-2023-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031"
     excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
     publishedDateTime: 2023-06-21T05:39:00Z

@@ -19,35 +19,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence for Healthcare Applications Market [2023-2030] | Open the Force of Information with Exploration Report"
-    excerpt: "In addition, the examination report gives definite information about the main considerations affecting the development of the Artificial Intelligence for Healthcare Applications market at the ..."
-    publishedDateTime: 2023-06-18T22:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-2030-open-the-force-of-information-with-exploration-report-2023-06-17"
+  - title: "The Bigger Picture | Artificial Intelligence Applications in the Power and Utilities Sector"
+    excerpt: "Whether applied in operations, at the enterprise level or in the back-office, power and utilities companies using AI applications are beginning to realize positive results. With a foundational AI stra."
+    publishedDateTime: 2023-06-20T14:42:00Z
+    webUrl: "https://electricenergyonline.com/energy/magazine/1391/article/The-Bigger-Picture-Artificial-Intelligence-Applications-in-the-Power-and-Utilities-Sector.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
-    publishedDateTime: 2023-06-22T21:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://electricenergyonline.com/EE/MagCovers/158b.jpg"
+        width: 594
+        height: 774
         isCached: true
 
 secured: "7lnmJMMJV7jMYUsWzduJWJjcOhSd2Uh7bXrn+VGW37Eim+XSNVhfv5qgTu6JBtVEuNeIu+XLj6kYUpI7V5EUllzWmEIx907VT11I3wu+SHThULLZ+BxtD8nOWVUae0PUxzhOPoqzkH6wE2t4655haOIhKpk+3FlVJJropC71jEVSltl95iJRnEEkGBvT3sd5qUoAAMe6b/DCWRViR0TsR9ziM1861qjoiq5WuQkc1a5M499ZcNIxKXMGZg352msVI0EYLbFW4E57FnBwC80N295yf4Wt3JaPUiBk1dwYjItB7racN1C+Se2+P9Zg7UhRWtIoLxgeXjhBjdTqhhoKuuJPe1U9i7bhrzXtV/PNxoc=;G6HZXqqd/2b+ZFKI8+VmGg=="

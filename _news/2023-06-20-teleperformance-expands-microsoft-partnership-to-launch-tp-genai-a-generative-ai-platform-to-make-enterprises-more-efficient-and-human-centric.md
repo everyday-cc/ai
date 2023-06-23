@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
-    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
-    publishedDateTime: 2023-06-21T19:34:00Z
-    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
+  - title: "Botco.ai launches GenAI Chat Cloud with enterprise-grade privacy and security"
+    excerpt: "The Botco.ai GenAI Chat Cloud is a no-code platform comprised of three modules, enabling enterprises to develop a range of generative AI chatbots rapidly to fulfill different tasks. For instance, InstaStack enables companies to build a chatbot that can instantly query documents from across their entire information technology system,"
+    publishedDateTime: 2023-06-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/23/botco-ai-launches-genai-chat-cloud-enterprise-grade-privacy-security/"
     type: article
     provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 28
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

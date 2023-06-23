@@ -102,6 +102,15 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Cameroon’s largest city switches on live facial recognition video surveillance programme"
+    excerpt: "Live facial recognition is now in place across Douala, Cameroon’s largest city, in a move designed to reduce urban crime rates."
+    publishedDateTime: 2023-06-23T13:34:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/cameroons-largest-city-switches-on-live-facial-recognition-video-surveillance-programme/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 10
 
 secured: "o9zo7Rw5eOH732bfryKdTGcv6XZMVZGeeXwd/Rp3G2GOIz9MKvWKoNKVXkcPM6TX1eNh+2EeFmqRu3edJcLU1VW+lqMU6cLoNxylvxZuckhTqKhSUcL8tmoL1yoCyLN5q4S99ILXJLhyKc6YkDH5BRGSrFr0A3YO9Gc9bx+ZhLl/v3x9LvBZqr5R3syIIklSQ9klKTI1E5P4+QQDkYS73F5NvEWGu8wyRYIAHiAh/S/ozjsgLkFJ3/GmHEnLt3Z5ir7Nx9gnvXv51+kF1YYfBHo27s0ms60FCOXxvFeqdHxcFmwF0LU48W/VlY7/zKv0fC1aj2tGlFUN56n9fItfXn6UEyZPqpZX6u2xTrgS79qZU7Zc32d3pu724fBvfqYc11T8FS3yrnyXehSOshbXdMf0KiRNSw1Jv9UeStV1SeDPtfqg2uJxIjdD6kqzGWL9rw19Yt7MIQ5ufDAKbkLHRuLBClZq0BqX3sOnKOs6hkwNYkoMH0wThjwk2yB7RHrFq6gHEU4omUKP5xfHCkkelw==;0RiSIEO5ommKUTizBq/fSA=="
 ---

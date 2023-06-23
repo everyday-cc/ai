@@ -2,9 +2,9 @@
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
 excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-publishedDateTime: 2023-06-20T08:48:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
+publishedDateTime: 2023-06-20T02:01:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_17f5e0ef-90b6-5598-9128-1a5b4b629cd5.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_17f5e0ef-90b6-5598-9128-1a5b4b629cd5.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/4/04/4042e997-9fba-5f53-a260-7ef514b1641f/64910c71bc978.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -140,6 +140,24 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
+    publishedDateTime: 2023-06-23T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
+    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
+    publishedDateTime: 2023-06-23T13:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 4
   - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
     excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
     publishedDateTime: 2023-06-22T11:28:00Z
@@ -155,6 +173,6 @@ related:
         height: 249
         isCached: true
 
-secured: "gRJMJ1vZHVOFQ8HYVS240UygWDg2JYL8opQrNa0h8xSK09ZQMuQ3JRH/OnnXrd05m6SQEpxEtsSKOxB+KBsM+82T/q1MJViqi1T2fhDveQjEOW2n0w/6cHBXbj0hd3n8kxJkO+a3G9fZGPXFI+cEN8vg/L9+XkrXKrvxieDx94M6GuDdcjkh2omrJqtCU3d1JadmGfiGuGQfVf/eboZAwipJmD/M7ye25ERBTPwTRr2tB/ijqoBEA0LsMA2RicB0+PMcWcC6Jbv+f4NyJyQRIo2qhLEv81MRbMwEVEIPCTEHYqOq0RGQcw4yGIlD89gKkfKnEQmuaHXTWGiuIfTq5WUr68XuS2Piu1GcLwHjTyQ=;We0MqAHD8Pbhb0ySLXSxNA=="
+secured: "dm8GAaEhlUaQ/vdkrrLfDZaCNobVcKQpfITWFIoahmFMiZc8HzeQUVWqSCURIVLY9dQz2I7xoz6ql4auNS+91ez9zc7rEi/UFAFRPktCpWz6vAsXB4NE1teAvgdgS5ujmlMOSUkAsJHS5DhsaoaS3vxYvHzSKTHv+FdzZb+vHrIMRFeesRibnY982K6MfWOgCqCPJMgk0s3w0OxkIyBvMbEk7p7+YihKLKGMFF6JBqIySHLkC49dOohBzt4a2OLEr6gBTv1ZEerz/S2iqx3oC5nTmvdQcT2xy/w15ju8bfUqT+trtFvndjcNFnPE536W5/iKzTvmoPHwtbCmc043c7aeGiLGU9HAwDdP9N9IipY=;84XcN5ZdVrKnmuCYo2vBcQ=="
 ---
 

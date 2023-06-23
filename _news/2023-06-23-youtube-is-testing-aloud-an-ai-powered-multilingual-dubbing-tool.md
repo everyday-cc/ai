@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "YouTube to boost AI-generated foreign language dubs for videos"
+    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
+    publishedDateTime: 2023-06-23T11:56:00Z
+    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z
@@ -52,6 +61,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "YouTube adding AI dub technology to translate videos for creators"
+    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
+    publishedDateTime: 2023-06-23T13:12:00Z
+    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 34
 
 secured: "vwDBSH8P3Q0gK+tPtBZwB3F+e4zAYT6xRNQeN/5sYQ11GymgFIpfy3ZCJS4nEvMuUJM69Q80IbkFd4BYlH4xNG8ClSNwrmMinwtFj16gzQg586kI/faFdzIxiyZGORpABbuplFGrtE7rDqt1/gPzJbnegejToOJsYq/wWLeAMG+wxeyUIP9+rZLVjWTJQnwH3o0HdwbcBaf1hehBF+aL+Pp9sP9+xxXhkCD6JIqL+zsuvi5OA6gXowUvOcP69+7WcUyAXM91APKG/IIcE/bU988WQCYFJPVwFHGEJ2rNFqwd7qMcPGDYLQX40l7o/zTnk0unWobsI3KVsa7onjxsasYLxDmiliKZggy7m0uxilV++brgndZuKqq2f31m6f1BwOwhFIgNit2Qll9ez8G1Tmlnt3nBSCwZazQ6UVhSgx114RX9via24IyH2Md14bc79OVwlGifcWp/h2Qmqu/OV0iSdGNmlaMlw7v0AiAVZyAq47zqVFqr0qATeC3NqniIRL54vWe4ybGmAfxJ631m9A==;qjW8SZJLJvIWieU4qfTd8g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/21/danti-uses-natural-language-proces
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

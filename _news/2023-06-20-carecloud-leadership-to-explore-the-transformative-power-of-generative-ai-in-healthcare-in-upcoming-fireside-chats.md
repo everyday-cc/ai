@@ -37,6 +37,15 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
+    excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
+    publishedDateTime: 2023-06-23T13:49:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-is-replacing-traditional-outsourcing"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "7ut93YJqBJDiDtrt3iLwXEhGXET4BE0w5baDjg3nZgU60LE9TV4pTUbY9JeaaZK6GpMSHkiBvy+fdI/4+jRmenXf8KuBpGuaiA3r9XrFialtVQInc/wWRnVcS0MwqTH0rCcCsL9XZusX/e0tPU3ezZxp9aJsfNLLO93vkE5a11msrQQFWQPOk8+tUTnk0v+RZq2mbQfDkdR1Qi7vjzUXLzrFAddMeeecO1uDyb+dgYp6J03tECpIGBVTzX/CPirXFOJXHZ1RDN1JrPtMuOLaZZNBtuZPas1UuR+e4QvXELS6YdReoVdBOKtCN0j5tmhEigIJ+7Gjt8zkrKa/JEOKotl5Qp6DBRpFrSFDxnhBwHg=;qOvR2CMmmIIW4kUHeSfmEA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fi
 webUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "New rapid automated viral plaque detection system enabled by holography and deep learning"
-    excerpt: "In a new paper published in Nature Biomedical Engineering, a team of scientists led by Professor Aydogan Ozcan from the Electrical and Computer Engineering Department at UCLA and an associate director of the California NanoSystems Institute,"
-    publishedDateTime: 2023-06-23T05:30:00Z
-    webUrl: "https://www.news-medical.net/news/20230623/New-rapid-automated-viral-plaque-detection-system-enabled-by-holography-and-deep-learning.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
-secured: "17/1jeBxCLjwnJphWVRpTSvEki5l2fuzg+hYVqapgQXcIwKcvji61tdam9PrlP7AZgY0waH15ecyNNNCJWXEDSJI2wKkvhqXJhFHmFtrksoIDUs74/iTtIKY01rXQJ5vhyTuiR8sfgiAIOnFpcZd7fj0p/hleURjNxUeJtldKofi1HZN5OU32ddhkJk7vCpXOYkMqKy91lfjKzIBX8ySOhN2vn4I8VH+jnHs0jVFu/fbCeJBBvfZozZI4mTaaaNej955UZ0qeWcMBkXL9qKFNPXOvO1jUz3YWnmlccvUloUlOZs7mfFT4o4zUIP2bknpTSLWMQHhHdmMDO+FJI5VMsUBvpys5r1yG9RHlxxaMf0=;eVrPAKDt1g/lRp3NKO98JQ=="
+secured: "7H/6Cha/+eSOQvyFV6VF8EkqLbHjbm2Td2/+oHhoBtdCh63nqJNNdtHdKLWfF9p48i3XMvBcsULnkHmfl+K5ponN0WEGcjXL6iAgCM/0hlrHwCmOtpVrJCan3z0MjK/b69AgmES9B42WgbAtQ7d9YQCwtwgi8jdDnnY3GxqnL3hGzNpd8HAA1WDwOgYmOUcmD6Po3aJdUa7u2vhbcGMsEq7HLZ1qwbgeYdusVw6kKvCR69MFRGgspmtZBFJdePZxOA9J0Rsld3IY5v75u1RlQZjONdmCUxOqBFh8UbQVRUTP/QQ6Cp2LCqPEae6sRTx81qJF+q4hsUsOobjHMxOqeHvMoVy665Gj46nx//i202s=;kL/lpe4gl4vb86lrvszdWg=="
 ---
 

@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "In the AI arms race, Metal aims for enterprise dominance with $2.5 million war chest"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Metal, an artificial intelligence startup focused on enterprise applications, announced today that it has raised $ ..."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/in-the-ai-arms-race-metal-aims-for-enterprise-dominance-with-2-5-million-war-chest/"
+  - title: "How About if We Don’t Make AI All That Intelligent?"
+    excerpt: "Merely average artificial intelligence could provide us some nice help, while not destroying humanity"
+    publishedDateTime: 2023-06-23T12:24:00Z
+    webUrl: "https://www.wsj.com/articles/how-about-if-we-dont-make-ai-all-that-intelligent-c46cd683"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
 
 secured: "hGfiaInnaj12pDi0papwfcqKZkg/nT4mINeC3P/lV7KlvatQpd6MPVLqIGJ92V+R4zcDNVFVAoie93mcWorAHuHDpnUlZwQzm/uCYKbLDepT9MTT2rjH9NXMVOcfJopjvH+DEw1h1eB69w1rHAV09V41fa03slenejsFlHxAgjvpRSnmoE7F3yQA0BoJd/iFTCx0aD2GLTdkExuJi53IIML4GJf+/US73JqVq4KcZ32ricnVBpARNzAd0NwxA7t6jGQ2gt/xCbv4jcDU+Pbv3fIX71mAgFfPOTzdrA7gyfj5xEVn0Kct4KvTCKTmzZ1ujMIwv46st41IPclac3fpdogk9evIkZpfCBLRyPtQmx4OqKrPumGd6NskvlgvqbYanVswejUcZfyvJTyPdB6ntajdvSArYAuxuoAa+nxhcHIEzcZNwwO8Ukw1GFNg5BizWv9Ex2OnNYnHbuOJuw5otAUlccmA5ycJenKsDmdnuRoYDzBJOiR8mRXON8FMRcZpnrVcYipOeR/yeIah+x01lQ==;18KjxhFarsfLjfFROZK7Eg=="
 ---

@@ -100,6 +100,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What’s next for the Indigenous Voice referendum as key law passes parliament?"
+    excerpt: "The wheels have been set in motion on the Indigenous Voice referendum after the laws that will allow the national poll to be conducted passed parliament."
+    publishedDateTime: 2023-06-19T09:27:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7"
+    ampWebUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
   - title: "Paper shows ideas from Indigenous Australians, not policies in Aboriginal 'voice' referendum"
     excerpt: "A screenshot appearing to show a list of policies has been shared hundreds of times in Australian social media posts that falsely claim it shows measures that will come into force if the country votes to grant Indigenous people a voice in parliament."
     publishedDateTime: 2023-06-20T01:15:00Z

@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Autonomous delivery robots are taking to the streets of Europe"
+    excerpt: "These small vehicles are powered by artificial intelligence and are designed to deliver your groceries or take-out. And while trials of autonomous"
+    publishedDateTime: 2023-06-23T15:10:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/23/autonomous-delivery-robots-are-taking-to-the-streets-of-europe/76029"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/23/thumbs/400x400/124149.jpg"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "DYtRYdOLEkeZC1LYd5wVDRk1FZPpdJf9ErikX0DJPWt+0XaEm0qbL1N3AezoOimjRMC5hY87MqX9FsGq+R5BZ+vfnZx98Ml8WVfYBrB29krR5PfY6cYp6r+KQyzw9/Q6nt54CkCPPeLHZuSPtTvoZxA8wAOCMXTOLI8x/D28IT6H7vpJyF0Y9bJ5wQFHh8WN9LoIqY7Itr79BdpsWZBUTa/hqkg/bebmzyDE/pAYKvnbvv8AJJeCxCSh+L9ZWgTJGL/ARfcu53TFm/wezUpqd8O4D6lDU1xbR7fX7albQ0LxUcm8Tq2FQQNeZXgs1pJYukGVCSiCkg4uHyJdx0UxrQ6VBNVXr4qVttrT9eMm3hDJePjyrxkLq7beVOJwkgCRvBtmDNisIILDaWermxY5Xec2IRHtmywVlJgzb4UKJNSnUz2MXFWr0Xvo3p/z9LFaHvNtmEyiPcW4Eo7s+lOVThofimJmkH4OezvmMpvXSKJiIQ3ywWk+vYpbVQu94Hid1+/SjkKpiw1q/E7uf/VZbQ==;bYzQOtNchoM75sef6OqpIA=="
 ---

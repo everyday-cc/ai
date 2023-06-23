@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 17
+  - title: "AI watch: from Wimbledon to job losses in journalism"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-23T11:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/23/ai-watch-from-wimbledon-to-job-losses-in-journalism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "92O7sg9mAsYPiBySTSRtUz9qa0sRCr3ARNYU3pwKKk1iAU+yq73OEwsP8OMOA67VBCqxmN/6LTLL7gTMibtAjmzdoIyP8Pyn6rLnNqoCH3I+TiXHLrLjyLmtEXWtDRh3tLQUGg+vJICoQYGRg9hb5GPkKD0aY/6/T8RLEhTwfAuAdz8vvhO19kaytmKXKLuyNNVI28L1QNmyOLS86q3+HdmPNlTeO8I4EeJzEEQObhE2m9kNXMMD/JshxhqVcQmlDBuC+wtdThklbEVrCwnc7oqggEZCIvP8+zl2DIk9O93oOdLReTtkVUmx5IJQ59uXQA/YeMQqIqDMjhWleaoLZ42krJTczQvBSuLEwg4PTPA=;22HihIFxVb311gPxsY6klQ=="

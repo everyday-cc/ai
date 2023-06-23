@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-us
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Beijing using facial recognition to track down North Korean refugees"
+    excerpt: "Monitoring systems and artificial intelligence have increased the risks and costs for those trying to flee the Kim regime. If a face does not match a profile, the police can intervene. COVID-19 and in"
+    publishedDateTime: 2023-06-23T13:03:00Z
+    webUrl: "https://www.asianews.it/news-en/Beijing-using-facial-recognition-to-track-down-North-Korean-refugees-58657.html"
+    type: article
+    provider:
+      name: Asia News
+      domain: asianews.it
+    quality: 19
 
 secured: "m9s0bxCeX6rZczlNXKMFBnNerQTzOQJs8xEWqOLVl57hst/4aAyYZvBjM28AFvyyZ3Fcq4oxfSMz6kPtHruKdFEuVgHb9Eyq69L9iqXGrvhuax7sACuomokafnYdMvyJbIx5MEdp5cYRgW92z5RsEjj3g1/PgzI1X3kF7oTm3JDKshAklHqq9VLjagRwKZDVsxsYZc1gKazZVZkdPBUBT4BwI9OEy8PAKZuZ8fwfUegp3DSZooaB1VdMIGj8fcCumYAbHIpRB9JoxC/KI3hfzOqnQZt7o4BkDh/IzTAQiQ1zp7OJsHn4ymqcjJRaXVhD4PC82O87TYg/JBsAFw0GPWHYm8imFszWqHadDAZT3SI=;NjcyqdivDXgthaG0MTwz1w=="
 ---

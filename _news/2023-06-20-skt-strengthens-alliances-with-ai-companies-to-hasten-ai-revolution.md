@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Six skills you need to become an AI prompt engineer"
+    excerpt: "WIth the explosive rise of generative AI in the past half a year, prompt engineering is the exciting new career that's growing along with it. If you want to get a gig as a professional prompt engineer,"
+    publishedDateTime: 2023-06-23T14:55:00Z
+    webUrl: "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c20ef06b8430236714dd1c694314e5800ade6ad8/2023/06/23/9a1b31b9-0ff9-4816-8af0-95def708f4db/gettyimages-1413761223.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
     publishedDateTime: 2023-06-19T12:30:00Z

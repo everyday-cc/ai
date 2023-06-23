@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-29-the-ai-boom-runs-on-chips-but-it-cant-get-enough.md",
+      "title": "The AI Boom Runs on Chips, but It Can’t Get Enough",
+      "excerpt": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-790143/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
       "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
       "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
@@ -1403,49 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.md",
-      "title": "Meta pulls the curtain back on its AI chips for the first time",
-      "excerpt": "Meta has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053",
-      "originalUrl": "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thewest.com.au/publication/C-10705053/6679a2fc0058767d38616fae15aa790db92ea8bd-16x9-x0y0w1280h720.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp",
-      "cdnAmpWebUrl": "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp",
-      "publishedDateTime": "2023-05-19T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
+    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
+    publishedDateTime: 2023-06-23T13:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805564?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
     excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
     publishedDateTime: 2023-06-22T01:35:00Z
@@ -410,6 +424,15 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
+    quality: 34
+  - title: "AWS weighs in on the potential of AI to fight wildfires"
+    excerpt: "Canada is currently facing its worst wildfire season in recent memory, with blazes burning in nearly all provinces and territories. Last week, we saw the air quality index in Ontario swell to unprecedented levels,"
+    publishedDateTime: 2023-06-23T12:58:00Z
+    webUrl: "https://www.itbusiness.ca/news/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/125382"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."

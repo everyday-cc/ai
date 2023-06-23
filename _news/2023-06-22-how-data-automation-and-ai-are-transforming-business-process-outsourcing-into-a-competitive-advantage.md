@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transformi
 webUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
+    excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
+    publishedDateTime: 2023-06-23T13:49:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-is-replacing-traditional-outsourcing"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
     excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
     publishedDateTime: 2023-06-20T14:01:00Z

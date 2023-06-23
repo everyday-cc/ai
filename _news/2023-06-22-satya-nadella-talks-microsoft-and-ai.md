@@ -154,6 +154,31 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 53
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
+    excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
+    publishedDateTime: 2023-06-23T12:52:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-takes-aim-at-microsoft-azure-software-licensing-5-big-things-to-know"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 46
   - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
     excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
     publishedDateTime: 2023-06-21T12:13:00Z
@@ -190,15 +215,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
-  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
-    publishedDateTime: 2023-06-21T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "2moyYli+4OBAYN2D7DvUBwJT5BPieX1dl8/wSJePbGqS4Bw6kE6SHMUYarcfYC8TEFNcjiAO4CUwGdsObGEuq1trvqXv/OO75jAQC0J66K7FbyC9r7eQkLiLRmYDHghUrtkxEj8QJLJfzKI8vTBlsMkxBimNP0Lk6PVZ9Bz4m9cYN2xDGmVOqp/XNDw0ugSMKfMdf8hohhQe+o2CKdqJCkhMQlNrX6K+Dc9U4YO38/hK9gRelKwyFWk8PHxZMla6aS0OdnwadEP2nX6UR90qjmh0bHKXKsU9FobVVPzEFsVyp7ulplKHQvICzVllnvT99/fS3j63zgAPpNP0UUEhUb5nA70K5EyA6C0qJTkjH/o=;c8owDJdiN5GGMTBu1Zn8aw=="
 ---

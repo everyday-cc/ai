@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-22-amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.md",
+      "title": "AMD to spend $135M on chip R&D in Ireland for AI, data center, mobile tech",
+      "excerpt": "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
+      "originalUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/06/amd_hq-100942505-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
+      "publishedDateTime": "2023-06-22T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-kibsi-raises-93m-for-its-no-code-computer-vision-platform.md",
+      "title": "Kibsi raises $9.3M for its no-code computer vision platform",
+      "excerpt": "Kibsi is an Irvine, California-based startup that is building a no-code computer vision platform that allows businesses to build and deploy computer vision applications. Among the things that set Kibsi apart from many other players in this space is that it ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Kibsi-Founders.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
+      "publishedDateTime": "2023-06-22T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-kodiak-robotics-intends-to-equip-800-trucks-with-self-driving-systems-in-2025.md",
       "title": "Kodiak Robotics intends to equip 800 trucks with self-driving systems in 2025",
       "excerpt": "Kodiak Robotics intends to outfit a fleet of 800 commercial trucks with self-driving systems. The trucks are expected to reach the road in the second half of 2025, the company said Thursday. Logistics firm Loadsmith will operate the trucks as part of a ...",
@@ -261,7 +356,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 238,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -573,7 +668,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1099,7 +1194,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/21/danti-uses-natural-language-processing-to-build-a-search-engine-for-earth-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1140,109 +1235,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds.md",
-      "title": "More developers are coding with AI than you think, Stack Overflow survey finds",
-      "excerpt": "With 90,000 responses to the company's annual survey, here's where developers are leaning toward in the generative AI debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "originalUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/545733610b3e2f93753c954165fa6020af63360f/2023/06/21/82341c8e-30ce-4539-9f57-baa07a59b3ec/gettyimages-1443552841.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "publishedDateTime": "2023-06-21T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-nvidia-now-tops-tesla-as-esg-funds-ratchet-up-exposure-to-ai.md",
-      "title": "Nvidia Now Tops Tesla as ESG Funds Ratchet Up Exposure to AI",
-      "excerpt": "Nvidia Corp.’s stratospheric ascent has lured at least 100 more ESG funds in recent weeks, transforming the company into one of the most popular stocks among asset managers who integrate environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in_Z4HUIMDbU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
-publishedDateTime: 2023-06-21T20:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+publishedDateTime: 2023-06-21T19:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
@@ -160,6 +168,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 53
+  - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
+    excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
+    publishedDateTime: 2023-06-23T12:52:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-takes-aim-at-microsoft-azure-software-licensing-5-big-things-to-know"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 46
   - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
     excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
     publishedDateTime: 2023-06-21T12:13:00Z
@@ -197,6 +214,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "18dYxrHGi9fXapNWXybgj60eTspEMe0zRMS8ceMYsl8OjXPjd8TCQKUJMuvvOyUHFoQMIzvQDLOO0acaO4z0WL955kPCuYw0M0/TwlOlJQUrigowAnvKNJtlX8WWVgKP2YAAYBIW6gfVBYFuZtRBXiU5kNJSc2gAqFCl0MGjrRaoP96dDcfAnW132tpDJLte28B/dUV9auz3AoyEOuP8TCWbcBTXi4opDHW+x1VhBxjDhDSbCUG5NNzZbCtqzu4HPH6O7ZDIYPWt/H+RUZ2rxaLRs7Eeu5nyAaONzOLUlJf9xQQYxy1y+T9pzNibHfyCiYwOM8z6Vq63tmpIYuN6ZbuhIeIkwPF1X3r1k3jg9Ng=;Q3P4JBWVWzheYs+ngrr5cg=="
+secured: "dR13PXOzhJj+Rmr1itGA1JfpEwVd0SxQ7m6l0gEMfQUzx4vNkVN+X9KnVrisrnBEFOZMLtaEVwCCQgDCSapM0eFMdUGymWMfbm6Ctc1q2TsEJ0XfwyuM2TIwufQDYhaVwDvx6asJxzq2drcm9+lfQVGcbph4hWzTxpf/XT7tRyoprKHqCT6zS/4khOr9TPvtYr6tqacTsVNr1XVYF90/ORDysVz0t+UTYxfWKKZL3fOEmjLuNoMJGLtjPZvyqcq01+i+JuqTEAgIl6EnXk2a3jCoSd7TkGqjiEBMeMOu2HPuJIyqWi8AX+DeQu3n7hqF+A1kU/6L0C0+Qng1O/z98PT8Qx64dVzEk+XMdSVCBzg=;1cJ1mPDhCBQChnBc7I+67w=="
 ---
 
