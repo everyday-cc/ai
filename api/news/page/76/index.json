@@ -2,6 +2,436 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-05-05-tech-execs-meet-with-vice-president-harris-about-ai-development.md",
+      "title": "Tech execs meet with Vice President Harris about AI development",
+      "excerpt": "Artificial intelligence is already diagnosing cancer, developing new music and more. However, one AI pioneer tells NBC News’ Tom Costello that AI could possibly pose an existential threat to humans. Now,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683242341720_nn_tco_tech_execs_at_white_house_230504_1920x1080-q1x6ag.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo172819525842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172819525842",
+      "publishedDateTime": "2023-05-04T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-datastax-extends-ai-feature-engineering-with-luna-ml.md",
+      "title": "DataStax extends AI feature engineering with Luna ML",
+      "excerpt": "DataStax continues to build out its AI capabilities with today's launch of Luna ML, which supports AI feature engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "originalUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1350668583-e1677167586240.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "publishedDateTime": "2023-05-04T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
+      "title": "Opinion: California Wrong to Expand Facial Recognition Use",
+      "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "originalUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf6e9f9/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F77%2F5763ddd14e65eb9c7594500441fc%2Fshutterstock-1270097047.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-california-wrong-to-expand-facial-recognition-use?_amp=true",
+      "publishedDateTime": "2023-05-04T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-square-enix-fans-arent-pleased-with-machine-learning-test.md",
+      "title": "Square Enix fans aren’t pleased with machine learning test",
+      "excerpt": "Square Enix used machine learning and natural language processing in a visual novel, and fans found that it didn't understand them at all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "originalUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Square-Enix-Portopia-Case.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/square-enix-fans-arent-pleased-with-machine-learning-test/amp/",
+      "publishedDateTime": "2023-05-04T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue.md",
+      "title": "As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue",
+      "excerpt": "But while Google Assistant and Google's experimental Bard chatbot currently feel like different products with different uses, Amazon has dreams of uniting its generative AI efforts with its struggling Alexa business.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/echo-dot-800x446.jpg",
+          "width": 800,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/amp/",
+      "publishedDateTime": "2023-05-04T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-synopsysai-revolutionizing-chip-design-through-ai-driven-eda-suite.md",
+      "title": "Synopsys.AI- Revolutionizing Chip Design Through AI-Driven EDA Suite",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his thoughts on Synopsys.ai and how Synopsys is leveraging AI into chip design and EDA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64542c02cba0ed1862eabd27/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/04/synopsysairevolutionizing-chip-design-through-ai-driven-eda-suite/amp/",
+      "publishedDateTime": "2023-05-04T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder.md",
+      "title": "Hugging Face and ServiceNow open up generative AI for coding with StarCoder",
+      "excerpt": "ServiceNow and Hugging Face have launched StarCoder, a large language model enabling generative AI for code generation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image1-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-and-servicenow-open-up-generative-ai-for-coding-with-starcoder/amp/",
+      "publishedDateTime": "2023-05-04T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-indias-robot-installations-hit-an-all-time-high.md",
+      "title": "India’s robot installations hit an all-time high",
+      "excerpt": "Industrial robot sales in India have reached a new record with 4,945 units installed in 2021, according to the IFR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "originalUrl": "https://www.therobotreport.com/indias-robot-installations-hit-an-all-time-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/ifr-graph-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-california-startup-with-mit-roots-harnessing-ai-to-target-age-related-diseases.md",
+      "title": "California startup with MIT roots harnessing AI to target age-related diseases",
+      "excerpt": "Facebook, and Amazon, and they’re West Coast companies.” As the use of AI is integrated into biopharma research, Collins believes a new generation of biotechs will emerge in both places ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/05/04/business/california-startup-with-mit-roots-harnessing-ai-target-age-related-diseases/",
+      "originalUrl": "https://www.bostonglobe.com/2023/05/04/business/california-startup-with-mit-roots-harnessing-ai-target-age-related-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oqbnUNSIBE23a0d_Fd4NRS1Csnc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/IGBXQB66RP7UXCSI2VZL34CMA4.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-artificial-intelligence-helps-identify-people-at-risk-for-mental-illness.md",
       "title": "Artificial intelligence helps identify people at risk for mental illness",
       "excerpt": "NBC’s Jake Ward reports on how doctors at Cincinnati Children’s Hospital are using artificial intelligence to identify the risk of anxiety, depression and suicide early in kids and teens.",
@@ -747,427 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-behind-the-hype-about-ai-transforming-consumer-businesses.md",
-      "title": "Behind The Hype About AI Transforming Consumer Businesses",
-      "excerpt": "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
-      "publishedDateTime": "2023-05-04T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-banking-sector-revolution-3-fintech-stocks-to-watch.md",
-      "title": "Banking Sector Revolution: 3 Fintech Stocks to Watch",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor.md",
-      "title": "Current language models lightyears away from human-like AI: Early DeepMind investor",
-      "excerpt": "We took a big jump, but we’re not at the moon yet,” Sheikh added. He also noted that the large language models (LLM) developed by Microsoft-backed firm OpenAI are lightyears away from artificial general intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/articleshow/99993262.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-99993262,imgsize-64058,width-800/99993262.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/current-language-models-lightyears-away-from-human-like-ai-early-deepmind-investor/amp_articleshow/99993262.cms",
-      "publishedDateTime": "2023-05-04T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-google-shared-ai-knowledge-with-the-world-until-chatgpt-caught-up.md",
-      "title": "Google shared AI knowledge with the world — until ChatGPT caught up",
-      "excerpt": "But others acknowledge Google has lost many of its top AI researchers in the last year to start-ups seen as cutting edge. Some of this exodus stemmed from frustration that Google wasn’t making ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/05/04/google-ai-stop-sharing-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5SED7Z3NG2TDUS53RHYNBWCM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
-      "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453be070729cea75deabd27/0x0.jpg?format=jpg&width=1200",
-          "width": 468,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/05/04/box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content/amp/",
-      "publishedDateTime": "2023-05-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-robot-control-program-market-and-forecast-2030.md",
-      "title": "Robot Control Program Market And Forecast 2030",
-      "excerpt": "May 04, 2023 (The Expresswire) -- The \"Robot Control Program Market\" Size, Trends and Forecasts (2023-2030)â , provides a comprehensive analysis of the Robot Control Program Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/robot-control-program-market-and-forecast-2030-2023-05-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-britains-competition-watchdog-opens-investigation-into-artificial-intelligence-market.md",
-      "title": "Britain's competition watchdog opens investigation into artificial intelligence market",
-      "excerpt": "The Competition Markets Authority in Britain is investigating the artificial intelligence market. The investigation will focus on the technology underpinning chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
-      "originalUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d66e500a-bd8d-48be-8e80-975a5c3cc1b8/1a40ac88-f811-4bef-b170-9f0ab28f6994/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/britains-competition-watchdog-opens-investigation-artificial-intelligence-market.amp",
-      "publishedDateTime": "2023-05-04T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-vp-harris-to-meet-with-ceos-about-artificial-intelligence-risks.md",
-      "title": "VP Harris to meet with CEOs about artificial intelligence risks",
-      "excerpt": "The Democratic administration plans to announce an investment of $140 million to establish seven new AI research institutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/vp-harris-meet-ceos-artificial-intelligence-risks-rcna82835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230504-kamala-harris-mjf-0946-2ef781.jpg",
-          "width": 2500,
-          "height": 1436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna82835",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna82835",
-      "publishedDateTime": "2023-05-04T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-deepmind-boss-says-human-level-ai-is-just-a-few-years-away.md",
-      "title": "DeepMind boss says human-level AI is just a few years away",
-      "excerpt": "The head of Google’s artificial intelligence division DeepMind has predicted that human-level AI may be just a few years away. The forecast from Demis Hassabis puts the date for the arrival of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "originalUrl": "https://www.aol.com/deepmind-boss-says-human-level-115422614.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/383722a72aee24b2f4a7b7a17d5aeb64",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

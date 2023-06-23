@@ -155,6 +155,15 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 0
+  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
+    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
+    publishedDateTime: 2023-06-23T18:07:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "HZIGoTc94kmSABvtVy4Mq9YtymziZr81up1WG7uL3iFNoiK0bN7jUr8XqNwsx9FbFu1YQUKDqQ1RA7VNBXSf5EVdTjVZ+jWLTMFK1JVwmbqoxyst3/21xVKI1OBr2CIk/+MaByF7wHGGdqNkzgnZ/ydUu96nHBMn9Gt/7VCTeVXcFrKcwyxadCXeQw0BQ/7ShW4GvueE0pTiNwCSyMVRVhg7ppxuofFQ26e2Zjr4DlGdN/CAXG7HzGx3SdRZrIVmltIw8u6yKaGrTWNcfbkp0area1o8wOs426isp4RJh74i15RoBz/QgluTxBZIcHakAgVSHtPfYjMvcjbzH7lwj+XwNh928iWPd7T4Y5fighw=;KsCy5XdSCO/SGM1JONk5Og=="
 ---

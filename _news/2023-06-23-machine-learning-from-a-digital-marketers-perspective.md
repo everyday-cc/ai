@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI in PR and Marketing: 3 Core Issues"
-    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
-    publishedDateTime: 2023-06-21T20:04:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
-        width: 1400
-        height: 707
-        isCached: true
   - title: "How AI is Powering Marketing Success and Business Growth"
     excerpt: "Embracing AI is now more crucial than ever for businesses aiming to thrive in the ever-evolving digital landscape of Canada."
     publishedDateTime: 2023-06-20T20:33:00Z

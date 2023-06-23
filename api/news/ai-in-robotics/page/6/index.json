@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
+      "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
+      "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "originalUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+          "width": 438,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politifact",
+        "domain": "politifact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-china-develops-brain-chip-that-lets-monkeys-control-robotic-arm-with-their-minds.md",
       "title": "China develops brain chip that lets monkeys control robotic arm with their MINDS",
       "excerpt": "Chinese scientists claim to have designed a brain implant that allows a monkey to control a robotic arm using just its mind. Researchers at Nankai University shared the announcement on May 5 ...",
@@ -1332,59 +1375,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-floki-co-founder-joins-new-ai-crypto-token-based-on-elons-robot.md",
-      "title": "Floki Co-Founder Joins New AI Crypto Token, based on Elon’s Robot",
-      "excerpt": "Floki co-founder joins an innovative AI-based crypto token project, inspired by Elon Musk's advanced robotics. The collaboration aims to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/floki-co-founder-joins-new-ai-crypto-token-based-on-elon-s-robot-1032279763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/tfZqZ41Q6rZthU8sCylUKUm5RM13/1682908073837-0.jpg",
-          "width": 336,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32924098"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,24 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "AMD adds EPYC CPUs, adds AI features"
-    excerpt: "AMD has announced the products, strategy and ecosystem partners that will shape the future of computing, highlighting the next phase of data centre innovation. At its Data Centre and AI Technology Premiere,"
-    publishedDateTime: 2023-06-20T09:38:00Z
-    webUrl: "https://it-online.co.za/2023/06/20/amd-adds-epyc-cpus-adds-ai-features/"
+  - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
+    excerpt: "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the"
+    publishedDateTime: 2023-06-23T20:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "AMD adds EPYC CPUs, AI features"
-    excerpt: "AMD has announced the products, strategy and ecosystem partners that will shape the future of computing, highlighting the next phase of data centre innovation. At its Data Centre and AI Technology Premiere,"
-    publishedDateTime: 2023-06-20T09:49:00Z
-    webUrl: "https://it-online.co.za/2023/06/20/amd-adds-epyc-cpus-ai-features/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 516
+        isCached: true
+  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
+    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
+    publishedDateTime: 2023-06-20T14:33:00Z
+    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
+    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
+    publishedDateTime: 2023-06-21T17:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
+    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
+    publishedDateTime: 2023-06-20T12:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "l51c+I6U794hW28xfE/J//OotVqW99uo/5vH8aG31FKfwjfEw9NNsujaraW2f5NtKFfOi4wGbyLwzEC4XmD0LET+zgWnYYH52PEmFOvv+ypGSFIkAPWz+DI96KKxhB7qZHPuEUJZP842qCFPZwXaaPhn6hNSHpALgZa+NE+r7JEKfEr1Axvdk7m1KyelnRMeS1PmGyT+EyVMUHeMLS51gp0TWK6jxcYRMda6IaP5fsF41o1Ngm1I6JObaI4QwmPCL+OyrPHNsNWDzx1EpjrZWWqVpxJobs+Tx9a//0i7A4wlDt2C9xsclA+r4FkZoROQf+BjZKBEdsqcVG+h0lORd6UKIEeiSXcbne8Yz94G/uI=;ngNNc9KX/X07jgv3cG6UlQ=="
 ---

@@ -19,68 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "2 Best Chip Stocks to Play the AI Boom, Says Analyst"
-    excerpt: "Bernstein analyst Stacy Rasgon says Nvidia and Broadcom are the ideal chip stocks to benefit from the rising demand for artificial-intelligence semiconductors."
-    publishedDateTime: 2023-06-20T17:26:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-803090/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Tech-Stock Boom Pits AI Against the Fed"
-    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
-    publishedDateTime: 2023-06-19T05:00:00Z
-    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-802215/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Best AI Apps to Try Now"
-    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799666/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
-    publishedDateTime: 2023-06-21T11:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-as-tech-giants-invest-heavily-in-artificial-intelligence-1032401412"
+  - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
+    excerpt: "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the"
+    publishedDateTime: 2023-06-23T20:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 60
-  - title: "Bet on These 3 Artificial Intelligence Stocks Right Away"
-    excerpt: "For solving problems, artificial intelligence (AI) is imitating human intelligence in computer systems. It is through machine learning that AI is now being created. This basically signifies training a system by utilizing an enormous volume of data."
-    publishedDateTime: 2023-06-22T15:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/bet-on-these-3-artificial-intelligence-stocks-right-away"
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 516
+        isCached: true
+  - title: "AMD Promises An AI Chip Power Shift"
+    excerpt: "For example, AI developers preferred Nvidia chips due to a well-developed software package CUDA that enabled them to access the chip’s core hardware features. But AMD revealed on Tuesday it made its own software for its AI chips, ROCm. If developers ..."
+    publishedDateTime: 2023-06-20T14:02:00Z
+    webUrl: "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32924098"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/motherboard-closeup-technology-integrated-microchip-circuit-board-computer-processor-with-neon-light_0.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
+    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
+    publishedDateTime: 2023-06-20T14:33:00Z
+    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
+    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
+    publishedDateTime: 2023-06-20T12:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "+ZZt1LaeSWFQViqh5FTqxUyJpbS9KLg1C3r9eXVFoPCyypXZhujVRj+aYaw0uZ8SeMS7Ebxf/9YGz4cKIThvVepu4zj3sJU1D7Z8Zx/ju6a2Uzk12LfT43HMTFEzjRZ1VSFaJ6Pqt9MF9/0A48IBE85jyBPWM3D8Z/lJ19kzh1B+Tzei6jy26xC2H9sEU2zc7n5yrFWrsjOlI6728duvR7x224QP4HlirlTacSXKJhk/hWDBR+kzcDn3IQ4js6FSsZDIdGmcSwQwukI+JOpOlRUy4JhTfQKaLqxIYdjbcEpbnWx2opxb0SRefZoEaL4YzyQscKxHfGst4X1oBNtc7/Y3FigrJzsbV3fCl15Rf5ljqzvDCkZDxipOBVjfCXwPIed4fiYY2Ssr4Ah8yc85mqUWtZLpipgoVlPCFbpeqrLILrsdIr5v03ibJ9Jq8ANfKabFlGNGBs2yzEo/bxjHMBnM+uSzWPTK2+ImvGAfo6kgWN8q6q70/eMOSpeojIDqoqRX1dgJNJ9qCsZBKBTAOQ==;lPYWlnzfkXXt8afMOmDlPw=="
 ---

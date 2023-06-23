@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market Size | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Computer Vision Development Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
+    publishedDateTime: 2023-06-19T11:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-size-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
     excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
     publishedDateTime: 2023-06-20T10:00:00Z

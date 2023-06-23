@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/"
 type: article
 quality: 102
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/provision-ad-users-admin-flow-final.png"
         width: 1111
         height: 566
+        isCached: true
+  - title: "Accelerate time to business insights with the Amazon SageMaker Data Wrangler direct connection to Snowflake"
+    excerpt: "Amazon SageMaker Data Wrangler is a single visual interface that reduces the time required to prepare data and perform feature engineering from weeks to minutes with the ability to select and clean data, create features, and automate data preparation in machine learning (ML) workflows without writing"
+    publishedDateTime: 2023-06-23T20:32:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-time-to-business-insights-with-the-amazon-sagemaker-data-wrangler-direct-connection-to-snowflake/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/accelerate-time-to-business.jpg"
+        width: 1020
+        height: 509
         isCached: true
 
 secured: "4pxScjXvEeacPPfOfi3m0hPDbTMlJV2R59Dnr3akl8hWW/gHkD8Em4yk7H1O5Lt6aD2nF/5yEI01DM3W7Mj4ND6i7tNYZLqpQ496oCwHEDuK2NpG86G5Xp+YGkPYKM+ce8bNONqD73QqCOCjsegtzEB+DeICaVsT10Z0g4h8kcucBc6v7hQTvEODYtg4xFtneUFegGx3RIwR7s2qIJoT1htVDCPM2zBFD1FHWNiDPz5ia5RmVqCM1uGaGpKdnkg4j+5L6lwF9FN+qe/bOgoV/X1NBsZsEA14/5VUa0sQgbdZAJZ4+CkiPgsh+wFt+ZAYrfDNanz7mfxyHII7UzLiVHpAD3udOhieV2nAjijoRz4=;zW+7CZdtjM8AcVKZ7U4/JA=="

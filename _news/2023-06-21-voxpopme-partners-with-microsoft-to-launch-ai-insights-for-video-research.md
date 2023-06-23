@@ -160,22 +160,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 53
-  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
-    publishedDateTime: 2023-06-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
     excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
     publishedDateTime: 2023-06-23T12:52:00Z
@@ -212,7 +196,16 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
+    publishedDateTime: 2023-06-22T12:31:00Z
+    webUrl: "https://www.inferse.com/562823/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
 
-secured: "8U7IU6imhhO07VGzIY4w+6KDl5gsWEuZQdVo3W0WkDABQUxwU94OYfP6634yjkXvxIuTAtQhiMwAASxT1dq2MywzFW4to7WiuaWqJapAs+wbAr04SnDjy7YOAqSrVq4jY+Ad3yazN6nHTvurjzq+IIZliqj1NZzOW2tcQVF4p0BUWtC1cSP8cwV3H2aUK+afzca5F1U5xlveHt8CJuvYF3jK2KWjuXjYYLMfR0lJs11jyVKGq2UNs9V/WwIwW+sp6rFAHOxlNkcBvFZH85qf7NyKF51IHOhLS4588XO83DpeaC6UKFvFWlSEeFsyPiolRRjapYYetO3MmfC5XJsD951Ok+M48tLb4s27wOSDXMdUD8ocsRriulSbRdiQTF1yXRWhknfnw+2YXFdTc8/Wxiz363WHfqgpjGufp+u8GAfW9316NAq7O60alpfeUgA6PZCeQEpDSWff3fKZ9EqGh+CfRHnvJWz92EtZJQC4ZsuM+Tyuux1VzPfIfeOja2egf38Ra2V5k/yylI8k6/LPVg==;Vh1rf4smA38+RKyylhGH9w=="
+secured: "O9nfacGWsddUK4ERjPXUgyoVp0OLEMs5vVB2X7l3MOnIu2PLBFM5hpJ2N5DSMLHB3OzeDOpCvG0nhPLkYo6fb3WLtMlYTCO+udNr9pxbU33mSmQjcxXJb4/oMJW+1IpLNG3We2ESI3lxTSS4ZzKLgmr7k4wBsul4WNq6gPkqp4oay6Hh/r8B2D4+K5WzqDpmroR3fFoPA6w2ppNYA+xsrBWv3cRfvyuE9/Ke9UOq1tU9NRH+/G9Mg3awRev9Vpv4hCIck5BMdcUAEn6ty0lMt3AilfA3PMtGteJSanOTyimZgscUFW0hYjedCWL8IpXfZpaXFsOCRdjCAe+sv6eN1qp3sSYz+vlqSUPNaDVfi6WM/5O4vJvEXtXfaueBTQ6WwHF1tgBO1BzJ1/9KIavmFbvvbvUrgmiv1NLNkPDALScsupms6UDDjtssKfOdOI0DEhq8/RDlBNDGZ11mjE0x2Klh4eh2Ndw++hyW68gtUvYnCuX1GeH1v41vO8A5/4m9siumKzPE/eheQrxFxh87FA==;Y20BOeDVz6eg2HnnSG6x+g=="
 ---
 

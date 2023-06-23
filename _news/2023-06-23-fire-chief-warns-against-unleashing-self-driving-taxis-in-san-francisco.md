@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
 type: article
 quality: 58
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
+    quality: 0
+  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
+    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
+    publishedDateTime: 2023-06-23T18:07:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 0
 
 secured: "svJkbRwbQ1WHWpZY44kLnnyt8gsBb6SwlfufJyMoKumBAjEUYYq3fiFRGPAbi4M2DhlK+z8XC4PX8j0bgM0REPiYhVfysjugm4hW15/7Xp3huehFSZ6pJ6BYF9dUNdD4x5oZUUcZXoUsIOO8OZDMCBd/fMecI8bKbNfgn/FGALr7D5UHPQnP2dh69A4L+H8sgGu1EJvIepzYajoC+RVHEKjKP+VbxLfzoWaLJJNTW2QvXyX5bKPAvbw0HfnAxtjawtgv/5DuaUZckPLsY9XG2ahLDBalEVkNpZ3dxeR3OwzfdDozaXUDKp2xE69dj8g0Wci1BskVD2a6G6qyOBOkL6oopuGs8JuQNQ8J0HrYh0Qf4lQ/h9cJaxeUhAMof8zdzEveBvCNXZQd92dJ5PAVvKKi34hkf/T8CLJ8IzHT2Et/rkdZPnHnZh/cXRMunUefaFaeuiclgWWDBLGFclQwY0FroHGsHFrGrCkfvu2YeYTq7qRqcKAcYV0GuXaE9n0Zpib5RyxPr2haH2Gnow6mYA==;E2cxIFr0IGA55WAR5E2Saw=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/google-cloud-launches-anti-money-laun
 webUrl: "https://www.wsj.com/articles/google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai-2512ccce"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud Unleashes AI On Money Laundering Activities After Successful HSBC Trial"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, shares her insights on Google's Anti-Money Laundering AI after a successful HSBC trial."
+    publishedDateTime: 2023-06-23T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/23/google-cloud-unleashes-ai-on-money-laundering-activities-after-successful-hsbc-trial/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Google launches ‘Anti Money Laundering AI’ after successful HSBC trial"
     excerpt: "AMLAI’s launch signifies the furtherance of Google and Google Cloud’s ambitions in the fintech space. While the current AI zeitgeist centers around generative AI products such as Google’s Bard chatbot, the company has quietly been making its presence ..."
     publishedDateTime: 2023-06-22T17:42:00Z

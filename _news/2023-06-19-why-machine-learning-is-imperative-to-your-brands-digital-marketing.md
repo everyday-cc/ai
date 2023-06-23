@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-mach
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6168a643eda3c2e0494d8640/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
-        isCached: true
-  - title: "Generative AI in PR and Marketing: 3 Core Issues"
-    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
-    publishedDateTime: 2023-06-21T20:04:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
-        width: 1400
-        height: 707
         isCached: true
   - title: "How AI is Powering Marketing Success and Business Growth"
     excerpt: "Embracing AI is now more crucial than ever for businesses aiming to thrive in the ever-evolving digital landscape of Canada."

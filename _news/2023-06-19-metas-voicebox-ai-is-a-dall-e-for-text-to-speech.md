@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
-    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
-    publishedDateTime: 2023-06-20T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones"
     excerpt: "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos."
     publishedDateTime: 2023-06-19T20:50:00Z
@@ -77,15 +61,59 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
-    publishedDateTime: 2023-06-21T04:17:00Z
-    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+  - title: "Facebook's Creepy New AI Can Replicate Your Friends' Voices"
+    excerpt: "Meta-formerly-Facebook says its new text-to-speech AI can edit existing audio, speak in six languages, and replicate loved ones' voices."
+    publishedDateTime: 2023-06-21T17:48:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-ai-replicate-friends-voices"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/facebook-ai-replicate-friends-voices.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta Chooses Not To Release AI Voice Replication Technology And Here’s Why"
+    excerpt: "Meta, formerly known as Facebook, recently gained attention for its decision not to release their AI voice replication technology called"
+    publishedDateTime: 2023-06-21T16:03:00Z
+    webUrl: "https://www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/"
+    ampWebUrl: "https://www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 37
+  - title: "The trials and tribulations of AI voice tech"
+    excerpt: "The FT News Briefing is produced by Fiona Symon, Sonja Hutson and Marc Filippino. Additional help by Katie McMurran, Peter Barber, Michael Lello, David da Silva and Gavin Kallmann. Topher Forhecz is the FT’s executive producer. The FT’s global head of audio is Cheryl Brumley. The show’s theme song is by Metaphor Music."
+    publishedDateTime: 2023-06-21T04:00:00Z
+    webUrl: "https://www.ft.com/content/7ad2716d-d16d-4c90-8ae3-417588b8a942"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fef66a1e9-c2e8-4a8b-9561-57dda1f7cd52?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 900
+        isCached: true
+  - title: "Meta announces 'breakthrough' AI tool that allows you to clone your best friends voice"
+    excerpt: "Meta has announced Voicebox, an AI text-to-speech system that is capable of speaking in six languages and voice replication with only 2 seconds of audio."
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.tweaktown.com/news/92055/meta-announces-breakthrough-ai-tool-that-allows-you-to-clone-your-best-friends-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92055_1156165_meta-announces-breakthrough-ai-tool-that-allows-you-to-replicate-your-best-friends-voice_full.jpg"
+        width: 1500
+        height: 911
+        isCached: true
   - title: "Meta's New Voicebox AI Sparks Debate Over Generative Speech"
     excerpt: "Voicebox is reminiscent of a technology unveiled by Amazon last summer that allows Alexa to generate speech using a deceased person’s voice. The tool is purportedly meant to fos"
     publishedDateTime: 2023-06-21T11:00:00Z

@@ -111,15 +111,6 @@ related:
         width: 1126
         height: 550
         isCached: true
-  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
-    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
-    publishedDateTime: 2023-06-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
     excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
     publishedDateTime: 2023-06-22T13:25:00Z

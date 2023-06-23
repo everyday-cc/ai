@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market in 2031 | Exhibiting Growth Opportunities"
-    excerpt: "Latest Research Report 2023-2030: “Artificial Intelligence in Healthcare Market” | Survey with PPPP Pages Report"
-    publishedDateTime: 2023-06-19T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-in-2031-exhibiting-growth-opportunities-2023-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Market Growth | 2030"
     excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
     publishedDateTime: 2023-06-19T09:51:00Z

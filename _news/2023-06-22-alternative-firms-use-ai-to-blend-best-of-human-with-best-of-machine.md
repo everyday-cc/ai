@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-fir
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/amp/"
 type: article
 quality: 87
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
-    publishedDateTime: 2023-06-19T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Artificial Intelligence and the Curse of the Machine Gods"
     excerpt: "Sometime back in 2008 I was having a conversation with an FBI agent. This is not something I would normally care to do, but in this case it was a family"
     publishedDateTime: 2023-06-23T05:37:00Z

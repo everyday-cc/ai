@@ -92,6 +92,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
+    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
+    publishedDateTime: 2023-06-23T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
     excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
     publishedDateTime: 2023-06-23T15:19:00Z

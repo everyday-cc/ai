@@ -50,20 +50,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "Australia’s Senate votes to hold referendum on creating Indigenous Voice"
-    excerpt: "Australia’s Senate has voted to hold a referendum this year on creating an Indigenous Voice to Parliament – an advocate aiming to give the nation’s most disadvantaged ethnic minority more say on government policy."
-    publishedDateTime: 2023-06-19T05:06:00Z
-    webUrl: "https://www.breakingnews.ie/entertainment/australias-senate-votes-to-hold-referendum-on-creating-indigenous-voice-1490977.html"
-    type: article
-    provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 23
-    images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMTkwNjAwMTNcXFwvNmEzZDNjM2NiMmU2NGVlMWJlYTZjNTAzZGYyNGI4YWMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YzU5YmJkMTY2M2Y0ODc1YzY4Nzc1MjUxZWE1NTIzMTUxNDJlNWZmIn0=/australia-s-senate-votes-to-hold-referendum-on-creating-indigenous-voice.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Australian Senate passes Voice referendum bill amid falling public support"
     excerpt: "Now that the bill has passed both houses of parliament, the government must set a referendum date, but the more people learn about the Voice, a proposed unelected institution at the heart of the existing political order,"
     publishedDateTime: 2023-06-20T04:03:00Z

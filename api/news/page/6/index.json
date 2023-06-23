@@ -2,6 +2,297 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
+      "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
+      "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/Untitled_design_1687233330640_1687233337610.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "publishedDateTime": "2023-06-19T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics.md",
+      "title": "Artificial intelligence can support architects but lacks empathy and ethics",
+      "excerpt": "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/GANNETT-AI-0_1687232356033_1687232701698.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html",
+      "publishedDateTime": "2023-06-19T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
+      "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
+      "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
+      "publishedDateTime": "2023-06-19T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-airbnb-ceo-predicts-ai-will-pave-the-way-for-millions-of-startups-instead-of-replacing-jobs.md",
+      "title": "Airbnb CEO predicts AI will pave the way for 'millions of startups' instead of replacing jobs",
+      "excerpt": "By making companies 30% more efficient with the same manpower, AI could lead to more startups, Airbnb CEO Brian Chesky said on a recent podcast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "originalUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6490b6f020f78100189feec7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/airbnb-ceo-says-ai-will-lead-to-millions-of-startups-2023-6?amp",
+      "publishedDateTime": "2023-06-19T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones.md",
+      "title": "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones",
+      "excerpt": "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
+      "originalUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
+      "publishedDateTime": "2023-06-19T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
+      "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
+      "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
+      "originalUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a16dfd27ed152a0030faf7e421304699720e6e91/2023/06/19/36f8bdbd-2b8e-44f4-a7f3-cb6eebaa6952/gettyimages-1403176138.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
+      "publishedDateTime": "2023-06-19T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-cloud-security-leader-zscaler-bets-on-generative-ai-as-future-of-zero-trust.md",
       "title": "Cloud security leader Zscaler bets on generative AI as future of zero trust",
       "excerpt": "Zscaler made new product and service announcements this week reflecting an aggressive growth strategy and intent to monetize generative AI.",
@@ -43,6 +334,58 @@
         "AI",
         "AI in Security",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-artificial-intelligence-systems-in-healthcare-market-research-2030.md",
+      "title": "Artificial Intelligence Systems in Healthcare Market Research | 2030",
+      "excerpt": "The Global Artificial Intelligence Systems in Healthcare market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -157,7 +500,7 @@
       "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -209,7 +552,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -345,7 +688,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -501,7 +844,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -886,359 +1229,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030.md",
-      "title": "2023 Artificial Intelligence (AI) Robots Market Size, Share and Growth Forecast to 2030",
-      "excerpt": "The \"Artificial Intelligence (AI) Robots Market\" research report for the period 2023-2030 offers a comprehensive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-artificial-intelligence-ai-robots-market-size-share-and-growth-forecast-to-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future.md",
-      "title": "AI Delegation: The One Skill You Will Need To Succeed In The Future",
-      "excerpt": "Learn why understanding and using AI tools is a critical skill for both individuals and businesses in the evolving digital era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648febad4bdd8c39f2b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/19/ai-delegation-the-one-skill-you-will-need-to-succeed-in-the-future/amp/",
-      "publishedDateTime": "2023-06-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-in-healthcare-service-market-insights-2030.md",
-      "title": "Artificial Intelligence In Healthcare Service Market Insights | 2030",
-      "excerpt": "Jun (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Insights 2023 By Types (, Machine LearningâNeural Networks",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-insights-2030-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-insights-2030-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-for-healthcare-applications-market-2023-2030-open-the-force-of-information-with-exploration-report.md",
-      "title": "Artificial Intelligence for Healthcare Applications Market [2023-2030] | Open the Force of Information with Exploration Report",
-      "excerpt": "In addition, the examination report gives definite information about the main considerations affecting the development of the Artificial Intelligence for Healthcare Applications market at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-2030-open-the-force-of-information-with-exploration-report-2023-06-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2023-2030-open-the-force-of-information-with-exploration-report-2023-06-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services.md",
-      "title": "Fintech Paro Raises $25M via Series C to Build Enterprise Platform for Finance, Accounting Services",
-      "excerpt": "Paro, a Chicago-based startup disrupting the way companies access on-demand finance and accounting expertise, raises $25 million via Series C.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2014/04/Chicago-City-Skyscraper.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208894-fintech-paro-raises-25m-via-series-c-to-build-enterprise-platform-for-finance-accounting-services/amp/",
-      "publishedDateTime": "2023-06-18T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
-      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
-      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-18-artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva.md",
-      "title": "Artificial intelligence (AI) Chips Market Briefing 2023 to 2030 | , Intel Corporation, NVIDIA, Adapteva",
-      "excerpt": "Chips marketing report is one of the most important, distinctive, and trustworthy market research studies that is tailored to certain business objectives. The Artificial intelligence (AI) Chips industry research is painstakingly created while upholding commitments and timelines in order to provide the best industry insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

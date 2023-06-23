@@ -27,238 +27,139 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
-    excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
-    publishedDateTime: 2023-06-22T16:51:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
+  - title: "How generative AI can help finance and accounting professionals"
+    excerpt: "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology"
+    publishedDateTime: 2023-06-23T19:46:52Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 104
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to improve your finance operation’s efficiency with generative AI"
+    excerpt: "While you may have learned about generative artificial intelligence (AI), you may not know what it means for the future of Finance and Accounting (F&#38;A). As the name suggests, it generates images, music, speech, code, video or text, while it interprets and manipulates preexisting data. For F&#38;A"
+    publishedDateTime: 2023-06-23T19:47:10Z
+    webUrl: "https://www.ibm.com/blog/how-to-improve-your-finance-operations-efficiency-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to streamline and enhance critical F&A functions with generative AI"
+    excerpt: "Imagine the future of Finance and Accounting (F&#38;A). In this future, your F&#38;A function is cutting edge.&#160; Perhaps you are using a next-gen Enterprise Resource Planning (ERP) system and an unmatched F&#38;A planning platform that delivers advanced predictive analytics. You may have also deployed"
+    publishedDateTime: 2023-06-23T19:46:56Z
+    webUrl: "https://www.ibm.com/blog/how-to-streamline-and-enhance-critical-fa-functions-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "AWS launches $100M program to fund generative AI initiatives"
-    excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ..."
-    publishedDateTime: 2023-06-22T18:58:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
+  - title: "Generative AI in PR and Marketing: 3 Core Issues"
+    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
+    publishedDateTime: 2023-06-21T20:04:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
+        width: 1400
+        height: 707
         isCached: true
-  - title: "AWS is investing $100 million in generative A.I. center in race to keep up with Microsoft and Google"
-    excerpt: "\"The point is, you're three steps in, and it's a 10K race,\" AWS CEO Adam Selipsky told CNBC. Amazon's cloud unit said Thursday that it's allocating $100 million for a center to help companies use generative artificial intelligence, the technology that's ..."
-    publishedDateTime: 2023-06-22T16:30:00Z
-    webUrl: "https://www.cnbc.com/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/22/aws-invests-100-million-in-generative-ai-as-it-sees-a-long-race-ahead.html"
+  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
+    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
+    publishedDateTime: 2023-06-19T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1687451401"
-        width: 4000
-        height: 2667
+      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AWS invests $100 million to help customers succeed with generative AI"
-    excerpt: "Learn More AWS announced it will invest $100 million in a new program that connects AWS machine learning and artificial intelligence (AI) experts with enterprise customers and partners worldwide to speed up generative AI innovation, deployment and success."
-    publishedDateTime: 2023-06-22T16:30:00Z
-    webUrl: "https://venturebeat.com/ai/aws-invests-100-million-to-help-customers-succeed-with-gen-ai/"
+  - title: "Financial and legal professionals see the value in generative AI, according to a study"
+    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
+    publishedDateTime: 2023-06-21T21:06:00Z
+    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI voice-generating platform that shocked the world is getting an update to fight abuse"
+    excerpt: "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?"
+    publishedDateTime: 2023-06-20T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-22T085557.027.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
-    publishedDateTime: 2023-06-20T13:56:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+  - title: "Navigating the future and ethics of Generative AI"
+    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
+    publishedDateTime: 2023-06-22T07:19:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
-        width: 1200
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
+        width: 900
         height: 600
         isCached: true
-  - title: "HPE takes on AWS, MS, Google in AI cloud market"
-    excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
-    publishedDateTime: 2023-06-21T09:01:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero3MZ346xqQb6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AWS weighs in on the potential of AI to fight wildfires"
-    excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."
-    publishedDateTime: 2023-06-22T16:44:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896"
-    ampWebUrl: "https://www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/540896?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-1282580269.jpg"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "AWS invests $100 mn to help customers build generative AI solutions"
-    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879"
-    ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 74
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
-    excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
-    publishedDateTime: 2023-06-23T07:28:00Z
-    webUrl: "https://www.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    ampWebUrl: "https://amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 73
-    images:
-      - url: "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg"
-        width: 1125
-        height: 750
-        isCached: true
-  - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-22T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
-    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
-    publishedDateTime: 2023-06-23T13:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-805564?width=600"
-        width: 600
-        height: 800
-        isCached: true
-  - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
-    excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
-    publishedDateTime: 2023-06-22T01:35:00Z
-    webUrl: "https://siliconangle.com/2023/06/21/accenture-collaborate-aws-microsoft-google-generative-ai-technologies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 64
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/accenture.png"
-        width: 1600
-        height: 896
-        isCached: true
-  - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
-    excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
-    publishedDateTime: 2023-06-22T18:26:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5?mod=mw_RHF"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "AWS pledges $100M to launch generative AI innovation center"
-    excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
-    publishedDateTime: 2023-06-22T20:47:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-generative-AI-center/653726/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
-    images:
-      - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
-    excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
-    publishedDateTime: 2023-06-22T20:03:00Z
-    webUrl: "https://www.unite.ai/amazons-aws-invests-100-million-in-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/aws-header_tvMEUF2.width-800.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AWS Announces $100M Investment in Generative AI"
-    excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
-    publishedDateTime: 2023-06-23T07:59:00Z
-    webUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 54
   - title: "AWS Announces Generative AI Innovation Center"
     excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
     publishedDateTime: 2023-06-23T10:20:00Z
@@ -273,164 +174,58 @@ related:
         width: 650
         height: 434
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Centre"
-    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
-    publishedDateTime: 2023-06-23T11:13:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AWS deviates slightly from cloud, sets sight on AI"
-    excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
-    publishedDateTime: 2023-06-23T10:03:00Z
-    webUrl: "https://htxt.co.za/2023/06/23/aws-deviates-slightly-from-cloud-sets-sight-on-ai/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 54
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/06/AWS-ChatGPT.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AWS Investing $100M in Generative AI Center"
-    excerpt: "Amazon Web Services today announced the AWS Generative AI Innovation Center, in which the company is investing $100 million to help customers build genAI solutions. Customers will work with generative AI strategists,"
-    publishedDateTime: 2023-06-22T20:36:00Z
-    webUrl: "https://insidehpc.com/2023/06/aws-investing-100m-in-generative-ai-center/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
-    excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
-    publishedDateTime: 2023-06-23T16:36:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/aws-invests-100-million-in-new-generative-ai-innovation-center-news-8748"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 54
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AWS invests $100M in new Generative AI Innovation Center"
-    excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
-    publishedDateTime: 2023-06-23T10:14:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108014/aws-invests-100m-in-new-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/AI-spraak.jpg"
-        width: 1000
-        height: 594
-        isCached: true
-  - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-22T19:44:00Z
-    webUrl: "https://insidebigdata.com/2023/06/22/aws-announces-generative-ai-innovation-center-with-100-million-investment/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 52
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Old Mutual closes data centers and moves to AWS"
-    excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
-    publishedDateTime: 2023-06-22T11:23:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/old-mutual-closes-data-centers-and-moves-to-aws/"
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."
-    publishedDateTime: 2023-06-23T01:05:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/22/amazon-is-spending-100-million-to-teach-cloud-cust/"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
+    publishedDateTime: 2023-06-19T12:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/B5UxYNbrnMprdCPmokm4DWurUZY=/1200x630/smart/media.spokesman.com/photos/2023/06/22/6494e22b7058e.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon is spending $100m to teach cloud customers about AI"
-    excerpt: "Amazon has denied its generative AI tools were rushed or incomplete and said the technology is ready for customers to test and provide feedback."
-    publishedDateTime: 2023-06-23T05:20:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/amazon-is-spending-100m-to-teach-cloud-customers-about-ai/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "3 downsides of generative AI for cloud operations"
+    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
+    publishedDateTime: 2023-06-20T09:35:00Z
+    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
     type: article
     provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/06/399523647-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How To Invest In Artificial Intelligence in 2023"
-    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
-    publishedDateTime: 2023-06-22T00:08:00Z
-    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon launches $100M generative AI center, targeting healthcare"
-    excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
-    publishedDateTime: 2023-06-22T18:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/amazon-launches-100m-generative-ai-center-targeting-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "AWS invests $100 million in generative AI development"
-    excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
-    publishedDateTime: 2023-06-23T09:23:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-invests-100-million-in-generative-ai-development"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
     publishedDateTime: 2023-06-22T18:56:00Z
@@ -440,33 +235,24 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 34
-  - title: "AWS weighs in on the potential of AI to fight wildfires"
-    excerpt: "Canada is currently facing its worst wildfire season in recent memory, with blazes burning in nearly all provinces and territories. Last week, we saw the air quality index in Ontario swell to unprecedented levels,"
-    publishedDateTime: 2023-06-23T12:58:00Z
-    webUrl: "https://www.itbusiness.ca/news/aws-weighs-in-on-the-potential-of-ai-to-fight-wildfires/125382"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 34
-  - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-21T08:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 19
-  - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-22T19:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32974414/amazon-will-be-prominent-player-in-ai-josh-brown-says-as-aws-launches-generative-ai-inno"
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 17
+    quality: 27
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "dgXS82e4aQY5hnUGo03lS1OqK7uDUE+Lhwh9P6bkk5zvWhJ14opnASVN+kf6SWAiB94L6tzUxxJIhWFCdHWSWs/ElBX6PIW09mkIjMWJEdbFtSB6EgUaEqGggd4sR8bLiRJMOUYq5iwTPVlfiuNczzJEmB6cORZ/KsybZBR44qq4e4RZhVwoNB941WxHZ2ujXamRBl23Q+jt0Vqqn3Kn4NPyvL+NbQeDuUZ6/SstUW9CATI/dL44NpYFSTZ3C+nXItxfNDVqh7frDBKKKDl2s58BYUK5DFAdLkzALocYHkuZJvl0UcU5GHlYcBhEK6M52nAbvbvxKaq0r2JlMbal+TohnCQ11P/O97RrBniTGso=;Au8/gGnDN1oYU+FyZG50OQ=="
 ---

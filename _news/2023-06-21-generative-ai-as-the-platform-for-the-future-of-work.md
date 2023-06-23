@@ -76,20 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
-    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
-    publishedDateTime: 2023-06-22T23:47:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -106,29 +92,6 @@ related:
         width: 650
         height: 401
         isCached: true
-  - title: "Navigating the future and ethics of Generative AI"
-    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
-    publishedDateTime: 2023-06-22T07:19:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 54
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "3 downsides of generative AI for cloud operations"
-    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
-    publishedDateTime: 2023-06-20T09:35:00Z
-    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
 
 secured: "3+EHN+/JFfzXNhP552K3AHEQUICFto6+cFLFtD+6sWnbw4l2mFtSJIO/3SYsdhC4xY4BN9FtsKUEabTCugi1aGmfcpa2rsAxm4BDfTEMd6sPgLu16/pZr5ruy0ov+Ik+WQ86SqswLuOa0fQOfj0CyMd4cETj+D+vNe+MPMty25oJMri5nUhrCxFiyiTb4kh3lolgG9LMN+6Wl1fpBbTmPelm07vVSzywWRDdYJJKkfYI8uPafYC0IcRAeUjPns3B2xtKVlqNKfT0Zav/poQIQlkbBrlJ1R7HOEQMGtcAjHoDEAteCsFJgyKifWGTCg5Hpl+FFoQe2d9sPA6uwcOzC+z0hOv7dpGUsVPuX3/+Q9U=;sJP4jsii4YiSdc8xAP9A8w=="
 ---

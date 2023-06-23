@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/googles-duet-ai-can-generate-custom-tem
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

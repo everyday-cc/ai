@@ -42,22 +42,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Top 5 Cars Already Using AI That Transforms Your Driving Experience"
-    excerpt: "Artificial Intelligence (AI) has become a driving force in modern technology, and now it is making its mark in the automotive industry. These fives cars are the perfect example., Features News, Times"
-    publishedDateTime: 2023-06-19T04:52:00Z
-    webUrl: "https://www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406"
-    ampWebUrl: "https://www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/features/top-5-cars-already-using-ai-that-transforms-your-driving-experience-article-101096406/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-101096406,updatedat-1687150333757,width-1280,height-720,resizemode-75/101096406.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Genesys Xperience 2023: Unlocking Customer and Employee Loyalty with AI-Powered Experience Orchestration"
     excerpt: "Genesys unveils expanded relationship with AWS and new Genesys Cloud CX innovations focused on generative AI, work automation and task routing"
     publishedDateTime: 2023-06-20T16:14:00Z

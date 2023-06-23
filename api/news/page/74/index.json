@@ -2,6 +2,444 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-05-06-ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause.md",
+      "title": "AI Image Creator Midjourney Reopens Free Trials After Month-Long Pause",
+      "excerpt": "Midjourney, an enormously popular AI tool for creating photo-realistic images with text prompts, halted free trials at the end of March. But the company is opening up free trials again through the end of the weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6455adcd61c63272dae31896/0x0.jpg?format=jpg&width=1200",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/05/05/ai-image-creator-midjourney-reopens-free-trials-after-month-long-pause/amp/",
+      "publishedDateTime": "2023-05-05T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.A Meta spokesperson confirmed the hirings in response to a request for comment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "originalUrl": "https://www.channelnewsasia.com/business/meta-platforms-scoops-ai-networking-chip-team-graphcore-3468007",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--9HumNy0t--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-05t133156z_1_lynxmpej440h9_rtroptp_3_meta-platforms-ai.jpg?itok=k0W4eQWc",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-how-artificial-intelligence-could-fundamentally-change-certain-types-of-work.md",
+      "title": "How artificial intelligence could fundamentally change certain types of work",
+      "excerpt": "A report released in March found that AI services could automate as many as 300 million fulltime jobs worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "originalUrl": "https://www.cbsnews.com/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/06/a3ed2e4c-256d-4d01-9c3a-65e06d542d99/thumbnail/1200x630/a4fae228ea819b28b491968bc3769e43/0505-chen1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/artificial-intelligence-chatgpt-threatens-changes-jobs-work/",
+      "publishedDateTime": "2023-05-05T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music.md",
+      "title": "Amazon's Latest AI Acquisition Is for Podcasts on Amazon Music",
+      "excerpt": "Amazon's latest AI push could be geared toward making it easier to find information and highlights in podcasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "originalUrl": "https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0333df1565ee87dfebf36024b2a3e8b2ad5aa917/hub/2022/04/28/6d9834c6-9c0b-449a-a555-ea81f04c9fc3/amazon-music.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/",
+      "publishedDateTime": "2023-05-05T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-how-youtube-became-a-force-for-free-speech-in-south-korea.md",
+      "title": "How YouTube became a force for free speech in South Korea",
+      "excerpt": "YouTube's most watched daily live program in South Korea might surprise you. It is not about K-pop, it is not a K-drama, and has nothing to do with BlackPink.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230316102327-01-south-korea-youtube-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/05/media/south-korea-youtube-influence-politics-intl-hnk-dst/index.html",
+      "publishedDateTime": "2023-05-05T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-president-biden-meets-with-ai-ceos-at-the-white-house-amid-ethical-criticism.md",
+      "title": "President Biden meets with AI CEOs at the White House amid ethical criticism",
+      "excerpt": "On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1252673513-800x533.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/amp/",
+      "publishedDateTime": "2023-05-05T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-its-generative-ai-models-vs-hackers-at-def-cons-ai-village.md",
+      "title": "It’s generative AI models vs. hackers at DEF CON’s AI Village",
+      "excerpt": "This year’s DEF CON 31 security conference, being held August 10–13, will feature a public assessment of generative AI at the AI Village.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/",
+      "originalUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/VB_hackers_hackathon_bing_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-generative-ai-models-vs-hackers-at-def-cons-ai-village/amp/",
+      "publishedDateTime": "2023-05-05T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-what-are-apples-plans-for-generative-ai-tim-cook-wants-to-be-thoughtful.md",
+      "title": "What are Apple’s plans for generative AI? Tim Cook wants to be ‘thoughtful’",
+      "excerpt": "Apple CEO Tim Cook didn't talk specifics, but noted the company will continue to include generative AI and AI overall in its products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
+      "originalUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/static.reuters.com_-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/apple-plans-generative-ai-tim-cook-wants-to-be-thoughtful/amp/",
+      "publishedDateTime": "2023-05-05T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.md",
+      "title": "Artificial intelligence helping detect early signs of breast cancer in some US hospitals",
+      "excerpt": "Some doctors believe artificial intelligence is saving lives after ... less chemotherapy, less radiation therapy,\" she continued. \"I think we're entering into a whole new era in breast care.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "originalUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/05/932/470/breast-xray-GettyImages-1238822565.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/artificial-intelligence-helping-detect-early-signs-of-breast-cancer-in-some-us-hospitals.amp",
+      "publishedDateTime": "2023-05-05T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-navan-is-leveraging-generative-ai-to-help-companies-cut-costs.md",
       "title": "Navan Is Leveraging Generative AI To Help Companies Cut Costs",
       "excerpt": "The travel and expense management solution has expanded the capabilities of its AI-driven virtual assistant, Ava, to optimize travel and expense management for businesses.",
@@ -769,453 +1207,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
-      "title": "The best movies on Amazon Prime Video (May 2023)",
-      "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/a-beautiful-mind-hulu.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-how-driverless-trucks-got-drivers-licenses-in-kansas-commentary.md",
-      "title": "How driverless trucks got drivers’ licenses in Kansas | Commentary",
-      "excerpt": "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
-      "originalUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kansas.com/opinion/guest-commentary/article274749491.html",
-      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/guest-commentary/article274749491.html",
-      "publishedDateTime": "2023-05-05T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wichita Eagle",
-        "domain": "kansas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-writing-is-the-opposite-of-thought-leadership.md",
-      "title": "AI Writing Is The Opposite Of Thought Leadership",
-      "excerpt": "If you're reading any of these articles on AI (or any of the thousands of posts per day on Reddit and other lower-brow places where even more AI discussion takes place), you might",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
-      "originalUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6454e9dad1607eda429c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shanesnow/2023/05/05/ai-writing-is-the-opposite-of-thought-leadership/amp/",
-      "publishedDateTime": "2023-05-05T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-for-business-leaders-especially-skeptics.md",
-      "title": "AI For Business Leaders, Especially Skeptics",
-      "excerpt": "Business leaders can take these easy steps to help their companies start benefitting from artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
-      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6454183c7b29c94c47eabd28/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/05/05/ai-for-business-leaders-especially-skeptics/amp/",
-      "publishedDateTime": "2023-05-05T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics.md",
-      "title": "Elon Musk Stirs Debate On Claims That AI Will Enable You To Live Forever, An Immortal Question For AI Ethics",
-      "excerpt": "Elon Musk commented to Bill Maher about the ongoing controversy of whether advances in AI will lead to human longevity and the possibility of being able to live forever. Here is the insider analysis on that emerging hot topic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6452a5233fe6b06e18eabd27/0x0.jpg?format=jpg&crop=4000,2999,x333,y0,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/05/elon-musk-stirs-debate-on-claims-that-ai-will-enable-you-to-live-forever-an-immortal-question-for-ai-ethics/amp/",
-      "publishedDateTime": "2023-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe.md",
-      "title": "Generative AI brings new risks to everyone. Here's how you can stay safe",
-      "excerpt": "Organizations have to figure out the potential implications of tapping generative artificial intelligence tools, such as ChatGPT, while consumers should consider how they establish digital engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e95cabc4c470648090df91010140d6c22b66acce/2023/05/04/dc3b0530-d40e-4fef-954e-de348e4bf9db/gettyimages-1201055987.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-brings-new-risks-to-everyone-heres-how-you-can-stay-safe/",
-      "publishedDateTime": "2023-05-05T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ais-potential-and-perils-suddenly-become-real.md",
-      "title": "AI’s Potential and Perils Suddenly Become Real",
-      "excerpt": "When the US announced a raft of export controls targeting China last year, it signaled a dramatic escalation of the competition with Beijing over leading-edge technologies like artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-05-05/ai-s-potential-and-perils-suddenly-become-real",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-05-05/ai-s-potential-and-perils-suddenly-become-real",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq2DWNhRA8c8/v0/1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-inside-the-high-stakes-ai-powered-race-to-dethrone-google-search.md",
-      "title": "Inside The High-Stakes, AI-Powered Race To Dethrone Google Search",
-      "excerpt": "Artificial intelligence is “a bit like dropping a bomb right at the center of the information nexus,” said one startup founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "originalUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6452a4f02700001a006fb6ef.jpg?cache=gLMM3kdUI0&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-google-search_n_6452a48ee4b0fbfe50a095d0/amp",
-      "publishedDateTime": "2023-05-05T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-face-recognition-device-market-share-and-size-2023-2031-overview.md",
-      "title": "Face Recognition Device Market Share and Size: 2023-2031 Overview",
-      "excerpt": "Face Recognition Device market report gives informative data on current and innovative growth segments on industry with market size, share, trends and future scope of top manufacturers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-share-and-size-2023-2031-overview-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-share-and-size-2023-2031-overview-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

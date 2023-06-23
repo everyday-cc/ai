@@ -154,6 +154,15 @@ related:
       name: Firehouse
       domain: firehouse.com
     quality: 4
+  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
+    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
+    publishedDateTime: 2023-06-23T18:07:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "wcAtvJ3g7VOTXXHJKHzqM6l8+mwZg/PY1OT6OaqytvkgzhCZMF2c5Or0kKf7zteShKojaNa/9Ghr382jcQFYItpD8YWdBVOAN9wlrO1K8WJxCMlRnZu7cySVmJrLa5Yf3BDvTptjd/rdwiv4A4jke5EyF+oMZXyjuwDXuSSPsNQnAFVseAwimASdRJTFcqYFexW6khhjiU/2ZXEEhw0hsZ13ucjHkVvY+Su46vetZ9xnjK2SPhKI2A9OZTBI9cxB9F3Mc1+EGtjji93bXnecvSYUWeAH31z4pJ9JR/RkvEJZJmwlDKW9YOfwvxWDnUzvlJ8CMZqOviZ8WSpN4IAT2jhmnxwNauZRS0iEAaihBSA=;pFYMY8n+xIC3rnHzZllEWg=="
 ---

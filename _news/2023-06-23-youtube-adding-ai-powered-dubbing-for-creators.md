@@ -45,6 +45,20 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
+        width: 1000
+        height: 744
+        isCached: true
+  - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
+    excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."
+    publishedDateTime: 2023-06-23T19:13:00Z
+    webUrl: "https://www.techradar.com/computing/software/youtube-video-translation-is-getting-an-ai-powered-dubbing-tool-upgrade"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
     quality: 49
   - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
     excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."

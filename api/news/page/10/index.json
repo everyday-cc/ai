@@ -2,6 +2,342 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-16-how-can-ai-and-machine-learning-improve-the-use-of-financial-data.md",
+      "title": "How can AI and machine learning improve the use of financial data",
+      "excerpt": "How can AI and machine learning improve the use of financial data Businesses gather vast amounts of data every day. Yet between 60 and 73% of that data goes unused, according to Forrester. As a result,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-can-ai-and-machine-learning-improve-the-use-of-financial-data/amp/",
+      "publishedDateTime": "2023-06-15T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation.md",
+      "title": "Build a multilingual automatic translation pipeline with Amazon Translate Active Custom Translation",
+      "excerpt": "Dive into Deep Learning (D2L.ai) is an open-source textbook that makes deep learning accessible to everyone. It features interactive Jupyter notebooks with self-contained code in PyTorch, JAX, TensorFlow, and MXNet, as well as real-world examples, exposition figures, and math. So far, D2L has been adopted",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multilingual-automatic-translation-pipeline-with-amazon-translate-active-custom-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/15/multilingual-translation-pipeline.jpg",
+          "width": 1017,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T09:49:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem.md",
+      "title": "AI Startups Have Tons of Cash, but Not Enough Data. That’s a Problem.",
+      "excerpt": "Big companies aren’t so willing to share proprietary data with startups looking to power their large-language models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
+      "originalUrl": "https://www.wsj.com/articles/ai-startups-have-tons-of-cash-but-not-enough-data-thats-a-problem-d69de120?tpl=venturecapital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-801076/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-prompting-progress-well-all-speak-ai-in-the-future-workforce.md",
+      "title": "Prompting Progress: We'll All Speak AI In The Future Workforce",
+      "excerpt": "In the future, prompt engineering may become less of a distinct profession and more of a critical skillset that all knowledge workers will need to master.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/06/15/prompting-progress-well-all-speak-ai-in-the-future-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/06/15/prompting-progress-well-all-speak-ai-in-the-future-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b31892da2756dee7d5722/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/06/15/prompting-progress-well-all-speak-ai-in-the-future-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/06/15/prompting-progress-well-all-speak-ai-in-the-future-workforce/amp/",
+      "publishedDateTime": "2023-06-15T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-artificial-intelligence-in-the-securities-industry.md",
+      "title": "Artificial intelligence in the securities industry",
+      "excerpt": "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/artificial-intelligence-securities-industry-2023-06-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
+      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
+      "excerpt": "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-dremio-bets-on-generative-ai-adds-new-tools-to-accelerate-data-workflows.md",
+      "title": "Dremio bets on generative AI, adds new tools to accelerate data workflows",
+      "excerpt": "Dremio has announced new generative AI tools for its data lakehouse, including a new text-to-SQL editor for conversational querying of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/dremio-bets-on-generative-ai-adds-tools-to-accelerate-data-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_the_silhouette_of_a_narwhal_poking_its_long_straight_sl_d23d2087-c4ed-4704-99d7-43f6ddfecd52.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-artificial-intelligence-robotics-market-share-and-forecast-till-2030.md",
       "title": "Artificial Intelligence Robotics Market Share and Forecast till 2030",
       "excerpt": "The Main Objective of The Artificial Intelligence Robotics Market Is to Develop the Perspectives of Business Professionals and Offer Valuable Insights into Business-Related Information, Qualitative Research and Ideas,",
@@ -851,346 +1187,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation.md",
-      "title": "AI Takes Center Stage In Tech Development, But Enterprises Still Require A Digital Foundation",
-      "excerpt": "How can technology leaders best leverage AI to benefit their companies and their customers? We've focused on a few areas that all technology leaders could benefit from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64492aaf47015e74f7f3312b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/ai-takes-center-stage-in-tech-development-but-enterprises-still-require-a-digital-foundation/amp/",
-      "publishedDateTime": "2023-06-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
-      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
-      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "publishedDateTime": "2023-06-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-tesla-rival-xpeng-rolls-out-self-driving-tech-in-beijing-the-stock-is-rising.md",
-      "title": "Tesla Rival XPeng Rolls Out Self-Driving Tech in Beijing. The Stock Is Rising.",
-      "excerpt": "It’s the first company to roll out an advanced driver-assistance system (ADAS) in Beijing, after it was approved for use on major ring roads and expressways in the capital city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
-      "originalUrl": "https://www.barrons.com/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-417792/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-rival-xpeng-stock-self-driving-tech-beijing-f88945dc",
-      "publishedDateTime": "2023-06-15T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-draft-ai-act-passes-banning-police-facial-recognition.md",
-      "title": "Draft AI Act Passes, Banning Police Facial Recognition",
-      "excerpt": "The European Parliament has passed the first draft of the AI Act, paving the way for a ban on police use of live facial recognition technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648ad1e37f2b8f29459b8891/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/06/15/draft-ai-act-passes-banning-police-facial-recognition/amp/",
-      "publishedDateTime": "2023-06-15T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-when-ai-overrules-the-nurses-caring-for-you.md",
-      "title": "When AI Overrules the Nurses Caring for You",
-      "excerpt": "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
-      "originalUrl": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-799675/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-cambodian-facial-recognition-effort-raises-fears-of-misuse.md",
-      "title": "Cambodian Facial Recognition Effort Raises Fears of Misuse",
-      "excerpt": "The order, signed by Prime Minister Hun Sen and released in March in a recent tranche of government documents, would award the funds to HSC Co. Ltd., a Cambodian company led by tycoon Sok Hong that has previously printed Cambodian passports and installed CCTV cameras in Phnom Penh, Cambodia’s capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "originalUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/C19AFD84-F6C5-43D8-A79C-876DC943775B_w1080_h608_s.png",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
-      "publishedDateTime": "2023-06-15T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse.md",
-      "title": "Mailchimp leverages AI to transform into an omnichannel marketing powerhouse",
-      "excerpt": "Mailchimp has announced plans to harness the power of artificial intelligence (AI) to expand its offerings of marketing automation solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
-      "originalUrl": "https://venturebeat.com/ai/mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Mailchimp-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech-Stock Boom Pits AI Against the Fed"
-    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
-    publishedDateTime: 2023-06-19T05:00:00Z
-    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-802215/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Best AI Apps to Try Now"
     excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -55,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
-    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
-    publishedDateTime: 2023-06-21T17:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
     publishedDateTime: 2023-06-21T11:06:00Z

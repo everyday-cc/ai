@@ -2,6 +2,309 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
+      "title": "Review: Hover Camera X1 is the ideal drone for most people",
+      "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "originalUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1eaa4d9/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F47493fc0428495004ed61c14cd29%2Fimg-4919.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "publishedDateTime": "2023-06-23T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus.md",
+      "title": "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus",
+      "excerpt": "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
+      "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
+      "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/serverless-ml-inference-endpoint.jpg",
+          "width": 1022,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:27:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-stunningmidjourney-update-wows-ai-artists-with-camera-like-feature.md",
+      "title": "“Stunning”—Midjourney update wows AI artists with camera-like feature",
+      "excerpt": "Similar to outpainting—an AI imagery technique introduced by OpenAI's DALL-E 2 in August 2022—Midjourney's zoom-out feature can take an existing AI-generated image and expand",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/midjourney_zoomout_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
+      "publishedDateTime": "2023-06-23T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook.md",
+      "title": "AI-Generated Images of Titan Submersible Debris Hit Twitter, Facebook",
+      "excerpt": "With no official photos of the Titan wreckage released, unscrupulous Twitter and Facebook accounts have stepped in with fake photos they created using AI image generators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
+      "originalUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00yBJ5oOeZpo96LWxQDToTG-6.fit_lim.size_1200x630.v1687549750.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-how-generative-ai-can-help-finance-and-accounting-professionals.md",
+      "title": "How generative AI can help finance and accounting professionals",
+      "excerpt": "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
+      "originalUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T12:46:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
       "title": "Kent County enlists AI-powered robots to better sort recyclables",
       "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
@@ -53,7 +356,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -192,6 +495,59 @@
       ]
     },
     {
+      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
+      "title": "AI: Investment Value at Every Link of the Value Chain",
+      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
       "title": "The Generative AI Investment Sprints For Supremacy",
       "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
@@ -251,7 +607,7 @@
       "originalUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -407,7 +763,7 @@
       "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -892,360 +1248,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-how-regulating-ai-could-empower-bad-actors.md",
-      "title": "How Regulating AI Could Empower Bad Actors",
-      "excerpt": "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
-      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6494260aedc6b2a6518f46c2/0x0.jpg?format=jpg&crop=2533,1426,x0,y262,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/",
-      "publishedDateTime": "2023-06-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-ai-threatens-many-jobs-but-workers-still-plan-to-quit.md",
-      "title": "AI Threatens Many Jobs, But Workers Still Plan to Quit",
-      "excerpt": "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast.md",
-      "title": "SmartCard Marketing Systems, Inc. AI Runway and New Channel Partners with the Stock Day Podcast",
-      "excerpt": "\"SmartCard specializes in FinTech and FinTech applications; we develop platforms-as-a-service, including commerce strategies for banks and enterprises,\" explained Barone. \"What is the current AI runway for SmartCard?\", asked Davis. \"About a year and a half ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32973241",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32973241",
-      "publishedDateTime": "2023-06-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
-      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
-      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "publishedDateTime": "2023-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-top-five-real-risks-of-ai-to-your-business.md",
-      "title": "The Top Five Real Risks Of AI to Your Business",
-      "excerpt": "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/",
-      "publishedDateTime": "2023-06-22T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.md",
-      "title": "MongoDB adds vector search to Atlas database to help build AI apps",
-      "excerpt": "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "originalUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "publishedDateTime": "2023-06-22T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-amazoncom-to-invest-100-million-in-new-aws-ai-center.md",
-      "title": "Amazon.com to Invest $100 Million in New AWS AI Center",
-      "excerpt": "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 434,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
-      "publishedDateTime": "2023-06-22T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

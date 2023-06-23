@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-24-do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus.md",
+      "title": "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus",
+      "excerpt": "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-googles-duet-ai-can-generate-custom-templates-in-sheets.md",
       "title": "Google's Duet AI can generate custom templates in Sheets",
       "excerpt": "Google has been quickly expanding the AI's toolset since it announced Duet for Workspace at its I/O conference last month. When testers enter a prompt in the web version of Docs, Duet can generate text for them.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -254,7 +306,7 @@
       "originalUrl": "https://www.barrons.com/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -275,49 +327,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amd-promises-an-ai-chip-power-shift.md",
-      "title": "AMD Promises An AI Chip Power Shift",
-      "excerpt": "For example, AI developers preferred Nvidia chips due to a well-developed software package CUDA that enabled them to access the chip’s core hardware features. But AMD revealed on Tuesday it made its own software for its AI chips, ROCm. If developers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "originalUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/motherboard-closeup-technology-integrated-microchip-circuit-board-computer-processor-with-neon-light_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32924098",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098",
-      "publishedDateTime": "2023-06-20T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -541,7 +550,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {

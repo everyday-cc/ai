@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Lockheed, Xaba Test Cognitive Autonomous Robots for Airframe Manufacturing"
+    excerpt: "TORONTO—Lockheed Martin recently completed a project to evaluate the automation of airframe manufacturing operations using six-axis robots equipped with artificial intelligence technology from Canadian tech startup Xaba."
+    publishedDateTime: 2023-06-23T18:23:00Z
+    webUrl: "https://www.assemblymag.com/articles/97867-lockheed-xaba-test-cognitive-autonomous-robots-for-airframe-manufacturing"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 32
 
 secured: "3TYxxtoQEReXgO3SESlqN+WPehmnT7/ffi0gACK+CqfFaUBthMAaY6GV+JqaB67I/sJ8fYA1OlpHe8+9g/7in0r8OsNEjqWEpjI06whAG0L1hpXvfSXa7EuvYTC5qCQpRGKZChUTQgdjbn7ljjesumcg7GCp5915I49v3YaOBwTA8YtRmFdtsSXlj6w39fikxDYQKlC1GkjztqHsx650BaiJCdXKIcMfTAQUO9NHmYWAVLGnn5Tfm84cbYH/qR/F8jbchJbMv7aOpOaMSjmcLZXFS9ZgdOZTXzeu3yXtKEg6LyX/kBbQBF267Om1VYj6WvBsATRTDaMSDyqmKgqJ3PZbZ8Ui/wnCGLADBJHhfvo=;gaLtshVQHGbaNmqEg6RQcw=="
 ---

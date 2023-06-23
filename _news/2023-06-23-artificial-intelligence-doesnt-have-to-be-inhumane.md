@@ -47,6 +47,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
+    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
+    publishedDateTime: 2023-06-23T18:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "How could AI destroy humanity?"
     excerpt: "Researchers and industry leaders have warned that artificial intelligence could pose an existential risk to humanity. But they’ve been light on the details."
     publishedDateTime: 2023-06-19T13:00:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
+      "title": "AI: Investment Value at Every Link of the Value Chain",
+      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.md",
       "title": "MongoDB adds vector search to Atlas database to help build AI apps",
       "excerpt": "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform.",
@@ -1012,7 +1065,7 @@
     {
       "path": "_news/2023-06-09-cognitive-computing-market-revenue-is-expected-to-increase-by-usd-2395-billion-by-2032-says-acumen-research-and-consulting.md",
       "title": "Cognitive Computing Market Revenue Is Expected To Increase By USD 239.5 Billion By 2032 Says Acumen Research And Consulting",
-      "excerpt": "Global Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032, with a 23.2% CAGR from 2023 to 2032 North America region led with more than 39% of cognitive computing market share in 2022 Asia-Pacific cognitive computing market growth will record a CAGR of more than 25% from 2023 to 2032 According to a study conducted by Accenture,",
+      "excerpt": "Global Cognitive Computing Market revenue is expected to increase by USD 239.5 Billion by 2032, with a 23.2% CAGR from 2023 to 2032 North America region led with more than 39% of cognitive computing market share in 2022",
       "sourceUrl": null,
       "webUrl": "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting",
       "originalUrl": "https://menafn.com/1106415115/Cognitive-Computing-Market-Revenue-Is-Expected-To-Increase-By-USD-2395-Billion-By-2032-Says-Acumen-Research-And-Consulting",
@@ -1022,8 +1075,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?389254",
-          "width": 307,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?913656",
+          "width": 330,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1460,58 +1513,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so.md",
-      "title": "Should AI come to your doctor's office? OpenAI's co-founder thinks so",
-      "excerpt": "This healthcare provider is trying out AI-assisted 'hands-free charting' to generate notes and visit summaries -- with impressive results, at least in time savings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
-      "originalUrl": "https://www.zdnet.com/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ba1422fba425e7bcbbf9e17c84169ceab5f1d38d/2023/06/06/e77e9997-e41e-4d49-9348-fcef291cf247/gettyimages-1013435444.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-come-to-your-doctors-office-openais-co-founder-thinks-so/",
-      "publishedDateTime": "2023-06-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

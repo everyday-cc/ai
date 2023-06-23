@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How AI Could Reshape the Growth vs. Value Debate"
     excerpt: "History tells us value stocks beat growth stocks over the long run. Some analysts say that script could be changing. Value stocks trade at bargains relative to their underlying worth. Growth stocks trade at higher multiples since investors are betting on future profits."
     publishedDateTime: 2023-06-21T13:08:00Z

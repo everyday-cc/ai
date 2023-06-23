@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/jabil-introduces-next-gen-fami
 webUrl: "https://www.bakersfield.com/ap/news/jabil-introduces-next-gen-family-of-high-performance-low-latency-servers-optimized-for-fintech-cloud/article_baf6ae01-b5ec-57ab-949b-f16c3fc3cf9c.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Fintech Klarna Introduces Tools For Shopping Consciously, Focusing on Climate Action"
-    excerpt: "Klarna, the global payments network, unveiled tools enabling consumers to make more informed purchasing decisions and take action for the planet."
-    publishedDateTime: 2023-06-19T12:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208922-fintech-klarna-introduces-tools-for-shopping-consciously-focusing-on-climate-action/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "sPZdYjMzHUyazFU6mt48Bue3ZNr30wmsJOmyjOmDORED4ler8ZQJGz3IQoRcfVTLcFaEOr9AVUSOWA6XBo3oYi6gzqTMfvaMHZfrz8C9qjBCslgDeVtsbt96gXrnW64OOS4iQ32zq8uzkZtU5YYmrZH8ylAOf7W+HsT+LsUPX6fKRpj6VC4mP0lBGEJcQKc4qwZeHmcNHzTAh0stASGZMLq8OpcDjHnFESdmBytGzoJ6dlkgeVRbE3JGo1ibhA4q+Gq5mihx+r+6KTwMPqyHuRjyHuHbZLnZf5mFYIzr8Ov4BzESFKp+vonoC6NsCqQbuu90/5iYEPFKysXrGl2qyx0dSE/zVz1/bkk/JjMh13zyvlz89e701Wu+4fzga1nihsLwJ0kzGssv1r6Xn2YnvmcnZrXFAW+6rwWiTV2GCmEoyesDTsUawP5T87cX/c8kYNF/8k+QVitwOe00/n7e1r4EW1OwY06Iisqqon5MR2CfAox2djm76pBrdiXo0E/oC97Qv3B3qdVs5NKgdYtmbg==;l7swZYqXP8vIBZ9nDaaXgw=="
 ---

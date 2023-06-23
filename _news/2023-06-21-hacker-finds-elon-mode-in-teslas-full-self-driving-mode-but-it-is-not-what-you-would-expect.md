@@ -95,6 +95,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
+    excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
+    publishedDateTime: 2023-06-23T19:54:00Z
+    webUrl: "https://www.thestreet.com/automotive/watch-tesla-test-drivers-narrowly-avoid-scary-accident-in-full-self-driving-mode"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 14
 
 secured: "aGCveIo0MdrJlYjuGpZUUXP4AMrYlJPdBxVOEqPSfkqxaujUtni/tZnnuj3iUCZPQkQOHhLjAZjxV9uHKeqNLPxd9VlfUpBPy9RHS6PAHOYQyy+IxXT1O1wbJyRF42f+bQ8Ba12hOSWl4EmSw0EBCMceQb82VY2uiM+AIo7pqKHnIb54e6hAJIBDbPTfOm+sA/Sc25XfHCcjYNRli9kzMUy+yth+nXSKyMKFPqD1ZdRCZBGFDjoPfYb93sOs8kya3P4ENUWEReWXM7wMHoMbBOBvUS3jfGv2C94dJ/s7rV9/rU7yXMbMaVB28C9MMirzXPdcBG+cgNdACaKgQSPlGD+P0+KaW725PNKdUDvOmWQysYY6jkHWa7s+ZsEDT9tW3I6M8NzrzCGpRDSHIdGJ6rnWceAVFH6BGSHBTc1huE/56SbxdN7Isry3+64dUciFz9f2OqfgoGhqswN6bp1oI6LtjsZqCFRdUxRR13VoCQ7fvVxfwwDMalqgcSAcFVN5U8fcd3T2NGEqkQgVq1C01A==;SIbEJoqmIda3MnmnHOD0EA=="
 ---

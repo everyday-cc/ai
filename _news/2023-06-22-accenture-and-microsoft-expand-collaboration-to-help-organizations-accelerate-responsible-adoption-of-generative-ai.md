@@ -27,192 +27,232 @@ images:
     isCached: true
 
 related:
-  - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
-    excerpt: "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,"
-    publishedDateTime: 2023-06-22T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
+  - title: "How generative AI can help finance and accounting professionals"
+    excerpt: "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology"
+    publishedDateTime: 2023-06-23T19:46:52Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to improve your finance operation’s efficiency with generative AI"
+    excerpt: "While you may have learned about generative artificial intelligence (AI), you may not know what it means for the future of Finance and Accounting (F&#38;A). As the name suggests, it generates images, music, speech, code, video or text, while it interprets and manipulates preexisting data. For F&#38;A"
+    publishedDateTime: 2023-06-23T19:47:10Z
+    webUrl: "https://www.ibm.com/blog/how-to-improve-your-finance-operations-efficiency-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to streamline and enhance critical F&A functions with generative AI"
+    excerpt: "Imagine the future of Finance and Accounting (F&#38;A). In this future, your F&#38;A function is cutting edge.&#160; Perhaps you are using a next-gen Enterprise Resource Planning (ERP) system and an unmatched F&#38;A planning platform that delivers advanced predictive analytics. You may have also deployed"
+    publishedDateTime: 2023-06-23T19:46:56Z
+    webUrl: "https://www.ibm.com/blog/how-to-streamline-and-enhance-critical-fa-functions-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
-    publishedDateTime: 2023-06-21T17:23:00Z
-    webUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+  - title: "Generative AI in PR and Marketing: 3 Core Issues"
+    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
+    publishedDateTime: 2023-06-21T20:04:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg"
-        width: 1356
-        height: 668
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
+        width: 1400
+        height: 707
         isCached: true
-  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
-    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
-    publishedDateTime: 2023-06-21T10:12:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
+  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
+    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
+    publishedDateTime: 2023-06-19T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 70
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 765
+        height: 675
         isCached: true
-  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
-    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
-    publishedDateTime: 2023-06-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
+  - title: "Financial and legal professionals see the value in generative AI, according to a study"
+    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
+    publishedDateTime: 2023-06-21T21:06:00Z
+    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 60
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Satya Nadella Talks Microsoft and AI"
-    excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
-    publishedDateTime: 2023-06-22T03:00:00Z
-    webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
+  - title: "The AI voice-generating platform that shocked the world is getting an update to fight abuse"
+    excerpt: "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?"
+    publishedDateTime: 2023-06-20T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 58
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
     images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
-        width: 1066
+      - url: "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Navigating the future and ethics of Generative AI"
+    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
+    publishedDateTime: 2023-06-22T07:19:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 54
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
+        width: 900
         height: 600
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
-    publishedDateTime: 2023-06-20T16:18:00Z
-    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
+      name: Hart Energy
+      domain: hartenergy.com
     quality: 54
     images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
         isCached: true
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
-        isCached: true
-  - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
-    excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
-    publishedDateTime: 2023-06-21T10:09:00Z
-    webUrl: "https://www.techzine.eu/news/security/107857/serious-azure-active-directory-vulnerability-resolved/"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
+    publishedDateTime: 2023-06-19T12:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/shutterstock_1942305688-scaled.jpg"
-        width: 2560
-        height: 1324
-        isCached: true
-  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
-    publishedDateTime: 2023-06-21T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "3 downsides of generative AI for cloud operations"
+    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
+    publishedDateTime: 2023-06-20T09:35:00Z
+    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-  - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
-    excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
-    publishedDateTime: 2023-06-23T12:52:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-takes-aim-at-microsoft-azure-software-licensing-5-big-things-to-know"
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
-  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
-    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
-    publishedDateTime: 2023-06-21T12:13:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AWS Launches Generative AI Innovation Center"
+    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
+    publishedDateTime: 2023-06-22T18:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: TV Technology
+      domain: tvtechnology.com
     quality: 34
-  - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
-    excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
-    publishedDateTime: 2023-06-22T12:42:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202306224093/canadian-tire-looks-to-microsoft-cloud-ai-to-modernize-business"
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
     type: article
     provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 34
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 33
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T17:00:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 33
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "dR13PXOzhJj+Rmr1itGA1JfpEwVd0SxQ7m6l0gEMfQUzx4vNkVN+X9KnVrisrnBEFOZMLtaEVwCCQgDCSapM0eFMdUGymWMfbm6Ctc1q2TsEJ0XfwyuM2TIwufQDYhaVwDvx6asJxzq2drcm9+lfQVGcbph4hWzTxpf/XT7tRyoprKHqCT6zS/4khOr9TPvtYr6tqacTsVNr1XVYF90/ORDysVz0t+UTYxfWKKZL3fOEmjLuNoMJGLtjPZvyqcq01+i+JuqTEAgIl6EnXk2a3jCoSd7TkGqjiEBMeMOu2HPuJIyqWi8AX+DeQu3n7hqF+A1kU/6L0C0+Qng1O/z98PT8Qx64dVzEk+XMdSVCBzg=;1cJ1mPDhCBQChnBc7I+67w=="
 ---

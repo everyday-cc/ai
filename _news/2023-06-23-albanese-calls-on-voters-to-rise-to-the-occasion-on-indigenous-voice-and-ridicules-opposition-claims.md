@@ -47,6 +47,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Albanese will lose his Voice unless it changes tune"
+    excerpt: "Unless something dramatic changes, the referendum for an Indigenous Voice to parliament will fail. This is the stark evidence of the published opinion polls. And while different polling companies show different levels of approval in their latest results,"
+    publishedDateTime: 2023-06-23T17:30:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/albanese-will-lose-his-voice-unless-it-changes-tune-20230621-p5dick.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 4
 
 secured: "kTDTrggpvIGMa+vzxswDkYwiuWSekeQ5Yf2IxElMT82fHc/xsxNGz1j1iIDWb3vxqukUHM2EuX7kSXJIZbsDfjagOUnVozevsNl2S2QlhauqR+C+avBEaGcKxlhbJD1EdJXg7zH43WcxPERA9j2aB25nXKZwuztwWc8uEd6pKi8SXqMJLVdTI+kpZI6t8qaSQx4wIc9uwP0ND9JdQdhbotcz8nGlSIauNYaqyAfZFp7SJXt4MyXgEFHJfhuRmgk+T7PMamTmF+6mRmtVgulR2IYdgbCCjS0AN7SdHxDMIenbGkayqWJcDnvyXWH2gWTZVbUFj5XLLMmwvmvCePz2D11ubx9q9GLYTwfJjwsOvr6OtLyvshif0xD0OxEyGp/y4tjeLQEOOy1OHLavS+rCYwWqHM9BWuSR2Ux1DiMP9LoEJuSH4pZyLRBe/AJ+dkQtrfPUzdss1l65g2+7McHkyGT1kpNA53O5sZqI+P1aod4Ejf/fRqGHmkVOmsvOV8z7CNT+yfpKYuluGtj21oKezg==;psxYHst+5GyDV2FWkA0XVg=="
 ---

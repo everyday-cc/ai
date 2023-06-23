@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-bui
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/"
 type: article
 quality: 97
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 974
     height: 566
     isCached: true
+
+related:
+  - title: "InRule Makes Big Data More Accessible for Automation with Downsampling and Calibration in Machine Learning"
+    excerpt: "CHICAGO, June 22, 2023 — InRule Technology, an intelligence automation company providing integrated decisioning, machine learning and process automation software to the enterprise, announced that its suite of machine learning modeling engines now ..."
+    publishedDateTime: 2023-06-22T15:24:00Z
+    webUrl: "https://www.datanami.com/this-just-in/inrule-makes-big-data-more-accessible-for-automation-with-downsampling-and-calibration-in-machine-learning/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 1
 
 secured: "bW/TMeGYCwlmEU6pkGks34flf4KQl4OfdsNutnKD7y9KKAyAjaerHillEmIUKXx2sAbO2p4KQjPXNXXukJLwnJriMHSv7/pjIWFaQLo3Js3Dst/JtNfOWKYbUx8MzT1MnXNoC55QSp6Z940Z5gp/mu9MYo8Td0exRRdZeabieiSq/7kKJrZX6WX1mka3fCL6RXKfhrILUv2z1bx4TWLUTOxrILFM2Y0KsTuHtJwIfhlgxwjbfa9WxmziVYC3nMgUaUwx6Wh+pV6huRZtJ62Aox/Xx1JQv63FQwjUtpLbjzKcIWLiTjTA0AiSbamCQM2Lyjfc5CfsnEggfvByCs/nhoblCNwXkkarOEaemjz4EIM=;6TxYTKtXhRy02uqR+n/puA=="
 ---

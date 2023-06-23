@@ -38,15 +38,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Top Democrat urging swift action on artificial intelligence regulations"
     excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
     publishedDateTime: 2023-06-22T06:00:00Z

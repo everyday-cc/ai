@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/"
 type: article
 quality: 89
-heat: 159
+heat: 129
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
-    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
-    publishedDateTime: 2023-06-22T23:47:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "AT&T seeks staff benefits in generative AI"
     excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
     publishedDateTime: 2023-06-20T15:58:00Z
@@ -107,29 +93,6 @@ related:
         width: 650
         height: 401
         isCached: true
-  - title: "Navigating the future and ethics of Generative AI"
-    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
-    publishedDateTime: 2023-06-22T07:19:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 54
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "3 downsides of generative AI for cloud operations"
-    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
-    publishedDateTime: 2023-06-20T09:35:00Z
-    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
 
 secured: "czpZ/qcUX5V/c0OQxvaOR3d2EJ8FYXaAC22ems6zeg6FKAAa61nzlwlcOoefKu76BfNSshp31RhvsFIWeeZmEC5lzrA9E3cNdUOUfVM5qFVDWTnLHNJc6EiXZnt8Iviiz1RTYe/Bzn+0Y/MUV1wRlzVDLKjZ6eZlhN5Dj0XpYUQPAlqItqDE3EZCslMylJdqaC8q0aBbkjt2DiGSop902s2wai14hoFC0LK8q5DAQqJdCIAh1IKMQQ6qhGitYktKXXwySrFAzNvC5+OcUmg00+jbISJCjL3oT9hZ1/1uhOsZ5ptuAToQAI0CiUnwCOs6PtEBkpShcwZKlnMzGhhfmelY3RSVAruWD6aYX6P8uSK443PAepHiowICpou2USIs0o7y3hQbVRRhc59+ymK7/l3ZbT1fafDVoWWRciDHa/fuXKt1aZrA52MZik0B686N1ITNl610+srb+64FQ/xFoMZ00xdDCWP8bYphfVS4bRRPQ6QfXNQMjmkmwpVrU4NNTk2lkdLFSDpVu6UxBarm2w==;ixdoUsQDBZXTW0mdJugqXQ=="
 ---

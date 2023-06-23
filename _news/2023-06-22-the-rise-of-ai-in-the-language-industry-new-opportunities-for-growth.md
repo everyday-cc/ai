@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-la
 webUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI could transform the legal industry … for the better"
+    excerpt: "Can AI free the wrongfully convicted quicker and easier? These lawyers, and the company behind CoCounsel, think so."
+    publishedDateTime: 2023-06-23T21:32:00Z
+    webUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
+    ampWebUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 59
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1251982007-e1687541573224.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QjJOSa45UfKtTld7qmFKRuPKppSJePCgt7OFCbLKVYUEnuenHYf9A8L25W80cnCVgAZmCOTuWjd96a2gkHYMBy+rfFiU83jwZsDYLvWOykeSAQ7nzoiWNdk7/44Zjqgbp6U4y1ETILTPohIxqBn1Wz0JGR3iUqv9NJhEfyLnLYcSryIrskcv7HVXqr0AFrGuole0o3xyzOFRX/pXCMiwSsMngqfy3IgxgiOUdI1pE8W+t3QsjlB34h7dU9E25J1TOnB5W7kgV0Av0x9aVjCrl/+dmthTEVb+zBSJ6E5EKOJnsiGe9FiK0ejTX6E0/yNkMC0V15pJX2WUTy2cjYmzY8hWJkQrYdrtO1OBeZtYYVs=;MOt0YP5naK8iphwZK5YzHw=="
 ---

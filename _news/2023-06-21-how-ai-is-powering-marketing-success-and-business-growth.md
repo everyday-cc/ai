@@ -59,20 +59,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Generative AI in PR and Marketing: 3 Core Issues"
-    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
-    publishedDateTime: 2023-06-21T20:04:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
-        width: 1400
-        height: 707
-        isCached: true
 
 secured: "N3LYcqevSCi39Ekg0J9h3ppOK9hv29sp1BkHGOyDEvkdDuKxrP0MfITs/xGaLEy+QrGoeSEzYpzgdKMz0PWgtxDOKTy+Q9cj9AH8f2LjpE5qGheWJuImLppvk8v4/AqWNNn1BULoH5rL1qRESXq63F/qbmGjKuqGdtY8YTINyulpusB9H5BFyh1HlCxyip/UUK/hHmysR+QAUTLIImHdANB8wQigwUmKfVqWLBdSlxeo+l1cWhVx54MLGxxQlcsAg2wh/jG0/Uak9w9NcDGTG683Cnyp1sz3cHAg4EsuZa/GopwYdW44TKApiVVhIDBNt+UEv3ttCRMXtdLn86jTv4Zg2LeIw5JnT26gFxVZUg8smWOo8i23LWEmaEzekOkp4M31CCuyAHoPDbU/dZbVOYXNK5LnWF391HpWa9UusJFhdM8w1eUedS5Ez90S5wNXavbtNCic2rslTyTfZGBu/GMlb5zlFyQxvL0JGQo8deOJ5RqPDv0QaH2vHvV3pDd6wgNcajzuqVXgetKhW/TO4Q==;jk+vHJBM0bgtqjbOzck35w=="
 ---

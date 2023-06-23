@@ -19,116 +19,239 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI: The Next Frontier For Business Innovation"
-    excerpt: "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ..."
-    publishedDateTime: 2023-06-22T14:49:00Z
-    webUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
+  - title: "How generative AI can help finance and accounting professionals"
+    excerpt: "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology"
+    publishedDateTime: 2023-06-23T19:46:52Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to improve your finance operation’s efficiency with generative AI"
+    excerpt: "While you may have learned about generative artificial intelligence (AI), you may not know what it means for the future of Finance and Accounting (F&#38;A). As the name suggests, it generates images, music, speech, code, video or text, while it interprets and manipulates preexisting data. For F&#38;A"
+    publishedDateTime: 2023-06-23T19:47:10Z
+    webUrl: "https://www.ibm.com/blog/how-to-improve-your-finance-operations-efficiency-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to streamline and enhance critical F&A functions with generative AI"
+    excerpt: "Imagine the future of Finance and Accounting (F&#38;A). In this future, your F&#38;A function is cutting edge.&#160; Perhaps you are using a next-gen Enterprise Resource Planning (ERP) system and an unmatched F&#38;A planning platform that delivers advanced predictive analytics. You may have also deployed"
+    publishedDateTime: 2023-06-23T19:46:56Z
+    webUrl: "https://www.ibm.com/blog/how-to-streamline-and-enhance-critical-fa-functions-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 764
-        isCached: true
-  - title: "Is The Drone Industry Ready For Generative AI?"
-    excerpt: "With the implementation of advanced flight controllers and intuitive AI, any person could quickly pick-up a quadcopter and fly or even start taking professional grade videos. This evolution democratized in many ways the low-altitude skies and in the same ..."
-    publishedDateTime: 2023-06-22T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
-        width: 709
-        height: 472
-        isCached: true
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
-        isCached: true
-  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
-    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
-    publishedDateTime: 2023-06-21T20:47:00Z
-    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence is the new frontier... in election misinformation"
-    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
-    publishedDateTime: 2023-06-19T21:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
+  - title: "Generative AI in PR and Marketing: 3 Core Issues"
+    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
+    publishedDateTime: 2023-06-21T20:04:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
     type: article
     provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 56
+      name: eWeek
+      domain: eweek.com
+    quality: 84
     images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
+        width: 1400
+        height: 707
         isCached: true
-  - title: "Safeguarding Healthcare Data in the Age of AI: A Critical Imperative for Healthcare Executives"
-    excerpt: "This article explores the imperative for healthcare executives to fortify data protection efforts, delves into the unique challenges posed by AI"
-    publishedDateTime: 2023-06-20T02:14:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/32459-safeguarding-healthcare-data-in-the-age-of-ai-a-critical-imperative-for-healthcare-executives"
+  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
+    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
+    publishedDateTime: 2023-06-19T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/4938da019dba46f08d9c3be1946ae1d8.jpg?t=20230620_020455"
-        width: 1126
-        height: 550
+      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Generative AI is 'the next productivity frontier', report says"
-    excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
-    publishedDateTime: 2023-06-20T12:20:00Z
-    webUrl: "https://www.ibtimes.co.uk/generative-ai-next-productivity-frontier-report-says-1716910"
+  - title: "Financial and legal professionals see the value in generative AI, according to a study"
+    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
+    publishedDateTime: 2023-06-21T21:06:00Z
+    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI voice-generating platform that shocked the world is getting an update to fight abuse"
+    excerpt: "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?"
+    publishedDateTime: 2023-06-20T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Navigating the future and ethics of Generative AI"
+    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
+    publishedDateTime: 2023-06-22T07:19:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 54
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
+    images:
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
+        isCached: true
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
+    publishedDateTime: 2023-06-19T12:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "3 downsides of generative AI for cloud operations"
+    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
+    publishedDateTime: 2023-06-20T09:35:00Z
+    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AWS Launches Generative AI Innovation Center"
+    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
+    publishedDateTime: 2023-06-22T18:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 19
-  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
-    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "+yDK2BpNa2movJZuPwuwqmUShxOsx8ShAPd7cy8D9GopT5VkjqcLpr4gY7tKdEcZDuoLufe9MJq6Ss320g2u/iT6mEFuPsMfQQXJqvRaczpW+xcka/fe2Xg/MalwhWRCh5nyi2hH/nHr7bFvDPApnLWa3YCuVVuS0LYc1E1P8JObmWXMSaLGy2Z2i3bFG9/o5qo0v3nYajc56swd0wYZDttlL85yNpfzDnHxzimU9Ca0LrYeY9k1+O0pxbPx2QJEwbWvdvH6IBn9EH3FyTiMNEoY8o4mvNinhrlGhRvJxBtYyuxkFQBAeTumAJQgRgfPTHFP+U123RUzFlS+ovRNqQPnV0M0oNzrjHZm4ArN29mX9/RavNYKEwJaWX48lPFVwwdJEFsZAldL2yZ7SSLdpGV23/FB/cyBbyJPQIRJYRM448lJ0ttNIkK0l9Z3sfYRCBCTb9J92NlEb6pb8TXcyk4Zt+ucZt86WnJO8IjQHsFDNuTnTJQ8UCZ+0TmrFtZO8IcVrbKECvNGWoIW2CeHuA==;TyhXwlSf9OhnjdOkLI8pjQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacke
 webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
+    excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
+    publishedDateTime: 2023-06-23T19:54:00Z
+    webUrl: "https://www.thestreet.com/automotive/watch-tesla-test-drivers-narrowly-avoid-scary-accident-in-full-self-driving-mode"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 14
   - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
     excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
     publishedDateTime: 2023-06-21T13:17:00Z

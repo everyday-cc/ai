@@ -40,20 +40,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "The Ghost In The Machine Shouldn’t Be AI"
-    excerpt: "Normally, companies and academics hire MTurk workers because of their ability to do things that computers cannot, like label an image, rate an ad or answer survey questions. Their work is often used to train algorithms to do things like recognize photos or read receipts."
-    publishedDateTime: 2023-06-19T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-19/chatgpt-on-mechanical-turk-teaching-ai-with-ai-comes-with-risks"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJpQAGLIb6o0/v1/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "Wc9DtXirDjlImX5dgOB2wQDIgFQ7ZR52R3amqaS9xZx2pFPpR9uGi71t6OAthuwQd3jgvQxUM9GQndWGvx2WMXPIuTyMnFP/OGApx6BKrZspI/JzhirJWUtqus1iyCkr0fg1UHvzTjXGUB/IoCe6t8X8XLV8hT61XhWh1W/gjqGF0sprRCfyJ/zE9cW2OmH+4RyB0/xCoJxmWT02FEBL7JuOcS95fGtEN2vD75A8Ky0D7LNLmDN9w25yUEfSMun41ZUivbFkTBU4QvqtICKyaM8YXfHxMmnzhAgxtIsubU+vjT2QkJPviJLMAqQj8CZQ7FPyjXT0IIUh8brVq0tkXLaV1IDl1araLDiL9tnz9mE=;PC9d7REklo2ims5GYXNWVQ=="
 ---

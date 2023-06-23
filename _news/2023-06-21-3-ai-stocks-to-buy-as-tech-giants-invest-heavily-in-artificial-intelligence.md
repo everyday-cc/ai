@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tech-Stock Boom Pits AI Against the Fed"
-    excerpt: "Investors can’t agree on whether the rally looks like a repeat of 1999 or the start of something bigger."
-    publishedDateTime: 2023-06-19T05:00:00Z
-    webUrl: "https://www.wsj.com/articles/tech-stock-boom-pits-ai-against-the-fed-6ac93965"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-802215/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Best AI Apps to Try Now"
     excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
     publishedDateTime: 2023-06-19T13:00:00Z
@@ -66,15 +52,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
-    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
-    publishedDateTime: 2023-06-21T17:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Bet on These 3 Artificial Intelligence Stocks Right Away"
     excerpt: "For solving problems, artificial intelligence (AI) is imitating human intelligence in computer systems. It is through machine learning that AI is now being created. This basically signifies training a system by utilizing an enormous volume of data."
     publishedDateTime: 2023-06-22T15:42:00Z

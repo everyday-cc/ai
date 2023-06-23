@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
+      "title": "Review: Hover Camera X1 is the ideal drone for most people",
+      "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "originalUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1eaa4d9/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F47493fc0428495004ed61c14cd29%2Fimg-4919.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "publishedDateTime": "2023-06-23T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone.md",
       "title": "Red Cat and Athena Announce New AI and Computer Vision Abilities for Teal 2 Drone",
       "excerpt": "Red Cat, Athena AI Announce New AI and Computer-Vision Abilities for Teal 2 Drone by DRONELIFE Staff Writer Ian M. Crosby Military technology company Red Cat Holdings has announced its completion of t",
@@ -1352,49 +1404,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-global-image-recognition-in-retail-market-set-for-growth-says-report.md",
-      "title": "Global image recognition in retail market set for growth, says report",
-      "excerpt": "According to a report by Research and Markets, the increasing use of image recognition applications is expected to drive the demand for image recognition in the retail market going forward and image recognition in retail market is expected to grow to $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "originalUrl": "https://www.retail4growth.com/viewpoints/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail4growth.com/public/thumbs/viewpoints/2023/06/1060/r4g-Thumbnail-research5_440_851.jpg",
-          "width": 715,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "cdnAmpWebUrl": "https://www-retail4growth-com.cdn.ampproject.org/c/s/www.retail4growth.com/viewpoints/lite/global-image-recognition-in-retail-market-set-for-growth-says-report-1060",
-      "publishedDateTime": "2023-06-05T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "retail4growth",
-        "domain": "retail4growth.com",
         "images": null,
         "publishers": null,
         "authors": null

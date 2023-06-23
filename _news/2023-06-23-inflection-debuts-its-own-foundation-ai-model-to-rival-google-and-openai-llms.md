@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
-    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
-    publishedDateTime: 2023-06-19T15:24:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
     excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
     publishedDateTime: 2023-06-19T15:43:00Z

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market Size | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Computer Vision Development Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
+    publishedDateTime: 2023-06-19T11:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-size-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Sales Data At The Global, Regional, And Key Country Levels With A Detailed Outlook To 2026"
     excerpt: "speech recognition market global opportunity analysis and industry forecast, 2019–2026 portland, or, united states, june 21, 2023/einpres"
     publishedDateTime: 2023-06-21T05:53:00Z

@@ -113,22 +113,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
-    publishedDateTime: 2023-06-22T16:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "AWS weighs in on the potential of AI to fight wildfires"
     excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."
     publishedDateTime: 2023-06-22T16:44:00Z
@@ -267,20 +251,6 @@ related:
       name: coinspeaker
       domain: coinspeaker.com
     quality: 54
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
-    publishedDateTime: 2023-06-23T10:20:00Z
-    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
-    images:
-      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
-        width: 650
-        height: 434
-        isCached: true
   - title: "AWS Announces Generative AI Innovation Centre"
     excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
     publishedDateTime: 2023-06-23T11:13:00Z
@@ -439,14 +409,14 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 34
-  - title: "AWS Launches Generative AI Innovation Center"
-    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
-    publishedDateTime: 2023-06-22T18:56:00Z
-    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
+  - title: "Amazon's Aws Unveils Generative Ai Innovation Center"
+    excerpt: "(full-name excess cash flow value funds), which invest in an event-driven equity and credit strategy read more among other things, the team of experts working at the center will help customers develop generative ai applications with step-by-step instructions."
+    publishedDateTime: 2023-06-23T18:59:00Z
+    webUrl: "https://menafn.com/1106493357/Amazons-Aws-Unveils-Generative-Ai-Innovation-Center"
     type: article
     provider:
-      name: TV Technology
-      domain: tvtechnology.com
+      name: Mena FN
+      domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1126
         height: 550
         isCached: true
-  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
-    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
-    publishedDateTime: 2023-06-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Generative AI is 'the next productivity frontier', report says"
     excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
     publishedDateTime: 2023-06-20T12:20:00Z

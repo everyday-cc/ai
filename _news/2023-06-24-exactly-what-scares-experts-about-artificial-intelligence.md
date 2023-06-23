@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
+  - Machine Learning
   - AI
 
 images:
@@ -28,6 +28,6 @@ images:
     height: 340
     isCached: true
 
-secured: "TiMRezH/+IbbAQ+S2rF4rHWFc59eTMuH9A4T5DJJccQ6albuH8WtMVKd22DKyP3NJaBIM1nmZvkhL1E3xH957g1lQVmG7OjQEwkTmGEUeN8TuXMp59ZqWpwiIRFn7L8U5IveuEcj2/3H65hKBAu7HqxvuRIrIYSQ2J7nPL3wE4H/E1Qk0Sf6LFT3TdqjjVZoU1h6IBfHMUNzRkXwoxGC1ZEpCKKbw2wHZo/nkZdpLh5IGdmM2jI/2v44HN8nzwbbbVguDjwwM3I7+E7gIdLyVyGNLc3c3x920pwOF/IYO3vyCGyNKyWxy8naPGdzajQea+sPxl6maIeq1czDUEkUHBW3kmnnxEPLpqNN0mk16ug=;yk76zSjzjqNIC+aZC//4DA=="
+secured: "AffCG/XLli2scDZMza76BKuUYb35+73yijrlUDLeFrj/PDO/MxIPtFnx0qT3halTZRo6rKwrVcFN9+wHLZe5Bu6EF0pwHeA3PvwKYi6GR5pY8edZwUMc2Xy4rLvyEw1q+r6wd47PZhXCIL3R4UgHAYWff8Lfhm/83EUZyNN2PeTKuDIeiOdKmG1vshT4QATX+ZkB3+PffQM9LKbSPg93ZvdkxbMjjlxw7IdnfC8Ku9Lo72V/beTwIzSOm36zEdOFF4oXIePYZIPrvi/z0l9Duf7tiKzfnksfZCwtMt2aIlyfByybuRnHqfbbj7wHPXTh304C/WJTozXebqUWC9b0Hnk562gO0W6itX3cKkK36ks=;rSlfWBTYvj9czN34AQFHPw=="
 ---
 

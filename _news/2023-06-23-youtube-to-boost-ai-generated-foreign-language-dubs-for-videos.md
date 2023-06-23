@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-23T11:56:00Z
 originalUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
 webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
+    width: 1000
+    height: 744
+    isCached: true
 
 related:
   - title: "YouTube's new tool can automatically dub videos into other languages"
@@ -39,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
+    excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."
+    publishedDateTime: 2023-06-23T19:13:00Z
+    webUrl: "https://www.techradar.com/computing/software/youtube-video-translation-is-getting-an-ai-powered-dubbing-tool-upgrade"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z
@@ -74,6 +89,6 @@ related:
       domain: dexerto.com
     quality: 34
 
-secured: "UyYtDyZkGNcrRLFF2XCl4f81thj66eOBCycY6COQTqWUdQ5yBzAM38FCsEuvOE200o5xvGhjzvpmnpTmxwg6OL8MoFzXZT2lsU67tNkM001lOy/FdkoVWG6P++ZmjCTFmyAuIS1Kjik88cl2yvQluup3/8+ahcrLTXLsmwpJj2eV/2kLLw4asUpaiZHeTFfUpULVI6/PVIV5t2zQzVq6psb6P9I4sTcBpk8nwdRaOSCHgO7c6kD8W8+2vxNngwH8eAZTMFnptLJ8pqJ4LI0F17iQq0p9dD6B5Mxvyz+C/FFP7+jwHIt3/99hVeBvNf7ySRr/GWUrivoRwHyIJfNiHQ0SBEb5jp8hKBvhmYIp3mI=;vsBBvg0QCloDJey+ybkRfQ=="
+secured: "nnyVGToa0I4GXogTOYyDw31UNIol6x20KqCxT0INfbMjJeAKoji5/rECx4zc3H7C3qJbnusED1FsNikzrxhwxL8JFhtewmn70dpabm0VXMf17CtByLlP6xclYLn6R+NpexCdYc/rxUQ2KdssAogCk4h+3BHS5lwZs3rWJq8WVLKAZDFv1mfd1zjhnl80siPKPBNMJ3STheo8mD8JhbCXSRRkyp01rc2AU5ExVycklw4omrHttRCn184vHB8FQKoDpAXGZBzGQWYQD4Qxn959ouXHWthK5+k65KyC1A2ny0a1Yd77oaTDiPRV3vlHLE1vlNsFGt6MkCiFZUkgOen8WihOwTi9dCaXzZSf4rRoUSw=;MKCKwRs0pddTNHTAfLJOjw=="
 ---
 

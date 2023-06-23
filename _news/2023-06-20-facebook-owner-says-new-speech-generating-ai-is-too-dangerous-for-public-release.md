@@ -19,18 +19,18 @@ topics:
   - AI
 
 related:
-  - title: "Facebook's Creepy New AI Can Replicate Your Friends' Voices"
-    excerpt: "Meta-formerly-Facebook says its new text-to-speech AI can edit existing audio, speak in six languages, and replicate loved ones' voices."
-    publishedDateTime: 2023-06-21T17:48:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-ai-replicate-friends-voices"
+  - title: "AI-Generated Images of Titan Submersible Debris Hit Twitter, Facebook"
+    excerpt: "With no official photos of the Titan wreckage released, unscrupulous Twitter and Facebook accounts have stepped in with fake photos they created using AI image generators."
+    publishedDateTime: 2023-06-23T20:09:00Z
+    webUrl: "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://wp-assets.futurism.com/2023/06/facebook-ai-replicate-friends-voices.jpg"
-        width: 1200
+      - url: "https://i.pcmag.com/imagery/articles/00yBJ5oOeZpo96LWxQDToTG-6.fit_lim.size_1200x630.v1687549750.jpg"
+        width: 1121
         height: 630
         isCached: true
 

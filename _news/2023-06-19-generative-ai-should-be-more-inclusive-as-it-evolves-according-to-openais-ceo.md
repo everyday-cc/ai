@@ -30,87 +30,232 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs"
-    excerpt: "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ..."
-    publishedDateTime: 2023-06-22T17:44:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+  - title: "How generative AI can help finance and accounting professionals"
+    excerpt: "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology"
+    publishedDateTime: 2023-06-23T19:46:52Z
+    webUrl: "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to improve your finance operation’s efficiency with generative AI"
+    excerpt: "While you may have learned about generative artificial intelligence (AI), you may not know what it means for the future of Finance and Accounting (F&#38;A). As the name suggests, it generates images, music, speech, code, video or text, while it interprets and manipulates preexisting data. For F&#38;A"
+    publishedDateTime: 2023-06-23T19:47:10Z
+    webUrl: "https://www.ibm.com/blog/how-to-improve-your-finance-operations-efficiency-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "How to streamline and enhance critical F&A functions with generative AI"
+    excerpt: "Imagine the future of Finance and Accounting (F&#38;A). In this future, your F&#38;A function is cutting edge.&#160; Perhaps you are using a next-gen Enterprise Resource Planning (ERP) system and an unmatched F&#38;A planning platform that delivers advanced predictive analytics. You may have also deployed"
+    publishedDateTime: 2023-06-23T19:46:56Z
+    webUrl: "https://www.ibm.com/blog/how-to-streamline-and-enhance-critical-fa-functions-with-generative-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
+    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
+    publishedDateTime: 2023-06-20T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI in PR and Marketing: 3 Core Issues"
+    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
+    publishedDateTime: 2023-06-21T20:04:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
     quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669"
-        width: 1200
-        height: 669
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
+        width: 1400
+        height: 707
         isCached: true
-  - title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
-    excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
-    publishedDateTime: 2023-06-19T15:43:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
+  - title: "Financial and legal professionals see the value in generative AI, according to a study"
+    excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
+    publishedDateTime: 2023-06-21T21:06:00Z
+    webUrl: "https://www.zdnet.com/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 82
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
     images:
-      - url: "https://images.wsj.net/im-802734/social"
-        width: 1280
-        height: 640
+      - url: "https://www.zdnet.com/a/img/resize/f13f127c68756fdb79c14b38a2aef2c9b63301f9/2023/06/21/c28fa5e2-7747-41ae-a3ba-5cb61c67446d/gettyimages-1434610269.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "MosaicML challenges OpenAI with its new open-source language model"
-    excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
-    publishedDateTime: 2023-06-22T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/"
+  - title: "The AI voice-generating platform that shocked the world is getting an update to fight abuse"
+    excerpt: "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?"
+    publishedDateTime: 2023-06-20T21:12:00Z
+    webUrl: "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/MosaicML.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
-    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+  - title: "Navigating the future and ethics of Generative AI"
+    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
+    publishedDateTime: 2023-06-22T07:19:00Z
+    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 64
-  - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
-    excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
-    publishedDateTime: 2023-06-23T16:16:00Z
-    webUrl: "https://www.theinformation.com/articles/ai-boomerang-googles-internal-critic-returns-from-rival-openai"
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 54
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
     images:
-      - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
         isCached: true
-  - title: "Inflection unveils “best in class” AI foundation model"
-    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "How Generative AI Could Revolutionize State Street"
+    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
+    publishedDateTime: 2023-06-21T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
+    publishedDateTime: 2023-06-19T12:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "3 downsides of generative AI for cloud operations"
+    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
+    publishedDateTime: 2023-06-20T09:35:00Z
+    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 47
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AWS Launches Generative AI Innovation Center"
+    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
+    publishedDateTime: 2023-06-22T18:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
+  - title: "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value"
+    excerpt: "Accenture (NYSE:ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI f"
+    publishedDateTime: 2023-06-21T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954509/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
+  - title: "Lilt Launches Generative AI Multilingual Writing App"
+    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
+    publishedDateTime: 2023-06-21T04:17:00Z
+    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "lYZHPkNSM3oSbb/qvuCvwq2GnRR6KZgJR/Q9obCtCtPpI5VyN9mSkxAs5Aab2gxuEDGMTfa2Ko1giU2/+I2tdpL0Uu4IxKWA0hVmvkZts80QdWotnHYUI9zxp0O7BaQUwPMRW+ZnDfPv9k+uWvSQnsglqdTof5T30WE43+nE1WJmPueZ9Z/ZQONnmadkVdOz/N0mkpGgW8fMWU+AnoCmmGY0GSF9bhz7LwbV1ge1exE+pb/w4/8o93cjuQ74BblMxQMy7W0dv1MUF++fk5Bi++wZ4cp6OYZ5075re7afUH7ybotN7rv6fj5+hyoND3MJITy+L0Uuda3JM9CqSVNoWLnFpsn9buAH7VnhQPw4jfo=;whz4c/76lDEJBSbksgN1jA=="
 ---
