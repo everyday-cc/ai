@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-promp
 ampWebUrl: "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/c20ef06b8430236714dd1c694314e5800ade6ad8/2023/06/23/9a1b31b9-0ff9-4816-8af0-95def708f4db/gettyimages-1413761223.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -88,6 +89,6 @@ related:
       domain: moneycontrol.com
     quality: 12
 
-secured: "/SItSq8WUXU1PF3beBqWVw4ymg9pW9QAGLBDYROk7nH+Uf+SogN2m0z1QxeusHlM/yKI4TpDAx1tBAf3KCoRjPNcCpB+eB8hlyG72bmY1/58ub4aa6qdXr8uvvge5bg9zghRYRFLfaVIFE/F/5aesa0XndC8Oqb/87etBh4GfIxjM8BsV2eRXXnv2j/EAFkmf9IM/R8S6CKdw6RHB+J+FkAJ0LEnFvekYePRqqSbuUkuc8BffPhInARN59pqbBCgNLOAt4v8nhBGCTuGZ2gynogWFm2PXs3XpUbzlfB+mCJJ3L1jufFaiXW+5np6BH0DJdraI9noiANIYyQgb97Y8Ks6y4nBZE7O9FJFDlqBfpw=;OtqTGUPSN6RPlrhET4Sx3w=="
+secured: "s4TgFSg1eL1i7J+HAJ8BEu9w8GTuptGQTlJMDccXx/YxcDnD6iTrRKhsvAfzk+nA/msWtDfjjaeomaZ8C0V8XO2mRrHUxT1j3yi9tOocvqQrc8c63EJlSe7869lS0irTUYf/21oX+Qb8eS49+6rvHxIWwBdq9IZ0aaVPmKf3dA93CsT79GdEo7vAQT/xeYnb8wa6t8Ja8DLlutIKzN8eJ14Y+KKgOp9rgj3GfpoKfwijrvJJJpaIIt2FKYoVv3Pp8ZKp8J3VTJVldFeSxn39olAKJmdqtSf0ddXAR2qwUwteh25UYx6NjK/9cC9u1xF9OwxOABucmxvFlFsDJSseV753hKbgi0uRltjtnGyMZavmfHhpPahPNqnYp67SPdYx1FXxPDf9XTmagv5fi/qd6kEAAyDZV8MAFulE7qSAq1MVpp0E4jGwuyIFbQ5nv7uYSjvo6nCz1KRo5eut5Opsci9552o25O2qJt/aaGrd2G8iTwuFy6QD4RyVHn4MDFNi8o9OWZEsKdV7cKFegE+t/g==;AOkn1iGVYA1sDvlDOwwDrw=="
 ---
 

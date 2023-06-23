@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Generative AI Innovation Center"
-excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot,"
-publishedDateTime: 2023-06-23T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/aws-announces-generative-ai-innovation-center"
-webUrl: "https://www.asiaone.com/business/aws-announces-generative-ai-innovation-center"
+excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+publishedDateTime: 2023-06-23T10:20:00Z
+originalUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Hart Energy
+  domain: hartenergy.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+    width: 650
+    height: 434
+    isCached: true
 
 related:
   - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
@@ -309,6 +315,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
+    excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
+    publishedDateTime: 2023-06-23T16:36:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/aws-invests-100-million-in-new-generative-ai-innovation-center-news-8748"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 54
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS invests $100M in new Generative AI Innovation Center"
     excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
     publishedDateTime: 2023-06-23T10:14:00Z
@@ -448,6 +468,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "Vf13jJlT5FGCAA6xbCxcHIe8gdQ4VxbLMQCjw65zGzhJkM3/E452ZXnxpLgB2qKX+EVDnY5XQXni0qVtUT+rs4Mxfo/qjJ/Sw+dMsh7APHRcpFKTaUFxA5HlQjK6TKZ1FxOeN0ISaZonnQM9ZlMYwRnRRbninGZeEANcKHkAHAR1j9QC68pixaDA8+0e6PFmdwrNLs60arzk53IRH+QYsI52jvr8SN8Op2Is313bIeoy1fFWQL3W3NpZl0w4uFvTcLAlRTv9grsOscUlyzKuZg1D/SoP9PKxCgEtZFGJmbtN5F+/xR7MoyKdbTjTvzGftNFVpgh0ac+1aNwrrown/IxKdaG+6Niq1c/VjPLCNWE=;7e47+b9ssY9/mrzx+i7WVg=="
+secured: "dN82YI/qpHXWMttkz8gUIzQcz92hGpFOonM5anxMwOTtUH6XNS4+CbAAaq5jHzmxkJminqpEGbJjG/8rC36P4WX4Jx7R0k6LOSppOcKtbhqvc15u3fn/NZ1H8bGjGEd/mWMuC+1vYTg4Vs3fDHly31ogAWzgUpo05DuyEo4B1L8WEgJcdbxibmn2oElbNbOhAJ0wObQmX7duJbDtNrBLzOpNM98Jd8qoYiQMDPyZsXgsJku/HE5fNz2caQRPR8kz8Pk/N94p4K8uwP1KwGBrLM/KjK2RI19iUODCrWOdWcbhfh6P97gPi+FC31f4glKh7HySY15KAgxk/aUdmRSy1pllxEc6X/0wb3Au/xp+qV4=;sO0bSeTR0y+/IQ2AsIQXHQ=="
 ---
 

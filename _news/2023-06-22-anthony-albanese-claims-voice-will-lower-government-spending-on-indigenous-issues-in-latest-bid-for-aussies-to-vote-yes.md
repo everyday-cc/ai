@@ -43,22 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Opposition claims Anthony Albanese is treating Australians 'as mugs' ahead of Voice to Parliament referendum bill passing"
-    excerpt: "Anthony Albanese is being urged to consider a bipartisan approach to Indigenous recognition, ahead of the Voice to Parliament reaching a crucial milestone."
-    publishedDateTime: 2023-06-18T23:48:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 34
-    images:
-      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "O8vMpiti+/kco/J/sTT+ZJLEh+wr+yPC+9xsm/k0+zcLwaL8rs7zRYb6vabyv90ES6UOux+wpXyQBM3tWqCcTng6d+5/emsmzm++puYaIeB1MGK6AsMV1NPQBP1Byq6iuCBYyv3ap1yP+5v0oNCQZUoyqa7OzxrOTK0ZgUBLYyKUSOx3oDUQf5W3J/x0nzVLgJ1HFinMnGkeGuf7Mc5NNcW3QafYU5cZk888T/dh4xpp68Yl0t9I6Waxjuw8Ku9lMHSL32dB56SH2fkS9Y5yjZlTTIoCnawOE6REaxHkk8C/2kIX9frvSYd0IlR+ih58W7SHva5YCejmDft/JUF854DzMFIuNONe2/vnDtVVaSY=;2Vxzmos39dMZNQsjQi8Zkg=="
 ---

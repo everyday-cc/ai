@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
+    excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
+    publishedDateTime: 2023-06-23T16:16:00Z
+    webUrl: "https://www.theinformation.com/articles/ai-boomerang-googles-internal-critic-returns-from-rival-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Inflection unveils “best in class” AI foundation model"
     excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
     publishedDateTime: 2023-06-23T10:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.kompas.id/baca/english/2023/06/21/en-mereka-yang-untun
 webUrl: "https://www.kompas.id/baca/english/2023/06/21/en-mereka-yang-untung-dan-buntung-karena-kecerdasan-buatan"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Massage Therapy And AI"
-    excerpt: "In my curiosity, I found a few articles about AI being used in massage. That’s right folks, in my industry there might be a day when you walk into a place, swipe your credit card and lay down for an hour of massage with a pair of cold metal hands."
-    publishedDateTime: 2023-06-19T00:00:00Z
-    webUrl: "https://www.minthilltimes.com/columns/life-in-touch/massage-therapy-and-ai/"
-    type: article
-    provider:
-      name: The Mint Hill Times
-      domain: minthilltimes.com
-    quality: 34
 
 secured: "GToyg3L/027F/u3s07Mj0LD+SO+Lq8DaR4h1daD22dPPVbUgHy6+s/gBb4z9N99xyq3p6OujPPHQWydleWF88vevNwXyUPFug4ZjXDmTeXbOjvJdiSVNF/Yy/8/haf5yhO4bFE5vrUhX81jx1Rp0FNo0r2tw2V2bzAK+huDH60MjVKu4qSNowsf/sYKDkkW+MWjm3gC78Lt5ROrBC9vxoxaM5hVAV7+bThpvRRL78MaEDPDBvZQMLy8wq/oQYNJdvTY9E3CqtUZApUth9yMhcpUr0/zUrGCgIy/stQexXVxsyT/rCo2g63dxGaYPLeRJD8PXpjdCd+jUxaP+CABVg9f5c7rNkOkTgJKSkNUVQVdpQU03GBlDd0bHrglH8JdZefdy1FI7Dg7cJ446PpKXPyK57O7AAE1aVvDBKMmExres+89g2R36dPoPHLmJROig7Kn+AEbjAXOke5Dfw1b65qX6pJon8/YF1NIOYBOwa2DaKSrPW9DPijLyHHGhUVy3FUEU4tqIU27XoJhWFgrnXQ==;efUvysmH0BrtcSxe4GrxIA=="
 ---

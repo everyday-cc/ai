@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Opposition claims Anthony Albanese is treating Australians 'as mugs' ahead of Voice to Parliament referendum bill passing"
-    excerpt: "Anthony Albanese is being urged to consider a bipartisan approach to Indigenous recognition, ahead of the Voice to Parliament reaching a crucial milestone."
-    publishedDateTime: 2023-06-18T23:48:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/opposition-claims-anthony-albanese-is-treating-australians-as-mugs-ahead-of-voice-to-parliament-referendum-bill-passing/news-story/e7e76200c43cd61b9dc118887d584c90?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 34
-    images:
-      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "kTDTrggpvIGMa+vzxswDkYwiuWSekeQ5Yf2IxElMT82fHc/xsxNGz1j1iIDWb3vxqukUHM2EuX7kSXJIZbsDfjagOUnVozevsNl2S2QlhauqR+C+avBEaGcKxlhbJD1EdJXg7zH43WcxPERA9j2aB25nXKZwuztwWc8uEd6pKi8SXqMJLVdTI+kpZI6t8qaSQx4wIc9uwP0ND9JdQdhbotcz8nGlSIauNYaqyAfZFp7SJXt4MyXgEFHJfhuRmgk+T7PMamTmF+6mRmtVgulR2IYdgbCCjS0AN7SdHxDMIenbGkayqWJcDnvyXWH2gWTZVbUFj5XLLMmwvmvCePz2D11ubx9q9GLYTwfJjwsOvr6OtLyvshif0xD0OxEyGp/y4tjeLQEOOy1OHLavS+rCYwWqHM9BWuSR2Ux1DiMP9LoEJuSH4pZyLRBe/AJ+dkQtrfPUzdss1l65g2+7McHkyGT1kpNA53O5sZqI+P1aod4Ejf/fRqGHmkVOmsvOV8z7CNT+yfpKYuluGtj21oKezg==;psxYHst+5GyDV2FWkA0XVg=="
 ---

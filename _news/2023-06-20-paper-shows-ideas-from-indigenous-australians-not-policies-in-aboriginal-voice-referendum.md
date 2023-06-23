@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia politics live: parliament passes law setting up the Indigenous voice referendum"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-06-19T00:19:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim?filterKeyEvents=false&page=with:block-648fa3828f08c1a38208aede"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jun/19/australia-politics-live-voice-referendum-senate-anthony-albanese-peter-dutton-david-van-housing-fund-cost-of-living-rent-freeze-greens-nick-mckim"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 35
-    images:
-      - url: "https://i.guim.co.uk/img/media/50747729f646e76a1c061d046d65507970b29cda/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=f3d6452dfd05bf4449a90586ac646d8e"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Australian parliament backs Indigenous recognition referendum: ‘Together, we can make history’, PM Albanese says"
     excerpt: "The referendum will seek support to establish an Aboriginal and Torres Strait Islander voice to advise the government on issues affecting those communities."
     publishedDateTime: 2023-06-19T11:05:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/19/956fcb73-6a89-451f-a120-f3c9954adfa1_f5ca44e5.jpg?itok=Ae-mOu0_&v=1687172680"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
-    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
-    publishedDateTime: 2023-06-20T10:41:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 33
-    images:
-      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
-        width: 650
-        height: 366
         isCached: true
   - title: "Indigenous voice to parliament: How should I vote in voice referendum?"
     excerpt: "Aussies will have a chance to make history when they have their say on the voice to parliament – but what does it all really mean? Aussies will soon head to the polls to have their say on the voice to parliament referendum."
@@ -110,17 +78,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "What’s next for the Indigenous Voice referendum as key law passes parliament?"
-    excerpt: "The wheels have been set in motion on the Indigenous Voice referendum after the laws that will allow the national poll to be conducted passed parliament."
-    publishedDateTime: 2023-06-19T09:27:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7"
-    ampWebUrl: "https://www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/whats-next-for-the-indigenous-voice-referendum-as-key-law-passes-parliament/news-story/b5af4046d5bc4da03288e1adedfff5d7?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 21
 
 secured: "M8L0u9q+4QSBwlx3l/bLJrynOzaotAnbws9WqJP+B4BOOvgh3Aj/dZ/fUxuhWI7wkA/kDCbQmNynBauGTsZh0DayMPMyubS3kAD4/gEjxsCioPlbYnwFsZn6ch0BTzU/ZLbcvPmAEfaaHZ06KBu0IX3LY8eD+04YkdDSK4nxIvMf3wLWZdphYW1DuuNwk6qMf53LVsKmDaaCQk/6wqopOLmmddC10tjuD4UJRXn1EYrp0xrxss+HmcTO2q6flu9ussjcCZX9+OtQV+TAf/kW62yD1zKerBMDc8qXEG3WxewQXoLF+cDIQw0hwfmCHcKV0adA0YIhBM9ui8bqJy7ngRj9+LXeS+HPXJ50zmJbHYuLYDv5G6D7gZwWpLIkB0hAKfYJ+NJXbydGyqrQmQAYIEheBx5iJZ0qIv3e8sNKkl4esARAmGc6p113PRHRW3O0dky9G+7jydUtSQkKnRZOopapIjysCuKk4OJlk6dIASLk/LYIefIgN3HEJ4xtacUveZYnlr1YZ94kNLYSp/ENNw==;Rm1vdXxPy291U2WR7HEkbA=="
 ---

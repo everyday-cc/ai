@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-
 webUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: VentureBeat
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "JLR Taps Everstream Analytics' AI to Dodge Supply Chain Problems"
-    excerpt: "JLR said on Monday it has partnered with supply chain mapping and risk analytics firm Everstream Analytics, which will embed artificial intelligence into the British luxury carmaker's system to help avert future global supply issues."
-    publishedDateTime: 2023-06-18T23:12:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-18/jlr-taps-everstream-analytics-ai-to-dodge-supply-chain-problems"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
     excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
     publishedDateTime: 2023-06-22T19:29:00Z

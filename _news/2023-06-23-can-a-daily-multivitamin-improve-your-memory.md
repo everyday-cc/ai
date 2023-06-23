@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Can A Daily Multivitamin Improve Your Memory?"
-excerpt: "research checks interrogate newly published studies and how they're reported in the media. the analysis is undertaken by one or more academics not i"
-publishedDateTime: 2023-06-23T01:42:00Z
-originalUrl: "https://menafn.com/1106489893/Can-A-Daily-Multivitamin-Improve-Your-Memory"
-webUrl: "https://menafn.com/1106489893/Can-A-Daily-Multivitamin-Improve-Your-Memory"
+title: "Can a daily multivitamin improve your memory?"
+excerpt: "A new study suggests a daily multivitamin and mineral supplement is a simple and inexpensive way to help older adults slow the decline in some aspects of memory function."
+publishedDateTime: 2023-06-23T16:30:00Z
+originalUrl: "https://medicalxpress.com/news/2023-06-daily-multivitamin-memory.html"
+webUrl: "https://medicalxpress.com/news/2023-06-daily-multivitamin-memory.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-06-daily-multivitamin-memory.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-daily-multivitamin-memory.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-06/22/TC_2346aimage_story.jpg"
-    width: 960
-    height: 640
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-daily-multivitam.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "9K3AY4QkQJmd+7Iv448Kag+GccCFz9nSEIDWuISC6Y/Ac0DvhD0iBwzCwODppqPhjsXOy55kOFWY3+XN+GgQqPo0wrMT6WrZHbKgRfo6laH3Xma3udL3OxLENHN6A6ucEK8PzAz88Ma44FXuynGlSVQcl7aDrrL1G5QE7rZ2MyOJYG41YebPPbaEA+nLBNufXUiaU8gb+m+ixIX8Gxdv31BvsgIelbJt+ZyFeh4vZ3OsPUFYH4e2FCWoWKsDQ3g0xEXR816iXQGleQCD22CHUwQD/19Cr1s6eykz+e4DQ2c2Q6XfkxUynpfGnzOOtXnx+ZiobYMAHxhPCs/SFR/slsUmstcXAaC88qCkq1oU8A0=;XU2k0nlhRvRmaYmjmfksEg=="
+secured: "ffVeLCrZwggnIHqF/gFU8THbKnQlVnidfwOdIQLej9kPNf1ohmeRA9nRcwIPHS0CGhV49dui5wyAL5i7zPxSSQLzpIZv0M25KEzfPIcCht4SmWap54FUqkEmhThOaOehi123PRY3j5CXnxOVkCO15CYnVFMSKdjP+N/BQT1UGCrai4N+7xlSz9hKaTV+LpgtCWHtAI9oIJ3EMbOs7HuFNXZxAqYWXHtBclrYJlAwQT5KxbDoVFQmD+H0731r1vmewpQ3K+xX/dXrBa2EmX/UlMqS76DDw+zBXdZfxtw58A2uejMk/9+h/lCNtBX85NCxjExsubW02fTMnqE6l5VAWHIgA9jRU/LNPLrMsA3Wirg=;BLbnwaV6psUk+BmNTnnAWg=="
 ---
 

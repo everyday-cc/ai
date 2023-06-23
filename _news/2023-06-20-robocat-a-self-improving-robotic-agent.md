@@ -38,6 +38,38 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 81
+  - title: "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics"
+    excerpt: "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself."
+    publishedDateTime: 2023-06-23T15:26:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 80
+    images:
+      - url: "https://images.indianexpress.com/2023/06/RoboCat.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google DeepMind unveils self-improving AI model RoboCat"
+    excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
+    publishedDateTime: 2023-06-23T17:14:00Z
+    webUrl: "https://inshorts.com/en/news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
+        width: 1080
+        height: 569
+        isCached: true
 
 secured: "di3CNIKqohui8b3dbu8WeHLdvl3enq3WJMVs2cw8cKCcZMgVo6SP/kqYIJu0dy2MxYPKpRJtbE+M4lkARJYf6tmzgg/0G/dOBE036tXyTDYl5aJ6jzUSXJeMdhWxIT1h1R8cHex/eLHb7KSZhCVE2ec6OKiDqIOUUJF9lZEKebccW+mXtYNHTpssXjsEP/FKNCNDG7/WGd3JyNjV9IGrDjbkm6DF0+86jPHcWrTUNqrxRAka/DizXeOJrieIEItmfQYuIN4Quua7eNLnYZ0tNB7ZASShVLNNYkzBlmFnfU6NEUksxtyQ6wr/xDPekI5rwYbt4wIZsGsnlG7eye6o6G0VdMcBlcYEv3Qmw6Vcy0o=;SFrXWC3j29nfWOtKNx4a9Q=="
 ---

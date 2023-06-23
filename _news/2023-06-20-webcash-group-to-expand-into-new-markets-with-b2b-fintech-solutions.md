@@ -2,9 +2,9 @@
 category: news
 title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
 excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-publishedDateTime: 2023-06-20T02:01:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_17f5e0ef-90b6-5598-9128-1a5b4b629cd5.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_17f5e0ef-90b6-5598-9128-1a5b4b629cd5.html"
+publishedDateTime: 2023-06-20T08:48:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/4/04/4042e997-9fba-5f53-a260-7ef514b1641f/64910c71bc978.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -173,6 +173,6 @@ related:
         height: 249
         isCached: true
 
-secured: "dm8GAaEhlUaQ/vdkrrLfDZaCNobVcKQpfITWFIoahmFMiZc8HzeQUVWqSCURIVLY9dQz2I7xoz6ql4auNS+91ez9zc7rEi/UFAFRPktCpWz6vAsXB4NE1teAvgdgS5ujmlMOSUkAsJHS5DhsaoaS3vxYvHzSKTHv+FdzZb+vHrIMRFeesRibnY982K6MfWOgCqCPJMgk0s3w0OxkIyBvMbEk7p7+YihKLKGMFF6JBqIySHLkC49dOohBzt4a2OLEr6gBTv1ZEerz/S2iqx3oC5nTmvdQcT2xy/w15ju8bfUqT+trtFvndjcNFnPE536W5/iKzTvmoPHwtbCmc043c7aeGiLGU9HAwDdP9N9IipY=;84XcN5ZdVrKnmuCYo2vBcQ=="
+secured: "fAjCYXSLwZnlgNNsTBZKkWtuuBYoY+94CvBGsUTrjhs5x5Rx/Gqd8vhsH6DUQdT1WOiY7tJxBcO8N+7fu1cQ+CBq6FstFb3PXGgGT07We8zH7lC1NlF2v7lnM4Y0XIdxs1Yesx46NHVEDhFS2sQu4N3ZxNNq9rJkv+3L3Cgc5eKw3WvbuOzP9Et17axHGcWQtynI9VwLUJaZf2k2qv0Mn7KAdEDe7st4ikrkUOWRMW0H96IwXvbhH85HjbqpxCYlXKl/mLBJI+pb3zeuVkLeObTv8CmS9oo1X1B8UFA0iDhUZy2+gn/TLHWQJ5/uL0yNESfUQxp74MeC7ooNCQ57D31Yp7brl125Me0A6SbBWjU=;hYEiwNqeIFyhd9wyxVFIog=="
 ---
 

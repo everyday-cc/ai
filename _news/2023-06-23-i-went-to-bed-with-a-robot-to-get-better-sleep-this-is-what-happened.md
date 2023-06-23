@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/health/sleep/i-went-to-bed-with-a-robot-to-ge
 webUrl: "https://www.cnet.com/health/sleep/i-went-to-bed-with-a-robot-to-get-better-sleep-this-is-what-happened/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Kent County enlists AI-powered robots to better sort recyclables"
+    excerpt: "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to."
+    publishedDateTime: 2023-06-23T17:00:00Z
+    webUrl: "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html"
+    ampWebUrl: "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg"
+        width: 3000
+        height: 4000
+        isCached: true
 
 secured: "6/quohepBBfLb1inBvqSWVWWkRYCmllF9MAP1jij4s8PPilteoiEwNooGlieYpdvjcGuUYPfOuQwKNYjx3FHoTno70vXBR7uaDtlr3KWjCIUdV3ZpPicyI6VecZAXwyJ5jSK25IV9QJe9S59PPBOXs9I6wrKYij3Hdi93lQGaedeSbGCGgU5EZqXluQPFnJS0UR7ZTOxJzeZr+2KQoGmjtCIDVwUu6zEn28zYsc4I6HghM2rPCqD+79BJWjOdmmnAFXGwdOx8Rnc5ousPktYdoun8cYWiIS1r7hhcoBu3mBmCIYQLMZyGitvAgCrsmja5zKn9tLeebpmVudRfagwgYp4Q3t2T9iGzU2XlGFwy4Xh0h9doIZ1zvElxrF+NuwM6S6btyc2s/SPiCVoECo0jXP/NBu9IsIt1VOe8GSeR5x6QulFMmzATabg2VWQnZrE6qR7LcfESnZagqDtcPn0mCmP1Q5qpYGfZu54cv4fLvDjD8Hqq4LOdlirRgCrp7LYa1kMeDhJaO9qrEzZXJqGeQ==;j3BBFuwtwR0GF3/b+jkL/A=="
 ---

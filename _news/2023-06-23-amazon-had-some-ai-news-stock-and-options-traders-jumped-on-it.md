@@ -262,6 +262,20 @@ related:
       name: coinspeaker
       domain: coinspeaker.com
     quality: 54
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
+    images:
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
+        isCached: true
   - title: "AWS Announces Generative AI Innovation Centre"
     excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
     publishedDateTime: 2023-06-23T11:13:00Z
@@ -303,6 +317,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
+    excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
+    publishedDateTime: 2023-06-23T16:36:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/aws-invests-100-million-in-new-generative-ai-innovation-center-news-8748"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 54
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AWS invests $100M in new Generative AI Innovation Center"
     excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
@@ -397,15 +425,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot,"
-    publishedDateTime: 2023-06-23T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/aws-announces-generative-ai-innovation-center"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 34
   - title: "AWS invests $100 million in generative AI development"
     excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
     publishedDateTime: 2023-06-23T09:23:00Z
@@ -452,6 +471,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "WzdB6jCoJzRVje+CR2+qwuXKmpoix/GXLp+s06b0AUx7CoGouipUJVA3GDgoRpoxZrtVXWbfwdToscdt34srUBsGnRBBz0+8dfD+NZOdz/STKqlWhxqotHBQVBz+WGrTc0q4uyDWJrWof99cb0pl5ZExN64A9TEWZpepvfOcIo3oqPIgyMfu53QwoqMprQz+aZOgOLvs+0MVsHupKeb0rplCqsnDfZ/PnyeQgvCG46IklTxxCaEkoxPDIEba2YTAK8Gez92+SlR04ymBfkWSfu++gSmCnaLMmnaZqX9fXBqIbYd/Uaip27BqOoO7iFIADE6K99TIaYr/mQwCk6HCpi33tiU0vZIb38VS8rXlPaA=;wqRSfcsj5FAgsdDhjbPk+g=="
+secured: "gnn8hurICEVANV011P9eZZbqlxQ3BkcTNifCV6hHx9aGV0SD/sMwL2JaOb3bNb/hH2nigyV6hEJlVIOzS7SUeXNCS0Oy36pOMnK/ohpXeMn3HkNqyDkvQDKu0kMhZtPF6Z0Xa2cb0L5/1PQxiluNkagl+nEGrOZXO76kTJmwSKaB0QfJakMBi8SQ2NRULrSuQ/us5FthQDFOixfy95PoznOzLOYfzXNAXo5Y/nPm9DuZIcGmaceaT9evhBl823v8MSp3rHR+vBEueutVB9OhiGdVy73mKsUdHqpHb5UQg00+RMrPibXLKGcf5xeHW2zmdMZ3AYgVdrjz9C/QWyVVT1VERijJVSpLsSoAwSC+sCBmk6g3eg1KvBM5Ec9tqeFbTO5ZjChDu5hJeag6D3H26vw7XXx/PCEnAkbnDhJpDaf+6M4aWckvPX7iMknNG1w1JnqjS+MXWHTuLRT6In2MdxoC6eJbDW6WAEs1/VCmDKfxG3TAbOGi5tSFNUq7NirctU2bMpKZ3/oG1M9jNIbTTQ==;VlmHidjLIbKg1eL/io0xcQ=="
 ---
 

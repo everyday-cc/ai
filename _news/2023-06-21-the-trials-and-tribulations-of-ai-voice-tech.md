@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/7ad2716d-d16d-4c90-8ae3-417588b8a942"
 webUrl: "https://www.ft.com/content/7ad2716d-d16d-4c90-8ae3-417588b8a942"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 900
     height: 900
     isCached: true
-
-related:
-  - title: "Meta Chooses Not To Release AI Voice Replication Technology And Here’s Why"
-    excerpt: "Meta, formerly known as Facebook, recently gained attention for its decision not to release their AI voice replication technology called"
-    publishedDateTime: 2023-06-21T16:03:00Z
-    webUrl: "https://www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/"
-    ampWebUrl: "https://www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2023/06/meta-chooses-not-to-release-ai-voice-replication-tech/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 37
 
 secured: "ksC5J0IgX4hdp3f3Hh8JOFPAKrTLE70BICHrgNe95OY3M0jNJs9jkU52O2Wz/o0Zmko7YxwM/gHlBFdafmn5Evvjcr0kyzUlwBLU26mRfmmCxQBSJbPTJ0C7OHu+min2y4Sizak72wuXLVKZ56WTmpn8ib21VfbsvCIWU9YSajORp9C0VBMCmYHYgXiraPZ58r2CBudAfcDkPQpjvYJ0Tzdm/Q3AMMzIm7SdNvKYpoZZeQrKLqEd3Qs9RVuOEkJM3/ys+/WZWlyqPN+OR4OUjrfXlT8MFB8og9PxpnEuITFYCdK0vRZg/YEVytl5OuCmpCP2FPU/RZvquwBrAFeIufp7qIKp/bliVbt0XR0IlPT0fjpFUThusEFqJtJpa2sM9hLrkW3Ezv8qXNfKTYeCzIyGZEE5sbSsRmG8R2UjyNjhot86fd1zuH89NIJW9yFG/UnrLGL0EE8ayIQybFtQznH7FYpxHAeDqt2QsCCpIL6LreAQF407kmCl1WHS5xlAPY29zWGhitl6oqVBv3gNcg==;t/YUlWkss5CLhPJjnOZGEw=="
 ---

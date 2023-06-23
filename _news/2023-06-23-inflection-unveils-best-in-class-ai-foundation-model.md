@@ -93,6 +93,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
+    excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
+    publishedDateTime: 2023-06-23T16:16:00Z
+    webUrl: "https://www.theinformation.com/articles/ai-boomerang-googles-internal-critic-returns-from-rival-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "iNhNbmmCPRy+2zXAjThcnE4LdY9curgW/R5/w+p3Lk0Ecj+eyUWCQnqg3BaJSyzVl1hRIGEqRttjmov4CDvJKXaJMpmosn0DEALpPkKGyxK1qBCLX4X7fzbZGZXNJWz7wJPzPofcwTda3KkbqXbiIi9fB3ZnV1hBG7ujq0z3B386oyXkRNvbHcXyUp9D2qXl8r7CzSUr158J0f7cCcRuIK1qOaEM53Vfwn/gVCsk7hvMtFISTz3XQvqsQ76o2hl7uHYrh9AmmJ/toMPN9r6hN8dCm8nLaW7tSZaxBdjvDhCXlCapR5c3ZrWVxCgsdFf3us6+CunHkP41hAkhMJ3WloBulHtQsdV0uubZySvOglo=;RNgAI0I9Y1ZH05tbE8/uNA=="
 ---
