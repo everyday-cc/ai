@@ -94,6 +94,15 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "US campaign against facial recognition in venues ramps up"
+    excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
+    publishedDateTime: 2023-06-23T09:06:00Z
+    webUrl: "https://musically.com/2023/06/23/us-campaign-against-facial-recognition-in-venues-ramps-up/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 34
 
 secured: "dsecJVlVuzqq7V3GBwD3DevHf0ZFC6Ggxl5LNJlCnqJH8wUvfEScWnncjwHJd9Ge+bVEH3/Pl5hWoEO+u5bRnq5wWpPhmatx/jim+x0urfvOVubXVdqzMi1rrVoWj91YK8GMGConYoZsEPHl5IuRa/o3Q5n3spwUgEexVTvu7zhfuRx9Eu3omjMvPaV0eigWpY2ddVNCYlBqy3KkVMlXhpTa64Rnj0LIgO0aAzTPVC+fY30OJR1u7ukexFAqOzaw4MGFwVZE3r5Ouz64L+mSq+1JacbF2F+rOvx75YPTGabcKlHzvBBqzJWC7fLi4mkdR9RVx6+XSAnxFn39h8ur97iry6TghpEzn/B3YayRzKnpI/SatfncgIoKSJ89fjZ04pdVocDHVTErIb0cIX46dDMPDjOf1YDilKhWo6OKlxWeaullq+99zwBAPkdCI58t2L7o0suLpDaXnb4jvSliz5IHKFrYUmr59FeqtrI44yz0EoCzXsZRWwaIFJ/Hd5sno6+0ntbcIWhWuoiKZxyekw==;SN+LeMTxL7mPa38BmYOFag=="
 ---

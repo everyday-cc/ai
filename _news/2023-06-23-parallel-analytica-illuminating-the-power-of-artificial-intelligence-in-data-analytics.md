@@ -69,15 +69,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
-  - title: "Salesforce touts AI strategy, doubles investment in startups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "rTF0y2ajbHcaygNwIO9fNW+pVWWx+rVh3qCg0VsPuWbwvOPOlMMbRHV3IHu2U1XL/WCN0e/r9tdBxXnufdLPFNYp4fAmOaDh91+2gOICckC1EP4DC5qEaMa4BHpIXx1rA3STpH7pRU3GeKc9intkjRDiGPELvNRcHEXlcwDa6qXLscYTjzfWDc8zyntom2nm8Ig0e5dL17gX7Xi39ScMmSdprPXh4SH1349eSDEGqR+1rI08iaxk/mmIMWHwPaeCIRN2NoSN+BqMx0taxioCdwx1iz7CLwiG974p26RE8tSHUDluKi/q9Ynt9d32Hse/vTAIfZu1YfLSrHXDw+TTkbQjmr7Dsf/PBZfeb9ftI/E=;D/3aYbrvYpFsS8iGn16k0w=="
 ---

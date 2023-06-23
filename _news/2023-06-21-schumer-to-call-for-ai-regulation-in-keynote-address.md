@@ -109,20 +109,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Schumer unveils new artificial intelligence regulatory framework"
-    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national s"
-    publishedDateTime: 2023-06-23T01:57:00Z
-    webUrl: "https://starlocalmedia.com/news/national/schumer-unveils-new-artificial-intelligence-regulatory-framework/video_c69cdcc6-9d5e-51dc-b506-e386f53751f7.html"
-    type: article
-    provider:
-      name: Star Local Media
-      domain: starlocalmedia.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/c/69/c69cdcc6-9d5e-51dc-b506-e386f53751f7/64950b7d50182.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Schumer’s AI game plan, by the numbers"
     excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
     publishedDateTime: 2023-06-22T13:25:00Z
@@ -131,6 +117,15 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
+    quality: 19
+  - title: "Schumer unveils new artificial intelligence regulatory framework"
+    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national security from competitors like China."
+    publishedDateTime: 2023-06-23T08:48:00Z
+    webUrl: "https://www.aol.com/news/schumer-unveils-artificial-intelligence-regulatory-014711533.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "r5buylWtrKDOBNGqCNLh9eP7r5K3ACBkYn8BIFgXi23OtiIbP2QFUII0byw0CdAnp/MWJE4jSPWM1bgze5TuWW7aGAJYUa6GSG8CN7KYbN7Ug8JhSuabXnYb8D2QXEQd0e5unPlS59mjEzP8G4LxcEQNM9WOZM+7qRXYcVcxSnNjBXMNN6y3imQXOmxZ/SjDdyC81oG7EGMUDvQ4VzPpKiXH1nGZKjqRDoBe2o8jBddwH7c39ns+0mjYeHfVJgMNcIhSx3loe8vFVepPVCq2HGm9XpHvg58scckAFk0J9A1RL9G9C9nEnpE75J0WKA1D/1fVYb/UoXql0haivITWzglctV4oDvSTqJr3JvxrOCxAC74YKgu8vPgDSIRTfEM0tZ7em4izRwJvb4Z6cUajVwP90zl6sbklHscL46bxrhNag4Phjq8oCUxveq0rIWCSd5blPAmO8AammZxMAJyRLyd7SA3/ApRh6S8+haVOJKIIAkPeRTB4h9r32CkFZjG8a32ZDywgJzTXOc17Zr2y9A==;egeLO38bU2N7RAqQh6euYw=="

@@ -29,19 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "How to navigate the AI jungle with pragmatic steps for enterprise"
-    excerpt: "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight."
-    publishedDateTime: 2023-06-18T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/"
+  - title: "The Generative AI Investment Sprints For Supremacy"
+    excerpt: "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race."
+    publishedDateTime: 2023-06-23T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1391
+        height: 900
+        isCached: true
+  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T07:42:00Z
+    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
+    excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
+    publishedDateTime: 2023-06-20T17:39:00Z
+    webUrl: "https://mashable.com/article/eu-consumer-groups-urgent-investigations-generative-ai-risks"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03B33GOhtKEptX4XVsYoncE/hero-image.fill.size_1200x675.v1687273781.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
     excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
@@ -57,15 +89,83 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In the AI arms race, Metal aims for enterprise dominance with $2.5 million war chest"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Metal, an artificial intelligence startup focused on enterprise applications, announced today that it has raised $ ..."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/in-the-ai-arms-race-metal-aims-for-enterprise-dominance-with-2-5-million-war-chest/"
+  - title: "Generative AI in the Metaverse"
+    excerpt: "Some assume that the metaverse will be a single immersive environment like in the movie Ready Player One (2018), while others, myself included, assert that real life is the metaverse, and we will use different interfaces throughout our day to combine our physical and digital worlds to varying degrees—from augmenting our reality with virtual overlays to immersive VR."
+    publishedDateTime: 2023-06-21T15:23:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-11/pexels-fauxels-3183164.jpg?itok=0U1ndD_B"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform"
+    excerpt: "Pundit Urges Active Generative AI Use for Local Administrative Reform; INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform. News from"
+    publishedDateTime: 2023-06-21T01:31:00Z
+    webUrl: "https://www.nippon.com/en/news/yjj2023061900522/interview-pundit-urges-active-generative-ai-use-for-local-administrative-reform.html"
+    ampWebUrl: "https://www.nippon.com/en/news/yjj2023061900522/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2023061900522/amp/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 54
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/2419289/2419289.jpg"
+        width: 333
+        height: 450
+        isCached: true
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
+    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
+  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
+    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
+    publishedDateTime: 2023-06-20T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "Salesforce touts AI strategy, doubles investment in startups"
+    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "hzkEL+tScY/lqhpYkr/i74q9dl/bIMd190ng+A9lcD9kfGRRnZk8Pl2BM2RsB22ZP9v1wLa0JPJGwCJRi4oIU2QkA9Y70xrcxyDeCmn8P/+9ORZbvaYTYo1xKfwDSSMAFcz8JtYlJXCQl0SAn2tKhX5N9nRtNM+fVXGDM1xpzYucjLSx7RQkpxuFXkxQFQdiH4f5puuMXl7guI+dJqxW+Us/WyZGG4kqngqnylV7Hlt56uM5S8rFjyuV4nDVwpp0Jkjvl3/x5QlLEET72cqZodE2+DhAWRIH5Pl+A105rMiFBvV0J69laN0Qdyu/vTFQpCjRwLsmaqsW5DmuC4xB+7IgzV92Wm0THsseIi9ajBm8t41zKLaPC7wuTKZe15B0n9LJntls1Uc6+Q2X6f6WRnIBN3BE0hWxjKLqkOtQ+BzkO2yc6vYZwL6xXjplzGvZrNG611yI5WtMx2VsY5DMkoWQ9bDAgiHCTAmnNVADpchAdFd9c6hrAGWlD6VEDLYO+tALn45gx+Xz057iXrYgrg==;VfC1KyUw/FBqz4sRF7lb3A=="
 ---

@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "St Telemedia Global Data Centres And Firmus Technologies Forge Partnership To Build A Global Network Of Sustainable Ai Factories"
+    excerpt: "collaborative venture aims to provide cost-effective, large-scale and sustainable gpu and ai cloud services for the ai & visual computing era <b"
+    publishedDateTime: 2023-06-23T09:40:00Z
+    webUrl: "https://menafn.com/1106491858/St-Telemedia-Global-Data-Centres-And-Firmus-Technologies-Forge-Partnership-To-Build-A-Global-Network-Of-Sustainable-Ai-Factories"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
 secured: "cSPBPnCuCPJswLtEy+KDeccVTU2rlJUkS0YdIb50qH4hWUn8p+tvSKkwc1KjXXsTMU5bs75iTVV5evzuhLzSteyoG+OEVpYi0OCEkDvSxnBmGnxeVcv3ToeG7M0y5dNVP+IJwTemg53/aO7YBOijgWDMCL2gUxoVcahhLxjSDa1bwwvLwRsmE+8hjXSlV+9JGM0dhCHZdlU1+ozxAtDtA5xzAFRs6dYAr5qWRvI354QrSVXj71FRrPWxw0ety7XSomG6jYdj3rLtNcUvmBAKVfoQz07b3cRFG9redyrLL+qulrM/XyZYCcjvhk3Sh2XXMRLdtTVSwxz/uSTg+PAvWeepB8FLjaaViDMSPOE2MDA=;h9fxc1iJZyV/Z4nxoTDqEw=="
 ---
 

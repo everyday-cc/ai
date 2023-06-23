@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
+    excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
 
 secured: "e7WRI/63zD231muHmKt5rhmFQxufKawNuqOmCTjgYVTd20iRUl4SdFJUoYeolgXpMC+d8TUR1wO0HkzqpEw3IpkzADSkUJQOdJnm9U9vksR0OYlfmb1yXBWPKT8FBoZYpsk7dB+P8ixJdZsmzIaBA0pOwJAfu4/R7ITTjsgVkVFnNrGz8Q/vbvXEjjulq9SFXjez8dwmRYXoTDUWvOmDjHz1jR/rBHsa3qYWUGLlZboYrdwFP/jAreOgpHw/A2WlIFMozIrOhgR+0W2J77+7nYYotvlDbPpnxiXAJEyyNHt7dzJZhts57soPTLuXwxsyyBhbBK1J9GU8YyDY2vjLTfWcUyk6wI4Fq7aGtZXiRY4=;vEOfPqy7DrmPlcycmdnOAw=="
 ---

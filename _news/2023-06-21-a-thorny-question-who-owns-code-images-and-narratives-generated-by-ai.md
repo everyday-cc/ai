@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-thorny-question-who-owns-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

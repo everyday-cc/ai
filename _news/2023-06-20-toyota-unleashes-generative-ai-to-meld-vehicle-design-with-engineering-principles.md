@@ -32,6 +32,29 @@ related:
         width: 1199
         height: 662
         isCached: true
+  - title: "Toyota Is Using Generative AI to Design New EVs"
+    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
+    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
+    publishedDateTime: 2023-06-21T14:20:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "mX3aw/alymIgBtT/39hdQNMk2on6EjKJ4VubNUSnfPVKGa1VH8/5SH0WHudl7OvPyKd8KosLQFc5b+QxrriD6TOr4+S8yivxsP2myf/Vd8w3M19VBuHcLs4omA0DmpXOWlNNUn2yKtlSByxGWoVgFMV6BM/cp1cLjj3C8Qs3GV/mZ95PczV2DXJcRXjPDg71e11xOHleuQU8OQxsm+QYhCSeDWpHpTOYx2zau1JwiLD+3aSw3zBMFa9xfENtuYEVHF6ll2LF9FnhUs9PJlpMzg79JeBXnpWNCqrVkaDq92MNuk1FvoMYuMpQxOjQpFnWzSihcF6uLleDJDoFw8CIqoSfDRzQfuHr2oC/qpaoa0kWuzfHEeNtM7oOyJJaDJdbKqEkCW8CB6PHXeXNYCTxDEy5mlJVJ7ga45hJKbhe8gkvC2GyV/qsd/hZaN9noxttHbMStLQf1osCuT5AveU6Vlv1r7i9+ZzduZkCrM2vN+kWMWliLzC9mDjQnZmU/TMFi3FawYcbOVAFc//Hi4zP1A==;IrNaMn1gm3saGH7aPU9MlQ=="
 ---

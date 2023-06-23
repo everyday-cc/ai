@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Schumer unveils new artificial intelligence regulatory framework"
-excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national s"
-publishedDateTime: 2023-06-23T01:57:00Z
-originalUrl: "https://starlocalmedia.com/news/national/schumer-unveils-new-artificial-intelligence-regulatory-framework/video_c69cdcc6-9d5e-51dc-b506-e386f53751f7.html"
-webUrl: "https://starlocalmedia.com/news/national/schumer-unveils-new-artificial-intelligence-regulatory-framework/video_c69cdcc6-9d5e-51dc-b506-e386f53751f7.html"
+excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national security from competitors like China."
+publishedDateTime: 2023-06-23T08:48:00Z
+originalUrl: "https://www.aol.com/news/schumer-unveils-artificial-intelligence-regulatory-014711533.html"
+webUrl: "https://www.aol.com/news/schumer-unveils-artificial-intelligence-regulatory-014711533.html"
 type: article
-quality: 37
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Star Local Media
-  domain: starlocalmedia.com
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/c/69/c69cdcc6-9d5e-51dc-b506-e386f53751f7/64950b7d50182.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Schumer reveals plan to regulate AI"
@@ -133,6 +128,6 @@ related:
       domain: washingtonpost.com
     quality: 19
 
-secured: "X1IVW7muRq+elefvLrEN7lO8+QEFSM76AkD7nXxftPYHxhf65T0GMMpS9rkmTqnAQq9BCBglgAXNriJ1vSKdaAXznN75yDr6LBiTbgc64VbNGoLEapPS9lCEQcFwp9fAEBRQwTjxr84VRM1MyVMEdNATq8CALRR4nbq95MvkQ1whAh12TBVK5vk6my0IUAsmeK7Xu3gjW7uTolfzScf2Xno/dAmp2zJ3zajKTt4G/usSG9s/ouehsNyXkfNd7cQWJV3SEvjOpNPEFf8heyTuIuUHJLWwrFKGStgSqrh2ptAFeg52rGFYN9EaIi9CKG3IVFmxxZJa7mHkL+QqOmnmIkS2BE/pffxYJFbXIhg+n3X3bYeJ14GBzMq9gEVCZG3eO9YsJ4MscUd3JnxRPSbunfhpsO0tL9wyQUu20lK4CVXNvtM+0dQb5RYG303cYYe0/z/0yMuH9hTvBq8aLUB9SqhDEKPwn83fDOGnW5srxEFOQvM3EwF2c9ki3hj3qT6LAkoAnVNNGFFE+Vxy37fteQ==;z2aPy5yEQwXNTtWed84QaA=="
+secured: "Ox0Hm99/zkuLTmA5/0hivAsxY77+5LG1ZeR2Ec1jRWPSHUqoYm3WKJ1faf56C4P1f/X6yVO1uOzBV/keazRKjtwQemjriQyk2ibwEmM0kwL9Y39dkdO8ZlrVodhMJDr7us70ZasFfJSI1ZVO806AFFJYSSQP4u+b9N7H07IVPh5p8rJ7F1aHyatnMnUIUscV4t1yjiN8SmetzoplsWQwAty5yf1Cxh4C7LPRFki6HlyqoLN2n4v3am45vbsGf8IEw8WSCb4PF7b0plQ2b/+g9U0/8CzUNtj+TMURltNXAGPQe6K61K4p75/DRPXPCBviTDP8AvDFnK5sg/GsR5B+xAGe1a7gkuGHqxrOJmlJmwY=;wdFDunUOGfxyXwhIYDwSoQ=="
 ---
 

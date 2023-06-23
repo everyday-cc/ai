@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1297
         isCached: true
+  - title: "3 Best Video Surveillance Companies in Singapore for Construction Site Safety"
+    excerpt: "Construction site safety is of paramount importance in Singapore’s thriving construction industry. Implementing robust video surveillance systems ensures a secure and protected environment. In this article,"
+    publishedDateTime: 2023-06-23T07:51:00Z
+    webUrl: "https://techbullion.com/3-best-video-surveillance-companies-in-singapore-for-construction-site-safety/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 1
 
 secured: "qGW1QC6erl1wjSu4ZHY2fvYclaFbuSd1/kB1HQM+Gr5fW3Lyuz2WEvhoSG+S8l41ordzXNcsi5Pu6JPIptl6WqCA4LK/mwbr0q+wPeobyBJz0RKMXw6iO6AGZVeqg9iASRtPTmMmW3CkXgB1P+Ak9IxKRQ6GL7BCBT+NiBatLbVnicFGFk1fEze1ioEC74d46Ly0CVNPmtrfUOK5aucC7w76l/1dJjJ9dRRl7WeplN+Fl7CMF+mkwEb5lfHk7uRmtXcWpJLPMEn/cPJCWQfdlXYs6yKFIaJGcoPLD/FYdTf5H8ZWQMhTEzEXTnfylMIoS0cVwaw3rcGJJmfLHjDanOseumb48k6mCO5FUNuU1YT9D0l1YKhqBtfga14ggnxK5OVMGH3ceouke8TomgybKW55a83SeiwIpzI+Zrl6SNvm3oCgsUKDZGWjkzOv649xMTxyhc0a2YwIvtlFTmMjHTspbQBijZbV2LUseokSDrGxP3qXI/YV3KYSD3ptUYZPB+nyDHdQRQ0oZ4jnOyM+tA==;4m+7e2JmKrcQoelWOIhW6w=="
 ---

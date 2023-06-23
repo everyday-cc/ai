@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/financial-and-legal-profess
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/financial-and-legal-professionals-see-the-value-in-generative-ai-according-to-a-study/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Fractal AI says this new generative AI tool will improve the targeting of online purchases"
-    excerpt: "Fractal AI says this new generative AI tool will improve the targeting of online purchases - TPG-backed AI unicorn Fractal AI joins the generative AI space with the launch of Flyfish, amidst"
-    publishedDateTime: 2023-06-22T08:56:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fractal-ai-says-this-new-generative-ai-tool-will-improve-the-targeting-of-online-purchases-nid-223702-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 29
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/r579Cu14.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "IegqUJ17fMQ0J5E59HpoYwNZf/7cU4y6mkzjjep5k+HbaAp09Y+R3hkBKyTxEdfYK+hsFV2lATJor6Do7u7ogUAQ7yU/B+4yLfPU+UhJbDmwqDs8qOZ8wFP6KKfSNmqjEWx8uXEqc4655Nh1mQKUVabETTQW3AZYPOsLMbSMV/miaBL+/ULrGydpGrzqV8inZQqzBGjpv3/xnjveX0AfeixfR/JhQgMFNsFPy2Vf0roY57NyuKe0eYkEYZeIYdxlSA33bFKkfOBsPyS6xY1Z4joagd/OVdee1GcaE4lfYY2fgtyChzDeRPtPGsfuBT4Ta0ZAjh3TNaDQZXQwXFWv8zgwvV6OqyeKr7Rc8rtY0A9aaDkwiff3aN7vyAo1R5dScvfDeY2pmWWpkr13m2f8LUdzsPZ95VMEhSfnYvWXJLtcZGuRM4AjEoH7hv2apkSzHDXsYcMQtS3fXvYY+eLVcL+NbqYV6Lw4DmG00WFieETjKk4aZoNvxdWzyImGAbeQCR4XvbtuB//RHU3aRtsvfg==;AXv1d1cGSqgBSNa7T0rJJA=="
 ---

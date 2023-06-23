@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-prod
 webUrl: "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: TechCrunch
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
-    excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."
-    publishedDateTime: 2023-06-23T05:41:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/youtube-is-adding-ai-powered-dubbing-tool/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l9320230623104651.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "/AIbceNUNFeGweTbgAi8NzfTHrJ/ewkU6WfECMAJh5wamlWpdlXxlh5mQYwcCVIJPNOKxbOvXSSKmuaI5h73nV7CT63aHPNZyjVfdWmhDG3vbZwpjOmzC4E4P7/hYe7B7p+oZrXkFA+q2ou6fHi+RXVxpTLjplFqbm9+fTQpcCzOYc7GjBG9ygG5gIp9tf7CM7bGXs5J0BNMIyz3T4VWYuweGPKuZ85scaxWkjrv07T4wf2QNJSLtySIpl8eJbmWm9G7BkT2Kbhj7UYGCpGbfxbY8uMyPKX0HxwSr166QjKaxLn3PNqW34dhk+AGdm2A/STP18HCk960eERuvxLiRBwfbEjKTaR4LfAjGj81QZ0=;Lx3dOWwb34ks4UYwdVhRsw=="
 ---

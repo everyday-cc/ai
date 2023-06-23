@@ -52,6 +52,17 @@ related:
         width: 1198
         height: 685
         isCached: true
+  - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
+    excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
 
 secured: "BzpzYGzv1YrAgkQN4dJPhREiokM5E5ZaUO8wE7Z2r4j2tMsvb1uhGTSIaUqWsNSn1chUtyQqWyUSrsVNWeizX2J9FzfZMtuapNnk6vnnyOxmGT626E16Cru+50IU63K0PEDlP9JDfw02tREItTrPRre5OZ0R0qbBJHT/YE5gR5LLAiV3p1FJAHoXa+nYZVYDGpa7fdiXjHcWqIxJnp31IaIkVUpIhgx5GqCRXdT4iraCVAVsSSK4Hzam5QrCcFQZ8UxMhugOW05QLP1FUEcP/YVcbmdyFu+PYKbqrLtdk7Vjxu3/z+m8nuWdlW49bnKRToVT7venxiq89yNjgpmWy691lljqwVCY6D/akHvFgUU=;O1XFABxNRB3qvhUzYldg3w=="
 ---

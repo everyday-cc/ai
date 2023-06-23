@@ -104,20 +104,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Schumer unveils new artificial intelligence regulatory framework"
-    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national s"
-    publishedDateTime: 2023-06-23T01:57:00Z
-    webUrl: "https://starlocalmedia.com/news/national/schumer-unveils-new-artificial-intelligence-regulatory-framework/video_c69cdcc6-9d5e-51dc-b506-e386f53751f7.html"
-    type: article
-    provider:
-      name: Star Local Media
-      domain: starlocalmedia.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/c/69/c69cdcc6-9d5e-51dc-b506-e386f53751f7/64950b7d50182.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Schumer to call for AI regulation in keynote address"
     excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
     publishedDateTime: 2023-06-21T13:17:00Z
@@ -135,6 +121,15 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
+    quality: 19
+  - title: "Schumer unveils new artificial intelligence regulatory framework"
+    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national security from competitors like China."
+    publishedDateTime: 2023-06-23T08:48:00Z
+    webUrl: "https://www.aol.com/news/schumer-unveils-artificial-intelligence-regulatory-014711533.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "Zk2CiexgZsIlM8koA6oEDjbriIS168kCAbrPTqtrX00ZuBsoLoPEtHO5GeBmBL3w2TScvkJejAkuegEA1xMarPFo8Nce9amdBDOXT42aj2k05PU8jA4aE/2d/+baBUZKc71364pHPkClnKj0pvaqA2aFlv6DvTODK7yBeVLYFkhsFGwVXVh7pczbjx0h+NeFpQitcz/fOLuaNl4opIWKgK/sr/6PRBSZcoeeKTCCNwr+O9Qk6m6tTxDIWLDxs2+pW4br+W9lpGNSrHNGh1b3FhbaKL7qg+Ni3M916Tnt/l2qMGvzvQaNTKhuyHlqpHZVGSyNxhJbEPFqX559juxnmyYm9SoH9v3ToCPBWn+N92iPcMv2aUxUxDbqOGgith4p5/IeYTf1fJKu8pbp2mely7DYHFWpEMQAS4LcROUSGd7Fm3L1esrNvU8xLvN/JuRAMIBRoeqVv3RHbjBjYFdkHesKeoOSE+HDrgVkKPiTZBU4h15Vm+6HshUv6fOCs3sB9dRkogHYgfKX9xPSh1Onxw==;E7DjSEd+J4j8Wmbcro3qLg=="

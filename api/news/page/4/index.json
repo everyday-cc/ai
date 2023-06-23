@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
+      "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
+      "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_Gigafactory._Photo_by_JHVEPhoto_on_Shutterstock_2.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940159",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940159",
+      "publishedDateTime": "2023-06-20T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions.md",
+      "title": "SoftBank’s Masayoshi Son Says He’s Focusing on AI Inventions",
+      "excerpt": "The CEO says he wants to invest more aggressively as tech stocks revive. “I want SoftBank to lead the AI revolution.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "originalUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-803798/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-facial-recognition-cameras-to-boost-security.md",
+      "title": "Facial recognition cameras to boost security",
+      "excerpt": "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg",
+          "width": 750,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fiji Times",
+        "domain": "fijitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
       "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
       "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
@@ -511,57 +650,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-upgrading-ai-powered-travel-products-to-first-class.md",
-      "title": "Upgrading AI-powered travel products to first class",
-      "excerpt": "But travel information is complex, and incorrect information — or AI “hallucinations” — are a challenge. Roam Around sometimes recommends one site while showing a photo of another (and potentially linking to a third), and in one of our queries, GuideGeek conjured a cleverly-named pub that simply doesn’t exist.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/",
-      "originalUrl": "https://techcrunch.com/2023/06/20/upgrading-ai-powered-travel-products-to-first-class/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-597070301.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-21-college-will-start-new-courses-in-ai-and-ml.md",
       "title": "‘College will start new courses in AI and ML’",
       "excerpt": "ILS Law College Pune plans to introduce courses in artificial intelligence and machine learning for undergraduate and postgraduate students. The institute also runs a legal aid centre for the marginalised class in Maharashtra.",
@@ -802,7 +890,7 @@
       "originalUrl": "https://www.zdnet.com/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1125,100 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-how-ai-technology-can-positively-impact-small-businesses.md",
-      "title": "How AI Technology Can Positively Impact Small Businesses",
-      "excerpt": "AI is not only a feature of the near future but also of the here and now, ready to help us optimize our operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6d5d914a72e260b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "publishedDateTime": "2023-06-20T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amd-promises-an-ai-chip-power-shift.md",
-      "title": "AMD Promises An AI Chip Power Shift",
-      "excerpt": "For example, AI developers preferred Nvidia chips due to a well-developed software package CUDA that enabled them to access the chip’s core hardware features. But AMD revealed on Tuesday it made its own software for its AI chips, ROCm. If developers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "originalUrl": "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/motherboard-closeup-technology-integrated-microchip-circuit-board-computer-processor-with-neon-light_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32924098",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098",
-      "publishedDateTime": "2023-06-20T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

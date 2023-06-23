@@ -1,0 +1,23 @@
+---
+category: news
+title: "CA Fire Chiefs Sick of Robotaxis Parking on Hoses, Blocking Firehouses, Invading Fire Scenes"
+excerpt: "The robotaxi industry is being allowed to move too fast and break things, these officials say, putting more robotaxis on public streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
+publishedDateTime: 2023-06-23T07:08:00Z
+originalUrl: "https://www.firefighternation.com/news/ca-fire-chiefs-sick-of-robotaxis-parking-on-hoses-blocking-firehouses-invading-fire-scenes/"
+webUrl: "https://www.firefighternation.com/news/ca-fire-chiefs-sick-of-robotaxis-parking-on-hoses-blocking-firehouses-invading-fire-scenes/"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: Firefighter Nation
+  domain: firefighternation.com
+
+topics:
+  - AI in Autos
+  - AI
+
+secured: "+dop+X4iRzyY/BUAFs4RhUN8FNLBIQwikTXFa1MbG6YOGjzFXcDqNE5Mg7s7NmQgNwiLm9TIcZpgCMLSFbgCvE6nkkEwLenpVNWXoXiHvV7lIfqj6wTplrUhpFZ17CP1nMPv9DKZCotZr2daUFvqB+BQ4M8czFD+jvhvzygcj2AKsnZtez5IQ+CSZJIPrMnwBYQyj2F2vNFnzSeHp8x/znYqG4A+ubmRV+WwQS8h9WSgFheoZ18LDlcoN1l3HxdYzMq9Rw06tPE5TXDWUrUrym0mmWsAD81ig+LqyONn2ov+RMA7xsT3sKQtgOG47T3RQ7ANUdKsvsEeyORusXq/h3NVEBGhPJkwId9CzX9SEK0=;CMCyGForlOXAsb0Y/F/O0A=="
+---
+

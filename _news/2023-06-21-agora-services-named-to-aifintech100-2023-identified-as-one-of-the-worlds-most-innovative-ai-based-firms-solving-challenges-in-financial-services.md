@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
+    publishedDateTime: 2023-06-21T23:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
     excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
     publishedDateTime: 2023-06-22T06:13:00Z
@@ -33,24 +47,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Argilla Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "Argilla, maker of the first platform that empowers enterprises to build production-ready natural language processing (NLP) solutions with a unique data-centric labeling platform, announced that it has been named to the 2023 CB Insights  AI 100 ranking,"
-    publishedDateTime: 2023-06-20T13:55:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835752.htm"
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "HiddenLayer Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-    excerpt: "HiddenLayer recognized for achievements in Security for AI NEW YORK,  /PRNewswire/ -- CB Insights today named HiddenLayer to its seventh annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world."
-    publishedDateTime: 2023-06-20T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hiddenlayer-named-the-2023-cb-insights-ai-100-/2023/06/20/9836012.htm"
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
+  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 0
 
 secured: "Bwfib0cwrSw3PbEaEW8Wx6HjjmqSxCPbVvwiQbNh0MtkYNs3vUyQxBjE/nyabHC1S6KTc/sjcYdOV7eVnAWODbdDp41DN0MNO7FBmj/qKi68N6S2rMh0HSFTQV2NVr2r1erj71iBYgxe/lUjGgcDz0Ox1/fvzNOPqKSdlnlrwESQHNHqkb+Akh7yccunj7Gn9kU7CCHFVt3OUsCRIKrUZQ/7dLZTjIXBNSXOc638r/FgSgkIeoz/+TCGCxye7dnI3ED19ldHjwzXRIjhLqRi2dJmi9qCX1IxfTmsUoZviIEtSR0RD0nTm4dHYlo9DX4A5uXabIqZYfcWoBvy24/t+44s0vlwLZydNBOZmT0gXh0=;tiba09cHQnkKjCWt3SDBlA=="
 ---

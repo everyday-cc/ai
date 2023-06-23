@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automated Facial Recognition Systems: Not the Win We Were Rooting for"
-    excerpt: "The database breach of the government’s digital platforms highlights the vacuum in legislation to adequately deal with such breaches. In the absence of legislation providing redress, attributing liability and adequate punishment— the fundamental right to privacy in India remains a toothless tiger."
-    publishedDateTime: 2023-06-22T05:17:00Z
-    webUrl: "https://www.moneylife.in/article/automated-facial-recognition-systems-not-the-win-we-were-rooting-for/71164.html"
+  - title: "Indonesia Needs to Introduce Ethics in AI Usage"
+    excerpt: "Indonesia should make appropriate and firm approaches to the growing use of artificial intelligence, including introducing ethical values, a technology expert has said. \"The first is how we build awareness and education about AI\" so that community members understand the potential risks and benefits of AI,"
+    publishedDateTime: 2023-06-23T10:11:00Z
+    webUrl: "https://jakartaglobe.id/tech/indonesia-needs-to-introduce-ethics-in-ai-usage"
     type: article
     provider:
-      name: Moneylife
-      domain: moneylife.in
-    quality: 39
+      name: Jakarta Globe
+      domain: jakartaglobe.id
+    quality: 54
     images:
-      - url: "https://www.moneylife.in/media/uploads/article/responsive/facialrecognition220623.jpg"
-        width: 860
-        height: 480
+      - url: "https://subscription.beritasatumedia.com/publisher/cover/id/20230623-cover.jpg"
+        width: 500
+        height: 811
         isCached: true
 
 secured: "tZ0Q/fXmVtlgwuUM6qu9n8ZjAr88hFyo+fAqsx/pOuIpCElOpvL8rQsgemqGogIWMjRiCkcVAscCD8QScA4uaqvaNkahpWGlK/oj3OlMTDLlUmPLAoLi78Dno/Tzh1kavCef42xlQe9QOSpR8YytG3qb5VyNI7xMprE4JxEvh2w/ms62VurDjydXjXszq4qgxaMDqNak0XlS1od+s6QrL2RbWmEv/F7lbzR8cSs6LErkYq18MrY0ONqXYlVcWaC4Ar6YLhx3blVUv1lXUHkAjEcS+iatY+Ui5FDH0gFYzOfkfwpWQFBZq1teMBDsLO504HWYlooeJsYr5AwHIcdu/jFWfJGY2FnGNnSr8dsGBwU=;9/hYFAdrSt52LHbQlGLcBQ=="

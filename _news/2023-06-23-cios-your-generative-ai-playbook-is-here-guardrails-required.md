@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1598
     height: 900
     isCached: true
+
+related:
+  - title: "What Roles Could Generative AI Play on Your Team?"
+    excerpt: "The recent advances in ChatGPT are merely the first application of new AI technologies. As such, companies and leaders need to think about the various applications outlined here and use the framework described in the article to develop applications for your own company or organization."
+    publishedDateTime: 2023-06-22T12:15:00Z
+    webUrl: "https://hbr.org/2023/06/what-roles-could-generative-ai-play-on-your-team"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_22_1273134318.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hvbivDT2zrcm8kNjHxnZaKrI3u5do2TnED+6EPSn/TdMFVFe2T2xre7aSuXQHQqGmgyyMOtBJdHfV5ff8ClhRMpeC+b5dZFyUH0MJsmfAscqJdVybaz2qlE/kRiESQoOdwl2oDMYrFBjG5qHafj56yUTfZ60bzvYRDKpM3yp5PONxj4tRtv4Opyea+iiMrAi0UbPtIoLGWDequkwK/ezdT1MLUiAqA6j2RQ1IhWF/onJsPPZdtE608qMGphCN3GupXYIN3acFcwZGpfxcKHaBqGLHTmTeaBYzM0YLFfInqZvcGJtuX1aFP2eKiZ/a+Q5tDiMSMYNHnBoWfpuA7WuybUhsliUOs5zvhWxO6GbExU89wT5AyYvOvJ4GOlvS/EdTlqpsHQ1oDk2f14IoVvnlfWQPji7e3p/NFW4uk5hLRS35snzb77uz4QdZye58Ksph6baWMHXYJH6Hab+xnHvVbN0+WLWKHGNVf1vGLo6bQlcFP50ChX4x8FOp670ewpnZGSlplmEUsD5k3a5F/24jg==;507wSLgiZfnvCKZmn5WxwQ=="
 ---

@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Salesforce touts AI strategy, doubles investment in startups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
     excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
     publishedDateTime: 2023-06-22T18:18:00Z

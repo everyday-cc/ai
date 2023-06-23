@@ -160,22 +160,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 53
-  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
-    publishedDateTime: 2023-06-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -203,6 +187,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
+  - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
+    excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+    publishedDateTime: 2023-06-21T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "Z2xXkFMiSLDyOIg0xJRuJ7jf1+uCgWI11GcLMckUiPMi2UPqbM/uPcYvlpri6bRqcTDQODVTGthlb06bgNQdTGD5eNNRizY6xe75c3t8U9Wwv7YY6rnZWGnszQs8bRp45Opm9MjUypYPo5u/ePllmwRPLRtBVrR5xq/YlGJyRvphKvB0+rEoKbzcf8C9lwBCmkMArEtHFScq2NAEGFKtpsyMadomlcviJPurS/ZyXQrWqSMEAVBOjyFMZTpJrxVx4SAwEABsOOeYfJNS3+l8Rgv1hU8cKPdKaFfaecAkOhcsuCvs4oL6VVyjPVo021N3cmfnZ0fCoyzlga/YiKZRgCVGC6jG3dgRwVEa86+E2trkd0QBqKsMA3dgGzV9gB5KkE605j0A1A7q6S2j2FwSvzPjuQJacevOiKKTxENKIAnY0OyMYeoBzHKne48HUJ3kx6KwIt7+OjJ3ikW44WMsP6CYEBm9BBs/CQD9spYf4E4QYeW/LAwKYj9tAU7XTKo0TFhgwzmVZ9i+WZNtjEFl3w==;pbuhEylzDQG1O/jcIOCaZQ=="
 ---

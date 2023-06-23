@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-mach
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning From A Digital Marketer's Perspective"
+    excerpt: "I believe that machine learning holds the transformative potential to revolutionize digital marketing and SEO in ways we are yet to fully grasp."
+    publishedDateTime: 2023-06-23T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6168a643eda3c2e0494d8640/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Generative AI in PR and Marketing: 3 Core Issues"
     excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
     publishedDateTime: 2023-06-21T20:04:00Z

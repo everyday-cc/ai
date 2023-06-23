@@ -156,20 +156,20 @@ related:
         height: 483
         isCached: true
   - title: "AWS invests $100 mn to help customers build generative AI solutions"
-    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-23T05:48:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/articleshow/101208673.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/amp_articleshow/101208673.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions/amp_articleshow/101208673.cms"
+    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879"
+    ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: The News Minute
+      domain: thenewsminute.com
     quality: 74
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-60300,msid-101208700/illustration-shows-aws-amazon-web-service-cloud-service-logo.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
     excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
@@ -238,6 +238,45 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AWS Announces $100M Investment in Generative AI"
+    excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
+    publishedDateTime: 2023-06-23T07:59:00Z
+    webUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/"
+    ampWebUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/aws-100m-generative-ai/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 54
+  - title: "AWS Announces Generative AI Innovation Centre"
+    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
+    publishedDateTime: 2023-06-23T11:13:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AWS deviates slightly from cloud, sets sight on AI"
+    excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
+    publishedDateTime: 2023-06-23T10:03:00Z
+    webUrl: "https://htxt.co.za/2023/06/23/aws-deviates-slightly-from-cloud-sets-sight-on-ai/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 54
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2023/06/AWS-ChatGPT.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AWS Investing $100M in Generative AI Center"
     excerpt: "Amazon Web Services today announced the AWS Generative AI Innovation Center, in which the company is investing $100 million to help customers build genAI solutions. Customers will work with generative AI strategists,"
     publishedDateTime: 2023-06-22T20:36:00Z
@@ -251,6 +290,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "AWS invests $100M in new Generative AI Innovation Center"
+    excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
+    publishedDateTime: 2023-06-23T10:14:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108014/aws-invests-100m-in-new-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/AI-spraak.jpg"
+        width: 1000
+        height: 594
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
@@ -330,6 +383,24 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
+    quality: 34
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot,"
+    publishedDateTime: 2023-06-23T08:00:00Z
+    webUrl: "https://www.asiaone.com/business/aws-announces-generative-ai-innovation-center"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 34
+  - title: "AWS invests $100 million in generative AI development"
+    excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
+    publishedDateTime: 2023-06-23T09:23:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-invests-100-million-in-generative-ai-development"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
     quality: 34
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."

@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-14-op-ed-heres-where-investors-should-be-looking-when-betting-on-the-artificial-intelligence-boom.md",
+      "title": "Op-ed: Here’s where investors should be looking when betting on the artificial intelligence boom",
+      "excerpt": "The rise of ChatGPT has sparked another national conversation about artificial intelligence. Depending on your viewpoint, the bot is either the key to making a host of companies and their workers more efficient, or it's a slippery slope toward robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107222769-1681156718279-gettyimages-1174456147-dsc_9443.jpeg?v=1681479001",
+          "width": 4310,
+          "height": 3189,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "publishedDateTime": "2023-04-14T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-the-good-and-bad-side-of-ai-and-how-you-can-leverage-it.md",
+      "title": "The Good And Bad Side Of AI And How You Can Leverage It",
+      "excerpt": "Successful marketers will need to decide how much of their process to automate, understand the limitations of the technology and weigh the pros and cons of each use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64380954a22b21b4428508e3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/the-good-and-bad-side-of-ai-and-how-you-can-leverage-it/amp/",
+      "publishedDateTime": "2023-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-meet-the-worlds-least-ambitious-ai.md",
       "title": "Meet the World’s Least Ambitious AI",
       "excerpt": "“People want to have consent to having technology used on them,” Margaret Mitchell, a co-author of the response and an AI-ethics researcher at Hugging Face, told me. “And there aren’t good ...",
@@ -1181,83 +1286,6 @@
       "provider": {
         "name": "Dallas Innovates",
         "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-creepy-robot-dogs-being-deployed-to-patrol-neighborhoods.md",
-      "title": "Creepy robot dogs being deployed to patrol neighborhoods",
-      "excerpt": "Orwellian nightmare or useful Australian hardware? The Australian military is rolling out robodogs on patrol. Kurt \"CyberGuy\" Knutsson explains the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-robot-dogs-deployed-patrol-neighborhoods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-researchers-develop-new-sensors-that-can-control-robots-through-brain.md",
-      "title": "Researchers Develop New Sensors that Can Control Robots Through Brain",
-      "excerpt": "A recent study contributed to the idea that machines can be directly controlled by the human brain via new sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "originalUrl": "https://www.phoneworld.com.pk/researchers-develop-new-sensors-that-can-control-robots-through-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "phoneworld.com.pk",
-        "domain": "phoneworld.com.pk",
         "images": null,
         "publishers": null,
         "authors": null

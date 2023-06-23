@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How generative AI is creating new classes of security threats"
-    excerpt: "Why we must act now so that security professionals can develop strategies and react as large-scale issues arise with the evolution of AI."
-    publishedDateTime: 2023-06-18T18:09:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-is-creating-new-classes-of-security-threats/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_light_and_technology_creating_a_dangerous_force._colorfu_4939c964-541c-44c0-aa32-9df44f5360ae.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
     excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
     publishedDateTime: 2023-06-22T16:31:00Z
@@ -240,6 +226,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
+    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 28
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Is a Lot of Work"
     excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."

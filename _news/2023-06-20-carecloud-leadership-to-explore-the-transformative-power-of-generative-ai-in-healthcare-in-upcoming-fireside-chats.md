@@ -37,15 +37,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
-    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
-    publishedDateTime: 2023-06-22T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "7ut93YJqBJDiDtrt3iLwXEhGXET4BE0w5baDjg3nZgU60LE9TV4pTUbY9JeaaZK6GpMSHkiBvy+fdI/4+jRmenXf8KuBpGuaiA3r9XrFialtVQInc/wWRnVcS0MwqTH0rCcCsL9XZusX/e0tPU3ezZxp9aJsfNLLO93vkE5a11msrQQFWQPOk8+tUTnk0v+RZq2mbQfDkdR1Qi7vjzUXLzrFAddMeeecO1uDyb+dgYp6J03tECpIGBVTzX/CPirXFOJXHZ1RDN1JrPtMuOLaZZNBtuZPas1UuR+e4QvXELS6YdReoVdBOKtCN0j5tmhEigIJ+7Gjt8zkrKa/JEOKotl5Qp6DBRpFrSFDxnhBwHg=;qOvR2CMmmIIW4kUHeSfmEA=="
 ---

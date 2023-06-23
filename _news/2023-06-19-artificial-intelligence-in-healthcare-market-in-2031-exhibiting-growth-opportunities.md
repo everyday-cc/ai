@@ -80,15 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest “Artificial Intelligence for Healthcare Applications Market” 2023 to 2030 with Business Analysis"
-    excerpt: "The Artificial Intelligence for Healthcare Applications market report provides conclusive information about the industry, making it easily accessible to readers and users. It is a valuable resource for businesses of all sizes to establish their commercial ..."
-    publishedDateTime: 2023-06-18T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-for-healthcare-applications-market-2023-to-2030-with-business-analysis-2023-06-18"
+  - title: "Clinical Natural Language Processing Market Growth | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Clinical Natural Language Processing Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
+    publishedDateTime: 2023-06-19T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-growth-2030-2023-06-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

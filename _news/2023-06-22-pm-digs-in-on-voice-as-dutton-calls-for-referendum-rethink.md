@@ -23,15 +23,13 @@ topics:
 related:
   - title: "Peter Dutton doubles down, says Voice risks reconciliation"
     excerpt: "Peter Dutton is refusing to back down from claims the Voice to parliament referendum is a risky manoeuvre that threatens reconciliation despite the Prime Minister accusing him of speaking “without a heart”."
-    publishedDateTime: 2023-06-22T22:38:00Z
-    webUrl: "https://www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
-    ampWebUrl: "https://www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272?amp"
+    publishedDateTime: 2023-06-23T08:09:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/peter-dutton-doubles-down-says-voice-risks-reconciliation/news-story/39517a47b36e76eec95f1def132c2272"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "UyRpOSRKKcuus4iW+yt3X7LlBWPi8k6n6/3sURi4YoMibOMLRoWjqIbszkW8OqxMqPsYUpH+pfs84m6BTe88n2DuWyxxofmSzt7MbYnS8WZryktiRL/p58HvsPeCn2YZzPwO16umiuLu5O1ElMvlATooQ6Pn68cZGnBGxTsNj0z+NjFW7xcn96Br6UUUYtoGP8MSg88/6eN0Bbr2UprMln40dKl6M6EsIYD+3z0djpCWL7MeHop24XlNPvTlk4Lhj05er3uAEHY315z/aLZaCqjO43w7DQ2Da5GxfTeOQZUqP9htDOjdFuQyMqA/X1+OqB1a7sw7wC2w4A+ITuUFt748cEuD2yY7v5cTrHGxhSI=;NRxgMZTxv+sqpxIOHX71XQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-gener
 webUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/"
 type: article
 quality: 67
-heat: 78
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota Is Using Generative AI to Design New EVs"
+    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
+    publishedDateTime: 2023-06-21T18:53:00Z
+    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
+    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
+    publishedDateTime: 2023-06-21T14:20:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Toyota unleashes generative AI to meld vehicle design with engineering principles"
     excerpt: "Toyota Research Institute executives said Tuesday they've developed a generative AI technique that ensures early design sketches incorporate engineering parameters."
     publishedDateTime: 2023-06-20T13:00:00Z

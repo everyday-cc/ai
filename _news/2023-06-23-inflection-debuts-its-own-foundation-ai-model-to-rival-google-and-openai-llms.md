@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "Inflection unveils “best in class” AI foundation model"
+    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "YkaCLs23YWSRjF+W3YdXX70mSX3gzXclwamv7V8s5qwkXgHKdvUs3c5Rp6tWQ1YOMNCq5UdFdxU3QesKbfZvn5qvH/Hyi+xmkoVBw7lgYxk5fTSZyELqmJyLbEW5H12qF6HccnCO25SS3RcjK5P0eoHdxE24cP8FuliOdw6OBJ3Ub7kbWeG7yOfeVQoggk8s99guDqBnIwEvRRnQ3c1QaSEZ6ERDeK5XVMIT8MAOAIRg1f3EZZYjsuxPEiA1v/T8h4AjYgkYq80qgDMdTXsd3+RuURl9pPfgNSF6CccRzQEwIFgfZKaSiOqOLNg+AluIX8JVE1cpa/v9LF2qH6eDoIoHhyAH/ZZGt+VpABHOAOU=;w+AOJGBLLmEvLrZoYUSyqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-crea
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
+    excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
+    publishedDateTime: 2023-06-22T21:59:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/"
+    ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
   - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
     excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
     publishedDateTime: 2023-06-21T13:25:00Z

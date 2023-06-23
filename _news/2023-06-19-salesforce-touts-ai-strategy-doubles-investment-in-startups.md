@@ -18,66 +18,148 @@ topics:
   - AI
 
 related:
-  - title: "Boost agent productivity with Salesforce integration for Live Call Analytics"
-    excerpt: "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging."
-    publishedDateTime: 2023-06-21T15:20:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png"
-        width: 1018
-        height: 630
-        isCached: true
-  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
-    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
-    publishedDateTime: 2023-06-21T22:01:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+  - title: "The Generative AI Investment Sprints For Supremacy"
+    excerpt: "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race."
+    publishedDateTime: 2023-06-23T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 508
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1391
+        height: 900
         isCached: true
-  - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
-    excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
-    publishedDateTime: 2023-06-22T00:41:00Z
-    webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
+  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
+    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
+    publishedDateTime: 2023-06-22T07:42:00Z
+    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://tii.imgix.net/production/articles/10733/c6ed3399-8a4d-4d1a-bef4-79003d0bed86.png?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
+    excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
+    publishedDateTime: 2023-06-20T17:39:00Z
+    webUrl: "https://mashable.com/article/eu-consumer-groups-urgent-investigations-generative-ai-risks"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03B33GOhtKEptX4XVsYoncE/hero-image.fill.size_1200x675.v1687273781.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
-    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
-    publishedDateTime: 2023-06-21T18:50:00Z
-    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
+  - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
+    excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
+    publishedDateTime: 2023-06-22T16:01:00Z
+    webUrl: "https://venturebeat.com/ai/stravito-launches-generative-ai-tool-enterprise-search-knowledge-management/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
-  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
-    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
-    publishedDateTime: 2023-06-22T18:18:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stravito-Answers-Press-Image-1200x675px.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
+    excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
+    publishedDateTime: 2023-06-20T20:40:00Z
+    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 9
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
+        width: 1198
+        height: 685
+        isCached: true
+  - title: "Generative AI in the Metaverse"
+    excerpt: "Some assume that the metaverse will be a single immersive environment like in the movie Ready Player One (2018), while others, myself included, assert that real life is the metaverse, and we will use different interfaces throughout our day to combine our physical and digital worlds to varying degrees—from augmenting our reality with virtual overlays to immersive VR."
+    publishedDateTime: 2023-06-21T15:23:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-11/pexels-fauxels-3183164.jpg?itok=0U1ndD_B"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform"
+    excerpt: "Pundit Urges Active Generative AI Use for Local Administrative Reform; INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform. News from"
+    publishedDateTime: 2023-06-21T01:31:00Z
+    webUrl: "https://www.nippon.com/en/news/yjj2023061900522/interview-pundit-urges-active-generative-ai-use-for-local-administrative-reform.html"
+    ampWebUrl: "https://www.nippon.com/en/news/yjj2023061900522/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2023061900522/amp/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 54
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/2419289/2419289.jpg"
+        width: 333
+        height: 450
+        isCached: true
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
+    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
+    publishedDateTime: 2023-06-19T13:00:00Z
+    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
+  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
+    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
+    publishedDateTime: 2023-06-20T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
+  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
+    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
+    publishedDateTime: 2023-06-21T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "QilP7XeI8XfGlCoPYTdsFMxo+Xoqe7zOJiWNvaAxQdbxf58auh85m/LLxxh1MbAcpTqL252aLxId1VC5N0XGy2Scx6/Oa3jnOG+NwrA9jg+EOm+Bh/V7hRl1WA9BxMC7R//mZtyyQ7E5vODxvO0ajge5uTAsywMqTZDW5CGe/93h5NQbvnG2ccnXuL+y9cKV72Ij1Nhp6yFhKd4kYiPZbny2YHvTyReBz5qhKa/o4hywfXGHZbttnBUpQRVpVdHxH9fJJ2Oqj2lYo3H3mfWTXMLeFcsgrhRcRatHgMzhxYZTwAnDO/rRlJnf36rJNLCVgoxzErfkgWTjTkxdOKYBs8f4AGldJnAZRv13dRaRFrb7gTcwUiDfKgLyYfkCvrwTh7g4+mKkwwyrvy1X3QdHwIoT3xJYJiG4f+Z9FO9q9mKes/yF7A2qnDY6hICoeojSYcWOCsgQh+r4EQUWNtuZQJGYhkCTBBLaMVVkXA1G+TADuYRLC3ptATShJiQ6NulwcVe65G2Vpp5s4ACd/piblg==;fxIJGo1VbhoC3uxvnicJzQ=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine Learning From A Digital Marketer's Perspective"
+    excerpt: "I believe that machine learning holds the transformative potential to revolutionize digital marketing and SEO in ways we are yet to fully grasp."
+    publishedDateTime: 2023-06-23T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6168a643eda3c2e0494d8640/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "How AI is Powering Marketing Success and Business Growth"
     excerpt: "Embracing AI is now more crucial than ever for businesses aiming to thrive in the ever-evolving digital landscape of Canada."
     publishedDateTime: 2023-06-20T20:33:00Z

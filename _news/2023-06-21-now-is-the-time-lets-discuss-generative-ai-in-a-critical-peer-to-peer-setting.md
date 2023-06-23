@@ -54,6 +54,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
+    excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
 
 secured: "NmpQR31NwIDHZ4IXAYRtpoK1X+9lfrRK906pBSVXIjdw1RI1ksAO16kpG1n8nG1AivMSqvLKVo2RNNYdzs4kJcjsmPGr7XZJGoMtfxkczh+KVdXRZ4cZEEntMtaiEDhI7jAwDHwRah8121IjSN3A5YAJ01zKFTlZh5tO3ZR0mF3Ll9RCTW3wWNW0b0soxUCTvRpCiyNjkysVFfblxChjfR6LgFgzSjJJ777imDmA8CAnp0vjr62Bgq7Dc71FS1esGsVH+W5xrj0BXaNIcqaCJ2nZOLWl73tB0pv0jHxOh/XA3tKJgivSgK0RAzMZqT1t3j/Eb0apIc9Y961b+iNgeCbrNeJ2PKBUya1m0gIRH2tPpxLawFSWsQGbux5LobgQe80BqW3Vc2vWOdC4gzoyzlSnJi+T/DOg2giEzvVogbBSCZlm7Dpa20fIlLlb2wshbT5FE4ydqyFgkLspE+tTt3feDUaxIk6LscPCDITX+tqYFU9V/cQAWBvmwXdZQcMPLiOpyaxZdjGnJAUWi5HQRg==;j5zqWZbsp5xZAPPIX03jUg=="
 ---

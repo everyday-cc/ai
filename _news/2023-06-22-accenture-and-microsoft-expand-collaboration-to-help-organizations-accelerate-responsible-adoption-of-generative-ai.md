@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
-excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
-publishedDateTime: 2023-06-21T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/b32954511/accenture-and-microsoft-expand-collaboration-to-help-organizations-accelerate-responsible-adoption"
-ampWebUrl: "https://www.benzinga.com/amp/content/32954511"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954511"
+excerpt: "Expanding their decades-long collaboration, Accenture (NYSE: ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundamentally transform their businesses."
+publishedDateTime: 2023-06-21T20:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-accenture-microsoft-expand-collaboration-help-organizations-accelerate-responsib-/2023/06/21/9837032.htm"
 type: article
-quality: 52
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
@@ -205,6 +197,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "h7m+XY6TLoRjYZyoOBHeDNU29k6Bwyz02+lAAmy+FVfv4zRR9d+v9VnaJz/ldVEmfYPTS/zyTgCXsOt/TYOJWEDuC2l0amJ82yrYHsWPsyfY57dAxD8r0qaMTXLYnvyj5f7rlFdX7wPXFt8LjL2DPDEPBNqptJxkFPGiYvBMA1WclsZReaTP9etz97B5lZmvq2aiRVPhQPE0+uDe9wJa7jVISrKEovHVB8SFs7blwPYvdm+7W/y6N6vtTQVvSmD0fovfH9sSrr0GEcUvZ32akvHr1BbVwVTgTYPtls3JpYkQBVkJU8nDMhMXl/ZgMyS5jcPgRoqvCqIXk5s30Yc7n+jhx2fN4MSKoUENjUY2veM=;1EfDQV1K54kBsDUVQJgsAw=="
+secured: "18dYxrHGi9fXapNWXybgj60eTspEMe0zRMS8ceMYsl8OjXPjd8TCQKUJMuvvOyUHFoQMIzvQDLOO0acaO4z0WL955kPCuYw0M0/TwlOlJQUrigowAnvKNJtlX8WWVgKP2YAAYBIW6gfVBYFuZtRBXiU5kNJSc2gAqFCl0MGjrRaoP96dDcfAnW132tpDJLte28B/dUV9auz3AoyEOuP8TCWbcBTXi4opDHW+x1VhBxjDhDSbCUG5NNzZbCtqzu4HPH6O7ZDIYPWt/H+RUZ2rxaLRs7Eeu5nyAaONzOLUlJf9xQQYxy1y+T9pzNibHfyCiYwOM8z6Vq63tmpIYuN6ZbuhIeIkwPF1X3r1k3jg9Ng=;Q3P4JBWVWzheYs+ngrr5cg=="
 ---
 

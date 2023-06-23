@@ -83,6 +83,20 @@ related:
       name: Time
       domain: time.com
     quality: 64
+  - title: "Inflection unveils “best in class” AI foundation model"
+    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "z8H4PLt9Oiio+B+5JFCuIFwJh4wwmN3SSogwiJkBjtN8T2M6go5HJzRv196aBlapSIAh+qnKYiRqlGfjg/TtJxJVuw9OOIKP76DUAV9raucXqfEWyzXEdIc47q6nwoUqk7XVdO6fls4rOc1V0Wns7C776zPNgWyNTGoDENyMHwF+8DHKCV5BxVGZ7rqoE8juS+8WNv641KYy2bekdEQEzsQF4TMiWozwcLmAjbQjvI2rdlEoQp/yFRBkZ+pUNqBItgYiDEpZoIaElItprC1uqFt4t18pbycvt2ly7lQi3lU2OznjKWpI5Q/+Tie4H6qjFDDcTZl0+8X/TDpypRci4vyzHU78gDcwIajF0SSHE6V74OJfg1e8Y2ViKUP3TU9kYC73TKBPNXs0+rgLQiPndlWl5gxlEpAioPKJQIHIXIfMG3ZI/QlF4HzXeRzy4RWmmvSnXHwjVU60QGvJgrYG49hU12rfZw/b01+2HR0ZZvSF8Cs35qmSGEXPBtwL3E+0DqgZdgmNFJI05h5JFqqheA==;w+1TxMaEqncUKsi0ZbBMpg=="
 ---

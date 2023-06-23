@@ -19,33 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
-    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
-    publishedDateTime: 2023-06-20T19:21:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
+  - title: "Teleperformance Strikes $185 Million Deal with Microsoft to Develop AI Tool for CX"
+    excerpt: "As part of the deal, Teleperformance would leverage Microsoft’s Azure cloud as well as cognitive applications. The AI platform would automate several functions at its contact centers, in addition to enhancing the accuracy of customer interactions by ..."
+    publishedDateTime: 2023-06-21T19:34:00Z
+    webUrl: "https://nearshoreamericas.com/teleperformance-strikes-185-million-deal-with-microsoft-to-develop-ai-tool-for-cx/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
-  - title: "HCLTech and Google Cloud expand partnership on generative AI"
-    excerpt: "HCLTech will train more than 18,000 experts to help businesses implement Google Cloud’s generative AI models and capabilities."
-    publishedDateTime: 2023-06-19T09:38:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/jun/19/hcltech-and-google-cloud-expand-partnership-on-generative-ai/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 19
-  - title: "Compass UOL Launches AI Cockpit with Generative AI"
-    excerpt: "Digital services company Compass UOL today announced it has equipped its workforce of 6,000 software engineers with AI Cockpit,"
-    publishedDateTime: 2023-06-19T15:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/compass-uol-launches-ai-cockpit-with-generative-ai/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
+      name: Nearshore Americas
+      domain: nearshoreamericas.com
+    quality: 28
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://fredericksburg.com/news/nation-world/government-politics/c
 webUrl: "https://fredericksburg.com/news/nation-world/government-politics/congress-ponders-whether-artificial-intelligence-should-have-the-power-of-the-patent/article_088f82fa-a454-51b9-a480-a2c149a93fc5.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1198
     height: 630
     isCached: true
-
-related:
-  - title: "Enhance the Power of AI with Email Intelligence Data"
-    excerpt: "The synergy between email address intelligence and AI empowers fintech companies to overcome challenges like fraud, trust-building, and agility."
-    publishedDateTime: 2023-06-19T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/enhance-the-power-of-ai-with-email-intelligence-data"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/320/be3d7568f1e3af2f9f5df77d8ded8ebf:e299735ff427798094fb2ca0baf7a42f/atdata-fintech-article-2-jun23.jpg"
-        width: 319
-        height: 241
-        isCached: true
-  - title: "Blackbird.AI Raises $20M via Series B to Empower Organizations with Narrative and Perception Risk Intelligence"
-    excerpt: "Blackbird.AI, which claims to be the leader in AI-driven Narrative and Risk Intelligence, announced the close of a $20M Series B round."
-    publishedDateTime: 2023-06-20T03:19:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208908-blackbird-ai-raises-20m-via-series-b-to-empower-organizations-with-narrative-and-perception-risk-intelligence/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Gambling-Roulette-Casino-Risk-1024x678.jpg"
-        width: 1024
-        height: 678
-        isCached: true
 
 secured: "/jdjrIHRA3wVn/FK0JOQBuoZNBh0aNmxgZ4GMxZgYqMrv8NeBQKn6fKEhC7DYBA3Kn3zMyhmgXj0b8483n14GtcBKNE5DKPBAowjUt2UJMC/QemZl4/lsdqtn32ou6vEfXUMiywYmKq8YLDqa2Uj35Az8WMBfrRpvORBSANzL2T7MuWoUWkj0qZk5kZS5ZGyYXWzpP/GMxjw+1OYd4XIxU3+N8OalUT4Pl09OAk78Rq+nXtlQk3RRAp6hUIVoabOs2BMUZXiYX0hv+s2R2Qu6HIKM644GPcls6zcdYp4dVKX4CmxaJtR/aS5JkVJ81CJEddgzvt0TasRvpXvVcwbB8s80p3j8pL498kGqMq3nlI=;jIz6R0eJeIFsz6fDx94kpw=="
 ---

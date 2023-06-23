@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
+    excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
+    publishedDateTime: 2023-06-22T21:59:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/"
+    ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
   - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
     excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
     publishedDateTime: 2023-06-21T18:27:00Z

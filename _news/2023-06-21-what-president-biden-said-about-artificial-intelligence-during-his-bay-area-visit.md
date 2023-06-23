@@ -176,6 +176,15 @@ related:
       name: KYMA
       domain: kyma.com
     quality: 17
+  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
+    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
+    publishedDateTime: 2023-06-23T00:45:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
   - title: "President Biden Remarks on Opportunities and Risks of Artificial Intelligence"
     excerpt: "President Biden gives remarks in San Francisco on the opportunities and risks associated with artificial intelligence (AI). Defense Secretary Lloyd Austin spoke at the National Security Commission on Artificial Intelligence Summit. Secretary of State ..."
     publishedDateTime: 2023-06-20T13:12:00Z
