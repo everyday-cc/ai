@@ -71,15 +71,6 @@ related:
         width: 496
         height: 251
         isCached: true
-  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
-    excerpt: "The use of artificial intelligence in architecture practice and education is limited by its datasets and lack of empathy."
-    publishedDateTime: 2023-06-18T11:17:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-201069"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 32
 
 secured: "pu6fXypybg1RBxTN4ZYkRdiyFHC3uOpejkL+U821rpl3yFlePICYYyee/rajIIz5j2kv1oAV613sHnOZroneME1UZldaD3v0sM9HbpW/yEofCb1+hchz+iTlUJHpd8M7H9vaCG/AmCMyc6TIVZd1l3C73iDwHuv6475ADWfjpu13Do5K65RA9tzuUI2zQ9PCHm5+2vzIlmrvpKaoGCrws+CV21GXRwPFcIMh8KTNtmfvMEw1Ko1uw79HlaoU9bd2pjGsJI7wf40kEDWodLiw7qJL7OXMv8I2gF+YFT76Ln1K7zBoc2DKuNB//PGMoRnGvKDZhqF9jOoDXauw358NepbuFlv1RSpAMQpOe+vOG/k=;OHqr5q5n/nYL/N0t/Utv8Q=="
 ---

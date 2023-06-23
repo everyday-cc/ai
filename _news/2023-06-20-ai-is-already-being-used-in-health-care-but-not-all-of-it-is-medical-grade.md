@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 496
         height: 278
         isCached: true
+  - title: "We are human, not artificial intelligence—medical teaching innovation in Taiwan"
+    excerpt: "We appreciated Sandro Vento's Correspondence addressing the merit of a conducive environment in medical learning.1 With artificial intelligence development booming in recent years, there is a lot of interest in applying artificial intelligence to medical education to quickly produce many new doctors to resolve the problems of insufficient medical resources."
+    publishedDateTime: 2023-06-23T05:53:00Z
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00506-8/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 28
 
 secured: "SgcCDwFoBMtkDiRKuKLdvpuOL1O7Lr42tp9jXec/lRfn6FVY3qcHmGid1y1oGSEi/+LVr1KgfeLbn9Me/nkPPeBA9eYoojXHJa7TMGoTLY19irtpjN5F8lakIx2Cq3Djq+rshbzXKQ5Zlu3aKOVR57/Y5gFKixdIHGfIOVkJ8ywry0EJ6TodE11SGoDT/tacU2LfLTQNPgEb9KmXghRoWIEOD7pAmcI8pQWNfM3XJggvuJXf4PpeSFvIhhlMZGn7snEwgsNQptNUjqgSEvdnQdstaMN4sNdMuR9uwbeVSOWOoI31r4NQozQmcT3rjqyg5k7SS6U/hMQOoMLyQNUgyYfnIx+Ya4+ub3xbHfwsAxb7KfV7W+URblCuDbU46xfU/SGTu3vLPk6T3cmOXgX3rUUOtu1EpoLxfjjxTrDL777ZuzTdqW6jZw59ORzngj3OuXAIcZZuAotYmYwwcfgRNzCyJTYb+EQjsg61EOHAjhGGOyfAPSyr2ilJFtJS6f50Uv7AeD0WvVkXZGReD+q4HA==;oZLPsXtQO6OeuF7FDaIL+A=="
 ---

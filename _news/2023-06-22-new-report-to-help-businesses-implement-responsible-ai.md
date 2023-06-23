@@ -1,22 +1,30 @@
 ---
 category: news
 title: "New report to help businesses implement responsible AI"
-excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
-publishedDateTime: 2023-06-21T23:46:00Z
-originalUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
-webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
+excerpt: "Practices such as impact assessments, data curation, fairness measures, pilot studies and organizational training are some of the simple but effective approaches described in a new report that can help Australian businesses develop robust and responsible artificial intelligence (AI)."
+publishedDateTime: 2023-06-22T16:33:00Z
+originalUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.html"
+webUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-businesses-responsible-ai.amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Manufacturers' Monthly
-  domain: manmonthly.com.au
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/new-report-to-help-bus.jpg"
+    width: 567
+    height: 801
+    isCached: true
 
 related:
   - title: "The Top Five Real Risks Of AI to Your Business"
@@ -73,6 +81,6 @@ related:
       domain: whdh.com
     quality: 17
 
-secured: "dLAoC13pzpxgfnJGflb7enJqusaY2Cym3g51xRmAij8D9opM+baEaVmkbwjWMmiDwFgnma7AJLtuN9QWtriFR1e5e7Qu/9LPSidtX446b07MXr9XoSLf+sBNLHfvT6wXpn4OLWujj4i7Odv9adt3q9ARkCJQp6/QcrUKAAx/IHmp+wgCZKu7vY/kCtP4C8qXYBbTSlCdlLGxCuAPm4y4mWlZu6+O8xV1q1a8eROgT8s8yJXYcuubhfsPkQ4rtq56WEetr/vXphmc3A+MKwiL4PUsjUdyI8WWDjVyRuLF2m9uhMAAPv0tKcl9Z9xg3j/9Penp0o3dVzSKEdESPmNZZ3ch6CyzFLPkjK5a05pyyQhTLK3Oz33EgNS2QCa7IftpNRhX5iaxhIMxySIrNj24WgGDT2vzhKePV+s4iN2cRLSz9WeM9H5zmWgPcrs2MFWygzG7EsihW69V/a3MwSMg9T7iyb9QOj+A1KelTLFS2r61+IPPRyJkmVnrpMl7XKuxVoGsae/pda+yMHbsLjCPRA==;31fNp0DGCm0k0OjmwlFusg=="
+secured: "44cAqHwR/P5rvpjdSMrZTtXTgeghDupJ037w496OmBETkm9nsXM3iPf5buWGSnMzhlvHyuxnexNqTO7P9A25iI8Emn+m79GdSOQBLvwaOPByxQO42BeM9bBIxF3Goguim7H0V5b2ICOnsyf8/1doB9k2b4GaEu08kluZJS7mMU2vI0OOcOgYGwVD4pr5DKWWO5LA8JlIJ+7hkD9VbNzu2HInPZS/C0wWdaZs60hRnZ3EEQ17q/ZvrnvTuJ1gM8+B9sdsnwxByuHBsKNoCoUJXnUhHlNPmH3SkC4dh3JWok/kaQMpBMMnuszox5aUA8AU/jEKxzRa1E8Rc5J/CIMqYrBNWV5oGqNWIptG90U6Is8=;j03uqdLiCQiswp3o+EKBkA=="
 ---
 

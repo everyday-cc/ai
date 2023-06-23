@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-trans
 webUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Last AI Boom Didn't Kill Jobs. Feel Better?"
+    excerpt: "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities."
+    publishedDateTime: 2023-06-22T16:01:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Man vs. AI: Who makes a better beer?"
     excerpt: "A brewery in Bucks County is testing whether or not artificial intelligence can brew a better beer than its head brewer. Howard Monroe is at Second Sin Brewing in Bristol to explain how this competition came about and whose is better."

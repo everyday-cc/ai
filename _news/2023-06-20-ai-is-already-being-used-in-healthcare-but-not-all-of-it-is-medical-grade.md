@@ -55,6 +55,15 @@ related:
         width: 496
         height: 278
         isCached: true
+  - title: "We are human, not artificial intelligence—medical teaching innovation in Taiwan"
+    excerpt: "We appreciated Sandro Vento's Correspondence addressing the merit of a conducive environment in medical learning.1 With artificial intelligence development booming in recent years, there is a lot of interest in applying artificial intelligence to medical education to quickly produce many new doctors to resolve the problems of insufficient medical resources."
+    publishedDateTime: 2023-06-23T05:53:00Z
+    webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00506-8/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 28
 
 secured: "YLMI/pc20XP6ABF5o7oo9yGe9t4QhAvKFtZe44Kqj/+m+lCpl7oyRejSKCUFj5gj+qvH3Yiepy8LkZ2V/tUbbJtVIv5HgBPaiwGUKbkEi8lIGpXA+2H+tXbuz+TPMSk8LuEgiKSFZ64IPYaMwXaYiNvfTdv5mxG/G1Qy0nwKcM8p7p6vgG+trXDW8W0lRGaISGF5OUnVbk6b4rsZkxvirZhsG81gNju94bxy206+kDqYJ1iBAot+f16zjR7u44fU3JM44L9ZZXVJMXuHOPsVY0PMirJTKCX3gz1UVkm7l6+FFdcehUBUo7ZHXs1wDR1st5zn3FORAAbO9v3w9eU6U6mqfJct4po9aYrwiafsZZJz1foscfbaHp2sfo/P4x1frbRVGPK8ORFMt7KjnCe8EtMLXOOCv3bLiqBjYjT9+XIm3ZZ5i63GIhtCZQWZ2TSLhlFsEW2/j2vAnQ1h4uJ9uJDasKDjyV1mD2USfp+dfzLenSQpGB4NWLAykkqww7tutyiBVReBh9Zx4nYvJoABtA==;styY44Dvv5epbulizwhkFw=="
 ---

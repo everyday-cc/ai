@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fi
 webUrl: "https://www.genengnews.com/news/new-ai-platform-bioautomated-is-fit-for-a-biologist/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "New rapid automated viral plaque detection system enabled by holography and deep learning"
+    excerpt: "In a new paper published in Nature Biomedical Engineering, a team of scientists led by Professor Aydogan Ozcan from the Electrical and Computer Engineering Department at UCLA and an associate director of the California NanoSystems Institute,"
+    publishedDateTime: 2023-06-23T05:30:00Z
+    webUrl: "https://www.news-medical.net/news/20230623/New-rapid-automated-viral-plaque-detection-system-enabled-by-holography-and-deep-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 30
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "ROS9lSXB9d9cLXcNCF7QNC+LP+bwgx7uj6Zpl7ztMOD5wWtVsSQdefKuQRI9XKLrtnFa3RSGYdfahgVeCOSfd1cYvxylUqeNgVwEe+Dq4QESeemrRwTs+ohvJ9AuoPW8I0kx9Jew2Jy8YrLYe0f7nacvcc2K9QwHJj9H8ArDJleILZcG6BV4j64FSRcmPI+1ffB6O4sRUxpAkE5HEjL95SNiPabtTnamSxbDZXuX6ZkDLFoyqSnazcx6ZdiNhCRWEgd8RmBB+EKDhffJ8/4TZLCZ8p/GQhbQ+SiPOSjUWotsp4enZQfaY/FgRx7ZMyqW+EGFrQIS68Jf924gKkVtbtQ9PEb6nG0LjSUBLCI9gLY=;GqeuQylTvbCKoANEvr++YQ=="
 ---

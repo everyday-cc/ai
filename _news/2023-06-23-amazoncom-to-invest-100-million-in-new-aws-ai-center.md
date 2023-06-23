@@ -149,6 +149,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "AWS invests $100 mn to help customers build generative AI solutions"
+    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy"
+    publishedDateTime: 2023-06-23T04:29:00Z
+    webUrl: "https://glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions"
+    ampWebUrl: "https://glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/aws-invests-100-mn-to-help-customers-build-generative-ai-solutions?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/eaeb9a94d664f10af2bed3ba537dd5b1.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Old Mutual Completes All-In Migration to AWS"
     excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
     publishedDateTime: 2023-06-22T03:44:00Z
@@ -260,6 +276,20 @@ related:
       - url: "https://thumb.spokesman.com/B5UxYNbrnMprdCPmokm4DWurUZY=/1200x630/smart/media.spokesman.com/photos/2023/06/22/6494e22b7058e.hires.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon is spending $100m to teach cloud customers about AI"
+    excerpt: "Amazon has denied its generative AI tools were rushed or incomplete and said the technology is ready for customers to test and provide feedback."
+    publishedDateTime: 2023-06-23T05:20:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/amazon-is-spending-100m-to-teach-cloud-customers-about-ai/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/06/399523647-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "How To Invest In Artificial Intelligence in 2023"
     excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"

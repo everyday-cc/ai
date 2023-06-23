@@ -34,6 +34,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "New report to help businesses implement responsible AI"
+    excerpt: "Practices such as impact assessments, data curation, fairness measures, pilot studies and organizational training are some of the simple but effective approaches described in a new report that can help Australian businesses develop robust and responsible artificial intelligence (AI)."
+    publishedDateTime: 2023-06-22T16:33:00Z
+    webUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-businesses-responsible-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/new-report-to-help-bus.jpg"
+        width: 567
+        height: 801
+        isCached: true
   - title: "AI drive-thrus may be good for business. But not for the rest of us"
     excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
     publishedDateTime: 2023-06-19T20:41:00Z
@@ -62,15 +78,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "New report to help businesses implement responsible AI"
-    excerpt: "A new AI report for Australia’s National AI Centre explores practical steps to implement the Australian Government’s AI ethics principles."
-    publishedDateTime: 2023-06-21T23:46:00Z
-    webUrl: "https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 19
 
 secured: "gnw+MnL0ahUyupDB+ltpnenw/6XBtf6IRxuThVK5xT313XB9k854pjF6gB4HGGawcLVoSSZtTrUonx5YPcYfgxzoj1EOhcJYTp6Y8tzttJ77juBBrJ5/M29r4dPUKcsgxUb6lwVznQAOKa1Y9WDjYwjSmtq2k5UvOuMnXzquZ5uNnm7tUh4JkFewujZTh+46k+APfaRvqtDQAikN2AWJItm4e8OApDk7M6DCRi1RM2OyS57VQc3k2o4fYpSEYXTJzplO2xD3rvEN3B+UGEqMHwwqLdy3kSM/1C3JE7YrAQMcBTpdOtSTlEM+G9tG2jWQ+MAcYd+iYqgCEKfI60QA8d/ok585ct+1JYM9BtNkXas=;kyut5kSGszezWHxMjnsA6A=="
 ---

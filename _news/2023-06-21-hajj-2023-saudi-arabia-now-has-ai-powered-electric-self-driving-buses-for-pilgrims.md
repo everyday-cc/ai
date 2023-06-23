@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Self-driving vehicles to transport Hajj pilgrims for first time"
+    excerpt: "Makkah: Saudi Arabia’s Transport General Authority (TGA), for the first time, is launching the trial of self-driving electric buses to serve the pilgrims this Hajj season besides providing innovative modern technologies for sustainable and environment-friendly transportation."
+    publishedDateTime: 2023-06-23T04:19:00Z
+    webUrl: "https://gnnhd.tv/news/21603/self-driving-vehicles-to-transport-hajj-pilgrims-for-first-time"
+    ampWebUrl: "https://gnnhd.tv/amp/news/21603/self-driving-vehicles-to-transport-hajj-pilgrims-for-first-time"
+    cdnAmpWebUrl: "https://gnnhd-tv.cdn.ampproject.org/c/s/gnnhd.tv/amp/news/21603/self-driving-vehicles-to-transport-hajj-pilgrims-for-first-time"
+    type: article
+    provider:
+      name: gnnhd
+      domain: gnnhd.tv
+    quality: 44
+    images:
+      - url: "https://gnnhd.tv/media/65591/23082030877d56f.jpg"
+        width: 850
+        height: 500
+        isCached: true
   - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
     excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
     publishedDateTime: 2023-06-22T05:51:00Z

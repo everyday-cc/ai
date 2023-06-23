@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-devron-awarded-best-machine-learning-company-in-2023.md",
-      "title": "Devron Awarded “Best Machine Learning Company” in 2023",
-      "excerpt": "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/devron-awarded-best-machine-learning-company-in-2023-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/devron-awarded-best-machine-learning-company-in-2023-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-sketch-based-object-detection-tool-using-machine-learning-could-boost-tumor-detection.md",
       "title": "Sketch-based object detection tool using machine learning could boost tumor detection",
       "excerpt": "Teaching machine learning tools to detect specific objects in a specific image and discount others is a \"game-changer\" that could lead to advancements in cancer detection, according to leading researchers from the University of Surrey.",
@@ -180,6 +128,58 @@
         "name": "BizTimes",
         "domain": "biztimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-devron-awarded-2023-best-machine-learning-company.md",
+      "title": "Devron Awarded 2023 \"Best Machine Learning Company\"",
+      "excerpt": "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

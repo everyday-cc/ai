@@ -44,6 +44,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "How to use AI to expand the background of any image"
+    excerpt: "Use these simple AI image extender tools to expand the background of any photo or illustration you like—they'll make up something that should fit."
+    publishedDateTime: 2023-06-21T12:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-image-extender-tools/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "lq+8nogIwX/wGsaCIBcHXemgG+xcpN4aoBMPcDtzGHcOMHs0PPXSwH8Bzt+v+AYTE8s+PofQvaxbBTfOB+ZOkd0XAl+3YA84kAvQ93GZ4d56+2gtRx+Q23K/RteKoAV+yCNLnPQikWiQl31AlARJYH61p+CsQJZkB/W3MXNn0PfillltyhZDJS4oGqiNXW8a6ojDl4n8RfYkaDYutW7jvPYT8e0RLFF/O40Tx7UHRydCN55zcdLuX6ZsJRy/a7sk8Nwtcir/Foeu48RjZa+QnAxevWVUUIpbm2KxcXgQh2WYGQENW0l7dZp2Q903oXsq55S1v8Z6Kl2bCJts+gQ73zc9x33HVEK57KfiJ7hyln5f/TGE0e/WUBzCFzKTd3KPRJoPt7LkxOy3JMnIryPIAB8WcZOyDU9NEO3D6XLD40kgURCkHOJjbTpgYI+JQ5rZ3NFIU7Ax2toPOxcFcIwT/tW3RX2TDiJZj6b+5XDR8X6yAD3wV8yBFraHh05gBW4nfO/lkxOmFL6Ywz3Zkb7fIA==;GiYJqGWHQSP83fgkDwf2dg=="
 ---

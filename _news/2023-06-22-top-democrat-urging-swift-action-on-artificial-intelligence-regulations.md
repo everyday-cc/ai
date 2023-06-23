@@ -82,6 +82,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 17
+  - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T04:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/06/23/regulating-fintech-allowing-for-the-innovation-while-protecting-investors-and-consumers/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 15
+    images:
+      - url: "https://www.irishtimes.com/resizer/wlvhuWXI7a7Cjl6uRRVZlHUN0BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/RPUIGKQF2RHEHHNIHMKJOTFJV4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "f5+0US1gEn73iEeOxieBZDX8VWfywAmkA27QdpI/5WKYOs6PrOO3FMMN+ObtNVsWsOtwdo0Vqv3gwT+gu/rZatCh7KpZ+1CrigYyoXLeIBl1PJGHxvq6Urtfs1zbIgmP6O4K438xmvQqtYOX56ljAYRcjgcYsOFxRZZ1xGSTgLKZI40A2rnmwz5xyiCJdMPH3HY3IqjwiNzHGyP9P09t7wKw+m4+o/QjaPfswJ+2fhwLhcANXmyrzYL4ci3arZfPRGZT7jj0uRrNMr29UksrWcz0EuSraMhi4DfdQlQ5DBsicguD0ELmExKkgPDe8JqTC3bGdbkvs+AEoFnTnpVMMYbV0SrUxJBhfsB/zr4gq4s=;lWW8Lx+XgPm7TkHSL+O9aw=="
 ---

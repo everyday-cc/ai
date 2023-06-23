@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023"
-    excerpt: "SINGAPORE - Media OutReach - 21 June 2023 - Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook.Jon Maier, Chief Investment Officer,"
+    excerpt: "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon Maier, Chief Investment Officer, Global X ETFs said:"
     publishedDateTime: 2023-06-21T12:45:00Z
-    webUrl: "https://www.asiaone.com/business/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-key-investment"
+    webUrl: "https://www.sinchew.com.my/20230621/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: sinchew
+      domain: sinchew.com.my
     quality: 26
   - title: "Global X Etfs: Artificial Intelligence, Robotics & Automation, And Mobility Are The Key Investment Themes For 2H2023"
     excerpt: "while labor (onshore and offshore) continues to be more expensive over time, robotics costs have declined. this dynamic alongside improving technology is driving the case for adopting automation. mobility - electric vehicles the adoption of evs is the ..."

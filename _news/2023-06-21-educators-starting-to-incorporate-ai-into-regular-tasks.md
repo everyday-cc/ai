@@ -80,6 +80,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T04:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/06/23/regulating-fintech-allowing-for-the-innovation-while-protecting-investors-and-consumers/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 15
+    images:
+      - url: "https://www.irishtimes.com/resizer/wlvhuWXI7a7Cjl6uRRVZlHUN0BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/RPUIGKQF2RHEHHNIHMKJOTFJV4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hCD1JhEaLntY/AO2j9SfQ0tww1ELX3eMYgwgvKxoXN2D8cEPq2ko5B/AXKtxx7cWuZAfjfnMYEFLEFUNoO7zeY/3EgUKfM/t63FRa5Gw+ZogpL0Sw7lw5ttb1QQ+rvk064Ug7VCZpv+B4SHdhx0z1TrTYiNt4CAezO5MrH0Pox5gDnls8N1i/Mvs1k1s9WHVpPfDHDBjrT0onw7mpg+BBGX/JmWDGEPhLOi3QL8JvbaWNYJVpo4zDJUdEItEHpYL97+GqMJuDEorrARv/9gTm+j8H1jBNsviFZL5ICyeoh+jrenpFgck4Ha/W3R2UWRz69v/T8RM50wTg7Nc4+vfh3HQ6vUvtuRY/d9b5vcSHMPl36JueHRle+Xz17DOf8pb3pDSI9TblNPz7nmAZiKuXBP6Nu+yMfrQVbl0O58ReFxbft19zTrrOKZa1IS7NoBgtEVSRAGQMTUeG/chpLQobqkJwkSo1SB0e/2hjUVp/0SdFlKCZ0IYC1YvlGtoLKtqKp0eJp0EpAwG7kvEEbi0Kg==;npTbRJbv4VumPcl3UJLbaw=="
 ---

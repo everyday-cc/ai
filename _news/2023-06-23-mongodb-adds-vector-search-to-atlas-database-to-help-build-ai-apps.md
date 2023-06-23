@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "MongoDB integrates with Google Cloud’s Vertex AI models amid flurry of new features"
+    excerpt: "MongoDB today hosted its developer conference and announced new features for Atlas as well as a Google Cloud partnership and new programs."
+    publishedDateTime: 2023-06-23T01:26:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/top-5-announcements-from-mongodb-annual-developer-conference/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/MongoDBHQ.jpg?w=1200&strip=all"
+        width: 1199
+        height: 607
+        isCached: true
   - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
     excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
     publishedDateTime: 2023-06-22T18:51:00Z
@@ -41,6 +55,6 @@ related:
       domain: crn.com
     quality: 19
 
-secured: "MNgKaZBV/OHRkp0OvYI1iIRDr2+KV/jsrMCEpb6BB0p1Q7UEMUUAaXZqdRA8Xu+UMkFwyMnmSlRfT1bxKMJjXkmoQy0uUMGw28GEUw8Pw3Iz8b4RXCnFRP3fM+KkBa1fSVrgSFOVunrnG61i2g+Sq3qiLGyL2pObGtgs5dJAM0NxmTJA8zbYSaFUpjcc92njlkWzIu6r9zSMcuT3mqdVM5+4MP9IZ9qBBAJS/5YcLtKe7xVJPHCN0ZSJWmr8poQ6X/eBt49W6aP1h498ehIfds60Dotmz3SGQjORKMpOAYh49u6gKwiy3w/T64yQmNEDBGWnIt9GJy3OGcAJogZ4S/Q4MsH2VsnwlKB2uTkF8I4=;g7ssRGwcTEMeWeg2ibRkog=="
+secured: "umvdGm92rgyABGPE8qm2SzcQCR8MASfLtCbOGdr+vZpo43FwI52oTTW5MMd0FphC+KZxYlqdpnuqEVt1ffzGeIF7s1KiWmxNjkSyT4WBQy+Is8aOGwDPKTpn2JlX1Hz8rHz1qJmGFa8/CUUPIuMPjem1a4wxDy6iw7LIdvFCYwWOAD8PEv/3M36cna+OYbhjuHI4Qps9GZBZ3sFrO6iJVWbGWi31Ntr5oku0Bw1fs9LjL3tOLDjVqDt41jRGzzQJr67vGRh1Zlig6ObjHRihMN/uY0v3qSs3RE2sJbwg85WZBOK7RWUwCv+J63faRvmMIujgXNun2DgVTieTUxC/nrPHYMSD5AztzqDVvrxJIhmrjsvpm0zC50bylGsSH/XE+6qTVY2HYMKUvCeH/VqFth/o9K1qK3Ni+OsEeoWcFYJFD1Y39lPfKppoRvbwvvmYVkkXACJK4ZHU/6a+zMfwnVedkRQ+3qVPEGgN93kjUeKFMLwmENzcclFk6pInYOWqKQCbq9M7NqM+wT7LBWbubg==;MVvDOjn+kG37nlQWKKr8vg=="
 ---
 

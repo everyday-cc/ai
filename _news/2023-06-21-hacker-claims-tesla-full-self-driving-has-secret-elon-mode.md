@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacke
 webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hacker claims to discover “Elon Mode” for Tesla self-driving cars"
+    excerpt: "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these"
+    publishedDateTime: 2023-06-23T04:15:00Z
+    webUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars"
+    ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 74
+    images:
+      - url: "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png"
+        width: 620
+        height: 382
+        isCached: true
   - title: "Hacker uncovers secret Tesla full self-driving mode with fewer safety precautions"
     excerpt: "An undisclosed version of Tesla's full self-driving (FSD) software has recently emerged. Its intended use remains unknown, but it appears to have fewer restrictions than what"
     publishedDateTime: 2023-06-21T11:55:00Z

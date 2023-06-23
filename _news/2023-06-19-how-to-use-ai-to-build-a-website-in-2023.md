@@ -46,6 +46,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How to use AI to expand the background of any image"
+    excerpt: "Use these simple AI image extender tools to expand the background of any photo or illustration you like—they'll make up something that should fit."
+    publishedDateTime: 2023-06-21T12:00:00Z
+    webUrl: "https://www.popsci.com/diy/ai-image-extender-tools/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "xxRFNIv0D3N4VCBqbOFHi38kA0LCb3FfOA28QGiInqu4KIhTtOkksJcDVVt56csakIdSNuRcXciBFdD3DqYB2h6hnpiMO8cA9bwoiHav48bk1HDcZvNQIJ78F1ap+MwGUn1cNKOK52RuLkdWZ/c3aaBWSiQGukVBiO2UjSjN/EKDWa7Qpz6aveSmDFgMPAPyO0lKPB4FGOwJuznTyeyjkabvb3E3OWFuEzWHdgvxQLnCDxtGWuhOJUtEL+pvivj/aF9PfUjk8WhRihjmSlDYkNZHcVnQjW2kWJBXwoDHcXvRC4hvYo3vNhuQI6rwlnR71Jk9J/b+4hGbPbNEwniYmbo+2JLx+SgPhb5q3+dwVoIOrGR0GPAu6VlhuxO8xQ+9km/N7hUNMKS5ZnotVx7tPjQZmf2hmIWpPgsu7Kq8njoyUB9Hp+AgFjAZ/7KRTMsElLkUbL3WaFSqXfMTEsFqiKokygyjXcBF3wQm2i/hA4fL6H5ParRcw5AVrWW+S5MTZnDNJUPn3DrsQ2pMeM1IVA==;hsel2tbdNpy4w4vMb0XzOQ=="
 ---

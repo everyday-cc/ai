@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Devron Awarded “Best Machine Learning Company” in 2023"
-    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as"
-    publishedDateTime: 2023-06-22T00:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/devron-awarded-best-machine-learning-company-in-2023-2023-06-21"
+  - title: "Robust Intelligence Named \"Best AI Startup\" in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies LOS ANGELES, June 21, 2023 /PRNewswire-PRWeb/ -- AI Breakthrough, a leading market intelligence organization that recognizes the top companies,"
+    publishedDateTime: 2023-06-21T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robust-intelligence-named-best-ai-startup-in-2023-artificial-intelligence-breakthrough-awards-program-3390dd7f"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Devron Awarded \"Best Machine Learning Company\" in 2023"
-    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as the winner of the \"Best Machine Learning Company\" award in the sixth annual AI Breakthrough Awards program,"
-    publishedDateTime: 2023-06-21T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836795.htm"
+  - title: "Subtle Medical Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Subtle Medical Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups PR Newswire MENLO PARK, Calif., June 22,"
+    publishedDateTime: 2023-06-22T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/subtle-medical-named-to-the-2023-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-414cb591"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8riZmX9Up/I56w3hqp/Npdd8LdWNPyTVVqQ/9GVRu6M4ACl0IUbkq3jpkUErCR8/SOwJ4u4Mlj+OpBqT9JiDraYh3MH+qLvBWZDF2JkFZ+3l+YwD+EZlJB3AW/SY1f8Iiz+D8o1+Z+QqjFTrK6Pd63Iqi8mNM1tijpBYJ2h6YPSo6z0Be0QvIiegqefPHOoLYLc89qHdp9mZx+MhfUA0KUbVLoadnOZViDFnea5VX2cynkZxEZFiskFNELsko3Owb2W/GDpEO1ckO9OU5DJZG9pwuBWNXhbOT0UXxKMV15xqaUKcTimL+Mb2sHKVprnkRdkNVTjdFtKf9U5gWA+BNzSRsOyIa8qjC2ITTtiiXbc=;h/ihHVmfZWmdbL2hwre1TQ=="
 ---

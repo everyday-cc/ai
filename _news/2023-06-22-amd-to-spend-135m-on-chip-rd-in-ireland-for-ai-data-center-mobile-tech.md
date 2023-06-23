@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-ch
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AMD to spend $135M on chip R&D in Ireland, aiming at AI, data centre, mobile tech"
+    excerpt: "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland."
+    publishedDateTime: 2023-06-23T04:59:00Z
+    webUrl: "https://www.arnnet.com.au/article/707776/amd-spend-135m-chip-r-d-ireland-aiming-ai-data-centre-mobile-tech/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 49
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/amd_hq-100942505-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "JGiYGod+beZwVQuf3WzuIIc45h470Y7Afb2srtvfS7cBjmJDzTfJD80Nlq+hHHBtV5qSUpU8pVq55hcxRrEkYby71srShBTk9gwnz1/kPdT+8gWRLBBmFX5CI3grAgesBIWvmAp/Be82ruYB87eaxqitnB8xwc3MNCso4A8lMFRehXge5OBTGtrdm1I/3z3KQEwZ2emiZ9hBlhYBh4/TCqZ2GrOX9qEhDzggfiGmImrCXAwiGjrwSlKmRASrhkzJBpEqFVxwbwor6cPwsdr4hMHYP/s3MI64VSoeM3Q/s6eDL0O9PXXbBwiygluGzcGz3VBKuMEia39KFvO+RSu6/CkiizTI+Z7Mxt+pSZsjFP51bUsznuDEaZYxOM9uqcbIcXxo7S0AuTK8CPhC9/NJp9G7HnFxCoROyMsSkSAJKACtBRKEvYgVwzNPpsUY3WztfODk18GbuRtrlWMlBiEwQoLZ39+GwO7sAeKIO+yIFRAzuMbPe3xJQWdR2/mv5aWf0/F0LyyLUpHpn1ECI4AjbA==;lTbRtGZKJNeqOwsWm50HNg=="
 ---

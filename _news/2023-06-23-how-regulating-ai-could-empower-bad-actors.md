@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 17
+  - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T04:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/06/23/regulating-fintech-allowing-for-the-innovation-while-protecting-investors-and-consumers/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 15
+    images:
+      - url: "https://www.irishtimes.com/resizer/wlvhuWXI7a7Cjl6uRRVZlHUN0BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/RPUIGKQF2RHEHHNIHMKJOTFJV4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NlBitUwlyJng2qugtMf7DTTgVIy3TGSAS0+2vUC11a7mrSQ47FdAF2JglvJ8xaEemdG8mxL15/lhoZQjm605hccXWzK7kOc7RX6NvwZweULvi8lpH8RujQmCwosA7HhI+2O9DtPRpqDMnQNIkaE38ax8omFQnEwFHKxX8NA05tkuDNOPgx44u1bE/kJlLTnHwycleArZ7eIujKxvc6az9hVVMm/BioXKsSwv8oMJhtatDSA65kPFzNRbNyFCIlsoEACQf9NRjxID3MNmRQ/jwqh9VoaZVdLrd6bqfAzoCvekUXIEpCrUHX51NAH8F4LPNYq+3wRMMJ2ylBe/581LaNHo8g2JiHlkomHGKwkvft1dKF39Uv6ZVWILWzVIemHE9v2OzZidmXMCfowzuinAM8hz78xqe5ZkBIA7ec8PGQb+gOVA4l3MHMZXvGAgTfR04P/WucgZE5po4oQuO9vtJprJaZ6EfZdRdhXJ5VCQzLHgRDsiTT5g+BNpQraDMEaC3Mw/sX1Gr7AvOdDqAM7b2A==;iJKTYIR4lzjtdWB4eyG82Q=="
 ---

@@ -2,6 +2,152 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-05-18-figures-humanoid-robot-takes-its-first-steps.md",
+      "title": "Figure’s humanoid robot takes its first steps",
+      "excerpt": "The startup is well-funded, bootstrapped with $100 million ... much in a humanoid is a big vote of confidence in the future intersection between robots and generative AI. These are three different humanoid robot renders from three different companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/image-21-e1684409322876.png?resize=1200,855",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/amp/",
+      "publishedDateTime": "2023-05-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-check-your-artificial-intelligence-bossware-tools-for-bias-says-us-agency-head.md",
+      "title": "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head",
+      "excerpt": "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_48f2da9321a023aa102e636026667bb4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429860",
+      "publishedDateTime": "2023-05-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.md",
+      "title": "Meta pulls the curtain back on its A.I. chips for the first time",
+      "excerpt": "Meta revealed that it built a video-processing computer chip and another chip to help with A.I. tasks like recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1684425601",
+          "width": 1947,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/18/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time.html",
+      "publishedDateTime": "2023-05-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
       "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
       "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
@@ -1041,146 +1187,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-reddit-cofounder-says-the-us-government-is-not-equipped-to-regulate-ai-and-must-get-up-to-speed-quickly.md",
-      "title": "Reddit cofounder says the US government is not equipped to regulate AI and must get 'up to speed quickly'",
-      "excerpt": "Fears are growing about the possible misuse of AI, with many tech leaders, including Elon Musk, calling for a pause in its development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "originalUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6465e2a8fb9a9d0018c9056b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp",
-      "publishedDateTime": "2023-05-18T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ex-apple-employee-accused-of-stealing-self-driving-tech-secrets.md",
-      "title": "Ex-Apple employee accused of stealing self-driving tech secrets",
-      "excerpt": "Wang is the third employee from China to face charges of trade secrets theft is the third to hit the company. Last year Xiaolang Zhang pleaded guilty to stealing trade secrets from Apple’s autonomous division. Another man faces charges, but the trial is to be set at a later date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
-      "originalUrl": "https://www.just-auto.com/news/ex-apple-employee-accused-of-stealing-self-driving-tech-secrets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-teslas-optimus-robot-is-learning-to-navigate-sense-and-pick-things-up.md",
-      "title": "Tesla's Optimus robot is learning to navigate, sense and pick things up",
-      "excerpt": "At Tesla's 2023 shareholders meeting, Elon Musk showed some new video of the Optimus robot he believes will represent the vast majority of the company's value in the future – as well as the method through which the development team is training the AI.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-optimus-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9bfd629/2147483647/strip/true/crop/1619x850+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F64%2F06%2F934b987f4684b1729a14cb45c697%2Fscreenshot-2023-05-18-at-7.37.54%20pm.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
