@@ -202,6 +202,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
+  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
+    excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
+    publishedDateTime: 2023-06-24T13:17:00Z
+    webUrl: "https://www.inferse.com/564114/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 17
 
 secured: "Fj4e9sF2LtZPJp7MzkhIpC9HPcRS3gqVURspnkMU1q4Qfej1rOiomLabJgDXKAqD53godOasgT3JKCI9yQfHIl/JmBSsWnFPSuOmGiC+d7jphVl1FpEPRrtJ43Xwl+fSB4C/wHP25pMpGHI8SwIlZssSG+izZndkz6G46nkgHm5Gh372lMZ/XgXPRlIwDIM2iNOWIQcnaLrLwuAiSalVueZZjhXyDniLjgPU7abA3qDPGBO2cYJkMhnRqy89vUhV9Hm8E3V6bocFnktcbt13FtwUOS7X0mKKfLOYUlBbf+7gavmJl6yf2+9pOOp8J70t44dofSM+EJwzyhc8SdHQ8VFqEBz+4Ddi+WO8/twOcHo=;kdthYs5a/wTk+Key/xPYYQ=="
 ---

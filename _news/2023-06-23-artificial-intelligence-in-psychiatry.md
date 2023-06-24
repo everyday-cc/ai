@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-inte
 ampWebUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -41,6 +42,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "LgoAwMJMHvAlJ0xNvKuYfifJBAmn6MwtWIQsVgKBU1TAQ60jRRoi7LLalAD+hrdjlygpXH2YQoFsW0U43LVDn518QBtTWqj9Mq37qQZOox+Cbt0hMr+dA8Z+aPkIOzm0uDUC8FguVC21/n67S4njNhSyLzXNbwiCMCAiSZHgvfEb1hQd4fpFc0lbu1EjToOuSI4ll3pg2HQ5d3argoXo0BmG1atgSTM87q4ee25Vt/JV00RJDluIzKVz0xHgkOaVDbeu94PuwyrCKAfbfchZBalX5vbwYKcmuM4Pwg9ozD3NWyMAyPGYHwYeATO+40P9rc4DGrPvSUqt2o3Jpx4zFMX+yA+B5DMFJKEqFVC5Gaw=;B8H1KshR8q4O6IDB/Qycnw=="
+secured: "FTjC7ETxpOeJ//M1r281Y0Xa3tiPGH3akHIxne2Q16h9uA3UKZhCKLSCWC9o1jdA6N1xK0Y0wsckb+52OWoGbtYOqZE/dakr6OzHq2KJYMki4FJtd+1XWkDDGn2Xzqx7aK/rEiMK87oVbwSQNweWhgXYOdSEkMG4KmW3z/UwcBEDePC8+gI3bofow/FMmLP2CRyuPd/PMg76BPDJ8T/Ipv4i5GBUMiNhOQjJNrm4heLHByIU3o8X2MluGLaG60L4fRvfXj+0oFwiz0Acxiidgd3H0l+8eHsd+WYaAIjicVRv4dYLru5pHQVnetM5AXsGOrptg8HXYGAoc/vPBFm3EcH9WU9w15ewkrUyMjEl5+0=;N0yG8+Gp2U/2Jgyt+wrhOw=="
 ---
 

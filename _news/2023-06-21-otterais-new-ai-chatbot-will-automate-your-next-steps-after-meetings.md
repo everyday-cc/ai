@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 19
+  - title: "Put AI to use, from chatbots to robots with this training bundle deal"
+    excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
+    publishedDateTime: 2023-06-24T12:12:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/put-ai-to-use-from-chatbots-to-robots-with-this-training-bundle-deal/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
     quality: 19
   - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
     excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"

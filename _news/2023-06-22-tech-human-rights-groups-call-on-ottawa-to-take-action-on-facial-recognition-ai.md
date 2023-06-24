@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "US state, Ireland curb police use of facial recognition"
-    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
-    publishedDateTime: 2023-06-19T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "EDiinOhNWpS0mf7XFjrm8rgfQaiZOl4dNohG7lm7OmySy+wejWt9jZaD/qxUN5fWXZJlwm/KRcO88D8zI0IIEzybvdpiA6Gw8LHIXu1TohRVOokDuNd/rOriT/XIk7ks+1TOCVXoR6K84O+re2yffKBiLEdytCdT1/p6Ea3RJoJfrEVYZ8xuepRTgA2GCveniuUzVzfav/iWFhIV6/PRFIZ9FsL+WHRWM7E+SRf4xTgd9VDEgDgMD3tTSw8afWx4B8YpDYFyEZkJ2mFqJc4LFZrAGkw5ZFRp/ErWwKSFR68DI8xjR+mlJdKvE7JIZohKhI0X6NolWmeAE7RdC8hvxLthH11h6isTtDbV83hbyDLdl5ONpsc3HGiY4xCl/ug4nVPiS+DkS6sQc5rdG/qhE5K8hOgY2PjGL5KOUv9vhvg7NBte88Ce3/0MB3CJWDOOMOLq1rGqDT8Cx14F+tEniNcA2qIP6npaCAlDieTN+pm4KlgpaZIW0n+pCDBaqCA1hwMOFZP8pL3SU8yyqCZS9g==;uZ1N53z4QgZ4Di/0TamZow=="
 ---

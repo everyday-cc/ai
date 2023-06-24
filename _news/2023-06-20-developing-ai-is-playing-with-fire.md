@@ -164,6 +164,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
+    publishedDateTime: 2023-06-20T09:19:00Z
+    webUrl: "https://www.cambridge.org/ag/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=HB"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "2YnrSzwSM/+cCPhw0z6ZjnVR/RxBltfFa6tfzul0tk3vtCFWYkP3cE3OpZiKSsMMcrQIOgfl5+0X5v+BSnKNwxPApE5pTPbXq6nqDf3Rm/+7GDi2Z5Dt5IwgWZfrJF4rgWMGOJpOkUk2lDXjm+EtuirG3FZp9fXqa2ittFcy18oPr/FMiT0bTlvg/WNzx326Pdf9fHWZyhOL9c545EjTuzkI1RLYkrnHGdUi6L5Xtp0PPoEx7xze0LBHrdNC7mscxbrr5woF74kKAdWTtG6lN5HocjveEhgq4ieqo91gWqdi1MQGtN1qKw6UNyPsJiDSaaqelZDv5IACmbE0/PUzaZjdRiXVD8qprig6R1ywY6Y=;DUXbF010WuNGokMdOzfi7w=="
 ---

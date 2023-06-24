@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Meta announces 'breakthrough' AI tool that allows you to clone your best friends voice"
+    excerpt: "Meta has announced Voicebox, an AI text-to-speech system that is capable of speaking in six languages and voice replication with only 2 seconds of audio."
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.tweaktown.com/news/92055/meta-announces-breakthrough-ai-tool-that-allows-you-to-clone-your-best-friends-voice/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92055_1156165_meta-announces-breakthrough-ai-tool-that-allows-you-to-replicate-your-best-friends-voice_full.jpg"
+        width: 1500
+        height: 911
+        isCached: true
+
 secured: "awXyOaR9zc4hdEzoqUck/dzcjU3N4Cp9jJEzm3+09tkMHRFlrOZf2sVokckaT95uCs2ieZudGZgUyNAxq78cBpqdR7iUZqOpJWLtKbdtS2pY3e4iRqqI2r9RqqbH1IWs6lRj2neX38j47jZG8lbeXbSBTEkLT1So9UCD7PpYrCKmGDU0AG9o3BtPe6YEVFhAPfyKcT/xN5VLtayfWD0I4VWvqxsg6fr7yejhgJT0fWZcViVVNpr+YH58sv5QHYP5QbpWpQM9j6EiQF+libl/6nJA/FE6OUK97QRzhZpkGzja/kHWsViZY1IUuTr3Hl0jZUBXmomkw25uq39CP1XQqJz7E+U4EkRqvbLWj5PEgxAdeSrWbVQXp5KOx3Zh0HUPJZDlbFZHumQaIEhhKC2u8jKICZRJYccpEK7xF6AD4RK/J7YWndDKFjw9Ex3+utKiyux1KvAIaRPg/DfF9ffoXGk0vcJXbcH4Jf88pdI4k/gM12qOpmLeHPUlRjRdV8Grz7dAlqiZDJQTLZQm2yaYvw==;ztWKvZ4Mvw0eM2DK0R+oTQ=="
 ---
 

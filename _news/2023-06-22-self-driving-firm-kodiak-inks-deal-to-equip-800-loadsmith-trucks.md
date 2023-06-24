@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving firm Kodiak to equip 800 Loadsmith robotrucks"
+    excerpt: "Autonomy firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said. The rigs won't have human drivers."
+    publishedDateTime: 2023-06-24T11:00:00Z
+    webUrl: "https://www.autoblog.com/2023/06/24/self-driving-firm-kodiak-to-equip-800-loadsmith-robotrucks/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "V/NSPL88uRuMwVm1aMGLXee7Db++0/OvUjLICPbOJqUlwqQjCLpIoNF0phqZ4NflXu0Ma/jE8mRsTMhM8Hs/Ho2pAo20xncTySbKqMfLSeVHGohZfb169mYvQ+vaTWRwqt5Abipntvh9+ObnFmeI/78eFzR/Sgz2MqorY3DGVxS6YDEXSSZpvFLdceE88IJMR7CZNiBiPvgHD8VWeBXfbntOX6FRQe/woSD9rCnD/vw0Z+To8scj5bYDmXD4i9jzm9vJbCTwFWK6eOzS9QsJBJoRlaTZSMKRpKzYQf9sc8XAKkNyiR3DPH5CUHbS/PgZM44JffgBFXkldy55g7PTWOKBlRVJELlPvWMdRfodjWA=;z3QH1OZAOZzx28irNsME8A=="
 ---

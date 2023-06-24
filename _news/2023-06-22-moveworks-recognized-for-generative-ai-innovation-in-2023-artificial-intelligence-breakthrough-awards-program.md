@@ -61,6 +61,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Grammys just drew the line between artists and AI-generated music"
+    excerpt: "Generative AI has permeated many different industries including the music scene, allowing people to create entire songs simply by using AI. As demonstrated by an AI-generated song featuring The Weeknd and Drake that went viral a couple of months ago, AI is capable of creating songs that sound like the real deal."
+    publishedDateTime: 2023-06-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-between-artists-and-ai-generated-music/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "57+lA5kvRu9vP17TknTkwZ0LkggnoxYkgKQ4n2a6YKoak7gHGzsBAYYNM+AWaYEqXftm5h3jyyDNAvsyPGhA025T1o9Df1LHV7gNjLWfl5IYcLWqw+h2aMsmSmaGv2rruawoAuuRan+9QbHVHVAPSqfBidbEYnDDrkmlZ0OQsa5qaYj113lLqMagEfsQUIzGAmMuoJ30TBvTNKV7umv9uIj4evvnmuq2h/IaofcgQpCCfqgMXd+4QVJb86Tf/z6Qr7z6lmAq/dnhAHkxCwOgun+shai5iCdtKl61DIhSTs6UT2gqowhLvb2uAemO/ELBknnxSCHO19x30IiFgA0qr9nBZfxvSDbCbQjIm1mHzgE=;Z4RObnZ1JHD7gboLz6nhlg=="
 ---

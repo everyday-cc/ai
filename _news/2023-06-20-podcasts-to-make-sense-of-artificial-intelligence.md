@@ -56,20 +56,6 @@ related:
         width: 567
         height: 801
         isCached: true
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
-    publishedDateTime: 2023-06-19T20:41:00Z
-    webUrl: "https://kvia.com/news/2023/06/19/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS01ZDEwY2VjOTZlYzlhNzhjZmI4YzVlN2I0ZmUwZmRmNw-L19wYWdlcy9oXzkyNmE2YmVlOWY2YmNkYzZkNjg3ZTYyYTU2YjQyZTc0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YpE0eEKFc0YJoIkefTF9dBvK2WQPT7sqT1v3Vq+8sMbO30UgCQFDS7hzGLqLh2iEFtn40n/8n6ELuqmowVNw19e/VikTgE1HFaI6zkMnjS7AOOwqcS8eO3W6tpQhmZ65z3sxDbhCgMicMSmLUofeMdg3tM8z4816fFk5H4Qteo/cS5v4nRu9NRlUC0k376Qx7N4g2R3E3z5mk8K0T82rXg7acmV7hf7Soi4w47CMbXoaUSLuUqQrL4UaUsv7ttePcBMkt96gssK0i7K0PYk24owrPuOuts199NiT0h2gN34LnI12vuriLe8sRMPSA0CNkrBm5yB9fKzPmQzCc9pk4lYyTdsMIXuW1Am1vgdV9fFihJMP7EMJpKzYRISpbGXDIO61ZtOarqEZ0fTs3cgWgW0bpMKpET3zsLQU3JdGQpKYbMFPv6qpDmQdsymKUXgQbZcB9yGhcriTWKKm3+fflAMzAvKEOxb4hR6liQp5l5IXJUH6S+lkzhoqREqJ0MzV7x3bKigFAWJaK+XFGJh1ow==;KkLrAujsDJihWaHWsTSvQg=="
 ---

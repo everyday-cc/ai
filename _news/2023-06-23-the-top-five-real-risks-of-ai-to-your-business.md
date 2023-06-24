@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/new-report-to-help-bus.jpg"
         width: 567
         height: 801
-        isCached: true
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
-    publishedDateTime: 2023-06-19T20:41:00Z
-    webUrl: "https://kvia.com/news/2023/06/19/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS01ZDEwY2VjOTZlYzlhNzhjZmI4YzVlN2I0ZmUwZmRmNw-L19wYWdlcy9oXzkyNmE2YmVlOWY2YmNkYzZkNjg3ZTYyYTU2YjQyZTc0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Podcasts to Make Sense of Artificial Intelligence"
     excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."

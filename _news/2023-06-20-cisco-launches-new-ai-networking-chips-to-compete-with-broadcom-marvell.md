@@ -50,7 +50,7 @@ related:
     provider:
       name: Gizmochina
       domain: gizmochina.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/cisco-new-ai-chips.jpg"
         width: 1280

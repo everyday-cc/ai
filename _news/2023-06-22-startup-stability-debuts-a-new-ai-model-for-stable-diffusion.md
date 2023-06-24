@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stabili
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-1-4.jpg&signature=5945675e22db832c4411b91d509e7252"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Will AI Kill the Radio Star? Stations May Turn to Artificial Intelligence for On-Air Talent"
+    excerpt: "The debut of ‘AI Ashley’ — a cloned version of real-life DJ Ashley Elzinga — on a Portland Top 40 station has divided the radio industry."
+    publishedDateTime: 2023-06-21T16:39:00Z
+    webUrl: "https://www.billboard.com/pro/ai-radio-hosts-artificial-intelligence-voice-industry-reaction/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 42
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/06/ai-ashley-2023-billboard-pro-1260.jpg?w=1024"
+        width: 1024
+        height: 573
         isCached: true
 
 secured: "IYE+WIFn3uUh5t3fneZH2I4a/lVtPePDr7qFA0ngz81rbVpv9yOyeoHh31rsDLGm/nJMK6bxibWnZpJ9uj6ancRQjU99mdRqSb5Va+sLsIHWtVV6C75X7rvjmRVgWN6hVHRQpLtAgFwXSWuM0fFqhntbbJLoJd+ScUV2Xn0zrUDl1SoozmwpO6HbdXBK4tAdXPxlYGwAAmiO2GDlPQmyjxkCu02xjMOsCp6P3F5WDyZsX7iip1+lUanA+7TLvqZ/N+4Yzt2yEhpZEQmjxRzRXUj/jmux8rN6wGSsKmuivI7cLD6ulW3vQwWcSQ4N6rKYIRLa1u1OJWpEFBM5M97CBXtLrxii6YKgXNE/+L39LlBC6r5x0B8LkFhm3VKW9SH9LWKE8nV+t3BPvBY171PYRsUssbTvhQX/5ELhl6hsx5PVf3S97PKCrDkHS1K3MYQfiNSsmBxru30Y2OdP81fSDCdt1HGPksrfEkVpgwB1EJzrU/dbud/xHiQl7UUx9iHaPzoqFYxrTO0+TqmiNofHiw==;wn4xN3/wiGJ1PD0lrsrNhw=="

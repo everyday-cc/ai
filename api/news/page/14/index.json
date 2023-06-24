@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-14-10-things-in-tech-twitter-20-how-to-create-with-ai-and-reddit-employees-swag-warning.md",
+      "title": "10 Things in Tech: Twitter 2.0, how to create with AI, and Reddit employees' swag warning",
+      "excerpt": "Linda Yaccarino's Twitter 2.0 plan, how to create with AI, and Reddit employees' swag warning",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648977bd62d3f10019968b0e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-twitter-musk-reddit-employees-swag-warning-2023-6?amp",
+      "publishedDateTime": "2023-06-14T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-how-generative-ai-will-unleash-e-commerces-next-big-bang.md",
       "title": "How Generative AI Will Unleash E-Commerce's Next Big Bang",
       "excerpt": "As the future of e-commerce unfolds, it is crucial for businesses to recognize the potential of generative AI and the brand-breaking approach.",
@@ -1143,48 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
-      "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
-      "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "originalUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "publishedDateTime": "2023-06-13T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

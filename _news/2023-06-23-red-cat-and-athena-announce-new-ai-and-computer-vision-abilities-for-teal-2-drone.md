@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone"
-    excerpt: "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support"
-    publishedDateTime: 2023-06-20T18:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32932769"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769"
+    excerpt: "Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a military technology company integrating robotic hardware and software to protect and support the"
+    publishedDateTime: 2023-06-20T21:05:00Z
+    webUrl: "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
+      name: SUAS News
+      domain: suasnews.com
+    quality: 23
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/09/teal-goldren-eagle.jpg?fit=900%2C602&ssl=1"
+        width: 900
+        height: 602
         isCached: true
 
 secured: "n/I8yk1BRzdAd+hVU31/punxFB1cZBB8Fxlr6uuRyxrTJFZAIucJKUwa+hneS14owCgqjMxZfe+DsSyzxVBXOM5IV3GnxtheJ0qeUa8YuV0G/5npzBEpgvWp2l0qTR5mpDOQLaO0nZyyFOcuZRaVlvDzSZu1aIIDA998p+ZQy4fMTsfXfhOOUYFwMedS4XKT96uaYkzrmLXLQ6BBoEYoROfe3aLqXyGXpk9jzRofY7NYAc/8eMcplbHfmvkFUHAQmzNJAHyd7mknsreK4AQfOozS8cOLhdO6rU7Q5jEKvWKNxjEympLQA9FTv17JtsA6im0Kmt2jDvlqz6yBbbLPYf9bKa1ZXyz9T0N0PQ9lrNI=;2WGQkSO+kwECu7Mn2tCY7Q=="

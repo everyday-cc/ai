@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-thorny-question-who-owns-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Rise of the robots raises a big question: what will workers do?"
+    excerpt: "Rapid developments in AI are forcing managers and politicians alike to confront profound questions about the future of jobs"
+    publishedDateTime: 2023-06-24T14:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/fa7016ab040c88978d002b92d4ff0cbf2affea20/0_395_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=1225c778c7bbe96f7bee737ee69aaf5b"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "c5QPsrkygiL9OH23S1clZ/teZV0Od9I6u57DotoME5ffWczsUDdha7NswwOREM91kxOAnoLAsTQ9jD0STCroi6u7HNpOYMFIUAnjZ2wd6tQjg+0Gs97zpyiVWhCN1+zZi9Z+mBBUiPeqhY4d8bIYIOKR9cvR/wB9F5flwXDAgrY16HGLy9s57qqijdEW/BavFKxQuIC4S36TkF2PRz4jADIx2Qknl8s/RtH4zI2Zh9MIBTwJzoQnloCAdIodQk447rgoKqgnLvjo5KF4VT4rHLf7wjO/6aTIwU6bwsP+OMIDsC0ishfCXk18mhChjm0RDoArrSAqaJ24gopYZHh0sCotNnJL95r9fVVmDYnNL0E=;3bE1rJmJ1fEAq25u0qhvXQ=="
 ---

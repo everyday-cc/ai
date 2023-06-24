@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perf
 webUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
         width: 1080
         height: 569
+        isCached: true
+  - title: "DeepMind introduces self-improving AI model called RoboCat"
+    excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
+    publishedDateTime: 2023-06-24T15:02:00Z
+    webUrl: "https://interestingengineering.com/innovation/deepmind-introduces-self-improving-ai-model-called-robocat"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NDSdzi8/L2o9aK5QmiWwyQvTKPsc9qW6M7X64OUiTn12UBX568rmx23rVeWnZhqdL11fzrD5h9We88+95hqOzN4e7zKp7LhHOBSw4Iy1arXE4jaf94kxlaVx984eE6Wd47ZF33GD4veZLOmh1/oKB548riJid0ZDMUT7DJYn4dsBro1kSd/frbHxvtVeif+oYdBbYeNoHr6B7ZnOVZPoDMwb0/iPJzT0ee/Nee1ajVdK17gZ6e0ldOn7mlmv2a8i8cvRdqDTe5calAHxfiPCsiLLtW11rQldYVasHHzSMv5ET/4uTDtYCR2/uQCEZzo6qJKQJ6Gp47ErlW4ucf8HCE31ecHv1oAi13L3OCrL23bIooXTln7DyFM9oXCxDY8t7BcYp0694G8araBSMOOhygu9MkQrxN3qj3ksXLkhjsvFm/J69Ri/7yrkpnsyuyGtAQoyQB5rE4PURP+DJD+L2BvivK1dSKgC+N9lwJ/Tp+uHEBOsJvyrWUrYSwBCf5oaH7Nn8F9HiFNoRWvRza/RyA==;ZTKOs8lJpACmw+HXBAuEIA=="

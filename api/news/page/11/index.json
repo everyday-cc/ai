@@ -688,40 +688,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-15-computer-vision-market-to-hit-5829-billion-by-2030-grand-view-research-inc.md",
-      "title": "Computer Vision Market to Hit $58.29 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "SAN FRANCISCO, June 15, 2023 /PRNewswire/ -- The global computer vision market size is expected to reach USD 58.29 billion by 2030, according to a new report by Grand View Research, Inc. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59346353-computer-vision-market-to-hit-dollar-58-29-billion-by-2030-grand-view-research-inc-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-06/59346353-computer-vision-market-to-hit-dollar-58-29-billion-by-2030-grand-view-research-inc-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
       "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
       "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
@@ -1052,6 +1018,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-computer-vision-market-to-hit-5829-billion-by-2030-grand-view-research-inc.md",
+      "title": "Computer Vision Market to Hit $58.29 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global computer vision market size is expected to reach USD 58.29 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to grow",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32869270/computer-vision-market-to-hit-58-29-billion-by-2030-grand-view-research-inc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32869270/computer-vision-market-to-hit-58-29-billion-by-2030-grand-view-research-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32869270",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32869270",
+      "publishedDateTime": "2023-06-15T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },

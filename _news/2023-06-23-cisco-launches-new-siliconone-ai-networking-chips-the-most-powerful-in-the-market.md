@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-22T20:17:00Z
 originalUrl: "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/"
 webUrl: "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/cisco-new-ai-chips.jpg"

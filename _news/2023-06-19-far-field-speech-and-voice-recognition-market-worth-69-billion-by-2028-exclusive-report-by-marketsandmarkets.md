@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
-excerpt: "CHICAGO, June 19, 2023 /PRNewswire/ -- The Far-Field Speech and Voice Recognition Market is projected to grow from USD 3.7 billion in 2023 to reach USD 6.9 billion by 2028; it is expected to grow at a Compound Annual Growth Rate (CAGR) of 13.1% from 2023 ..."
+title: "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+excerpt: "Speech and voice recognition systems must include an audio-playback path. However, an acoustic echo occurs when the audio being played back is picked up by microphone elements and sent back into ..."
 publishedDateTime: 2023-06-19T15:19:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59373071-far-field-speech-and-voice-recognition-market-worth-dollar-6-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59373071-far-field-speech-and-voice-recognition-market-worth-dollar-6-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market"
+ampWebUrl: "https://www.benzinga.com/amp/content/32913346"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32913346"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Voice Speech Recognition Software Market size to grow by USD…"
-    excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-market-size-grow-usd-/2023/06/23/9838419.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
-secured: "1ait1WmJiliMsajn+8Y3DQAa6BPIv7lwte4A/sABm8yc4PO5IMdqiZIOtJ2bStqGF8u7KkcLfa9QW/UQjG6MqekYJ25kBMWM5OM7IU6JZvC5QHfc7b6UMiNCopbtgRDM5xT9JRZW3muPKnaC8ZogUeWLTJWNGZInngMyv7eBNNoXrqNq2ajLe1+vHrXI+BinwsfpNxd+9GKTcT1EZFlnSAszaa8URvZSNZRuEBBiL8nCRN4Ew7t7sPEwcxD+mA8ujoRky9g0QC05i/aH8MKNyCiggJ6OrW0wRNZTe45kBNC5NobbEavsKSL+ghAmtdZyQ86vmcZsSB8tpCvCLsrIQyas//W/4mrjnTd+v4VqqKE=;JwTZjyyMN5gwK8PC6QE06Q=="
+secured: "SnCM/yrpUKq6ueSAX39+Qsr10Dd6toegFGYLfftk/3gZMdJiApq8DQHgb/lZ1Ug0ULwExVbIfDvaxtbYG4fqVPdVW19Yc3K5rgG0Q32EuBmSl8G7vsSVx5U98dU6XTbB06kDbzLery4+sWFCRFZPM3C36vdD66zb4FdQP0lVsT56Gfw+0GbMleNmP9KtPgsvbvDRHBvG+d+DU4uLo3nWTB34xPOxKvuX7vIAMuKMYfh2wE+kMWWIFVsU6xg07Kv3OMLH8f2xMFZaK4oH6aLjadPU1Vb4f11kV1pminS1cNxyokOP+X/vc1GU+V7A2UmiWYOJFg/xWFgJWyf7sm7ZIkjGZ6FrwvQ7OYgl6J3v4t0=;yC1sNoLlGahF2K7/mRBmwQ=="
 ---
 

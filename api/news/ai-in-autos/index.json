@@ -62,7 +62,7 @@
       "originalUrl": "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -410,7 +410,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -718,21 +718,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
-      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
+      "path": "_news/2023-06-18-beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems.md",
+      "title": "Beyond Driverless Trucks: Building Infrastructure for Autonomous EV Systems",
+      "excerpt": "Jesse Orrall (he/him/his) is a Senior Video Producer for CNET. He covers future tech, sustainability and the social impact of technology. He is co-host of CNET's \"What The Future\" series and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
-      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "webUrl": "https://www.cnet.com/roadshow/news/beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
+          "url": "https://www.cnet.com/a/img/resize/3f90060ca39a74b20145e2d7c057cfff36cd7381/hub/2023/06/16/9c34bf33-c76b-4466-a6d6-f98e36d54d4e/einride-4.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
-          "height": 628,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -742,14 +742,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T03:58:00-07:00",
+      "publishedDateTime": "2023-06-18T06:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -757,6 +757,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--fFhN_mG5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-16t082609z_1_lynxmpej5f09b_rtroptp_3_china-baidu-robotaxi.jpg?itok=D8sSFWKj",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1424,58 +1467,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-tesla-driver-hits-a-dog-claim-they-were-on-full-self-driving-beta.md",
-      "title": "Tesla driver hits a dog, claim they were on Full Self-Driving Beta",
-      "excerpt": "A Tesla driver hit and killed a dog. They claimed they were driving using Full Self-Driving (FSD) Beta. Full Self-Driving (FSD) Beta is a driver-assist system that takes over all the tasks related to driving a vehicle, but Tesla requires that drivers keep their hands on the steering wheel and pay attention at all times.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "originalUrl": "https://electrek.co/2023/06/09/tesla-driver-hits-dog-claim-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

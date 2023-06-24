@@ -2,12 +2,12 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2023-06-03-these-robot-hands-can-be-controlled-from-anywhere-in-the-world.md",
-      "title": "These robot hands can be controlled from anywhere in the world",
-      "excerpt": "Finally, once I step on a paddle, I'm in control of the 4.3kg robot arms. It doesn't take too long to get used to, as it's super intuitive. So, if I suddenly drop my hands, they don't crash into ...",
+      "path": "_news/2023-06-04-a-synthetic-npr-host-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone.md",
+      "title": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
+      "excerpt": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/",
-      "originalUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/",
+      "webUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
+      "originalUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,12 +17,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T08:44:00-07:00",
+      "publishedDateTime": "2023-06-03T10:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -32,6 +41,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide.md",
+      "title": "How AI could change the ways we live and work, reducing the digital divide",
+      "excerpt": "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-03T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -224,6 +284,49 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-these-robot-hands-can-be-controlled-from-anywhere-in-the-world.md",
+      "title": "These robot hands can be controlled from anywhere in the world",
+      "excerpt": "Finally, once I step on a paddle, I’m in control of the 4.3kg robot arms. It doesn’t take too long to get used to, as it’s super intuitive. So, if I suddenly drop my hands, they don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
+      "originalUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/06/PXL_20230531_100224994.TS_exported_8841_1685715913256-912f-e1685716238144.jpg?quality=90&strip=all&zoom=1&resize=600%2C570",
+          "width": 600,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
+      "publishedDateTime": "2023-06-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1072,83 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
-      "title": "How to thrive in a new era of AI with trust and confidence",
-      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-when-do-grandmaster-nightfall-strikes-start-for-season-of-the-deep.md",
-      "title": "When do Grandmaster Nightfall strikes start for Season of The Deep?",
-      "excerpt": "Want to know when Grandmaster Nightfall strikes start for Season of The Deep? If you’ve reached the late-game in Destiny 2 and are looking for a challenge, a Grandmaster Nightfall is among the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/guides/grandmaster-nightfall-strikes-season-of-the-deep-start/",
-      "originalUrl": "https://www.videogamer.com/guides/grandmaster-nightfall-strikes-season-of-the-deep-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

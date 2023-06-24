@@ -1,28 +1,22 @@
 ---
 category: news
-title: "AWS Announces Generative AI Innovation Center"
-excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
-publishedDateTime: 2023-06-23T10:20:00Z
-originalUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
-webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+title: "Aws Announces Generative Ai Innovation Center"
+excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+publishedDateTime: 2023-06-23T04:20:00Z
+originalUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Hart Energy
-  domain: hartenergy.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
-    width: 650
-    height: 434
-    isCached: true
 
 related:
   - title: "How generative AI can help finance and accounting professionals"
@@ -256,7 +250,16 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Adobe Flies Towards Generative AI"
+    excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
+    publishedDateTime: 2023-06-24T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/adobe-flies-towards-generative-ai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
-secured: "0xLl2YLjhg9iEKs4L7afDypNOd1UjEOXSTNvUmL5/7XEMS8r8SvLjjhZtTDGqfWKJ6rh62yDoUm3cZ/MzpZCUNWYVqLvFZCMlrD5eV/MbSnZ0IXt/JloorqcF+Ho18eSQOJiwdN2L5kq4VY+jUtnmozeif4TWPr1BRbfl8CpKqIHosk20rEL42EiKRWUoGeFHh2YGddQo6oK//MS6HnTYb0nVoy8wfboZ+mlvud9NbWIp3E4xg8OYRfkPmeoNcMB+omBwYx/gz8KAhYfHnzDQU9k8Pht8LVfJPuKg7BgTnlwl2s86TmDwiNCbD+UjZQY/gf3+SE9ZdTsAoXNcF+NIzptn+aaYlYu4uj8cPrLGUQ=;XKnIHGYvAAAz7/Z+/4Dhog=="
+secured: "VnS2WYJE/MAZjiHXh0VRPRU7cwlQ7ARw8BQcVA8Z9ROOKyLs0ER47v8Cy0GmMIggBXe6XjAePCz53vO0+Si/RfGTb7lqL6vLpuXz5iF/SV+D3Gyg2iUTer5cIvZVkIR9dZU8AZblSVvYlFDHFeHKb1wXAYzcFY3uQJGn0lkMp22NExZ2esG3DazsmYRRUyJnO6ELYu5eHwUXYIRCbnZdpwxTpcpBHNcTV2ooaKlRCvdaMcsGZlKhYJxHxHFee41NVdb6/cZDpr6GF/ka/6Y11Rlne5ia0iYglu89nJ+FF5Rd383WexNgJia5YSBxz544Pz9BhlBbuS6IHBrWV/kdB83KV5HSWVA0T6ubbtoAPrqeU1CX34GrBpRveWNKA8Xlxg2UTXqHjz9uBiGkgycKTB09tAX+mnzxz2Xb3YJLxRq1MUl0ap9NfaqmJzCoJtw8WlNP52xFCWvimINlXktXkDoFrduDXOeyZ44VmflZIODbXs8fCu7rVg8NR3g1+KAkNd8C8xk7ct/LY2Kl9ictrg==;OaW5B6A17Um+cffCTJuPgA=="
 ---
 

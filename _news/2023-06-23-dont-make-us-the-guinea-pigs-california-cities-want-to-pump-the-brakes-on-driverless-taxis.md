@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-23T13:30:00Z
 originalUrl: "https://www.latimes.com/california/newsletter/2023-06-23/autonomous-taxis-essential-california-essential-california"
 webUrl: "https://www.latimes.com/california/newsletter/2023-06-23/autonomous-taxis-essential-california-essential-california"
 type: article
-quality: 7
-heat: -1
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/5e1cfd8/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F7d%2F898668684a99ad43210a0fd5c917%2F1257451-fi-waymo-self-driving-car-0039-ajs.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Self-Driving Car Crash Liability in California"
@@ -33,16 +39,7 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "California Professors Test Out AI in the Classroom, Even as Cheating Debate Continues"
-    excerpt: "This spring, as debates were raging on college campuses about the proper role of generative AI in higher education, Diablo Valley College adjunct"
-    publishedDateTime: 2023-06-19T21:43:00Z
-    webUrl: "https://www.noozhawk.com/california-professors-test-out-ai-in-the-classroom-even-as-cheating-debate-continues/"
-    type: article
-    provider:
-      name: Noozhawk
-      domain: noozhawk.com
-    quality: 12
 
-secured: "dEsAQ3GctwQ1hilU06iDn0qIBqq4s8zvguq5j9X8lVJHnlNP39sZiMAdCYgpbkZxwyPC1FC09oj+0BMdYnHB47SIyA7DH8W66k5EvfdiZDryewqw1WvGGxcR9v0VzekMQ8wFJfTUsy1BO8qaRQI0l29NK1Pj9YT4M3xU+4KyC0AV636cLQkKyrMWXuzWd4FOAJXukO5p+nTfEUQrApU8B8Y0ltzPnkRNcidcU7/w79KrnfLwYUeZG8KOb8GWAveZz2sZmW68g7eGBOIHfHIbzuFJXhTNjYzxehDAjmsTFf/NUb3nfCViPdwv9LaRjOrXF0bDwEH3KpPFsqY9LVB8de95k3KBRCcr/wEGLmhJp1s=;0Ak4qRYoss8Fj8wH2V7AYQ=="
+secured: "mcL6/QS/J3MbZJhBFfV2NSxhQ81kn/jaSAEXdEfQgk9+z4P6lO3TG3GLiNrETR557t6KC0nBSmOAovi9SLdifhEItaAUXVCAlmr7baL4vy+9deeLmgkafQkoBDMDKnzjJs1pZfq1TW0VUy+3bfzA6s+ulZsvyo55uxlyEPQOJyxq8VlLL7FgTiYzGWK0Fo5IUbB2rN6gefyShnl9EVIq8y4US9w/HpoQlMEs0KveCT42CJS6/RM8H82TxuVF6/ekpanZ/EOdlZICBjsl9cob59FxYP8+KzDE5jQDaQg0ddrhtGqO4DF7EhhEK0Vw8lK34xk06NwGsSQnSomx+OlxhbkIh21AcGPwzt4BsNMmk+s=;jNDGcx0jQ8+Skf9GjGx4gA=="
 ---
 

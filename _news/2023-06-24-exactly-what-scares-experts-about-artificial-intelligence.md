@@ -1,34 +1,23 @@
 ---
 category: news
 title: "Exactly What Scares Experts About Artificial Intelligence"
-excerpt: "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging"
+excerpt: "Yet exactly one year after a humble Google engineer stumbled onto what he believed to be a sentient form of artificial intelligence and was famously heckled and fired for it (more on that later), the clamor for a global framework to govern advances in AI has reached a fever pitch."
 publishedDateTime: 2023-06-23T17:00:00Z
-originalUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
-webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
+originalUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
+webUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI Ethics
+  - AI in Robotics
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737010%2Fone-hundred-dollar-bill-cash-money-dividend-income-invest-wages-salary-getty.jpg&op=resize&h=340"
-    width: 453
-    height: 340
-    isCached: true
-
-secured: "Wb5dnkdUKQCc9T1x/Z+6jQXtubw+y/nFSFMw25fjAq0kP79yLydvQ+Ljg4ESexklosuoAQLGtnI+SPILUrm/hrpO/YX26nmEYMe3PvzHn9gbxDbzSWlCYJV2TCq4GDT18g+cYUbOPre2SbBb848CtBrWgkp6DOKJfVO2yU5STc0794cXcXDm4/ctY52uM5TOIFKevGy+n3figs9qP5lRYnVIDOzoP8ygxp+FM3bUZ+5eCPpV8uYHfz1GzI11VDkCnTK45vzOeftOczxidU7aamRaIEsyMrYUOM0I2awl28cIWOhIrJ9vmq/Do4cZZhckqeukcxp8Che+SHSJjw1A0hEIrb1z23Kb8Pyt7XQSjz8=;ZnvGKOoFJasBcBJrBqPUcg=="
+secured: "moOXPVaSXiExxw9/f7gqPQlyITAOYyXoCuWWA6U2xLI7zZ3AsBS2UMY0VAjEw7EbyeQ06Hf9W1f9ynDMWj6W0SymNXohsmjK5Jgv2OqvL8heAJb6lLCKVoSokOD5gTB1OEKHf75TwLZidGdvcTB/GCcHMYuPzSUo1R7hJYqWDJTHWNrg5uQzqIGU86NR8z0buMZ6WLL9aSBQDiWoHgCivdoNRT6m9vFgmX6psMeOA0SEJco8YA7zxu5F8fQdb20TR1c8PKBE1VbR83uV4ZK5hQYmmbbE9au26kowfRl8cseTckW0+60JM2D+pHlFsP3wHzled/lyPZIwCkfOXQEjTkzCQ21j4hdUr5vjBoa43eo=;rUmlK0MDjn92Uv7llSnQDg=="
 ---
 

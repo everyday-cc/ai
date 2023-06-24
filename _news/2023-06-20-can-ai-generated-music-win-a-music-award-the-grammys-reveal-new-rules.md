@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Grammys just drew the line between artists and AI-generated music"
+    excerpt: "Generative AI has permeated many different industries including the music scene, allowing people to create entire songs simply by using AI. As demonstrated by an AI-generated song featuring The Weeknd and Drake that went viral a couple of months ago, AI is capable of creating songs that sound like the real deal."
+    publishedDateTime: 2023-06-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-between-artists-and-ai-generated-music/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "QmVnS9vGBsMcVJcPoYs0OfYbEpUNBomTF28l6BOcot2SGFS62/TgUp/nPl7wz3iOSN1SYkcvUYVM8TntvWVwZc6urxNro7z2ofVH9IoDjyBcP+g5o0K/LsYnbyUm5AG6C9MkgJswRpTXMDkYFKm0tGbUYXmP5u90ofO98FuoEmfvorEnH0JgmQAclZVYdTSwEmGTjtVyRq9P70kI3L3CJqbg7bI7X94596+GZ7Enh1g+vFmi2vMZ/UAIujJC9HC6S/uMXh0TxV1kGgDdHDen/bGBAApMKEIcYIHXdC0Sv/eujBhJ49zfNZGt8Xs+IRcUQ0xxcrfOn8G0QVCp2rL7nTDotfK1Pk9OmPvAC3tO2I4=;oMcDxhmzkwIBoP5UJc4EFw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-generated-images-of-titan-submersibl
 webUrl: "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook's Creepy New AI Can Replicate Your Friends' Voices"
+    excerpt: "Meta-formerly-Facebook says its new text-to-speech AI can edit existing audio, speak in six languages, and replicate loved ones' voices."
+    publishedDateTime: 2023-06-21T17:48:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-ai-replicate-friends-voices"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/06/facebook-ai-replicate-friends-voices.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook owner says new speech-generating AI is too dangerous for public release"
     excerpt: "It is possible that Meta is concerned that Voicebox could allow for creating believable sound clips of famous or influential people — particularly political leaders."
     publishedDateTime: 2023-06-20T13:09:00Z

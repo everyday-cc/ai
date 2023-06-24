@@ -127,6 +127,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Put AI to use, from chatbots to robots with this training bundle deal"
+    excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
+    publishedDateTime: 2023-06-24T12:12:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/put-ai-to-use-from-chatbots-to-robots-with-this-training-bundle-deal/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 19
 
 secured: "KaSK/OhrGWyEuzmh0RS6c5uFLrbjfWmWvMxYdxlEaud2UYZrKwfSa7L81gkaU6jr1Tf49xKGYEtwVcTlqj/UYuPM9QosXxHtGZ9k3qgKnzihVg0T7GT+1g9PPntyVhXEoUhjP+Y31tWo5JELN71LyHoASq3RaAr8B1z5lrhibg8N5y2WBPh16mcdsMAs4yedcaaPyxXb8knG666Ta9NDzJwcriuRzO6tlzjC5XUqdW5ivn1sZx1zTBon2ebIWIgjDqWuyPQ6S+q6ZMXBbeUboidksur9pR03KeJzGe2Urh5nmWW6GvmKo52RsIags7SbFutzlcdSISL6OSt4ng7aHS/n9d0UISMNRR+oePcLSJu+fAjrjhwz5b0BgEgEKPXKRsYDwsOdrigaBH2BGKqb3hd7eh758fcv7JjdY54v3kImoGxrDSizjsLVu43vkVJVbMVl7PdsTlHukWhDiKXWzIDwdGUKfJEPsbEssBccps8t8s/53ERIyMSlAvri0mvVtOgm8V2euB6HdLq9QaJTWQ==;tzJph7GpV3ms0nuE+LB5SQ=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
+    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T14:52:00Z
+    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 63
+    images:
+      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
     excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,"
     publishedDateTime: 2023-06-21T12:59:00Z

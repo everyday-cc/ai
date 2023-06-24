@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcba43e1d-6434-4dd2-a6c0-6ba408741944.jpg?source=next-opengraph&fit=scale-down&width=900"
-    width: 900
-    height: 506
-    isCached: true
-
-secured: "HqsMcSI5/ITUpPL2d3SoqteobL8t+rsdA5MR+2q3XLdhpi+S9meqSgYbNfU9zwmTNJSE0ReXdcxOcxWLhxxtZTni/CBKLigEbs0i+7BcExuEQAMEz2pjMO0smG3vFP5dqZJZP5mKEnKN/JwEVMH61j1mmAHwG+tuei+a5Z9sml6D9OY3ZVw5/becsrAOq65w7dWjTMeVPNRruLrVo2iEFpXrCacEw4f/S1vot3mwv/egBcJSZwXzYTcuEne5Q0kCMgsH331R1F2eAELEdzB16PtqjBfwJhV3MVs0J/0kw/JLYiR7+LoYq5TpNMNAz72GD562DKckxliCaKm4ZG+lvd5CLyNlCu3vYhqGI2hNgw4=;vUxUKBc/Kk2Sjw3EZqXJeg=="
+secured: "ZxUNY7nqftf/nL7u3Lf1nOXEiGpsRNOUXDtuf6xKpSsAYEHEQGNa8Ol/0cc4pvbluDBBdzsZ8eX20qq1NAsdaAN9J3WxnYdIk37NQkUyMM8a43cXnCKp4ziGUBHIup1IuHNEYHej9PAxGEIvp/z/M6rUPiynH9RyXUlGIbhJzios6axXigqmxc36mjkYU8oIjq5OaKV4UvRWX2NRBkH9AFn4b1D030lT/GwUk4GkmbQ5fGa7eIFpbwZgNhGXssq1UgjOzFqFehJkp8b5ic4G++giyzsQV+eBFSfRYPKT4RlfvDe2DPDv+h7BHbx8wvt1i+Msp6KD/LVywiUP+w7hl4/7alyRwshRIj0Q3OHmZRU=;6a2Yj0h5yG+/dlfc8w6Biw=="
 ---
 

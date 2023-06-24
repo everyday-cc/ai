@@ -163,6 +163,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
+    excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
+    publishedDateTime: 2023-06-23T18:32:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/well-need-to-put-humanism-at-the-center-of-generative-ai-to-reap-its-rewards"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 36
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
     excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
     publishedDateTime: 2023-06-21T13:38:00Z
@@ -173,6 +187,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "kvCNC5kuXdlTQwYZvziNyEwp71DGNBorZp8DsxVE2af9A7LaI8c6bm2HMrA319LER4u9Mrfe5DXE5lBxGqLOEv6Tk/aIS/4M98PnE2//ziRB+I6Mwqm0PTbJz0HBQiawTgMCFfnkTraADskF1OLIsdUI1mB+JGiemUWuWn8LYd/zg0CAvyrCPjS8mxLpGG7srWnb4AkvZY476SAVBb+Xzt3Ey2WkXHukSHoe+lC6aM9pXUHjYmZg5iGJqEYVGi1X/m7rEHBpFGo6TUJlOKI+bCB2pYCz255SsMZ04QpBLXKLnvGlkiNznnXDCxCaa866e6NvJQTrdnps4YSKyPfXKK82YAvAH2VLo1AGHm4MX5g=;Lobkcl92aDHvkGYZFNoAyQ=="
+secured: "ohviMNN6b52r9RLrCV6VUVLytA1mF6u0/emYeBtfpsP+B+MtOLwmd6YD3P2YiEszlNKKNo74oR905EupssYWKAkYLqNoeQDo+WxSi5PnLD57RKpJaUWqWLkDYlqjrBeCNILQBCqQP++C3n5TqrBGAeVw1nFLoO2oR4t1mKpG39jctqLxAACWYMsoMHnvwvDwDxDLRIfibxQ+/lgDc6aNpneB2XFXXcSVYfPCGhr5zgQXLSTvo7igARpGLdxJryuVudQU5qJrWqMX6wQ1QociNPO7tdjhjYZ+7MzPmK0Sw0rN2fzcOtINboXGi1VvbB8NV7k+6zEYJdLEJf4z/zpv/V/r6NMjxFnW+xmDCpMZbhCht35tgsCFkPiDNaE7kYT4DM3LHCZ5tviocktrRQTW7mepMrAWLq+iugTUFmv+OAk5dr3DVmA8XhgGswnLeafQbymYwbkzM8MNOFgaFOcqlZxX58LVYlt1gSk6rd3Y16tAY/ywNuKJc1iwKyj3Qzk87XqEUN13/8Kfetb/Zq0BKw==;s8SkprhPLEWM4l0tt5QxQQ=="
 ---
 

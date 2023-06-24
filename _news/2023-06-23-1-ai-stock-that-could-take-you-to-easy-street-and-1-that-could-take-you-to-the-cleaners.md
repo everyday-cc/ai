@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-ta
 webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "It Takes The Right Leadership To Beat AI Bias"
+    excerpt: "Learn, adapt, and address bias. Leaders safeguard businesses by equipping themselves and understand the dynamics."
+    publishedDateTime: 2023-06-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2023/06/24/it-takes-the-right-leadership-to-beat-ai-bias/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "3 Red-Hot Stocks That Could Continue to Beat the Market"
     excerpt: "Azure gives app developers easy access to a plethora of AI tools, including machine learning systems, AI-powered data analysis, ChatGPT-like AI bots, and eerily accurate speech transcription services. Microsoft earned this catbird seat by partnering with ..."
     publishedDateTime: 2023-06-20T09:51:00Z

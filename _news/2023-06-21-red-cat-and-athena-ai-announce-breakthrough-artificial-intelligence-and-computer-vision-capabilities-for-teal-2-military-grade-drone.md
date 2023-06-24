@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone"
-excerpt: "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support"
-publishedDateTime: 2023-06-20T18:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti"
-ampWebUrl: "https://www.benzinga.com/amp/content/32932769"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769"
+excerpt: "Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a military technology company integrating robotic hardware and software to protect and support the"
+publishedDateTime: 2023-06-20T21:05:00Z
+originalUrl: "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/"
+webUrl: "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: SUAS News
+  domain: suasnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/09/teal-goldren-eagle.jpg?fit=900%2C602&ssl=1"
+    width: 900
+    height: 602
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 408
         isCached: true
 
-secured: "EP73VU+tWN1s3ony8bwSihGeEaH/vKBc25O6tzbrPTWKdSdqgoVqKaienAWs4/WXobrJddOkb6AHw8vRfZs6GPO9izKjj8VhYh6yC/H2RDra4Zkmc8yZUQnZlMrHbtrGjlQ5cBZEt0TEgYW77LcplX2GxdBkXWjPmJfYpt3jyIEcFuCroFLP/yEcAg0osDKwL23CgP9PC5S1u5L6ONBjJ0UUnzcJtQWe2UzNg6qJqPXQzegFetFSWv5Q094MHITQHQobEGJYuV/uqAWv9xmKeuu9+cmDpSS881UaeoXKkKVrHh7HODRluoPqUa+ULrFK1L8yQ2dqyo6+coyDeLDZwbaMvTJjGm7TjoropJ/9ZMg=;xp35H6tPpXiH+axWvHvAQA=="
+secured: "eyU548Obzs3064cMYfSba98WPJbwzwXXWSRi72BpPkHLb0CBkDgaG+Sap5OYQExFEbQToTKj8bj0ujDmlSmnoOseCTZ5iOH1GyIBvrfgDThggdqZ03vGvuIyGA9aIDYepeqSJqVHe/LnUlBEZBAEv4FfSZUrtot0jqKUo6AbCARQpPvK6+CgwOzNOCD6O1aS07cHAgSVP4LfNqU7q9N/5TkH+lxxz8xr5MNrSXIckY6X4Oc+GRVq7WnW4ZaIDLNZGv+e+KCNpqO+sVZG6BER0WNpbUbuwKAW+BKM3shQq/4ZwyOMuxBwLiGPgw+vSBDWQI23aY9P75E4TbI9ddvDKozYuM6rOpOB69y9+eT/Grw=;9sdjqfSxzeoFoNyfNCJA9w=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s a way to ease the burden placed on overworked employees,"
-    publishedDateTime: 2023-06-19T20:41:00Z
-    webUrl: "https://kvia.com/news/2023/06/19/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS01ZDEwY2VjOTZlYzlhNzhjZmI4YzVlN2I0ZmUwZmRmNw-L19wYWdlcy9oXzkyNmE2YmVlOWY2YmNkYzZkNjg3ZTYyYTU2YjQyZTc0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Podcasts to Make Sense of Artificial Intelligence"
     excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."
     publishedDateTime: 2023-06-20T03:42:00Z

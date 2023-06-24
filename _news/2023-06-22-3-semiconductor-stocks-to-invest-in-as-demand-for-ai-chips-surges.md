@@ -164,6 +164,15 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 19
+  - title: "Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
+    publishedDateTime: 2023-06-20T09:19:00Z
+    webUrl: "https://www.cambridge.org/ag/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=HB"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 19
 
 secured: "+ZZt1LaeSWFQViqh5FTqxUyJpbS9KLg1C3r9eXVFoPCyypXZhujVRj+aYaw0uZ8SeMS7Ebxf/9YGz4cKIThvVepu4zj3sJU1D7Z8Zx/ju6a2Uzk12LfT43HMTFEzjRZ1VSFaJ6Pqt9MF9/0A48IBE85jyBPWM3D8Z/lJ19kzh1B+Tzei6jy26xC2H9sEU2zc7n5yrFWrsjOlI6728duvR7x224QP4HlirlTacSXKJhk/hWDBR+kzcDn3IQ4js6FSsZDIdGmcSwQwukI+JOpOlRUy4JhTfQKaLqxIYdjbcEpbnWx2opxb0SRefZoEaL4YzyQscKxHfGst4X1oBNtc7/Y3FigrJzsbV3fCl15Rf5ljqzvDCkZDxipOBVjfCXwPIed4fiYY2Ssr4Ah8yc85mqUWtZLpipgoVlPCFbpeqrLILrsdIr5v03ibJ9Jq8ANfKabFlGNGBs2yzEo/bxjHMBnM+uSzWPTK2+ImvGAfo6kgWN8q6q70/eMOSpeojIDqoqRX1dgJNJ9qCsZBKBTAOQ==;lPYWlnzfkXXt8afMOmDlPw=="
 ---

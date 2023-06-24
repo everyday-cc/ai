@@ -101,6 +101,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 19
+  - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
+    excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
+    publishedDateTime: 2023-06-24T12:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm-tech-to-power-ai-commentary-for-online-highlights"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
   - title: "AI watch: from Wimbledon to job losses in journalism"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-23T11:54:00Z

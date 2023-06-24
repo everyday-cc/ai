@@ -37,6 +37,15 @@ related:
         width: 2102
         height: 1426
         isCached: true
+  - title: "It Takes The Right Leadership To Beat AI Bias"
+    excerpt: "Learn, adapt, and address bias. Leaders safeguard businesses by equipping themselves and understand the dynamics."
+    publishedDateTime: 2023-06-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2023/06/24/it-takes-the-right-leadership-to-beat-ai-bias/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
     excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
     publishedDateTime: 2023-06-23T17:43:00Z

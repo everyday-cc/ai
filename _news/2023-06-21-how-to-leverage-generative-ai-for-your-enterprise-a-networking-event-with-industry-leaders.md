@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
+    excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
+    publishedDateTime: 2023-06-23T18:32:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/well-need-to-put-humanism-at-the-center-of-generative-ai-to-reap-its-rewards"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 36
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
     excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
     publishedDateTime: 2023-06-21T13:38:00Z

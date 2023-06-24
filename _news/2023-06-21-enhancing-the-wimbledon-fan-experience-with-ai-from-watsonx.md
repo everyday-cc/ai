@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
     provider:
       name: tvbeurope.com
       domain: tvbeurope.com
+    quality: 19
+  - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
+    excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
+    publishedDateTime: 2023-06-24T12:16:00Z
+    webUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm-tech-to-power-ai-commentary-for-online-highlights"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 19
   - title: "Wimbledon Line Judges' Future Uncertain As Grand Slam Embraces AI"
     excerpt: "Wimbledon technology chiefs say line judges are safe -- at least for now -- even as the grass court tournament embraces artificial intelligence."

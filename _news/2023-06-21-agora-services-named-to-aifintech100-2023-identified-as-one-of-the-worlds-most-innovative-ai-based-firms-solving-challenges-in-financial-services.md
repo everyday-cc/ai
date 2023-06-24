@@ -3,23 +3,23 @@ category: news
 title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
 excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
 publishedDateTime: 2023-06-21T12:14:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_f213de64-92df-5ec4-a029-337e592285fe.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_f213de64-92df-5ec4-a029-337e592285fe.html"
+originalUrl: "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html"
+webUrl: "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
@@ -114,6 +114,6 @@ related:
       domain: irishexaminer.com
     quality: 0
 
-secured: "t3AMoEjOEnuXrOVozUzQ72C0YmxlRiZe082qQ68H7SWwXxhz5m/HLAyoyFokp9wMTenDKWMClf9eeTP7p41AebkQtaR2NIc2+oR8mTHx+igcwmweku5VLBTRh29Oh9hJXv2ncpbDsTbMIyJcCnOfhRgzJdcKU7NZq6REbZSLfNpJNVnfos0Ul9joOtlSzfkBqonAoVsqx3uAqD8jg+wyKGI5ub3FbZn9lWbHWgMOY+w8WzKWphMOHubNoEC6zXYVhzZMiQVQTQFe1ZM9z3aC6eK7q6Bt5tZm4+ULAeBhARvfdCSEPMgcrfNjSae3PGpEf//Do6IvEhX5dwXJECW9PpCXbaEBMENy3N5KtZoiPvo=;u8AquapTzJEeDOXRPq2Jkw=="
+secured: "gwN3Me9onzdbRJX4TX4r7RqXU71fNQTKiM+De41QqHsN7UJB49m9T9x1WwwWNoce6pW3eJzHQERtWMm5SbmpePv+tHg/Jscwn8o3M8xhgoghuELeHQTpCvGRD5U+LmoUu8BG3kTZ8HcTHt03jTlPlVgcHJegYIrJdo1KcmIJw/Swa9HZcHBPn5nnCb6wbij/mY9urG6Ipfhi4w6A2PQyMdLL6WIOWJBBGApIT9QhhYiuuSSnFT064DBnx48aYs2+t2076nt/Tjg3QL8wJz2fg0pSW+8Jgxc8tV0AwOiQZujOTZdv41GF/2/9hf7/qRnxvyTXIVzVTk6RNYHiVQNDgXWEXzUufwlwIXmjhDe3cnY=;PFt+fSn+4/1SoQswknRU9Q=="
 ---
 

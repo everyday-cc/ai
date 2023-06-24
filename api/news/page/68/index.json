@@ -2,6 +2,83 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-05-10-microsoft-partners-gurugram-based-builderai-for-developing-ai-solutions-for-businesses.md",
+      "title": "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses",
+      "excerpt": "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/AI-globe-climate-change.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
+      "publishedDateTime": "2023-05-10T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-robots-figure-out-how-to-play-football-in-shambolic-footage.md",
+      "title": "AI robots figure out how to play football in shambolic footage",
+      "excerpt": "Robots fitted with AI developed by Google’s DeepMind have figured out how to play football. The miniature humanoid robots, which are about knee height, were able to make tackles, score goals and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
       "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
       "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
@@ -1084,91 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-gains-values-with-anthropics-new-constitutional-ai-chatbot-approach.md",
-      "title": "AI gains “values” with Anthropic’s new Constitutional AI chatbot approach",
-      "excerpt": "AI startup Anthropic detailed the specific principles of its \"Constitutional AI\" training approach that provides its Claude chatbot with explicit \"values.\" It aims to address concerns about transparency,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/anthropic_constitution_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/?ref=upstract.com&amp",
-      "publishedDateTime": "2023-05-09T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-warns-deepmind-co-founder.md",
-      "title": "AI will create ‘a serious number of losers’, warns DeepMind co-founder",
-      "excerpt": "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
-      "originalUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

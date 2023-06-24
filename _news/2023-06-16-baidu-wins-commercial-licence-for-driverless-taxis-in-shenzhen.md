@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
-excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
-publishedDateTime: 2023-06-16T10:58:00Z
-originalUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
-webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+excerpt: "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ..."
+publishedDateTime: 2023-06-16T09:32:00Z
+originalUrl: "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851"
+webUrl: "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--fFhN_mG5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-16t082609z_1_lynxmpej5f09b_rtroptp_3_china-baidu-robotaxi.jpg?itok=D8sSFWKj"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
-secured: "lk+9Tk1JXRVEiQYKi6lHIFty5uvyfT+nspU9jADK9WHaEzFcnfyevTx5Ca9oiubgVMblR3dbieqPck2Xu9nC8SiF4ItZJRV8VuiGHxHAP+ans6P1Jsn7kY7+0X5OsBy/fy2XFKTjnukxeaxWGT7IL+VdJrflRm4XIMx6G/4Vh9DWxQsEVATBNBsGrcZFFp4diBnKn/xBquvIveDJBz+b1MR46LDBducadc7zY8TG8Fh5/Pzjt32nozMvZH7k5uLKhzE63RT3HrpUx77jBgrJiBtqcCykt9Z43nLuibA6gREDv8Fqrf/JbJkg0XcKEXDaK6CMg64s1YgHK3Im28YrepgQp4f9VSPvdA/lNo1UqoA=;/y8NTZme14trhMKdKPNgrQ=="
+secured: "t5rwshx/AuoZZcDKqaL8GHzMssM5SgwpgxJWPAlMbMpzySB5L+/b2myakyzm/cP+0juzJCxWEMsU+B0FzMtpfbklrbRqPiTdpDp7C5aAU1BRwYMDYbLd2WKeCO6OMOWa29mAGYMtKIyiHDqDXcpqFxdqqzrvazyQ52j63kmUTigaIamen+ZTNY/CcocegQ6ZuXfuP2io0KZphnU96PDGimlxo4H7UoEJBKbDqvgvvQlo49dEamHgLLMkjYSW6Q7a8QByMEGfsyInDhsO1EfBj82HxJTvL75xbpNl9ewvaAHcYl87jQpVfCykpXQLxo6lNKlVkMpCodgwnlVu/HFHY/wuw+7Wxzq9FaUdbasBlqA=;dZ5eRkkBdBI6gF4Fbms7ww=="
 ---
 

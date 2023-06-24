@@ -33,6 +33,20 @@ related:
         width: 1018
         height: 630
         isCached: true
+  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
+    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
+    publishedDateTime: 2023-06-21T22:01:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 508
+        isCached: true
   - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
     excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
     publishedDateTime: 2023-06-22T00:41:00Z

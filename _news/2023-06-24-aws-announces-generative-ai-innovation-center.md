@@ -158,20 +158,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
-    publishedDateTime: 2023-06-23T10:20:00Z
-    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
-    images:
-      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
-        width: 650
-        height: 434
-        isCached: true
   - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
     excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
     publishedDateTime: 2023-06-21T19:00:00Z
@@ -229,6 +215,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
     publishedDateTime: 2023-06-22T18:56:00Z
@@ -255,6 +250,15 @@ related:
     provider:
       name: Slator
       domain: slator.com
+    quality: 19
+  - title: "Adobe Flies Towards Generative AI"
+    excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
+    publishedDateTime: 2023-06-24T13:00:00Z
+    webUrl: "https://www.theinformation.com/articles/adobe-flies-towards-generative-ai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
     quality: 19
 
 secured: "cEi8NV3iAl4p1T652XT5dcpeQ2Zm1TcUjc97qSoISDAom6dkpbogl9DpGw5Omf1urJ0Hn6AsSaP+1OEgs+dQ3MYlHl8iZzOVNJElQ3R9u9MnPRdaCh2LhOa6YXc4IzDf0dzlnUajaUKBKqBz0p+shSnD566WdLFyL5CIRoGvmXtGcPgbGwOhO05a1caee7DGY8gXs3WIZ5pxiRHS7vVLQNpJreuKkcmMylvPKRr05KOcAo5cCTPBsG69rsr9T7Aofm7bKaG1jJ/vF9HzuMt4fnIeXWpgHeecmvGyxcNdRUcUR9URoReTRbvlU7aZX3HPDpFb1x4QY2Xq4aFw9tb/fNS5k8KSOsAqZIW6bpKK8UU=;wWnuY7a8NtQtbK8m+bqqkg=="

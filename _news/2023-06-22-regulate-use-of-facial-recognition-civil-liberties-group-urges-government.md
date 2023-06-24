@@ -9,8 +9,8 @@ ampWebUrl: "https://windsorstar.com/news/politics/regulate-use-of-facial-recogni
 cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Windsor Star
@@ -40,20 +40,6 @@ related:
       - url: "https://www.castanet.net/content/2023/6/2023062111068-649312bfaf497a4a42798d44jpeg_p3697199.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "US state, Ireland curb police use of facial recognition"
-    excerpt: "The push and pull of law enforcement policy governing biometric surveillance has been tugged at hard by privacy advocates."
-    publishedDateTime: 2023-06-19T20:39:00Z
-    webUrl: "https://www.biometricupdate.com/202306/us-state-ireland-curb-police-use-of-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
 
 secured: "r43MzAv4+USa5vxLsZcLwOOzwDk+4zfDbe4++9IXHbj008t/mnfg6CqMlDN0oL1eUIJ9/A6/sBG5C212Vuy1NPym/RrwYclDql1FAw2nZdFP6M4uEgwoYH3aAnYCoq2e1HtOBfvp5WvN19xNwRYugaWKgyvs3NrbBeFu/CpVHiwFAuRxlsTjzxqwFf5FPZhkCphIr1ONXbPRrVynzQrUuEvhgwNYsxOoAyi2w+RMmoBb3LdN6iyVyJAaUJ+7U/BGO8QWY7p11XmC5i0jGaCAnBsQE1ues08yvSOIniHwGf0WhBZeSBWWwN8PgHQGozJqK9jF73czV3bdC1FrZ6RLdVOvG5/9vDfdkUJ7LMMkOXQ=;eG/jCfinMbwPqpqgUldKEw=="

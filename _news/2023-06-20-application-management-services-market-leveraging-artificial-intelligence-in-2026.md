@@ -19,20 +19,24 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Bigger Picture | Artificial Intelligence Applications in the Power and Utilities Sector"
-    excerpt: "Whether applied in operations, at the enterprise level or in the back-office, power and utilities companies using AI applications are beginning to realize positive results. With a foundational AI stra."
-    publishedDateTime: 2023-06-20T14:42:00Z
-    webUrl: "https://electricenergyonline.com/energy/magazine/1391/article/The-Bigger-Picture-Artificial-Intelligence-Applications-in-the-Power-and-Utilities-Sector.htm"
+  - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
+    excerpt: "Delivered by experts from iHorizons, a leading Qatari software engineering and IT consulting firm and a QSTP member company, the session shed light on the use of AI in the area of Arabic Natural Language Processing (NLP). NLP refers to the combination of ..."
+    publishedDateTime: 2023-06-21T12:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications-ngj1wg72"
     type: article
     provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 27
-    images:
-      - url: "https://electricenergyonline.com/EE/MagCovers/158b.jpg"
-        width: 594
-        height: 774
-        isCached: true
+      name: Zawya
+      domain: zawya.com
+    quality: 15
+  - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
+    excerpt: "Meet the Expert’ series showcased advanced applications of artificial intelligence (AI) for Arabic language and the benefits"
+    publishedDateTime: 2023-06-21T19:24:00Z
+    webUrl: "https://www.gulf-times.com/article/663389/business/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 15
 
 secured: "7lnmJMMJV7jMYUsWzduJWJjcOhSd2Uh7bXrn+VGW37Eim+XSNVhfv5qgTu6JBtVEuNeIu+XLj6kYUpI7V5EUllzWmEIx907VT11I3wu+SHThULLZ+BxtD8nOWVUae0PUxzhOPoqzkH6wE2t4655haOIhKpk+3FlVJJropC71jEVSltl95iJRnEEkGBvT3sd5qUoAAMe6b/DCWRViR0TsR9ziM1861qjoiq5WuQkc1a5M499ZcNIxKXMGZg352msVI0EYLbFW4E57FnBwC80N295yf4Wt3JaPUiBk1dwYjItB7racN1C+Se2+P9Zg7UhRWtIoLxgeXjhBjdTqhhoKuuJPe1U9i7bhrzXtV/PNxoc=;G6HZXqqd/2b+ZFKI8+VmGg=="
 ---

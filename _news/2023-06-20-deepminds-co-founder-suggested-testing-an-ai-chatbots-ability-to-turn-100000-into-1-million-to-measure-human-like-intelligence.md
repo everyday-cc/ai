@@ -1,14 +1,12 @@
 ---
 category: news
 title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
-publishedDateTime: 2023-06-20T13:56:00Z
-originalUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
+excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
+publishedDateTime: 2023-06-20T14:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
 type: article
-quality: 76
+quality: 54
 heat: -1
 published: false
 
@@ -23,10 +21,9 @@ provider:
 topics:
   - Google AI
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
+  - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -443,6 +440,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "Ejfii6g2+Yc85jQcQDnXv6BTJ5utWw4zF0UXUoLSiyJ+AHSBqjZibisPkKuNEV8hY2Hmej8lGigB8O6EEhhIf9Qg8+f0A97OVVuXtnyrlt6YMf1D/uCc73mUm9l2JOH9xq2Q+O6NqGhsY7FyrWogQ8QYXiolF292Y+yXw4inRO4U6NNYI2DjqtwtLqHdaGyEleXxgkVlv3fvIaCoZ+anEEsdWJAFj1hzulKCho9LEdb637ANWkKOIG/i9ailg7vuNr2kkf+5yvgb3Roo4qI7bBxKnGz3EYtcQcZDYZbv1jXjQo+MAkAy3WoZ1wPkjOCLRxiEfueHNfvaAgFxZtQMjUCRLSqYwrELXl/Dq3i2jvl0ihLi3g2Mjyp4+B4TxQqWIvlNHoWmpiY0vrCiJeQh7EU0ZUJtLBjJZG2uADwSwLIvTIqBGWl1TEqeuoHwYPsR8mEyM+gztZzBzwzN0hw29l9yvR0LyMa2lOP8UwsPIDebS+RD9BwyEhMZSpfPaks91466TQgcP6IEX3kXc89Jwg==;Lp2a9bzD4X/C5Q6o9z7zXg=="
+secured: "2qsvrwnNbQ3cQLeh17A0+wuM0Dsf+Cvbaoks9wvfwS7Rm0gS913/i1KPCUtzy06PksHY74Fchf83/V3QVP2ZpSkclo+SAOZdKbXFwucqRbnuYoqRaEF2lBRZzUGuUZyq5fMkK7Oc50KSebnYJT1TYRId6FVICVoAC2XgZICMRh1WuP0DmKSsor4j2EWjYwMoFxLl961sM/e8BfMTX5DN/BNBI4a9fEAEBgl6pbN0KOVGPSw65ov92nP0xRmxVDWaa+Ipg+sNjPYPuFx7cS/R/LooVuhg2B8rzuQpOi3TMv80Z9FGoivvRYQH6gujEShxT7+H2jgZKLc11EALS0vvCSJ2D3S7BontUY7BYeZab8Y=;O6i4OafrHb2XtTUYTazZJw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revol
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

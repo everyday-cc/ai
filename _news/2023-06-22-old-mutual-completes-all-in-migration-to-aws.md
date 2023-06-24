@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "Mustafa Suleyman said the original Turing Test is outdated because it's \"unclear\" whether it's a \"meaningful milestone\" for AI intelligence anymore."
-    publishedDateTime: 2023-06-20T13:56:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/649192fe65b9ce0018a42687?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "HPE takes on AWS, MS, Google in AI cloud market"
     excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
     publishedDateTime: 2023-06-21T09:01:00Z
@@ -221,6 +205,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
+    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
+    publishedDateTime: 2023-06-20T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."

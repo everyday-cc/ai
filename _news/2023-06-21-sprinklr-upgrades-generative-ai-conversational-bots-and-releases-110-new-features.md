@@ -171,6 +171,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
+    excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
+    publishedDateTime: 2023-06-23T18:32:00Z
+    webUrl: "https://hbr.org/sponsored/2023/06/well-need-to-put-humanism-at-the-center-of-generative-ai-to-reap-its-rewards"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 36
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oVVtBgURtR3zZjDM3rYcyrA1SHbcKb1BwtCLOoqoGSXi9pu4JcHtVRm7qzhk35jcvqcpW6rJl2S/1QW1aBbo31Cq99oTNFwM2BM4Qp77k24JPWnxJV4M7ny3KukjZeyWgyCoOLqYszX3oOqeS10HhgPYWyyJbuXTSU6rZhrhgwFN4gIVWaWZf2zEED97J7ZH/1drGDE2SITymxkgiU+B+3rGidvCwcSpGHEK6W7JwTTDQw8Z0uknRbp+6r7LX/jnlwGoX5iouLqBYbcOTiK5104crlG2yWjNPiTrkixxqSStFNeApR5HKSsJTIC0Q5EawQLa6PMS6GhYdEddIHS+vtqtwPMzgFQmb+bdt2J80Yg=;4dD96MsCkYDOpeMP9Zop/w=="
 ---

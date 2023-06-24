@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-22-generative-ai-the-next-frontier-for-business-innovation.md",
-      "title": "Generative AI: The Next Frontier For Business Innovation",
-      "excerpt": "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/",
-      "publishedDateTime": "2023-06-22T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit.md",
       "title": "Mass adoption of generative AI tools is derailing one very important factor, says MIT",
       "excerpt": "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ...",
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -165,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -718,7 +666,7 @@
       "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -906,49 +854,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-regulate-use-of-facial-recognition-civil-liberties-group-urges-government.md",
-      "title": "Regulate use of facial recognition, civil liberties group urges government",
-      "excerpt": "OTTAWA—The Canadian Civil Liberties Association says the Liberal government isn’t adequately addressing the threats posed by facial recognition and artificial intelligence technologies, and should move quickly to put legislation in place.",
-      "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
-      "originalUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/06/AI-FRT.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
-      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/politics/regulate-use-of-facial-recognition-civil-liberties-group-urges-government/wcm/e83441e0-8534-45c6-a222-4d740d121fce/amp/",
-      "publishedDateTime": "2023-06-21T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1241,6 +1146,108 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
+      "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
+      "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "publishedDateTime": "2023-06-21T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat.md",
+      "title": "The EU AI Act is near. US AI regulation is coming. Here’s what you need to know | The AI Beat",
+      "excerpt": "Six months after ChatGPT became an overnight success, The U.S. and the EU are racing to develop rules and draft laws to address both the benefits and risks of generative AI. These days, the news on AI regulation efforts is piling up so fast that it’s hard to keep track.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

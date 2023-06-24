@@ -70,6 +70,20 @@ related:
         width: 1080
         height: 569
         isCached: true
+  - title: "DeepMind introduces self-improving AI model called RoboCat"
+    excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
+    publishedDateTime: 2023-06-24T15:02:00Z
+    webUrl: "https://interestingengineering.com/innovation/deepmind-introduces-self-improving-ai-model-called-robocat"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "di3CNIKqohui8b3dbu8WeHLdvl3enq3WJMVs2cw8cKCcZMgVo6SP/kqYIJu0dy2MxYPKpRJtbE+M4lkARJYf6tmzgg/0G/dOBE036tXyTDYl5aJ6jzUSXJeMdhWxIT1h1R8cHex/eLHb7KSZhCVE2ec6OKiDqIOUUJF9lZEKebccW+mXtYNHTpssXjsEP/FKNCNDG7/WGd3JyNjV9IGrDjbkm6DF0+86jPHcWrTUNqrxRAka/DizXeOJrieIEItmfQYuIN4Quua7eNLnYZ0tNB7ZASShVLNNYkzBlmFnfU6NEUksxtyQ6wr/xDPekI5rwYbt4wIZsGsnlG7eye6o6G0VdMcBlcYEv3Qmw6Vcy0o=;SFrXWC3j29nfWOtKNx4a9Q=="
 ---
