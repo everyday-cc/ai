@@ -71,22 +71,6 @@ related:
         width: 1400
         height: 707
         isCached: true
-  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
-    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
-    publishedDateTime: 2023-06-19T15:24:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Financial and legal professionals see the value in generative AI, according to a study"
     excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
     publishedDateTime: 2023-06-21T21:06:00Z
@@ -164,18 +148,18 @@ related:
         height: 600
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Hart Energy
+      domain: hartenergy.com
     quality: 54
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
-        width: 800
-        height: 480
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
         isCached: true
   - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
     excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"

@@ -26,175 +26,121 @@ images:
     isCached: true
 
 related:
-  - title: "Biden participates in meeting on artificial intelligence"
-    excerpt: "Watch live coverage as President Biden participates in a meeting on artificial intelligence in San Francisco. we and our partners use cookies on this site to improve our service, perform analytics, personalize advertising,"
-    publishedDateTime: 2023-06-20T13:08:00Z
-    webUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183451205824"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183451205824"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/biden_racial-zy143k.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden holds meeting on 'possibilities and the risks' of AI"
-    excerpt: "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans."
-    publishedDateTime: 2023-06-20T20:37:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183553093957"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden meets with AI experts in effort to manage its risks"
-    excerpt: "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation."
-    publishedDateTime: 2023-06-21T00:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90136"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden visits Marin after AI forum in San Francisco"
-    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
-    publishedDateTime: 2023-06-21T01:18:00Z
-    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
-    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 59
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden's AI summit was a hit because of facts — not fear"
-    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
-    publishedDateTime: 2023-06-21T21:53:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "President Biden talks AI with tech leaders in San Francisco"
-    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
-    publishedDateTime: 2023-06-20T20:54:00Z
-    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
-    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
-  - title: "Expert Who Met With Biden Explains How AI Is Enabling Racism and Sexism"
-    excerpt: "Algorithmic Justice League founder Joy Buolamwini discusses the need to prevent harms already impacting people."
-    publishedDateTime: 2023-06-22T18:51:00Z
-    webUrl: "https://truthout.org/video/expert-who-met-with-biden-explains-how-ai-is-enabling-racism-and-sexism/"
-    type: article
-    provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 39
-    images:
-      - url: "https://truthout.org/app/uploads/2023/06/SEG3-AI-Split.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Factbox-Flurry of US-India deals on AI, defense as Biden, Modi meet"
-    excerpt: "(Reuters) -Indian Prime Minister Narendra Modi and U.S. President Joe Biden met in Washington on Thursday and several agreements were to be announced to strengthen economic and diplomatic ties between the two countries and highlight new private sector investments."
-    publishedDateTime: 2023-06-22T21:41:00Z
-    webUrl: "https://www.aol.com/news/factbox-flurry-us-india-deals-152214541.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/b27c40a09a9c20c83cc2c5e4f2dc0aeb"
-        width: 800
-        height: 525
-        isCached: true
-  - title: "You Can Watch AI Trump Vs. AI Biden In An Endless, Unhinged Live Debate"
-    excerpt: "The former presidents are powered by advanced artificial intelligence, which is why they're discussing catgirls"
-    publishedDateTime: 2023-06-20T13:55:00Z
-    webUrl: "https://kotaku.com/twitch-biden-donald-trump-ai-artificial-intelligence-1850555581"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/83171901e6430097427ef734336e8314.png"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "What President Biden said about artificial intelligence during his Bay Area visit"
-    excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
-    publishedDateTime: 2023-06-21T14:38:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/21/joe-biden-artificial-intelligence-bay-area.html"
+  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
+    publishedDateTime: 2023-06-21T16:10:00Z
+    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
-  - title: "Biden meets with artificial intelligence experts in California"
-    excerpt: "In brief remarks to reporters before the closed-door meeting, Biden said that he wanted to hear from the world's leading experts on the \"enormous promise\" and \"risks\" of the fast growing technology."
-    publishedDateTime: 2023-06-21T13:36:00Z
-    webUrl: "https://kyma.com/news/california-news/2023/06/21/biden-meets-with-artificial-intelligence-experts-in-california/"
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "AI’s regulation naysayers protest too much"
+    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
+    publishedDateTime: 2023-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 17
-  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
-    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
-    publishedDateTime: 2023-06-23T00:45:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
+    publishedDateTime: 2023-06-21T15:27:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 16
-  - title: "President Biden Remarks on Opportunities and Risks of Artificial Intelligence"
-    excerpt: "President Biden gives remarks in San Francisco on the opportunities and risks associated with artificial intelligence (AI). Defense Secretary Lloyd Austin spoke at the National Security Commission on Artificial Intelligence Summit. Secretary of State ..."
-    publishedDateTime: 2023-06-20T13:12:00Z
-    webUrl: "https://www.c-span.org/video/?528865-1/president-biden-remarks-opportunities-risks-artificial-intelligence"
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Only 25% of CFOs Are Prepping for AI Management and Ethics Regulations: Weekly Stat"
+    excerpt: "Despite interest in AI by business leaders and innovators, CFOs have bigger concerns, according to new data from Deloitte."
+    publishedDateTime: 2023-06-21T14:22:00Z
+    webUrl: "https://www.cfo.com/risk-compliance/risk-management/2023/06/artificial-intelligence-regulations-esg-technology-cyber-risk/"
     type: article
     provider:
-      name: c-span
-      domain: c-span.org
-    quality: 14
+      name: CFO
+      domain: cfo.com
+    quality: 48
+    images:
+      - url: "https://assets.cfo.com/images/Zz04ZGNiMTcwYzEwMzgxMWVlOWQ5YjUyYTM1OWY3NWM0OQ==?width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Grammys' New Rules: AI Can't Win Awards"
+    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
+    publishedDateTime: 2023-06-20T19:25:00Z
+    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Schumer to call for AI regulation in keynote address"
+    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
+    publishedDateTime: 2023-06-21T13:17:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
 
 secured: "H3+Z48WYNrXPuKy7zxdnC0w+49i1514f2UI35fQzco5gX4Ky196BH7Qu5zPSiVuAlKC6VhrAZ3bR+HPnFDbDlIzcbYNJSZNIaRop0fPzgZIW1mCphJTu3yBwGrNq6QKo0i0Cw5VaB9NcvYotxITYxeLZbHaNwJ0BTpSpsksGC0UST7bdrDLuRaGJSZAiLMjRySVODQT3NHNNr57zWQVNyNqW4WYhIIDoUap3XGPzvDNaca6UiHph8Ky+tchIczyaluJMg1G7L4PVFnBGxB/2HVSu9rzOyEHbAbCjjiAXLrhZUjhHuyMdLkGgaCavdSAmmezbTidTXjrEhXx9FKlAKSLutEb30irLSQHl+oYWbDjIZwCR6UkcPZFa4tVxRn+Qkv39iT5cNQDjfy256+IGCc9VBEtRnFb8rlDN6S/UlMgJn4fMa6lC5kg+4lhKfjHZ4W4RtqBWMk0IZS1/dsFRGJLz4eGWz2lvqeAkCBfXjwvrCj2rnZkICciOm18wIbXDCnOlHawExalbN3aIOrJGuA==;OjF+MtAJS27qiqDK0HqX9w=="
 ---

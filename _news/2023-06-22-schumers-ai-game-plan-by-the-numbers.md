@@ -65,20 +65,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
-    publishedDateTime: 2023-06-21T16:10:00Z
-    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
     excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
     publishedDateTime: 2023-06-21T19:56:00Z
@@ -109,15 +95,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Schumer to call for AI regulation in keynote address"
-    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
-    publishedDateTime: 2023-06-21T13:17:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "Schumer unveils new artificial intelligence regulatory framework"
     excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national security from competitors like China."
     publishedDateTime: 2023-06-23T08:48:00Z

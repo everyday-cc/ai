@@ -67,6 +67,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
+    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
+    publishedDateTime: 2023-06-24T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 9
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
     excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
     publishedDateTime: 2023-06-21T12:59:00Z

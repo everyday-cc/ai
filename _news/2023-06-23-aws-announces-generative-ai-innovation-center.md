@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS Announces Generative AI Innovation Center"
-excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-publishedDateTime: 2023-06-23T00:00:00Z
-originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
-webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+publishedDateTime: 2023-06-23T10:20:00Z
+originalUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Hart Energy
+  domain: hartenergy.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
-    width: 800
-    height: 480
+  - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+    width: 650
+    height: 434
     isCached: true
 
 related:
@@ -81,22 +81,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
         width: 1400
         height: 707
-        isCached: true
-  - title: "Generative AI should be more inclusive as it evolves, according to OpenAI's CEO"
-    excerpt: "How should generative artificial intelligence (AI) tools such as ChatGPT move forward, so they can be accepted by a wider global population?"
-    publishedDateTime: 2023-06-19T15:24:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-should-be-more-inclusive-as-it-evolves/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/966b494c074f7ed53b202a1ca501728b0f07343d/2023/06/19/e9551c87-2732-4e0d-a2df-ea4c1fe01380/gettyimages-1496494665.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Financial and legal professionals see the value in generative AI, according to a study"
     excerpt: "More than 75% of lawyers and accountants believe AI tools can enhance their work. Here's the rest of the breakdown."
@@ -259,6 +243,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "a8FoCP+x9BE8OLfccjPNHvyHRaILHDWLeaCqFtvf8+28D6QmBMIKCu8C46X2vuZcZNvzxxxArwGzqbGwj8ids1bGKvrfnr32/JzPaD5h4H4kAci7xuq82IV0lFodFCh//baTQ9T1ANzgnaitK7CLjLc/B3q8c9tdnebmYsyI9IJ0bY4TY56my4ynOcBW35LoW6aAzE0aGrMIOsv79kN7Z7mCHAafY5MPnFkHb3QDKdVC7oiZuG3WQ4IuJkwv0gVM3ygCzcxo22wheMpqC0nV1ZIpV7pj73d5NXn1POkx8JjWAZIXq9kay6gWXfALSlupaI+U8Tn82McoScHICnP0nflWH/y7DHwJpUhcsa/OVvA=;BSEzPy9bhQAuHq8fbSA4jQ=="
+secured: "0xLl2YLjhg9iEKs4L7afDypNOd1UjEOXSTNvUmL5/7XEMS8r8SvLjjhZtTDGqfWKJ6rh62yDoUm3cZ/MzpZCUNWYVqLvFZCMlrD5eV/MbSnZ0IXt/JloorqcF+Ho18eSQOJiwdN2L5kq4VY+jUtnmozeif4TWPr1BRbfl8CpKqIHosk20rEL42EiKRWUoGeFHh2YGddQo6oK//MS6HnTYb0nVoy8wfboZ+mlvud9NbWIp3E4xg8OYRfkPmeoNcMB+omBwYx/gz8KAhYfHnzDQU9k8Pht8LVfJPuKg7BgTnlwl2s86TmDwiNCbD+UjZQY/gf3+SE9ZdTsAoXNcF+NIzptn+aaYlYu4uj8cPrLGUQ=;XKnIHGYvAAAz7/Z+/4Dhog=="
 ---
 

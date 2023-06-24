@@ -74,18 +74,18 @@ related:
         height: 438
         isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
-    publishedDateTime: 2023-06-24T05:19:00Z
-    webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
+    excerpt: "Internet giant Google will set up its global fintech operation centre at GIFT City in Gujarat, its CEO Sundar Pichai said Friday after meeting Prime Minister Narendra Modi here."
+    publishedDateTime: 2023-06-24T08:49:00Z
+    webUrl: "https://www.orissapost.com/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/"
     type: article
     provider:
-      name: onmanorama
-      domain: onmanorama.com
+      name: orissapost
+      domain: orissapost.com
     quality: 33
     images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
-        width: 1248
-        height: 650
+      - url: "https://www.orissapost.com/wp-content/uploads/2018/10/google-sundar-pichai.jpg"
+        width: 833
+        height: 563
         isCached: true
   - title: "Google to set up fintech operations center in Gujarat"
     excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
@@ -101,6 +101,17 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
+    excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
+    publishedDateTime: 2023-06-24T07:16:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 24
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z

@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Schumer reveals plan to regulate AI"
-    excerpt: "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues."
-    publishedDateTime: 2023-06-22T03:02:00Z
-    webUrl: "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "‘A moment of revolution’: Schumer unveils strategy to regulate AI amid dire warnings"
-    excerpt: "The Senate majority leader released his long-awaited framework for regulating artificial intelligence and said he would launch a series of AI forums this fall featuring a range of experts."
-    publishedDateTime: 2023-06-21T18:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 80
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-chuck-schumer-ew-526p-9c7348.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Chuck Schumer Joins Crowd Clamoring for AI Regulations"
-    excerpt: "Congress doesn’t have a strong record in addressing perceived harms from technology."
-    publishedDateTime: 2023-06-21T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-803525/social"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Chuck Schumer Urges Swift Action on AI Regulations"
     excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
@@ -79,54 +49,98 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-06-21T19:56:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
+  - title: "AI’s regulation naysayers protest too much"
+    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
+    publishedDateTime: 2023-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
+    publishedDateTime: 2023-06-21T15:27:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
+    excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
+    publishedDateTime: 2023-06-20T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
     type: article
     provider:
       name: PBS
       domain: pbs.org
-    quality: 40
+    quality: 48
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/ai-1024x683.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
-    excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
-    publishedDateTime: 2023-06-21T21:28:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/06/how-should-congress-join-ai-revolution-chuck-schumer-has-thoughts/387762/?oref=csny-skybox-lander"
+  - title: "Only 25% of CFOs Are Prepping for AI Management and Ethics Regulations: Weekly Stat"
+    excerpt: "Despite interest in AI by business leaders and innovators, CFOs have bigger concerns, according to new data from Deloitte."
+    publishedDateTime: 2023-06-21T14:22:00Z
+    webUrl: "https://www.cfo.com/risk-compliance/risk-management/2023/06/artificial-intelligence-regulations-esg-technology-cyber-risk/"
     type: article
     provider:
-      name: City & State New York
-      domain: cityandstateny.com
+      name: CFO
+      domain: cfo.com
+    quality: 48
+    images:
+      - url: "https://assets.cfo.com/images/Zz04ZGNiMTcwYzEwMzgxMWVlOWQ5YjUyYTM1OWY3NWM0OQ==?width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Grammys' New Rules: AI Can't Win Awards"
+    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
+    publishedDateTime: 2023-06-20T19:25:00Z
+    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 39
     images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/06/21/GettyImages_1500406096/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Schumer’s AI game plan, by the numbers"
-    excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2023/06/22/schumers-ai-game-plan-by-numbers/"
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 19
-  - title: "Schumer unveils new artificial intelligence regulatory framework"
-    excerpt: "Senate Majority Leader Chuck Schumer unveiled a new proposal Wednesday aimed at creating a regulatory framework for artificial intelligence that he says will protect U.S. consumers and U.S. national security from competitors like China."
-    publishedDateTime: 2023-06-23T08:48:00Z
-    webUrl: "https://www.aol.com/news/schumer-unveils-artificial-intelligence-regulatory-014711533.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
 
 secured: "r5buylWtrKDOBNGqCNLh9eP7r5K3ACBkYn8BIFgXi23OtiIbP2QFUII0byw0CdAnp/MWJE4jSPWM1bgze5TuWW7aGAJYUa6GSG8CN7KYbN7Ug8JhSuabXnYb8D2QXEQd0e5unPlS59mjEzP8G4LxcEQNM9WOZM+7qRXYcVcxSnNjBXMNN6y3imQXOmxZ/SjDdyC81oG7EGMUDvQ4VzPpKiXH1nGZKjqRDoBe2o8jBddwH7c39ns+0mjYeHfVJgMNcIhSx3loe8vFVepPVCq2HGm9XpHvg58scckAFk0J9A1RL9G9C9nEnpE75J0WKA1D/1fVYb/UoXql0haivITWzglctV4oDvSTqJr3JvxrOCxAC74YKgu8vPgDSIRTfEM0tZ7em4izRwJvb4Z6cUajVwP90zl6sbklHscL46bxrhNag4Phjq8oCUxveq0rIWCSd5blPAmO8AammZxMAJyRLyd7SA3/ApRh6S8+haVOJKIIAkPeRTB4h9r32CkFZjG8a32ZDywgJzTXOc17Zr2y9A==;egeLO38bU2N7RAqQh6euYw=="
 ---

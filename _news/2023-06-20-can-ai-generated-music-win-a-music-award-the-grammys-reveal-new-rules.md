@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Grammys' New Rules: AI Can't Win Awards"
-    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
-    publishedDateTime: 2023-06-20T19:25:00Z
-    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
 
 secured: "QmVnS9vGBsMcVJcPoYs0OfYbEpUNBomTF28l6BOcot2SGFS62/TgUp/nPl7wz3iOSN1SYkcvUYVM8TntvWVwZc6urxNro7z2ofVH9IoDjyBcP+g5o0K/LsYnbyUm5AG6C9MkgJswRpTXMDkYFKm0tGbUYXmP5u90ofO98FuoEmfvorEnH0JgmQAclZVYdTSwEmGTjtVyRq9P70kI3L3CJqbg7bI7X94596+GZ7Enh1g+vFmi2vMZ/UAIujJC9HC6S/uMXh0TxV1kGgDdHDen/bGBAApMKEIcYIHXdC0Sv/eujBhJ49zfNZGt8Xs+IRcUQ0xxcrfOn8G0QVCp2rL7nTDotfK1Pk9OmPvAC3tO2I4=;oMcDxhmzkwIBoP5UJc4EFw=="
 ---

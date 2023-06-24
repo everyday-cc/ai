@@ -167,7 +167,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-the-aws-cdk-to-deploy-amazon-sagemaker-studio-lifecycle-configurations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -972,8 +972,8 @@
       "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
       "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -983,11 +983,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T06:15:00-07:00",
+      "publishedDateTime": "2023-06-11T04:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

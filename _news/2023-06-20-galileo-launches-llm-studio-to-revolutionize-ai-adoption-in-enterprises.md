@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
-    publishedDateTime: 2023-06-21T15:27:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
     excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
     publishedDateTime: 2023-06-22T21:22:00Z
@@ -70,15 +54,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
-    publishedDateTime: 2023-06-21T19:25:00Z
-    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 9
 
 secured: "8w9H47ZeC5oWaj/DPK6LduPuBT7msxP5xdinKRIc8Eb61Ga8OeHs2P9vWIYAlT8f2cJmrThZDeRCaMLGUHOmZgnZosiGeraoF6Ebc15FQlqHLuR5i/St2HXXyldEddsY+R0gBfS7TB9OM1ukE0+1UmnESYD3qiqCSUbxZUgKTlmMwhwDUscjbb39xOs6qRSxDFE2vbo95RAivivGegjfakqMwTv8EmCASGegvuvQCBTk6f+LnVqWYblAJvDz/14lVMufQe7ZSPbC1OmczbmsukN7F/YMsmIq4CQnbty8fSjqw5/K4JH823p0CzgTWNvEBPhA763yfO079HQNELT3ElOANQ2JeQ3rhOZLicRslS3Y7J+O4Z0/CbcHxySzzhQWVuNuZgbkA+9IPHDAHpAg0asScXoIfUwcxGp4kMYWxdzerEuNNdU/3hke1NJGKsWcQ5jFf3VZ9x91Kpk5ZbpJh6zLeGVEJIbdC4hTxYYSxCRwsK9+/wiD2uzMIkJxMeIwUn0zKwWrAE72JoLlxg049Q==;vdFGhbn7PAZFM0Zz/BM1mA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-vs-professional-trans
 webUrl: "https://www.marketwatch.com/press-release/ai-vs-professional-translators-which-is-better-2023-06-20"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pro Interpreters vs. AI Challenge: Who Translates Faster and Better?"
-    excerpt: "AI did very well. It struggled with word choice in a number of areas. It referred to an overflow in some hospitals. [KUDO] And also overflow in some of our hospitals. But obviously, that is borderline nonsensical."
-    publishedDateTime: 2023-06-19T17:03:00Z
-    webUrl: "https://www.wired.com/video/watch/pro-interpreters-vs-ai-who-translates-faster-and-better"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1686933411/wired_pro-interpreters-vs-ai-who-translates-faster-and-better.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Last AI Boom Didn't Kill Jobs. Feel Better?"
     excerpt: "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities."
     publishedDateTime: 2023-06-22T16:01:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Man vs. AI: Who makes a better beer?"
-    excerpt: "A brewery in Bucks County is testing whether or not artificial intelligence can brew a better beer than its head brewer. Howard Monroe is at Second Sin Brewing in Bristol to explain how this competition came about and whose is better."
-    publishedDateTime: 2023-06-22T22:07:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/man-vs-ai-who-makes-a-better-beer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/22/071b2096-bc11-4f6c-bbe7-facd1280b376/thumbnail/1200x630/cb3e8b0775e93c1032389279a6878402/7c42fd7e83cc5771665b514edb6eea8d.jpg?v=74b410729cdff54299e4158e8919d920"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "arBhVEsKSZVphKhC0aiMOkWZm42NdIX7Fmm8xrgAqD6P1RFPbtMUTVgUZ3BP1E2WNDlSP6vRdY0T3Bc5UJ7wWiTpZSJ4yv2gF8Rj//eTpnebWzanLD2tPMC3GFLaPttDXgeh6pIRknseovsPk6QSlML4bVDkGG9MCEKy9yEjsGxTmpeSWMQ9sDzefONAiVsYV31i5/zoWH7NB9+qCkwS1/hnDEbXtAXT1z514CdD7uCn5T5GInhnDsDyd4UKMYBt8c/Ml5xwBhj9SOtQtYvhMWz2x7WnR/2wPjFMSq6sgUM7VQ9e0VkyotnSV/MOS0L90wA2zilvraaOqiXqHVLQdssNPNGo/bNc9o4gKM477ow=;R+4fPtJIRkFef47UDjw3Bg=="

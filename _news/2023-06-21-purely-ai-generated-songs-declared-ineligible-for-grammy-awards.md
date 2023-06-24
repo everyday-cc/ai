@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Grammys' New Rules: AI Can't Win Awards"
-    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
-    publishedDateTime: 2023-06-20T19:25:00Z
-    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
 
 secured: "2+JniLTaSF3Yobn2P2KxZDWkJcNlU5yr1IdpGKFiLkib4xC6KAvsfe6UZPa/KFk4aZQX9XvDy+RAemZNEQh2qX955UoSlC0NZtN5TvznflnCcMXAc3qWWebiEM2BzvnIynE4FMBA7JTQE5wX+2eKcqHJk4Vp1i12b+/rLBLBWzjWQPixQ74lALe2H3XP0/VvI8nKfEO/nSXmCgEAzF3Z6QIx9vpFhVjHis37AIkYEdktDkx459djE7gBbQ0TNYQ+mWnh7ireLF4dc0351RoaB2gUAMeqjutp6iGV9Ggvkoqdf49680ncj2DQllRrPTIuagsnAgPWiWuqUwGsoiI9U7xmQASnBL6z/c47ST96TuCqWfSNXtZrSYQ3rmkrQxltxGMCaC2F9Ebiw8nrxyD2k98XMfLKC/LsH7aBtOGpwn2hL2yDw00Bexh+yG77cuS0ziRCHdWxM4wPz3hyBV9SRd7Q1m3rIR29mm+i5hA6VwJ5kssSptKH3NwCjJ89Gafmx+3I/ZgyJ/czbfGbEMOa2A==;1CikGo8z7FtjQ4A3P5aoLQ=="
 ---

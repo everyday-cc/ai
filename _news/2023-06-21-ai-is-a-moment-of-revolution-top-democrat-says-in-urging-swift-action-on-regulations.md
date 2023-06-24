@@ -26,47 +26,112 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
         width: 1200
-        height: 720
+        height: 800
         isCached: true
-  - title: "Galileo launches LLM Studio to revolutionize AI adoption in enterprises"
-    excerpt: "Galileo, an AI startup, announced today the launch of Galileo LLM Studio, a platform to diagnose and fix issues with large language models."
-    publishedDateTime: 2023-06-20T13:00:00Z
-    webUrl: "https://venturebeat.com/automation/galileo-launches-llm-studio-to-revolutionize-ai-adoption-in-enterprises/"
+  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
+    publishedDateTime: 2023-06-21T16:10:00Z
+    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
-    publishedDateTime: 2023-06-22T21:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
+  - title: "AI’s regulation naysayers protest too much"
+    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
+    publishedDateTime: 2023-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
+    excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
+    publishedDateTime: 2023-06-20T22:35:00Z
+    webUrl: "https://www.pbs.org/newshour/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/ai-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Only 25% of CFOs Are Prepping for AI Management and Ethics Regulations: Weekly Stat"
+    excerpt: "Despite interest in AI by business leaders and innovators, CFOs have bigger concerns, according to new data from Deloitte."
+    publishedDateTime: 2023-06-21T14:22:00Z
+    webUrl: "https://www.cfo.com/risk-compliance/risk-management/2023/06/artificial-intelligence-regulations-esg-technology-cyber-risk/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 48
+    images:
+      - url: "https://assets.cfo.com/images/Zz04ZGNiMTcwYzEwMzgxMWVlOWQ5YjUyYTM1OWY3NWM0OQ==?width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Grammys' New Rules: AI Can't Win Awards"
+    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
+    publishedDateTime: 2023-06-20T19:25:00Z
+    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Schumer to call for AI regulation in keynote address"
+    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
+    publishedDateTime: 2023-06-21T13:17:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
     excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
     publishedDateTime: 2023-06-21T19:25:00Z

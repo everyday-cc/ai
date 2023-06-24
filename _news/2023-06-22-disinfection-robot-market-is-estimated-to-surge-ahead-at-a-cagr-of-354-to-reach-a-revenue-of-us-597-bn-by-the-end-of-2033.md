@@ -39,15 +39,6 @@ related:
         width: 420
         height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Drives Innovation, Projected to Reach US$ 744.39 Billion by 2033 with an Impressive 55% CAGR"
-    excerpt: "The Artificial Intelligence (AI) in the automotive market is anticipated to record a robust CAGR of 55% between 2023 and 2033. The market is anticipated to cross a market share of US$ 9.3 billion by 2033,"
-    publishedDateTime: 2023-06-19T16:25:00Z
-    webUrl: "https://www.fmiblog.com/2023/06/19/artificial-intelligence-ai-in-automotive-market-drives-innovation-projected-to-reach-us-744-39-billion-by-2033-with-an-impressive-55-cagr/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
   - title: "Smart Cameras Market Is Anticipated To Reach Usd 5.92 Billion At A 9.57 % Of Cagr By 2030- Report By Market Research Future (Mrfr)"
     excerpt: "(globe newswire) -- according to the research report published by market research future (mrfr), smart cameras market i"
     publishedDateTime: 2023-06-23T00:58:00Z

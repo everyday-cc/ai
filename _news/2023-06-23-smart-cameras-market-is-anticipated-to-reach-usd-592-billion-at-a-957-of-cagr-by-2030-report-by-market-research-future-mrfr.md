@@ -53,15 +53,6 @@ related:
         width: 621
         height: 523
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Drives Innovation, Projected to Reach US$ 744.39 Billion by 2033 with an Impressive 55% CAGR"
-    excerpt: "The Artificial Intelligence (AI) in the automotive market is anticipated to record a robust CAGR of 55% between 2023 and 2033. The market is anticipated to cross a market share of US$ 9.3 billion by 2033,"
-    publishedDateTime: 2023-06-19T16:25:00Z
-    webUrl: "https://www.fmiblog.com/2023/06/19/artificial-intelligence-ai-in-automotive-market-drives-innovation-projected-to-reach-us-744-39-billion-by-2033-with-an-impressive-55-cagr/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "N4KlqMwCvdXLGp9ND/JQaKliAL/0pxcLkv583VewtTuL9w1Uf6lpp/zmCW/hy5jW3qmcUBbyCGrapARUupVPRt9PisuAItSx3dLz99t025lQ8iiM7sty3lS8YaLaze8luI3tVL7KZRAYCrLPjOpAizb7Wt4vwvsvyST17Z9DADwcd3Smln1X58sa8MVJXgHkkb8C1ZVRP8ZNd9x3gYHI0re7H4w3/1cQ+oh/T6jAeMdVyPPGl5sDKRgYs66gao+n66XXuuAanKhgh2M6ciNXPhVAoN7JwPK/9zYE2D/9dy5G7A1i1kIWNmB5EfIkvvvbLOTK6qT7+ZqD5ex4LxOaZ3rct09N381E4/HxRI4kYJM=;SKCBbufw/Ef+2joEr/POug=="
 ---

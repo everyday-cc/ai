@@ -2,19 +2,19 @@
 category: news
 title: "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology"
 excerpt: "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ..."
-publishedDateTime: 2023-06-11T13:15:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/17621315/amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology/"
+publishedDateTime: 2023-06-11T11:36:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology"
+webUrl: "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology"
 type: article
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "GPRsaqLTSkyebmlzvJAHwOvhMtFXIi/a4e44dzIVcyrKVuDLeF5EmOUJNXXSWF4gcWyUJ2aRUDHmXErpkoX8t1Lwd7mMMP7LUG20ie6XE7wyhgHiT+RvuPRi8YvkRTQBDS3BDxjXQRoaLcjpB/RnoIwd6cWRPypMS6buY0EUXwO1NxbtKJqeYaaIIiZht6rRYCnSvT9XognXXyqMFjlpBMfIO8VtJADhum3AsUfFdxUP6VC/hvzxRfXxOhZW4/oHjS0vs1zxW5i6Q++6D3UEcVeQE4Ath1P/o36XFYT0yBoPSN1vWmYZqjbF4VqaBU76CaRdhDdpAG0tTKCX/yRt1Pi5zwR8MI6w9d0xH2Ih7Q4=;7fLx5Wd2MT2R9qp1RDdH5w=="
+secured: "d6bRatbBTx4apr5D3FLhfDYW9rj9s+YWG1m8DPOGNqFXWEEqpk5e0G7WutAMCs28q/1eDMMIad5ISm6hgmXLNR9hToooU16mMBgIwGnbOFv8vMLQop3fTi6sUFcmPtD0QUK51s+79IK3mDf5v0hxdWiXrzjHRhgwDc3mz+x1U/q8dRttXl2M2cbsTlitGAJsnRyR447DNntIL39HqTuvYr955vNVwmTr4WMOfHRk9bQQwmrc7CElHrkVsaR3tATmB1yjjfMpX/V8ajOGZ1BBxDMji/tm0tSA5KjqJ3q+a6tS/LAyHZWLThGXzj5LOT8QnPanqiGn1uCQVH/guIPZymqviDpX2GMVVP7lbJrD+X0=;ffW/5k92Fj5heFdAjWzlaQ=="
 ---
 

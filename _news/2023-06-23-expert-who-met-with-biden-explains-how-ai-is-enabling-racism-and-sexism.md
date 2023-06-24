@@ -105,22 +105,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
-    excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
-    publishedDateTime: 2023-06-20T22:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 48
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/ai-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "President Biden talks AI with tech leaders in San Francisco"
     excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
     publishedDateTime: 2023-06-20T20:54:00Z
