@@ -67,6 +67,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
     excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
     publishedDateTime: 2023-06-21T12:14:00Z

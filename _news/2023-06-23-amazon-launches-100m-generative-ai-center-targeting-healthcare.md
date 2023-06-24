@@ -210,20 +210,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
     publishedDateTime: 2023-06-22T20:03:00Z
@@ -389,6 +375,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
+    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
+    publishedDateTime: 2023-06-20T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "AWS invests $100 million in generative AI development"
     excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
     publishedDateTime: 2023-06-23T09:23:00Z

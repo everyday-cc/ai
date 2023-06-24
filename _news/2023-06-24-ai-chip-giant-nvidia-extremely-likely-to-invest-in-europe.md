@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI chip giant Nvidia ‘extremely likely’ to invest in Europe"
+    excerpt: "The CEO of Nvidia on Friday said that the world’s most valuable chipmaker is ‘extremely likely’ to invest in Europe. Nvidia’s Jensen Huang told reporters that expanding in Europe was a ‘wonderful idea."
+    publishedDateTime: 2023-06-24T18:10:00Z
+    webUrl: "https://www.newagebd.net/article/205116/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 34
 
 secured: "5xWLdWsROIXkHAckhIZ3jkwqNyK22U+HlCb26d8yzeTd5Z/vLwAFqzRdYY6QCyRb4s/yp8i9sKB8bEAOs4QPJz8L8qCXCyxyvD3HdaphxgNhKl1yB/6xt6lTcfajC+gGMPOX3qNB/s0OAmGfqqsMyfMoPPex8XDA8DdqArTaMbjdfTQ2a3Dy6HlfvT8H+rGjllV51t1/is4ZxMQxk87gyBMxHRkLlo1sPX8ZZ6r4drsPC22S12HAXntBpIjc8C/iHU5OOYHFcSTTIvbkPITV+XM/srgy6+KYGWxEHDZ+HorVmzi2Cjd5X+AUc3Om7xDuDmPjx8+8ahZQwrL3Y8Gj4Yxm1w9Ys4WR6nx+x8CpAi85xUfUb7K9bjssPv8kcpU9QzIBeKZj1MFhByjx8qfu59T5ulnXxVRXsZywxQfUEyHXrAf9IBb9K++gyRPnnHTPh0Mem7T0wjz735suYS0ROqeEsFJAIvB9XCBWOhhvsMRFoRsOdKUJX7hUVvue/4hH/aTU0y1VM1mKrOEGMFZn8g==;TzMG4F6GPiKWZNdnUJYpQw=="
 ---

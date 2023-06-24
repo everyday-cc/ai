@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32918479"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918479"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -51,22 +51,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/06/20/nvidia-photo_by_mizter_x94_via_pixabay.jpg?width=1200&height=800&fit=crop"
         width: 1080
         height: 720
-        isCached: true
-  - title: "Chinese vendors ride on high demand for Nvidia AI chips, sell at double the regular cost for ₹16.4 lakh per unit"
-    excerpt: "Chinese vendors are capitalising on the surging demand for high-end Nvidia chips, particularly the A100 artificial intelligence (AI) chips, despite export restrictions imposed by the United States. The popular Huaqiangbei electronics area in Shenzhen ..."
-    publishedDateTime: 2023-06-20T04:10:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit-11687229628998.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 53
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/20/600x338/nvidia-a100-80-gb_1687234033810_1687234040699.jpg"
-        width: 600
-        height: 338
         isCached: true
 
 secured: "CxHEMlkqtSNBpKVHo6+oMPA3/RFB+rHTen5t0Po3juhbwlaRcDU0DRJtekW1N8Ov1sNtMDd9L++MgQ+0kX8Yr3VQ6M1O33di4d/HlHjnWJpI7WKZPmWKFHXGSBnBXppWiJcQSHrAZpBSi7WJcxmcEO88texClvQIuUm1AfghEXfP0jgQBf9B+IVwkXtZAVut9OSPwvksO1MWl2DfZXy26vpR0uNJmBGJECNG7xqB/9zTfPV81YQMyAsgquSH8P9BDGtYh6qltUHDxRz1+YVgv4UgnmlQ1h6L+IVkeQtKV6eL+HzOnmsOSCvcG+BiR98rv5s1coBYm3QA/WCh/ieA7dZIJeO3Hnz0kIaeQRGnfkk=;wXyro3/hYVa+19kI3TSB9Q=="

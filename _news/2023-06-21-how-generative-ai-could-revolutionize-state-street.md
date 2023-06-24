@@ -156,6 +156,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair, and Twilio are engaging with the Innovation Center to explore developing generative AI solutions"
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 54
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
     publishedDateTime: 2023-06-24T10:11:00Z
@@ -218,15 +232,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
-    publishedDateTime: 2023-06-23T04:20:00Z
-    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
     publishedDateTime: 2023-06-22T18:56:00Z

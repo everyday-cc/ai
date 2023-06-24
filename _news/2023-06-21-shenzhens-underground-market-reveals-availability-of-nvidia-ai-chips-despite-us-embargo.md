@@ -55,22 +55,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Chinese vendors ride on high demand for Nvidia AI chips, sell at double the regular cost for ₹16.4 lakh per unit"
-    excerpt: "Chinese vendors are capitalising on the surging demand for high-end Nvidia chips, particularly the A100 artificial intelligence (AI) chips, despite export restrictions imposed by the United States. The popular Huaqiangbei electronics area in Shenzhen ..."
-    publishedDateTime: 2023-06-20T04:10:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit-11687229628998.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 53
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/20/600x338/nvidia-a100-80-gb_1687234033810_1687234040699.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "DN/6RNfjZLQMSDtjvBu/1B/7lnvVegbQA+KBQolYbaQrrLRzBaaDMjmfcDV97RaTW4volm1mA8kwfXTktf9rBy0FIOA2tuKCAGioDuxsI7iP1vDEXyhmBbxqBp6L74Hm7XiLCRuZEfeI8AxMQUinZMJJAxDbNkoAF4NcgkF5UWadvrAQ+o5O9SvFQy4Ks5moB/0Y0fl1oQQ39FFcMXzN5Nj/8M59dIFzB9EyOJNfQh/ljTv+00P1khT+AqPjpJ5iaWm3RsHn2A6f6+YZc/tQhVsHD8U8qbnNSIQDwf2KuvaMgcXo0AOOK9DlB31FCBQteKwtSE6kk3TKz7zny2CNyqmfVshgwBULL7wbzyBjxmQ=;rbMIiTRTg31Civ+JfdIUFg=="
 ---

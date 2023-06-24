@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57120-amd-hopes-to-catch-up-on-ai
 webUrl: "https://www.fudzilla.com/news/ai/57120-amd-hopes-to-catch-up-on-ai-with-instinct-mi300-ai-supercomputing-hybrid-processor"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 620
     height: 465
     isCached: true
-
-related:
-  - title: "AMD Hops On The Generative AI Bandwagon With Instinct MI300X"
-    excerpt: "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models."
-    publishedDateTime: 2023-06-20T01:11:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 706
-        isCached: true
 
 secured: "q3Lf7F9CF/gl7Si9e/bFwAFuNnhKO9iR+cdlcJApyqD+xRJ5XNLa3VyhSLOoik/RSMjIjCtJ9ouAsRIr8n4QUhLRRgltzrVCmhXb5J0FQE0Xo53WJc1M46ew6IIfao7MQhP1Fu0Oa+DRT4Krhx1iCxeYEkiUatY/EkfvOuz2W2dm5M8Yk8DFBWgvFTVNgNFrvm6GDqdNPMORHoL3DiC0xp+WALNd7b0irvBB4Df/G/wY11WPH5iEjZkfh+ZFBVax+ltcOeUGl9fOJFWAHfLTWICKI/tpxTzKP31/mtXvjgGjVIM+ePu3nTfQwHxzlZHzMwXDUCv+H6CgxYYLqRwH9WXIKnki5YuQk6X5vkl16eI=;toMmlHm5HBukmA3eg1iCNg=="
 ---

@@ -67,20 +67,6 @@ related:
         width: 709
         height: 472
         isCached: true
-  - title: "Safeguarding Healthcare Data in the Age of AI: A Critical Imperative for Healthcare Executives"
-    excerpt: "This article explores the imperative for healthcare executives to fortify data protection efforts, delves into the unique challenges posed by AI"
-    publishedDateTime: 2023-06-20T02:14:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/32459-safeguarding-healthcare-data-in-the-age-of-ai-a-critical-imperative-for-healthcare-executives"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/4938da019dba46f08d9c3be1946ae1d8.jpg?t=20230620_020455"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
     excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
     publishedDateTime: 2023-06-22T13:25:00Z

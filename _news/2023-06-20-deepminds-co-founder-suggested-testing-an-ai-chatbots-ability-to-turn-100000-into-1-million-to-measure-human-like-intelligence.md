@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-20T14:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
 webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ provider:
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
@@ -440,6 +434,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "FM1XRlzQdoch6LwmoG2pIBNauey7U6GQcXNbsZ1wQtKYwiXQqeYhNnTPSjOOy5//OloNflsHpg4X8/Jt79VWLYT4H3TbLaVW+kOSJrCLZTZAKIT1IVtpMsF9mKMVciEH9fHjSSnjaCakuCh3iqlEHRH9JdCWaPJT9D6z3pdj6PvCOo5hKFDyWKoNji4KVHg1svwOgiGN6ss52lxahor+vdCtod31eS3ogxa9ewrYUUtJETv/lXyO07RbN1mbtyIMiqzXPve7kWd3B88gbPXs8DQO4XnIi2dWDYRndWTP8AZ5+9FDmi8eabpoxib9tX66fhScMbJuFBJWTaG7kskIiCN+G9NXnBvS1iij4tPeooI=;OBHvqLERNoArxGLA/V0C/A=="
+secured: "v5/P0i4N6g4sGw4WZvk4ECQAllOA12uliAIS7ZEd9H+qr0qhIJJbBeb+DIk4zU5eVN0V0EcPBm/epwym0NQ2X/Ze7oKcc9fCRZtsbr9BzlBK9+Sut07HwjdS+WAiFzes7WTRqPtMVRqzTzMVl2PfsqHwqR1Bj7RpHAznOAkyFMZc1dxTouQW+8BZ5vyNVs/RW9UQgxl0VpBO72Qy1AuZNnxqPgStqwkkbbMPv6m21agDXr+OOQQQWAYuZbkN04m6vHBOaq5YxltmtKCNszL7Z9K/wYvK7mrxl9Jdvpu8oYB3HgR5EIQESLBsNIJACkUfEIHR3a3iZROy8sInfm8NCFKGqhDWQUWUfpaUjUoYNoY=;joytbKA/dZLJ+zOPSxvXgw=="
 ---
 

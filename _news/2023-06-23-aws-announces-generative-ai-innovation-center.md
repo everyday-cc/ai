@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Aws Announces Generative Ai Innovation Center"
-excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
-publishedDateTime: 2023-06-23T04:20:00Z
-originalUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
-webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+title: "AWS Announces Generative AI Innovation Center"
+excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair, and Twilio are engaging with the Innovation Center to explore developing generative AI solutions"
+publishedDateTime: 2023-06-23T00:00:00Z
+originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+    width: 800
+    height: 480
+    isCached: true
 
 related:
   - title: "How generative AI can help finance and accounting professionals"
@@ -260,6 +266,6 @@ related:
       domain: theinformation.com
     quality: 19
 
-secured: "VnS2WYJE/MAZjiHXh0VRPRU7cwlQ7ARw8BQcVA8Z9ROOKyLs0ER47v8Cy0GmMIggBXe6XjAePCz53vO0+Si/RfGTb7lqL6vLpuXz5iF/SV+D3Gyg2iUTer5cIvZVkIR9dZU8AZblSVvYlFDHFeHKb1wXAYzcFY3uQJGn0lkMp22NExZ2esG3DazsmYRRUyJnO6ELYu5eHwUXYIRCbnZdpwxTpcpBHNcTV2ooaKlRCvdaMcsGZlKhYJxHxHFee41NVdb6/cZDpr6GF/ka/6Y11Rlne5ia0iYglu89nJ+FF5Rd383WexNgJia5YSBxz544Pz9BhlBbuS6IHBrWV/kdB83KV5HSWVA0T6ubbtoAPrqeU1CX34GrBpRveWNKA8Xlxg2UTXqHjz9uBiGkgycKTB09tAX+mnzxz2Xb3YJLxRq1MUl0ap9NfaqmJzCoJtw8WlNP52xFCWvimINlXktXkDoFrduDXOeyZ44VmflZIODbXs8fCu7rVg8NR3g1+KAkNd8C8xk7ct/LY2Kl9ictrg==;OaW5B6A17Um+cffCTJuPgA=="
+secured: "Q+w8vDwbqCnDHJ6TtrP5f1RQRAQlltfUAF82uP30nH1ej5TvxbR0pkUZQrej9+LZ3BajPr9aOJIpOCgpaJ3L3S6uH62HNt3WVJ7QdyQVp4JIjBG/W1JeG7h/2K7a9n1hRnwrwodKse34627Vmzghn/UOW6Tku2xoi7SL5pMFhYUDoa09eqnE+fBrgrhSDjztFA+HYxcE+7NnU8fbL+VEDBLUvSXQDsVfhv4R2+dua1Ff/Hg2GTaGh6KbXx5uYZ5hnzpn9EOGU33SapLAErd3hjmrXCC563Onv/nmAepN/ELfJCO8RdoCT6nWrIO/Vql2j/KsvwMJ14XaoQmBmWkKNNXaUvX1AePmZShGpGbG58s=;KmMu91TL8XGRlrVKyvgiUg=="
 ---
 

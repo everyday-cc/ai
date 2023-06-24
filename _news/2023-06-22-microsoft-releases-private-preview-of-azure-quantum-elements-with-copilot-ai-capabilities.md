@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "INPHER XOR INTEGRATES WITH MICROSOFT AZURE"
+    excerpt: "\"Once migrated, customers can leverage all of the data analytics and machine learning on disparate data sets offered by Inpher's XOR while using Azure confidential computing to run those workloads confidentially, giving added protection from external ..."
+    publishedDateTime: 2023-06-21T19:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/inpher-xor-integrates-with-microsoft-azure-1032402586"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Satya Nadella Talks Microsoft and AI"
     excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
     publishedDateTime: 2023-06-22T03:00:00Z

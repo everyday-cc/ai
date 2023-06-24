@@ -43,20 +43,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Podcasts to Make Sense of Artificial Intelligence"
-    excerpt: "Over the past year, artificial intelligence has advanced so rapidly that it feels dizzying, and a growing chorus of industry insiders, academics and politicians are sounding the alarm about risks to society."
-    publishedDateTime: 2023-06-20T03:42:00Z
-    webUrl: "https://www.texarkanagazette.com/news/2023/jun/19/podcasts-to-make-sense-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204612650_web-soundtrap-n30_i7mx62o-unsplash_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "44cAqHwR/P5rvpjdSMrZTtXTgeghDupJ037w496OmBETkm9nsXM3iPf5buWGSnMzhlvHyuxnexNqTO7P9A25iI8Emn+m79GdSOQBLvwaOPByxQO42BeM9bBIxF3Goguim7H0V5b2ICOnsyf8/1doB9k2b4GaEu08kluZJS7mMU2vI0OOcOgYGwVD4pr5DKWWO5LA8JlIJ+7hkD9VbNzu2HInPZS/C0wWdaZs60hRnZ3EEQ17q/ZvrnvTuJ1gM8+B9sdsnwxByuHBsKNoCoUJXnUhHlNPmH3SkC4dh3JWok/kaQMpBMMnuszox5aUA8AU/jEKxzRa1E8Rc5J/CIMqYrBNWV5oGqNWIptG90U6Is8=;j03uqdLiCQiswp3o+EKBkA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revol
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hans India
@@ -35,22 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
-    publishedDateTime: 2023-06-22T21:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "a/pltym794x7/FCFdigVgDQRp/8igIbhvAdDz60/LkEb6Woe97NLRlH1YtDHklx5DFtZRcECMqESUuAZ/HKt58mvGp90sIMhQ8GRurriCTJnNzh8xqzYGSv5HJX7Uvn5HUHV2tOg8N8QDEl6V89DzEodSD67ManD6jVr9CLbLknKqnSgqMMzqPkxJUX/wqh14tDLEaWi12s51Lvf2cA1oPRvptUtL89FXkmt8Rf/d6wI8+mQMXB29kVm/zpnjUSS/t6JY07fjDiJ1jaWsdzNZ81cDQUJh324v0UXB32FV/WWE9FE/I2r2M/vl1SWEQaXpBN5zqKLii+cUbrfeJ5C8w1x0h4EEBu4UQJlIR7wUSU=;rckaRMxAmwtZQRF4+OrmCQ=="
 ---

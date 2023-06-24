@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/292810/20230620/machine-learn
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292810/20230620/machine-learning-helps-identify-hit-songs-97-accuracy-new-study.htm"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helps researchers identify hit songs with 97% accuracy"
-    excerpt: "Every day, tens of thousands of songs are released. This constant stream of options makes it difficult for streaming services and radio stations to choose which songs to add to playlists. To find the ones that will resonate with a large audience,"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://techxplore.com/news/2023-06-machine-songs-accuracy.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-machine-songs-accuracy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-machine-songs-accuracy.amp"
+  - title: "Neuroscience Rocks the Music Industry: Machine Learning Predicts Hit Songs with 97 Accuracy!"
+    excerpt: "Scientists have cracked the code to predicting hit songs with a staggering 97% accuracy, using a groundbreaking blend of neuroscience and machine learning. This revolutionary approach could redefine the music industry and how we discover new music."
+    publishedDateTime: 2023-06-20T10:06:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/neuroscience-rocks-the-music-industry-machine-learning-predicts-hit-songs-with-97-accuracy-article-101132241"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/neuroscience-rocks-the-music-industry-machine-learning-predicts-hit-songs-with-97-accuracy-article-101132241/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/neuroscience-rocks-the-music-industry-machine-learning-predicts-hit-songs-with-97-accuracy-article-101132241/amp"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 48
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/playlist.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://static.tnn.in/thumb/msid-101132241,updatedat-1687255571980,width-1280,height-720,resizemode-75/101132241.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GPwLZYMCasPN3Xhg5+1igC0mMr3tqsi47fVjm51aR6sq1uETVSoJ5o1nZMed4vQ2/HWg7E3p0TYEXgYaYQZmW3E6qwn37gxEdhOCqjG5Uolu4lD5OxNvQtZG4ASitG/XorOfvOFYbtbBXNTKjkaDK6uhvxVTcHdlMwKsmAuFyultcpPFrXPcJMniYCZpbDIegpSYSmDsMe0L1/oxvhh9B1jtM5PEv6Gn6Sy+8rQwph95CIUcudvFDUVkM6qa3GzVzLklNZil5qk1lWcNeT6c9rC7JoE9mrx2KWc7vp2Lm7a2qsgmzdoOamjZZHoOCsuhPH5j4JOUyhtRxLF57Ea2AZrBBDBcyKQevOFg3lTyYkMys8Nmt0/xkw+miwDJY6Mw//SkmkKGcSUeVAmC3ibY8fehQiqwxm+IpC05+1VKSoGoMf45yEZNFSLbM6d9Q+NcEVCvcsPgO+wa/GGb8ZNhoUQSr5Dwg9T56BOJ1E3ifH9St54Rj+RI20CVRwDdxsIvq11jqcBIVU3ZyNCxb7h0/A==;sfOIBfIrYZ3b3btbgfdCRQ=="

@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
+    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
+    publishedDateTime: 2023-06-24T18:01:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
-        width: 1200
-        height: 720
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Galileo launches LLM Studio to revolutionize AI adoption in enterprises"
-    excerpt: "Galileo, an AI startup, announced today the launch of Galileo LLM Studio, a platform to diagnose and fix issues with large language models."
-    publishedDateTime: 2023-06-20T13:00:00Z
-    webUrl: "https://venturebeat.com/automation/galileo-launches-llm-studio-to-revolutionize-ai-adoption-in-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "8ztZE+lXIgrVZ/gOC4DK3hPcZ8B28nUzKR8NT5sB7PnlPIo+jneFkKCqceuOPTd5FdTFSPTkVlZNwJj/R1mqdvBksPTgqrdJzkl84wPa34SUeYZBn7EeM5DfaqxYJ1wtqwvlwUoMDKXWMw5d7frcatAVgQXUnt/QqqQ+lMRe38IZb2aG62sp57tHXqTgktAeymbfvO9mRJAzHeQ0TIF3EKkgeqHql/cbc8ux1rL8M/Wy7fRjAVFSWfCNMkjh5Qh/RsIoFOVNubE2BpMzLQweh9VtTlYrsH/S6pmexYZEiOFRHoukoeY7ip2+Eqb/hCG2738NAmt1mILnkwbFuin5S8lMmphsIYf/ANrrxtmsg2U=;900kMHtUPFDen0YsC35gVg=="
 ---

@@ -104,7 +104,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
         width: 3000
@@ -193,20 +193,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
-    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
-    publishedDateTime: 2023-06-20T02:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "The rush for AI chips"
     excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
     publishedDateTime: 2023-06-20T19:32:00Z
@@ -231,13 +217,13 @@ related:
         height: 630
         isCached: true
   - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
-    publishedDateTime: 2023-06-22T06:48:00Z
-    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
+    publishedDateTime: 2023-06-21T23:42:00Z
+    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 26
     images:
       - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"

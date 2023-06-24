@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive self-driving chip sales Market Current Scenario Analysis Report till 2029"
-    excerpt: "Global “ Automotive self-driving chip sales ” Market Research 2023 provides in-depth information on market segments, geographical areas, and the most recent industry trends and developments. The research provides industry affecting growth variables such as size,"
-    publishedDateTime: 2023-06-20T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029-2023-06-20"
+  - title: "Azure Services Continues to Lead the Industry with Latest Trends and Innovations"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 21, 2023 (Alliance News via COMTEX) -- [UNITED STATE, 21-06-2023] - Azure Services, the cloud computing platform offered by Technanosoft, remains at the forefront of the ..."
+    publishedDateTime: 2023-06-22T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/azure-services-continues-to-lead-the-industry-with-latest-trends-and-innovations-2023-06-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

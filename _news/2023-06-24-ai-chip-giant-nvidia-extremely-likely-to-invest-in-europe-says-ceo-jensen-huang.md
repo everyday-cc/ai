@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI chip giant Nvidia ‘extremely likely’ to invest in Europe"
+    excerpt: "The CEO of Nvidia on Friday said that the world’s most valuable chipmaker is ‘extremely likely’ to invest in Europe. Nvidia’s Jensen Huang told reporters that expanding in Europe was a ‘wonderful idea."
+    publishedDateTime: 2023-06-24T18:10:00Z
+    webUrl: "https://www.newagebd.net/article/205116/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 34
 
 secured: "Wqmztxr9rToKdMbso5Xi1uaJFFmQxANnhraSw+4VBSFWDHI4XyGOIVvJgK9W6e1i6RxkzgnZNSuIYU8ljXT7lYECWcUMrEslVdgXsu8Ikug3o9jfK9iuxVVnQcekNQ4rn2hHvtA/28ZKJeL9oOCrSDaX6v++Kqs3q2hLjLezyr4GVjaVnOaK+iBltGu+32VjtC9hWvBOdbgUg4Bc/rkQdedavGC+G2/nJzRqDE73liN//Vrbn6MVuLscS/QBoOpZxsYl9CBjrUxUi+fL/DBCpl+233nAVkZcht/vfalV9JJY8cDjdM/G3dYxyDxuUib8Q1w2nvBLNmlE8ERgiPbSLt1GIKWW2d/y7vhghFn4bWj8uoyI0I9ezDIiUMagfNlebgI6UIHfUawi0Q9Ac4CCEpy7NXyQhIW19B0UWzwYjvWfy2bk7QKi40xTYRY3Agz/5tR9S4DrLjXfmWHWHHY1HBO+PLVlEOheMGYdPOfP8gWaiAxwsOnF7a47qJ/HM3u81tIZMSuIOH9SGWTfL/Xt5w==;l+Ij2p/pLvA6ba5Jn6puLw=="
 ---

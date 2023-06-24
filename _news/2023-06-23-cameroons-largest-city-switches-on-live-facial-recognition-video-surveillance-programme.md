@@ -74,20 +74,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Garda body cams to include facial recognition but real-time use prohibited"
-    excerpt: "Goal of legislation will be safe and ethical use of facial-recognition technology to help faster investigation of serious crimes subject to maximum sentence of life imprisonment"
-    publishedDateTime: 2023-06-20T03:59:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2023/06/20/garda-body-cams-to-include-facial-recognition-but-real-time-use-prohibited/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/XvqSHvN0JKq8BFs9xwmOe_oLgY0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7ORW5GVI4SG3O3ACKYSBX43O7I.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cameroon launches video surveillance with live facial recognition in largest city"
     excerpt: "The Minister of State, Secretary General at the Presidency of the Republic, Ferdinand Ngoh NGO, switched on the project on Thursday June 15."
     publishedDateTime: 2023-06-20T20:07:00Z

@@ -41,20 +41,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "AI is already being used in healthcare. But not all of it is ‘medical grade’"
-    excerpt: "Using AI effectively in healthcare will require retraining of the workforce, retooling health services, and transforming workflows."
-    publishedDateTime: 2023-06-20T03:39:00Z
-    webUrl: "https://theconversation.com/ai-is-already-being-used-in-healthcare-but-not-all-of-it-is-medical-grade-207912"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/532806/original/file-20230620-15-4n4270.jpg?ixlib=rb-1.1.0&rect=38%2C214%2C6402%2C3201&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "We are human, not artificial intelligence—medical teaching innovation in Taiwan"
     excerpt: "We appreciated Sandro Vento's Correspondence addressing the merit of a conducive environment in medical learning.1 With artificial intelligence development booming in recent years, there is a lot of interest in applying artificial intelligence to medical education to quickly produce many new doctors to resolve the problems of insufficient medical resources."
     publishedDateTime: 2023-06-23T05:53:00Z

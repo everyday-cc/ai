@@ -1,18 +1,18 @@
 ---
 category: news
 title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
-publishedDateTime: 2023-06-22T06:48:00Z
-originalUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
+publishedDateTime: 2023-06-21T23:42:00Z
+originalUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -114,7 +114,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
         width: 3000
@@ -203,20 +203,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
-    excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
-    publishedDateTime: 2023-06-20T02:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/20/between-hopes-and-fears-artificial-intelligence-is-dividing-the-world-of-work"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/20/2134295.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "The rush for AI chips"
     excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
     publishedDateTime: 2023-06-20T19:32:00Z
@@ -268,6 +254,6 @@ related:
       domain: aol.com
     quality: 14
 
-secured: "BIWNiJ50EhAS8bGdPz1t4nlLpqwb2tSM20+llFaZQV8bHpmo/BdAC9CwzkUR//Yufcqm9sCNkRVwErGXV+0HFsluYnX4ijPv8eBLuMz1FPQhtJTtOhKAAxMm9DQBqhGCHK8wXD4jfM6vgmh7RDPvIM7Eedu3cZkeQcDxP+LIEu/5llRr5ulKTd+pi4Mcof2b4Pj9KptKrfjtWuP3CJ8v3V9LbMEkR5PO0XNnq9qQPrwq8f+uO0K0OFK7sUhT2EjVYl007Lonu/TsRAA++A9Sde00K26P5lO8DIPUtRAkfBXkGmD/SwgmriyWBS9nc+zgBF1OcOuC7ADL67d1jt1cyKNV8g4o0zRDGZoYP3ePUz8=;YDD9XsgtzJ/uPy962XMjxA=="
+secured: "L7bSqKWBE44s/GBeK7vgBjiIbI9l3ihIjJUvzja4+nEW28iaVReBjT/xTAXsMDxPNxhnBrWqLxbtBsjEESVI4SmTojeT9nj5yb/7La/udplVFbyAuWI8nqRuf55kTY4FE7mFP3e7xVVwR9twqvRli/ur3CXzuy575MSXtfxUgwsaCAacUtkdYErcX8xdpQLquj2FrgKzIZG3aC7rhvyqgXlDIb4jkLhF9YKt7guBzGlndanxoY5iDyprwFTR7/h4csF2Sm0SDPb2Hicqqz72u7g5wor7ttju8HuLrQ0Kv8ZajgSq9CcGyVwBd+Xej9k3gT5qWjQL+xjKTYwOq1UhkTCAYz8+JAgWfGR/u1XpJ9c=;K0TFrwe+QkYPZ+oVCX8CGw=="
 ---
 

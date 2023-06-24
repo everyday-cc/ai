@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is already being used in healthcare. But not all of it is ‘medical grade’"
-    excerpt: "Using AI effectively in healthcare will require retraining of the workforce, retooling health services, and transforming workflows."
-    publishedDateTime: 2023-06-20T03:39:00Z
-    webUrl: "https://theconversation.com/ai-is-already-being-used-in-healthcare-but-not-all-of-it-is-medical-grade-207912"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/532806/original/file-20230620-15-4n4270.jpg?ixlib=rb-1.1.0&rect=38%2C214%2C6402%2C3201&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "AI is already being used in healthcare. But not all of it is 'medical grade'"
     excerpt: "Artificial intelligence (AI) seems to be everywhere these days, and healthcare is no exception. There are computer vision tools that can detect suspicious skin lesions as well as a specialist dermatologist can."
     publishedDateTime: 2023-06-21T07:24:00Z

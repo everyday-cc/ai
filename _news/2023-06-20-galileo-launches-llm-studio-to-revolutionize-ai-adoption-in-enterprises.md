@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
-    publishedDateTime: 2023-06-22T21:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "8w9H47ZeC5oWaj/DPK6LduPuBT7msxP5xdinKRIc8Eb61Ga8OeHs2P9vWIYAlT8f2cJmrThZDeRCaMLGUHOmZgnZosiGeraoF6Ebc15FQlqHLuR5i/St2HXXyldEddsY+R0gBfS7TB9OM1ukE0+1UmnESYD3qiqCSUbxZUgKTlmMwhwDUscjbb39xOs6qRSxDFE2vbo95RAivivGegjfakqMwTv8EmCASGegvuvQCBTk6f+LnVqWYblAJvDz/14lVMufQe7ZSPbC1OmczbmsukN7F/YMsmIq4CQnbty8fSjqw5/K4JH823p0CzgTWNvEBPhA763yfO079HQNELT3ElOANQ2JeQ3rhOZLicRslS3Y7J+O4Z0/CbcHxySzzhQWVuNuZgbkA+9IPHDAHpAg0asScXoIfUwcxGp4kMYWxdzerEuNNdU/3hke1NJGKsWcQ5jFf3VZ9x91Kpk5ZbpJh6zLeGVEJIbdC4hTxYYSxCRwsK9+/wiD2uzMIkJxMeIwUn0zKwWrAE72JoLlxg049Q==;vdFGhbn7PAZFM0Zz/BM1mA=="
 ---

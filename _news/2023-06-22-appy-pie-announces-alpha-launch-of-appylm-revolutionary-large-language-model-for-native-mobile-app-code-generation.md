@@ -67,20 +67,6 @@ related:
         width: 709
         height: 472
         isCached: true
-  - title: "Safeguarding Healthcare Data in the Age of AI: A Critical Imperative for Healthcare Executives"
-    excerpt: "This article explores the imperative for healthcare executives to fortify data protection efforts, delves into the unique challenges posed by AI"
-    publishedDateTime: 2023-06-20T02:14:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/32459-safeguarding-healthcare-data-in-the-age-of-ai-a-critical-imperative-for-healthcare-executives"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/4938da019dba46f08d9c3be1946ae1d8.jpg?t=20230620_020455"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Generative AI is 'the next productivity frontier', report says"
     excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
     publishedDateTime: 2023-06-20T12:20:00Z

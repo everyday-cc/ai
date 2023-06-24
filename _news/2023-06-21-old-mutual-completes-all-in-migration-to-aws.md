@@ -210,20 +210,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
     publishedDateTime: 2023-06-22T20:03:00Z
@@ -389,6 +375,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
+    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
+    publishedDateTime: 2023-06-20T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Amazon launches $100M generative AI center, targeting healthcare"
     excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
     publishedDateTime: 2023-06-22T18:00:00Z
@@ -435,6 +430,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "tWUz2Z2kfbwdEvB8hTAOcYbeA81EqLeFXzlCvdIV5tgbT0V4eHQomuMtiC3AeFwgE1GjiB1aMi8Hl6FZ4aI3ZG1lQL+wf9Sa8EwZWKttR5MbBrJco3j1c0UGkAcF0za3uj0iaYJ4avsXXWE2JPLynZoPGWzaGS6Nk5SeLgvWo4U4Bfch+mT8Xhasc1TsdsB+BbFS1dmfk4VDELiHDeyA5XPX+/jIOGlLnyykIHlAwud427mo5a0ab2W1Gd13BQ9wi0olKFAHfXNkcoEF82CHp4ckj0JBk5gB/ZeFamgrjazvT5d7Z88Jdbi6g/jkhCPIsOeT3TgNysZPdnlTnZkgQET5qSokgDxFyk0Aa2myNaM=;o1LuE2wkxA+ZEuEhQYFO+Q=="
+secured: "+NpcQAR4fDo963hyRjvh9xMh7OjGsv6Czfy4AUz9jlfeWurI+LrKjPhCN9aCDKhozMn1nP84H0iYDjHF9K8onJMi5el3dXDFb+RF/Nfq2Xp2D64snKHV4PCFq45KBzqjaAJMGT088sxL1BeYpMb3fWylqMyCDE5cBnAePuy2MMfezLHF6fN7nBq4OD6iIss0oJ+zkpn0PRofuQnmw5JUSkh+UpUTLETBdLZYhTlw0v9Bh29C9rPjQUFhpPHKuGRLIM9TyCkIsLJVkUXkD6Yq+a3JvQxK63aWwcWGV0jHxIR98NX/Q+lw0hy6gT6Z+TrqWrPGjlzzRZ4n1GngxxBtBY/MdNtcpPePvr1o7j4w11E=;avbB7NyCWgRhypis+QW4qQ=="
 ---
 

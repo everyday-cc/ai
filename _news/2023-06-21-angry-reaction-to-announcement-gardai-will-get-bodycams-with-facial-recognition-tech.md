@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Gardai get green light to start buying bodycams from TODAY as Minister McEntee looks to progress facial recognition laws"
-    excerpt: "GARDAI will start buying up bodycams from today, the Irish Sun has learned. Justice Minister Helen McEntee is set to tell the Government today that An Garda Siochana is to immediately begin"
-    publishedDateTime: 2023-06-20T05:00:00Z
-    webUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/"
-    ampWebUrl: "https://www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10906995/gardai-bodycams-helen-mcentee-controversial-facial-recognition-tech/amp/"
+  - title: "Green Party celebrates victory over Fine Gael on facial recognition technology"
+    excerpt: "Helen McEntee has put an end to the coalition row by announcing that she move forward with the garda bodycam bill without the inclusion of facial recognition technology"
+    publishedDateTime: 2023-06-20T12:26:00Z
+    webUrl: "https://www.businesspost.ie/politics/green-party-celebrates-victory-over-fine-gael-on-facial-recognition-technology/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 49
-    images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/06/Social-2023-06-19T214531.434.png?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 15
 
 secured: "N/mPEnhTag0TD7g73+/im95KfzEd/GWoDyYdtaRLZ/v9VKHyuCboz/9I0yFi22Yzg6ztmpYaENE9TAwHm143RWVYed6MDLJt1nw54nDGtmxUpGAIh7q/bzppD9eQwn/lBqqFC5ySrOzvg/xw8DSqCaVIJraaZ6p6q2naFD3VHKYWq6glAqFvTl4LvugLmqUzj9R4Y3qSccBH1I6ZcUAyjI5pBV8cumsnLdmlcPv0kAgbdl1wRt+/iqiCSfuF9ssQy6x5M2vYDTjqvpHdXw0ZVLYWJ2Q8+23uVnnm9vmzrHDgriYx8y8zzN+GBzXxDOierVoxJRuPLLMjBoZLSYUctOhFqEt1+T8OMKpE6cHDeGUvEH1bbHNyD/LMzG84WDZUxpWGWNsFeJ7NfZn2sJ75rstluo0OfmRLLd9dujPEloE8Fwn/lVWhELdJLC3cIk6C9ZeB9CXgZezXMKRqk0K5ryJqoYrRt5LvPnH2xsbeWpzMHPO9jWDA7Kg+bwu2nLxz5owEV7SNMuKA7sXVrIsqOg==;XwD9zCK+1PMJ7+e80Bg5Zw=="
 ---

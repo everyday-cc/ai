@@ -52,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Chinese vendors ride on high demand for Nvidia AI chips, sell at double the regular cost for ₹16.4 lakh per unit"
-    excerpt: "Chinese vendors are capitalising on the surging demand for high-end Nvidia chips, particularly the A100 artificial intelligence (AI) chips, despite export restrictions imposed by the United States. The popular Huaqiangbei electronics area in Shenzhen ..."
-    publishedDateTime: 2023-06-20T04:10:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit-11687229628998.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chinese-vendors-riding-on-high-demand-for-nvidia-ai-a100-chips-selling-rs-16-4-lakh-per-unit/amp-11687229628998.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 53
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/20/600x338/nvidia-a100-80-gb_1687234033810_1687234040699.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "weXpgk864j6nBe3EtDYRYZhFjYPzPV4thfS64yqBiJWtl/YjqCIam/lw7r0gNCWujnB9DvoGjiClySCq/ilbyRQyG7aPyY0WnpGAlg3DSYzFYIoT2TcR2U5/vCMuPQJo9QSdJvEEQuOV+SCZndzXQJinszSQX4euXDO6lCQuA9qQEe4jq2KGlRlcmg6hmFR7muTAUSIRPxZHdAaNpfhQgCVPW8o54VWSO805mVoDJKRpeHtSoqYiNdXI5u+hunzDF/HvXm/ce5oJrkcwj3gU+BwVExqRnTII3S+SJsPr6/6moGLCxkzVdVYFVRxqmRvNM5uDoaaQCgDwjt9gNcxYxzpM5xGpfzzI0TzP06cGdOk=;e/hi+w7ulG+ip0dgzUODIg=="
 ---

@@ -81,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
   - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
     excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
     publishedDateTime: 2023-06-21T12:59:00Z

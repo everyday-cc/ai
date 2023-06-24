@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-23T17:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
 webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Motley Fool
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736691%2Fhappy-woman-because-the-stock-market-went-up.jpg&op=resize&h=340"

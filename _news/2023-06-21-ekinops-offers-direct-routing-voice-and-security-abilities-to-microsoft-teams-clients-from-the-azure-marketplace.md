@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1500
     height: 844
     isCached: true
+
+related:
+  - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
+    excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
+    publishedDateTime: 2023-06-24T12:03:00Z
+    webUrl: "https://www.techtimes.com/articles/293002/20230624/microsoft-researchers-announce-major-breakthrough-advancing-practical-quantum-computing.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 14
 
 secured: "YocGq9b8FPVVq61/Av60BhhXjiyFc3x30QvKXRUSNWxWlsuq+GCM8MlvQyJNAxW12COyYvD6oxZ8/qzzrEFa+mh2BpTGBqbSz7JFOFQek1vk4zrhNugOllipLbI8PN/6ITn/e21Nw9nOnCNIPvU5yGqPd2lpf8KXKoljL1UxGo8WJlEx3SnuL2v9yWvfihdfJ47/a7whcNlbKFmXTSzHiFO41H2xrKDbTACqExFe4UaQ/fkjA6n5D9pKlAePh1tDryPtm5Y3BxnZhhILAoyZ+zOLmyXcLD/ZclZUxYaDFY0xirdAwc5xTZCsCK2+WsKVMMZc3EvGTHLGJQxcgQQrzgAgyIythZRTJKTaPAClH72ANXQcw70bNMMT/jnGMvRtAbZIP+zqHMXXc0WlAgeu7KKTrN6Adry2HNj6j+O3gr7SsSAuhYJZTBWFd4tdo+9xj6b3KKGwCv1hCgjxi/mBwSH7Q3e+DkiRteC8nnUBAkwt63WK3dHWhUOfb1APFZ48UKiApqIJaoe/+gBUyqQdCw==;NInVHZbDCOvFCKih+0aYwQ=="
 ---
