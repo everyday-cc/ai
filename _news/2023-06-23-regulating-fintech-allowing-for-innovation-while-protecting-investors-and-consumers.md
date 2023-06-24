@@ -19,155 +19,62 @@ topics:
   - AI
 
 related:
-  - title: "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs"
-    excerpt: "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns."
-    publishedDateTime: 2023-06-19T11:16:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html"
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
+    publishedDateTime: 2023-06-21T23:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/r9nlqv0vwkc9estt_1687172425.jpeg"
-        width: 768
-        height: 437
-        isCached: true
-  - title: "Fintech chiefs debate diversity crisis in Parliament"
-    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
-    publishedDateTime: 2023-06-20T07:47:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Jentech to see sharp growth in heat spreader shipments for AI servers"
-    excerpt: "Heat spreaders have to be made bigger and thicker to support AI chips with a larger surface area and higher performance, according to Jentech Precision Industrial president Chin-Lung Lin."
-    publishedDateTime: 2023-06-20T03:09:00Z
-    webUrl: "https://www.digitimes.com/news/a20230619PD219/ai-chips-ai-server-heat-spreaders-jentech.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230619pd219_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
-    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
-    publishedDateTime: 2023-06-21T10:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "PR: Global AI in Fintech Market Will Surge by 350% Between 2023-2032 to Stand at $39B"
-    excerpt: "June 20, 2023 (Investorideas.com Newswire) StockApps.com reports that the Global AI in Fintech Market will reach $39 billion, a 350% increase expected between 2023 and 2032."
-    publishedDateTime: 2023-06-20T14:11:00Z
-    webUrl: "https://www.investorideas.com/news/2023/technology/06201AI-Fintech-Market.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 32
-    images:
-      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Top 5 Fintech and IT Masters Programs in Singapore"
-    excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
-    publishedDateTime: 2023-06-21T05:07:00Z
-    webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Top-5-Fintech-and-IT-Masters-Programs-in-Singapore.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Google to set up fintech operations center in Gujarat"
-    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
-    publishedDateTime: 2023-06-24T02:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 765
+        height: 630
         isCached: true
-  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
-    excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
-    publishedDateTime: 2023-06-23T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
+  - title: "JP Morgan invests in trade finance fintech"
+    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2023-06-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
-  - title: "New fintech platform on a mission to shake-up angel investing in the UK by closing the gender gap"
-    excerpt: "A new fintech platform is shaking-up angel investing in the UK by aiming to address the current gender gap. The Obu Angel Investment Platform launched this we"
-    publishedDateTime: 2023-06-21T08:26:00Z
-    webUrl: "https://ifamagazine.com/article/new-fintech-platform-on-a-mission-to-shake-up-angel-investing-in-the-uk-by-closing-the-gender-gap/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 11
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/08/gender-5366084_1920.jpg"
-        width: 1920
-        height: 1297
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Dubai FinTech Summit Concludes with 5,300 visitors; confirms second edition for May 2024"
-    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024 - First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries - Dubai FinTech Summit 2023"
-    publishedDateTime: 2023-06-21T19:50:00Z
-    webUrl: "https://jcnnewswire.com/pressrelease/84808/3/Dubai-FinTech-Summit-Concludes-with-5,300-visitors-confirms-second-edition-for-May-2024BR->"
-    type: article
-    provider:
-      name: JCN Newswire
-      domain: jcnnewswire.com
-    quality: 10
-  - title: "How is Fintech Benefitting the Consumers?"
-    excerpt: "Financial Technology, a.k.a Fintech, is currently all the rage. Be it in the news, during bank visits, or even daily conversations. The finance industry has adopted technology into its mainstream to make things easier for consumers and businesses alike!"
-    publishedDateTime: 2023-06-23T19:04:00Z
-    webUrl: "https://techbullion.com/how-is-fintech-benefitting-the-consumers/"
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 4
-  - title: "Fintech Klarna Introduces Tools For Shopping Consciously, Focusing on Climate Action"
-    excerpt: "Klarna, the global payments network, unveiled tools enabling consumers to make more informed purchasing decisions and take action for the planet."
-    publishedDateTime: 2023-06-19T12:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/208922-fintech-klarna-introduces-tools-for-shopping-consciously-focusing-on-climate-action/"
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
+    publishedDateTime: 2023-06-21T12:14:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_f213de64-92df-5ec4-a029-337e592285fe.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 1
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
     excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
     publishedDateTime: 2023-06-21T12:59:00Z
@@ -177,6 +84,20 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 0
+  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
+    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
+    publishedDateTime: 2023-06-22T11:28:00Z
+    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
+        width: 332
+        height: 249
+        isCached: true
 
 secured: "8FqWULemXpixnwiPniFj2aisJhwuWxo8tz0lzabMC+N5Oyda7usUzlGZjJ2pJK8Ebhe4qYPFKa1tBKH+XLMVpDKoSCu6k4L1+7XAwvf0taDPkLNnfcYtO1vFN7YkcLkns2EpGmQ66fdlZ5a+1SHVSJZFAoR6ekA5q8XFhaQaN2oCeDDAtgxh/8BSFfHakbvoEDK9hpcO1m3EVkh4qvLSxz8GaSMD6EvGDutakxFdwvwZYk+fwb4+J4l+tfPYIG35JwSPX7BbelB+9gGoLgS2lioi37bqXQLMYXp/hvmo/R0YgO11F2FV9hFcPeupQmuBV1iI8k2LSSZOyHxvOFqO9YfgL14yuMpmIxYhPp24tHwuNZcenGxt0zxtG6MyvqQgY/1MAyQDZA00Mst/Dostizer0vPhW7hxkikubuWEeB2Bmj3ltUnTHgksgI8v7qfmConRNguNWwXIenRqCHukbe5OBfaHkZMtOJ3QHSrcA2eDkhLN8/TYFCZQxushLCXkbqjRCcD1rR/T5/Jz7ZG4Ng==;2qYBzH5Xw9y9LHnyRSAXjw=="
 ---

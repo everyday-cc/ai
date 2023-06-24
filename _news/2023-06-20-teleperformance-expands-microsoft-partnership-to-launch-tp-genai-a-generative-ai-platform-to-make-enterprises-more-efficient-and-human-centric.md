@@ -19,15 +19,66 @@ topics:
   - AI
 
 related:
-  - title: "Botco.ai launches GenAI Chat Cloud with enterprise-grade privacy and security"
-    excerpt: "The Botco.ai GenAI Chat Cloud is a no-code platform comprised of three modules, enabling enterprises to develop a range of generative AI chatbots rapidly to fulfill different tasks. For instance, InstaStack enables companies to build a chatbot that can instantly query documents from across their entire information technology system,"
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/23/botco-ai-launches-genai-chat-cloud-enterprise-grade-privacy-security/"
+  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
+    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T05:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
+    excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
+    publishedDateTime: 2023-06-24T00:53:00Z
+    webUrl: "https://www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai-11687567037573.html"
+    ampWebUrl: "https://www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai/amp-11687567037573.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai/amp-11687567037573.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/24/600x338/Sundar_Pichai_1687567352349_1687567352601.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
+    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
+    publishedDateTime: 2023-06-24T05:19:00Z
+    webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 33
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
+        width: 1248
+        height: 650
+        isCached: true
+  - title: "Google to set up fintech operations center in Gujarat"
+    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
+    publishedDateTime: 2023-06-24T02:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "a2Orbqwt75xlwhPJpqkvJeabeI68IIrjIEmWgtspCVtdSQslrE5vxC3YlGYfSPDkqbrVdLAyiaoSSMgGksgtrqtVfFCY50z3zbKHYNzb0EVH91NNPfSoflWdImzWO0VzGYWknDqoVMLOeTqjTzjiTs9IXk3/ZyiXEGqOqw2losYz/jz0rc6abXwOPhz2G7n5G0w0jQfz4NhtXoKzgBxKBDt0enkHhzwyciR6dozbLzdx1MT5z/x4gJZ1dmy5HPbh3LUYbTFJOXNCfK65y0fL74gLQx96RRS0jjcupiXsTPCTPGHHD3C5txpPGGoTQHz8fRuy3YyspgZsxHNDJwnLVcWrYVO2UGDU7TBoYM5l0Sk=;LqnMYuTSve8YrpVaMfsJ8A=="
 ---

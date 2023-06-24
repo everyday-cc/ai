@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 AI Job Search Mistakes You Need To Sidestep"
-    excerpt: "Learn the most damaging AI job searches that candidates are making, so that you can avoid them and increase your chances of landing your dream job"
-    publishedDateTime: 2023-06-19T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6489b33233b97d979475c366/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Oq39hoC6g+XHphXHjCd08pTf58DBllPtVgjbCRJxnhEi5HC9PlA/D4MqvBHy5PvKGy2/S5xNy8a5gVleh9Adi6I7t2bWdRVXEQDYda4zD6CF9PtbsSOJnrq81RvSwobS0fhGWSbK26Jn2gJnX4jHiKZkBYCi09BVi3+SDDkynm9waJfRH0PKkMkFIKtZr7I2yRQr8zyuV7pvuhso8MnLxvLIRyFBx4CxrV9oea7KS4bZJq7B23uzUNTdlF2ofjkVonE+DfFf6Y8vYU1a0P/+RnsDOG9KXYuIAlN0ELBA5ncLI7KKWFANnQ7iUlFZZ20i8z6uHP0QO0jK+npaZ7Gniy4cIMRJ13S7cstSTdxpMFu9ivHo86P4Vz0PveXXQ2fgWAASPvPV/G5A0xfTmLeCyejS8li5oDtNEn6mOcTlGYP4AGrzbqkm/IecCc0t9EB4paYw6po8IXwtCloijzvN9yIwEJotnl9jZ6CLjPEipOkvSRDKAkwtO8J9qJvOkBIDpZuoUOuTWD5kxZ9bD0D+DQ==;jJa/8VLPFCnMJBNxq3LAQQ=="
 ---

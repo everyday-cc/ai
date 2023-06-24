@@ -3,16 +3,16 @@ category: news
 title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
 excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
 publishedDateTime: 2023-06-21T16:00:00Z
-originalUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
-webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+originalUrl: "https://www.sacbee.com/press-releases/article276616381.html"
+webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Microsoft AI
@@ -107,20 +107,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 54
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft outlines broader AI ecosystem for Chinese users"
     excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
     publishedDateTime: 2023-06-20T15:30:00Z
@@ -206,6 +192,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "7K2rzzXqeAghQlOSDFsRo4LDA8yQvwbXVWUG/6Om1RcX1v6vmtNfklW6uYUa1kRTm+qkut6/pVdcgEFqFwmMk9D4uoAWnIiKGasQXIuSZM0HgrB5tw6Bd6GC0KZDPvGXFddfXJKsb7536Rq9w1OoMtsex3jyedJP3mjvB5PRyN9GgURrujuWlvCJr0yQBho2/CwCGsnEvrabgZYr5Zclp1aZ61z63ave+s4FrLxxMS/Q2LgVzkYEWo61RGEUwXjwnobtHlHDdeO8LMXi/2iFSK9Zfjkm8GOSUY7i66Dxo8YpLA/5iiwCELQK6NP1K7Lbi2kMqREvHIz9Z3fh4/KcyL+dwbxbuUFIip88llcndjyIidRgKM9p6KoYW9LD/sXpIbHtG2nyYIA2smgCDDtuY4qfxMvuJver0JmZHTYv5nXST35YYs9cvAojVCcivioAMtLp6lgbN1JArj8TtPGuw7rXEYHatEFjgM/xqJq4ygSo3uKqUGh12OJVfLUWQ/kZnveZAz4eLOY+fQkbsGqgpw==;tCCVc1eOsdRMkjoQdKulSg=="
+secured: "1FXW4zw0YRVNyrZO/rN72RUhFjNHFcm+N1B1cvrbjLKhjO8wskbiDxDjSVjK9tugSPV6tEC7xC+AXA1D3io4rgG4wxoFRKA29Nfyth+bC5TZ1aGpjYq6XC5csZ0QClmxdFRy9KVMyzvWuxSKXyAYWMpGsUMDQBnq/0uk+A+PUaUONTd26CP0Ks+qkfJ8bOvYy4kE1oHK6qLFKeeSDQb3zQkpkwqSDYp5ggiTWCyy/ZlVsKKQO3JP/0vCFEHyaMuq9Dmof/gSdJE8tc9zhFqgOItQWe/08yI7Lt3i6KvKoTPjRDibaFuVEGi5e0EdSjU9E0OdEUBD+hKEM+tC12pIhq6reMcXAqX4lJiT+i6mC46VbHyrJBwVdpyrg65GzZum6NLZnjt8Cq9+b6QRwLBmzeVKpP1DRYPH15dbLeQMmLh6D2vVsfM4R2tNJP41W0BjC1wgvHxyMDngcCFVeZ2W9QDnjlzazdV3CiJuyEdaJzhmAhQptCXJU3wTNaVw3ePuC4K+zOa2lBCsxtO6wlkhCA==;BrbtapO666mJ8lRiOZDhpQ=="
 ---
 

@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Has More Room to Run with Boom in Generative AI"
-    excerpt: "The AI boom and the demand for AI chips have given a significant boost to chip giant Nvidia (NASDAQ: NVDA). The stock has soared by more than"
-    publishedDateTime: 2023-06-19T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-has-more-room-to-run-with-boom-in-generative-ai-1032396798"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
     excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
     publishedDateTime: 2023-06-20T05:29:00Z

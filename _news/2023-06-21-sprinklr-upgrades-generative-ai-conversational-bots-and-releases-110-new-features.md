@@ -125,15 +125,6 @@ related:
         width: 333
         height: 450
         isCached: true
-  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
     publishedDateTime: 2023-06-23T17:07:00Z
@@ -152,15 +143,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "Salesforce touts AI strategy, doubles investment in startups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "oVVtBgURtR3zZjDM3rYcyrA1SHbcKb1BwtCLOoqoGSXi9pu4JcHtVRm7qzhk35jcvqcpW6rJl2S/1QW1aBbo31Cq99oTNFwM2BM4Qp77k24JPWnxJV4M7ny3KukjZeyWgyCoOLqYszX3oOqeS10HhgPYWyyJbuXTSU6rZhrhgwFN4gIVWaWZf2zEED97J7ZH/1drGDE2SITymxkgiU+B+3rGidvCwcSpGHEK6W7JwTTDQw8Z0uknRbp+6r7LX/jnlwGoX5iouLqBYbcOTiK5104crlG2yWjNPiTrkixxqSStFNeApR5HKSsJTIC0Q5EawQLa6PMS6GhYdEddIHS+vtqtwPMzgFQmb+bdt2J80Yg=;4dD96MsCkYDOpeMP9Zop/w=="
 ---

@@ -2,6 +2,49 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-03-31-kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech.md",
+      "title": "Kolkata Airport Gets DigiYatra, Check-In With Facial Recognition Tech",
+      "excerpt": "But now, most of the families have moved abroad Passengers travelling through the Kolkata airport will now be able to check in for their flights and board planes with facial recognition technology as DigiYatra was rolled out here on Friday, an official ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
+      "originalUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1653907221.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/kolkata-airport-gets-digiyatra-check-in-with-facial-recognition-tech-news-274975/amp",
+      "publishedDateTime": "2023-03-31T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-31-xpeng-expands-assisted-driving-tech-coverage-to-shanghai-something-tesla-doesnt-offer-in-china.md",
       "title": "Xpeng expands assisted driving tech coverage to Shanghai, something Tesla doesn’t offer in China",
       "excerpt": "But the company has tried to make its assisted driving technology a selling point for consumers. \"Tesla doesn't really pump Autopilot in China and they don't offer Full Self Driving (FSD) in China, whereas Xpeng really leaned into its NGP as a difference ...",
@@ -1157,58 +1200,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-30-tech-companies-ditch-ai-ethics-staff-as-panic-rises.md",
-      "title": "Tech Companies Ditch AI Ethics Staff As Panic Rises",
-      "excerpt": "Google, Meta, Amazon, and Microsoft have all made cuts to their AI ethics teams, according to the FT. While companies may be shedding AI ethics voices internally, some experts have given their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/29/tech-companies-ditch-ai-ethics-staff-as-panic-rise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/726476/featured-daily-upside-image.jpeg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-29T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

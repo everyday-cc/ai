@@ -59,15 +59,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "How could AI destroy humanity?"
-    excerpt: "Researchers and industry leaders have warned that artificial intelligence could pose an existential risk to humanity. But they’ve been light on the details."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/how-could-ai-destroy-humanity/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Test for humans: How to make artificial intelligence safe"
     excerpt: "As tools based on artificial intelligence spread, calls for regulating the technology – and addressing basic questions of trust – have been rising."
     publishedDateTime: 2023-06-21T19:34:00Z

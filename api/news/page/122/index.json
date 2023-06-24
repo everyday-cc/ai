@@ -2,6 +2,40 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-04-03-life-of-an-architect-podcast-ep-122-architecture-and-artificial-intelligence.md",
+      "title": "Life of an Architect Podcast Ep. 122: Architecture and Artificial Intelligence",
+      "excerpt": "Even though artificial intelligence can conceptually trace its roots back to the 1950s, the reality is AI and machine learning went mainstream not too long ago. As recently as November 2022, anyone with a computer and Internet access can dip their toes in the AI waters for not much more than the time needed to understand how to make it work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bdcnetwork.com/life-architect-podcast-ep-122-architecture-and-artificial-intelligence",
+      "originalUrl": "https://www.bdcnetwork.com/life-architect-podcast-ep-122-architecture-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdcnetwork.com",
+        "domain": "bdcnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-03-whats-the-promise-of-large-language-models-for-life-insurance.md",
       "title": "What's the promise of large language models for life insurance?",
       "excerpt": "Drive'n Save was built in partnership with Allstate's telematics subsidiary. IntraFi, R&T Deposit Solutions and other companies help banks capture and insure the entirety of their customers' balances — a cogent need in the aftermath of SVB.",
@@ -943,49 +977,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training.md",
-      "title": "ChatGPT neural network said it uses Moskovsky Komsomolets website for training",
-      "excerpt": "Chatbot with artificial intelligence ChatGPT said it used, among other things, the Moskovsky Komsomolets website for its training. In addition to MK, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
-      "originalUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.easternherald.com/cdn-cgi/image/width=550,height=412,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/04/ChatGPT-neural-network-said-it-uses-Moskovsky-Komsomolets-website-for.jpg",
-          "width": 550,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
-      "cdnAmpWebUrl": "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2023/04/01/chatgpt-neural-network-said-it-uses-moskovsky-komsomolets-website-for-training/?amp=1",
-      "publishedDateTime": "2023-04-01T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Eastern Herald",
-        "domain": "easternherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

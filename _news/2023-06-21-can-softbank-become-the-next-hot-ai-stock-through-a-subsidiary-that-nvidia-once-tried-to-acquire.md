@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32943538"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32943538"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 843
     height: 562
     isCached: true
-
-related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ..."
-    publishedDateTime: 2023-06-19T13:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "xphhm4j+7vab3MQ9JpNCeNgIrfsmFNQsl4o78DXxrYAruytDoc48ZgFTHrx4MX6/5rugs0PNZjQySNMNYJLeVBxjMBBgKN7csdK6Z5Zf0ijRLqd/bkA+MYq/h+p+FPm0h265BVHaQhketVPS0XkJlx2dyfW9pVMVc4+u0/Oh7HUNnzUNjzmqU/lYIw1WNTgdRU2iRZPhcJhsvGF78MEn2GfxM+z0t0QC8J36lAoy03n64LtlRAka9cxCq/j0fmpDQpSy0htnqyDXTA0TEjxOTeKbWsVGqA30p2OKiF5gK8xuadlFxAMA8yigTN1Ig2lZzymbrUJ2iY7YLQY5L8iMFuhgF3rPlnwgxSC46U1m1HE=;MOJ/YHObyXnST2/LYFrDsA=="
 ---

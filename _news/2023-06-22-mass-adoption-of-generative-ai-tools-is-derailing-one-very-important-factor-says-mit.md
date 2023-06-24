@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mass-adoption-of-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/"
 type: article
 quality: 82
-heat: 92
+heat: 94
 published: true
 
 provider:

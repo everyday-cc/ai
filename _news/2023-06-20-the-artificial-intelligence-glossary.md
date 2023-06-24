@@ -102,6 +102,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
+    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
+    publishedDateTime: 2023-06-24T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "This Startup Is Using AI To Reduce Emissions In Hard-To-Mitigate Industries"
     excerpt: "That’s exactly the kind of work that’s the specialty of Fero Labs, a New York City-based manufacturing process optimization software company. Today they’ve announced the close of a $15 million growth round led by Climate Investment, bringing Fero Lab’s total funding to $30 million."
     publishedDateTime: 2023-06-21T12:05:00Z

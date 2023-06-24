@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-23-cios-your-generative-ai-playbook-is-here-guardrails-required.md",
+      "title": "CIOs: Your Generative AI Playbook Is Here. Guardrails Required.",
+      "excerpt": "Are you prepared to help your business navigate the future of generative AI? These tips provide the proper guardrails to help you succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6494e9a3adecc689518daaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "publishedDateTime": "2023-06-22T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
       "title": "Our support for early warning systems",
       "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
@@ -62,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -208,7 +259,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -310,7 +361,7 @@
       "originalUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -950,7 +1001,7 @@
       "originalUrl": "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1053,7 +1104,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -1199,58 +1250,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-ai-is-changing-the-future-of-work.md",
-      "title": "How AI Is Changing The Future Of Work",
-      "excerpt": "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
-      "publishedDateTime": "2023-06-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

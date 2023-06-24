@@ -27,36 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Google: \"Today we are announcing the opening of our global fintech operations centre in GIFT City, Gujarat. It will cement India's fintech leadership, thanks to UPI, and Aadhaar. We are going to build on that foundation and take it globally,"
-    publishedDateTime: 2023-06-24T02:30:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
+  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
+    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T05:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
+      name: Indiatimes
       domain: indiatimes.com
-    quality: 53
+    quality: 63
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230193,imgsize-388302,width-1200,height=765,overlay-ettelecom/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
+    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
+    publishedDateTime: 2023-06-24T05:19:00Z
+    webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
+    type: article
+    provider:
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 33
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
+        width: 1248
+        height: 650
+        isCached: true
+  - title: "Google to set up fintech operations center in Gujarat"
+    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
+    publishedDateTime: 2023-06-24T02:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
         width: 1200
         height: 765
         isCached: true
-  - title: "Google CEO Sundar Pichai meets Narendra Modi, discusses issues like AI, cyber security"
-    excerpt: "Washington: Prime Minister Narendra Modi, who is currently in the US, on Saturday met CEO of Alphabet Inc. and Google Sundar Pichai in Washington DC."
-    publishedDateTime: 2023-06-24T03:18:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/90280/google-ceo-sundar-pichai-meets-narendra-modi-discusses-issues-like-ai-cyber-security.html"
+  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
+    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
+    publishedDateTime: 2023-06-20T08:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
     type: article
     provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 48
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2023/d93b7bd98e741c58052a1c30fea0fd45.jpg"
-        width: 800
-        height: 439
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "qPgIihkW3CJ7jXxAhlY56FxqFAAkfyy47w96YHqVCiwNjWyOcei+ymRPkFM0V01OjIBCCMEyiKbHfYRn5+i1dqMnK3qXqeQqMtuffKTtOdF+DfbcVAz1kus0FdIYKESYZXueMl3u+lWlMDaT+GZBJQmk53fO6rfrwG242x6IIUoGATrP7KfhBGcbz0cy4Isf2ISC4j9pzKlp/ft8DpEWoWwatRCAefHjnJK4g7OYdl8KBih9b872DAy2YCqtYDN7mvjdwroe7kwWisSIh/g88wXr9wlKYBXaERj7JbhTsdvIL11fcIz3y4QA9H33G2BFz9eBYNu2C2DiF7WowGP+8sQ3oa3iRI4ixtQuiQ5w4Gs=;rKsb1y5Jqj02mvCUg5PJmA=="
 ---

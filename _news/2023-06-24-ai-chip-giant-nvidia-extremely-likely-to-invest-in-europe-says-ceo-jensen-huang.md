@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
-    excerpt: "By investing money in Europe, Nvidia would join other semiconductor giants like Intel that are also looking to open new operations in the European Union, with the help of government subsidies."
-    publishedDateTime: 2023-06-24T02:43:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/101230366"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/101230366"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/101230366"
+    excerpt: "\"I would say it is extremely likely and the reason for that is because Nvidia would like to be a global international company and who could imagine a better place to invest in,\" J"
+    publishedDateTime: 2023-06-24T04:23:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/articleshow/101232471.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/amp_articleshow/101232471.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe/amp_articleshow/101232471.cms"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
+      name: Indiatimes
       domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230366,imgsize-68922,width-1200,height=765,overlay-ettelecom/devices/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.jpg"
-        width: 1200
-        height: 765
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-93954,msid-101232475/nvidia-corp-ceo-jensen-huang.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "D6tmZPhdguXGnn3PRxVAGsYo7hSUj9t8ebhyhDfRQEyB/hIEJuB3QadqkFUDYtzvUOnKxaC1o6zmsoC2CDA+3MUGiwUqqjsIZDCNHW7man2wiX1mh/lcF327rDWJVhVPlpubX4QsfWVemK7uMFRusDHdvHVndIfG9PsyyCYpoiOSJqPwzVGFyv0au3a7y3w2vEhDL/HVimop3kyX0XB4P5TEns3KRBedC2jJ7f+nTROs22GDVJ3ON+0zstvl+KP6fF/HE7xbxU2LwwWYVjC3sYBNfg5zDX652ZpJAqLSrTU3GWSJZa0nmVFpOxf0QWQ+yKXmsabQtVXKCdvXnMkLFflxraCrw3JDVOhCI3MYib8=;I6XJL8NoiDB44rtDNUVjXg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-beco
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Job Search Mistakes You Need To Sidestep"
-    excerpt: "Learn the most damaging AI job searches that candidates are making, so that you can avoid them and increase your chances of landing your dream job"
-    publishedDateTime: 2023-06-19T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6489b33233b97d979475c366/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
     publishedDateTime: 2023-06-20T10:11:00Z

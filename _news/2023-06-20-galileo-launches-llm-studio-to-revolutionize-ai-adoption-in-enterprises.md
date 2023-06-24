@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/galileo-launches-llm-studio-to-
 webUrl: "https://venturebeat.com/automation/galileo-launches-llm-studio-to-revolutionize-ai-adoption-in-enterprises/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,63 @@ topics:
   - AI
 
 related:
-  - title: "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations"
-    excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision, announced a suite of new tools called Galileo LLM Studio — now available for waitlist signups here."
-    publishedDateTime: 2023-06-20T15:28:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html"
+  - title: "AI revolutionising medical diagnoses"
+    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
+    publishedDateTime: 2023-06-24T05:57:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 0
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
+    publishedDateTime: 2023-06-21T15:27:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
+    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
+    publishedDateTime: 2023-06-22T21:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
 
 secured: "8w9H47ZeC5oWaj/DPK6LduPuBT7msxP5xdinKRIc8Eb61Ga8OeHs2P9vWIYAlT8f2cJmrThZDeRCaMLGUHOmZgnZosiGeraoF6Ebc15FQlqHLuR5i/St2HXXyldEddsY+R0gBfS7TB9OM1ukE0+1UmnESYD3qiqCSUbxZUgKTlmMwhwDUscjbb39xOs6qRSxDFE2vbo95RAivivGegjfakqMwTv8EmCASGegvuvQCBTk6f+LnVqWYblAJvDz/14lVMufQe7ZSPbC1OmczbmsukN7F/YMsmIq4CQnbty8fSjqw5/K4JH823p0CzgTWNvEBPhA763yfO079HQNELT3ElOANQ2JeQ3rhOZLicRslS3Y7J+O4Z0/CbcHxySzzhQWVuNuZgbkA+9IPHDAHpAg0asScXoIfUwcxGp4kMYWxdzerEuNNdU/3hke1NJGKsWcQ5jFf3VZ9x91Kpk5ZbpJh6zLeGVEJIbdC4hTxYYSxCRwsK9+/wiD2uzMIkJxMeIwUn0zKwWrAE72JoLlxg049Q==;vdFGhbn7PAZFM0Zz/BM1mA=="
 ---

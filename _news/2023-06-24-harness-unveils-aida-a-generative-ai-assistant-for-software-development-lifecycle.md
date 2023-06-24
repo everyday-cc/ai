@@ -128,15 +128,6 @@ related:
         width: 333
         height: 450
         isCached: true
-  - title: "Hidden Door launches playtests for Wizard of Oz games created by generative AI"
-    excerpt: "Missed the GamesBeat Summit excitement? Don't worry! Tune in now to catch all of the live and virtual sessions here. Hidden Door has launched limited playtests for its Wizard of Oz role-playing game platform that uses generative AI to create custom games for each player."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://venturebeat.com/games/hidden-door-launches-playtests-for-wizard-of-oz-games-created-by-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
   - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
     excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
     publishedDateTime: 2023-06-20T19:21:00Z
@@ -146,15 +137,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "Salesforce touts AI strategy, doubles investment in startups"
-    excerpt: "Salesforce is elevating new generative artificial intelligence features in its products and doubling its investment in AI startups."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/salesforce-touts-ai-strategy-doubles-investment-in-startups/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
   - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
     excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
     publishedDateTime: 2023-06-21T13:38:00Z

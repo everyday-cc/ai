@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The Best AI Apps to Try Now"
-    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799666/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Bet on These 3 Artificial Intelligence Stocks Right Away"
     excerpt: "For solving problems, artificial intelligence (AI) is imitating human intelligence in computer systems. It is through machine learning that AI is now being created. This basically signifies training a system by utilizing an enormous volume of data."
     publishedDateTime: 2023-06-22T15:42:00Z

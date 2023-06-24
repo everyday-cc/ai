@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-broadcom-chip-stocks-ai-5ac3d23f"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Best AI Apps to Try Now"
-    excerpt: "AI tools can turn your ideas into impressive text and graphics, if you know the right apps."
-    publishedDateTime: 2023-06-19T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-apps-tools-214958d8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-799666/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "3 AI Stocks to Buy as Tech Giants Invest Heavily in Artificial Intelligence"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) is going to infiltrate every aspect of our lives,"
     publishedDateTime: 2023-06-21T11:06:00Z

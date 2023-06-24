@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-14-ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief.md",
+      "title": "AI discrimination is a bigger risk than human extinction – EU chief",
+      "excerpt": "Commissioner says existential threat unlikely, but ‘guardrails’ needed for decision affecting livelihoods",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ed7d6122dae2ae5743e39dcebd623cd20d0a633a/0_595_5315_3189/master/5315.jpg?width=620&quality=85&auto=format&fit=max&s=0bb181e3b0d8b64b069d8b5391390825",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/14/ai-discrimination-is-a-bigger-risk-than-human-extinction-eu-chief",
+      "publishedDateTime": "2023-06-14T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research.md",
       "title": "2030 | Artificial Intelligence and Robotics in Aerospace and Defense Market Research",
       "excerpt": "Jun 14, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" is segmented into Regions, Applications",
@@ -1143,57 +1194,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amazon-experiments-with-using-ai-to-sum-up-product-reviews.md",
-      "title": "Amazon experiments with using AI to sum up product reviews",
-      "excerpt": "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "publishedDateTime": "2023-06-13T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

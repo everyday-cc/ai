@@ -25,61 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
-    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
-    publishedDateTime: 2023-06-19T11:28:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
+  - title: "Fintech chiefs debate diversity crisis in Parliament"
+    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
+    publishedDateTime: 2023-06-20T07:47:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 44
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
+        width: 752
+        height: 423
         isCached: true
-  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
-    excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
-    publishedDateTime: 2023-06-21T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
+  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
+    publishedDateTime: 2023-06-21T10:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "JP Morgan invests in trade finance fintech"
-    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-06-20T23:22:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: Zawya
+      domain: zawya.com
     quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
-    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
-    publishedDateTime: 2023-06-22T11:16:00Z
-    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+  - title: "Top 5 Fintech and IT Masters Programs in Singapore"
+    excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
+    publishedDateTime: 2023-06-21T05:07:00Z
+    webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
-        width: 900
-        height: 500
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Top-5-Fintech-and-IT-Masters-Programs-in-Singapore.png?x22319"
+        width: 1024
+        height: 567
         isCached: true
   - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
     excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"

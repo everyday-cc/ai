@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/06/22/meet-cara-triangle-startup-bring
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/22/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/?amp=1"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1002
     height: 564
     isCached: true
-
-related:
-  - title: "Meet Cara: Triangle startup brings artificial intelligence to help care givers"
-    excerpt: "Cara” is an artificial intelligence tool being developed to support social workers, as well as other caregivers, with some of the more mundane and repeatable tasks of caregiving. CareYaya co-founders Gavry Eshet and Neal Shah explain the inspiration for Cara’s development in this exclusivve WRAL TechWire Startup Spotlight."
-    publishedDateTime: 2023-06-19T11:49:00Z
-    webUrl: "https://wraltechwire.com/2023/06/19/meet-cara-triangle-startup-brings-artificial-intelligence-to-help-care-givers/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 15
 
 secured: "C4/LJwDi5rF22egJFJajf/CRrbDrW+X8RrrqoV43JPRyUL3PXMBZSClNd2Rngg7gtcH7FU5y2VOu6Ar2J+/hblPby1euK8pBrIHP/P5SNj/UrWSG1pqyjjR2hD0hBIIi5s/mwHjJefw2Y0FljSBMwAw9Yx3iHjaPcDnwvNTFPUpuqprHKAOX9nJFKuTVzFeh2QdhagE82536p6iilwRUK+lHTFacp2phNba4gWKAiKxX2W4yxfi+1tagbqzoqKlm7wH9PHmGOrdqbrop7y/l19NOYs1/ED9aJwL+WgcF/mryJQ8yqtlRKf3oZMnRbZH8e3b0EggWBpDOE5nQQt9wV0ABefHjahsz9kNOpRYtM5o=;IwWBCppCdf5V9uthz5SwAw=="
 ---

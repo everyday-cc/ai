@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-26-chatgpt-how-to-use-the-ai-chatbot-thats-changing-everything.md",
+      "title": "ChatGPT: How to use the AI chatbot that’s changing everything",
+      "excerpt": "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 579,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
+      "publishedDateTime": "2023-04-26T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-microsoft-shares-surge-7-after-the-chatgpt-investor-reveals-ai-boosted-its-cloud-sales.md",
       "title": "Microsoft shares surge 7% after the ChatGPT investor reveals AI boosted its cloud sales",
       "excerpt": "Microsoft CEO Satya Nadella said AI fueled growth in the tech giant's Azure cloud business and Bing search engine last quarter.",
@@ -1350,59 +1402,6 @@
         "name": "Fox Business",
         "domain": "foxbusiness.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-working-on-athena-silicon-to-power-ai.md",
-      "title": "Microsoft working on \"Athena\" silicon to power AI",
-      "excerpt": "The race for AI supremacy among technology giants has only begun, and it is already going beyond feeding enormous amounts of data to models like the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98360-microsoft-working-athena-silicon-power-ai-dreams.html",
-      "originalUrl": "https://www.techspot.com/news/98360-microsoft-working-athena-silicon-power-ai-dreams.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/04/2023-04-18-image-27.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

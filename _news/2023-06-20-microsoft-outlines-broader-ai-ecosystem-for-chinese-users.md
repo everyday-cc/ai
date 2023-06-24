@@ -113,20 +113,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Microsoft Azure Expert MSP success for tech consultancy"
-    excerpt: "The firm is a member of the Microsoft Azure Managed Service Provider (MSP) programme, dedicated to delivering tools, systems, knowledge, and support to empower and assist customers throughout their digital transformation and AI journey – following on ..."
-    publishedDateTime: 2023-06-19T11:20:00Z
-    webUrl: "https://www.insidermedia.com/news/business/microsoft-azure-expert-msp-success-for-tech-consultancy"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 54
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/images/Heath_Groves_at_an_Insider_event.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
     excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
     publishedDateTime: 2023-06-21T10:09:00Z
@@ -182,11 +168,11 @@ related:
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 33
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
-    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
-    publishedDateTime: 2023-06-19T11:28:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
     excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
     publishedDateTime: 2023-06-21T23:48:00Z
@@ -67,29 +53,52 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
-    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
-    publishedDateTime: 2023-06-20T10:22:00Z
-    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
+    publishedDateTime: 2023-06-21T12:14:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_f213de64-92df-5ec4-a029-337e592285fe.html"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 24
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 1
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
-    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
-    publishedDateTime: 2023-06-23T13:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 4
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
+  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
+    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
+    publishedDateTime: 2023-06-22T11:28:00Z
+    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
+        width: 332
+        height: 249
+        isCached: true
+  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 0
 
 secured: "YXMsDtqz5fUJkIHNrDqWvIhOsjzFrOqL43/YIHSZzxM7APuqaA7yRcqMJ4vBk+5sRprC2/G6EBR7bezphoZXQSrQhtlNxi0woFg51Ik9KZYKFsoKOMaESgKDC44l6EFJktooXYaBIt46fAgkDIErumCuld4cJa9lUa2YDFW5ZXzmkgWXrYHYkmpDx3KUNULXdqeSc+j+JjPYQh0u/c8Sj+06dK77XUnTnTCVj7a29YpBoHMCHJCXMoA6SsulegvZzArqyAkRfiG9UOPtDECD49dOdNEMm/p9lkcP2fXYA4E+hUTtIsNJFdGu09F8PJcv0LPkFzK4uhjSCqEpLRI6oF/nCfGEg2BC95f4svDl6UbSOdHTRIwIwTfMc/gzAssT1++bifkxPGImYfG0+T7kNXaRMsocEI5kNpENeKdHjPLHh98sBZtTeFhqokqEr3+imwslvc2IbUZGL7HP8OalXnxD06Wsz7tV4JE7QU9OLClNE0sQDf2XWSSf+FZQxyYR+Zq3tfMlEJX8lo9iY6JwdA==;7zFUWUVCfNj78sle0oGenQ=="
 ---

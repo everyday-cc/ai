@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-21-boost-agent-productivity-with-salesforce-integration-for-live-call-analytics.md",
+      "title": "Boost agent productivity with Salesforce integration for Live Call Analytics",
+      "excerpt": "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png",
+          "width": 1018,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:20:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-chatgpt-bard-or-bing-40k-people-voted-for-the-best-generative-ai-model.md",
       "title": "ChatGPT, Bard, or Bing? 40K People Voted for the Best Generative AI Model",
       "excerpt": "In UC Berkeley's 'Chatbot Arena,' anyone can join a live competition created to blind-compare responses from ChatGPT, Google Bard, Anthropic, and other AI models. Here's the current leader.",
@@ -977,7 +1029,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1157,49 +1209,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

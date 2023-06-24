@@ -207,15 +207,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How AI Can Help Find New Minerals On Earth And Other Planets"
-    excerpt: "A machine learning model can predict the locations of minerals on Earth - and potentially other planets - by taking advantage of patterns in mineral associations."
-    publishedDateTime: 2023-06-19T12:41:00Z
-    webUrl: "https://www.forbes.com/sites/davidbressan/2023/06/19/how-ai-can-help-find-new-minerals-on-earth-and-other-planets/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "3 downsides of generative AI for cloud operations"
     excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
     publishedDateTime: 2023-06-20T09:35:00Z
@@ -234,6 +225,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Sima.ai Gears Up for a Generative AI-Embedded Edge Future"
+    excerpt: "Even though the Sima.ai has not revealed its roadmap, Krishna Rangasayee, CEO said that the startup is preparing for a generative AI embedded edge future"
+    publishedDateTime: 2023-06-24T05:27:00Z
+    webUrl: "https://analyticsindiamag.com/sima-ai-gears-up-for-a-generative-ai-embedded-edge-future/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/interview-banner-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
     publishedDateTime: 2023-06-22T18:56:00Z
