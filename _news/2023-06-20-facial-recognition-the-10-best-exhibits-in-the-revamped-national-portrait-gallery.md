@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market Growth | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Clinical Natural Language Processing Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
+    publishedDateTime: 2023-06-19T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-growth-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Development Market Size | 2030"
     excerpt: "Jun 19, 2023 (The Expresswire) -- \"Computer Vision Development Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
     publishedDateTime: 2023-06-19T11:36:00Z
@@ -54,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

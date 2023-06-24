@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-06-13-are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare.md",
+      "title": "Are You Ready To Work With AI As A Copilot? 4 Strategies To Prepare",
+      "excerpt": "Billions of humans across the globe are about to be working with AI 'copilots', which will redefine the nature of work itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
+      "originalUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64873077523c869c0bf4b945/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
+      "publishedDateTime": "2023-06-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-nature-bans-ai-generated-art-from-its-153-year-old-science-journal.md",
       "title": "Nature bans AI-generated art from its 153-year-old science journal",
       "excerpt": "Nature publishes peer-reviewed research from various academic disciplines, mainly in science and technology. It is one of the world's most cited and most influential scientific journals. Nature says its recent decision on AI artwork followed months of intense discussions and consultations prompted by the rising popularity and advancing capabilities of generative AI tools like ChatGPT and Midjourney.",
@@ -1180,40 +1231,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-global-composite-ai-market-report-2023-growing-intricacy-of-ai-applications-for-better-performance-and-accuracy-drives-growth.md",
-      "title": "Global Composite AI Market Report 2023: Growing Intricacy of AI Applications for Better Performance and Accuracy Drives Growth",
-      "excerpt": "The composite AI market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period. With the proliferation of digital devices, sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/12/9830993.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/12/9830993.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

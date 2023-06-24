@@ -83,6 +83,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How to control ChatGPT with your voice"
+    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
+    publishedDateTime: 2023-06-23T18:02:00Z
+    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
     excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
     publishedDateTime: 2023-06-20T00:00:00Z

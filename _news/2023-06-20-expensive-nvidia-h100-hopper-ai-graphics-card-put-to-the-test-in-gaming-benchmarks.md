@@ -71,20 +71,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Here’s five Asian AI stock picks to rival Nvidia"
-    excerpt: "Custom semiconductor chips and the growth of edge computing could help these businesses outperform, according to Morgan Stanley."
-    publishedDateTime: 2023-06-19T05:57:00Z
-    webUrl: "https://www.afr.com/markets/equity-markets/here-s-five-asian-tech-stock-picks-to-rival-nvidia-20230619-p5dhlm"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.6665%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_126/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8110045d4ce71ea12b5b5a9e268518061fd1db75"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "qrtF2Fa5wy/dY/5uj5Nwcl6m4P/ciCuGrFv5kH4/LhZcnXK651F2iHI577c56CkNO2VycZbZLJfUC+92gouqfPzzUpTxR3kI9w8sJRc2GQbNcp8NgxZphGgtHvg84a4wTnYkjz4V3fW3Xph4Nqyh7/A5P2QiA7mqHnun0JOWRFolJFRzPsy5nJD+oOJfScTcTNJkJc1uzbB74NfX7PdnsfJLY0yUrFzjpO9mRCprzEQrRONOxRLpEqSfbmo6eOMfRI1IAPE2EC8uxoVwZUgg2S3bIMFSBm6bdAvA4j2zPkEngjBTUic+wh3NSQlQHdxvY5wGq4ivps+mcyCJ6+G5HidjAQOWPsL3coHvILf75nnhJW+P9Ab4l+ywTs6cq0BmkTgBRKmEWOfGPscHBIOD1IEAQOAoHDgTDPsxgcKKTukrYPmm55bbcKiSm3S+r47SJUUFcmb2Zr8PISS1PFAOi01vE15+qntDJ+x1qfwnmaBcYASzOgLF9GnLyiL21KJmoAEhlr/s2HgFwXTaFKk8mA==;IY1efzAaA+6s0uxQKgI5Og=="
 ---

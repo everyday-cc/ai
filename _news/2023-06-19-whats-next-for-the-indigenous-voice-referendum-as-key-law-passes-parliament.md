@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The Voice to Parliament has passed: Everything you need to know about the historic referendum to come"
-    excerpt: "Now that the Voice to Parliament bill has passed the Senate, a referendum must occur in the next six months. Here's what you need to know."
-    publishedDateTime: 2023-06-19T06:51:00Z
-    webUrl: "https://harpersbazaar.com.au/voice-to-parliament-bill-passes-referendum/"
-    type: article
-    provider:
-      name: Harper's BAZAAR
-      domain: harpersbazaar.com.au
-    quality: 9
-    images:
-      - url: "https://harpersbazaar.com.au/wp-content/uploads/2023/06/Voice-to-Parliament-referendum-1024x725.png"
-        width: 1024
-        height: 725
-        isCached: true
   - title: "The Indigenous voice to parliament needs a fresh start away from Canberra"
     excerpt: "After many years of sustained advocacy for constitutional recognition of Indigenous people, the parliament has now passed the Constitution Alteration (Aboriginal and Torres Strait Islander Voice) Bill that sets out the precise words Australians will vote on at the referendum."
     publishedDateTime: 2023-06-19T23:30:00Z

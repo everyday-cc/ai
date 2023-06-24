@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/artificial-intelligenc
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-71687196958462.html"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-54.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
-    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations"
-    publishedDateTime: 2023-06-19T06:21:00Z
-    webUrl: "https://www.econotimes.com/Artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-1658014"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 52
-    images:
-      - url: "https://f1.econotimes.com/2023/06/mqva0lqy3o_th_1024x0.jpg"
-        width: 496
-        height: 251
         isCached: true
   - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
     excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."

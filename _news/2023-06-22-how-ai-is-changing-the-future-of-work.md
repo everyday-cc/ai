@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 300
 published: true
 
 provider:

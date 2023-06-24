@@ -3,16 +3,16 @@ category: news
 title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
 excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
 publishedDateTime: 2023-06-21T16:00:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article276616381.html"
-webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
+originalUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - Microsoft AI
@@ -206,6 +206,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "O9nfacGWsddUK4ERjPXUgyoVp0OLEMs5vVB2X7l3MOnIu2PLBFM5hpJ2N5DSMLHB3OzeDOpCvG0nhPLkYo6fb3WLtMlYTCO+udNr9pxbU33mSmQjcxXJb4/oMJW+1IpLNG3We2ESI3lxTSS4ZzKLgmr7k4wBsul4WNq6gPkqp4oay6Hh/r8B2D4+K5WzqDpmroR3fFoPA6w2ppNYA+xsrBWv3cRfvyuE9/Ke9UOq1tU9NRH+/G9Mg3awRev9Vpv4hCIck5BMdcUAEn6ty0lMt3AilfA3PMtGteJSanOTyimZgscUFW0hYjedCWL8IpXfZpaXFsOCRdjCAe+sv6eN1qp3sSYz+vlqSUPNaDVfi6WM/5O4vJvEXtXfaueBTQ6WwHF1tgBO1BzJ1/9KIavmFbvvbvUrgmiv1NLNkPDALScsupms6UDDjtssKfOdOI0DEhq8/RDlBNDGZ11mjE0x2Klh4eh2Ndw++hyW68gtUvYnCuX1GeH1v41vO8A5/4m9siumKzPE/eheQrxFxh87FA==;Y20BOeDVz6eg2HnnSG6x+g=="
+secured: "3hANqD8AyVlHbjHCQ6uW8B0e94DUo7LVvmQVi4l0p7YPUnyTK7fUH/+r+zLrGiWJEGYHQTYtvWGMuydHXcngyyxxSTKhIipSsdhdp7QBrys6wK2uk1tjKJptVxrAVumbynet3ijOV2VBZbcjoLi/JKppc8A+YN9ck+1e/hgjxOJYaHEohiCUgo/wYVaNnWsS6b0ApyQk31z5JiE9y6JWwp7AiUR9QLUPzHlqsQSJOF85rX2S5fYLtuSM4JAZ/Ge9U/8mftSBW3wFmXpBXZJTeZ1WQ5EHKNquVdeBtAwHzAsG4ySawV64GHjzxDUbNrR+GpFyvvTKuL6oIBjuYAvX06BqKhnPYhaavVc9XiGQ7OpaN6F/og8cupBtl/MmminVrbVhTD2QYdjdR8rUFubzi9Q6eifrzdlwhVzTFea0IXc9YuNPzYJAYAOpVa2U6zbz/Y3VbTDMMb82cukRhCtEJtn6SZfvVuxPzH3s1BxiNh1oUVc7ScLMHW2leiAO6xsO09MojBedsQ3fk8x0UWAz1A==;THqVlRUqvztaHl0hSs0E0w=="
 ---
 

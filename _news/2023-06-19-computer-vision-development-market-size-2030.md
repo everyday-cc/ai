@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market Growth | 2030"
+    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Clinical Natural Language Processing Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
+    publishedDateTime: 2023-06-19T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-growth-2030-2023-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
     excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
     publishedDateTime: 2023-06-20T10:00:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902"
         width: 620
         height: 793
+        isCached: true
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Speech Recognition Market Sales Data At The Global, Regional, And Key Country Levels With A Detailed Outlook To 2026"
     excerpt: "speech recognition market global opportunity analysis and industry forecast, 2019–2026 portland, or, united states, june 21, 2023/einpres"

@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast.md",
-      "title": "SmartCard Marketing Systems, Inc. AI Runway and New Channel Partners with the Stock Day Podcast",
-      "excerpt": "\"SmartCard specializes in FinTech and FinTech applications; we develop platforms-as-a-service, including commerce strategies for banks and enterprises,\" explained Barone. \"What is the current AI runway for SmartCard?\", asked Davis. \"About a year and a half ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32973241",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32973241",
-      "publishedDateTime": "2023-06-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-meet-the-6-jpmorgan-execs-tapped-to-lead-a-new-unit-that-will-shape-how-the-countrys-largest-bank-approaches-ai.md",
       "title": "Meet the 6 JPMorgan execs tapped to lead a new unit that will shape how the country's largest bank approaches AI",
       "excerpt": "The organization will be led by Teresa Heitsenrether and pulls together some of the brightest tech minds at JPMorgan to drive the bank's AI strategy.",
@@ -1390,6 +1346,58 @@
         "AI",
         "AI in Finance",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-the-importance-of-diversity-in-finance-ai-why-inclusive-data-and-representation-matter.md",
+      "title": "The Importance Of Diversity In Finance AI: Why Inclusive Data And Representation Matter",
+      "excerpt": "For all the promise AI offers, it also poses a risk of advancing societal iniquities if organizations don’t use it responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeseq/2023/05/31/the-importance-of-diversity-in-finance-ai-why-inclusive-data-and-representation-matter/",
+      "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/05/31/the-importance-of-diversity-in-finance-ai-why-inclusive-data-and-representation-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e6e7e512d6fc2d15f411d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

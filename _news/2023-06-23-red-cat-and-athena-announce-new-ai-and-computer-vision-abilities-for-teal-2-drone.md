@@ -9,7 +9,7 @@ ampWebUrl: "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-
 cdnAmpWebUrl: "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence in Psychiatry"
 excerpt: "Generative AI could help clinicians complete more clerical tasks and allow them to see more patients. A 2016 study found physicians spent only 27% of their working time engaged in direct contact with patients. Generative AI could mitigate disruptions in healthcare caused by predicted shortages in healthcare providers."
 publishedDateTime: 2023-06-23T16:03:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry"
-webUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+webUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 type: article
 quality: 59
 heat: 69
@@ -42,6 +42,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "PMrSkkbZdvE8pLaztxhNnBiMTF8ubTUY1PyO3Wao6byy9LRazBJs/sFoE7f2T5YXteR6FTKrH6gryKWC5cuB6992hDF5jtx02Dp5eaUdYmuwdJmYHfqUUi1HybL2+NlN9ypzuWXdJ7zvqz3aWKUTUzv/CuOdgrIfjTEcuV41RHT6Q1vVaXaAztdbUjIjRj+uBAvX/NHBkmTt1CqiX6nUId0TRi6qNkjgxAGurG1yzdVU4Mf+buBw3+oDaqYxM8WCAaAn8z+O0GWChRsLvVSMWZSuATnwebpXyO1Z4x719xb2zBMWt5omUuOxQ6XYOBMB3yup45E01UPOZBPTTRCGlVm8mJo8vwA1VECDWMQXFjK3ubZ8F1dxq+edSNsaiYGAlIc6NZaFgEanNx+kj0SLWVte4nXQVr95GSJbi4O+GjAT0GhlHkxN+OA1VyR8jPpEsR7cBs7FVjZBri15Gczy3jxhwXEj+G7FFu8rXkr1ATFmHb+SMZmNb+BvDuZcICik0dKUIv01FHlhkWIsjXPMuQ==;iMe/6sLvQVdG0vdbWnvz4g=="
+secured: "/QXk9W/8E2I7ufnWWryRth9Kj+PJ9pVAbLFMNNnGIDbdhK1Xx+zSTG8W22Vu47OwZ0ayE9kXo+LYpVXRo/szTBHBLXFFr2JCUWD+Jfw5EsVINEv3cfoOIl4OaS88SP4C+wZnGKF/2G4L47oJ98aL56G+R3kscjaimH95XQFPPipwq6+3sEexg3jwWvz59bf/aTg4pGp1dxfNZl3uoK58mN8lzs16e/B8YrqbTYEspgVNDWvq35dv+ZDY2JQxA2c6tutVNHUnVkM9Mff1f1I809xVwaQl9Wzb2ftttLgez6D2VBG8tCcM/IvhQl38ELYg4C3qTswz4Kw/aBMp3qEzEcSGEC9cbSowacnTj1lHW40=;D9OO/kRgjtLpISNYk3ttnQ=="
 ---
 

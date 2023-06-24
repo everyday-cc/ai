@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
-    excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations"
-    publishedDateTime: 2023-06-19T06:21:00Z
-    webUrl: "https://www.econotimes.com/Artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics-1658014"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 52
-    images:
-      - url: "https://f1.econotimes.com/2023/06/mqva0lqy3o_th_1024x0.jpg"
-        width: 496
-        height: 251
-        isCached: true
   - title: "Opinion: Artificial intelligence can support architects but lacks empathy and ethics"
     excerpt: "Artificial intelligence (AI) has revolutionized many different industries in recent years. It gained a lot of attention and popularity with the launch of ChatGPT, a tool capable of writing poems, solving equations and producing articles on different topics."
     publishedDateTime: 2023-06-20T05:00:00Z

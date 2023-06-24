@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "How to control ChatGPT with your voice"
+    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
+    publishedDateTime: 2023-06-23T18:02:00Z
+    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
     excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"

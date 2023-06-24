@@ -105,50 +105,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast.md",
-      "title": "SmartCard Marketing Systems, Inc. AI Runway and New Channel Partners with the Stock Day Podcast",
-      "excerpt": "\"SmartCard specializes in FinTech and FinTech applications; we develop platforms-as-a-service, including commerce strategies for banks and enterprises,\" explained Barone. \"What is the current AI runway for SmartCard?\", asked Davis. \"About a year and a half ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/32973241/smartcard-marketing-systems-inc-ai-runway-and-new-channel-partners-with-the-stock-day-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32973241",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32973241",
-      "publishedDateTime": "2023-06-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
       "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
       "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
@@ -919,7 +875,7 @@
       "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -1023,7 +979,7 @@
       "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1261,6 +1217,48 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
+      "title": "Schumer reveals plan to regulate AI",
+      "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
+      "originalUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183968325726",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726",
+      "publishedDateTime": "2023-06-21T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -30,20 +30,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 21
-  - title: "The Voice to Parliament has passed: Everything you need to know about the historic referendum to come"
-    excerpt: "Now that the Voice to Parliament bill has passed the Senate, a referendum must occur in the next six months. Here's what you need to know."
-    publishedDateTime: 2023-06-19T06:51:00Z
-    webUrl: "https://harpersbazaar.com.au/voice-to-parliament-bill-passes-referendum/"
-    type: article
-    provider:
-      name: Harper's BAZAAR
-      domain: harpersbazaar.com.au
-    quality: 9
-    images:
-      - url: "https://harpersbazaar.com.au/wp-content/uploads/2023/06/Voice-to-Parliament-referendum-1024x725.png"
-        width: 1024
-        height: 725
-        isCached: true
 
 secured: "87vUqgnj/mU9G3ON69u4BowEJJL99JU07QURli290kynlZ2HoR9Yt1Mx+d2HluXv6+lmWH4qofeIzytlnPHkq8E8+konvOx1cgPeTfTclH0R8p832gfdG/gmtsS3PwTxy4CSevk6p0z1VOD7jHQqQ7uQIfbcawq2rTgGbT4ad9zypV7tGxkBRtGro1rOns7f77U/HnHkv/cniakE+TadcsAFk+AG+kJ3k6wDXgRIbDrtR9ODjrlrebcc7kXHzusYvHBr+gRPG/7Fv+c3v4o4WqoRDzSbvtkLffPAGTpbbrd2l2vQN+eZC6uW9brz/6S9IfhUUmA+USJduHw7OgKbEvu3Qhm/Mo5F0soeqCdPBSGNpfULFLkdchM2pCsmTAES4phgfYmrkGnNj1jMlH/h34Ol8ovtcAWXh1urQHr7Ag+lijd2qI+6Kp97P7yyTVvwXZTGLiULn33+k26KJ+56OeqvpR7wKENzIHlyXgsGWZHQS/L07JVJJfWqeaDhiwIWNRCrgze5PY6Z7ewAvq6Z4Q==;eh9giM/8HhzFudYXVM+Exw=="
 ---
