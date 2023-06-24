@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Plans to allow use of facial recognition technology by gardaí will not be included in body-cam law"
-    excerpt: "Plans to allow the use of facial recognition technology (FRT) by gardaí will not be included in a new law to bring in body-worn cameras for Garda members, The Irish Times understands."
-    publishedDateTime: 2023-06-19T14:17:00Z
-    webUrl: "https://www.irishtimes.com/ireland/2023/06/19/plans-to-allow-use-of-facial-recognition-technology-by-gardai-will-not-be-included-in-body-cam-law/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 25
-    images:
-      - url: "https://www.irishtimes.com/resizer/lb-AaDrUbfEkoXuM5XwF9ANERoo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WRPC4K2Q2NPIRZWUZN7SSU6K2Q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3K9xu9TmiZLkvmWMGP0IQLuRtvRhInjcKRDTJEC4/bolHdjWVd4oSY6Evjx8RXYj2EEmc5jEM3p08BwDPLbSJi1cOBHPyBuPDgl4Zf0mtnGwANFtt7GgL9AXrDLhXTnzV+7A4yKG5boiINSPbU4SreF8eUSqLUiEx1bEP0wZVjxKOxkPrjjV4qWVnMuZPTw5HT+y1/vEAiUsZo9rau+94ZvNA/K54NNda4PH9lv7tmJIUuKuuH9y3xGPR40jgLiuub6bg8aYjlXtpd8sWAu6Pp/LtDLPoL6kmpaSDB+TQX0rl7uGzQDetJCaVedVTj/ZcuReSMyOPvW8ElYBqC9bBeJ8pGcbXDh7GpboNRmswZmJnHtFdO2kl5NEJ1JxhT4geBy7Z6iRuFYZjvSAgKszItMgUpEq58SsJbH1KL24fYr0+XOeR3kRrY0bd1DvEkJ+lPy6DDfpxf0JsSgRqMfkkwy+YZN0aBYawSjhA552fwml3lgYJwX5piDBCldrpNA6CSxt1siO14V3WwNijqLi4g==;DByHwLi/djOGPo5xodXIfw=="
 ---

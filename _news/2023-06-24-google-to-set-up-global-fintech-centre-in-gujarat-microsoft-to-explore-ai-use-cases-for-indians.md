@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
 type: article
 quality: 63
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
+    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
+    publishedDateTime: 2023-06-24T07:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 33
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
     excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
     publishedDateTime: 2023-06-24T05:19:00Z
@@ -72,6 +88,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "After meeting Modi, Google CEO Sundar Pichai announces to open global fintech operation centre in Gujarat"
+    excerpt: "Washington/IBNS: After meeting Prime Minister Narendra Modi here, Google and Alphabet CEO Sundar Pichai has announced the opening of a global fintech operation centre in India's Gujarat, the homestate of the country's political giant."
+    publishedDateTime: 2023-06-24T06:26:00Z
+    webUrl: "https://www.indiablooms.com/news-details/N/90283/after-meeting-modi-google-ceo-sundar-pichai-announces-to-open-global-fintech-operation-centre-in-gujarat.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 22
+    images:
+      - url: "https://www.indiablooms.com/news_pic/2023/6d1377dc508ddb1ffa3b8d6e208bf022.jpg"
+        width: 800
+        height: 539
+        isCached: true
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
     publishedDateTime: 2023-06-20T08:54:00Z
@@ -82,6 +112,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Ddv8Wv8mNXypRSq9BjPQzHUr+rQRB+FozpaNzNsspqjkG9/D8pRmblPtGqkfy8wPi9kP0nVjH8yK5VEpdyEd6WsWGsk/FpVJ1GLYCH2PnI0be5F45FS3kuvKIRGijXGWjbIP15kf/h0IWAefH4NPt+HO/mIlSWzv21MAlEThJl5i0Ss2rhegKTRoq7sYMKfYSEt57rCyhzmcwOzYvRhyj4BeDaHY3kpf/YNBQfFii/K9U+oCulkSim8D8xBASckqusLv5wsAWUWUST2z38zqbol06EKo6oxqx9JFgGPfkBRcSr2L6YHvFRAXtLCndBLdOpZVk3wYkA8DIN9eaJCZ0qNPLZiwSDhu5WYDYhv8psg=;oevoRNJYOerS+WHuKAdp8w=="
+secured: "cX0HS9lK9PItx8MWfK8sXc2zfhK+I2C4/M/5MTk5m2g5+Pg7NJvkeaEkTGH+BbLOvMlsoTIDZB6IB3SaoKUAI7gGjEp7vJZWJrcKcjcl6XCEGuuw+TUdhC+oJHJ3pol9ZJy7Xfzvue+yRkf3P/8XMub9Rrry0/OkeRYqTa9d/sdjnv8/EWNLibXHVtRTD6jInn/ybVZLh/1LzqIdRHjjMf8F0UgynDvqYZ1ZPgX93w2T9BwL4K1uJyIY30Fl1rKnBto2p5eQ8/ukzw0MHTvkTfrE4YDDyjUcnKnFDPtpmugqFMmcsK9DKe/kvegf0n6oGvMVChjWvZMvwTC4UDxwn7PAXjiVxBehu9R9yylpaH2bbVdpQi6suhYzis2RfDLU++vx1j/SmqDSdSxnJ/NvVGMvN3l9zIe0Bsussnz+i6CgBPFl4AsoDljuaIi2GH/yNc1UumsMWUgYyNw0dpErof+jmVeWu8BkbzlMO/nJBP/eQDg/mBruwy/MLBin31q75NmeWHwxQYx/BQHDp4xY4A==;8D4BT0vUl3dXnL/pfXUxlQ=="
 ---
 

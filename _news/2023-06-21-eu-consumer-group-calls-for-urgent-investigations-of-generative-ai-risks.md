@@ -56,6 +56,20 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
+    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
+    publishedDateTime: 2023-06-22T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805133/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
     excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
     publishedDateTime: 2023-06-22T16:01:00Z

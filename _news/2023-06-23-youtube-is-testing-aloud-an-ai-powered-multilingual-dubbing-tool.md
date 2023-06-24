@@ -80,6 +80,22 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 49
+  - title: "YouTube to make it easier for creators to dub videos in different languages with AI: Know how"
+    excerpt: "YouTube is set to roll out a new feature that will help creators reach out to a larger audience, irrespective of the place they live or the language they speak."
+    publishedDateTime: 2023-06-24T06:34:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 48
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/yt-bloom-6.jpg"
+        width: 1200
+        height: 853
+        isCached: true
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z

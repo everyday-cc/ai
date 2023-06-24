@@ -215,14 +215,14 @@ related:
       domain: businesspost.ie
     quality: 34
   - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
-    publishedDateTime: 2023-06-21T21:09:00Z
-    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+    publishedDateTime: 2023-06-22T06:48:00Z
+    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 28
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 26
     images:
       - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
         width: 1280

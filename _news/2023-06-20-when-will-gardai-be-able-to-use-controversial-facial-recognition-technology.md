@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Plans to allow use of facial recognition technology by gardaí will not be included in body-cam law"
-    excerpt: "Plans to allow the use of facial recognition technology (FRT) by gardaí will not be included in a new law to bring in body-worn cameras for Garda members, The Irish Times understands."
-    publishedDateTime: 2023-06-19T14:17:00Z
-    webUrl: "https://www.irishtimes.com/ireland/2023/06/19/plans-to-allow-use-of-facial-recognition-technology-by-gardai-will-not-be-included-in-body-cam-law/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 25
-    images:
-      - url: "https://www.irishtimes.com/resizer/lb-AaDrUbfEkoXuM5XwF9ANERoo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WRPC4K2Q2NPIRZWUZN7SSU6K2Q.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Green Party celebrates victory over Fine Gael on facial recognition technology"
     excerpt: "Helen McEntee has put an end to the coalition row by announcing that she move forward with the garda bodycam bill without the inclusion of facial recognition technology"
     publishedDateTime: 2023-06-20T12:26:00Z

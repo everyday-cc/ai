@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 764
         isCached: true
+  - title: "Generative AI As The Platform For The Future Of Work"
+    excerpt: "Everybody wants to be the platform for the future of work, from established players such as Google and Microsoft to generative AI startups such as theGist."
+    publishedDateTime: 2023-06-21T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/06/21/generative-ai-as-the-platform-for-the-future-of-work/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/21/generative-ai-as-the-platform-for-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/21/generative-ai-as-the-platform-for-the-future-of-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5db90034b4d5050006787058/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 665
+        isCached: true
   - title: "Artificial intelligence is the new frontier... in election misinformation"
     excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
     publishedDateTime: 2023-06-19T21:53:00Z

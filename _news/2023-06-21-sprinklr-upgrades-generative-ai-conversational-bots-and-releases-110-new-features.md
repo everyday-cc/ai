@@ -51,6 +51,20 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
+    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
+    publishedDateTime: 2023-06-22T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-805133/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
     excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
     publishedDateTime: 2023-06-20T17:39:00Z

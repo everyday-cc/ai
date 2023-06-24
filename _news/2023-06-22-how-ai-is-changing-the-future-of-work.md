@@ -203,20 +203,6 @@ related:
       name: The Sunday Business Post
       domain: businesspost.ie
     quality: 34
-  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
-    publishedDateTime: 2023-06-21T21:09:00Z
-    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
     excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
     publishedDateTime: 2023-06-23T09:03:00Z
@@ -230,6 +216,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+    publishedDateTime: 2023-06-22T06:48:00Z
+    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 26
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How AI’s legal risks are challenging marketers"
     excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."

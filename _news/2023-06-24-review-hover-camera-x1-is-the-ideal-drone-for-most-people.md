@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

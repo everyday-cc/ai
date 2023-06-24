@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-25-facebook-open-sources-two-billion-parameter-multilingual-speech-recognition-model-xls-r.md",
+      "title": "Facebook Open-Sources Two Billion Parameter Multilingual Speech Recognition Model XLS-R",
+      "excerpt": "Facebook AI Research (FAIR) open-sourced XLS-R, a cross-lingual speech recognition (SR) AI model.XSLR is trained on 436K hours of speech audio from 128 languages, an order of magnitude more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "originalUrl": "https://www.infoq.com/news/2022/01/facebook-multilingual-speech-rec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-the-right-to-react-to-harmful-speech.md",
       "title": "The right to react to harmful speech",
       "excerpt": "SCC dismisses a defamation action using anti-SLAPP law, and highlighting the public interest in protecting counter-speech.",
@@ -1375,58 +1409,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-speech-recognition-software-market-till-2030.md",
-      "title": "Speech Recognition Software Market Till 2030",
-      "excerpt": "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

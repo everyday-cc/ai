@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2023/06/22/the-top-five-real-risks-of-ai-to-your-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s<a class=\"excerpt-read-more\" href=\" More"
-    publishedDateTime: 2023-06-19T13:11:00Z
-    webUrl: "https://whdh.com/news/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 17
 
 secured: "fEdKWmE9dD9d9VcGkzcY4NPZCrVLz1qXpOO+VY1kdCQaIh/oBUwQLSDInpok/3cxJdpcW8po5GLiRSjQjf8rwcSqSjXAvy2BRxmpKX9F03He3GAxQaNczLg4GqmuqTyxAp8soa9PiJ9211rvHhJB27I/0TTxutTrJSkqtWC5x81oh3h9l44sz/xz1AEVF/dwvdknkUL+CtE+1PTE/ib5vi1QPrQJ0X0VY4I2iLcRU/YTNcsDqyIGNQBwQmeYqiMYhtK76FL997JHNnpoc04ckH2T47RFm0QuAIc/ibwhYgkEMXq7hwVBJ5IlXPukW9nYm/crnmIfsjUF9Hf2auAsAMzkxXSDHsD104upC7YFRuA=;NQpjHmXj2X6v0ZeUqib4kg=="
 ---

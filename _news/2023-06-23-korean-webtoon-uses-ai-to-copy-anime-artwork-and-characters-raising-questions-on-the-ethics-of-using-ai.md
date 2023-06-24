@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-us
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Western offers new course on the intersection of artificial intelligence and writing"
-    excerpt: "KALAMAZOO, Mich.—As the world of technology continues to evolve at an unprecedented pace, Western Michigan University is at the forefront of innovation bringing together artificial intelligence (AI) and the art of writing. “One of the key aspects of ..."
-    publishedDateTime: 2023-06-19T14:42:00Z
-    webUrl: "https://wmich.edu/news/2023/06/71959"
-    type: article
-    provider:
-      name: Western Michigan University
-      domain: wmich.edu
-    quality: 30
-    images:
-      - url: "https://wmich.edu/sites/default/files/styles/1200x628/public/images/news/2023/06/MSB09517.jpg?itok=9Zym4SlD"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Beijing using facial recognition to track down North Korean refugees"
     excerpt: "Monitoring systems and artificial intelligence have increased the risks and costs for those trying to flee the Kim regime. If a face does not match a profile, the police can intervene. COVID-19 and in"
     publishedDateTime: 2023-06-23T13:03:00Z

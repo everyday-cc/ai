@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
+    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
+    publishedDateTime: 2023-06-24T07:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 33
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
     excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
     publishedDateTime: 2023-06-24T05:19:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "After meeting Modi, Google CEO Sundar Pichai announces to open global fintech operation centre in Gujarat"
+    excerpt: "Washington/IBNS: After meeting Prime Minister Narendra Modi here, Google and Alphabet CEO Sundar Pichai has announced the opening of a global fintech operation centre in India's Gujarat, the homestate of the country's political giant."
+    publishedDateTime: 2023-06-24T06:26:00Z
+    webUrl: "https://www.indiablooms.com/news-details/N/90283/after-meeting-modi-google-ceo-sundar-pichai-announces-to-open-global-fintech-operation-centre-in-gujarat.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 22
+    images:
+      - url: "https://www.indiablooms.com/news_pic/2023/6d1377dc508ddb1ffa3b8d6e208bf022.jpg"
+        width: 800
+        height: 539
         isCached: true
   - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
     excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."

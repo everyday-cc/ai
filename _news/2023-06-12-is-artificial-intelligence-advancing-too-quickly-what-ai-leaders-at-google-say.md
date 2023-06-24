@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg"

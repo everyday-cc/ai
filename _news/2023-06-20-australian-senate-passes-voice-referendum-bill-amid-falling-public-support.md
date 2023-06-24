@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
-    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
-    publishedDateTime: 2023-06-20T10:41:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+  - title: "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution"
+    excerpt: "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?"
+    publishedDateTime: 2023-06-24T06:00:00Z
+    webUrl: "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 33
+      name: The Hindu
+      domain: thehindu.com
+    quality: 51
     images:
-      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
-        width: 650
-        height: 366
+      - url: "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Paper shows ideas from Indigenous Australians, not policies in Aboriginal 'voice' referendum"
     excerpt: "A screenshot appearing to show a list of policies has been shared hundreds of times in Australian social media posts that falsely claim it shows measures that will come into force if the country votes to grant Indigenous people a voice in parliament."

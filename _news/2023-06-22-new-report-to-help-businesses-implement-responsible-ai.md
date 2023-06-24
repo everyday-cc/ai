@@ -71,15 +71,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI drive-thrus may be good for business. But not for the rest of us"
-    excerpt: "Over the past few years, restaurants from White Castle to Wendy’s have been investing in artificial intelligence tech for drive-thrus. They say it’s<a class=\"excerpt-read-more\" href=\" More"
-    publishedDateTime: 2023-06-19T13:11:00Z
-    webUrl: "https://whdh.com/news/ai-drive-thrus-may-be-good-for-business-but-not-for-the-rest-of-us/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 17
 
 secured: "44cAqHwR/P5rvpjdSMrZTtXTgeghDupJ037w496OmBETkm9nsXM3iPf5buWGSnMzhlvHyuxnexNqTO7P9A25iI8Emn+m79GdSOQBLvwaOPByxQO42BeM9bBIxF3Goguim7H0V5b2ICOnsyf8/1doB9k2b4GaEu08kluZJS7mMU2vI0OOcOgYGwVD4pr5DKWWO5LA8JlIJ+7hkD9VbNzu2HInPZS/C0wWdaZs60hRnZ3EEQ17q/ZvrnvTuJ1gM8+B9sdsnwxByuHBsKNoCoUJXnUhHlNPmH3SkC4dh3JWok/kaQMpBMMnuszox5aUA8AU/jEKxzRa1E8Rc5J/CIMqYrBNWV5oGqNWIptG90U6Is8=;j03uqdLiCQiswp3o+EKBkA=="
 ---

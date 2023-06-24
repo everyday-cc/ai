@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen"
-excerpt: "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,"
-publishedDateTime: 2023-06-16T08:26:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen"
+title: "Baidu wins commercial licence for driverless taxis in Shenzhen"
+excerpt: "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off."
+publishedDateTime: 2023-06-16T10:58:00Z
+originalUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
+webUrl: "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "LaM7cPl9UDbW/94SrkAaqqiunJBprzVxykDnshdEGDsycX8+MzXHZ3370EZEpLTjr31jBFqGVZxnrz3kP9X5xwNw9Ph+EZXYajk2ey+Faweon7hz+Da8LBbcGnXD4H82GntHevSaCD3Mmxn2TdbdpUxrGiJEPcWWhyo0Vl+8yvqtqoagiB2Zgkwe/1Nhs5AhrDIMOEFjeSK6ukRkHN+RjK4rKqPkFw+1KNP4nYiwe2siO6tXX3cL7XLhRlezeUDkCcMo+gQ6rIdk/JrXMPMPjyzrVNSz6vfvAzl5at1/pTUJ2+f9IEAvDHPSfygdvwTI92amP4gNUmj3oTLE6NkufTWsQrC49apjlxSxVWqqzmI87d+i56h3paTssLqOM0H93QDVgZ/i7TjWf646qp10cUQTD2wYIht3RAdS7h1SCBzXyg4O2WWFqqMksoSTOAn+vJxwPKlodqi0HbwNqGcuF1cZINUG8vUq2zZ8Y9rzpTGfPH5s9eyCzHenVpoZ96Fk045uoJAcacAVoPr+ZdRQbw==;JeAXL10Hu/evlkMXqwGwuw=="
+images:
+  - url: "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "FrYdrvVYYHmfOnONJtTu/zvWHyhNVXzEqj4WABe48DoW14qIb7E7rxr1sRfwJAYdfqY0F0vekh7ck2ejR3qDvN+fbnGiaRDIL3O3ZHn/UNm33ojuWJlx5/HX2lF4YipuSJnq+c1xPcEufj9Ay6Z9IjkOSsyk7PPPa561fProMKay8RybHRvQpQOstbhuKs+sLdiGhKUHFHNDEQy8LbjPd8mJuqVrsrtAgq0T+64VHtWHyZCcvL2K56PeXJW5DYafjQmKF47DxBVGDoHvMJ+SNs2nQduamyrz1aF49BH1yvubgzQXZEzf8tHgPKFu1nCrfGfIDSh20SScevFX7gxbaeJVhhdMLnpEyA1MIZqqFdA=;B2kMX7m2M9Fxo+EU5jsfdw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS Announces Generative AI Innovation Center"
-excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
-publishedDateTime: 2023-06-23T10:20:00Z
-originalUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
-webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
+publishedDateTime: 2023-06-23T00:00:00Z
+originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Hart Energy
-  domain: hartenergy.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
-    width: 650
-    height: 434
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+    width: 800
+    height: 480
     isCached: true
 
 related:
@@ -259,6 +259,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "dN82YI/qpHXWMttkz8gUIzQcz92hGpFOonM5anxMwOTtUH6XNS4+CbAAaq5jHzmxkJminqpEGbJjG/8rC36P4WX4Jx7R0k6LOSppOcKtbhqvc15u3fn/NZ1H8bGjGEd/mWMuC+1vYTg4Vs3fDHly31ogAWzgUpo05DuyEo4B1L8WEgJcdbxibmn2oElbNbOhAJ0wObQmX7duJbDtNrBLzOpNM98Jd8qoYiQMDPyZsXgsJku/HE5fNz2caQRPR8kz8Pk/N94p4K8uwP1KwGBrLM/KjK2RI19iUODCrWOdWcbhfh6P97gPi+FC31f4glKh7HySY15KAgxk/aUdmRSy1pllxEc6X/0wb3Au/xp+qV4=;sO0bSeTR0y+/IQ2AsIQXHQ=="
+secured: "a8FoCP+x9BE8OLfccjPNHvyHRaILHDWLeaCqFtvf8+28D6QmBMIKCu8C46X2vuZcZNvzxxxArwGzqbGwj8ids1bGKvrfnr32/JzPaD5h4H4kAci7xuq82IV0lFodFCh//baTQ9T1ANzgnaitK7CLjLc/B3q8c9tdnebmYsyI9IJ0bY4TY56my4ynOcBW35LoW6aAzE0aGrMIOsv79kN7Z7mCHAafY5MPnFkHb3QDKdVC7oiZuG3WQ4IuJkwv0gVM3ygCzcxo22wheMpqC0nV1ZIpV7pj73d5NXn1POkx8JjWAZIXq9kay6gWXfALSlupaI+U8Tn82McoScHICnP0nflWH/y7DHwJpUhcsa/OVvA=;BSEzPy9bhQAuHq8fbSA4jQ=="
 ---
 

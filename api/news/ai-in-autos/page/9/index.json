@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-14-op-ed-heres-where-investors-should-be-looking-when-betting-on-the-artificial-intelligence-boom.md",
+      "title": "Op-ed: Here’s where investors should be looking when betting on the artificial intelligence boom",
+      "excerpt": "The rise of ChatGPT has sparked another national conversation about artificial intelligence. Depending on your viewpoint, the bot is either the key to making a host of companies and their workers more efficient, or it's a slippery slope toward robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "originalUrl": "https://www.cnbc.com/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107222769-1681156718279-gettyimages-1174456147-dsc_9443.jpeg?v=1681479001",
+          "width": 4310,
+          "height": 3189,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/14/heres-where-investors-should-look-amid-artificial-intelligence-boom.html",
+      "publishedDateTime": "2023-04-14T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazon-jumps-into-the-generative-ai-race-with-new-cloud-service.md",
       "title": "Amazon jumps into the generative AI race with new cloud service",
       "excerpt": "The announcement indicates the largest provider of cloud infrastructure won’t be leaving a trendy growth area to challengers such as Google and Microsoft.",
@@ -1277,40 +1330,6 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023.md",
-      "title": "Dubai’s Jumeirah first to have driverless taxis for public use by end of 2023",
-      "excerpt": "The work being done will ensure Cruise’s advanced generalisable AI (artificial intelligence) and autonomous driving ... meaning commuters will enjoy riding a driverless taxi when they go to La Mer Beach, Mercato Mall, Coca Cola Arena, City Walk, Galleria ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
-      "originalUrl": "https://www.zawya.com/en/business/transport-and-logistics/dubais-jumeirah-first-to-have-driverless-taxis-for-public-use-by-end-of-2023-hi3b50z6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

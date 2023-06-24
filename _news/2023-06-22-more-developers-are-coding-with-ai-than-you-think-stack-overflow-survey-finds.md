@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/more-developers-are-coding-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Global survey finds consumers embracing artificial intelligence"
-    excerpt: "A survey of 10,000 consumers in 13 countries has found that generative AI apps are becoming an important part of many people’s personal and working lives."
-    publishedDateTime: 2023-06-19T14:08:00Z
-    webUrl: "https://wtop.com/tech/2023/06/global-survey-finds-consumers-embracing-ai/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 37
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2023/06/Artificial_Intelligence_The_Courts_80865-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "8WQxzQTJ6Yx6wpv1QQ2ct8Q3AB1prqx5JLPYaORals1Cz/yKUVhJD46ls7UdZmeP1M/EvOoIQQUi5omX10vCBK2I2ubBYYluWkSpPXQh9wjd1heU664dE/ERdMbCgMZ1VxmsFwOFYaaso7f+fpMqGlKi8tDvYQ96VdyZ6kczXwy2dr6Dxzq7TcPt3h5+GNNAmmH5SsG/Sqv9zeB2fsit1/Wvsy6wx9OxbOtbQ5r3nLqKQJHks0uTqT18hsyjUk7Bn0C8pmgxVhsESbTmEUDeRqpH7KZFRvPB2CJPQmoxiuRwmrXMgr/7+48exnZt+dzUe4Q1Zj39U8Rfl5KCQl7XHvVJcFuQNmWoCiU0+3GSHUM=;xqDxlHzDD79n8hpCUSgLtg=="
 ---

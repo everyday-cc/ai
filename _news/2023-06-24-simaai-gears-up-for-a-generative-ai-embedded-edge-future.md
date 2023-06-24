@@ -175,18 +175,18 @@ related:
         height: 600
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
-    publishedDateTime: 2023-06-23T10:20:00Z
-    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
+    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
     type: article
     provider:
-      name: Hart Energy
-      domain: hartenergy.com
+      name: Macau Business
+      domain: macaubusiness.com
     quality: 54
     images:
-      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
-        width: 650
-        height: 434
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
     excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
@@ -259,6 +259,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "WOJnso6G9josBw8Vd0Nbkk2ondAoSh2uUMhFGQwEqG9Zwdapxvec1FzZZ24HcD81UZYyZZyGe3OcfI6eHDw6dsfYStqw0OPtbk6gYV8iCg/yLqHPf6pl2cw3KXdkjbjmMqiv84MGcF//TE08h2sPLfS9yJK6WwWqKY0JSPy68MaBtSjYo5i0vfY7euadkMxjknS/uGZuEDUsTmU3J8GOOh55LN4sc5zo8OkW2A9dZzTTkLTnYHReL9dYZ/8m9HrWdFl0eH4QVSI1IQHR9uaxpa1myJB5mTsZSkh5OeJ3BpI0e+qYfbxaMaMSp8Hmk8BhJL+xcAf0n6QY+SxQborhugjp59tOp9uNzpNUa2RS7Wg=;oMohl6pq8oWglK8OpgLfcA=="
+secured: "tXzzHCvU26WUWQnqM+s/VG8F06jnHOxQ0XW7YDxRcAl0eq3hzrKevx76wQcqmLqV0U7V79zzahQhfHmVA1fAIG9+v/d8ywTbSfUfcqORSjjUOqmaBPlMOJ1Jvcogc7qjcpPiNUtKCvbeyJwEGQULN8XxdqrRksK8a7JmXogbJOj9vv5HRBPVQrr72Y1ZVBr3habPMhwznbk2knu4YXS3OG2Bblq7WyxZGRXY6nE+6sLm/iS+WLZGTRdNahGuPRW7AHprWdkQOJOQ/ozFeGBlb11WtbyjzzgHbr80AHj8XwBexu0Gl60DI+t3xlrgq+hYQdERkBnPhjxIowbsO0hwHDqdmXjSpeZoK+NuMYf3hDMMnOiV1xaAWiNJGjiShySUaMSO8MFAxJAweG1VK/C2was/Ici155X5zBO7aDoOYuDmwVbkc+vB7D8txt92p3BjTeV8LXw3x96HGOboQjXQxdO//651jS7rEPblScb+Ck228OBTjrEkm2kWNtkS+rFq1yFUkYpuuD3lmFyenEksyA==;XrkKIm6yMi/xV7glDrXEtw=="
 ---
 
