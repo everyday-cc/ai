@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube integrates AI-powered dubbing tool"
+    excerpt: "YouTube is currently testing a new tool that will help creators automatically dub their videos into other languages using AI."
+    publishedDateTime: 2023-06-23T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "YouTube's new tool can automatically dub videos into other languages"
     excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
     publishedDateTime: 2023-06-23T10:18:00Z
@@ -96,6 +112,15 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
+    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
+    publishedDateTime: 2023-06-23T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z

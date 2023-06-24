@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
+      "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
+      "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "publishedDateTime": "2023-06-21T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat.md",
+      "title": "The EU AI Act is near. US AI regulation is coming. Here’s what you need to know | The AI Beat",
+      "excerpt": "Six months after ChatGPT became an overnight success, The U.S. and the EU are racing to develop rules and draft laws to address both the benefits and risks of generative AI. These days, the news on AI regulation efforts is piling up so fast that it’s hard to keep track.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
+      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
+      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-the-economic-benefits-of-innovating-with-azure-ai.md",
       "title": "The economic benefits of innovating with Azure AI",
       "excerpt": "While business and technology leaders are ready to invest in AI, they need help making the financial case for tools they need to build great products. That’s why today we’re sharing a new commissioned Total Economic Impact™ (TEI) study conducted by Forrester Consulting, which captures the costs and benefits",
@@ -1079,153 +1225,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
-      "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
-      "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "originalUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-ai-reveals-ancient-symbols-hidden-in-peruvian-desert-famous-for-alien-theories.md",
-      "title": "AI reveals ancient symbols hidden in Peruvian desert famous for alien theories",
-      "excerpt": "Researchers studying Peru's ancient Nazca Lines used artificial intelligence to uncover four more geoglyphs etched into the country's Nazca desert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "originalUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34a3dc0-7781-491d-8b2e-f4174f3e0c28/fd78257f-da74-491a-8c0d-3fa96814144f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "publishedDateTime": "2023-06-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031.md",
-      "title": "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031",
-      "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

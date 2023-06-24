@@ -100,6 +100,17 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Rivalry between Microsoft and Google could supercharge AI progress"
+    excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
+    publishedDateTime: 2023-06-24T11:01:00Z
+    webUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
   - title: "Microsoft outlines broader AI ecosystem for Chinese users"
     excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
     publishedDateTime: 2023-06-20T15:30:00Z

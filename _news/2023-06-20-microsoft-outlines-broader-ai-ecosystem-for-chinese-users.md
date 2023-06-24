@@ -113,6 +113,17 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Rivalry between Microsoft and Google could supercharge AI progress"
+    excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
+    publishedDateTime: 2023-06-24T11:01:00Z
+    webUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
   - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
     excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
     publishedDateTime: 2023-06-21T10:09:00Z

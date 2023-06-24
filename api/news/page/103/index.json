@@ -2,6 +2,154 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-04-20-data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models.md",
+      "title": "Data Explorer processes unlabeled visual data, boosting creation of production-ready AI models",
+      "excerpt": "Akridata has launched Data Explorer for processing visual data, allowing data science teams to improve datasets and AI model training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_akridata-logo_041923.jpg?w=1200&strip=all",
+          "width": 1117,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/data-explorer-processes-unlabeled-visual-data-boosting-creation-of-production-ready-ai-models/amp/",
+      "publishedDateTime": "2023-04-20T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-aws-matterport-partnership-enhances-digital-twins-with-joint-dashboard.md",
+      "title": "AWS, Matterport partnership enhances digital twins with joint dashboard",
+      "excerpt": "New integrations expand on Matterport spatial data service for AWS IoT TwinMaker. Image: Funtap/Adobe Stock Organizations using Matterport for spatial data can now view it on the same dashboard as AWS IoT TwinMaker data with a new integration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
+      "originalUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/04/tr41923-internetofthings.jpeg",
+          "width": 1400,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/matterport-aws-iot-twin-maker-dashboard/amp/",
+      "publishedDateTime": "2023-04-19T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-microsoft-and-epic-partner-to-bring-gpt-4-and-generative-ai-to-healthcare-providers.md",
+      "title": "Microsoft and Epic partner to bring GPT-4 and generative AI to healthcare providers",
+      "excerpt": "Healthcare software giant Epic Systems Corp. said Monday it’s partnering with Microsoft Corp. to embrace generative artificial intelligence through its Azure AI platform. Under the partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-epic-partner-bring-gpt-4-generative-ai-healthcare-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-headset-woman-sitting-neurological-scientific-laboratory-treating-nervous-system-dysfunctions-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-ai-powered-retina-scanning-startup-mediwhale-raises-9m.md",
       "title": "AI-powered retina scanning startup Mediwhale raises $9M",
       "excerpt": "Mediwhale, a startup that detects chronic disease with its AI-powered retina scans, raises $9M Series A funding.",
@@ -1001,127 +1149,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-reportedly-developing-its-own-ai-chip-named-athena.md",
-      "title": "Microsoft reportedly developing its own AI chip named ‘Athena’",
-      "excerpt": "Microsoft Corp. is reportedly forging ahead with efforts to develop its own chips optimized for artificial intelligence in a bid to reduce costs for training generative AI models such as those powering OpenAI LP’s ChatGPT chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "originalUrl": "https://siliconangle.com/2023/04/18/microsoft-reportedly-developing-ai-chip-named-athena/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png",
-          "width": 1152,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-im-a-victim-of-flawed-facial-recognition-technology-this-ca-bill-must-be-stopped-opinion.md",
-      "title": "I’m a victim of flawed facial recognition technology. This CA bill must be stopped | Opinion",
-      "excerpt": "A demonstration of facial recognition technology from the artificial intelligence company SenseTime in Shanghai, on April 17, 2018. In a major ethical leap for the tech world, Chinese start-ups ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
-      "originalUrl": "https://www.sacbee.com/opinion/op-ed/article273692965.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-dangpt-a-blockchain-based-ai-language-model-that-pushes-the-boundaries-of-artificial-intelligence.md",
-      "title": "DanGPT: A Blockchain-based AI-Language Model That Pushes the Boundaries of Artificial Intelligence",
-      "excerpt": "DanGPT, the daring twin of ChatGPT, has arrived to shatter the boundaries of artificial intelligence. With its cutting-edge technology, DanGPT offers an uncensored and unfiltered chatbot experience that pushes the limits of what AI can do.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/04/19/9797605.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.blockchainwire.io/uploads/Etkaan/editor_image/ecc5c1da-28c9-4580-8166-fb70d8dc582c.jpeg",
-          "width": 1500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-25-perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra.md",
+      "title": "Perform intelligent search across emails in your Google workspace using the Gmail connector for Amazon Kendra",
+      "excerpt": "Many organizations use Gmail for their business email needs. Gmail for Business is part of Google Workspace, which provides a set of productivity and collaboration tools like Google Drive, Google Docs, Google Sheets, and more. For any organization, emails contain a wealth of information, which could",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/perform-intelligent-search-across-emails-in-your-google-workspace-using-the-gmail-connector-for-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/25/kendra-gmail-connector.jpg",
+          "width": 958,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:55:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-updated-daily-here-are-the-10-best-amazon-deals-on-vitamix-blink-and-playstation.md",
       "title": "Updated daily: Here are the 10 best Amazon deals on Vitamix, Blink and PlayStation",
       "excerpt": "If you've come looking for amazing deals, Amazon is the place to go. Amazon's extensive collection of daily sales can help you find everything you need for your kitchen, closet, living room and ...",
@@ -1344,58 +1396,6 @@
         "name": "promocionar",
         "domain": "merca20.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazons-aws-business-faces-short-term-headwinds-with-companies-cautious-on-spending.md",
-      "title": "Amazon’s AWS business faces short-term headwinds with companies cautious on spending",
-      "excerpt": "Amazon CEO Andy Jassy outlines progress in transforming fulfillment centers to a regional network, continued ambitions in grocery and hopes for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "originalUrl": "https://www.marketwatch.com/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-762849/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-says-aws-business-facing-short-term-headwinds-as-companies-are-cautious-on-spending-7ecf061c",
-      "publishedDateTime": "2023-04-14T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

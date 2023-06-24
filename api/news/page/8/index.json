@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-18-how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise.md",
+      "title": "How to navigate the AI jungle with pragmatic steps for enterprise",
+      "excerpt": "Why enterprises that perceive AI as a dynamic field ripe for exploration, discovery and adaptation will find their ambitions taking flight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-the-ai-jungle-with-pragmatic-steps-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/annevb_bright_futuristic_lines_navigating_a_path_through_a_jung_bee8d3fd-7914-4c77-b606-8a1993b96b01.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva.md",
+      "title": "Artificial intelligence (AI) Chips Market Briefing 2023 to 2030 | , Intel Corporation, NVIDIA, Adapteva",
+      "excerpt": "Chips marketing report is one of the most important, distinctive, and trustworthy market research studies that is tailored to certain business objectives. The Artificial intelligence (AI) Chips industry research is painstakingly created while upholding commitments and timelines in order to provide the best industry insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-celebrities-use-ai-to-take-control-of-their-own-images.md",
       "title": "Celebrities Use AI to Take Control of Their Own Images",
       "excerpt": "Using AI-generated duplicates, brands also benefit, using stars in ways they never could before.",
@@ -568,17 +671,17 @@
       "title": "Researchers build working robot based on AI’s design",
       "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
       "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
-      "originalUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "webUrl": "https://www.swiowanewssource.com/news/nation/article_7449bff6-e85c-5e17-a49b-d345979bd51c.html",
+      "originalUrl": "https://www.swiowanewssource.com/news/nation/article_7449bff6-e85c-5e17-a49b-d345979bd51c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
+          "url": "https://bloximages.chicago2.vip.townnews.com/swiowanewssource.com/content/tncms/assets/v3/editorial/8/81/88141813-786c-54fe-a954-2a1e52ebdac6/648c98e034d60.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -586,13 +689,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
+        "name": "Southwest Iowa News",
+        "domain": "swiowanewssource.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1156,109 +1259,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-funding-is-drying-up-for-ai-run-vertical-farms.md",
-      "title": "Funding Is Drying Up for AI-Run Vertical Farms",
-      "excerpt": "Industry experts still say that indoor farming is a crucial piece of agriculture’s future, especially as climate change spurs more destructive wildfires and floods. Nonetheless, the ability of vertical farms to carve out meaningful market share on a national scale could be years away, they note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
-      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
-      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
-          "width": 1213,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:08:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

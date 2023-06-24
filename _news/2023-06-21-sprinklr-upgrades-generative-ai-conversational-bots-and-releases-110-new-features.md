@@ -157,6 +157,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
+    excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
+    publishedDateTime: 2023-06-23T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/digital-health-funding-outbound-ai-aledade-dexcare"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oVVtBgURtR3zZjDM3rYcyrA1SHbcKb1BwtCLOoqoGSXi9pu4JcHtVRm7qzhk35jcvqcpW6rJl2S/1QW1aBbo31Cq99oTNFwM2BM4Qp77k24JPWnxJV4M7ny3KukjZeyWgyCoOLqYszX3oOqeS10HhgPYWyyJbuXTSU6rZhrhgwFN4gIVWaWZf2zEED97J7ZH/1drGDE2SITymxkgiU+B+3rGidvCwcSpGHEK6W7JwTTDQw8Z0uknRbp+6r7LX/jnlwGoX5iouLqBYbcOTiK5104crlG2yWjNPiTrkixxqSStFNeApR5HKSsJTIC0Q5EawQLa6PMS6GhYdEddIHS+vtqtwPMzgFQmb+bdt2J80Yg=;4dD96MsCkYDOpeMP9Zop/w=="
 ---

@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-06-16-funding-is-drying-up-for-ai-run-vertical-farms.md",
+      "title": "Funding Is Drying Up for AI-Run Vertical Farms",
+      "excerpt": "Industry experts still say that indoor farming is a crucial piece of agriculture’s future, especially as climate change spurs more destructive wildfires and floods. Nonetheless, the ability of vertical farms to carve out meaningful market share on a national scale could be years away, they note.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-sambasafety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions.md",
+      "title": "SambaSafety automates custom R workload, improving driver safety with Amazon SageMaker and AWS Step Functions",
+      "excerpt": "At SambaSafety, their mission is to promote safer communities by reducing risk through data insights. Since 1998, SambaSafety has been the leading North American provider of cloud–based mobility risk management software for organizations with commercial and non–commercial drivers. SambaSafety serves",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/samba-safety-automates-custom-r-workload-improving-driver-safety-with-amazon-sagemaker-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/16/sambasafety-sagemaker-step-functions.jpg",
+          "width": 1213,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T08:08:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-this-google-leader-says-ml-infrastructure-is-conduit-to-companys-ai-success.md",
       "title": "This Google leader says ML infrastructure is ‘conduit’ to company’s AI success",
       "excerpt": "Google VP Nadav Eiron says his Core ML infrastructure team has played a key role in the company's GenAI success.",
@@ -761,6 +864,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "Its fleet of driverless robotaxis, under the brand Apollo Go ... on Thursday as the Photoshop maker's efforts to drive up demand with generative artificial intelligence (AI) integrations paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "originalUrl": "https://www.reuters.com/article/china-baidu/baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen-idUSKBN2Y20HR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Y8fowDi7W_V6aMe3GEdLaAcvPqI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APREEQ6WVZJLHG6USRHJUDOA6Y.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
       "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
       "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
@@ -904,49 +1059,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
-      "title": "Baidu Wins Commercial Licence for Driverless Taxis in Shenzhen",
-      "excerpt": "China's tech firm Baidu Inc said on Friday that it has obtained a licence from regulators to offer driverless ride-hailing services in Shenzhen. Its fleet of robotaxis, under the brand Apollo Go, will be allowed to operate across an area of 188 square kilometres in China's southern tech hub Shenzhen,",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-06-16/baidu-wins-licence-to-operate-driverless-taxis-in-shenzhen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1101,101 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-self-driving-or-driverless-cars-market-growth-2030.md",
-      "title": "Self-Driving or Driverless Cars Market Growth | 2030",
-      "excerpt": "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue.md",
-      "title": "Global Automated Machine Learning (AutoML) Market [2023-2030]: Future Growth Insights and Industry Revenue",
-      "excerpt": "No. of Report Pages: [103] | \"Global Automated Machine Learning (AutoML) Market Outlook and Top Companies Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

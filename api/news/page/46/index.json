@@ -2,6 +2,126 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-05-23-ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bottom-of-the-pyramid-news-journalcom.md",
+      "title": "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid | | news-journal.com",
+      "excerpt": "To learn more about Line, please visit https://useline.com. About Line Financial Line is a profitable AI-First fintech platform that accurately risk ranks the bottom 80% of the US working ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
+      "originalUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
+      "title": "Intel announces Falcon Shores, its AI chip for 2025",
+      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
+          "width": 1918,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "publishedDateTime": "2023-05-23T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-robotics-coding-are-key-for-kids-at-this-business.md",
+      "title": "Robotics, coding are key for kids at this business",
+      "excerpt": "Zebra offers over 25 courses in robotics, artificial intelligence, coding, electronics and technology to kids in grades 1 through 12. What sets Zebra Robotics apart from other programs in the area?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "originalUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/lifestyles/family/2023/05/18/20867753/Zebra_Competition-DMID1-5yy50wqwd-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/20867751/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20867751/",
+      "publishedDateTime": "2023-05-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-dont-believe-your-lying-eyes-in-the-ai-era.md",
       "title": "Don't Believe Your Lying Eyes in the AI Era",
       "excerpt": "Technology will only get us so far in dealing with AI-generated photos, of which there will be many. We’ll all need to become more dubious.",
@@ -1094,160 +1214,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence.md",
-      "title": "In Inclusive Hiring, Emotional Intelligence Wins Over Artificial Intelligence",
-      "excerpt": "Maybe in the future, there will be a mature AI solution that can handle the complex job of seeking out and assessing the optimal leader for a specific nuanced culture and point in time—but not yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64638bb4c969f754de257b7e/0x0.jpg?format=jpg&crop=5306,2983,x1647,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-modular-app-building-platform-builderai-raises-250-million-series-d-funding.md",
-      "title": "Modular app-building platform Builder.ai raises $250 million Series D funding",
-      "excerpt": "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1324680765.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
-      "publishedDateTime": "2023-05-23T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-nvidia-to-face-shortages-after-a-boom-in-gpu-demand-for-its-ai.md",
-      "title": "Nvidia to face shortages after a boom in GPU demand for its AI",
-      "excerpt": "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png",
-          "width": 768,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

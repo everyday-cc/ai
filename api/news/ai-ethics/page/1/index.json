@@ -45,6 +45,59 @@
       ]
     },
     {
+      "path": "_news/2023-06-24-exactly-what-scares-experts-about-artificial-intelligence.md",
+      "title": "Exactly What Scares Experts About Artificial Intelligence",
+      "excerpt": "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737010%2Fone-hundred-dollar-bill-cash-money-dividend-income-invest-wages-salary-getty.jpg&op=resize&h=340",
+          "width": 453,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-the-ethics-of-ai-navigating-bias-manipulation-and-beyond.md",
       "title": "The Ethics Of AI: Navigating Bias, Manipulation And Beyond",
       "excerpt": "Addressing the ethical challenges AI presents now is the best way to ensure that the technology reaches its potential to benefit society.",
@@ -1426,59 +1479,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-generative-ai-cybersecurity-friend-and-foe.md",
-      "title": "Generative AI: Cybersecurity Friend And Foe",
-      "excerpt": "Generative AI can automate cybersecurity to stay ahead of hackers. Yet bad actors are using it to automate and advance attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/",
-      "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647f70fd358907018a595934/0x0.jpg?format=jpg&crop=2739,1540,x0,y27,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2023/06/06/generative-ai-cybersecurity-friend-and-foe/amp/",
-      "publishedDateTime": "2023-06-06T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -149,6 +149,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
+    excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
+    publishedDateTime: 2023-06-23T10:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/digital-health-funding-outbound-ai-aledade-dexcare"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
     excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
     publishedDateTime: 2023-06-21T13:38:00Z

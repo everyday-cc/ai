@@ -97,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-youtubes-new-tool-can-automatically-dub-videos-into-other-languages.md",
-      "title": "YouTube's new tool can automatically dub videos into other languages",
-      "excerpt": "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "originalUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "publishedDateTime": "2023-06-23T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-ready-or-not-disruptive-ai-is-here-to-stay.md",
       "title": "Ready Or Not, Disruptive AI Is Here To Stay",
       "excerpt": "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ...",
@@ -1462,6 +1410,58 @@
       "ampWebUrl": "https://techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/automattic-launches-an-ai-writing-assistant-for-wordpress/amp/",
       "publishedDateTime": "2023-06-07T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-googles-generative-ai-support-in-vertex-ai-is-now-generally-available.md",
+      "title": "Google’s generative AI support in Vertex AI is now generally available",
+      "excerpt": "Google's generative AI support in Vertex AI, the company's machine learning platform, is now generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135936636.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/googles-generative-ai-support-in-vertex-ai-is-now-generally-available/amp/",
+      "publishedDateTime": "2023-06-07T13:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

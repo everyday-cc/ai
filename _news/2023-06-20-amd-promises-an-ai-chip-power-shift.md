@@ -50,6 +50,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
+  - title: "3 High-Potential AI Stocks to Buy Before Amazon-AMD Deal"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors seeking to capitalize on the rapidly expanding market should pay"
+    publishedDateTime: 2023-06-22T10:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-high-potential-ai-stocks-to-buy-before-amazon-amd-deal-1032404081"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
     excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
     publishedDateTime: 2023-06-20T12:21:00Z

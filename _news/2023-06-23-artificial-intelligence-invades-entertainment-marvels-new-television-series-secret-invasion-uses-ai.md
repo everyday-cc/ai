@@ -92,15 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
-    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
-    publishedDateTime: 2023-06-23T18:38:00Z
-    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
   - title: "Secret Invasion: “Gross” AI opening credits divide MCU fans"
     excerpt: "The opening credits sequence of Secret Invasion was made by AI, and people can't work out whether it's \"cool\" or \"gross.\""
     publishedDateTime: 2023-06-21T09:28:00Z

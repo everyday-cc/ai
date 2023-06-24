@@ -1,23 +1,34 @@
 ---
 category: news
 title: "Exactly What Scares Experts About Artificial Intelligence"
-excerpt: "Yet exactly one year after a humble Google engineer stumbled onto what he believed to be a sentient form of artificial intelligence and was famously heckled and fired for it (more on that later), the clamor for a global framework to govern advances in AI has reached a fever pitch."
+excerpt: "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging"
 publishedDateTime: 2023-06-23T17:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
-webUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
+originalUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
+webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
+  - Machine Learning
 
-secured: "Mq2VN7Y3EblnURVGflv2RFVKCsZILL54PMeaAdR43WI3TlEQgqqbAPbft2SBZxSxkhiQQs2+702eSrX99ClGAZvnWUGa2g+23k1vuSrVammqkppzVJ2payLUcT5GgfoDOF8hNMYDQ3FZo/C+3ubIdHTGaQQK5MKLlLlkpwyRzWimspB+MukOYa6p8CO7HOLH1DCbcS2CCCilOWX2NhnTXh+duli+A2R7kq9EkHGpD0Tk+GrJgoNCSc/Zab2/5hdSPxS8NNkQv7iznv6zqqPmNyGQtENeOo951RNqFGqfk7Ef8I+UaML5B8YJbXUtbsat7Z0dq6nR63y1yEEt1OLhLHyWIWiBptZ8Qwpkf2rr5r4=;jMkpaW6+yhE9myOZryS5Gw=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737010%2Fone-hundred-dollar-bill-cash-money-dividend-income-invest-wages-salary-getty.jpg&op=resize&h=340"
+    width: 453
+    height: 340
+    isCached: true
+
+secured: "Wb5dnkdUKQCc9T1x/Z+6jQXtubw+y/nFSFMw25fjAq0kP79yLydvQ+Ljg4ESexklosuoAQLGtnI+SPILUrm/hrpO/YX26nmEYMe3PvzHn9gbxDbzSWlCYJV2TCq4GDT18g+cYUbOPre2SbBb848CtBrWgkp6DOKJfVO2yU5STc0794cXcXDm4/ctY52uM5TOIFKevGy+n3figs9qP5lRYnVIDOzoP8ygxp+FM3bUZ+5eCPpV8uYHfz1GzI11VDkCnTK45vzOeftOczxidU7aamRaIEsyMrYUOM0I2awl28cIWOhIrJ9vmq/Do4cZZhckqeukcxp8Che+SHSJjw1A0hEIrb1z23Kb8Pyt7XQSjz8=;ZnvGKOoFJasBcBJrBqPUcg=="
 ---
 

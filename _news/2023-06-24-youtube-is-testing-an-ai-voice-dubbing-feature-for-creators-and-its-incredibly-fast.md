@@ -22,111 +22,127 @@ topics:
   - AI
 
 related:
-  - title: "Marvel used AI to create Secret Invasion’s opening credits and it looks awful"
-    excerpt: "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence."
-    publishedDateTime: 2023-06-21T16:57:00Z
-    webUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
+  - title: "YouTube integrates AI-powered dubbing tool"
+    excerpt: "YouTube is currently testing a new tool that will help creators automatically dub their videos into other languages using AI."
+    publishedDateTime: 2023-06-23T18:16:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "YouTube's new tool can automatically dub videos into other languages"
+    excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
+    publishedDateTime: 2023-06-23T10:18:00Z
+    webUrl: "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
+    ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
-    excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
-    publishedDateTime: 2023-06-22T21:59:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
+  - title: "YouTube to boost AI-generated foreign language dubs for videos"
+    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
+    publishedDateTime: 2023-06-23T11:56:00Z
+    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-  - title: "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful"
-    excerpt: "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul."
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://media.wired.com/photos/6494948a9ec11a2433532b58/191:100/w_1280,c_limit/The-Monitor-Marvel-Secret-Invasion-Culture.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
+        width: 1000
+        height: 744
         isCached: true
-  - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
-    excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
-    publishedDateTime: 2023-06-21T13:25:00Z
-    webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
+  - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
+    excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
+    publishedDateTime: 2023-06-24T01:09:00Z
+    webUrl: "https://www.techtimes.com/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
-  - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
-    excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
-    publishedDateTime: 2023-06-21T18:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/"
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429037/youtube.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
+    excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."
+    publishedDateTime: 2023-06-23T19:13:00Z
+    webUrl: "https://www.techradar.com/computing/software/youtube-video-translation-is-getting-an-ai-powered-dubbing-tool-upgrade"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
-  - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
-    excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
-    publishedDateTime: 2023-06-21T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/21/artists-are-mad-about-marvels-secret-invasion-ai-generated-opening-credits/"
+      name: TechRadar
+      domain: techradar.com
+    quality: 49
+  - title: "YouTube to make it easier for creators to dub videos in different languages with AI: Know how"
+    excerpt: "YouTube is set to roll out a new feature that will help creators reach out to a larger audience, irrespective of the place they live or the language they speak."
+    publishedDateTime: 2023-06-24T06:34:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-  - title: "Secret Invasion: “Gross” AI opening credits divide MCU fans"
-    excerpt: "The opening credits sequence of Secret Invasion was made by AI, and people can't work out whether it's \"cool\" or \"gross.\""
-    publishedDateTime: 2023-06-21T09:28:00Z
-    webUrl: "https://www.dexerto.com/tv-movies/secret-invasion-ai-opening-credits-divide-mcu-fans-2184401/"
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 48
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/yt-bloom-6.jpg"
+        width: 1200
+        height: 853
+        isCached: true
+  - title: "YouTube adding AI-powered dubbing for creators"
+    excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
+    publishedDateTime: 2023-06-23T07:40:00Z
+    webUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
+  - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
+    excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."
+    publishedDateTime: 2023-06-23T05:41:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/youtube-is-adding-ai-powered-dubbing-tool/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l9320230623104651.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "YouTube adding AI dub technology to translate videos for creators"
+    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
+    publishedDateTime: 2023-06-23T13:12:00Z
+    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
     type: article
     provider:
       name: Dexerto.com
       domain: dexerto.com
-    quality: 37
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/21/secret-invasion-ai-opening-credits.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
-    excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
-    publishedDateTime: 2023-06-23T15:19:00Z
-    webUrl: "https://www.deseret.com/entertainment/2023/6/23/23769802/artificial-intelligence-disney-marvel-secret-invasion"
-    type: article
-    provider:
-      name: deseret
-      domain: deseret.com
-    quality: 36
-    images:
-      - url: "https://deseret.brightspotcdn.com/dims4/default/8124a10/2147483647/strip/true/crop/708x404+6+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Ft6Tg-qyr5BhZiKFrkU44GlP33fk%3D%2F0x0%3A719x404%2F719x404%2Ffilters%3Afocal%28360x202%3A361x203%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24746453%2Fsecretinvasion_teaser_digital_ka_v8b_lg_79a1fa00_720.jpg"
-        width: 1461
-        height: 834
-        isCached: true
-  - title: "Marvel faces backlash over AI-generated opening credits"
-    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
+    quality: 34
 
 secured: "X5pu2FL4iChlFCyLYQYaXmtkO0U0zu5SxYxmkhJI4dfUEP/3WTTxWUyq7so3RSkQJZrfczFa4Uv78MRFPA+Vm/hzcwl0cgTnXwx5J6Bxs6N/mHMxzdjAb2A5IYdy4RCVXV3Ed8xnMFx8UoAXBWebakeEkMJTm0P3TDpiVCbVJs+20XTlX9H6hBG6dXqKiVQK6H9HVblVYLUFexpD7JX3mVuAIosoYkas9LTiCMNHwThwrHT7crGADDtuSpi6X0JiVKOYR2JADC3ea3NAbLH7BMu7hZuL2HSLmLwZ3unM4RGg9/woYY/Mp6IVTp0Y9AejPK23WsZPrJuiQgMWR4xQ/T+D2D0xAXmX6THDuNvxXZpe5gpBnr19DMejfmnEkmAL443ZSNcL85gyq6yL/i4TgDYlVIETJVdXH6L1b7PnW+uFQz1M9xGafHLnPuvlfpEK6g3xGGnan4If9w5e5W4En4RTdfjjy3b5Qg4nCWn7ZRPasVHjeiN/DenQjvXov0kong7VbFM4wanxLlXYgQu6fA==;dGN1GOpKgEBLpAnnIz6KIA=="
 ---

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
+      "title": "AI Terminologies 101:Understanding Neural Networks",
+      "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "originalUrl": "https://yourstory.com/2023/04/ai-terminologies-101-understanding-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/NucleusAIwall-elikecuterobotsmilingandreadingabooklo64cf6bf2-2dc6-4006-80fc-53762f2dce632-1681470773317.jpg?fm=png&auto=format",
+          "width": 1536,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
       "title": "Fears of artificial intelligence overblown",
       "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
@@ -1220,49 +1263,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030.md",
-      "title": "Artificial Neural Networks Market 2023 | Booming Industry Size in 2023-2030",
-      "excerpt": "Apr 05, 2023 (The Expresswire) -- Artificial Neural Networks Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 121 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-booming-industry-size-in-2023-2030-2023-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

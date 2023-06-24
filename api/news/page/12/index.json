@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-06-15-cambodian-facial-recognition-effort-raises-fears-of-misuse.md",
+      "title": "Cambodian Facial Recognition Effort Raises Fears of Misuse",
+      "excerpt": "The order, signed by Prime Minister Hun Sen and released in March in a recent tranche of government documents, would award the funds to HSC Co. Ltd., a Cambodian company led by tycoon Sok Hong that has previously printed Cambodian passports and installed CCTV cameras in Phnom Penh, Cambodia’s capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "originalUrl": "https://www.voanews.com/a/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/C19AFD84-F6C5-43D8-A79C-876DC943775B_w1080_h608_s.png",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/cambodian-facial-recognition-effort-raises-fears-of-misuse-/7138262.html",
+      "publishedDateTime": "2023-06-15T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-mailchimp-leverages-ai-to-transform-into-an-omnichannel-marketing-powerhouse.md",
       "title": "Mailchimp leverages AI to transform into an omnichannel marketing powerhouse",
       "excerpt": "Mailchimp has announced plans to harness the power of artificial intelligence (AI) to expand its offerings of marketing automation solution.",
@@ -735,6 +778,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
+      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
+      "excerpt": "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg",
+          "width": 311,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
       "title": "Global Neural Network Software Market Report 2023: Rising Demand For Digitalization Is Expected To Propel Growth",
       "excerpt": "Neural network software refers to a technique in artificial intelligence that instructs computers to analyze data in a manner patterned after the human brain. Neural network software allows users ...",
@@ -1107,110 +1193,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
-      "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
-      "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg",
-          "width": 2098,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-exclusive-42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years.md",
-      "title": "Exclusive: 42% of CEOs say AI could destroy humanity in five to ten years",
-      "excerpt": "Many top business leaders are seriously worried that artificial intelligence could pose an existential threat to humanity in the not-too-distant future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230607154817-person-working-laptop-screen-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "publishedDateTime": "2023-06-14T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

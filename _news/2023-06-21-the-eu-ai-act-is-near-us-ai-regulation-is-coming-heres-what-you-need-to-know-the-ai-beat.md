@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-
 webUrl: "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
+    publishedDateTime: 2023-06-24T11:04:00Z
+    webUrl: "https://kesq.com/news/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2023/06/tJgl66TP-first-alert-logo-1-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
   - title: "Amazon Prime Day 2023 is coming—here's everything you need to know and early deals"
     excerpt: "The bad news is that you have to be a member of Amazon Prime to get those top-notch items at rock-bottom prices. The good news is that you can give Prime a test run without it draining your wallet."
     publishedDateTime: 2023-06-21T21:57:00Z
