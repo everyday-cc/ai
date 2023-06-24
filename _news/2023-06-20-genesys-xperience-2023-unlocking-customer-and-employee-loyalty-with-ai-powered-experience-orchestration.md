@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI Brings Deceased Musicians Back To Life With AI-Based Duets And Full Songs"
+    excerpt: "Working alongside Antebi at Session 42 is Amit Shine, a long-time music executive, and producers Tal Forer, Yinon Yahel and Stav Beger. And they're doing more than just working. They're using AI for various applications, including a project that brings deceased musicians back into the music world."
+    publishedDateTime: 2023-06-24T17:02:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32997044/ai-brings-deceased-musicians-back-to-life-with-ai-based-duets-and-full-songs"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32997044"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997044"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,Ai,Neural,Network,Digital,Brain,Machine,Deep,Learning.jpeg?width=1200&height=800&fit=crop"
+        width: 845
+        height: 563
+        isCached: true
   - title: "Opera One Browser Launches With Native AI, Modular Design, Tab Islands, and More"
     excerpt: "Opera One, the new version of Opera browser, got its official public release today, boasting native artificial intelligence integration as"
     publishedDateTime: 2023-06-20T09:29:00Z

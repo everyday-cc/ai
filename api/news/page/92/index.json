@@ -2,6 +2,57 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-04-27-meta-stock-jumps-11-on-earnings-beat-as-mark-zuckerberg-touts-ai-and-vows-to-keep-costs-down.md",
+      "title": "Meta stock jumps 11% on earnings beat as Mark Zuckerberg touts AI and vows to keep costs down",
+      "excerpt": "Shares of Facebook, Instagram and WhatsApp's owner surged after its first-quarter revenue and earnings beat Wall Street's expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/644a329e9052390019701bd8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/meta-stock-price-mark-zuckerberg-ai-year-of-efficiency-investing-2023-4?amp",
+      "publishedDateTime": "2023-04-27T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-pwc-is-making-a-1-billion-bet-on-business-ai.md",
       "title": "PwC is making a $1 billion bet on business AI",
       "excerpt": "PricewaterhouseCoopers (PwC) has announced plans to invest $1 billion over the course of the next three years into artificial intelligence in an effort to help clients keep up to date with generative AI trends.",
@@ -1158,49 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-microsoft-365-apps-and-services-switching-to-cloudmicrosoft-domain-name.md",
-      "title": "Microsoft 365 Apps and Services Switching to 'Cloud.Microsoft' Domain Name",
-      "excerpt": "Microsoft on Wednesday announced that user-facing Microsoft 365 apps and services are getting consolidated into a new domain-name pattern, namely \"cloud.microsoft.\" Users and organizations will ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2023/04/26/microsoft-365-apps-and-services-switching-to-cloud.microsoft-domain-name.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0814red_RedReportChgORdie.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

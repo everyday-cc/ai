@@ -422,13 +422,13 @@ related:
       domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
-    publishedDateTime: 2023-06-21T10:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-21T08:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: newsroom.businesswire.com
+      domain: businesswire.com
     quality: 19
   - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
@@ -440,6 +440,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "2qsvrwnNbQ3cQLeh17A0+wuM0Dsf+Cvbaoks9wvfwS7Rm0gS913/i1KPCUtzy06PksHY74Fchf83/V3QVP2ZpSkclo+SAOZdKbXFwucqRbnuYoqRaEF2lBRZzUGuUZyq5fMkK7Oc50KSebnYJT1TYRId6FVICVoAC2XgZICMRh1WuP0DmKSsor4j2EWjYwMoFxLl961sM/e8BfMTX5DN/BNBI4a9fEAEBgl6pbN0KOVGPSw65ov92nP0xRmxVDWaa+Ipg+sNjPYPuFx7cS/R/LooVuhg2B8rzuQpOi3TMv80Z9FGoivvRYQH6gujEShxT7+H2jgZKLc11EALS0vvCSJ2D3S7BontUY7BYeZab8Y=;O6i4OafrHb2XtTUYTazZJw=="
+secured: "FM1XRlzQdoch6LwmoG2pIBNauey7U6GQcXNbsZ1wQtKYwiXQqeYhNnTPSjOOy5//OloNflsHpg4X8/Jt79VWLYT4H3TbLaVW+kOSJrCLZTZAKIT1IVtpMsF9mKMVciEH9fHjSSnjaCakuCh3iqlEHRH9JdCWaPJT9D6z3pdj6PvCOo5hKFDyWKoNji4KVHg1svwOgiGN6ss52lxahor+vdCtod31eS3ogxa9ewrYUUtJETv/lXyO07RbN1mbtyIMiqzXPve7kWd3B88gbPXs8DQO4XnIi2dWDYRndWTP8AZ5+9FDmi8eabpoxib9tX66fhScMbJuFBJWTaG7kskIiCN+G9NXnBvS1iij4tPeooI=;OBHvqLERNoArxGLA/V0C/A=="
 ---
 

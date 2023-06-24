@@ -48,6 +48,20 @@ related:
         width: 1199
         height: 738
         isCached: true
+  - title: "The moat paradox: Rediscovering competitive advantage for AI success"
+    excerpt: "With the right vision, agility and execution, businesses can build rich AI offerings and compete head-to-head with market leaders."
+    publishedDateTime: 2023-06-24T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/the-moat-paradox-rediscovering-competitive-advantage-for-ai-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_moat_around_a_unicorn_growing_up_from_swirling_lights__a65a8241-7964-4374-b5cd-f7cd52fe76b7.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
     excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
     publishedDateTime: 2023-06-23T13:49:00Z

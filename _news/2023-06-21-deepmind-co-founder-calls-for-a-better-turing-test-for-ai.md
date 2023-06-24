@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57124-deepmind-co-founder-calls-f
 webUrl: "https://www.fudzilla.com/news/ai/57124-deepmind-co-founder-calls-for-a-better-turing-test-for-ai"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Claims Image Captioner Alone Is Surprisingly Powerful then Previous Believed, Competing with CLIP"
-    excerpt: "Contrastive Language Image Pretraining (CLIP) is one of the most popular pretraining strategies for high-quality vision backbones, as it demonstrates impressive zero-shot transfer capabilities and its performance rivals that of the best label-supervised approaches."
-    publishedDateTime: 2023-06-20T01:02:00Z
-    webUrl: "https://syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/"
-    ampWebUrl: "https://syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/19/deepmind-claims-image-captioner-alone-is-surprisingly-powerful-then-previous-believed-competing-with-clip/amp/"
+  - title: "The Turing test for measuring A.I. intelligence is outdated because of ChatGPT’s wizardry, and a new test would be better, DeepMind cofounder says"
+    excerpt: "Mustafa Suleyman, cofounder of DeepMind, argues for a new gold standard for measuring A.I. sophistication. Marlene Awaad—Bloomberg/Getty Images Alan Turing, the trailblazing mathematician played by Benedict Cumberbatch in The Imitation Game (2014), is ..."
+    publishedDateTime: 2023-06-20T20:25:00Z
+    webUrl: "https://fortune.com/2023/06/20/turing-test-proposed-update-ai-chatgpt-deepmind-cofounder/"
+    ampWebUrl: "https://fortune.com/2023/06/20/turing-test-proposed-update-ai-chatgpt-deepmind-cofounder/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/20/turing-test-proposed-update-ai-chatgpt-deepmind-cofounder/amp/"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 56
+      name: Fortune
+      domain: fortune.com
+    quality: 51
     images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
+      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-961707246-1-e1687283801632.jpg?w=840"
+        width: 840
+        height: 604
         isCached: true
 
 secured: "a9ICuqw7P1BTDfmlg9nqAruowE0GQbGfXkzrV4n9QB0+eJ/0kmuw01rRw/5YkHhnMNPMM1E6P0um9brdR8LB5+kI+fDcIkK6enCC5Q13GNiRHLLUIg5U2grFDDhAu77/F1bsf4szRAoU19PLNRvZF7dLh35X+i5bM55MqT3zafvaAzxVXbsJAYrr0qaT6mTSyJxAlQZmyJOPxW6hgmXDlIcrZVWA43JT3e0QYkPoH0P1iM71IiGz03Qa9MF4Hdt9EPTWNjAEREn8+M6DNaW675YzJX67ooncNvgYjca/WRgk/UxWItfp2eOO0zMblvFnlI5AApRaTw0a1+8TL/cWjIJWccDSP8M8pfUeDlDcQIMlddhHKNU0o7LRJGSy7rZ49j9PvZIcOAdHG8Uv9sXJFid85N7ddvKpSPjIvx+AkWTZp5SRDOUFrqmTPizomree7hthBFigPpwTk95wpusn/B5eCTO9Y8rVYPYT0RojbPIpeoLZ6YzTiRuq9JD8S6IDxeg/7rqGjvDt96XLXiu51g==;4h1GnistDeCz64goi3qZ1g=="

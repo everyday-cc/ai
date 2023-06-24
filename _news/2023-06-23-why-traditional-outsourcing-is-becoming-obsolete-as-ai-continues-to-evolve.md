@@ -56,6 +56,20 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "The moat paradox: Rediscovering competitive advantage for AI success"
+    excerpt: "With the right vision, agility and execution, businesses can build rich AI offerings and compete head-to-head with market leaders."
+    publishedDateTime: 2023-06-24T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/the-moat-paradox-rediscovering-competitive-advantage-for-ai-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_moat_around_a_unicorn_growing_up_from_swirling_lights__a65a8241-7964-4374-b5cd-f7cd52fe76b7.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
     excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
     publishedDateTime: 2023-06-20T14:01:00Z

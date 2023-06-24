@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stabili
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-1-4.jpg&signature=5945675e22db832c4411b91d509e7252"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Startup Stability Releases New AI Model For Stable Diffusion as Deep-Fake Concerns Rise"
+    excerpt: "Artificial intelligence startup Stability AI is releasing a new model for generating images that it says can produce pictures that look more realistic than past efforts. In a blog"
+    publishedDateTime: 2023-06-22T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion?leadSource=uverify wall"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 59
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png"
+        width: 1200
+        height: 604
         isCached: true
   - title: "Will AI Kill the Radio Star? Stations May Turn to Artificial Intelligence for On-Air Talent"
     excerpt: "The debut of ‘AI Ashley’ — a cloned version of real-life DJ Ashley Elzinga — on a Portland Top 40 station has divided the radio industry."

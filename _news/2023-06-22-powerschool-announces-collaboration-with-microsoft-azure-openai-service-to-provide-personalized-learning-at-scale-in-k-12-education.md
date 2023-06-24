@@ -118,15 +118,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
-    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
-    type: article
-    provider:
-      name: The Journal
-      domain: thejournal.com
-    quality: 40
   - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
     excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
     publishedDateTime: 2023-06-22T10:00:00Z

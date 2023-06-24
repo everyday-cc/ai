@@ -114,15 +114,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "PowerSchool Adding Microsoft Azure OpenAI Service to Performance Matters and LearningNav"
-    excerpt: "Cloud-based software provider PowerSchool today unveiled a new integration with Microsoft Azure OpenAI Service that, starting this fall, will give PowerSchool subscribers access to OpenAI’s large language models within the Performance Matters and LearningNav solutions,"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://thejournal.com/articles/2023/06/20/powerschool-adding-microsoft-azure-openai-service-to-performance-matters-and-learningnav.aspx"
-    type: article
-    provider:
-      name: The Journal
-      domain: thejournal.com
-    quality: 40
   - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
     excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
     publishedDateTime: 2023-06-22T10:00:00Z
@@ -138,6 +129,6 @@ related:
         height: 551
         isCached: true
 
-secured: "NKaMIjLsNVWsEFstJT8szXHqF106/lutl1I6Kiy5pzFYy+L6QblSAgDRv1LM2ANzExHHspd2p++TTDdy2Z93y9HoFE2ixDjvISsTlJYcEFjk2TIEFzqmoJ20uLZ7fKmhHzsMtNBxJcSWvwiVbmYwHxHuIyVsRxoNRUw+f3IqQ9H+sCYyBzxyeh9D39ZN73bWj97wF0tABPOUkx+odemVIIB5VBSEonYgOYR+lJdPPAmC33zSFa0qclJY+1A8MMxHi+/BnRrKWr3+LcsxLPx0fzSu7BKc5zsFirX0whvo4uXxRiPBqGBxrvdl4Ab4ethgweicazPRZ7g3s5aP0jSoX3+RF33nYxoiIuY45CBGjbc=;IiPMi6crnNtCoa+Fzkp1fg=="
+secured: "um0fEXA2hOu+tGZOKAUZ5ZhEnDGwX8166+LXDPdEv0nGyJpJEdzS0pCUkg/Q/6SFdIK2Yfsn7tGea3vZON64rsH5SOrYNEYoI83sP5YR7HNVJqbPcQ0lSlmj1A7N3xdfO8dwkEFvcs7dv2K0ipl5AYx+u/E2rZx8GRqZXJ9AoNoPkPdKEjGEYR7RXkSWXdhy6CpuXYxL/OtFDKh42CiPlmNJhWz5rwnc+3MkTgzE5d2uDriok9ypvDNM5TLNWK67kTC5R0QlSNsYjX+RL5wZE71Ca3lQC0K36lO8a8CmRKS79hkjqciFue76xq5fL0FBX77OLQ69Ouobz2ghmaVzccJs3jWJy+ZgxlkAIl8ykPrsnOxu5AKCqumULHskJtZd2oSZfEVdcGehlYVkUvWGOmGRefVC+3FlDAS8tLFotKGJKGCKkd6Q7OEy/q0IpKNUw2ZDKDhnpoRLpffAAUXHS9DvXQl12/ZIA1N4cil9iqpGS3S8/SoWAFGtGJ1jERLUAAgjo2ThkalcJrCAJUgNmw==;GnTkr+b9KUY/Z0xr0COjSw=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
+    publishedDateTime: 2023-06-24T17:04:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk-300.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon Prime Day 2023 is coming—here's everything you need to know and early deals"
     excerpt: "The bad news is that you have to be a member of Amazon Prime to get those top-notch items at rock-bottom prices. The good news is that you can give Prime a test run without it draining your wallet."
     publishedDateTime: 2023-06-21T21:57:00Z

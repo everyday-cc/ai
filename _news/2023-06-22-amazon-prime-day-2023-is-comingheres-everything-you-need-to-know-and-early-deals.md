@@ -53,6 +53,20 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
+    publishedDateTime: 2023-06-24T17:04:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk-300.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "v//zC5F0l4rv6cFCzb8fCRlqW+VDWBIvtGokqtIq6qz26dcG34fqztgzGS/1i8IuniTZuPFV7/I7D8Xb1cWQKPb/RvIi4uof4UAD1yj6gwb6hpwhCGdDdxtLI3FRidw8/Pcn1Th8+CRMtdpcXSEGjbTRVZEkuR3RTXCdq0cF8QpC/QedEFciE38WDPoJVFhebhlBJ1x3Z9qe4iDdYhOh7GF25bVdRAd0ItwTu7UWR/AEorH6baHzXuKCGsM+ait8TzTMuy4SjPov+nJZFjY7zqYP9NujZQ8awnfbieSZLlbwEmZ0wGQOaYoDHI5DHIuLNdcas6pk7Y1uZBCOQGN+mC7RRbBpOtLjomRWg44POzI=;yWoaI5r0C2HHdm580x9H2A=="
 ---

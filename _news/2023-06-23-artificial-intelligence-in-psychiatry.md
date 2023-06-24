@@ -3,10 +3,10 @@ category: news
 title: "Artificial Intelligence in Psychiatry"
 excerpt: "Generative AI could help clinicians complete more clerical tasks and allow them to see more patients. A 2016 study found physicians spent only 27% of their working time engaged in direct contact with patients. Generative AI could mitigate disruptions in healthcare caused by predicted shortages in healthcare providers."
 publishedDateTime: 2023-06-23T16:03:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
-webUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+webUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 type: article
 quality: 59
 heat: 69
@@ -42,6 +42,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "FTjC7ETxpOeJ//M1r281Y0Xa3tiPGH3akHIxne2Q16h9uA3UKZhCKLSCWC9o1jdA6N1xK0Y0wsckb+52OWoGbtYOqZE/dakr6OzHq2KJYMki4FJtd+1XWkDDGn2Xzqx7aK/rEiMK87oVbwSQNweWhgXYOdSEkMG4KmW3z/UwcBEDePC8+gI3bofow/FMmLP2CRyuPd/PMg76BPDJ8T/Ipv4i5GBUMiNhOQjJNrm4heLHByIU3o8X2MluGLaG60L4fRvfXj+0oFwiz0Acxiidgd3H0l+8eHsd+WYaAIjicVRv4dYLru5pHQVnetM5AXsGOrptg8HXYGAoc/vPBFm3EcH9WU9w15ewkrUyMjEl5+0=;N0yG8+Gp2U/2Jgyt+wrhOw=="
+secured: "OuX9/Dgt1DkLAokn6CqadXrXy0Ni6KTQS+QAZDAZ1CO/t+1xAOkf1cjY9p9/9RmQCsz4KAF7e523i+bEAiKdxKv/6lsPyGKPTVnmMTUK3pDsrJheqYIyssQhn+6faj8HaIDj1vmVz504rz0DtMxjBEM4jtejgBG0CbGxqDA0+z61IP1FvLpjVBxC4HHfngtJF3NkfFL4I3/VyjKe6vaVbvIh3BPvQxDTf4iWGb1sruZRCqo3NxPS54dws85P0ObUGNINbLsP88Y2ykBAvhH28a3RLVnXgurQDxmZgrlYwqWIFSIutDaf7IStENpJw3l5HlK2Zf1vm7wrXYgavi6VcZ4tVXmAPs+NR1DJdtNcjvE=;1ZYt+T4PS0MbAsY/f6xJuQ=="
 ---
 

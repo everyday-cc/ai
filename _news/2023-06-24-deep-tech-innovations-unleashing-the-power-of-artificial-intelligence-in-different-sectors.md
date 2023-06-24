@@ -114,20 +114,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-06-20T00:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
     excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
     publishedDateTime: 2023-06-21T21:15:00Z
@@ -175,6 +161,6 @@ related:
       domain: cambridge.org
     quality: 19
 
-secured: "U67vaREDfUhLekv5s+AcWHmoVwbMH75FvIiUG0x7+0jtNpr3R6lsmerqQPiFA8ASkQAWs6IYhIvrokj+/Xa10u6u1x2PtkAE+Zx6rao1AwPh9SHOQdWSiZiq/78wTpBsnaxTYQMsXfn8vPJVPErjxHQlJjddiOf+dD0xgmE3X71T3Fo9cj2w3ulPmtX8bL/ODdpDhqyofvnO/lUzBrHiXg5olp9KA6WRiGIxYFnuZ5QVPKRlcchnKHz/CF0cva9gkmjeEqtLa2pVLSYz1Q4gN5rotu96hrEivkzkJHP7k4zucNDLkllmx9zcgCNJnSNC4pghx1j1gwtjL76aEmqRZ2hmhYuMK2ioFLrivt5K5Y0=;e7RBfKoupH/H5Zo/FNO9NA=="
+secured: "BYDpmfY/hzYihEcj28H3pQdoKRl3jmvWvZRDOjOpq/qdyNCgTjXniqtou/ooggVlWTAf4ffPM7C2th4zgkW2hOkYfiHK06g1sx7acdBV/zD2Wd8q1RWixBjz0OufH1jkS7JagacGelEUy8bM2yGmlsxeHxXbeLKG46quuR3dn4eDg/Xw42wmsmariUsiD07JNuWOdY28cN8BiAfVwb+6A44ekmz/Nypqhezb1V7BfiDYQ310mZ//M1GQjH+NOgGwNGpML89p0nEatjQrcZP8cbH6itZFPK+RAfx2+cmWULTu4Vjal6JmBIASafgtFn1yc0kt9kEFO913pcgyCaVkYxgOcMm8A/B2F2g0lYXfjDp6MhqbeUxgPoH4GgZkoTcUIm/YC1YlJAiZQcau2elVAmgVz8T9bHr101VmSqq1x4p+NfudjSG9i893R/HdiD5yt3VwLrLZlzqBJ2SEGUQJu2BqbPt2ZgWBp66Q2t0QhzhiS+8R8MPwbICttDPwuOylnLN7CRtHIasnGAj83cJTng==;Oxo7YSd2OyU1nW6Dmnu9oQ=="
 ---
 

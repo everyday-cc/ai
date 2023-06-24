@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "RoboCat: A self-improving robotic agent"
-    excerpt: "Robots are quickly becoming part of our everyday lives, but they’re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6491af728b5eab49d811d5eb_64903510768de9f4a300c2a4_1piq7E0FfPBymopC7adH_nwiyPNOweVIJFp0mguaIjEQKVRrphhKqA_xmtPqiB2FlXLmiEtuhqHdzZ7UOiSjOlFSYpQ6Lhpg6rlp_QCrgsh8xphmDKX2Alw9MRhTWbdMgIvSv3hmySFxJJyh7Y-a7DXgiFxCnohOw9oeyUZQzNN8pjrfLwUiEMDSGTejFoFgSoL9POWilwtKnhpZg1H2UOcb54OcnC0tKAoFMg.png"
-        width: 1600
-        height: 1042
-        isCached: true
   - title: "Google DeepMind unveils self-improving AI model RoboCat"
     excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
     publishedDateTime: 2023-06-23T17:14:00Z
@@ -81,6 +67,6 @@ related:
         height: 569
         isCached: true
 
-secured: "95crilhSSeLOhVui+x6JNEbU0tW+RZT49fx1kONKPjrvi8oZcHaj4Y9bXqgaFbxqMT/8Nnu/8jhD2ftvSGylatCFFEUrxVbikUP+ESXSCsPo3fCPbX8m+6Dk/uiw9dlUk+F+QnygSsPdeBvM3mNaeb6F0m7IsdLsQkvFOoaVGy+LfCMfhGusY4WuwOZT2UKMUe/7R+iJCcA9GHqbM4V2YxB8Nq24Gnp+TsYBfp8yu3DJr70IPMqx+16bDyodzrc2Vvg0cB4GuX+tJbZtipJgItCFR/N6nFLRBO7lOTzsq0oAGVxCIOJ6UAzfYVjwj+QxyuYlmD50ID0atMeVjuq5f9RWXaN7o5sYg8l7li64sAk=;XXyoB81W/4NJSzSwqfsElA=="
+secured: "Bbi9zLy4Q9iC1Snn4oDndBCxuvezzaEKNXlYerNY1C1TPIiyHla/2ubKb1LnwrxSQJFlb+JG/RM8OUxIPeOjZOJFvYCr0ouHSuV/c4nlUqms1AsXQXyn+iuy1fROICwpZahwByy9ts+eMMszVuooTHUTwZEZ1FiIY4Yf1HbSJjMZ780M9jOI4jo27B2hewtGdutjX03SHQG/l9+aadYKFwanoESJBSZZtGuPvq9Z506onJ3q6OhqSJdoFNwmce5ZISlJn8O69z9sW/r96WSM4OStvXnOtqUsAb7A6O5Ew4NBxFmD1duZTvlh3jZr7mKzhBNxnZBaaWpwkXDku/aUJIexZ1aange4rgOkMCv4U5AkzILLdFYBmEtQGewEzpkuNBnnNvvreuzcvk7BpUO8rWKTsAvABJBSf0+08ZjbFC0yKJbYwRgt5yzP3BDkqa0y59wp+sxp/1cND36+9+CWz/jAakBQCypWtYGAF9ylbJSAjDxsGixpfwq+HHZWJhvarH6Q7quBusnz5k7HyNLmjQ==;cNnaA5dy3AdNsyMIXh4ciA=="
 ---
 

@@ -176,6 +176,20 @@ related:
         width: 1984
         height: 1568
         isCached: true
+  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
+    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
+    publishedDateTime: 2023-06-24T15:49:00Z
+    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
     excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
     publishedDateTime: 2023-06-20T02:38:00Z

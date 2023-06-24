@@ -37,20 +37,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 81
-  - title: "RoboCat: A self-improving robotic agent"
-    excerpt: "Robots are quickly becoming part of our everyday lives, but they’re often only programmed to perform specific tasks well. While harnessing recent advances in AI could lead to robots that could help in many more ways, progress in building general-purpose robots is slower in part because of the time needed"
-    publishedDateTime: 2023-06-20T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6491af728b5eab49d811d5eb_64903510768de9f4a300c2a4_1piq7E0FfPBymopC7adH_nwiyPNOweVIJFp0mguaIjEQKVRrphhKqA_xmtPqiB2FlXLmiEtuhqHdzZ7UOiSjOlFSYpQ6Lhpg6rlp_QCrgsh8xphmDKX2Alw9MRhTWbdMgIvSv3hmySFxJJyh7Y-a7DXgiFxCnohOw9oeyUZQzNN8pjrfLwUiEMDSGTejFoFgSoL9POWilwtKnhpZg1H2UOcb54OcnC0tKAoFMg.png"
-        width: 1600
-        height: 1042
-        isCached: true
   - title: "Google DeepMind unveils self-improving AI model RoboCat"
     excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
     publishedDateTime: 2023-06-23T17:14:00Z
