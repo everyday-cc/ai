@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's Voicebox AI is a Dall-E for text-to-speech"
-    excerpt: "“Our results show that speech recognition models trained on Voicebox-generated synthetic speech perform almost as well as models trained on real speech.” What’s more the computer generated ..."
-    publishedDateTime: 2023-06-19T07:52:00Z
-    webUrl: "https://www.engadget.com/metas-voicebox-ai-is-a-dall-e-for-text-to-speech-150021287.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/Pdgn1binumIAO7SepNVZCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/53dca6c0-0ad7-11ee-bdff-97d6ad440b00.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook's Creepy New AI Can Replicate Your Friends' Voices"
     excerpt: "Meta-formerly-Facebook says its new text-to-speech AI can edit existing audio, speak in six languages, and replicate loved ones' voices."
     publishedDateTime: 2023-06-21T17:48:00Z

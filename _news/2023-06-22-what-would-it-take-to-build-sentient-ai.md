@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/finding-purpose/202306/what-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/finding-purpose/202306/what-would-it-take-to-build-sentient-ai?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why isn’t Apple talking about AI?"
-    excerpt: "Apple has been innovating with AI for a long time, but it focuses on the magic of the user experience, not the tech. There's a lesson here, especially since GenAI isn't always the right tool."
-    publishedDateTime: 2023-06-19T09:01:00Z
-    webUrl: "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/10/apple_logo-100941896-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "How Intelligent is Artificial Intelligence?"
     excerpt: "When typing “Klikauer+AI” into an AI-based website called lexica.art, the picture shown above appeared. Yet, the man in the picture looks nothing like me."
     publishedDateTime: 2023-06-21T05:53:00Z

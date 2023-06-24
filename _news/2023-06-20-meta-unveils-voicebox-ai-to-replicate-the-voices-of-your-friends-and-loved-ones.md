@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's Voicebox AI is a Dall-E for text-to-speech"
-    excerpt: "“Our results show that speech recognition models trained on Voicebox-generated synthetic speech perform almost as well as models trained on real speech.” What’s more the computer generated ..."
-    publishedDateTime: 2023-06-19T07:52:00Z
-    webUrl: "https://www.engadget.com/metas-voicebox-ai-is-a-dall-e-for-text-to-speech-150021287.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/Pdgn1binumIAO7SepNVZCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/53dca6c0-0ad7-11ee-bdff-97d6ad440b00.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta's Voicebox AI Mimics Voices of People, Versatile Speech Generator for Audio Editing"
     excerpt: "The latest development from Meta delivers the Voicebox AI which it claims to help generate audio from text or speeches, as well as act as an audio editing tool for all needs. Meta boasts it to be the most \"versatile\" speech generation tool in the industry,"
     publishedDateTime: 2023-06-20T01:00:00Z

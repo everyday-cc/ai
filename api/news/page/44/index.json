@@ -2,6 +2,322 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-05-24-beyond-text-ai-model-digests-80-hours-of-video-to-learn-sign-language.md",
+      "title": "Beyond text: AI model digests 80 hours of video to learn sign language",
+      "excerpt": "For deaf and hard-of-hearing people, voice recognition technology like Alexa and Siri can be a barrier to effective communication. Researchers have used AI to develop a tool that converts sign language to text,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
+      "originalUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/305943e/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Faf%2F14%2F844d8eb54f478f6ff82d2ffe4a41%2Fdepositphotos-607081878-l.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.md",
+      "title": "The AI-driven rally in big tech stocks is forcing us to consider some trimming",
+      "excerpt": "We're thrilled to see so many of our tech names working and do believe in the benefits of AI, the speed of these moves has us a bit on edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/24/the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/24/the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107176653-1673370154829-NUP_200112_10056.jpg?v=1684922401&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them.md",
+      "title": "5 Key Threats AI Poses To Business Owners In 2023 (and How To Survive Them)",
+      "excerpt": "Business owners are freaking out about artificial intelligence, and you can see why. Here are the 5 key threats AI poses, and how you can stop them ruining your business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646db7b8baf87c7dd8b8461e/0x0.jpg?format=jpg&crop=3183,1792,x0,y178,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/",
+      "publishedDateTime": "2023-05-24T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-launches-azure-ai-studio-for-developers-to-create-their-own-ai-copilots.md",
+      "title": "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'",
+      "excerpt": "(MENAFN- IANS) San Francisco, May 24 (IANS) Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their own ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
+      "originalUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.md",
+      "title": "Understanding the Deployment of Deep Learning algorithms on Embedded Platforms",
+      "excerpt": "These platforms, equipped with deep learning algorithms, have opened a world of possibilities, enabling smart devices, autonomous systems, and intelligent applications. The deployment of deep learning algorithms on embedded platforms is crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
+      "originalUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
+      "title": "IT services firms leverage generative AI capabilities for clients",
+      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "publishedDateTime": "2023-05-23T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-i-would-never-use-ai-americans-detail-how-much-they-use-artificial-intelligence-in-their-daily-lives.md",
+      "title": "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives",
+      "excerpt": "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "publishedDateTime": "2023-05-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
       "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
       "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
@@ -866,314 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud.md",
-      "title": "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud",
-      "excerpt": "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
-      "originalUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-white-house-unveils-new-efforts-to-guide-federal-research-of-ai.md",
-      "title": "White House unveils new efforts to guide federal research of AI",
-      "excerpt": "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
-      "originalUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "publishedDateTime": "2023-05-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages.md",
-      "title": "Meta Unveils Open-Source Speech AI: Recognition of Over 4,000 Spoken Languages",
-      "excerpt": "In the domain of Artificial Intelligence (AI) innovation, a notable development has emerged. Meta, formerly known as Facebook, recently introduced an open-source speech recognition AI. This AI tool is remarkable as it significantly advances global communication by its ability to recognize over 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages/",
-      "originalUrl": "https://www.unite.ai/meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/05/dima-solomin-mr26tQgHGmc-unsplash-942x600.jpg",
-          "width": 942,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-a-swedish-newspaper-is-having-ai-rap-its-articles-in-an-attempt-to-get-young-people-interested-in-the-news.md",
-      "title": "A Swedish newspaper is having AI rap its articles in an attempt to get young people interested in the news",
-      "excerpt": "Other concepts included an AI-driven news therapist and an algorithm that would surprise readers with positive news. Aftonbladet acknowledged the murky ethics of AI-generated content. \"The AI-generated rap is also, as hip-hop tends to be, loaded with some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
-      "originalUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646bd0de63c86a0018cd2f77?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
-      "publishedDateTime": "2023-05-23T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables.md",
-      "title": "The G7 Comes Together On AI Aspirations, Lagging China On Deliverables",
-      "excerpt": "The Hiroshima Leaders’ Communique recognized the need to \"take stock\" on generative AI, which it calls \"increasingly prominent across countries and sectors.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646cf657159689fcc28e4343/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/amp/",
-      "publishedDateTime": "2023-05-23T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-terminology-101-automl-the-game-changer-in-machine-learning.md",
-      "title": "AI Terminology 101: AutoML - The Game Changer in Machine Learning",
-      "excerpt": "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "originalUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-adobe-adds-generative-ai-to-photoshop.md",
-      "title": "Adobe adds generative AI to Photoshop",
-      "excerpt": "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna85548",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548",
-      "publishedDateTime": "2023-05-23T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

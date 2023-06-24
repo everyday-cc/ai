@@ -47,20 +47,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in the Transportation Market 2023 Industry Trends, Growth, Size, Segmentation, Opportunities and Revenue by Forecast to 2031"
-    excerpt: "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17."
-    publishedDateTime: 2023-06-19T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2023-industry-trends-growth-size-segmentation-opportunities-and-revenue-by-forecast-to-2031-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9GwvWPPMKv8GmyTqVIEXtDWtMynvciJW8ch0keoSwyrvbzsr97SMRXVeBqh2zZyF5DJNxVv2lqV5W2MyylNEPgpPV8Sg2ngutvPyD5twc1sRffXXf1s66bw2hZIRiHcjw7G/EEsxbnkrh1DMOTFDXMzSrr0Us/ichdZXvKr7LC4suZ1bj1aLPYtAqeLDAgLLEg5X5WwmDAIXq0VRC2mv2TuHQbTxm0/jwPqTzSb48bOQsKiNFQLyBVfPbLujC7+g4jzwVF7+vYsqEzhJHRnD7cUIpg+pv+zzVdETgg1ylP5GKYZ2OiIjBcMai/iLpeS/sDMfOoP0A+l9WWHmalqdx9DgWoPB40Pb2Jp25kMyPS5oFaqnU13pEmEON6b8OlDXqdiJZI63Odd0bh0U9H2GUzRndKUe655pMocWt+nFLgefRX9HTp1+vuPubq4C4sP86xK+kG3HiHW2Ol6s9z3oE8H7J5+1eSUMJ1+ediAW0rBLmHTfIp2RqUwS2vM3K9zZ1c8X6uzX2B74sGeQqZGs2g==;a6DqjyC1yNGisCAoX0tYMg=="
 ---

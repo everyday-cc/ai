@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/75c73b9/2147483647/strip/true/crop/4110x2158+0+0/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2Faa%2F9b8c5f9345ed83c25cf5282f99c7%2Fsunday-horiz-online-illo-thinker.jpg"

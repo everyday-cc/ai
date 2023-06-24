@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
         width: 1000
         height: 744
+        isCached: true
+  - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
+    excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
+    publishedDateTime: 2023-06-24T01:09:00Z
+    webUrl: "https://www.techtimes.com/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 52
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429037/youtube.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
     excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."

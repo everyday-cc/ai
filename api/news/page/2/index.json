@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan.md",
+      "title": "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan",
+      "excerpt": "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
+      "publishedDateTime": "2023-06-22T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-is-america-ready-for-ai-powered-politics.md",
+      "title": "Is America Ready For AI-Powered Politics?",
+      "excerpt": "“Astroturfing,” the practice of professional public opinion operations masquerading as organic, grassroots political organizing, has a rich history in America, where the return on investment for movements like the tea party can be astronomical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee",
+      "originalUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/648cc1312500006600dc72e5.jpg?cache=8DzA0NLnBX&ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp",
+      "publishedDateTime": "2023-06-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone.md",
+      "title": "Red Cat and Athena Announce New AI and Computer Vision Abilities for Teal 2 Drone",
+      "excerpt": "Red Cat, Athena AI Announce New AI and Computer-Vision Abilities for Teal 2 Drone by DRONELIFE Staff Writer Ian M. Crosby Military technology company Red Cat Holdings has announced its completion of t",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
+      "originalUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2023/06/Image-2-2.jpg",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
+      "publishedDateTime": "2023-06-22T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-how-regulating-ai-could-empower-bad-actors.md",
       "title": "How Regulating AI Could Empower Bad Actors",
       "excerpt": "While it’s easy to criticize Silicon Valley tech behemoths, hindering their development through regulation could mean handing the future of AI to very dangerous entities.",
@@ -195,6 +340,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai.md",
+      "title": "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI",
+      "excerpt": "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
+      "originalUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
+      "publishedDateTime": "2023-06-22T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -563,7 +751,7 @@
       "originalUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -875,7 +1063,7 @@
       "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1061,204 +1249,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-face-recognition-the-key-to-safe-future.md",
-      "title": "Face Recognition – The Key to Safe Future",
-      "excerpt": "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm.md",
-      "title": "Artificial Intelligence in Machine Learning Market Latest Trends, Demand, Cost Structures and Industry Development by 2030 |Google, Baidu, IBM",
-      "excerpt": "The Artificial Intelligence in Machine Learning Market research report encompasses a thorough study of the current",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth.md",
-      "title": "The Rise of AI in the Language Industry: New Opportunities for Growth",
-      "excerpt": "Artificial intelligence (AI) has opened up new opportunities for growth in the language industry allowing for more efficient and accurate translation and interpretation services. With the help of AI, language service providers can now offer faster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
-      "title": "Schumer reveals plan to regulate AI",
-      "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
-      "originalUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183968325726",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726",
-      "publishedDateTime": "2023-06-21T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

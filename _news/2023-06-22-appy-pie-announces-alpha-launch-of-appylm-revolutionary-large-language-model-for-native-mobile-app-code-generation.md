@@ -51,22 +51,6 @@ related:
         width: 709
         height: 472
         isCached: true
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
-        isCached: true
   - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
     excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
     publishedDateTime: 2023-06-21T20:47:00Z

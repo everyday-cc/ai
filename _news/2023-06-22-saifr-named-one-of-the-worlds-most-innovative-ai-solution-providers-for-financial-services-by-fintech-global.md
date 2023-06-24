@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-w
 webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,47 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
-    publishedDateTime: 2023-06-22T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services-2023-06-21"
+  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
+    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
+    publishedDateTime: 2023-06-19T11:28:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "JP Morgan invests in trade finance fintech"
+    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2023-06-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
+    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
+    publishedDateTime: 2023-06-20T10:22:00Z
+    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
-    publishedDateTime: 2023-06-21T12:14:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_93c33dad-04a5-5945-8416-ebe128e96813.html"
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 0
-  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
-    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
+    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
+    publishedDateTime: 2023-06-23T13:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
-  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
-    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
-    publishedDateTime: 2023-06-23T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 0
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 4
 
 secured: "G4+YcWcjkC/F7CaL02JZMapWkuuJGdM77/nCJNt9adSITENPrT6JsS1M/OAuYDYkCnSOGTl70yIPlQjNOl3HxpN2GZaflFlY1DOjzThBk5HlVjO7cTK562xnGZhdEJXhSzNTNCBzh8La9SocAp6+RlHAXPyzVrceI6grN4xnUJnlbfd8tU5NzEnHXXpAWU/2ckoIxNW4shi6IrNBTRU9bg1vQntFiJyQTtGjVjCN7tmRFK7Eaf+GK5PNBZkiH6alMI7XQuN5YS3nr1w59QmiqZcHkiMDQTCR2HYChyCE5vMB/+n0Huj1XoAr8Hfj5A1lgRqFt504S7vXqOIgXnwZBNea4Bb8NId1uGV5ZNcVJeg=;5Vbh4cNRPH2sI+JO5MtCbQ=="
 ---

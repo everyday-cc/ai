@@ -190,11 +190,11 @@ related:
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.newsobserver.com/press-releases/article276616381.html"
+    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 33
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"

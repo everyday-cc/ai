@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-21-googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored.md",
+      "title": "Googlers say Bard AI is “worse than useless,” ethics concerns were ignored",
+      "excerpt": "From the outside, Google Bard looks like a rushed product to try to compete with ChatGPT, and some Google employees share those sentiments. A new report from Bloomberg interviews 18 current and former workers and came away with a pile of damning commentary and concerns about AI ethics teams that were \"disempowered and demoralized\" so Google could get Bard out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/04/googlers-say-bard-ai-is-worse-than-useless-ethics-concerns-were-ignored/amp/",
+      "publishedDateTime": "2023-04-20T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-pensions-pressure-electric-cars-and-ai-ethics.md",
+      "title": "Pensions pressure, electric cars and AI ethics",
+      "excerpt": "The government may have to raise the state pension age to 70 by 2050 due to pressure on the public finances. Ian King is joined by Carl Emmerson, deputy director of the Institute for Fiscal Studies - who says nine in 10 workers are saving less than needed for a decent standard of living in retirement.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/06/1600x900/skynews-ian-king-business-podcast_5403721.png?20230201132237",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
+      "publishedDateTime": "2023-04-20T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-15-ai-aspiring-toward-all-in-global-geopolitical-multilateral-unity-arrangement-for-sake-of-humanity-says-ai-ethics-and-ai-law.md",
       "title": "AI Aspiring Toward All-In Global Geopolitical Multilateral Unity Arrangement For Sake Of Humanity Says AI Ethics And AI Law",
       "excerpt": "Advocates of AI are saying that we need large-scale global multilateral arrangements to try and prevent an AI apocalyptical nightmare upon humankind. I explore what this all means and whether it is feasible,",

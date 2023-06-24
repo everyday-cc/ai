@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-s
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in fintech Market Size 2023 Comprehensive Growth, Growing Trends, Top Players Analysis and Regional Forecast 2031"
-    excerpt: "The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast"
-    publishedDateTime: 2023-06-19T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2023-comprehensive-growth-growing-trends-top-players-analysis-and-regional-forecast-2031-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

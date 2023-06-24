@@ -242,15 +242,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Is a Lot of Work"
-    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
-    publishedDateTime: 2023-06-19T08:25:00Z
-    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 19
   - title: "Developing AI is playing with fire"
     excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
     publishedDateTime: 2023-06-20T09:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
         width: 709
         height: 472
-        isCached: true
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
         isCached: true
   - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
     excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."

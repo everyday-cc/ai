@@ -21,36 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "This Fintech Startup Serves A $7.5 Trillion Per Day Market"
-    excerpt: "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries."
-    publishedDateTime: 2023-06-19T09:01:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648deabd2e68568627b1e992/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 755
-        isCached: true
-  - title: "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses"
-    excerpt: "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ..."
-    publishedDateTime: 2023-06-19T11:28:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 62
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs"
     excerpt: "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns."
     publishedDateTime: 2023-06-19T11:16:00Z
@@ -83,61 +53,47 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "JP Morgan invests in trade finance fintech"
-    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-06-20T23:22:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
+  - title: "Jentech to see sharp growth in heat spreader shipments for AI servers"
+    excerpt: "Heat spreaders have to be made bigger and thicker to support AI chips with a larger surface area and higher performance, according to Jentech Precision Industrial president Chin-Lung Lin."
+    publishedDateTime: 2023-06-20T03:09:00Z
+    webUrl: "https://www.digitimes.com/news/a20230619PD219/ai-chips-ai-server-heat-spreaders-jentech.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
-        width: 480
-        height: 270
+      - url: "https://img.digitimes.com/newsshow/20230619pd219_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
-    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
-    publishedDateTime: 2023-06-20T10:22:00Z
-    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+  - title: "PR: Global AI in Fintech Market Will Surge by 350% Between 2023-2032 to Stand at $39B"
+    excerpt: "June 20, 2023 (Investorideas.com Newswire) StockApps.com reports that the Global AI in Fintech Market will reach $39 billion, a 350% increase expected between 2023 and 2032."
+    publishedDateTime: 2023-06-20T14:11:00Z
+    webUrl: "https://www.investorideas.com/news/2023/technology/06201AI-Fintech-Market.asp"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 24
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 32
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Webcash Group to expand into New Markets with B2B Fintech Solutions"
-    excerpt: "Webcash Group, a company specializing in B2B Fintech, announced its plan to expand into global markets with its B2B Fintech SaaS a software. Webcash Group says it will employ a differentiated strategy in its expansion into each overseas market,"
-    publishedDateTime: 2023-06-20T08:48:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/webcash-group-to-expand-into-new-markets-with-b2b-fintech-solutions/article_80096b01-0828-52ad-b917-ef6d0b3ce617.html"
+  - title: "Top 5 Fintech and IT Masters Programs in Singapore"
+    excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
+    publishedDateTime: 2023-06-21T05:07:00Z
+    webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/6/66/666e1eca-9a47-5ef9-bcc5-0bae4ba6d547/64916d4d37375.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
-    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
-    publishedDateTime: 2023-06-22T11:16:00Z
-    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
-        width: 900
-        height: 500
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Top-5-Fintech-and-IT-Masters-Programs-in-Singapore.png?x22319"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
@@ -148,29 +104,65 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
-    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
-    publishedDateTime: 2023-06-23T13:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
+  - title: "New fintech platform on a mission to shake-up angel investing in the UK by closing the gender gap"
+    excerpt: "A new fintech platform is shaking-up angel investing in the UK by aiming to address the current gender gap. The Obu Angel Investment Platform launched this we"
+    publishedDateTime: 2023-06-21T08:26:00Z
+    webUrl: "https://ifamagazine.com/article/new-fintech-platform-on-a-mission-to-shake-up-angel-investing-in-the-uk-by-closing-the-gender-gap/"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 4
-  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
-    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
-    publishedDateTime: 2023-06-22T11:28:00Z
-    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 11
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
-        width: 332
-        height: 249
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/08/gender-5366084_1920.jpg"
+        width: 1920
+        height: 1297
         isCached: true
+  - title: "Dubai FinTech Summit Concludes with 5,300 visitors; confirms second edition for May 2024"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024 - First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries - Dubai FinTech Summit 2023"
+    publishedDateTime: 2023-06-21T19:50:00Z
+    webUrl: "https://jcnnewswire.com/pressrelease/84808/3/Dubai-FinTech-Summit-Concludes-with-5,300-visitors-confirms-second-edition-for-May-2024BR->"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 10
+  - title: "How is Fintech Benefitting the Consumers?"
+    excerpt: "Financial Technology, a.k.a Fintech, is currently all the rage. Be it in the news, during bank visits, or even daily conversations. The finance industry has adopted technology into its mainstream to make things easier for consumers and businesses alike!"
+    publishedDateTime: 2023-06-23T19:04:00Z
+    webUrl: "https://techbullion.com/how-is-fintech-benefitting-the-consumers/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
+  - title: "Fintech Klarna Introduces Tools For Shopping Consciously, Focusing on Climate Action"
+    excerpt: "Klarna, the global payments network, unveiled tools enabling consumers to make more informed purchasing decisions and take action for the planet."
+    publishedDateTime: 2023-06-19T12:52:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208922-fintech-klarna-introduces-tools-for-shopping-consciously-focusing-on-climate-action/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
+  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
+    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
+  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 0
 
 secured: "IwfeInyVrhRM5l6d3ezUIsDPMO/JB1ZydW+4MC2+py2SKZ6NCbIZrfdBHpMyFMiOZw4up47DLhAyhGITz0CBoaXZvHkD2kQnzrN6Myh/AZc94IzsLFwSttb6QP25QNnp9w9QRs1LD8DHHNxHro9m9zKPDgIOd5dV0PmTKrFYQas4OFSZktqnG2UFnBdisv/QWowFMEo6uuAEwOsJtAPN7QP/W5O3Ybfws9fHMnQPBnXbjv1Vi6gTrUeFmqAuvhuj41nY/tkS5gfPt7ziMcvrp6FdKSkPO0tviptiFjIBPpa975vlRbqxpQbWbrOGTGGU5V+RhZ3M85MqCb7+grdWeP8bVn3MU09qt7KhnJw/DM0=;GmG5uaMcY9hmFmEzAq14oQ=="
 ---

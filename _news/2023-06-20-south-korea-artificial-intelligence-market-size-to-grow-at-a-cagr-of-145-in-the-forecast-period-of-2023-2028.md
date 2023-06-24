@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in fintech Market Size 2023 Comprehensive Growth, Growing Trends, Top Players Analysis and Regional Forecast 2031"
-    excerpt: "The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast"
-    publishedDateTime: 2023-06-19T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2023-comprehensive-growth-growing-trends-top-players-analysis-and-regional-forecast-2031-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Media Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 12.5%"
     excerpt: "This \"Cognitive Media Market\" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers. This report consists of 166 pages."
     publishedDateTime: 2023-06-22T03:38:00Z

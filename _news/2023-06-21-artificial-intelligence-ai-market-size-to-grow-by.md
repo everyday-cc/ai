@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Transportation Market 2023 Industry Trends, Growth, Size, Segmentation, Opportunities and Revenue by Forecast to 2031"
-    excerpt: "The global artificial intelligence in the transportation market size was US$ 1.45 billion in 2020. The global artificial intelligence in the transportation market is forecast to reach the value of US$ 17."
-    publishedDateTime: 2023-06-19T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2023-industry-trends-growth-size-segmentation-opportunities-and-revenue-by-forecast-to-2031-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Autonomous AI and Autonomous Agents Market worth $28.5 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The Autonomous AI and Autonomous Agents Market is estimated to grow from USD 4.8 billion in 2023 to USD 28.5 billion by 2028, at a CAGR of 43.0% during the forecast period, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2023-06-19T17:12:00Z

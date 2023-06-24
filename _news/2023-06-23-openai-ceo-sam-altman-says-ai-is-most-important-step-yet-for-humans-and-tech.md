@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech"
+    excerpt: "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs."
+    publishedDateTime: 2023-06-24T01:49:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "a3D/XvYAu4Q/Yuf0MNjMrh/J6Yk+C7R5uBC3pBVlbKGXZABfOYyMCvxUr1IKnMieBpswuqx1I3suET4FFmAz9nzcBwf+W+WKPVqBdSBsN24qxiMypQA9mSWZlVX46irutF+Tx4ls/o1jkuQaie+a/UhJGqJmTYMdFjLf7prSxSYHLOGs/I4zsjuKl8Tl93SnWRiyFx4GvpF5St6VtU/GlQwsGwk3qS+4oxahGZ5Q96l2/n/6FLkrM/MG+0eFpXbTb7FAz6kzwkVFFsj63MG7BSKQzFsAJBuOV7e7KY4+xu48hORhBy4QXp9BoFVxBsmwNPaxtBfswbEF7yM1S4P5AOwdkDjLHPqHUiKjtTQljCI=;6Vf8s77lgqHzLv0Kov803g=="
 ---

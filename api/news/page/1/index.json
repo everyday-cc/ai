@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-24-tempe-vows-to-only-use-ai-technology-ethically-and-without-bias.md",
+      "title": "Tempe vows to only use AI technology 'ethically' and without bias",
+      "excerpt": "The City of Tempe has introduced a resolution that obligates the city to only use artificial intelligence in an ethical and responsible manner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "originalUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.12news.com/assets/KPNX/images/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "publishedDateTime": "2023-06-23T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPNX",
+        "domain": "12news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
+      "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
+      "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
+      "originalUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230622-vidcon-ai-lr-97d957.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89790",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89790",
+      "publishedDateTime": "2023-06-23T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
       "title": "Review: Hover Camera X1 is the ideal drone for most people",
       "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
@@ -261,6 +346,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-24-ai-and-crypto-integration-is-going-to-happen-whether-you-want-it-or-not.md",
+      "title": "AI and crypto integration is going to happen whether you want it or not",
+      "excerpt": "During Coinbase’s State of Crypto Summit on Thursday, venture capitalists and AI experts shared their thoughts during a panel on what similarities and differences the industries have and how investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/23/ai-crypto-integration/",
+      "originalUrl": "https://techcrunch.com/2023/06/23/ai-crypto-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-how-generative-ai-can-help-finance-and-accounting-professionals.md",
       "title": "How generative AI can help finance and accounting professionals",
       "excerpt": "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology",
@@ -451,7 +587,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -607,7 +743,7 @@
       "originalUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -815,7 +951,7 @@
       "originalUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1103,151 +1239,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan.md",
-      "title": "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan",
-      "excerpt": "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/",
-      "publishedDateTime": "2023-06-22T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-is-america-ready-for-ai-powered-politics.md",
-      "title": "Is America Ready For AI-Powered Politics?",
-      "excerpt": "“Astroturfing,” the practice of professional public opinion operations masquerading as organic, grassroots political organizing, has a rich history in America, where the return on investment for movements like the tea party can be astronomical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee",
-      "originalUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/648cc1312500006600dc72e5.jpg?cache=8DzA0NLnBX&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp",
-      "publishedDateTime": "2023-06-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone.md",
-      "title": "Red Cat and Athena Announce New AI and Computer Vision Abilities for Teal 2 Drone",
-      "excerpt": "Red Cat, Athena AI Announce New AI and Computer-Vision Abilities for Teal 2 Drone by DRONELIFE Staff Writer Ian M. Crosby Military technology company Red Cat Holdings has announced its completion of t",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
-      "originalUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/06/Image-2-2.jpg",
-          "width": 612,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/06/22/red-cat-and-athena-announce-new-ai-and-computer-vision-abilities-for-teal-2-drone/amp/",
-      "publishedDateTime": "2023-06-22T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

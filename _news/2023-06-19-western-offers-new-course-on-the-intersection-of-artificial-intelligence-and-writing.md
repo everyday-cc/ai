@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Your next job interview could be with AI instead of a person"
-    excerpt: "Many job seekers already use AI to build resumes and cover letters, but employers are also using it on their side, with more to come."
-    publishedDateTime: 2023-06-19T07:36:00Z
-    webUrl: "https://www.zdnet.com/article/your-next-job-interview-could-be-with-ai-instead-of-a-person/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/your-next-job-interview-could-be-with-ai-instead-of-a-person/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-next-job-interview-could-be-with-ai-instead-of-a-person/"
+  - title: "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI"
+    excerpt: "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ..."
+    publishedDateTime: 2023-06-22T17:03:00Z
+    webUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html"
+    ampWebUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 58
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5f3daf6c319e3fef807d362d682b503bc2deeda6/2023/06/16/12776338-e829-4103-b99d-8f9b363ad1f4/robot.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "CS50 Will Integrate Artificial Intelligence Into Course Instruction"
-    excerpt: "Introduction to Computer Science, Harvard’s flagship coding course, will have a new learning tool at their disposal: artificial intelligence."
-    publishedDateTime: 2023-06-21T10:52:00Z
-    webUrl: "https://www.thecrimson.com/article/2023/6/21/cs50-artificial-intelligence/"
+  - title: "Beijing using facial recognition to track down North Korean refugees"
+    excerpt: "Monitoring systems and artificial intelligence have increased the risks and costs for those trying to flee the Kim regime. If a face does not match a profile, the police can intervene. COVID-19 and in"
+    publishedDateTime: 2023-06-23T13:03:00Z
+    webUrl: "https://www.asianews.it/news-en/Beijing-using-facial-recognition-to-track-down-North-Korean-refugees-58657.html"
     type: article
     provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2015/09/02/223945_1307930.jpg.2000x1335_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1335
-        isCached: true
+      name: Asia News
+      domain: asianews.it
+    quality: 19
 
 secured: "CCfdSU51XEyY0woYkeJJG3jotfN3ZULUr9egv19J7TlXN1pwxHGxfC7x7d/FJKeipWpsWh3Mnw+6oJFyvFe+Mk3X5CrqwCYag6Ii0+2lAQLrlJatIUhow5ihD/aCrOYQaSnlTNIvDqeyOZ/nYPc6p1UwKR9bPLYzsTMZABK4o4GXWtM7XwGIyO9swKU5Zr4RK/EnnTaJm7klPCXP6+i7Puxj+SORZKk/drea/XI4FhF01yaAIaMLnGhD/0SnE4XSHOX+o/IS7ynfZNAx1VKbaD8yQc0dVa77onxUbSm11gyjUKypNfNe0Loid8bQLF5uhfZGUjpSG/AcL1eyji+WOfWYEDrYhgKqOrPTWt/QA4E=;ipGRacYQ2u7GzN7jYyLv+g=="
 ---

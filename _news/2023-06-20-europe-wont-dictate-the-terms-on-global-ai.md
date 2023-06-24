@@ -41,22 +41,6 @@ related:
         width: 1300
         height: 866
         isCached: true
-  - title: "Five big takeaways from Europe’s AI Act"
-    excerpt: "The AI Act vote passed with an overwhelming majority, but the final version is likely to look a bit different"
-    publishedDateTime: 2023-06-19T09:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/19/1075063/five-big-takeaways-from-europes-ai-act/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/eu-act2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Europe, US urged to investigate the dangers of AI technology"
     excerpt: "A transatlantic coalition of consumer groups also wrote to U.S. President Joe Biden asking him to take action to protect consumers from possible harms caused by generative AI."
     publishedDateTime: 2023-06-21T02:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-se
 webUrl: "https://it-online.co.za/2023/06/19/consumers-choose-safety-over-self-driving-technology/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Consumers Favor Automated Safety Over Self-Driving Tech"
+    excerpt: "S&P Global Mobility survey of 8,000 shoppers worldwide shows semiautonomous driving features are still missing the crucial trust factor, whereas automated safety features are gaining traction."
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.autodealertodaymagazine.com/371204/consumers-favor-automated-safety-over-self-driving-tech"
+    type: article
+    provider:
+      name: autodealertodaymagazine
+      domain: autodealertodaymagazine.com
+    quality: 24
+    images:
+      - url: "https://dealerimages.bobitstudios.com/upload/auto-dealer-today/content/news/2023-06/driver-0623-__-1200x630-s.jpg"
+        width: 720
+        height: 481
+        isCached: true
   - title: "Drivers prefer ADAS over self-driving vehicles, report shows"
     excerpt: "A newly-released report has found that while those shopping for a new car want the vehicle to include advanced driver assistance systems (ADAS), they are less enthusiastic about semi-autonomous"
     publishedDateTime: 2023-06-20T12:30:00Z

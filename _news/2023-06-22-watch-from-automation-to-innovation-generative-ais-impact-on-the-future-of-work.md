@@ -60,22 +60,6 @@ related:
         width: 709
         height: 472
         isCached: true
-  - title: "Yin and Yang of AI: Balancing innovation, ethics"
-    excerpt: "In the realm of global tech regulation, the European Union's recent Artificial Intelligence Act represents a moment of significance, in addressing the potential risks associated with artificial intelligence (AI)."
-    publishedDateTime: 2023-06-19T07:30:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/06/197_353192.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353192"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Shahid_Hussain_200_809278abc5ab6.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 888
-        isCached: true
   - title: "Artificial intelligence is the new frontier... in election misinformation"
     excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
     publishedDateTime: 2023-06-19T21:53:00Z
