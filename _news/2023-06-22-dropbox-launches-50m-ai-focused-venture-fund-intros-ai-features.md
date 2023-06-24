@@ -67,20 +67,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI-music directory WAVs AI raises a $20m funding round"
-    excerpt: "WAVs AI is the latest AI-music startup to raise funding – $20m in its case. It’s a directory of AI music from… familiar-sounding artists."
-    publishedDateTime: 2023-06-19T10:00:00Z
-    webUrl: "https://musically.com/2023/06/19/ai-music-directory-wavs-ai-raises-a-20m-funding-round/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/06/Screenshot-2023-06-19-at-09.07.20.png?fit=1200%2C792&#038;ssl=1"
-        width: 1200
-        height: 792
-        isCached: true
   - title: "Tampa Bay startup accelerator launches AI-focused cohort"
     excerpt: "The Tampa Bay Innovation Center is launching a new cohort aimed at startups in the machine learning, artificial intelligence and data science spaces. The program will focus on startups simplifying the collection of data."
     publishedDateTime: 2023-06-21T18:46:00Z
@@ -90,6 +76,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
+    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
+    publishedDateTime: 2023-06-21T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 12
 
 secured: "EH4WK2Tc81VXV1Y8JCOl1w+wSlHVyrqoaWXjVNy2wcv/jkNDZ4D94UOjYKL0YnMUstCLns59s8arnPt8zn+ywPgq0fA5N60Z1z4EUqY+n/V8ZW5Ra4k+hUxa4PHlRUbs+HSBXtSMOB76LWej4cUJpQjbpaDAlgfwgxgP9HEy17GBVSC+9BbgoH3nCTtuzNR67mqB3/SCD7jnhk3NK/8U/GN2NzpchgUuu7dDeJJGkABv8zozE4pWOGd9A2ELsaOC1aUbaW9YW+X4hanzBPa6R9Sx2RCrz7A3IxaV9H2cPlncuhkLKFLbj0Onl4W3B4EUXWHwX/mqXkY7Ze1eWbWABFtuq4Q5trFTWGYabPiuoQY=;PkPLq4PDhYJSVV4iKVDwLQ=="
 ---

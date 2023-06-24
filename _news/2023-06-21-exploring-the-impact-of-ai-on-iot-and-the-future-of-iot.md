@@ -179,20 +179,6 @@ related:
         width: 1984
         height: 1568
         isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-06-20T00:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
     excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
     publishedDateTime: 2023-06-20T02:38:00Z
@@ -244,15 +230,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Developing AI is playing with fire"
-    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
-    publishedDateTime: 2023-06-20T09:23:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
   - title: "How AI’s legal risks are challenging marketers"
     excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
     publishedDateTime: 2023-06-20T12:22:00Z

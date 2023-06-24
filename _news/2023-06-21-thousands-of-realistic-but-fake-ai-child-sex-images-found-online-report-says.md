@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 534
     isCached: true
+
+related:
+  - title: "AI-generated child sex images spawn new nightmare for the web"
+    excerpt: "The revolution in artificial intelligence has sparked an explosion of disturbingly lifelike images showing child sexual exploitation, fueling concerns among child-safety investigators that they ..."
+    publishedDateTime: 2023-06-20T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/06/19/artificial-intelligence-child-sex-abuse-images/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LYFD5EYU2RC4NCASUE6I7G3LGU.jpg&w=1440"
+        width: 1440
+        height: 882
+        isCached: true
 
 secured: "ZqvLypULw4WO/vUl5aoChIL63ZNAAkk8wZcsltOilvcjJXpPy4OOs0yL0aICQDBGzrccJqvbgdfExymJyZV36zoYlNghthvzL7ztK8F9WAUvMOf5En7lS11tZe78biaDkJzK2FJCAqrdBtL19Q6nMKUfDmR2R9f/zSluyBMI+6H9e6CKWBfe1dHcpnnAfYU6Po+6JIViXizlqMapJolocyvySlgjNK6K3i00Xy5q8tK1xSi09sB4FHTbcqFRJP/+ACGQXdGdoCRi5DKMsPXTbvqHsmZtCOaJpPQp9wDlVMxDpjMSuATqdf3NL9JPIKfc+tZscmTDxKE7UXjY/KxnmKjIoPvLVQpRjIJv1LYKGsQ=;PAwXk6UojVWfBTAmPhEnlQ=="
 ---

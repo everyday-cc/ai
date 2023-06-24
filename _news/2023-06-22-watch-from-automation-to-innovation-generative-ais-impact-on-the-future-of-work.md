@@ -28,86 +28,130 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: The Next Frontier For Business Innovation"
-    excerpt: "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ..."
-    publishedDateTime: 2023-06-22T14:49:00Z
-    webUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
+  - title: "The economic benefits of innovating with Azure AI"
+    excerpt: "While business and technology leaders are ready to invest in AI, they need help making the financial case for tools they need to build great products. That’s why today we’re sharing a new commissioned Total Economic Impact™ (TEI) study conducted by Forrester Consulting, which captures the costs and benefits"
+    publishedDateTime: 2023-06-21T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Forrester-pic-1-1.jpg"
+        width: 900
+        height: 900
+        isCached: true
+  - title: "The Economics Of Unusual Events Such As Pandemics, Bank Failures And AI"
+    excerpt: "Unusual events make business and economic forecasting hard, but decisions have to be made whether a reliable prediction is available or not. Three techniques can help."
+    publishedDateTime: 2023-06-20T08:30:00Z
+    webUrl: "https://www.forbes.com/sites/billconerly/2023/06/20/the-economics-of-unusual-events-such-as-pandemics-bank-failures-and-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 64
+  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
+    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
+    publishedDateTime: 2023-06-21T17:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "AT&T seeks staff benefits in generative AI"
+    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
+    publishedDateTime: 2023-06-20T15:58:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
+        width: 650
+        height: 401
+        isCached: true
+  - title: "Study: Hotel guests are most accepting of AI technology with perceived benefits"
+    excerpt: "A University of Houston study reveals that AI technology in the hotel industry, which provides more convenience for the consumer, is most accepted by hotel guests when the technology has perceived ethics and benefits."
+    publishedDateTime: 2023-06-23T15:06:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/?amp=1"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/?amp=1"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 55
+    images:
+      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2015/08/06202931/HM-CC_Banner-mobile-450x300.png"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "This Startup Is Using AI To Reduce Emissions In Hard-To-Mitigate Industries"
+    excerpt: "That’s exactly the kind of work that’s the specialty of Fero Labs, a New York City-based manufacturing process optimization software company. Today they’ve announced the close of a $15 million growth round led by Climate Investment, bringing Fero Lab’s total funding to $30 million."
+    publishedDateTime: 2023-06-21T12:05:00Z
+    webUrl: "https://www.forbes.com/sites/jimvinoski/2023/06/21/this-startup-is-using-ai-to-reduce-emissions-in-hard-to-mitigate-industries/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-06-20T00:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
+    excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
+    publishedDateTime: 2023-06-21T21:15:00Z
+    webUrl: "https://siliconangle.com/2023/06/21/driving-ai-innovation-intels-lisa-spelman-discusses-the-future-of-computing-hpediscover-hpediscover/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Lisa-Spelman-HPE-Discover-June-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
+    excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
+    publishedDateTime: 2023-06-22T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 764
+        height: 630
         isCached: true
-  - title: "Is The Drone Industry Ready For Generative AI?"
-    excerpt: "With the implementation of advanced flight controllers and intuitive AI, any person could quickly pick-up a quadcopter and fly or even start taking professional grade videos. This evolution democratized in many ways the low-altitude skies and in the same ..."
-    publishedDateTime: 2023-06-22T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
+  - title: "Developing AI is playing with fire"
+    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
+    publishedDateTime: 2023-06-20T09:23:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
-        width: 709
-        height: 472
-        isCached: true
-  - title: "Artificial intelligence is the new frontier... in election misinformation"
-    excerpt: "The RNC admitted the ad was built entirely of images created using artificial intelligence. Along with fake reports of what sound like news reporters. The RNC included a small watermark in the corner of the video disclosing it was “built entirely with AI imagery."
-    publishedDateTime: 2023-06-19T21:53:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/elections/artificial-intelligence-ai-elections-joe-biden-republican-national-committee-technology/65-9871f171-04f0-4c9a-8501-abb2a6d9f361"
-    type: article
-    provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 56
-    images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/efdc0fb5-71c0-4533-bafa-96e8338baeab/efdc0fb5-71c0-4533-bafa-96e8338baeab_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Safeguarding Healthcare Data in the Age of AI: A Critical Imperative for Healthcare Executives"
-    excerpt: "This article explores the imperative for healthcare executives to fortify data protection efforts, delves into the unique challenges posed by AI"
-    publishedDateTime: 2023-06-20T02:14:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/32459-safeguarding-healthcare-data-in-the-age-of-ai-a-critical-imperative-for-healthcare-executives"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/4938da019dba46f08d9c3be1946ae1d8.jpg?t=20230620_020455"
-        width: 1126
-        height: 550
-        isCached: true
-  - title: "Generative AI is 'the next productivity frontier', report says"
-    excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
-    publishedDateTime: 2023-06-20T12:20:00Z
-    webUrl: "https://www.ibtimes.co.uk/generative-ai-next-productivity-frontier-report-says-1716910"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 19
-  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
-    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "fRNk/DCBbq8yjw+JU1fMUSR8DhEw5ULnfs7Z1KfJhHSqf8DGIo+aeFO7p6YcpWJeIGUPEmt1QqbkjSs8pN1N11PmCasTkoSPcVF9SjFIClmBmh/RQI1bDnHIUYqpy4AWkj915jM8+BLD/iCHxwsATB8wxBxjC35e2OHr/r3zR4o2jBaFpBwicYI5zF95ZnqjrTnGl5YDYzJA3nRbSiTBipa02I3rC3jVL97Mj5DdM7PGmkvR3KAC8YkNh7vJ1lJTYt3m1GFjZKYhVOq3NPRa+9S5vUGgQF0oi+ehM6ucdsKJdyCq3CnxcYMKkmCy+TKhsJkEuZ0u2USyOhWVOAGNLirAxAJPuqrlhjCRADrpSxY=;f78NUdJn2TVq9K/Skwi6VA=="
 ---

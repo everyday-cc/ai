@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-research-2030-2023-06-19"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Market Growth | 2030"
-    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
-    publishedDateTime: 2023-06-19T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-2030-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI researchers harness data to drive health care innovation"
     excerpt: "As an expert in developing artificial intelligence tools to improve health care, Ross Mitchell has always viewed the research process a little differently."
     publishedDateTime: 2023-06-23T15:52:00Z

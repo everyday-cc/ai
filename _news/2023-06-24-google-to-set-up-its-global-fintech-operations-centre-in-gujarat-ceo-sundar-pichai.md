@@ -1,30 +1,46 @@
 ---
 category: news
-title: "Google to set up its global fintech operations centre in Gujarat CEO Sundar Pichai"
-excerpt: "Internet giant Google will set up its global fintech operation centre at GIFT City in Gujarat, its CEO Sundar Pichai said on Friday after meeting Prime Minister Narendra Modi here.     Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund."
-publishedDateTime: 2023-06-23T23:40:00Z
-originalUrl: "https://www.theweek.in/wire-updates/international/2023/06/24/fgn9-us-pm-google-ceo.html"
-webUrl: "https://www.theweek.in/wire-updates/international/2023/06/24/fgn9-us-pm-google-ceo.html"
+title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
+excerpt: "Google: \"Today we are announcing the opening of our global fintech operations centre in GIFT City, Gujarat. It will cement India's fintech leadership, thanks to UPI, and Aadhaar. We are going to build on that foundation and take it globally,"
+publishedDateTime: 2023-06-24T02:30:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/101230193"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 53
+heat: 73
+published: true
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://img.theweek.in/etc.clientlibs/theweek/global-clientlibs/clientlibs-general/resources/images/week-default.jpg"
-    width: 540
-    height: 315
+  - url: "https://etimg.etb2bimg.com/thumb/msid-101230193,imgsize-388302,width-1200,height=765,overlay-ettelecom/internet/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
+  - title: "Google CEO Sundar Pichai meets Narendra Modi, discusses issues like AI, cyber security"
+    excerpt: "Washington: Prime Minister Narendra Modi, who is currently in the US, on Saturday met CEO of Alphabet Inc. and Google Sundar Pichai in Washington DC."
+    publishedDateTime: 2023-06-24T03:18:00Z
+    webUrl: "https://www.indiablooms.com/news-details/N/90280/google-ceo-sundar-pichai-meets-narendra-modi-discusses-issues-like-ai-cyber-security.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 48
+    images:
+      - url: "https://www.indiablooms.com/news_pic/2023/d93b7bd98e741c58052a1c30fea0fd45.jpg"
+        width: 800
+        height: 439
+        isCached: true
   - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
     excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
     publishedDateTime: 2023-06-24T00:53:00Z
@@ -42,6 +58,6 @@ related:
         height: 338
         isCached: true
 
-secured: "LleZ2WW9f58jD/LBKJQ4sfJ2787+K6wX5aoNZphXV1MnLOfHOkqS94EQ3i1ti0K0+J0TlZRVgiRzI18YhDo/ir44LaSCcesSUidLD3bqUYJluCpsD3XKcLk5gYSsr6Ek8/TRZkowcn8nPjPSw0oqzpQAmuuQhrNkFDQITWbKuEBOgF91e5yJiWQBbnT8JmRuQFHtoC4DJKGh9kSaG2kzrDitAB5qFok/QNpDSLn2iXijrfHeccgzMtnOWzmo0JBBFZJYZM62qyY8r1cCup1kgZYA03Cvbb8Oa1Pg2AvX0l20l5JP+ZUlUGyD1TpAwW6zEnKZhC3Q3yEEswflmqvMVGL+3r0PXgl4e8z0Bjhrzlw=;QhGH6D5Pahnrr0GAzgs3Aw=="
+secured: "wnTpHE9T8bF6aqIzgeH1WvdZcQk+viKqmUmca3UnvpHqtTHzggMEcAMT9hN49vun/DTcxUofFzoQbiuz7syldk65H1/H83tVjR6Ybz6/f3jRTTp0M9sx0TV6IUBcJA/y/F0KdotVbY60FKsormW8AdQWTOAx2oLAYb/EV+ECOVHRQRoD26Bt+eBLIOAouVDLC8zZjGh1NNPzC56Vyq0AReG+W22AL0Gd5XikUaM7lVMzfgb6pXiceU0kc6k6B2ano551pKBLSNYtwM8a4dhvzXOTjL91yURH7n8AjpRoGiy00ecCI1CrjAyQNLv79HOa/mxa2Nw+qFgWV6nNTS80FNRAypXJckLnqV06lJK2rA4=;PsZPW/9nPcd/jD6GYiPNIg=="
 ---
 

@@ -2,6 +2,213 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-06-07-celebrate-with-us-elon-has-been-promising-self-driving-cars-for-ten-years.md",
+      "title": "Celebrate With Us: Elon Has Been Promising Self-Driving Cars For Ten Years",
+      "excerpt": "Elon Musk has been promising self-driving cars are right around the corner for the last decade. And what a decade it’s been! Full of scandal, intrigue, and poorly manufactured cars and car ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/elon-musk-tesla-self-driving-cars-anniversary-autopilot-1850432357",
+      "originalUrl": "https://jalopnik.com/elon-musk-tesla-self-driving-cars-anniversary-autopilot-1850432357",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/75e30f9d4277af3056e4442933dad78f.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-announcing-enhanced-table-extractions-with-amazon-textract.md",
+      "title": "Announcing enhanced table extractions with Amazon Textract",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. Amazon Textract has a Tables feature within the AnalyzeDocument API that offers the ability to automatically extract tabular structures from any document. In this post,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-enhanced-table-extractions-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/enhanced-table-extractions.jpg",
+          "width": 1024,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:53:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
+      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
+      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-apple-ceo-denies-new-tech-is-ai-but-admits-it-is-powered-by-machine-learning.md",
+      "title": "Apple CEO denies new tech is AI but admits it is 'powered by machine learning'",
+      "excerpt": "Tim Cook made the comments speaking to Good Morning America which comes just a week after leading AI figures such as OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis warned AI could risk the 'ext",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788",
+      "originalUrl": "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article30176846.ece/ALTERNATES/s1200/0_Apple-Unveils-New-Products-At-Its-Worldwide-Developers-Conference.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/apple-ceo-denies-new-tech-30176788.amp",
+      "publishedDateTime": "2023-06-07T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterprise.md",
+      "title": "Contextual AI Emerges From Stealth to Build the Next Generation of Language Models, for the Enterprise",
+      "excerpt": "Founded by former Hugging Face and Meta AI researchers, Contextual AI raised $20 million in seed funding from Bain Capital Ventures, Lightspeed and Greycroft. Contextual AI emerged from stealth today",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32762843/contextual-ai-emerges-from-stealth-to-build-the-next-generation-of-language-models-for-the-enterpr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-bard-is-getting-better-at-logic-and-reasoning.md",
       "title": "Bard is getting better at logic and reasoning",
       "excerpt": "Two improvements are launching in Bard to help you get more accurate responses and export to Google Sheets.",
@@ -989,254 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-asia-ex-china-is-asleep-at-the-ai-wheel.md",
-      "title": "Asia (ex China) Is Asleep At The AI Wheel",
-      "excerpt": "A huge swathe of the the Asian region appears unmoved with what looks like momentous shifts in the global economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
-      "originalUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647ec23eacf21e7eed595938/0x0.jpg?format=jpg&crop=2778,1564,x0,y35,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vasukishastry/2023/06/07/asia-ex-china-is-asleep-at-the-ai-wheel/amp/",
-      "publishedDateTime": "2023-06-06T23:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI chips: Here's what they are, what they're for and why investors see gold",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "originalUrl": "https://www.butlereagle.com/20230607/ai-chips-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.bte.navigacloud.com/?uuid=421d77fa-01ca-5865-a123-72a4084e2877&function=cover&type=preview&source=false&width=1600&height=1085",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Butler Eagle",
-        "domain": "butlereagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-black-mirror-creator-tried-to-get-artificial-intelligence-to-write-an-episode-but-it-was-sht.md",
-      "title": "‘Black Mirror’ Creator Tried To Get Artificial Intelligence To Write An Episode, But It Was ‘Sh*t’",
-      "excerpt": "The hit Netflix show’s creator, Charlie Brooker, enlisted ChatGPT to help draft an episode ahead of the Season 6 premiere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
-      "originalUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b?ncid=engmodushpmg00000004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/647fc1e22700003300f61766.jpeg?cache=vvqce6l0lz&ops=1200_630",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/black-mirror-creator-artificial-intelligence-write-episode_n_647fac60e4b027d92f88fb7b/amp",
-      "publishedDateTime": "2023-06-06T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes.md",
-      "title": "FBI warns of increasing use of AI-generated deepfakes in sextortion schemes",
-      "excerpt": "The FBI on Monday warned of the increasing use of artificial intelligence to generate phony videos for use in sextortion schemes that attempt to harass minors and non-consulting adults or coerce them into paying ransoms or complying with other demands.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/face-in-silicon-1-800x574.jpg",
-          "width": 800,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/amp/",
-      "publishedDateTime": "2023-06-06T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025.md",
-      "title": "Samsung's auto chip to power Hyundai Motor's infotainment starting in 2025",
-      "excerpt": "Samsung said on Wednesday that it will be supplying its latest automotive processor to Hyundai Motor for the auto giant's new in-vehicle infotainment (IVI) systems launching in 2025. It is the South Korean tech giant's first collaboration on automotive semiconductors with Hyundai Motor, one of the largest automobile manufacturers in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
-      "originalUrl": "https://www.zdnet.com/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-auto-chip-to-power-hyundai-motors-infotainment-starting-in-2025/",
-      "publishedDateTime": "2023-06-06T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

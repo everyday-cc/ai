@@ -27,38 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "Why Machine Learning Is Imperative To Your Brand’s Digital Marketing"
-    excerpt: "Business owners and executives new to machine learning and its applications may not know the full potential it has for their digital marketing strategies."
-    publishedDateTime: 2023-06-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/"
+  - title: "How data, automation and AI are transforming Business Process Outsourcing into a competitive advantage"
+    excerpt: "When IBM Consulting&#8217;s Neeraj Manik spoke recently with a large pharmaceutical client about how to streamline and improve its front-office and back-office financial processes, he pointed to a web of interconnected business challenges the organization was facing: &#8220;too many invoices, too many"
+    publishedDateTime: 2023-06-22T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6234c761e493a5459f8e0764/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Machine Learning From A Digital Marketer's Perspective"
-    excerpt: "I believe that machine learning holds the transformative potential to revolutionize digital marketing and SEO in ways we are yet to fully grasp."
-    publishedDateTime: 2023-06-23T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/23/machine-learning-from-a-digital-marketers-perspective/amp/"
+      name: IBM
+      domain: ibm.com
+    quality: 83
+  - title: "The creative and transformational possibilities of AI"
+    excerpt: "James Manyika spoke at the Cannes Lions Festival about AI and creativity. Read excerpts from his remarks."
+    publishedDateTime: 2023-06-21T09:00:00Z
+    webUrl: "https://blog.google/technology/ai/ai-creativity/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6168a643eda3c2e0494d8640/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
+    excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
+    publishedDateTime: 2023-06-23T13:49:00Z
+    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-is-replacing-traditional-outsourcing"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
+    excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
+    publishedDateTime: 2023-06-20T14:01:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835715.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "N3LYcqevSCi39Ekg0J9h3ppOK9hv29sp1BkHGOyDEvkdDuKxrP0MfITs/xGaLEy+QrGoeSEzYpzgdKMz0PWgtxDOKTy+Q9cj9AH8f2LjpE5qGheWJuImLppvk8v4/AqWNNn1BULoH5rL1qRESXq63F/qbmGjKuqGdtY8YTINyulpusB9H5BFyh1HlCxyip/UUK/hHmysR+QAUTLIImHdANB8wQigwUmKfVqWLBdSlxeo+l1cWhVx54MLGxxQlcsAg2wh/jG0/Uak9w9NcDGTG683Cnyp1sz3cHAg4EsuZa/GopwYdW44TKApiVVhIDBNt+UEv3ttCRMXtdLn86jTv4Zg2LeIw5JnT26gFxVZUg8smWOo8i23LWEmaEzekOkp4M31CCuyAHoPDbU/dZbVOYXNK5LnWF391HpWa9UusJFhdM8w1eUedS5Ez90S5wNXavbtNCic2rslTyTfZGBu/GMlb5zlFyQxvL0JGQo8deOJ5RqPDv0QaH2vHvV3pDd6wgNcajzuqVXgetKhW/TO4Q==;jk+vHJBM0bgtqjbOzck35w=="
 ---

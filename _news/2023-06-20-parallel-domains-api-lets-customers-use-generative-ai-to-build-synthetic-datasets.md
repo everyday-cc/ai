@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AT&T seeks staff benefits in generative AI"
-    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
-    publishedDateTime: 2023-06-20T15:58:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
-        width: 650
-        height: 401
-        isCached: true
 
 secured: "QA8SodNJa76gkWlZ2ZaX1YN8DW7UZ6bimGHI6qmHlt4kE23AzJKM79feV0OCiUtO9PDrUK4d8Oy+NVH6TcoAt/nmPvp0cHAGUXCDrP3FuPPXqXE1H8QhnzBMPFwtAThVKCS7U6LllgccMHi8ZI1Uj+aYzRoNAqiR2C1WmvCDDz7YN7YYrjL6wVk2aoCrhVo3FrjYBd4GeGD7zYE6KUkCvyTFlLBaw+xHqwvMtLnSmhkY+07qSh0R3jRQkE7U/efY8mrdSsJ8jD+vLCzFGRwWjcR+W5E/8sGdQ5GbrOb+5qiIAbi0j2FCHYy9mx3VGIcacc9gUGDlDrwPEe/KxatBwcxGK5MGMQ1FzI2N7IeUWa8riSOX/7oqTadrJUi2ur9yngRw24gq039PQNW/O23Wm/mjA2r8BSogv+lHntoWkEsXu8Tv9RROnooyC9LwVWhs7LKTYlBqXTfaBAZO+gBcPI17P8WvjJcnGRJICmphE56AabyEiMAHlhj1HKwjaNaIThrOFVecpYedZWgFywspMQ==;DxrUG4yL4uib0wNbLB3cFg=="
 ---

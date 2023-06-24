@@ -32,6 +32,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 83
+  - title: "How AI is Powering Marketing Success and Business Growth"
+    excerpt: "Embracing AI is now more crucial than ever for businesses aiming to thrive in the ever-evolving digital landscape of Canada."
+    publishedDateTime: 2023-06-20T20:33:00Z
+    webUrl: "https://about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/"
+    ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-is-powering-marketing-success-and-business-growth/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 74
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2023/06/MKG_META_MPS_TITLE-SLIDES_MPMS-Event-Slide_MAIN-SCREEN.png?w=1200"
+        width: 1199
+        height: 738
+        isCached: true
   - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
     excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
     publishedDateTime: 2023-06-23T13:49:00Z

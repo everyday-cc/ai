@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Media Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 12.5%"
     excerpt: "This \"Cognitive Media Market\" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers. This report consists of 166 pages."
     publishedDateTime: 2023-06-22T03:38:00Z

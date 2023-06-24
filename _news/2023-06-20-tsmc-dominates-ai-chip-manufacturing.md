@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230619PD220/ai-tsmc.html"
 webUrl: "https://www.digitimes.com/news/a20230619PD220/ai-tsmc.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "From manufacturing to mosquitoes, universities explore AI uses, ethics"
-    excerpt: "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ..."
-    publishedDateTime: 2023-06-19T09:41:00Z
-    webUrl: "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/"
-    ampWebUrl: "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp"
-    cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp"
-    type: article
-    provider:
-      name: BizTimes
-      domain: biztimes.com
-    quality: 74
-    images:
-      - url: "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0NYqx540UqUzBy067OpuQLIQSGlQF++M7KYLEv6JeEozUipk3sO58eEkGFgSqcqRe/Ap3HB/Q1owrXPypHOgPe4xcVZhli9DPcahUEgwE85FUrpW51Dy+v/7sFgKKrwf97hXWV0BwAg2oOCRuEQzqDJb7zuDhWwtsBIZVypY0AvOUpEg3+bv3rLvvisgn/s/nzryN5jcjXAhAjJEOmvalalu1a3V4WKJFFkq7OMXQFJ05oY9pa/mP9knlYMlP5y8k9P/Q6Jnsr5Rs/7uMOvX9F50yyX45i3H0cRaxyWhjicSg2+Y6rWOlbLydPVgaLqW8NK4QnLfOHugZABDWo/2NhVgYTJnB83ueWbkQWQ7qc503yjBmGPDf7Y23JTpybz2bM4jTuZSYW+2m0/qkQoVb2O29XIox3knGOm7CEW68dcUGCbmF8sIfSGS+npCrA/n9VpHSWEnnAXjc2OLCn7M36QQ+rIOCqQo67ScKfVjJyzIK50cGLP0YXAoWmqG7wwLp+qGRcES7nhDJqIgsKhCPQ==;+c2X447kNSHGByi0l0IGYg=="
 ---

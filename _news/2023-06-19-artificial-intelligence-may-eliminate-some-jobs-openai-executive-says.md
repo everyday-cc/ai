@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-19T15:43:00Z
 originalUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
 webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
 type: article
-quality: 82
-heat: -1
-published: false
+quality: 84
+heat: 124
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-802734/social"
@@ -58,15 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
-    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
+    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
+    publishedDateTime: 2023-06-23T01:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 64
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
     excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
     publishedDateTime: 2023-06-23T16:16:00Z
@@ -80,20 +88,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Inflection unveils “best in class” AI foundation model"
-    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "z8H4PLt9Oiio+B+5JFCuIFwJh4wwmN3SSogwiJkBjtN8T2M6go5HJzRv196aBlapSIAh+qnKYiRqlGfjg/TtJxJVuw9OOIKP76DUAV9raucXqfEWyzXEdIc47q6nwoUqk7XVdO6fls4rOc1V0Wns7C776zPNgWyNTGoDENyMHwF+8DHKCV5BxVGZ7rqoE8juS+8WNv641KYy2bekdEQEzsQF4TMiWozwcLmAjbQjvI2rdlEoQp/yFRBkZ+pUNqBItgYiDEpZoIaElItprC1uqFt4t18pbycvt2ly7lQi3lU2OznjKWpI5Q/+Tie4H6qjFDDcTZl0+8X/TDpypRci4vyzHU78gDcwIajF0SSHE6V74OJfg1e8Y2ViKUP3TU9kYC73TKBPNXs0+rgLQiPndlWl5gxlEpAioPKJQIHIXIfMG3ZI/QlF4HzXeRzy4RWmmvSnXHwjVU60QGvJgrYG49hU12rfZw/b01+2HR0ZZvSF8Cs35qmSGEXPBtwL3E+0DqgZdgmNFJI05h5JFqqheA==;w+1TxMaEqncUKsi0ZbBMpg=="

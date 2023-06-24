@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market Growth | 2030"
-    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
-    publishedDateTime: 2023-06-19T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-2030-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TCpzX+p4aVGyFRUlCnyMjNnFfV/DiuK0JzBomGzJ01Rr7XO7e5CmXeTZqj/u4uEvR7niAxwU8xph0JyLFkS52ypH11/c2g968HZDBKZl7AHsFbxnB49TNtoH7eKPeLrFhm+f/tBBe2XTk0FIjWJyO8LM2nRmWviZBLUVnho/w6pwnLtHG5qzebGAd1H0bDUY4m1ZFx5Oj2gg3nHjs4GRSYYmIf1097X60P7s35UDXlcJNRqzbv4fAHs9acUPJvGwSxap+VzEF4gcOCpqlrcEjhPptrpFrB0dnzQML3fWJKoqrsQuWIyozYSWxkaeF8AN5Kwm2olW35U9qWlZa0xjAMpLjLYjeD9t8pqr3H9YVJs=;n+dM0vTztWpup1D7dLflWg=="
 ---

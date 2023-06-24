@@ -95,6 +95,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Google to set up fintech operations center in Gujarat"
+    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
+    publishedDateTime: 2023-06-24T02:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
     publishedDateTime: 2023-06-23T12:00:00Z

@@ -50,15 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
-    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
-    publishedDateTime: 2023-06-21T17:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
     excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
     publishedDateTime: 2023-06-20T12:21:00Z

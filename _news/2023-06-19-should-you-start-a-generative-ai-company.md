@@ -34,20 +34,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Predictions for the Startup Ecosystem for the Second Half of 2023"
-    excerpt: "The startup ecosystem, true to its nature, continues to evolve and disrupt the status quo. There are larger technologies that have been in the making for years and are now coming to the fore, like AI in the form of ChatGPT. These are disrupting how ..."
-    publishedDateTime: 2023-06-19T09:43:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/predictions-for-the-startup-ecosystem-for-the-second-half/454335"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 52
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687166924-Untitleddesign17.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "+GCl996uxM1/29pYzGk/KU5X/6hmSce++pCgTTPCbPPWqhjkiORKTj8knjJWpOWnpEDv6lJbim7OUjRBT+5z6PLuQo/g3hrIKu92OpsGaiN/nZN8DSe8ZYd9Sr4clyHpHWhXII5q9SFfln+lHufZ8SQcl5avYX1SxVIYxTa1RGKCHvs7UjyxxRFD5yS5pGX5DbEUw61Fl3glBP81EHTJvhCWsx6u58GUQafBe+NtLCe9cqvUbZKIT+iZqdcGk7DhQvu09Xvtz5L+gZUOw/YSHOXZn90KspI4ubgOxlCSpM3KelRGrqaL/Ic+NcpZxV7BdUWp+ysDK9h9Kqk5FZQj+cjp6VWlzHZcpGF1HeKTHIHRc83qruNpkAIlOdK2eM6cOPVoAbAv37L+yU4XGVqvvTunJge14jGP9ZyvXhMUd21A/Vs/nVKApR49OkSa5rSptps+toZ1skTdKd6fA7VOmndT8PTqjcfqOLEoDLzWZJRjfSDI7KZgIeV6Zp1wlf9Blu9ltp5cwsdlZM+ByH46Eg==;jrGAWp1psN8dGHgjdctmuw=="
 ---

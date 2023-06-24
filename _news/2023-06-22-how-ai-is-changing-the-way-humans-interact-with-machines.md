@@ -176,20 +176,6 @@ related:
         width: 1984
         height: 1568
         isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
-    publishedDateTime: 2023-06-20T00:36:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/19/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Between hopes and fears, artificial intelligence is dividing the world of work"
     excerpt: "Recent advances in artificial intelligence have rekindled fears of human obsolescence in the workplace. Many employees fear that the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-IA stance."
     publishedDateTime: 2023-06-20T02:38:00Z
@@ -241,15 +227,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Developing AI is playing with fire"
-    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
-    publishedDateTime: 2023-06-20T09:23:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
   - title: "How AI’s legal risks are challenging marketers"
     excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
     publishedDateTime: 2023-06-20T12:22:00Z
@@ -278,6 +255,6 @@ related:
       domain: aol.com
     quality: 14
 
-secured: "vBIKu8EhHUj57e4UWjQbgrwCAMXyxMJYgkT9g70Es0MSeXO/X9DLl3QhN+cQPM0taG37LOc4YfSyEQi8gOmblfYJUj/cfAK16ZvcacnnI+7PSQZF6MQea3p/W4ASoq4lvpW8XQRtm64gkkPYj+KZbXzasPFyT3fksPTuS///GP7JN/6gatGBFHiGZWPFqj2Ksa4Wc5QXktsr23FHnfApBmLHvhAY+7gg83bj1e34KFoYWtt+Q1hN26ukESfE1lBAbiAl5rwG9XUXTTnMpz1ZaA6bp6P7FaFcv+AxnRxS2t/vMEYod1jSx+TgfnyyR4i+VlALwvBmlP0wG1DP7S4GSPItCED9J5ZpFqjMKsYHPZg=;mz2j4kqVowKU5aMXNNruPg=="
+secured: "8zmGcRV5zdBSG6MJaAiaktlBnbHJ6BeQYiDT+8N4nB7JLbIXVxW6U5U/ztEhWUTUf/abb2APeR/0j3NySn0w8EIxnVNkdPQlIOhsMW0J2MrFq0mdJrQzNSbkHbA3Y635NsvcspsB5v8RJf3hrn38YYn9XBVGK0Fu6Put0AAye1ZrFtSlfhDyLG72/OjXTrLtaglZQkhcg72wyKlCsBPTYNyn05538fSm9SnSUN9erKHWIzp6cxpO18RbqTmfeAP2/2ocRSqyWtnSDmXmGt5UKKHFL31XqYMpsVDAGa/DV6aqWzmi8k41+Zc53KV4tQoHMUNfofPYQ/77149aefB5ZzV20E87QemH0ZWiHQcX/VvKzkJQrbA4AcuXeN4IUPO+eJ7sdk+4KtfSWGHr8o4NKpbGOsbDHZdiPK+NwEs3eQFVA2lZXnJMXbjMlLFfgXewci0wYBCE/YFQ+uBypMsd9kIzh7UfX9TR5/+TZxX3HsUrbKriEFpWss/TG/49cmETi8lija5zXfLWpX6mhxy5FQ==;jvBn870coMl2GEEqlWLe5A=="
 ---
 

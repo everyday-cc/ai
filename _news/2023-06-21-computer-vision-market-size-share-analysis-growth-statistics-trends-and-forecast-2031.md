@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-s
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "South Korea Artificial Intelligence Market Size To Grow At A CAGR Of 14.5% In The Forecast Period Of 2023-2028"
     excerpt: "The ' South Korea Artificial Intelligence Market Size, Share, Analysis, Report and Forecast 2023-2028' by Expert Market Research gives an extensive outlook of the South Korea artificial intelligence market,"
     publishedDateTime: 2023-06-20T09:01:00Z

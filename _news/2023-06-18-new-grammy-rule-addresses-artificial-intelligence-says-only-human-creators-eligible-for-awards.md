@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/18/f4f3411f-2e77-4f5c-8640-534c45a5a95c/thumbnail/1200x630/4112747c3e4074d6199680dc2f0bdb8c/grammy.jpg?v=23da2bed74e9783333cf303fba619e89"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://images.wsj.net/im-805133/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "AT&T seeks staff benefits in generative AI"
-    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
-    publishedDateTime: 2023-06-20T15:58:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
-        width: 650
-        height: 401
         isCached: true
 
 secured: "czpZ/qcUX5V/c0OQxvaOR3d2EJ8FYXaAC22ems6zeg6FKAAa61nzlwlcOoefKu76BfNSshp31RhvsFIWeeZmEC5lzrA9E3cNdUOUfVM5qFVDWTnLHNJc6EiXZnt8Iviiz1RTYe/Bzn+0Y/MUV1wRlzVDLKjZ6eZlhN5Dj0XpYUQPAlqItqDE3EZCslMylJdqaC8q0aBbkjt2DiGSop902s2wai14hoFC0LK8q5DAQqJdCIAh1IKMQQ6qhGitYktKXXwySrFAzNvC5+OcUmg00+jbISJCjL3oT9hZ1/1uhOsZ5ptuAToQAI0CiUnwCOs6PtEBkpShcwZKlnMzGhhfmelY3RSVAruWD6aYX6P8uSK443PAepHiowICpou2USIs0o7y3hQbVRRhc59+ymK7/l3ZbT1fafDVoWWRciDHa/fuXKt1aZrA52MZik0B686N1ITNl610+srb+64FQ/xFoMZ00xdDCWP8bYphfVS4bRRPQ6QfXNQMjmkmwpVrU4NNTk2lkdLFSDpVu6UxBarm2w==;ixdoUsQDBZXTW0mdJugqXQ=="

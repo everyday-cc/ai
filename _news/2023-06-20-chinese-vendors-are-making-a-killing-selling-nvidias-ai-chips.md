@@ -58,15 +58,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
-    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
-    publishedDateTime: 2023-06-21T17:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
 
 secured: "HjrNiMNJ8cQnjA1IlngNEw7EPBu2raKZaalX2Ab9rZX67Yficl0NaGYiTgtum8K/CQxNe5iW+OdzgtNPdoWKIpJ4L+xCUj6VVXu1J78RTkNZUrcAuAL+6eGQINAB6OIeWy9xoS++LgLzSDluIH/WYb0nx2ZcAA4E02w3br6+AbhbPRKRPWAGjdXKBGDxmFl11T3TR88ETxsIhDn1RoxtXIBdy9HMfTFzW4X2plIJmHlLUaLYwBiyDCPiWJmysAGl/sAdpKTQGwagi65/6j4fGH3HgcdTT/xDXH9FHPICfPwC7QwkkbeRJZkJVLNPhktvS+MC023CZ85r3FcHqIijnc6uI6WWPk5W6FdDmHDnbBCzy+ssgMQdzeYzoJiA+G7agLuMARMI6MxJTS+tzTO7ByK/mDVTDBf4ReNH6jwx5ffgkzD/jR/p6jO1jTfbB/M4hGqZDQGhk85DpM6U5L6lau5CK4nQHn2MGChy61vhM50Q91k6k1JvIZwvjlnKP+Q38TktiWicS1YutmiAFc+8Kg==;gVg0AmEYequKs9AM0Pa7/A=="
 ---

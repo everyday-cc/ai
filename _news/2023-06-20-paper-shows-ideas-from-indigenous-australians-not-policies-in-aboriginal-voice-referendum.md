@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Australian parliament backs Indigenous recognition referendum: ‘Together, we can make history’, PM Albanese says"
-    excerpt: "The referendum will seek support to establish an Aboriginal and Torres Strait Islander voice to advise the government on issues affecting those communities."
-    publishedDateTime: 2023-06-19T11:05:00Z
-    webUrl: "https://www.scmp.com/news/asia/australasia/article/3224633/australian-parliament-backs-indigenous-recognition-referendum-together-we-can-make-history-says-pm"
+  - title: "Jacinta Price warns Australian voters not to fall for ‘emotional blackmail’ during Voice to Parliament referendum campaign"
+    excerpt: "Indigenous Senator Jacinta Nampijinpa Price has warned Australians not to fall for “emotional blackmail” during the upcoming Voice to Parliament referendum campaign."
+    publishedDateTime: 2023-06-20T10:41:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/jacinta-price-warns-australian-voters-not-to-fall-for-emotional-blackmail-during-voice-to-parliament-referendum-campaign/news-story/d8b9499b00c3a8296c2f59ba37b47104?amp"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
+      name: Sky News Australia
+      domain: skynews.com.au
     quality: 33
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/19/956fcb73-6a89-451f-a120-f3c9954adfa1_f5ca44e5.jpg?itok=Ae-mOu0_&v=1687172680"
-        width: 1200
-        height: 630
+      - url: "https://content.api.news/v3/images/bin/8c21e2aa48be35412d2410ecc7422509"
+        width: 650
+        height: 366
         isCached: true
-  - title: "Indigenous voice to parliament: How should I vote in voice referendum?"
-    excerpt: "Aussies will have a chance to make history when they have their say on the voice to parliament – but what does it all really mean? Aussies will soon head to the polls to have their say on the voice to parliament referendum."
-    publishedDateTime: 2023-06-20T00:39:00Z
-    webUrl: "https://www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b"
-    ampWebUrl: "https://www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/indigenous-voice-to-parliament-how-should-i-vote-in-voice-referendum/news-story/90b8d3abeac13f235892ff1dc02dce5b?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
   - title: "Australian Senate passes Voice referendum bill amid falling public support"
     excerpt: "Now that the bill has passed both houses of parliament, the government must set a referendum date, but the more people learn about the Voice, a proposed unelected institution at the heart of the existing political order,"
     publishedDateTime: 2023-06-20T04:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,23 +27,16 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
-    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
-    publishedDateTime: 2023-06-23T01:22:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
+    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
+    publishedDateTime: 2023-06-21T10:55:00Z
+    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 64
 
-secured: "OpP1YZIPmfxTKX5fzaScgIo+i7+A4n64A/oTFDm0nYbLAdcOOy5zANWFNs98yc75WvJnmr0toXBKiBCErZeF4JQIxXHoR7nzx0Y6n42dHQOhsiqXG3kNSg0LCEfLlP0wj+xKnhpPO4ZfHwk9Q792g9zX7Zp+s8TD2n044gaBhw5CHDx3BqJV7kCutC+FYEbvw2qPTl0+NutehQHrqMjVEuBLaeGdcXNWsSWw/6xc/DbNfa2glo1SeX68IVhZnrsSxbnkZJo0BqnUdqu4GBRuPE+uMuDGi3Pn03OfMF+v3qp9qZiNgeVNpB4zkIN40ZuXOyCnN+UuTEfP5YmFEai/+r79R0KC6G4MMRlJjdBM5ig=;NqGf1yDnuzlJIbmTdoap4w=="
+secured: "PVadJZ4Jz4c65OL68Lmn9zdpD7bQfD0adVLTrPWFYAdWWmrOe2oWHJ5ix3xmYGFXolrEOz2+phmzVSx49kj3SonIN5wVYUNmU7UE3Sa4rVqIirr0IIxfqMAA9x27HumIylVP32Wjbps98buwOay7f2ll+3/z6kxpZU9CJTBc4wVOqsGfumh7sO/9IYC2KJ0ZevrtcQtaERwagQiElWwxS8EOhAQVhu9DnZRg0EM/SgUQHNZ/Hh2p3PRMJR9FEistNi3M0g9w8fL3v0z2M84syXU36YOiAjQsdhjRuxzNOOzxqsi3fRXsiyf9/XQMkLpBGksS/4dTjISnhN/3ESnSOH2xfosuNhPhIKIROVsUQGgP1ay3X01ARmUXqPLuKQIfuZhCGQkJ8LAZs9t+FKzqVfzTA4u4nTKaV46EPPyGkEupsDBUeCcrw/e1ERdCUKxJG2qM5M4MsOR2tXV83JuHdBgvlPBHMxyrTUJo5WgkcpGCXV7inVvxIfdl92PFZL1d8HWQX0ygbZePLpOzHa4zOQ==;6BlRMALBN1tO8zNM7tEY4Q=="
 ---
 

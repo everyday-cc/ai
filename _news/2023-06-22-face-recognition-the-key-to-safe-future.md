@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
+    excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
+    publishedDateTime: 2023-06-20T10:00:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 68
+    images:
+      - url: "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902"
+        width: 620
+        height: 793
+        isCached: true
   - title: "Facial recognition attendance for sanitation staff soon"
     excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
     publishedDateTime: 2023-06-23T02:30:00Z

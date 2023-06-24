@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-beco
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: ZDNet
@@ -31,31 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence"
-    excerpt: "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too."
-    publishedDateTime: 2023-06-19T10:13:00Z
-    webUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/"
+  - title: "5 AI Job Search Mistakes You Need To Sidestep"
+    excerpt: "Learn the most damaging AI job searches that candidates are making, so that you can avoid them and increase your chances of landing your dream job"
+    publishedDateTime: 2023-06-19T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewfennell/2023/06/19/5-ai-job-search-mistakes-you-need-to-sidestep/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 100
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6489b33233b97d979475c366/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Embrace AI: Top 3 Tech Stocks Crushing the Competition"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Generally speaking, tech stocks are crushing the competition in 2023."
-    publishedDateTime: 2023-06-19T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/embrace-ai-top-3-tech-stocks-crushing-the-competition-1032396831"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
     publishedDateTime: 2023-06-20T10:11:00Z
@@ -65,29 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "SKT Strengthens Alliances with AI Companies to Hasten AI Revolution"
-    excerpt: "The company has been promoting AI transformation (AIX) through partnerships and collaboration with AI companies. At MWC Barcelona held in March 2023, SKT joined hands with seven AI companies, including SAPEON, Bespin Global, Moloco, Konan Technology, Swit, Phantom AI, and Tuat."
-    publishedDateTime: 2023-06-20T06:52:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32471-skt-strengthens-alliances-with-ai-companies-to-hasten-ai-revolution"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3bacf7ad4de69f1e1a9bf1201aece724.jpg?t=20230620_064518"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
-    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
-    publishedDateTime: 2023-06-21T13:28:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 12
 
 secured: "s4TgFSg1eL1i7J+HAJ8BEu9w8GTuptGQTlJMDccXx/YxcDnD6iTrRKhsvAfzk+nA/msWtDfjjaeomaZ8C0V8XO2mRrHUxT1j3yi9tOocvqQrc8c63EJlSe7869lS0irTUYf/21oX+Qb8eS49+6rvHxIWwBdq9IZ0aaVPmKf3dA93CsT79GdEo7vAQT/xeYnb8wa6t8Ja8DLlutIKzN8eJ14Y+KKgOp9rgj3GfpoKfwijrvJJJpaIIt2FKYoVv3Pp8ZKp8J3VTJVldFeSxn39olAKJmdqtSf0ddXAR2qwUwteh25UYx6NjK/9cC9u1xF9OwxOABucmxvFlFsDJSseV753hKbgi0uRltjtnGyMZavmfHhpPahPNqnYp67SPdYx1FXxPDf9XTmagv5fi/qd6kEAAyDZV8MAFulE7qSAq1MVpp0E4jGwuyIFbQ5nv7uYSjvo6nCz1KRo5eut5Opsci9552o25O2qJt/aaGrd2G8iTwuFy6QD4RyVHn4MDFNi8o9OWZEsKdV7cKFegE+t/g==;AOkn1iGVYA1sDvlDOwwDrw=="
 ---

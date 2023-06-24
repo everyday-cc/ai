@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
 type: article
 quality: 84
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -38,7 +38,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://images.wsj.net/im-802734/social"
         width: 1280
@@ -58,15 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
-    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
+    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
+    publishedDateTime: 2023-06-23T01:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 64
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
     excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
     publishedDateTime: 2023-06-23T16:16:00Z
@@ -80,20 +87,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Inflection unveils “best in class” AI foundation model"
-    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "YkaCLs23YWSRjF+W3YdXX70mSX3gzXclwamv7V8s5qwkXgHKdvUs3c5Rp6tWQ1YOMNCq5UdFdxU3QesKbfZvn5qvH/Hyi+xmkoVBw7lgYxk5fTSZyELqmJyLbEW5H12qF6HccnCO25SS3RcjK5P0eoHdxE24cP8FuliOdw6OBJ3Ub7kbWeG7yOfeVQoggk8s99guDqBnIwEvRRnQ3c1QaSEZ6ERDeK5XVMIT8MAOAIRg1f3EZZYjsuxPEiA1v/T8h4AjYgkYq80qgDMdTXsd3+RuURl9pPfgNSF6CccRzQEwIFgfZKaSiOqOLNg+AluIX8JVE1cpa/v9LF2qH6eDoIoHhyAH/ZZGt+VpABHOAOU=;w+AOJGBLLmEvLrZoYUSyqg=="

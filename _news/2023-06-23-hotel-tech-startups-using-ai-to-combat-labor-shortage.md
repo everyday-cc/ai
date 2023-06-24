@@ -7,7 +7,7 @@ originalUrl: "https://skift.com/2023/06/22/hotel-tech-startups-using-ai-to-comba
 webUrl: "https://skift.com/2023/06/22/hotel-tech-startups-using-ai-to-combat-labor-shortage/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,45 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "This Startup Is Using AI To Reduce Emissions In Hard-To-Mitigate Industries"
-    excerpt: "That’s exactly the kind of work that’s the specialty of Fero Labs, a New York City-based manufacturing process optimization software company. Today they’ve announced the close of a $15 million growth round led by Climate Investment, bringing Fero Lab’s total funding to $30 million."
-    publishedDateTime: 2023-06-21T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/jimvinoski/2023/06/21/this-startup-is-using-ai-to-reduce-emissions-in-hard-to-mitigate-industries/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
-  - title: "This Indian AI Lab is Using Gen AI for Social Good"
-    excerpt: "Wadhwani AI, a non-profit AI lab set up by the Wadhwani brothers is fully dedicated to tackling societal challenges in India with AI."
-    publishedDateTime: 2023-06-22T07:12:00Z
-    webUrl: "https://analyticsindiamag.com/how-an-indian-ai-lab-using-gen-ai-social-impact/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Wadhwani-Gen-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Thai AI-based data startup Ocean Sky Network raises $4.3m in pre-Series A funding"
-    excerpt: "Thai AI-powered data solutions provider Ocean Sky Network has raised $4.3 million in a pre-Series A funding round led by an undisclosed private equity investor, the company said. The Bangkok-based company plans to spend the funding proceeds on product development and overseas expansion,"
-    publishedDateTime: 2023-06-22T03:03:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/ocean-sky-network-funding-349153"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 32
-    images:
-      - url: "https://media.dealstreetasia.com/uploads/2023/06/S__6381757.jpg?fit=1000,667"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "K3QP+b86IZT+2c9+ELDXQxWkXR8TS0XiN/U5zaBkpalZ3B0/e1TeJpZLE1exOA71Nk5594LZ7nGAmTDH0PqvTcOPyZyQIGEa54DzDKvDRnd0dNRxR662EiNM9giPEH+ZXhM9qxzLI7wOBWJaUOT37GLQ/FEWTza/07UiOwzVowX2B5DW/u+7XDklDbfRv5ld7XkT8Rb09YqmWT1fhn2r+7aakfkyAci25pmkAcyRoNpsvi69QK9e+NcGLpJIuBhajJKgtPPNhx22idOWfFGgfhPCrg0T0tpI0C/lkDXQ3cTQ/u/y5+bMdFdaZZTn91W4ab1xK9QLmQ+scE+JmYPsPUkqSlkaDf70Dz2qcTxaw6c=;A+8eh6c3JhsY59PwzkflaQ=="
 ---

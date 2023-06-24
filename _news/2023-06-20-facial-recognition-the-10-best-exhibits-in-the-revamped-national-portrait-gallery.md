@@ -31,10 +31,10 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition(ASR) Software Market Size | 2030"
-    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Automatic Speech Recognition(ASR) Software Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
-    publishedDateTime: 2023-06-19T09:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-2030-2023-06-19"
+  - title: "Face Recognition – The Key to Safe Future"
+    excerpt: "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels."
+    publishedDateTime: 2023-06-22T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
     type: article
     provider:
       name: MarketWatch
@@ -45,61 +45,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clinical Natural Language Processing Market Growth | 2030"
-    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Clinical Natural Language Processing Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest"
-    publishedDateTime: 2023-06-19T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-growth-2030-2023-06-19"
+  - title: "Facial recognition attendance for sanitation staff soon"
+    excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
+    publishedDateTime: 2023-06-23T02:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Development Market Size | 2030"
-    excerpt: "Jun 19, 2023 (The Expresswire) -- \"Computer Vision Development Market\" [2023-2030] Research ReportAnalysis and Outlook Insights|Latest Updated"
-    publishedDateTime: 2023-06-19T11:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-size-2030-2023-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
-    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
-    publishedDateTime: 2023-06-22T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg"
+        width: 660
+        height: 439
         isCached: true
-  - title: "Speech Recognition Market Sales Data At The Global, Regional, And Key Country Levels With A Detailed Outlook To 2026"
-    excerpt: "speech recognition market global opportunity analysis and industry forecast, 2019–2026 portland, or, united states, june 21, 2023/einpres"
-    publishedDateTime: 2023-06-21T05:53:00Z
-    webUrl: "https://menafn.com/1106470939/Speech-Recognition-Market-Sales-Data-At-The-Global-Regional-And-Key-Country-Levels-With-A-Detailed-Outlook-To-2026"
+  - title: "Facial recognition in the city"
+    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
+    publishedDateTime: 2023-06-22T07:46:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 48
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?882142"
-        width: 333
-        height: 250
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "z5GSHOsgIMrPEv5UHaOf46CfekBDhChpefu4YBKkzI5JTzqAG98Um7rejrW0F5qXP50XUtIQW3V+lnFC102zT+A3ccnb6nXMEb03p1Mv/hDOlMNfKafEV5tqUhW6sJZzBoiGjIEOhmX2PKYvMyxwNqWFYBZqd/k6Rctp8/GqhF9V/MbaLk1tjjr/4/bFpH5Ge39liDTesbZRTaPRNElXQAHrJiLBtKAefzWEvkp28HbqEgfpsWROVQ5MGmohwlvq6ESrGodYU3uf1bwQtEvQKQJ+nf4vdh5lb+C6kF8sjvkYQGQMObIQPs8CO6Y/hdjao8XA48lRuglgDf3qUovEaKuSHG+rbFYFBzOg3b0Z+b+FMhBgcEBIlseY45uhbugrgR+gRgS89UbhCOyMk6PmkLhrpatra91Z6UGH4IWzzX1yUw9BvpwrMKWJssggne0mCxJBRA2Bs8ienUh7OVjO5ZWjxp2O4WOul72yjKoOUIH7ox3k/dgLlMcAohNyU59bwqWcS6cImad6nXq1EoHvZA==;6ltAy7GLEsAQ9WMVynVqdQ=="

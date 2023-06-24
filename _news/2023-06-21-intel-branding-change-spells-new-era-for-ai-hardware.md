@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerat
 webUrl: "https://www.techrepublic.com/article/intel-core-brand-ai-accelerator/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     quality: 37
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Greg-Ernst-CLEAN.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
-    excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
-    publishedDateTime: 2023-06-21T21:15:00Z
-    webUrl: "https://siliconangle.com/2023/06/21/driving-ai-innovation-intels-lisa-spelman-discusses-the-future-of-computing-hpediscover-hpediscover/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Lisa-Spelman-HPE-Discover-June-2023.jpg"
         width: 1920
         height: 1080
         isCached: true

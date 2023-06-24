@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-the-allure-of-ai-for-startup-founders-101687238366026-amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Hindustan Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predictions for the Startup Ecosystem for the Second Half of 2023"
-    excerpt: "The startup ecosystem, true to its nature, continues to evolve and disrupt the status quo. There are larger technologies that have been in the making for years and are now coming to the fore, like AI in the form of ChatGPT. These are disrupting how ..."
-    publishedDateTime: 2023-06-19T09:43:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/predictions-for-the-startup-ecosystem-for-the-second-half/454335"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 52
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687166924-Untitleddesign17.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Should You Start a Generative AI Company?"
     excerpt: "Many entrepreneurs are considering starting companies that leverage the latest generative AI technology, but they must ask themselves whether they have what it takes to compete on increasingly commoditized foundational models,"
     publishedDateTime: 2023-06-19T12:15:00Z

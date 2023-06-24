@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
+    excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
+    publishedDateTime: 2023-06-19T15:43:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-802734/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs"
     excerpt: "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ..."
     publishedDateTime: 2023-06-22T17:44:00Z
@@ -40,20 +54,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Artificial Intelligence May Eliminate Some Jobs, OpenAI Executive Says"
-    excerpt: "AI could potentially create some jobs too, the artificial-intelligence company’s chief operating officer, Brad Lightcap, said."
-    publishedDateTime: 2023-06-19T15:43:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-may-eliminate-some-jobs-openai-executive-says-d4ccd285"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 82
-    images:
-      - url: "https://images.wsj.net/im-802734/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "MosaicML challenges OpenAI with its new open-source language model"
     excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
     publishedDateTime: 2023-06-22T14:00:00Z
@@ -68,28 +68,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
-    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
+    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
+    publishedDateTime: 2023-06-23T01:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 64
-  - title: "Inflection unveils “best in class” AI foundation model"
-    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 55
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "I66DKObq3NXuA6vSB/I4xf94nx+s/FaRnxRlkxZvNBU/zbJFylXcpu+cw0rIrbOOX7ihH6/hg3EaAxe66OiPls9qJW1wVuR9MdHW1bdaKHZwqQ6nWLo7/l/+xaqCWyMP9qo44+g0KY3j7ZGvRYpsShWB2km+Q0sUTepRr8r5E9uxeaZZeHmfusNsqPaeCeLOWBZS3E+hfk94WJRdUUTonNC0Nu0GHpd5/nQO2AD4CqGZrNCDvoiWdoRZPG92jVDByUG2dJu+ENuWc5HMmWiJFtzZVRX7bBMewqgue5Aq06DeQgqywyOKJvUAFck5NvXYSKK/qu8bSo6hx5DmJ83VcmC0UFGz3FCKudfBIffyUpk=;ySB90Fhq+GZDQprzJ8D80g=="
