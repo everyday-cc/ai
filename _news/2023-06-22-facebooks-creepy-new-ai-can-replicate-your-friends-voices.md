@@ -39,15 +39,6 @@ related:
         width: 1121
         height: 630
         isCached: true
-  - title: "Facebook owner says new speech-generating AI is too dangerous for public release"
-    excerpt: "It is possible that Meta is concerned that Voicebox could allow for creating believable sound clips of famous or influential people — particularly political leaders."
-    publishedDateTime: 2023-06-20T13:09:00Z
-    webUrl: "https://mybroadband.co.za/news/software/496987-facebook-owner-says-new-speech-generating-ai-is-too-dangerous-for-public-release.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 14
 
 secured: "uN229pbjwcp9n2oTj59PJ/mvYBkGGNh/xgOg+l05R0mg9Os3Xd+vGK5OudRKRDXbGBha3nvmREYZ22XSIym03beQbbmENgf8CK6M6UaKVhGCmX+15tE/oojAzFCTOi5n1L34/31jUY+XbTCWmQPRfWi19PrDMShSE8j5D3jHi7t+QDHXi0/4VMXLyAjFQRnCaUglMZrqhbXi13oqMPSLneIuPUUgXmdsnidigcvDYKR5tvEVN6Qe1Hhtl6FhPtSxBqJ8YPXo0dJVCmK4T62D/Wz6d+whjKVJYgswHI86VwvIJnjAP1sij2Tcjteym1RsjME8ZtjfVHGslqwqAlQXMtLelZqEPN2AWfWjtRqPF+A=;HhKJU3b8HwVymo73Qt7Ytw=="
 ---

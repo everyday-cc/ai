@@ -124,15 +124,6 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "2eYKKSf8HtupaW89+ox5AD4AhFkkHaqIZIpkeSNNYPjvy2MeAq1KgAWB7d5BKSxdg5wH1y9EnI/oZrhXVX7IpUZCnjbCRY3CJe9lE3YUNy1vAHJJlqWjrdRuaGomha6iUGqTITKxtitXxLAM1Wtiw80/37Bif+pnrun0nczXX1m7yLIbnGmi5nwMieQd9PlJnHUNLQ6tToa0dswV4EWQYFfT5EOsTQsrhTPK1e1IYQ6e/ZGNI+Iso4yBTQmQlPT4LSx1KO+T7xwPHOKG6Ou2VhYMXIHz+l4WwUId4nTWzeiIqc0G7S3TOXpknATCnwd166gKJeM+gRttt5nt1miyLrHn29SspzMttUDO14sic9D6QoM+ZmjQyZgRn/y/A0bOMVMScNTKYI+SqXyZSogLJV7REcRorjBrB8VeTQM8YSiEPfUJsPEKWbMcopMQykpxG7ENpltNFj3RtEcUnCwVhE+MvwCd8qjCrW2EnEJY3H9tkqrwDvODwq+t3ymdeDlpQDj8bQm0KjwxvR2187Rl8w==;ZSWTEYNnGuTwCfx1MBegNg=="
 ---

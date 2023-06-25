@@ -45,6 +45,20 @@ related:
         width: 3000
         height: 4000
         isCached: true
+  - title: "AI robots go to court"
+    excerpt: "Consider the recent words of Mr. Sundar Pichai, the CEO of Google, who admitted in April nobody really understands how Google’s new AI named “Bard” works. “There is an aspect of this,” Pichai said, “which we call — all of us in the field call it as a ‘black box."
+    publishedDateTime: 2023-06-25T07:45:00Z
+    webUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-court/article_3cd3bc4a-1089-11ee-b542-f780ea9b84b2.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319"
+        width: 600
+        height: 319
+        isCached: true
 
 secured: "6/quohepBBfLb1inBvqSWVWWkRYCmllF9MAP1jij4s8PPilteoiEwNooGlieYpdvjcGuUYPfOuQwKNYjx3FHoTno70vXBR7uaDtlr3KWjCIUdV3ZpPicyI6VecZAXwyJ5jSK25IV9QJe9S59PPBOXs9I6wrKYij3Hdi93lQGaedeSbGCGgU5EZqXluQPFnJS0UR7ZTOxJzeZr+2KQoGmjtCIDVwUu6zEn28zYsc4I6HghM2rPCqD+79BJWjOdmmnAFXGwdOx8Rnc5ousPktYdoun8cYWiIS1r7hhcoBu3mBmCIYQLMZyGitvAgCrsmja5zKn9tLeebpmVudRfagwgYp4Q3t2T9iGzU2XlGFwy4Xh0h9doIZ1zvElxrF+NuwM6S6btyc2s/SPiCVoECo0jXP/NBu9IsIt1VOe8GSeR5x6QulFMmzATabg2VWQnZrE6qR7LcfESnZagqDtcPn0mCmP1Q5qpYGfZu54cv4fLvDjD8Hqq4LOdlirRgCrp7LYa1kMeDhJaO9qrEzZXJqGeQ==;j3BBFuwtwR0GF3/b+jkL/A=="
 ---

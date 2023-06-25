@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ais-new-ai-chatbot-will-automate-your-next-steps-after-meetings/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "dIK+JCVb/FSYByEYsHuX17KsIM/YXAQRLTU0EgH0rJh/nwMG0xZ9rCL7wsmwd6yN5JCBvIBPjjUAsj8xQ9h0LZUH4wkz6ZwqD8hQlzbH8F7W1hd+WvsUPk672HTuTjdSbuyGvpLaq2MkTNOQHCfhEVtQV0BRwc9heZSs51L9LDnkYbl1LnAwbjXRYpKg8lFOB5vfTqU9GrtTE42q+ewpnjF5eQZB/qqbGfWl53rVWApL4eGQUaAo1OWetETv1zdVhJ7Sb10bs1TxQ0oOcII7zOsqIVKBmO5HOOyr1qFuGfZus/N2tpLRCJMktDD2lPYbkIwSDVLDLjSxCOm/2X0SF/PQNclim56TyXLFZ0WvIBo=;2YR6uiM2fsztVbVnWvYgeA=="
 ---

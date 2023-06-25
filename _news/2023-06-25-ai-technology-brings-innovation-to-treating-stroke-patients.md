@@ -8,9 +8,9 @@ webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innov
 ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Benzinga.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

@@ -50,15 +50,6 @@ related:
         width: 1198
         height: 685
         isCached: true
-  - title: "AI In Real Estate: Where To Start"
-    excerpt: "In this article, I want to share some ideas about how you can start using AI in real estate (without getting too technical). Handling documents in real estate can be time-consuming. Different formats and inconsistent templates make it challenging to ..."
-    publishedDateTime: 2023-06-20T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-in-real-estate-where-to-start/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "RldmdwG81HFV8nmkxCZTeNLE1zET4Qy3ThlhpHNSAwDMJbLz5j16hu8UocWkL8Y8HIlh/STZ4EcidFvSdW3qWMq1Ig5vBmHlNm3oFyqGjLItD6lsLxXmJ/ZB9lEc4u2Z0k+sLFgGIsP98/eGRRikSyT3820OYMyStQ39uBAvLEq/UHsq6aAdmn1a5Cb5Zy/LkRj/WMJ0KOy1q08GTf3SgH984CCjXy9RHs5p6sZRLplQF1iyPGJCdT5ssQjqZxR2PaEYXfcsWM+vSFHhKwR8T1TofknfvWvGlrCzkW9ng4H5/0VgfAjWbvhcLRRyESmsHivTQc1Y1iD/pkYo96zYYsYl7haJimrznSO81qdUeymaspCsnpfxQyE3hVq7U7xoaJsO9lrAGzZdJcpsAk+swpkb2ZMW0GFJWmxwF0rL6L/k8x5uls2s4H6vhx2mKVrTu/s8+q6dtbYOcE0+PVAZgWVICs3XD8/pxQTx56hr8sevx6c0EHJKU0RH+XvShPp9xZsDKONuvIClb1bNEbe9cQ==;qsssfN6XjanwUZvUXe52kQ=="
 ---

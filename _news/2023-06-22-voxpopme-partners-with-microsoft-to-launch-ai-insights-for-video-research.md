@@ -196,11 +196,11 @@ related:
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
+    webUrl: "https://www.kansascity.com/press-releases/article276616381.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 33
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."

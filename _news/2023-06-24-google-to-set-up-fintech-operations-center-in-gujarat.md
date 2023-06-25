@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
+    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund."
+    publishedDateTime: 2023-06-25T06:20:00Z
+    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.html"
+    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 53
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/25/w600X390/Google012.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Google to open global fintech operation centre at GIFT City"
     excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
     publishedDateTime: 2023-06-24T23:56:00Z

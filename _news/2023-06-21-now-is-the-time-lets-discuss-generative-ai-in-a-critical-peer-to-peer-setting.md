@@ -45,15 +45,6 @@ related:
         width: 1396
         height: 900
         isCached: true
-  - title: "AI In Real Estate: Where To Start"
-    excerpt: "In this article, I want to share some ideas about how you can start using AI in real estate (without getting too technical). Handling documents in real estate can be time-consuming. Different formats and inconsistent templates make it challenging to ..."
-    publishedDateTime: 2023-06-20T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-in-real-estate-where-to-start/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
     excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
     publishedDateTime: 2023-06-23T09:03:00Z

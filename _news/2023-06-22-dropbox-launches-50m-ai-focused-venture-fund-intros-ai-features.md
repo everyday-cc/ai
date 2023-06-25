@@ -68,21 +68,14 @@ related:
       domain: venturebeat.com
     quality: 47
   - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
-    excerpt: "Pangea.ai, the pioneering platform dedicated to connecting businesses with premier remote design and engineering agencies, is pleased to announce the re-release and"
-    publishedDateTime: 2023-06-25T01:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/32998476/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32998476"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32998476"
+    excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
+    publishedDateTime: 2023-06-25T06:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Tampa Bay startup accelerator launches AI-focused cohort"
     excerpt: "The Tampa Bay Innovation Center is launching a new cohort aimed at startups in the machine learning, artificial intelligence and data science spaces. The program will focus on startups simplifying the collection of data."
     publishedDateTime: 2023-06-21T18:46:00Z

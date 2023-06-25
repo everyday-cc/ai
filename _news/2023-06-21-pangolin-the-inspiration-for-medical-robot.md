@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists develop magnetically controlled soft medical robot inspired by the pangolin"
-    excerpt: "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails."
-    publishedDateTime: 2023-06-20T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Pangolin, the inspiration for a medical robot"
     excerpt: "While pangolins have many other unique features, researchers from the Physical Intelligence Department at the ... are showing how they can flexibly steer the robot through animal tissue and artificial organs."
     publishedDateTime: 2023-06-20T23:23:00Z

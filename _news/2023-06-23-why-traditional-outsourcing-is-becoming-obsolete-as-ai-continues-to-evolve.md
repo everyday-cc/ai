@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CareCloud Leadership to Explore the Transformative Power of Generative AI in Healthcare in Upcoming Fireside Chats"
-    excerpt: "About CareCloud CareCloud (Nasdaq: CCLD, CCLDP, CCLDO) brings disciplined innovation to the business of healthcare. Our suite of technology-enabled solutions helps clients increase financial and operational performance,"
-    publishedDateTime: 2023-06-20T14:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835715.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "1ZzE3O8vpoUbgZruFYrglZjiQwmC5M8nDokK/J0NjxqWg/IcvpT+ooE1TxI1p2IZwznC61gP7G3o5k7bDzNkAIFed9x3SSllNH0nbADIe8i2LSr4jAr5txRh5HFO1vnddMWQO1aCYxpRSFvYEccBuyWa6e+3AKk9Gifhc4AmN0TxLH79HfRLuw81JHxbVidLG34tr+WAJ6ir0VAM+ApUIr5J+11EXaNg8AH4odB9HzxC2jtBWabzcnEaO8Xf9tcj7gq2Mx6xR+pb+FiHRI8syrJzFqwta3P8+CHcbBpYEufE6fK0dwV0TvIfjFJDwVLdW6t3psAVWv5pywm66n9GTgdIiQG9h7ZoFfCdG6a1Jx+SYiv+wqsS78boBZ9r8fgGU9fxTcYZbwCY1n9jz7Yz4u4/cHgCFTb/C5A8xGnyz37I0cZ12+f7vAE/9VaYJO0iRAOxcLcbNTZxBFuIq+WU1KjRTOWq9EtxDyvoNsv/UChWuvRKA5I7p+jL0kJ3U9J6y3DiF6TlNhm75dytk7EkIw==;NwJlrelvU4N4y13nCcrqOw=="
 ---

@@ -216,20 +216,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS Announces $100M Investment in Generative AI"
     excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
     publishedDateTime: 2023-06-23T07:59:00Z

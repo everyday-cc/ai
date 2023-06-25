@@ -123,15 +123,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Yellow.ai launches generative AI-powered ChatBots and VoiceBots solution for customer and employee experience automation on SAP® Store"
-    excerpt: "By integrating with five SAP solutions, enterprises can now leverage Yellow.ai's Dynamic Automation Platform to deliver autonomous, human-like"
-    publishedDateTime: 2023-06-20T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-launches-generative-ai-powered-chatbots-and-voicebots-solution-for-customer-and-employee-experience-automation-on-sap-store-1032398986"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
 
 secured: "PbhI9MdoIHfRahYV9CZ0lP0oHDbDJGUTNT1ouz5pmkHo927aSuYxtP1KafpmMhQhuz7MxkZ997iDOglHkqp09VQ1igi8SxNsuXISoO5c/Zmoj25BssaGMtVkzkNYJVVkGNMa+JtGA4Hqq408f9wqNpeKyqaaNxKeGk1xKyH1Z38TNs0+um1NAYA78R3diNxojoSlg0nG8NvGDoZaYzLMzrHuECAwSqzZ7PK443Jqw/DHaq1lI01HayBwFY6mL8z1tH+G508cgkQ2/EPN5jMnZq46gBakMsNFG6IXqfgapXIJVSZgGiGFwpJz8i1syo2Z7LSsu+bCKGCDv+XRMX0n95FkimpsUe5AQt2OIP/IYog=;W6+4OtHJrtITFoipoLl8NQ=="
 ---

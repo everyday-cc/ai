@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Scientists develop magnetically controlled soft medical robot inspired by the pangolin"
-    excerpt: "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails."
-    publishedDateTime: 2023-06-20T15:00:00Z
-    webUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "Pangolin the inspiration for medical robot"
     excerpt: "Scientists at the Max Planck Institute for Intelligent Systems in Stuttgart have developed a magnetically controlled soft medical robot with a unique, flexible structure inspired by the body of a pangolin."
     publishedDateTime: 2023-06-21T04:52:00Z

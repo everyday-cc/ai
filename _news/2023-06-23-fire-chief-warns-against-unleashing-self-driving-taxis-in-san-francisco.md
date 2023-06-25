@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
 type: article
 quality: 58
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco on Tuesday to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T14:01:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
+  - title: "Biden visits Marin after AI forum in San Francisco"
+    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
+    publishedDateTime: 2023-06-21T01:18:00Z
+    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
+    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 46
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/38aecc01-3c7f-4331-9ed3-ca55716187ef/thumbnail/1200x630/1d0e3238c21f157c64541c99aa418230/biden-bay-area-visit.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
+      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
     excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
@@ -95,20 +95,17 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "'They're not ready for prime time': San Francisco fire chief says robotaxis interfere with responses"
-    excerpt: "Robotaxis have run through emergency tape, blocked firehouses and proved almost impossible to move out of the way"
-    publishedDateTime: 2023-06-23T14:14:00Z
-    webUrl: "https://www.ems1.com/technology/articles/theyre-not-ready-for-prime-time-san-francisco-fire-chief-says-robotaxis-interfere-with-responses-GcwTELEXYjtrMvpg/"
+  - title: "President Biden talks AI with tech leaders in San Francisco"
+    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
+    publishedDateTime: 2023-06-20T20:54:00Z
+    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
+    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
     type: article
     provider:
-      name: EMS1
-      domain: ems1.com
-    quality: 9
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/AP23077015308090.jpg?w=1600&format=jpg&quality=87&crop=29%2C0%2C1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
+      name: KTVU
+      domain: ktvu.com
+    quality: 39
   - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
     excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
     publishedDateTime: 2023-06-22T13:18:00Z

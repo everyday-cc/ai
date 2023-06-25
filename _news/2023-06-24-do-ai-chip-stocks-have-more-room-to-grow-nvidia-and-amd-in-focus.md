@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
 type: article
 quality: 84
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -29,31 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Promises An AI Chip Power Shift"
-    excerpt: "For example, AI developers preferred Nvidia chips due to a well-developed software package CUDA that enabled them to access the chip’s core hardware features. But AMD revealed on Tuesday it made its own software for its AI chips, ROCm. If developers ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://www.benzinga.com/23/06/32924098/amd-promises-an-ai-chip-power-shift"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32924098"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924098"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/motherboard-closeup-technology-integrated-microchip-circuit-board-computer-processor-with-neon-light_0.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "US sanctions ignite booming black market for Nvidia AI chips in China"
-    excerpt: "In September last year, the US further tightened sanctions against China by instructing Nvidia and AMD to stop selling their high-performance AI-focused GPUs to the country"
-    publishedDateTime: 2023-06-20T14:33:00Z
-    webUrl: "https://www.techspot.com/news/99136-us-sanctions-ignite-booming-black-market-ai-chips.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
   - title: "3 High-Potential AI Stocks to Buy Before Amazon-AMD Deal"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors seeking to capitalize on the rapidly expanding market should pay"
     publishedDateTime: 2023-06-22T10:50:00Z

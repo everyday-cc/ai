@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
-excerpt: "Pangea.ai, the pioneering platform dedicated to connecting businesses with premier remote design and engineering agencies, is pleased to announce the re-release and"
-publishedDateTime: 2023-06-25T01:42:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/32998476/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/32998476/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies"
-ampWebUrl: "https://www.benzinga.com/amp/content/32998476"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32998476"
+excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
+publishedDateTime: 2023-06-25T06:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
+webUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Dropbox launches $50M AI-focused venture fund, intros AI features"
@@ -98,6 +94,6 @@ related:
       domain: moneycontrol.com
     quality: 12
 
-secured: "z6VlqNvC6vUXCrjE8abBIfo4deuqizVtaEqNcMBdHmNFLZIeDEokfpCn9fYadnBoeO3tRH66LJ8FbBJd2LM5uMXg7/8m0iAeNu44v262AVCHZcIa6Wj/H2vexFE+GSyVRcaeXKDAikFv3qkPwM+H3nwIYvuW4/4mjXC6GthrpdIwSOC6C7iuJ9Se9esfu9zhbEZmpgKytSnpTDCoZ3Hdpwih39qKEEtLHl00AcIItQRNLYIU9UzJhRpJ3caCDF8kMwuzo65cmkNO+ffU1cLLgD2dqx5iVmhMk5ZFzTgoHlLzGt3RluSN4gTrUP6z1T87JQ2FDzxa5L6xbbXA23r3NSLMjxvmmvkZaBV5WIpxS6Y=;DBjsjIePdG/uip6boMl4JA=="
+secured: "+b2BYwO5Es8fEmM5eXGHW6YbYUgt7UZFXHHmu3m+aNf8K5wSapTX0Hn5Pk1lnWUTxvOghsD0cAkmK9srTPdd2IuSHKVOOG0XUYSzD+RKHegDjK6FWx/i7jTtyuU6li5I0s6r41/LdhKDTSEDCuxGR1gX1wwrW6XJ3m1twudt8jui9y0vlziqO0eLOIkuT+kXU49Ybh0ftO74LTldQ49L0Bq8ql//3v2RbdPk01pckA2i2/m7eqWvMZtM7d42Iwug+qDkexJe+3XWL1dVblpbjr/gLyrC7yfSFcnhFqU4oDvJ6DFR6+ZgpMxEbH6+ctvYedVQLbAX80ixChsLOfAP+rGTJQvopf0nrZBfI+mH+qw=;W+Y/pEduwku6spRwWxHCEQ=="
 ---
 

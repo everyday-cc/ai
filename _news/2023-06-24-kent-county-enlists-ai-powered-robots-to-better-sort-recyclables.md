@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/783f7e31d8662867bc4f3adb4458e39d99ef48c9/hub/2023/06/21/2b359d8c-bfc7-4211-8b5d-196ffaaf538f/gettyimages-1393881047.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI robots go to court"
+    excerpt: "Consider the recent words of Mr. Sundar Pichai, the CEO of Google, who admitted in April nobody really understands how Google’s new AI named “Bard” works. “There is an aspect of this,” Pichai said, “which we call — all of us in the field call it as a ‘black box."
+    publishedDateTime: 2023-06-25T07:45:00Z
+    webUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-court/article_3cd3bc4a-1089-11ee-b542-f780ea9b84b2.html"
+    type: article
+    provider:
+      name: The Norman Transcript
+      domain: normantranscript.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319"
+        width: 600
+        height: 319
         isCached: true
 
 secured: "etBSEpwlznQdt0JSsAhzEq3GtUU/o1Jm27OrsOMeXU2/91IA7YLYyQLcNrA69QuHTzNyXyWa+FvI9h2G0rLJcMuyvvk5RJGK9F85Yw8evC+CKascISV9lcWqhBtOjakch7JfpM60OkBBYSPLtq9XDye+PIObArW965BJpL1FGcBv1eXeNQzNiopFvsO4KVpliYVWNy112i9/5J4d8Sny/sbHji/r0i67ppnC2s0EH9WJ9m+KUzCTQrQZdEsiOpYN/7ecKQOulz+eT4/FInmZWD1kbx2p/B0Ddg8snAgDYxfmKEukSRMKTGsROlLge1cxPURhnmIqDYGaA2TyszLSG73uNDLMboWOtyJblJp8WzM=;MC3K6LFGvFeqZ6oREL+jTg=="

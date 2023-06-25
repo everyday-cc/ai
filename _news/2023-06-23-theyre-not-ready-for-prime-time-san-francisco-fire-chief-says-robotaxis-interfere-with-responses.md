@@ -7,7 +7,7 @@ originalUrl: "https://www.ems1.com/technology/articles/theyre-not-ready-for-prim
 webUrl: "https://www.ems1.com/technology/articles/theyre-not-ready-for-prime-time-san-francisco-fire-chief-says-robotaxis-interfere-with-responses-GcwTELEXYjtrMvpg/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -23,115 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco"
-    excerpt: "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies"
-    publishedDateTime: 2023-06-23T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Biden to host a forum about artificial intelligence with technology leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco on Tuesday to debate artificial intelligence."
-    publishedDateTime: 2023-06-20T14:01:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco-3/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 46
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/38aecc01-3c7f-4331-9ed3-ca55716187ef/thumbnail/1200x630/1d0e3238c21f157c64541c99aa418230/biden-bay-area-visit.jpg?v=23da2bed74e9783333cf303fba619e89"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
-    publishedDateTime: 2023-06-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
-    excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
-    publishedDateTime: 2023-06-23T15:37:00Z
-    webUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis"
-    ampWebUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/94da5ef/2147483647/strip/true/crop/1172x611+0+51/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2Fb4%2F95696e8771c007df4d93db50a98b%2Fsan-francisco-shutterstock.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-    publishedDateTime: 2023-06-20T21:50:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 43
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
-    excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
-    publishedDateTime: 2023-06-22T13:18:00Z
-    webUrl: "https://www.firehouse.com/apparatus/news/53064109/san-francisco-chief-irked-with-robotaxis-tangling-with-firefighters"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 4
-  - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
-    excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
-    publishedDateTime: 2023-06-22T12:04:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
-  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
-    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
-    publishedDateTime: 2023-06-23T18:07:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
 
 secured: "qD0gxxZkKlMfrX0dg8UNDNyP1tB1VjPZ8/nENaoZOtmzcHvGs2jj+81OaP+kskhaPMthuQRvdOu4vO75bptgJCN1P2mmHIc+BXnDGfPyzdRQ7BO7Gxlu52TTlT88dy7ukBlQLN+wRlLiRP1botIRJ+4wXpYQyefwm/68PMeFHrhYR9HaGiiOUKDwhmPLE9b7iXTa4S5Ig66JJ6oLM/PXqpspd+ewJxrmnJ6+7hF2szzhjOjWS0Uc3LUbGNmMvwmm/0JLmQXqHqHzc823TQ7WVoMCakMF5zs1ousFaWg2Y7PELauAUBBiQZoQuFufmt1fVBYqYh5kcbHlbcRhDwlEboVXZXNAIuwO6J+i1vEImFBLvrBNdSqqv24GR7oFCEo7ZHdHw/9EXd1bUQgj+MnwhC56MdVV4g62dy1i/mnNAkjmUr3DdBMJJ1GcEYI5+lRRunYf4FQXTxLNIpwN7w6PpCiS9Q/3EHA9iE1ydJ7wagNrgh0DWIhj+KIqyA0+UE39G6kYedHKXhzAe/QQ93Bgxw==;4A0p+QM0wu3343rPDZ9djw=="
 ---

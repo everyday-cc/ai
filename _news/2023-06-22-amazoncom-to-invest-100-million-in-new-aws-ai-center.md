@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 424
+heat: 414
 published: true
 
 provider:
@@ -205,20 +205,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
