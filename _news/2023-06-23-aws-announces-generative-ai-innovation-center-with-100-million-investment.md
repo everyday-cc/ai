@@ -432,13 +432,13 @@ related:
       domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
-    publishedDateTime: 2023-06-21T10:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
+    publishedDateTime: 2023-06-21T08:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: newsroom.businesswire.com
+      domain: businesswire.com
     quality: 19
   - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
@@ -450,6 +450,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "fOh/IJ3jZxyOFilHn1ZEKF/z1BWJ6IhTplED6x3ru90uziZS+OPRbtA3F+t90YFiErewXx5ouM4zHI98gNlTTMvG0wsCTtzcyGhCK79XMRTYkP6SEn8TtwmioWIZS72CkqpH4sIRVW90a6fgrW3i+R+CqHM1i5n3+5JvF4dclBtP/juqwZBQ1xNPU0WVs/aDYXX5uyCYeTSoj7juexIj+7LX9E26IFIt12FBaRxfOg7TaQhYCl/OuRZj4IuumzuqdPBeee4kH68Tu5+bwK1+phtcVmFcIr4WaTgWaOOBnoVT5LaT6/1CpjEBH1th1UKyYsJrSMmn5Shtn5wVPCZ+DYofwu8EiAMonBh/uuRENTs=;Rg4Zn7HqndJYQE3E3FHccw=="
+secured: "mcpHmid/4usiovPmhX6wUiI0Jqq+Wkv98jDzmZC0yRT3L4hcsYkYX5who1fcyV9D4AOa3SCDAgCY09u90+QrpYNhcl9wttkVKUsdpxzF3LIdYWQiATBWAWpGoFQk3/g9AGH5SyNoSfmIzrYYi7cPNwfqjkyEzDn8UVX2AcQoZMfqVlLzXKj1SbiVNSIRxhHJHbu8JjE4/Bsg/oyvEosRWg8SwzOf9LUFzmbpFaC7ncuzJPWIo4ixeIkx6d2r3wvI8vk5rgV6Z+AcGomcb1TbBFAoF84EewZQs8M+sY0x720ZibodIa++8Q2Qyey9A2+AnXUSi0jg1nGlA9366Vw1NNYS6HxP6VAACOH4LziYWGTExXNnQvaUaa9E5S3SBcWd5avpfy+OIbhGvv267M+ESb09+oCH46mbx3AfNmanm7g5F/azJQWMOBp3Mf7riIdEb0Svv2lYyuHoJpgu7+UH4cZsNTd5Ylbt4Iyfnwrcb4B2wxrEBu5ApDtKj7jsFISvyFj474Xq1ziKsrIdIAQYTA==;So2G61Cgg27uAd9uUvC/7A=="
 ---
 

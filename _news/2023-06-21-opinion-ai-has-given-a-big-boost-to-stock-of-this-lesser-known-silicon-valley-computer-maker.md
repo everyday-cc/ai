@@ -39,6 +39,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Local Opinion: Artificial intelligence game changer in animation industry"
+    excerpt: "\"The urgent demand for video information reliance through social media and other platforms forms the ideal quest to embrace animation as opposed to real videos.\""
+    publishedDateTime: 2023-06-23T13:30:00Z
+    webUrl: "https://tucson.com/opinion/column/local-opinion-artificial-intelligence-game-changer-in-animation-industry/article_789461e8-0edc-11ee-b056-d79744b8fd58.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/89/789461e8-0edc-11ee-b056-d79744b8fd58/649379750a89a.preview.png?crop=620%2C349%2C0%2C54&resize=620%2C349&order=crop%2Cresize"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "NrewHu9vJ1Kx0jeFyQw6fzjih1L5Lekeif6OyB9cxNIbNUnEBLw3MrvNbK2pXkrX1P0iJuAVRjYyFMjua0J/OIHGTsD7yz3xB8TJvLf4GL71Yt5hfCIvr2x1+29PZFtVepSbSc+2bHu7Scq/PriDffp1CICajq0Qprk/p5MDAXgLaCyzPUjI3MqdmAB6ZB7nKNZtJDnCl06m65qzA2pQKU12fRBdfGCMh4Bt8AIlbcSJCaszv9+rqmAJFmezcFex19zafInnYYhGnbgsKYLLm7r+65vu8PQ+r7GWXkm/dowGFYDR10P47Q0YSciXplw5cDDCTUqLD+zGVeIQZUSPfOstYEWqst/mHQn06h7QDE4=;kzd8vYM25u6U0JhNSiaGKQ=="
 ---

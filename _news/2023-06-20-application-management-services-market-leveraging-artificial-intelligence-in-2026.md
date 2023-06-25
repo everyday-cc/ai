@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
-    excerpt: "Delivered by experts from iHorizons, a leading Qatari software engineering and IT consulting firm and a QSTP member company, the session shed light on the use of AI in the area of Arabic Natural Language Processing (NLP). NLP refers to the combination of ..."
-    publishedDateTime: 2023-06-21T12:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications-ngj1wg72"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 15
-  - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
     excerpt: "Meet the Expert’ series showcased advanced applications of artificial intelligence (AI) for Arabic language and the benefits"
     publishedDateTime: 2023-06-21T19:24:00Z
     webUrl: "https://www.gulf-times.com/article/663389/business/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications"

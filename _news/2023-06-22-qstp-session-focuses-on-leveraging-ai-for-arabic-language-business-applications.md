@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/article/663389/business/qstp-session-fo
 webUrl: "https://www.gulf-times.com/article/663389/business/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "QSTP session focuses on leveraging AI for Arabic language business applications"
-    excerpt: "Delivered by experts from iHorizons, a leading Qatari software engineering and IT consulting firm and a QSTP member company, the session shed light on the use of AI in the area of Arabic Natural Language Processing (NLP). NLP refers to the combination of ..."
-    publishedDateTime: 2023-06-21T12:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/qstp-session-focuses-on-leveraging-ai-for-arabic-language-business-applications-ngj1wg72"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 15
   - title: "Application Management Services Market Leveraging Artificial Intelligence in 2026"
     excerpt: "The rising trend towards digitalization, coupled with extensive adoption of smartphones, and the internet, is propelling the growth of the market. The global Application Management Services Market  is forecast to reach USD 55."
     publishedDateTime: 2023-06-20T11:52:00Z

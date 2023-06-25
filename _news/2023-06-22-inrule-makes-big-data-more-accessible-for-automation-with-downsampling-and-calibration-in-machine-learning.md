@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-22T15:24:00Z
 originalUrl: "https://www.datanami.com/this-just-in/inrule-makes-big-data-more-accessible-for-automation-with-downsampling-and-calibration-in-machine-learning/"
 webUrl: "https://www.datanami.com/this-just-in/inrule-makes-big-data-more-accessible-for-automation-with-downsampling-and-calibration-in-machine-learning/"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
+    isCached: true
 
 related:
   - title: "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS"
@@ -34,6 +40,6 @@ related:
         height: 566
         isCached: true
 
-secured: "McpedV9/LkORhEeqlErMYOw8KyxO5zz9LBCaUQ/tYU7rRc/J3mChCFAM0fKTX6p3hhWTupV9NPOr0qoNVNhdVq2RYS5+FEPnRnK2Ynhz1sCnUo6snqGFlJxGe4F7EWXPBoReR4Pi89hmvC9FhabnuyjtRa5oXhitOs2nA+KbLaqsu4o68BjJ7nH84yTeEggjmJgcVlQ5hC7a2TzFslPxgu6nL+dWxzA5ZoZbkc4nfx8R0ftsDUpyasMnj7WC+2Suey48m9nb7AdX5GYiY22zk6+niR/gVkWFUogaTwRDzB4On1mjKk5YmDRKelJOzpdsO0n1TZd8v6gSW8eZAOLUe1wzpGq+hac+qTYtnQ6N1lo=;5Sq5CBeKC0u714v9TOxBQg=="
+secured: "5AmBCy7OG/7rNupEJ2zjODGHl1u+nXpVRNDcr/B0qlIdY8+UdPrYl1GQ48BUDZ+oZt5KG/lxQK59Ka/m2O8gmcdFSMCz5Zqg1LCvq26aoEn/JaHY3hrnY46ZTb8gQABbxE68aIpr1FtjlKKkmB1b3B95hQ/bVdlK0lj7Tl9bbJApQwHCjhUuGWu//GRugIMkRXE+w71kX3/y4TSTZVzrxpZFn+6Q75Mzbn5D49uIZ9uzVJaGpjOpvtcdQLbO8nhwrFS1yonfrMpkOpvAvX96CKqZCCxejVwcCF7840b0ZEBozYRZ34EwJVuYL8s/BUhrpcMP9s7L3LaysVdsgQz01RBI5GRksTTTe0JA6G1lhKw=;n6esfiYATfYdxOF3pS2IZA=="
 ---
 

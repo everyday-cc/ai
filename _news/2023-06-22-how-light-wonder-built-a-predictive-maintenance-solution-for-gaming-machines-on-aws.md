@@ -37,7 +37,12 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 1
+    quality: 21
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
 
 secured: "bW/TMeGYCwlmEU6pkGks34flf4KQl4OfdsNutnKD7y9KKAyAjaerHillEmIUKXx2sAbO2p4KQjPXNXXukJLwnJriMHSv7/pjIWFaQLo3Js3Dst/JtNfOWKYbUx8MzT1MnXNoC55QSp6Z940Z5gp/mu9MYo8Td0exRRdZeabieiSq/7kKJrZX6WX1mka3fCL6RXKfhrILUv2z1bx4TWLUTOxrILFM2Y0KsTuHtJwIfhlgxwjbfa9WxmziVYC3nMgUaUwx6Wh+pV6huRZtJ62Aox/Xx1JQv63FQwjUtpLbjzKcIWLiTjTA0AiSbamCQM2Lyjfc5CfsnEggfvByCs/nhoblCNwXkkarOEaemjz4EIM=;6TxYTKtXhRy02uqR+n/puA=="
 ---

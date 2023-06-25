@@ -42,22 +42,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Biden to host forum on artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden will convene a group of technology leaders on Tuesday to debate artificial intelligence. The Biden administration is seeking to figure out how to regulate the emergent field of AI,"
-    publishedDateTime: 2023-06-20T11:02:00Z
-    webUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/"
-    ampWebUrl: "https://www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-mychamplainvalley-com.cdn.ampproject.org/c/s/www.mychamplainvalley.com/news/national-news/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: WVNY
-      domain: mychamplainvalley.com
-    quality: 52
-    images:
-      - url: "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/06/64918813890167.37422042.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Biden to host a forum about artificial intelligence with technology leaders in San Francisco"
     excerpt: "President Joe Biden will convene a group of technology leaders in San Francisco on Tuesday to debate artificial intelligence."
     publishedDateTime: 2023-06-20T14:01:00Z

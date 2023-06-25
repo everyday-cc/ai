@@ -158,19 +158,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
         width: 800
-        height: 480
+        height: 418
         isCached: true
   - title: "Accenture and Microsoft Expand Collaboration to Help Organizations Accelerate Responsible Adoption of Generative AI"
     excerpt: "Expanding their decades-long collaboration, Accenture (NYSE:ACN) and Microsoft are collaborating to help organizations adopt the disruptive power of generative AI, accelerated by the cloud, to fundame"
@@ -197,15 +197,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "3 downsides of generative AI for cloud operations"
-    excerpt: "No one doubts the power of AI, but enterprises must realize it can also lead to deploying too many applications, scaling problems, and cost overruns."
-    publishedDateTime: 2023-06-20T09:35:00Z
-    webUrl: "https://www.infoworld.com/article/3700068/3-downsides-of-generative-ai-for-cloud-operations.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 47
   - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
     excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
     publishedDateTime: 2023-06-22T13:02:00Z

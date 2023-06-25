@@ -48,15 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "3 Red-Hot Stocks That Could Continue to Beat the Market"
-    excerpt: "Azure gives app developers easy access to a plethora of AI tools, including machine learning systems, AI-powered data analysis, ChatGPT-like AI bots, and eerily accurate speech transcription services. Microsoft earned this catbird seat by partnering with ..."
-    publishedDateTime: 2023-06-20T09:51:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/20/3-red-hot-stocks-that-may-keep-beating-the-market/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 34
 
 secured: "YGUXwbZAWDyiPfXDS2zwmnDyLPb8JE1n9m6RMaj47kYsp+NVbOpXEW4+WBuDQ3sDfY9EmC6eMyMyiocDxPGljyHkE1r0TlMy+XXyPB+S5+14B8FNUTChv9r4gnHf3ZhK/ycibKC6RntCffksylOVGD2Tztvz/qL6yGYMPc/z0g+w7FnMZyiqY6RLpid07RyNRfKq4fEE09OC8BkU5kyKsTR1NbePMWspDn4KS9D8mBWJTrO+Ys3rFi5i3lrYO2GX9Xp+8wZtG6sN1KI655Wogv//6G1GYzkSWOxR9RaySNvdGhX0pAtlXoHG8TjrbJ/JIpYFRelFW8r6k66TbZ9nYHQ0bxd5XJOqFEgLMYBmmUk=;zd0AZ7mMnY1IhFgtipMhGA=="
 ---

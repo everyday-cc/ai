@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-pop
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Problem With Tesla’s AI Rally in Eight Charts"
-    excerpt: "Wall Street’s focus has moved from Tesla’s price cuts to a more distant future of driverless vehicles. It may shift again."
-    publishedDateTime: 2023-06-20T10:50:00Z
-    webUrl: "https://www.wsj.com/articles/the-problem-with-teslas-ai-rally-in-eight-charts-e72dbb8f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Billion-Dollar AI Venture Fund Offers Elusive Nvidia Chips to Win Deals"
     excerpt: "Nat Friedman and Daniel Gross, a pair of founders turned startup investors, set the venture capital world abuzz last week by announcing a novel tactic to win over founders: offering them access to a huge number of free servers equipped with the most advanced chips for training machine-learning"
     publishedDateTime: 2023-06-20T21:19:00Z

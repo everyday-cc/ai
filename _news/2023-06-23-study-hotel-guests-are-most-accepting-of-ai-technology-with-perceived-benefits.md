@@ -133,24 +133,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Developing AI is playing with fire"
-    excerpt: "More recently, OpenAI CEO Sam Altman admitted that his biggest fear is that AI can — to put it mildly — “go quite wrong.” And a group of top AI researchers, engineers and CEOs have issued a new warning about the “existential” threat they believe AI poses to humanity."
-    publishedDateTime: 2023-06-20T09:23:00Z
-    webUrl: "https://lasvegassun.com/news/2023/jun/20/developing-ai-is-playing-with-fire/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 19
-  - title: "Regulating Artificial Intelligence and the Limits of the Law"
-    excerpt: "This is a book which deserves to be widely read.' Jacob Turner, author of Robot Rules: Regulating Artificial Intelligence 'An accessible introduction to some of the most important legal questions raised by artificial intelligence, and solutions implemented ..."
-    publishedDateTime: 2023-06-20T09:19:00Z
-    webUrl: "https://www.cambridge.org/ag/universitypress/subjects/law/e-commerce-law/we-robots-regulating-artificial-intelligence-and-limits-law?format=HB"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 19
 
 secured: "81njRusF4M3C7FIi9uAMSs09vE+/lVIVCGINa8nR2fX3bjoZ6Sm0DU+qZFXhgkYxP4aUmZxIG2peFQMx+nFf3gr7cs036/SG4dCBRabxFdm9otzfs/Xfmi7jxugoDt4rx9fQju3kr3JD9mGIzqLHN0xvq1fmrhzUihwMB5MRtGwjEuBy2J+tCmmP0TNrVbaO9XkPoPzqTpljnZaJDAk507cYur5OLBL/Q8tYClqmHNtDIDSoePFr0v3RM4rJbI7RRckS0VX7vYPzAh8sAzAXZsUOBI0v6anSDNcNCvoTV3eeHJZMAZtGwcfdL9gLSdcrEo+UODmN/KnD42kCsx38I1gGtZEOsxTU5ZW0kNmxpsXL9I+vWLPOef1Jq2f9LrQB0psqQRHilCBFqMCWQIupCB+raYAv4LnsWO8syLpKqI1aRlpmnG0wFoDkXsBCaZ3L/s45OiaieDFgJ4VvBh6zd1OThDLUKryMxTIVygY5oH6z3kAP3mvyGWXmF+xkAnGS1FQt+3Vxq8a3iSI7+Zzz5Q==;I8ydRJwi8+RBR2aYgZWSAg=="
 ---

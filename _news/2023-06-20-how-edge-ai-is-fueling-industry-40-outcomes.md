@@ -118,6 +118,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How AI and Automation is Changing Healthcare"
+    excerpt: "Founder of CloudMedx, Sahar Arshad, talks about the transformative benefits of using AI and automation to improve patient outcomes and unite healthcare experiences."
+    publishedDateTime: 2023-06-21T08:00:00Z
+    webUrl: "https://marketscale.com/industries/healthcare/how-ai-and-automation-is-changing-healthcare/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 54
+    images:
+      - url: "http://marketscale.com/wp-content/uploads/2023/06/Healthcare-Rethink-social-card-template-scaled.jpg"
+        width: 2560
+        height: 1338
+        isCached: true
   - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
     excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
     publishedDateTime: 2023-06-22T21:34:00Z
@@ -141,15 +155,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Software developers work best in teams. Here's how AI is helping"
-    excerpt: "Great software code comes through a productive developer experience that's built on collaboration and artifical intelligence."
-    publishedDateTime: 2023-06-20T09:08:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-work-best-in-teams-heres-how-ai-is-helping/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "AI meets the other AI"
     excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
     publishedDateTime: 2023-06-20T20:25:00Z
@@ -210,15 +215,6 @@ related:
       name: Marketing Dive
       domain: marketingdive.com
     quality: 19
-  - title: "How AI is changing the 2024 election"
-    excerpt: "“Using AI to create an ominous background or strange pictures ... Sarah Kreps, director of the Cornell Tech Policy Institute, said people may start to either “assume that nothing is true” or “just believe their partisan cues.”"
-    publishedDateTime: 2023-06-20T09:27:00Z
-    webUrl: "https://www.wate.com/news/politics/how-ai-is-changing-the-2024-election/"
-    type: article
-    provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 17
   - title: "How the White House is moving into the action phase of its effort to regulate AI"
     excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
     publishedDateTime: 2023-06-20T23:56:00Z

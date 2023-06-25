@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition: the 10 best exhibits in the revamped National Portrait Gallery"
-    excerpt: "To mark the London gallery’s reopening this week after a £35m redevelopment, its director and chief curator introduce their favourite paintings from the expanded collection"
-    publishedDateTime: 2023-06-20T10:00:00Z
-    webUrl: "https://www.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
-    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/jun/20/the-10-best-pictures-in-londons-new-national-portrait-gallery"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 68
-    images:
-      - url: "https://i.guim.co.uk/img/media/86f5befebaa19f22dc825812fe692a115dd8ffc7/0_0_2400_3071/master/2400.jpg?width=620&quality=85&auto=format&fit=max&s=5a0693576ecf70dc873199c8c7a2d902"
-        width: 620
-        height: 793
-        isCached: true
   - title: "Facial recognition in the city"
     excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
     publishedDateTime: 2023-06-22T07:46:00Z

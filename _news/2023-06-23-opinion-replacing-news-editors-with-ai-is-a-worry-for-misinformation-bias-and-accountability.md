@@ -35,6 +35,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Local Opinion: Artificial intelligence game changer in animation industry"
+    excerpt: "\"The urgent demand for video information reliance through social media and other platforms forms the ideal quest to embrace animation as opposed to real videos.\""
+    publishedDateTime: 2023-06-23T13:30:00Z
+    webUrl: "https://tucson.com/opinion/column/local-opinion-artificial-intelligence-game-changer-in-animation-industry/article_789461e8-0edc-11ee-b056-d79744b8fd58.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/89/789461e8-0edc-11ee-b056-d79744b8fd58/649379750a89a.preview.png?crop=620%2C349%2C0%2C54&resize=620%2C349&order=crop%2Cresize"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "JPp7Th88r3bNmFsWQJUkLs40jjOzgXvK/jZ+eCN6/+P1nHO5/ChdfMTjm2tVUiUmNYBd29ksOcDZ+mayNuY1EaXx5e4yiK+qpS3Db4U92S5Y4bOkJgtGjYEtvhNh7kEUF2pkCg2vqN/8JaVwF2FiKrVAxzxvutjET4fQdXppO7MHk058Zx6db3QoFkz5YGcFzXoysGsDDCBZGBwSytN8oLJDvfSKnQtpJiQVrtI9Nt6xdpK7fL5q/OHRkRu68O6ixSde9ViCwIR8uHYdIJg/YNZHzhCiyktLM9sCZfwiEtTOqL0FBkQjWdhWGxlvCI8Ulg8Gp9nr5+2YxxU20JOHDGeMeEe5e5SYTqGMN9H4I5AkFGM634F7Yo1TOJouQrgHXzQuqfNu/qSWTXZJn6iVOSUYhR8suU5A3ubi2vWRudRfOF/JSAlmLLr9PpxGjeGnHSUzJIvr7x6Le+FE5pvF3PgLA0s5D8d9i4cftpnBi66JFD+GjaGprQ5NmPlTxLHNfAQtNvn5V3De8aVckbzGfQ==;hCrF8AC2X+TezARGCOeROg=="
 ---

@@ -36,15 +36,6 @@ related:
         width: 2102
         height: 1426
         isCached: true
-  - title: "3 Red-Hot Stocks That Could Continue to Beat the Market"
-    excerpt: "Azure gives app developers easy access to a plethora of AI tools, including machine learning systems, AI-powered data analysis, ChatGPT-like AI bots, and eerily accurate speech transcription services. Microsoft earned this catbird seat by partnering with ..."
-    publishedDateTime: 2023-06-20T09:51:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/20/3-red-hot-stocks-that-may-keep-beating-the-market/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 34
   - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
     excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
     publishedDateTime: 2023-06-23T17:43:00Z

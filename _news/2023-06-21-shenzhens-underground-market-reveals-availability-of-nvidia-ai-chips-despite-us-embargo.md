@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/shenzhen-s-undergr
 webUrl: "https://markets.businessinsider.com/news/stocks/shenzhen-s-underground-market-reveals-availability-of-nvidia-ai-chips-despite-u-s-embargo-1032400203"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia AI Chips Getting Sold In China's Underground Market Amid US Sanctions: Reuters"
-    excerpt: "Despite U.S. sanctions, high-end Nvidia Corp. NVDA AI chips are being sold in China’s underground market, Reuters reports. Underground Market: At the Huaqiangbei electronics area in Shenzhen, vendors discreetly offer Nvidia’s A100 artificial ..."
-    publishedDateTime: 2023-06-20T10:57:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32918479"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Nvidia_9.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
   - title: "Chinese Vendors Bypass US Embargo to Supply High-end Nvidia A100 AI Chips: Report Reveals Hidden Market Dynamics"
     excerpt: "China's famed Huaqiangbei electronics area in the southern Chinese city of Shenzhen shows startling revelations regarding the availability of Nvidia Corp NVDA AI chips. The U.S. embargo has led to an underground market with vendors dodging scrutiny from ..."
     publishedDateTime: 2023-06-20T11:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-beco
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "7 AI Stocks That Need to Be on Your Must-Watch List"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As we ride the crest of a technological revolution, investors have set their"
-    publishedDateTime: 2023-06-20T10:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-need-to-be-on-your-must-watch-list-1032398389"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "s4TgFSg1eL1i7J+HAJ8BEu9w8GTuptGQTlJMDccXx/YxcDnD6iTrRKhsvAfzk+nA/msWtDfjjaeomaZ8C0V8XO2mRrHUxT1j3yi9tOocvqQrc8c63EJlSe7869lS0irTUYf/21oX+Qb8eS49+6rvHxIWwBdq9IZ0aaVPmKf3dA93CsT79GdEo7vAQT/xeYnb8wa6t8Ja8DLlutIKzN8eJ14Y+KKgOp9rgj3GfpoKfwijrvJJJpaIIt2FKYoVv3Pp8ZKp8J3VTJVldFeSxn39olAKJmdqtSf0ddXAR2qwUwteh25UYx6NjK/9cC9u1xF9OwxOABucmxvFlFsDJSseV753hKbgi0uRltjtnGyMZavmfHhpPahPNqnYp67SPdYx1FXxPDf9XTmagv5fi/qd6kEAAyDZV8MAFulE7qSAq1MVpp0E4jGwuyIFbQ5nv7uYSjvo6nCz1KRo5eut5Opsci9552o25O2qJt/aaGrd2G8iTwuFy6QD4RyVHn4MDFNi8o9OWZEsKdV7cKFegE+t/g==;AOkn1iGVYA1sDvlDOwwDrw=="
 ---

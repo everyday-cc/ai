@@ -45,59 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-24-exactly-what-scares-experts-about-artificial-intelligence.md",
-      "title": "Exactly What Scares Experts About Artificial Intelligence",
-      "excerpt": "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736691%2Fhappy-woman-because-the-stock-market-went-up.jpg&op=resize&h=340",
-          "width": 509,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
       "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
       "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
@@ -1489,6 +1436,58 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-what-would-ai-regulation-look-like.md",
+      "title": "What Would AI Regulation Look Like?",
+      "excerpt": "Scholars of data privacy and AI ethics have called for “technological due process” and frameworks to recognize harms of predictive processes. The widespread use of AI-enabled decision-making ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/chatgpt-ai-what-would-ai-regulation-look-like-altman-1850501332",
+      "originalUrl": "https://gizmodo.com/chatgpt-ai-what-would-ai-regulation-look-like-altman-1850501332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/39b435fcc429ca4780682dc449ee9182.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

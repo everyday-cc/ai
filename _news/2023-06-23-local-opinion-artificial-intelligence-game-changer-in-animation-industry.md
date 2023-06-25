@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization"
-    excerpt: "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit."
-    publishedDateTime: 2023-06-20T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/"
+  - title: "Opinion: Replacing news editors with AI is a worry for misinformation, bias and accountability"
+    excerpt: "Germany's best-selling newspaper, Bild, is reportedly adopting artificial intelligence (AI) to replace certain editorial roles, in an effort to cut costs."
+    publishedDateTime: 2023-06-23T16:46:00Z
+    webUrl: "https://phys.org/news/2023-06-opinion-news-editors-ai-misinformation.html"
+    ampWebUrl: "https://phys.org/news/2023-06-opinion-news-editors-ai-misinformation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-opinion-news-editors-ai-misinformation.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: Phys.org
+      domain: phys.org
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/replacing-news-editors.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "How AI and Automation is Changing Healthcare"
-    excerpt: "Founder of CloudMedx, Sahar Arshad, talks about the transformative benefits of using AI and automation to improve patient outcomes and unite healthcare experiences."
-    publishedDateTime: 2023-06-21T08:00:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/how-ai-and-automation-is-changing-healthcare/"
+  - title: "Opinion: AI has given a big boost to stock of this lesser-known Silicon Valley computer maker"
+    excerpt: "“Investor enthusiasm and SMCI’s valuation have gotten well ahead of the fundamental realities that selling server hardware in our view — even with Nvidia’s AI chips — is a low-margin value proposition,” Ben Axler, founder and chief investment ..."
+    publishedDateTime: 2023-06-21T13:29:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-has-given-a-big-boost-to-stock-of-this-lesser-known-silicon-valley-computer-maker-b529d129"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 54
-    images:
-      - url: "http://marketscale.com/wp-content/uploads/2023/06/Healthcare-Rethink-social-card-template-scaled.jpg"
-        width: 2560
-        height: 1338
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "/NIoQEajT708woONEkLT2pHz+7sJlrC2YvVgdlOSsLih9yedTy570mp/iCBMYtkK/VsQlDgtM+wofFWA+CgiK/c3IrVK3EL3IOYk5+Q/i74cV0gU2R4os/gHJgkBAuKNJ+JQcmzEE0G0Qm5a84MVRqwdsnZWu8UQm1hLkzDbsLJkGUym8WupGSB9Wb8PcSNrrYcWFjXChxL5Xg3m885k2LUgqknyd6sTw6/v8KxitcRDFBJ9ihmEBUM9OhtzxK6nLIr/BFaP8MBgy2pBcTx6sJ/XQBDQvCbO7X/vsyhPr54wt3Rrzg6vlzMQxOw/pp//GLLjaiBr+ogU53iC6tdwUcoMC8GBdRKbLS1SLvQyCSQ=;5dfFO0XpqHdZbDZv7JgTcA=="
 ---
