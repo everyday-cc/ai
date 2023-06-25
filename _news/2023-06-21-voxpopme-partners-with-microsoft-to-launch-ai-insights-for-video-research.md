@@ -3,16 +3,16 @@ category: news
 title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
 excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
 publishedDateTime: 2023-06-21T16:00:00Z
-originalUrl: "https://www.kansascity.com/press-releases/article276616381.html"
-webUrl: "https://www.kansascity.com/press-releases/article276616381.html"
+originalUrl: "https://www.sacbee.com/press-releases/article276616381.html"
+webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Microsoft AI
@@ -193,6 +193,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "TJ5lDlUl49THpIqekarXGsXYYWSKHdH4s0DHVua4LAW4e0WV2O7YXntCLFDw6qbkC9d8MdtBCozd7gnUdPuLJkEXQzHBNa2ZKftsn7KN5C3TquPC3z+8R+Jw5WorD0N2gec0xI1n/FcK/UTegPA2uZaIqw+YS91fiPWSMNMZEkGOCyKw9T/qJ4x/pGMYpqPwhhplXZ5e6uWtt3IfUPYzJtH3LncqWW1qYvmx2W0yFh5xCDzcxhRCQm3a1COewvq115a7fVCGJ998DEMZxLE5c3UPPOG72WlwvSSqFAUgmv2GqD1HSnt6xC7v/Es9abpkhIe08e5Pb3ceMpfRbaWYtXt9dq+YQmyqwj3JozTOwenYove0064tr9y7luk73zf+pMyiJImZN+OHCerM04D0wx15WNvlWCy0AuP3/5czP+B6zIWSwMhYe90OlEcHO+H4bjNiTVslRK2n7YkOM9w3sSAGjyxWPEF9qMLCuMVbvcDbeeuz9UNMKZGdebjEfjeMuLwBEm4O9ychkQBf4xMCcg==;erRIm5/VNoJQ5XAoQNMXbQ=="
+secured: "WSFr9CxGOhUZhxWDjGtE1jy5YG+s9I/wIko8Y3i94nqGbNleLzRnTR4uDTI5zsjTMxy/slowUNoVkHYiqNCMJC9l2KbCmRGR5rnjVKr+4b5DC76CX06TsC4o0kXl25KQzpufkxKiNsBJtvq/T2cAdZ39dt7kZYjTVKhm+d0WAkZVj9is2RUTulirFk33HLVXK+rDD2j6HM6oNxcTv/G8SVMZUoxRnZRLjEiLeSar14wl35StOUN3tXH1iVqHvZYTxkM/wH8Gw+zicMA0r7aMRVBksR/UvIK+FNFF5oc6sAI1p4F1INBCHKg27tHIPi/SgHQ1MuvajNyLYESElyLkqwmwVT6ASx/3+1Ob0/GKfYLJmE5NdLf80prX2cPakzpacI0y/l2Ju0kiJ70dqbP0nb8R3O2YQ0XaXAAZiSev3BANFxNzKw+zAkxW8l9hPAHPzvNB73JyDwlntxJtjKXQVqA1HGbj/XcnIYPf1HYHREM7ubnpTPowfJsl1WPD5MowHBLKG5vuhPzqwFYTy31y8w==;I8wTL0rVdPkWCFZLPeNeIA=="
 ---
 

@@ -42,15 +42,6 @@ related:
         width: 1300
         height: 866
         isCached: true
-  - title: "Europe unveils strategy to defend AI, chips but divided on China"
-    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
-    publishedDateTime: 2023-06-20T18:04:00Z
-    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 34
 
 secured: "pZrUgwvITb59qhuq8rm6DisJt2HbZGYhCUzt6fgSXXziaOPdmpEeQM1t764HVSQ+wg/BXfbhhKba5YIpXCRbgRpEOk0K2R/Gq25BiFf1h8gchxbupSvpDAK5LjozthjJXz0J8gJ3DTXsyYSuCxxClNI5JTM87QRZCaAV9286hq8O0I0784XjUyE0hfvIcrNzHE5qNlm8sGrMxpgV+oZJE1JqIin51xZr/spdsq2SPlLs/bn5a7TtHBVK2C6MVB1LcQ5kyymnaFOrpinCEtDrGUSwDsDfKaS9oJEGV7ykg/TJ6j1/vzPaOP0NBf/sqquX5NJdE7ILsBuSSzSaeTKkRw4Y3GK7WK/AbXmZAmhbySM=;mAihlXFO738O+nbqmGZcAw=="
 ---

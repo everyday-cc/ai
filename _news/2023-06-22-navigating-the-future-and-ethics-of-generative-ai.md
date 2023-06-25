@@ -128,19 +128,19 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
         width: 800
-        height: 480
+        height: 418
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"

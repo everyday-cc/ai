@@ -74,20 +74,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
-    excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
-    publishedDateTime: 2023-06-20T17:39:00Z
-    webUrl: "https://mashable.com/article/eu-consumer-groups-urgent-investigations-generative-ai-risks"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 65
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03B33GOhtKEptX4XVsYoncE/hero-image.fill.size_1200x675.v1687273781.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
     excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
     publishedDateTime: 2023-06-20T20:40:00Z

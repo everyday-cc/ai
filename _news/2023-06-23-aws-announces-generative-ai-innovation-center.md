@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AWS Announces Generative AI Innovation Center"
-excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-publishedDateTime: 2023-06-23T00:00:00Z
-originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
-webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+title: "Aws Announces Generative Ai Innovation Center"
+excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+publishedDateTime: 2023-06-23T04:20:00Z
+originalUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+  - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
     width: 800
-    height: 480
+    height: 418
     isCached: true
 
 related:
@@ -241,6 +241,6 @@ related:
       domain: theinformation.com
     quality: 19
 
-secured: "Ek8cl68Dm0nPSVVBKqi4RvVN+ZbM5WpXBvzdOHR+IHjdrX3cCBZ+qoPAPP3dF8cKoxBBj1V9EVuDPuNgRMXkx7bJKOC3W4XasQywrhuRH8eKzlPysHRV+T2GtiPAW7GvQilrkpgDmdZ4vdKf8/koM1I24VOFDZ+QxFPNRFELl868eD8MiGMYZ/KwXvKdm1OpLWIzGp74OgVML7/fifAMg2tTAE4sCyShiORRbGn4ysIeGJTTkfdlqf8rT8Jx0CRa7inAcEHQq+UBisOG3nTdLenLGC1NW46MSI065ZXqFeG9M/nUi95Jh2wQAaL26a48ivvcFrvax/zT+lF8ZLzlaIBwXhfe+pXZOI76ityjabA=;1VL3/+pz9TZQV4X7Q12wNg=="
+secured: "8GIy57bs/5gq4wJmf1GFYKRi40B4ER/mndWFLd8TRuCSvud/5gLeBZUUijYYHHG/If5zFiyukEsNuN4UKSeXcNgqbQnbL8wdc8B2rZrhtUDcIvkEbd5ep83CwgMX0RJLyTu/vuMrCBIRJ1NQxTxNwBS0TjD6/PrhYSXL/LQirlv0mKuMvhTW1bpQrZp2lxTT1xWA3TAnO18/GgIFggD/FAwfmNuLuve3baAf9lN8R1AEOyKt2MRlCKstF0K2pow3QhXcSlV8nDcvJLNcpeRLCJO4zVDuNGhPEGayEGWpgVVMsbh8uundr7ECU8Wd/eDBem6oIRb5m0bGxAmWTQVcaM7uR1Qjmc09d8QHZ7CzBEA=;bYWGGbimGkr2X0WlyFe69g=="
 ---
 

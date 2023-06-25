@@ -60,20 +60,6 @@ related:
         width: 480
         height: 480
         isCached: true
-  - title: "EU consumer group calls for 'urgent investigations' of generative AI risks"
-    excerpt: "Consumer groups in Europe are urging authorities to protect consumers against the risks of generative AI, like ChatGPT. On Tuesday, the European Consumer Organization (BEUC), representing consumer groups from 13 European countries,"
-    publishedDateTime: 2023-06-20T17:39:00Z
-    webUrl: "https://mashable.com/article/eu-consumer-groups-urgent-investigations-generative-ai-risks"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 65
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03B33GOhtKEptX4XVsYoncE/hero-image.fill.size_1200x675.v1687273781.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
     excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
     publishedDateTime: 2023-06-22T16:01:00Z

@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cisco Unveils Game-Changing AI Supercomputer Networking Chips, Tested by Top Cloud Providers"
-    excerpt: "Cisco Systems has introduced a groundbreaking series of networking chips designed for AI supercomputers, aiming to compete with industry giants like Broadcom and Marvell Technology."
-    publishedDateTime: 2023-06-20T18:20:00Z
-    webUrl: "https://www.techtimes.com/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292825/20230620/cisco-unveils-game-changing-ai-supercomputer-networking-chips-tested-top.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 65
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/411327/cisco.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Cisco Launches Power-Efficient Networking Chips, Takes on Broadcom and Marvell in AI Arena"
     excerpt: "In April, Broadcom launched the Jericho3-AI chip that connects up to 32,000 GPU chips. Price Action: CSCO shares traded lower by 0.19% at $51.45 premarket on the last check Wednesday."
     publishedDateTime: 2023-06-21T22:19:00Z
@@ -117,15 +101,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cisco launches AI networking chips to take on Broadcom, Marvell"
-    excerpt: "Cisco said the latest generation of its ethernet switches, called G200 and G202, have double the performance, compared with the previous generation, and can connect up to 32,000 GPUs together."
-    publishedDateTime: 2023-06-20T18:36:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/cisco-launches-ai-networking-chips-to-take-on-broadcom-marvell/articleshow/101143728.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 36
   - title: "Cisco Launches New AI Networking Chips"
     excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
     publishedDateTime: 2023-06-21T15:33:00Z
@@ -135,15 +110,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 34
-  - title: "Cisco launches new AI networking chips to compete with Broadcom"
-    excerpt: "Cisco Systems (CSCO.O) on Tuesday launched networking chips for AI supercomputers that would compete with offerings from Broadcom (AVGO.O) and Marvell Technology (MRVL.O). Chips from its SiliconOne series are being tested by five of the six major cloud providers,"
-    publishedDateTime: 2023-06-20T18:18:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/733608-Cisco-launches-new-AI-networking-chips-to-compete-with-Broadcom"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 19
 
 secured: "YF0xM0NbU9j8jPX3JzN7iACEBJnDo/ob+JsiX5WU6lWS/8/lgw1UZwxKnL68iO9FY1YkA72xLMoxVseRnbxApdWSmGMrgpZ3075DbEVhY3o8lrsbA22GBMhujTnHwNCMbk4nws36e1PEZ/gCQga6R09RBk6/v8JaVr/Eg1Uw+mIyYfCFyoqOQ2zTOLoA/b6U4bTHR/MnvM05tmUhs9Z8K1bOUaCnnLhQ08ExAvesHhKzjY96hiSkNNJ4Bgcfa+jnpywN6yaVPv3KHn5pMLWSXSUetq0YUNwxuDjnxeyYBRz19OSRZkKp9Uu0rTaB+Br8vTjyBWZz5XYZj8+RjOgjLDmGZoh0F4cWyxTgQjvRlx4=;qUruAoT673Au2GzW/7FV1g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Europe unveils strategy to defend AI, chips but divided on China"
-    excerpt: "While the strategy does not mention China by name, its language reflects criticism frequently leveled at Beijing by Europe, the U.S., and others. The proposal adds further detail to a de-risking strategy originally laid out by EC President Ursula von der Leyen on March 30."
-    publishedDateTime: 2023-06-20T18:04:00Z
-    webUrl: "https://asia.nikkei.com/Location/Rest-of-the-World/Europe/Europe-unveils-strategy-to-defend-AI-chips-but-divided-on-China"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 34
 
 secured: "gI9YM0jqsGLgGBgKhWvYgtVPeBJcaymH6m5ZFFeYye8FJ4WVUjCUQaZ/x/yxR9A3tZsxgjfB9w+JCqTBi5dHG5dI94LaIgRAXvJYTF87304kXErOzGSWCpejTK7fn7VxuTSdUEtUkc3p1WsZyVqzlr0dHGoGq6qFAtV8VZ6oCqMTUQHFRPErKYK1ZflXswc5aqwOa0V0rhFRlTS30OfQN4VYew2QSFCRsVghBSxTqRdChRO4l0dilyYpmYRDG4s3HScft4u6czeFYFRqTR/zv5yTWf3SgiXkXBghZ1h8xVlEhx6HIxI/b5XzbgfOMVqmcTYnjb5/+CXwvFO/v7ZPki9Yxmc7wADO0Ty4TPIz4x0=;NIaglfIo5YjXxNuZMBCgaA=="
 ---

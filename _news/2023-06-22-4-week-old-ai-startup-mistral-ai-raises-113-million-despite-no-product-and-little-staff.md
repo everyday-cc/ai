@@ -25,17 +25,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "AI-Powered Deposition Startup Parrot Raises $11 Million"
-    excerpt: "Parrot is the second legal tech startup focused on modernizing depositions to close a funding round this year."
-    publishedDateTime: 2023-06-20T19:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/20/ai-powered-deposition-startup-parrot-raises-11-million/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
-
 secured: "8Te78XB6j/rwwWqt8bhqSb6Xa/4WlFjBTLz6XSUmmif2mWVLFT18Cd8Nno5nZ0vsqc+grJf8HIL/OtPMHBDclrEr6l+eR+nKGc4hitwQuF4LPz0QupKmMsJyOrT4954005kSpbiUmdBwG1PPaIEPty9/AhByZ8viqYiCspNsxgvU4ghPmT864EaPMzK/CnfrCkz0pldU9DQ/OXMOSZUbCeU03WghCDX6k/gkbwOlq8PGuxYFhd8RPxxRRgAQePHwnelFT09SMhHdZqim0n2zdX/iwHoRZOVgs/iNom0tpccRr7JjKQbBNaZT8TDagcGBcG6wMMM8PfiPxBg8/vIn2ZurChEEnVCJdW7ZQp41rl8=;g2QfxF21u/HSIXVDCJ7mDw=="
 ---
 

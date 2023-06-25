@@ -3,10 +3,10 @@ category: news
 title: "Voices from Beyond: How AI Could Offer a Path to Immortality"
 excerpt: "In the realm of AI, the line between science fiction and reality is becoming increasingly blurred. The concept of eternal life may still be a distant dream, but the possibility of a digital life that outlives us is closer than ever."
 publishedDateTime: 2023-06-24T14:40:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality"
-webUrl: "https://www.psychologytoday.com/us/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality"
+webUrl: "https://www.psychologytoday.com/intl/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/sense-of-belonging/202306/voices-from-beyond-how-ai-could-offer-a-path-to-immortality?amp"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "nghijT/fcTedx6RyLJGWaRulLiOygIR6f2JINuDTW0mC4Cil1e/BJQxmhM+32tTJXqVGAB9vo8j/p0uAczF1JNUexYlpHmbOhOOTnsU750qCAI57619WGggaccaXur29VoDFBFBj4fvdzSdv8yoDRhxT+NogrJCLnnMNEMsr9VulImin3ZIEboKqIQSqBRcW7wTpb2RtH3imShoQ81J/u6x5nnDT4nRGYEIZ7TpN+qSHKD3L4ngPalOLwWPPL5R1qu0dTbr3bFuP383LAYS/hMM+LNDRNXKAJSFt70gFQ28CWanyRZhJen2PbTPD3SJfUPIlv2Z0cS5voaMI2nqVBrnCFx6efQXWYS6bZBna738=;hBzizmDqX+uuk5G/sAVArQ=="
+secured: "T20b9o1hpgdUZO1MucUQn5Gi6iPrzyJdDE5H0bMOK94tJgQxYJJMuWTQvk0y7ue5Aewo9D9QeZMzTkgN3U6g1815VeTv8+R5qB3NPqaCSwNiMzKEcANWUtz+SX7Nkbynrh0SXeyE32+TgbXCvbST02UQJ/2ePrCY5OHMJAOqn+Qk/YltJ7MGj2nwr/uKoJ725NQAk4OwNZpCtoVTH6N4GJLhNelS8TwHPO3DhU4j1rsib8WI7quo5+qi9TmvmxOY8Ex6KytbIKARP6gEYZrOWvw5FMk0dOg2VdOLhiHihLj0WHpyL8VMZiTgPuR7g8ULULBcK1sQQtO4R1zF2ZySwm82shZ5SBD08E88eImNeks=;iYuH3jcIRHG6u6goagsPdA=="
 ---
 

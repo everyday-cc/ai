@@ -162,11 +162,11 @@ related:
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
     publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.kansascity.com/press-releases/article276616381.html"
+    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 33
   - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
     excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."

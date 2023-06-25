@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hayden AI Awarded \"Best Overall Computer Vision Company\" in 2023 AI Breakthrough Awards"
+    excerpt: "Hayden AI, a global leader in artificial intelligence and machine learning technologies, has been announced as the winner of the prestigious Best Overall Computer Vision Company in the 2023 AI Breakthrough Awards."
+    publishedDateTime: 2023-06-21T12:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
   - title: "Devron Awarded \"Best Machine Learning Company\" in 2023"
     excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as the winner of the \"Best Machine Learning Company\" award in the sixth annual AI Breakthrough Awards program,"
     publishedDateTime: 2023-06-21T14:11:00Z

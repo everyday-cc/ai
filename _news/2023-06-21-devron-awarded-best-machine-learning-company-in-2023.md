@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hayden AI Awarded \"Best Overall Computer Vision Company\" in 2023 AI Breakthrough Awards"
+    excerpt: "Hayden AI, a global leader in artificial intelligence and machine learning technologies, has been announced as the winner of the prestigious Best Overall Computer Vision Company in the 2023 AI Breakthrough Awards."
+    publishedDateTime: 2023-06-21T12:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "QMc4Wh+qKeSTguNctSzSyqlqctQBnxbu0zd635XzAOsORIUTXoQCsWrzPVQiGPS0DB7flaU7thz9Eap3V8xetzoYTulRIU/t7+YQeCwyiY3UtCAGbd2WUrE8bzNaTRUPDmBrXgPM2wjw5dbxPf+sKzBHJUCcv8hMzdQ/WOCTfVUpxxT3fohwnOdAmBkBYRvEAhIpa9DH6qclHBxiQ7D/uSLbhxPKKCU8emxk60tKhfzJhN3itmsqz8NAg2hb9UJwqhw0YpoPdJlEOB7kQhE86QdUnSoRmoYXTVYgku6cj9Vggh3ZJSalHWt9DSvoSccwFo2/JBpdwPrsDGwK24fXCF/W6U5mX4COjnviy+5d3EE=;r3rK75vzH7yPE8yxvH6n0Q=="
 ---
