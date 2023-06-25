@@ -57,6 +57,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
+    excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
+    publishedDateTime: 2023-06-25T09:30:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article276688251.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article276688251.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
 
 secured: "QGppD8sSJsnxHpM/EVPlhAYf1C0n5gtCZ2V17FMzhc4gKQa2/MWe5nNCre//0On1v6sF+AoEZRurYoRAFlEiIT2R0/8JqcW2O87GXeWJ4UssW7k5C+Dt5AWTxuxSymJMcGNF6/AanTTfE+y1j6OdtzVRcBtLM9OSYOynALDtNRDthYtnkLiJL4jAhNBGPBVkO0I14MmR0Y9nNPf+OuOeZzj+ZIvqlPFLUrj97vnb+fFgiPu9TdwSdNOjNmdVA7B2g349bfk8NTIuz/A5YjGaBwmybayOpAzUewVi7V/J2sw9YgD2iQdOTBraEEO2NUjbIEoDMFz05LbXunuV/KErngzWR3LyKmxp06VODVYKNdo=;mORwkNq2cc6I3V90QQtndQ=="
 ---

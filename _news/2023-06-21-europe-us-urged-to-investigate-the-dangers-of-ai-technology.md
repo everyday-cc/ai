@@ -51,20 +51,6 @@ related:
       name: Nikkei Asia
       domain: nikkei.com
     quality: 34
-  - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
-    excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
-    publishedDateTime: 2023-06-20T16:50:00Z
-    webUrl: "https://sciencebusiness.net/news/AI/ecosystem-artificial-intelligence-act-restrictions-mean-make-or-break-europes-emotion-ai-start"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 33
-    images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/1080x450.png"
-        width: 1050
-        height: 450
-        isCached: true
 
 secured: "pZrUgwvITb59qhuq8rm6DisJt2HbZGYhCUzt6fgSXXziaOPdmpEeQM1t764HVSQ+wg/BXfbhhKba5YIpXCRbgRpEOk0K2R/Gq25BiFf1h8gchxbupSvpDAK5LjozthjJXz0J8gJ3DTXsyYSuCxxClNI5JTM87QRZCaAV9286hq8O0I0784XjUyE0hfvIcrNzHE5qNlm8sGrMxpgV+oZJE1JqIin51xZr/spdsq2SPlLs/bn5a7TtHBVK2C6MVB1LcQ5kyymnaFOrpinCEtDrGUSwDsDfKaS9oJEGV7ykg/TJ6j1/vzPaOP0NBf/sqquX5NJdE7ILsBuSSzSaeTKkRw4Y3GK7WK/AbXmZAmhbySM=;mAihlXFO738O+nbqmGZcAw=="
 ---

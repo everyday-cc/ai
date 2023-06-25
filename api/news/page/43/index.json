@@ -2,6 +2,60 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-05-25-a-leaked-amazon-generative-ai-sales-playbook-shows-how-the-company-is-going-after-chatgpt-maker-openai-microsoft-and-google.md",
+      "title": "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google",
+      "excerpt": "The guidelines are also intended to help initiate conversations with senior leaders at other companies, and get customers to host their new AI software on AWS services, such as SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "originalUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-an-early-warning-system-for-novel-ai-risks.md",
       "title": "An early warning system for novel AI risks",
       "excerpt": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation",
@@ -1080,59 +1134,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
-      "title": "Microsoft aims to win the AI app race with three big advantages",
-      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 426,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
-      "publishedDateTime": "2023-05-24T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     }
   ],

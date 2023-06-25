@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-in
 webUrl: "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -51,22 +51,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AT&T seeks staff benefits in generative AI"
-    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
-    publishedDateTime: 2023-06-20T15:58:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
-        width: 650
-        height: 401
         isCached: true
   - title: "Study: Hotel guests are most accepting of AI technology with perceived benefits"
     excerpt: "A University of Houston study reveals that AI technology in the hotel industry, which provides more convenience for the consumer, is most accepted by hotel guests when the technology has perceived ethics and benefits."

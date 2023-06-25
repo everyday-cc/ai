@@ -7,7 +7,7 @@ originalUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-secu
 webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
         width: 1680
         height: 971
-        isCached: true
-  - title: "Facial recognition technology plan delayed as bodycams proceed"
-    excerpt: "An Garda Síochána is to immediately begin the process of procuring body worn cameras for frontline members, according to Minister for Justice Helen McEntee."
-    publishedDateTime: 2023-06-20T15:21:00Z
-    webUrl: "https://www.rte.ie/news/primetime/2023/0620/1390239-facial-recognition-technology-plan-delayed-as-bodycams-proceed/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001e4775-1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "New Jersey Questions Facial Recognition’s Accuracy"
     excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."

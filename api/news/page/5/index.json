@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-21-google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai.md",
+      "title": "Google Cloud Launches Anti-Money-Laundering Tool for Banks, Betting on the Power of AI",
+      "excerpt": "The company is looking to set itself apart from a crowded field of surveillance platforms by reducing the amount of human input in the process of screening for money-laundering risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai-2512ccce",
+      "originalUrl": "https://www.wsj.com/articles/google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai-2512ccce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-802296/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
       "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
       "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
@@ -148,7 +199,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -295,7 +346,7 @@
       "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -729,21 +780,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-hpe-discover-2023-greenlake-enters-the-ai-market-with-llm-cloud-service.md",
-      "title": "HPE Discover 2023: GreenLake enters the AI market with LLM cloud service",
-      "excerpt": "GreenLake for LLMs was created in partnership with Aleph Alpha, a German AI startup, which provided a pre-trained LLM called Luminous. The Luminous LLM can work in English, French, German, Italian and Spanish and can use text and images to make predictions.",
+      "path": "_news/2023-06-21-purely-ai-generated-songs-declared-ineligible-for-grammy-awards.md",
+      "title": "Purely AI-generated songs declared ineligible for Grammy Awards",
+      "excerpt": "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
-      "originalUrl": "https://www.techrepublic.com/article/hpe-discover-2023/",
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-edge-ai1.jpeg",
-          "width": 794,
-          "height": 585,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/tin_robots_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -751,16 +802,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:22:00-07:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/",
+      "publishedDateTime": "2023-06-20T14:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -776,8 +827,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -1153,49 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-ai-is-already-being-used-in-health-care-but-not-all-of-it-is-medical-grade.md",
-      "title": "AI is already being used in health care, but not all of it is 'medical grade'",
-      "excerpt": "In our recent article in the Medical Journal of Australia, we argue using AI effectively in health care will require retraining of the workforce, retooling health services, and transforming workflows. Critically, we also need to collect evidence AI tools are \"medical grade\" before we use them on patients.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-us-1.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "publishedDateTime": "2023-06-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

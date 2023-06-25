@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) market size to grow by"
-    excerpt: "According to Technavio, the global artificial intelligence (AI) market size is estimated to grow by USD 125.3 billion from 2022 to 2027. The market is estimated to grow at a CAGR of 22.26% during the forecast period."
-    publishedDateTime: 2023-06-20T17:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-size-grow-usd-1253-/2023/06/20/9835919.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/2105297/Technavio_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "yViKzcgE4z3SE6QXKcl+SORadUYCNx/WYPaXiRHrXx/P1b3A0pZjUHVqJIwk49TsRACagzYQhk0AYaNRu9kIlD44cQ4swB1AU97yAMs/0U2pYxfi9qElbZzZgXBvVtoYVcaYujDYOZ4EoDDKIiNVhCHOJ1g0gF6rC6wAUF2ev27RwYEKQnK8L86+Gda+EC/s9g4aBIKoGsa6+FlmP1VrimueUkv8AdYPatok9ADAQWtNLIzYBV1ijPc4olvwfQ/+LoWtpGYyP2ErnYOue796VdOMGgTypAOTFYTKeVBbo70QP2renLibXo3CJQG3rMhNuN+715puTtHkWaB1fqR0hVuP0KnTb2inkdG0vcpYnOc=;TlBupaIIC3nWXXQDQ7BTiQ=="
 ---

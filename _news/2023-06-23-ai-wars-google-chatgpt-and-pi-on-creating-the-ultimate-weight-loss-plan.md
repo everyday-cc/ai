@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 14
-  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-    excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
-    publishedDateTime: 2023-06-20T15:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 13
 
 secured: "xJZ2PPoX8Mr9GEFMadYKCLiSJtQWShCIYH1StoEDgf/5tpdZzIq6HM2zJy/J9BBQGacdgftB+nrRUSW9InVIHHMymZnTbdj/PaG39HMwnDe4LEKsASVakukv13qo/oIitpMkE0rgkoxusJBRffLpzUw3dMBZgDSnCD8LczQ1lH9Jt9HUT7pd+3EXg3R/5bprhu5RpUEIjMr8meW+1s2JL+tJqMl9C8tcIwp1xOuiWEFKeSEaUxPHFybXWBjMvzzBytHSaXWWdekAIxO0SoJzSs8WDG9wfTzn6F/ChnTAF6OeoA/bjGUO3PbNpTSQrwRIuZF6L5TfRKF/eNu/dtrLFyXhu3gziZvuuIZ7Ybeq+wbH4qa3HOl2/wF08HkyM3E4kVyIVtASy3QKi1vk2zAz7SmpetdjwI5fk0Xw/RM0OHS4a2GOsVA7+N9oP18CGWedrh3Ip0UKEpYQ97++Ks2vXRHLY7QqzMr/bkKXTnTSSVLEYIHhTYZ+jM8jNRGHiYvzf4r453SxHao9hK2jU2xVEQ==;+wicWmkQhL5Qubyv4YNvMQ=="
 ---

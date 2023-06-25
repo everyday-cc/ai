@@ -81,34 +81,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI, chatbots and ChatGPT: Threat to knowledge work, or a ‘dancing bear’?"
-    excerpt: "AI holds many possibilities for society, but caution is needed, especially at universities where platforms such as ChatGPT threaten academic integrity."
-    publishedDateTime: 2023-06-20T15:25:00Z
-    webUrl: "https://www.news.uct.ac.za/article/-2023-06-20-ai-chatbots-and-chatgpt-threat-to-knowledge-work-or-a-dancing-bear"
-    type: article
-    provider:
-      name: news.uct
-      domain: uct.ac.za
-    quality: 38
-    images:
-      - url: "http://www.news.uct.ac.za/images/userfiles/images/news/2023/2023-06-20_ai-chatbots.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Open-source AI chatbots are booming — what does this mean for researchers?"
-    excerpt: "But while large technology companies such as OpenAI and Google have captured the attention of the wider public — and are finding ways to monetize their AI tools — a quieter revolution is being waged by researchers and software engineers at smaller organizations."
-    publishedDateTime: 2023-06-20T15:44:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01970-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01970-6/d41586-023-01970-6_25515824.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
     excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
     publishedDateTime: 2023-06-22T02:40:00Z

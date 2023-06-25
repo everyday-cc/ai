@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-06-14-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator.md",
+      "title": "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator",
+      "excerpt": "MAS has launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Singapore-iPhone-Money.jpeg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "publishedDateTime": "2023-06-13T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.md",
       "title": "AMD reveals new A.I. chip to challenge Nvidia's dominance",
       "excerpt": "AMD's announcement on Tuesday represents the strongest challenge to Nvidia, which currently dominates the market for AI chips. AMD said on Tuesday its most-advanced GPU for artificial intelligence ...",
@@ -1173,58 +1216,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-google-pixel-watch-knows-when-you-fall.md",
-      "title": "How Google Pixel Watch knows when you fall",
-      "excerpt": "From stunt doubles to AI, learn how we built fall detection for Google Pixel Watch.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/",
-      "originalUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fall_detection_pixel_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-watch-fall-detection-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-watch-fall-detection-ai/amp/",
-      "publishedDateTime": "2023-06-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

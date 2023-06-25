@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-
 webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
 type: article
 quality: 67
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Semiconductor chip design market booming in AI with flat or -ve growth in others"
-    excerpt: "Qualcomm continues to hold biggest share among fabless chip makers. Broadcom's revenue declined by 2.7% Q-o-Q. AI Graphic chip maker Nvidia grew its biz by 13.5% Q-o-Q. MediaTek performance in 1st Q 2023 is least among the top ten whose revenue in 1Q23 ..."
-    publishedDateTime: 2023-06-20T16:58:00Z
-    webUrl: "https://www.eeherald.com/section/news/p202306nw002.html"
-    type: article
-    provider:
-      name: EE Herald
-      domain: eeherald.com
-    quality: 49
-    images:
-      - url: "https://www.eeherald.com/assets/tmej.jpg"
-        width: 300
-        height: 400
-        isCached: true
   - title: "2 Top AI Stocks To Watch In June 2023"
     excerpt: "Because AI is becoming a big part of so many different things we use daily, companies that work with AI are getting a lot of attention. This means that AI stocks (pieces of ownership in these companies) could be a good watch for investors."
     publishedDateTime: 2023-06-21T14:40:00Z

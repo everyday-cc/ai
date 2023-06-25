@@ -49,15 +49,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 14
-  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-    excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
-    publishedDateTime: 2023-06-20T15:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 13
 
 secured: "FxXjB3lMpq5aXS8PGYFWgMIZ+vc40oG5ymHehI7AGPFdTCalZToq0IqQP0QKHpXwwEqTrzL6kz8Hfg71GPMtZv+uEZSBer8CWmz62z9p6xCJqBW0wsyC+kxpuwmDcBJFDfeIPMDD6eI3KXDvi0ISYYq6kDVwCVP9duxMmAlh4arW6Ow2UC32cwaE7BMKCQsI5+O5p28E3pQlRc/5GuPl0Gxq286S6C+37rvQ4henoyxU1IT4v8yAOKtrZ8lJBnv5zJvp2GQDW5C1jrdPt7h7yhjXDmEyYSXDP3V+YI6W+B6eGfbkTXGVK28NFRYAPm5RP6vXv0W7izsqjRLtwSHHv5x+2kV4fWvg/030gC+TWFI=;zLmwHls9/AqKYbdHmh6Gwg=="
 ---

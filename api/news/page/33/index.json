@@ -2,6 +2,40 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-06-01-lawmakers-and-big-tech-clash-over-the-fate-of-self-driving-semitrucks-in-california.md",
+      "title": "Lawmakers and Big Tech clash over the fate of self-driving semitrucks in California",
+      "excerpt": "Let’s face it. There are a lot of people in Big Tech lobbying against this bill,” said Assemblywoman Cecilia Aguiar-Curry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modbee.com/news/california/article275831791.html",
+      "originalUrl": "https://www.modbee.com/news/california/article275831791.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.modbee.com/news/california/article275831791.html",
+      "cdnAmpWebUrl": "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/california/article275831791.html",
+      "publishedDateTime": "2023-05-31T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modesto Bee",
+        "domain": "modbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-generative-ai-startup-runway-recently-signed-a-huge-cloud-computing-contract-with-google.md",
       "title": "Generative AI startup Runway recently signed a huge cloud computing contract with Google",
       "excerpt": "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ...",
@@ -1147,40 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times.md",
-      "title": "10 Ways GPT-4 Is Impressive but Still Flawed – The New York Times",
-      "excerpt": "When Chris Nicholson, an A.I. expert and a partner with the venture capital firm Page One Ventures, used GPT-4 on a recent afternoon, he told the bot that he was an English speaker with no knowledge of Spanish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/528764/10-ways-gpt-4-is-impressive-but-still-flawed-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

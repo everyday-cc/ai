@@ -24,22 +24,6 @@ images:
     height: 424
     isCached: true
 
-related:
-  - title: "Diversified Healthcare Trust’s (DHC) Stock: A 61.03% Annual Performance Rate"
-    excerpt: "DHC stock has gone down by -3.38%, with a monthly gain of 168.74% and a quarterly surge of 60.62%. The volatility ratio for the week is 13.35%, and the volatility levels for the last 30 days are 12.58"
-    publishedDateTime: 2023-06-20T15:04:00Z
-    webUrl: "https://newsheater.com/2023/06/20/diversified-healthcare-trusts-dhc-stock-a-61-03-annual-performance-rate/"
-    type: article
-    provider:
-      name: newsheater
-      domain: newsheater.com
-    quality: 36
-    images:
-      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-155.png"
-        width: 640
-        height: 425
-        isCached: true
-
 secured: "+qHL5NwrGGP5EEIwt22NmyoPLxiGWozsV+G/xqynobvsrR/YKXYiW72d/NjNFtCGRgPsxGKDivXfDOJXq45CdDjWv3uFHXL3Udf0cl/I7ZefEZh2CZAqff1/dFXxptnocbbM60TEZruiy+sxFBKPoEtUhJ6XFJTUCd1OAWEKk50RUELRG9lnnWjrHbccmK9j2+YBWcdbZMFSTt5zr3Eo/1Gwn7hmwtsZgEFsEiHmBTQ4u8p5LEiFDxjUvNgbv+O5SVQL77LDEj7JPHTuXSTCtR590dr2+FZXA0/sB6vRUwnNjjUUyN9LS9g8fqZRl5NCd1qwwAX31ntxRa+jfCjBVVFc/H05eQk/pcDrkDXfAlo=;eeVoqxjEyHS4XWadyS85fg=="
 ---
 

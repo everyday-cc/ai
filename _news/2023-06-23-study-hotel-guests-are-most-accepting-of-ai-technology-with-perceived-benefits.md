@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AT&T seeks staff benefits in generative AI"
-    excerpt: "Heavyweight US operator AT&T is seeking staff efficiency improvements, among other gains, through in-house generative AI."
-    publishedDateTime: 2023-06-20T15:58:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/att-seeks-staff-benefits-in-generative-ai/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/MWL_ATT_650.jpg"
-        width: 650
-        height: 401
-        isCached: true
   - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
     excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
     publishedDateTime: 2023-06-24T04:28:00Z

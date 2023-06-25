@@ -48,15 +48,6 @@ related:
         width: 3000
         height: 1995
         isCached: true
-  - title: "Europe, US urged to investigate the type of AI that powers systems like ChatGPT"
-    excerpt: "Europe has led the world in efforts to regulate artificial intelligence, which gained urgency with the rise of a new breed of artificial intelligence that gives AI chatbots like ChatGPT the power to generate text,"
-    publishedDateTime: 2023-06-20T15:36:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/europe-us-urged-to-investigate-the-type-of-ai-18160525.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 13
 
 secured: "1+a0hJJ8w0kRHFHRn+65V0sDAJJ+kkMlht2+V3scKsgbBt6WDUskeDrniZHWmgb4hNl9UKOJ4rJFvpVTKS3c8aTq9U30M/m9PIyGHy7FNAwUJWqglY0qeYAk/T7k5WXwkDXkGdWhHqmICVxbJQ88sf5LCLoTWf+T8CHlgB0iiRTCHBD5HcfI+E8120TdXQzLCYOcXHWKtDfSoT7dPZth4oEOQfkANS4BjZ9oGO6LM4YgPm5KWQomteYjPdaIksjIPV8gDUeRlu9zZRlxgtdPPMv+tnh6BBku/+0b9Ju8xoWaIHfKywK8vAb1u1hxPHLp5Nik6u4g3o7QBHAJiFkBm7WoR4B/SYVYymXAZXTGYk9KM4+GM+adQE3WnUJ+Wua+NTAiqzzqqBnHdDPmqTD3mF8RoCd9+jCV/RyjtZV7brk709M2pfyCKMjakpid+4798z0Jiq7Z6QL95TCLRfCGtFj4dVoEtQ0NTgh6oMTqr43HwXaARtxRCTPTo/CTvfDM/068dMxaPjXV8rR+Y/pPqA==;woexE/wueBiwnZhCMrdtEQ=="
 ---

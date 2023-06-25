@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-05-16-cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools.md",
+      "title": "Cloudflare unveils Cloudflare One for AI to enable safe use of generative AI tools",
+      "excerpt": "Cloudflare One for AI will enable organizations to adopt the latest generative AI technologies without compromising performance or security.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
+      "originalUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/cloudflare-mobile.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloudflare-unveils-cloudflare-one-for-ai-to-enable-safe-use-of-generative-ai-tools/amp/",
+      "publishedDateTime": "2023-05-15T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-c3ai-stock-soars-as-company-expects-to-beat-revenue-target.md",
       "title": "C3.ai stock soars as company expects to beat revenue target",
       "excerpt": "Shares of C3.ai were surging in Monday afternoon trading after the software company said it expects that it exceeded its revenue target for last quarter.",
@@ -1196,40 +1247,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-hormone-therapy-should-be-offered-to-more-women-with-severe-menopause-review.md",
-      "title": "Hormone therapy should be offered to more women with severe menopause: review",
-      "excerpt": "More women suffering from 'debilitating' symptoms of menopause should be presented with the option of hormonal therapy, according to a paper published in the Canadian Medical Association Journal (CMAJ) on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/health/hormone-therapy-should-be-offered-to-more-women-with-severe-menopause-review-1.6398546",
-      "originalUrl": "https://www.ctvnews.ca/health/hormone-therapy-should-be-offered-to-more-women-with-severe-menopause-review-1.6398546",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

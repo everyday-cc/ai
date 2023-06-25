@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Aws Announces Generative Ai Innovation Center"
-excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
-publishedDateTime: 2023-06-23T04:20:00Z
-originalUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
-webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+title: "AWS Announces Generative AI Innovation Center"
+excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
+publishedDateTime: 2023-06-23T00:00:00Z
+originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
     width: 800
-    height: 418
+    height: 480
     isCached: true
 
 related:
@@ -52,22 +52,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Meta Announces Voicebox Generative AI Model, Touting Accessibility Implications"
-    excerpt: "In a blog post published last week, Facebook parent company Meta announced Voicebox ... post that Voicebox represents “an important step forward in our generative AI research,” one can’t help but be tantalized by the accessibility-related ..."
-    publishedDateTime: 2023-06-20T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/06/20/meta-announces-voicebox-generative-ai-model-touting-accessibility-implications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6490e4efd2fae043769b888b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI in PR and Marketing: 3 Core Issues"
     excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
     publishedDateTime: 2023-06-21T20:04:00Z
@@ -257,6 +241,6 @@ related:
       domain: theinformation.com
     quality: 19
 
-secured: "7fxPpcXaavZjCB34AcX1CfUnW08Vm4uJLdMMUl+IWG2UACPO8TRe9V1H7QCu25yYyBJPU/dH2zXnCG2rqBHsK3ayzMe+CDcPbkH3CdtLmzgoDSH/Bx07EfAM0uHpp5l23LwHUNe/c+ts1QYuSKkTzFJ8qZNNSbRZQLU9RodNhRR1CihNhflcVlJocroCahP3SA0ADgAFQh1o7FrLqk3KOB0F+JsmzD4VRDkC2j8W+A+1Ll31Ba/UJPVVWq78nE4EMm5qZ7fgVR/rklK/+2YDq2M8p9i7NB/PsVSl5Ryl2b0qV701nZUxS1WU5wBeFZYr2lVFCZG8l5CICbzc80WKc21m4ixf6+gEjXejkWi7ETI=;QIyv0GPLIGetX7b+7ORDWg=="
+secured: "Ek8cl68Dm0nPSVVBKqi4RvVN+ZbM5WpXBvzdOHR+IHjdrX3cCBZ+qoPAPP3dF8cKoxBBj1V9EVuDPuNgRMXkx7bJKOC3W4XasQywrhuRH8eKzlPysHRV+T2GtiPAW7GvQilrkpgDmdZ4vdKf8/koM1I24VOFDZ+QxFPNRFELl868eD8MiGMYZ/KwXvKdm1OpLWIzGp74OgVML7/fifAMg2tTAE4sCyShiORRbGn4ysIeGJTTkfdlqf8rT8Jx0CRa7inAcEHQq+UBisOG3nTdLenLGC1NW46MSI065ZXqFeG9M/nUi95Jh2wQAaL26a48ivvcFrvax/zT+lF8ZLzlaIBwXhfe+pXZOI76ityjabA=;1VL3/+pz9TZQV4X7Q12wNg=="
 ---
 

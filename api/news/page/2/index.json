@@ -570,7 +570,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -756,6 +756,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-bank-of-america-sees-these-3-names-benefiting-from-the-ai-networking-chip-war.md",
+      "title": "Bank of America sees these 3 names benefiting from the A.I. networking chip war",
+      "excerpt": "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1211,58 +1255,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-kibsi-raises-93m-for-its-no-code-computer-vision-platform.md",
-      "title": "Kibsi raises $9.3M for its no-code computer vision platform",
-      "excerpt": "Kibsi is an Irvine, California-based startup that is building a no-code computer vision platform that allows businesses to build and deploy computer vision applications. Among the things that set Kibsi apart from many other players in this space is that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Kibsi-Founders.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "publishedDateTime": "2023-06-22T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

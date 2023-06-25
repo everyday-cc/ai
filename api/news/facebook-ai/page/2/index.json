@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
-      "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
-      "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance.md",
       "title": "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance",
       "excerpt": "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat.",
@@ -1476,6 +1424,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy.md",
+      "title": "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy",
+      "excerpt": "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
 type: article
 quality: 59
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
+    excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
+    publishedDateTime: 2023-06-25T09:30:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article276688251.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article276688251.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
   - title: "OpenAI of Sam Altman Scores “Most Visible” In TIME100 Most Influential Companies of 2023"
     excerpt: "TIME magazine recently unveiled its highly anticipated 2023 TIME100 Most Influential Companies list, showcasing businesses and leaders that are shaping the future. Among the diverse group of companies,"
     publishedDateTime: 2023-06-23T05:07:00Z

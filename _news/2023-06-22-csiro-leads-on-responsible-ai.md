@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-a
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Empowering the public sector to implement responsible AI practices"
-    excerpt: "SAS’s Joseph Castle, PhD, sheds light on the importance of responsible AI practices and explores challenges in operationalizing AI, ensuring ethical development and managing data."
-    publishedDateTime: 2023-06-20T15:34:00Z
-    webUrl: "https://fedscoop.com/video/empowering-the-public-sector-to-implement-responsible-ai-practices/"
+  - title: "Don’t blindly trust AI vendors"
+    excerpt: "Australia’s national science agency the CSIRO has warned business leaders not to blindly trust companies selling AI products in a new report it hopes will encourage responsible AI implementation. Recognising that lots of businesses will procure AI products from third parties rather than building them in-house,"
+    publishedDateTime: 2023-06-22T01:51:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/don-t-blindly-trust-ai-vendors.html"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
+      name: ia.acs
+      domain: acs.org.au
     quality: 39
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/06/Header_SAS.png"
-        width: 1728
-        height: 946
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/big-tech-ai-icons2.jpg"
+        width: 716
+        height: 403
         isCached: true
 
 secured: "qm4QCs1Myv3lE4+GsCg99hPHUId0rcnf3uUcndTii2Df93LBgQPLgXcjDn+dOLVIQzb/cuUvZ3n/JsnRFoH25P45PobtxI1wlhsO8qxgt7q8GS2Flf9nqJR5BZky2x2LRVzvrOfrMcBgEBog/hpD1tSNCOHJdapo5MqSAdrNmJ8JLkSJOnNG69SnST2nnuNadZCkOjtVvN58QRM3kCU8MSrRkNHYc8/FQOSLH8RZYpVAln4T3qwrN72tznBsSIRJgVxTO/K9/IFQZkdp7QE32iz6f4TUqxwzbJQPUCjyAcN7goBMR3E4ZkFv1K6BSTzmX408de6jMzlC9At8oJY7yrguVrpNG7KkgF0KleK1acA=;W+Lu0Q4A6PlqLxWaoY4Fnw=="

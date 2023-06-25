@@ -1,0 +1,73 @@
+---
+category: news
+title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
+excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
+publishedDateTime: 2023-06-25T09:30:00Z
+originalUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+webUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+ampWebUrl: "https://amp.miamiherald.com/news/business/article276688251.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article276688251.html"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: Miami Herald
+  domain: miamiherald.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech"
+    excerpt: "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs."
+    publishedDateTime: 2023-06-24T01:49:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
+    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
+    publishedDateTime: 2023-06-23T01:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "OpenAI of Sam Altman Scores “Most Visible” In TIME100 Most Influential Companies of 2023"
+    excerpt: "TIME magazine recently unveiled its highly anticipated 2023 TIME100 Most Influential Companies list, showcasing businesses and leaders that are shaping the future. Among the diverse group of companies,"
+    publishedDateTime: 2023-06-23T05:07:00Z
+    webUrl: "https://www.cryptopolitan.com/top-ai-companies-times-most-influential-2023/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 30
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/06/JasperArt_2023-06-23_03.05.23_1_upscaled.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+
+secured: "qlMQf15YjeeHOYD+sByOHPASdnZhi0/Sh41IAZNIr2YaSMFmeG8L6vuNDKwd/Zk1p3QKkt2DUgN/bVAM/i77jYKZXo74yCDsxFDI/lqYgqMP5yLUxYGNTtKOjmJWY+AQKxinriuDtGdRGGVDN3Kb6UPLsSNs7v4zWCMWtRwBrcUGSab7F2LKkuR4D0m8fBJy+wJV27+0WuLfy/6hN0/0nhQ9krRKcI+0NFC6V0IDfv9mfR5YZ+QKvZIQz2OghEJvIZ18ZpH2hLqPAFx2FaX0uNr1prkfJVeGqotfMBgfM5LVUB5xNUHE9Soq4DfDsYRzNH27VwSogQwXYq3xuuM2BMMt0uRk7ShdU+ubXnD/3LM=;vlZTmWzMg/D8vG6Yek3i0w=="
+---
+

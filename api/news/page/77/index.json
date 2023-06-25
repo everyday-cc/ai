@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-05-05-this-intelligence-may-be-artificial-but-the-threat-is-very-real-as-ai-takes-over.md",
+      "title": "This ‘intelligence’ may be artificial, but the threat is very real as AI takes over",
+      "excerpt": "THE robots are coming and you’d better watch out – your jobs, prosperity and freedom are in their sights. Will Smith famously fought an army of Artificially Intelligent androids who had",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/",
+      "originalUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/NINTCHDBPICT000616991058.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/10655250/artifical-intelligence-robots-take-over-threat/amp/",
+      "publishedDateTime": "2023-05-04T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.md",
       "title": "GREG GUTFELD: Can Kamala Harris handle her new position on AI or will she wing it?",
       "excerpt": "Fox News host Greg Gutfeld digs into the Biden White House tapping Vice President Kamala Harris as it's point person on AI on \"Gutfeld!\"",
@@ -1107,40 +1150,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-i-let-an-ai-robot-control-my-life-and-it-sent-me-to-the-tower-of-london.md",
-      "title": "I let an AI robot control my life – and it sent me to the Tower of London",
-      "excerpt": "An out-of-control AI could, in theory ... A glimpse of the future? Will Smith in I, Robot Credit: Shutterstock Still, if the machines are about to take over the world, they can do something ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/lifestyle/2023/04/25/ai-chatbot-google-bard-chat-gpt-control-life/",
-      "originalUrl": "https://www.telegraph.co.uk/lifestyle/2023/04/25/ai-chatbot-google-bard-chat-gpt-control-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

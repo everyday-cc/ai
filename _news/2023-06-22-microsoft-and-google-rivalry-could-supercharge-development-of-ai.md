@@ -95,20 +95,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7.8 billion) from Microsoft, while Google has invested US$300 million in Anthropic."
-    publishedDateTime: 2023-06-20T16:18:00Z
-    webUrl: "https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 56
-    images:
-      - url: "https://images.theconversation.com/files/530970/original/file-20230608-23-rzr94s.jpg?ixlib=rb-1.1.0&rect=0%2C235%2C6029%2C3014&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Rivalry between Microsoft and Google could supercharge AI progress"
     excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
     publishedDateTime: 2023-06-24T11:01:00Z
@@ -120,20 +106,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 56
-  - title: "Microsoft outlines broader AI ecosystem for Chinese users"
-    excerpt: "During the company's offline event for its annual developers conference in Beijing, Microsoft presented, for the first time in China, how generative AI can be applied to help facilitate users' day-to-day productivity through its copilot initiative."
-    publishedDateTime: 2023-06-20T15:30:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202306/20/WS6491bab1a310bf8a75d6af47.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202306/20/6491bab1a310bf8a1d22b3e8.jpeg"
-        width: 615
-        height: 410
-        isCached: true
   - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
     excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
     publishedDateTime: 2023-06-21T10:09:00Z

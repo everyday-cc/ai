@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-16-navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure.md",
+      "title": "Navigating The AI Frontier: Unlocking New Opportunities For Press And Marketing Exposure",
+      "excerpt": "The brands that thoughtfully adopt AI-powered tools and navigate this new frontier that can not only survive but thrive in the age of intelligent machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6409dd0c5d71339822b50055/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/16/navigating-the-ai-frontier-unlocking-new-opportunities-for-press-and-marketing-exposure/amp/",
+      "publishedDateTime": "2023-06-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
       "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
       "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
@@ -1178,58 +1230,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
-      "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
-      "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648b5dfc6c909f5e645e44a7/0x0.jpg?format=jpg&width=1200",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
-      "publishedDateTime": "2023-06-15T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

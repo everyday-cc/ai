@@ -57,6 +57,20 @@ related:
         width: 850
         height: 500
         isCached: true
+  - title: "Pilgrims Will Get To Hop On A Self-Driving Bus This Hajj Season Featuring Eco-Friendly AI"
+    excerpt: "The Kingdom is always up and ahead when it comes to facilitating the millions of pilgrims that flock the holy cities of Makkah and Madinah. Aside from their top-tier facilities to host these visitors throughout the year for Umrah,"
+    publishedDateTime: 2023-06-25T07:36:00Z
+    webUrl: "https://lovin.co/riyadh/en/latest/pilgrims-will-get-to-hop-on-a-self-driving-bus-this-hajj-season-featuring-eco-friendly-ai/"
+    type: article
+    provider:
+      name: lovin
+      domain: lovin.co
+    quality: 30
+    images:
+      - url: "https://cdn.lovin.co/wp-content/uploads/sites/9/2023/06/25111809/feature-images-saudi-cities-22.png"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
     excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
     publishedDateTime: 2023-06-22T05:51:00Z

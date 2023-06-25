@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Can AI-generated music win a music award? The Grammys reveal new rules"
-    excerpt: "\"Only human creators are eligible to be submitted for consideration for, nominated for, or win a Grammy Award,\" according to the new 2024 Grammy Awards rules. Even though only human creators will be recognized for their work, it doesn't mean AI-generated music won't be recognized."
-    publishedDateTime: 2023-06-20T16:22:00Z
-    webUrl: "https://www.zdnet.com/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0a6b6c01d8099074d6b67af95c58f995c397acd9/2023/06/20/18940ca6-0746-44be-beaa-47fb0547e7fd/gettyimages-1239723062.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Purely AI-generated songs declared ineligible for Grammy Awards"
     excerpt: "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,"
     publishedDateTime: 2023-06-20T21:07:00Z

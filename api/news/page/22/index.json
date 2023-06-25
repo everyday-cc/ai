@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-06-08-google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care.md",
+      "title": "Google Cloud Partners With Mayo Clinic To Use AI In Health Care",
+      "excerpt": "Google’s cloud business is expanding its use of new artificial intelligence technologies in health care, giving medical professionals at Mayo Clinic the",
+      "sourceUrl": null,
+      "webUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "originalUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://geeknewscentral.com/wp-content/uploads/2020/08/Google-logo-2019-1.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "cdnAmpWebUrl": "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2023/06/08/google-cloud-partners-with-mayo-clinic-to-use-ai-in-health-care/amp/",
+      "publishedDateTime": "2023-06-08T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek News Central",
+        "domain": "geeknewscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-iit-bhu-showcases-efforts-in-healthcare-and-ai.md",
       "title": "IIT-BHU showcases efforts in healthcare and AI",
       "excerpt": "Varanasi: The Indian Institute of Technology (BHU) displayed its efforts in the areas of healthcare, biomaterials and artificial intelligence at the t.",
@@ -1145,58 +1188,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-bard-is-getting-better-at-logic-and-reasoning.md",
-      "title": "Bard is getting better at logic and reasoning",
-      "excerpt": "Two improvements are launching in Bard to help you get more accurate responses and export to Google Sheets.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/",
-      "originalUrl": "https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bard_Social_Share_1280x720.width-1300.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

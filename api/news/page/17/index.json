@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-06-13-salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise.md",
+      "title": "Salesforce launches AI Cloud to bring models to the enterprise",
+      "excerpt": "Salesforce is launching AI Cloud, a collection of products, tools and services with generative AI at the core.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/",
+      "originalUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1188301651.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/12/salesforce-launches-ai-cloud-to-bring-models-to-the-enterprise/amp/",
+      "publishedDateTime": "2023-06-12T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-grimes-helps-artists-distribute-songs-using-her-ai-voiceif-they-split-royalties-heres-how-it-works.md",
       "title": "Grimes Helps Artists Distribute Songs Using Her AI Voice—If They Split Royalties. Here’s How It Works.",
       "excerpt": "A new partnership will help artists and fans more easily distribute songs that feature Grimes’ AI voice—if she gets half of the royalty revenue.",
@@ -1161,58 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-coinwebcom-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models.md",
-      "title": "Coinweb.com: Your Ultimate Cryptocurrency Education and Comparison Hub, Powered by Advanced AI Models",
-      "excerpt": "Your Ultimate Destination for Cryptocurrency Education and Comparison, Powered by Cutting-Edge AI TechnologyDubai,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinweb-com-your-ultimate-cryptocurrency-education-and-comparison-hub-powered-by-advanced-ai-models-1032382269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/ifVQDvKEZZMuxhtiOyhcAAz1TmH2/1686517473221-0.png",
-          "width": 653,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],
