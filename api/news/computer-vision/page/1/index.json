@@ -262,50 +262,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-sketch-based-object-detection-tool-using-machine-learning-could-boost-tumor-detection.md",
-      "title": "Sketch-based object detection tool using machine learning could boost tumor detection",
-      "excerpt": "Teaching machine learning tools to detect specific objects in a specific image and discount others is a \"game-changer\" that could lead to advancements in cancer detection, according to leading researchers from the University of Surrey.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/sketch-based-object-de.jpg",
-          "width": 782,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-sketch-based-tool-machine-boost-tumor.amp",
-      "publishedDateTime": "2023-06-21T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-06-21-computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031.md",
       "title": "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031",
       "excerpt": "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,",
@@ -1310,8 +1266,8 @@
       "title": "Powerful object recognition for diverse applications using AI and robotics",
       "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news815664",
-      "originalUrl": "https://idw-online.de/en/news815664",
+      "webUrl": "https://idw-online.de/de/news815664",
+      "originalUrl": "https://idw-online.de/de/news815664",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1330,7 +1286,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T03:45:00-07:00",
+      "publishedDateTime": "2023-06-07T02:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",
@@ -1422,6 +1378,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
+      "title": "Nigerian FG to install facial recognition technology at airports",
+      "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
+      "originalUrl": "https://www.itweb.co.za/content/4r1lyMR9mpd7pmda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/Louw-Cilliers-06June2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1lyMR9mpd7pmda",
+      "publishedDateTime": "2023-06-06T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

@@ -34,7 +34,7 @@ related:
     provider:
       name: CounterPunch
       domain: counterpunch.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.counterpunch.org/wp-content/uploads/2023/06/word-image-286720-1-scaled.jpeg"
         width: 3072

@@ -64,20 +64,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "Chatbots invade retail: The US$72 billion AI revolution led by ChatGPT"
-    excerpt: "Juniper Research forecasts AI chatbots driven retail spend to hit US$12 billion in 2023, escalating to US$72 billion by 2028."
-    publishedDateTime: 2023-06-20T23:59:00Z
-    webUrl: "https://techwireasia.com/2023/06/chatbots-invade-retail-the-us72-billion-ai-revolution-led-by-chatgpt/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/Chatbots-2-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
     excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
     publishedDateTime: 2023-06-22T02:40:00Z

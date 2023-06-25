@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/how-to-use-ios-16-voice-recog
 webUrl: "https://www.techrepublic.com/article/how-to-use-ios-16-voice-recognition/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 16
-  - title: "Strategic Analysis of Global Speech and Voice Recognition"
-    excerpt: "As per Facts and Factors study, the global speech and voice recognition market size was nearly $17.18 billion in 2022 and is predicted to surge to about $54.70 billion by 2030 along with recording the highest CAGR of 14."
-    publishedDateTime: 2023-06-20T23:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-strategic-analysis-global-speech-voice-recognition-market-size-/2023/06/20/9836115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "w8Ghd+ZtQXg1KH4tYLOPuJkHsN410qa3SvvL6NaoQ5NXH3bnV0w7ZAK7ZS+JLfnf+5zzZuMr6qW2C8od0uT+hQ+/YXHhAN71w/TsSzOyzqpDaY/pgWW5xXjtedPvkgSHs+Wkb9/9zfCH4WrH/rpdX8KGxAqdaNmAyJP0fiI/97CQQEwEv2Mhxwqx85C07kLjFByLHaKFs0X25AhvcGanQ2cBWmmzVpFnUMIf3x5ClNjC7laqsAhLEtY5df586fB5rvj9AmF03qZbUHCbjz125iic1WdMfGPZHGsACpXSe6etj0ssVg+WDnCV36tDmDIWvRc0fc51yTEnDnY5FIxY/BlrXJVZM8hrYn4qaBYyIYFebI+GQYuxG22HSBf7rG4h7/XEJjrYlWixKGz1yZIaQnUJV16/fiBs7eXAh0Y+BO5CuWKE4PXWj+0b1EGp9/0zYDoIWkFkzE+DEIScCnGHea4FunaMIGtusn7hTcIQkYpXyusqUwtXWgFazeXgU8oaVvICX315HynHeNGiJ6TOxQ==;QRpGOwXVLxRcCTWz/lZAlQ=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cisco Unveils Speedy AI Networking Chip"
-    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ..."
-    publishedDateTime: 2023-06-22T11:20:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market"
     excerpt: "Cisco joins AI race with new networking chips to rival Broadcom and Marvell, targeting AI/ML workloads. Here are the"
     publishedDateTime: 2023-06-22T20:17:00Z
@@ -71,19 +57,28 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cisco takes on Broadcom with new chips for AI supercomputer"
-    excerpt: "Cisco also shared that its AI chips from its SiliconOne series are currently being tested by five of the six major cloud provider."
-    publishedDateTime: 2023-06-21T23:33:00Z
-    webUrl: "https://techwireasia.com/2023/06/cisco-ai-chips-takes-on-broadcom/"
+  - title: "Cisco Unveils Speedy AI Networking Chip"
+    excerpt: "These chips provide the foundation upon which hyperscale data centers can be built. Megacompanies like Meta need enormously fast networks to handle a deluge of data, but AI training is even more ..."
+    publishedDateTime: 2023-06-22T11:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/cisco-unveils-speedy-ai-networking-chip"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Cisco introduces new SiliconOne processors for AI infrastructure"
+    excerpt: "Cisco is coming out with two new SiliconOne processors. The processors should form the basis for an AI or machine learning (ML) infrastructure. The two"
+    publishedDateTime: 2023-06-21T13:48:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/107856/cisco-introduces-new-siliconone-processors-for-ai-infrastructure/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/Cisco.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Cisco Launches New AI Networking Chips"
     excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."

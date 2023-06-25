@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'"
-    excerpt: "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode."
-    publishedDateTime: 2023-06-20T23:56:00Z
-    webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
-    images:
-      - url: "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg"
-        width: 1600
-        height: 902
-        isCached: true
   - title: "Hacker claims to discover “Elon Mode” for Tesla self-driving cars"
     excerpt: "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these"
     publishedDateTime: 2023-06-23T04:15:00Z
@@ -59,6 +45,15 @@ related:
         width: 620
         height: 382
         isCached: true
+  - title: "Elon Musk Says Artificial Intelligence (AI) Will Be the Primary Growth Driver for Tesla Stock"
+    excerpt: "CEO Elon Musk says full self-driving (FSD) software will eventually be the ... mobility and logistics by replacing fallible humans with less fallible artificial intelligence (AI) software. Robotaxis will make car ownership optional, reduce motor vehicle ..."
+    publishedDateTime: 2023-06-22T11:19:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
   - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
     excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
     publishedDateTime: 2023-06-21T16:28:00Z

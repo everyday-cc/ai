@@ -5,9 +5,11 @@ excerpt: "The erupting world of artificial intelligence poses a threat to jobs, 
 publishedDateTime: 2023-06-25T13:30:00Z
 originalUrl: "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
 webUrl: "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+ampWebUrl: "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
+cdnAmpWebUrl: "https://www-greeleytribune-com.cdn.ampproject.org/c/s/www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
 type: article
-quality: 15
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.greeleytribune.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681"
+    width: 1024
+    height: 681
+    isCached: true
 
 related:
   - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
@@ -29,6 +37,6 @@ related:
       domain: orlandosentinel.com
     quality: 19
 
-secured: "qQC5Zy3yLlzEO/Ao5RfvvQbc3WNr1Mk9MdW4vX9wYVJ2TfpNOw0PrqXkFiIPLSCu4a98BOCFvsPWItRZo5vngshwTaJuE9NLvwDQycYwTFbyBKoYkQfeqH+4Gt+8pYCVcLqaDDbdghUB1OnASBSn9cML2m1xj+irY5dGd4eTkaWfz0lek2DHDLXb7/h+3gvjPUnBENezC0xFb+Aij3BhBbpXvm/CaotC1aazUexWfe4u56lvuCj0Ass9fLzmQdmEH75iBvf7karthZ8wLLeEWbrNiZG9WEQrpCuskONjvekMDxccdlgDL6DOQj0cGTMUWnSDFoBjYwmpfQ1yS1Oorb0poGrrL1qfqZVDj+1FiSU=;rkXLLeHNxMDcQAxax5Qhhg=="
+secured: "jtYWwbCbYGdPjVBMKDjI1hzKhor7bSbsZ/+/036dK6z9RzE1XqVo/eNlUAJ2+RRsLTcHnZ+BYsUbkVPQskKxhb5c2qX7bGByj9T2ewrpz2Ly82FV1+k9fzicJ7o0rMCqjIbJZHuBSuskcKXqGqnuEw5RsuJ1EgZ2D4qgHBUYuTWnAMu2TCAwzLui8to85Uw3EVj73qOuZmrjKD2QZpJdksxUMryiQcZm+mIsb9g9l+9aED6YID0FbJr9EBtfLC/kbEZaaHZUKe2v+u/M+KBI25wbwlLVpkoNLcU8s4dADAVQiQMsk4BlQ/4evbsWdGtJZGTYVTqulZOT9uuMyzxZgwU2qMxCHBrhvsk8YZjw3JU=;4P9oluHkV4dfG+7JREprBw=="
 ---
 

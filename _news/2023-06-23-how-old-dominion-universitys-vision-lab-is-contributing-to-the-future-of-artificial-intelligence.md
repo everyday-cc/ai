@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
+        isCached: true
   - title: "How to future-proof your newsroom with AI"
     excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
     publishedDateTime: 2023-06-21T09:45:00Z
@@ -187,15 +203,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "How the White House is moving into the action phase of its effort to regulate AI"
-    excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
-    publishedDateTime: 2023-06-20T23:56:00Z
-    webUrl: "https://www.aol.com/finance/white-house-moving-action-phase-171620546.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
   - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
     excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
     publishedDateTime: 2023-06-22T06:48:00Z
@@ -204,7 +211,12 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 6
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SqCrpA5fWskr+XPQVy/Hapo4JvMwl83t56Yqux6qBiLBV1Rc97tWK+j2zIeSb3Ymm3MiQXC4/yv+6BrHgXbmaTuW8vvK+ietA/CJp1lhZyMhvObttarKMsH/YsPT4od3dArLvVixBWqnuoWTK6t12/ER4kq6BjafgkzFclJGT1LJZGizNIV5fpoVXYMEUSfhWmXYgYrI6+bkCtHYXW6rchB0PmmP0/0UZ+v1Qr2iw/Q48D8X5fBOEgAuVflYqlc0nU2h0ZG0r/HEzB343F7M1Dzu4xAqlly7zNW/x/Xeun99YItUx5tH4yPgWADz2AlfpHAdlQWSjHDjzUR0yA7qRX44AAFXOP915W4zL1qSI1eYYWW5jYwu8aiw9ZVVKr0SBkMkvwAauKDdSbUBA8euMSjQyd037EfaTR4kqHhESyucMXwT7bdheZGH50/vpQTqjWKnidt0M+kvw6KnSTrU0q1ozPZgFgbF3MgnObc7oD0RK2P8rsGBXWmHNzWK1/7CGH2hvAjqYHF+dnxXU7Lffw==;tnQiEnE5f6qGbej0raZk6w=="
 ---

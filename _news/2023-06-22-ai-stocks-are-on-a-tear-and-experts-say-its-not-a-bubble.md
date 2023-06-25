@@ -7,7 +7,7 @@ originalUrl: "https://www.newsobserver.com/money/are-ai-stocks-in-a-bubble/"
 webUrl: "https://www.newsobserver.com/money/are-ai-stocks-in-a-bubble/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,47 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Biden's AI summit was a hit because of facts — not fear"
+    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
+    publishedDateTime: 2023-06-21T21:53:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Factbox-Flurry of US-India deals on AI, defense as Biden, Modi meet"
+    excerpt: "(Reuters) -Indian Prime Minister Narendra Modi and U.S. President Joe Biden met in Washington on Thursday and several agreements were to be announced to strengthen economic and diplomatic ties between the two countries and highlight new private sector investments."
+    publishedDateTime: 2023-06-22T21:41:00Z
+    webUrl: "https://www.aol.com/news/factbox-flurry-us-india-deals-152214541.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b27c40a09a9c20c83cc2c5e4f2dc0aeb"
+        width: 800
+        height: 525
+        isCached: true
+  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
+    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
+    publishedDateTime: 2023-06-23T00:45:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
 
 secured: "S5vmU1S4EdKVMSnXqd1i6CZfhAKtj8eWP5P7K36zbn41LahZ8FxAWiavzdIoc0DavQnt0urFRKq1Jf6QVUrjUBLZgRnrgQwtYaeoEmbykZCgvb/q6xmX04AwtRqEORhIXG1azyeJNHnpk/tlX1rnDtTvgy0QBdX+X6EzuGgZCfX0ySeIB+P6e11HF0gBGPI1M1TSnypnL8t/ZeKlhie/y39eh3vZ8xJsiCMgL8kqi2xSoa5mLWHHF6i6veCXRYDGrgAWmgbkFPUC2NXkp3Ogo+uW7mZ6VgoN2WRerQuqVhnoPNf+mLiWxjPpej0B+sWDsHS8lOTzjZpGVkiOjKzr+Ws0UkH7aXSaVENW3eu5nrA=;botQHnasQ6nZ9lWyUWqHyg=="
 ---

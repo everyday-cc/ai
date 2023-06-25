@@ -62,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -159,21 +159,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-22-cisco-unveils-speedy-ai-networking-chip.md",
-      "title": "Cisco Unveils Speedy AI Networking Chip",
-      "excerpt": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ...",
+      "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
+      "title": "Biden visits Marin after AI forum in San Francisco",
+      "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
+      "webUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
+      "originalUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,23 +181,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:20:00-07:00",
+      "ampWebUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
+      "publishedDateTime": "2023-06-20T18:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -207,8 +198,7 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Biden meets with AI experts in effort to manage its risks"
-    excerpt: "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation."
-    publishedDateTime: 2023-06-21T00:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90136"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden visits Marin after AI forum in San Francisco"
     excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
     publishedDateTime: 2023-06-21T01:18:00Z
@@ -50,21 +34,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biden's AI summit was a hit because of facts — not fear"
-    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
-    publishedDateTime: 2023-06-21T21:53:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+  - title: "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco"
+    excerpt: "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies"
+    publishedDateTime: 2023-06-23T13:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
+      name: The Guardian
+      domain: theguardian.com
+    quality: 58
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3"
+        width: 620
+        height: 372
         isCached: true
   - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
     excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
@@ -82,38 +66,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Expert Who Met With Biden Explains How AI Is Enabling Racism and Sexism"
-    excerpt: "Algorithmic Justice League founder Joy Buolamwini discusses the need to prevent harms already impacting people."
-    publishedDateTime: 2023-06-22T18:51:00Z
-    webUrl: "https://truthout.org/video/expert-who-met-with-biden-explains-how-ai-is-enabling-racism-and-sexism/"
+  - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
+    excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
+    publishedDateTime: 2023-06-23T15:37:00Z
+    webUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis"
+    ampWebUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
     type: article
     provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 39
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://truthout.org/app/uploads/2023/06/SEG3-AI-Split.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/94da5ef/2147483647/strip/true/crop/1172x611+0+51/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2Fb4%2F95696e8771c007df4d93db50a98b%2Fsan-francisco-shutterstock.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Biden meets with artificial intelligence experts in California"
-    excerpt: "In brief remarks to reporters before the closed-door meeting, Biden said that he wanted to hear from the world's leading experts on the \"enormous promise\" and \"risks\" of the fast growing technology."
-    publishedDateTime: 2023-06-21T13:36:00Z
-    webUrl: "https://kyma.com/news/california-news/2023/06/21/biden-meets-with-artificial-intelligence-experts-in-california/"
+  - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
+    excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
+    publishedDateTime: 2023-06-22T13:18:00Z
+    webUrl: "https://www.firehouse.com/apparatus/news/53064109/san-francisco-chief-irked-with-robotaxis-tangling-with-firefighters"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 17
-  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
-    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
-    publishedDateTime: 2023-06-23T00:45:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
+      name: Firehouse
+      domain: firehouse.com
+    quality: 4
+  - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
+    excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
+    publishedDateTime: 2023-06-22T12:04:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 16
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 0
+  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
+    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
+    publishedDateTime: 2023-06-23T18:07:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "z2APBTtM/WOdoNWXVzCeIk5IIBt2XIzm+G/Ul8xKuoTD11OQGm2sDqQa7kBbezZrJhiqCtRMLm4XNJZPkQ+fU8OiAz/ZMgB2I4LKosLCpqZAVKHUNFpc6xzeXo57bJt46ltZb75NbreVUpOf+kGdtcrNhFMMDNGjxi4EdXus6k0yGP0KxCTLx5FlFVN2ke9Oy1eP8aCMMTsQA+/56TzzxF3B1JNhsJ4BlQXBu/ymExbdxu2/sATsjvCsacpgpHFejThLuIPrbupwbR/YnqXDXAkJ2K2uh87nVbaz2j5/FVtm3FNPJo+pAG73F+E363vLUI9CfZQ1Fv/EcqqIlbKW+noX2GL1UUTcX5GLls/UDOo5OtjRTBRwl4w5fNksaSwm7sj8cHr1Ju7nIkt5v9PGr2Aj3NiQzu551iDFuQns+rc8cNuVCMYt4cCks97t8LS54fjcQBAo70P9reWyg0LFAZCLMEkQC9x+7CD2HqidPYoVmkCTYYQUA4uQE33fwXhpz1ecCkVDoGJo++BxIhjtUA==;FLjdFssUKsN7vl3oqimaNg=="
 ---

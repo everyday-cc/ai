@@ -1,33 +1,22 @@
 ---
 category: news
 title: "Cisco Unveils Speedy AI Networking Chip"
-excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research ... essential as the AI industry evolves. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister ..."
-publishedDateTime: 2023-06-22T11:20:00Z
-originalUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
-webUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
+excerpt: "These chips provide the foundation upon which hyperscale data centers can be built. Megacompanies like Meta need enormously fast networks to handle a deluge of data, but AI training is even more ..."
+publishedDateTime: 2023-06-22T11:56:00Z
+originalUrl: "https://www.nasdaq.com/articles/cisco-unveils-speedy-ai-networking-chip"
+webUrl: "https://www.nasdaq.com/articles/cisco-unveils-speedy-ai-networking-chip"
 type: article
-quality: 86
-heat: 136
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/737128/it-data-cloud-computer-1.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
+  - AI
 
 related:
   - title: "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market"
@@ -76,19 +65,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cisco takes on Broadcom with new chips for AI supercomputer"
-    excerpt: "Cisco also shared that its AI chips from its SiliconOne series are currently being tested by five of the six major cloud provider."
-    publishedDateTime: 2023-06-21T23:33:00Z
-    webUrl: "https://techwireasia.com/2023/06/cisco-ai-chips-takes-on-broadcom/"
+  - title: "Cisco introduces new SiliconOne processors for AI infrastructure"
+    excerpt: "Cisco is coming out with two new SiliconOne processors. The processors should form the basis for an AI or machine learning (ML) infrastructure. The two"
+    publishedDateTime: 2023-06-21T13:48:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/107856/cisco-introduces-new-siliconone-processors-for-ai-infrastructure/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/06/cisco.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/Cisco.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Cisco Launches New AI Networking Chips"
     excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
@@ -100,6 +89,6 @@ related:
       domain: analyticsindiamag.com
     quality: 34
 
-secured: "R8vxjPPB9Rx1begwuX0OKsnqTOijJXenJ5m8icTLyf7OLmIA+ZSaFYyto2Mia+kY0Znaac7P/rFe43Za6XsKsZcTxLBNU473VMpn2OLqgwLQ0xZTAVXeHk08PtFHGbidqulDcoboWQbKB8w6+sKyERU2mNYRMgZkNu+3ygTOsYGWJsEsIcw2Tg3TTG8H6ymEkFDUm5otc6yEr0Ta0QLg2qDpqWrc9GCPt3NeMxvY39LwEV269u5f8/ZFmDlCYhro0FmsxpJmlpl07ZmBlQdrVJrHF/mCNQW/xe994gh3sm2r4MPldT670XdsmJybKOKpFEVrCsuqWTHjzesWjNTQntHVLEi7i2dGAPuHdKq0W8Y=;NgWp+s4G+RuGCdqb/gJ21g=="
+secured: "vs/ghtAkm9yidxkfNQei8tFwSFHJ7Zhh2rC9w1NKtCwLWkEFg/3VxD9j6MGN4W2QEuhH8qsL5RWdK4RBUE7AmaDlV9XMuh0o4kfOL9Dp5n/bFpv3mxh6CqoGPKxs7cRh7VTiJlParh+MutGqkohDCz3LYo6g6lEt6wdgHG3zeGhAH71kwPTNB1tb3q0ZnRS2CTvTRQ4x1eMPLYZmJ0utUebb9bLFGjIEX9E4QMyR4iKpTzp+FTRGAl5pL7434qA/EnYaiEnceem1oMKy5aIJiIeixNBXiODq7iUvhxemje0Jk9sKYfNCWXR1O2EWDEt8yhE8JAN8Rx1pBs2hrZa4yaFxUGQNm0FbHwO7qkiF/Uc=;qQhi2pYMuJ2fhhNZRnCx/g=="
 ---
 

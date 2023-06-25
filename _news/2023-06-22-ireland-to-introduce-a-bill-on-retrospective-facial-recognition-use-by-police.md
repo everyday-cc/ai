@@ -47,15 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Strategic Analysis of Global Speech and Voice Recognition"
-    excerpt: "As per Facts and Factors study, the global speech and voice recognition market size was nearly $17.18 billion in 2022 and is predicted to surge to about $54.70 billion by 2030 along with recording the highest CAGR of 14."
-    publishedDateTime: 2023-06-20T23:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-strategic-analysis-global-speech-voice-recognition-market-size-/2023/06/20/9836115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "65vjOVKFY4ko7jSFqtBh3t42Kss9xfQE5zGdHwQYDsYZP8qpZDqaowQHLnddh71Hso5Wa6oIUCBZ1Z72Kf++QDT54USlz9u5jf7xJKydkuxoRRUx0OhIJiokriwysT6go+JsnFuvFsBWJlccO1rrXVckoYYkP2lT4KkRh9gcddx/NmDxMnpv73WHUPg/8J6wXA+ecUW4xRC4XFBlR8cvFRqVuQayw9BgWo3+q+6hNvHD4cShGU3AqIQXBi2bglM2NatTNOmrrLXRgCZSEGn348mYPigEZ2eDQO1gDwAhwXIS0SFft4k/xYaVQ5tSLR0y+AgIUVHPqk0pGu+NQFSF3XC6V26/095VtEQGC6h59MOpdrbhOyrUKqcFTqrnyFan9jqU+ctUBNNS3n5vmAz/HJeb1QP+b8ZnzSS22IKxxlRexbL0FoQLeJePImUX9DCCOA/yPqJUJ4JKQtpbUgAf9AxwFpPf/Bw5t0lKCp2a/M3x40jBthjSdqLWlVjp3ncq/6SuXgFfXhRRrh03oLKGuw==;4ST5RShz6Q5xhRxqqc8gIw=="
 ---

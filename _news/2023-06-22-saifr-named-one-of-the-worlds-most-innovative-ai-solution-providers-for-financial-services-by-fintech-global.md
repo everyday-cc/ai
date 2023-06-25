@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "JP Morgan invests in trade finance fintech"
-    excerpt: "Wall Street bank JP Morgan has made a strategic investment in a fintech startup focused on trade finance. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-06-20T23:22:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42509/jp-morgan-invests-in-trade-finance-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/jp-morgan.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
     excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
     publishedDateTime: 2023-06-22T11:16:00Z

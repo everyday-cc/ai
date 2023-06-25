@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Cloud Launches Anti-Money-Laundering Tool for Banks, Betting on the Power of AI"
-    excerpt: "The company is looking to set itself apart from a crowded field of surveillance platforms by reducing the amount of human input in the process of screening for money-laundering risks."
-    publishedDateTime: 2023-06-21T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai-2512ccce"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 59
-    images:
-      - url: "https://images.wsj.net/im-802296/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google Cloud Unleashes AI On Money Laundering Activities After Successful HSBC Trial"
     excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, shares her insights on Google's Anti-Money Laundering AI after a successful HSBC trial."
     publishedDateTime: 2023-06-23T18:49:00Z

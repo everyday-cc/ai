@@ -2,26 +2,23 @@
 category: news
 title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
 excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
-publishedDateTime: 2023-06-25T12:29:00Z
-originalUrl: "https://www.aol.com/news/openai-ceo-sam-altman-says-093000689.html"
-webUrl: "https://www.aol.com/news/openai-ceo-sam-altman-says-093000689.html"
+publishedDateTime: 2023-06-25T09:30:00Z
+originalUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+webUrl: "https://www.miamiherald.com/news/business/article276688251.html"
+ampWebUrl: "https://amp.miamiherald.com/news/business/article276688251.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article276688251.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/224d3e1998a2a046eb2b89c7b54d6ccf"
-    width: 1140
-    height: 802
-    isCached: true
 
 related:
   - title: "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech"
@@ -71,6 +68,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "MDsQGXUtP7DM4wmQ0GfEzpJkerITd2YkSeHa+g9JnjT+yw2zw2+Ush7J5QGkXa7TwGkE1PJrRjB5NaHXR+z3vyUQI2pbB8MW2whuVJBB2Pjl9e72j/UbEKKOCZi+MqywQvfj79DlbeMWR5aR/1YnX5E6Iamhfhq9AXCh8O+yt3HNN772UIceZC58worM5DerUukjoy27App84B+H63jntMml7vc6KdagpGFgqx/Se5tLLiBvsp9oSmy0VMpiVoNbszX9cpvKjSFvUfAmsqY5yo4KqcexFuRFQDNqSWfL9vhkjv6bcTBQPyix/R8xfV4vDLUu3cJtqbE2UscKIwSyr+EoRTG8MzPXcnJu5UO3lqo=;fkldZ5t4Pa+VAdEk8mcpJg=="
+secured: "IH/tIB8Awk6DpIDKgo/eDvvL7i2GZqhM4D44+IhXHAm+rNptTdDVfGi4/Vmpfy4Kx1qc/6VnFSCrjGpDVXbFUI4/yM8ZsrkcYBUtr2myAmf0iPSdivP49JCis0Be+ZT6QKvHGJAboeASAOm8VMQB8DtJwL5KRwkXezGb8nAe/XfQtV7G6qm+3elXhpsoSNB920MaJNz66lQPWyJiTZxPoxZnHqoRQrO7DSnsXMH15jBACZSFwQL+GtKy16EsTG1DCrZFK6XdhHV5/TnEa10pyGtpfcaaYwotTg86S6YAeyEpcCvC1go1S3VqiiLsH2ZYA51zo6dcqj2SxXgARx/bm5sojOSOuiR6/KFWiVZ4s1k=;laJm7V+mlLKAnb1CNwVjLQ=="
 ---
 

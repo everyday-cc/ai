@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
+        isCached: true
   - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
     excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
     publishedDateTime: 2023-06-22T16:31:00Z
@@ -172,6 +188,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+    publishedDateTime: 2023-06-22T06:48:00Z
+    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 28
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
     excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
     publishedDateTime: 2023-06-23T09:03:00Z
@@ -186,24 +216,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How the White House is moving into the action phase of its effort to regulate AI"
-    excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
-    publishedDateTime: 2023-06-20T23:56:00Z
-    webUrl: "https://www.aol.com/finance/white-house-moving-action-phase-171620546.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
-  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
-    publishedDateTime: 2023-06-22T06:48:00Z
-    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 6
 
 secured: "ee15MIsSO1zutQHhpq9briQCVkpbV3+heLOdffmZ8UPLpttNHy9nKyfIoTMY5jvyLpx06peMHs8UYxTaUp4MZ093mpzRyMMaJkH/kstKKBk+W8pYaJWQQsSINAG1qiTnv5UOzVJjF+BteUTGk5gnRWrlB7ZyT6I8HlqHRq5ANsXJX1hHJxI8iW3xP9aKs2WYGMXnePfTlD+p85t2cw6ngemxsvv6EEyPsgNFNcNVFVZ92+UDBATvlLv7YkVH4FkXd9a/eO2ss9dGwiTE7gsg91xn2fEpin0beJalI09LI4ttXooVlFc63zfDCm+H+7d2P5wFd924MPrg0fs8HH2ynd+ssn+zzJKaDXLcwhickuk=;yNQjifvM0iV6e89vmm/yDg=="
 ---

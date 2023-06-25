@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/992963"
 webUrl: "https://www.eurekalert.org/news-releases/992963"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 700
     height: 394
     isCached: true
-
-related:
-  - title: "Pangolin, the inspiration for a medical robot"
-    excerpt: "While pangolins have many other unique features, researchers from the Physical Intelligence Department at the ... are showing how they can flexibly steer the robot through animal tissue and artificial organs."
-    publishedDateTime: 2023-06-20T23:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/06/230620113819.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "8QI4IAZ67ncoGQJOlDNVg40ieAxc5/6nAfl/JQfCvx0kwOEdnDjOlbHGcME+BiaAF2RUGVlp+vfUcTMnogIHKhjaSmy8cdZXfu6i3jrlw4kQmdWsNCRxYm6KAE6IqCrMLkow9tNkEkRGUuvqaF+c/A6/dAwESGGeiDKyCSLB+qsStmz0Ias9T19O0B5N0wXbuPjPfZlMMfVSrNQKCd8h84/XVvnwI2Mwfrc8wT0L4MxoLHnqJQkOHz8qjOKHyCGxcgZFj03EvZUnvDUtBRY4EgQyqLkA7ug0TRYTROZyZ5YL6uQBoqopaHwqTS6NqQWkTtS/byjLnEyvKMn6MjdVn0JMVxsE0SIkJfQPaA/hEo8bcdeooSKMqIV7/OYgrRlKNY75WdZBGJrmT3ytnO3Hk+hlSb2GyRGFTxh5pohWAf+8CURW5qinmShJCOwxtQwQSIA0SGk2SKDNMogL40XFGQaaY0RAvAxuIId92HiLwIypJcxBj8PaHM9s49cCxTqhbsHJhnF1PLodKAUnRy71jg==;UeyfOy0zed9Nc2BhWlZWAw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-earl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

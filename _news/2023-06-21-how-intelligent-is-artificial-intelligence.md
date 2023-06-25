@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-21T05:53:00Z
 originalUrl: "https://www.counterpunch.org/2023/06/21/286720/"
 webUrl: "https://www.counterpunch.org/2023/06/21/286720/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.counterpunch.org/wp-content/uploads/2023/06/word-image-286720-1-scaled.jpeg"

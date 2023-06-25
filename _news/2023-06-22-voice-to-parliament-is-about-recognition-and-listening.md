@@ -48,15 +48,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 16
-  - title: "Strategic Analysis of Global Speech and Voice Recognition"
-    excerpt: "As per Facts and Factors study, the global speech and voice recognition market size was nearly $17.18 billion in 2022 and is predicted to surge to about $54.70 billion by 2030 along with recording the highest CAGR of 14."
-    publishedDateTime: 2023-06-20T23:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-strategic-analysis-global-speech-voice-recognition-market-size-/2023/06/20/9836115.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "UiOcXeH0CkB3ZbqLwAI2IBP8BEaYUplWSkxfV0M8YQHZc9+zmIt8EgX5iFNx7S6FwxKZW2oquoHK7OzKpCnu0OsS96qhkZfjalRFGt6iZM/ay0xYBIp5QkbL3YOHhOazuqKEeWQfEFZmaq1FX7DOvrjggo+EmChwOaphjrzKIDOC2YRsKXWCE/UB53f1FTWUaWvP78VxSs1Y5ctbKfcroMRC+eHungKnUYQdepenB4y8V2afleL7hm0hMA6qmamcneWwiM42qiEpJ6U0mtyblK/LNDbprMrYrGCE+jxGnZ+eU0r0guohTIuwyKMe0UpOAt4kD1iDHaaf0Wvb3vWG0qEb6rD9BUjztBe/NNWTdWI=;nzRBVjKIbyJzoOraUJ/f0A=="
 ---

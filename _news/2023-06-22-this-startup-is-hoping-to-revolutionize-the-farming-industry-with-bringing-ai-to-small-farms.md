@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-22T06:48:00Z
 originalUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 type: article
-quality: 6
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "How AI Is Changing The Future Of Work"
@@ -49,6 +56,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
         isCached: true
   - title: "How to future-proof your newsroom with AI"
     excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
@@ -193,16 +216,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How the White House is moving into the action phase of its effort to regulate AI"
-    excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
-    publishedDateTime: 2023-06-20T23:56:00Z
-    webUrl: "https://www.aol.com/finance/white-house-moving-action-phase-171620546.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
 
-secured: "i8wR9gA16eV7pod6/p3wtd7hApNXTtX28Kc/mARcxGikz0qHL0jgqjCpr8DD3mnlKa4w20aJx7FwLAHT/tQ3yZhDJS6Q7Tq6UU1FCo4UQnXbepNgsxnF/PccByMHMfM6hPTh85R1uuXhhbV2YIeksCSQyS2J/kE14FpGXVSKDoi5Sa4sMx8soBDkf0E7SQ0cesaVhbyplLI4ycOVawKhsMxHGZ5qPpTSC4jo/GXd7fsrrS2ij3LuH/2+QzM1aAcKCc2A+lrnBD9VE4XW8Mfrqwv7YnkbOR20/rCEyahcXvVeA624U6yuAwou4lVwjQkZZHmFs9IBEjnDaWam8F8eyIAyhiQRWkHWybHM+C+GLpvDnEuXB7Ra7KHQ/r6jX0qKyCQ6qZG8C3GrlN+bG/ohyNZdsK0f8R+fFO8RBFtIssiL7j+oD8IXvql5nsM1QrBQTRxJqZAmQpuXfSP46ZInXc98YTgMfszweLxqgC2kDMTYKfNDcGcUxXWgg5FhIV0fw0F2+0w+6CxLL7PXyc3+jg==;lKGbdGEzLiNDCI2wIKZyyg=="
+secured: "mf5zqGWGoq3bpQffsrh93toxDedxrphFcPlzqyKpQptrHVgpPdG/iIy2O52tEBr+61WK9esVfL3InYlJMVbaGSP5MyGBAoyGuBV4O2h/VtKXqHJD3p3zisFR0nVM9o3pCOl0BayPiAhijaIsX31ujfRwOyIW3SpozbWwIiMa4Jv1NxIcnm3vJf07xt5bITOqEEs6y5565IkmP06hG93W7cFwtoCxYaGoKUrW3glADZbASEDT39bH4Mfnk2HL5CP119uaDjn4Ybs5wSk552w5YDf7oe+mgwj6NhYgsRx0qIkKEgNUOfCO5WK5y4eNDDLlmBiDP+MAZZYA0lq4Ysgy//ospPSlyyelZ5ieF7ZM9j4=;0ldQCqnEAerHZDn8WGOBsw=="
 ---
 

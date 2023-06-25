@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/google-cloud-launches-anti-money-laun
 webUrl: "https://www.wsj.com/articles/google-cloud-launches-anti-money-laundering-tool-for-banks-betting-on-the-power-of-ai-2512ccce"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,24 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Unleashes AI On Money Laundering Activities After Successful HSBC Trial"
-    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, shares her insights on Google's Anti-Money Laundering AI after a successful HSBC trial."
-    publishedDateTime: 2023-06-23T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/06/23/google-cloud-unleashes-ai-on-money-laundering-activities-after-successful-hsbc-trial/"
+  - title: "DeepMind Co-Founder Wants the ‘New Turing Test’ to Be Based on How Good an AI Is at Getting Rich"
+    excerpt: "With artificial intelligence hype leaving venture capitalist firms foaming at the mouth, ready to buy into any new company that sticks an “A” and “I” in its name, we sure as hell need a ..."
+    publishedDateTime: 2023-06-21T07:21:00Z
+    webUrl: "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/"
+    ampWebUrl: "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Google launches ‘Anti Money Laundering AI’ after successful HSBC trial"
-    excerpt: "AMLAI’s launch signifies the furtherance of Google and Google Cloud’s ambitions in the fintech space. While the current AI zeitgeist centers around generative AI products such as Google’s Bard chatbot, the company has quietly been making its presence ..."
-    publishedDateTime: 2023-06-22T17:42:00Z
-    webUrl: "https://cointelegraph.com/news/google-launches-anti-money-laundering-ai-after-successful-hsbc-trial"
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 61
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/21/7f93bbcb28942de51d929b39f7c7da7f.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeepMind co-founder calls for a better Turing test for AI"
+    excerpt: "The old Turing test is not meaningful enough it needs to make money DeepMind co-founder Mustafa Suleyman, co-founder of, suggests chatbots like ChatGPT and Google Bard should be put through a \"modern Turing test\" where their ability to turn $100,"
+    publishedDateTime: 2023-06-21T09:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57124-deepmind-co-founder-calls-for-a-better-turing-test-for-ai"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/c39f4d58ce6086250071b26e36078dfe_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
 
 secured: "Fux/62of5c2DJr58MgOtO3yqg9PGBQqnE5gK5PXSXmtohnc0wYuU2wOcOtSqmCvhXj4GMJkF1RTL5wtYxw+vPBFP390cD+EJTPYqVnWqeqWIbZd/9BKOveDuIEwdqpj+Edph+5I0FCcEnsxiKZb8ONB9DMqZ1BCbcyjO8Skm4+vOYiZ5xAXhcyB26lj7Fz0OXrWh71iFZpvtuKvaD+rJ3otLUHj9aYkoIP+qOTtqaMii9cI1BuVafE3qYEFnmMq8zZYf5aDvyzPb/KkZbXvS55FKpXJbIiL9zyTFleZHD2vcV+bzozFuOL9mQYwzVExUW3BPdwDRwJRUglqW/EAuMS5vRql6bWPjBgMgUyRn860=;3sF2aORuuGs5sBOowCyU/w=="
 ---

@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023"
-    excerpt: "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon"
-    publishedDateTime: 2023-06-21T04:45:00Z
-    webUrl: "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/"
+    excerpt: "While labor (onshore and offshore) continues to be more expensive over time, robotics costs have declined. This dynamic alongside improving technology is driving the case for adopting automation."
+    publishedDateTime: 2023-06-21T13:03:00Z
+    webUrl: "https://www.asiaone.com/business/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-key-investment"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Asia One
+      domain: asiaone.com
     quality: 46
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg"
-        width: 1210
-        height: 680
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/IMG-2019.jpeg?h=bde28bee&itok=HzS1tnfF"
+        width: 600
+        height: 316
         isCached: true
   - title: "Global X Etfs: Artificial Intelligence, Robotics & Automation, And Mobility Are The Key Investment Themes For 2H2023"
     excerpt: "(onshore and offshore) continues to be more expensive over time, robotics costs have declined. this dynamic alongside improving technology is driving the case for adopting automation. mobility - electric vehicles the adoption of evs is the primary pathway for reducing greenhouse gas emissions throughout the transport sector."
