@@ -124,6 +124,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Schumer to call for AI regulation in keynote address"
     excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
     publishedDateTime: 2023-06-21T13:17:00Z
@@ -142,6 +151,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 9
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "BDjPvV5V8lYTVH/gwik4/la5MQOkeNmcaGkw8GH5At6CRGliPCVM4LpD3O+WYLZcGFrZ3LweRNiPX8z4I+jJAHSzbVFjs6b3xgQHNky2t9TLhMIDOWtN9xda5K2hWGdVkL1TxtzjfUGMplLjoDNAzHwovD2Zm/TXBY7yrhal/wG/6leSv/DpZ23xix8qLFAr38m0nNOTiBdTWTLPUqnaN+Rv9x5byLG3DClzPK9UuLPEG2f50Ks7OY9DZFqp+kMT/IErT4jnzKlh8Wu2HDoLx+nV4YRy1+oxfyc5E4lZL8dEB5E9Cvsps8Ed9CVkZCoMUl5uAecq+UX7qakGLFog4jLkdMnj01/27IEhem7DKGo=;nvSVvzT/LDNZfJSV6UG1iA=="
 ---

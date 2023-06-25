@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

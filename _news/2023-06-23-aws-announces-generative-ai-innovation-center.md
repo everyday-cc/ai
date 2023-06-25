@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS Announces Generative AI Innovation Center"
-excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair, and Twilio are engaging with the Innovation Center to explore developing generative AI solutions"
+excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
 publishedDateTime: 2023-06-23T00:00:00Z
 originalUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
 webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
@@ -266,6 +266,6 @@ related:
       domain: theinformation.com
     quality: 19
 
-secured: "Q+w8vDwbqCnDHJ6TtrP5f1RQRAQlltfUAF82uP30nH1ej5TvxbR0pkUZQrej9+LZ3BajPr9aOJIpOCgpaJ3L3S6uH62HNt3WVJ7QdyQVp4JIjBG/W1JeG7h/2K7a9n1hRnwrwodKse34627Vmzghn/UOW6Tku2xoi7SL5pMFhYUDoa09eqnE+fBrgrhSDjztFA+HYxcE+7NnU8fbL+VEDBLUvSXQDsVfhv4R2+dua1Ff/Hg2GTaGh6KbXx5uYZ5hnzpn9EOGU33SapLAErd3hjmrXCC563Onv/nmAepN/ELfJCO8RdoCT6nWrIO/Vql2j/KsvwMJ14XaoQmBmWkKNNXaUvX1AePmZShGpGbG58s=;KmMu91TL8XGRlrVKyvgiUg=="
+secured: "eRhhcQl6lEixg2whu1Q69UNfOsrfhuWluTbRQKQTd9tPdyt8XairgZT2s6IbxX7Jms4svJtLYnj+2/9klUWqb/23jnzM0cqBmkwroog/CdXJL33s3whA8uXv4PV31O7E09jPuABqPdUTlcBLlZYobkQxIwiNp4m74WgH8eDCh4xdenQZfiyM1A89evRJdnTrDhDFmoRDU5ZyLhfmaRiualGs/O9Hf6RlQ2o1ekluWV7EfLjadGyxNLpdRGxuigUPa/XK3nzplyC1IwyhcPUsXcqujPA0qEjOcUibarYS7nPLyyH0X2nXjTamU+rFx6ib8NQLfl8qJkUn5yfRjQ6ukqoQDPp0x2VUnOoIQ1MgHx8=;J/oV/8DjupgP8aMK9vt9ZA=="
 ---
 

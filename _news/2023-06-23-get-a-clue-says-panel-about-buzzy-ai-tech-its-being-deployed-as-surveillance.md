@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-genera
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

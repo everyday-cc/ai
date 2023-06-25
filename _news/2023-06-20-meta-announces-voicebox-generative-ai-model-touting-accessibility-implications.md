@@ -149,7 +149,7 @@ related:
         height: 600
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair, and Twilio are engaging with the Innovation Center to explore developing generative AI solutions"
+    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
     publishedDateTime: 2023-06-23T00:00:00Z
     webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "5 AI tools for translation"
     excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
     publishedDateTime: 2023-06-24T09:08:00Z
@@ -146,6 +155,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 9
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "1XxzrHNqOx+t5RRLW0fmbcKyaGvge7pe7Nhn+n9PF/n/gnt5Hj981FE67pRF1UxUECMYuV0yMwXTZsYP4SZ3c9pZ0bku89y1NXIrmAB6XYj8fv7n/OK1IyjatG5koPnyi86CkgJEFkLMmW7UZvskFFlEhNc/EsCZ6PmQ3REZTwqr4F5ykaj1EoTLR3Jp7Y2o0iDAE60oL9xqBDMuFjqAjbp5/h11LxyYtT34MMVDAYCouZN6rHvupsxpQD7R2Dl36iA6yTWwEyuFGaZxkPNj4p+DaWFg90faTre13SmnpN1BKXmsJ/vdDvZsZggbEKxMMnN8//iz2E0ORDBx15KEuaEId+rMIwwslLb2n0wp4Gk=;WJ5eUd/HbEVmi3PXoO07AA=="
 ---

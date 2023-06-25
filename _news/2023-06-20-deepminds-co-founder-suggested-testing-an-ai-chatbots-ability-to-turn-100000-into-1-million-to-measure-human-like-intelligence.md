@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-20T14:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
 webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
@@ -416,13 +422,13 @@ related:
       domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-21T08:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+    publishedDateTime: 2023-06-21T10:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
@@ -434,6 +440,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "v5/P0i4N6g4sGw4WZvk4ECQAllOA12uliAIS7ZEd9H+qr0qhIJJbBeb+DIk4zU5eVN0V0EcPBm/epwym0NQ2X/Ze7oKcc9fCRZtsbr9BzlBK9+Sut07HwjdS+WAiFzes7WTRqPtMVRqzTzMVl2PfsqHwqR1Bj7RpHAznOAkyFMZc1dxTouQW+8BZ5vyNVs/RW9UQgxl0VpBO72Qy1AuZNnxqPgStqwkkbbMPv6m21agDXr+OOQQQWAYuZbkN04m6vHBOaq5YxltmtKCNszL7Z9K/wYvK7mrxl9Jdvpu8oYB3HgR5EIQESLBsNIJACkUfEIHR3a3iZROy8sInfm8NCFKGqhDWQUWUfpaUjUoYNoY=;joytbKA/dZLJ+zOPSxvXgw=="
+secured: "aahh7Ev6G02hwX28VN6Mcke7iuNxTfxGI1rA9QlH8DFxEqQ2rKhih7ROeDbp86UiTDBRJS5dlzCCHJQzdoSQJVD3DuUUhRffXebadSyQ5bZHlJ/yGz38c7ibqMC3HpRTT9R8kw3i1W+f4clGpo8dKU7PZFI0xAkK/Vvp1FCDkWQrKbPPrWDNYQcifKE0dFUkMlGCldfW8PZI4EnT8Yo3c+fUxq/HqPI+bJ57ec/T7PnHDLVOsos6FSnyHQVU+YBcRIQL/sRoXu+xOF+oPpwNeOpL/3TsOGP4b2sOn+dQdT2sJ1tZXc0M6Q7IkpLaJBy5Lo9UclguTjWDg2VHjjC7dQiZwm2wm9W4lxC4+ZSNxEk=;1dYWxlUw/nkZ+d0cierUyA=="
 ---
 

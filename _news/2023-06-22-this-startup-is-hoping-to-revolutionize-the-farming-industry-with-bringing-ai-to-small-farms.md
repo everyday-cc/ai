@@ -1,27 +1,21 @@
 ---
 category: news
 title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
-publishedDateTime: 2023-06-21T23:42:00Z
-originalUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+publishedDateTime: 2023-06-22T06:48:00Z
+originalUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "How AI Is Changing The Future Of Work"
@@ -254,6 +248,6 @@ related:
       domain: aol.com
     quality: 14
 
-secured: "L7bSqKWBE44s/GBeK7vgBjiIbI9l3ihIjJUvzja4+nEW28iaVReBjT/xTAXsMDxPNxhnBrWqLxbtBsjEESVI4SmTojeT9nj5yb/7La/udplVFbyAuWI8nqRuf55kTY4FE7mFP3e7xVVwR9twqvRli/ur3CXzuy575MSXtfxUgwsaCAacUtkdYErcX8xdpQLquj2FrgKzIZG3aC7rhvyqgXlDIb4jkLhF9YKt7guBzGlndanxoY5iDyprwFTR7/h4csF2Sm0SDPb2Hicqqz72u7g5wor7ttju8HuLrQ0Kv8ZajgSq9CcGyVwBd+Xej9k3gT5qWjQL+xjKTYwOq1UhkTCAYz8+JAgWfGR/u1XpJ9c=;K0TFrwe+QkYPZ+oVCX8CGw=="
+secured: "i8wR9gA16eV7pod6/p3wtd7hApNXTtX28Kc/mARcxGikz0qHL0jgqjCpr8DD3mnlKa4w20aJx7FwLAHT/tQ3yZhDJS6Q7Tq6UU1FCo4UQnXbepNgsxnF/PccByMHMfM6hPTh85R1uuXhhbV2YIeksCSQyS2J/kE14FpGXVSKDoi5Sa4sMx8soBDkf0E7SQ0cesaVhbyplLI4ycOVawKhsMxHGZ5qPpTSC4jo/GXd7fsrrS2ij3LuH/2+QzM1aAcKCc2A+lrnBD9VE4XW8Mfrqwv7YnkbOR20/rCEyahcXvVeA624U6yuAwou4lVwjQkZZHmFs9IBEjnDaWam8F8eyIAyhiQRWkHWybHM+C+GLpvDnEuXB7Ra7KHQ/r6jX0qKyCQ6qZG8C3GrlN+bG/ohyNZdsK0f8R+fFO8RBFtIssiL7j+oD8IXvql5nsM1QrBQTRxJqZAmQpuXfSP46ZInXc98YTgMfszweLxqgC2kDMTYKfNDcGcUxXWgg5FhIV0fw0F2+0w+6CxLL7PXyc3+jg==;lKGbdGEzLiNDCI2wIKZyyg=="
 ---
 

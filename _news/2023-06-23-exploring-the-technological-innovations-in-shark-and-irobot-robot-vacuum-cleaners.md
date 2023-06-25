@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/exploring-the-technological-innovations-in
 webUrl: "https://techbullion.com/exploring-the-technological-innovations-in-shark-and-irobot-robot-vacuum-cleaners/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 450
     height: 270
     isCached: true
-
-related:
-  - title: "Amazon And The AI War: iRobot Acquisition In Focus"
-    excerpt: "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ..."
-    publishedDateTime: 2023-06-20T05:07:00Z
-    webUrl: "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp"
-        width: 1000
-        height: 664
-        isCached: true
 
 secured: "ZckpOz2LkG3BQgKAlMxJey+qVNCafy/hUsRe4VpFNMEtoMz8fT3xG2YKAdP1PiAIwk5b9VvOyfIg8V/+C8dfnhXsy3kcgimwjaR6XCT0tIJctbOwn9MQDMgTU6s0hXisJjineT+wHd2Rji/W1qTLTKxgaPyxZ4i8H6lZDOXryki7jcq27hQoQtGYsTno7QD3yWfYncXiLLP4cF20boKisHJe5+lltCfHwu5f5hp49TJreaJmcx3luX1NxMPqKBHx3oU4Shjz/TWAp7H32kcjK0Sgfqq+y8DJr4iYap1m3KhElnW0QtD+KXn3Sc0ww8D9dIPHyWVDKfp6iXqfEjllgZjsK6DQkW5wSFeLOXC9yC0=;LVIFgDw4PubrgG/trwUzOw=="
 ---

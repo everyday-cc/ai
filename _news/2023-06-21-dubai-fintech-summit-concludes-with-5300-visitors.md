@@ -21,50 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Fintech chiefs debate diversity crisis in Parliament"
-    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
-    publishedDateTime: 2023-06-20T07:47:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
+  - title: "Swiss-Israeli fintech firm Okoora launches AI-integrated platform"
+    excerpt: "Okoora, a Swiss-Israeli fintech start-up, has introduced its new ... Okoora’s platform utilizes advanced AI technology to provide real-time insights into currency markets, streamline currency ..."
+    publishedDateTime: 2023-06-20T12:03:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-746813"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-746813/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-746813/amp"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
-        width: 752
-        height: 423
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/539560"
+        width: 690
+        height: 407
         isCached: true
-  - title: "6 insurtechs on Forbes' Fintech 50, 2023"
-    excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
-    publishedDateTime: 2023-06-20T10:22:00Z
-    webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
+    publishedDateTime: 2023-06-23T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/05998fc/2147483647/strip/true/crop/4000x2100+0+472/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F67%2Fdc%2Fa8da719d4287a2de90afd469b50a%2F310321271-1-11.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top 5 Fintech and IT Masters Programs in Singapore"
-    excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
-    publishedDateTime: 2023-06-21T05:07:00Z
-    webUrl: "https://fintechnews.sg/75191/fintech/top-5-fintech-and-it-masters-programs-in-singapore/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Top-5-Fintech-and-IT-Masters-Programs-in-Singapore.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
     excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
     publishedDateTime: 2023-06-23T13:37:00Z
@@ -73,6 +54,15 @@ related:
     provider:
       name: Bdaily Business Network
       domain: bdaily.co.uk
+    quality: 4
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "IwfeInyVrhRM5l6d3ezUIsDPMO/JB1ZydW+4MC2+py2SKZ6NCbIZrfdBHpMyFMiOZw4up47DLhAyhGITz0CBoaXZvHkD2kQnzrN6Myh/AZc94IzsLFwSttb6QP25QNnp9w9QRs1LD8DHHNxHro9m9zKPDgIOd5dV0PmTKrFYQas4OFSZktqnG2UFnBdisv/QWowFMEo6uuAEwOsJtAPN7QP/W5O3Ybfws9fHMnQPBnXbjv1Vi6gTrUeFmqAuvhuj41nY/tkS5gfPt7ziMcvrp6FdKSkPO0tviptiFjIBPpa975vlRbqxpQbWbrOGTGGU5V+RhZ3M85MqCb7+grdWeP8bVn3MU09qt7KhnJw/DM0=;GmG5uaMcY9hmFmEzAq14oQ=="

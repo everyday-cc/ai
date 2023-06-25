@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-pop
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/10725/b586ad85-7a05-4471-9151-9dd17e69ccac.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
-    excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
-    publishedDateTime: 2023-06-20T05:29:00Z
-    webUrl: "https://www.tweaktown.com/news/91976/expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 33
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91976_01_expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks_full.jpg"
-        width: 1500
-        height: 843
         isCached: true
 
 secured: "P8qMR5eL1rp1genFC+rSOBjwEJa1YGWA8OV128VoBqJ+T3PFZOvOyFAd0Oekdr3Kv+chRfKnpdf8U3fkU2aQe1Qz1qX57BXq7GusNSWXtB9hPVz0yllXlpxbPC4H8h+lN6tNZIezC1DOeC5T/UxdRktIS2wYNeQEjvs+Y2iqQcMMbH2gb+rl0t2h72/R12UsDZDMPbH0wceHCI0AISvaj1vOd7KEXlt7zojKbd93jZVrCFFDi0KC+b2Atqj4qlL/cXl/jAmDGCMMGzaBze0onPxDGYZYI8+nYdOFZbCa6ZF+JLEmT90dwH8ZzqxRVtcQ73J+c6qua8RpqhDNH01t02T8CgCz86QGD7KQul2ZiNU=;4ui5246lLO9AQSLrGSNqOQ=="

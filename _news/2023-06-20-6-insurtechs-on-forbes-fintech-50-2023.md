@@ -41,17 +41,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Dubai FinTech Summit concludes with 5,300 visitors"
-    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024; First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries; Dubai FinTech Summit 2023 saw"
-    publishedDateTime: 2023-06-21T10:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-fintech-summit-concludes-with-5-300-visitors-toyhk55d?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
   - title: "Top 5 Fintech and IT Masters Programs in Singapore"
     excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
     publishedDateTime: 2023-06-21T05:07:00Z
@@ -66,15 +55,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
-    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
-    publishedDateTime: 2023-06-23T13:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 4
 
 secured: "ARBWf5wxE3KGDl5/hxFF54FAisDZ3RzTPp1ktPC6wvyPCx1jw7S4GVsAyj8QzCkaj/4WK8sV2IzDE/i+zN7vEgNdwAxV7xMp7LgNHHl2qASpm0NR857T4UvpVWp6BtDL0id2nB07XhX5Sip51oLsDtjnN0QR6Jztl7CVN8XyX6EHIfM0ypB3Uarw9/lfzYTlxyOC+7Dx+f7+YX/JpSUBXKjOFojx83tBSXpwQLI01DykW7ii8SZCpMUZgWkqG4bfgY8T2iVXMiYqz1JqDUyB46BAnVB6jFO69csyS2BwVLX89DxVmNJyNyTUHFAx11s2T8hJN/+g4A9y9h8I7QFFkz7Y+1l8R+fniyL1VwFWnJ+tL69VLgOBNYeOy7sPS5ycYFK8nKVrCuZxZRHK7RqcVNwnQX5rcbgqWu7lTflGvmKTu637y61Glaz2naQ9hS600lJxBaqUdIC+IKcUGNVRh9LNYeKypCL6LiTVvwC61VScN2W0y/YNDBsglqJ3ytyqXdcTkkNDmrSAD+ky68GQ5Q==;hEQ+OuJ6uub1HTEBQk4grw=="
 ---

@@ -109,6 +109,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "5 AI tools for translation"
     excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
     publishedDateTime: 2023-06-24T09:08:00Z
@@ -141,6 +150,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 9
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "H3+Z48WYNrXPuKy7zxdnC0w+49i1514f2UI35fQzco5gX4Ky196BH7Qu5zPSiVuAlKC6VhrAZ3bR+HPnFDbDlIzcbYNJSZNIaRop0fPzgZIW1mCphJTu3yBwGrNq6QKo0i0Cw5VaB9NcvYotxITYxeLZbHaNwJ0BTpSpsksGC0UST7bdrDLuRaGJSZAiLMjRySVODQT3NHNNr57zWQVNyNqW4WYhIIDoUap3XGPzvDNaca6UiHph8Ky+tchIczyaluJMg1G7L4PVFnBGxB/2HVSu9rzOyEHbAbCjjiAXLrhZUjhHuyMdLkGgaCavdSAmmezbTidTXjrEhXx9FKlAKSLutEb30irLSQHl+oYWbDjIZwCR6UkcPZFa4tVxRn+Qkv39iT5cNQDjfy256+IGCc9VBEtRnFb8rlDN6S/UlMgJn4fMa6lC5kg+4lhKfjHZ4W4RtqBWMk0IZS1/dsFRGJLz4eGWz2lvqeAkCBfXjwvrCj2rnZkICciOm18wIbXDCnOlHawExalbN3aIOrJGuA==;OjF+MtAJS27qiqDK0HqX9w=="
 ---

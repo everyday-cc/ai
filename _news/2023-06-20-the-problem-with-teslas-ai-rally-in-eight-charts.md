@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Expensive NVIDIA H100 Hopper AI graphics card put to the test in gaming benchmarks"
-    excerpt: "The NVIDIA H100 Tensor Core GPU is not built for gaming, but that hasn't stopped people from using the $40,000 GPU to play PC games."
-    publishedDateTime: 2023-06-20T05:29:00Z
-    webUrl: "https://www.tweaktown.com/news/91976/expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 33
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91976_01_expensive-nvidia-h100-hopper-ai-graphics-card-put-to-the-test-in-gaming-benchmarks_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "146B8z4zUKt5hqaFHUZ/ENMVakFHzxTqFrhcQxIFu4WUb6jwpZlsSJNUYyGCSGzhWimuIbdH5kfo48HoqcbNF3kYOL8fI4t3HyXDJhMW0znqWDxQUwdiQStCW9cWnfwyG4L1hpROaZGa9+fihc1/CXzJeN2HdCTd97rp3MXmzckDRx1TPkBQgoPPLtvLSlURN3bTR/9/qx+3HjzrmvNCsMbyAN6sckRivaHa8Dq15vbM7EICRzMfx5qsAAoyvbXu4lakRXaXeJKD5qi2NkRkHxd0XU+pNCUFxQ2pQzAj9nzyaaW1BQZL/TrYeR6KJAfwpHGxuKe0VebVZGVveDDF3EbGvh9Au04eYTdK6U/9MDaEAEtzb96Fnrw4PWc3vPPD/Q8QG3owRhHpyY49tQZTe4njAUxR3H84mhdOxJV3KnqEwyWv44JSoDsVDOaPhTNjjn2E8ddsCUW3PEUR6/m3wenlQ2ePMfhA2Z7WByhkzzE9ExEi5YDf9hPNlPNRk+ypuURv9e/L7L4PuSMwhDYlcg==;1JYf+1EQLE8aYpnOatxyIA=="
 ---

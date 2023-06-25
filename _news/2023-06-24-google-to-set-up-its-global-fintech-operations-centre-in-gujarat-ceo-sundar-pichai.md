@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-excerpt: "Internet giant Google will set up its global fintech operation centre at GIFT City in Gujarat, its CEO Sundar Pichai said Friday after meeting Prime Minister Narendra Modi here."
-publishedDateTime: 2023-06-24T08:49:00Z
-originalUrl: "https://www.orissapost.com/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/"
-webUrl: "https://www.orissapost.com/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai/"
+excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
+publishedDateTime: 2023-06-24T05:19:00Z
+originalUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
+webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: orissapost
-  domain: orissapost.com
+  name: onmanorama
+  domain: onmanorama.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.orissapost.com/wp-content/uploads/2018/10/google-sundar-pichai.jpg"
-    width: 833
-    height: 563
+  - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
+    width: 1248
+    height: 650
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cigJET+ePLMLhGvMbXsUDdFHiNIAgQVxbyuSu5QHrraRqKwZmaURyL1VBizv+VbhCOqd3O26SvoPeQVOft+Z6zzL3o0UPU4IM7Texdhu9bz20PJDqkjcJ3HhK6juEZCABohOx+fYHmsHrt2dfR2Wc7el+Z4Gr8Id0lKrKdH27MNdd2uPBEmLgBpf8MzGTjYhHZV/S9YrhVMk5S0Di2CF9PFtY/yddar0wbnaGVSY/xHRTTNtGUPmIjJnQJMG1Uo2no+2j3Tz07fMYyJbDw4VQr5KsLapSxDUC97tvxVMv8miGmJyUyPe2uprZUmWdizeKWRWi291pc07iLVuhkJrspS4DA9Z8cNnRFokvZsySfg=;ovoLKbp7W2O8/597gKwrbQ=="
+secured: "xNnY7H/UMopAqidAMZ8HAjmx+lFKhyYY9Qxp7wBfo0VGsuFh9IHv337j6+HRKSJxIYZbErxSF5/vWeMzrP8Q74yTXtdHitEsF6BVRuwWAhFoFvMFgT5P6JS3Pp5g3dMG56spBMWQQJK0oLeRTxYgOTnPXoWHCkp5TsHc5WS7c+FlDrd48X6Jc7Dgln7OSQMqb93915hweez2UurjCZP570vy3oXWBmwcqqUiS8elhoYdoSeW8MX7XvTOs9UqopPZxnBkk6IGLBapKgHyY/gczznwo8mTeP2BpxFp+6P7n1qYOKlwq5nTSDXeaHF1kqOqyJvAbYUV3qWRYJ6nT0Hcy2eWGf3Iuwmgaf5UaxAHP6M=;vMq7NzNFTOYcrWUuyiKI9Q=="
 ---
 

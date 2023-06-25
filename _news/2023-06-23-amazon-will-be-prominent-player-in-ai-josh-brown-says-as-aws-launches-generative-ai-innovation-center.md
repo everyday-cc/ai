@@ -210,6 +210,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
+    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
+    publishedDateTime: 2023-06-20T14:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/64944f6f65b9ce0018a46a55?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
     publishedDateTime: 2023-06-22T20:03:00Z
@@ -375,15 +389,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind's co-founder suggested testing an AI chatbot's ability to turn $100,000 into $1 million to measure human-like intelligence"
-    excerpt: "A co-founder of Google's AI research lab DeepMind thinks AI chatbots like ChatGPT should be tested on their ability to turn $100,000 into $1 million in a \"modern Turing test\" that measures human ..."
-    publishedDateTime: 2023-06-20T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-co-founder-suggests-new-turing-test-ai-chatbots-report-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Amazon launches $100M generative AI center, targeting healthcare"
     excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
     publishedDateTime: 2023-06-22T18:00:00Z
@@ -421,13 +426,13 @@ related:
       domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-21T08:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+    publishedDateTime: 2023-06-21T10:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "e4lG17EXfboXp79bECy17ekp5ovqwjUMWte0lEJT/Z1Jw/mQNm/MET8SjlltcFYqY76mDshlYNJ8oefIyX6yILA5ZEU9TR3goKTkfunJwqAbwF38drvS3sZdNePD4HJF6i/kQP5Mzv4ukc07RE6sME16uxLO35sK6uhqKNmkTRuoJg19edA0Hq2Zk5WPx+Pb8zubRcCXLjdnKK6xbo6Hh+aj+J4y/5ENg75bjBQFjxGpu0l8WxqcRA3V03yBL6aglx/c2nN2IKJoup+ViFg7gMJLYBczxv/I0+oLjl9NstGp5Ki/laaTPMdXIqAoPxEXzE+nsAPR02C9xiNd5qa+ApgGD51BFzwgs4QtpFh/06g=;osOBHaUUcYmrWgb9HG3yfQ=="

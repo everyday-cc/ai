@@ -215,20 +215,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,"
-    publishedDateTime: 2023-06-21T23:42:00Z
-    webUrl: "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 26
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How AI’s legal risks are challenging marketers"
     excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
     publishedDateTime: 2023-06-20T12:22:00Z
@@ -256,6 +242,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 14
+  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
+    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
+    publishedDateTime: 2023-06-22T06:48:00Z
+    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 6
 
 secured: "YN/F6ycEwVdZQ18Iy7L9UtE8xe/o8DykINPqTwgbFUGX2q8b5OgLmS3uf8iC/sF2A0hFbnJf66YH5BPNODcvPuypxLLJNeTz7nJEeNCMOwZvdAXhzm1LJhsad33gyGNdtJD/kgmqbgOWUyoOqN4IM7fAdjecYBE/ELJvdTQq9wIyE9tC5pcAoO7s/FsEUgajIdqmKAaE1jRrA5G+8THIXGNO4wMqYd3Rn6torStPyzZI3uiSv8pXPGxyS+fQqLJ83qxBUPuzeiHuiQ6ZOH5rsXVq0lOeOl+6k+1J7TYiq3mPJhf9ztVmx/bNmUnYiKpgVhHQvdm3PyPef+pVdn6AeQLV8aUdZlfbKP1EVFLYJZJtc5ZHKONzMEPrgPg/I9NuvIE2awfqzLBsP0ORefLAFW+tKVj2qa83CgPbBVfuUj9OITEY7THC30lE48veZ44LYur8uydg6+rwacoYaDt/OWD9zPFfMF+Al4ocdMirfL+r1RxS2OhCe3UfJOdMe36h2ZU7Kt9NcF0/6Imj0NbBDA==;DMefDe9tLps9CsxHbWAcJA=="
 ---

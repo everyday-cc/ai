@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-fir
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 101
 published: true
 
 provider:

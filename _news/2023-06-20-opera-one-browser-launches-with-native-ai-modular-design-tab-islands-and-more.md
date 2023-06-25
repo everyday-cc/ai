@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opera One Offers an AI-Based Web Browsing Experience"
-    excerpt: "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,"
-    publishedDateTime: 2023-06-20T07:00:00Z
-    webUrl: "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Opera launches revamped browser equipped with an AI sidekick"
     excerpt: "Opera has launched Opera One — a new version of the browser that comes packaged with an AI-powered chatbot called Aria. Just like the Bing chatbot on Microsoft Edge, Opera’s AI assistant lives within the browser’s sidebar,"
     publishedDateTime: 2023-06-21T21:22:00Z
@@ -51,36 +37,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/dXmcwDcG8vjfSOIRvhMVvrzheVM=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24741774/O1_Aria_prompts_and_answerimages_2.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI Brings Deceased Musicians Back To Life With AI-Based Duets And Full Songs"
-    excerpt: "Working alongside Antebi at Session 42 is Amit Shine, a long-time music executive, and producers Tal Forer, Yinon Yahel and Stav Beger. And they're doing more than just working. They're using AI for various applications, including a project that brings deceased musicians back into the music world."
-    publishedDateTime: 2023-06-24T17:02:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997044/ai-brings-deceased-musicians-back-to-life-with-ai-based-duets-and-full-songs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997044"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997044"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,Ai,Neural,Network,Digital,Brain,Machine,Deep,Learning.jpeg?width=1200&height=800&fit=crop"
-        width: 845
-        height: 563
-        isCached: true
-  - title: "Genesys Xperience 2023: Unlocking Customer and Employee Loyalty with AI-Powered Experience Orchestration"
-    excerpt: "Genesys unveils expanded relationship with AWS and new Genesys Cloud CX innovations focused on generative AI, work automation and task routing"
-    publishedDateTime: 2023-06-20T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-xperience-2023-unlocking-customer-and-employee-loyalty-with-ai-powered-experience-orchestration-1032399763"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/2105652/Xperience_Promo.jpg"
-        width: 400
-        height: 223
         isCached: true
 
 secured: "zFTvixIm5asZlTWoGiyMvq07ggW41vX3J8HNX1A/p6VZkSH9/H/zxHNczy2MVzvjC9SRvHATSMmPle8cwCb8ztXcOFPWtMe0wzSqzGh/rOCJos872j0W8J5cvU+jBqcjcv9mGJ3tr/PobbPYkzIhWh4f8+qvI+7srUEAIgvRAlGATd5KODQ8KS6nuF1UEPOlFhf1kjdSET8lqVfhVIjyW1UeAm/eBmQJgQyf9yLE+4tRi4doMuRVy8DRuZJAM57V5BjLhC3eGmBwxU6yCbr/6YmvNP3ZTjtWm8ztyy2BBJ1VpB6e1pW4EvXt/35SlsJw5XFXEX0QkPuoxuR+RyLzyNR+EKiyvNvZK6LfvK+qlurGa+ensxkBfk+BbwmloQvSRIhwsuyvaz8Eso+xhuaI8bpQwIdKco5l/eIVRmSkFUfo/C3iTt5p3Rs2GXCksN3coXfIG4SBgbnWszaXfdO7fR80LDWmWHKRpgdD3tuM70cONa8o9jcOp5NLdCAzwkU+FQzNxlmTC+IJR6WQrj+X6A==;/CloSHSF3EIFJ06BcEnFrA=="
