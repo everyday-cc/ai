@@ -64,15 +64,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Educators Starting to Incorporate AI into Regular Tasks"
-    excerpt: "An informal poll on social media found that teachers are encouraging students to use ChatGPT for test preparation or brainstorming project ideas, and using it themselves to append lessons in writing or technology."
-    publishedDateTime: 2023-06-20T19:30:00Z
-    webUrl: "https://www.govtech.com/education/k-12/educators-starting-to-incorporate-ai-into-regular-tasks"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 17
   - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
     excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
     publishedDateTime: 2023-06-23T04:00:00Z

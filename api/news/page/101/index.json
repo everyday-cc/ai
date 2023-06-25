@@ -2,6 +2,50 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-04-22-hurtling-into-the-future-the-potential-and-thorny-ethics-of-generative-ai-in-healthcare.md",
+      "title": "‘Hurtling into the future’: The potential and thorny ethics of generative AI in healthcare",
+      "excerpt": "Generative AI has roared onto the tech scene through the large language model backing ChatGPT. Companies are already deploying the algorithms in hospitals. Should healthcare be taking a pause?",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
+      "originalUrl": "https://www.healthcaredive.com/news/generative-AI-healthcare-gpt-potential/648104/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/8M_A439q-vnByLYslrpRv46QwDEdqq2VaHH_J_yrQMY/crop:1810:1022/g:nowe:874:1456/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0lNR184NjYwLmpwZw.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-deepmind-melds-with-googles-brain-team-to-accelerate-ai-growth.md",
       "title": "DeepMind melds with Google's Brain Team to accelerate AI growth",
       "excerpt": "Google appears determined to ramp up its AI efforts, despite recent concerns from employees on the company's execution. Here's its latest move.",
@@ -1145,59 +1189,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
-      "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
-      "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e702dcb0-2ff1-4895-96a1-af55176105b0/298264ac-cd74-457f-913c-021026f36032/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
-      "publishedDateTime": "2023-04-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

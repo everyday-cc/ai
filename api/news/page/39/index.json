@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-05-28-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "originalUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "cdnAmpWebUrl": "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "publishedDateTime": "2023-05-27T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXEmpire.com",
+        "domain": "fxempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
       "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
       "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ...",
@@ -1046,49 +1080,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
-      "title": "What You Need to Know About AI ETFs",
-      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

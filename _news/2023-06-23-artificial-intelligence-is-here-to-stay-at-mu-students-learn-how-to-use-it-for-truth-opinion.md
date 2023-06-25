@@ -36,20 +36,6 @@ related:
         width: 1396
         height: 900
         isCached: true
-  - title: "Now is the time: Let’s discuss generative AI in a critical peer-to-peer setting"
-    excerpt: "VB Event Generative AI is the most transformative trend this year and growing at a faster pace than any AI technologies that have come before it, which has sparked a genuine industry-spanning uproar."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
-        width: 1198
-        height: 685
-        isCached: true
 
 secured: "RldmdwG81HFV8nmkxCZTeNLE1zET4Qy3ThlhpHNSAwDMJbLz5j16hu8UocWkL8Y8HIlh/STZ4EcidFvSdW3qWMq1Ig5vBmHlNm3oFyqGjLItD6lsLxXmJ/ZB9lEc4u2Z0k+sLFgGIsP98/eGRRikSyT3820OYMyStQ39uBAvLEq/UHsq6aAdmn1a5Cb5Zy/LkRj/WMJ0KOy1q08GTf3SgH984CCjXy9RHs5p6sZRLplQF1iyPGJCdT5ssQjqZxR2PaEYXfcsWM+vSFHhKwR8T1TofknfvWvGlrCzkW9ng4H5/0VgfAjWbvhcLRRyESmsHivTQc1Y1iD/pkYo96zYYsYl7haJimrznSO81qdUeymaspCsnpfxQyE3hVq7U7xoaJsO9lrAGzZdJcpsAk+swpkb2ZMW0GFJWmxwF0rL6L/k8x5uls2s4H6vhx2mKVrTu/s8+q6dtbYOcE0+PVAZgWVICs3XD8/pxQTx56hr8sevx6c0EHJKU0RH+XvShPp9xZsDKONuvIClb1bNEbe9cQ==;qsssfN6XjanwUZvUXe52kQ=="
 ---

@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-05-ai-in-computer-vision-market-recent-growing-trend-2030.md",
-      "title": "AI In Computer Vision Market: Recent Growing Trend 2030",
-      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-recent-growing-trend-2030-2023-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
       "title": "Opinion: California Wrong to Expand Facial Recognition Use",
       "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
@@ -1362,6 +1310,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-tinder-to-weed-out-fake-profiles-with-facial-recognition-and-video-selfies.md",
+      "title": "Tinder to weed out fake profiles with facial recognition and video selfies",
+      "excerpt": "Open the Tinder app. Tap the profile icon and then tap the Message Settings icon. Scroll to ‘Control Who Messages You’ and toggle on ‘Photo Verified Chat’. Done! Only Photo Verified users can message you now.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
+      "originalUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/04/tinder-9427.jpg?quality=90&strip=all&zoom=1&resize=600%2C395",
+          "width": 600,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/04/26/tinder-introduces-facial-recognition-and-video-selfies-to-verify-users-18676377/amp/",
+      "publishedDateTime": "2023-04-26T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

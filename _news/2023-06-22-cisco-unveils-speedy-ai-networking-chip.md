@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-
 webUrl: "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
     quality: 64
     images:
       - url: "https://cdn.benzinga.com/files/images/story/2023/06/21/csco.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cisco sets a foundation for AI network infrastructure"
-    excerpt: "Cisco adds two new high-end programmable Silicon One devices that can support massive GPU clusters for AI/ML workloads."
-    publishedDateTime: 2023-06-20T19:55:00Z
-    webUrl: "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.html"
-    ampWebUrl: "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true

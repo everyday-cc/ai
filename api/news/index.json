@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-25-steve-pratt-explains-artificial-intelligence-and-its-future.md",
+      "title": "Steve Pratt explains Artificial Intelligence and its future",
+      "excerpt": "Steve Pratt, the Chief Information Security Officer at Sentar, joins Leadership Perspectives to discuss the growth of Artificial Intelligence and its future. You can watch the full Leadership Perspectives interview with News 19’s Steve Johnson in the video player above.",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
+      "originalUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whnt.com/wp-content/uploads/sites/20/2023/06/Steve-Pratt.png?w=1280",
+          "width": 1279,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/amp/",
+      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/amp/",
+      "publishedDateTime": "2023-06-25T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-the-ai-revolution-is-here-why-you-should-buy-amazon-stock.md",
       "title": "The AI Revolution Is Here: Why You Should Buy Amazon Stock",
       "excerpt": "Amazon doesn't ever seem to be satisfied with where it is. It's the top e-commerce stock by far, with about 38% of the market. For comparison, second-place Walmart has around 6%, and it only goes down from there. It's still only the second-largest company in the U.S. by sales though, behind Walmart.",
@@ -62,7 +104,7 @@
       "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -202,7 +244,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -468,7 +510,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1154,57 +1196,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-using-ai-and-remote-sensing-to-avoid-water-disasters.md",
-      "title": "Using AI And Remote Sensing To Avoid Water Disasters",
-      "excerpt": "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
-      "publishedDateTime": "2023-06-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

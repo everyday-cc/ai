@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Tesla Has the Most Self-Driving Accidents. There’s a Good Reason for That."
-    excerpt: "With advanced driver assistance systems proliferating, investors need to understand how to read safety data provided by regulators."
-    publishedDateTime: 2023-06-20T21:51:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-crash-safety-self-driving-4d82df2a"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-800161/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
     excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
     publishedDateTime: 2023-06-21T13:17:00Z

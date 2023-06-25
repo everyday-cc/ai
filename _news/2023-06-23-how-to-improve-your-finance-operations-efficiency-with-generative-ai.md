@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI voice-generating platform that shocked the world is getting an update to fight abuse"
-    excerpt: "ElevenLab's voice cloning feature has been put to work for good and bad use cases. Can the latest update stop the misuse?"
-    publishedDateTime: 2023-06-20T21:12:00Z
-    webUrl: "https://www.zdnet.com/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-voice-generating-platform-that-shocked-the-world-is-getting-an-update-to-fight-abuse/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5dedb52e46dc19d799d96bf3578c1b24d2e28690/2023/06/20/340f4394-39ad-4558-93b6-a50a24bfab58/gettyimages-1458045240.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
     excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
     publishedDateTime: 2023-06-22T16:38:00Z
@@ -208,6 +192,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How to use AI to edit and generate stunning photos"
+    excerpt: "An AI-powered version of Photoshop and the image generator Midjourney live up to the hype for tech writer Brian X. Chen. He offers a few tips for getting started."
+    publishedDateTime: 2023-06-25T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AWS Launches Generative AI Innovation Center"
     excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
     publishedDateTime: 2023-06-22T18:56:00Z

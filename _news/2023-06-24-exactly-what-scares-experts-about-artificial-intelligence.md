@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737157%2Felderly-woman-retirement-social-security-holding-one-hundred-dollar-bills-cash-getty.jpg&op=resize&h=340"
-    width: 510
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736976%2F0x0-supercharger_02.jpg&op=resize&h=340"
+    width: 388
     height: 340
     isCached: true
 
-secured: "56fcF5MRWYHSxAg9Mo5m0LWCBB0wpQ/ozYXG2jKu9WY/eXgd+8SAA962Tw0VRvY6pRnQWQr0kToCw/GNfr6t8mRWyW/kN3EHD1sIlju5tR8MslYtwdX4GcRfNbPXENBywExjwL7KNL9tPwCyEb0PFKIG+y3MnF8dHT82qN0fKtEU3p+HM4XcDrDpJSDxKv3aUroCcmf3JIzYf8XF7D5N2A9TZ/ZOIkID3Cm6BM11T+V2qCjjbNpkc453scv0eGb09kYNOAjL+Ew3lnkXjY5QWdlmRbpZC4sNAOST3C18Ztru7vxA6LUIdLexEPxMOgN++XqbBbnuaez0Y5OrBF6XpkkcBKQ20cbx2F1cgvV/564=;I2I7FBdw6L85x/7svJ/3Jw=="
+secured: "Mf0kRaontQ+ijKqSXN5VnEIvjfwyfNvbdibQojwLPSMvm3JCDqz1PbDwPdzETLG7uQsJ7Na1/j40WJBixr6upxoMXWsnG+h1hz4S5aZuVhCy+cPF4aFC4JXint2dLuU7mh0CwvsPUD0OBpXTKGCyE78fHTttPISE60bahbSRS0Amn9Dv8MvARGn0Fdtkl2Il9jj58inEzK0MrSXutwGnLmwqRPsHQZY6t0CjTt0Q93/2J+vBUs9d0iq8rRTpONXOsf8DK9A1+36W43ENk7EYlXSJy0GS40uTu+I4wMIQSTZW0Jdf+CxdNnkgONjp59waDH3hhxnwxrBmtiPm5aDOxC6h7RkFQSKwsY/+IIeqB6Y=;rvEGgY772x6Bvg/cS8Ib9g=="
 ---
 

@@ -2,6 +2,60 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
+      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
+      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-identify-objections-in-customer-conversations-using-amazon-comprehend-to-enhance-customer-experience-without-ml-expertise.md",
       "title": "Identify objections in customer conversations using Amazon Comprehend to enhance customer experience without ML expertise",
       "excerpt": "According to a PWC report, 32% of retail customers churn after one negative experience, and 73% of customers say that customer experience influences their purchase decisions. In the global retail industry, pre- and post-sales support are both important aspects of customer care. Numerous methods, including",
@@ -1270,49 +1324,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
-      "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
-      "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
-      "originalUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_207929333-brain-03-09-22-scaled-e1646861472441.jpeg?fit=1702%2C1087&ssl=1",
-          "width": 1702,
-          "height": 1087,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
         "images": null,
         "publishers": null,
         "authors": null

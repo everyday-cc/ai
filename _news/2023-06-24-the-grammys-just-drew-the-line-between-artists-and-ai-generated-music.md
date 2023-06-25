@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-betwe
 webUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-between-artists-and-ai-generated-music/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,38 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Purely AI-generated songs declared ineligible for Grammy Awards"
-    excerpt: "Amid increasing use of generative AI in music, the Recording Academy has updated its rules for the 66th annual Grammy Awards regarding the role of AI in considered works, Reuters reports. To be eligible for an award,"
-    publishedDateTime: 2023-06-20T21:07:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/purely-ai-generated-songs-declared-ineligible-for-grammy-awards/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/tin_robots_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
-    publishedDateTime: 2023-06-22T00:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "71J/o8XpyM3grYewF581bNl50wy6J3kvsJnzWzSoWKoZGMrj8XuHhKvAeGLySfc3RDOqf6+y5mHM+oWD6rDUFvQ5Ao6Ot3rtX2WhIZIHFMVzURfgMkP2uqcGI+PGMOFWp8IfGm9ruesKFln1F/SrekYeza3Rch+26j9cDQQ2hdCrczILXTCrXFzIswfRyzQNgA0zBAWQeelCbc7COMrQhWGfCjHtnUDegcinvYpFrGKpnapZlohPtXAPKMrD78dDG8yf8T+HdpOq4N3SUnrhxNaWACIyPwlMZft7dXd3XltbPDX6ESLZv1WE9FSb/ZXJWRG4OCmNATbvbMmjg20uY14IhacMSPbD7C3bHaz2eJ+lJrT/1EPj9m5aK3qRftUsYwJbsC1n1pRgV0I8kTQHXYK0TM043Z+6PZRIbGcRhS2ketX9voebkGmZifRmHTZRE/nsgxI7eScrmpozx3JVBLAmlls09qsbTm1nJr0gBbbs9VsbCwPlUda61nu8j4d3sH2Zy2CtVdjoQbosS7EYhQ==;O4jlDffNnYiZS+yYlBM6Dw=="
 ---

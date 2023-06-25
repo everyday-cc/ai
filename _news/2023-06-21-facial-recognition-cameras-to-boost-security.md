@@ -7,7 +7,7 @@ originalUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-secu
 webUrl: "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/"
 type: article
 quality: 56
-heat: 106
+heat: 76
 published: true
 
 provider:
@@ -26,47 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "It is supposed to help identify bad guys. But facial recognition doesn’t always recognize them."
-    excerpt: "Critics warn the growing use of the technology brings with it the danger that flawed identification could put innocent people in prison."
-    publishedDateTime: 2023-06-20T19:20:00Z
-    webUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html"
-    ampWebUrl: "https://www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2023/06/facial-recognition-can-solve-crimes-but-how-often-does-it-target-innocent-people.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4GU6OYKFLRH6ZBZY3PG737PJM4.jpg"
-        width: 1680
-        height: 971
-        isCached: true
-  - title: "New Jersey Questions Facial Recognition’s Accuracy"
-    excerpt: "Proponents of the technology claim that it can be used as an important crime-fighting and security tool. But critics argue that mistakes and wrong identifications could put innocent people in prison and threaten data privacy."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy"
-    ampWebUrl: "https://www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-jersey-questions-facial-recognitions-accuracy?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Cameroon launches video surveillance with live facial recognition in largest city"
-    excerpt: "The Minister of State, Secretary General at the Presidency of the Republic, Ferdinand Ngoh NGO, switched on the project on Thursday June 15."
-    publishedDateTime: 2023-06-20T20:07:00Z
-    webUrl: "https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "US campaign against facial recognition in venues ramps up"
     excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
     publishedDateTime: 2023-06-23T09:06:00Z

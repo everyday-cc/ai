@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trial for driver in fatal self-driving Uber crash in Tempe is delayed again"
-    excerpt: "Rafaela Vasquez was charged with negligent homicide in the death of Elaine Herzberg after the 2018 crash on Mill Avenue near Curry Road in Tempe."
-    publishedDateTime: 2023-06-20T21:59:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/tempe/2023/06/20/autonomous-fatal-uber-crash-trial-delayed-until-september/70339904007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 17
 
 secured: "GY5hj6DZRBtlxpBUimi78QQWISJ3XwWWZGEBggF+OeCphDjEyRArRKbn6tsQMR1j3hQlR/rXfTHWOBTwnJ1BKZscNUDoKthLawf3VfxtyOIbanvMv16EVnRIzwscenLjLatI/lp6IK11/o7AoSEeeuhrPTEjmFsV6E2KNWaUXv0T2p3dWd8vYvJBSudrjwQ+ix1p3Ch6+4Q7IerbPFwifXuxD6sh6QJhOIHbhlLh27ofdubgaaCAmghy2JCdgguBr/IXIBULw0ooI5n67VKyMBISyn2Aw1J4fXF2D8UhArOHIdQe2V2n07J9cK35PTy4XIAs1bR90xgVOAyKr4ZAFWScN9QvlHYxYGYjN5NgT+I=;yBef+vHK2r2YigSsPuwiAw=="
 ---

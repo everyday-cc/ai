@@ -78,22 +78,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden meets with tech leaders to discuss future and regulation of artificial intelligence"
-    excerpt: "In San Francisco, President Biden convened a meeting of artificial intelligence experts to weigh its risks and opportunities and consider the role of the federal government in regulating the technology."
-    publishedDateTime: 2023-06-20T22:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/biden-meets-with-tech-leaders-to-discuss-future-and-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 48
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/ai-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Only 25% of CFOs Are Prepping for AI Management and Ethics Regulations: Weekly Stat"
     excerpt: "Despite interest in AI by business leaders and innovators, CFOs have bigger concerns, according to new data from Deloitte."
     publishedDateTime: 2023-06-21T14:22:00Z
@@ -108,15 +92,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Grammys' New Rules: AI Can't Win Awards"
-    excerpt: "AI proved just how talented it can be at ripping off major artists after a computer-generated song based on The Weeknd and Drake went viral in April. Now, the Recording Academy—the body that votes on and manages the annual Grammy Awards—is setting new rules for AI’s role in the coveted accolade."
-    publishedDateTime: 2023-06-20T19:25:00Z
-    webUrl: "https://gizmodo.com/ai-the-grammys-chatgpt-ai-cant-win-awards-1850556918"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
     publishedDateTime: 2023-06-23T14:36:00Z

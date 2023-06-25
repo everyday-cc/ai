@@ -41,6 +41,22 @@ related:
         width: 900
         height: 900
         isCached: true
+  - title: "The AI craze is blurring these 4 serious economic threats to the US. Here's a closer look."
+    excerpt: "Underneath all the mania around AI are serious economic risks facing the US – here's a closer look at the bleak realities pervading the nation."
+    publishedDateTime: 2023-06-25T10:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/643819005f081b0019c0fea4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
     excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
     publishedDateTime: 2023-06-21T17:28:00Z

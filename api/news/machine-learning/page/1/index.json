@@ -10,7 +10,7 @@
       "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -552,6 +552,49 @@
       "provider": {
         "name": "AppleInsider",
         "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-fall-detection-and-prediction.md",
+      "title": "Clairvoyant Networks, Inc. awarded £80k by Longitude Prize on Dementia for AI / Neural Network Driven Fall Detection and Prediction",
+      "excerpt": "Clairvoyant Networks, Inc. has been named a semi-finalist in the Longitude Prize on Dementia for its innovative AI / Neural Networking remote monitoring platform for detecting and predicting falls amo",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32924009",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924009",
+      "publishedDateTime": "2023-06-20T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1253,49 +1296,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
-      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
-      "excerpt": "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg",
-          "width": 311,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robust-intelligence-name
 webUrl: "https://www.marketwatch.com/press-release/robust-intelligence-named-best-ai-startup-in-2023-artificial-intelligence-breakthrough-awards-program-3390dd7f"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
+    publishedDateTime: 2023-06-22T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Subtle Medical Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
     excerpt: "Subtle Medical Named to the 2023 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups PR Newswire MENLO PARK, Calif., June 22,"
     publishedDateTime: 2023-06-22T10:22:00Z

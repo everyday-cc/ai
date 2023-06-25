@@ -2,6 +2,58 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
+      "title": "Amazon's AI-powered robot can't fix the broken smart home",
+      "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
+      "originalUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XzVDZZoc26io45z3QezWa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-make-sap-erp-deployments-future-ready-with-ibm-cloud.md",
       "title": "Make SAP ERP deployments future-ready with IBM Cloud",
       "excerpt": "IBM offers SAP-enabled transformation expertise and enterprise-grade cloud platform capabilities to help accelerate our client’s ERP modernization journey.\nThe post Make SAP ERP deployments future-ready with IBM Cloud appeared first on IBM Blog.\n",
@@ -1164,57 +1216,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-vb-transform-2023.md",
-      "title": "Calling all Generative AI disruptors of the enterprise! Apply now to present at VB Transform 2023",
-      "excerpt": "We’re on the hunt for the 10 generative AI products most likely to disrupt the enterprise right now, and if you have such a product we’d like to invite you to present the impact of this technology on the main stage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "originalUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/2VB_9896.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/calling-all-generative-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2023/amp/",
-      "publishedDateTime": "2023-05-16T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

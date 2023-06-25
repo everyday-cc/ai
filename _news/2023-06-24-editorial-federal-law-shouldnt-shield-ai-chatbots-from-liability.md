@@ -18,6 +18,17 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "(Opinion) Other Voices: Federal law shouldn’t shield AI chatbots from liability"
+    excerpt: "The erupting world of artificial intelligence poses a threat to jobs, political stability, world peace and health and even, as leading AI figures warned recently, the existence of mankind."
+    publishedDateTime: 2023-06-25T13:30:00Z
+    webUrl: "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
+    type: article
+    provider:
+      name: The Greeley Tribune
+      domain: greeleytribune.com
+    quality: 15
+
 secured: "iQoIxLVucL31jSYAn04+SAKDGUj86BlGDdME3VlSo/TD4uYf8rvV6v+pRcORHUCTOCVkhgHGf8JFHpo5yRdJc8XBEmugdF4Ft1sKKnFhelmC+Np3m+MJlamZ75cudGjwEQDtXOqodq2ONh2yATE/YdRj8NOkEyNue/SOFItlse0RK86Sq19revbO0Mh+4MwNzYi6jJxOJzOsSWWz5DnuFfDEBsvu5IE6WVjMVpyrsesw0JvCed5oZpVEMExe6S+70kNmIvzbCtwiN0I0txiOuwG7Y8NCHoy3C6LIulwvWNBC9lE4eHQ1Ss6RWsQV+vWKreQdf0FNuGH4+8Hcno8vHzE0P305f1FeqrF6BTH7QKUd3sLARl1e1QHeMdKygmTFCqYnAdo6NmrrL6+U2vygvn7BsHkpCSIaUplm0/htm0PgB1qEi8Ewfuypq+1xVBey0RIxC9fTZPLh8bWPNBom1mmSNS2rV3Eo//vbjKbPcmUmhsaUxpQ4/5KRtI6bbK5ohbURqNM5kaHMlFrgO3U78A==;gbo3HF1ui3CXl3X1xHH4SA=="
 ---
 

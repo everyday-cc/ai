@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacke
 webUrl: "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://c.ndtvimg.com/2023-06/f02ulu7g_tesla-has-a-supersecret-driver-mode_625x300_21_June_23.jpg"
         width: 1200
         height: 738
-        isCached: true
-  - title: "Tesla Has the Most Self-Driving Accidents. There’s a Good Reason for That."
-    excerpt: "With advanced driver assistance systems proliferating, investors need to understand how to read safety data provided by regulators."
-    publishedDateTime: 2023-06-20T21:51:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-crash-safety-self-driving-4d82df2a"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-crash-safety-self-driving-4d82df2a"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-800161/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."

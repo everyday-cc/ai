@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Leverage Generative AI for Your Enterprise: A Networking Event with Industry Leaders"
-    excerpt: "With the meteoric rise of gen AI, now is the time for frank discussions with peers about the strengths and weaknesses of the technology."
-    publishedDateTime: 2023-06-20T20:40:00Z
-    webUrl: "https://venturebeat.com/ai/now-is-the-time-lets-discuss-generative-ai-in-a-critical-peer-to-peer-setting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-Lb6ZHvf-X3.jpg?w=1200&strip=all"
-        width: 1198
-        height: 685
-        isCached: true
   - title: "Generative AI in the Metaverse"
     excerpt: "Some assume that the metaverse will be a single immersive environment like in the movie Ready Player One (2018), while others, myself included, assert that real life is the metaverse, and we will use different interfaces throughout our day to combine our physical and digital worlds to varying degrees—from augmenting our reality with virtual overlays to immersive VR."
     publishedDateTime: 2023-06-21T15:23:00Z
@@ -126,15 +112,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 41
-  - title: "IBM expands Adobe partnership to accelerate content supply chains with generative AI"
-    excerpt: "The collaboration between IBM and Adobe will concentrate on helping clients create personalized customer experiences through generative AI."
-    publishedDateTime: 2023-06-20T19:21:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-adobe-partnership-accelerate-content-supply-chains-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 40
   - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
     excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
     publishedDateTime: 2023-06-23T10:00:00Z

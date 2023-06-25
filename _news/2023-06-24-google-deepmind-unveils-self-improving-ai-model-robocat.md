@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
+    excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
+    publishedDateTime: 2023-06-25T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/"
+    ampWebUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 73
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "DeepMind introduces self-improving AI model called RoboCat"
     excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
     publishedDateTime: 2023-06-24T15:02:00Z

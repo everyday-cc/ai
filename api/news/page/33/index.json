@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-06-01-while-parents-worry-teens-are-bullying-snapchat-ai.md",
+      "title": "While parents worry, teens are bullying Snapchat AI",
+      "excerpt": "Users can also personalize My AI with custom Bitmoji avatars, and chatting feels a bit more intimate than going back and forth with ChatGPT’s faceless interface. Not all users were happy with the new chatbot,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
+      "originalUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
+      "publishedDateTime": "2023-05-31T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-global-hiv-treatment-market-report-2023-advances-in-gene-therapy-present-significant-opportunities-for-sector-growth.md",
       "title": "Global HIV Treatment Market Report 2023: Advances in Gene Therapy Present Significant Opportunities for Sector Growth",
       "excerpt": "Analysis By Product, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2030\" report has been added to",
@@ -1132,48 +1183,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-us-europe-working-on-voluntary-ai-code-of-conduct-as-calls-grow-for-regulation.md",
-      "title": "US, Europe working on voluntary AI code of conduct as calls grow for regulation",
-      "excerpt": "The United States and Europe are drawing up a voluntary code of conduct for artificial intelligence, with a draft expected in weeks",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628",
-      "publishedDateTime": "2023-05-31T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

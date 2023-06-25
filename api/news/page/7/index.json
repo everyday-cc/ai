@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
+      "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
+      "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/06/20/1600x900/Untitled_design_1687233330640_1687233337610.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system-71687232855975.html",
+      "publishedDateTime": "2023-06-19T20:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics.md",
       "title": "Artificial intelligence can support architects but lacks empathy and ethics",
       "excerpt": "With the fast-paced implementation of AI in different fields, will it take the place of architects and architecture schools soon? To answer this question, we need to understand the capabilities of AI and the role of architects and architecture schools.",
@@ -1169,58 +1212,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-this-fintech-startup-serves-a-75-trillion-per-day-market.md",
-      "title": "This Fintech Startup Serves A $7.5 Trillion Per Day Market",
-      "excerpt": "Swiss-Israeli fintech startup Okoora is expanding the reach of its AI-powered platform to multiple European countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648deabd2e68568627b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/06/19/this-fintech-startup-serves-a-75-trillion-per-day-market/amp/",
-      "publishedDateTime": "2023-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-06-08-teslas-ai-dreams-may-already-be-priced-into-stock.md",
+      "title": "Tesla’s AI Dreams May Already Be Priced Into Stock",
+      "excerpt": "After an 82% year-to-date rally, Tesla shares trade at about 61 times forward earnings, compared with the mid-to-high single-digit multiples of auto stalwarts General Motors Co. and Ford Motor Co. Even current AI darling Nvidia Corp. trades at only 42 times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-08/tesla-s-ai-dreams-may-already-be-priced-into-stock-tech-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDkRIumkcuUc/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-08-enabling-ai-powered-business-intelligence-across-the-enterprise.md",
       "title": "Enabling AI-powered business intelligence across the enterprise",
       "excerpt": "Data is the lifeblood of successful organizations. Beyond the traditional data roles&#8212;data engineers, analysts, architects&#8212;decision-makers across an organization need flexible, self-service access to data-driven insights accelerated by artificial intelligence (AI). From marketing to HR, finance",
@@ -1181,40 +1233,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-introducing-voxelgpt-ai-powered-computer-vision-insights-delivered-through-chat.md",
-      "title": "Introducing VoxelGPT: AI-Powered Computer Vision Insights Delivered Through Chat",
-      "excerpt": "Game-changing natural language plugin makes complex AI tasks accessible to everyone ANN ARBOR, Mich., June 7, 2023 /PRNewswire/ -- Voxel51, a leading innovator in data-centric computer vision and machine learning software,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/07/9828592.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

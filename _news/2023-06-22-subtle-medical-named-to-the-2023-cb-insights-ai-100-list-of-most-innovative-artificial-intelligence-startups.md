@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
+    publishedDateTime: 2023-06-22T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Carbon Robotics’ LaserWeeder™ Selected as “Best AI-based Solution for Agriculture” In 2023 AI Breakthrough Awards"
     excerpt: "Carbon Robotics, a leader in AI-powered robotics, today announced that its LaserWeeder™ has been named “Best AI-based Solution for Agriculture” in the sixth annual AI Breakthrough Awards program conducted by AI Breakthrough. The leading market ..."
     publishedDateTime: 2023-06-21T13:28:00Z

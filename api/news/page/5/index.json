@@ -442,7 +442,7 @@
       "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -573,21 +573,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
-      "title": "Biden visits Marin after AI forum in San Francisco",
-      "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
+      "path": "_news/2023-06-21-biden-meets-with-ai-experts-in-effort-to-manage-its-risks.md",
+      "title": "Biden meets with AI experts in effort to manage its risks",
+      "excerpt": "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation.",
       "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
-      "originalUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -595,13 +595,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "publishedDateTime": "2023-06-20T18:18:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna90136",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136",
+      "publishedDateTime": "2023-06-20T17:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -611,7 +611,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -624,7 +623,7 @@
       "originalUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {

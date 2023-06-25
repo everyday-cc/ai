@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Biden visits Marin after AI forum in San Francisco"
-    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
-    publishedDateTime: 2023-06-21T01:18:00Z
-    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
-    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 59
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco"
     excerpt: "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies"
     publishedDateTime: 2023-06-23T13:02:00Z
@@ -50,22 +34,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3"
         width: 620
         height: 372
-        isCached: true
-  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
-    publishedDateTime: 2023-06-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
-        width: 1200
-        height: 630
         isCached: true
   - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
     excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
@@ -83,33 +51,20 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence"
-    excerpt: "President Joe Biden has convened a group of technology leaders in San Francisco to debate the risks and promises of artificial intelligence"
-    publishedDateTime: 2023-06-20T21:50:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-host-forum-artificial-intelligence-technology-leaders-san-100225012"
+  - title: "'They're not ready for prime time': San Francisco fire chief says robotaxis interfere with responses"
+    excerpt: "Robotaxis have run through emergency tape, blocked firehouses and proved almost impossible to move out of the way"
+    publishedDateTime: 2023-06-23T14:14:00Z
+    webUrl: "https://www.ems1.com/technology/articles/theyre-not-ready-for-prime-time-san-francisco-fire-chief-says-robotaxis-interfere-with-responses-GcwTELEXYjtrMvpg/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 43
+      name: EMS1
+      domain: ems1.com
+    quality: 9
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_518ec2a9190cfb10db9dbcc1eaab3c4c_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media.cdn.lexipol.com/article-images/AP23077015308090.jpg?w=1600&format=jpg&quality=87&crop=29%2C0%2C1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "President Biden talks AI with tech leaders in San Francisco"
-    excerpt: "President Joe Biden ramps up his reelection effort this week with four fundraisers in the San Francisco area, as his campaign builds up its coffers and lays strategic foundations for 2024."
-    publishedDateTime: 2023-06-20T20:54:00Z
-    webUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco"
-    ampWebUrl: "https://www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/president-biden-talks-ai-with-tech-leaders-in-san-francisco.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 39
   - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
     excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
     publishedDateTime: 2023-06-22T12:04:00Z

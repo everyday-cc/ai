@@ -2,6 +2,40 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-05-23-cognitive-dissonance-what-to-know.md",
+      "title": "Cognitive dissonance: What to know",
+      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. Cognitive dissonance is not a disease or illness. It is a psychological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-edge-ai-and-vision-alliance-announces-2023-edge-ai-and-vision-product-of-the-year-award-winners.md",
       "title": "Edge AI and Vision Alliance™ Announces 2023 Edge AI and Vision Product of the Year™ Award Winners",
       "excerpt": "Awards Celebrate Innovation and Achievement in Computer Vision and Edge AI SANTA CLARA, Calif.,  /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2023 winners of the Edge AI and Vision Product of the Year Awards.",
@@ -1112,40 +1146,6 @@
       "provider": {
         "name": "Digit",
         "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-reduces-data-center-power-costs-by-up-to.md",
-      "title": "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%",
-      "excerpt": "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

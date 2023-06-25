@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cisco sets a foundation for AI network infrastructure"
-    excerpt: "Cisco adds two new high-end programmable Silicon One devices that can support massive GPU clusters for AI/ML workloads."
-    publishedDateTime: 2023-06-20T19:55:00Z
-    webUrl: "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.html"
-    ampWebUrl: "https://www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700308/cisco-sets-a-foundation-for-ai-network-infrastructure.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/diversity_saudi-arabia_turkey_middle-east_networking-globe_map_connections_by-dem10-gettyimages-1188387719-100850386-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cisco takes on Broadcom with new chips for AI supercomputer"
     excerpt: "Cisco also shared that its AI chips from its SiliconOne series are currently being tested by five of the six major cloud provider."
     publishedDateTime: 2023-06-21T23:33:00Z

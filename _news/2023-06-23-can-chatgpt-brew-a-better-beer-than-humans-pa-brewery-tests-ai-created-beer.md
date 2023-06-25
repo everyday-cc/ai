@@ -34,6 +34,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
+    publishedDateTime: 2023-06-25T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
     excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."
     publishedDateTime: 2023-06-22T21:04:00Z

@@ -167,7 +167,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/22/cisco-unveils-speedy-ai-networking-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -209,49 +209,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
-      "title": "Biden visits Marin after AI forum in San Francisco",
-      "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
-      "originalUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
-      "publishedDateTime": "2023-06-20T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1436,6 +1393,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
+      "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
+      "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "originalUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-02-machine-learning-model-sheds-light-on-how-brains-recognize-communication-sounds.md",
+      "title": "Machine learning model sheds light on how brains recognize communication sounds",
+      "excerpt": "In a paper published today in Communications Biology, auditory neuroscientists at the University of Pittsburgh describe a machine learning model that helps explain how the brain recognizes the meaning of communication sounds,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "originalUrl": "https://phys.org/news/2023-05-machine-brains-communication.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-6.jpg",
+          "width": 1189,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-05-machine-brains-communication.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-machine-brains-communication.amp",
+      "publishedDateTime": "2023-05-02T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-godfather-of-ai-geoffrey-hinton-quits-google-and-warns-over-dangers-of-machine-learning.md",
       "title": "‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of machine learning",
       "excerpt": "The neural network pioneer says dangers of chatbots were ‘quite scary’ and warns they could be exploited by ‘bad actors’",
@@ -1342,60 +1385,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
-      "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
-      "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-sales-volume-and-forecast-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

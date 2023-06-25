@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-18-spiking-neural-networks-hardware-algorithm-developments.md",
+      "title": "Spiking Neural Networks: Hardware & Algorithm Developments",
+      "excerpt": "A new technical paper titled “Exploring Neuromorphic Computing Based on Spiking Neural Networks: Algorithms to Hardware” was published by researchers at Purdue University, Pennsylvania State University, and Yale University. Excerpt from Abstract ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "originalUrl": "https://semiengineering.com/spiking-neural-networks-hardware-algorithm-developments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_207929333-brain-03-09-22-scaled-e1646861472441.jpeg?fit=1702%2C1087&ssl=1",
+          "width": 1702,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-ai-terminologies-101understanding-neural-networks.md",
       "title": "AI Terminologies 101:Understanding Neural Networks",
       "excerpt": "Neural Networks are a type of artificial intelligence (AI) that's modeled after the way the human brain works. They're made up of interconnected nodes or \"neurons\" that process information and ...",
@@ -1228,40 +1271,6 @@
       "provider": {
         "name": "techjuice.pk",
         "domain": "techjuice.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-data-science-analytics-trends-to-watch-in-2023.md",
-      "title": "Data science & analytics trends to watch in 2023",
-      "excerpt": "Modern day society is dominated by the extensive use of digital technologies which result in the generation of a large amount of data. Data science helps extract patterns and deduce valuable insights from it.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/data-science-analytics-trends-to-watch-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

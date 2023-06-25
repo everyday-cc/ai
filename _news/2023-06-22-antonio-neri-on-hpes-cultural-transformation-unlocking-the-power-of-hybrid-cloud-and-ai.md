@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/06/21/antonio-neri-on-hpes-cultural-
 webUrl: "https://siliconangle.com/2023/06/21/antonio-neri-on-hpes-cultural-transformation-unlocking-the-power-of-hybrid-cloud-and-ai-hpediscover/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "HPE CEO Antonio Neri: New AI Public Cloud Service Is Next ‘Breakthrough Innovation’"
-    excerpt: "HPE CEO Antonio Neri took center stage at HPE Discover 2023 to usher the company into the AI era with a new AI public cloud, and deeper hybrid cloud partnerships with with AWS, VMware and Equinix."
-    publishedDateTime: 2023-06-20T21:56:00Z
-    webUrl: "https://www.crn.com/news/cloud/hpe-ceo-antonio-neri-new-ai-public-cloud-service-is-next-breakthrough-innovation-"
+  - title: "Cognitive Credit Launches Transformational Credit Modeling Solution"
+    excerpt: "Cognitive Credit, the leading provider of corporate credit data and analytics technology, today announces a major enhancement to its web-based application. Building on the fastest and most accurate credit data in the market,"
+    publishedDateTime: 2023-06-21T12:59:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/cognitive-credit-launches-transformational-credit-modeling-solution/article_1c3346cb-d6b0-5c5d-875b-59d51be8ca39.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 31
-    images:
-      - url: "https://www.crn.com/resources/0282-184de1a49c5b-8474f6d1633d-1000/neri-keynote1.jpeg"
-        width: 611
-        height: 458
-        isCached: true
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 4
 
 secured: "zseSTaTN47+wLwPTW1qdue7IGhhGBe+1fc8NFU+ckgndBnsFvMnH9QRJpmdxuxyDdYynAEjt3QrnVnGdTm9XChGjHr8mEkGIQGawZVGcqqaEu/aH4EE6J95EN2m8a4dinYfJ4SMye6qjYxd83OH3qvE2NA1ny4nDyL0BX3mBMCoyTo9FIsEQwUf+MpHMazPrWsVsP329Gu1JNu1WXwWctJJbgm8Z27D4SSGPj+0XSg4a+wU21N4/ctSr+qxxf9aZ85hU0Vk/LBi9ELtc71e3cfWxzHN/9dOMZcjHIJmwZyj1tWdqLi0Awph9QFZsN82a6uEPD8G8gUkbYtWUrlfg77GOEa5F1nA3hwj5M77/cZc=;I0cASqrOYpZyjImFpayvOg=="
 ---

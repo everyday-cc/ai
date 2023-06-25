@@ -159,20 +159,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AI meets the other AI"
-    excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
-    publishedDateTime: 2023-06-20T20:25:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/06/20/ai-meets-the-other-ai-00102742"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/c7/5e/768d3cfb4fca9d27be3fc63bb494/exchange-roswell-ufo-mystery-40480.jpg"
-        width: 1984
-        height: 1568
-        isCached: true
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z
@@ -201,15 +187,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "The rush for AI chips"
-    excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
-    publishedDateTime: 2023-06-20T19:32:00Z
-    webUrl: "https://www.businesspost.ie/tech/the-rush-for-ai-chips/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 34
   - title: "How the White House is moving into the action phase of its effort to regulate AI"
     excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
     publishedDateTime: 2023-06-20T23:56:00Z

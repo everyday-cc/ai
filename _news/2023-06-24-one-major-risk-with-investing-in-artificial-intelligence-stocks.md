@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-
 webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:
