@@ -98,22 +98,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform"
-    excerpt: "Pundit Urges Active Generative AI Use for Local Administrative Reform; INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform. News from"
-    publishedDateTime: 2023-06-21T01:31:00Z
-    webUrl: "https://www.nippon.com/en/news/yjj2023061900522/interview-pundit-urges-active-generative-ai-use-for-local-administrative-reform.html"
-    ampWebUrl: "https://www.nippon.com/en/news/yjj2023061900522/amp/"
-    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2023061900522/amp/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 54
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/2419289/2419289.jpg"
-        width: 333
-        height: 450
-        isCached: true
   - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
     excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
     publishedDateTime: 2023-06-23T10:00:00Z

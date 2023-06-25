@@ -95,22 +95,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform"
-    excerpt: "Pundit Urges Active Generative AI Use for Local Administrative Reform; INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform. News from"
-    publishedDateTime: 2023-06-21T01:31:00Z
-    webUrl: "https://www.nippon.com/en/news/yjj2023061900522/interview-pundit-urges-active-generative-ai-use-for-local-administrative-reform.html"
-    ampWebUrl: "https://www.nippon.com/en/news/yjj2023061900522/amp/"
-    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2023061900522/amp/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 54
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/2419289/2419289.jpg"
-        width: 333
-        height: 450
-        isCached: true
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
     publishedDateTime: 2023-06-23T17:07:00Z

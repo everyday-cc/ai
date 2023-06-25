@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MongoDB Embraces AI & Reduces Developer Friction With New Features"
+    excerpt: "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ..."
+    publishedDateTime: 2023-06-25T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
     excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
     publishedDateTime: 2023-06-22T18:51:00Z

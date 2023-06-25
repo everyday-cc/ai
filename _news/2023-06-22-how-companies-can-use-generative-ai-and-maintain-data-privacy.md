@@ -123,19 +123,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
         width: 800
-        height: 480
+        height: 418
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
@@ -219,15 +219,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
-    publishedDateTime: 2023-06-21T04:17:00Z
-    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
   - title: "Adobe Flies Towards Generative AI"
     excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
     publishedDateTime: 2023-06-24T13:00:00Z

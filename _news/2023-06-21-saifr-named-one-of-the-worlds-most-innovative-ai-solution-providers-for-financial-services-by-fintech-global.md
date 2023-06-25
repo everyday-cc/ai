@@ -47,6 +47,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "OvationCXM Recognized as Leading Technology Company in 2023 AIFintech100 List"
+    excerpt: "“AIFintech 100 has identified OvationCXM as a fintech AI innovator making lasting impacts in the industry. We are pleased to receive recognition for our AI work that is transforming the customer ..."
+    publishedDateTime: 2023-06-21T16:03:00Z
+    webUrl: "https://www.kake.com/story/49108735/ovationcxm-recognized-as-leading-technology-company-in-2023-aifintech100-list"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 16
   - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
     excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
     publishedDateTime: 2023-06-24T08:00:00Z

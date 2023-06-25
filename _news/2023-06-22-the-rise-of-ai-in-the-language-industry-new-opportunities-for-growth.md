@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-la
 webUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence opportunities in more than just big tech"
+    excerpt: "But disruption moves fast and investors need to balance their thinking between big potential profits and threats."
+    publishedDateTime: 2023-06-25T19:00:00Z
+    webUrl: "https://www.afr.com/wealth/personal-finance/artificial-intelligence-opportunities-in-more-than-just-big-tech-20230622-p5dis7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "QjJOSa45UfKtTld7qmFKRuPKppSJePCgt7OFCbLKVYUEnuenHYf9A8L25W80cnCVgAZmCOTuWjd96a2gkHYMBy+rfFiU83jwZsDYLvWOykeSAQ7nzoiWNdk7/44Zjqgbp6U4y1ETILTPohIxqBn1Wz0JGR3iUqv9NJhEfyLnLYcSryIrskcv7HVXqr0AFrGuole0o3xyzOFRX/pXCMiwSsMngqfy3IgxgiOUdI1pE8W+t3QsjlB34h7dU9E25J1TOnB5W7kgV0Av0x9aVjCrl/+dmthTEVb+zBSJ6E5EKOJnsiGe9FiK0ejTX6E0/yNkMC0V15pJX2WUTy2cjYmzY8hWJkQrYdrtO1OBeZtYYVs=;MOt0YP5naK8iphwZK5YzHw=="
 ---

@@ -89,50 +89,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-ai-is-revolutionizing-healthcare-but-for-whom.md",
-      "title": "AI is revolutionizing healthcare… but for whom?",
-      "excerpt": "Guillermo Pepe, Co-Founder and CEO of Mamotest, elaborates on the opportunity of using AI to expand access to healthcare in new",
-      "sourceUrl": null,
-      "webUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
-      "originalUrl": "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://impactalpha.com/wp-content/uploads/2023/06/Mamotest-Argentina-patients.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "impactalpha.com",
-        "domain": "impactalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-20-ai-is-already-being-used-in-health-care-but-not-all-of-it-is-medical-grade.md",
       "title": "AI is already being used in health care, but not all of it is 'medical grade'",
       "excerpt": "In our recent article in the Medical Journal of Australia, we argue using AI effectively in health care will require retraining of the workforce, retooling health services, and transforming workflows. Critically, we also need to collect evidence AI tools are \"medical grade\" before we use them on patients.",
@@ -162,6 +118,40 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-nuwellis-davita-partner-on-ultrafiltration-therapy-pilot-program.md",
+      "title": "Nuwellis, DaVita partner on ultrafiltration therapy pilot program",
+      "excerpt": "Nuwellis (Nasdaq:NUWE) announced today that it entered into a supply and collaboration agreement with DaVita (NYSE:DVA). The agreement enables Nuwellis — formerly CHF Solutions — to pilot its Aquadex ultrafiltration therapy within selected U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
+      "originalUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 800
         height: 525
         isCached: true
+  - title: "What President Biden said about artificial intelligence during his Bay Area visit"
+    excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
+    publishedDateTime: 2023-06-21T14:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/21/joe-biden-artificial-intelligence-bay-area.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "AI Stocks Are on a Tear — and Experts Say It’s Not a Bubble"
     excerpt: "“AI is a game changer,” says Liz Young ... and enjoy greater peace of mind knowing that your funds are well-protected. Click below to start investing."
     publishedDateTime: 2023-06-22T01:36:00Z

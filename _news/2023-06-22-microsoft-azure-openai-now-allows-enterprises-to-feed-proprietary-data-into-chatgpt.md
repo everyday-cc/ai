@@ -41,20 +41,6 @@ related:
         width: 980
         height: 490
         isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North"
-    publishedDateTime: 2023-06-22T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
     excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
     publishedDateTime: 2023-06-24T14:52:00Z
@@ -129,6 +115,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
+    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra"
+    publishedDateTime: 2023-06-21T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621956382/en/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 36
   - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
     excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
     publishedDateTime: 2023-06-22T10:00:00Z

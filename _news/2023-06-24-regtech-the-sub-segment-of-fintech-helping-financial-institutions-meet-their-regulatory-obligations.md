@@ -53,6 +53,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "OvationCXM Recognized as Leading Technology Company in 2023 AIFintech100 List"
+    excerpt: "“AIFintech 100 has identified OvationCXM as a fintech AI innovator making lasting impacts in the industry. We are pleased to receive recognition for our AI work that is transforming the customer ..."
+    publishedDateTime: 2023-06-21T16:03:00Z
+    webUrl: "https://www.kake.com/story/49108735/ovationcxm-recognized-as-leading-technology-company-in-2023-aifintech100-list"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 16
   - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
     excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
     publishedDateTime: 2023-06-24T18:40:00Z

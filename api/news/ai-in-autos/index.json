@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
+      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
+      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
+      "publishedDateTime": "2023-06-23T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
       "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
       "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
@@ -1259,6 +1311,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients.md",
+      "title": "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients",
+      "excerpt": "The same type of machine learning methods used to pilot self-driving cars and beat top chess ... insulin dose for a given scenario. Current artificial pancreas devices provide automated insulin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230614220731.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230614220731.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up.md",
       "title": "French company Mistral AI raises 105 mln euros shortly after being set up",
       "excerpt": "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ...",
@@ -1343,103 +1438,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-06-11/",
-      "publishedDateTime": "2023-06-11T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
-      "title": "How Could A.I. Destroy Humanity?",
-      "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/11/business/00ai-existential/00ai-existential-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-10T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

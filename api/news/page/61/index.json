@@ -2,6 +2,423 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-05-15-snapchats-new-ai-chatbot-is-already-raising-alarms-among-teens-and-parents.md",
+      "title": "Snapchat's new AI chatbot is already raising alarms among teens and parents",
+      "excerpt": "Less than a few hours after Snapchat rolled out its My AI chatbot to all users last week, Lyndsi Lee, a mother from East Prairie, Missouri, told her 13-year-old daughter to stay away from the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@",
+      "originalUrl": "https://edition.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html@",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230426123404-snapchat-app-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+      "publishedDateTime": "2023-05-15T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-ai-spending-will-cloud-chip-slowdown.md",
+      "title": "AI Spending Will Cloud Chip Slowdown",
+      "excerpt": "Google, Microsoft and other big techs are slowing capital spending while also launching generative AI services that require the most expensive chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-spending-will-cloud-chip-slowdown-1dbf261d",
+      "originalUrl": "https://www.wsj.com/articles/ai-spending-will-cloud-chip-slowdown-1dbf261d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-781343/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Outlook and Forecast to 2030 | Airbus SE, General Electric, The Boeing Company",
+      "excerpt": "The worldwide Artificial Intelligence and Robotics in Aerospace and Defense Market is expected to grow at a booming CAGR of 2023-2030, rising from USD billion in 2023 to USD billion in 2030. It also shows the importance of the Artificial Intelligence and Robotics in Aerospace and Defense Market main players in the sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
+      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
+      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
+      "publishedDateTime": "2023-05-15T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-cyberdefense-will-need-ai-capabilities-to-safeguard-digital-borders.md",
+      "title": "Cyberdefense will need AI capabilities to safeguard digital borders",
+      "excerpt": "Rapid adoption of fast-evolving generative AI capabilities means countries such as Singapore want to ensure they have the right skillsets to bolster their cyberdefenses and protect their digital infrastructures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cyberdefense-will-need-ai-capabilities-to-safeguard-digital-borders/",
+      "originalUrl": "https://www.zdnet.com/article/cyberdefense-will-need-ai-capabilities-to-safeguard-digital-borders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bf44429cd6a8893ec4ec9518660924fe334ca0d8/2023/05/15/a9e8b644-bc70-46ee-8af4-0ef859e5dc22/gettyimages-1400359666.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cyberdefense-will-need-ai-capabilities-to-safeguard-digital-borders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cyberdefense-will-need-ai-capabilities-to-safeguard-digital-borders/",
+      "publishedDateTime": "2023-05-15T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws.md",
+      "title": "Natural Language Processing (NLP) Market 2023-2029 Enormous Growth, Detailed Perspective, and Top Players – Microsoft, IBM, 3M, Amazon AWS",
+      "excerpt": "Latest released the research study on Global Natural Language Processing (NLP) Market, offers a detailed overview of the factors influencing the global business scope. The Natural Language Processing (NLP) Market report is a valuable source of insightful data for business strategists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
+      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
+      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-data-and-ai-ethics-market-with-future-opportunities-2023-2031.md",
+      "title": "Data and AI Ethics Market with Future Opportunities 2023-2031",
+      "excerpt": "The Global \"Data and AI Ethics Market\" report with 124 pages provides essential insights into the growth prospects",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-with-future-opportunities-2023-2031-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-google-launching-tools-to-identify-misleading-and-ai-images.md",
       "title": "Google Launching Tools to Identify Misleading and AI Images",
       "excerpt": "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial.",
@@ -823,400 +1240,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-machine-learning-recommendation-algorithm-market.md",
-      "title": "Machine Learning Recommendation Algorithm Market",
-      "excerpt": "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-13T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-playing-with-fire-how-to-adapt-to-the-new-realities-of-ai.md",
-      "title": "Playing with fire: How to adapt to the new realities of AI",
-      "excerpt": "AI is a disruptive force that will change the world. But for AI and humanity to thrive, we must be mindful of risks and properly manage them.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
-      "originalUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_artificial_intelligence_on_fire._Mischievous_playful_col_15e8e5da-3af6-41bc-9d8e-3578f3ae3bad.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
-      "publishedDateTime": "2023-05-13T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
-      "title": "My week navigating the awkward teenage years of self-driving cars",
-      "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=620&quality=85&auto=format&fit=max&s=e3d10e627bcf807b650606318f5e9b62",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "publishedDateTime": "2023-05-13T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe.md",
-      "title": "Google told me Bard has gotten better. But even the AI doesn't believe ...",
-      "excerpt": "Even after Google I/O, Bard seems to be holding on to some of its old quirks, even denying its upgrade to PaLM 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "originalUrl": "https://www.zdnet.com/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3002560b7b92127860a6d1747749f19b9714d7c1/2023/05/10/bb010820-3937-4ed0-8468-2d013125672d/google-bard-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-told-me-bard-has-gotten-better-but-even-the-ai-doesnt-believe-it/",
-      "publishedDateTime": "2023-05-13T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-acceleration-service-for-android-beta.md",
-      "title": "Acceleration Service for Android (Beta)",
-      "excerpt": "The use of specialized processors such as GPUs, NPUs or DSPs for hardware acceleration can dramatically improve inference performance (up to 10x faster inference in some cases) and the user experience of your ML-enabled Android application. However, given ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/android/acceleration_service",
-      "originalUrl": "https://www.tensorflow.org/lite/android/acceleration_service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-13T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
-      "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
-      "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "originalUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645e491511971c00188f1e56?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "publishedDateTime": "2023-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-how-a-toronto-computer-chip-maker-is-providing-the-better-brains-ai-runs-on.md",
-      "title": "How a Toronto computer chip maker is providing the better brains AI runs on",
-      "excerpt": "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "originalUrl": "https://www.thestar.com/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/05/13/untether-ai-ceo-arun-iyengar-on-the-hidden-energy-crisis-in-ai-semiconductors-and-why-he-stayed-in-canada.html",
-      "publishedDateTime": "2023-05-13T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-deepfakes-porn-tapes-bots-how-ai-has-shaped-a-vital-nato-allys-presidential-election.md",
-      "title": "Deepfakes, porn tapes, bots: How AI has shaped a vital NATO ally's presidential election",
-      "excerpt": "One candidate already dropped out of the race after an alleged sex tape surfaced on social media, but the candidate claimed it was the product of deepfake technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
-      "originalUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e23c3aaa-25e1-4b4c-90a2-94785ba4bcb2/f246275e-dbb8-426b-9b88-16d17ce716f6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/deepfakes-porn-tapes-bots-ai-shaped-vital-nato-allys-presidential-election.amp",
-      "publishedDateTime": "2023-05-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

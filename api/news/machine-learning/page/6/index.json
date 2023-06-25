@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-09-machine-learning-ml-platforms-market-size-by-2030.md",
+      "title": "Machine Learning (ML) Platforms Market Size By 2030",
+      "excerpt": "The report focuses on the volume and value of Machine Learning (ML) Platforms at the global, regional, and company levels. It analyzes historical data and future prospects to determine the overall Machine Learning (ML) Platforms market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2030-2023-05-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-machine-learning-and-ai-improve-the-bottom-line.md",
       "title": "Machine Learning and AI Improve the Bottom Line",
       "excerpt": "Machine learning and artificial intelligence may appear futuristic, but these solutions have advanced rapidly to where end users experience them as a practical, vital tool for improving the bottom line.",
@@ -1312,58 +1355,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution.md",
-      "title": "Botkeeper Operating System (BOS) Awarded for Artificial Intelligence / Machine Learning Solution",
-      "excerpt": "The Botkeeper Operating System (BOS) is designed to ease capacity issues by automating the bookkeeping work that slows firms down and deprives their growing advisory service practices of needed resources.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-operating-system-bos-awarded-for-artificial-intelligence-machine-learning-solution-1032281956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2066404/Botkeeper_Bronze_Winner.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

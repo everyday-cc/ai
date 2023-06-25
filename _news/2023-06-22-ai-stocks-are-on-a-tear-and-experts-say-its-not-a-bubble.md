@@ -48,6 +48,15 @@ related:
         width: 800
         height: 525
         isCached: true
+  - title: "What President Biden said about artificial intelligence during his Bay Area visit"
+    excerpt: "In seizing this moment, we need to manage the risks to our society, to our economy and our national security,” Biden said about artificial intelligence during his stop in San Francisco."
+    publishedDateTime: 2023-06-21T14:38:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/21/joe-biden-artificial-intelligence-bay-area.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
     excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
     publishedDateTime: 2023-06-23T00:45:00Z

@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
+      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
+      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
+      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
+      "publishedDateTime": "2023-06-15T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-machine-learning-algorithm-identifies-3-natural-anti-aging-chemicals.md",
       "title": "Machine learning algorithm identifies 3 natural anti-aging chemicals",
       "excerpt": "Researchers have used a machine learning model to identify three compounds that could combat aging. They say their approach could be an effective way of identifying new drugs, especially for complex diseases.",
@@ -154,13 +202,22 @@
       "title": "AI and patents: How machine learning can help or hinder innovation",
       "excerpt": "One of the first examples was Lex Machina, software that uses machine learning to comb data sources and provide legal analytics. A Stanford university spinout, it was created by Lemley with George ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
-      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b?miRedirects=1",
+      "webUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
+      "originalUrl": "https://www.ft.com/content/e5755e20-0768-4035-b2da-76dca571043b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcba43e1d-6434-4dd2-a6c0-6ba408741944.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1304,59 +1361,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "Microsoft has come out with a new integration that will allow Snowflake and AWS S3 users to bring their data to its Azure Machine Learning (ML) service for AI model training and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-05T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

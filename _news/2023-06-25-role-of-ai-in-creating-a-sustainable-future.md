@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-
 ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -220,6 +221,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J0f+FhmFvw1LdmHdeA9cbxfQdy36SJIvIu/9HDCJtO0px3yMRz7v3AMsLnKqoE4aesRz9jyE4NdPd752cQnVCnbHxUgRE/cZm0m9KWHDhJfxSVbEMCfJUWdVElFM8v2sWsM5v0goCbMm1Go5dyvQc1F4o8ta29RYf3NqqQ+iaei40SbOeRAi23I6Lc9DwcOcG0pHg+P2+aCI5KNIRvqWJ25EBpUpMizdN4yTZtXzHUTf+cbtVKKfkAmJpI4iOV4lYL0ZOSOeH05tX+7dyTEYy6+LCuE2ESpGXVSOwW1rFCTUMfWWaGMYXKGyAHRN/VK91wa/q/ysTgGRqenvpbHayyJj6Wa61XfQ47LlQSkb7zw=;HYagZpqX/XjTqMK23qyQOA=="
+secured: "f+O9BPjVCUfe1TyLwymRhoWb4suH959t8uIECGQF18Mm6DIWeF09OSAEfG4ijm02IBH8gDChrwXrXlRRLSGqc5lhmxRb6sWdFpxXZRTN+aSKcH8GDa7qXJ9MmGQ3XLqMlgf2RhzxRTZb6d06YEoeyi7CzCwjbu+g9LZ/5upBFbmFUT7gXZiKOHzdNGWS3UBaxbKwK6ksTszd9zSWvbPDRk4Oo1R5r7xSFz542uRldCAbfW2uHMregoy9PxeG7gPJx25Adny/0lzBYgap+dBsmUIpO+rd9jQYSOchERkrwaJiDPVMnx5eAdt+XdU095Z/8ej2jPIkIh50LiB1ZwyaSGzrAFg+JiJ2tv+TDo7dNFUBjZzdwWoqr6zmhDFzK6OMWdkVOg132fCH527pA9HsEyxU/XJZJz2Cu09cdNA4JPKjXEVvY6vjg7bU3KfvS8LC/4olG173imgRlEEY22bUMRxySIPux/7tjtthTt0lFsHgUU3iUtXG8QhNtPk3ow88ZBDt8LsUXu0jIaeP1Bjo1A==;dlHPK2dKOJp/tBNyh/Pr4w=="
 ---
 

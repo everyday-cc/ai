@@ -40,19 +40,14 @@ related:
         height: 630
         isCached: true
   - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
-    excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget constraints, which is why demand is on the rise for Outbound AI's pioneering virtual agents and software consoles powered by its proprietary Conversation AI Cloud."
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://www.eagletribune.com/region/health-tech-startup-outbound-ai-completes-16m-raise-to-accelerate-growth-of-ai-agents-performing/article_ad08f93d-c610-5885-b00d-2e44c33e857d.html"
+    excerpt: "The tech startup today announces completion of its seed financing, with the latest round co-led by Seattle-based Madrona Venture Group and SpringRock Ventures. Outbound AI emerged from stealth ..."
+    publishedDateTime: 2023-06-21T13:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621899539/en/Health-Tech-Startup-Outbound-AI-Completes-16M-Raise-to-Accelerate-Growth-of-AI-Agents-Performing-Administrative-Tasks/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 12
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/d/27/d2747138-0d38-5f86-923f-9f39d34d0f34/6492fad987200.image.jpg?crop=1985%2C1042%2C2%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "bWxpVwJgEcV3cP4MOcr6iVU7Kadp0tUoykITwjUCOhkG4nWfJpuWEfuVIn4eQhvjeQih5OMUEx/YOypDkSpqaWC9626bfyjujvdGI/8X+NpCQd1Q0clotJzhPCK1yNDplsTZOqqVbD3L6HeKBNpoGLZ0h7MGPWCXuV7totCDBA1S2ZOkUEi9awDD5cAolB8YCF29JCaC1PCrCS1WKmebueZkzoDI+tFn4kI+sB/eL8gdTioXelm1tFKZPcnxpOHIGlsTh6/FE6U+xYn8WE3TxNRjvypfRDuB2TnIlHC5ybdoV4lCRF/k2EJMWGHg2ZTJSJUROkhCS1Xh/YugwsCPF8GKRmDmwzft4quTGiyUXYg=;5p0lyO+/P00+rPrqXXKK1g=="
 ---

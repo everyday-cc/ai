@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -89,22 +89,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-11/pexels-fauxels-3183164.jpg?itok=0U1ndD_B"
         width: 600
         height: 400
-        isCached: true
-  - title: "INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform"
-    excerpt: "Pundit Urges Active Generative AI Use for Local Administrative Reform; INTERVIEW: Pundit Urges Active Generative AI Use for Local Administrative Reform. News from"
-    publishedDateTime: 2023-06-21T01:31:00Z
-    webUrl: "https://www.nippon.com/en/news/yjj2023061900522/interview-pundit-urges-active-generative-ai-use-for-local-administrative-reform.html"
-    ampWebUrl: "https://www.nippon.com/en/news/yjj2023061900522/amp/"
-    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/yjj2023061900522/amp/"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 54
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/2419289/2419289.jpg"
-        width: 333
-        height: 450
         isCached: true
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."

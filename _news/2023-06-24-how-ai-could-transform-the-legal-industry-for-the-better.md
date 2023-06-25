@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence opportunities in more than just big tech"
+    excerpt: "But disruption moves fast and investors need to balance their thinking between big potential profits and threats."
+    publishedDateTime: 2023-06-25T19:00:00Z
+    webUrl: "https://www.afr.com/wealth/personal-finance/artificial-intelligence-opportunities-in-more-than-just-big-tech-20230622-p5dis7"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "i1YwOF32gwL1l1uu8wB9FXfqLL0P5T7dXryYbaGRWe9A6Ekr80qma/UlDPe5NOPUCfxOwOO1FlaDa98dlkD/1qZoUNN2lIRDJmnwjCIWGGnrMRJqeOh4b30I8S/X1k4s53vKkZpEEeEtHask/5uMNuAMR1abJeLGEzFT6ssgPsqvS94+X+VNQKJqN8qaAPX5prVI/dWkadgENhM6Ddw5t4qZxhZiD6N+dr1ZzXUvd9PljWYmEKQc13/j3qf7HA2iB9bZN254+HWUe5TFsH45noqFwLGc3+UenaK9kRGbPRrPE77iaj0CtbpkI2IdRgCahqRuTBb4JyhnX7szbZ2aS/LEIFg2zKap6CFvhxXkeUb0Ju4bzO5U0dR8rIcw+M7Mx+Bd5DGXFigyTbX/WLM8e48zQRdcR9Lei1U83ho/XhsTJSNsW3+erXUlqHeU7KfIV0zMreqylWlvPrTMjiUb2X8nvZDWgFaqHjHy7LVyZDGVyUnWDnu1slWEu3NqVeFQQoI/IoDSNp4nQa1GZTNL/w==;0n0INsWOn/F083QpbklS0A=="
 ---

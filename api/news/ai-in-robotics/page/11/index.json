@@ -2,6 +2,199 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-31-the-case-for-how-and-why-ai-might-kill-us-all.md",
+      "title": "The case for how and why AI might kill us all",
+      "excerpt": "Some believe AI is flat-out going to wipe out all of biological life at ... inspired by the way the human brain connects concepts. It worked with Microsoft Azure to build the hardware to run it, then fed it billions and billions of bits of human text ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
+      "originalUrl": "https://newatlas.com/technology/ai-danger-kill-everyone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f8f2c4a/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fe3%2F024b16504003a3cc42d21bec425f%2Floz-a-small-child-holds-a-cookie-out-towards-a-much-larger-scar-c3bb1789-1343-47b7-9871-7521a59cb98a.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-wave-plus-one-bonus-alternative.md",
+      "title": "5 Artificial Intelligence ETFs For Investors To Ride The AI Wave - Plus One Bonus Alternative",
+      "excerpt": "It invests in a diverse range of stocks in the robotics, automation and AI sectors. As well as investing in the tech more broadly, ROBO also has a focus on healthcare, where automation and artificial intelligence can help save lives, as well as drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
+      "publishedDateTime": "2023-03-30T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030.md",
+      "title": "Artificial Intelligence Delivery Robot Market Report | Global Forecast From 2023 To 2030",
+      "excerpt": "The Global Artificial Intelligence Delivery Robot market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2027. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-report-global-forecast-from-2023-to-2030-2023-03-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-29T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-best-spring-cleaning-robot-vacuum-deals.md",
+      "title": "Best spring cleaning robot vacuum deals",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/855a7ea3-159f-48ec-955d-d1ff89de0e09/thumbnail/1200x630/a08a2e52a3fe6d6034ef8ff1297f1c79/robot-vacuum-hero-oct-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-28/",
+      "publishedDateTime": "2023-03-28T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-best-artificial-intelligence-ai-stocks-and-shares-for-2023.md",
       "title": "Best Artificial Intelligence (AI) Stocks and Shares for 2023",
       "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. And the potential opportunity created by this high-growth ...",

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-excerpt: "A new Artificial Intelligence (AI) feature, leveraging generative AI technology from IBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon"
-publishedDateTime: 2023-06-21T05:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1330389&cat=PR News Wire"
+excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to ..."
+publishedDateTime: 2023-06-21T06:30:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - IBM AI
@@ -38,6 +38,22 @@ related:
       - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg"
         width: 1197
         height: 602
+        isCached: true
+  - title: "AI powered by IBM Watsonx to drive 2023 Wimbledon"
+    excerpt: "Leveraging IBM’s Watson AI technology on IBM Cloud, these features analyze over 100,000 data points from every shot played throughout the tennis tournament."
+    publishedDateTime: 2023-06-21T10:24:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 74
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2015/08/Tennis-and-SAP-deals.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
     excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
@@ -122,6 +138,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "DV0axOWsmJBThbs34HSqiMTJ9TnnqBTnNEC90UiZ+F++anupHNP1xY9YrBbSCEsemHDYFsk/gaoAFpC7KVcoa9F+K5vK0wUGLujf9rg1epBSwwHwj8nxhYTj5oIckgrH0pZGbkif2csqgttIX7FL2EkTlIGghSBs69iAhpmifw9swoGtAWWLFJVnWI114ra26CqyhM+mBszP7RtsNAQkcfSe0ZoRvoKnObIylemzjTJh6RWD/WD+mc2zq3UHx57yD2JMZQSxJ2em9+u9Z9bNcAEWk3+xxZK3zZGkg+A0e2gg4AtQyIsrGVk24qybBlh9MsUGqnsS9E8vY4cLjbWgUc5HZeCiqi7bFghshloKu12icBVcoFHFTBalA9DUv0xfiDhpoWFOEKa0Ca5an1DHZK2/couHhpC5aScp5PZfwE6SXOMRP+CFuPqtVVvKd2YVmQGLQlv71hinRQEvq3D9EHYRr3hfSvWY5zktpxw9wOEtLHfoNaYhW3evoO/yOEsJoyMyAVtFOH7gGm+KZer3SA==;77JPJkNno9lge19I6Z3mDA=="
+secured: "Ro7OsXMThpr9PGt7UW3PI2mlz32ud9w5+/jHO/xYlQzrhPbB62pKKOewHooYjBfTmMnBdKc/rFR3OOTgM72IxAPmhlbBhKq3DBO+pgGXKKir8ZDBfJOZgs2YrqyNaJM/hoaXK2ZCtSi5YJpcy1FdJO5eLaC926p8KKMdpOqKe0947Cis+2D8ko9GkHqw18b21EZn5DnYFNtRcqcvTaR2BqA17W43rPdDYEOlQmUowDrzsKgSnBZxv4D3aa5q/p084K3KzQ5q7bEFzULdhSxufAm2bdSplYNSBkL0o7071oPtWUfufBL/CrZ0lmvbnSTlRhB6AWi9n125lh56lSXrF9tJe3M2c8136eIO03v/0W4=;zaCGV1JWc51Fqj+Fhkvgug=="
 ---
 

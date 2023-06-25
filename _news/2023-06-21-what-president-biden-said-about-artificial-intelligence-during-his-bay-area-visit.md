@@ -18,97 +18,54 @@ topics:
   - AI
 
 related:
-  - title: "Biden visits Marin after AI forum in San Francisco"
-    excerpt: "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ..."
-    publishedDateTime: 2023-06-21T01:18:00Z
-    webUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/"
-    ampWebUrl: "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/"
+  - title: "Biden's AI summit was a hit because of facts — not fear"
+    excerpt: "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere."
+    publishedDateTime: 2023-06-21T21:53:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462"
     type: article
     provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 59
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
     images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco"
-    excerpt: "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies"
-    publishedDateTime: 2023-06-23T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
+  - title: "Factbox-Flurry of US-India deals on AI, defense as Biden, Modi meet"
+    excerpt: "(Reuters) -Indian Prime Minister Narendra Modi and U.S. President Joe Biden met in Washington on Thursday and several agreements were to be announced to strengthen economic and diplomatic ties between the two countries and highlight new private sector investments."
+    publishedDateTime: 2023-06-22T21:41:00Z
+    webUrl: "https://www.aol.com/news/factbox-flurry-us-india-deals-152214541.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3"
-        width: 620
-        height: 372
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b27c40a09a9c20c83cc2c5e4f2dc0aeb"
+        width: 800
+        height: 525
         isCached: true
-  - title: "Biden discusses risks and promises of artificial intelligence with tech leaders in San Francisco"
-    excerpt: "President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the \"risks and enormous promises\" of artificial intelligence."
-    publishedDateTime: 2023-06-21T01:15:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/biden-forum-risks-promises-artificial-intelligence-technology-leaders-san-francisco/"
+  - title: "AI Stocks Are on a Tear — and Experts Say It’s Not a Bubble"
+    excerpt: "“AI is a game changer,” says Liz Young ... and enjoy greater peace of mind knowing that your funds are well-protected. Click below to start investing."
+    publishedDateTime: 2023-06-22T01:36:00Z
+    webUrl: "https://www.newsobserver.com/money/are-ai-stocks-in-a-bubble/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/20/9ea9d452-9a41-4cde-b002-0a4c406c298c/thumbnail/1200x630/1e5f1f4561cfa50d99fdf4aae36519e1/ap23171737929438.jpg?v=74b410729cdff54299e4158e8919d920"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
-    excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
-    publishedDateTime: 2023-06-23T15:37:00Z
-    webUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis"
-    ampWebUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 17
+  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
+    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
+    publishedDateTime: 2023-06-23T00:45:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/94da5ef/2147483647/strip/true/crop/1172x611+0+51/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2Fb4%2F95696e8771c007df4d93db50a98b%2Fsan-francisco-shutterstock.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
-    excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
-    publishedDateTime: 2023-06-22T13:18:00Z
-    webUrl: "https://www.firehouse.com/apparatus/news/53064109/san-francisco-chief-irked-with-robotaxis-tangling-with-firefighters"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 4
-  - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
-    excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
-    publishedDateTime: 2023-06-22T12:04:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
-  - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
-    excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
-    publishedDateTime: 2023-06-23T18:07:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/06/23/san-francisco-fire-chief-fed-up-with-robotaxis-that-impede-firetrucks/70351347007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 0
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
 
 secured: "z2APBTtM/WOdoNWXVzCeIk5IIBt2XIzm+G/Ul8xKuoTD11OQGm2sDqQa7kBbezZrJhiqCtRMLm4XNJZPkQ+fU8OiAz/ZMgB2I4LKosLCpqZAVKHUNFpc6xzeXo57bJt46ltZb75NbreVUpOf+kGdtcrNhFMMDNGjxi4EdXus6k0yGP0KxCTLx5FlFVN2ke9Oy1eP8aCMMTsQA+/56TzzxF3B1JNhsJ4BlQXBu/ymExbdxu2/sATsjvCsacpgpHFejThLuIPrbupwbR/YnqXDXAkJ2K2uh87nVbaz2j5/FVtm3FNPJo+pAG73F+E363vLUI9CfZQ1Fv/EcqqIlbKW+noX2GL1UUTcX5GLls/UDOo5OtjRTBRwl4w5fNksaSwm7sj8cHr1Ju7nIkt5v9PGr2Aj3NiQzu551iDFuQns+rc8cNuVCMYt4cCks97t8LS54fjcQBAo70P9reWyg0LFAZCLMEkQC9x+7CD2HqidPYoVmkCTYYQUA4uQE33fwXhpz1ecCkVDoGJo++BxIhjtUA==;FLjdFssUKsN7vl3oqimaNg=="
 ---

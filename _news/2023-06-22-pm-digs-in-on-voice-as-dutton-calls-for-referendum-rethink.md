@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Support for Voice slips to lowest level, poll suggests referendum on track for defeat"
+    excerpt: "Support for enshrining an Indigenous Voice to parliament in the constitution has drastically slipped, with a new pol revealing a majority of states on track to vote “no”."
+    publishedDateTime: 2023-06-25T20:52:00Z
+    webUrl: "https://www.news.com.au/national/politics/support-for-voice-slips-to-lowest-level-poll-suggests-referendum-on-track-for-defeat/news-story/ee5d511e66d6e5075eb32fbd5581db0d"
+    ampWebUrl: "https://www.news.com.au/national/politics/support-for-voice-slips-to-lowest-level-poll-suggests-referendum-on-track-for-defeat/news-story/ee5d511e66d6e5075eb32fbd5581db0d?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/support-for-voice-slips-to-lowest-level-poll-suggests-referendum-on-track-for-defeat/news-story/ee5d511e66d6e5075eb32fbd5581db0d?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 17
   - title: "Peter Dutton doubles down, says Voice risks reconciliation"
     excerpt: "Peter Dutton is refusing to back down from claims the Voice to parliament referendum is a risky manoeuvre that threatens reconciliation despite the Prime Minister accusing him of speaking “without a heart”."
     publishedDateTime: 2023-06-23T08:09:00Z

@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-22-parental-disclosure-requirements-for-sex-ed-gender-identity-clear-ohio-house.md",
+      "title": "Parental disclosure requirements for sex ed, gender identity clear Ohio House",
+      "excerpt": "A bill requiring Ohio's public schools to notify parents of changes in their children's gender identity, as well as almost all sexuality-related lessons, has cleared the state House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house",
+      "originalUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/028e6736-2017-420d-8e34-e708bca1b15b/91f851f0-d833-4905-8a0b-e60a891072ed/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/parental-disclosure-requirements-sex-ed-gender-identity-clear-ohio-house.amp",
+      "publishedDateTime": "2023-06-21T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-bidens-ai-summit-was-a-hit-because-of-facts-not-fear.md",
+      "title": "Biden's AI summit was a hit because of facts — not fear",
+      "excerpt": "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/bidens-artificial-intelligence-meeting-rcna90462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230621-biden-ai-san-francisco-mn-1600-a2d6a1.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna90462",
+      "publishedDateTime": "2023-06-21T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-danti-uses-natural-language-processing-to-make-searching-earth-data-simple.md",
       "title": "Danti uses natural language processing to make searching Earth data simple",
       "excerpt": "Danti, a startup emerging from stealth today with $2.75 million in funding, provides a powerful natural language search engine for location-based data.",
@@ -1090,7 +1184,7 @@
       "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1131,109 +1225,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-focus-the-key-to-early-growth-in-a-startup.md",
-      "title": "Focus: The Key To Early Growth In A Startup",
-      "excerpt": "Certainly, focusing on one specific area can be transformative for any business. Here are some key steps founders or business leaders can follow to align their strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410de4905a61afb1fe740b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/amp/",
-      "publishedDateTime": "2023-06-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-a-new-accelerator-for-ai-first-startups-in-europe-and-israel.md",
-      "title": "A new accelerator for AI-first startups in Europe and Israel",
-      "excerpt": "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "publishedDateTime": "2023-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

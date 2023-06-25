@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
+        isCached: true
   - title: "Exploring The Impact Of AI On IoT And The Future Of IoT"
     excerpt: "IoT can be seen as a huge network of connected things and people, all of which collect and share data relating to their usage."
     publishedDateTime: 2023-06-21T10:45:00Z
@@ -57,22 +73,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Role Of AI In Creating A Sustainable Future"
-    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
-    publishedDateTime: 2023-06-25T15:58:00Z
-    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
-    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1491
-        height: 900
         isCached: true
   - title: "How to future-proof your newsroom with AI"
     excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
+    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
+    publishedDateTime: 2023-06-25T20:29:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Chuck Schumer Urges Swift Action on AI Regulations"
     excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
     publishedDateTime: 2023-06-21T16:10:00Z

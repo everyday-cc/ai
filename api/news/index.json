@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-brainchip-selects-ipro-silicon-ip-to-serve-israels-high-growth-ai-market.md",
+      "title": "BrainChip Selects IPro Silicon IP to Serve Israel's High Growth AI Market",
+      "excerpt": "BrainChip Holdings Ltd (BRNBRCHFBCHPY, the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, has selected IPro Silicon IP Ltd. to expand its sales presence in Israel. IPro has served Israel's chip design ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b32999723/brainchip-selects-ipro-silicon-ip-to-serve-israels-high-growth-ai-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b32999723/brainchip-selects-ipro-silicon-ip-to-serve-israels-high-growth-ai-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32999723",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32999723",
+      "publishedDateTime": "2023-06-25T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever.md",
       "title": "3 Millionaire-Maker Robotics Stocks to Buy And Hold Forever",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For those that want a path to riches, jumping aboard innovative enterprises",
@@ -553,7 +596,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -864,7 +907,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/ai-crypto-integration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -915,7 +958,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 286,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1143,48 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-artificial-intelligence-in-psychiatry.md",
-      "title": "Artificial Intelligence in Psychiatry",
-      "excerpt": "Generative AI could help clinicians complete more clerical tasks and allow them to see more patients. A 2016 study found physicians spent only 27% of their working time engaged in direct contact with patients. Generative AI could mitigate disruptions in healthcare caused by predicted shortages in healthcare providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-06/ai%20.png.jpg?itok=mlgDC4Ys",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
-      "publishedDateTime": "2023-06-23T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

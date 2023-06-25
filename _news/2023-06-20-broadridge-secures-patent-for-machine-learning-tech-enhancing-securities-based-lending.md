@@ -6,9 +6,6 @@ publishedDateTime: 2023-06-20T11:25:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending-1032398505"
 webUrl: "https://markets.businessinsider.com/news/stocks/broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending-1032398505"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: Business Insider
@@ -23,17 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Broadridge secures US patent for securities-based lending insights powered by machine learning"
-    excerpt: "\"This patent supports Broadridge's commitment to providing wealth management firms and their advisors with innovative and personalized products in wealth lending to meet increasing demand.\""
-    publishedDateTime: 2023-06-21T07:53:00Z
-    webUrl: "https://financefeeds.com/broadridge-secures-us-patent-for-securities-based-lending-insights-powered-by-machine-learning/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 9
-
-secured: "dMO9LlBtiAaSBo70/mj15jW2nzYaJ+mbz17fr4G9DZBTjgRGk40QpWF7fSVLGrTtjGmo3eLHNmZRLMgb0qw2qZ6CTHjgN5Q4xpba0vMqxIA1e2ZJEsOmhzshjBRI+QPv6rKgIUyPsxiY1djwu1MqJ9S2utAYefdSNjwqIj40/RfAPa/GHN/9KLhUehzeouoMEIjgUt7LPXomMbMQrvkJgV/dRhmHKPqU5gsuqZvQl9IJZ9XNHwfWShT6KKEi3iOz5rQzXuTgJI1rz/SZrB/u7Htze2N5PpDOi76RXRrXnWEEzDkKM1w+/nqgU1YDZlXBJKprPFeL8lcbsWB40Wp+R7QiJzGtoKxn7xISKOEzCAY=;qrA0QVgpEXDuQEIZq22ltw=="
+secured: "Py0VhsTRDXmpSBO3EjAfsiHI5x01L36X5V9HOvbcRz89sD66MUFv4DmwpcbNVEtvHbb9n3UMlFTK6b8u+xm+tiNKNE7u5HruKJ0KD5GwG5wNbpvgPB3KBxg9OAwBv1Hhof1QNcd+IJI3qfvCEgVGjEcqkrVKkQsMaGMaQdu4yVt2G7UlaxqC6Ra9jY49aXATPn6EqXxhFvmWa4bmIaOWqrkNfIPLU2vvYzsFmt9/HkYmvlid0fkGuywZfTNs1LGBEDG3dztfyMfESwUKNJe314ay1t7kx0RbdJ3y08eKtEWatpR85R3pJc6Y9rXoGVw3o6gp8BA9yPHJXwHChotav5XAnd1PtTX4LUQUEeRQyDk=;KPlXVi5m8SBSQ8HEbSxcwQ=="
 ---
 

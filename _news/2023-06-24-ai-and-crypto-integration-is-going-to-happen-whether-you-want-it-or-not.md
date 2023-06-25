@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
 webUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.coindesk.com/resizer/GvZgGFK572wMYwv_m0Bwcj_UJYQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EDM67YOGW5FPJMCFFAMZ7BKMPQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Embracing the AI Wave: Crypto Explores New Avenues for Blockchain Integration"
+    excerpt: "Is the integration of AI and crypto may be the next best thing? Read on to know more about recent developments in the space."
+    publishedDateTime: 2023-06-25T20:47:00Z
+    webUrl: "https://insidebitcoins.com/news/embracing-the-ai-wave-crypto-explores-new-avenues-for-blockchain-integration"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 34
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/Crypto-and-AI.png"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "7owUiEz9ohAWm+iN/sblEaQTQpeFLiVS94RXg6K6VDw6e/sNnxDk7iq5MKU3eApBKh7UBNAc4RSaa9hW8Ee79cQ3mLKQnmgmCWy9f6PxZ8HK+/Vngqvam7LBCWAXfct8TKFjFCZAk69br14AmqmmQKIfbeulSnokALtQySTsyiMreRpT/R5ByI3p6VzNA5vuumKUr+oQjXJWh1G+uibI/6rgSfKn9FIMtdpXONZdwWsdeb/g5rBaAf0O54YXLk6t50p+wd9+QgTtMx4RM422LykjaiAYH4IUWIr0eOPN5y2nVkz6/0HjhBrRGnAKTHmRG6cGQx33ixAfcgF4aWWlcuwsy7WVYnmGaYtvQ9S8tr6unQaS3WkDxJixvVg3LqYEiyn4Epkp3MWV0zEK00p+cKsfxV8yQ2fptIs0np1JolUQkFlopRrEsGfNp4c/NLKfXaL0gfDsisIi/H19j85Xc3xk7RhQem9YmFFu3MYPHGqka+BdQkPtY+nennpzavq9xv704FZFF93DxngMXDn/7w==;wj+mXd0ceUdxrgThvObiRw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "MongoDB Embraces AI & Reduces Developer Friction With New Features"
+    excerpt: "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ..."
+    publishedDateTime: 2023-06-25T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "MongoDB integrates with Google Cloud’s Vertex AI models amid flurry of new features"
     excerpt: "MongoDB today hosted its developer conference and announced new features for Atlas as well as a Google Cloud partnership and new programs."
     publishedDateTime: 2023-06-23T01:26:00Z

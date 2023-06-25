@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Embracing the AI Wave: Crypto Explores New Avenues for Blockchain Integration"
+    excerpt: "Is the integration of AI and crypto may be the next best thing? Read on to know more about recent developments in the space."
+    publishedDateTime: 2023-06-25T20:47:00Z
+    webUrl: "https://insidebitcoins.com/news/embracing-the-ai-wave-crypto-explores-new-avenues-for-blockchain-integration"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 34
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/Crypto-and-AI.png"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "hQK4w+REy6UelZu17AVRLHMSFdAQjbRCdmTGJXthJt4rd9K3DMThe85WJ0yKsNHXwRy4xdwQgpZ3HWva63XMIkLuyqo6f78QYw3eDdq2Sq0Bz7kJS4RKsBeO8bL2vIvyG64ZmaThGH7FhHr0pN3BC2zQM+0vGX/cyj3gNMqWXiuvvHaG0TkJA284ZKxCiDyv4rMFM+lXFvQsC/tkytYZg5bEGHv9yI0e7rqkNeun881fwF6S9e8WD9+3Wy8ZHMAkrXJ8koaQOpaFv7FjO05kb/fniZLclr1rglGHuarboSmOpNFCFphVEIhJHhromRZ65KdbtPLc5uSB1B4B8CfIlrz2EVHUqY7NtoWyRmw/LQmXiLecevyvqAo8OOSQxrSp3QgMrQwUZll7sT6tjczhe91CxPfnEMP2HNN12PhOwHJ4GgcUhbggh8pen2Ren4i4VXIsK5dS4YQcgoJEB5ScDU6kuUu/xUpTTkimFFnsU254TKOwo1n8lSfPlPQzEvi+te2RlnaBodYtrY0R7Hzcwg==;rkXeVnbMPzN9hvc64ktISA=="
 ---

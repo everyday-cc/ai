@@ -40,20 +40,6 @@ related:
         width: 980
         height: 490
         isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North"
-    publishedDateTime: 2023-06-22T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
     excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
     publishedDateTime: 2023-06-22T15:34:00Z
@@ -142,6 +128,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
+    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra"
+    publishedDateTime: 2023-06-21T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230621956382/en/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 36
 
 secured: "jCp8ikFko2U+lolz8kx0CLVNGZuZAQ5t6arl7v/Y5+sPQTfSy+JWPFOk6ETWLgSFLHW/saFZ570rpA7IVyo2boJCpj1EEU7etQlRGXMgAgQ1c+rogVNTkA+iT914y0/BBl302BmhfBhi/yBZlJDRP439A3IroWC2bU/9+fXrn97PYO0YosmbnsabzNVUs8nlc0FESDfdH+9WWvmYpIS08+PBzcsGCO8deoNCjO3uMvrEWG2uQZ+a9OfLPLldRBIfel+UmA03PtYV03iinVfV2MEvjdY1RuxrBhL0uGM2Z77HL2BdjYAttS01KIhfv9fBIXvJD5OB+yhehkc9Xtb3kBBLhOKQfwSEIg83I5Mkrxbqsr37h0dbk0SOKFHm0BBk3aNLDaV9Iw3zhGOf5jr7KMFDaY99aFmXthUdyk0ZlMYP43kUQHkonpOb3nApqwpfmLZSPc8OaK54DTjO7eMjn2BdD+uhnAPyaBJH73lWc5ZWRpnqMnK+JJ8HWq4CXo17Q+deeu6hgoq0POwXJxsmFA==;R37qY0ULSHyWN97QarPnBQ=="
 ---

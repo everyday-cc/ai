@@ -120,19 +120,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "(NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions. AWS is investing $100 million in the program,"
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.macaubusiness.com/aws-announces-generative-ai-innovation-center/"
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
         width: 800
-        height: 480
+        height: 418
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
@@ -225,15 +225,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "Lilt Launches Generative AI Multilingual Writing App"
-    excerpt: "Lilt, the leading solution for enterprise translation, today announced the launch of Lilt Create, a multilingual writing tool. Lilt Create enables regional teams to quickly and directly create brand-aligned,"
-    publishedDateTime: 2023-06-21T04:17:00Z
-    webUrl: "https://slator.com/lilt-launches-generative-ai-multilingual-writing-app/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "2KG0y2VYMS+vX0mW+EDTFaU3R2c7KYEzJfWk2lsnW8EVXpf6RUlTCd+lToLfBxYFTY3/3cVy5MgB8ODUCvtdQFgmgUEjCC+oe4zFmwNUIQojmgXH5q5KHdQ48mlxM89Jp62iDUcYfktbzYP5EOZTgcq60ypJDKpK6m4QtvV1oIgpSOBLkIQKjscTTIQkEJGaCW/z+flz67qb5EpPHEejt+1uAd0hSmCZH8uwK5oynB8zruOhmjAG6mM9W92lwA3Annpmo4sFm1OjNLRoWtmdmtKfZgqFStXDvbUNl0lS8GLncQtPmrUBzUiwWk9e3LG5Xms30pY77XCVbf3OW0X8xq0S9N1BbvLpRqAHHfh7sBc1q6YB780gO1S+SK650smsaC1LlFEHKQm74XzuNxLObRODeC78qxbUqVveqNxNZfjMRp4x+jjh9kLv+Su9lyVX+ULVLlynqy3FVgMt5yzUihHbTY7YoXHRurR0DYghwn1Uacvb7aQv+RbtKiybsdN7gBGsc3D6v/wY1Ol9SBVdZw==;dArX4n7lpoY6CXg0gTGunQ=="
 ---
