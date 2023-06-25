@@ -24,17 +24,6 @@ images:
     height: 481
     isCached: true
 
-related:
-  - title: "Drivers prefer ADAS over self-driving vehicles, report shows"
-    excerpt: "A newly-released report has found that while those shopping for a new car want the vehicle to include advanced driver assistance systems (ADAS), they are less enthusiastic about semi-autonomous"
-    publishedDateTime: 2023-06-20T12:30:00Z
-    webUrl: "https://www.repairerdrivennews.com/2023/06/20/drivers-prefer-adas-over-self-driving-vehicles-report-shows/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 4
-
 secured: "o6uMdCi2qBCO9PbrkUl2CQ6nJ+XYaC8i/MBJlIdtsDxTAwmsmlkJoY310Tne30PcWcTVTZOLSHOa9KnBPdA81Vrmien//UhVB8KAAs8vGzG5AzTv7ewS/7Iz1iiYWxzi5KciqqhmlNhyV1huKDmsF6uAZVbgz2y5liDdKERkK6zMmU0kS7sgEqPauTrTc1guNoiXXSHrw24qTCMH3XDGGfLLiwKZ34OhTFwv9w4gs0y+17ETK+1GG3Mbr59wG+NSOawZJBv6R7d/3V4jGe1f0eAXJL4wfhFQAPK4sFYRSM2ZzUx/33zjXLB6bdbQKT0sAvbRV4Dc8ZUh6lC8v1tVoQcjv5LnZXBwetqbFM4qyhwo2EUW1PF2NRHCxubpVR94fLupqED4HG3Qp5XFWU3XYlFbmkWEsSK3/AQ+Ja01Zl32moyDrOM35fImrF/HaEvYCUafZwwKeoYaO4LbrtJ+x8eGJ8W1FBucRDb7K9ecfwjWHURJ7UxXTmLa3x1JfJMrZXJsfAHzA/KbmjS5XoLYyg==;hp/TkajnsEf+MFnjayACBg=="
 ---
 

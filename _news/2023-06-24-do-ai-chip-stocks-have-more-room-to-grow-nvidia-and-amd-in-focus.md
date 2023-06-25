@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
-    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
-    publishedDateTime: 2023-06-20T12:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
 
 secured: "TWuXg7p46/wMRXP1UeEoN22B7ylicMlR/+RTikXcrEBmpcgSrFiWhe1lBR3R1vYgAwrhxC84kpW8I5xn+TPwbq2/8C8Vjflose+M/TsvK/b9J6YNkmzhWa85YlzsOtQL24cZpq7wzweQ31WLPuz2KAnZtNtn1jtGVHjn+ttmh9WFARdSjLRJOOYg6NYPTczoUQ5SDuKcXqOiOIV7I3ZJ+OQa2crYjUzNh3uejHWUYGc/lUZkMITr3CpEx9FkFhcLn5FGVctJQ+3LsCg7kTfjVTIDX8c3rVkwl61GPMELeyT18ciRoqxoR8B8ianAIWaYMUHjh2hGcMR5+W4Lg4WlJn2z4bwQUm2zDOXKIGvhklIkjq5xiwNSFde68O8r6AdJw7MTIXGwURE7XocO+q53grB5NGRvLMrWUi1BdFQoucyQpfW3xP2wQLYiwKgo8g1/Zq78xSGc//Yf2GEafr2pMHKwqt52ksRApH+vqm33GOmEoL+CdC2w/vVPxWRo7p1qCYd/43PSpR2FSsWEHF9g9A==;7hmqF33HljkOWjiYkhLYaw=="
 ---

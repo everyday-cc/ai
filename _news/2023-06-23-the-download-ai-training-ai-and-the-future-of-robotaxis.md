@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Download: explaining the recent AI panic, and digital inequality in the US"
-    excerpt: "Who’s afraid of the big bad bots? A lot of people, it seems. Hundreds of scientists, business leaders, and policymakers have recently made public pronouncements or signed open letters warning of the catastrophic dangers of artificial intelligence, from deep learning pioneer Geoffrey Hinton to California congressman Ted Lieu."
-    publishedDateTime: 2023-06-20T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/20/1075191/the-download-explaining-the-recent-ai-panic-and-digital-inequality-in-the-us/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 13
   - title: "CA Fire Chiefs Sick of Robotaxis Parking on Hoses, Blocking Firehouses, Invading Fire Scenes"
     excerpt: "The robotaxi industry is being allowed to move too fast and break things, these officials say, putting more robotaxis on public streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
     publishedDateTime: 2023-06-23T07:08:00Z

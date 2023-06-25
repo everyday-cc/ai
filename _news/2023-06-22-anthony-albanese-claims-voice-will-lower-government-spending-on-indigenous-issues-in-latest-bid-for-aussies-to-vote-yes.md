@@ -52,6 +52,15 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 4
+  - title: "Anthony Albanese rejects Peter Dutton’s call to put Voice referendum on ice"
+    excerpt: "Anthony Albanese has rejected calls from Peter Dutton to put the Indigenous Voice referendum on ice as some opinion polling shows support for the proposal is lagging."
+    publishedDateTime: 2023-06-25T05:40:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-rejects-peter-duttons-call-to-put-voice-referendum-on-ice/news-story/0483ce2e8926fb2eacd55120afb23bff"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 2
 
 secured: "O8vMpiti+/kco/J/sTT+ZJLEh+wr+yPC+9xsm/k0+zcLwaL8rs7zRYb6vabyv90ES6UOux+wpXyQBM3tWqCcTng6d+5/emsmzm++puYaIeB1MGK6AsMV1NPQBP1Byq6iuCBYyv3ap1yP+5v0oNCQZUoyqa7OzxrOTK0ZgUBLYyKUSOx3oDUQf5W3J/x0nzVLgJ1HFinMnGkeGuf7Mc5NNcW3QafYU5cZk888T/dh4xpp68Yl0t9I6Waxjuw8Ku9lMHSL32dB56SH2fkS9Y5yjZlTTIoCnawOE6REaxHkk8C/2kIX9frvSYd0IlR+ih58W7SHva5YCejmDft/JUF854DzMFIuNONe2/vnDtVVaSY=;2Vxzmos39dMZNQsjQi8Zkg=="
 ---

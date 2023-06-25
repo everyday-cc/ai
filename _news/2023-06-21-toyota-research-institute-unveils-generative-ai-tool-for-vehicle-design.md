@@ -48,15 +48,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "Toyota unleashes generative AI to meld vehicle design with engineering principles"
-    excerpt: "Toyota Research Institute executives said Tuesday they've developed a generative AI technique that ensures early design sketches incorporate engineering parameters."
-    publishedDateTime: 2023-06-20T13:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/toyota-researches-generative-ai-use-car-design"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 12
 
 secured: "Mqzn/YqYCvNlIwR/aKo7PE9ofe8TxS6ExbyHgJU/AUq1+NnkX9Mid/NYFLHRWSVl+D4TufFcMfw1X+8bDfZz4GfPygbY0NVrHZwbpGdJOFRUDLz0oNZsWYGdz7Ebnzge9gDiYV66Hd5SMviDwN0urNcZzqhWbVVmR3AckoBZQTGco5MF5B/dkK3qh4CBJ/4P+5oUCtzblc7OG5tiR1xpnKeBEwtu88LGeV0KfMzi+xVQSMpOogmZ65HV4OuYwW3cyEfQaqtvA3WBRiRBikoIXjybR7ZZYrgoH3relcH7EdobnqyeAHoJAftHFdfMkfK4LESZgcL3mqvZ4wgmZqTHWdmAcGHpM8Ebk06/ld2VUlLxnG05V7a5QdC2727sO6qD1L+higijPuNqACaRyvgycZ2r9CqMhJuguJdG+OagGK1O/kvXaIv38KfiES+8LUafvckRXn2pVazrZfqmgULMrPj+28wdl9HUSmWouzeNdQyc9DE3L+GJH4BlGWbdtUM88rOkANJp9kw39NdwkOaYcw==;ud9YBziDLd5uuKCWP2rjfw=="
 ---

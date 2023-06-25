@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Xaba and Lockheed Martin Collaborate to Test Cognitive Autonomous Robots in Airframe Manufacturing"
-    excerpt: "Xaba and Lockheed Martin identified a use case focused on a typical robotics work cell used in any aerospace factory to test how Xaba's xCognition \"synthetic brain\" could empower a commercial robot with greater intelligence and understanding of its body and the task it is about to execute while ensuring required quality and tolerances are achieved."
-    publishedDateTime: 2023-06-20T11:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xaba-lockheed-mart-collaborate-test-cognitive-autonomous-robots-/2023/06/20/9835181.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
 
 secured: "924Y/uTtGS8ou2w4UXjVwOGvehvPYd7bsk9bCXuENdjaD4fk/jhNPeonl1sQ6FE77jPwS5QInitbiGQm8giE7CsaVwi20BTRVExdvNrPdhQdwGILqeqkhAMs2QCpj+cIlwCQQJB218Muh37Z663GYqZZEHRPbH360k9f8EIv5jU7rJKQ3NBLDf7Q9nF32SoLP/qH6zcVHJclv0H1DhBmA7VT46lelSLaM5fSKSI/6O+TOdnjcskwbeG16rhrwStRuhWlkIFE9qubaIjYfkelNs6wMBLbkAAh3ETG5qHDjOdN7hF9jTGKe8SDPqueygpeqavNVudCORvPZZPCOrwr/Knrq6AqJCM7IiHm2CgL213SgqA6/HtROuOKnjHerIQkYSfKdLAnrkrt9U/dFpvGOo9lDQhqdGAQ5D3HV0V2618KU3oloHK2opZQ3iSuC8OqVKAjSFUA1A/yWwfrxNteqEeSwwVz8aFhpuJwurZfdQQtYrTQ4E0FsIoaB+15zYC6CP48Ig5vX4JrLjzeQ+t9bg==;LNpHs2237oSU2U0NC1TxAQ=="
 ---

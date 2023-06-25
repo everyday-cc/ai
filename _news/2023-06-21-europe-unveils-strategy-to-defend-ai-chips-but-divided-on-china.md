@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Europe won’t dictate the terms on Global AI"
-    excerpt: "Two days ago, the European Parliament came to an internal consensus on a draft version of the European Union (EU) Artificial Intelligence (AI) Act. Following this development, horse-trading will intensify among the European institutions to settle"
-    publishedDateTime: 2023-06-20T11:19:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Europe-won-t-dictate-the-terms-on-Global-AI-1789295"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The Ecosystem: Artificial Intelligence Act restrictions mean make or break for Europe’s emotion AI start-ups"
     excerpt: "The European Parliament has introduced a series of restrictions into the draft EU Artificial Intelligence (AI) Act that would prevent AI-driven facial recognition technology being used in public spaces for surveillance or law enforcement purposes."
     publishedDateTime: 2023-06-20T16:50:00Z

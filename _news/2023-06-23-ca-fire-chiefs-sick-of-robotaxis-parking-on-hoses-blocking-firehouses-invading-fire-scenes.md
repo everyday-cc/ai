@@ -28,15 +28,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
-  - title: "The Download: explaining the recent AI panic, and digital inequality in the US"
-    excerpt: "Who’s afraid of the big bad bots? A lot of people, it seems. Hundreds of scientists, business leaders, and policymakers have recently made public pronouncements or signed open letters warning of the catastrophic dangers of artificial intelligence, from deep learning pioneer Geoffrey Hinton to California congressman Ted Lieu."
-    publishedDateTime: 2023-06-20T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/20/1075191/the-download-explaining-the-recent-ai-panic-and-digital-inequality-in-the-us/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 13
 
 secured: "+dop+X4iRzyY/BUAFs4RhUN8FNLBIQwikTXFa1MbG6YOGjzFXcDqNE5Mg7s7NmQgNwiLm9TIcZpgCMLSFbgCvE6nkkEwLenpVNWXoXiHvV7lIfqj6wTplrUhpFZ17CP1nMPv9DKZCotZr2daUFvqB+BQ4M8czFD+jvhvzygcj2AKsnZtez5IQ+CSZJIPrMnwBYQyj2F2vNFnzSeHp8x/znYqG4A+ubmRV+WwQS8h9WSgFheoZ18LDlcoN1l3HxdYzMq9Rw06tPE5TXDWUrUrym0mmWsAD81ig+LqyONn2ov+RMA7xsT3sKQtgOG47T3RQ7ANUdKsvsEeyORusXq/h3NVEBGhPJkwId9CzX9SEK0=;CMCyGForlOXAsb0Y/F/O0A=="
 ---

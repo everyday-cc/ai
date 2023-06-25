@@ -62,15 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
-    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
-    publishedDateTime: 2023-06-20T12:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
 
 secured: "mbwsppkykUx4erQ7ZoWSkGVzOBxNQlrp829ITz4qIxDuZl/VUCSRUN8Q8udoPpTY10f8HEompI4c/SHBHZk1sPoAakmQFRkf5O3NDuh8AKFC13/2MYVwoat5zgZ65UYwUBW9TRwNA7mAnlE/4yG2992Ajb2L5lHgrOnBLxeIKA2nU0+2Ogu0QqT78TTx9409LSXmA1etH6gBgzMgcOmeHhcEJtBL+4m7fzy/EAVTODI86JIzrIyDrvxKxW8d70zsPKhed4KmpPb0f4fPllKs2/mCqMCyPBPfn89rLogP07YECOQq1uW+PuWCEM6GkOFWd05X/Gnj/fgUmrBlTIpAuQiUbc2wT2nukrjTEQaw/qROuzGyIZ1lWAiIHadVAttYpmMpg/nojIehC+koeOKlvqsOj1xafnVjNGcvRXv3kAImMfBZLnEwKkwvVrg4IHANH9SmdvToNwiwthF3/4v75BW+9muC+QqwhoFkTfj3PFcDK2Jry8BnMGUhx1nFMhb2aZMk4dWifaobxXGnoZb59A==;Ew3DPdC1PjJZSchDZB1fKQ=="
 ---

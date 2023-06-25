@@ -147,15 +147,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How Edge AI Is Fueling Industry 4.0 Outcomes"
-    excerpt: "To close the gap between today's technology and Industry 4.0, manufacturers must consider new approaches to interoperability that allow for ML-enabled insights at scale."
-    publishedDateTime: 2023-06-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-edge-ai-is-fueling-industry-40-outcomes/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI meets the other AI"
     excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
     publishedDateTime: 2023-06-20T20:25:00Z
@@ -184,6 +175,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI could change the future of yogurt"
+    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
+    publishedDateTime: 2023-06-25T03:15:00Z
+    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "The rush for AI chips"
     excerpt: "The US, Europe and China are all in a tug of war to secure the future of artificial intelligence manufacturing"
     publishedDateTime: 2023-06-20T19:32:00Z
@@ -207,15 +212,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI’s legal risks are challenging marketers"
-    excerpt: "Corporations using AI are quickly realizing the many opportunities afforded by the technology, but are also learning of the associated legal concerns in such areas as consumer protection, privacy and ethics. For example, ChatGPT and other Large ..."
-    publishedDateTime: 2023-06-20T12:22:00Z
-    webUrl: "https://www.marketingdive.com/news/how-ai-artificial-intelligence-legal-risks-challenging-marketers/652707/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 19
   - title: "How the White House is moving into the action phase of its effort to regulate AI"
     excerpt: "In recent months, Washington and the White House have been in a sort of wary listening mode when it comes to ideas for how the US government should be involved in artificial intelligence. That appears set to change in the coming weeks."
     publishedDateTime: 2023-06-20T23:56:00Z

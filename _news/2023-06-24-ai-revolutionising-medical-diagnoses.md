@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revol
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
 type: article
 quality: 57
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Galileo launches LLM Studio to revolutionize AI adoption in enterprises"
-    excerpt: "Galileo, an AI startup, announced today the launch of Galileo LLM Studio, a platform to diagnose and fix issues with large language models."
-    publishedDateTime: 2023-06-20T13:00:00Z
-    webUrl: "https://venturebeat.com/automation/galileo-launches-llm-studio-to-revolutionize-ai-adoption-in-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "a/pltym794x7/FCFdigVgDQRp/8igIbhvAdDz60/LkEb6Woe97NLRlH1YtDHklx5DFtZRcECMqESUuAZ/HKt58mvGp90sIMhQ8GRurriCTJnNzh8xqzYGSv5HJX7Uvn5HUHV2tOg8N8QDEl6V89DzEodSD67ManD6jVr9CLbLknKqnSgqMMzqPkxJUX/wqh14tDLEaWi12s51Lvf2cA1oPRvptUtL89FXkmt8Rf/d6wI8+mQMXB29kVm/zpnjUSS/t6JY07fjDiJ1jaWsdzNZ81cDQUJh324v0UXB32FV/WWE9FE/I2r2M/vl1SWEQaXpBN5zqKLii+cUbrfeJ5C8w1x0h4EEBu4UQJlIR7wUSU=;rckaRMxAmwtZQRF4+OrmCQ=="
 ---

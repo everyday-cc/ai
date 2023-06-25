@@ -67,15 +67,6 @@ related:
         width: 709
         height: 472
         isCached: true
-  - title: "Generative AI is 'the next productivity frontier', report says"
-    excerpt: "Generative AI is poised to unleash the next wave of productivity, according to a new report stating that it could add the equivalent of $2.6 trillion to $4.4 trillion annually across 63 use cases."
-    publishedDateTime: 2023-06-20T12:20:00Z
-    webUrl: "https://www.ibtimes.co.uk/generative-ai-next-productivity-frontier-report-says-1716910"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 19
 
 secured: "qQ3PkGvCC/XUY/IFyS4oYHuhXir6pFcUkVfzjH9bDK3ft0QzEi9goWj5T3NW7Dus+RU96Uyw3wJwRCd1yeYPfxMgWM1xiHLN8f74GDssuAVB4AXl16u4MY9wXzTzIrBIaYmkZOkOKZJ0JESvRKOwUAqmg7vUU0FQC6TekSbtdoFyBUtp7AnBzEUk8GUgxB7mpVqh0U0Zrv/v6ztlvniSVWkrfW8TVmXjuWqykHNw/u6PiA5XxcA7J8ZavU2dJlPdsWAWfWsi5oHxHEa6Ix+CPMORqmpc00gK+qf9BshixKg8Uu+VspsK911RVTKosN7eITsTnqEcXhf+I7dVl0gT/TW8Ty3e4yZuM5XJYxSgxhk=;ARTisxmz7yDSC9CgkJOUGQ=="
 ---

@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese rejects Peter Dutton’s call to put Voice referendum on ice"
+    excerpt: "Anthony Albanese has rejected calls from Peter Dutton to put the Indigenous Voice referendum on ice as some opinion polling shows support for the proposal is lagging."
+    publishedDateTime: 2023-06-25T05:40:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-rejects-peter-duttons-call-to-put-voice-referendum-on-ice/news-story/0483ce2e8926fb2eacd55120afb23bff"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 2
 
 secured: "EpGu2s136I5KWpVOKMEYfC5e8EAdetQ96dEBFIbsh2UnHWdtUFol2cURtsCPhzv6c636zzkRpsO3xNJR5l1vscjxc05nxTHoUp0t3Gau8YkW208Nj5iDmurwgtTh9Q/pcj5ByCDfMKcyt2gLiLnWljomaAJVfBzZtKldxPpje8X+hySCeNNOWxXria25Qd153z2yksFb7dGWpvajhoQMH+BJcK1+e/DB4CRb1vUkS6Kx8eY2cgYcJ8YbHerNC2aLVGS5as8ueTWScGsrzPR1HKc5iJJiy8Hjf+/4mBubILIfMvNWfbqqwXJBMwEIRqWPVI3DTHcQjvJ+2qjK3rG5vtntwZgHdP3B9fBklp/hESl05JFkcRREO6wruGab3wQnQgDnHY4rckdX8v5aao+bxLM870lRBhafPeOgSyfH7HESSzQW5FMGCSBgV1B0B5RmhdU2+jAts1t88SttjobXAxQNQC1r5MDGm5sXMktiF/jUULQgzJK40ac2zS/c/QEVJ625UekWLA5dC+/ROn9Wnw==;oPBfVpBCf0jDS+Y5z1HAXg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57120-amd-hopes-to-catch-up-on-ai
 webUrl: "https://www.fudzilla.com/news/ai/57120-amd-hopes-to-catch-up-on-ai-with-instinct-mi300-ai-supercomputing-hybrid-processor"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 620
     height: 465
     isCached: true
+
+related:
+  - title: "HPE wants to turn supercomputing leadership into generative AI profits"
+    excerpt: "Although we think HPE has some distinct advantages with respect to its supercomputing intellectual property, the public cloud players have a substantial lead in AI with a point of view that generative AI such as OpenAI LP’s ChatGPT is fully dependent on the cloud and its massive compute capabilities."
+    publishedDateTime: 2023-06-25T03:07:00Z
+    webUrl: "https://siliconangle.com/2023/06/24/hpe-wants-turn-supercomputing-leadership-generative-ai-profits/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/HPE.jpg"
+        width: 2184
+        height: 1450
+        isCached: true
 
 secured: "q3Lf7F9CF/gl7Si9e/bFwAFuNnhKO9iR+cdlcJApyqD+xRJ5XNLa3VyhSLOoik/RSMjIjCtJ9ouAsRIr8n4QUhLRRgltzrVCmhXb5J0FQE0Xo53WJc1M46ew6IIfao7MQhP1Fu0Oa+DRT4Krhx1iCxeYEkiUatY/EkfvOuz2W2dm5M8Yk8DFBWgvFTVNgNFrvm6GDqdNPMORHoL3DiC0xp+WALNd7b0irvBB4Df/G/wY11WPH5iEjZkfh+ZFBVax+ltcOeUGl9fOJFWAHfLTWICKI/tpxTzKP31/mtXvjgGjVIM+ePu3nTfQwHxzlZHzMwXDUCv+H6CgxYYLqRwH9WXIKnki5YuQk6X5vkl16eI=;toMmlHm5HBukmA3eg1iCNg=="
 ---

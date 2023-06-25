@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-l
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/ai-and-large-language-models-the-future-of-healthcare-data-interoperability/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "The Impact Of Large Languages Models On Healthcare"
-    excerpt: "Eli Ben-Joseph | Cofounder & CEO | Regard | LinkedIn."
-    publishedDateTime: 2023-06-20T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/the-impact-of-large-languages-models-on-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "HPE Introduces AI Cloud For Large Language Models"
     excerpt: "(ians) hewlett packard enterprise (hpe) has entered the ai cloud market through the expansion of its hpe greenlake portfolio to of"
     publishedDateTime: 2023-06-21T07:58:00Z

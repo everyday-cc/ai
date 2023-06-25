@@ -440,13 +440,13 @@ related:
       domain: menafn.com
     quality: 34
   - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-21T08:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+    publishedDateTime: 2023-06-21T10:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "e4lG17EXfboXp79bECy17ekp5ovqwjUMWte0lEJT/Z1Jw/mQNm/MET8SjlltcFYqY76mDshlYNJ8oefIyX6yILA5ZEU9TR3goKTkfunJwqAbwF38drvS3sZdNePD4HJF6i/kQP5Mzv4ukc07RE6sME16uxLO35sK6uhqKNmkTRuoJg19edA0Hq2Zk5WPx+Pb8zubRcCXLjdnKK6xbo6Hh+aj+J4y/5ENg75bjBQFjxGpu0l8WxqcRA3V03yBL6aglx/c2nN2IKJoup+ViFg7gMJLYBczxv/I0+oLjl9NstGp5Ki/laaTPMdXIqAoPxEXzE+nsAPR02C9xiNd5qa+ApgGD51BFzwgs4QtpFh/06g=;osOBHaUUcYmrWgb9HG3yfQ=="

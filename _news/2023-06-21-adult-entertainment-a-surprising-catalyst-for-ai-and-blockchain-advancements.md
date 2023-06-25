@@ -7,7 +7,7 @@ originalUrl: "https://www.thestreet.com/cryptocurrency/adult-entertainment-a-sur
 webUrl: "https://www.thestreet.com/cryptocurrency/adult-entertainment-a-surprising-catalyst-for-ai-and-blockchain-advancements"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Startup Arbol Unveils AI and Blockchain-Powered Climate Insurance Platform"
-    excerpt: "New York-based startup Arbol has unveiled a parametric insurance platform powered by artificial intelligence (AI) and blockchain, developed in"
-    publishedDateTime: 2023-06-20T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/startup-arbol-unveils-ai-and-blockchain-powered-climate-insurance-platform-1032399146"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "Z7ibGN1WgwUKnMCMG6fqefZdyk4ITJMP92M+g559xEEZGmxuvIPOLIqNApFfkvhfHxB+Lr6oYyM/2dYH0JTniHLlvyA+vW0r3sgwB8MrIoS6tKt7eELfeBIACbAQklHnGWDol2ciyyjj/XUklO8Hb6dBfLfpDYqyhHkBAvU3lC/n1HWgKV9DvTIFYiVdNGpCgvBuewtm12Z6VDKIdzGRgw82SlwjKYnj4JEqp2zP1zd0tr3ga28tVMMKHzbSLq1VxNBMOcEgoIh5gpUWyIOxlassy0YIoTAf7vjpeT/kLVkFb37Zq6VSFPZzJI/q/pqkkUJZYZS3lcNIjMxxpulrVOtdq8y/Uukas1CF+tgCZJ8BTOzi4bISioKqK3eGFO5DgUuPYmAg8v3Mm0STg3uY6DG2NZeLYfXPr1rRpZoDMAGaD8tnIfsuBLutnQRx7dBPZ/omHavUKdbfPAXa2xcXBgSD7oqn6KYGC7pBElxg/s781HrIvADgiunIAiONJfAJSny2LjSjQJJwx0fju0a3Cg==;ExUOYbSVJJepwhzxXyf0nQ=="
 ---

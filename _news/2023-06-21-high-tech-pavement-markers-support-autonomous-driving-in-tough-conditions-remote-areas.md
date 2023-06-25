@@ -26,17 +26,6 @@ images:
     height: 1222
     isCached: true
 
-related:
-  - title: "High-tech pavement markers support autonomous driving in tough conditions, remote areas"
-    excerpt: "ORNL researchers have enabled standard raised pavement markers to transmit GPS information that helps autonomous driving features function better in remote areas or in bad weather. Credit: Carlos Jones/ORNL,"
-    publishedDateTime: 2023-06-20T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/high-tech-pavement-markers-support-autonomous-driving-tough-conditions-remote-areas"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 0
-
 secured: "Z2LJ0ugLT9KYoMVw9SLhtUXkcjMlwgAkxvBPKBElClmTP0mQkl4kNChefa7V06q5T0TKBBkCE9KemV2cAy29B/NM6zgVURfAC7sAhgfXzuwHj38S1SJsTG0V2O+X2P233B84rxO48hZYoy3JW4YH/mn77AYHFvmMXMYOj+Kh0A6ZVC5Bd948OlUvSiQcThCdLpmPX2elZlMtZb/PoBFCBQ0+zherQQ4oXbaT0YEpTZBjD+MLzvUoHT/lqNGGtHNU0IXcGCvdDmSSShWFouiBnR6/rYOpMIWezi1DuvaBWCVDBfbvH6xUhp8kUPCzTgbBG8+JWGmlUTlKAO71YLyC/v3SjDB1126z6LdR9YNKWcWhgTHAvVRvQlj9EjVQyy2wYg0lBeWexi2XIeenlubuyQJvJIxcmOSVUMccFzv81KZP5/4QLJCXngPtF6z2LUtHDfrMmx3eyRav8GuQggn8/imQ8KDHN2be/GrMjUYQqyAS4uvJPeQWcOSwSi5CBcyjN8eTWcu2bQ5TXJ1xl45c4w==;OtEFn38wijTSsVOV5h5NgA=="
 ---
 

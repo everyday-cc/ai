@@ -62,15 +62,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "Chinese vendors are making a killing selling Nvidia's AI chips"
-    excerpt: "In the wake of US-imposed sanctions, China's underground market players are selling high-end AI chips from Nvidia at double the asking price"
-    publishedDateTime: 2023-06-20T12:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/chinese-vendors-are-making-a-killing-selling-nvidias-ai-chips-10827931.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
 
 secured: "smAd4yGpDBmeRDLaAKFZcxwHxrwzBNoaxt/LwQRR1rGZFvu9E65HWLBQykNhuTfNUnkAVX86Cq+oY9F/CuyfehoBDUV3/arJ1s7bY2x1FpSgpo6YcKQx4OPyFKzPcfK0KYmn+YnwgDxi/4Zps9sITmI2Nwl6BH4ZA5d/4w73pm+ZYmPWRqpsTY4bcECeh0zgE48hRcSvHq2IpclUhdBjzdcXPzyUg9LkaLEqKj4q3jzFTgydERIRSLuA3KoqcZ7g69hcQ4HKcmyIfjhwW1m/gvVtwsiCpdUj9CyDuFGOfFCaPI3151CK1p1mBNsxAE73JJBwb72RR4jkFjD/YVZ6L4xAskiR8Gd9bZnUIh7zBxRH8coxlaWHBxbSAA9791Z8m/J0zLr3wtGd4b03BYobsRS5C5SkljgPZECA/4eCdO0BgAm2wsF9RfRpfVGUyU22kDAj5U83+vWUKuv5jNMcn7kOgm5iRiaFH+GcESsr71ZCQJK50rRDKcN4bjuhQpJg3qQu7gnQZLcJhdUcDJwK+A==;InV3gglzxHxKRHrmkgD8EA=="
 ---

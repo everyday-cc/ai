@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Application Management Services Market Leveraging Artificial Intelligence in 2026"
-    excerpt: "The rising trend towards digitalization, coupled with extensive adoption of smartphones, and the internet, is propelling the growth of the market. The global Application Management Services Market  is forecast to reach USD 55."
-    publishedDateTime: 2023-06-20T11:52:00Z
-    webUrl: "https://www.cmswire.com/the-wire/application-management-services-market-leveraging-artificial-intelligence-in-2026/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 14
-
 secured: "tKJaCTI0souuXUge32CHTUESBVd/U0sewS6gWncWoQ9e4ia88TLF81MqPs+Oua8PGtIENXDo6N+EaS9YoGEQKoqFJIiH0ORfMH1O32is5vrbK8bgZTvdAzulwdzsP05xTs81B3N8wkh/szpbN/37upvtFvYSe8o+KfAdu61MQosxAhdJvfs6TdGaYcrHC22/NSo+aOzBns2EW/O4EPFomM7lnBVa4REy6XfWLaFgBVLhw+Js9joIGEg9hfEyF8ZyPXeK5XUpv9LfRcU9lr4kZkgrlwz0of4sCr3fmZT116AF8eFQ5dj+73aDcTfXZc2LM2rI2ExG9F6PnyEwz2l9kJPSGq+o3j5dMwGLn7lFqTc=;GtU5wyI/6KBIwoMFkEEapw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:
