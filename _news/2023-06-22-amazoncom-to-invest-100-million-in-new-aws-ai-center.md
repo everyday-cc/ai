@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 414
+heat: 424
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
         width: 1100
         height: 550
+        isCached: true
+  - title: "AWS Invests $100M To Build Gen AI Innovation Center, Omnicom Collaborates To Reimagine Creativity"
+    excerpt: "The move, which builds on its narrative at Cannes and more than 25 years of investment in developing AI technologies for customers, is one part of AWS's generative AI strategy to bring this technology to customers and partners."
+    publishedDateTime: 2023-06-22T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/386598/aws-invests-100m-to-build-gen-ai-innovation-cente.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/06/22/shutterstock_1071420398_Yt7nUaf.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "Old Mutual closes data centers and moves to AWS"
     excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."

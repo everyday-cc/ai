@@ -33,15 +33,6 @@ related:
         width: 900
         height: 900
         isCached: true
-  - title: "The Economics Of Unusual Events Such As Pandemics, Bank Failures And AI"
-    excerpt: "Unusual events make business and economic forecasting hard, but decisions have to be made whether a reliable prediction is available or not. Three techniques can help."
-    publishedDateTime: 2023-06-20T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2023/06/20/the-economics-of-unusual-events-such-as-pandemics-bank-failures-and-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
     excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
     publishedDateTime: 2023-06-21T20:47:00Z

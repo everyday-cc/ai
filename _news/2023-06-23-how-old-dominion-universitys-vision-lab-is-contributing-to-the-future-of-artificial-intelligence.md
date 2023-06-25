@@ -163,20 +163,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI Is a Lot of Work"
-    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
-    publishedDateTime: 2023-06-20T08:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 41
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "AI meets the other AI"
     excerpt: "After all, magic internet money, killer robots and AI itself were all the stuff of futuristic sci-fi before they became political hot potatoes in the present. And it turns out that AI, in particular,"
     publishedDateTime: 2023-06-20T20:25:00Z

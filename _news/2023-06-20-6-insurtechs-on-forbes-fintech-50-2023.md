@@ -7,7 +7,7 @@ originalUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023
 webUrl: "https://www.dig-in.com/list/6-insurtechs-on-forbes-fintech-50-2023"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech chiefs debate diversity crisis in Parliament"
-    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
-    publishedDateTime: 2023-06-20T07:47:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Top 5 Fintech and IT Masters Programs in Singapore"
     excerpt: "This article presents the top five Masters programs in fintech and IT in Singapore that have gained recognition for their academic excellence, industry partnerships, and ability to produce highly skilled graduates."
     publishedDateTime: 2023-06-21T05:07:00Z
@@ -55,6 +39,24 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Dubai FinTech Summit Concludes with 5,300 visitors; confirms second edition for May 2024"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024 - First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries - Dubai FinTech Summit 2023"
+    publishedDateTime: 2023-06-21T19:50:00Z
+    webUrl: "https://jcnnewswire.com/pressrelease/84808/3/Dubai-FinTech-Summit-Concludes-with-5,300-visitors-confirms-second-edition-for-May-2024BR->"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 10
+  - title: "Corestrat Shortlisted As Finalist For The Asia Fintech Awards' Best Lendtech Of The Year Category"
+    excerpt: "singapore, june 23, 2023/einpresswire / -- corestrat , a leading decision intelligence company at the forefront of revolutionising lendi"
+    publishedDateTime: 2023-06-23T12:18:00Z
+    webUrl: "https://menafn.com/1106492288/Corestrat-Shortlisted-As-Finalist-For-The-Asia-Fintech-Awards-Best-Lendtech-Of-The-Year-Category"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "ARBWf5wxE3KGDl5/hxFF54FAisDZ3RzTPp1ktPC6wvyPCx1jw7S4GVsAyj8QzCkaj/4WK8sV2IzDE/i+zN7vEgNdwAxV7xMp7LgNHHl2qASpm0NR857T4UvpVWp6BtDL0id2nB07XhX5Sip51oLsDtjnN0QR6Jztl7CVN8XyX6EHIfM0ypB3Uarw9/lfzYTlxyOC+7Dx+f7+YX/JpSUBXKjOFojx83tBSXpwQLI01DykW7ii8SZCpMUZgWkqG4bfgY8T2iVXMiYqz1JqDUyB46BAnVB6jFO69csyS2BwVLX89DxVmNJyNyTUHFAx11s2T8hJN/+g4A9y9h8I7QFFkz7Y+1l8R+fniyL1VwFWnJ+tL69VLgOBNYeOy7sPS5ycYFK8nKVrCuZxZRHK7RqcVNwnQX5rcbgqWu7lTflGvmKTu637y61Glaz2naQ9hS600lJxBaqUdIC+IKcUGNVRh9LNYeKypCL6LiTVvwC61VScN2W0y/YNDBsglqJ3ytyqXdcTkkNDmrSAD+ky68GQ5Q==;hEQ+OuJ6uub1HTEBQk4grw=="
 ---

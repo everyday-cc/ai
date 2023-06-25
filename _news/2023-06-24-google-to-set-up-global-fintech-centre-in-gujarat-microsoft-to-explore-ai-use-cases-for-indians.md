@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
     excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
     publishedDateTime: 2023-06-24T00:53:00Z
@@ -113,15 +129,6 @@ related:
         width: 800
         height: 539
         isCached: true
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "cX0HS9lK9PItx8MWfK8sXc2zfhK+I2C4/M/5MTk5m2g5+Pg7NJvkeaEkTGH+BbLOvMlsoTIDZB6IB3SaoKUAI7gGjEp7vJZWJrcKcjcl6XCEGuuw+TUdhC+oJHJ3pol9ZJy7Xfzvue+yRkf3P/8XMub9Rrry0/OkeRYqTa9d/sdjnv8/EWNLibXHVtRTD6jInn/ybVZLh/1LzqIdRHjjMf8F0UgynDvqYZ1ZPgX93w2T9BwL4K1uJyIY30Fl1rKnBto2p5eQ8/ukzw0MHTvkTfrE4YDDyjUcnKnFDPtpmugqFMmcsK9DKe/kvegf0n6oGvMVChjWvZMvwTC4UDxwn7PAXjiVxBehu9R9yylpaH2bbVdpQi6suhYzis2RfDLU++vx1j/SmqDSdSxnJ/NvVGMvN3l9zIe0Bsussnz+i6CgBPFl4AsoDljuaIi2GH/yNc1UumsMWUgYyNw0dpErof+jmVeWu8BkbzlMO/nJBP/eQDg/mBruwy/MLBin31q75NmeWHwxQYx/BQHDp4xY4A==;8D4BT0vUl3dXnL/pfXUxlQ=="
 ---

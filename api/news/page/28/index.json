@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-06-04-ai-poses-national-security-threat-warns-terror-watchdog.md",
+      "title": "AI poses national security threat, warns terror watchdog",
+      "excerpt": "Security services fear the new technology could be used to groom vulnerable people",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog",
+      "publishedDateTime": "2023-06-03T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-droneos-how-to-take-control-of-the-countrys-growing-robot-army.md",
       "title": "DroneOS: How To Take Control Of The Country's Growing Robot Army",
       "excerpt": "The Pentagon wants to build a robot army. Nelson Paez of DreamHammer hopes to make it as easy to operate as possible. The Pentagon has a big command-and-control problem. Not insubordination among ...",
@@ -1091,57 +1143,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-air-force-denies-running-simulation-where-ai-drone-killed-its-operator.md",
-      "title": "Air Force denies running simulation where AI drone “killed” its operator",
-      "excerpt": "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
-      "publishedDateTime": "2023-06-02T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

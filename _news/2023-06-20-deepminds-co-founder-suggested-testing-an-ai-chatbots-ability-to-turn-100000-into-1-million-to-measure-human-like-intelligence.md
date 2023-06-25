@@ -329,6 +329,20 @@ related:
         width: 1100
         height: 550
         isCached: true
+  - title: "AWS Invests $100M To Build Gen AI Innovation Center, Omnicom Collaborates To Reimagine Creativity"
+    excerpt: "The move, which builds on its narrative at Cannes and more than 25 years of investment in developing AI technologies for customers, is one part of AWS's generative AI strategy to bring this technology to customers and partners."
+    publishedDateTime: 2023-06-22T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/386598/aws-invests-100m-to-build-gen-ai-innovation-cente.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/06/22/shutterstock_1071420398_Yt7nUaf.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Old Mutual closes data centers and moves to AWS"
     excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
     publishedDateTime: 2023-06-22T11:23:00Z
@@ -440,6 +454,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "aahh7Ev6G02hwX28VN6Mcke7iuNxTfxGI1rA9QlH8DFxEqQ2rKhih7ROeDbp86UiTDBRJS5dlzCCHJQzdoSQJVD3DuUUhRffXebadSyQ5bZHlJ/yGz38c7ibqMC3HpRTT9R8kw3i1W+f4clGpo8dKU7PZFI0xAkK/Vvp1FCDkWQrKbPPrWDNYQcifKE0dFUkMlGCldfW8PZI4EnT8Yo3c+fUxq/HqPI+bJ57ec/T7PnHDLVOsos6FSnyHQVU+YBcRIQL/sRoXu+xOF+oPpwNeOpL/3TsOGP4b2sOn+dQdT2sJ1tZXc0M6Q7IkpLaJBy5Lo9UclguTjWDg2VHjjC7dQiZwm2wm9W4lxC4+ZSNxEk=;1dYWxlUw/nkZ+d0cierUyA=="
+secured: "GfVKvt85xwUA5pV9x6IEC1CrbXJFVFDDIl7tnNwjTt6qt3X73Mqr3+kfuyRhAbdpkc6PQos/+b956f4s4QO8nLcWm9NMdiebdUzct4ikutT/Gld1avHxmfvP29568UPydxvn/4nFDdd4sfYU9LzZZzYn/8wy6AAflVRHMyZIIQSRLylCqquiZgw6ebX8Pk5xmMHpLWuwguz4SDBSGQz94pRfam1u612UR9/cy+Qe4k0AhOoaO8I2solM6w2jv/Q20OAnOlNTBiUuhqhysowQQcC5EcAXgJQhbXILyCx/O6Hk03ixHGcD1HyIIEG1fD0quSXgBwWUPL55YBq2OPe3wAhhaJOhcrRt1WV8wkvxd6g=;o79YAW2KXGRLZ6HYHQ7krw=="
 ---
 

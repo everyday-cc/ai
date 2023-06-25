@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
     excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
     publishedDateTime: 2023-06-24T00:53:00Z
@@ -112,15 +128,6 @@ related:
         width: 800
         height: 539
         isCached: true
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Dyeer2VYhK8BLKBkz4nS09C2EGODv8vyGZBaZ2wogWX/yttCyKfyDreXnOWHetmkyFmijZTFcRINL5SNB+/OkBApInw19y+UBNWGxeMxRc14Z6c9pjh4jvrx8nEkTeygcFkNyo1sibAvKuoEGHLlYloxKAcqvImWNcu/ib28q98JXpjZjgfBUB4xFK9veV8LIK11FchPN4UbmmFfeLatgkzlS/ZcjgUI7WWgqiuE/Pw8T7pO+GuSlAha+FTrWdoJe+nGgXwI22el1vF9x/hJbR1DWYX6PJMSAo/v+agbChV/vbLZzwD+6iw/jVl3zdClHFcayuGA8zwR+V4Ocn13Co+eJox+WKFcwZ8toDQmWSM=;pQj/BeBjEUtlx6wBJh5Q0Q=="
 ---

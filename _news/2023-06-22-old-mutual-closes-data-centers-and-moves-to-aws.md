@@ -339,6 +339,20 @@ related:
         width: 1100
         height: 550
         isCached: true
+  - title: "AWS Invests $100M To Build Gen AI Innovation Center, Omnicom Collaborates To Reimagine Creativity"
+    excerpt: "The move, which builds on its narrative at Cannes and more than 25 years of investment in developing AI technologies for customers, is one part of AWS's generative AI strategy to bring this technology to customers and partners."
+    publishedDateTime: 2023-06-22T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/386598/aws-invests-100m-to-build-gen-ai-innovation-cente.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/06/22/shutterstock_1071420398_Yt7nUaf.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Amazon is spending $100 million to teach cloud customers about AI"
     excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."
     publishedDateTime: 2023-06-23T01:05:00Z

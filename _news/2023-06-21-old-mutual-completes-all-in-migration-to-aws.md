@@ -333,6 +333,20 @@ related:
         width: 1100
         height: 550
         isCached: true
+  - title: "AWS Invests $100M To Build Gen AI Innovation Center, Omnicom Collaborates To Reimagine Creativity"
+    excerpt: "The move, which builds on its narrative at Cannes and more than 25 years of investment in developing AI technologies for customers, is one part of AWS's generative AI strategy to bring this technology to customers and partners."
+    publishedDateTime: 2023-06-22T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/386598/aws-invests-100m-to-build-gen-ai-innovation-cente.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 41
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/06/22/shutterstock_1071420398_Yt7nUaf.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Old Mutual closes data centers and moves to AWS"
     excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
     publishedDateTime: 2023-06-22T11:23:00Z
@@ -435,6 +449,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "smxiYM4+WzDlQWu9s2yodygu6pdJbAZLHKmbmBkFrlUVgOZpcasfED9lqHZLHXJ5u3QsMQKjHkLJXgI7f7aUF5m0RPGZseF9HfTJOuzVThQoMDDVawvHNiXhqVZoSsz6Kw670L2ZHIDPaB7ylH53NlKWeZaj5QLZs+KEP0HUDPPkW1jqRC3e4pSunj8RgOSt4x3SsCxrFVx8plNUShOD1ePyHsvTky0tiveqUe2CKM9fsRjft9wM2GEsEL2azHGZOyvvppCtbR2XjKJWcZPIB/MB7UQaa0CI0TBE0hHGsEAEPtxq73UnJ44aSo51pVA9yZbwtYlb/t3g+lsVT61/4PEfUSn6osNhocFcWIYwdQM=;Yb2pJECTEnCTc/tLPdXV/g=="
+secured: "52mVOPvKlYbomWR9QDxK4cNr6VQ+fHsz25DXxzpb+SbS0gXoGCk2URMTjyYBL0dPfks6297MumGKhdaQS2kn6koxxGxXMz9KGYSgBOhkVwxDa93YhKLZ1S9o7WVGCS/jByOETmR64PlHFHhLv4+RJyE0mpLquwApwPk1dCrMCYbrOf9IdYv5TqDErkYjzrUOyvAm5DV7N7P/7W20KZy9GQYFbnidM2bxr+XGktltPSmzp79kk0klBUoY+r+qSZEDvdJa4tYeegX5EINb4275S23tnsl79LJk1eSE/MEHQ8Z7pMbeIYbcHJE/AhfSBmJur0HFLIUdsgnulptzwHkZfxC96EGVEyHTLT5jB1uGccs=;yqBpNDs3ofzM567FFvaMsQ=="
 ---
 

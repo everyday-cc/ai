@@ -71,20 +71,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "South Korea Artificial Intelligence Market Size To Grow At A CAGR Of 14.5% In The Forecast Period Of 2023-2028"
-    excerpt: "The ' South Korea Artificial Intelligence Market Size, Share, Analysis, Report and Forecast 2023-2028' by Expert Market Research gives an extensive outlook of the South Korea artificial intelligence market,"
-    publishedDateTime: 2023-06-20T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/south-korea-artificial-intelligence-market-size-to-grow-at-a-cagr-of-145-in-the-forecast-period-of-2023-2028-2023-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yViKzcgE4z3SE6QXKcl+SORadUYCNx/WYPaXiRHrXx/P1b3A0pZjUHVqJIwk49TsRACagzYQhk0AYaNRu9kIlD44cQ4swB1AU97yAMs/0U2pYxfi9qElbZzZgXBvVtoYVcaYujDYOZ4EoDDKIiNVhCHOJ1g0gF6rC6wAUF2ev27RwYEKQnK8L86+Gda+EC/s9g4aBIKoGsa6+FlmP1VrimueUkv8AdYPatok9ADAQWtNLIzYBV1ijPc4olvwfQ/+LoWtpGYyP2ErnYOue796VdOMGgTypAOTFYTKeVBbo70QP2renLibXo3CJQG3rMhNuN+715puTtHkWaB1fqR0hVuP0KnTb2inkdG0vcpYnOc=;TlBupaIIC3nWXXQDQ7BTiQ=="
 ---

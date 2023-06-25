@@ -2,6 +2,59 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-04-17-aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers.md",
+      "title": "Aporia partners with AWS to provide ML Observability to AWS customers",
+      "excerpt": "Aporia partners with AWS to provide ML Observability to AWS customers Apr 17, 2023 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, April 17,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers-2023-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/aporia-partners-with-aws-to-provide-ml-observability-to-aws-customers-2023-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-baidu-launches-assisted-driving-system.md",
       "title": "Baidu launches assisted driving system",
       "excerpt": "Rob Chu, Baidu Corporate Vice President and GM of Apollo Self Driving explained, \"Whoever can take the lead in providing consumers with a safe and secure intelligent driving experience will likely have a head start in the second half of the intelligent car ...",
@@ -1146,49 +1199,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence.md",
-      "title": "Diagnosing AI: Healthcare community excited, wary of artificial intelligence",
-      "excerpt": "Artificial intelligence technologies have ... can use in tandem with their expertise may increase access to needed health care in less serviced areas, said Dr. Bernardo Bizzo, senior director ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
-      "originalUrl": "https://www.wbjournal.com/article/diagnosing-ai-healthcare-community-excited-wary-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wbjournal.com/sites/default/files/2023-04/screenshot_2023-04-17_9.40.20_am.png",
-          "width": 1277,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBJournal",
-        "domain": "wbjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

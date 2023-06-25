@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
+      "title": "Divisions Grow Over Use of Facial Recognition in California",
+      "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
+      "originalUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
+      "publishedDateTime": "2023-04-18T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-ai-terminologies-101-natural-language-processing-nlp-and-its-applications.md",
       "title": "AI Terminologies 101: Natural Language Processing (NLP) and Its Applications",
       "excerpt": "Natural Language Processing (NLP) is a type of artificial intelligence (AI) that enables machines to understand and process human language. NLP has become increasingly important in recent years as ...",
@@ -1075,40 +1118,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell.md",
-      "title": "Hexagon halves quality inspection cycles and enables flexible manufacturing with the PRESTO robotic inspection cell",
-      "excerpt": "Improving safety: This robotic cell is built with safety in mind. Clear walls ensure others on the factory ... With PRESTO, they can automate processes, improve quality control and, ultimately, reduce time to market.\" PRESTO is available now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-04/58845261-hexagon-halves-quality-inspection-cycles-and-enables-flexible-manufacturing-with-the-presto-robotic-inspection-cell-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

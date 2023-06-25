@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech chiefs debate diversity crisis in Parliament"
-    excerpt: "Fintech leaders gathered in Parliament last night to discuss the impact a lack of diversity, increased regulation, and limited access to funding will have on the future of the industry."
-    publishedDateTime: 2023-06-20T07:47:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/fintech-chiefs-debate-diversity-crisis-in-parliament/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 44
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/06/image001-3.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "6 insurtechs on Forbes' Fintech 50, 2023"
     excerpt: "Forbes assessed hundreds of fintech companies, evaluating criteria that included product originality, revenue growth and leadership team diversity, to determine its Forbes' Fintech 50 of 2023. Six insurtech companies made the list this year; At-Bay, Coalition, Insurify, Kin Insurance, Next Insurance and Sure."
     publishedDateTime: 2023-06-20T10:22:00Z
@@ -55,6 +39,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dubai FinTech Summit Concludes with 5,300 visitors; confirms second edition for May 2024"
+    excerpt: "Second edition of Dubai FinTech Summit set for 6 - 7 May 2024 - First edition of Dubai FinTech Summit attracted over 5,300 visitors from 92 countries - Dubai FinTech Summit 2023"
+    publishedDateTime: 2023-06-21T19:50:00Z
+    webUrl: "https://jcnnewswire.com/pressrelease/84808/3/Dubai-FinTech-Summit-Concludes-with-5,300-visitors-confirms-second-edition-for-May-2024BR->"
+    type: article
+    provider:
+      name: JCN Newswire
+      domain: jcnnewswire.com
+    quality: 10
+  - title: "Corestrat Shortlisted As Finalist For The Asia Fintech Awards' Best Lendtech Of The Year Category"
+    excerpt: "singapore, june 23, 2023/einpresswire / -- corestrat , a leading decision intelligence company at the forefront of revolutionising lendi"
+    publishedDateTime: 2023-06-23T12:18:00Z
+    webUrl: "https://menafn.com/1106492288/Corestrat-Shortlisted-As-Finalist-For-The-Asia-Fintech-Awards-Best-Lendtech-Of-The-Year-Category"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "qGW1QC6erl1wjSu4ZHY2fvYclaFbuSd1/kB1HQM+Gr5fW3Lyuz2WEvhoSG+S8l41ordzXNcsi5Pu6JPIptl6WqCA4LK/mwbr0q+wPeobyBJz0RKMXw6iO6AGZVeqg9iASRtPTmMmW3CkXgB1P+Ak9IxKRQ6GL7BCBT+NiBatLbVnicFGFk1fEze1ioEC74d46Ly0CVNPmtrfUOK5aucC7w76l/1dJjJ9dRRl7WeplN+Fl7CMF+mkwEb5lfHk7uRmtXcWpJLPMEn/cPJCWQfdlXYs6yKFIaJGcoPLD/FYdTf5H8ZWQMhTEzEXTnfylMIoS0cVwaw3rcGJJmfLHjDanOseumb48k6mCO5FUNuU1YT9D0l1YKhqBtfga14ggnxK5OVMGH3ceouke8TomgybKW55a83SeiwIpzI+Zrl6SNvm3oCgsUKDZGWjkzOv649xMTxyhc0a2YwIvtlFTmMjHTspbQBijZbV2LUseokSDrGxP3qXI/YV3KYSD3ptUYZPB+nyDHdQRQ0oZ4jnOyM+tA==;4m+7e2JmKrcQoelWOIhW6w=="
 ---

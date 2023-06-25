@@ -36,15 +36,6 @@ related:
         width: 900
         height: 900
         isCached: true
-  - title: "The Economics Of Unusual Events Such As Pandemics, Bank Failures And AI"
-    excerpt: "Unusual events make business and economic forecasting hard, but decisions have to be made whether a reliable prediction is available or not. Three techniques can help."
-    publishedDateTime: 2023-06-20T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2023/06/20/the-economics-of-unusual-events-such-as-pandemics-bank-failures-and-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
     excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
     publishedDateTime: 2023-06-21T17:28:00Z

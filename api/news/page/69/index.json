@@ -2,6 +2,57 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-05-10-google-chrome-brings-better-ai-brains-to-the-web.md",
+      "title": "Google Chrome Brings Better AI Brains to the Web",
+      "excerpt": "With a technology called WebGPU, AI software to monitor your health or generate images could run in your browser instead of the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
+      "originalUrl": "https://www.cnet.com/tech/computing/google-chrome-brings-better-ai-brains-to-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fccd854ab95eb0901bb9d795b1bd9e822ca897ad/hub/2019/05/09/9f2a88cf-2acc-4c04-b11e-03560e8d182f/20120314-google-chrome-lapel-pin-4sts-01.jpg?auto=webp",
+          "width": 4048,
+          "height": 2391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-chrome-brings-better-ai-brains-to-the-web/",
+      "publishedDateTime": "2023-05-09T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-valley-health-system-hospital-innovations-include-robots-at-nursing-stations.md",
       "title": "Valley Health System hospital innovations include robots at nursing stations",
       "excerpt": "Artificial intelligence may be intimidating to some, but robotic support is about to be making an innovative debut on your hospital floor as a way to improve",
@@ -1126,58 +1177,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-white-house-addresses-ais-risks-and-rewards-as-security-experts-voice-concerns-about-malicious-use.md",
-      "title": "White House addresses AI’s risks and rewards as security experts voice concerns about malicious use",
-      "excerpt": "The Biden administration articulated aims to put guardrails around generative and other AI, while attackers get bolder using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/white-house-harness-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/hero-hite-House-Harness-AI.jpeg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/white-house-harness-ai/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/white-house-harness-ai/amp/",
-      "publishedDateTime": "2023-05-09T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

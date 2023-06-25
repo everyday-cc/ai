@@ -162,20 +162,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI Is a Lot of Work"
-    excerpt: "A few months after graduating from college in Nairobi, a 30-year-old I’ll call Joe got a job as an annotator — the tedious work of processing the raw information used to train artificial intelligence ... “When you start off, the rules are relatively ..."
-    publishedDateTime: 2023-06-20T08:00:00Z
-    webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-humans-technology-business-factory.html?ref=upstract.com"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 41
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/30f/ee2/777dca608a7a29caf911244af4c22115ac-AI-lede.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z

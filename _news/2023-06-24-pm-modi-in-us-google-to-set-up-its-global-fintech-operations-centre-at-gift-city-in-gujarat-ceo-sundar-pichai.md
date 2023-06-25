@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
     excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
     publishedDateTime: 2023-06-24T07:19:00Z
@@ -112,15 +128,6 @@ related:
         width: 800
         height: 539
         isCached: true
-  - title: "Teleperformance Expands Microsoft Partnership to Launch TP GenAI, a Generative AI platform to make Enterprises More Efficient and Human-Centric"
-    excerpt: "Teleperformance, a global leader in digital business services, today announced that it has signed a multi-year, $185 million Azure Cloud commitment with Microsoft to deliver comprehensive Microsoft Cloud infrastructure solutions to clients."
-    publishedDateTime: 2023-06-20T08:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/20/9835133.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "TBH0H/1s8X2NoAHyRjg61SEnbOzYe3pbT7yuajne/8rPdtr24XVchqWuvxSWNxcq6IhQh54TxtUJSNTRZEonrnIqoI+u0sB3sbFsKqx1e0Uw86mM9s4K/nhW0eTU8a5JtP8ohedbAkSCQoPNq3JL84Kjb8LWRhUpC+1ObVZVMwysl8ii6ScC43JoT7oK1gfawnYFDc94ZqDvdHrEd7/JztnrMMNLzDgDXlScoJ8Ze6uy5AiO2GYeKwbFfrnSfeROa7s8aihaVs1et0Py/jYazA/dGz6/j2jw80xBAfHY6lxp+YGieCT9r51arcXimMQ+Wk7ODQKckvBJ9f/fiUTbnmkjAeojTelrh7HcF60sLChDuZwCrHWRNF9EJH0BpSArE/8l8bQ26HTxW67Nw+17GusCwA3qTlTKc9Q+wwLbSTnCwJOSCRHjq3dG5vsEbelqDZUcM9j9gSb/0BDyXlZsVm9PAk1XszWk2EbuvOZlBOV2QBuS2UpoYN55gnsOsrwHiHS8aw9tg05PZs1p/RMTqA==;02znOJdErAQRkWO04PyCNw=="
 ---
