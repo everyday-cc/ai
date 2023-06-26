@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
         width: 709
         height: 472
+        isCached: true
+  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
+    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
+    publishedDateTime: 2023-06-21T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
     excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."

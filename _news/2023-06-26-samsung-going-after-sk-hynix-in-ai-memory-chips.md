@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353681"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353681"
 type: article
 quality: 74
-heat: 74
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 551
     isCached: true
 
-secured: "YuQ5vH3ofogZaGgQUm4lNEJLxYwf3y2K0oVvUSX9V67hH1L3YRN6dqqzILJ6Ui4fJLe0VCIEhHdQ1cro2qcYE4UkxSdZRn1sNvtC1nO/4lep8/clXzgXuD9hv4G8nK59KK14BAl8nILoxYvt+phdUVUAzlPtUE1znDQGX8Y1PO1u+DOEwHEkAbDsdNL0Lf9RNTQ2nbA8F/uD03jyIHlmesvdZNGeLXZI7KXlWM9d+cyJZwxnjTcOUcUeSYblRW6nVDVqGAp+ui01g2P87oFNc+LxC3LgGCKfJRSG7jkE90wXlbGLz2teS1HlXN2vIqPy3BYr+VgUNceTu9xGkIgiOoS+qIC/jISEbYMQ6a5Z0U4=;yWSL7/j2LJLDO8CJldCEnA=="
+related:
+  - title: "Samsung Enters AI Chip Market With High-Bandwidth Memory Solutions, Challenging SK hynix"
+    excerpt: "Samsung Electronics leaps into the artificial intelligence (AI) chip market, planning to mass-produce high-bandwidth memory (HBM) chips this year, potentially upsetting current leader SK hynixs market dominance"
+    publishedDateTime: 2023-06-26T09:30:00Z
+    webUrl: "https://www.econotimes.com/Samsung-Seeks-to-Overtake-SK-hynix-in-AI-Memory-Chip-Field-1658444"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 45
+    images:
+      - url: "https://f1.econotimes.com/2023/06/7c1ee880tt_th_1024x0.jpg"
+        width: 1024
+        height: 694
+        isCached: true
+
+secured: "hRo/cjindG6TW5wJB7Fj0R7q+Df3vr2KBDfxJYClIIgKOlnDkUJZKbbsBGZS+kVBISMpkiBChibmKH4jTTtxMGWIf1N6MI7/sisVboL+nfuw/oWQgf8V7K6Qi3WMu5vBaxzkEBScE+ZnSYVNFHC1n0EoGb5u5KIK1hdmOqqlra9jWIMoNCWlFexYenTs9ixfEuSJ1Hq9ETc+/Wg4fbfwRn5/5gPEujCjbADnYfp5qmKoE9UGQ2jxyRYk0ulXMYMLGXcoeMcIPhJmaMuDPJL2oYSJvYEReLHPg2lh1RxJO7Yj4ZbH+4FfOOGmdiRSdaIHkvhgSvQNHAQAp9nkONtCYSq5yvMz+1KR/ttT79Ccr8R5OFvIIbGJ4uUM3YT9RuFA8FXUY2AAoME955/SjpAI6xexakMmqB7mLLZ6i/1F7GvcNTfntfjvC5sHLIZJddwtqBB+fgW6q8X7yz6wCMy2lyv+d3f5yc3ubxtetE4vMWsTeKEOHc7KLA0zPYtfU8BLRVaHeHi6gGGC/o3UPd7yBg==;m0ENtA6ffGAzMUl/9CuExQ=="
 ---
 

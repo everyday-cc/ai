@@ -2,6 +2,427 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-05-18-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
+      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
+      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-around-the-world-maturity-opportunities-key-regions-2023-may?amp",
+      "publishedDateTime": "2023-05-17T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-self-driving-tesla-doesnt-yield-for-pedestrian-tesla-fan-cheers.md",
+      "title": "Self-driving Tesla doesn’t yield for pedestrian. Tesla fan cheers.",
+      "excerpt": "A seven-second self-driving Tesla video posted to Twitter this past weekend shows a likely illegal driving event in San Francisco that, unfortunately, happens all the time in ordinary situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/self-driving-tesla-doesn-t-175359995.html",
+      "originalUrl": "https://www.aol.com/self-driving-tesla-doesn-t-175359995.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/5LTYlEv7_agxI.TZD89mAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/702ea7be836a1a639f306c4aa8755461",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/self-driving-tesla-doesn-t-175359995.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/self-driving-tesla-doesn-t-175359995.html",
+      "publishedDateTime": "2023-05-17T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-frances-privacy-watchdog-eyes-protection-against-data-scraping-in-ai-action-plan.md",
+      "title": "France’s privacy watchdog eyes protection against data scraping in AI action plan",
+      "excerpt": "France's privacy watchdog has laid out an action plan for regulating artificial intelligence, trailing incoming guidance for \"privacy-friendly\" AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/",
+      "originalUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/17/cnil-ai-action-plan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/17/cnil-ai-action-plan/amp/",
+      "publishedDateTime": "2023-05-17T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-20-amazing-and-free-data-sources-anyone-can-use-to-build-ais.md",
+      "title": "20+ Amazing (And Free) Data Sources Anyone Can Use To Build AIs",
+      "excerpt": "When we talk about artificial intelligence (AI) in business and society today ... including product information and ratings. Waymo Open Dataset – Alphabet’s autonomous driving subsidiary Waymo makes a huge amount of data collected via self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464717149c5a56fb3c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/",
+      "publishedDateTime": "2023-05-17T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-feds-say.md",
+      "title": "Apple engineer steals secrets on self-driving cars and flees to China, feds say",
+      "excerpt": "He booked a one-way ticket to China and left the United States on the same night FBI agents searched his home, prosecutors say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "originalUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "publishedDateTime": "2023-05-17T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
+      "title": "How Common is Common Sense in AI, and Why Should We Care?",
+      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "publishedDateTime": "2023-05-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-baidu-boss-charged-with-stealing-apples-self-driving-car-tech.md",
+      "title": "Baidu boss charged with stealing Apple’s self-driving car tech",
+      "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen?ref=biztoc.com",
+      "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-exec-at-baidu-backed-ev-company-charged-with-stealing-apples-self-driving-car-tech.md",
+      "title": "Exec at Baidu-backed EV company charged with stealing Apple’s self-driving car tech",
+      "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen?ref=biztoc.com",
+      "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises.md",
+      "title": "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises",
+      "excerpt": "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/",
+      "publishedDateTime": "2023-05-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-poll-61-of-americans-say-ai-threatens-humanitys-future.md",
       "title": "Poll: 61% of Americans say AI threatens humanity’s future",
       "excerpt": "The poll results come amid the expansion of generative AI use in education, government, medicine, and business, triggered in part by the explosive growth of OpenAI's ChatGPT, which is reportedly the fastest-growing software application of all time.",
@@ -781,451 +1202,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-make-sap-erp-deployments-future-ready-with-ibm-cloud.md",
-      "title": "Make SAP ERP deployments future-ready with IBM Cloud",
-      "excerpt": "IBM offers SAP-enabled transformation expertise and enterprise-grade cloud platform capabilities to help accelerate our client’s ERP modernization journey.\nThe post Make SAP ERP deployments future-ready with IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/make-sap-erp-deployments-future-ready-with-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:43:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service.md",
-      "title": "Capgemini and IBM Ecosystem strengthen partnership for Drone-as-a-Service",
-      "excerpt": "Today, utilities and many other industries use drones extensively to conduct surveys, map assets and monitor business operations. They use drones for tasks as simple as aerial photography or as complex as sophisticated data collection and processing. The global commercial drone market is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
-      "originalUrl": "https://www.ibm.com/blog/capgemini-and-ibm-ecosystem-strengthen-partnership-for-drone-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/Capgemini-and-IBM-Ecosystem-strengthen-partnership-for-Drone-as-a-Service--630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-how-process-mining-improves-it-service-management-to-save-your-business-time-and-money.md",
-      "title": "How process mining improves IT service management to save your business time and money",
-      "excerpt": "Business leaders know that their organization&#8217;s success relies on its ability to keep essential processes running smoothly and efficiently. Communication technology like email and Slack have become so essential that business grinds to a halt if there are gaps in service. Furthermore, businesses",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "originalUrl": "https://www.ibm.com/blog/how-process-mining-improves-it-service-management-to-save-your-business-time-and-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/How-does-process-mining-save-your-business-time-and-money-1-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-sam-altman-ceo-of-openai-calls-for-us-to-regulate-artificial-intelligence.md",
-      "title": "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence",
-      "excerpt": "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-65616866.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp",
-      "publishedDateTime": "2023-05-17T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-chatgpt-and-generative-artificial-intelligence-in-finance.md",
-      "title": "ChatGPT And Generative Artificial Intelligence In Finance",
-      "excerpt": "Drew Spaventa is the founder and CEO of The Spaventa Group, a leading investment company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 534,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6463b7dd624c546c1fc2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/amp/",
-      "publishedDateTime": "2023-05-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses.md",
-      "title": "Unmasking The Hype: How AI Can Empower Small E-Commerce Businesses",
-      "excerpt": "It’s an inquisitive mind that can help us separate the hype from the genuine opportunities and evaluate AI’s true potential in the ever-evolving world of e-commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6463e6cab986491758c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
-      "publishedDateTime": "2023-05-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region.md",
-      "title": "UAE company launches first-of-a-kind locally-made robot to fight fires in the region",
-      "excerpt": "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZGJiNmE4NDMtMDYyZS00/0/civildeffensetesthd-jpg.jpeg?f=3%3A2",
-          "width": 697,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "publishedDateTime": "2023-05-17T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-can-artificial-intelligence-solve-the-growing-mental-health-crisis.md",
-      "title": "Can Artificial Intelligence Solve The Growing Mental Health Crisis?",
-      "excerpt": "One such novel concept is the use of artificial intelligence in the mental health space. A couple seeks therapy with a mental health professional. With the advent of generative AI, conversational AI, and natural language processing, the thought of using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646462ac9c9f76912ae63699/0x0.jpg?format=jpg&crop=6000,3375,x0,y61,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/17/can-artificial-intelligence-solve-the-growing-mental-health-crisis/amp/",
-      "publishedDateTime": "2023-05-17T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-2-ai-stocks-to-buy-before-they-skyrocket.md",
-      "title": "2 AI Stocks to Buy Before They Skyrocket",
-      "excerpt": "Known for its social media businesses, Facebook and Instagram, Meta Platforms is another tech giant that could be greatly influenced by the AI megatrend. While management has spent recent years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/732436/gettyimages-1364859722.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

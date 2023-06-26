@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -233,6 +233,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-robocat-a-self-learning-agent-developed-by-google-deepmind-is-set-to-revolutionise-robotics.md",
+      "title": "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics",
+      "excerpt": "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/06/RoboCat.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/",
+      "publishedDateTime": "2023-06-23T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -951,15 +995,15 @@
       "title": "Researchers build working robot based on AI’s design",
       "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
       "sourceUrl": null,
-      "webUrl": "https://www.swiowanewssource.com/news/nation/article_7449bff6-e85c-5e17-a49b-d345979bd51c.html",
-      "originalUrl": "https://www.swiowanewssource.com/news/nation/article_7449bff6-e85c-5e17-a49b-d345979bd51c.html",
+      "webUrl": "https://www.kulr8.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_30c7b374-d707-531e-8601-f76b0683ab42.html",
+      "originalUrl": "https://www.kulr8.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_30c7b374-d707-531e-8601-f76b0683ab42.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/swiowanewssource.com/content/tncms/assets/v3/editorial/8/81/88141813-786c-54fe-a954-2a1e52ebdac6/648c98e034d60.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/3f/23f35e50-6c24-5484-9e23-3ea449fc5211/648c98fa775d1.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -974,8 +1018,8 @@
       "publishedDateTime": "2023-06-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Southwest Iowa News",
-        "domain": "swiowanewssource.com",
+        "name": "KULR 8",
+        "domain": "kulr8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1378,49 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
-      "title": "Advanced Navigation Unveils Australia’s Largest Subsea Robotics Centre",
-      "excerpt": "Advanced Navigation, the world’s most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/advanced-navigation-unveils-australia-s-largest-subsea-robotics-centre-1032390898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

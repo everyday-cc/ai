@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI in the Metaverse"
-    excerpt: "Some assume that the metaverse will be a single immersive environment like in the movie Ready Player One (2018), while others, myself included, assert that real life is the metaverse, and we will use different interfaces throughout our day to combine our physical and digital worlds to varying degrees—from augmenting our reality with virtual overlays to immersive VR."
-    publishedDateTime: 2023-06-21T15:23:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/inventing-the-future/202306/generative-ai-in-the-metaverse?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-11/pexels-fauxels-3183164.jpg?itok=0U1ndD_B"
-        width: 600
-        height: 400
-        isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
     publishedDateTime: 2023-06-26T04:46:00Z

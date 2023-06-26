@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-te
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
-  - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
-    excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
-    publishedDateTime: 2023-06-21T16:28:00Z
-    webUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319"
-    ampWebUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-06/f02ulu7g_tesla-has-a-supersecret-driver-mode_625x300_21_June_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
     publishedDateTime: 2023-06-23T19:54:00Z

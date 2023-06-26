@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: The Indian Express
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s RoboCat learns to perform a range of robotics tasks"
-    excerpt: "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks."
-    publishedDateTime: 2023-06-21T16:01:00Z
-    webUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
   - title: "Google DeepMind unveils self-improving AI model RoboCat"
     excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
     publishedDateTime: 2023-06-23T17:14:00Z
@@ -69,6 +60,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "AI revolutionising medical diagnoses"
+    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
+    publishedDateTime: 2023-06-24T05:57:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "DeepMind introduces self-improving AI model called RoboCat"
     excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
     publishedDateTime: 2023-06-24T15:02:00Z
@@ -82,6 +89,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
+    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
+    publishedDateTime: 2023-06-26T08:00:00Z
+    webUrl: "https://i-hls.com/archives/119736"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 54
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "InYkkXQ9VF3id6DOxYKeVc0jc+sQw7kGOJhin5HNn4M7zV508PKpaeBEu8h/EmfmdVdWDee3/OvWZCqjsrVIwMJNpPLAmmA7urVDG+l5i3M/Exr5X73WCnkhUpEmE7JgFtdQO3bQbmhGATDCUUWtxDI4dSk1fZc4x451tVfjYC4Woq8YOnY3Q4ssMxBU92kV7Wt+oxqO+YS7ZH+H4BUFqPQu9WJ/Apmkg/8wfFWbPcv5YEJL9fegyJk0zEdvDP72qKcR8KbFNXiKYY1IhDLhgOqX2bRKD5zvpphcwXn6fOZ6xNGdDfPXiSTLmFtNHAsZtIrG0380hjRJkOpu4lIoJRXxI4yoSlvAycszbu5eNpKTOTz7VXErk32wpNCqhqI5rfZ+R4ro7eFMmD8m2R/rZBN+EdVs+RBpBOmxlFYUR7jpupH8O0elwKSNVe4Me27YyDgQRC/GrI129saX5wagli9+jIfaGXhyKd8Jsj+r+knYJan75wqBFOF4XCCLZcwDhA9aDGEGnF28o4a4BN/vwA==;v7ATpFA5xJHsTi0aLqfyZw=="

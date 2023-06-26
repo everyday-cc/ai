@@ -18,47 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Boost agent productivity with Salesforce integration for Live Call Analytics"
-    excerpt: "As a contact center agent, would you rather focus on having productive customer conversations or get distracted by having to look up customer information and knowledge articles that could exist in various systems? We’ve all been there. Having a productive conversation while multitasking is challenging."
-    publishedDateTime: 2023-06-21T15:20:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/boost-agent-productivity-with-salesforce-integration-for-live-call-analytics/"
+  - title: "Opaque Systems unveils confidential AI and analytics tools ahead of Confidential Computing Summit"
+    excerpt: "They comprise a privacy-preserving generative AI optimized for Microsoft Azure’s Confidential Computing Cloud, and a zero-trust analytics platform: Data Clean Room (DCR). According to the company, its generative AI harnesses multiple layers of protection ..."
+    publishedDateTime: 2023-06-22T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/17/LCA_CRM_Arch-1018x630.png"
-        width: 1018
-        height: 630
-        isCached: true
-  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
-    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
-    publishedDateTime: 2023-06-21T22:01:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 508
-        isCached: true
-  - title: "Benchmark, Sequoia Back Ex-Salesforce CEO’s AI Startup"
-    excerpt: "Benchmark has led the first round of funding for a three-month-old artificial intelligence startup founded by former Salesforce co-CEO Bret Taylor and ex-Google executive Clay Bavor at a valuation of over $100 million,"
-    publishedDateTime: 2023-06-22T00:41:00Z
-    webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/10733/c6ed3399-8a4d-4d1a-bef4-79003d0bed86.png?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/OS_Logo_Final_Print_O_Logo_Web_Color.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 627
         isCached: true
   - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
     excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
@@ -69,6 +41,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
+    excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
+    publishedDateTime: 2023-06-22T19:29:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-confidential-ai-and-analytics-at-the-confidential-computing-summit/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 10
 
 secured: "rTF0y2ajbHcaygNwIO9fNW+pVWWx+rVh3qCg0VsPuWbwvOPOlMMbRHV3IHu2U1XL/WCN0e/r9tdBxXnufdLPFNYp4fAmOaDh91+2gOICckC1EP4DC5qEaMa4BHpIXx1rA3STpH7pRU3GeKc9intkjRDiGPELvNRcHEXlcwDa6qXLscYTjzfWDc8zyntom2nm8Ig0e5dL17gX7Xi39ScMmSdprPXh4SH1349eSDEGqR+1rI08iaxk/mmIMWHwPaeCIRN2NoSN+BqMx0taxioCdwx1iz7CLwiG974p26RE8tSHUDluKi/q9Ynt9d32Hse/vTAIfZu1YfLSrHXDw+TTkbQjmr7Dsf/PBZfeb9ftI/E=;D/3aYbrvYpFsS8iGn16k0w=="
 ---

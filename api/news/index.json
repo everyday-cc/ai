@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-thoughts-on-ai-impact-in-banking-mckinsey-banking-ceos-and-boards.md",
+      "title": "Thoughts On AI Impact In Banking - McKinsey, Banking CEOs, And Boards",
+      "excerpt": "AI continues to develop quickly, and executives are establishing frameworks for how to work with the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498df4fa8cb02b4c45d417c/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1070,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
+      "publishedDateTime": "2023-06-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-samsung-going-after-sk-hynix-in-ai-memory-chips.md",
       "title": "Samsung going after SK hynix in AI memory chips",
       "excerpt": "Samsung Electronics will begin mass-producing high-bandwidth memory (HBM) chips for the booming artificial intelligence (AI) market in the second half of this year to catch up with SK hynix, the market leader in the nascent AI memory chip market,",
@@ -10,7 +61,7 @@
       "originalUrl": "https://koreatimes.co.kr/www/tech/2023/06/133_353681.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -182,6 +233,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-five-things-you-need-to-know-to-start-your-day.md",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "excerpt": "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4faQQOWr0KY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-cheers-can-ai-help-drinkers-buy-a-better-bottle-of-wine.md",
       "title": "Cheers! Can AI help drinkers buy a better bottle of wine?",
       "excerpt": "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife.",
@@ -241,7 +343,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -284,7 +386,7 @@
       "originalUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -413,6 +515,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-25-the-ai-craze-is-blurring-these-4-serious-economic-threats-to-the-us-heres-a-closer-look.md",
+      "title": "The AI craze is blurring these 4 serious economic threats to the US. Here's a closer look.",
+      "excerpt": "Underneath all the mania around AI are serious economic risks facing the US – here's a closer look at the bleak realities pervading the nation.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/643819005f081b0019c0fea4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp",
+      "publishedDateTime": "2023-06-25T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-artificial-intelligence-and-machine-learning-in-customer-engagement.md",
       "title": "Artificial Intelligence and Machine Learning in Customer Engagement",
       "excerpt": "In the modern era, the utilization of Artificial Intelligence (AI) and Machine Learning (ML) has emerged as a crucial factor in contributing to the success of large-scale businesses. This article explores the manifold ways in which AI can revolutionize customer engagement strategies.",
@@ -421,7 +574,7 @@
       "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -464,7 +617,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -517,7 +670,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -871,7 +1024,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -975,7 +1128,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1015,161 +1168,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk.md",
-      "title": "Deploy a serverless ML inference endpoint of large language models using FastAPI, AWS Lambda, and AWS CDK",
-      "excerpt": "For data scientists, moving machine learning (ML) models from proof of concept to production often presents a significant challenge. One of the main challenges can be deploying a well-performing, locally trained model to the cloud for inference and use in other applications. It can be cumbersome to manage",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-serverless-ml-inference-endpoint-of-large-language-models-using-fastapi-aws-lambda-and-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/serverless-ml-inference-endpoint.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:27:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-stunningmidjourney-update-wows-ai-artists-with-camera-like-feature.md",
-      "title": "“Stunning”—Midjourney update wows AI artists with camera-like feature",
-      "excerpt": "Similar to outpainting—an AI imagery technique introduced by OpenAI's DALL-E 2 in August 2022—Midjourney's zoom-out feature can take an existing AI-generated image and expand",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/midjourney_zoomout_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/",
-      "publishedDateTime": "2023-06-23T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook.md",
-      "title": "AI-Generated Images of Titan Submersible Debris Hit Twitter, Facebook",
-      "excerpt": "With no official photos of the Titan wreckage released, unscrupulous Twitter and Facebook accounts have stepped in with fake photos they created using AI image generators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
-      "originalUrl": "https://www.pcmag.com/news/ai-generated-images-of-titan-submersible-debris-hit-twitter-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00yBJ5oOeZpo96LWxQDToTG-6.fit_lim.size_1200x630.v1687549750.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

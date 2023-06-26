@@ -50,15 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Cisco Launches New AI Networking Chips"
-    excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
-    publishedDateTime: 2023-06-21T15:33:00Z
-    webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
 secured: "tWRWaVXvjAVq1KQlz8rUpP7d+b1BqSqsXRVsjq4EerVFRY/WlDTuR9ZSkpaa53u7LTLW1FYSS0BGvWrnTDPJkWB80rx0xQA11yJ7IK80v5BaurtfUa8xldy6eSCCP1k2BDULH+A9r/WvRYA5x24Tnjqbd5lU7lFqnm62gpmDnXSicdS0hyMBjmIA1gNGHdboEqJXT0byiPF3v2xtqltsf62KyDi/XQwydMcbGOJMSWtRu7mDou1amVPNEaD+Xqr0XqxeC8wdn8/w28aZHedMyIXW+AVfgt92ZsI/OHL38JCA9E8MIpSVpdpE7ORq/9hyOVJgTzzFARxHXxzmyL34xRJnS0G5GElSdNJsjLKyr2Y=;/t3zrjs9w2UKhHx87RJ6FQ=="
 ---

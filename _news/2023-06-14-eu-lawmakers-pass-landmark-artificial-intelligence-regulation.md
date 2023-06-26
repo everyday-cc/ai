@@ -5,6 +5,8 @@ excerpt: "The European Union's AI Act is the first comprehensive set of regulati
 publishedDateTime: 2023-06-14T11:44:00Z
 originalUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
 webUrl: "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+ampWebUrl: "https://www.cnbc.com/amp/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
 type: article
 quality: 47
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107254827-1686557052078-gettyimages-1418934535-robot-control-ui2.jpeg?v=1686750334"
+    width: 5700
+    height: 3800
+    isCached: true
 
 related:
   - title: "EU moves ahead with draft law to regulate AI"
@@ -121,6 +130,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "xfZUTDI2ajRdQjebhOscSQWGzisT61WjpeAr+VGsKckOiaO/XPivwlAjtmj637D5hhgNEMPEiH9/TB3LOHytvCzO7oJkhMTYV4fDQ3qY5hl7pJ7VMEPI5uWgFhbWLSRAmbtuSzC03E5C6BA8fKvU6H/U2iMqR1dMelMrv+AK42ZGjOSflRtawR82Etr/79syuhiWknzFgSQtm9PVA3/udGEBpPjAVbQVYqxchJcQ1qFy97RzfhnF6VWocxBG3UPBZkpKcvaV9cnSl0tfqkWXyltHSK9sU6KfYkVh/mGh49BnX3391hhparAm+7nrvPK3n+HKkGz2+AVapU3qEM5xq/sKnKPxnz5batWLhGZFCIAlLkfRx1pWlYooS3T7hML89GJzFbkKqal5i/NCP4kNHepGz/u4LQLdbbLGv4q5oxr34uUQJAwHI46UZBnFBunVQJp4zlBWY0YM/62G8BOCSKb0ODRDBGfi+Z7eHg0oniSqZSVkfZI/zHnkQOoS+JsCkgA9/urcczIxpvhnpeKafA==;Uhp4qRfXk/Rm53H7ukSchQ=="
+secured: "a9IK3ZZRlpuPXIAZ26gsu7fzEjIgFAWzvlRXmWuPAYCZoLDx71iCVJONy+FCkv8vmNGbAQMIWtBSxVgNRR5BUcCiVQvyM+n/sLYI7XzWk+Ax12HUPwzDc14JQbMAYwz4ecfwRbDOTjCxWxSzO45rbaeLsEtZCdBnoXICYLCXFGa/WjLPteYEJre9apVFG1Et9f7kyWQDw9tVbu2XETBL4coEqa1jGTGjnD5xYyc/t68FpHC8oTxG01XbBt7iWC5JNMZSqZVzDmajcagz1DqWt1h3phgo0MjKcr4bqbs1kfvJQMnbrl+wxxatzJBD7NfeSK2RhxBFur3k720ZshOTnWd3dv46dwaggmQF4xa3Stk=;BkRN8Ivly87cLafWicQF0Q=="
 ---
 

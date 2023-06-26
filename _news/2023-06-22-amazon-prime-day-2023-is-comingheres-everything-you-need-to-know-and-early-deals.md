@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The EU AI Act is near. US AI regulation is coming. Here’s what you need to know | The AI Beat"
-    excerpt: "Six months after ChatGPT became an overnight success, The U.S. and the EU are racing to develop rules and draft laws to address both the benefits and risks of generative AI. These days, the news on AI regulation efforts is piling up so fast that it’s hard to keep track."
-    publishedDateTime: 2023-06-21T16:29:00Z
-    webUrl: "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/"
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today."
+    publishedDateTime: 2023-06-25T23:37:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AI-3.png?w=1200&strip=all"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4faQQOWr0KY/v0/1200x800.jpg"
         width: 1200
-        height: 750
+        height: 800
         isCached: true
   - title: "Everything you need to know about AI but were too afraid to ask"
     excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."

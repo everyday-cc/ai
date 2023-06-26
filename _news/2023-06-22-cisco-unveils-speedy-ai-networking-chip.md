@@ -49,16 +49,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cisco Launches New AI Networking Chips"
-    excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
-    publishedDateTime: 2023-06-21T15:33:00Z
-    webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
-secured: "vNEt3PQvOvUuv54ybXRqIE2pt15RIdIMjN42dJpOlpSuLV5VrwjtBpQzCeQQermL/9KxowTeqqO8hvHkmboex18/nOPvep4nMAuZZIcanjKE11sivE6UWKlx1itIAfHSFETL9EBtuWhDt9h7nam1fFNGty/9gGnmRJEcBLB6+b9j/UCapQ/MLZIlR8uYVrseDTO9LYo5ZBHW9bmBE8aTXh1GIwd/ix3WVlzWS974RtXq4+XphaBKUEKV6FEQAXG7SJRtgn2ZlwCHN9Er+uRoxUUGZraJdx01POPMnNLvp3pExVYgrnrhsn+tzASK4BH8rjJzfUizWchaV4JTcsqKKnUwmI1cCD0ru9awZRmGqPo=;uv/ucc/G4yvpgAe+5u7MSA=="
+secured: "RVzYjGTkhxv7QycTc5JMiy/axLSSMa4onAXLC3yLfrIDsXj/wY1nGPlHRNpH0fonaZ3va8sfs1TpSvlEJk75Pv0HJqdKNwH0IW9T8Z/+W/sopcXGnKv0L4qFTk3Ydg78WjgH7uLr5i/0QrcjsFXDabmgVVgh0rGQznoRvdeWkDHeawm+WSB+RfsEVl3BXSL4clvZZGhgfdJNACWphxNN3GBkYYSZRc2Rz9+UfRLOIKhfVpdG4/WV20wNV+E+qaY0JdtTEf8JkwTQ446py1Utnw0Tbfui6R8CbQ55jfnib6BJEmqycZtItI5saOqfdz1BjFSa9VwOUDb5T3OdYZxLnlg5I+ZjqkqHqd7YAIG8fdA=;gK9e+BRMaSP0A/fL4FYSSg=="
 ---
 

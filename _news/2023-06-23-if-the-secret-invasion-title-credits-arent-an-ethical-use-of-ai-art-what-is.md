@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: TechCrunch
@@ -25,22 +25,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Marvel used AI to create Secret Invasion’s opening credits and it looks awful"
-    excerpt: "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence."
-    publishedDateTime: 2023-06-21T16:57:00Z
-    webUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful"
     excerpt: "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul."
     publishedDateTime: 2023-06-23T13:00:00Z
@@ -78,15 +62,6 @@ related:
         width: 1461
         height: 834
         isCached: true
-  - title: "Marvel faces backlash over AI-generated opening credits"
-    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "+egBdXSx7HZkkRAkKfaGmI7pHFcGTDwxcrpikJ/jYY14WF0VyFANmLPl47zzhV+RXDsPY34ovRzRuXvxEwjrf9byINY9LxbobsEzzHR+PKUTwTen5Vb8tzYzvi9qwD86ZOk8M8m0j5+doHinjnWnMbSED7sVzZhVlqQ+XV03x1ZBspqaHyqpVKOHub1HT17M/Z9ZXlgj2xDfX5nULCzVo/lR8QyiGhgEHEFarrCr/oVAK3rMPYSNmTJovmw/ZfVHcAm4frLRLDs8FzGtykJkMClbyghD1fG6Ea1+NCgcURYHL1DJvMyHhe1/RLYtYA5EIS8Kn8XK0D/wvhTF+/Ympocb15yTLfXN26KdFoxdpeioCk3vmhA8rEVg3/B/SDNaRcLYWZOiRIAEg78fHbqKCoxkvNP46F7M7asIoNH2Vc+FReEEhhyIQCRQDfanNNrzRHoWuRsw1HYj4c2mCZG160QjyDmzH5YuhFSXtYZpRRN3defPmUpNoKLlJ4MxuT4nygxdWItbx2c0MJ9VZveTVQ==;wb2MD4PJoBDmSowSu1qNMg=="
 ---

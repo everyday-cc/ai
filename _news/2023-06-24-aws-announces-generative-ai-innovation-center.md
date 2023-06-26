@@ -98,6 +98,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-26T09:19:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
     excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
     publishedDateTime: 2023-06-22T23:47:00Z

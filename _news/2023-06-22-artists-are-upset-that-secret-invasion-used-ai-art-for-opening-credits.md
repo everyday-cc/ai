@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Marvel used AI to create Secret Invasion’s opening credits and it looks awful"
-    excerpt: "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence."
-    publishedDateTime: 2023-06-21T16:57:00Z
-    webUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 84
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
     excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
     publishedDateTime: 2023-06-22T21:59:00Z
@@ -77,15 +61,6 @@ related:
         width: 1461
         height: 834
         isCached: true
-  - title: "Marvel faces backlash over AI-generated opening credits"
-    excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.theguardian.com/tv-and-radio/2023/jun/21/marvel-ai-generated-credits-backlash"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "kEfGXuiXIsjNF40IaUCtWrXfrG6uBoy1yrvy7IRU3bsEdpzkvLvN20DAA6wk5K8xG4qEgGQWHxeIElB8J2wSPNz5wPMZb9NMd/hJDZZlZKws5mMlakC1WEe+g6YE2fGVhHmh/cS54wqLx77kGU7lKR4Q9rlETTZIX51+4aG5axMZCSyIc+nKfGS23vFtQ5MlS9ebZMjkqUeta2lka3eXXvOnb3yF4HWFW7OwNqIzjiSoJBW7O8n5NWhEUUg/U/NGY3a83+CORfCSsHT1yXVND+UVamWaRwNfBvJO4Sz3JP9nZicEaVblcz3nBkUUGDNdE1N2UVtram7C5hRX6HjyYunl41E0qHzbGXQ7l6DNLGkmFk+sRl6TJAgS4ILUahU0x1Pf8qQCZOLPE63QvIcPymyrBtRUBj0aWfidC4Qid6WQ2Z+0MKac0K7nCyzR4787d9zCmgAihTFNspIEe7mxOQhqgB00MwCUdCuaIO804Uv4AjrG1rFhh9qyqLywiUZvfbggpev5LaCi4eQEa+B5eA==;DVqDgpxZT8E86OD8ORe0vQ=="
 ---

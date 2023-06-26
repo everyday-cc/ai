@@ -7,7 +7,7 @@ originalUrl: "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-b
 webUrl: "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 650
     isCached: true
 
-secured: "cp9m6opB9lcMpJ6FHzfhepHt8M9d5TXtGyT4GNx2EeTYEd78yfHAyRNg7QWgeJmKJP6J7LgdmEDrFTECPbdOb26e5DLYsEo5/EOb7nWPq4yCuhXa9TOZ4Bum8zVVfUtRKvgvwVjeiPYufurN1Ba7kDZaHKDehm8QVbtsXj3tup7Q/QOeipd6MkODBnxAsAh9vK4x7VUdJFHOE5G5pAQkz5G+xemTVGoLgKdsiXZ0KC/IiJA10zD1yDP1b6F1N3QXEo8RJ8+MLO8jmNhzLbbdb/FBjeESPYJycHHT1NJ/YWiInB/OyNSdcBj/Uh70z5Wa5QjopXxbw5jVvTpuMXA4k28DowICS0AtuqIDUIQGZlQ=;ID2IcwvqabkOHEdYM/GTrg=="
+related:
+  - title: "Driving behaviour change and achieving desired outcomes"
+    excerpt: "I asked my colleague who is an expert in Artificial intelligence (AI), “Ammar, what is the future of doctors? Do you think AI will replace them?” Ammar thoughtfully"
+    publishedDateTime: 2023-06-26T09:26:00Z
+    webUrl: "https://www.thehansindia.com/life-style/driving-behaviour-change-and-achieving-desired-outcomes-805569"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 24
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/06/26/1360827-ai.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+
+secured: "lJS/PuRdvrgr9eUbISgwpeGgj+F0B03GMKtG8enYYjlFmHVzoqlCCfx1eIjzHieaF9FfFKfo/i5XtUm4p1Jt9vEOKRQrRFPMBsNMeBOj2GDP4D72+CBrdIzp9Qk6Wc7umWVnBshYjQDif8rOOdSS1x9JyasBHXDuCb15aGHdT9JuRynWCaBqkLaJt67Cs1w6V0SDMVL5wgqEo+Z3goBWJVZEVfYSJ48roE93/CetDZefAhL+x/RfKuCE6juQS3NaXIYQ4zflmTYQUC61BSm7KIryIZ9bUnv0MtdqafvAk3CjflQnWNd4kkjeXVKgNEPNXn37v/+pV5LmB7MepkASf/kzS82Bs2AIK1dmA4IyJYl7Xqt7lUAYhs9IYa96L1HyhXs1zJI6+GwvSL3PocRRwAbfyJSqM8PNFqvtA1vZkunEfRfGtYz/eym+EaBResyjBys7MtVJkkCtS3AykUE/6AStgDAQNv2uj2zHsaGh/P2xFSGM3dK6lkwXJQgogi5KbdpRyURufzTFuuhUU3UJfQ==;KnYSMGLXyQ7tY5zpPfu0fQ=="
 ---
 

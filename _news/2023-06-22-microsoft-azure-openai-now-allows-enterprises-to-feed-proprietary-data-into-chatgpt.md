@@ -103,29 +103,6 @@ related:
         width: 1760
         height: 884
         isCached: true
-  - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
-    excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"
-    publishedDateTime: 2023-06-21T16:25:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-advances-in-azure-quantum-to-accelerate-scientific-discovery/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra"
-    publishedDateTime: 2023-06-21T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621956382/en/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 36
   - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
     excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
     publishedDateTime: 2023-06-22T10:00:00Z

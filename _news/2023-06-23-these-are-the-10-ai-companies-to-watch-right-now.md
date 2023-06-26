@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Trillion-Dollar AI Companies Hidden in Plain Sight"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. In your Smart Money issue on Thursday, we discussed how AI is"
-    publishedDateTime: 2023-06-24T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113"
+  - title: "The AI craze is blurring these 4 serious economic threats to the US. Here's a closer look."
+    excerpt: "Underneath all the mania around AI are serious economic risks facing the US – here's a closer look at the bleak realities pervading the nation."
+    publishedDateTime: 2023-06-25T10:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 77
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png"
-        width: 1430
-        height: 804
+      - url: "https://i.insider.com/643819005f081b0019c0fea4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Ow6VX+kOaMQqjxy3J5fRb1BmPSUnnj9EvF9MrPKWpQDIykE0C9e4jVdWJNHUG6vrs1mgGGfvUgMnhadCEXLMOdC2tFDH/Ut/CyYZkX2l5u5wlq15U0tl2k6QdVJuJnRqcs8C887BiS+R7EP7ym8p6Fr2qw/NcL0Qf617h1jiNBoy/iSSQoUkdytO2Eyz27d9CQutBiT9b9PHWikOnQRFYUThVvlafdBU5n2aFIhJzvph8xULRFCejIOju1MLBdDz0YbtG8LSFnVklMee788Zt/fFiqFIbEeyinHBv5+fwJLj7bL8DRGihG5MjzS9tGVz3xCyCM5D6wZQMgUSUUg/KPCP8WdVUR7HyV4xnmeMXyLFCFNzWTCbdr9/2x1jnEQRC0NdTsFRTufb5oNP+Y63NG1E7jXvZCZnasMCs9YUe4ArpFg2JWrLCd11W0R25pcr8g/MnBZ4RWocUyar0WHkni8DDlZxRV59vAkYX9kD/T1rfKK3nhAZTXMALtJu2sqqQxOUOi5zg5WzXu+cRu9YlQ==;xfKep+GGBWxqJweXdw9P9g=="

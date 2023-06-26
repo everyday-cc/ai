@@ -44,22 +44,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
-  - title: "Hacker Discovers Secret 'Elon Mode' In Tesla Cars For Full Self-Driving"
-    excerpt: "The hacker went outside to test the system after activating Elon Mode, and he released some shaky footage of the adventure."
-    publishedDateTime: 2023-06-21T16:28:00Z
-    webUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319"
-    ampWebUrl: "https://www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/hacker-discovers-secret-elon-mode-in-tesla-cars-for-full-self-driving-4141319/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-06/f02ulu7g_tesla-has-a-supersecret-driver-mode_625x300_21_June_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
 
 secured: "LtBJH1aWlApMVPEru6mf9kMefc0xAZBFXtWVSy/ojXXX019m2Zp08T6sCTzq8QY/iEoudfETAMW61vXvjoKg+qzUSpbJJTqWOg7pWtv6HPtPOpjzSvO6rdNk7/4hGu4Hlg/4AA/6YNXDpQH/XgG2qBlygjaX1GkQMgxCkA3NnvJlBeE8oYHVnXxbfaELLwDmd0IZsVWgMuQcMApeXI0F32D1CUlMlvDnf/fzlOeFeG6fnz04iwIRghxFUzoV3Bza0rRw9LlQGjpQ/uFNDuluROrB+Iv6xbUloPYTBLbCbJJC87PySZx+jg5t9qPqYKc5OHyqFA4+RcsUapk0ogZxuv6WPwkULu6uM71uvKPGmWKjsBAl3TSQYV1jtT5ajtZOQTgV8DgBbV/xDUgqZsAmubQmsPN2Ugz6JHdCQ4dce7jDEr8Av8heYvAwNTupEoPOaI+N4/KflUOxayCnMNqAK+DQAyByuuGmXvJRGq+jmRbj9JJmhEWVpExuf5rcRFePv/ks6Ez5s9vyuTu9jMYXtw==;NWaCzA9Q5ZQ/Sjt5cpYrDA=="
 ---

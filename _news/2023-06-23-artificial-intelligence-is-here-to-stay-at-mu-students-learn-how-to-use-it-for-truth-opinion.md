@@ -36,6 +36,22 @@ related:
         width: 1396
         height: 900
         isCached: true
+  - title: "AI is my copilot"
+    excerpt: "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone."
+    publishedDateTime: 2023-06-26T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html"
+    ampWebUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RldmdwG81HFV8nmkxCZTeNLE1zET4Qy3ThlhpHNSAwDMJbLz5j16hu8UocWkL8Y8HIlh/STZ4EcidFvSdW3qWMq1Ig5vBmHlNm3oFyqGjLItD6lsLxXmJ/ZB9lEc4u2Z0k+sLFgGIsP98/eGRRikSyT3820OYMyStQ39uBAvLEq/UHsq6aAdmn1a5Cb5Zy/LkRj/WMJ0KOy1q08GTf3SgH984CCjXy9RHs5p6sZRLplQF1iyPGJCdT5ssQjqZxR2PaEYXfcsWM+vSFHhKwR8T1TofknfvWvGlrCzkW9ng4H5/0VgfAjWbvhcLRRyESmsHivTQc1Y1iD/pkYo96zYYsYl7haJimrznSO81qdUeymaspCsnpfxQyE3hVq7U7xoaJsO9lrAGzZdJcpsAk+swpkb2ZMW0GFJWmxwF0rL6L/k8x5uls2s4H6vhx2mKVrTu/s8+q6dtbYOcE0+PVAZgWVICs3XD8/pxQTx56hr8sevx6c0EHJKU0RH+XvShPp9xZsDKONuvIClb1bNEbe9cQ==;qsssfN6XjanwUZvUXe52kQ=="
 ---

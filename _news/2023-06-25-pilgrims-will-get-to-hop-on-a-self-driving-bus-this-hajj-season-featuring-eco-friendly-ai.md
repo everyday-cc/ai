@@ -57,20 +57,6 @@ related:
         width: 850
         height: 500
         isCached: true
-  - title: "Hajj 2023: Saudi Arabia now has AI-powered electric self-driving buses for pilgrims"
-    excerpt: "Saudi Arabia testing AI-powered self-driving electric buses for Hajj pilgrims Hajj 2023: Saudi Arabia now has AI-powered electric self-driving buses for pilgrims Electric Buses, electric vehicle, Hajj,"
-    publishedDateTime: 2023-06-21T16:16:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/hajj-2023-saudi-arabia-now-has-ai-powered-electric-self-driving-buses-for-pilgrims"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 33
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/06/21/hajj-self-driving-bus.jpg"
-        width: 1200
-        height: 762
-        isCached: true
   - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
     excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
     publishedDateTime: 2023-06-22T05:51:00Z

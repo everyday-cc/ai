@@ -50,20 +50,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Chuck Schumer Urges Swift Action on AI Regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer said Wednesday that the government must act quickly to regulate companies that are developing AI."
-    publishedDateTime: 2023-06-21T16:10:00Z
-    webUrl: "https://time.com/6288908/schumer-ai-regulation/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "AI’s regulation naysayers protest too much"
     excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
     publishedDateTime: 2023-06-21T20:07:00Z
@@ -78,21 +64,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "Senate Majority Leader Chuck Schumer says the development of artificial intelligence is a “moment of revolution” that requires swift action from the government"
-    publishedDateTime: 2023-06-21T15:27:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-moment-revolution-top-democrat-urging-swift-action-100274842"
+  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
+    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
+    publishedDateTime: 2023-06-24T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 49
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."

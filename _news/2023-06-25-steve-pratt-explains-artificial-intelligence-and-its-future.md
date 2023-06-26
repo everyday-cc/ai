@@ -9,7 +9,7 @@ ampWebUrl: "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-a
 cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/amp/"
 type: article
 quality: 72
-heat: 74
+heat: 75
 published: true
 
 provider:

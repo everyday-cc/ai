@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for
 webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "OvationCXM Recognized as Leading Technology Company in 2023 AIFintech100 List"
-    excerpt: "“AIFintech 100 has identified OvationCXM as a fintech AI innovator making lasting impacts in the industry. We are pleased to receive recognition for our AI work that is transforming the customer ..."
-    publishedDateTime: 2023-06-21T16:03:00Z
-    webUrl: "https://www.kake.com/story/49108735/ovationcxm-recognized-as-leading-technology-company-in-2023-aifintech100-list"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
-    quality: 16
 
 secured: "57+lA5kvRu9vP17TknTkwZ0LkggnoxYkgKQ4n2a6YKoak7gHGzsBAYYNM+AWaYEqXftm5h3jyyDNAvsyPGhA025T1o9Df1LHV7gNjLWfl5IYcLWqw+h2aMsmSmaGv2rruawoAuuRan+9QbHVHVAPSqfBidbEYnDDrkmlZ0OQsa5qaYj113lLqMagEfsQUIzGAmMuoJ30TBvTNKV7umv9uIj4evvnmuq2h/IaofcgQpCCfqgMXd+4QVJb86Tf/z6Qr7z6lmAq/dnhAHkxCwOgun+shai5iCdtKl61DIhSTs6UT2gqowhLvb2uAemO/ELBknnxSCHO19x30IiFgA0qr9nBZfxvSDbCbQjIm1mHzgE=;Z4RObnZ1JHD7gboLz6nhlg=="
 ---

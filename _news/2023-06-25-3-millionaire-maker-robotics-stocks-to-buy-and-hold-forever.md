@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-make
 webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "3 Millionaire-Maker Machine Learning Stocks to Buy And Hold Forever"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI has sparked considerable market hype for 2023, promising to revolutionize"
+    publishedDateTime: 2023-06-26T09:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-machine-learning-stocks-to-buy-and-hold-forever-1032409103"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "3 Millionaire-Maker Autonomous Driving Stocks to Buy And Hold Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous vehicle technology continues to hold massive promise to growth"
     publishedDateTime: 2023-06-23T10:59:00Z

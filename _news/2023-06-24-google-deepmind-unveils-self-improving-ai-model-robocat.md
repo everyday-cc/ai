@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s RoboCat learns to perform a range of robotics tasks"
-    excerpt: "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks."
-    publishedDateTime: 2023-06-21T16:01:00Z
-    webUrl: "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
   - title: "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics"
     excerpt: "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself."
     publishedDateTime: 2023-06-23T15:26:00Z
@@ -68,6 +59,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "AI revolutionising medical diagnoses"
+    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
+    publishedDateTime: 2023-06-24T05:57:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "DeepMind introduces self-improving AI model called RoboCat"
     excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
     publishedDateTime: 2023-06-24T15:02:00Z
@@ -81,6 +88,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
+    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
+    publishedDateTime: 2023-06-26T08:00:00Z
+    webUrl: "https://i-hls.com/archives/119736"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 54
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "l0AH4hu51OAVKbxXBu5mpNYvgstRe0ch0C82OWCEsJwXZxszBmD3sY4eDaJYNWxg6GO+DIjjtSBzd+MYZ7vB4kbu1guT1BruKLkDUtnfaHttgfPilGBTbrovoC4SybotpZS2wq0qljduyr2P1LVR59OWe8ZMn3gQph7GE+qnbqrw9wK0vx1UK8UjNuNiYll3rDXPPezCmoYJzHYmNnEfL7yggTcVSdQ4sUC5iJgTwtm/a6An2OmrThr1VDwfKkkDGih9Vj+K1u+E/2PEq+VpdAiqxdaujpGaH2XXHdnOXEpecnbpbNQRfpN7Oj1iwUHQ9+mNtSdGvELTxX+JLJ6PbNuMZHfy8rqwtpshcicS35fE+NRx1mXZzo9VMHJR9anDUzHFuBxEz6v85Xqh0lDjFmmaWMQcTUCcQFix8qD9C1dDmxO0Of5yPNybrIQdmBdfkOBZhbqfommf9Ax/dS6/AqXwsLLQOqxxX8XpRRSWRXSMo2kVQXJ4aehtZihDf4zsT99/3jzVbOEXvkvJxH86yA==;gAX9QsSECnm/X2VmRyFYjQ=="

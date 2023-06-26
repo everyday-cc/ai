@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
+    excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
+    publishedDateTime: 2023-06-21T21:15:00Z
+    webUrl: "https://siliconangle.com/2023/06/21/driving-ai-innovation-intels-lisa-spelman-discusses-the-future-of-computing-hpediscover-hpediscover/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Lisa-Spelman-HPE-Discover-June-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "8ztZE+lXIgrVZ/gOC4DK3hPcZ8B28nUzKR8NT5sB7PnlPIo+jneFkKCqceuOPTd5FdTFSPTkVlZNwJj/R1mqdvBksPTgqrdJzkl84wPa34SUeYZBn7EeM5DfaqxYJ1wtqwvlwUoMDKXWMw5d7frcatAVgQXUnt/QqqQ+lMRe38IZb2aG62sp57tHXqTgktAeymbfvO9mRJAzHeQ0TIF3EKkgeqHql/cbc8ux1rL8M/Wy7fRjAVFSWfCNMkjh5Qh/RsIoFOVNubE2BpMzLQweh9VtTlYrsH/S6pmexYZEiOFRHoukoeY7ip2+Eqb/hCG2738NAmt1mILnkwbFuin5S8lMmphsIYf/ANrrxtmsg2U=;900kMHtUPFDen0YsC35gVg=="
 ---

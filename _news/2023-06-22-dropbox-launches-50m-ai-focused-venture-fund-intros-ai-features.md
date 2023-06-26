@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-ve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/nXHElnoGSKif3NBmCw3Sog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3eb11760-1052-11ee-bdda-894ac0528513.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Dropbox introduces generative AI-powered products to ease knowledge work"
-    excerpt: "According to the company, Dropbox Dash and Dropbox AI will provide ways to discover, organize and manage their work on the Dropbox platform."
-    publishedDateTime: 2023-06-21T16:45:00Z
-    webUrl: "https://venturebeat.com/ai/dropbox-introduces-generative-ai-powered-products-to-ease-knowledge-work/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1-dash-universalsearch-1200x676-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
     excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"

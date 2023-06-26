@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
+    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
+    publishedDateTime: 2023-06-26T08:53:00Z
+    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 63
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
     excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
     publishedDateTime: 2023-06-22T00:00:00Z
@@ -106,17 +120,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
-  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "Business Wire India Pocket HRMS has been recognized as a ‘Noteworthy AI Solution’ at Microsoft AI Solution Foundry Program. Pocket HRMS’ achie"
-    publishedDateTime: 2023-06-26T07:25:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.amp.html"
+  - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
+    excerpt: "Pocket HRMS has been recognized as a Noteworthy AI Solution at Microsoft AI Solution Foundry Program Pocket HRMS achievement is a testament to their deep ex"
+    publishedDateTime: 2023-06-26T08:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273879371/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 44
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -126,24 +143,6 @@ related:
       name: Morningstar
       domain: morningstar.com
     quality: 34
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article276616381.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 33
-  - title: "Voxpopme Partners With Microsoft to Launch AI Insights for Video Research"
-    excerpt: "Voxpopme and Microsoft unveil Voxpopme AI Insights to make qualitative research faster, smarter, and more economical."
-    publishedDateTime: 2023-06-21T17:00:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article276616381.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 33
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
     publishedDateTime: 2023-06-24T13:17:00Z

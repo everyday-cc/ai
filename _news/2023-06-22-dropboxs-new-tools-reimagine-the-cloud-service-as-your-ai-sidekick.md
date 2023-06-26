@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dropbox introduces generative AI-powered products to ease knowledge work"
-    excerpt: "According to the company, Dropbox Dash and Dropbox AI will provide ways to discover, organize and manage their work on the Dropbox platform."
-    publishedDateTime: 2023-06-21T16:45:00Z
-    webUrl: "https://venturebeat.com/ai/dropbox-introduces-generative-ai-powered-products-to-ease-knowledge-work/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/1-dash-universalsearch-1200x676-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
     excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
     publishedDateTime: 2023-06-25T06:52:00Z

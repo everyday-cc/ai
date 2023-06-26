@@ -27,103 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "The economic benefits of innovating with Azure AI"
-    excerpt: "While business and technology leaders are ready to invest in AI, they need help making the financial case for tools they need to build great products. That’s why today we’re sharing a new commissioned Total Economic Impact™ (TEI) study conducted by Forrester Consulting, which captures the costs and benefits"
-    publishedDateTime: 2023-06-21T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Forrester-pic-1-1.jpg"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "The AI craze is blurring these 4 serious economic threats to the US. Here's a closer look."
-    excerpt: "Underneath all the mania around AI are serious economic risks facing the US – here's a closer look at the bleak realities pervading the nation."
-    publishedDateTime: 2023-06-25T10:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/643819005f081b0019c0fea4?width=1200&format=jpeg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "3 Semiconductor Stocks to Invest in as Demand for AI Chips Surges"
-    excerpt: "So now investors are trying to balance what they’re seeing — high growth semiconductor stocks — with what the market has already priced in. At the end of the day, we’re still looking for AI chip stocks to buy."
-    publishedDateTime: 2023-06-21T17:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-semiconductor-stocks-to-invest-in-as-demand-for-ai-chips-surges"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
-    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
-    publishedDateTime: 2023-06-21T20:47:00Z
-    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
+  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
+    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
+    publishedDateTime: 2023-06-25T20:29:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 61
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI’s regulation naysayers protest too much"
+    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
+    publishedDateTime: 2023-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Study: Hotel guests are most accepting of AI technology with perceived benefits"
-    excerpt: "A University of Houston study reveals that AI technology in the hotel industry, which provides more convenience for the consumer, is most accepted by hotel guests when the technology has perceived ethics and benefits."
-    publishedDateTime: 2023-06-23T15:06:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/?amp=1"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/technology/2023/06/23/455039/study-hotel-guests-are-most-accepting-of-ai-technology-with-perceived-benefits/?amp=1"
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
     type: article
     provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 55
-    images:
-      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2015/08/06202931/HM-CC_Banner-mobile-450x300.png"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
-    excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
-    publishedDateTime: 2023-06-21T21:15:00Z
-    webUrl: "https://siliconangle.com/2023/06/21/driving-ai-innovation-intels-lisa-spelman-discusses-the-future-of-computing-hpediscover-hpediscover/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Lisa-Spelman-HPE-Discover-June-2023.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
-    publishedDateTime: 2023-06-22T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai-based-firms-solving-challenges-in-financial-services-2023-06-21"
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "BYDpmfY/hzYihEcj28H3pQdoKRl3jmvWvZRDOjOpq/qdyNCgTjXniqtou/ooggVlWTAf4ffPM7C2th4zgkW2hOkYfiHK06g1sx7acdBV/zD2Wd8q1RWixBjz0OufH1jkS7JagacGelEUy8bM2yGmlsxeHxXbeLKG46quuR3dn4eDg/Xw42wmsmariUsiD07JNuWOdY28cN8BiAfVwb+6A44ekmz/Nypqhezb1V7BfiDYQ310mZ//M1GQjH+NOgGwNGpML89p0nEatjQrcZP8cbH6itZFPK+RAfx2+cmWULTu4Vjal6JmBIASafgtFn1yc0kt9kEFO913pcgyCaVkYxgOcMm8A/B2F2g0lYXfjDp6MhqbeUxgPoH4GgZkoTcUIm/YC1YlJAiZQcau2elVAmgVz8T9bHr101VmSqq1x4p+NfudjSG9i893R/HdiD5yt3VwLrLZlzqBJ2SEGUQJu2BqbPt2ZgWBp66Q2t0QhzhiS+8R8MPwbICttDPwuOylnLN7CRtHIasnGAj83cJTng==;Oxo7YSd2OyU1nW6Dmnu9oQ=="
 ---

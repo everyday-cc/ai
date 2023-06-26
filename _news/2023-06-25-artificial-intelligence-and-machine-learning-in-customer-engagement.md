@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/tech/artificial-intelligence-and
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -116,29 +116,6 @@ related:
         width: 1760
         height: 884
         isCached: true
-  - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
-    excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"
-    publishedDateTime: 2023-06-21T16:25:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-advances-in-azure-quantum-to-accelerate-scientific-discovery/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/08/Azure-cloud-image.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra"
-    publishedDateTime: 2023-06-21T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621956382/en/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 36
 
 secured: "jCp8ikFko2U+lolz8kx0CLVNGZuZAQ5t6arl7v/Y5+sPQTfSy+JWPFOk6ETWLgSFLHW/saFZ570rpA7IVyo2boJCpj1EEU7etQlRGXMgAgQ1c+rogVNTkA+iT914y0/BBl302BmhfBhi/yBZlJDRP439A3IroWC2bU/9+fXrn97PYO0YosmbnsabzNVUs8nlc0FESDfdH+9WWvmYpIS08+PBzcsGCO8deoNCjO3uMvrEWG2uQZ+a9OfLPLldRBIfel+UmA03PtYV03iinVfV2MEvjdY1RuxrBhL0uGM2Z77HL2BdjYAttS01KIhfv9fBIXvJD5OB+yhehkc9Xtb3kBBLhOKQfwSEIg83I5Mkrxbqsr37h0dbk0SOKFHm0BBk3aNLDaV9Iw3zhGOf5jr7KMFDaY99aFmXthUdyk0ZlMYP43kUQHkonpOb3nApqwpfmLZSPc8OaK54DTjO7eMjn2BdD+uhnAPyaBJH73lWc5ZWRpnqMnK+JJ8HWq4CXo17Q+deeu6hgoq0POwXJxsmFA==;R37qY0ULSHyWN97QarPnBQ=="
 ---

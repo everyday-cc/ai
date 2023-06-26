@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/"
 webUrl: "https://www.gizmochina.com/2023/06/22/cisco-new-ai-chips/"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Cisco Launches New AI Networking Chips"
-    excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
-    publishedDateTime: 2023-06-21T15:33:00Z
-    webUrl: "https://analyticsindiamag.com/cisco-launches-new-ai-networking-chips/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
 secured: "T5TVqAzdZSvgXR97Cltghr8FjN3K1EHSUVaKrWbUMg8Povyw41rEvTR2aXfGxGhqv4qNfWEDQ54XR3Diny2cO9zBMqo7deIYlUr/pWtoIeai8L4F5MbvWGSStAnELg+UxOdmQ6UnOATw38xV2kmy/b3fwh6iPHRZIF4HK6Z8AvC11DymTrUlP0Ibej1CEFKl3uzA6U1sfEJQ5MTQ6GzLfS/PnFhMKQeBo4ucxr2ugpY8OZCtwvQEiHxhM3kUwahjLFufd8FJWQ3Ux6OCZcdf6EKZ2CJDmtcq4w7qhEM5rho7XEHg/a2PGDggcHeDCCLbQGZauroDT8pSlwspeevybB6TgR0mNkvRshJhgli8SydSyB9dOiWUGlfIsIpQ4IYcC6NSdTBtljIwlIdIrXwBUluaM38pfjRsMZKoNxP2Q4da4Hk25iDXu/JgE/8acB8ZSrK6b5bxxBThQCQI36LodxnwYpGVeW8XfnTuQGZp2CDhjjWrtBf3iZqjT8uXjq/c3drzRv7KHBecBl+eytpV3w==;tXE4KPzNmiF8rGGEB96ycw=="
 ---

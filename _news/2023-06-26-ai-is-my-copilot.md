@@ -1,0 +1,63 @@
+---
+category: news
+title: "AI is my copilot"
+excerpt: "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone."
+publishedDateTime: 2023-06-26T09:04:00Z
+originalUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html"
+webUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html"
+ampWebUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Ready Or Not, Disruptive AI Is Here To Stay"
+    excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1396
+        height: 900
+        isCached: true
+  - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
+    excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
+
+secured: "pw9wcVz4/AXSKZu0Nkf2qiW+5znoMPvyIUbOXwg8AuBrVw82EkSn5uujbBKByhULibtyPDdsjbUu1+9S9kGimcrGuEstwUybIPCevgiIL3f9mvy+sN9lg6t4wrSwL68hnkTlyY0/ZE3ZkGtV+r5RhxTO8K+oJDQ5iOql8TOxVbYMHAQrBQvY98P8UE4IO4yxG0IbWMxs9+1jdhPEWJvbL8Fm51hreExl4NKe9s8LqRXyvD9AjgM/d5IbFSqui7xDKBTcuwkYvohv6NoS2H++jo14QALohqpILipSFmxoqV14EiyIuCC5Vx6KlbuXbKDYaIBnj9OSKMtoxXlG6Q19xcD7ffXlx36b6CneqE+OLMA=;Upu3ov+zmr2gE1VQHMV0rw=="
+---
+
