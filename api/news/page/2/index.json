@@ -2,15 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-24-whats-going-on-with-c3ai-stock-friday.md",
+      "title": "What's Going On With C3.Ai Stock Friday",
+      "excerpt": "C3.Ai, Inc (NYSE: AI) stock dropped after Deutsche Bank reiterated a Sell rating after its investor meeting. The Bank said the AI winner could be in trouble after its latest investor day.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-friday-1032407528",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-friday-1032407528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/23/ai.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.md",
+      "title": "Kent County enlists AI-powered robots to better sort recyclables",
+      "excerpt": "Kent County Department of Public Works officials announced Thursday, June 22, that earlier this month they installed three, AI-powered robots at the facility that can quickly scan incoming recyclables and separate out what county workers tell them to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
+      "originalUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W2BTBMROGNEXHD6B3Z6NOG4IKY.jpg",
+          "width": 3000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/grand-rapids/2023/06/kent-county-enlists-ai-powered-robots-to-better-sort-recyclables.html?outputType=amp",
+      "publishedDateTime": "2023-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-artificial-intelligence-in-psychiatry.md",
       "title": "Artificial Intelligence in Psychiatry",
       "excerpt": "Generative AI could help clinicians complete more clerical tasks and allow them to see more patients. A 2016 study found physicians spent only 27% of their working time engaged in direct contact with patients. Generative AI could mitigate disruptions in healthcare caused by predicted shortages in healthcare providers.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -24,8 +118,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
       "publishedDateTime": "2023-06-23T09:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -40,6 +134,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1154,108 +1249,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-ai-threatens-many-jobs-but-workers-still-plan-to-quit.md",
-      "title": "AI Threatens Many Jobs, But Workers Still Plan to Quit",
-      "excerpt": "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
-      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
-      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "publishedDateTime": "2023-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

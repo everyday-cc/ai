@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0714%2Fr880269_1296x729_16%2D9.jpg"
         width: 1296
         height: 729
-        isCached: true
-  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-    excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to ..."
-    publishedDateTime: 2023-06-21T06:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Ace!: Wimbledon to leverage generative AI for video commentary"
     excerpt: "Generative AI is being applied to produce narration with varied sentence structure and vocabulary to make the clips informative and engaging, said IBM"

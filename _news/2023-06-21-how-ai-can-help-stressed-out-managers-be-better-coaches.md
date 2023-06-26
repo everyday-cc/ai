@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/06/how-ai-can-help-stressed-out-managers-be-b
 webUrl: "https://hbr.org/2023/06/how-ai-can-help-stressed-out-managers-be-better-coaches"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Cheers! Can AI help drinkers buy a better bottle of wine?"
+    excerpt: "Artificial intelligence (AI) can't taste or smell - at least not yet - but it is now increasingly helping people buy a decent bottle of wine. Blake Hershey says that the inspiration for his AI-powered wine recommendation app Sippd came from his wife."
+    publishedDateTime: 2023-06-25T23:01:00Z
+    webUrl: "https://www.bbc.com/news/business-65959815"
+    ampWebUrl: "https://www.bbc.com/news/business-65959815.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65959815.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17EE/production/_130162160_gettyimages-186478070.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "MwCDG7dsJTq4c8AZfQ57BfMciQL2ELcLeCQFydOTl0gx5+AHSE5mIN5OPo7cDIVJjbqPc2jC4lzJPzhmlfeI+jkaCo815Yi2obYscI38+VNCRt6X4sWJFi7nNkIai8LlLO5UcEkXJ3rzUge89Du1ghI/rY8w+YEWY5ftM/fp6OI2b5magOwKEBe3UtMYoMTbMdTrKUhW25ymCP1chhp8r/U/C//aGufaMR/XCIMtugemso1qR1BXNa1wl0olObBtQNYuG+UzvaBQTzz3MwWR/3Hsd8eUWHxceqY5k0HPo3BXk0YkBPKtxlnI0S+isYwsBXdByngOxqp2Y8rf9/2/aTwh57Xb3OI34vJg9peE/gBsrRe+sDlj+alL8ltqTXByVgdiQGQycusku32ZVfrA5ASk8OlAC/c684KaqtbMr+4DLcy7+gwjbCbojKXCKp4FYot3TdMc9xELmELsqZQKzDgKmtwQclJJP7pSzDgZqJ2NM2/l3vmnpqxpOyIyKQfHzBPAC19DFCAPFWeZqbp6qQ==;u77wdUOb2exHyz6meZBiUQ=="
 ---

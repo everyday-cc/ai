@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

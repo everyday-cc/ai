@@ -95,20 +95,6 @@ related:
         width: 1296
         height: 729
         isCached: true
-  - title: "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience"
-    excerpt: "Using over 100,000 data points from every shot played across the tournament, analysed by IBM's Watson AI technology on IBM Cloud, these digital features are designed to make it easier for fans to ..."
-    publishedDateTime: 2023-06-21T06:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59386184-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/2105378/IBM_Wimbledon_App.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
     excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
     publishedDateTime: 2023-06-24T12:16:00Z

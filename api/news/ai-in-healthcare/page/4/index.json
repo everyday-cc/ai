@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-17-kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care.md",
+      "title": "Kaiser Permanente Announces New Grant Program for Artificial Intelligence and Machine Learning in Health Care",
+      "excerpt": "AIM-HI program has committed $3 million to fund health systems demonstrating real-world AI and ML capabilities to improve patient healthOAKLAND,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-can-artificial-intelligence-solve-the-growing-mental-health-crisis.md",
       "title": "Can Artificial Intelligence Solve The Growing Mental Health Crisis?",
       "excerpt": "One such novel concept is the use of artificial intelligence in the mental health space. A couple seeks therapy with a mental health professional. With the advent of generative AI, conversational AI, and natural language processing, the thought of using ...",
@@ -1386,50 +1430,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-challenges-and-opportunities-of-using-artificial-intelligence-to-manage-chronic-conditions.md",
-      "title": "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions",
-      "excerpt": "2 It is no surprise therefore that efforts are underway to look at how to best harness cutting-edge technologies such as artificial intelligence (AI ... This in turn could lead to a different therapy decision and subsequently a different health outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-3382507_640%201online.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

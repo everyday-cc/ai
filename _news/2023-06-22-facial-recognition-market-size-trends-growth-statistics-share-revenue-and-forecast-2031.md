@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Size, Share, Analysis, Growth Statistics, Trends and Forecast 2031"
-    excerpt: "Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7.8% over the forecast period 2020-2027. A computer vision is a field of artificial intelligence that develops,"
-    publishedDateTime: 2023-06-21T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-analysis-growth-statistics-trends-and-forecast-2031-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Media Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 12.5%"
     excerpt: "This \"Cognitive Media Market\" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers. This report consists of 166 pages."
     publishedDateTime: 2023-06-22T03:38:00Z
@@ -57,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Speech Recognition Software Market size to grow by USD…"
+    excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-market-size-grow-usd-/2023/06/23/9838419.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "JhbigVzIvk5g8cDcYG5AX5t38RSzFfQEeT+9Em0hY2knHsiklLedv7it0Rz43RXDn95WMSubZ5p1amw6hS++6pGRV5T/QDIVZe5wYIli4UvGNxbyJacigYOWCsA0pfnr88C/z+ST8FPLdepfTvT6CMxUtttf9Tfr20nnvYJwKgQoAFRwb2QfkTd1XDJoZzasokodLcZLGdfisdD9fqi4spErvBgl5Hsthc+Zvy9PRozybsMwaBv4o/x6RjOnGbNamH9orNWKsatSkWAF5EOfLipWJYfIYHv7nRG8f8/qhC5o55rbEerckwMiWOoAgQEJvv3mvJZetApx0PpTUDt3viec8oa5cMNUDYLSvg5jzNI=;lC56o7r7mCRT2u97qDMLpw=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Old Mutual Completes All-In Migration to AWS"
-excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-publishedDateTime: 2023-06-21T08:55:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
-webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+publishedDateTime: 2023-06-21T10:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -435,6 +435,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "pjAhjT79R68hHthBnsHMXOamtKPy+u+PT2VVkY9GxpKbljI+s2+l5aP8VkYqiToobwNNLlp5Y12ZFX7XhaDW1/dTQyt/q/ro/fQ9DZT/2iEmCHuPaVuO08S8Qxcy8bmQNc0phlpJUu4Sb5/gLmailiNfcxQN2rKIXbNHMOXu/HJ++X6L5XekJkLvY+U6qJWnLCj5qrsr+SP+K/W3SRrbt0ReEtq4r9umAby9rH5OnTtcjEoolY9AwH07jgjJ/PGfG8G6/ZRCJn/aHBP3KaEZ0xyFHtnEtPNrCFWqEp/0gpg9T3OU1j/bYELApwtX4vApztWqFNvaJ77R6FyZIlxiF2oH2ZKYmmjl22ZyyqxYZX0=;W6hXWHnB+Y+V0ovrSanl/Q=="
+secured: "KSjx5b+1P1qgQMvx7VQ1CtHLsYCtOx9WM9AM357HXZpWUkS15rVogjwlLPD+95rfz1uK59XQA0BA2D5uqt3z2gtZoB1iFiCt1UHsjeSuAEbJ3EpT8EQNHHSeEH8H3Jvag7OYZwNEV2ajtUWt456FI/hpRmFEoWWNs7oJ9W8OPI8hZ75hYLZiuUuM7FXmjPOVAJgqvpmOOIrUz7yFk377W/xu5fvImILoPjZQsiFKp7DScMC3PWlU4MjKpOsc9vqydbbIVjiv0tCaeauZWPHRcMANIpxclZIwrCPmdC3DDYh5EEGJpslmWIgSF4wF3oLd1tLpYny81Pm7XNYNC2c2sMH4/vkmVAy6324m7fVL9zA=;NIb0Q3JP1m3vBdvoTyNt1Q=="
 ---
 

@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-threatens-many-jobs-but-workers-still-plan-to-quit.md",
+      "title": "AI Threatens Many Jobs, But Workers Still Plan to Quit",
+      "excerpt": "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
+      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
+      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
+      "publishedDateTime": "2023-06-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-the-top-five-real-risks-of-ai-to-your-business.md",
       "title": "The Top Five Real Risks Of AI to Your Business",
       "excerpt": "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics.",
@@ -154,6 +256,58 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031.md",
+      "title": "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031",
+      "excerpt": "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -460,7 +614,7 @@
       "originalUrl": "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -823,7 +977,7 @@
       "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1090,143 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
-      "title": "Schumer reveals plan to regulate AI",
-      "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
-      "originalUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183968325726",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726",
-      "publishedDateTime": "2023-06-21T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-microsoft-azure-openai-lets-enterprises-feed-corporate-secrets-to-chatgpt.md",
-      "title": "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT",
-      "excerpt": "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
-      "originalUrl": "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg",
-          "width": 980,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/",
-      "publishedDateTime": "2023-06-21T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication.md",
-      "title": "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication",
-      "excerpt": "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T17:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
