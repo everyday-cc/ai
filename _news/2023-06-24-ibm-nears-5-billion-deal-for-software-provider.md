@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Agrees to Pay $5 Billion for Apptio Acquisition"
+    excerpt: "IBM has made an official announcement regarding its definitive agreement with Vista Equity Partners. The agreement entails the acquisition of Apptio Inc. for a total of $5 billion."
+    publishedDateTime: 2023-06-26T16:07:00Z
+    webUrl: "https://insidebitcoins.com/news/ibm-agrees-to-pay-5-billion-for-apptio-acquisition"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 24
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/4.2-1.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM Will Buy Software Company Apptio for $4.6 Billion"
     excerpt: "International Business Machines Corp. will buy software company Apptio for $4.6 billion, marking the seventh acquisition this year as Chief Executive Officer Arvind Krishna pushes the company’s transformation into a hybrid-cloud and artificial intelligence business."
     publishedDateTime: 2023-06-26T12:47:00Z

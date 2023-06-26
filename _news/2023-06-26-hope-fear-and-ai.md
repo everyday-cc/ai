@@ -29,32 +29,23 @@ images:
     isCached: true
 
 related:
-  - title: "Today in AI: How Artificial Intelligence can land you your dream job, AI in education and more"
-    excerpt: "Recent report states that 99 per cent of the Fortune 500 utilise an application tracking system. These systems are powered by artificial intelligence and sort through large numbers of résumés, categorising them into \"yes\" and \"no\" categories according to keywords, years of experience, educational background, and other criteria."
-    publishedDateTime: 2023-06-26T04:37:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 77
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Ethics Of AI: Navigating Bias, Manipulation And Beyond"
-    excerpt: "Addressing the ethical challenges AI presents now is the best way to ensure that the technology reaches its potential to benefit society."
-    publishedDateTime: 2023-06-23T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/23/the-ethics-of-ai-navigating-bias-manipulation-and-beyond/"
+  - title: "Artificial Intelligence And The Law: An Early Warning"
+    excerpt: "We have now defined the limitation of AI in its relationship to the law: AI cannot successfully engage in a nuanced or contextual application of the facts of a given situation to the law, at least at the current time and no matter how good the AI program purports to be."
+    publishedDateTime: 2023-06-26T16:05:00Z
+    webUrl: "https://www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/"
+    ampWebUrl: "https://www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6499b6af4bda2f60c762d65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "8La7O3E9ILDbj6rkBJey7i1EhngOi5mFZTLZfonWBdxRz80XS1Rag9w+Fv/f0+zUf+gYopuklcHZwVZNRAqDlG1skijV9KYSdawD4dLA+RPcmD70fjCmhWnncWB33TmFygRgeQ8qJ+qZU/ZqB4VWrr4bApth+FtgAnnZAOilrkAfxVHa9W29WCa27d0PY1njSmrPyMs3RwUW+4sItZdkrjGKg64NvI1VPR/BkGMYUdya66dBZIIyv/EjdYxJiNd3N+NTgsexX+B1snJwY9iYNga3nlFON+oizhQKkIigo+zvLaOayP8KDOSlrAdsN0WIjhL0QBj3BCNGV14FAqxDwxn7UqFXHPeGP3UaZgGNBGU=;/IdERdZGE6b6LfqZxGjfzw=="
+secured: "Ho+0fuEKAgO3AHIXvRWqrySK79n7v/U40D1vVZ0MoXGpdfEmW2wsDT+YjTUx8hGjVCLjTc6gAJR5RS/RT8VEyjo5Bczs30gp9p8S5o9DkteEngu9zhkBoRWAKngW1EzzGWSZ6BG+CCmtcagIpnF+rqDQkjbLZL1lvUWNbYuXStzL0dc6njVPKrRo4lubB4StYbMdMB5sZm6xICX4M0VjfKDdwSqDgpzNeu8MpWqYreYVSlVsbtIyYiD//F7xnFpKqylQNkaz0hYIQnU2WQGVgkYkTQ43l2JOa9BTpFyp3dl6XJ5N+nugOayuF3bGrQ5kpqGffHgC1GAxmgMCgfXAUQ2RACIcYiM9nR3Rf6CxR5NBc9ND31zfkYDOm1TZZM4CFSsOkbiSY7dAdGaq0BKp6QEnKvYQsZQ4EabVh6uz/CpzMOAxhfwvEEZh2UcWxlu5OfqULd/O8E7ovjyanW93FLs3EabTorWeyzXSE9p4FClUoDrJI+e21vqXfwuQpGb8tw5G6YFXl3/r6QficeuTog==;WZKNPXu+0z+dlJGUazsu0w=="
 ---
 

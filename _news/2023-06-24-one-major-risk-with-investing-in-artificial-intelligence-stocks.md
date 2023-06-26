@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-
 webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Motley Fool
@@ -26,6 +26,22 @@ images:
     width: 2121
     height: 1414
     isCached: true
+
+related:
+  - title: "10 AI Stocks Billionaires are Loading Up On"
+    excerpt: "The AI mania is quickly dividing the market into two halves, those who believe we are in an AI bubble that will not live up to the hype and all the stocks gaining on the back of the AI hype will soon"
+    publishedDateTime: 2023-06-26T16:44:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-ai-stocks-billionaires-are-loading-up-on-1158885/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://www.insidermonkey.com/blog/wp-content/uploads/2012/09/Stanley-Druckenmiller-e1354390334422.jpg"
+        width: 2472
+        height: 3235
+        isCached: true
 
 secured: "Cwoj4fMRmqutZ9OdPwLPBNait47Aj4f3i+1mnrnrcFxNOCF5O6mjSAAen+h6qStiI64EwKx+ylfkuk3UzP3coT0ySahNSuNXgJHxQPWjz9aRl7ob+WbYZGEyniTBJgL4Xn+eZvcY9vnkRTw5qbpDMY96+E/OwPSdaX0WCPR7WjEVgZcboTirhDk9Xv661WiEreYN+NC86f9f+JquaRdATRMDPMehZsUEKjpDbvrIdA2Xf6tQoxdoNKzmLkoZfNmJbXAe985F+xAlfaPK7CQtErJ2ry5anCH6e/Nus0FaIJ90JgdvduBdc5MV2DnhigdRefhhuclgP/5D0YxSU/sa9VrsVIO4oof10IY3qtz3+yA=;kze6s5k1lrfBvdt276r9VQ=="
 ---

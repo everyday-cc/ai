@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-ma
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence May Create More Jobs Than It Kills"
+    excerpt: "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by"
+    publishedDateTime: 2023-06-26T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI Threatens Many Jobs but More Than a Quarter of Workers Still Plan to Quit"
     excerpt: "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers."
     publishedDateTime: 2023-06-22T18:32:00Z

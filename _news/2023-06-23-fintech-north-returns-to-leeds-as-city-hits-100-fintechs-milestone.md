@@ -33,6 +33,20 @@ related:
         width: 6139
         height: 4093
         isCached: true
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
     publishedDateTime: 2023-06-23T12:00:00Z
@@ -51,6 +65,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "8J/9a+rPNrcTgMQ/dqdjbGGm/HbK3O5o/7vvAaUhYgc248zoGU5ah45uwbN9E6DHTpDI5L8nKrtJs5PebJ0crv1lPVDGAFYvdozTML5sMguOYtEjNtG+8tkOLdVDtuOCEW+ybZMlCWK4fSOPIAnl3xGsifA3kLvB/rgGTDeccZPEHhvLx1AAlIgzDUWaKoSd/dWkTm+wq8JA6lEM71g70Ng4z9k41xOSRD89a+oCu2bIblgVa09nywF7A0McIiv3Itymrf8FMWeDPq/WgSYpc3QvoaFVGS9wheE80elyGqJFmeJNFk5C81UQd5TAg1s0YjkCA+IVyCY1Cu65f657zeQMqktoj2+dofpSMyaUgT7XOckagTs8Vb5ZlRO94vzEWBU06z/gZpXVmCNK8iSajPFb0/K40rqVXX1vMVPjdg0DUnIVxaP3BHO/bXOXxhQQgmqfhq6ydo6iuEyoEIP+in+sUh4afCjQJNeXuxQ4TZH6AOfb0LKcgVzeIM8npdzenK0v40qdmljVIxZyS+iTWQ==;TIKJ7GCYwxoLGtzoV+KeXQ=="
 ---

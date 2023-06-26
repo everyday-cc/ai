@@ -2,9 +2,9 @@
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
 excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-publishedDateTime: 2023-06-26T14:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+publishedDateTime: 2023-06-26T13:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
 type: article
 quality: 12
 heat: -1
@@ -64,20 +64,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
-    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
-    publishedDateTime: 2023-06-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 60
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Satya Nadella Talks Microsoft and AI"
     excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
     publishedDateTime: 2023-06-22T03:00:00Z
@@ -112,6 +98,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
+  - title: "Snowflake Expands Partnership with Microsoft"
+    excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
+    publishedDateTime: 2023-06-26T16:47:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-expands-partnership-with-microsoft/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -149,6 +149,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "960rc4Ge9t7n170dc5K4CYRRzdKe0KePIHKKgph3s6I75N9JqV6hkc8ytz711ve/Yv0FQXgQYIxm2KgQ9IbM3GHgt8e89lnPY4YkyQIwbJX2AnQ4g0xpYYXetFqLcrw/xD7kc0Qh4ZTr/AdIVJjUCf2GD8eOVWvSevdgBl4S8SpQXjIPBwOpXivgGvryvxjvsJXI/9mEdahi3kge/DNvFkChPsxRNki593yx8OEzP+CPVW4kz9UzZIqQYToikZfxxG+CxvV1X7+Pl8+3yuaDjlUZ1jKjFkxy7jfmA83yT8dp5V+R3WObafVT/Cz1Y+abbzO4VrLzlFRZPcgaUxMPiWA5SmbfcuI6mVhw4Lwpffw=;khjR8977W4yESKUOB6izbA=="
+secured: "nmaG6OHan6pEiKamiCiQvzO/3CX37jLErFpH/Zqb6zG5VpqBc27Ab7jGmvTy2SBdHvkKA+Y83Y/vZCi1mdq4MIQDkQ56XAy+1OdlDHitBGVJPg4hjR1jhh6dfBctDqGkUswk6Emc95+t2XYXJRn/l+LjwiB3rnkYzfAcm28ps0kKzCZbou5SkPgUK4JN1XY70SLKPcWXwPpsxDgMwXQyF2FCxTsIZE0osBmWbUaNi+e4X+VoJJvoM4SWl4mecId1n3+Ihq7FmVyGql4ZKfusT+k2itds5qMeq+cCc37VZX9ketI8z5UONjOXEatGt38gztkAKMzhZZfEcTHHVKX48wkW5/d4in10dKv9BOyv4BE=;JHjAtZwV4jmnEeFFCH69OA=="
 ---
 

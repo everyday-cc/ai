@@ -57,6 +57,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
+    excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
+    publishedDateTime: 2023-06-26T16:13:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/artificial-intelligence-revolution-nothing-like-internet-bubble-16127306"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 35
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/29048444-0b6e-11e8-addd-fd11d05b714c.png"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "3v8u3M5ooIQ8+345VRwhqNL/f7Tv18eCNLDH6m9dq5t+frJIhBUsFSr9SYSH10XXlSU5MYtUX9yz3oAL5ieh3NCNvZufZufhXpw0Q0re8NsDz3YobJQPWEN+9GrpuXYmtRMAML7j/rbNW87F2nYlzlM6LZCEScB8JZNHIsIUbM6nNJW/6RDgpb8ci8zhTTGNUNFiQsbW1NWZuYkUTxlIr/knVe7zL0MQWhIK3c2ydJUCxArOXQKdT6zrLcwyhANbmVNiq+huEi09E2oZHNICXMdHPgkSb5fi2epEGICGLiX1rk+8A3dr4z5nyw5GKQW6tYGKoePxTUz+oEINrxGR+vnvn+cxoqAFUU4YwzBo3jo=;IOw5Z0wQ3nJ0l1x0NA/uKA=="
 ---

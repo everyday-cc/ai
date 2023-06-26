@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsday.co.zw/theindependent/amp/opinion-analysis/articl
 cdnAmpWebUrl: "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/theindependent/amp/opinion-analysis/article/200013142/ai-redefining-corporate-communication"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     width: 870
     height: 470
     isCached: true
-
-related:
-  - title: "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication"
-    excerpt: "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences."
-    publishedDateTime: 2023-06-22T00:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
-    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "LmF0WsYY0JvLKdHuAhdYmqtxtUXxk+D13pBurf0ue4U2e2VblNqogk0wFF+Vr/hEAdxPI06b59n9ZY17W9CC/WpMTsYunUsSIPjLVBwPcd5gCBIuRi/acumkLSRv4Tnr69T4tLh4041xhtM9LjAQHQ528vTW9sf1D6yW3CfpHui8v8UWBS/qivaDTzvmArVR7JS4pQ6SDVW73fkSpm/ZtujTHTnTRAp+oucPCtadqZfosVssMWGYvubhuUjRjFKgSSuKmZnw/a4sOIt86so+lSD+fVepGhZp0DzP5vUermyWBxc67Dnbd9DEryy+h6ivtgUfJcN2o+6ZAdtuQY9B1qzCx/whxyA3K0hzSczycpU=;Pzwc4qNkoX8yS7zyHbmx6A=="
 ---

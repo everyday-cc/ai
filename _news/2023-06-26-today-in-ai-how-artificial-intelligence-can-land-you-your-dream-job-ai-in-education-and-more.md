@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-how-artific
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hope, fear, and AI"
-    excerpt: "Some industry figures, like OpenAI CEO Sam Altman, want AI giants to steer regulation, shifting the focus to perceived future threats, including the “risk of extinction.” Others, like EU politicians,"
-    publishedDateTime: 2023-06-26T14:11:00Z
-    webUrl: "https://www.theverge.com/c/23753704/ai-chatgpt-data-survey-research"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/NI1o81hUl4Nlp9Uc_JjkLGtR96Q=/51x205:699x545/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24747183/header_2000_x_2000.png"
-        width: 648
-        height: 340
-        isCached: true
   - title: "The Ethics Of AI: Navigating Bias, Manipulation And Beyond"
     excerpt: "Addressing the ethical challenges AI presents now is the best way to ensure that the technology reaches its potential to benefit society."
     publishedDateTime: 2023-06-23T12:30:00Z

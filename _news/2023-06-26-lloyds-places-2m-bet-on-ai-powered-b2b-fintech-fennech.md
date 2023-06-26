@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
     publishedDateTime: 2023-06-23T12:00:00Z
@@ -51,6 +65,15 @@ related:
     provider:
       name: Bdaily Business Network
       domain: bdaily.co.uk
+    quality: 4
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "DVApEedh3QTiiV7FyEko0CKfKR3ReW5zjduqlMz3XOsy7TphQvmQBKA8SMwT5oI2gqeORgchKIeWTSiCoBx0M1hGyvrhCfq+PvK9xTJdhAcN91PapEu6yBhLUHYNkZCkrHT7eInzvAzJwH4BCsUsJ5K8P3yOvZueAxEH5UolWsMiKDntmSXIoIlchb3GBWGYTJVEWYyWRs+COM9QybMOY0ZshXMXkLEbvB0T7/1ktoyjp1auNj3ibpeylRbgPfyfpm42x8GHKxHlqRrhMPKbemwDZ6YCN0jKsQnfDZB+wxv/6PQNksptyneiqXiErRT5GACAEmFVl/W/rWqYrS7LifgubbR3YxWyU2eBC5D9YeI=;fktzffyv7X7lOuR2giRU4g=="

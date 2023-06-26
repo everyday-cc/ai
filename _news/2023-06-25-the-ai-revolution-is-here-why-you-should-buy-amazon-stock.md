@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-wh
 webUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/"
 type: article
 quality: 69
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
         width: 1024
         height: 681
+        isCached: true
+  - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
+    excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
+    publishedDateTime: 2023-06-26T16:13:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/artificial-intelligence-revolution-nothing-like-internet-bubble-16127306"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 35
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/29048444-0b6e-11e8-addd-fd11d05b714c.png"
+        width: 1152
+        height: 768
         isCached: true
 
 secured: "qoMy18Z1lk8Uyu0jzyo2EXOkL4gVDtcXhxWt+kQimswF5V2Yain95lbr3x6jxfArwlK9mQWGC0A8S2haXJooaJmIO3d74j8w07VI/XObvozPmxkA5TjNAiUCVSSJjHsi+MuBp763xZtRg3L9TCFlnlGZBf/Fq4vvRI4QyG6pC7l4XGgZBw7+1JsRx1MKen6Ds/32t8KPkSfFwRWj3nvuhx6JyLjQEV+/9BINliWeufAFDYPAhknEVu+HVn0p2OHmKzlH96YHVV35+/2Po2tqpeDNzN4tVr1WCJqC4eZgjTP5HP8R+UoM1hCv0kgFxwYR4EX/VFRu8i4buXVmbFLy3PKQzt14GPpiDytfdnhvVyo=;ftN6scweYM5B0LO732Sy/g=="

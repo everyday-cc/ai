@@ -2,11 +2,11 @@
 category: news
 title: "Clairvoyant Networks, Inc. awarded £80k by Longitude Prize on Dementia for AI / Neural Network Driven Fall Detection and Prediction"
 excerpt: "Clairvoyant Networks, Inc. has been named a semi-finalist in the Longitude Prize on Dementia for its innovative AI / Neural Networking remote monitoring platform for detecting and predicting falls amo"
-publishedDateTime: 2023-06-20T13:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f"
-ampWebUrl: "https://www.benzinga.com/amp/content/32924009"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924009"
+publishedDateTime: 2023-06-20T13:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32923996/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32923996/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f"
+ampWebUrl: "https://www.benzinga.com/amp/content/32923996"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32923996"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "Y2cGYT73WSAC0f4/5eqP+E8YUOam4sv5dRZhfoaN89iNtd8OfqaqyRBZ3uugjO9IrfZLNfN6Xf493xzOM4Dj1lwU/+DRDVrSGvztDHnhwK0Jzdb1xKkdmA5ClUTHR7N23oNGwUNs0OPy1uQDh9BL6cEGi+8B9gfJx6ua3qKHHAoY2ziO2Wh7bX9E3TiVy06OF/z2h+lrwWVdNJv1KOP5mGDljAunFpSxpfGwPCnRij89XtBMmSrBfthv2ENeH1RvOY6V7zYMTJvp1cDFE7pKBqQbNEDPRlPxrBG/x5sSB/ZRtGKelLgJ+RZa1IB3OSoh/yhdl7VUcODB6He1gw2wThstRe72MkjEHIA8HXD4A6U=;egVl90NWpOs2saVa+z8y6Q=="
+secured: "oe2S933jtUIKtvSfg8t2Q616+nangUmGDndBiUAYBI1g+1gK7yKuUjS4sUfZ33qn76E+9GcthkmeH+rgLbvDew8ptPly8hIkBx/KvxfSi8ss4KtK1dtzgAQEZGHSIsXnYkY5WOg1dyf/dsh0LIbaYmUB6mBYi013px9vvW8p3Xe0tuOSpwFIVX5oS60qTgaHR7VpLhFqda24GX26lA8kspzAMJzCleuzCeiyIshDX61MtUSg+5JC6pMBt1pGfQWdHWUiaT/4r+sk1/rTJp5MEVL0mkil8/Wntpy1MoV1Keplj5iWJIOYEgh0rdqYriRgvLtEqoxNr47vfPUO9Go1IOMAKK/dRzAhgB1WfyHpeq4=;Kp8Apy50BD84ntzOoP4Dig=="
 ---
 

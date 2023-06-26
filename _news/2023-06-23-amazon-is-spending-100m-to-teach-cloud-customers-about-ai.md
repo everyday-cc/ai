@@ -455,20 +455,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How To Invest In Artificial Intelligence in 2023"
-    excerpt: "In just five days after its launch, OpenAI's ChatGPT had garnered 1 million users. By April 2023, the generative AI program had achieved 1.8 billion monthly visitors. But ChatGPT is not the only"
-    publishedDateTime: 2023-06-22T00:08:00Z
-    webUrl: "https://www.aol.com/finance/invest-artificial-intelligence-2023-210840402.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/XAjJA60..dyGEM7Bhfq3SQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/e6058b0814e55efdb1d6c4360eb56972"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon launches $100M generative AI center, targeting healthcare"
     excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
     publishedDateTime: 2023-06-22T18:00:00Z

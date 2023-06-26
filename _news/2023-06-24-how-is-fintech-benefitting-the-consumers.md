@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/how-is-fintech-benefitting-the-consumers/"
 webUrl: "https://techbullion.com/how-is-fintech-benefitting-the-consumers/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,14 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Fintech And Mobile Payment Apps P2p Is Here With Convenience For Consumers And Business"
-    excerpt: "(MENAFN- newsfile corp) fintech and mobile payment apps; p2p is here with convenience for consumers and business . vancouver, kelowna and delta, british columbia--(newsfile corp."
-    publishedDateTime: 2023-06-26T12:19:00Z
-    webUrl: "https://menafn.com/1106503330/Fintech-And-Mobile-Payment-Apps-P2p-Is-Here-With-Convenience-For-Consumers-And-Business"
+  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
+    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
+    publishedDateTime: 2023-06-24T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 9
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
+    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
+    publishedDateTime: 2023-06-22T11:28:00Z
+    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
+        width: 332
+        height: 249
+        isCached: true
+  - title: "Corestrat Shortlisted As Finalist For The Asia Fintech Awards' Best Lendtech Of The Year Category"
+    excerpt: "singapore, june 23, 2023/einpresswire / -- corestrat , a leading decision intelligence company at the forefront of revolutionising lendi"
+    publishedDateTime: 2023-06-23T12:18:00Z
+    webUrl: "https://menafn.com/1106492288/Corestrat-Shortlisted-As-Finalist-For-The-Asia-Fintech-Awards-Best-Lendtech-Of-The-Year-Category"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
     quality: 0
 
 secured: "WbMVSlqUZyuexkW+PQIhZHLtQQbcspLIV9aQlPA51up78L85tgbCj2oV2QmuimNTGioEi2HDLNVmqGjwZRNe+6MBAZE13/FBRxfGwNcE1I6+zOEXF+LV5DRE1d7E45eTZRcjg4tbdqWvZvgEiVoWubSYdy5zXnuNFau0MTE84WlzuoVbXDHNqffJgSGwhF/iX/LzX5KXdnf5NPYhp1CrsE+9w2ZaIDhNcUz9BJbicssKC+AlWeu3L9yrkUHcZK16karv25QWfCfK3xQWnSNWuNlv1TsX317rwPV05AnrqvJ2aV/cm7jI+9dmMJC7xbyvkSgvxs29YDOhNNcUEnpOh8xoju5mcQH6DSElwWZRHII=;Guj8s81wb30RPgkObeeXCw=="

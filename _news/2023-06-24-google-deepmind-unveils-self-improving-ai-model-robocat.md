@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics"
-    excerpt: "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself."
-    publishedDateTime: 2023-06-23T15:26:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
+  - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
+    excerpt: "Google DeepMind is working on a new system, Gemini, that combines LLMs with reinforcement learning techniques used in AlphaGo."
+    publishedDateTime: 2023-06-26T17:19:00Z
+    webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 80
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://images.indianexpress.com/2023/06/RoboCat.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AI-5.png?w=1200&strip=all"
         width: 1200
-        height: 667
+        height: 750
         isCached: true
   - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
     excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
@@ -59,49 +57,37 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
+  - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
+    excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "DeepMind introduces self-improving AI model called RoboCat"
-    excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
-    publishedDateTime: 2023-06-24T15:02:00Z
-    webUrl: "https://interestingengineering.com/innovation/deepmind-introduces-self-improving-ai-model-called-robocat"
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
+    excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
+    publishedDateTime: 2023-06-23T13:59:00Z
+    webUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
-    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
-    publishedDateTime: 2023-06-26T08:00:00Z
-    webUrl: "https://i-hls.com/archives/119736"
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 48
+  - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
+    excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
+    publishedDateTime: 2023-06-26T17:13:00Z
+    webUrl: "https://www.onmsft.com/news/google-deepmind-devises-a-strategy-to-outwit-chatgpt-with-gemini/"
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 54
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
     images:
-      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "l0AH4hu51OAVKbxXBu5mpNYvgstRe0ch0C82OWCEsJwXZxszBmD3sY4eDaJYNWxg6GO+DIjjtSBzd+MYZ7vB4kbu1guT1BruKLkDUtnfaHttgfPilGBTbrovoC4SybotpZS2wq0qljduyr2P1LVR59OWe8ZMn3gQph7GE+qnbqrw9wK0vx1UK8UjNuNiYll3rDXPPezCmoYJzHYmNnEfL7yggTcVSdQ4sUC5iJgTwtm/a6An2OmrThr1VDwfKkkDGih9Vj+K1u+E/2PEq+VpdAiqxdaujpGaH2XXHdnOXEpecnbpbNQRfpN7Oj1iwUHQ9+mNtSdGvELTxX+JLJ6PbNuMZHfy8rqwtpshcicS35fE+NRx1mXZzo9VMHJR9anDUzHFuBxEz6v85Xqh0lDjFmmaWMQcTUCcQFix8qD9C1dDmxO0Of5yPNybrIQdmBdfkOBZhbqfommf9Ax/dS6/AqXwsLLQOqxxX8XpRRSWRXSMo2kVQXJ4aehtZihDf4zsT99/3jzVbOEXvkvJxH86yA==;gAX9QsSECnm/X2VmRyFYjQ=="

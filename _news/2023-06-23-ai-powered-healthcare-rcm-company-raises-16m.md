@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/ai-powered-health
 webUrl: "https://www.beckershospitalreview.com/innovation/ai-powered-healthcare-rcm-company-raises-16m.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
-    excerpt: "Never have healthcare's administrative burdens been so acute than in the face of post-pandemic resource and budget"
-    publishedDateTime: 2023-06-21T23:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/health-tech-startup-outbound-ai-completes-16m-raise-to-accelerate-growth-of-ai-agents-performing-administrative-tasks-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
     excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
     publishedDateTime: 2023-06-22T02:40:00Z

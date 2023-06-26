@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
-    excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
-    publishedDateTime: 2023-06-21T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
+  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+    publishedDateTime: 2023-06-26T10:09:00Z
+    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: altfi
+      domain: altfi.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+        width: 6139
+        height: 4093
         isCached: true
   - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
     excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
@@ -47,57 +47,33 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
+    publishedDateTime: 2023-06-23T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
     type: article
     provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
-    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
-    publishedDateTime: 2023-06-24T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "Fintech lending platform Upstart Holdings Inc ... Upstart is riding some powerful trends reflected in Wall Street’s enthusiasm for AI and bankers’ waning appetite for lending as the Fed ..."
+    publishedDateTime: 2023-06-24T01:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/06/23/middle-market-100-upstart.html"
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 9
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
-    excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
-    publishedDateTime: 2023-06-22T11:28:00Z
-    webUrl: "https://menafn.com/1106485039/Global-Fintech-As-A-Service-Faas-Market-To-2028-Increase-In-Adoption-Of-Cloud-Computing-And-Demand-For-Digital-Financial-Services-To-Bolster-Growth"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
+    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
+    publishedDateTime: 2023-06-23T13:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?28036"
-        width: 332
-        height: 249
-        isCached: true
-  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
-    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
-    publishedDateTime: 2023-06-23T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 0
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 4
 
 secured: "DvX5hx8VhaVI/L+Q2ZoUYYWd9cWHZ3ZBMLNaZB+3ryuL2SmryuK3/DIEYDYDrPfvqaX0RG6T/Tp6wyfEipC2IW8Sb1WkZUc0YiVBhuxdnLIeBiiTQb3d7410bheYfEMGGxnKGt3DnlZ9b9EPwYVPv62oZ0JJfSc5dB2tlwEBrMnVFVRdGZbvak4jmyOR3lFeEgB6fhyE5dJ9o5AqJkDWXnBF028sfTMVImub4Mb/fWIrV3UOFXJhAovIgz2X+WLJxAJIALokFBMVhPUa1NmUjJ13IMdLh6s8c4t3CgKYzrKRiLnsw/DqmaA5dyofQYVKUxTSTLFreHCe7hYj+70jiRWXIFG1u7KQjRYtF6dh3qc/PXr57avUWL/qIYYGRW8xzIeOfj7YJw5ftGD7xwiH+vpd8wArrKNROm7m53NUrRXAXG2PCGe8n0zvEuOnlHArq4pXnb2H9GnyXGmOHGt5NpNPEbmfrpW0XKZCfMKlU7/CjO99f/Yi1QRYpaCr6qF/YW6Kaq5kIkwY7JGDFmLlwg==;R2MqeSYPw2pMsBKZ6ynMAA=="
 ---

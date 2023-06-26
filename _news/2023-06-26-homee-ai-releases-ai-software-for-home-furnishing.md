@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-26T10:22:00Z
 originalUrl: "https://www.woodworkingnetwork.com/design/homee-ai-releases-ai-software-home-furnishing"
 webUrl: "https://www.woodworkingnetwork.com/design/homee-ai-releases-ai-software-home-furnishing"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://live-wwn-files.s3.us-east-2.amazonaws.com/s3fs-public/2023-06/HOMEE-AI-web-phone-V2.jpg"

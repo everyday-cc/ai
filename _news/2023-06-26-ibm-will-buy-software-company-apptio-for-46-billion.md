@@ -35,6 +35,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "IBM Agrees to Pay $5 Billion for Apptio Acquisition"
+    excerpt: "IBM has made an official announcement regarding its definitive agreement with Vista Equity Partners. The agreement entails the acquisition of Apptio Inc. for a total of $5 billion."
+    publishedDateTime: 2023-06-26T16:07:00Z
+    webUrl: "https://insidebitcoins.com/news/ibm-agrees-to-pay-5-billion-for-apptio-acquisition"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 24
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/4.2-1.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Mqp933rsTM0lwKLrH2f5uEazw/Qauml1oYmg0UVsbTctqfZg8UBOVH1K0vI67IZ3P6jzRXJUXLIEUSktLh661TzDsbrlQ9fOWMqi121/aaVHIRvdFWCG6Ao8+0v0ZG5Njrwr2GEBC4sQJ+5x/Yw4iODfFtxGa0assn6M8eeCPgUt/XRcfz2WjbdhdFyQ7dXjOsvdisMge5FQgLANSK4EE4A8ldUdm0iXZsKj3jGWLlBugvfJvOSkDP/qYdW4LR49Ez/lMdngdQbw7vgCorR6l5SeTSumDxSD5ta7g3hXCCJoT41D86f4C1cLRGuI+Ye0kxv/lx85cawludDcqpYmNv5xqvMdJb/K8jJWV0tSjm8=;bJSgm5kUvAHCZsmBdAOAJQ=="
 ---

@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Put AI to use, from chatbots to robots with this training bundle deal"
-    excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
-    publishedDateTime: 2023-06-24T12:12:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/put-ai-to-use-from-chatbots-to-robots-with-this-training-bundle-deal/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 19
 
 secured: "iQoIxLVucL31jSYAn04+SAKDGUj86BlGDdME3VlSo/TD4uYf8rvV6v+pRcORHUCTOCVkhgHGf8JFHpo5yRdJc8XBEmugdF4Ft1sKKnFhelmC+Np3m+MJlamZ75cudGjwEQDtXOqodq2ONh2yATE/YdRj8NOkEyNue/SOFItlse0RK86Sq19revbO0Mh+4MwNzYi6jJxOJzOsSWWz5DnuFfDEBsvu5IE6WVjMVpyrsesw0JvCed5oZpVEMExe6S+70kNmIvzbCtwiN0I0txiOuwG7Y8NCHoy3C6LIulwvWNBC9lE4eHQ1Ss6RWsQV+vWKreQdf0FNuGH4+8Hcno8vHzE0P305f1FeqrF6BTH7QKUd3sLARl1e1QHeMdKygmTFCqYnAdo6NmrrL6+U2vygvn7BsHkpCSIaUplm0/htm0PgB1qEi8Ewfuypq+1xVBey0RIxC9fTZPLh8bWPNBom1mmSNS2rV3Eo//vbjKbPcmUmhsaUxpQ4/5KRtI6bbK5ohbURqNM5kaHMlFrgO3U78A==;gbo3HF1ui3CXl3X1xHH4SA=="
 ---

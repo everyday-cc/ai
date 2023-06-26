@@ -24,6 +24,22 @@ images:
     height: 1414
     isCached: true
 
+related:
+  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
+    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
+    publishedDateTime: 2023-06-26T09:43:00Z
+    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 15
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+
 secured: "SRkqbmHeQ8oDsFnlWVpUuqHI6zfXzUAUZZboYN3762om1Md6pUlYoh2Ef70xfEpyfzhcJ3wtmGh9L5f1d68vRNhBL5i/7+sl1kfF8rQ9vaVYtCcbpwpsTCI/N7On2OI/q7kwx8TkmF0Fa4Z29caNXvM6W2YvMlHKZPBbumulhRkjSUyVOIrFICiI89Td/7avvGvpzh0UhstaaHhXG2PLo2Mv2ImAvRqoFRjttVZJCwSmV92Yz6QdERexgKjar//t0mbMRKaOSjo6AbYEIQlrEiGbgLmYruvRZfH/eig4TxZIC0BPxdrJEnt4YK0uh1W/qyakKGaXBAG/jN0tM0G32HuK8qIsLPQ68ujA9/mmWYc=;2xLx8ptbhzY/tqAQxtjIPA=="
 ---
 

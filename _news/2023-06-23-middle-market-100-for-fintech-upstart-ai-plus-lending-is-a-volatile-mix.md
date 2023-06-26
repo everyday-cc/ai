@@ -33,6 +33,20 @@ related:
         width: 6139
         height: 4093
         isCached: true
+  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
+    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
+    publishedDateTime: 2023-06-22T11:16:00Z
+    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "Fintech lending platform Upstart Holdings Inc ... Upstart is riding some powerful trends reflected in Wall Street’s enthusiasm for AI and bankers’ waning appetite for lending as the Fed ..."
     publishedDateTime: 2023-06-24T01:03:00Z
@@ -50,6 +64,15 @@ related:
     provider:
       name: Bdaily Business Network
       domain: bdaily.co.uk
+    quality: 4
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "hc1Scu7881fd+xrskonL354KTxhEie4VL+j7CXOgeCZob29E79DcBOeCoNxw963g7kVJiItQ0zz7tuQrG+E8hdmXKS9bliJmL0pO3McOelQ4m30Of9Mo1zMRb3Q/fXQrF5EiI/abeqnkp8Kw7Qrh2Jz/Ea60UEpL3tiI5tMuP9CZUtxxDJ3+RJoHN1Zye0JIePVg2XTfC87SSjuNFK6dLGT0MiKZNZ7AddEBqsqqnSF0cHITNsXlwYVWrLu49oTfIJp/AxXV/J5QiAgHN54OhO5kHgNaTiXQ+MmXQE+UyJQ3SLuCf+Ig3TaQllU3zABUokEEW8U4NpXBX6iftST0NwW2WXeg+OeayuRBFtxGa1jrQ9lQww5gDxNm04p1BWzsL1L+Tx9F1MTXTw/KWGvh9GOf3e3hsUQuU0WfLcCk5Va2C0ZzRe4NElStQ2vcN9lry48+Rq77kPlGXjbRc67efDvIENqWEHoX84R0obLA/ztbOUGwjkdD84i9cW28TIlmE8AVDxY2rPzNhKMfc2hkhA==;3MeNisi89FkNUMQ3d9oamQ=="

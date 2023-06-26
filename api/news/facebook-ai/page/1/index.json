@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-25-opinion-other-voices-federal-law-shouldnt-shield-ai-chatbots-from-liability.md",
-      "title": "(Opinion) Other Voices: Federal law shouldn’t shield AI chatbots from liability",
-      "excerpt": "The erupting world of artificial intelligence poses a threat to jobs, political stability, world peace and health and even, as leading AI figures warned recently, the existence of mankind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/",
-      "originalUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.greeleytribune.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/",
-      "cdnAmpWebUrl": "https://www-greeleytribune-com.cdn.ampproject.org/c/s/www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/",
-      "publishedDateTime": "2023-06-25T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Greeley Tribune",
-        "domain": "greeleytribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-25-the-ai-revolution-is-here-why-you-should-buy-amazon-stock.md",
       "title": "The AI Revolution Is Here: Why You Should Buy Amazon Stock",
       "excerpt": "Amazon doesn't ever seem to be satisfied with where it is. It's the top e-commerce stock by far, with about 38% of the market. For comparison, second-place Walmart has around 6%, and it only goes down from there. It's still only the second-largest company in the U.S. by sales though, behind Walmart.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1426,6 +1383,50 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance.md",
+      "title": "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance",
+      "excerpt": "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/",
+      "originalUrl": "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

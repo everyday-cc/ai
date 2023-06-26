@@ -19,48 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
-    excerpt: "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial"
-    publishedDateTime: 2023-06-21T23:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Exploring the Collaborative Power of Cryptocurrencies and Fintech"
-    excerpt: "The digital world is fast evolving and the cryptocurrencies and financial technology (fintech) intersection has become a driving force behind making transformative changes in this world. As cryptocurrencies gain wider adoption and fintech innovations continue to reshape traditional financial services,"
-    publishedDateTime: 2023-06-22T11:16:00Z
-    webUrl: "https://techbullion.com/exploring-the-collaborative-power-of-cryptocurrencies-and-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Cryptocurrencies-and-Fintech.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
     excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
     publishedDateTime: 2023-06-24T08:00:00Z
@@ -75,14 +33,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+  - title: "How is Fintech Benefitting the Consumers?"
+    excerpt: "Financial Technology, a.k.a Fintech, is currently all the rage. Be it in the news, during bank visits, or even daily conversations. The finance industry has adopted technology into its mainstream to make things easier for consumers and businesses alike!"
+    publishedDateTime: 2023-06-23T19:04:00Z
+    webUrl: "https://techbullion.com/how-is-fintech-benefitting-the-consumers/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Impacts
+      domain: techbullion.com
     quality: 4
   - title: "Global Fintech As A Service (Faas) Market To 2028: Increase In Adoption Of Cloud Computing And Demand For Digital Financial Services To Bolster Growth"
     excerpt: "these include the ai and blockchain technologies fueling the drive for innovation ... have revolutionized the way people conduct financial transactions, driving the demand for fintech solutions in the payments sector. fintech payment solutions have ..."
@@ -98,6 +56,15 @@ related:
         width: 332
         height: 249
         isCached: true
+  - title: "Corestrat Shortlisted As Finalist For The Asia Fintech Awards' Best Lendtech Of The Year Category"
+    excerpt: "singapore, june 23, 2023/einpresswire / -- corestrat , a leading decision intelligence company at the forefront of revolutionising lendi"
+    publishedDateTime: 2023-06-23T12:18:00Z
+    webUrl: "https://menafn.com/1106492288/Corestrat-Shortlisted-As-Finalist-For-The-Asia-Fintech-Awards-Best-Lendtech-Of-The-Year-Category"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "8FqWULemXpixnwiPniFj2aisJhwuWxo8tz0lzabMC+N5Oyda7usUzlGZjJ2pJK8Ebhe4qYPFKa1tBKH+XLMVpDKoSCu6k4L1+7XAwvf0taDPkLNnfcYtO1vFN7YkcLkns2EpGmQ66fdlZ5a+1SHVSJZFAoR6ekA5q8XFhaQaN2oCeDDAtgxh/8BSFfHakbvoEDK9hpcO1m3EVkh4qvLSxz8GaSMD6EvGDutakxFdwvwZYk+fwb4+J4l+tfPYIG35JwSPX7BbelB+9gGoLgS2lioi37bqXQLMYXp/hvmo/R0YgO11F2FV9hFcPeupQmuBV1iI8k2LSSZOyHxvOFqO9YfgL14yuMpmIxYhPp24tHwuNZcenGxt0zxtG6MyvqQgY/1MAyQDZA00Mst/Dostizer0vPhW7hxkikubuWEeB2Bmj3ltUnTHgksgI8v7qfmConRNguNWwXIenRqCHukbe5OBfaHkZMtOJ3QHSrcA2eDkhLN8/TYFCZQxushLCXkbqjRCcD1rR/T5/Jz7ZG4Ng==;2qYBzH5Xw9y9LHnyRSAXjw=="
 ---

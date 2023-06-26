@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
-    excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
-    publishedDateTime: 2023-06-22T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/06/22/azure-quantum-elements-private-preview.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 60
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140106REDPaoliNSAQuantum.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Satya Nadella Talks Microsoft and AI"
     excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
     publishedDateTime: 2023-06-22T03:00:00Z
@@ -107,6 +93,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
+  - title: "Snowflake Expands Partnership with Microsoft"
+    excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
+    publishedDateTime: 2023-06-26T16:47:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-expands-partnership-with-microsoft/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -145,8 +145,8 @@ related:
     quality: 15
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet
