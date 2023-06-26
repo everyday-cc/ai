@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
+    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
+    publishedDateTime: 2023-06-26T03:11:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
+        width: 1250
+        height: 834
         isCached: true
   - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
     excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."

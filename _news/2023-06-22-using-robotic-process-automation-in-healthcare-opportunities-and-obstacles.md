@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/22/usin
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/22/using-robotic-process-automation-in-healthcare-opportunities-and-obstacles/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "AI is revolutionizing healthcare… but for whom?"
-    excerpt: "Guillermo Pepe, Co-Founder and CEO of Mamotest, elaborates on the opportunity of using AI to expand access to healthcare in new"
-    publishedDateTime: 2023-06-21T10:40:00Z
-    webUrl: "https://impactalpha.com/ai-is-revolutionizing-healthcare-but-for-whom/"
+  - title: "From General to Personalized Care: GE HealthCare is Focused on Disease Detection and More Holistic and Effective Treatment Options"
+    excerpt: "At the Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 annual meeting, GE HealthCare (Nasdaq: GEHC) is proud to showcase new, innovative technologies and diagnostics that enable personalized medicine and precision care to help clinicians improve patient outcomes around the world."
+    publishedDateTime: 2023-06-24T13:01:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/from-general-to-personalized-care-ge-healthcare-is-focused-on-disease-detection-and-more-holistic/article_03472e51-0edf-53d1-b463-6a6ed14b17cc.html"
     type: article
     provider:
-      name: impactalpha.com
-      domain: impactalpha.com
-    quality: 56
-    images:
-      - url: "https://impactalpha.com/wp-content/uploads/2023/06/Mamotest-Argentina-patients.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 0
 
 secured: "fAz4Y1ohxc/lHlg37AKYPlJGFWAlV+yz//kDT6vB1aYZbL6ErmayJCBkGwUdG1yXqeB9RwNHzj041jqYb0pXvBbsp1/8Mb4WZhAFhf6rBouQ8H9t6ARWO5DSnuDX6QnDIJQ7lO9uZi9wCeswQgWkraZSxv/0TpHXCmAnPPKiVYuuTrrLn6nRcWgRtfBdrFkBJMObloaanV7+iB/opeZnVeDFH59nrYxblK/FstwwkQT5nYO/m5+g6MuVSHkZoc5YIOZcKFRbGGtYmCvLs5d6/+YFq9qFOdqAQE+fNZhqf094r3LxVQpM0l4OgAZkrJwZ7/OgL30Fm8WCzu6bho2ezF9fcEDJVIg6wDZR5lxV5Os=;9S28ojGL8pZ2f1bnM5D5FA=="
 ---

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Teleperformance, Microsoft sign $185 million deal to launch generative AI tool"
-    excerpt: "The company claims generative AI - algorithms such as ChatGPT that can be used to create new content including audio, text and simulations - will boost efficiency, accuracy and customer experience."
-    publishedDateTime: 2023-06-21T10:12:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool/101159781"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101159781,imgsize-98614,width-1200,height=765,overlay-etbrandequity/digital/teleperformance-microsoft-sign-185-million-deal-to-launch-generative-ai-tool.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "INPHER XOR INTEGRATES WITH MICROSOFT AZURE"
     excerpt: "\"Once migrated, customers can leverage all of the data analytics and machine learning on disparate data sets offered by Inpher's XOR while using Azure confidential computing to run those workloads confidentially, giving added protection from external ..."
     publishedDateTime: 2023-06-21T19:04:00Z
@@ -106,31 +90,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 56
-  - title: "Serious Azure Active Directory vulnerability resolved by Microsoft"
-    excerpt: "Microsoft has fixed an exploit in Azure Active Directory (AD) authentication. The vulnerability allowed intruders to escalate account privileges and"
-    publishedDateTime: 2023-06-21T10:09:00Z
-    webUrl: "https://www.techzine.eu/news/security/107857/serious-azure-active-directory-vulnerability-resolved/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/shutterstock_1942305688-scaled.jpg"
-        width: 2560
-        height: 1324
-        isCached: true
-  - title: "AI rivalry. Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "where an algorithm improves at tasks as it is “trained” on data – the advancement of techniques for automating the translation of languages and the acquisition of AI company DeepMind. The arrival of ChatGPT sparked widespread discussion about ..."
-    publishedDateTime: 2023-06-21T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-and-google-rivalry-could-supercharge-development-of-ai/article66992911.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
   - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
     excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
     publishedDateTime: 2023-06-23T12:52:00Z

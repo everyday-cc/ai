@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/7c66d104-0f7f-11ee-a92d-cf7c831
 webUrl: "https://www.thetimes.co.uk/article/7c66d104-0f7f-11ee-a92d-cf7c831c99b5?shareToken=ed6312c85e3ff97ac99c80ebbe20090a"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Killing It with Robots"
-    excerpt: "The company is hell bent on building robots and are acing it. The company has unveiled RoboCat, a self-improving robotic agent, which is able to learn and perform a variety of tasks with different arms,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://analyticsindiamag.com/killing-with-robots/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "xcV+MLgylyLtwz9J+O9x9aK2CvJH5xo9VzqxEnteqpPhWsjpHqV/jzYcg08eK6vcqlUKnU9ljdj6e7T8Le3lCw3qMfjRHd3H2h2b/AuJbwQ6Ruz72aO4rJnehtT4dbfPjkTaBloCMDuu7D9UPNYmPZfiYT2FKsIJL0Je4DwwSGE5iB+4xMsS9AXK4DS5OWRYh+nL7M8qNn2av9rFbJqicvX+3/uCpWVjC1EbTT53p6NmM/ERiS/F+ObRiAxfqBOLRahgfQMnx5Cq0Qdn7mntdG6kHMVAmthg5M1Pm8QsQpGA98JdPYhz47l/bQvgv2fR/44iSZU15t7xrIi8PSqIANF81xR0hbRAQeibsgEn2m7Bmcc4hkEdM5/otzT0s+66NpzgPqsvP7YDAoIin+m6c3TOBHyK6NH0V0CxozSNadFzIYMU2PZld/qA9WuNJjxd8HFHt/a/3K09052fmlisr8HcKShkURLjEcOkXqm2zmsYL7fRsMIcx51d2PqbaaQzqoUMpi1MAsSUe3wALD+FBA==;gsYb5hjv2OM663W7jBHG5A=="
 ---

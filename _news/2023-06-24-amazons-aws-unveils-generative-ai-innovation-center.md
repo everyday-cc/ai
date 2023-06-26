@@ -289,6 +289,34 @@ related:
         width: 1000
         height: 594
         isCached: true
+  - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
+    publishedDateTime: 2023-06-26T02:39:00Z
+    webUrl: "https://fintechnews.sg/75493/ai/aws-invests-us100-million-for-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/AWS-Invests-US100-Million-for-Generative-AI-Innovation-Center.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Aws Launches $100 Million Generative Ai Innovation Center"
+    excerpt: "(MENAFN- coinxposure) aws is developing a $100 million solution to compete with microsoft and google in the market for generative artificial intelligence (ai). according to bloomberg, the impending aws generative ai innovation center will connect amazon's ai and machine learning experts with clients seeking to develop applications based on the most recent technologies."
+    publishedDateTime: 2023-06-26T03:58:00Z
+    webUrl: "https://menafn.com/1106500435/Aws-Launches-100-Million-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/25/C_4a95bimage_story.jpeg"
+        width: 679
+        height: 452
+        isCached: true
   - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
     publishedDateTime: 2023-06-22T19:44:00Z
@@ -400,15 +428,6 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 34
-  - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
-    publishedDateTime: 2023-06-21T10:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
     publishedDateTime: 2023-06-22T19:13:00Z

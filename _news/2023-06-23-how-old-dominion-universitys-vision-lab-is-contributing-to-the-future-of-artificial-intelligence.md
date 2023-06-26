@@ -58,38 +58,6 @@ related:
         width: 1491
         height: 900
         isCached: true
-  - title: "Exploring The Impact Of AI On IoT And The Future Of IoT"
-    excerpt: "IoT can be seen as a huge network of connected things and people, all of which collect and share data relating to their usage."
-    publishedDateTime: 2023-06-21T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/21/exploring-the-impact-of-ai-on-iot-and-the-future-of-iot/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63b827a4513256cb5e429d7b/0x0.jpg?format=jpg&crop=5700,3206,x0,y266,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to future-proof your newsroom with AI"
-    excerpt: "FT Strategies shares expert tips on using artificial intelligence to newsrooms’ advantage and counter threats it poses to journalism"
-    publishedDateTime: 2023-06-21T09:45:00Z
-    webUrl: "https://www.journalism.co.uk/news/how-to-future-proof-your-newsroom-with-ai/s2/a1045763/"
-    ampWebUrl: "https://www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
-    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/how-to-future-proof-your-newsroom-with-ai/s435/a1045763/"
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 59
-    images:
-      - url: "https://www.journalism.co.uk/assets/189/Untitled_design%282%29.1.png_resized_460_.png"
-        width: 459
-        height: 306
-        isCached: true
   - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
     excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
     publishedDateTime: 2023-06-22T16:31:00Z

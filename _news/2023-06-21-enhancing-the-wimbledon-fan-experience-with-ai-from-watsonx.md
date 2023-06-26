@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-wi
 webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
 type: article
 quality: 134
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI powered by IBM Watsonx to drive 2023 Wimbledon"
-    excerpt: "Leveraging IBM’s Watson AI technology on IBM Cloud, these features analyze over 100,000 data points from every shot played throughout the tennis tournament."
-    publishedDateTime: 2023-06-21T10:24:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ai-powered-by-ibm-watsonx-to-drive-2023-wimbledon-78937?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 74
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2015/08/Tennis-and-SAP-deals.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
     excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
     publishedDateTime: 2023-06-21T14:51:00Z
@@ -91,15 +75,6 @@ related:
         width: 1296
         height: 729
         isCached: true
-  - title: "Ace!: Wimbledon to leverage generative AI for video commentary"
-    excerpt: "Generative AI is being applied to produce narration with varied sentence structure and vocabulary to make the clips informative and engaging, said IBM"
-    publishedDateTime: 2023-06-21T10:45:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/ace-wimbledon-to-leverage-generative-ai-for-video-commentary"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 19
   - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
     excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
     publishedDateTime: 2023-06-24T12:16:00Z

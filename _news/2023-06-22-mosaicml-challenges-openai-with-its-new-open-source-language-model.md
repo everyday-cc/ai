@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
-    excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-    publishedDateTime: 2023-06-21T10:55:00Z
-    webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 64
   - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
     excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
     publishedDateTime: 2023-06-23T16:16:00Z

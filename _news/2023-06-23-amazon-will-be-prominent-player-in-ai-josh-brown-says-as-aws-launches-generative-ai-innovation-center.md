@@ -289,6 +289,34 @@ related:
         width: 1000
         height: 594
         isCached: true
+  - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
+    publishedDateTime: 2023-06-26T02:39:00Z
+    webUrl: "https://fintechnews.sg/75493/ai/aws-invests-us100-million-for-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/AWS-Invests-US100-Million-for-Generative-AI-Innovation-Center.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Aws Launches $100 Million Generative Ai Innovation Center"
+    excerpt: "(MENAFN- coinxposure) aws is developing a $100 million solution to compete with microsoft and google in the market for generative artificial intelligence (ai). according to bloomberg, the impending aws generative ai innovation center will connect amazon's ai and machine learning experts with clients seeking to develop applications based on the most recent technologies."
+    publishedDateTime: 2023-06-26T03:58:00Z
+    webUrl: "https://menafn.com/1106500435/Aws-Launches-100-Million-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/25/C_4a95bimage_story.jpeg"
+        width: 679
+        height: 452
+        isCached: true
   - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
     publishedDateTime: 2023-06-22T19:44:00Z
@@ -409,15 +437,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
-    publishedDateTime: 2023-06-21T10:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "e4lG17EXfboXp79bECy17ekp5ovqwjUMWte0lEJT/Z1Jw/mQNm/MET8SjlltcFYqY76mDshlYNJ8oefIyX6yILA5ZEU9TR3goKTkfunJwqAbwF38drvS3sZdNePD4HJF6i/kQP5Mzv4ukc07RE6sME16uxLO35sK6uhqKNmkTRuoJg19edA0Hq2Zk5WPx+Pb8zubRcCXLjdnKK6xbo6Hh+aj+J4y/5ENg75bjBQFjxGpu0l8WxqcRA3V03yBL6aglx/c2nN2IKJoup+ViFg7gMJLYBczxv/I0+oLjl9NstGp5Ki/laaTPMdXIqAoPxEXzE+nsAPR02C9xiNd5qa+ApgGD51BFzwgs4QtpFh/06g=;osOBHaUUcYmrWgb9HG3yfQ=="
 ---

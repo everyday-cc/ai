@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-31-china-begins-drilling-of-ultra-deep-oil-well-in-tarim-basin.md",
+      "title": "China begins drilling of ultra-deep oil well in Tarim Basin",
+      "excerpt": "This aerial photo taken on May 30, 2023 shows the drilling project of a borehole over 10,000 meters deep for scientific exploration in Northwest China's Xinjiang Uygur autonomous region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202305/30/WS6475e8dca310b6054fad5d69.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202305/30/WS6475e8dca310b6054fad5d69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
       "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1338,49 +1372,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more.md",
-      "title": "Amazon Web Services CEO Selipsky on its growth, India market, AI bet and more",
-      "excerpt": "India continues to be a big focus area though where AWS does enjoy a leadership position. Having invested about USD 3.7 billion in India since 2016 to set up its cloud infrastructure and service the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/05/adam_selipsky_aws-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp",
-      "publishedDateTime": "2023-05-18T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -45,6 +45,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
+    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
+    publishedDateTime: 2023-06-26T03:11:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
+        width: 1250
+        height: 834
+        isCached: true
   - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
     excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."
     publishedDateTime: 2023-06-22T21:04:00Z

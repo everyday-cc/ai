@@ -81,20 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Secret Invasion: “Gross” AI opening credits divide MCU fans"
-    excerpt: "The opening credits sequence of Secret Invasion was made by AI, and people can't work out whether it's \"cool\" or \"gross.\""
-    publishedDateTime: 2023-06-21T09:28:00Z
-    webUrl: "https://www.dexerto.com/tv-movies/secret-invasion-ai-opening-credits-divide-mcu-fans-2184401/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 37
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/06/21/secret-invasion-ai-opening-credits.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
     excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
     publishedDateTime: 2023-06-23T15:19:00Z

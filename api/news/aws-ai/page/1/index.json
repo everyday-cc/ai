@@ -63,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -260,6 +260,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
+      "title": "Old Mutual Completes All-In Migration to AWS",
+      "excerpt": "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1454,50 +1488,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce.md",
-      "title": "ThingLogix and Griptape Empower Enterprise Customers with Artificial Sales and Service Intelligence on AWS & Salesforce",
-      "excerpt": "Partnership looks to enhance enterprise capabilities and accelerate adoption of Artificial Sales and Service Intelligence technologies ... the power of AI on AWS and Salesforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/",
-      "originalUrl": "https://www.wpri.com/business/press-releases/ein-presswire/634726270/thinglogix-and-griptape-empower-enterprise-customers-with-artificial-sales-and-service-intelligence-on-aws-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2023/06/cranston_.jpg?w=2000&#038;ssl=1",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPRI 12",
-        "domain": "wpri.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
