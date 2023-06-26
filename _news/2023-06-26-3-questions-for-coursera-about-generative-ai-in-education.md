@@ -42,36 +42,6 @@ related:
         width: 1391
         height: 900
         isCached: true
-  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T07:42:00Z
-    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
-    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
-    publishedDateTime: 2023-06-22T20:12:00Z
-    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-805133/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
     excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
     publishedDateTime: 2023-06-22T16:01:00Z
@@ -86,6 +56,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
+    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
+    publishedDateTime: 2023-06-22T23:47:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
+    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
+    publishedDateTime: 2023-06-22T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
     publishedDateTime: 2023-06-23T17:07:00Z
@@ -108,20 +101,6 @@ related:
       - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
-    excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
-    publishedDateTime: 2023-06-23T18:32:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/well-need-to-put-humanism-at-the-center-of-generative-ai-to-reap-its-rewards"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 36
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "9d/I5BIKIARczMNrKksm1CyQ3MSK10bobZcMr7caX2EzoAKukVnZV6+GEHqewdQL6tgerihcgRiST2FigzBjGaUMUGQUo+hXXtsvQiogkqGtgXQiySdpRdl0cL5O2jsTdP3Z+TX70oOZmtpbT2qgLgy6uQbdRyvOwicWlee4mvcq6+4QgNAc5t6TdoLbISxIz4O+v0c4mLy6cntaCFTig3X13b15JALg7krQgMGxWG8w4sz90PKxKsSu7LDGbF2Vn/JpNC26B9PioFuTPRO/Av88P0TNMOSXkVdhPkC56FE/Tq57iWhRufiQ7uU5pXxXs2trKncx4/GuTSScvLBrqgbXQ+WZc9754YgU30Ojo/M=;p/94jJVH/FooWr3aTgYJiA=="

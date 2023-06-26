@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-r
 webUrl: "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 2000
     height: 1125
     isCached: true
+
+related:
+  - title: "Generative AI in PR and Marketing: 3 Core Issues"
+    excerpt: "B2B professionals should treat AI as a complementary tool to achieve a higher level of consumer engagement – not as a replacement for humans."
+    publishedDateTime: 2023-06-21T20:04:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-in-pr-and-marketing-3-issues/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/ew-chatgpt4-vs-claude.png"
+        width: 1400
+        height: 707
+        isCached: true
 
 secured: "QCIHyrHtyScqOCbfzTzDBI8fwOWrRkfCv16aPoB4Rc0RLA5bFce2xqNQOGgPnoll5ofuIF1mv5JQqrAiP2YQ8HeaXBLBKI12UWxWgn1DmkFqp1VSEfU/2rMILCpsZ8VHZ+jILa6b7jxm9fP/Wu/x0mNxjv9Hhs85ymVDCOLv83MTbAS+94eOAVpTOliLLashKC67gVWF7u3j/jX0g0Ki4TV04hqcPw0v6DyuulzkmUuRfUGK9gEu8emdXDtG8B+zoiLVD4hO0zKam4M/l/00WnxLwWE4TxA4yvA7VyRxB0EHYV9PXz6jO4MG/2PZSxstuVbq2XNXjoNotVn4eaHXHZxKncsP+9xgPEcntGwivDs=;XCxGvIB0YMrUZL0uY991hQ=="
 ---

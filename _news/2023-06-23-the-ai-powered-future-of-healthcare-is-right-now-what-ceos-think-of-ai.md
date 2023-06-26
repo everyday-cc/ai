@@ -57,6 +57,22 @@ related:
         width: 1491
         height: 900
         isCached: true
+  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
+    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
+    publishedDateTime: 2023-06-26T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 880
+        isCached: true
   - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
     excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
     publishedDateTime: 2023-06-22T16:31:00Z

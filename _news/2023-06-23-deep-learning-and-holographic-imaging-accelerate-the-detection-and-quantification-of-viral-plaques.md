@@ -41,15 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Accelerating scientific discovery with Azure Quantum"
-    excerpt: "Microsoft is announcing new advances to Azure Quantum aimed at accelerating scientific discovery. From the Iron Age revolutionizing agriculture to the Silicon Age revolutionizing how we communicate, new materials have always created inflection points for societal progress."
-    publishedDateTime: 2023-06-21T18:24:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/06/21/accelerating-scientific-discovery-with-azure-quantum/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "HfRlEx1UUja+Tdoe4loKgOO7YMlaIRUKxI/d40OltGJNDD9OlNSK/81dOCnOYCOPdq/ZO7JYLlL/9DfEcFc3cZqoO6OVSIXOn6awLYlWKcdTrl16ZkSjsHO7AxBq6GOtfeb5KHc/jPT17fGKTZF58p3A0IdI21NlPBJdDiuyktQVkiUeSZMj+b7Fpve6Y29GJ2fxsKcixMHI/T9MyYRp9mQeJFaUS+bWoGfrmd2jl0yfYdcc8inHPyVNbMpKUaNHpDiUu1YVd099XW4UGIF3hMB/JasSZmVpepPcZ9B/sUUKm+l8N1UcZ6ReGpF7ckiP9J0DY6yUIPi6TOA3E5DRasAhY4wkNeHu/Hk/ejEL10noY90TKpJUANoYPVOKV7xTmf6qdL8n9NJKYAuylkGylHbESDI/jOuNN0E6JfwBYQiCOFYg0oL86ZSFg/0Af7isKOPlCz+TdTk330oHLnnSZLUyWS8rhreSxsFr7j30y3F8nh+Iyg/fitAu/5H/Y0wmmBtTWrf3Qvxi/WnOxY0V4Q==;ExTc1Lcv6lD3x5vJnMqbvA=="
 ---

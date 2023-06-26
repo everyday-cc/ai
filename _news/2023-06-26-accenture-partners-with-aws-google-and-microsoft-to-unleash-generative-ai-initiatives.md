@@ -40,31 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft and Google rivalry could supercharge development of AI"
-    excerpt: "Microsoft and Google have recently made big investments in two of the most valuable companies in artificial intelligence (AI). OpenAI, which developed ChatGPT, has received a staggering investment of US$10 billion (£7."
-    publishedDateTime: 2023-06-21T17:23:00Z
-    webUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-microsoft-google-rivalry-supercharge-ai.amp"
+  - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
+    excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
+    publishedDateTime: 2023-06-26T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html"
+    ampWebUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/microsoft-and-google-r.jpg"
-        width: 1356
-        height: 668
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/17/11/m365copilot_business_1920x1080_print-100938654-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "INPHER XOR INTEGRATES WITH MICROSOFT AZURE"
-    excerpt: "\"Once migrated, customers can leverage all of the data analytics and machine learning on disparate data sets offered by Inpher's XOR while using Azure confidential computing to run those workloads confidentially, giving added protection from external ..."
-    publishedDateTime: 2023-06-21T19:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/inpher-xor-integrates-with-microsoft-azure-1032402586"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft Releases Private Preview of Azure Quantum Elements with Copilot AI Capabilities"
     excerpt: "Microsoft this week described some of its advances in quantum computing, along with new resources for accelerating scientific and industry research."
     publishedDateTime: 2023-06-22T00:00:00Z
@@ -155,6 +146,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "qWMWe3bJ/0ya4H5QHGxT8KrrXnzRIceeohVdq3cGoQWYASlpAADDwWPZ/ypWvQzy8ejiNH88QyPjTMNYq1sHHp/dokeh+/rvOpkMAGTwcBzxBvdbf89h8ROTvdrKdlsGs1rrLf1/gQuujowRmwb0p9cR45tAVAQtvEEjPl0ztSyKWWBOA5MJCIg/QlKjoAWxVlvmN34vcCWT4jqO/aUaP1+bv9cJrvl4ARlV5T1LJ8g5xO/LK8ecFQ5uzTm051OQZQEpnjEBMdVVGiCVPkVx41XA6hYubVjqNeP050m3qN6l8hFHlBOa+atP2gmtMHqxJX57mygjEKp/K+CckZAtXArgXsvnmu4URSVI4LU3Nlk=;teRW8Yl9+W3GgZgbQexMsA=="
+secured: "qWSfq685MeoVTh/FTRemjM2IVAwedvJZcUjj9+ALHDyQw0fu3OtA4OpZ9TEmt5oJtitXFWnY9kgfDqDaBmnEyhFlKQUqYVOw5bRUOYJggOVDVxqgAX6nJbURwmtKImSgqYaIlJcIWDD/n2v1QgkUGTsZxicQ8j/ZX2T9ybAGC5HSSsGZAVf1e308xC1+vn2kUSXw5pAMnZni/pnF+yShn6qBQWtkAraACcbHzhJ7mW0kGDug0/7ZPI1VThEVPbI2TtqU4MNVwypjTnXmhUuuz3MzSmIZ6idB8xkwCr34U9atjXT14YduMWHkLU1twRM8LkZ6PHDzcUi03rl9Zxl33QROKop1JIstFm+Kt3wLexjTcxpxl7qN7O9N2VVFdxX8JJnSSDAyvzRomI9H+JidoPLNw3thmNhuhBAw1XsN/dbcusov3o69G+jaZ1ZnYFtf2XoKNp0+Sm4qKOa8DaDTZNksOSn3E4JdzhtCiLHyct4WYhEtOaD3VLBvzaC+KtDwLflvFvAS2/KnopiX/Qe5Qg==;XeAZiDMQOkX2g7/wWImvkg=="
 ---
 

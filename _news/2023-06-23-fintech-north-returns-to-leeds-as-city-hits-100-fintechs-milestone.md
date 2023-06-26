@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+    publishedDateTime: 2023-06-26T10:09:00Z
+    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+        width: 6139
+        height: 4093
+        isCached: true
   - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
     excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
     publishedDateTime: 2023-06-23T12:00:00Z

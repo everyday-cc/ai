@@ -47,6 +47,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
+    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
+    publishedDateTime: 2023-06-26T09:43:00Z
+    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 15
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
     excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
     publishedDateTime: 2023-06-24T08:00:00Z

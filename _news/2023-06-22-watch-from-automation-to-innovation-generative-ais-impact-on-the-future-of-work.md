@@ -28,47 +28,109 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: The Next Frontier For Business Innovation"
-    excerpt: "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ..."
-    publishedDateTime: 2023-06-22T14:49:00Z
-    webUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
         width: 1200
-        height: 764
+        height: 800
         isCached: true
-  - title: "Is The Drone Industry Ready For Generative AI?"
-    excerpt: "With the implementation of advanced flight controllers and intuitive AI, any person could quickly pick-up a quadcopter and fly or even start taking professional grade videos. This evolution democratized in many ways the low-altitude skies and in the same ..."
-    publishedDateTime: 2023-06-22T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
+  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
+    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
+    publishedDateTime: 2023-06-25T20:29:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
-        width: 709
-        height: 472
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
-    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
-    publishedDateTime: 2023-06-22T13:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
+  - title: "AI’s regulation naysayers protest too much"
+    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
+    publishedDateTime: 2023-06-21T20:07:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
+    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
+    publishedDateTime: 2023-06-24T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
+    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
+    publishedDateTime: 2023-06-21T19:25:00Z
+    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 9
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "fRNk/DCBbq8yjw+JU1fMUSR8DhEw5ULnfs7Z1KfJhHSqf8DGIo+aeFO7p6YcpWJeIGUPEmt1QqbkjSs8pN1N11PmCasTkoSPcVF9SjFIClmBmh/RQI1bDnHIUYqpy4AWkj915jM8+BLD/iCHxwsATB8wxBxjC35e2OHr/r3zR4o2jBaFpBwicYI5zF95ZnqjrTnGl5YDYzJA3nRbSiTBipa02I3rC3jVL97Mj5DdM7PGmkvR3KAC8YkNh7vJ1lJTYt3m1GFjZKYhVOq3NPRa+9S5vUGgQF0oi+ehM6ucdsKJdyCq3CnxcYMKkmCy+TKhsJkEuZ0u2USyOhWVOAGNLirAxAJPuqrlhjCRADrpSxY=;f78NUdJn2TVq9K/Skwi6VA=="
 ---

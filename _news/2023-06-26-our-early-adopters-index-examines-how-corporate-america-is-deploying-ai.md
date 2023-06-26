@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speculative headlines about artificial intelligence are missing the point. Here’s what America’s top CEOs told us they intend to use A.I. for"
-    excerpt: "It is hardly surprising that professional services CEOs such as Solomon have such nuanced reflections on where the workflow lines get drawn between artificial and genuine ... a faster and higher scale. Solving health care’s most intractable problems ..."
-    publishedDateTime: 2023-06-21T17:21:00Z
-    webUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/?ref=biztoc.com"
-    ampWebUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 54
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1258535133-e1687352365129.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
 
 secured: "arxQgM6pv3vkk+FeyAqxB2RgZa6Yir//xstHq4BnmyMpOWqMNkJ6/iQbyCg/Sn0mPeAhxgN6Hy8h59Fd+mOFxw86l4us8Qby2VLvMscCXV3BOg0OVATRlFLdAK7JOPsBMLihyNCR0/M0wkwKJ2PzSHAFG1mWHarMrif/7jwGL9m68537tzw4Dx6M/9ailQgUcLSx/h4Plqsalh1XNpXvHWaeo4MvAoqbW9Q1ZjcLLw5cPtPhRf9FK0k1aHxXnkQvuTzWpH2JebM0pteq1IiumJzV5vC62aUICmWFdbZJJTCY/M1cv6Gv9qB0rnEUygwXv4m1EHTRDw2EBuR7x47sNYwcqKLA3xR3j4hd0PZZ4QqPiOik2AQPMUkG7HAUhn73CAghejET3PFbLpuZblP7fJzeXhVWk+FmSCtWq3P6fnnmVYWq1J2GkKOoKindeRTaK06XtFlkINpxdmi1JjUzAdI1xJN6PChyimMOYD242i1GqxNtEW3bc7kkitc5DLy/dAffoHSLxtoyUlxmTE0ZQA==;41//oS1Mc/qiQkOoJaeGkg=="
 ---

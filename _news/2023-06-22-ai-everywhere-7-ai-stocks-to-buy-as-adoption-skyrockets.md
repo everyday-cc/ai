@@ -37,6 +37,20 @@ related:
         width: 2265
         height: 1511
         isCached: true
+  - title: "Health care’s AI revolution is well under way"
+    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
+    publishedDateTime: 2023-06-26T11:34:00Z
+    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "aC3G3d0FgsnBdmwDw0shh/6rtRap3fm+hfeSzqPSW52MWb5PQh2gMrXpVrmzPVpEKIFrqepRM3dBKQh88LwNn7YRnAdkzDcvnh6VJ3a6xMBteCcZFP8mPp6mqU6InJ2Ve77e+/XjcXPiWIbtJJM7uQ07lEHPx5/8rl3sml9NA+nfInF+VM1iEyN452IUn5S75DvEvXoci7J4sWDF0y2QPJuuMya8CJb6GecFJ+xdsoUcpY4i2oa93DL9EzdV0C0lvk7MuAAdyCMwvwfTU5+qQEgvUkZ78uv4rX6RiWuzmHnXGXA5oCsC5dqjM5deFGXTHv2xeYA+0CwWKwvWaa7QoBR1w66pigdWmqQMPUJN5DCZzpNRi1++LHJ+07m8+fyoZ6ip7Zx9iKuF9ddttHJKf0O6i8F1in/2eXpeZT1JPvHIHDsz0kPldhUVuilWRS5N+xRR1SQnqX5nyAxF0B2oeXswXHQsts0xtpEDjIzD8b6T9Rbt3+pfRGjOwf582A8ch6LagHTe3ddvFFR6SduvIQ==;nTtzCk9Xvypb3N5bYepEoA=="
 ---

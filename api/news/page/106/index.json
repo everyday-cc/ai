@@ -2,6 +2,221 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2023-04-20-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-how-much-more-can-autonomous-cars-improve-waymo.md",
+      "title": "How Much More Can Autonomous Cars Improve? Waymo!",
+      "excerpt": "Alphabet’s autonomous vehicle subsidiary, Waymo, remains optimistic and the company points out that while other companies are suffering high-profile collisions, Waymo is continuing to deliver autonomous taxi services safely and reliably in Phoenix ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
+      "originalUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Waymo%20Pacifica%20Passenger.jpg",
+          "width": 1527,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
+      "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
+      "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
+      "originalUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+          "width": 1125,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-new-neural-network-uses-common-sense-to-make-fake-bird-images-from-text.md",
+      "title": "New neural network uses common sense to make fake bird images from text",
+      "excerpt": "The network was trained using a database of bird images and text descriptions. The generated bird images achieved competitive scores when compared with those produced using other neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/986789",
+      "originalUrl": "https://www.eurekalert.org/news-releases/986789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f6a456e0-9812-46af-848c-84b4f9c4373e/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-amazon-and-microsoft-vets-raise-10m-for-computer-vision-startup-used-in-warehouses.md",
       "title": "Amazon and Microsoft vets raise $10M for computer vision startup used in warehouses",
       "excerpt": "A new Seattle startup wants to make it easier for businesses to monitor their warehouses using artificial intelligence and computer vision technologies. Groundlight emerged from stealth Wednesday, unveiling its",
@@ -899,232 +1114,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-chinese-ev-giant-byd-says-self-driving-tech-is-more-valuable-for-factories-than-cars.md",
-      "title": "Chinese EV giant BYD says self-driving tech is more valuable for factories than cars",
-      "excerpt": "Many electric car and tech companies are working on self-driving technology. Using a form of the tech for assisting drivers with parking and other tasks is increasingly a feature that Tesla and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107227471-1681859635999-IMG_8936.jpg?v=1681870045",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/19/chinese-ev-giant-byd-self-driving-tech-better-for-factories-than-cars.html",
-      "publishedDateTime": "2023-04-19T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath.md",
-      "title": "AI Computer Vision Market Hitting New Highs by 2030 | NetApp, IBM, SAS, UiPath",
-      "excerpt": "The AI Computer Vision market report provides a detailed analysis of global market size, regional and country-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-hitting-new-highs-by-2030-netapp-ibm-sas-uipath-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot.md",
-      "title": "A Brief History of Artificial Intelligence (AI): From Turing to IoT",
-      "excerpt": "Artificial intelligence (AI) as a concept dates back to ancient times, but modern AI began in the mid-20th century with pioneers like Alan Turing.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
-      "originalUrl": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/1-intro-to-crypto-tax-gID_7-pID_1.png@png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positional-analysis-data.md",
-      "title": "Bologna FC 1909 becomes the first club to use Opta Vision, Stats Perform's new AI-enriched positional analysis data",
-      "excerpt": "Leveraging the richest sports database, Stats Perform enhances sports competition and entertainment through machine learning and computer vision to create advanced predictions and analysis – be that for digital and broadcast media with differentiated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31882980/bologna-fc-1909-becomes-the-first-club-to-use-opta-vision-stats-performs-new-ai-enriched-positiona",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-could-be-secretly-working-on-own-ai-chip-heres-everything-you-need-to-know.md",
-      "title": "Microsoft could be secretly working on own AI chip, here's everything you need to know",
-      "excerpt": "Microsoft is reportedly working on its in-house custom AI processors to minimise its dependency on other chip makers. To those unaware, Microsoft invested $1 billion in OpenAI, the company behind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
-      "originalUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

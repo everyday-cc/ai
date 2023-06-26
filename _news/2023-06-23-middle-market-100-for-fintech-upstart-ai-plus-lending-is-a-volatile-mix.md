@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-
 webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+    publishedDateTime: 2023-06-26T10:09:00Z
+    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+        width: 6139
+        height: 4093
+        isCached: true
   - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
     excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
     publishedDateTime: 2023-06-23T13:37:00Z

@@ -75,6 +75,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
     excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
     publishedDateTime: 2023-06-24T07:19:00Z

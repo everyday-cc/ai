@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-06-01-taskus-shares-rise-on-launch-of-ai-customer-service-app.md",
-      "title": "TaskUs Shares Rise on Launch of AI Customer Service App",
-      "excerpt": "By Sabela Ojea Shares of TaskUs on Thursday rose after the company said it launched a generative AI customer service application named TaskGPT. At",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "originalUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "publishedDateTime": "2023-06-01T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-accenture-acquires-nextira-expanding-engineering-capabilities-in-artificial-intelligence-and-machine-learning.md",
       "title": "Accenture Acquires Nextira, Expanding Engineering Capabilities in Artificial Intelligence and Machine Learning",
       "excerpt": "Nextira will join the Accenture AWS Business Group with a focus on media and entertainment industry clients . Accenture (NYSE: ACN) has acquired Nextira, an Amazon Web Services (A",
@@ -1415,6 +1363,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-new-survey-finds-financial-leaders-investing-in-analytics-ai-and-machine-learning-tools-as-they-navigate-economic-uncertainty-in-2023.md",
+      "title": "New Survey Finds Financial Leaders Investing in Analytics, AI and Machine Learning Tools as They Navigate Economic Uncertainty in 2023",
+      "excerpt": "OneStream unleashes organizational value by unifying data management, financial close and consolidation, planning, reporting, analytics and machine learning. We empower Finance and Operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230504005722/en/New-Survey-Finds-Financial-Leaders-Investing-in-Analytics-AI-and-Machine-Learning-Tools-as-They-Navigate-Economic-Uncertainty-in-2023/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230504005722/en/New-Survey-Finds-Financial-Leaders-Investing-in-Analytics-AI-and-Machine-Learning-Tools-as-They-Navigate-Economic-Uncertainty-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

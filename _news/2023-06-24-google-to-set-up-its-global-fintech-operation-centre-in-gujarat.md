@@ -69,6 +69,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
     excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
     publishedDateTime: 2023-06-24T00:53:00Z

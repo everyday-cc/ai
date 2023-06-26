@@ -22,45 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Dropbox launches $50M AI-focused venture fund, intros AI features"
-    excerpt: "Dropbox AI — powered by an OpenAI model via OpenAI’s API — can review and generate summaries from documents as well as video previews. And it can answer questions in a chatbot-like fashion, drawing from the contents of research papers, contracts, meeting recordings and more."
-    publishedDateTime: 2023-06-21T18:40:00Z
-    webUrl: "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/"
-    ampWebUrl: "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/"
+  - title: "Europe launches massive AI test facilities"
+    excerpt: "A 220m€ investment launching on 27 June provides a permanent capacity to deliver responsible AI in Europe by testing solutions before they hit the"
+    publishedDateTime: 2023-06-26T09:44:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/11/dropbox-iphone-2018.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/667d0e02-55ba-46e9-b5a1-7427026e47dd-Corp_Red_RGB.png"
+        width: 1951
+        height: 2846
         isCached: true
-  - title: "Dropbox’s new tools reimagine the cloud service as your AI sidekick"
-    excerpt: "Dropbox announced two new products today that (not quite shockingly) shift the company’s focus to AI. Dropbox AI scans your documents, providing summaries and answers, while the more ambitious Dropbox Dash serves as a unified search bar for your life."
-    publishedDateTime: 2023-06-21T17:59:00Z
-    webUrl: "https://www.engadget.com/dropboxs-new-tools-reimagine-the-cloud-service-as-your-ai-sidekick-171544676.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/nXHElnoGSKif3NBmCw3Sog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3eb11760-1052-11ee-bdda-894ac0528513.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tampa Bay startup accelerator launches AI-focused cohort"
-    excerpt: "The Tampa Bay Innovation Center is launching a new cohort aimed at startups in the machine learning, artificial intelligence and data science spaces. The program will focus on startups simplifying the collection of data."
-    publishedDateTime: 2023-06-21T18:46:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/inno/stories/news/2023/06/21/tampa-bay-innovation-center-ai-cohort-startups.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "+b2BYwO5Es8fEmM5eXGHW6YbYUgt7UZFXHHmu3m+aNf8K5wSapTX0Hn5Pk1lnWUTxvOghsD0cAkmK9srTPdd2IuSHKVOOG0XUYSzD+RKHegDjK6FWx/i7jTtyuU6li5I0s6r41/LdhKDTSEDCuxGR1gX1wwrW6XJ3m1twudt8jui9y0vlziqO0eLOIkuT+kXU49Ybh0ftO74LTldQ49L0Bq8ql//3v2RbdPk01pckA2i2/m7eqWvMZtM7d42Iwug+qDkexJe+3XWL1dVblpbjr/gLyrC7yfSFcnhFqU4oDvJ6DFR6+ZgpMxEbH6+ctvYedVQLbAX80ixChsLOfAP+rGTJQvopf0nrZBfI+mH+qw=;W+Y/pEduwku6spRwWxHCEQ=="
 ---

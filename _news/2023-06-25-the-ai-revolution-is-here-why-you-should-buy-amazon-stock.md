@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-wh
 webUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Health care’s AI revolution is well under way"
+    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
+    publishedDateTime: 2023-06-26T11:34:00Z
+    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "qoMy18Z1lk8Uyu0jzyo2EXOkL4gVDtcXhxWt+kQimswF5V2Yain95lbr3x6jxfArwlK9mQWGC0A8S2haXJooaJmIO3d74j8w07VI/XObvozPmxkA5TjNAiUCVSSJjHsi+MuBp763xZtRg3L9TCFlnlGZBf/Fq4vvRI4QyG6pC7l4XGgZBw7+1JsRx1MKen6Ds/32t8KPkSfFwRWj3nvuhx6JyLjQEV+/9BINliWeufAFDYPAhknEVu+HVn0p2OHmKzlH96YHVV35+/2Po2tqpeDNzN4tVr1WCJqC4eZgjTP5HP8R+UoM1hCv0kgFxwYR4EX/VFRu8i4buXVmbFLy3PKQzt14GPpiDytfdnhvVyo=;ftN6scweYM5B0LO732Sy/g=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 2846
     isCached: true
 
-secured: "fx6+qwG/nv/7otz/Hc2w4z/HqeVaCVsgBrHkFehJ/IlP7cprz0AV7yx6xW0pcX2br0Yp7rTVcyJ1qUVfJkaHIBkJrnmxgJXHG8oEoVHTYBQzUaQyBt6gu/hdNYqIrkLrDukOnvQx0dwWNLMz4wUeT+MpI1iknqOy4tcDXfCZDwrB3HZDAAgY7o7Z1bbn+//bgeTTFMfCaxbF8WEpsd3gJqFPTH8g5S4JD5hhOilYrgTXoBE/30xoafm78Xabk9m61fXch30aYmSzhzL3C9WZ1cb3l+kexG+0MTdEEcvPQIn5CkEoCyJIS5JhWTNwCrIpA/eufOWUzwHDDWxhXosOa3lBH2w6MqoSK6aLLdtrl+A=;tho1jKNGQdyiHUzh30il5A=="
+related:
+  - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
+    excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
+    publishedDateTime: 2023-06-25T06:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+
+secured: "ZVqXfkYeSW1DX/uyFpRd5EQ8pOyFLoo30kKDZeFUwidCGBez6HfX7wjum6696XdxJJw+oO28hq0izfXt5gjjMH423w1ANLUThc7uPTvhE8WeXB3sJVdTZmuasH76VhqlDWfoiqXhxr4amWgUTX4+Fw+SSCVeYwpJ/UV9UrX7u58jtCS1gULUOGKKxUkn3RNMWc6T/ELzR6Ov5iUhfRpk2cwNuzv91fWECazuyx1mFNOb86Tys7YXa87TDxQprdFH7FVGW9B4JgJJq0e1GsD7xk1NOYmCZGcYLRcTtOGMhoEj+F6KdDNQCL7P5m6xnJE2Z1F5LDRaXozwvJ8wkIQABTyBllDVsvuyGtCo35rN5X6cftgGgNi/wyb7Pc2Gi+ZnUGnoCJ3cA4vlcVM1BE5T0sWzl+ONuK8j4b60fy0A/R2tejeNikOGuY+LxAMaMJPoc2YQ6WfTu6Wp3VkbP0JkeN485lsW/J5WCs7qZhyBOZ7TFxHhvKwyt9J9FOn5HckQEwmF3CgOJcKwNMCOiKMrzA==;3aRomNsP/UxaLfSKflRXmA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2023/06/cloud-based-machine-lear
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/06/cloud-based-machine-learning-tools-support-businesses-customer-service-process?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "EMBEDDED AI LENDER LAUNCHES TOOL TO SUPPORT SMALL BUSINESSES"
-    excerpt: "Lendica, a Boston-based fintech, announced the launch of the iBranch, a powerful embedded lending software that changes how businesses access capital. The premiere roll out is with"
-    publishedDateTime: 2023-06-21T19:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32954677/embedded-ai-lender-launches-tool-to-support-small-businesses"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32954677"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32954677"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "GOHG1ZGeivDeUWGEB2GyqQkmvCCHjNqcSpTbacRFCOKPAzW75DvE4rCCUzbP7yjr6ulHi1iLGCcSSxSbcpp2ktAmTVsjPIlq1bf2a66oVhzP7wlEi3MrfRoRTgk/Hb1n1vb7U4MrRdtFKUTmbCXcscYEPACnpQBZj0LQ4F7uw5h7OKArguWEETDsN4vOFV9GTEMf+x5mrgZCriRDTHhElKKq6mnIu0IBeitNj8uEexoNWzxXA/4zARlTsB32XcCNMa4EeDXkknr26rIS5xz2pFTLMn3V5y+u7GAFaK+e279PjGlM26lt1R6drGKmuL5WqPwrxhOhQhV8rQlGpdYbZJ9yZ7RBVpMzUBhUqZqo0UUpniZrMhvc/VCkQ8HbuXJy985Z4gxHhOM//8hLZtbwakIe5Pf7d1kj2gbFZkprNnTjVk+7AYVQKdPIINupXzyjUztAUodnNaE+MnLpvP398sJ03gWweRQz2qoRORCBvi0uusA26TbBgC17gJm6gu+sWQyxq1JVwzGzG1/OESbdmg==;EMQVoLKipbMw5Pp46PD3Lw=="
 ---

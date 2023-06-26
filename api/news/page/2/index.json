@@ -2,6 +2,377 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-24-google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians.md",
+      "title": "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians",
+      "excerpt": "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms",
+      "publishedDateTime": "2023-06-23T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-sam-altman-calls-ai-most-important-step-yet-for-humans-tech.md",
+      "title": "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech",
+      "excerpt": "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
+      "publishedDateTime": "2023-06-23T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-tempe-vows-to-only-use-ai-technology-ethically-and-without-bias.md",
+      "title": "Tempe vows to only use AI technology 'ethically' and without bias",
+      "excerpt": "The City of Tempe has introduced a resolution that obligates the city to only use artificial intelligence in an ethical and responsible manner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "originalUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.12news.com/assets/KPNX/images/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
+      "publishedDateTime": "2023-06-23T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPNX",
+        "domain": "12news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
+      "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
+      "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
+      "originalUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230622-vidcon-ai-lr-97d957.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89790",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89790",
+      "publishedDateTime": "2023-06-23T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
+      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
+      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
+      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
+      "publishedDateTime": "2023-06-23T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-why-smart-ai-regulation-is-vital-for-innovation-and-us-leadership.md",
+      "title": "Why smart AI regulation is vital for innovation and US leadership",
+      "excerpt": "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
+      "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
+      "publishedDateTime": "2023-06-23T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
+      "title": "Review: Hover Camera X1 is the ideal drone for most people",
+      "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "originalUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1eaa4d9/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F47493fc0428495004ed61c14cd29%2Fimg-4919.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
+      "publishedDateTime": "2023-06-23T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus.md",
+      "title": "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus",
+      "excerpt": "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-accelerate-time-to-business-insights-with-the-amazon-sagemaker-data-wrangler-direct-connection-to-snowflake.md",
       "title": "Accelerate time to business insights with the Amazon SageMaker Data Wrangler direct connection to Snowflake",
       "excerpt": "Amazon SageMaker Data Wrangler is a single visual interface that reduces the time required to prepare data and perform feature engineering from weeks to minutes with the ability to select and clean data, create features, and automate data preparation in machine learning (ML) workflows without writing",
@@ -260,50 +631,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-23-how-generative-ai-can-help-finance-and-accounting-professionals.md",
-      "title": "How generative AI can help finance and accounting professionals",
-      "excerpt": "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
-      "originalUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T12:46:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-06-24-linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you.md",
       "title": "LinkedIn's new AI bot will write your hard-earned milestone posts for you",
       "excerpt": "Crafting the perfect LinkedIn post takes time and effort. Here's how the new AI bot will help make things easier.",
@@ -363,7 +690,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -895,358 +1222,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
-      "title": "The Generative AI Investment Sprints For Supremacy",
-      "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1391,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
-      "publishedDateTime": "2023-06-23T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-1-ai-stock-that-could-take-you-to-easy-street-and-1-that-could-take-you-to-the-cleaners.md",
-      "title": "1 AI Stock That Could Take You to Easy Street -- and 1 That Could Take You to the Cleaners",
-      "excerpt": "AI stocks have jumped this year, but there's a lot of hype in the sector. One AI fintech stock looks poised for a turnaround. Another AI software stock looks significantly overvalued. Investors can't get enough of artificial intelligence (AI) stocks these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/736866/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
-      "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
-      "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Meredith-Whittaker.jpg?resize=1200,1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
-      "publishedDateTime": "2023-06-22T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
-      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
-      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
-          "width": 620,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
-      "publishedDateTime": "2023-06-22T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-googles-duet-ai-can-generate-custom-templates-in-sheets.md",
-      "title": "Google's Duet AI can generate custom templates in Sheets",
-      "excerpt": "Google has been quickly expanding the AI's toolset since it announced Duet for Workspace at its I/O conference last month. When testers enter a prompt in the web version of Docs, Duet can generate text for them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/0vANP293s5E52OlDZP5u5A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-12/07bfc550-71ae-11ed-8feb-d9a461d9371d.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
-      "publishedDateTime": "2023-06-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about.md",
-      "title": "Samuel L. Jackson Warns Actors About AI: ‘Could Be Something To Worry About’",
-      "excerpt": "The Marvel star said that when it comes to any mentions of using his likeness in his contracts, \"I cross that shit out.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9",
-      "originalUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/649493ba260000600038cab0.jpeg?cache=p30cLMnTou&ops=1200_630",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9/amp",
-      "publishedDateTime": "2023-06-22T18:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-cios-your-generative-ai-playbook-is-here-guardrails-required.md",
-      "title": "CIOs: Your Generative AI Playbook Is Here. Guardrails Required.",
-      "excerpt": "Are you prepared to help your business navigate the future of generative AI? These tips provide the proper guardrails to help you succeed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6494e9a3adecc689518daaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
-      "publishedDateTime": "2023-06-22T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

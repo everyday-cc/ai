@@ -2,6 +2,259 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2023-03-28-ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031.md",
+      "title": "AI (Artificial Intelligence) Image Recognition Market 2023 Expected to Reach Significant Rate by 2031",
+      "excerpt": "Image Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face. One major attraction about AI (Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-2023-expected-to-reach-significant-rate-by-2031-2023-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-openais-ambitious-master-plan-to-conquer-rivals-like-google-in-the-ai-race-hinges-on-pure-speed.md",
+      "title": "OpenAI's ambitious master plan to conquer rivals like Google in the AI race hinges on pure speed",
+      "excerpt": "The chatbot kickstarted an avalanche of discussion around the future of work, AI ethics, and changing the dynamic of the tech workforce. This wasn't always the case. OpenAI was founded in 2015 by current CEO Sam Altman, Elon Musk, and others. Musk left the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3",
+      "originalUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6421fe9a8c966b0019498dd8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-secret-weapon-ai-race-google-is-speed-2023-3?amp",
+      "publishedDateTime": "2023-03-27T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-the-dream-of-placing-blocks-on-chip-designs-with-ai.md",
+      "title": "The Dream Of Placing Blocks On Chip Designs With AI",
+      "excerpt": "“This work demonstrates the effectiveness of combining GPU-accelerated placers with AI/ML multi-objective parameter optimization,” Agnesina and Ren wrote. “Furthermore, given the importance of scalability in modern chip design flows, we hope this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
+      "originalUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/03/Nvidia-AutoDMP.jpg",
+          "width": 1999,
+          "height": 1126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/amp/",
+      "publishedDateTime": "2023-03-27T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-artificial-intelligence-glossary-neural-networks-and-other-terms-explained.md",
+      "title": "Artificial Intelligence Glossary: Neural Networks and Other Terms Explained",
+      "excerpt": "Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
+      "originalUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/27/pageoneplus/27OnTechAI-Part1-STILL/27OnTechAI-Part1-STILL-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
+      "publishedDateTime": "2023-03-27T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
+      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
+      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-27T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-buy-nowpay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis.md",
       "title": "Buy now/pay later fintechs lean on AI to survive the banking crisis",
       "excerpt": "The recent banking crisis adds even more pressure on buy now/pay later lenders, which are taking steps to better manage underwriting and credit decisions in the months ahead. Many lenders want to limit damage by using machine learning,",
@@ -936,245 +1189,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/03/27/how-can-ai-fit-into-customer-service-call-centers-effectively/amp/",
       "publishedDateTime": "2023-03-27T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-ai-and-the-future-of-software-development.md",
-      "title": "AI and the future of software development",
-      "excerpt": "Just ask Jaana Dogan, a distinguished software engineer at GitHub. According to Dogan, “People are too focused on code generation and completely ignore that LLMs are useful for code analysis.” In other words,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
-      "originalUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/ai-vendor-relationship-management_artificial-intelligence_hand-on-virtual-screen-100795246-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691892/ai-and-the-future-of-software-development.amp.html",
-      "publishedDateTime": "2023-03-27T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-new-chapter-in-intelligent-transport-baidu-begins-driverless-taxis-in-beijing.md",
-      "title": "New Chapter in Intelligent Transport: Baidu Begins Driverless Taxis in Beijing",
-      "excerpt": "A self-driving robotaxi developed by Chinese search provider and artificial intelligence (AI) heavyweight Baidu and Chinese carmaker FAW Hongqi participates in a test ride for seed passengers in Changsha,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
-      "originalUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-99029484,updatedat-1679904667854,width-1280,height-720,resizemode-75/99029484.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/new-chapter-in-ai-beijing-makes-history-baidu-begins-driverless-taxis-robot-taxis-china-article-99029484/amp",
-      "publishedDateTime": "2023-03-27T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion.md",
-      "title": "Athens Debuts With Interdisciplinary Film Festival Combining AI, Art, And Fashion",
-      "excerpt": "The Athens Fashion Film Festival returned on March 14th for the fourth year with an interdisciplinary theme of “Art-istic OR Art-ificial?\" held at the Athens Conservatory under the leadership of Nicole Alexandropoulou,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2023/03/27/athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/03/27/athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6420b56afc7ed6f0a3eb47aa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/03/27/athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/03/27/athens-debuts-with-interdisciplinary-film-festival-combining-ai-art-and-fashion/amp/",
-      "publishedDateTime": "2023-03-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-robotaxis-in-beijing-open-new-chapter-of-intelligent-transport.md",
-      "title": "Robotaxis in Beijing open new chapter of intelligent transport",
-      "excerpt": "CHINA DAILY Driverless cars ready for hire in suburb ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative.md",
-      "title": "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?",
-      "excerpt": "Explore the captivating world of AI creativity as we delve into the potential of machines to generate original content, blurring the lines between human and artificial ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64213c10fc7ed6f0a3eb47ae/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/27/the-intersection-of-ai-and-human-creativity-can-machines-really-be-creative/amp/",
-      "publishedDateTime": "2023-03-26T23:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

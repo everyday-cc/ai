@@ -1,0 +1,49 @@
+---
+category: news
+title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+publishedDateTime: 2023-06-26T10:09:00Z
+originalUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
+webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: altfi
+  domain: altfi.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+    width: 6139
+    height: 4093
+    isCached: true
+
+related:
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "It's a great time to be in AI — and a hard time to be in lending. Upstart's model combines the two, meaning it's been on something of a rollercoaster ride."
+    publishedDateTime: 2023-06-23T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/23/middle-market-100-upstart.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
+    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
+    publishedDateTime: 2023-06-23T13:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 4
+
+secured: "DVApEedh3QTiiV7FyEko0CKfKR3ReW5zjduqlMz3XOsy7TphQvmQBKA8SMwT5oI2gqeORgchKIeWTSiCoBx0M1hGyvrhCfq+PvK9xTJdhAcN91PapEu6yBhLUHYNkZCkrHT7eInzvAzJwH4BCsUsJ5K8P3yOvZueAxEH5UolWsMiKDntmSXIoIlchb3GBWGYTJVEWYyWRs+COM9QybMOY0ZshXMXkLEbvB0T7/1ktoyjp1auNj3ibpeylRbgPfyfpm42x8GHKxHlqRrhMPKbemwDZ6YCN0jKsQnfDZB+wxv/6PQNksptyneiqXiErRT5GACAEmFVl/W/rWqYrS7LifgubbR3YxWyU2eBC5D9YeI=;fktzffyv7X7lOuR2giRU4g=="
+---
+

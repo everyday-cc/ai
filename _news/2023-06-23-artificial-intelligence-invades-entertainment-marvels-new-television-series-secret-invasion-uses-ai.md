@@ -49,15 +49,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
-    excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
-    publishedDateTime: 2023-06-21T18:27:00Z
-    webUrl: "https://techcrunch.com/2023/06/21/marvel-secret-invasion-ai-art-opening-credits/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
 
 secured: "4T8CvL5jtkQlVlv31ENjWesosREs0MAdg7XdOUSxj2ZdX50wrLoWsZmuShgR6DenxuDcttHaqUHDYGzTAfxxAVQCvQ0mFgJY+bDuDjgIpwSE5OkS7r1Eb7B9+z1mkODdgrf+3nq0asJsPQZCWFQD+CsCcrsdfqnBCSIykkIWRw6FS/nuzn868JbOYQVpPy33YhfEczYw4C+oo19U+vbucRVzWTlKNnUJOMdBZPqNQyzALzvOkRy+ZXrT3kbwMrC21pp3NAiQDoDT97aEXdV+/IpVRCx0W1jegP/NZeTkoo3RYRIcOSKaRzqleQyjzdTv/ibbMCpQJfohvasyJ7G2EKMeCEfV6R9FX1/jYIxvH45b5BmnJ7KzMRIOi8BzkDj7rPbwH+oCin7SHL6XhAmMe0rG1Wkd8byWpVPn/ZJADMsfGn9OdDsx0Fr3H/v9WNDmTwlDnHIpMA+b8baJ8XBjt8qmC5WJlNE6420N0HM79H3QKTGtruFSeeYHGcsA515Ry06cX/FeYFlWZsidTX/i6A==;/sr/Imowhe306V9wf8kWMw=="
 ---

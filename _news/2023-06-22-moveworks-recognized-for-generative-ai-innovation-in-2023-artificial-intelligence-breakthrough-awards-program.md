@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for
 webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Untether AI Wins 2023 Artificial Intelligence Breakthrough Award"
-    excerpt: "Untether AI®, the leader in energy-centric AI semiconductor technology, announced it has been selected as the winner of the \"AI Hardware Innovation Award\" in the prestigious international AI Breakthrough Awards program conducted by AI Breakthrough."
-    publishedDateTime: 2023-06-21T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "57+lA5kvRu9vP17TknTkwZ0LkggnoxYkgKQ4n2a6YKoak7gHGzsBAYYNM+AWaYEqXftm5h3jyyDNAvsyPGhA025T1o9Df1LHV7gNjLWfl5IYcLWqw+h2aMsmSmaGv2rruawoAuuRan+9QbHVHVAPSqfBidbEYnDDrkmlZ0OQsa5qaYj113lLqMagEfsQUIzGAmMuoJ30TBvTNKV7umv9uIj4evvnmuq2h/IaofcgQpCCfqgMXd+4QVJb86Tf/z6Qr7z6lmAq/dnhAHkxCwOgun+shai5iCdtKl61DIhSTs6UT2gqowhLvb2uAemO/ELBknnxSCHO19x30IiFgA0qr9nBZfxvSDbCbQjIm1mHzgE=;Z4RObnZ1JHD7gboLz6nhlg=="
 ---

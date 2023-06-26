@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
+    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
+    publishedDateTime: 2023-06-21T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
     publishedDateTime: 2023-06-23T14:36:00Z

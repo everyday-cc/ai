@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: InfoWorld
@@ -29,35 +29,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Ready Or Not, Disruptive AI Is Here To Stay"
-    excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
-    publishedDateTime: 2023-06-22T16:38:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1396
-        height: 900
-        isCached: true
-  - title: "Artificial intelligence is here to stay. At MU, students learn how to use it for truth | Opinion"
-    excerpt: "ChatGPT and other AI bots like it can be useful new tools — but they still need human fact-checking. | Opinion"
-    publishedDateTime: 2023-06-23T09:03:00Z
-    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
-    ampWebUrl: "https://amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/readers-opinion/guest-commentary/article276656931.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 24
-
-secured: "pw9wcVz4/AXSKZu0Nkf2qiW+5znoMPvyIUbOXwg8AuBrVw82EkSn5uujbBKByhULibtyPDdsjbUu1+9S9kGimcrGuEstwUybIPCevgiIL3f9mvy+sN9lg6t4wrSwL68hnkTlyY0/ZE3ZkGtV+r5RhxTO8K+oJDQ5iOql8TOxVbYMHAQrBQvY98P8UE4IO4yxG0IbWMxs9+1jdhPEWJvbL8Fm51hreExl4NKe9s8LqRXyvD9AjgM/d5IbFSqui7xDKBTcuwkYvohv6NoS2H++jo14QALohqpILipSFmxoqV14EiyIuCC5Vx6KlbuXbKDYaIBnj9OSKMtoxXlG6Q19xcD7ffXlx36b6CneqE+OLMA=;Upu3ov+zmr2gE1VQHMV0rw=="
+secured: "jj04u7kBVY3xIhGhJaU6gfx6pIsQQOEQ2R8VQSj3X/F3PM+o4QDDh1DM/VMADavfpvtSBHvjaRbPtQrzeibqjcnPagefIJe2G2KGKzZf8mp8M5IkamxlfWIKHzAhYhpuc5v0oGQD8GOD8Mijwwo4iSIuFr9YbkUNyfM6bonSk4ofToHVR6CIyQ05GwnZMrAg5ak9ecTZ7CE+g64qOQpojVd8SEYbfBRp3ia8VMNYwtS2rEl+vkMJ96Hkv+7bWWoDRRnZH+ubLfYoIvqa+Q2TzFburGGfO4Ss8Idnx/RzyWbAFKR793aZeQAyT3upA6kuSRA7asLvTVHrO+IfE3QUTl4lutkz3pNPiYBr4mK5rT5pOjJLs7YRkCkKUnb387Qit4qNt1yR64nS0VoZBwctEG7banxtIMAMRGRMqOUtYWZqKKjNtnKdDpBevUBSmAI9Me/yR+5LlptX7Zr4Nmu9WL1KvcUaEj5p11LkhWBhFhaKwKIZm8MLGL11G26kmpaNzv1oyQ+ijnQICx1+uVN07Q==;y4FQyNe7+fzOoc43iYx55g=="
 ---
 

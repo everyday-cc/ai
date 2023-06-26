@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-05-14-eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift.md",
-      "title": "Eric Schmidt On Synthetic Biology, AI, Ethics And The Bioeconomy’s ‘Seismic Shift’",
-      "excerpt": "Eric Schmidt at the SynBioBeta conference. You mentioned the Bioeconomy Moonshot as a way to drive progress in biotech. What recent developments or advancements in synthetic biology are you most excited about?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
-      "originalUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645fe1c0741dcd08dba69868/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2023/05/13/eric-schmidt-on-synthetic-biology-ai-ethics-and-the-bioeconomys-seismic-shift/amp/",
-      "publishedDateTime": "2023-05-13T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-the-open-source-ai-boom-is-built-on-big-techs-handouts-how-long-will-it-last.md",
       "title": "The open-source AI boom is built on Big Tech’s handouts. How long will it last?",
       "excerpt": "Greater access to the code behind generative models is fueling innovation. But if top companies get spooked, they could close up shop.",
@@ -1414,6 +1362,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
+      "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
+      "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "originalUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ai-at-gamesbeat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming/amp/",
+      "publishedDateTime": "2023-05-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

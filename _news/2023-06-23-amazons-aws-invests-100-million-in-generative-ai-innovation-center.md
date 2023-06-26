@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
+    publishedDateTime: 2023-06-22T16:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b32971241/aws-announces-generative-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32971241"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32971241"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AWS weighs in on the potential of AI to fight wildfires"
     excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."
     publishedDateTime: 2023-06-22T16:44:00Z
@@ -118,6 +134,22 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-26T09:19:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
+        width: 1500
+        height: 844
         isCached: true
   - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
     excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
@@ -211,6 +243,20 @@ related:
       name: coinspeaker
       domain: coinspeaker.com
     quality: 54
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "AWS Announces Generative AI Innovation Centre"
     excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
     publishedDateTime: 2023-06-23T11:13:00Z
@@ -280,6 +326,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/06/AI-spraak.jpg"
         width: 1000
         height: 594
+        isCached: true
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
+    publishedDateTime: 2023-06-24T10:11:00Z
+    webUrl: "https://menafn.com/1106495265/Aws-Announces-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496238"
+        width: 400
+        height: 250
         isCached: true
   - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
     excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
@@ -410,6 +470,15 @@ related:
     provider:
       name: tvbeurope.com
       domain: tvbeurope.com
+    quality: 34
+  - title: "AWS Launches Generative AI Innovation Center"
+    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
+    publishedDateTime: 2023-06-22T18:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
     quality: 34
   - title: "AWS weighs in on the potential of AI to fight wildfires"
     excerpt: "Canada is currently facing its worst wildfire season in recent memory, with blazes burning in nearly all provinces and territories. Last week, we saw the air quality index in Ontario swell to unprecedented levels,"

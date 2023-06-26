@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
-    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
-    publishedDateTime: 2023-06-21T18:50:00Z
-    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
     excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
     publishedDateTime: 2023-06-22T18:18:00Z

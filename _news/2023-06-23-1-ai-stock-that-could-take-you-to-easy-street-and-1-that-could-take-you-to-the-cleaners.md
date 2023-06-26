@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-ta
 webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
+    publishedDateTime: 2023-06-26T09:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-get-an-amazon-amd-deal-boost-1032409143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "It Takes The Right Leadership To Beat AI Bias"
     excerpt: "Learn, adapt, and address bias. Leaders safeguard businesses by equipping themselves and understand the dynamics."
     publishedDateTime: 2023-06-24T12:00:00Z

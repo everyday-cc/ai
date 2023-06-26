@@ -2,6 +2,306 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-uk-artificial-intelligence-ai-statistics-and-trends-in-2023.md",
+      "title": "UK Artificial Intelligence (AI) Statistics And Trends In 2023",
+      "excerpt": "The rapidly growing field of artificial intelligence (AI) has the potential to revolutionise many aspects of our lives. With AI already powering everyt",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/06/pexels-cottonbro-studio-6153354-scaled-e1687161473695.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-and-cyber-defense-2025-decoding-defense-strategies.md",
+      "title": "AI And Cyber Defense 2025: Decoding Defense Strategies",
+      "excerpt": "That principle resonates strongly in an era where the rise of generative artificial intelligence (AI) is causing tectonic shifts in cybersecurity. In response to these clear and present risks, I hold an optimistic vision for the prevailing good that can emerge from AI's intersection with cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64959ac665e1e518488daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
+      "publishedDateTime": "2023-06-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
+      "title": "How to responsibly scale business-ready generative AI",
+      "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-more-people-are-going-blind-ai-can-help-fight-it.md",
+      "title": "More People Are Going Blind. AI Can Help Fight It",
+      "excerpt": "Early detection is crucial for treating eye disease. AI-enhanced eye scan analyses could spot warning signs quicker—and reach patients at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
+      "originalUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64931e618d6da8ab812d8551/191:100/w_1280,c_limit/01-Wired_NHS_Spot.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
+      "title": "Responsible AI: A Practical Roadmap For Business Executives",
+      "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe10716f37920266d57594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
+      "publishedDateTime": "2023-06-26T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study.md",
+      "title": "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study",
+      "excerpt": "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280",
+          "width": 1280,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
+      "publishedDateTime": "2023-06-26T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-thoughts-on-ai-impact-in-banking-mckinsey-banking-ceos-and-boards.md",
       "title": "Thoughts On AI Impact In Banking - McKinsey, Banking CEOs, And Boards",
       "excerpt": "AI continues to develop quickly, and executives are establishing frameworks for how to work with the new technology.",
@@ -34,6 +334,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-is-my-copilot.md",
+      "title": "AI is my copilot",
+      "excerpt": "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
+      "originalUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
+      "publishedDateTime": "2023-06-26T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -471,7 +822,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -801,234 +1152,19 @@
       ]
     },
     {
-      "path": "_news/2023-06-24-google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians.md",
-      "title": "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians",
-      "excerpt": "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund.",
+      "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
+      "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
+      "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms",
+      "webUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms",
-      "publishedDateTime": "2023-06-23T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-sam-altman-calls-ai-most-important-step-yet-for-humans-tech.md",
-      "title": "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech",
-      "excerpt": "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true",
-      "publishedDateTime": "2023-06-23T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-tempe-vows-to-only-use-ai-technology-ethically-and-without-bias.md",
-      "title": "Tempe vows to only use AI technology 'ethically' and without bias",
-      "excerpt": "The City of Tempe has introduced a resolution that obligates the city to only use artificial intelligence in an ethical and responsible manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "originalUrl": "https://www.12news.com/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4/fa8361e1-fae4-45a6-8b2e-1e2728fc65b4_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/tempe-vows-only-ai-technology-ethically-arizona-artificial/75-656ab5cf-5e45-438a-a7c4-f70a5fbb6e56",
-      "publishedDateTime": "2023-06-23T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
-      "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
-      "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "originalUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230622-vidcon-ai-lr-97d957.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89790",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89790",
-      "publishedDateTime": "2023-06-23T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
-      "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
-      "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "originalUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/14/GettyImages-1247531079-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-artificial-intelligence-act-ai-issue-european-parliament/amp/?mid=1",
-      "publishedDateTime": "2023-06-23T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-why-smart-ai-regulation-is-vital-for-innovation-and-us-leadership.md",
-      "title": "Why smart AI regulation is vital for innovation and US leadership",
-      "excerpt": "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
-      "originalUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800",
+          "url": "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -1038,23 +1174,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/",
-      "publishedDateTime": "2023-06-23T14:54:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
+      "publishedDateTime": "2023-06-23T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1063,111 +1190,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-review-hover-camera-x1-is-the-ideal-drone-for-most-people.md",
-      "title": "Review: Hover Camera X1 is the ideal drone for most people",
-      "excerpt": "Most folks aren't big-time aerial cinematographers, so they don't need a fancy $1,000-plus drone – what they do need is something small, inexpensive and easy to use, that still shoots great video. As I discovered,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
-      "originalUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1eaa4d9/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F47493fc0428495004ed61c14cd29%2Fimg-4919.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/drones/review-hover-camera-x1-drone/?amp=true",
-      "publishedDateTime": "2023-06-23T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus.md",
-      "title": "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus",
-      "excerpt": "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-555-1024x516.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "Natural Language Processing",
         "AI"
       ]
     }

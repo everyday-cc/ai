@@ -148,6 +148,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
+    excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
+    publishedDateTime: 2023-06-26T11:08:00Z
+    webUrl: "https://www.messenger-inquirer.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_e2759a7d-8cdf-53e6-bde4-083f9c5017af.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/e/27/e2759a7d-8cdf-53e6-bde4-083f9c5017af/64997a5f4e377.image.jpg?crop=611%2C321%2C0%2C11&resize=611%2C321&order=crop%2Cresize"
+        width: 611
+        height: 321
+        isCached: true
   - title: "YouTube adding AI dub technology to translate videos for creators"
     excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
     publishedDateTime: 2023-06-23T13:12:00Z

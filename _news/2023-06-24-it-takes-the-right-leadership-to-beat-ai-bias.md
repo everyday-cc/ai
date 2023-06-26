@@ -36,6 +36,15 @@ related:
         width: 2102
         height: 1426
         isCached: true
+  - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
+    publishedDateTime: 2023-06-26T09:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-get-an-amazon-amd-deal-boost-1032409143"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
     excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
     publishedDateTime: 2023-06-23T17:43:00Z

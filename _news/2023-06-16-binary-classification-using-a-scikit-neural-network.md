@@ -2,9 +2,9 @@
 category: news
 title: "Binary Classification Using a scikit Neural Network"
 excerpt: "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ..."
-publishedDateTime: 2023-06-16T16:48:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2023/06/15/scikit-neural-network.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2023/06/15/scikit-neural-network.aspx"
+publishedDateTime: 2023-06-15T17:53:00Z
+originalUrl: "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "I2i0rRe7W5i1GI/KamYaV3S5VHTpYOlU37f6pilV5EphJuRUB0eLvsxmWhMREm0Pt8s9cJTLSuMZynLN/yrXJZ6I06/JqkeNOlxw9Nd6g/qSeSz0fnYL8KB4rTUqU0gEAWETNN/hsIzHhRuT0eZTdHaoOGL/VHs7zj4v0CindTrcgdzIkm/kxetzm7TYgw7nM7DX/xvGSbsVkv32w/pljMWUNFKGWrpEub/QR+eq0bPncuR/j3HH4Q4jQ+WjQ9LzZNmJTYgwEGyMSpHuXeDBYpUBNP/sxkd7jHxx7ZlQFFOKNeJFmjtij2I1xhafzgY2kXT/OLV33pns/tEDK+wmL4+JgRT7cJus+jpxIFL8oPc=;3nbr/rrZbqF05fBdOTSiWw=="
+secured: "h4a16/c2j4d9HW0cTNl6sXnNij5aMZE5QBQ+9zck2aj3MAzceE0B3M/+CIDlhoC8ZYyRK3NjaJxupNP1utoC9rZ5bC4o3oDXhCL0Faw+vE/2Cr4qQ1UbhUvrR86eGbAF36wjy6qlsEnK/UbzUYNm7Qq8YRoBnWetk53sCFiRykvHM2gtgb1sWPxaShL3WNsUHgZMoDET7lb5vh12EK6kgN5pgb+kXBGwzy5PLfgqEH+q3BgLgXopFmYBsaobo8mXEB7VaIFkIzxiZAl0G5OikjPAWuhjehq0iL5qyzxHwYr4muNTcKrVokxRzWfbO/DS9SQMVCxHgm8yrCl+uMWrE3/G9j4o+QIf1vZMrS4ATWQ=;F1YCj+S8GtueBRtquiJ+9Q=="
 ---
 

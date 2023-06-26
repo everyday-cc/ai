@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-gener
 webUrl: "https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -27,17 +27,6 @@ images:
     width: 1199
     height: 662
     isCached: true
-
-related:
-  - title: "Toyota Is Using Generative AI to Design New EVs"
-    excerpt: "When Toyota designers prompt the new tool with terms like \"sleek\" and \"SUV-like,\" its suggested renderings take into account engineering constraints such as drag and cabin size."
-    publishedDateTime: 2023-06-21T18:53:00Z
-    webUrl: "https://www.pcmag.com/news/toyota-is-using-generative-ai-to-design-new-evs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "vqUaSVeyanixdnc8zlG73KRUJ0VvZD3LPVmLHwR4DzQbJ5f25CZMqhwHHYbVeXkTLyz9dhODB4GY98yBQUk9FYgjlxq5otyKnPMELxKEhYK7OmwWl3fF6D+iXu+7Rlsby9FHhmgYw8HkXwUfgVn1/vnixYor7oxE6tU6lcdkhOEg5aRm01o08XrvYlNpZ2KRexnR2ihbgit853yg1+nS+LMhWGg+REO5TMyW2To/0feKra1KDh8o8JAiiavA+/+Z6u91SIWXmMtRXwJ/l4I7we5dcQZUoN0q29rAvTLuGFe6zP1X90r1dMszvpSJ8xuuyuKaGI9BpI2LwAf0qAktKg560cSkcsYWq5Plzm4Z9+NxsXSBf7P+Mun9F4BUWQ9I97AG59+UO3cLmGeIjJvODgAMhpCXiHaYPnKBQLN7QHQ82lYWM7syN5LIOkItSS1uGjmiOB88z4VNLg/cxw1xisBSUpOixB5zGxwBHbNbSMcE2O7yX3dpdhMQpe94bDMEHr5sD56pL5fR6RqZ/AEC5Q==;w/4R4eDetoD3KBaj4APDUA=="
 ---

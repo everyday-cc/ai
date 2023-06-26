@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "‘A moment of revolution’: Schumer unveils strategy to regulate AI amid dire warnings"
-    excerpt: "The Senate majority leader released his long-awaited framework for regulating artificial intelligence and said he would launch a series of AI forums this fall featuring a range of experts."
-    publishedDateTime: 2023-06-21T18:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/schumer-call-hands-deck-approach-regulating-ai-rcna90193"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna90193"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90193"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 80
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-chuck-schumer-ew-526p-9c7348.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
     excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
     publishedDateTime: 2023-06-21T21:28:00Z

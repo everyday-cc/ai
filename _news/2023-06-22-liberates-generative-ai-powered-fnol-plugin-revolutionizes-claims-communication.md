@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/liberates-generative-ai-
 webUrl: "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 870
         height: 470
         isCached: true
+  - title: "Appy Pie announces alpha launch of AppyLM: Revolutionary large language model for native mobile app code generation"
+    excerpt: "With the introduction of AppyLM, Appy Pie AI, the AI arm of Appy Pie, aims to revolutionize the app development industry by combining the power of artificial intelligence and natural language processing, offering a transformative approach to native app ..."
+    publishedDateTime: 2023-06-22T13:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230622/4091885.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "uO+YwCyRvJggnaoAl4iiOJRYbnTl/kC9gU7IA6MM0Hnd+MaQ3WDkP8dCvkplAwbO8atZgGYCCPv8nacmJh8vdSw2E5zaOFNU3xWyk2GlLYMSDZiu27Eq++hDCeUf+cnDjOqrsI4tRpk0XEaNQrAsYMjkgKs1jkmGhKKiTo5cTM5EUsknSVOC8VoQedLT3xqt+dO0BNQSdLTHhFQ/JY1B5pUza+gc94uXDVmA1MOlTPEAXtlbMVxn96YmRFSj7RReTZpz2mscWeNcLOFk8GZulSxqxv9F/kmmErz9hSc720+1UFpdVp3Kla5omfCoJf/I8A7ZHH85zbO4CQHvQKYrzXohDtKfKygAw2dLClzsRqI=;VMjuT1ZEwsRpWmxh5VWPLw=="
 ---

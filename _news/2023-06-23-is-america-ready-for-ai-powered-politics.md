@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfi
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speculative headlines about artificial intelligence are missing the point. Here’s what America’s top CEOs told us they intend to use A.I. for"
-    excerpt: "It is hardly surprising that professional services CEOs such as Solomon have such nuanced reflections on where the workflow lines get drawn between artificial and genuine ... a faster and higher scale. Solving health care’s most intractable problems ..."
-    publishedDateTime: 2023-06-21T17:21:00Z
-    webUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/?ref=biztoc.com"
-    ampWebUrl: "https://fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/21/speculative-headlines-artificial-intelligence-a-america-top-ceos-told-us-plans-use-ai-business-sonnenfeld-tian/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 54
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1258535133-e1687352365129.jpg?w=840"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Our early-adopters index examines how corporate America is deploying AI"
     excerpt: "PitchBook, another research firm, concludes that in 2023 some 25% of venture deals by s&p 500 firms involved ai startups, up from 19% in 2021. GlobalData, also a research firm, finds that about half the firms scrutinised have talked about AI in their earnings calls since 2021 and that in the first quarter of this year the number of times AI was mentioned in the earnings calls of America Inc more than doubled compared with the previous quarter."
     publishedDateTime: 2023-06-25T18:49:00Z

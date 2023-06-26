@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-
 webUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "$1.2 Million Grant to Support Healthcare Analytics, AI Projects"
-    excerpt: "The Jump ARCHES program has awarded funding to 12 projects focusing on data analytics, machine learning, and predictive modeling to improve healthcare delivery."
-    publishedDateTime: 2023-06-21T18:50:00Z
-    webUrl: "https://healthitanalytics.com/news/1.2-million-grant-to-support-healthcare-analytics-ai-projects"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
     excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
     publishedDateTime: 2023-06-22T19:29:00Z
