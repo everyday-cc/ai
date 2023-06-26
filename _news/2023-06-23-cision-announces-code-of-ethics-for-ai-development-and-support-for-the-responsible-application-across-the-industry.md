@@ -99,20 +99,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Only 25% of CFOs Are Prepping for AI Management and Ethics Regulations: Weekly Stat"
-    excerpt: "Despite interest in AI by business leaders and innovators, CFOs have bigger concerns, according to new data from Deloitte."
-    publishedDateTime: 2023-06-21T14:22:00Z
-    webUrl: "https://www.cfo.com/risk-compliance/risk-management/2023/06/artificial-intelligence-regulations-esg-technology-cyber-risk/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 48
-    images:
-      - url: "https://assets.cfo.com/images/Zz04ZGNiMTcwYzEwMzgxMWVlOWQ5YjUyYTM1OWY3NWM0OQ==?width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "5 AI tools for translation"
     excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
     publishedDateTime: 2023-06-24T09:08:00Z
@@ -127,15 +113,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Schumer to call for AI regulation in keynote address"
-    excerpt: "Senate Majority Leader Charles E. Schumer (D-N.Y.) will lay out an early vision for regulating artificial intelligence in a keynote address Wednesday morning, kicking lawmakers' efforts to both cultivate and control the development of AI tools like ChatGPT into high gear."
-    publishedDateTime: 2023-06-21T13:17:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2023/06/21/schumer-to-call-for-ai-regulation-in-keynote-address/70341692007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
   - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
     excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
     publishedDateTime: 2023-06-21T19:25:00Z

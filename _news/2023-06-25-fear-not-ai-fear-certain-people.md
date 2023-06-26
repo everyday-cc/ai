@@ -21,21 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "The 14 people who matter in UK AI policy"
-    excerpt: "The key players shaping the UK’s artificial intelligence plans as Rishi Sunak seeks to position himself as a global leader on AI governance."
-    publishedDateTime: 2023-06-26T03:49:00Z
-    webUrl: "https://www.politico.eu/article/the-14-people-who-matter-in-uk-ai-policy/"
-    ampWebUrl: "https://www.politico.eu/article/the-14-people-who-matter-in-uk-ai-policy/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/the-14-people-who-matter-in-uk-ai-policy/amp/"
+  - title: "Artificial Intelligence in Psychiatry"
+    excerpt: "Generative AI could help clinicians complete more clerical tasks and allow them to see more patients. A 2016 study found physicians spent only 27% of their working time engaged in direct contact with patients. Generative AI could mitigate disruptions in healthcare caused by predicted shortages in healthcare providers."
+    publishedDateTime: 2023-06-23T16:03:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 59
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/21/AI-power-list-2.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-06/ai%20.png.jpg?itok=mlgDC4Ys"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence as a Psychiatrist"
+    excerpt: "My son, Tariq, sent me snippets of ChatGPT that show how some patients prefer Artificial Intelligence (AI) over the support they would otherwise"
+    publishedDateTime: 2023-06-21T22:32:00Z
+    webUrl: "https://themedialine.org/mideast-mindset/artificial-intelligence-as-a-psychiatrist/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 39
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2023/06/imgonline-com-ua-Piconpic-HYIkYL7MAaOL.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "n+ltGBtqDBcUOHcxoLs0+ETI7W36JR2fL+dwoiMDNuhNW+vlxTbkRbPHJdedsxwnFitK6cYAR2dXP0jgqkxqhFjpOD26xyPnIIJU9IUnhJv+sNbPEs2NDpzHk2arrXc93D9u6oAK0UTpFBzg6fHQGUtqp7Tv8xa9rFOfMTElYuofgFMTRJvr22u8Jr1FKOyQSOnFJSLZYARUbpdQInixaCvZ4Eju4MlB9rOejrcbVgctkxUZ3YAit6ACh2GhwUydqNfCdt7v/YIgkUUFclkFVlhlv+M1NKj+k5bgqFSuEVVKnIcUvRm+Hrsnuk9wMvzpwnYjB8swVamu1dv6cpz3315HbJouy4Ob1SWvG2Nggyc=;h37XWEFiuZ2ltr4nu1daSg=="

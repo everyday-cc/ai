@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230621PD211/china-gpu-ic-design-
 webUrl: "https://www.digitimes.com/news/a20230621PD211/china-gpu-ic-design-distribution.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Nvidia H100 Hopper GPU's gaming performance surpassed by integrated graphics chips"
-    excerpt: "The results were just as underwhelming in real-life games, as the card couldn't even hit 30fps at 1080p high settings in Red Dead Redemption 2. At"
-    publishedDateTime: 2023-06-21T13:41:00Z
-    webUrl: "https://www.techspot.com/news/99148-nvidia-h100-hopper-gpu-gaming-performance-surpassed-integrated.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
 
 secured: "0sWX17eBXdfyX/ZBUGZJGyjjDpTqZNHO9Uyp+ge4f13RNHRqtidtq7HDRiw4OtJ4rF1SKH/FvFZ6HM0j6zcRp/sPrPzwmCP1eV7UCSFT71k/UtkPZUk0LKSg27pJB+/e1V7XFw11LQ5w3B4Dbfh6l08EX9Sr6Rtv6UfQoLPpecDxW0aZvM/tcZutr1H6OoA5iIgAFNvs/eQ0/2DornAH2Q9wWPWw4VEmAX0uWZNaxV6TVgJqaT0pQ3GW9aWO+ZZ//hRgiXfkCW26C8qrKcdu74edVWhZ0VDBOBykyHpQiK6SUl5beaB35r6TgqqfzlsHsYoXF3ZYPIk/Y+Z/Kaam6hObZcChDiQSnz0YQvbbkCIeSz594c/oz1voCBrjVB7kFRYRrWJzZ4a/1u5bxo7/VjSlbd7sKbQRmkq9v/CsMwJsUAwGBBC/LgJlHVBhjLa4QDKt/L+B/HE0bsJ8JhjfOUBcTiragzbjFLkaN45grtdhYsrRq9EXThqMIHtiyC9E99wzV8ZNTsxwOBqkQBm4HQ==;qO0UOQvjoEqzrZILzdcG8g=="
 ---

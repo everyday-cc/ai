@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI has given a big boost to stock of this lesser-known Silicon Valley computer maker"
-    excerpt: "“Investor enthusiasm and SMCI’s valuation have gotten well ahead of the fundamental realities that selling server hardware in our view — even with Nvidia’s AI chips — is a low-margin value proposition,” Ben Axler, founder and chief investment ..."
-    publishedDateTime: 2023-06-21T13:29:00Z
-    webUrl: "https://www.marketwatch.com/story/ai-has-given-a-big-boost-to-stock-of-this-lesser-known-silicon-valley-computer-maker-b529d129"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Local Opinion: Artificial intelligence game changer in animation industry"
     excerpt: "\"The urgent demand for video information reliance through social media and other platforms forms the ideal quest to embrace animation as opposed to real videos.\""
     publishedDateTime: 2023-06-23T13:30:00Z

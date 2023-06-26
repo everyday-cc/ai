@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -141,15 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
-    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
-    publishedDateTime: 2023-06-21T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "TJ5nHqdciUshl/BdxBgnnG0B+k3nSqsSo81a3Iyg9YIiFakRn+Tw4jfW8A2lpmU07IXKSbioexLSkkeUFmwV5U5KuAs6QYIMtjc+OVU2t09ideUUUzpT6FwoJMheCQOHYurj4TRPhw+j/I+i233+yQVonIMNiwNhxJqcJad7ddMRsM8YeZvAfOuzuQwwth5WvuMjZoTlU9T2erwNjGdEWhdymuCvgI22dtc9rV9oBJo7JJj9tCn/sr6bTJm3Xsm2SQIug2SNqfER9pr12KNZ/Rg1TeeiVxeU+9vUVNzOpCuI9arVljoQOWShrHcrCpumvTEXvsRAGvoTZ8j6S/FvfrCgVXz1Bd57jrwfucdA834=;U6juBzCf2iVpbhiw2SgVVQ=="
 ---

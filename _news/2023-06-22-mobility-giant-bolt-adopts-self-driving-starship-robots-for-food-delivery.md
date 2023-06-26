@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-drivin
 webUrl: "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Next Web
@@ -28,38 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "European Uber rival Bolt will deliver food to your door via self-driving robots"
-    excerpt: "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies."
-    publishedDateTime: 2023-06-21T13:32:00Z
-    webUrl: "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Autonomous delivery robots are taking to the streets of Europe"
-    excerpt: "These small vehicles are powered by artificial intelligence and are designed to deliver your groceries or take-out. And while trials of autonomous"
-    publishedDateTime: 2023-06-23T15:10:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/23/autonomous-delivery-robots-are-taking-to-the-streets-of-europe/76029"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 39
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/23/thumbs/400x400/124149.jpg"
-        width: 400
-        height: 266
-        isCached: true
 
 secured: "3mQDz1hxKn2EyRGegCNHryZlFSJaN3bsW8gO7sKRbdgzJ7J0HIULHg3sskIPcolGug92pB45i09muG4/QEQuITUzs75Gjc8xxYMsbiPclPFqAk4JNtD6gxQlIDxHGuP+rXpgqRltLQo6KHvsknuunPp5txKixXJPGgd2x6LThiXyhBVN865RIH2upT52TR32DYG7eSW2PoOfs5FthnWlhuGrXQPkNZLSC1iZ/zAQZ/IPLqFxIWOChu83QrVi7kmCjzJfeMRIoP59oqGxl7o9R0qFJ5JyUbwnHAczdJMMmLV1D8s97g7Vi1SB9rywQTp6pBgrqNLWtSXyLd9KW8vresW9dA/5NRaWhEc0YmlrxWtD3DlDxP5XwFNQG0bWmjX9CGkFELsR7g4wfcUGcAg+x+UjVbasu0jnHD1vYGhotJoSTjoo26gf9OPD9AQNCx+c6d1OKFkPocyb+kk9I7MYdwiU6l/jTS+mVkfdZXiocL2doNe9x1wPFsOJygO38PfYtHOL6ddTzK2+ya3jPM5qCQ==;imME6kzk59DXx+aPqDrfLw=="
 ---

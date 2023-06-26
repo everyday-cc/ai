@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-ve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
-    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
-    publishedDateTime: 2023-06-21T13:28:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 12
 
 secured: "EH4WK2Tc81VXV1Y8JCOl1w+wSlHVyrqoaWXjVNy2wcv/jkNDZ4D94UOjYKL0YnMUstCLns59s8arnPt8zn+ywPgq0fA5N60Z1z4EUqY+n/V8ZW5Ra4k+hUxa4PHlRUbs+HSBXtSMOB76LWej4cUJpQjbpaDAlgfwgxgP9HEy17GBVSC+9BbgoH3nCTtuzNR67mqB3/SCD7jnhk3NK/8U/GN2NzpchgUuu7dDeJJGkABv8zozE4pWOGd9A2ELsaOC1aUbaW9YW+X4hanzBPa6R9Sx2RCrz7A3IxaV9H2cPlncuhkLKFLbj0Onl4W3B4EUXWHwX/mqXkY7Ze1eWbWABFtuq4Q5trFTWGYabPiuoQY=;PkPLq4PDhYJSVV4iKVDwLQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai
 webUrl: "https://www.marketwatch.com/press-release/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience-2023-06-21"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
-    excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
-    publishedDateTime: 2023-06-21T14:51:00Z
-    webUrl: "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind"
-    ampWebUrl: "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
     excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
     publishedDateTime: 2023-06-24T12:16:00Z

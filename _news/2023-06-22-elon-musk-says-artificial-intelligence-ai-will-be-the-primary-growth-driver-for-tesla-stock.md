@@ -64,15 +64,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 14
-  - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
-    excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
-    publishedDateTime: 2023-06-21T13:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/hacker-finds-elon-mode-tesla-fsd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 7
 
 secured: "IWUynUhgvvJCYb4QW0K70BT19TdxsKx7Pr4MxMrWOLyWPoQR/QbOmly24d+nEwAsr6eAygueFxS+RltfSh30r5kJME5nLOjIGASNih5j96nHg+c40uc9pKI+XVHzEkfPPO1s/3tHD4G9Rsz0lEZE9nMoJRBuw4+poPEwj2gJ+aFf6EilIKnx+bIAHpdU808D4TrTzA9YM6jbqX51sj99S2VTkAz+csIgNBDRI5f77Fe/Kt30bZuggP3C6OxMfh0/hhnn0LMXW0lnOjXNfl3OE0WPBYJVeCsspv7V8+OUPpqYk3mdYiMef/V+8SEd0H7SzaXmSmb65g7xxjua99Y8rysjoln2YOPeftM0vqrq12E=;0hnDhzUfHt1O8B32MFgcAw=="
 ---

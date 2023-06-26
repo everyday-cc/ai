@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-crea
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
-    excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
-    publishedDateTime: 2023-06-21T13:25:00Z
-    webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "Artists are upset that ‘Secret Invasion’ used AI Art for opening credits"
     excerpt: "Marvel’s latest series, “Secret Invasion,” made its debut on Disney+ today, sparking tons of backlash after it was confirmed the intro sequence was AI-generated. “Secret Invasion” director Ali Selim admitted to Polygon that the opening credits were designed by VFX company Method Studios using artificial intelligence."
     publishedDateTime: 2023-06-21T18:27:00Z

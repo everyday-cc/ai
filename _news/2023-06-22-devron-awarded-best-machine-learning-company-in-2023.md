@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Devron Awarded \"Best Machine Learning Company\" in 2023"
-    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as the winner of the \"Best Machine Learning Company\" award in the sixth annual AI Breakthrough Awards program,"
-    publishedDateTime: 2023-06-21T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "ma/TH99wwAEkePxOgyxdrAicZ+GM3U+ekaWN3usNh3o9ganFm72SjgFf/ccCPV/cI12azQJ54ir8Lki2YVdQZC03j8OaV38WGJg+38nKX0Nh1mOxg14Boovf3ti8XxRPRdHvFvlho8QKhxx0/d5KrOzhAt1ICmpkhm0CP4+rPOFuzlROfPjRfm/EtSqifKCVaWucQw+V3IM0qo1GQ+Z1LqVpgcZRz+dG1XxaNO+h2jkM42tZxzkBnbYWtWluPJWjmQpOJGgJg+3qixnUK1CdURTGQDyh/N9N1zv8u8yoZad5yr8qYs9wViKkIim+1NUFTlcF6jJHx5l7CZykzUSNBqkajbsG2QNZJ4ftBh//Cso=;+TnQfoqEamwe+Pb+uXNyDw=="
 ---

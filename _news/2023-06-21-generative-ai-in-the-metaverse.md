@@ -137,15 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sprinklr Upgrades Generative AI Conversational Bots and Releases 110 New Features"
-    excerpt: "Release 18.5 continues to support Sprinklr's momentum in the customer service and CCaaS market with more than 110 new capabilities added to the Sprinklr Service Product Suite. Updates include features built with Sprinklr AI+,"
-    publishedDateTime: 2023-06-21T13:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sprinklr-upgrades-generative-ai-conversational-bots-releases-110-/2023/06/21/9836473.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "/3R5STtFpK+ToxB5JXtMZM6LiK+48DUzLI1XBAzQzIyKi75pNjVrvwHHfWHtyDfB1TzlEkmijUzZwn/zPuDVWuZWa4h1GzPp2lW7v1hnkZDZDctj1SEgWZkBS2P58wX/uguFqxd5pYaSyK8IVHEC+jqVOxuzP1UYfD5Ke6i/LM9FvGw70AIxgyo1AR+wEe+Ff23D2mPie0KeyMDUEivNlMNtU0I7FSJo8TQ3olOKQ2ZPrCxj41UnU/1Q7v7kbqlNPzSbxef7o9bF6hsY668H3A33fWPykWx1KGpzsF05Z3qX1MnE3vLxc4/xtyL2MKnTNni1ch5NIf390Z+3UwfrBZhDScdNoSsNJd3ZKSSfYUY=;NXO+yokUWUV3pul5q6Ex7Q=="
 ---

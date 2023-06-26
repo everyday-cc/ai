@@ -97,6 +97,17 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 56
+  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
+    excerpt: "Business Wire India Pocket HRMS has been recognized as a ‘Noteworthy AI Solution’ at Microsoft AI Solution Foundry Program. Pocket HRMS’ achie"
+    publishedDateTime: 2023-06-26T07:25:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/06/26/dcm12-pocket-hrms.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 44
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z

@@ -40,15 +40,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Opinion: AI has given a big boost to stock of this lesser-known Silicon Valley computer maker"
-    excerpt: "“Investor enthusiasm and SMCI’s valuation have gotten well ahead of the fundamental realities that selling server hardware in our view — even with Nvidia’s AI chips — is a low-margin value proposition,” Ben Axler, founder and chief investment ..."
-    publishedDateTime: 2023-06-21T13:29:00Z
-    webUrl: "https://www.marketwatch.com/story/ai-has-given-a-big-boost-to-stock-of-this-lesser-known-silicon-valley-computer-maker-b529d129"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
 
 secured: "/NIoQEajT708woONEkLT2pHz+7sJlrC2YvVgdlOSsLih9yedTy570mp/iCBMYtkK/VsQlDgtM+wofFWA+CgiK/c3IrVK3EL3IOYk5+Q/i74cV0gU2R4os/gHJgkBAuKNJ+JQcmzEE0G0Qm5a84MVRqwdsnZWu8UQm1hLkzDbsLJkGUym8WupGSB9Wb8PcSNrrYcWFjXChxL5Xg3m885k2LUgqknyd6sTw6/v8KxitcRDFBJ9ihmEBUM9OhtzxK6nLIr/BFaP8MBgy2pBcTx6sJ/XQBDQvCbO7X/vsyhPr54wt3Rrzg6vlzMQxOw/pp//GLLjaiBr+ogU53iC6tdwUcoMC8GBdRKbLS1SLvQyCSQ=;5dfFO0XpqHdZbDZv7JgTcA=="
 ---

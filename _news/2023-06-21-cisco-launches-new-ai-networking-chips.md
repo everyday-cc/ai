@@ -58,20 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Cisco introduces new SiliconOne processors for AI infrastructure"
-    excerpt: "Cisco is coming out with two new SiliconOne processors. The processors should form the basis for an AI or machine learning (ML) infrastructure. The two"
-    publishedDateTime: 2023-06-21T13:48:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/107856/cisco-introduces-new-siliconone-processors-for-ai-infrastructure/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/Cisco.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "90e+Zehx4FUqpIAKn3760Ufb/psacWxEzTKOpL/+D+Qz95wenN9c19nNOPs9jBRx0eFB/36wyzBORtwtl0XIY4r73SALpDc0AhhTSEFGub4U7CTK7qKGIMTiLMu+aJB81IA4kbcQ6DD6m9eB149O3Lk2ty0+WKjHzQEPvBuSAdPKsMghrL8Z2Qp5t4gRPTJhyHuupPOlbv5kd+fX8tA7lNCkxBgCBFNKlckJbU2C0fw9fbcUEIM2rgX3RpdhnzyYz+pXw9SO4EJEQ1HYcySYqQm7y/UoIb+lpNpDgS4OCPfdtUa4fcm61T4duHp6JYZE2+19hibegmvA6gB6U7zO0oTYHtKN+CTQC2e1ChAFewY=;RrvsRIO7JGyzBr7CflYrAg=="
 ---

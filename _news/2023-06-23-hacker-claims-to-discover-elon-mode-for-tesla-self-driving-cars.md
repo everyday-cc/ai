@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-te
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 14
-  - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
-    excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
-    publishedDateTime: 2023-06-21T13:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/hacker-finds-elon-mode-tesla-fsd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 7
 
 secured: "RX9VV1hrJHrAGiTCoEsunlRctUyb4ERgafx060HybYoXqz+XBVOyjRpj6lJ62mk1IRi6ePsj9ogcn8NfTOJo0UgLvxPvQNT4ThTF/IHL+9mPIJxhttDC6qfjqgQzd/E8r76Oq8E2tnfTrRr7lmJjmrlYv9yMP7nF/vkftzFYItTwGYwle5s3w976ETmwmVyscz93F4xumRLXl7cTWbSCg+W0ZKPAhJDI1TwBF9W0DRoVAjkAfcq2TbHYX20nNVOcYh/xex/wEboRj8UrX5IK6Cv19r9klbPmrcYVPJXRROhdGxvR034yuqAHF1TmEj/Zs6bT6/n8hSBJpXotBoNfNL5JfPiOgKkC8mz47L2CVH4=;OTshvAEhKlLNK5Ym1ywa1g=="
 ---

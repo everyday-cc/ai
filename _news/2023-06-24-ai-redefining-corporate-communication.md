@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication"
-    excerpt: "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences."
-    publishedDateTime: 2023-06-21T13:42:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/liberate-s-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication/article_55ec88b1-04ff-50e2-9da8-71e47e343ed1.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Fractal AI unveils customisable ecommerce UX tool powered by generative AI"
-    excerpt: "The tool is expected to increase sales for businesses, cut customer acquisition costs, and also reduce product research time for the customers through its generative AI advisory."
-    publishedDateTime: 2023-06-21T13:10:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/fractal-ai-unveils-customisable-ecommerce-ux-tool-powered-by-generative-ai-10835071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "LmF0WsYY0JvLKdHuAhdYmqtxtUXxk+D13pBurf0ue4U2e2VblNqogk0wFF+Vr/hEAdxPI06b59n9ZY17W9CC/WpMTsYunUsSIPjLVBwPcd5gCBIuRi/acumkLSRv4Tnr69T4tLh4041xhtM9LjAQHQ528vTW9sf1D6yW3CfpHui8v8UWBS/qivaDTzvmArVR7JS4pQ6SDVW73fkSpm/ZtujTHTnTRAp+oucPCtadqZfosVssMWGYvubhuUjRjFKgSSuKmZnw/a4sOIt86so+lSD+fVepGhZp0DzP5vUermyWBxc67Dnbd9DEryy+h6ivtgUfJcN2o+6ZAdtuQY9B1qzCx/whxyA3K0hzSczycpU=;Pzwc4qNkoX8yS7zyHbmx6A=="
 ---

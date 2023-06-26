@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "Hacker finds 'Elon Mode' in Tesla's Full Self-Driving Mode but it is not what you would expect"
-    excerpt: "The hacker has been critical of FSD in the past but has found the system has improved and performs well on highways."
-    publishedDateTime: 2023-06-21T13:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/hacker-finds-elon-mode-tesla-fsd"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 7
 
 secured: "LtBJH1aWlApMVPEru6mf9kMefc0xAZBFXtWVSy/ojXXX019m2Zp08T6sCTzq8QY/iEoudfETAMW61vXvjoKg+qzUSpbJJTqWOg7pWtv6HPtPOpjzSvO6rdNk7/4hGu4Hlg/4AA/6YNXDpQH/XgG2qBlygjaX1GkQMgxCkA3NnvJlBeE8oYHVnXxbfaELLwDmd0IZsVWgMuQcMApeXI0F32D1CUlMlvDnf/fzlOeFeG6fnz04iwIRghxFUzoV3Bza0rRw9LlQGjpQ/uFNDuluROrB+Iv6xbUloPYTBLbCbJJC87PySZx+jg5t9qPqYKc5OHyqFA4+RcsUapk0ogZxuv6WPwkULu6uM71uvKPGmWKjsBAl3TSQYV1jtT5ajtZOQTgV8DgBbV/xDUgqZsAmubQmsPN2Ugz6JHdCQ4dce7jDEr8Av8heYvAwNTupEoPOaI+N4/KflUOxayCnMNqAK+DQAyByuuGmXvJRGq+jmRbj9JJmhEWVpExuf5rcRFePv/ks6Ez5s9vyuTu9jMYXtw==;NWaCzA9Q5ZQ/Sjt5cpYrDA=="
 ---

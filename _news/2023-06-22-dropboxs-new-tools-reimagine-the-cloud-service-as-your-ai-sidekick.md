@@ -76,15 +76,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Today in AI: Vimeo launches new AI tools, US proposes commission to study AI and more"
-    excerpt: "Vimeo, the online content sharing and streaming platform, has announced new AI tools that will help entry-level creators with video scripts, footage recording, and editing. In a c"
-    publishedDateTime: 2023-06-21T13:28:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-vimeo-launches-new-ai-tools-us-proposes-commission-to-study-ai-and-more-10835021.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 12
 
 secured: "LzRveQRVkPOZmhNYM4Fn1E7iQjp56Z2tZYHEycUzeQUFOIeA3PFa5xGyGnbgWjUkymZweSFcIKq+FtdlEOfcosDVfmBsDfYg9mH4zKzAYwrYgylUptu3/03P4/Gq1DnWIZwWUq3QZK98e5erB3TT6yrLLXpeEm7PnB2e9JXitHKtm7uqba8irl7LAmW/J+filCmQpenNTlivS2+x8RtACESV9+tJto4R9bnhrJhQ5TftIwglma4IsjIrEdgcM6N4fkcNjcNyxBM+3yCZkyNVxixqrBlOE4qVB5NmaGuyXMV3o2mcmGgyQMLIdqXasJZ4tVtnrAdtaKTnKr6oTIw/QB5xlJfpKfozM5SL5e4r16U=;W816KJWi7Bp5cCFtUnrokw=="
 ---

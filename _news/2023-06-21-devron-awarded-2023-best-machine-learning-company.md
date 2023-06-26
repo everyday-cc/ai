@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/devron-awarded-2023-best
 webUrl: "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Devron Awarded \"Best Machine Learning Company\" in 2023"
-    excerpt: "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as the winner of the \"Best Machine Learning Company\" award in the sixth annual AI Breakthrough Awards program,"
-    publishedDateTime: 2023-06-21T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/21/9836795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "f5D/DqYZ79i/Pmx9ihFp4EXJrsmNcSh8EChYUO2MyceFQypiscctbOoMXZ7SIw1tyXw6P45611IU4z/cZY0Go98WeZf6X6KTdOctiCXs5uDJhCdT4DFmSq6Mp1q67cZeAe6vk5dSiJXIqULLL4NFS/Uq5hqAl39Pz/4a2z3JUxJ8PASO772v08CDgc/1FiMa+kGKB1lFE/QtE828rRAFFOpObsOTEc9S0Trmq2azcsWjsXzOqjv+iwSl/jxPS9j4hagfzRZItklg69Kd2A8HsMYJD+/jY0Are7zojWMs2snCuJdi2OFD7XMfP2ncXbMu6UDZP/sEjifkYebgu3Zk9vkz05pu1LoEI59m95TS5QU=;TQf5L72MzpV8A4cQDpnegA=="
 ---

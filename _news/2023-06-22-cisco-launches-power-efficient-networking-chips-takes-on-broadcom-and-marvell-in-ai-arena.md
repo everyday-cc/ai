@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Cisco introduces new SiliconOne processors for AI infrastructure"
-    excerpt: "Cisco is coming out with two new SiliconOne processors. The processors should form the basis for an AI or machine learning (ML) infrastructure. The two"
-    publishedDateTime: 2023-06-21T13:48:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/107856/cisco-introduces-new-siliconone-processors-for-ai-infrastructure/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/Cisco.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Cisco Launches New AI Networking Chips"
     excerpt: "Cisco's entry into the AI supercomputer chip market puts it in direct competition with Broadcom, which announced the Jericho3-AI chip in April."
     publishedDateTime: 2023-06-21T15:33:00Z

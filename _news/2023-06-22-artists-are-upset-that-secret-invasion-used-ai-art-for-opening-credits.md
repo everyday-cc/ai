@@ -63,15 +63,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Marvel criticized for using AI to make ‘Secret Invasion’ opening credits"
-    excerpt: "Secret Invasion is debuting on the Disney+ streaming service and stars Samuel L. Jackson as former S.H.I.E.L.D director Nick Fury."
-    publishedDateTime: 2023-06-21T13:25:00Z
-    webUrl: "https://venturebeat.com/ai/marvel-criticized-for-using-ai-to-make-secret-invasion-opening-credits/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
     excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
     publishedDateTime: 2023-06-23T15:19:00Z

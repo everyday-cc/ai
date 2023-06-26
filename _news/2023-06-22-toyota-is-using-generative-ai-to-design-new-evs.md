@@ -36,20 +36,6 @@ related:
         width: 1199
         height: 662
         isCached: true
-  - title: "Toyota Research Institute Unveils Generative AI Tool for Vehicle Design"
-    excerpt: "Toyota Research Institute (TRI) yesterday unveiled a generative artificial intelligence (AI) technique to amplify vehicle designers. Currently, designers leverage publicly available text-to-image generative AI tools as an early step in their creative process."
-    publishedDateTime: 2023-06-21T14:20:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22865366/toyota-research-institute-unveils-generative-ai-tool-for-vehicle-design"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/TRI_Generative_AI_Hero_Image.64930704aef16.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C45%2C1917%2C1080&w=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "0uSiTJOMz87fxYBuq+9YKpruOSbDOt17kz0ly4fqKBY6Zbu2SYCg9BM7a8b3f72bgc3hWv7fbnxTKx7acSsk5WwvkS2AX3OgBVWFIXjK/TVL+9CE8DlzYaWhZ1LqZxk5M+Lb+3ca41D6XeDAnwZR75LENVJUQ7Mmygk/ZpCg/VwNKq1MMOx6O+4L99r5bwDPiyNNQN9ox9DMHBu5wSHAcn2fFmMXafY5AyRchTXwi2VLBroHDVW7V2bkgvtfdaV9NgiCi+NCcpnXAq9iLl9W/WUwUyZ4smNJBMYo2AElW3ffwrRMEaS7k74pSmTzqwfFMjp+Lkc6J1WvPLPweKlkFWzPMcpa8sHVDxfLzuuPkgyfz/WjW4+GwDiXB1gOUTENSXO3rfI1WoHEn3ThinKdtkRBm/BQvFzlN6cEhCnwXqiz1khspS6z0DtEneSYlly7GRK0odCOInGbHKLTPG419ytR2ZXmOZcD8HgqUarAksJWZr5M4PKG3a9nrnxSOwZSigGDu80mrD+YYiztzF6G0Q==;l31KjCC5bgdNUz+hdHDhkw=="
 ---

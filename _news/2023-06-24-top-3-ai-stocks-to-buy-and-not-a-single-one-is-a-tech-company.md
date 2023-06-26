@@ -25,17 +25,6 @@ images:
     height: 508
     isCached: true
 
-related:
-  - title: "An AI company could be Orlando's next tech unicorn"
-    excerpt: "This year, tech upstarts valued at $1 billion+ are more likely to be AI-driven. This could translate to opportunity for Orlando, which is seeing an outbreak in AI startups."
-    publishedDateTime: 2023-06-21T14:21:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/news/2023/06/21/ai-technology-company-unicorn.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "ZzxsC4YvkZtZi8iMsTwr+hGa+sbiIkUqFnzC8G67RYPiIf0EZrCIeBM+/mS1Tu1P8vX8DcoEHSrZ6xCNN4JxlQJFAGUS2QbPI6eEfSnv0A0lJychbOEX9pAmG526tdDDpX803Cj4ju4goIOBuMHZ5CxEBuEeMf8QkIUY2YTkZcN3soemzMbZ+/DUFXwaSdXaNyAoZ9IxPUPU0DmnBuwZVgfWVLEwCSlrLWik1KAam6el15E6BJyE5OGGxymAkmnh9KkyBZnCGSAwj5MP9BXmbzMFjSuUcODVm1bCci1UBDQVuW9sCorgqxmAa2shMIAD3VHbvYuE1AW11thI9ENRFJ8hhzMe88srlaUN4+WR0PPswri9rah2E/KrH5k7/nvb97yTpQ+cg4I2N9XoIb8iWwRgun/x2RnRPjA3oO8A3awP18P37G+op9vM8LIGneqvy1CSWOHXxbJlme0f30s5RHoYEYN+PjRiFEYy3P/ICk0MVJZRXALxxoo5b84KQF4Kr4NKbBruBv3Ud/AfSTFiFA==;9qOSMghD7jyth1B4NDNDSg=="
 ---
 
