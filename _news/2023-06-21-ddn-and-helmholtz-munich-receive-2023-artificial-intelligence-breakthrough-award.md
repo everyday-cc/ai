@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-and-helmholtz-
 webUrl: "https://markets.businessinsider.com/news/stocks/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award-1032401893"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,20 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "DDN and Helmholtz Munich Receive 2023 Artificial Intelligence Breakthrough Award"
-    excerpt: "With the power of artificial intelligence and bioengineering, the researchers accelerate the translation process to patients in the areas of therapy and prevention with a focus on diabetes, obesity, allergies and chronic lung diseases. Helmholtz Munich has ..."
-    publishedDateTime: 2023-06-22T16:19:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award/"
+  - title: "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected"
+    publishedDateTime: 2023-06-22T00:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Carbon Robotics’ LaserWeeder™ Selected as “Best AI-based Solution for Agriculture” In 2023 AI Breakthrough Awards"
+    excerpt: "Carbon Robotics, a leader in AI-powered robotics, today announced that its LaserWeeder™ has been named “Best AI-based Solution for Agriculture” in the sixth annual AI Breakthrough Awards program conducted by AI Breakthrough. The leading market ..."
+    publishedDateTime: 2023-06-21T13:28:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/carbon-robotics-laserweeder-selected-as-best-ai-based-solution-for-agriculture-in-2023-ai-breakthrough/article_279b9bce-94b2-5427-9c72-f6994c32bac9.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 48
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/b/4b/b4b73623-2668-5119-a80a-dfd5f6c5221e/6492f8b52176c.image.jpg?crop=1662%2C873%2C0%2C186&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Untether AI Wins 2023 Artificial Intelligence Breakthrough Award"
+    excerpt: "Untether AI®, the leader in energy-centric AI semiconductor technology, announced it has been selected as the winner of the \"AI Hardware Innovation Award\" in the prestigious international AI Breakthrough Awards program conducted by AI Breakthrough."
+    publishedDateTime: 2023-06-21T18:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836938.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "OvationCXM Recognized as Leading Technology Company in 2023 AIFintech100 List"
+    excerpt: "“AIFintech 100 has identified OvationCXM as a fintech AI innovator making lasting impacts in the industry. We are pleased to receive recognition for our AI work that is transforming the customer ..."
+    publishedDateTime: 2023-06-21T16:03:00Z
+    webUrl: "https://www.kake.com/story/49108735/ovationcxm-recognized-as-leading-technology-company-in-2023-aifintech100-list"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 16
 
 secured: "uytOuFfZUalU6poFoJb8fUEmro/gUWBYnOESNrfK68QpbktkxIrCgtubJZ38YD621FUf2h7IV3XPaBqOG28KJJGnphTflhDmJCKeex/Q4s2XMHYP9semTor3y9TzSSfjHkVyBrFPZsH3XOplcKioJaLc8VQA71eTN5X3spxuPNDojXqFolIUa4ZHclHBj6kfWmliBxAyaoeedX8OSN5QGqK6rp/+lpeKVNWDMdqHN1wAclfZfgZAppooXHnr6lJVrLFSZZ0ZW0Ia+gsNd8cOBvzZRgThKfI6ah9d1nOcgBQqwkcGe6LQJ0YJPm3YBfMYZHUHIY8NGlv6g3tU5vrBJzmuV/zUF3MvXuyIu5T/F+tmT8KOrVm3BN6lskyWcRXQOtc0VO9A9edpsTHi9vKad1a5xb4FFgfDFbUNYTkBnlz7lZNevWX5Lg4Dx5WX3sG3U+1o8nvRUZWhNkhwPawT6s1DOSfYxtRQUaxyoYQAbIOcaaEFJ4Tb/gh8q7q0nsLxn3tH8CyXFElH0XU83inmUw==;10B/jESmT3cDaBRLN+BMPw=="
 ---

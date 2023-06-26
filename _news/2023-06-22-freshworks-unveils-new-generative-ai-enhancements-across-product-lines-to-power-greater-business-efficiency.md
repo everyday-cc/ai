@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/freshworks-unveils-new-g
 webUrl: "https://www.marketwatch.com/press-release/freshworks-unveils-new-generative-ai-enhancements-across-product-lines-to-power-greater-business-efficiency-2023-06-21"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Freshworks Inc: Freshworks Unveils New Generative AI Enhancements Across Product Lines to Power Greater Business Efficiency"
-    excerpt: "Freddy, Freshworks' AI assistant, continues to advance to make generative AI more accessible to employees in support, sales, marketing and IT, making their everyday work easierSAN MATEO, Calif., CHENN"
-    publishedDateTime: 2023-06-21T12:13:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59391320-freshworks-inc-freshworks-unveils-new-generative-ai-enhancements-across-product-lines-to-power-greater-business-efficiency-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "h2hHEWMkQPDkWoSs9qwo+zcr3Ki/5dXLMsGw+01FpDc2BGMwtok+BWYELq6vm69Pmlnx83nnJvonjeX/Ov+46CIMMMdbi6slP0rZc5FOcKOXX8jX0QRNwocOEtVhHRmiJiG8oGx8PoXL/MO3H9aktrCvl8kMQvHHN8TrQLdMWM0j+zPIjx55SwZjzKbzcoUoowaV22+uApsnoMn+BZ9yIvepXCMRFH/ASLtuMsKYi9UpnoWx4WIJOfqFbnCJc1QZD53Nos+5UNxp7zJCkdGMnNPSa0819dKO2HYynJJt0qfzgUnPLQOI79KgdTYiEtk3Ml7F3sLHLuXZrRULv8O2uzZw3LWd0gmeggLjrDOtBSI=;qBy95jJOd/C/t4qrfVJQcA=="
 ---

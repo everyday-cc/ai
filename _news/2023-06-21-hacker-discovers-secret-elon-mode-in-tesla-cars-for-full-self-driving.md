@@ -52,20 +52,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 68
-  - title: "Hacker uncovers secret Tesla full self-driving mode with fewer safety precautions"
-    excerpt: "An undisclosed version of Tesla's full self-driving (FSD) software has recently emerged. Its intended use remains unknown, but it appears to have fewer restrictions than what"
-    publishedDateTime: 2023-06-21T11:55:00Z
-    webUrl: "https://www.techspot.com/news/99143-hacker-uncovers-secret-tesla-full-self-driving-mode.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-    images:
-      - url: "https://www.techspot.com/images2/news/ts3_thumbs/2023/03/2023-03-06-ts3_thumbs-38e.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
     publishedDateTime: 2023-06-23T19:54:00Z

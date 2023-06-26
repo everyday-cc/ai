@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Could Reshape the Growth vs. Value Debate"
-    excerpt: "History tells us value stocks beat growth stocks over the long run. Some analysts say that script could be changing. Value stocks trade at bargains relative to their underlying worth. Growth stocks trade at higher multiples since investors are betting on future profits."
-    publishedDateTime: 2023-06-21T13:08:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-21-2023/card/how-ai-could-reshape-the-growth-vs-value-debate-EySUabfhUIMsk8phAirs"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Top Democrat urging swift action on artificial intelligence regulations"
     excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
     publishedDateTime: 2023-06-22T06:00:00Z

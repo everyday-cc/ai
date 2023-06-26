@@ -83,15 +83,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
-  - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
-    excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
-    publishedDateTime: 2023-06-21T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/21/artists-are-mad-about-marvels-secret-invasion-ai-generated-opening-credits/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Marvel faces backlash over AI-generated opening credits"
     excerpt: "Social media users condemned use of AI -generated opening credits for Secret Invasion premiering this week on Disney+"
     publishedDateTime: 2023-06-21T18:53:00Z

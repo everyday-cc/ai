@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/ddn-and-helmholtz-munich-rec
 webUrl: "https://www.datanami.com/this-just-in/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1893
     height: 767
     isCached: true
-
-related:
-  - title: "DDN and Helmholtz Munich Receive 2023 Artificial Intelligence Breakthrough Award"
-    excerpt: "DDN and Helmholtz Munich Recognized for Their Work in Accelerating AI-Driven Discoveries that Deliver Concrete Benefits to Society and Human"
-    publishedDateTime: 2023-06-21T14:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award-1032401893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
-        width: 283
-        height: 400
-        isCached: true
 
 secured: "qUiZL0dJH+zkDcfZRGKXaA+XIUJUIeaEBHY+s1jn7maRqYa2edNCwHTZTG0/XdwjZkruAQU44g89GcCF7w9KGNRtyq+7eeg7F/hv4je8Ulg3hvdCC9uO/H9VKV4hxUHW+MW8YJ+clSuzQcoog9qofOU8wOiw8y6w/v9SCyMTrmWavBJCSD52ZWn8wtCiZbw4m1MguHecf9qY4lVGVx/ywWn5r8kq0EB347cvp8OH7D0N8cXtu0ZEKQCM2gFCfq3QEXIXKSmB8Bpt+c7PggoV4M18I/zSvXh7/SxNO9h8K8Br0WNiD5x7DU5AqA4qwvAGGyrMO29lcjuKZ2EyCdqtNIcMnTKXZOOF4Xm2PD89aM8=;QUfLyvQqcEJWOFiDE521lQ=="
 ---

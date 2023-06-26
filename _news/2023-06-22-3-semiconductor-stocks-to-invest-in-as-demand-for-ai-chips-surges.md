@@ -95,15 +95,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "This Startup Is Using AI To Reduce Emissions In Hard-To-Mitigate Industries"
-    excerpt: "That’s exactly the kind of work that’s the specialty of Fero Labs, a New York City-based manufacturing process optimization software company. Today they’ve announced the close of a $15 million growth round led by Climate Investment, bringing Fero Lab’s total funding to $30 million."
-    publishedDateTime: 2023-06-21T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/jimvinoski/2023/06/21/this-startup-is-using-ai-to-reduce-emissions-in-hard-to-mitigate-industries/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "Driving AI innovation: Intel’s Lisa Spelman discusses the future of computing"
     excerpt: "Lisa Spelman (pictured), corporate vice president and general manager of Xeon products at Intel Corp., recently shared valuable insights on Intel’s fourth-generation Xeon processor and its role in accelerating AI adoption while catering to diverse customer workloads."
     publishedDateTime: 2023-06-21T21:15:00Z

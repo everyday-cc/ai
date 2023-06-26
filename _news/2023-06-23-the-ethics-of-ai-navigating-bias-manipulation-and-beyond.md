@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/23/the-ethi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/23/the-ethics-of-ai-navigating-bias-manipulation-and-beyond/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Today in AI: How Artificial Intelligence can land you your dream job, AI in education and more"
+    excerpt: "Recent report states that 99 per cent of the Fortune 500 utilise an application tracking system. These systems are powered by artificial intelligence and sort through large numbers of résumés, categorising them into \"yes\" and \"no\" categories according to keywords, years of experience, educational background, and other criteria."
+    publishedDateTime: 2023-06-26T04:37:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 77
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "WsZTXbQofRruhTXmPysHk92xXBL8DXb66DNJnhpz9QV5wlTJK7sr7tXdFiW6wca2PIxFEEgRnEikv5BYqAnsEPud8qtvHpIfrZsaygmfYjRj63sWL5qOb/PMx4fAT3qF+Qo7ezH4gpKPAlmM7e0c/iLxkeofJHEiYlxJELvPZ1h483WNeklwpRkLI/emfdzpLYrXVsvuK0uM/2UmXrSqtB060BFfA2qBv9lgupvFFaAoE8DCDXfiMtGpYQ92d9aFWNkCnQdACLzX0ouGTwQRzLlSmWH93IApt0c+jjhGPI4Xo8m6OoaY7vTrsq/LbHlVnV+HXaIS7c/r6zD2jB9xXZu/Aet/fEYYIaOnzq77Rn6WAeAMTbrDwxWYP1Bm6wODSf1QwbckDt7yVOkl5+rl4FCYaCbYLc5971Y2F36FMyniaEyrckAiHEwhS7yddLnCFVzbLg8gxqdkqBnsxhfs/NljlwirrGF5ctvR9TLHcP7+SKV+UCnZukc7ElyDOTPTheaF6/6YfKIszKop/00vgQ==;j9U9fQnok5MfcEEFtSyv3w=="
 ---

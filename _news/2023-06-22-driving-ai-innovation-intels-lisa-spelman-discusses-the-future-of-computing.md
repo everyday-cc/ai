@@ -110,15 +110,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "This Startup Is Using AI To Reduce Emissions In Hard-To-Mitigate Industries"
-    excerpt: "That’s exactly the kind of work that’s the specialty of Fero Labs, a New York City-based manufacturing process optimization software company. Today they’ve announced the close of a $15 million growth round led by Climate Investment, bringing Fero Lab’s total funding to $30 million."
-    publishedDateTime: 2023-06-21T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/jimvinoski/2023/06/21/this-startup-is-using-ai-to-reduce-emissions-in-hard-to-mitigate-industries/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
     excerpt: "“AI applied to the BaaS and embedded fintech is going to be a game changer to capture this market and I’m excited that Agora was selected among the world’s more innovative companies who are developing AI and machine learning technologies to improve ..."
     publishedDateTime: 2023-06-22T06:13:00Z

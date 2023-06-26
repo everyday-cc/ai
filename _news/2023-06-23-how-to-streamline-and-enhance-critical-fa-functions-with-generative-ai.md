@@ -115,19 +115,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
-    publishedDateTime: 2023-06-23T04:20:00Z
-    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "AWS will invest $100 million in a program connecting machine learning and AI experts with customers to accelerate innovation and success through generative AI."
+    publishedDateTime: 2023-06-23T10:20:00Z
+    webUrl: "https://www.hartenergy.com/exclusives/aws-announces-generative-ai-innovation-center-205550"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Hart Energy
+      domain: hartenergy.com
     quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
-        width: 800
-        height: 418
+      - url: "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/06/aws-announces-generative-ai-innovation-center.jpg?itok=qb4hStrp"
+        width: 650
+        height: 434
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
@@ -159,15 +159,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "How Generative AI Could Revolutionize State Street"
-    excerpt: "After a June 20 interview with State Street executives, I learned that generative AI could revolutionize how it operates in the years ahead."
-    publishedDateTime: 2023-06-21T12:56:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/21/how-generative-ai-could-revolutionize-state-street/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
     excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
     publishedDateTime: 2023-06-22T13:02:00Z

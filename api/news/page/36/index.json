@@ -2,6 +2,290 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-05-31-the-ethics-of-communication-between-ai-and-humans.md",
+      "title": "The Ethics Of Communication Between AI And Humans",
+      "excerpt": "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
+      "publishedDateTime": "2023-05-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-cathie-wood-says-software-stocks-will-ride-ai-wave-next-these-three-could-rival-nvidia.md",
+      "title": "Cathie Wood Says Software Stocks Will Ride AI Wave Next — These Three Could Rival Nvidia",
+      "excerpt": "Wood defended the decision to dump Nvidia stock before the company soared to a $1 trillion valuation and said Ark is “onto the next thing.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/05/31/cathie-wood-says-software-stocks-will-ride-ai-wave-next---these-three-could-rival-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-leaders-its-time-to-cut-through-the-ai-clutter.md",
+      "title": "Leaders, It’s Time To Cut Through The AI Clutter",
+      "excerpt": "With so much noise surrounding AI, it’s vital for anyone looking at the role that AI can play in their business to cut through the clutter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/",
+      "publishedDateTime": "2023-05-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-five-ways-entrepreneurs-can-use-artificial-intelligence.md",
+      "title": "Five Ways Entrepreneurs Can Use Artificial Intelligence",
+      "excerpt": "When it comes to mechanical tasks and time-intensive processes, you may be better off delegating them to AI to free up more of your time for human-centered work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&crop=752,423,x0,y78,safe&width=1200",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-31T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground.md",
+      "title": "Nvidia Is Soaring. AI Chip Rival Graphcore Can Barely Get Off the Ground",
+      "excerpt": "Nvidia is barred from selling its highest-end graphics processors in the country. “We’re one of the few alternatives,” he said. Graphcore has been “quite successful” in China and other parts of Asia, Toon said, but beyond partnerships with Alibaba Group Holding Ltd. and Baidu, the company hasn’t cited any specific customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik2Y9203IpGc/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-is-central-to-the-future-of-medical-natural-language-processing.md",
+      "title": "AI is central to the future of medical natural language processing",
+      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarefinancenews.com/video/ai-central-future-medical-natural-language-processing",
+      "originalUrl": "https://www.healthcarefinancenews.com/video/ai-central-future-medical-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Finance News",
+        "domain": "healthcarefinancenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-more-warnings-come-from-sabi-pipo-say-ai-fit-finish-human-beings.md",
       "title": "More warnings come from sabi pipo say AI fit finish human beings",
       "excerpt": "But odas say dem don too overblow di fears. Sam Altman, Chief Executive of ChatGPT-maker OpenAI, Demis Hassabis, Chief Executive of Google DeepMind and Dario Amodei of Anthropic don support di ...",
@@ -890,299 +1174,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence.md",
-      "title": "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence",
-      "excerpt": "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-30T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-uber-and-serve-robotics-to-deploy-up-to-2000-food-delivery-robots.md",
-      "title": "Uber and Serve Robotics to deploy up to 2,000 food delivery robots",
-      "excerpt": "Uber Technologies Inc. and startup Serve Robotics Inc. plan to deploy a fleet of up 2,000 delivery robots that will transport restaurant orders to consumers. The companies detailed the initiative today.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
-      "originalUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/robot.png",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-tech-up-on-ai-enthusiasm-tech-roundup.md",
-      "title": "Tech Up on AI Enthusiasm -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose slightly as optimism about new artificial-intelligence developments buoyed some mega cap stocks. Nvidia crossed",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
-      "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-enthusiasm-tech-roundup-3a20fb95",
-      "publishedDateTime": "2023-05-30T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-health-care-down-sharply-on-cyclical-bias-health-care-roundup.md",
-      "title": "Health Care Down Sharply on Cyclical Bias -- Health Care Roundup",
-      "excerpt": "Health-care companies fell sharply as traders rotated into cyclical sectors, spurred by enthusiasm about the debt-ceiling deal and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-sharply-on-cyclical-bias-health-care-roundup-1b7d6c85",
-      "publishedDateTime": "2023-05-30T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos.md",
-      "title": "MyHeritage debuts Reimagine, an AI app for scanning, fixing and even animating old photos",
-      "excerpt": "Genealogy company MyHeritage is using AI to make it easier for families to preserve their memories with the launch of its latest app, Reimagine.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/30/myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos/",
-      "originalUrl": "https://techcrunch.com/2023/05/30/myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/All_Features.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/30/myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/myheritage-debuts-reimagine-an-ai-app-for-scanning-fixing-and-even-animating-old-photos/amp/",
-      "publishedDateTime": "2023-05-30T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-how-could-chatgpt-and-artificial-intelligence-impact-the-economy.md",
-      "title": "How Could ChatGPT and Artificial Intelligence Impact the Economy?",
-      "excerpt": "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html",
-      "originalUrl": "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

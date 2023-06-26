@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education"
-    excerpt: "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integration with Microsoft Azure OpenAI Service to use OpenAI’s large language models within PowerSchool Performance Matters and PowerSchool LearningNav,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in/article_60959394-f5c0-51ce-aa2b-9c928ebb74a7.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
     publishedDateTime: 2023-06-23T18:02:00Z
@@ -101,6 +87,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
+    excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
+    publishedDateTime: 2023-06-26T03:42:00Z
+    webUrl: "https://www.techtimes.com/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 54
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430323/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.jpg"
+        width: 1500
+        height: 1125
         isCached: true
   - title: "Microsoft announces advances in Azure Quantum to accelerate scientific discovery"
     excerpt: "Microsoft has recently announced the latest advancements in Azure Quantum, a move aimed at accelerating scientific discoveries. The company firmly believes"

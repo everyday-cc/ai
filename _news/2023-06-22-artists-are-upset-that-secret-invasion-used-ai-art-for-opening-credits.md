@@ -72,15 +72,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Artists Are Mad About Marvel’s ‘Secret Invasion’ AI-Generated Opening Credits"
-    excerpt: "It took all of about 30 seconds for Marvel’s Secret Invasion to stumble into controversy after its premiere today. While reportedly the show itself is pretty good, the opening credits are what have gotten some people upset."
-    publishedDateTime: 2023-06-21T12:33:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/21/artists-are-mad-about-marvels-secret-invasion-ai-generated-opening-credits/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
     excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
     publishedDateTime: 2023-06-23T15:19:00Z

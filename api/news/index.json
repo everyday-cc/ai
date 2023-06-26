@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-and-more.md",
+      "title": "Today in AI: How Artificial Intelligence can land you your dream job, AI in education and more",
+      "excerpt": "Recent report states that 99 per cent of the Fortune 500 utilise an application tracking system. These systems are powered by artificial intelligence and sort through large numbers of résumés, categorising them into \"yes\" and \"no\" categories according to keywords, years of experience, educational background, and other criteria.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
+      "publishedDateTime": "2023-06-25T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape.md",
       "title": "Future CEO Rishi Mandal: AI Fitness Doesn’t Address “Historical Barrier” Of Staying In Shape",
       "excerpt": "Rishi Mandal is the co-founder and CEO of Future. Future is a digital fitness coaching app that connects elite performance fitness coaches to individuals virtually",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.bbc.com/news/business-65959815",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -112,7 +155,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever-1032408375",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -185,6 +228,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-opinion-other-voices-federal-law-shouldnt-shield-ai-chatbots-from-liability.md",
+      "title": "(Opinion) Other Voices: Federal law shouldn’t shield AI chatbots from liability",
+      "excerpt": "The erupting world of artificial intelligence poses a threat to jobs, political stability, world peace and health and even, as leading AI figures warned recently, the existence of mankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/",
+      "originalUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.greeleytribune.com/wp-content/uploads/2023/06/sam.jpg?w=1024&h=681",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/",
+      "cdnAmpWebUrl": "https://www-greeleytribune-com.cdn.ampproject.org/c/s/www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/",
+      "publishedDateTime": "2023-06-25T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Greeley Tribune",
+        "domain": "greeleytribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -483,7 +569,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1060,7 +1146,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 276,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1093,108 +1179,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you.md",
-      "title": "LinkedIn's new AI bot will write your hard-earned milestone posts for you",
-      "excerpt": "Crafting the perfect LinkedIn post takes time and effort. Here's how the new AI bot will help make things easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you/",
-      "originalUrl": "https://www.zdnet.com/article/linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/007a3236b8d292e6e1750ac9c86d4bfd1a1b08da/2023/06/23/9713d840-73ec-4883-bde3-e5ef336ab27e/gettyimages-1252091315.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedins-new-ai-bot-will-write-your-hard-earned-milestone-posts-for-you/",
-      "publishedDateTime": "2023-06-23T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-youtube-integrates-ai-powered-dubbing-tool.md",
-      "title": "YouTube integrates AI-powered dubbing tool",
-      "excerpt": "YouTube is currently testing a new tool that will help creators automatically dub their videos into other languages using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/",
-      "originalUrl": "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/",
-      "publishedDateTime": "2023-06-23T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

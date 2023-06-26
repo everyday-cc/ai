@@ -41,15 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "How AI Could Reshape the Growth vs. Value Debate"
-    excerpt: "History tells us value stocks beat growth stocks over the long run. Some analysts say that script could be changing. Value stocks trade at bargains relative to their underlying worth. Growth stocks trade at higher multiples since investors are betting on future profits."
-    publishedDateTime: 2023-06-21T13:08:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-21-2023/card/how-ai-could-reshape-the-growth-vs-value-debate-EySUabfhUIMsk8phAirs"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Despite Federal Regulations, States Likely to Tread Their Own AI Regulatory Path"
     excerpt: "While federal agencies have been quite vocal about the fact that AI is already regulated in the U.S., states are seeing openings to address the technology's risks for themselves."
     publishedDateTime: 2023-06-22T21:20:00Z

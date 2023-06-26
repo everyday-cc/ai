@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-ve
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Madrona Venture Labs announces $11M round to fund pre-seed AI founders"
-    excerpt: "Madrona Venture Labs, a pre-seed startup incubator-of-sorts based in Seattle, Washington that bills itself as “an enterprise AI startup studio… for founders, by founders ” has secured $11 million for its fifth fund,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://venturebeat.com/ai/madrona-venture-labs-announces-11m-round-to-fund-pre-seed-ai-founders/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
     excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
     publishedDateTime: 2023-06-25T06:52:00Z

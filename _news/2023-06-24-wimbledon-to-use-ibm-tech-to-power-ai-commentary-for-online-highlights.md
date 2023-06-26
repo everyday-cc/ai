@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Enhancing the Wimbledon fan experience with AI from watsonx"
-    excerpt: "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted"
-    publishedDateTime: 2023-06-21T11:15:41Z
-    webUrl: "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 134
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg"
-        width: 1197
-        height: 602
-        isCached: true
   - title: "Wimbledon to introduce AI-powered commentary to coverage this year"
     excerpt: "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips"
     publishedDateTime: 2023-06-21T14:51:00Z
@@ -63,31 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wimbledon, IBM team up for AI-generated highlight commentary"
-    excerpt: "Wimbledon will use AI commentary for video highlight packages on its website and app at this year's tournament."
-    publishedDateTime: 2023-06-21T11:18:00Z
-    webUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary"
-    ampWebUrl: "https://www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
-    cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/tennis/story/_/id/37890817/wimbledon-ibm-team-ai-generated-highlight-commentary?platform=amp"
-    type: article
-    provider:
-      name: ESPN
-      domain: espn.com
-    quality: 57
-    images:
-      - url: "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0714%2Fr880269_1296x729_16%2D9.jpg"
-        width: 1296
-        height: 729
-        isCached: true
-  - title: "Wimbledon Line Judges' Future Uncertain As Grand Slam Embraces AI"
-    excerpt: "Wimbledon technology chiefs say line judges are safe -- at least for now -- even as the grass court tournament embraces artificial intelligence."
-    publishedDateTime: 2023-06-21T12:39:00Z
-    webUrl: "https://www.barrons.com/news/wimbledon-line-judges-future-uncertain-as-grand-slam-embraces-ai-a936e334?refsec=topics_afp-news"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
   - title: "AI watch: from Wimbledon to job losses in journalism"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-23T11:54:00Z

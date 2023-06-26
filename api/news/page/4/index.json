@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-22-best-robot-vacuum-mop-combo-for-2023.md",
+      "title": "Best robot vacuum mop combo for 2023",
+      "excerpt": "Gone are the days of breaking out your mop and constantly emptying your dustbin – with robot vacuum-mop combos, much of your cleaning routine can be automated. These useful little drones might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/06/roborock-s5-max-robot-vacuum-cleaning-self-charger.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-and-mop-combo/?amp",
+      "publishedDateTime": "2023-06-21T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm.md",
+      "title": "Artificial Intelligence in Machine Learning Market Latest Trends, Demand, Cost Structures and Industry Development by 2030 |Google, Baidu, IBM",
+      "excerpt": "The Artificial Intelligence in Machine Learning Market research report encompasses a thorough study of the current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm-2023-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-latest-trends-demand-cost-structures-and-industry-development-by-2030-google-baidu-ibm-2023-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth.md",
+      "title": "The Rise of AI in the Language Industry: New Opportunities for Growth",
+      "excerpt": "Artificial intelligence (AI) has opened up new opportunities for growth in the language industry allowing for more efficient and accurate translation and interpretation services. With the help of AI, language service providers can now offer faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-rise-of-ai-in-the-language-industry-new-opportunities-for-growth-2023-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
       "title": "Schumer reveals plan to regulate AI",
       "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
@@ -135,6 +291,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program.md",
+      "title": "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program",
+      "excerpt": "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -396,7 +604,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -490,7 +698,7 @@
       "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -636,7 +844,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -732,7 +940,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/devron-awarded-2023-best-machine-learning-company-2023-06-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -931,21 +1139,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award.md",
-      "title": "DDN and Helmholtz Munich Receive 2023 Artificial Intelligence Breakthrough Award",
-      "excerpt": "DDN and Helmholtz Munich Recognized for Their Work in Accelerating AI-Driven Discoveries that Deliver Concrete Benefits to Society and Human",
+      "path": "_news/2023-06-21-wimbledon-to-introduce-ai-powered-commentary-to-coverage-this-year.md",
+      "title": "Wimbledon to introduce AI-powered commentary to coverage this year",
+      "excerpt": "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award-1032401893",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ddn-and-helmholtz-munich-receive-2023-artificial-intelligence-breakthrough-award-1032401893",
+      "webUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
+      "originalUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
+          "url": "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -953,16 +1161,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T07:26:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
+      "publishedDateTime": "2023-06-21T07:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -978,6 +1186,7 @@
         "news"
       ],
       "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1030,184 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-european-uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.md",
-      "title": "European Uber rival Bolt will deliver food to your door via self-driving robots",
-      "excerpt": "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "publishedDateTime": "2023-06-21T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-what-is-data-center-management.md",
-      "title": "What is data center management?",
-      "excerpt": "Data center management encompasses the tasks and management tools necessary to keep their private data centers operational, secure and compliant.\nThe post What is data center management? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-data-center-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T06:07:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-using-event-notifications-in-your-deployed-solutions.md",
-      "title": "Using Event Notifications in your deployed solutions",
-      "excerpt": "How to create and configure the Event Notifications service using an IaC template and configure an example application to send custom events. \nThe post Using Event Notifications in your deployed solutions appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/using-event-notifications-in-your-deployed-solutions/",
-      "originalUrl": "https://www.ibm.com/blog/using-event-notifications-in-your-deployed-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T06:04:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-g2-summer-reports-name-ibm-a-leader.md",
-      "title": "G2 Summer Reports name IBM a Leader",
-      "excerpt": "IBM offerings were featured in more than 820 unique G2 reports, earning over 250 unique placements as a top-three product across various categories.\nThe post G2 Summer Reports name IBM a Leader appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
-      "originalUrl": "https://www.ibm.com/blog/g2-summer-reports-name-ibm-a-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T06:02:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

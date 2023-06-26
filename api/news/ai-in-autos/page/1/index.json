@@ -62,7 +62,7 @@
       "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -173,6 +173,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program.md",
+      "title": "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program",
+      "excerpt": "Moveworks, the leading conversational AI platform for the enterprise, today announced that it has been selected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program-2023-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T17:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -813,6 +865,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-17-best-ai-cryptos-to-invest-in-artificial-intelligence.md",
+      "title": "Best AI cryptos to invest in Artificial Intelligence",
+      "excerpt": "Fetch.ai is a man-made intelligence-centered blockchain project that intends to make a decentralized computerized economy driven via independent monetary specialists (AEAs). These AEAs address artificial intelligence specialists equipped for performing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ghanabusinessnews.com/wp-content/uploads/2018/07/bitcoin.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghana Business News",
+        "domain": "ghanabusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
       "title": "Elon Musk Gives Google a Driving Test",
       "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
@@ -1334,110 +1429,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up.md",
-      "title": "French company Mistral AI raises 105 mln euros shortly after being set up",
-      "excerpt": "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg",
-          "width": 4000,
-          "height": 2741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
-      "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
-      "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
-      "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
-      "publishedDateTime": "2023-06-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

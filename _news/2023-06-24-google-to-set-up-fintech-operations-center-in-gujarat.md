@@ -119,6 +119,22 @@ related:
         width: 1248
         height: 650
         isCached: true
+  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
+    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
+    publishedDateTime: 2023-06-26T05:02:00Z
+    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
+    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 29
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
+        width: 1320
+        height: 743
+        isCached: true
   - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
     excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
     publishedDateTime: 2023-06-24T07:16:00Z

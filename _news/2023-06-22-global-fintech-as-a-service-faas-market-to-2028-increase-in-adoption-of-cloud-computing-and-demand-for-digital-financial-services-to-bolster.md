@@ -53,15 +53,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "OvationCXM Recognized as Leading Technology Company in 2023 AIFintech100 List"
-    excerpt: "“AIFintech 100 has identified OvationCXM as a fintech AI innovator making lasting impacts in the industry. We are pleased to receive recognition for our AI work that is transforming the customer ..."
-    publishedDateTime: 2023-06-21T16:03:00Z
-    webUrl: "https://www.kake.com/story/49108735/ovationcxm-recognized-as-leading-technology-company-in-2023-aifintech100-list"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
-    quality: 16
   - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
     excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
     publishedDateTime: 2023-06-24T08:00:00Z
@@ -85,29 +76,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "Agora Services Named to AIFinTech100 2023: Identified as one of the World's Most Innovative AI-Based Firms Solving Challenges in Financial Services"
-    excerpt: "Agora Services, the next generation of bank as a service / embedded fintech provider announced today its inclusion in the 2023 AIFinTech100 list.– a select global listing reflecting \"the world's most innovative solution providers\" who are \"using artificial intelligence (AI) to transform financial services."
-    publishedDateTime: 2023-06-21T12:14:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/agora-services-named-to-aifintech100-2023-identified-as-one-of-the-worlds-most-innovative-ai/article_f213de64-92df-5ec4-a029-337e592285fe.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 1
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global"
-    excerpt: "The AIFinTech100 award recognizes the world’s most innovative companies developing AI and machine learning technologies to help solve challenges or improve efficiency in financial services. A panel of industry experts and analysts selected 100 of the top firms from over 2,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-6-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
   - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
     excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
     publishedDateTime: 2023-06-23T08:00:00Z

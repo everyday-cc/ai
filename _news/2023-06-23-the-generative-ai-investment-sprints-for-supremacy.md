@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_teaser_image/2022-11/pexels-fauxels-3183164.jpg?itok=0U1ndD_B"
         width: 600
         height: 400
+        isCached: true
+  - title: "3 Questions for Coursera About Generative AI in Education"
+    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
+    publishedDateTime: 2023-06-26T04:46:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 56
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."

@@ -63,7 +63,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 276,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -96,6 +96,48 @@
         "IBM AI",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
+      "title": "The business value of operating core insurance solutions on the cloud",
+      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:23:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     },
     {
@@ -175,6 +217,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-wimbledon-to-introduce-ai-powered-commentary-to-coverage-this-year.md",
+      "title": "Wimbledon to introduce AI-powered commentary to coverage this year",
+      "excerpt": "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
+      "originalUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
+      "publishedDateTime": "2023-06-21T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1315,99 +1409,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
-      "title": "Is there a “right” cloud strategy for banking?",
-      "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
-      "originalUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:34:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
-      "title": "5G network rollout using DevOps: Myth or reality?",
-      "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
-      "originalUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/dsc07568.lr_2x1.png",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T07:16:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

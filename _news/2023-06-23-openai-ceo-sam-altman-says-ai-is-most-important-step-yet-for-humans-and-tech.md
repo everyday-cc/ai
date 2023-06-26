@@ -45,15 +45,18 @@ related:
         isCached: true
   - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
     excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
-    publishedDateTime: 2023-06-25T09:30:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article276688251.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article276688251.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article276688251.html"
+    publishedDateTime: 2023-06-25T12:29:00Z
+    webUrl: "https://www.aol.com/news/openai-ceo-sam-altman-says-093000689.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: AOL
+      domain: aol.com
     quality: 35
+    images:
+      - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/224d3e1998a2a046eb2b89c7b54d6ccf"
+        width: 1140
+        height: 802
+        isCached: true
   - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
     excerpt: "Despite the potential dangers of what he called an exponential technological shift, Altman spoke about several areas where AI could be beneficial, including medicine, science and education."
     publishedDateTime: 2023-06-26T01:00:00Z

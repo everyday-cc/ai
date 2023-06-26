@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65959815.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65959815.amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "How AI Can Help Stressed-Out Managers Be Better Coaches"
-    excerpt: "The expectations placed on managers to assess and guide their employees’ performance have increased, a trend amplified by generational shifts and remote work. Employees want frequent, personalized, one-on-one coaching,"
-    publishedDateTime: 2023-06-21T12:25:00Z
-    webUrl: "https://hbr.org/2023/06/how-ai-can-help-stressed-out-managers-be-better-coaches"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "dM27wW/76w+7qedMiRH51zqIyzFNtCQ4bY7jeFnCCHE5kmwOBonk+XcXKw+0e0Tpbb1K5dklQbca4vELnP0YfFJn2q/8aXqLKHIAPZBJeX6IiAtr6Zu/LEJ8Zs/HfEv+hzeprrr8yj0d1Ge/4LNFpWmRnY+bvYRIoxbVvP8zbl1+7ZF8OuWFiy+JzE1lowvYPdpuSrC0/2SiT2/1xZaNsmKRDjs9q3RSB04ds/HiIOOB3w8GvwuvozQfoJF8TB9lFQtmn3/VegTAXsBUUYjC3vgVRVBgzlO3SMRBh+VwF/L/CR2ntrvMRM8e4WhmzQsdbkST49DwB/xTvf9FN3D0QApGP3tl1E/th0ZWDQqIhew4IbO2itfpx+gLkahgtQrE475xLMY/aBe3bV8FaZnwJcSA9GPjpHfFvQN2XLirrnT0vcAZm6tCtpHPScORdBrepkNTWJbekO+H6lkDNA4CO1kKi0jmk48g9/EvaDZz0Gu/dmz0ZGU6xosPMadYvz1NrxL0nRf8ljiB9xXdw9VTzg==;cepK6sNRnjqaj0Kj/fwHtg=="
 ---

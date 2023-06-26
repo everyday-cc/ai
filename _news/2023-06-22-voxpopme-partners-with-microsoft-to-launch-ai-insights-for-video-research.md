@@ -106,15 +106,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
-  - title: "Microsoft welcomes Orca, a new AI model integrated with GPT-4"
-    excerpt: "The pioneer of agentless cloud security, Orca Security, recently announced complete integration with Microsoft Azure OpenAI GPT-4. As a result of the integration, the Orca Cloud Security platform becomes the first cloud-native application protection platform (CNAPP) to enable GPT-4 via the Azure OpenAI Service,"
-    publishedDateTime: 2023-06-21T12:13:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-microsoft-welcomes-orca-a-new-ai-model-integrated-with-gpt-4-3136177/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 34
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z

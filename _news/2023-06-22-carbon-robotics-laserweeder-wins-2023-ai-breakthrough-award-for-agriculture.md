@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Untether AI Wins 2023 Artificial Intelligence Breakthrough Award"
-    excerpt: "Untether AI®, the leader in energy-centric AI semiconductor technology, announced it has been selected as the winner of the \"AI Hardware Innovation Award\" in the prestigious international AI Breakthrough Awards program conducted by AI Breakthrough."
-    publishedDateTime: 2023-06-21T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/21/9836938.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-
 secured: "5Wt4QMwjB6vR+NBRGTjr13zJgSLt2IzPlZnXt2PuV0uNcunosm0VoBoTLI93Vr404ifGXIfDHEM92IVVIPEl5ooNQD3v2SspBCmMNuBkDnnIkgTQuwyFLpM0YnYS1DpyLgnkV+G36Ljr1enR8MQmjjVM+vO2z3IRW6RX2O3/NDPenXAva9kzMasbtu459CVNZS4BAVqXF12c4vxAgCNUu+/BLYSTmfFXbukqM0s5s5CDRBKB/MuRwEYdAjEDu4AEw8vZcIaqktJdKEipZ0e5ZvAR0ZMG/hNryXpcywOw8V3QUou5Jjo92ArUYPL/pjJFAFd8q3IAKzOBD9M7y6BPyCKbz3bKC0HOO7lC3vZchJQ=;auhG0LMDP1RK6aiNqdK6oQ=="
 ---
 

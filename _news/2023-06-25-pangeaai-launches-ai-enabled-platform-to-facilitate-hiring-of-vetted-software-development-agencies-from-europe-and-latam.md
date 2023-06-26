@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Madrona Venture Labs announces $11M round to fund pre-seed AI founders"
-    excerpt: "Madrona Venture Labs, a pre-seed startup incubator-of-sorts based in Seattle, Washington that bills itself as “an enterprise AI startup studio… for founders, by founders ” has secured $11 million for its fifth fund,"
-    publishedDateTime: 2023-06-21T12:59:00Z
-    webUrl: "https://venturebeat.com/ai/madrona-venture-labs-announces-11m-round-to-fund-pre-seed-ai-founders/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Tampa Bay startup accelerator launches AI-focused cohort"
     excerpt: "The Tampa Bay Innovation Center is launching a new cohort aimed at startups in the machine learning, artificial intelligence and data science spaces. The program will focus on startups simplifying the collection of data."
     publishedDateTime: 2023-06-21T18:46:00Z

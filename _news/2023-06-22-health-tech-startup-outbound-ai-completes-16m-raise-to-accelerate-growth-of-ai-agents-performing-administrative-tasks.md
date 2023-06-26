@@ -42,15 +42,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Health Tech Startup, Outbound AI, Completes $16M Raise to Accelerate Growth of AI Agents Performing Administrative Tasks"
-    excerpt: "The tech startup today announces completion of its seed financing, with the latest round co-led by Seattle-based Madrona Venture Group and SpringRock Ventures. Outbound AI emerged from stealth ..."
-    publishedDateTime: 2023-06-21T13:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230621899539/en/Health-Tech-Startup-Outbound-AI-Completes-16M-Raise-to-Accelerate-Growth-of-AI-Agents-Performing-Administrative-Tasks/"
+  - title: "Health care tech startup Outbound AI lands $16M for phone chatbots"
+    excerpt: "Outbound AI makes phone chatbots for the health care industry. The chatbots help with tasks like phone-based billing work and claims processes. The company says the virtual agents"
+    publishedDateTime: 2023-06-22T02:40:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/06/21/outbound-ai-fundraise-madrona-springrock.html"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "LAldgbBzNqiaq9XfpTgEKndcvX1vXYBgnVIFVlYc1QUv67LryxTgIraWUyCSKXMH5Ke9K6XMZ+Og8f8ZVbH58Tq5NZT5rVODyNdT6zRrIX7ij4ECa1zp9vi7qus5XatQvn8bX3/DlYaOC5uQpewsB5f/px/bpcIpw1FDkCsPE7IoVJ8zy6I6WdRnpNy5NicBYFkYxMSg9+WZuKAewaqeweeGoZwEezgGuJZAbIJtnbE0saVGRRotBLMPej2NWz+46h8qx2J9Z5AeytZM6bZvjKM43NwBkD4dtU6l+q+OE1byvE5OxhRG1nLBgSCX+tPNsik8bquW5Fxsh6lMxALLF+uAUnf6hZ8Nnm3E3fEpEWs=;LvIdr5iXZmp9tndZ91WPtQ=="
 ---

@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "No, AI Isn’t Going To Destroy Humanity"
-    excerpt: "Machines are incredible to power things but it is only in fantasy that they are malignant. Meanwhile, the benefits of AI are like the steam engine was for muscle and sinew: extreme leverage."
-    publishedDateTime: 2023-06-21T12:29:00Z
-    webUrl: "https://www.forbes.com/sites/investor/2023/06/21/no-ai-isnt-going-to-destroy-humanity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Global Summit On Ai Takes Action To Ensure Artificial Intelligence Benefits Humanity"
     excerpt: "global summit on ai takes action to ensure artificial intelligence benefits humanity un tech agency will host crucial discussions on the guardrails"
     publishedDateTime: 2023-06-23T02:54:00Z
@@ -45,29 +36,20 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Artificial intelligence doesn’t have to be inhumane"
-    excerpt: "Sue Hendrickson and BKC Responsible AI Fellow Rumman Chowdhury write about the role of global governance alongside the development of AI."
-    publishedDateTime: 2023-06-23T03:19:00Z
-    webUrl: "https://cyber.harvard.edu/story/2023-06/artificial-intelligence-doesnt-have-be-inhumane"
+  - title: "New Set of Standards Aims to Ensure Effectiveness, Equity of AI"
+    excerpt: "The National Academy of Medicine partnered with various health leaders to create a code of conduct for using AI in healthcare."
+    publishedDateTime: 2023-06-23T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/new-set-of-standards-aims-to-ensure-effectiveness-equity-of-ai"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 37
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-846841412.jpg"
+        width: 690
+        height: 400
         isCached: true
-  - title: "Test for humans: How to make artificial intelligence safe"
-    excerpt: "As tools based on artificial intelligence spread, calls for regulating the technology – and addressing basic questions of trust – have been rising."
-    publishedDateTime: 2023-06-21T19:34:00Z
-    webUrl: "https://www.csmonitor.com/Business/2023/0621/Test-for-humans-How-to-make-artificial-intelligence-safe"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 17
 
 secured: "Q2wnk7vMCcjWzOlgKTZ9h6H4wbSU3X7gbZz9QMMCGf+KTPVEthhWUOHBxzK1hvPf9+4yFEAl2oqRzXE3W2znspY1E5AuTxmXdXev1IHpeudqTQ2arwhSA5FPcxD6bcXhu9wAGD8P/2unK+/kWlRRAPqU2Vla1K12pc/auoM5Eeth24IPDmF6yraO+dlEKrBY6ChwNwKcH33BBGW1vAwKJSR8nVEvi2EemDiA6NS8OsI0M0825wbM7mWWwUjOcfS2bxJDaKbiAiDm6FDJYuB4avjfb3xW+I66szHLOn96/l4eKc3fz+a75KDwyfQSYIJa1JZuFS3CupocPpkV364Xni7AaHeVzbSPQha1o0A0Yuq4qEmY8kmCOQgVDrLs36Gewv8gu0jh2XKkYq23NQJsjB2h8auxjcEOhdc3NAWLZVUOuoTtMDf68BQhf71RrKXGaxpApWhTUZd+nqu7lY+fYDziJ8/Ga/guLqFyntYmy+6C0NbRRLdBoNrywGpFyWB1dlMdXcF3jTxm7b5Pn5Lfdg==;VWpABsByLgOk62Parvps9A=="
 ---
