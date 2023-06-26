@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://krdo.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk-300.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Amazon Prime Day 2023 is coming—here's everything you need to know and early deals"
-    excerpt: "The bad news is that you have to be a member of Amazon Prime to get those top-notch items at rock-bottom prices. The good news is that you can give Prime a test run without it draining your wallet."
-    publishedDateTime: 2023-06-21T21:57:00Z
-    webUrl: "https://www.usatoday.com/story/money/reviewed/2023/06/01/amazon-prime-day-2023/70277035007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 18
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/06/01/USAT/232c5295-5f23-43f6-813f-f092e6d53f6d-2023_PrimeDay_Hero_V1.png?auto=webp&crop=2987,1680,x12,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "pCbhgMI11VTrIURaJwRTTeRVG6m4qAiuIYvFGI0D7Nzhmt8bzBuTfvYifKiHZwxoaEqCaXuVH8dBu31NySKGES4ZSsWQ35sH9ZV3vsHLeymedxzs6IJiuLUD74USagZLhoTtJEI03WKStCUG6FFCWhrYD+ZAIG+xlAskQc8ErdUdJTEfyqT70NPxQaGQhMQz9eJSoIP++6W3tNz+6xCe/9OJhsE7OL8e9CxQnalCE4mgOZpJa1svSCbjWZWcCecxnTaFuy3jso8B6NvzUdnquaPmi32qFBRIMb7FsEaK30J6XSx6mEBFJiWgBxa3zz8OrQUtERxHdnLgL2dcAHNy7VU6SuzzwhRHDVA/NoDFVzo=;6bLPf0sqrCrhGAFLIFM9Wg=="

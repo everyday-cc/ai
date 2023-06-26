@@ -1,0 +1,93 @@
+---
+category: news
+title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
+excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
+publishedDateTime: 2023-06-26T15:02:00Z
+originalUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+type: article
+quality: 76
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Education
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
+    width: 1200
+    height: 677
+    isCached: true
+
+related:
+  - title: "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs"
+    excerpt: "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ..."
+    publishedDateTime: 2023-06-22T17:44:00Z
+    webUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/"
+    ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669"
+        width: 1200
+        height: 669
+        isCached: true
+  - title: "MosaicML challenges OpenAI with its new open-source language model"
+    excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
+    publishedDateTime: 2023-06-22T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/MosaicML.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
+    excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
+    publishedDateTime: 2023-06-23T16:16:00Z
+    webUrl: "https://www.theinformation.com/articles/ai-boomerang-googles-internal-critic-returns-from-rival-openai"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inflection unveils “best in class” AI foundation model"
+    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
+    publishedDateTime: 2023-06-23T10:23:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "VgfR3hFxIK59lf/JhOjOA97iFY7JrEgmsovZymM2zwWYOz7OH23WaTVIg8DFpYNPfs3tfkeNmqLIMQLmYsMKbSxG+EHMnJ1n7J2LDjB+BT52VU2/knUfJAo+U6sxDDJt5Oc0nfCucCG4YYwt/3bltHv/X5PnS1j3HaOK6NxdELmFBH0hlEnwCzXJFhQgE6hXkzaVbF5jpoxYECczxxdUMwbb9GxP8GVtcbKUPp6Y0CMiVYjDKftlZtaG2XGVkpACsUYnuanS3zg8iMmN5eTXh9f8LBDZnXJtpIevmCGwq2ordaLq1OGpKZ2LvS2NE53qx+KQkz+5CwWci/ihFUJeQ5PfNY3O6GkYdFOBdFT2ys8=;PvozRMi3fXcdMRgd9v36DQ=="
+---
+

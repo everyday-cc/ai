@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence is arriving in the muni industry"
+    excerpt: "Some in the industry already use AI to help determine fair bid and offer prices and to summarize new-issue offering statements, but full integration into all aspects of the market is a ways away."
+    publishedDateTime: 2023-06-26T15:07:00Z
+    webUrl: "https://www.bondbuyer.com/news/municipal-bond-industry-finds-uses-for-artificial-intelligence"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/836b54b/2147483647/strip/true/crop/712x374+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Ff8%2F478884a84bacb37c7eac86f0f575%2Fmatt-schrager-photo-from-ms-crpopped.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dunM0iULVgu+3Ly0cDsxN+k/Iq8fjYHbIKY76D08MZUbaRZZSRsaVDDi5/qSlnWMNDZCY5DABV7H8x3WGUOy9mVlfbTPsOLPGOb295NMi+g11Y9yORGp4Ys7jBe3I6fEWhRhzLDjT2bmg0KlSP3PFBfKlPk9ixdOE9Er3DjRosLZLZ/ZD3l3tmnttc6RDM5JZWQWdTSELPiXq4OTNE4YzFaHpO4renqAsLVsi7KpPsxXzkWDReLJHXV4Dk4CuRFUdUVoQfh1KC3t8yNC0QxPZCp5Bng+1+D6pNKUeurQUouSBMiJTTXzoOmuvwPUus5TmaOmHy2NA4jHlIaa9X3rFkkXVgIpy+nfkrCKs9tavGXh+khjhygeRDqsvNc5UT0ZzSxzgGVY4WpF4FAdLAEV/plVXDamp0O9snww4NBV85leqMXh3NC2bgbI1Kl8KnV6Zz3YjduiJPmY166njjKgLAIKLCvzssYpaesPpJ7TiIyfj5z4rsChIwwxflSlY4gl+QHeFFsqT3WrgMC6EsCKaQ==;xf0SXBthmbhgkMa8N6/vPg=="
 ---

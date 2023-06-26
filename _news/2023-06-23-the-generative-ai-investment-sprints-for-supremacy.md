@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The deluge of new generative AI products is just getting started"
+    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
+    publishedDateTime: 2023-06-26T14:14:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "TJ5nHqdciUshl/BdxBgnnG0B+k3nSqsSo81a3Iyg9YIiFakRn+Tw4jfW8A2lpmU07IXKSbioexLSkkeUFmwV5U5KuAs6QYIMtjc+OVU2t09ideUUUzpT6FwoJMheCQOHYurj4TRPhw+j/I+i233+yQVonIMNiwNhxJqcJad7ddMRsM8YeZvAfOuzuQwwth5WvuMjZoTlU9T2erwNjGdEWhdymuCvgI22dtc9rV9oBJo7JJj9tCn/sr6bTJm3Xsm2SQIug2SNqfER9pr12KNZ/Rg1TeeiVxeU+9vUVNzOpCuI9arVljoQOWShrHcrCpumvTEXvsRAGvoTZ8j6S/FvfrCgVXz1Bd57jrwfucdA834=;U6juBzCf2iVpbhiw2SgVVQ=="

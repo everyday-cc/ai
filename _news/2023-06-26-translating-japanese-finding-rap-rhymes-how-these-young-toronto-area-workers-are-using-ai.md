@@ -26,6 +26,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
+    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
+    publishedDateTime: 2023-06-26T14:59:00Z
+    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 0
+
 secured: "Aoe/b3oGg2DzYUMrJezPi/XpdP796Vzzmf5YLN0I1UTypUgnrrFfEYJKMA4d0ZAFHZgL1R4Kt9tKt3VBYdRbgm2eYYRPqfJDHJ5NgeUNCDWPLogxlAroA5X7rfHHQ8GkbBSQZ/CmTTl5iP3urw5CxJxbQRIgqeIDX/4u4g7Q7BD5EYL0xPXMfYCxJi4jp19l1uYIjyNShjQBaff707M2so+7JgNquRBK1meuN9/lZedehRdPoMfz4ChaFzZhBBrg2BZYOeL7+7lbraoCE3l1zGcn5Az5n/4NL0kJIS1BwBxLWdRPJXB8Ihrtuhjer5+6DgBmACIvco4lXr/y6KjcHvgo0H1/z8iayyBfSrcmLfc=;LORgwjcRCiZRDkSFbjiWpg=="
 ---
 

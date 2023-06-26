@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading"
-excerpt: "Vantagepoint A.I. (  ), is the software company that developed the first artificial intelligence (A.I.) trading software in the world available to retail investors and traders. In addition to the great increase in computing power and the availability of on-demand computing services there have been even more important strides in neural network theory,"
-publishedDateTime: 2023-06-15T15:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/06/15/9833699.htm"
+excerpt: "Louis B. Mendelsohn founded the Florida -based Vantagepoint A.I., LLC in 1979 to develop and license trading software for personal computers. In 1983 the Company released the first commercially available trading software in the financial industry to perform strategic back-testing on personal computers."
+publishedDateTime: 2023-06-15T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/15/9833699.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/15/9833699.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "TWCHAPLMmtOfWU0JXXh98lwhBsfkOBaG6yZw0qxXx75shKzwuerJmCdZ7AcIc4Lfag1UmHVKw9NKsEOxiwt4kHoNuQkj9Be9V6aB561urXO+Y4z2zck8V/zzC+J2vp+065bJh3wPfWVlglbumvwaIFvbeV4RqHGR/KcqrHhWsy/ZtOaWZ2Zf800xhqNXtBiS16NpW2codniLOEJy4/pBwpdbpXoH+VMZDvtcBQOnaZyvHNSdhCLCk9EDNTpWR+1xLB0gARVxT7aVMbRRSQQs6Ecd0BNHiFW1mJgjBFitza21E1UYLkeC7bvN+GorK0JDNFj7+RoWH9c8+yY5K1Ykwapu+Pa4tg7VomlHJdKv0Mc=;Nh738aXwFtfRsmt4cjGEFA=="
+secured: "wIvONbTThGz4XxfpDVaWe869TMrm+Fo+X2RR7MGbevTh88VfIy/e//rTml6ImlFVJRtVwINuE9k1B1do5uisnsUCuWP5iuBqPA7bjztK14oLeGxHD23aeLEmpP+0iX9bDvv1GqbAFR++E6cXrr7w5fEr7mxTAOpuae1AS1D+H4wTYZVRc8mv/lhKR9J/HXFQbN7iuL1hn1neISLVmxdD0M1LhtJDFYcDszt4lyAx+wA4cpclUi8kk9+sOdURFBwZwvjUHYjPH8T6JsH+dm4wfhqDQzK/4yDtKJqMe5hYIuizgo0ZVHKs5zLY+V+vvotl7KQ0uHMVRc3AXDIsyta2ccaGAVJohaoJS2juNT0O75Q=;FmPmx/XRvEUrB3BSS8aD7Q=="
 ---
 

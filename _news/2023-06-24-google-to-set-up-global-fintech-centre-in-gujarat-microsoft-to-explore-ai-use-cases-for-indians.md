@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
 type: article
 quality: 63
-heat: 163
+heat: 123
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund."
-    publishedDateTime: 2023-06-25T06:20:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 53
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/25/w600X390/Google012.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Google to open global fintech operation centre at GIFT City"
     excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
     publishedDateTime: 2023-06-24T23:56:00Z
@@ -76,22 +60,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
-    excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
-    publishedDateTime: 2023-06-24T00:53:00Z
-    webUrl: "https://www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai-11687567037573.html"
-    ampWebUrl: "https://www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai/amp-11687567037573.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/pm-modi-in-us-google-to-set-up-its-global-fintech-operations-centre-at-gift-city-in-gujarat-ceo-sundar-pichai/amp-11687567037573.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/24/600x338/Sundar_Pichai_1687567352349_1687567352601.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
     excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
     publishedDateTime: 2023-06-24T07:19:00Z
@@ -107,20 +75,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
-    publishedDateTime: 2023-06-24T05:19:00Z
-    webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 33
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
-        width: 1248
-        height: 650
         isCached: true
   - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
     excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
@@ -163,20 +117,6 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 24
-  - title: "After meeting Modi, Google CEO Sundar Pichai announces to open global fintech operation centre in Gujarat"
-    excerpt: "Washington/IBNS: After meeting Prime Minister Narendra Modi here, Google and Alphabet CEO Sundar Pichai has announced the opening of a global fintech operation centre in India's Gujarat, the homestate of the country's political giant."
-    publishedDateTime: 2023-06-24T06:26:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/90283/after-meeting-modi-google-ceo-sundar-pichai-announces-to-open-global-fintech-operation-centre-in-gujarat.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 22
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2023/6d1377dc508ddb1ffa3b8d6e208bf022.jpg"
-        width: 800
-        height: 539
-        isCached: true
 
 secured: "cX0HS9lK9PItx8MWfK8sXc2zfhK+I2C4/M/5MTk5m2g5+Pg7NJvkeaEkTGH+BbLOvMlsoTIDZB6IB3SaoKUAI7gGjEp7vJZWJrcKcjcl6XCEGuuw+TUdhC+oJHJ3pol9ZJy7Xfzvue+yRkf3P/8XMub9Rrry0/OkeRYqTa9d/sdjnv8/EWNLibXHVtRTD6jInn/ybVZLh/1LzqIdRHjjMf8F0UgynDvqYZ1ZPgX93w2T9BwL4K1uJyIY30Fl1rKnBto2p5eQ8/ukzw0MHTvkTfrE4YDDyjUcnKnFDPtpmugqFMmcsK9DKe/kvegf0n6oGvMVChjWvZMvwTC4UDxwn7PAXjiVxBehu9R9yylpaH2bbVdpQi6suhYzis2RfDLU++vx1j/SmqDSdSxnJ/NvVGMvN3l9zIe0Bsussnz+i6CgBPFl4AsoDljuaIi2GH/yNc1UumsMWUgYyNw0dpErof+jmVeWu8BkbzlMO/nJBP/eQDg/mBruwy/MLBin31q75NmeWHwxQYx/BQHDp4xY4A==;8D4BT0vUl3dXnL/pfXUxlQ=="
 ---

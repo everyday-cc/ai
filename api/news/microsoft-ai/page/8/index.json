@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
+      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
       "title": "Cognitive Services Global Market Report 2023",
       "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",

@@ -81,6 +81,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "AWS invests $100 million in new Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
+    publishedDateTime: 2023-06-26T15:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 76
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
+        width: 724
+        height: 482
+        isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
     excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
     publishedDateTime: 2023-06-22T16:38:00Z
@@ -506,6 +522,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
+  - title: "Amazon is spending $100 million to teach cloud customers about AI"
+    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "e4lG17EXfboXp79bECy17ekp5ovqwjUMWte0lEJT/Z1Jw/mQNm/MET8SjlltcFYqY76mDshlYNJ8oefIyX6yILA5ZEU9TR3goKTkfunJwqAbwF38drvS3sZdNePD4HJF6i/kQP5Mzv4ukc07RE6sME16uxLO35sK6uhqKNmkTRuoJg19edA0Hq2Zk5WPx+Pb8zubRcCXLjdnKK6xbo6Hh+aj+J4y/5ENg75bjBQFjxGpu0l8WxqcRA3V03yBL6aglx/c2nN2IKJoup+ViFg7gMJLYBczxv/I0+oLjl9NstGp5Ki/laaTPMdXIqAoPxEXzE+nsAPR02C9xiNd5qa+ApgGD51BFzwgs4QtpFh/06g=;osOBHaUUcYmrWgb9HG3yfQ=="
 ---

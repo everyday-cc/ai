@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
+    excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
+    publishedDateTime: 2023-06-26T15:39:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 39
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
     excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
     publishedDateTime: 2023-06-22T18:18:00Z

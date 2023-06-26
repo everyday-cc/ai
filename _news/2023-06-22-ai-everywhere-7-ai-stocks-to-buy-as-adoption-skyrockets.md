@@ -37,6 +37,15 @@ related:
         width: 2265
         height: 1511
         isCached: true
+  - title: "AMD Is Doubling Down On AI Chips. Should You Buy Or Avoid The Stock?"
+    excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) has gained a solid 71% year-to-date, considerably outperforming the broader S&P 500 which remains up by 14% over the same"
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/26/amd-is-doubling-down-on-ai-chips-should-you-buy-or-avoid-the-stock/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Health care’s AI revolution is well under way"
     excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
     publishedDateTime: 2023-06-26T11:34:00Z

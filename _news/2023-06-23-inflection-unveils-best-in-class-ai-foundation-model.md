@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
+    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
+    publishedDateTime: 2023-06-26T15:02:00Z
+    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "MosaicML challenges OpenAI with its new open-source language model"
     excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
     publishedDateTime: 2023-06-22T14:00:00Z

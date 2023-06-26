@@ -46,34 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI’s regulation naysayers protest too much"
-    excerpt: "The kingpins of artificial intelligence (AI) are heading for a supervisory showdown. Lawmakers this month voted on the European Union’s AI Act in one of the first significant attempts to regulate the nascent sector."
-    publishedDateTime: 2023-06-21T20:07:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ais-regulation-naysayers-protest-too-much-2023-06-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/8aumWOow_OUQjR8mqKQjK4yXqOA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYRCC6W3ZVOR7I3MRXS63HEQTY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Watch: From Automation To Innovation: Generative AI’s Impact On The Future Of Work"
-    excerpt: "Watch our illuminating conversation with May Habib, CEO of Writer, a leading-edge Generative AI startup, and hear how it's helping enterprise clients increase productivity while creating new opportunities for their employees."
-    publishedDateTime: 2023-06-21T20:47:00Z
-    webUrl: "https://www.forbes.com/sites/members-only-events/2023/06/21/watch-from-automation-to-innovation-generative-ais-impact-on-the-future-of-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
     excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
     publishedDateTime: 2023-06-24T04:28:00Z
@@ -113,15 +85,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "AI is a 'moment of revolution,' top Democrat says in urging swift action on regulations"
-    excerpt: "The New York Democrat said he is working on what he calls “exceedingly ambitious” bipartisan legislation to maximize the technology’s benefits and mitigate significant risks. While Schumer did not lay out details of such legislation,"
-    publishedDateTime: 2023-06-21T19:25:00Z
-    webUrl: "https://www.chron.com/business/article/ai-is-a-moment-of-revolution-top-democrat-says-18163213.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 9
   - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
     publishedDateTime: 2023-06-23T12:42:00Z

@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Fintech And Mobile Payment Apps P2p Is Here With Convenience For Consumers And Business"
+    excerpt: "(MENAFN- newsfile corp) fintech and mobile payment apps; p2p is here with convenience for consumers and business . vancouver, kelowna and delta, british columbia--(newsfile corp."
+    publishedDateTime: 2023-06-26T12:19:00Z
+    webUrl: "https://menafn.com/1106503330/Fintech-And-Mobile-Payment-Apps-P2p-Is-Here-With-Convenience-For-Consumers-And-Business"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+
 secured: "WbMVSlqUZyuexkW+PQIhZHLtQQbcspLIV9aQlPA51up78L85tgbCj2oV2QmuimNTGioEi2HDLNVmqGjwZRNe+6MBAZE13/FBRxfGwNcE1I6+zOEXF+LV5DRE1d7E45eTZRcjg4tbdqWvZvgEiVoWubSYdy5zXnuNFau0MTE84WlzuoVbXDHNqffJgSGwhF/iX/LzX5KXdnf5NPYhp1CrsE+9w2ZaIDhNcUz9BJbicssKC+AlWeu3L9yrkUHcZK16karv25QWfCfK3xQWnSNWuNlv1TsX317rwPV05AnrqvJ2aV/cm7jI+9dmMJC7xbyvkSgvxs29YDOhNNcUEnpOh8xoju5mcQH6DSElwWZRHII=;Guj8s81wb30RPgkObeeXCw=="
 ---
 

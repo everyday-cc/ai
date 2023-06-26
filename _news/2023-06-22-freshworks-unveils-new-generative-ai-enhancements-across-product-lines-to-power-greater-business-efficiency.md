@@ -283,6 +283,15 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 19
+  - title: "Here are four ways we can use AI responsibly | Opinion"
+    excerpt: "Alexa, Siri, chatbots, and thousands of other systems are powered by AI, from text-to-voice translation and facial recognition programs to vehicle accident-avoidance mechanisms. And it’s anticipated that future AI technology could lead to substantial health advances, like earlier detection and diagnosis of cancer."
+    publishedDateTime: 2023-06-26T13:50:00Z
+    webUrl: "https://www.pennlive.com/opinion/2023/06/here-are-four-ways-we-can-use-ai-responsibly-opinion.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 19
 
 secured: "h2hHEWMkQPDkWoSs9qwo+zcr3Ki/5dXLMsGw+01FpDc2BGMwtok+BWYELq6vm69Pmlnx83nnJvonjeX/Ov+46CIMMMdbi6slP0rZc5FOcKOXX8jX0QRNwocOEtVhHRmiJiG8oGx8PoXL/MO3H9aktrCvl8kMQvHHN8TrQLdMWM0j+zPIjx55SwZjzKbzcoUoowaV22+uApsnoMn+BZ9yIvepXCMRFH/ASLtuMsKYi9UpnoWx4WIJOfqFbnCJc1QZD53Nos+5UNxp7zJCkdGMnNPSa0819dKO2HYynJJt0qfzgUnPLQOI79KgdTYiEtk3Ml7F3sLHLuXZrRULv8O2uzZw3LWd0gmeggLjrDOtBSI=;qBy95jJOd/C/t4qrfVJQcA=="
 ---

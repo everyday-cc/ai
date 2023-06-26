@@ -3,22 +3,22 @@ category: news
 title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
 excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
 publishedDateTime: 2023-06-26T11:08:00Z
-originalUrl: "https://www.messenger-inquirer.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_e2759a7d-8cdf-53e6-bde4-083f9c5017af.html"
-webUrl: "https://www.messenger-inquirer.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_e2759a7d-8cdf-53e6-bde4-083f9c5017af.html"
+originalUrl: "https://starlocalmedia.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_579f0bb1-d9c9-5d5f-8458-3f8e60a80b5f.html"
+webUrl: "https://starlocalmedia.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_579f0bb1-d9c9-5d5f-8458-3f8e60a80b5f.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Messenger-Inquirer
-  domain: messenger-inquirer.com
+  name: Star Local Media
+  domain: starlocalmedia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/e/27/e2759a7d-8cdf-53e6-bde4-083f9c5017af/64997a5f4e377.image.jpg?crop=611%2C321%2C0%2C11&resize=611%2C321&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/5/79/579f0bb1-d9c9-5d5f-8458-3f8e60a80b5f/64997aa533ae3.image.jpg?crop=611%2C321%2C0%2C11&resize=611%2C321&order=crop%2Cresize"
     width: 611
     height: 321
     isCached: true
@@ -171,6 +171,6 @@ related:
       domain: dexerto.com
     quality: 34
 
-secured: "tpcRK93nJlI8/m5yvYcdZ/H5JzXAvLynXFaFOIiwbVpJd9rEIzsqHkz0l85iX64AdEKQM21n0A7RfljxwiF45/Y7sFPKzADt54dKyizlIfiff7LWvx/oZfWmZSZKvBANCGhvw6KiQT0RGXiP/QBIR8qEpvts5TCEVkhZboP5C15qaD+6F6XnxgbAh29VO5/MmfGqADr/WOU2umW2I6lCDsZFyQEp/OQ5gdl3WDXnrYtRtNK0VZ4817R7al9rXzFhLXH7AEDqtNB6u+W+pd+Xu69iDMHrg+UYPCkBW2FyFN8IYRimozMzK+ltDzmT0+vPbNC9ARbAIV93WQP9P04PhsHnZqJpaEBEPyBBQ4Cii8o=;jyiPHw36sEdHNbfyyKzwfA=="
+secured: "h5gMFRGF5+0HF/qWNdKM4l8m7iW/als2TjnAN3fZXm+Lfl2KGQ+dUzjAhE+ddh35bQJHpOTCNxluKgDsOPfDG0heBBZmpfuY9Am0yX7sq+PgLe1DsyM5/0daqIoaTlq0YneuvzKsGUUx17okibtZj11VDUIsb8Mq9TMTDqOuqByOjgTVKrxMNckyjbYqXFdYD8D1ket0UJXSQvBfD63K1Fa9ckKPatRF+3mggky045MTLEcoNn/uF2RNZ5+0YULPwBqmAHM55GizJ/4SD3Fywnqp89S93xrjKSF60ZtcnRNxvXt5BJEqAf8c+w/UZ9mi1BamWYs86EGhnkkKmZxXReolj65K7tCYbT01iUwskPI=;qlArxIE7+jKtSSoSUO2weQ=="
 ---
 

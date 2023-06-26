@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The deluge of new generative AI products is just getting started"
+    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
+    publishedDateTime: 2023-06-26T14:14:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "pQw2oXEPDeAnZbmynTJ3vBovqCw9XCM3eR5uG0qRzyj7/3Jj180Y14Z+ggJz6QQtJo2Vcikh1JwU39+gN/45ahgvRKNTboWt6AODVRqUxe37SFqeQVu4YQRW8tImxHEZER1oHpzkphqnNkTEq5JHxV1SjWMvxc1dC6x2ozWKt4dPU4oCZKzsNjyAMJX+erx8zNG1yzJH7/3Z9KKx7frOUFW3wkJ9NkcU4n2EO+mgbmzN7vDfhAWFF11Kocz3nijjPmmcohwKFTLZo4l+Rmq7+FGvMMnzUydDVzRs6ixxxS8cG65vVPCr7U0tKPKQNmuG6Gfc6qtr4+ZeeHX7UzUtWgNSy0hsTy0s44IzJ4ca0MixXFOmS7pJkP7p9hEK7U5f88EpC5G8Q4O98y3EPhsvS8e9bHwDMAUnE45XLeZRT/cHaHP5clZGf0k2L+V83WNQErGqzGpHU2okdKPKWcHEfDBjhzAccjnbVr55GESCbfEmSW/BTIyqYHea05vWhCrTU/3YLAr/SjpG9gvEV2flqQ==;jaQcz3sdLsLw7+GXLQnXRQ=="
 ---

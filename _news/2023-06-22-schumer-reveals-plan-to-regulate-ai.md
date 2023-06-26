@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo183968325726"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-06-21T19:56:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/artificial-intelligence-is-a-moment-of-revolution-sen-schumer-says-in-urging-swift-action-on-regulations"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 40
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/08/schumer-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How should Congress join the AI revolution? Chuck Schumer has thoughts"
-    excerpt: "As the use of AI continues to grow, there have been growing concerns about the ethics, privacy and safety risks of the technology. Schumer acknowledged individuals who’ve called on Congress to act, saying “I hear you loud and clear.” The majority ..."
-    publishedDateTime: 2023-06-21T21:28:00Z
-    webUrl: "https://www.cityandstateny.com/policy/2023/06/how-should-congress-join-ai-revolution-chuck-schumer-has-thoughts/387762/?oref=csny-skybox-lander"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 39
-    images:
-      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/06/21/GettyImages_1500406096/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Schumer’s AI game plan, by the numbers"
     excerpt: "“While China is striving to win the AI battle, America must lead the way in its development ... the company can make it difficult for its massive roster of clients to use anything but its Azure cloud infrastructure offering,” Goswami and Elias write."
     publishedDateTime: 2023-06-22T13:25:00Z

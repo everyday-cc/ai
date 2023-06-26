@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
-    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T05:24:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+  - title: "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI"
+    excerpt: "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”"
+    publishedDateTime: 2023-06-26T14:14:00Z
+    webUrl: "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/rcna90875"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
+      name: NBC News
+      domain: nbcnews.com
+    quality: 80
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
-        width: 600
-        height: 450
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230623-aspen-colorado-live-blog-cs-4a7c50.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
     excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund."
@@ -57,37 +57,19 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Google to open global fintech operation centre at GIFT City"
-    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
-    publishedDateTime: 2023-06-24T23:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+  - title: "Google CEO Sundar Pichai meets Narendra Modi, discusses issues like AI, cyber security"
+    excerpt: "Washington: Prime Minister Narendra Modi, who is currently in the US, on Saturday met CEO of Alphabet Inc. and Google Sundar Pichai in Washington DC."
+    publishedDateTime: 2023-06-24T03:18:00Z
+    webUrl: "https://www.indiablooms.com/news-details/N/90280/google-ceo-sundar-pichai-meets-narendra-modi-discusses-issues-like-ai-cyber-security.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 48
     images:
-      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "Why Google chose Gujarat for its global fintech operations hub"
-    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 44
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.indiablooms.com/news_pic/2023/d93b7bd98e741c58052a1c30fea0fd45.jpg"
+        width: 800
+        height: 439
         isCached: true
   - title: "PM Modi in US: Google to set up its global fintech operations centre at GIFT City in Gujarat: CEO Sundar Pichai"
     excerpt: "Google CEO Sundar Pichai announced that the company will establish its global fintech operation centre in GIFT City, Gujarat, during a meeting with Indian Prime Minister Modi. Pichai also stated that Google will continue to invest in India through its $10 billion India Digitisation Fund."
@@ -105,22 +87,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
-    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
-    publishedDateTime: 2023-06-24T07:19:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 33
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
     excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
     publishedDateTime: 2023-06-24T05:19:00Z
@@ -135,47 +101,6 @@ related:
         width: 1248
         height: 650
         isCached: true
-  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
-    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
-    publishedDateTime: 2023-06-26T05:02:00Z
-    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
-    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 29
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
-        width: 1320
-        height: 743
-        isCached: true
-  - title: "Google to set up fintech operations center in Gujarat"
-    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
-    publishedDateTime: 2023-06-24T02:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
-    excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
-    publishedDateTime: 2023-06-24T07:16:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 24
 
 secured: "k45Ym6TXHW3DxEqxBwBqRfOLMLvA+IG/Xip1wpM7ycXeDYem8IqLbqDS8x2B/pBuj8eaJNV9GxNJWM5OKKhBl6YtDq0NW119gH6XZ+K1MIAq2dSDM7RFK8YUfBrn6bDejnLkewbr6sI0S1AtXmfdFm8I/w5UE4udc8bV8A3TKJ4r7E5O0mRXtiO3anK7tTdB5i++trywzt96V6V20dqOhT7TfHAmYbz+3smnFuFaqwofEyRRhDM2IYeC89RxNnmsqXf9jHt4gg7q6FXGj8st/QiFmrmUzyLghhEtcC3INHgGBfmrgivonX9sbT/hdd2CwC+YXcQPs6ud7ExTDXixefNnnAEJDaDV0gNbtKuFuY4=;16Dtl1ltecbISIg2qOVvSw=="
 ---

@@ -33,23 +33,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cisco Launches Power-Efficient Networking Chips, Takes on Broadcom and Marvell in AI Arena"
-    excerpt: "In April, Broadcom launched the Jericho3-AI chip that connects up to 32,000 GPU chips. Price Action: CSCO shares traded lower by 0.19% at $51.45 premarket on the last check Wednesday."
-    publishedDateTime: 2023-06-21T22:19:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32941321/cisco-launches-power-efficient-networking-chips-takes-on-broadcom-and-marvell-in-ai-arena"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32941321"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32941321"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 64
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/21/csco.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "RVzYjGTkhxv7QycTc5JMiy/axLSSMa4onAXLC3yLfrIDsXj/wY1nGPlHRNpH0fonaZ3va8sfs1TpSvlEJk75Pv0HJqdKNwH0IW9T8Z/+W/sopcXGnKv0L4qFTk3Ydg78WjgH7uLr5i/0QrcjsFXDabmgVVgh0rGQznoRvdeWkDHeawm+WSB+RfsEVl3BXSL4clvZZGhgfdJNACWphxNN3GBkYYSZRc2Rz9+UfRLOIKhfVpdG4/WV20wNV+E+qaY0JdtTEf8JkwTQ446py1Utnw0Tbfui6R8CbQ55jfnib6BJEmqycZtItI5saOqfdz1BjFSa9VwOUDb5T3OdYZxLnlg5I+ZjqkqHqd7YAIG8fdA=;gK9e+BRMaSP0A/fL4FYSSg=="
+secured: "Chil/i9unBqQWEXt3jgAtTJuw0NroxVOUGTioMf8MDaCQzoGzM/iyah8T2MrlnPQHTObVjPaN86QIEi5G3o6DWQCfFECyAHBaNFRUE9RjdJxq8/QOYR/wMzM2fCtP7ltLzNUonVYlIlUHRvYZAm87LbakNdTMr+DTncETqw49n4KtHUDsRRgbOiHoVSzlWfeN45MJE1MxvH/JPhWbiAFgyWWKk3T4DKy9AwVApd0tTWsxzwpDjnJ2BpiHGVhrCX3zXz0UScl6K2b45xiVLHZhWtvH1HTTznSSMlvidMbzA05vnoEPAgif2Qa2l3UlbcroIOPLQgiC1x+d2KFF8DX7s0NuEidj+b4KOW6OTu2Ihc=;PwITJtE0KNv31sLpHre/7g=="
 ---
 

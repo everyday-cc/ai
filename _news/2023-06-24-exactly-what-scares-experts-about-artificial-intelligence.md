@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F736976%2F0x0-supercharger_02.jpg&op=resize&h=340"
-    width: 388
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737406%2Fwoman-hijabi-eating-apple-on-phone-online-banking.jpg&op=resize&h=340"
+    width: 502
     height: 340
     isCached: true
 
-secured: "U899TWNVm8LTA78GAEIEjf/la7pSpvV50VBDbWDBuEfn9h85jb3Flew3GWDr610J2m3CClHvnWhipMlXc+kq8H0hrQkQ6J0+rXwTj3jICcUsR2r80qwtv4U0/e069ci4XrhW+o/a/C6wMPeie3x/jUg+NxX59KZVw/cItgsS6zRbZkQhesgU6EvzMaVA/hPwYJ4SUfN6LpSn9g21wDjqI6oatV/UXu1tg1eYUoJsQe/Icsyg52Y3A34Ixz5skJoK79W6/lt7/YuOiKwvxv9QV69DGzDZF7uujvOUpV7Tb3fdxTs8liK+HDFV5L5IyEm2xEXFsxuDX3ixrHMeS+eWeyPnaS1fJxO7WlRjVSnWOxU=;4Z0zGW75j/HdNOLp96Jbcg=="
+secured: "Ls+vbDcVWg70STzov/UbZ+BK/fri73Bb5LmsBtkMBWa8qeSuNwaI4XMHTIVnoObYEAbMq/uL4lG9l7TDLxKhAmOPFgDLYzrmHwTAhPD6b4UoG101fIHuZIhzzS0wbqVNT/NNo7e+ek2lkoJcrZSGIGDqY1yZM9VWvxoybWqULUn0yw64RPcVXtNIvQvqxhPTBrwL54ljxDFw+MR7V6xrCXWTxdCRWLWetQihFRjM9iUPGpABDlbsUABi4ChX//pUOg2LCindmSuXIXb1l8RRARyp7/4GcsnfaKxY1uaY+3ThB2aFzgD6P/gkuWjrHpyy20JNG/hyS+rAW8PfZNqg+3gXtB9bR5jLPyUixcZm7vM=;bGxYMiZwAzw9f9k8xr3W/w=="
 ---
 

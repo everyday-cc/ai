@@ -34,6 +34,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "Fintech lending platform Upstart Holdings Inc ... Upstart is riding some powerful trends reflected in Wall Street’s enthusiasm for AI and bankers’ waning appetite for lending as the Fed ..."
+    publishedDateTime: 2023-06-24T01:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/06/23/middle-market-100-upstart.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
     excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
     publishedDateTime: 2023-06-23T13:37:00Z

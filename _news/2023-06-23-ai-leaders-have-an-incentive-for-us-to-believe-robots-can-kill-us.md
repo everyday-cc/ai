@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-s
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

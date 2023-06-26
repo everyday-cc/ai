@@ -24,6 +24,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Takeaways from the roundtable with President Biden on artificial intelligence"
+    excerpt: "Tristan Harris, co-founder of the Center for Humane Technology, talks about his recent meeting with President Biden to discuss regulating artificial intelligence."
+    publishedDateTime: 2023-06-23T00:45:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2023-06-22/takeaways-from-the-roundtable-with-president-biden-on-artificial-intelligence"
+    type: article
+    provider:
+      name: wusfnews.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
+
 secured: "01l+ScAoTWliezzAT2PEI9vvz62kc3sCocXwFHqYI6zeZkO34/Z8T7MODfYLeMTo4NxJUkbFVp9cnDKbGKyNoBwK+TMJFjYf5X3Qtucuwws59cPrzt/bWGQmybyzUBOJqryi089Y/3o2WlLM7PUewXQGWQOHPH5SsvYlwcRO4LfQFCyTMvX/tWW5Ie9EQ+JNB147dYc2MG1NFeaWK7EVEpOgFGt1FfTUfNTBbqosY3XAiJ1/eWpxraeBw+OUiiHtMuetXu4EC5iQYNisZxj9POFw/m9i/BbEeaXPTXhEh3MQpg+ekfVT7VI8lKRt6Dt/zxNFbUhPSO8oGOU20RvfThg6w+Go2GjGrFpy/EqzA3KCoRA3861kobyEZKwdbRqdmuhacoxZhDcs85S4wAH4htb/ZgnslcWZF2VXs6JaUWob4byL6UFJDRa1pnzVlrNOuWjWfGvok4H/axWyrppdL7Vnh7xsbfqOfUS2OghAvHGxIymr57GDVC2n0kb7gIPLXg9YoZW+r3V48WPbvVjH0Q==;OwHj6p4OicGWcM1OiuvIGA=="
 ---
 

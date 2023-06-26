@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 464
+heat: 484
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-22T085557.027.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "AWS invests $100 million in new Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
+    publishedDateTime: 2023-06-26T15:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 76
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
+        width: 724
+        height: 482
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
     excerpt: "AWS invests $100 million in a new program that connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI Highspot, Lonely Planet, Ryanair ..."
@@ -502,6 +518,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
+  - title: "Amazon is spending $100 million to teach cloud customers about AI"
+    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
   - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
     publishedDateTime: 2023-06-22T19:13:00Z

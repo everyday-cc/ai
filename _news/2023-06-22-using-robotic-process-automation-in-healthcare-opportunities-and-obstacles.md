@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "AI onslaught inspires new program vetting healthcare products and services"
+    excerpt: "Clinical data firm Dandelion Health will begin a pilot program next month to evaluate AI programs that deal with electrocardiograms, or EKGs."
+    publishedDateTime: 2023-06-26T13:35:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/ai-onslaught-inspires-new-program-vetting-healthcare-products-and-services/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 32
   - title: "From General to Personalized Care: GE HealthCare is Focused on Disease Detection and More Holistic and Effective Treatment Options"
     excerpt: "At the Society of Nuclear Medicine and Molecular Imaging (SNMMI) 2023 annual meeting, GE HealthCare (Nasdaq: GEHC) is proud to showcase new, innovative technologies and diagnostics that enable personalized medicine and precision care to help clinicians improve patient outcomes around the world."
     publishedDateTime: 2023-06-24T13:01:00Z

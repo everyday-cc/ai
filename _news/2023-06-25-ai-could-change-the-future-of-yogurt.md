@@ -144,6 +144,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
+    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z
@@ -157,6 +166,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The light and dark of artificial intelligence"
+    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
+    publishedDateTime: 2023-06-26T15:13:00Z
+    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 626
         isCached: true
   - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
     excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."

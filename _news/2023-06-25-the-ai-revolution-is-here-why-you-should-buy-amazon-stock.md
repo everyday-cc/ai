@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-wh
 webUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/"
 type: article
 quality: 69
-heat: 89
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "AMD Is Doubling Down On AI Chips. Should You Buy Or Avoid The Stock?"
+    excerpt: "Advanced Micro Devices stock (NASDAQ: AMD) has gained a solid 71% year-to-date, considerably outperforming the broader S&P 500 which remains up by 14% over the same"
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/26/amd-is-doubling-down-on-ai-chips-should-you-buy-or-avoid-the-stock/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "AI Everywhere: 7 AI Stocks to Buy as Adoption Skyrockets"
     excerpt: "Snowflake’s cloud is built on top of the three dominant cloud infrastructures: AWS, Azure, and Google Cloud. The software is built to leverage these networks, and those three platforms are AI-heavy. Snowflake is heavily focused on this key area ..."
     publishedDateTime: 2023-06-22T13:15:00Z

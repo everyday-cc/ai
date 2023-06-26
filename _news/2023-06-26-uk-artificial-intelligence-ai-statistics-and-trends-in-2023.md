@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/uk/advisor/business/software/uk-artificial-
 webUrl: "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "GQpMg1o/CzUZEfURJUP1D9knu3OF4oattX750XJLCeHvnIwP6rf+0Jwre9c7qsI41LsB2D0ovhY89n3xOPclX3H3MWf5KV1LGquPFc2N7bNgFVvi7McoCtQ3WJ87dksY1fN1NlHQduhNFyiMRJzcC4t8CNFxjt4WQ8dQOQhGLjcebstQ8zB9Nga7AuB/hKneMuU0N+mbVxJ6r55bkQMTTVOutlxfSz1ARhJhAwkNhYp51VttiefzfXqL9q0H7vERa+v2mxvns3w4lMwIXHYCjND6EDuztrNk46wEl8HoZDAwVZwd5fg0A9DuQbtckeCfmxf8enh6q9HaoRvV75h5a77/Uyg3keooaPguxNq4mV4=;Xf5ueyEPc9XBlDqIs3mJ1w=="
+secured: "RGcvdS9mln1O0VSmQwr7QFzZLMVuouBpX+tJgKs9BwCVH0sE1lvuhsCCLeJfuYC4oAs+gP2pFQoueadxWMjCVo3JxkjiECnS1DuafML0jcmoiTzGRGZrUypbVl12I9CCYjjPwKqCyh+DRSjOFyc067udd7UnvE/JZQwQDo3IHGK+9PvuuqzWFJDZ4dsF3CCdA2nQXy+gNJj7mz7hpHfZZIyEYnZdK3KyeWUNpMnILj9f/JvwGcpJUdmrVcGMBKtV4OvbmOfg0Gvp8BZsoLcnuPlGmi/h2ZZA2tqhVOz9+vuZnFn+ViAxRHfBVTZ0PzolevyBGFjMleIcKo+7vcY44LPT8G7pZzQFKtuDWbZakJz0ULdDjidLdL5RkSLqYOXCvUPuGdStnYL9lVppI5IBTHjQecNtl4V5LKnxpAx7Yb5U1NlF/6z0oJuoNfsWqbreB0hFfrNP11SfScs+gsxtHEV+v3UqoOK+Sl5sGQvTTkXudmB6ia+/tYDwD60GPGw9EkRIW0AenIis3zsh+SbtRA==;Z00RkO5rFQMGLHUQtfEYRA=="
 ---
 

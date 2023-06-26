@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
+      "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
+      "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "originalUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20230626565665/en/1827413/4/Finout_Cost_Optimizer.jpg?strip=all&#038;ssl=1",
+          "width": 480,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-accelerate-time-to-business-insights-with-the-amazon-sagemaker-data-wrangler-direct-connection-to-snowflake.md",
       "title": "Accelerate time to business insights with the Amazon SageMaker Data Wrangler direct connection to Snowflake",
       "excerpt": "Amazon SageMaker Data Wrangler is a single visual interface that reduces the time required to prepare data and perform feature engineering from weeks to minutes with the ability to select and clean data, create features, and automate data preparation in machine learning (ML) workflows without writing",
@@ -115,7 +168,7 @@
       "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 464,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -1435,58 +1488,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench.md",
-      "title": "Expedite the Amazon Lex chatbot development lifecycle with Test Workbench",
-      "excerpt": "Amazon Lex is excited to announce Test Workbench, a new bot testing solution that provides tools to simplify and automate the bot testing process. During bot development, testing is the phase where developers check whether a bot meets the specific requirements, needs and expectations by identifying errors,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-the-amazon-lex-chatbot-development-lifecycle-with-test-workbench/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/workbench-for-lex.jpg",
-          "width": 1022,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:12:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

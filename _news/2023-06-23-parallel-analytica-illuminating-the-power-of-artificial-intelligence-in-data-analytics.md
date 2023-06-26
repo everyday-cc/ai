@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
+    excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
+    publishedDateTime: 2023-06-26T15:39:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/"
+    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 39
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
     excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
     publishedDateTime: 2023-06-22T19:29:00Z

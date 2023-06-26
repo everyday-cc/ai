@@ -133,6 +133,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
+    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z
@@ -160,6 +169,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "The light and dark of artificial intelligence"
+    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
+    publishedDateTime: 2023-06-26T15:13:00Z
+    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 626
         isCached: true
   - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
     excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
@@ -190,6 +213,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Wp31pjkY8qJVCqgdlntB9LHF3LpfTsSk6BsdwgrujUmm3WVtA5SlhnZ856rlh+CTTqAY4KL0pK+qTz2xEfPpXCo5AJQ+XZs91yh/TgabiAWoP/YB0mSpVuq0P6nmtvT3Ejc3I+VTxy0/cPpfHDGWTjpbH68EVfGyerh5X4s8is7tGYf5V+agYLAyuJfWT8JtSp6l4HZlXYRg/wNZEhIwqG0GTcYHexINqM2MhElyXfVSBATNFY4IcB/i+bYY1tWRfGBwrioREb7UNqEKgkuCpY263+cafohUWqbBAsWsSiOxC6rVwrwJzLni9QhHwMkwZqDYAAFFoy/bm2ReEK68C/181NCw5GOGwIrCpaXH/H0=;3cZ5Fe5lj2hWLvRb0tVuKg=="
+secured: "7lqao4+26hbwadUfcN8NqDh5oaB64qfJENzXRJcpbwhtSw+kJQUvqTZFkwUjp3pLCYhdm5nLhs44vPXw6/8Zw1MZzf5ltmitUnqJfZ96+OF/Jozu4tp13/FcHVdLpwDmwukgXk5q9WbliBbrHeRPuT6dai0ELwr7KSQ9M1KzXy2MqKa07o6CDhrbKpJC+XTImsbpE+w+5cbgEDdYDtubElO6Zf2oxd1EDzTBE6kxqn2tJY8ITo5vfPl77eT6RfjR8N4diqaDn0rBoFKo3sNIYWx07IUpnn+vNZWQtKc7xZq26K67nFT6jI0ajN11PKf0aN+KrBIqhwfyVVRI2VutY4I8onwozJiP/iQ3Vy+WiEQnUCMDSVhFJ6mwUSAhgV0m/WTZ1VhdhhyPl+ZMemBNvSzybqvkuvQaHAUBFP6nTM8jsTh0KZjWBMDxS/pbgwvGLxlWiBVSHsfen6hLXDNSG8bNiQx3Nb3exxLaiQnDRDNHjT2PLBtSLIXw9dRGCC43SfvCxK4VVvN0r7oQfETfaw==;C1x7pQi/pSQFZR0oy2bjUA=="
 ---
 

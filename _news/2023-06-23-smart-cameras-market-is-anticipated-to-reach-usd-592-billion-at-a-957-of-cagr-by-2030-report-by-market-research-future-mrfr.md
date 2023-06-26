@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dominance of Artificial Intelligence (AI) in Automotive Market Size Anticipated to Surpass US$ 744.39 Billion by 2033 at a CAGR of 55%"
-    excerpt: "The Artificial Intelligence (AI) in the automotive market size is anticipated to record a robust CAGR of 55% between 2023 and 2033. The market is anticipated to cross a market share of US$ 9.3 billion by 2033,"
-    publishedDateTime: 2023-06-23T16:55:00Z
-    webUrl: "https://www.fmiblog.com/2023/06/23/dominance-of-artificial-intelligence-ai-in-automotive-market-size-anticipated-to-surpass-us-744-39-billion-by-2033-at-a-cagr-of-55/"
+  - title: "Healthcare BPO Market to Reach $282.3 Billion, Globally, by 2032 at 8.7% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Healthcare BPO Market By Services Type (Provider Outsourcing Services, Payer Outsourcing Services, Operational"
+    publishedDateTime: 2023-06-26T14:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/g33006684/healthcare-bpo-market-to-reach-282-3-billion-globally-by-2032-at-8-7-cagr-allied-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33006684"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33006684"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 22
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/06/Methylene-Diphenyl-Di-isocyanate-Market-420x300.jpg"
-        width: 420
-        height: 300
-        isCached: true
-  - title: "Disinfection Robot Market is estimated to surge ahead at a CAGR of 35.4% to reach a Revenue of US$ 5.97 Bn by the end of 2033"
-    excerpt: "The disinfection robot market has experienced significant growth and widespread adoption in recent years. These robots are designed to autonomously clean"
-    publishedDateTime: 2023-06-21T20:34:00Z
-    webUrl: "https://www.medgadget.com/2023/06/disinfection-robot-market-is-estimated-to-surge-ahead-at-a-cagr-of-35-4-to-reach-a-revenue-of-us-5-97-bn-by-the-end-of-2033.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 12
-    images:
-      - url: "https://medgadget.wpenginepowered.com/wp-content/uploads/2023/06/IP-3200-Max-4-600x505-1.jpg"
-        width: 621
-        height: 523
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "N4KlqMwCvdXLGp9ND/JQaKliAL/0pxcLkv583VewtTuL9w1Uf6lpp/zmCW/hy5jW3qmcUBbyCGrapARUupVPRt9PisuAItSx3dLz99t025lQ8iiM7sty3lS8YaLaze8luI3tVL7KZRAYCrLPjOpAizb7Wt4vwvsvyST17Z9DADwcd3Smln1X58sa8MVJXgHkkb8C1ZVRP8ZNd9x3gYHI0re7H4w3/1cQ+oh/T6jAeMdVyPPGl5sDKRgYs66gao+n66XXuuAanKhgh2M6ciNXPhVAoN7JwPK/9zYE2D/9dy5G7A1i1kIWNmB5EfIkvvvbLOTK6qT7+ZqD5ex4LxOaZ3rct09N381E4/HxRI4kYJM=;SKCBbufw/Ef+2joEr/POug=="

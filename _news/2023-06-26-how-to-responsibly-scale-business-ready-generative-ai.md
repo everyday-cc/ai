@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-g
 webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
 type: article
 quality: 119
-heat: 309
+heat: 319
 published: true
 
 provider:
@@ -282,6 +282,15 @@ related:
     provider:
       name: The Information
       domain: theinformation.com
+    quality: 19
+  - title: "Here are four ways we can use AI responsibly | Opinion"
+    excerpt: "Alexa, Siri, chatbots, and thousands of other systems are powered by AI, from text-to-voice translation and facial recognition programs to vehicle accident-avoidance mechanisms. And it’s anticipated that future AI technology could lead to substantial health advances, like earlier detection and diagnosis of cancer."
+    publishedDateTime: 2023-06-26T13:50:00Z
+    webUrl: "https://www.pennlive.com/opinion/2023/06/here-are-four-ways-we-can-use-ai-responsibly-opinion.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
     quality: 19
 
 secured: "uE9N1y3B2jK9Vg2KLe51GW7W1JgTmUyAgb2LxFgAS8t4q9mqGWdX/KgxdMaYpKnyk7RpCYASx9xFobGcrxw+4zRj8iCfaZ83YM9ySzrEGsMlg7u0sSsNqzWCAr2Cwy73Nkx/kGnsUnjgvMWKtsaXGlrYfvDpLlqMHhCoObyo0v92JCbrpX6Uiog65C79EgqFmJE0CfTqgs3ud4CeG6k/0bHGSTelzmuXa9QrL100n2CfGbPxUXYjQ/CdnC4g5OiqGDrfajdgekLVQ/f4YCyVCWCEM/pbKahhg4hcCdsFBN4lfwq8zYeC5ulT0UbMPYhyA8aykcyWUo9e7B7NBrtS/oPMvxc5TeMPU8ZCp4s5dHc=;hi89W20eg+Aldxw+D9jYyQ=="

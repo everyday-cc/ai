@@ -38,6 +38,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Download: advertising on junk AI websites, and forest bathing in VR"
+    excerpt: "The news: AI chatbots are filling junk websites with AI-generated text that attracts paying advertisers. More than 140 major brands are paying for ads that end up on unreliable AI-written sites, likely without their knowledge, according to a new report."
+    publishedDateTime: 2023-06-26T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/26/1075531/the-download-advertising-on-junk-ai-websites-and-forest-bathing-in-vr/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "71J/o8XpyM3grYewF581bNl50wy6J3kvsJnzWzSoWKoZGMrj8XuHhKvAeGLySfc3RDOqf6+y5mHM+oWD6rDUFvQ5Ao6Ot3rtX2WhIZIHFMVzURfgMkP2uqcGI+PGMOFWp8IfGm9ruesKFln1F/SrekYeza3Rch+26j9cDQQ2hdCrczILXTCrXFzIswfRyzQNgA0zBAWQeelCbc7COMrQhWGfCjHtnUDegcinvYpFrGKpnapZlohPtXAPKMrD78dDG8yf8T+HdpOq4N3SUnrhxNaWACIyPwlMZft7dXd3XltbPDX6ESLZv1WE9FSb/ZXJWRG4OCmNATbvbMmjg20uY14IhacMSPbD7C3bHaz2eJ+lJrT/1EPj9m5aK3qRftUsYwJbsC1n1pRgV0I8kTQHXYK0TM043Z+6PZRIbGcRhS2ketX9voebkGmZifRmHTZRE/nsgxI7eScrmpozx3JVBLAmlls09qsbTm1nJr0gBbbs9VsbCwPlUda61nu8j4d3sH2Zy2CtVdjoQbosS7EYhQ==;O4jlDffNnYiZS+yYlBM6Dw=="
 ---

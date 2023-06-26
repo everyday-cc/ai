@@ -23,6 +23,17 @@ images:
     height: 427
     isCached: true
 
+related:
+  - title: "'AI Gold Rush' Triggers Onset Of Tech Bull Market, According To Analyst: '4th Industrial Revolution' Has Begun"
+    excerpt: "Tech stocks have been on a dream run this year, with the likes of Nvidia Corp. (NASDAQ:NVDA) and Meta Platforms, Inc."
+    publishedDateTime: 2023-06-26T12:55:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/33004757/ai-gold-rush-triggers-onset-of-tech-bull-market-according-to-analyst-4th-industrial"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "/Yn2m2uzE5kbfCvFAppg0oxJM1QUEhdFbVrJzl/gE8//urLQbQPZJjdcoMYoLGl7BUILIB/N4lI+zg+g1e0zpaaMzZVHEhIip0g5vRZldZsNIzFQNSMUxpAlcvZXFHliCikbtLhl+pnYHRH9Tj30Hp+PQnfZdj1nKE1KXGVcXd5jOR7Q8IzQC7L7/C33XsLHy0wLSXqwhYcJVFsIlhChfUrWMaQ0Lxz8WzJEGLoOE/twzngtee/sg1EPFASPdLlm0xtM5xkTUk3f95tB9PDekf37tI4619lGUQbKyN1CIYFSqfn9mlvwSlIcKI50ZUHW6c3udhd7zITGVyqwEJOBEVZBiekoqBuwdUFsc+SHo2qBE0x9O4uR9nIHJ54A6fCMdHbmsbBolTCkqV+Sc2Y26cxaM/L9MnDpVUZe0HOIkQtE0QbcUMg+qyOvKDTdbbZaCCVRqMhK3mueGhz/IPPV2FRvh5iXy51ZB1doUozSXgKF+N7ceMWgA8V2E/wCJMQtWzCuZKoJEd7YR4JTYoLOfQ==;nt2hbvxAo30e0jXfCj5p3A=="
 ---
 

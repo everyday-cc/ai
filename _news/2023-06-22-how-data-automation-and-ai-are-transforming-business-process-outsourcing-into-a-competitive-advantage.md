@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transformi
 webUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Revolutionizing Business Operations: The Multimodal AI Advantage For Internal Processes"
+    excerpt: "Leveraging AI for internal processes can also significantly improve both customer experience (CX) and employee experience (EX). AI-powered virtual assistants, equipped with natural language processing (NLP) capabilities, can provide real-time feedback, guide new product users and offer personalized suggestions."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/revolutionizing-business-operations-the-multimodal-ai-advantage-for-internal-processes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "oNl/3Fa96yL0zJI2Z0ds8VBLR6FChW61fihXjaQQO7MYIww3TUKet2Dmrv3yT0Hhb6rDpOv5nwfy/4RePhL8lZqW1ggYQbJ8GRhKfE/PgWDte3S8EVUCOSKTFJ43YCW0BfflioDDMqu4BcZ+DN/tUXzLiNorDgF+yv7K+X8/cjbJmSs575EJV6SxW4OGkU99KK5IrGEq9lReQef1RAhnZdtNxCBccvkjiS5dm8U7Q+tPBir34ftg//47bJuUsTuqBfyWR1JGy8/auks+svECHL9oU2kHOEo3PsgAnuDuoqSrwyihvPIbfI/MtlYT7tdWmRC1V7OgrvHFiimMIUtNpeZTUmiQGhhA5NiJ670+wd8=;bRwn+hX+T6xcypoo/A7VGw=="
 ---

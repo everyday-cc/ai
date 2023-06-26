@@ -42,6 +42,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
+    excerpt: "Fintech lending platform Upstart Holdings Inc ... Upstart is riding some powerful trends reflected in Wall Street’s enthusiasm for AI and bankers’ waning appetite for lending as the Fed ..."
+    publishedDateTime: 2023-06-24T01:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/06/23/middle-market-100-upstart.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "8J/9a+rPNrcTgMQ/dqdjbGGm/HbK3O5o/7vvAaUhYgc248zoGU5ah45uwbN9E6DHTpDI5L8nKrtJs5PebJ0crv1lPVDGAFYvdozTML5sMguOYtEjNtG+8tkOLdVDtuOCEW+ybZMlCWK4fSOPIAnl3xGsifA3kLvB/rgGTDeccZPEHhvLx1AAlIgzDUWaKoSd/dWkTm+wq8JA6lEM71g70Ng4z9k41xOSRD89a+oCu2bIblgVa09nywF7A0McIiv3Itymrf8FMWeDPq/WgSYpc3QvoaFVGS9wheE80elyGqJFmeJNFk5C81UQd5TAg1s0YjkCA+IVyCY1Cu65f657zeQMqktoj2+dofpSMyaUgT7XOckagTs8Vb5ZlRO94vzEWBU06z/gZpXVmCNK8iSajPFb0/K40rqVXX1vMVPjdg0DUnIVxaP3BHO/bXOXxhQQgmqfhq6ydo6iuEyoEIP+in+sUh4afCjQJNeXuxQ4TZH6AOfb0LKcgVzeIM8npdzenK0v40qdmljVIxZyS+iTWQ==;TIKJ7GCYwxoLGtzoV+KeXQ=="
 ---

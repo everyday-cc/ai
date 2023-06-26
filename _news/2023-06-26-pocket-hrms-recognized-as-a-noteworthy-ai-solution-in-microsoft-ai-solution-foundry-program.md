@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-excerpt: "Pocket HRMS has been recognized as a Noteworthy AI Solution at Microsoft AI Solution Foundry Program Pocket HRMS achievement is a testament to their deep ex"
-publishedDateTime: 2023-06-26T08:03:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273879371/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program"
-webUrl: "https://www.bignewsnetwork.com/news/273879371/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program"
+title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
+excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
+publishedDateTime: 2023-06-26T06:30:00Z
+originalUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
+webUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
@@ -144,7 +138,16 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 15
+  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
+    publishedDateTime: 2023-06-26T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
-secured: "ycYWbT33ElJnDu2EygRj0dt9bBTkYVxkuKh3NNdKfGuDEEm2TgTtmXreyuvTeCHQnBp10qdEZ5HuDsaXY5hPlzQOwO6+2mbKDl/JKp/BQqkAuGCNc3SGsKA6iYIMyCzznAr0seWdVDS1PERwvuSRrhHKn7XjJtUkyY+uMZnpSfy/u5drpHjBjS3lybKovfcyFmklzf96z/0DdNeTbAnWcVvzgJv/7jCuOPhnGkhHEcWiRDddPLT46EDIitG1wLFRtRgI/aXLHP/C4QkieS8M5CkczsS2REyZEKi2UgGNT42C2NNQ6cqnX1gb/Mpzaa10ALNsmEAfPh7OAYTaItLUyDXa20lpoNAUhT6nzqTzsHo=;z47haSoGwHc9TBZfHN0Oyg=="
+secured: "hlc9C6EQUHRTsCJNeWSGvtjc55nNXS+NW3xORB0jq+uSTirOJxD6iSx56GpkjgTLqaeBsRteNP6rV2G1vDW9Uzv68sv6C0s/RzijRTHcuergxGgogjFP9N8dfNR6QvXX1ja5LVUq+sKZ0V3yPyI+ytfkspe47D/Dj0qfX5dweaKwNco0I6sw9CMgnZRQlSXZK9eaJ+1fxblPEL+LAfQzkMMScAyUNVSHcyOApgx4j4uTy5GUG/mqT0bhqoJ0VYXj20e8ZfeQYhJOCsoTDY5zoiRfmp4YXnEC0de2/nf4LIrdYdB4WT+1Wp+D75MUzErBuGOk6PnOM4D2Onp9n1/hFNoTHOJXiIvAhB2t8LMzQio=;3xHTDwsY6LWnGW9dlDMp7g=="
 ---
 

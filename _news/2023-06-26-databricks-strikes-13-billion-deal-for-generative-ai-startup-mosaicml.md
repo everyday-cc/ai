@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-f
 webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -27,6 +27,17 @@ images:
     height: 640
     isCached: true
 
-secured: "2Ye5WtMJpiiT9OrN35u/ey6ts1m45crsgOfFoX3+K3iS86p8dpYKVe7dSCJBerLL/cwqmxydW0t07+GKglFfls+t3XyA3K+lgpcHjtQRt0RLE8YQ+SWIHgmZBHLQFPNAiQ9rs1ofwWgiiFz2r4Jh/O0Efs0LWrdFv4Medyf85W6CGpoxSFpbnXSoWXPxdYSFkPeP/V1Mb5kayflpqwFjaYYrupJBlv406Zrn5ggBzK9ZFPlEmURkyCm8JA8GsRXFUHxN5BJrTK14flC2ZeyH4MQTLviUdlsVZzuhwxUD2QQjHXXecGBa5u97681N9gYL08CXssyNwVPGWSog6MTAh4tTeBzUx+iXiKZWb9QmGmI=;r0Uc59UxmFw4jONVDLcLBA=="
+related:
+  - title: "Databricks strikes $1.3 bln deal for generative AI startup MosaicML"
+    excerpt: "Databricks said on Monday it has agreed to acquire generative artificial intelligence startup MosaicML in a deal valued at roughly $1.3 billion. The deal comes at a time when Artificial Intelligence (AI) is dominating the tech industry, with rapid AI ..."
+    publishedDateTime: 2023-06-26T12:31:00Z
+    webUrl: "https://www.reuters.com/markets/deals/databricks-strikes-13-bln-deal-generative-ai-startup-mosaicml-2023-06-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+
+secured: "p7bH38TLY57lYC4xpDrkma/t54F5PIAlJstO2IzYa2MqKa7cEjgIT7lkyTlDrfUAJ/Ekvl/6cJnKVr1ffMpNYF4MjWhyhoQ7aqmqQH1Th/VNGT8DWAEi7F+9C0DaFjGXD4HtmpT5+6ta/DPxogwGJ0RYy9xQkrPHNA7U96dLpoZsK3qHzENChO4XWw4e6bPQhZWFxwJE0NlQThg1Ge2DN/AwwzpWCiUPdeSJXOW+RtXf0//JZ6QEoPCBhuica8qrvRpVDY8tgRTEz55L4b3j/lQmqG5BMc4qj+NiP2WVcPLeYr1TMTZZQcuhqvNRWPB2pp8Dj4d3p57w6u9IM+ymYZbVkhn8M0voG1Y6dQYlrhU=;xjKymy8VEVYsF5pjRDJF0w=="
 ---
 

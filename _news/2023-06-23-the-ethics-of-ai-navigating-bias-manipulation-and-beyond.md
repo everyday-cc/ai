@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hope, fear, and AI"
+    excerpt: "Some industry figures, like OpenAI CEO Sam Altman, want AI giants to steer regulation, shifting the focus to perceived future threats, including the “risk of extinction.” Others, like EU politicians,"
+    publishedDateTime: 2023-06-26T14:11:00Z
+    webUrl: "https://www.theverge.com/c/23753704/ai-chatgpt-data-survey-research"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/NI1o81hUl4Nlp9Uc_JjkLGtR96Q=/51x205:699x545/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24747183/header_2000_x_2000.png"
+        width: 648
+        height: 340
+        isCached: true
 
 secured: "WsZTXbQofRruhTXmPysHk92xXBL8DXb66DNJnhpz9QV5wlTJK7sr7tXdFiW6wca2PIxFEEgRnEikv5BYqAnsEPud8qtvHpIfrZsaygmfYjRj63sWL5qOb/PMx4fAT3qF+Qo7ezH4gpKPAlmM7e0c/iLxkeofJHEiYlxJELvPZ1h483WNeklwpRkLI/emfdzpLYrXVsvuK0uM/2UmXrSqtB060BFfA2qBv9lgupvFFaAoE8DCDXfiMtGpYQ92d9aFWNkCnQdACLzX0ouGTwQRzLlSmWH93IApt0c+jjhGPI4Xo8m6OoaY7vTrsq/LbHlVnV+HXaIS7c/r6zD2jB9xXZu/Aet/fEYYIaOnzq77Rn6WAeAMTbrDwxWYP1Bm6wODSf1QwbckDt7yVOkl5+rl4FCYaCbYLc5971Y2F36FMyniaEyrckAiHEwhS7yddLnCFVzbLg8gxqdkqBnsxhfs/NljlwirrGF5ctvR9TLHcP7+SKV+UCnZukc7ElyDOTPTheaF6/6YfKIszKop/00vgQ==;j9U9fQnok5MfcEEFtSyv3w=="
 ---

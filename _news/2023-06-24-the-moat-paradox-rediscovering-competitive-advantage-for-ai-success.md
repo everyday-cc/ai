@@ -46,6 +46,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Revolutionizing Business Operations: The Multimodal AI Advantage For Internal Processes"
+    excerpt: "Leveraging AI for internal processes can also significantly improve both customer experience (CX) and employee experience (EX). AI-powered virtual assistants, equipped with natural language processing (NLP) capabilities, can provide real-time feedback, guide new product users and offer personalized suggestions."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/revolutionizing-business-operations-the-multimodal-ai-advantage-for-internal-processes/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "Dg4l+9dJD33EnuWxkZqWL3MkBTaO6w+v5pHK2E2NivlncuC/9sktT5k/XZBqJdBQArtl5gUJCTo576blHJjKjkB8PtJGZ/N6Ogh2CL5o6ymFCYcp/NX/q74a5yR0lUyPckYgEZbLEvoFSpBRP+i/CH5CTUgh1SJ9VPoqAa5vmZdSw22u63DPZMhEjO51bEoHV1DFbVOwZ1p4Tu0jZdyADveJFWFw4mlJHL/0/bZ6f3zjxquKOzFEa0Z3nASLjolFaSq4qpr59Ziy/WAaP/FEZ/fMPadHp2WdsDPXS+ucgHNSHJ+BRB6suqhl3ndXkplKbb6VmqRAd/j2xuhwAi4NHDnWYs3Gs/rhRYFBeMWZXePhZ30bDVnUlh5mncOLIHKBxFIDL1Knvww/XZRZj36zTBW25yqo0jFcKX7V0kprXsaYKvpRRYeKUpTHD8+hpvsYulLPlzyDS1kEtwJKtBiz4CXWjJ6f34TAyoOS1W2Gd6cmKF9MbU3v6MrkY3HbCQMLJp1gmQtNe0QAa3PMk+iLeQ==;EUmS3MsBkLMntUJSHi4vTw=="
 ---

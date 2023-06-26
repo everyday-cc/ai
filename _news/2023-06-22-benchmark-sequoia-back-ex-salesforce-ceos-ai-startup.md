@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-
 webUrl: "https://www.theinformation.com/articles/benchmark-sequoia-back-ex-salesforce-ceos-ai-startup"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data"
-    excerpt: "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI."
-    publishedDateTime: 2023-06-21T22:01:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 508
-        isCached: true
 
 secured: "YPs47Nj1+MI2Nw49n9nMPde3QsW6CIbC0cHBcpIsn1MF3zTIakukmXiPMSS4EPmIf7T27+MVlZwUdeFpi4TWdwP8n+JYUje2TSNqz4Ywg0tsoUaCACsSBj48gFC3+KdSLuf1JTqaRI8mnH9U0tinFVlSd2d4R/ie2C5s1q3v9x0kneFUI+EXbI+4+SilXt3doNOMJ0BVNHli413YlGbxO4vYwJCrb1aKYp5jQDfpk3Jbjg5nuQiCHD699dCwtd/KmveOh3d1jFHISFGZh+TuGvZxt+vxOmhxmTsj2utGaRnvs9C0jaSRo3TdkrYUh2XIoDSFJpMuwiWGLn9VYnmfwQUBMw8qAIPkv7EakkGeRV4UDTrbXyPuQrnsBZfNmE+539VNrPJmF7vCvd7VfPOvNTcq58zlcN5/ml5mwqmWJcqh6EGTG2hR3NKVDe4V4k8ef6sj/Hm/Ughkysdbr+R3qtEuiybX07jHeHx1MpY0YdCUQcKufrvYM/lQ8Kp+FHmTqe1MbIYCaKEJZ9+0QJsFsg==;f3sWqo0K7OWzEftdHbyiig=="
 ---

@@ -111,20 +111,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
-  - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "Pocket HRMS has been recognized as a Noteworthy AI Solution at Microsoft AI Solution Foundry Program Pocket HRMS achievement is a testament to their deep ex"
-    publishedDateTime: 2023-06-26T08:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273879371/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 44
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
     excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
     publishedDateTime: 2023-06-22T12:42:00Z
@@ -134,6 +120,15 @@ related:
       name: Morningstar
       domain: morningstar.com
     quality: 34
+  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
+    excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
+    publishedDateTime: 2023-06-26T06:30:00Z
+    webUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 24
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
     publishedDateTime: 2023-06-24T13:17:00Z
@@ -143,6 +138,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
+  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
+    publishedDateTime: 2023-06-26T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "Fj4e9sF2LtZPJp7MzkhIpC9HPcRS3gqVURspnkMU1q4Qfej1rOiomLabJgDXKAqD53godOasgT3JKCI9yQfHIl/JmBSsWnFPSuOmGiC+d7jphVl1FpEPRrtJ43Xwl+fSB4C/wHP25pMpGHI8SwIlZssSG+izZndkz6G46nkgHm5Gh372lMZ/XgXPRlIwDIM2iNOWIQcnaLrLwuAiSalVueZZjhXyDniLjgPU7abA3qDPGBO2cYJkMhnRqy89vUhV9Hm8E3V6bocFnktcbt13FtwUOS7X0mKKfLOYUlBbf+7gavmJl6yf2+9pOOp8J70t44dofSM+EJwzyhc8SdHQ8VFqEBz+4Ddi+WO8/twOcHo=;kdthYs5a/wTk+Key/xPYYQ=="
 ---

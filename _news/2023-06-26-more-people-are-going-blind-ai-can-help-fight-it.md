@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intel
 webUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/"
 type: article
 quality: 67
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -70,6 +70,6 @@ related:
       domain: koreatimes.co.kr
     quality: 39
 
-secured: "NiEKOt7f/QEj9NdG3fgFchbkKjJ0Dt8z4A8AB5pzpVORiOQ8Zt/G62D2BURbyRDf2NAyspMDdgg9+KlKDhsnEvBfGY7YzmxnCg9yDmTqmD4T3gqM0SEkgPKVzwprbMTQH1kArv/b2hTNzoNYL+S1E9TWuej5TtzvuuoZS5o0C4INdxEREV9iL1aDHm0ig/qRzqoZ43tRy9mTPnSr5Zy57PM+Tl8l3TeOMEtExNdyrAdgLX/vH/HtPSiGtxHALsoI/TNc2EzV+lt+Yne1VbkS8+tlD0D3IAi7NYwE2k7Pmz/JNwDbQkb4ZffLLM8RNdX86yHjVTZKQFSxjYuAvit23kYoH8fawsdWys2pK9w6UqQ=;6msNX5nyrWiBTrTIoCTTVw=="
+secured: "P/SWInQggbh1MhaVdUz9vYTYXx6gMj23jLCPRa7LUln8u1mojmCj8ZWf30KZfpAZ9MJRHPQ2o++npkNm23nXROmQfy2QQ++6RaWkDpIHpxLTcj5FrjaiLhifwg/izpOTx5NKfLJM0p5Aie0HHaBLBZ3IQarwGlii5k8/SGednzx9EBPso6qBhJy7SPEW/lAmHU9jEF3OJXYhbDMT9CDP5OEfr3T4Xg+d/0fjH4DsW0j/YcpF+vTQhaaXx8bg4RLj2zdya994NPn4CNNW1GnZNghfmKHi5To+t7wQ/wI+PyNBtIZviXjWMVXI73QGax26jkdkq9oEEhJRexdexGmG/lIXgM+XEYi2CY5uz7qktM5Nq9UZEHoCYapo5BctILdy7J5JTAl764f3tQU6YNMtWPGDtynIJbusI/I4jQDkFnfIuWdzpj8AH8qsQXOzy24UQHOGq35PN7fkAlTKdNKnmiRyz63u7iTphJB2HF/X9jpSjC1SXRzMdTzgwNMSsOOMGuLeX9dCeRadLXNPpPZe/w==;SZ7OFI+U2gkWITuv+xca6A=="
 ---
 

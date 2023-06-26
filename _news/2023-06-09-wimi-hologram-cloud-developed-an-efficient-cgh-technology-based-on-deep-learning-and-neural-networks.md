@@ -1,24 +1,20 @@
 ---
 category: news
 title: "WiMi Hologram Cloud Developed an Efficient CGH Technology Based on Deep Learning and Neural Networks"
-excerpt: "Deep learning can find the optimal or local optimal solution in operation, making it efficient to compute CGH. CGH has been applied to holographic light traps, 3D displays, planar concentrators, AR displays, etc. CGH technology can obtain the best wave ..."
-publishedDateTime: 2023-06-09T12:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-efficient-cgh-technology-based-on-deep-learning-and-neural-networks-1032380597"
+excerpt: "PRNewswire/––WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced a new and more efficient solution for computer-generated holography (CGH) through deep learning and neural network technology."
+publishedDateTime: 2023-06-09T13:53:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/09/9829947.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/09/9829947.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "uFqKUMbYTSDBRd1UGUlo0Zd1+CmBt5Lal5L9FS1AbTtNxmtIdwPSN0FluVEU5xk87cu33g9W/8Bsh4llCsDbyT/om3HFGD730DgP7x/opgpL0lems1MbGT78hUtRb4lHVE6hTrIRsYqWjlL/ewafQzAlwon1CiwLHWqvOJO8Z+EMrELyUUUAAbrOuwvdJA5DuAdtLseSPO6q7cvAjyfv4cqN+5kQhnFExxPcFxnnZm8I89lMlGVTCF4m3P3oPP/4tVqANQJUZ+fQtfEQAdUzsO/GmCM8vYOhGEiiTaFSKBC0272BDx5mTo5qSIkO0yCNvV5MuaNyL/fEOMrzE1zrMy6R4eLRlO9AKg3pr31bopg=;+DsUmTGp+nOq4511QHk9bQ=="
+secured: "uflwtqebeh81CqpIvMwHYv/MYINsOXZjFLoblTLmbThNuCfrJJ34PyzrgouaT2MulEElEePNFdIGVQoRPhQzagOE6PcQd+04yxnSf9K53WIcZM2bklk1TCG8Pb6ZZQkprqz0bWptLFYdnnoeroNr2qJW5jeFUSU3PlckrwTUfiAa7LHSUJDrUbkWG3KRXZ5INrj9ND/7sxYP6SGEUThZIZzlPGmL+upydGF0mBgvFfXYhk6aMIsYOHuJmEVJi5tVwz5AZnlR32eDqByLFpIkeyiOAgQS4PPpiL04mdMeBuModOHCwBGreOTfEf5nFfZhAOCOqi/zFTP40kEVvkeja0EsBJDpeHoPg3Nyni9IUjk=;A9rFA4o+rySqrm1zxM133g=="
 ---
 

@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-26-ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says.md",
+      "title": "AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says",
+      "excerpt": "Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench in upcoming elections, questioning social media companies’ ability to rein in false claims on the burgeoning technology amidst a tense political climate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499ad61072e79e0d062d65b/0x0.jpg?format=jpg&crop=4000,2252,x0,y206,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
+      "publishedDateTime": "2023-06-26T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-defining-the-unexplainable-in-artificial-intelligence.md",
+      "title": "Defining the unexplainable in artificial intelligence",
+      "excerpt": "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
+      "publishedDateTime": "2023-06-26T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
+      "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
+      "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "originalUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20230626565665/en/1827413/4/Finout_Cost_Optimizer.jpg?strip=all&#038;ssl=1",
+          "width": 480,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-aspen-ideas-festival-2023-live-updates-former-google-ceo-eric-schmidt-to-discuss-ai.md",
+      "title": "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI",
+      "excerpt": "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
+      "originalUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230623-aspen-colorado-live-blog-cs-4a7c50.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/rcna90875",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875",
+      "publishedDateTime": "2023-06-26T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-how-to-boost-personalized-email-campaigns-with-ai-technology.md",
+      "title": "How To Boost Personalized Email Campaigns With AI Technology",
+      "excerpt": "There are several ways AI can be used to improve email marketing campaigns, such as: • Predictive analytics. AI can now analyze subscriber/website visitor data to predict how likely they are to open an email, click a link or make a purchase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6398900f0db7ac9716620eb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
+      "publishedDateTime": "2023-06-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-uk-artificial-intelligence-ai-statistics-and-trends-in-2023.md",
       "title": "UK Artificial Intelligence (AI) Statistics And Trends In 2023",
       "excerpt": "The rapidly growing field of artificial intelligence (AI) has the potential to revolutionise many aspects of our lives. With AI already powering everyt",
@@ -10,7 +251,7 @@
       "originalUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -113,7 +354,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -165,7 +406,7 @@
       "originalUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -208,6 +449,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-databricks-strikes-13-billion-deal-for-generative-ai-startup-mosaicml.md",
+      "title": "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML",
+      "excerpt": "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06",
+      "originalUrl": "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-806103/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
       "title": "Responsible AI: A Practical Roadmap For Business Executives",
       "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
@@ -216,7 +508,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -498,7 +790,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -592,7 +884,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -822,7 +1114,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -913,284 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-artificial-intelligence-and-machine-learning-in-customer-engagement.md",
-      "title": "Artificial Intelligence and Machine Learning in Customer Engagement",
-      "excerpt": "In the modern era, the utilization of Artificial Intelligence (AI) and Machine Learning (ML) has emerged as a crucial factor in contributing to the success of large-scale businesses. This article explores the manifold ways in which AI can revolutionize customer engagement strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2023-06/7a52b31b-6709-4222-8927-f882066c9a61/Untitled_design___2023_06_25T090341_879.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement",
-      "publishedDateTime": "2023-06-24T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
-      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. In your Smart Money issue on Thursday, we discussed how AI is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/06/picture1-1.png",
-          "width": 1430,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-ai-technology-brings-innovation-to-treating-stroke-patients.md",
-      "title": "AI Technology Brings Innovation To Treating Stroke Patients",
-      "excerpt": "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients",
-      "originalUrl": "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32997125",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125",
-      "publishedDateTime": "2023-06-24T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-rise-of-the-robots-raises-a-big-question-what-will-workers-do.md",
-      "title": "Rise of the robots raises a big question: what will workers do?",
-      "excerpt": "Rapid developments in AI are forcing managers and politicians alike to confront profound questions about the future of jobs",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fa7016ab040c88978d002b92d4ff0cbf2affea20/0_395_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=1225c778c7bbe96f7bee737ee69aaf5b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "publishedDateTime": "2023-06-24T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
-      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
-      "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "publishedDateTime": "2023-06-23T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
-      "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
-      "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
-      "originalUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
-      "publishedDateTime": "2023-06-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
