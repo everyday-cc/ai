@@ -25,6 +25,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "4-Week-Old AI Startup Mistral AI Raises $113 Million Despite No Product And Little Staff"
+    excerpt: "Search current startup raise offerings based on your criteria with Benzinga's new Startup Investments Screener. Artificial intelligence (AI) is revolutionizing the tech space, as ChatGPT's ..."
+    publishedDateTime: 2023-06-23T14:46:00Z
+    webUrl: "https://www.benzinga.com/money/4-week-old-ai-startup-mistral-ai-raises-113-million-despite-no-product-and-little-staff"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2023/06/23104112/4386431-768x512.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "8Te78XB6j/rwwWqt8bhqSb6Xa/4WlFjBTLz6XSUmmif2mWVLFT18Cd8Nno5nZ0vsqc+grJf8HIL/OtPMHBDclrEr6l+eR+nKGc4hitwQuF4LPz0QupKmMsJyOrT4954005kSpbiUmdBwG1PPaIEPty9/AhByZ8viqYiCspNsxgvU4ghPmT864EaPMzK/CnfrCkz0pldU9DQ/OXMOSZUbCeU03WghCDX6k/gkbwOlq8PGuxYFhd8RPxxRRgAQePHwnelFT09SMhHdZqim0n2zdX/iwHoRZOVgs/iNom0tpccRr7JjKQbBNaZT8TDagcGBcG6wMMM8PfiPxBg8/vIn2ZurChEEnVCJdW7ZQp41rl8=;g2QfxF21u/HSIXVDCJ7mDw=="
 ---
 

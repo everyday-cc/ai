@@ -39,6 +39,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
+    excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://www.benzinga.com/startups/23/06/33011902/this-1-month-old-ai-startup-with-no-product-just-raised-113-million-here-are-3-established-ai-stocks"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "WYMIWWJoXjctCdtYdIrSsjQ7iZi0TDGjhC0kEPsI8bMvtiFZWZeOexJD16b8hOH1wnUWkGJSCCbohtsieTyq7Cc8ir46Z+yTdLEnb9ko1v7Y1Q5rL+wuciqx8NGNgxo2WvyV3qVqb9K2jxim22+JxAYtBLLxB8SClqHtUHubcmFky0clN7QsFT9NjFEXfDgXWpkG+9wi/v1eQAIdBoIfSyO61cSS9egVDNE3vUZNUwD5553Lqxf0A7X8yaZTaA9XgcBcTTIDzmDPFjHZ6RhbXZzhNsQjAAJWk22g9yko60OZp3A4EMSwwu6kZeTgj9ju2Lf3pePVqk0+RMDK9VhIn2RQewc1La/fSWxzin848NQ=;onqxOKXCY22tNe9yQomBPA=="
 ---

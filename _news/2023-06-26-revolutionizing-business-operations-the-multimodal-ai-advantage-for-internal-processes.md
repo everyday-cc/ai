@@ -31,6 +31,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 83
+  - title: "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation"
+    excerpt: "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-26T18:52:31Z
+    webUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 74
   - title: "The moat paradox: Rediscovering competitive advantage for AI success"
     excerpt: "With the right vision, agility and execution, businesses can build rich AI offerings and compete head-to-head with market leaders."
     publishedDateTime: 2023-06-24T16:10:00Z

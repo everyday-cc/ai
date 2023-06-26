@@ -63,20 +63,15 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Satya Nadella Talks Microsoft and AI"
-    excerpt: "In an interview with Freakonomics Radio, Microsoft CEO Satya Nadella discusses Microsoft sudden dash to AI prominence."
-    publishedDateTime: 2023-06-22T03:00:00Z
-    webUrl: "https://www.thurrott.com/microsoft/284624/satya-nadella-talks-microsoft-and-ai"
+  - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
+    excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
+    publishedDateTime: 2023-06-26T19:11:00Z
+    webUrl: "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 58
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/06/nadella-freakonomics.jpg"
-        width: 1066
-        height: 600
-        isCached: true
+      name: SD Times
+      domain: sdtimes.com
+    quality: 59
   - title: "Rivalry between Microsoft and Google could supercharge AI progress"
     excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
     publishedDateTime: 2023-06-24T11:01:00Z
@@ -88,6 +83,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 56
+  - title: "Snowflake and Microsoft expand partnership with focus on AI"
+    excerpt: "As part of their expanded partnership, Snowflake and Microsoft are working on an integration that will make it easier to use Azure OpenAI Service with records stored in the former company’s cloud data platform. There are a number of ways enterprises can use such records in their AI projects."
+    publishedDateTime: 2023-06-26T21:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/26/snowflake-microsoft-expand-partnership-focus-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
+        width: 933
+        height: 520
+        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft"
     excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
     publishedDateTime: 2023-06-26T16:47:00Z
@@ -120,6 +129,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 24
+  - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
+    excerpt: "\"We are equally thrilled and humbled by the recognition at Microsoft AI Solution Foundry. I dedicate this award to the development, technical, and functional teams for setting new standards in the HRMS and Payroll Software domain for being the pioneers in utilizing Microsoft Azure AI effectively,"
+    publishedDateTime: 2023-06-26T20:39:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230626/4093122.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 24
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
     publishedDateTime: 2023-06-24T13:17:00Z
@@ -140,8 +158,8 @@ related:
     quality: 15
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet

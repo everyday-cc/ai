@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-26T17:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: The Motley Fool
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
@@ -57,6 +58,6 @@ related:
         height: 808
         isCached: true
 
-secured: "kHayYnqZG59IpGSq1DZlgUVq/xnRrV9+Rk0fZRvll2QXsaa/NL14sJio8+O7YMkAxTSy7KLWedBN1/nOy/bg2TNhS0L37rwUBzFVGIb15JDakJpkE2Hbu1ShG9g5ea1NEW0AqtA5kpaC2PGfAMYXUTvtSf8d/pwDRtG3CPcIRBpLo7U0yVV1xGH9Ak5Sa0E4i1WR50t0cGCBpwLXjEiHUL7Dq/VPNQST2kQo79V/ueMq/7w2S2UQaOBfADAIjNz7f/EG/RX8KyzZlkq8tCAyWmyzGlMbGokWHEsGSD/50kTpaXwPKHS3fkFaJUIw4uWTU+PTeBDWHtTC8ISbkj+C/pn8bBvL+jD2b/xlBeZGLRY=;/29Mm4d8EqTZ+dLqIW9pXA=="
+secured: "bMB5CU57h88VdagJEQ+iMUP03FTpFZdCXN6Yit/n9NJvu6sfydurUFIZCYvpDu5lztLNPMKGWYQZVChY96nF/xb2u963Ka6fmFAp7uMyB2d1ncC6GNsijET+d0XmSFlCjo7rrK9V11GzEI8dj/LHLwhWAS8I3nzRngSxKGA8Ot3zZxIiB2S6Y11iil9g8EpumW9pSEKXkn8NYDlv42PJLdux2VfUMCVJDUIdq3TGoJF35tAcdxeFDtAXXJRIfrBZS0zNt0dppw2dU/Jxk2g7zdQmSp4Kjgjvj9LYnNRUIBxy9pHcMqDckEF9SKsAaAkk7r4txAFwhB20Nht9zl2DyKhePmCk5b18/FOBkgkv1fA5avt8HXtBQNcMEfDSIWDKQv4mnGB3Kk6Q9J/DajoZoUdt/nYZd3V+lYmn8t/b5FFmvAfuHSugefOAN1dODLgj+Q2fbW9PDTS0CU1E2Ov3vLJXKC8uST5AC2kCc6gp+dfCVxDx7NnvybypyRzX9/4do1eHrTDwVro4pYjjj3lWzw==;PF/V7T3rHedNlFSTb/Shzg=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DeepMind unveils self-training RoboCat"
+    excerpt: "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\""
+    publishedDateTime: 2023-06-26T20:10:00Z
+    webUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "DeepMind introduces self-improving AI model called RoboCat"
     excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
     publishedDateTime: 2023-06-24T15:02:00Z

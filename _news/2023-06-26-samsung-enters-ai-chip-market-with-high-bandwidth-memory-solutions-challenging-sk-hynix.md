@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung to mass produce HBM chips for AI, competing with SK Hynix"
+    excerpt: "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market."
+    publishedDateTime: 2023-06-26T19:57:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-Headquarter.jpg"
+        width: 1210
+        height: 765
+        isCached: true
   - title: "Samsung going after SK hynix in AI memory chips"
     excerpt: "Samsung Electronics will begin mass-producing high-bandwidth memory (HBM) chips for the booming artificial intelligence (AI) market in the second half of this year to catch up with SK hynix, the market leader in the nascent AI memory chip market,"
     publishedDateTime: 2023-06-26T07:28:00Z

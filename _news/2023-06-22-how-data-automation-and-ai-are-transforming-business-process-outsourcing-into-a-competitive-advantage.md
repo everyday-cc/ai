@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transformi
 webUrl: "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation"
+    excerpt: "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-26T18:52:31Z
+    webUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 74
   - title: "The moat paradox: Rediscovering competitive advantage for AI success"
     excerpt: "With the right vision, agility and execution, businesses can build rich AI offerings and compete head-to-head with market leaders."
     publishedDateTime: 2023-06-24T16:10:00Z

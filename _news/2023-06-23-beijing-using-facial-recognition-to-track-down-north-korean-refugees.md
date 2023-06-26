@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Ripton Rosen Explores the Ethics of Using AI in Data Analysis"
+    excerpt: "Artificial intelligence (AI) refers to the ability of a machine to display actions like thinking and processing ideas in a similar way to that of a human. Recently, people have used AI for such things as responding to people via chatbots and developing codes for apps."
+    publishedDateTime: 2023-06-26T18:42:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/26/456283-ripton-rosen-explores-ethics-using-ai-data-analysis.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "U6ElrnrjlivmHRwSQauKQwP/DkbFEu53ClwF0x7xi+oWnyMgC+M8WDu9FFb9XNcH/U21ii4ckNXPQuY2Mo9OFPZMiBU+PWVI8uoD32nO6eS30KwAXBBVylPBjgJHOtGeQmnYZCqcQoCLMV8nZz4V3MT9NYEGj1F6wDQv+zC7fr9TPsGoNT1VRgITBLJ9wiG2mdrlAylRaE3UP8xThAQoLc+YbtqAuQK6Gii7/3CyTYCeNe1OzA/hiKa2M5yIZLibJquEDw8n7CEqtQTmHuKJs9+IuGiKUadRQ41wWSzWJ3jT6J+f/6qr0E1b84t9KLth1k3dhv3Dvm+GWm5sfF2rLpFkTANSXnJ2Wx0DYvTxqmU=;ASJwdQZjDUqejOZdlG+ZPQ=="
 ---

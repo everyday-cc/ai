@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-companies-hidde
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-companies-hidden-in-plain-sight-1032408113"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

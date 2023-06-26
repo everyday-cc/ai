@@ -80,6 +80,15 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 4
+  - title: "FMCSA Plans Driver Behavior Study on Self-Driving Trucks"
+    excerpt: "The Federal Motor Carrier Safety Administration is seeking approval from the Office of Management and Budget to do a study related to truck drivers and advanced driver-assistance systems."
+    publishedDateTime: 2023-06-26T17:11:00Z
+    webUrl: "https://www.ttnews.com/articles/fmcsa-automated-trucks"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 4
 
 secured: "HBh9BGp/HsQW+TzHxnqNttFwu0yHPjWSF2nAIpgKuqDN8wB72PoUo8WMvS0DdwEtaPyRC8eNTbwbnblwRGXR25424WMd0evkr95LQdzytkCO1uWvyQ1BF02RBE6lK2siFe0tfYtFffSbgOUneCOvLfDH6YRilLCV6etWxY5bifO2LdCXTojOgHH4DGY2dbfocCSnZJ8pafiXIzxLPjA8ZHuGyvBfLu5qAv5BJ5vLSRSlnjadZf60ATr6kc9voaHSPHqO6NHQpko8C3ra8fHdedRHp6y3bvcdORO9aGHqJGFYeApI6+/vznirh+kNU1eQRhUsaj4xjaaEP0tLq/m88rtiwpwXqvgdEXhIvoTe+1s=;N28IG/OulO+ew4FuQTJ0zA=="
 ---

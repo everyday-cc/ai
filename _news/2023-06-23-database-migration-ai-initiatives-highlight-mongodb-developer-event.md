@@ -65,6 +65,15 @@ related:
         width: 1199
         height: 607
         isCached: true
+  - title: "AI will change software development in massive ways, says MongoDB CTO"
+    excerpt: "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter."
+    publishedDateTime: 2023-06-26T18:09:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "CtYUgaJiBmDEDXbdMsLuxjXsossqjIhneoGKLkhPpxYK5bSs1AK+7bG78GHTOaTTRKJwAPdyNqMMyFItASLfBOxjmdEDufVJ0XZfHrGPd2q/KLI4ZMU5NFcmlvzdwVFC4xzCtyWz3lmGcz++qBTmCPnH5omWjMGB6t9xdc/vnPehDq/kfS0b7ts0NBxWa/iN9voXH8wUHFoFt7zW18jx0graACR0jtAq8VEwS07mGY26LoXKJEqBz22ry4ylwi9+n8usFNaRQj+r9CbZjtC2k5KCUI15x/E8J8cPe/p4SePstcqb+Y1dFRTCMh1IKombg3CHY+g962GNJSYdIqlKc2aZ6YIB05e3hEJNMSb3Ck8=;I3JnDqJhJtYrswReztGQJQ=="
 ---

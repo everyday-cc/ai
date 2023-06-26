@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-us
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ripton Rosen Explores the Ethics of Using AI in Data Analysis"
+    excerpt: "Artificial intelligence (AI) refers to the ability of a machine to display actions like thinking and processing ideas in a similar way to that of a human. Recently, people have used AI for such things as responding to people via chatbots and developing codes for apps."
+    publishedDateTime: 2023-06-26T18:42:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/26/456283-ripton-rosen-explores-ethics-using-ai-data-analysis.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Beijing using facial recognition to track down North Korean refugees"
     excerpt: "Monitoring systems and artificial intelligence have increased the risks and costs for those trying to flee the Kim regime. If a face does not match a profile, the police can intervene. COVID-19 and in"
     publishedDateTime: 2023-06-23T13:03:00Z

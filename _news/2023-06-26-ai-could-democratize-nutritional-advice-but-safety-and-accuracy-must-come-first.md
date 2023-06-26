@@ -43,7 +43,16 @@ related:
         width: 1916
         height: 651
         isCached: true
+  - title: "First National Artificial Intelligence Advisory Committee Report Lays Out ‘Logistical to Innovative’ Road Map for Governance, R&D"
+    excerpt: "Recommendations include creating the role of a Chief Responsible AI Officer, an AI Research and Innovation Observatory potentially at the NSF, and a United States Digital Service Academy."
+    publishedDateTime: 2023-06-26T17:06:00Z
+    webUrl: "https://www.hstoday.us/featured/first-national-artificial-intelligence-advisory-committee-report-lays-out-logistical-to-innovative-road-map-for-governance-rd/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 0
 
-secured: "HondqHvf6NyxZ2bV5qSLAwGDcw2ILs0UX32OEqLtquGXw2xwlWGWKeFBUL9JKWKqpm829XpnHb4OsQzo8HiE5FZke1pyNf78JRDbswStvs76tWzx8hKHeFYGJBXRYMcaGZDrOZRt/c7xlJY88aNKviOozq4D8haT+K6DgGDw48puElnoBXUH2lhNIp1Ko4jV8Fk/zxUJseKSC7EQwlKPxn+GWm76slEr/8yKjldyd7lDNXS5RrvkekjU8HQXlFYg8ZQDWNpqb3Ej1MBAiVi8hfr47Rq/2ApXx1yfI6t9AxrrzkvX9v6PXrgg4CQMyFicltsaqHvd8wv24MPFhEl0Ro3vtsV6MlDEAgWgsxMnaUQ=;p2zkQL8k16XNgWWgNNThvA=="
+secured: "ClkqS8IUmU0D6IlgTaqIBb+j/h37A/HpwgTArqrzBm5YbRGgS+Xbnq186VTbW8KFGFLZWfNkFYRAIYHiu6KIbHEJaEz7lKDyGp8iFkhHDhR2t/INIga4tR/NdOFQHKs2OfzRAEgJC8tgv9Dzdv8Cy+OPWiUjYjIRqC1Qt2EKJQSpTre5vWFNcpFqHFg18GJXPYAQfNvOPWw47v2o9StKrMO5+EE7yloJdjbAKWH7espmqn2kxWGG3gdos974BVpL+fSPXTHqpxAhFNqjD0gJ2+9COtkemy58DTICFB/2fRre8HE7G7fq35t2Bbq9+2QeHROxuls4VVL4swaiEA5Yn/LpW1kiexmL1GmIsAG0ofj7m+x61RpySloj4GDicIQUGhmKp7nzC8Gf403wwUO5RnlBs4OvyuvnDGvlfgJ/Z11bHfSdQ7kr0qo5QpC+gXjUApfhRPZMlTEYngCsVQcrpBel0lsQhlfuPfPEvlWxgb7uijGRZabvQHbuFlehZeSDXTk8+H/+34GlNThvZDbktg==;kJShRt1+55hFiGFMCAZ23w=="
 ---
 

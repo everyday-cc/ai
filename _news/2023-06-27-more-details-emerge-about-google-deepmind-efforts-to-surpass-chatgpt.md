@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -72,12 +72,12 @@ related:
     quality: 49
   - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
     excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
-    publishedDateTime: 2023-06-23T13:59:00Z
-    webUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
+    publishedDateTime: 2023-06-23T14:22:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
     type: article
     provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
+      name: The Independent
+      domain: independent.co.uk
     quality: 48
   - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
     excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
@@ -93,7 +93,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
-secured: "NlOJAXCwJUBbgunTfmJUMezyMOalMUXD6wC2lYupdvh65tS1NyxNQkSoxn4mODwOYh/mS1Nl6x7h9XvQ8cVlKzpfVEhemRAQKulGh4N4ZzN694hM2r4VaO7B+0Iz6ID3Lj+ku4enD/ZJoL/jHZD89Cv6Iy9bx6D+OzVAAOuIzuYbHRjBqCM90YrzGhB+uB9y972e9/XFbGCAYzRVDRU/edfaHeMOKCtHnW8x29XQXWwpuBMc9ICfY8BImXvSYtiCM7L3Qju3oqEExpJcE2W1l1x9XNaTXBCIL+ZVGQYPB1gdElmtBolknCUWqatCeOJVUzIi3jJmmwrm4gkb2dYGKESp9xZkfozXg/vBrSzbjI4=;sfJULQkF3YVi+4EWl63z/g=="
+secured: "7SvaH6RWsW8rPaN0dZMn3q+whANDHMOe70XZUaR++Mn32wdV4w6O3uwWql6AnDv/Jq7Owj00Ary2s2WgvAUJ1do9N4rAZyOSvfJXjbIwd7mMlIXk3Wo3kJMoNY993Q6u91WcC1Nj/dEzgozNSoguaE8f84aq1LAZhOBUbFS3NW87H9FG+SK5jGR4XkbSo8Y83tLui7j/rUaOMlpnWejFKZ0PlQFRrYfZ9J5yoc4KeNkZqECqz3XSwE6w2cLJtK2u9NSZHAEraIykVVcspC57HlZH9LobvN+kpu2ssTfbSacB+G2K6+xjtB+D23IJkD053/RuPBzMBr064fFBzfpZrDJx0zNcEOza2zmatiP0ICHwQD/O158i51fDLr8jMq1q2hu10JDW33tQ7tp4SBg429/iM/7yP+9mNv00HVv9zWc6I0Y4gphjuXt1UP18pwPzCnTgg9CqGRXWuzLwUEjPM8LydkFb4r6YUxNXrKasLdqds5BDHZYXheIJk9S/KTwK8JmrCEH8j5+DYn9p11xxnA==;nZteGAbqYkQ1ViDjuibUgA=="
 ---
 

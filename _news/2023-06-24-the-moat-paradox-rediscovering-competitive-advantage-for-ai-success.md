@@ -37,6 +37,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 83
+  - title: "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation"
+    excerpt: "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-06-26T18:52:31Z
+    webUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 74
   - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
     excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
     publishedDateTime: 2023-06-23T13:49:00Z

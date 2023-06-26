@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-ma
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -36,7 +36,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
         width: 1920

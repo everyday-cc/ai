@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353681"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353681"
 type: article
 quality: 74
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Korea Times
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung to mass produce HBM chips for AI, competing with SK Hynix"
+    excerpt: "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market."
+    publishedDateTime: 2023-06-26T19:57:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-Headquarter.jpg"
+        width: 1210
+        height: 765
+        isCached: true
   - title: "Samsung Enters AI Chip Market With High-Bandwidth Memory Solutions, Challenging SK hynix"
     excerpt: "Samsung Electronics leaps into the artificial intelligence (AI) chip market, planning to mass-produce high-bandwidth memory (HBM) chips this year, potentially upsetting current leader SK hynixs market dominance"
     publishedDateTime: 2023-06-26T09:30:00Z

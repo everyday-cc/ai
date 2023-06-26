@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-
 webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 2472
         height: 3235
         isCached: true
+  - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
+    excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://www.benzinga.com/startups/23/06/33011902/this-1-month-old-ai-startup-with-no-product-just-raised-113-million-here-are-3-established-ai-stocks"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Cwoj4fMRmqutZ9OdPwLPBNait47Aj4f3i+1mnrnrcFxNOCF5O6mjSAAen+h6qStiI64EwKx+ylfkuk3UzP3coT0ySahNSuNXgJHxQPWjz9aRl7ob+WbYZGEyniTBJgL4Xn+eZvcY9vnkRTw5qbpDMY96+E/OwPSdaX0WCPR7WjEVgZcboTirhDk9Xv661WiEreYN+NC86f9f+JquaRdATRMDPMehZsUEKjpDbvrIdA2Xf6tQoxdoNKzmLkoZfNmJbXAe985F+xAlfaPK7CQtErJ2ry5anCH6e/Nus0FaIJ90JgdvduBdc5MV2DnhigdRefhhuclgP/5D0YxSU/sa9VrsVIO4oof10IY3qtz3+yA=;kze6s5k1lrfBvdt276r9VQ=="
 ---

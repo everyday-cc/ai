@@ -29,83 +29,58 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT"
-    excerpt: "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories."
-    publishedDateTime: 2023-06-22T01:45:00Z
-    webUrl: "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
+  - title: "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan"
+    excerpt: "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded."
+    publishedDateTime: 2023-06-22T21:41:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 88
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg"
-        width: 980
-        height: 490
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
+  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
+    publishedDateTime: 2023-06-25T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
-    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T14:52:00Z
-    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 63
-    images:
-      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
-    excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
-    publishedDateTime: 2023-06-26T03:42:00Z
-    webUrl: "https://www.techtimes.com/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
+  - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
+    excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
+    publishedDateTime: 2023-06-26T19:57:00Z
+    webUrl: "https://www.engadget.com/congress-is-reportedly-limiting-staff-use-of-ai-models-like-chatgpt-195454777.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 54
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430323/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
-  - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
-    excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
-    publishedDateTime: 2023-06-25T08:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
+    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
+    publishedDateTime: 2023-06-26T03:11:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 53
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/06/Bing-AI-Chat-Image-update.jpg"
-        width: 1760
-        height: 884
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
+        width: 1250
+        height: 834
         isCached: true
   - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
     excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
@@ -121,6 +96,29 @@ related:
         width: 644
         height: 551
         isCached: true
+  - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
+    excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."
+    publishedDateTime: 2023-06-22T21:04:00Z
+    webUrl: "https://www.courthousenews.com/sanctions-ordered-for-lawyers-who-relied-on-chatgpt-artificial-intelligence-to-prepare-court-brief/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 23
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2023/06/steven-schwartz-manhattan-federal-june-2023-scaled.jpg"
+        width: 3000
+        height: 1995
+        isCached: true
+  - title: "Can ChatGPT brew a better beer than humans? Pa. brewery tests AI-created beer"
+    excerpt: "\"Jake Against\" is Second Sin Brewing's newest IPA and was made by the head brewer and co-owner. But \"the machine\" was generated by using AI technology."
+    publishedDateTime: 2023-06-23T12:05:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/news/chatgpt-artificial-intelligence-brews-beer-second-sin-brewing-bucks-county-pennsylvania/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 14
 
 secured: "ytsPUp9S3TEjTWTgrtn32MOzbqpE2o69XTm7pi8Wu03cNQK/ET09D7w84dNn+L0u3dPWFbG1ux8qXxD5OLNE4/ukksWIiEQBHl8bATj1rTBUv2d0/6BInUVc3jOIfhNng5S+95BM9gNSk1nenYVWVyfFDPLiME5l48OJKuvbBrvsTQgeo6U30gkeRi76SVRbHqz3G4nbKVdtCAwWDpp0F3aaq1RjSQGCc23nXgd+Z6ddYc5FIBdXFSV2sV0p2Be/eNsGeQeWzeXRfkzP6SplzflvPV1jtKQeRwjwSS7U5XJ5xsivxdW7mUHU8v7Fr5ojccZOfDuS1S9jtd8c3anNM+moo+LJuvqdUMVuhAUxZMU=;cURu76PrS77JclZKIbIMvw=="
 ---

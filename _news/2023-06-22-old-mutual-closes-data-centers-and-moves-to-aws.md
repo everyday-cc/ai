@@ -183,20 +183,6 @@ related:
         width: 1125
         height: 750
         isCached: true
-  - title: "Old Mutual Completes All-In Migration to AWS"
-    excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-    publishedDateTime: 2023-06-22T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/old-mutual-completes-all-in-migration-to-aws-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
     excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
     publishedDateTime: 2023-06-23T13:45:00Z
@@ -210,20 +196,6 @@ related:
       - url: "https://images.wsj.net/im-805564?width=600"
         width: 600
         height: 800
-        isCached: true
-  - title: "Accenture to collaborate with AWS, Microsoft and Google on generative AI technologies"
-    excerpt: "Global technology consulting giant Accenture Plc said in a series of announcements today that it’s expanding its strategic partnerships with the three biggest cloud computing providers to help enterprise customers take advantage of the latest developments in artificial intelligence."
-    publishedDateTime: 2023-06-22T01:35:00Z
-    webUrl: "https://siliconangle.com/2023/06/21/accenture-collaborate-aws-microsoft-google-generative-ai-technologies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 64
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/accenture.png"
-        width: 1600
-        height: 896
         isCached: true
   - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
     excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
@@ -412,20 +384,6 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
         width: 1100
         height: 550
-        isCached: true
-  - title: "AWS Invests $100M To Build Gen AI Innovation Center, Omnicom Collaborates To Reimagine Creativity"
-    excerpt: "The move, which builds on its narrative at Cannes and more than 25 years of investment in developing AI technologies for customers, is one part of AWS's generative AI strategy to bring this technology to customers and partners."
-    publishedDateTime: 2023-06-22T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/386598/aws-invests-100m-to-build-gen-ai-innovation-cente.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 41
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/06/22/shutterstock_1071420398_Yt7nUaf.jpg"
-        width: 600
-        height: 375
         isCached: true
   - title: "Amazon is spending $100 million to teach cloud customers about AI"
     excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."

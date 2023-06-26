@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/balanced/202306/artificial
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 800
     isCached: true
 
-secured: "WAy2RRPZhBWsgVZOJ2qAqdQ06BWbHJtAi94hSlhL0+yZn1jnYiwMzRa0vAzJtF5iKbwxMCPpTYAvmW9TEyiEaSsyXLDbVM9g392MeGuihzMra4npVeo7j34r7WMphrhb1xvNVhnaVvtF8I7aymXlPbYhn2iYrbJArqUv+oz6sAnlB92+j6FV/MrZ+BulBJjeata8PdSRve4qqGaYgcp/OcSVAKIJEYrJ1ha/o/HaLuAB3NET4LUpfAJoHXCWT2osujbG+r+xweeV8k8zDN/5P++n1ukzbfBhhBYNEIfIC04ORi8S4SFoP5VPfwZpabnzpJMUQg1vm5Hw8+IqikbZJYhlipLG6DFo5zHQEyZM8VU=;1mXUW+R7FT0fBDFxede59A=="
+related:
+  - title: "Artificial Intelligence in Psychiatry"
+    excerpt: "Trained using large language models and natural language processing, generative artificial intelligence ... this could do a world of good for healthcare systems in the U.S. More Face Time ..."
+    publishedDateTime: 2023-06-24T10:04:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 21
+
+secured: "epIsHw21lcPDrhVYuNcjvfnC1q4hs/AeoqYXIV6a8dDkM1EcbMfGC5LO73LE6tc+CJ9fq/QauHwnpQpnHEPS9bN+E4O/FTrNIitIwv3QvBsIhlx7uIqmqcl894whROfKyibJpdD/ivzlKA1BSjC6yl2Xk9gu3wLWwhrIm+AUVAfnCJLX8Btt44EIMhAM7jF6ivooM5ikq/aoLG5wMV7kcd10fc53orT0d0jB7GeesVhP2YUAHKmplB/XaYNKA5t5lGqnT8PIFF/DhFJ9K4kihMoIKxqD+NwT5U4LeGnuCZoWXCJJ2us3/UGYKnIOmQwsWslJBPfTI3lQwTHdpEAYL4v2u7OHXYJVnG6VbkV8fepfJXjQQuAevjzR34XLYp6qwvUDzOzzv7HPv94SEW/6y8i/0BKz2EvZBwyz3fhuZP+8O6w/d9cRSrVZe33vceJDFS6FeulSYdRYbdJ/GhLgBfRYT+Uu+NTSXmlo0CqvZD8KMr8530/itc8IUoS006zEohzQ/NnZ866PXXsOPROXyg==;D6sGmjRonq0lLQcDtxdKng=="
 ---
 

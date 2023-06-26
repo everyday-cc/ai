@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Media Market - Global Industry Analysis, Size, Growth, Trends and Forecast 2023 to 2030 with an impacting CAGR 12.5%"
-    excerpt: "This \"Cognitive Media Market\" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers. This report consists of 166 pages."
-    publishedDateTime: 2023-06-22T03:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market---global-industry-analysis-size-growth-trends-and-forecast-2023-to-2030-with-an-impacting-cagr-125-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6J4J0xqv/ucHCTFCj0rVm+ygrQ5zpZ+9tkycgJMo/SmGgw8nvF2DuIva72VoCQfgR7qor7Ud2eQ56Lv9zZKAv3d427n+NFy+1Tz4Phw1WorfqEyPcQAWWTUZAxC3ssggfA8adtDomutZWtmyBzVwAflnOK2lL0JbZtrCHMtYai7tZ5/vdYWxmDjhFVZ0MaYHw8pTjdjJD/KSO3KmSA88MlyTpSpZN0/hm/GGxyg+pQIHptNjs4pOOGhzBkR8MTIWkgwpq9S4s9dfPebjVaVIZszV4YZ/ZlRfQKDYsDIrdnN3sKCzfXJmTOqXoxgzGIeGhaZJs/5L1Kq2HIsS6kksgCbZ+iakqc8/KZ3E6SL1TzHw94TTFTu+xJuGVCymg+C8G/6tJ8zlWFoTlrAeUjiWouaYGAl+bz5ih5I/2pLfgriJKX12zOinvaZDG3vwb60a1cL/qAiCn3AUg2RAEzEcseeiam5eOlXQqn2uHWavOW1mxp2TvWEn7ZWYp5hIDcKhJRU2S3xBpAR/ZMg64pe3AA==;zXtfYDJL8MWfAQVEpQ+Fmw=="
 ---

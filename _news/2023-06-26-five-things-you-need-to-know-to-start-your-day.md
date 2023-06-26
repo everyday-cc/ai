@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
+    excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
+    publishedDateTime: 2023-06-26T19:18:00Z
+    webUrl: "https://eurweb.com/2023/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask-videos/"
+    type: article
+    provider:
+      name: EURweb
+      domain: eurweb.com
+    quality: 18
 
 secured: "pCbhgMI11VTrIURaJwRTTeRVG6m4qAiuIYvFGI0D7Nzhmt8bzBuTfvYifKiHZwxoaEqCaXuVH8dBu31NySKGES4ZSsWQ35sH9ZV3vsHLeymedxzs6IJiuLUD74USagZLhoTtJEI03WKStCUG6FFCWhrYD+ZAIG+xlAskQc8ErdUdJTEfyqT70NPxQaGQhMQz9eJSoIP++6W3tNz+6xCe/9OJhsE7OL8e9CxQnalCE4mgOZpJa1svSCbjWZWcCecxnTaFuy3jso8B6NvzUdnquaPmi32qFBRIMb7FsEaK30J6XSx6mEBFJiWgBxa3zz8OrQUtERxHdnLgL2dcAHNy7VU6SuzzwhRHDVA/NoDFVzo=;6bLPf0sqrCrhGAFLIFM9Wg=="
 ---

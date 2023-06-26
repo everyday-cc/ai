@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Micropsi Industries’ AI-powered Robot Controller Is Now Hardware Agnostic"
-excerpt: "Micropsi Industries’ artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users."
-publishedDateTime: 2023-06-26T17:56:00Z
-originalUrl: "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller"
-webUrl: "https://www.automation.com/en-us/products/june-2023/micropsi-industries-ai-powered-robot-controller"
+title: "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic"
+excerpt: "Micropsi Industries' artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users."
+publishedDateTime: 2023-06-26T17:35:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/26/9838985.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/26/9838985.htm"
 type: article
-quality: 53
-heat: 63
+quality: 33
+heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.automation.com/getmedia/ff419817-c750-449f-9ce5-b1f82ffe8000/Micropski-news-June-26-2023-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
 
 related:
   - title: "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic"
@@ -35,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 33
 
-secured: "zc34P3SyEcEZjzhW3WKmoEMfXBb+cMwFaFN8zdz1hmtJQefEjHYIkbKoTgMfjXUuHEmNPESzHCltr8y26odserdGAw5lEFvyE7HHe4T19l2Rdeb3fBks5he40Tbdqc/LGqlOYVlN5DpnFlvwvd4k2SPLNnwoH7FFrdgu/gm5M3ySGVyTUuRLKDOxaigUf2YSBS9X8oYTC+TUbJr4SpjkFw+GK4/2vwrjP67Mu6NQkEv/W1gZ/flP4X0JkuW3LAkpvGKVacYmyRFHjHhT9d6ukaLdxGtoFPiTugymMgTJ8h9dTUOSK4DMBLCOAaZYxaHA7HgJDMYt/vtQX7oHkUxv7Tmhhh7OLZSn1gSBooe6f/8=;yrqS0CoYYfcgcgp//xKGag=="
+secured: "02t8Pe8jCbEBYMNJ0H1wI7YPy0+9LyrqraNnk+YqVFbGcLgu8FTdrOIfXbZEo1EeTHOYRPqlpOiu63cXqiQTCX4t7Oe+szRjSJO2ZaPtMQ+80aUdZAt5M7oJIStq+UzRla7PhjH2X3Wdsk98xvRSgsbB4Z9tLBuJsBgpIvOzAqLzW1cI3AKz19qpIBkyXSJhYT8KvbjCge1FvhVabuNQ4BL+G0FJKqQwCwUSM0SvGFPbWMykFOLXp/hNZ+EsdY92EKkkHXRgzZEPSzHdkghfsOVE0f9QX/WoEcwZEszU+X3p7FheyJ4ZtSSZ4FGFJ3/kXsnZqEgjRpkBdxeHUpO1IGXLRgpGg4J93mqXP+fK4kM=;LRGIFZ7OGprrf49xjMCBOQ=="
 ---
 

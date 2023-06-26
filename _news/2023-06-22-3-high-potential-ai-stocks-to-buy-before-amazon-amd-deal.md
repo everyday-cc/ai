@@ -37,6 +37,15 @@ related:
         width: 1024
         height: 516
         isCached: true
+  - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
+    excerpt: "Artificial intelligence (AI) and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the technology of the future."
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "smAd4yGpDBmeRDLaAKFZcxwHxrwzBNoaxt/LwQRR1rGZFvu9E65HWLBQykNhuTfNUnkAVX86Cq+oY9F/CuyfehoBDUV3/arJ1s7bY2x1FpSgpo6YcKQx4OPyFKzPcfK0KYmn+YnwgDxi/4Zps9sITmI2Nwl6BH4ZA5d/4w73pm+ZYmPWRqpsTY4bcECeh0zgE48hRcSvHq2IpclUhdBjzdcXPzyUg9LkaLEqKj4q3jzFTgydERIRSLuA3KoqcZ7g69hcQ4HKcmyIfjhwW1m/gvVtwsiCpdUj9CyDuFGOfFCaPI3151CK1p1mBNsxAE73JJBwb72RR4jkFjD/YVZ6L4xAskiR8Gd9bZnUIh7zBxRH8coxlaWHBxbSAA9791Z8m/J0zLr3wtGd4b03BYobsRS5C5SkljgPZECA/4eCdO0BgAm2wsF9RfRpfVGUyU22kDAj5U83+vWUKuv5jNMcn7kOgm5iRiaFH+GcESsr71ZCQJK50rRDKcN4bjuhQpJg3qQu7gnQZLcJhdUcDJwK+A==;InV3gglzxHxKRHrmkgD8EA=="
 ---

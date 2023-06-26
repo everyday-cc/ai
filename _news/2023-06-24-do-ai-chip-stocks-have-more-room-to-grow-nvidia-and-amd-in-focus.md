@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
+    excerpt: "Artificial intelligence (AI) and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the technology of the future."
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "3 High-Potential AI Stocks to Buy Before Amazon-AMD Deal"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors seeking to capitalize on the rapidly expanding market should pay"
     publishedDateTime: 2023-06-22T10:50:00Z

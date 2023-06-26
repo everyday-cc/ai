@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html/amp"
 type: article
 quality: 74
-heat: 74
+heat: 77
 published: true
 
 provider:

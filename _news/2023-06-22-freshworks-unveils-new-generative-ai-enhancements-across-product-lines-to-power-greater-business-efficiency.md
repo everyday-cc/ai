@@ -210,6 +210,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The best use for generative AI in healthcare"
+    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
+    publishedDateTime: 2023-06-26T21:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dataiku unlocks the potential of generative AI in business apps"
     excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
     publishedDateTime: 2023-06-26T11:12:00Z

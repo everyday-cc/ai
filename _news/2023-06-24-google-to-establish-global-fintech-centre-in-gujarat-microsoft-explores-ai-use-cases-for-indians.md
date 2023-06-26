@@ -9,8 +9,8 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-f
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: Goodreturns
@@ -28,96 +28,111 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure OpenAI lets enterprises feed corporate secrets to ChatGPT"
-    excerpt: "ChatGPT, which was introduced to Azure OpenAI Service in May, by default keeps records of all conversations, including queries and AI responses. Remember that when feeding it internal sensitive information – crooks love vacuuming up credentials to ChatGPT accounts and thus access to any chat histories."
-    publishedDateTime: 2023-06-22T01:45:00Z
-    webUrl: "https://www.theregister.com/2023/06/22/microsoft_azure_ai_data/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/22/microsoft_azure_ai_data/"
+  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
+    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T05:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 88
-    images:
-      - url: "https://regmedia.co.uk/2021/05/10/new_azure_icon.jpg"
-        width: 980
-        height: 490
-        isCached: true
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 63
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "How to control ChatGPT with your voice"
-    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
-    publishedDateTime: 2023-06-23T18:02:00Z
-    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
-  - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
-    excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
-    publishedDateTime: 2023-06-26T03:42:00Z
-    webUrl: "https://www.techtimes.com/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 54
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430323/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.jpg"
-        width: 1500
-        height: 1125
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
-    excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
-    publishedDateTime: 2023-06-25T08:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
+  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
+    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
+    publishedDateTime: 2023-06-24T07:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 53
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 33
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/06/Bing-AI-Chat-Image-update.jpg"
-        width: 1760
-        height: 884
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
-    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
-    publishedDateTime: 2023-06-22T10:00:00Z
-    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
+  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
+    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
+    publishedDateTime: 2023-06-26T05:02:00Z
+    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
+    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 25
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 29
     images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
-        width: 644
-        height: 551
+      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
+        width: 1320
+        height: 743
         isCached: true
+  - title: "Google to set up fintech operations center in Gujarat"
+    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
+    publishedDateTime: 2023-06-24T02:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
+    excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
+    publishedDateTime: 2023-06-24T07:16:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 24
 
 secured: "um0fEXA2hOu+tGZOKAUZ5ZhEnDGwX8166+LXDPdEv0nGyJpJEdzS0pCUkg/Q/6SFdIK2Yfsn7tGea3vZON64rsH5SOrYNEYoI83sP5YR7HNVJqbPcQ0lSlmj1A7N3xdfO8dwkEFvcs7dv2K0ipl5AYx+u/E2rZx8GRqZXJ9AoNoPkPdKEjGEYR7RXkSWXdhy6CpuXYxL/OtFDKh42CiPlmNJhWz5rwnc+3MkTgzE5d2uDriok9ypvDNM5TLNWK67kTC5R0QlSNsYjX+RL5wZE71Ca3lQC0K36lO8a8CmRKS79hkjqciFue76xq5fL0FBX77OLQ69Ouobz2ghmaVzccJs3jWJy+ZgxlkAIl8ykPrsnOxu5AKCqumULHskJtZd2oSZfEVdcGehlYVkUvWGOmGRefVC+3FlDAS8tLFotKGJKGCKkd6Q7OEy/q0IpKNUw2ZDKDhnpoRLpffAAUXHS9DvXQl12/ZIA1N4cil9iqpGS3S8/SoWAFGtGJ1jERLUAAgjo2ThkalcJrCAJUgNmw==;GnTkr+b9KUY/Z0xr0COjSw=="
 ---

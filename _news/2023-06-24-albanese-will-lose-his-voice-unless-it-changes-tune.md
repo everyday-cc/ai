@@ -35,22 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Anthony Albanese claims Voice will lower government spending on Indigenous issues in latest bid for Aussies to vote Yes"
-    excerpt: "The Labor leader argued that the Voice advisory body isn’t a third chamber of parliament but that it could potentially help direct funds on Indigenous matters more wisely. Both the Yes and No campaign are ramping up efforts to convey their side after a ..."
-    publishedDateTime: 2023-06-22T03:51:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-claims-voice-will-lower-government-spending-on-indigenous-issues-in-latest-bid-for-aussies-to-vote-yes/news-story/64bd63e6c7178b1ee279a4a416dabb32"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-claims-voice-will-lower-government-spending-on-indigenous-issues-in-latest-bid-for-aussies-to-vote-yes/news-story/64bd63e6c7178b1ee279a4a416dabb32?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-claims-voice-will-lower-government-spending-on-indigenous-issues-in-latest-bid-for-aussies-to-vote-yes/news-story/64bd63e6c7178b1ee279a4a416dabb32?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 35
-    images:
-      - url: "https://content.api.news/v3/images/bin/bed2797d03e78b061eb0a41d64954d44"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Anthony Albanese rejects Peter Dutton’s call to put Voice referendum on ice"
     excerpt: "Anthony Albanese has rejected calls from Peter Dutton to put the Indigenous Voice referendum on ice as some opinion polling shows support for the proposal is lagging."
     publishedDateTime: 2023-06-25T05:40:00Z

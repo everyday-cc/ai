@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe launches massive AI test facilities"
+    excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."
+    publishedDateTime: 2023-06-26T19:52:00Z
+    webUrl: "https://techxplore.com/news/2023-06-europe-massive-ai-facilities.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
     excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
     publishedDateTime: 2023-06-25T06:52:00Z

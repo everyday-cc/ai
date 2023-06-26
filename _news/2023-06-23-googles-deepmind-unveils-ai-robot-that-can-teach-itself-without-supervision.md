@@ -2,17 +2,17 @@
 category: news
 title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
 excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
-publishedDateTime: 2023-06-23T13:59:00Z
-originalUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
-webUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
+publishedDateTime: 2023-06-23T14:22:00Z
+originalUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
+webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - Google AI
@@ -89,7 +89,16 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
-secured: "qvp13EPPWU5i35p7L1BIQXS9P11pjdnMYYH89DwAxQBOm76pDZRZPydQlC9v+AVbc0yP2vdaN91f8w9UCQxnH8FIAfwpAwQu1QrmXnzX9fS2D23dTozUBhZg8v/IKjfLKkM2CXME1mkW3TPxWoc14dfo5yUPwt0PPo/oA+Fn+ksnO7/kEcZqPl6zGGMJYzBfZIigM3YF8vsqweVPm2KuHEPOv981Lbw6JOE42pN9Tg6wV98ldUyFp6EM39dRlufA/QyACfb0acINLKLjfEsUvu37fbE8UuCF0JT/mxz+zD2RyfY8R0iE3apLeAJyybBHDQZ8nQmOFmkuLJGR8VbipQ6DO2QFHQhFUE66LuGrgmE=;nTpjmyEgRxg/+OxmSzOM5g=="
+secured: "ZdGw8kxKfdn/1/a96FIRqOcNuVrFfRxZP2z3gQXgFN8h1KEJI5HvDjE8r8lj2La5aVergJB9tm2txeclFnrhiKyRrB93KCb7usyT4xbpRlU4yaTUidewh2Tiz39rEUYL9+rzwYF26bw3Yl9muVlijzRB3Va2feu4WL/fdCRZyUAcDlCGsxfBK1xFC0uJqnbTN77tn9hUhYs829e0HPpq2OHhEj5392CMUVI/D1xFhDvvr86RXUZcn8cO5Ou/91Qqd6hvMxh0Tj0X4PIkxKwHAb2Xe52HFq3Fx+UcdamWnI8AaspVPwJBa2QK94rQfdU9D1G2jdanXH/3qRsLJQDJ0/iEiPD3OPuNikTF0TiGZ/8=;7ruWpIxI+RjHVO+xgz2EPw=="
 ---
 

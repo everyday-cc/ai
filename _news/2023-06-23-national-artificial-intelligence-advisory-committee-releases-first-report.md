@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-national-artificial-intelligence
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-national-artificial-intelligence-advisory-committee.amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: techxplore
@@ -43,6 +43,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "First National Artificial Intelligence Advisory Committee Report Lays Out ‘Logistical to Innovative’ Road Map for Governance, R&D"
+    excerpt: "Recommendations include creating the role of a Chief Responsible AI Officer, an AI Research and Innovation Observatory potentially at the NSF, and a United States Digital Service Academy."
+    publishedDateTime: 2023-06-26T17:06:00Z
+    webUrl: "https://www.hstoday.us/featured/first-national-artificial-intelligence-advisory-committee-report-lays-out-logistical-to-innovative-road-map-for-governance-rd/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 0
 
 secured: "wOoRQ+dOH1ChLcbfhtmtzgv9TN0LJCKQZES8M/xE082Wwm3thkQ3ENgicbiCG4c2+yys0sI1nRG2W5laTRw7ZNglema9PkwvkIFpjmdhf4jb6qYSbcWcyCRAeJHx1XmQMu2TCjoT5hBgCmJL9fkq1A4LS5nCvcE4pT1IyCLnrYHu1yQL5visXZHJjQgtWLIgWvUgQfRjts8Cpd1QMefXur1dfGUfYqRmd+a7uTGpoqHqjXHEYQxrEYirDERFzHk2XYRcfvIlO3ZuJla90O+DR4gNLgEz7cZnIzP0q5gUJK9fu23sOXpgB9umA6k323jwTem7cM4a5rBgAjRVyvgmJNHHf9DWyFQ7UY050M1MPmvgmdWUWrFpCe7/2ds42UXHbSf4AzlQ82ZbBNh3w2RzzQcXMJNyCjAzVpSr4fqPrQJCsq7csP6KC4uelx478jIiIcRdWj62g1O9EmZaVf15B5xZzEce27NwAkL08UOKhKP3xouSa637xhU5zUwZsbKmpz7kWyjSBktZTojkZYchiA==;LfItsxMErZladfLcigsCVg=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 375
         height: 225
         isCached: true
+  - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
+    excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
+    publishedDateTime: 2023-06-26T19:18:00Z
+    webUrl: "https://eurweb.com/2023/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask-videos/"
+    type: article
+    provider:
+      name: EURweb
+      domain: eurweb.com
+    quality: 18
 
 secured: "/fGVPDr++wqg8H45srSQ8TMbIyPXtOA6cf+W0aWxbeSuO28dgfjj3wpoxBT9j4ss4uggMiFOX626wiXdUlsV4YP5MOWMLrJFpWki4TD7N8OQT/cmKPK8swasLuVd2xhIbvcKCXQVgthDWq8rvwhty9WWYtW0bA4l5HFB3pZzP560Y74gLA+cJ/Q1Jw4UPzzS8r9qLy3XvP4rAHHGpK2koMI8ceb7lx7qxJs8NkPaXeaOcx2fn3W8FfXz7K8MiGzVVthX8x+VlC0t2lpXhUW1WC0S1TjrIZTiCWbJkM+0dJzUHI83t/uYc4JtKkXRm0tc7jE51TKCjG+QdqGcPoFhYWkwwkovgc9T+vDPN+syuHVEJMmsKpktSp+szenm58PMd7Cz+EpEHIK7NgjdJyj7oUbFUfa6awXACPx8E0GXlJ5Vagk0HcSPra0IT459bcDM6+uABn+vvTXjtS3GfBq+MQsmErHT/U88EaRd1dVJYeBuM/wKfFY3R3Tr9MQKf3E4yIRwRfMRVfY5C8ClMjtFEQ==;jp5+RbS0afrbdFzKVaipcw=="
 ---

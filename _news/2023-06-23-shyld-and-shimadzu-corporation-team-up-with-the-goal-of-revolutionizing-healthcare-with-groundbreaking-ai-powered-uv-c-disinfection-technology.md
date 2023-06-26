@@ -43,6 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "8ztZE+lXIgrVZ/gOC4DK3hPcZ8B28nUzKR8NT5sB7PnlPIo+jneFkKCqceuOPTd5FdTFSPTkVlZNwJj/R1mqdvBksPTgqrdJzkl84wPa34SUeYZBn7EeM5DfaqxYJ1wtqwvlwUoMDKXWMw5d7frcatAVgQXUnt/QqqQ+lMRe38IZb2aG62sp57tHXqTgktAeymbfvO9mRJAzHeQ0TIF3EKkgeqHql/cbc8ux1rL8M/Wy7fRjAVFSWfCNMkjh5Qh/RsIoFOVNubE2BpMzLQweh9VtTlYrsH/S6pmexYZEiOFRHoukoeY7ip2+Eqb/hCG2738NAmt1mILnkwbFuin5S8lMmphsIYf/ANrrxtmsg2U=;900kMHtUPFDen0YsC35gVg=="
 ---

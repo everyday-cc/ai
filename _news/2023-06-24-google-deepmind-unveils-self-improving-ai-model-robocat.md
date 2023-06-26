@@ -68,12 +68,12 @@ related:
     quality: 49
   - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
     excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
-    publishedDateTime: 2023-06-23T13:59:00Z
-    webUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
+    publishedDateTime: 2023-06-23T14:22:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
     type: article
     provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
+      name: The Independent
+      domain: independent.co.uk
     quality: 48
   - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
     excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
@@ -89,6 +89,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
 secured: "l0AH4hu51OAVKbxXBu5mpNYvgstRe0ch0C82OWCEsJwXZxszBmD3sY4eDaJYNWxg6GO+DIjjtSBzd+MYZ7vB4kbu1guT1BruKLkDUtnfaHttgfPilGBTbrovoC4SybotpZS2wq0qljduyr2P1LVR59OWe8ZMn3gQph7GE+qnbqrw9wK0vx1UK8UjNuNiYll3rDXPPezCmoYJzHYmNnEfL7yggTcVSdQ4sUC5iJgTwtm/a6An2OmrThr1VDwfKkkDGih9Vj+K1u+E/2PEq+VpdAiqxdaujpGaH2XXHdnOXEpecnbpbNQRfpN7Oj1iwUHQ9+mNtSdGvELTxX+JLJ6PbNuMZHfy8rqwtpshcicS35fE+NRx1mXZzo9VMHJR9anDUzHFuBxEz6v85Xqh0lDjFmmaWMQcTUCcQFix8qD9C1dDmxO0Of5yPNybrIQdmBdfkOBZhbqfommf9Ax/dS6/AqXwsLLQOqxxX8XpRRSWRXSMo2kVQXJ4aehtZihDf4zsT99/3jzVbOEXvkvJxH86yA==;gAX9QsSECnm/X2VmRyFYjQ=="
 ---

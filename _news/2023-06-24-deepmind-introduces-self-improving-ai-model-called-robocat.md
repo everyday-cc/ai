@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DeepMind unveils self-training RoboCat"
+    excerpt: "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\""
+    publishedDateTime: 2023-06-26T20:10:00Z
+    webUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI revolutionising medical diagnoses"
     excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
     publishedDateTime: 2023-06-24T05:57:00Z

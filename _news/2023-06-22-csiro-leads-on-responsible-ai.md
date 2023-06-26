@@ -202,6 +202,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The best use for generative AI in healthcare"
+    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
+    publishedDateTime: 2023-06-26T21:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Freshworks Unveils New Generative AI Enhancements Across Product Lines to Power Greater Business Efficiency"
     excerpt: "Freshworks chose to integrate Microsoft Azure OpenAI Service into Freddy AI solutions to ensure the privacy and security of Freshworks customers data. John Montgomery, Corporate Vice President, Azure AI Platform at Microsoft said, \"Microsoft and Freshworks ..."
     publishedDateTime: 2023-06-22T06:13:00Z

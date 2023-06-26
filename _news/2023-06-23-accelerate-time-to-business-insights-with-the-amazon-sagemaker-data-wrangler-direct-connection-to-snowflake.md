@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-time-to-b
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-time-to-business-insights-with-the-amazon-sagemaker-data-wrangler-direct-connection-to-snowflake/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 1020
     height: 509
     isCached: true
+
+related:
+  - title: "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK"
+    excerpt: "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas"
+    publishedDateTime: 2023-06-26T20:42:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg"
+        width: 1023
+        height: 507
+        isCached: true
 
 secured: "7uEusvlsXPtAmHEo4B826reJJHOri9gqjfepc+TGXF7vGCFmQ896tmLXtruWHZYz1yKAXIPqY9GZy2G1gxzz8lWLsI/3nihTg2ASQVDNyPaJob2jH4CzzHlWFUPil7OfpPgx46BqEROyjJFPg0TcPFyq+ewlki+3X8whElUI5sdFdM5lYmsfdDQPfOAJ3DPiJQql7zX5vE3YDq10YOs0L5Z+kjFRDWRiaoDszwakdmslxhKSXcIbGWsAo9rny2IVgPCXdYN3XUoJ4StQSgz2zPCUW4dRaAf/u+G3IvyVnG+NswqC21/9kIhvJl///ZLlbwvOKs7WLsi6WKsDqpZhGKHzA1jb+eIUSM+UBkwWji0=;t2drvfG7wY9DQs198cHUQw=="
 ---

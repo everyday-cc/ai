@@ -61,6 +61,15 @@ related:
         width: 1199
         height: 607
         isCached: true
+  - title: "AI will change software development in massive ways, says MongoDB CTO"
+    excerpt: "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter."
+    publishedDateTime: 2023-06-26T18:09:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
     excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
     publishedDateTime: 2023-06-22T18:51:00Z

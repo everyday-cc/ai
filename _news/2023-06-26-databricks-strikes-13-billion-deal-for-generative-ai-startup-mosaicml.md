@@ -3,8 +3,8 @@ category: news
 title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
 excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
 publishedDateTime: 2023-06-26T10:40:00Z
-originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06"
-webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06"
+originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=djemVentureCapitalPro&tpl=vc"
+webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=djemVentureCapitalPro&tpl=vc"
 type: article
 quality: 67
 heat: -1
@@ -127,7 +127,53 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Databricks acquires AI startup MosaicML"
+    excerpt: "Databricks has agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at US$1.3 billion ($1.95 billion), marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
+    publishedDateTime: 2023-06-26T19:51:00Z
+    webUrl: "https://www.itnews.com.au/news/databricks-acquires-ai-startup-mosaicml-597337"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/2023-06-26T155333Z_1_LYNXMPEJ5P0LQ_RTROPTP_4_MOSAICML-M-A-DATABRICKS.JPG"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Databricks To Acquire Generative AI Startup In $1.3B Deal"
+    excerpt: "Data lakehouse vendor Databricks has struck a deal to acquire generative AI platform vendor MosaicML for approximately $1.3 billion, Databricks said Monday. With the acquisition Databricks will provide customers with the ability to “build, own and secure generative AI models with their own data,” according to a company statement."
+    publishedDateTime: 2023-06-26T20:22:00Z
+    webUrl: "https://www.crn.com/news/software/databricks-to-acquire-generative-ai-startup-in-1-3b-deal"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0280-17de97d4d622-cf68a97a36c8-1000/ali-ghodsi-databricks.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Databricks acquires generative AI startup MosaicML for US$1.3 bil"
+    excerpt: "MosaicML is a generative AI platform known for its state-of-the-art MPT (or MosaicML pre-trained transformer) large language models (LLMs). The platform has over 3.3 million downloads of MPT-7B and released MPT-30B, a more powerful version of one of its open-source models on June 22."
+    publishedDateTime: 2023-06-26T19:32:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/tech/databricks-acquires-generative-ai-startup-mosaicml-us13-bil"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
+    excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."
+    publishedDateTime: 2023-06-26T19:33:00Z
+    webUrl: "https://insidehpc.com/2023/06/generative-ai-databricks-to-acquire-mosaicml-for-1-3b/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
-secured: "FtNhgDAufcXUcco45HdPcW1qi83V3dyGweU0ZVey4y0PGQToXNSUqk96zHrwQjNhhydK02YjSH/vNKUZWcSTdpL5ptHA67EXJsPonn1i3xzTK/lvgVQCtvdGTre8QNmzhBFX9KuzYK2ok97r5jomTC//B88ccjdmbiDa01YpSVIxHbFytKfO53IODSZRTjZnn7EY4I4vXJIk7OigqoF8jXqs4fdv8Clty3EYGWPvAz1qsT745tER2J+MOSiXlODY21lclZ+m0RFr/jcsyLqV9ZDkCQYusAi1hvUA0K3PuwGJmK1DMXo61D5i5GAOP//KMaScD5hOwKuDXALK9oYhIdE+0wSOjpvmNXpGVDoQarI=;PvEspYcFUCityMZSeJTx3g=="
+secured: "ruCjbhPjWfr9PEZsF+ZhxsSyUf1oZ8QM2+SPZIiulKzH2/hvPuPMo8T8Od4pdm0iBAmLgW0jXU8PbyHGIOxnzFB5mUsqRoBhUhIy6+3J9TFypRTVYj2LT03Gekx6ejMppXUoJxsmadgVXPcepe5UjKp0e1TPcDfHXNyCH/F70aQbr+GqP0SeP0jFRvg8U0UI4ND7c1qh9MQa/sfB4JeRpvCVpjoWhzVGSp8F+YiOjLf0SJJ87mkNY8VjOyVZnwB2o4wI38RxUidNMz9uTBalGCHrvFTSL6W8tuleZaayyoWerPknfigACXegySWrXH2866kM37Aj53s0Q43eBkx4QtW73nG+JpD7PJbdaM9wy9Y=;MK8dUftKl/c8MFdrj3U3/A=="
 ---
 

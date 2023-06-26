@@ -71,12 +71,12 @@ related:
         isCached: true
   - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
     excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
-    publishedDateTime: 2023-06-23T13:59:00Z
-    webUrl: "https://www.aol.co.uk/news/google-deepmind-unveils-ai-robot-133922017.html"
+    publishedDateTime: 2023-06-23T14:22:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
     type: article
     provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
+      name: The Independent
+      domain: independent.co.uk
     quality: 48
   - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
     excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
@@ -92,6 +92,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
 secured: "AGl4ZDSX0iowIyt/Lw+v4RV5PjiCHgujGGqlRK1fWuuGIee6iHG00tZXyV26z8qASWYChkggGG99ohet9Ptzg5Jh/4gKlhIerNpFZTd+uf+WRM3+vwiPkSgq4vEeDWsFiA7HaUCO1mDF5YRwaYxDF3RLhZbuw9AGcdCkeQr58fN6TcdCa3bGHdVRRTQgevxFaSRTP2Vz4lhdtO3prbTbsOfZyqLw5l/wLgLSOThgPLTmvGv8e9pmi+wH5vT/urnAlvoryGeEIilNHzhWSXdR3Z7jjz5zd1GvwpCTBX/Jp1/kcNZtSXjVOIIVLegrYnlvI2o5PB2a+eC4YJPnt3cdoLIHYxZ66CTrbv1L5htFgA4J0BfqfYSCpnKMxNfwT7rU9A00zwEpNJbb9BfsAXk92+iXbbczqbrxVhopqpqU+zXE58k+0V6AQ9XeZyJFjHOKJi2GDIQEeRUZC6hUldOc+Zqkn6YgYWCe9f0y02nZN11udOvXnusZJN3gp1UOmWo+jPIWIOPwIg8B+FRYeynrmQ==;oHfzco2FqiMaWue6MAR2ng=="
 ---
