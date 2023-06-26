@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-05-19-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 359,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-05-18T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-announcing-the-updated-microsoft-sharepoint-connector-v20-for-amazon-kendra.md",
       "title": "Announcing the updated Microsoft SharePoint connector (V2.0) for Amazon Kendra",
       "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
@@ -1112,57 +1164,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-dr-marc-siegel-explains-how-artificial-intelligence-could-be-helpful-in-doctors-offices.md",
-      "title": "Dr. Marc Siegel explains how artificial intelligence could be helpful in doctors' offices",
-      "excerpt": "Fox News medical contributor Dr. Marc Siegel joins 'Fox & Friends' to discuss the benefits of artificial intelligence in the medical industry if used with caution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6327743025112",
-      "originalUrl": "https://www.foxnews.com/video/6327743025112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2461ffba-8aa2-4447-b9d8-e50d1bc87995/dddf898f-baac-4032-b688-4969ef7da9f3/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

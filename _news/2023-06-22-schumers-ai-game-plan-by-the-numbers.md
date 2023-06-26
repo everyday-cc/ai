@@ -51,20 +51,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Chuck Schumer Joins Crowd Clamoring for AI Regulations"
-    excerpt: "Congress doesn’t have a strong record in addressing perceived harms from technology."
-    publishedDateTime: 2023-06-21T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/chuck-schumer-joins-crowd-clamoring-for-ai-regulations-7fd8a882"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-803525/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artificial intelligence is a ‘moment of revolution,’ Sen. Schumer says in urging swift action on regulations"
     excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified in recent months with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
     publishedDateTime: 2023-06-21T19:56:00Z

@@ -31,15 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 83
-  - title: "The creative and transformational possibilities of AI"
-    excerpt: "James Manyika spoke at the Cannes Lions Festival about AI and creativity. Read excerpts from his remarks."
-    publishedDateTime: 2023-06-21T09:00:00Z
-    webUrl: "https://blog.google/technology/ai/ai-creativity/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "The moat paradox: Rediscovering competitive advantage for AI success"
     excerpt: "With the right vision, agility and execution, businesses can build rich AI offerings and compete head-to-head with market leaders."
     publishedDateTime: 2023-06-24T16:10:00Z

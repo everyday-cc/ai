@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "HPE takes on AWS, MS, Google in AI cloud market"
-    excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
-    publishedDateTime: 2023-06-21T09:01:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero3MZ346xqQb6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AWS invests $100 mn to help customers build generative AI solutions"
     excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
     publishedDateTime: 2023-06-23T10:23:00Z

@@ -37,15 +37,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 83
-  - title: "The creative and transformational possibilities of AI"
-    excerpt: "James Manyika spoke at the Cannes Lions Festival about AI and creativity. Read excerpts from his remarks."
-    publishedDateTime: 2023-06-21T09:00:00Z
-    webUrl: "https://blog.google/technology/ai/ai-creativity/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
     excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
     publishedDateTime: 2023-06-23T13:49:00Z

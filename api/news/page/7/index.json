@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-20-how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software.md",
+      "title": "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software",
+      "excerpt": "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "originalUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg",
+          "width": 1400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters.md",
       "title": "Nvidia AI Chips Getting Sold In China's Underground Market Amid US Sanctions: Reuters",
       "excerpt": "Despite U.S. sanctions, high-end Nvidia Corp. NVDA AI chips are being sold in China’s underground market, Reuters reports. Underground Market: At the Huaqiangbei electronics area in Shenzhen, vendors discreetly offer Nvidia’s A100 artificial ...",
@@ -1199,58 +1243,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-73-of-consumers-trust-what-generative-ai-wants-us-to-see.md",
-      "title": "73% of consumers trust what generative AI wants us to see",
-      "excerpt": "Eager to use generative artificial intelligence to save effort and time, most consumers trust content created by such tools, including ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b3ee67379bffce0c874b5c8b8a44664e3895e0f7/2023/06/19/17423dc3-cd27-4476-bf7e-d899a3679ceb/gettyimages-1490711125.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "publishedDateTime": "2023-06-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

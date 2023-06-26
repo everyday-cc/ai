@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-23-ai-threatens-many-jobs-but-workers-still-plan-to-quit.md",
-      "title": "AI Threatens Many Jobs, But Workers Still Plan to Quit",
-      "excerpt": "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
       "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
       "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
@@ -216,7 +165,7 @@
       "originalUrl": "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 404,
       "tags": null,
       "images": [
         {
@@ -873,7 +822,7 @@
       "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1028,7 +977,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1267,6 +1216,48 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-schumer-reveals-plan-to-regulate-ai.md",
+      "title": "Schumer reveals plan to regulate AI",
+      "excerpt": "Senate Majority Leader Chuck Schumer has revealed a strategy for congressional regulation of artificial intelligence. The plan comes a day after President Biden met with experts on how the technology can impact and amplify issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
+      "originalUrl": "https://www.nbcnews.com/now/video/schumer-reveals-plan-to-regulate-ai-183968325726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687402875650_now_topstory_chuck_schumer_AI_210623_1920x1080-7k71gm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183968325726",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183968325726",
+      "publishedDateTime": "2023-06-21T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

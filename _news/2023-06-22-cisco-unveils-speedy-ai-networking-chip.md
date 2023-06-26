@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
-    excerpt: "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms."
-    publishedDateTime: 2023-06-21T08:05:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 66
-    images:
-      - url: "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cisco Launches Power-Efficient Networking Chips, Takes on Broadcom and Marvell in AI Arena"
     excerpt: "In April, Broadcom launched the Jericho3-AI chip that connects up to 32,000 GPU chips. Price Action: CSCO shares traded lower by 0.19% at $51.45 premarket on the last check Wednesday."
     publishedDateTime: 2023-06-21T22:19:00Z
@@ -89,6 +73,6 @@ related:
       domain: analyticsindiamag.com
     quality: 34
 
-secured: "Y17nvUNfNIYpB5n/HJOb/H313WcUvwAMBQDTDq1+kBnW9Z7O/uWqfyBTL6/7TQDLxQ5b+6/Wn2vza8ntMD3r2SIUkKMQPfbAf4Uti+OO4eGbjjJSj7PuP5Lqgv8HTMyNJCRrAEZum6o+jxLBOclfYdh9NOqXpF0smG/56BI9LQ5p36dvl7fXSUfSuKSgz9YStudOykV4kNw3VRM17fxIrWhL1zk34drPl5qTJ4ZyKmJTEpDoBxqETRXleVzYuqxQj3s6fJPNh2+qIL2ueI/67Vi8vKfUhfVHXMm6w1e746DZd3tB5LiHg1TSfs2MM0cEShqjWlw9BKn4ABCtiqjZqJOHEPNIFgUsQ8POim0wwtI=;4/SPjmTqRgYtsvdxzSCYyw=="
+secured: "kYyC2e7qosp6+CKOF65Zu+Wfhk9xGgyUmrDKPhd6o3pzMaDDL2Sgqhai8BFit+7I8aFobVUYMV6K8qLHZeOllUfP7beOATd7CVadHeX9slq1TRdh809WIwOfPb4Fgh87SLCSTCBInMY559EMd16BSfAnQYfEeaqonr5n4TRVxEEGxXuwwYy4cuYhx4v0pYDB1Ny18RBa5IDMFjyTktx2ux2sWMXkroW0UjmIVVHPphbBrqqh8wa9YOuJHbZVwkmhdZ5ZdaC190z+M8yp/QL4Bx4r0OupqmVb+qGz7czS9mkC0rwVXLipAx5I6JZ+tLPCJ8MciC5n9AcBzoZ18WYvlqMgi4ghvL2z8t6p7aF4Ucc=;lbuM0WuRvFmIX7bUQ9KuwQ=="
 ---
 

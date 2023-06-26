@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/stunning-midj
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

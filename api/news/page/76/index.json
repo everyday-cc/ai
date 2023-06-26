@@ -2,6 +2,57 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-05-07-google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos.md",
+      "title": "Google Reportedly Upgrading Search With AI Chatbot, TikTok Videos",
+      "excerpt": "According to the Wall Street Journal, the search engine is planning to add AI prompts that will pop up in response to queries that can’t be easily answered by traditional web results, as well as swipe-through video clips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos",
+      "originalUrl": "https://www.pcmag.com/news/google-reportedly-upgrading-search-with-ai-chatbot-tiktok-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01rDZGzDgqaHe7cTh5kJj9Z-1.fit_lim.size_1200x630.v1683393323.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
       "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
       "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
@@ -1150,58 +1201,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-biden-administration-takes-action-to-promote-responsible-ai-innovation.md",
-      "title": "Biden administration takes action to promote responsible AI innovation",
-      "excerpt": "The Biden administration pushes responsible AI with R&D investment, policymaking, and assessments of current generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "originalUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/annevb_chatbots_and_AI_everywhere_all_at_once_-_tech_colorful_e_beb92de9-8091-4437-9e29-d568ea8d4b74.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/biden-administration-takes-action-to-promote-responsible-ai-innovation/amp/",
-      "publishedDateTime": "2023-05-05T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

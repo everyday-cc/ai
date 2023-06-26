@@ -68,6 +68,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 35
+  - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
+    excerpt: "Despite the potential dangers of what he called an exponential technological shift, Altman spoke about several areas where AI could be beneficial, including medicine, science and education."
+    publishedDateTime: 2023-06-26T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/26/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/24/2143474.jpg"
+        width: 1240
+        height: 825
+        isCached: true
 
 secured: "QGppD8sSJsnxHpM/EVPlhAYf1C0n5gtCZ2V17FMzhc4gKQa2/MWe5nNCre//0On1v6sF+AoEZRurYoRAFlEiIT2R0/8JqcW2O87GXeWJ4UssW7k5C+Dt5AWTxuxSymJMcGNF6/AanTTfE+y1j6OdtzVRcBtLM9OSYOynALDtNRDthYtnkLiJL4jAhNBGPBVkO0I14MmR0Y9nNPf+OuOeZzj+ZIvqlPFLUrj97vnb+fFgiPu9TdwSdNOjNmdVA7B2g349bfk8NTIuz/A5YjGaBwmybayOpAzUewVi7V/J2sw9YgD2iQdOTBraEEO2NUjbIEoDMFz05LbXunuV/KErngzWR3LyKmxp06VODVYKNdo=;mORwkNq2cc6I3V90QQtndQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-15-how-machine-learning-and-location-data-are-disrupting-industries.md",
+      "title": "How Machine Learning And Location Data Are Disrupting Industries",
+      "excerpt": "Machine learning-powered location data intelligence is a powerful tool that can offer transformative benefits, but it needs to be used wisely and responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6489c66337a23195857d5722/0x0.jpg?format=jpg&crop=1942,1092,x0,y201,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/15/how-machine-learning-and-location-data-are-disrupting-industries/amp/",
+      "publishedDateTime": "2023-06-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
       "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
       "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
@@ -1316,51 +1368,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-build-high-performance-ml-models-using-pytorch-20-on-aws-part-1.md",
-      "title": "Build high-performance ML models using PyTorch 2.0 on AWS – Part 1",
-      "excerpt": "PyTorch is a machine learning (ML) framework that is widely used by AWS customers for a variety of applications, such as computer vision, natural language processing, content creation, and more. With the recent PyTorch 2.0 release, AWS customers can now do same things as they could with PyTorch 1.x but",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T12:31:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

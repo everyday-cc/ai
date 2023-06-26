@@ -2,6 +2,58 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2023-04-01-artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind.md",
+      "title": "Artificial Intelligence Is Teaching Us New, Surprising Things About the Human Mind",
+      "excerpt": "The world has been learning an awful lot about artificial intelligence lately, thanks to the arrival of eerily human-like chatbots. Less noticed, but just as important: Researchers are learning a great deal about us – with the help of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-is-teaching-us-new-surprising-things-about-the-human-mind-ba7cdceb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-755114/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-31T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-01-waymo-brings-its-fleet-of-new-self-driving-suvs-to-austin.md",
       "title": "Waymo brings its fleet of new self-driving SUVs to Austin",
       "excerpt": "Waymo is bringing a fleet of driverless cars to Austin, Texas as a test of its new fifth-generation automated driving system. The vehicles will be tested all over the city, including downtown, the Capitol,",
@@ -1168,57 +1220,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us.md",
-      "title": "Why It’s Difficult To Predict Where GPT And Other Generative AI Might Take Us",
-      "excerpt": "Why is it so difficult to predict events and consequences too far into the future? Scientists and philosophers have studied the process of how knowledge is expanded. And what they have learned has lessons for understanding where generative AI models may go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641df1543445254362580d52/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/31/why-its-difficult-to-predict-where-gpt-and-other-generative-ai-might-take-us/amp/",
-      "publishedDateTime": "2023-03-31T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

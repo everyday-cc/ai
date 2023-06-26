@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 414
+heat: 404
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-22T085557.027.png?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "HPE takes on AWS, MS, Google in AI cloud market"
-    excerpt: "Its expanded GreenLake portfolio offers large language models for organisations to access a supercomputing cloud service."
-    publishedDateTime: 2023-06-21T09:01:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero3MZ346xqQb6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ346xqQb6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-tech-2023.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AWS weighs in on the potential of AI to fight wildfires"
     excerpt: "Prevention and early detection are key in extreme weather events, explained Rejean Bourgault, public sector lead for Amazon Web Services (AWS) Canada, as he outlined the numerous opportunities for the use of artificial intelligence (AI) to detect the ..."

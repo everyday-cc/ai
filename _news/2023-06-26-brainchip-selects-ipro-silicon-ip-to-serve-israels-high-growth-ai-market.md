@@ -1,31 +1,23 @@
 ---
 category: news
 title: "BrainChip Selects IPro Silicon IP to Serve Israel's High Growth AI Market"
-excerpt: "BrainChip Holdings Ltd (BRNBRCHFBCHPY, the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, has selected IPro Silicon IP Ltd. to expand its sales presence in Israel. IPro has served Israel's chip design ..."
-publishedDateTime: 2023-06-25T21:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/b32999723/brainchip-selects-ipro-silicon-ip-to-serve-israels-high-growth-ai-market"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/b32999723/brainchip-selects-ipro-silicon-ip-to-serve-israels-high-growth-ai-market"
-ampWebUrl: "https://www.benzinga.com/amp/content/32999723"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32999723"
+excerpt: "IPro has served Israel's chip design community through best-in-class IP partnerships and first-class support. As a trusted sales source, IPro collaborates with customers by learning their exacting needs and providing world-class products that enable them to reach the market with state-of-the-art solutions fast."
+publishedDateTime: 2023-06-25T23:38:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/25/9838462.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/25/9838462.htm"
 type: article
-quality: 73
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "q0zQW+jF6Aj9kQOneycdLegfQvJ6zASdB3Pj4YzwzwTgCRuw105J6mPI/8gp0pSB6W7bXoZo5ovNgT9Ki0FRdmIyWGGNU20PfPkmKXJiH+v8B2PCKvRXYBaA30Zf7mceSeb3j7MJi9coyjZqN2KHcD/catvpt4j/OlZXOLz+XIfr8mcHkQ1MbeBraPrTzYUIibRwIcXEFoSFwYNqjOolEW69CEVOFOmsszD+l7eXRgd0bhuja8jIKJCL/JiBIJ0yORne31pfXVPE3uq9RAMjMEkcMxF7/WI8HgnmyUM8sIU3nMZhVgjgLR29m+2oU9X7mebYRWHlYGwpyrM2PcM5EWw4EfD1JsHMcNqIqiW4KZw=;gz5Te9aYL4BSmP48PMjqlg=="
+secured: "CCLR2VtqPb0Uq0TUl/i1eE5D6EzBQRq9WmNyw827SZtcnsgBU5XTjYQgxUL0qQPyq0UXQe0Nn31DPGFr8zK0/G6XIIVx4qn0ULbdrEHTcOpe1OBmtlNAqPjR6pXxG25m+OTJ+9yOAxzX+nA9yncztjrJzOq7L12o/oHoxcFjni1s7zgULGV8qFfTr3E92l0C4Y5CGbkzSJMeOwLjVf25w7OjxF/LfU97a7VnsndsC7apHQ8AB0ru68ZolbXSQ+2Nd+VzJhxaTnCqowPGqmyl9A1OwnHWPSFFzxKtj6WJ/28uQCfA0Q0jcV/Vp+3w9q4tS1rCkv6HHCa5EOPzBmFAniS8S8M2MlxDZlwD1maMJmY=;WT4kjgyYqzhsqQygISGBfg=="
 ---
 

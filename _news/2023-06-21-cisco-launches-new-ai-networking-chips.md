@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cisco Launches AI Networking Chips for AI Supercomputers; to Take on Broadcom, Marvell"
-    excerpt: "Cisco's latest networking chips are being tested by five of the six major cloud providers, said the company, without naming the firms."
-    publishedDateTime: 2023-06-21T08:05:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/cisco-artificial-intelligence-networking-chips-launch-supercomputers-rival-broadcom-marvell-4139555/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 66
-    images:
-      - url: "https://i.gadgets360cdn.com/large/cisco_reuters_full_1564394200392.JPG"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cisco Launches Power-Efficient Networking Chips, Takes on Broadcom and Marvell in AI Arena"
     excerpt: "In April, Broadcom launched the Jericho3-AI chip that connects up to 32,000 GPU chips. Price Action: CSCO shares traded lower by 0.19% at $51.45 premarket on the last check Wednesday."
     publishedDateTime: 2023-06-21T22:19:00Z

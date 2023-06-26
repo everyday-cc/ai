@@ -288,7 +288,7 @@
       "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -373,6 +373,49 @@
         "Google AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
+      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
+      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -751,17 +794,17 @@
       "title": "Researchers build working robot based on AI’s design",
       "excerpt": "Researchers have built an \"actually useful\" working robot based on a design dreamt up by AI. Teams at TU Delft and Swiss technical university EPFL tasked artificial intelligence tool ChatGPT to help with food production.",
       "sourceUrl": null,
-      "webUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
-      "originalUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.html",
+      "webUrl": "https://www.kulr8.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_30c7b374-d707-531e-8601-f76b0683ab42.html",
+      "originalUrl": "https://www.kulr8.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_30c7b374-d707-531e-8601-f76b0683ab42.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/c/ab/cab7a7e7-7f99-558b-a9df-e0eaf8ff7d97/648c9899a0027.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/3f/23f35e50-6c24-5484-9e23-3ea449fc5211/648c98fa775d1.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -769,13 +812,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
-      "cdnAmpWebUrl": "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/national/researchers-build-working-robot-based-on-ai-s-design/article_c3813b55-43f1-5fb3-9147-b61d8f1a433d.amp.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-16T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tyler Morning Telegraph",
-        "domain": "tylerpaper.com",
+        "name": "KULR 8",
+        "domain": "kulr8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,59 +1434,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
-      "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
-      "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/190730113259-disney-pixar-wall-e.jpg?q=x_0,y_95,h_809,w_1439,c_crop/w_800",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "publishedDateTime": "2023-06-14T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
