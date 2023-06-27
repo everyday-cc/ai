@@ -124,20 +124,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
-    excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
-    publishedDateTime: 2023-06-22T20:03:00Z
-    webUrl: "https://www.unite.ai/amazons-aws-invests-100-million-in-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/aws-header_tvMEUF2.width-800.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
     publishedDateTime: 2023-06-23T04:20:00Z
@@ -279,6 +265,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
+  - title: "Artificial Intelligence can Support Automation and Independent Learning"
+    excerpt: "Even though it has two sides, it is believed that artificial intelligence still needs to be optimized in the world of education. For this reason, it must be ensured that its development and utilization are ethical so that it is not misused."
+    publishedDateTime: 2023-06-27T12:30:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-kecerdasan-buatan-dapat-menunjang-otomatisasi-dan-belajar-mandiri"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 21
   - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
     publishedDateTime: 2023-06-23T12:42:00Z

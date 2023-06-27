@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: EURweb
       domain: eurweb.com
     quality: 18
+  - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
+    excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
+    publishedDateTime: 2023-06-27T12:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 12
 
 secured: "pCbhgMI11VTrIURaJwRTTeRVG6m4qAiuIYvFGI0D7Nzhmt8bzBuTfvYifKiHZwxoaEqCaXuVH8dBu31NySKGES4ZSsWQ35sH9ZV3vsHLeymedxzs6IJiuLUD74USagZLhoTtJEI03WKStCUG6FFCWhrYD+ZAIG+xlAskQc8ErdUdJTEfyqT70NPxQaGQhMQz9eJSoIP++6W3tNz+6xCe/9OJhsE7OL8e9CxQnalCE4mgOZpJa1svSCbjWZWcCecxnTaFuy3jso8B6NvzUdnquaPmi32qFBRIMb7FsEaK30J6XSx6mEBFJiWgBxa3zz8OrQUtERxHdnLgL2dcAHNy7VU6SuzzwhRHDVA/NoDFVzo=;6bLPf0sqrCrhGAFLIFM9Wg=="
 ---

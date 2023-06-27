@@ -49,15 +49,6 @@ related:
         width: 721
         height: 487
         isCached: true
-  - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
-    excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
-    publishedDateTime: 2023-06-22T19:29:00Z
-    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-confidential-ai-and-analytics-at-the-confidential-computing-summit/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 10
 
 secured: "w/Tw9qAl/9Ihwc+HnI+8KuHf6DjWLRgVAVNISFVhhL0Y/xFFFK8POCZuhKHJNecxne+LShZTo0+RCcsO/itnMB1GNjWocX9z0+w6H/Khs9j0XsIcQioiODdaOxpTOwbaCqKj38qvkinl2LuxdrMJIAWBwonNNkae41Giq9H8sKlZLWN9rN0wIXgolmZEJjH6autY+7QJ/C+4GO7g1enqsun5TbKQC1F3ENgQVVrnN16FTKDo2o+td8qoZADEVMO+nPFsLcX77fmz9dJL4THPeJ8nqGtAHgY8nGF5+2EA6JiEpUtRoY/FhQuQvGUwWtMbwAwQDp3MpuO16MhRWOaum8HcEb2W37+JBhsP6D9sP8E=;vPCUlbDrwzNYI9OBbR5pfQ=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google's PaLM-E Combines Vision and Language AI for Robot Control"
+    excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
+    publishedDateTime: 2023-06-27T13:24:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/google-palm-e-robot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 34
 
 secured: "ZckpOz2LkG3BQgKAlMxJey+qVNCafy/hUsRe4VpFNMEtoMz8fT3xG2YKAdP1PiAIwk5b9VvOyfIg8V/+C8dfnhXsy3kcgimwjaR6XCT0tIJctbOwn9MQDMgTU6s0hXisJjineT+wHd2Rji/W1qTLTKxgaPyxZ4i8H6lZDOXryki7jcq27hQoQtGYsTno7QD3yWfYncXiLLP4cF20boKisHJe5+lltCfHwu5f5hp49TJreaJmcx3luX1NxMPqKBHx3oU4Shjz/TWAp7H32kcjK0Sgfqq+y8DJr4iYap1m3KhElnW0QtD+KXn3Sc0ww8D9dIPHyWVDKfp6iXqfEjllgZjsK6DQkW5wSFeLOXC9yC0=;LVIFgDw4PubrgG/trwUzOw=="
 ---

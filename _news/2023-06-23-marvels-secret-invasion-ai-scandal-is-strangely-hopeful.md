@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/marvel-secret-invasion-artificial-inte
 webUrl: "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wired
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
-    excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
-    publishedDateTime: 2023-06-22T21:59:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
   - title: "Artificial intelligence invades entertainment: Marvel’s new television series ‘Secret Invasion’ uses AI"
     excerpt: "AI made a not-so-secret invasion into Disney. Marvel’s new television series “Secret Invasion” debuted Wednesday with an animated opening sequence generated through artificial intelligence, sparking fervent reactions on social media from Marvel fans and crew members."
     publishedDateTime: 2023-06-23T15:19:00Z

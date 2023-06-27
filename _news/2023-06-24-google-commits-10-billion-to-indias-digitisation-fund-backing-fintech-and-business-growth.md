@@ -43,22 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Shyld and Shimadzu Corporation Team Up with the Goal of Revolutionizing Healthcare with Groundbreaking AI-Powered UV-C Disinfection Technology"
-    excerpt: "June 22, 2023 /PRNewswire/ -- Heralded as \"a major breakthrough in the healthcare industry,\" Shimadzu Corporation, a global titan in analytical instrumentation, has begun a collaboration with Shyld, a forerunner in artificial intelligence and robotics."
-    publishedDateTime: 2023-06-22T21:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32977095/shyld-and-shimadzu-corporation-team-up-with-the-goal-of-revolutionizing-healthcare-with-groundbrea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32977095"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32977095"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Artificial intelligence technology helping fraudsters create fake posts and websites"
     excerpt: "Fraud experts say the web is one of the riskiest places for consumers. News5 spoke with a fraud expert about how artificial intelligence is fueling fraud online."
     publishedDateTime: 2023-06-27T10:00:00Z
@@ -70,6 +54,29 @@ related:
     quality: 30
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/082e3f8/2147483647/strip/true/crop/712x374+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fda%2F6b%2Fbc36114a4b9bbd8cb5cd24ff9690%2Fcomputer-mouse.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Poses Threat to Patient Privacy"
+    excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
+    publishedDateTime: 2023-06-27T12:38:00Z
+    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/artificial-intelligence-poses-threat-to-patient-privacy/"
+    type: article
+    provider:
+      name: psychiatryadvisor.com
+      domain: psychiatryadvisor.com
+    quality: 19
+  - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
+    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
+    publishedDateTime: 2023-06-23T04:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/06/23/regulating-fintech-allowing-for-the-innovation-while-protecting-investors-and-consumers/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 15
+    images:
+      - url: "https://www.irishtimes.com/resizer/wlvhuWXI7a7Cjl6uRRVZlHUN0BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/RPUIGKQF2RHEHHNIHMKJOTFJV4.jpg"
         width: 1200
         height: 630
         isCached: true

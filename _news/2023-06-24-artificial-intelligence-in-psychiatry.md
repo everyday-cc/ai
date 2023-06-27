@@ -5,10 +5,12 @@ excerpt: "Trained using large language models and natural language processing, g
 publishedDateTime: 2023-06-24T10:04:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
 webUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp"
 type: article
-quality: 21
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Psychology Today
@@ -18,6 +20,12 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-06/ai%20.png.jpg?itok=mlgDC4Ys"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Artificial Intelligence in Psychiatry"
@@ -37,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ndYDPaZgTJaTTjqfd+AFYlCx+OrNdNFOCBYuMub+Qvr8j7loI7a2XeUwZ+os+HUN05WjCkF+ztOh222pkWcLI6foeu6Spgg3HbMUWmIQT0SshvXuNi/NmebzmRtwrmgiVrUjEGECEBuD57bsTrAfd0DuMfkmdc5CMg2D794b2i2r+bUpOmA9ZpIHNLie1bK5+2dUgUsnM0kXkR6ZiYhBLfR/dMArLE75JmoBZrHs37PpZrCG5ivjtYU0ntFOaoyG17VLqlgFTrayddxsp6FW+rdijb3vkMbRnE4OUxB5ZoLren/VDY99H91sf94XVbY+nWRZTsrP/WKcIkVcQve0akDFna1pxy03q+GqVhXo/Co=;mxvjbZWQVH+05tumVn/iEA=="
+secured: "hUE2fabdNiwLDBZcCMnw6VbnksldsG1SUHiOLuvWme9UgKHjV8NlaOBDrEq7eXcGC84dpCWP9pTQAQKsjOjwrJ+vkxIqLPa9WKOAAueW8cfhsgH0LinVoBvuLmfO/7FO7fmIgFUWein7BUVHczWpNe1wiyishS3EWGhuNVTbtz62sVpcprjX6Fd/6bqA2ABcOkG8IbVA/FFh2U+tnsfaazEQ78n57m1wCyIS0jAxd+tL11YtNla9wIP7pYkJi7Ahk1aPZh80MeQnopT9Ea3yDnIdGJaq7WDq94UFoAgftimnne07+mtmLPqB+Nr+PUaZAp8IpShziWWyoKxD8IV2gqFZ0elSkZ4LIy6O6JvhjGM=;DlXN8VSTAoNoPv+XPPZC1A=="
 ---
 

@@ -49,15 +49,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
-    excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
-    publishedDateTime: 2023-06-22T19:29:00Z
-    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-confidential-ai-and-analytics-at-the-confidential-computing-summit/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 10
 
 secured: "m9AOLlLs7UzHtLyPxv1eowBT2WGydsL3Gs7y4hijFD8eqbBbuf5NUO0V73XQHZRjLtrhh1xFUSCXgcOiV1RxUfUe4NYnwpX1eI60POjk8uI/m9/bYRqsCVqC+1euVzcw/BaS/XBtmtG7cy5gEI9gMfVq7J9J86rTkicVRhf/eNpVmTs+80+Qux0StqERKNLxxjxB5K8+GS1B+p8QDo6CxiRC+loRwanjEp5foT6E5o6RR088NBY94SPS+fbq5IU278gwOFxHgFsM92EvjFZxaNChvQ0u8KNatWijieGQY8Dko2Tp5a0eLyc+WZzN/LjwNjoGIB7Tor7aQUofIR+dtWOydCPNKE++/lef0ATka6c=;TyWj9By9sMLtMsnPWB7ULA=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
+title: "AI Chip Giant Nvidia 'Extremely Likely' To Invest In Europe"
 excerpt: "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe."
-publishedDateTime: 2023-06-24T06:30:00Z
-originalUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html"
-webUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
+publishedDateTime: 2023-06-24T05:53:00Z
+originalUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
+webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
 type: article
 quality: 74
 heat: 104
 published: true
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
       domain: newagebd.net
     quality: 34
 
-secured: "5xWLdWsROIXkHAckhIZ3jkwqNyK22U+HlCb26d8yzeTd5Z/vLwAFqzRdYY6QCyRb4s/yp8i9sKB8bEAOs4QPJz8L8qCXCyxyvD3HdaphxgNhKl1yB/6xt6lTcfajC+gGMPOX3qNB/s0OAmGfqqsMyfMoPPex8XDA8DdqArTaMbjdfTQ2a3Dy6HlfvT8H+rGjllV51t1/is4ZxMQxk87gyBMxHRkLlo1sPX8ZZ6r4drsPC22S12HAXntBpIjc8C/iHU5OOYHFcSTTIvbkPITV+XM/srgy6+KYGWxEHDZ+HorVmzi2Cjd5X+AUc3Om7xDuDmPjx8+8ahZQwrL3Y8Gj4Yxm1w9Ys4WR6nx+x8CpAi85xUfUb7K9bjssPv8kcpU9QzIBeKZj1MFhByjx8qfu59T5ulnXxVRXsZywxQfUEyHXrAf9IBb9K++gyRPnnHTPh0Mem7T0wjz735suYS0ROqeEsFJAIvB9XCBWOhhvsMRFoRsOdKUJX7hUVvue/4hH/aTU0y1VM1mKrOEGMFZn8g==;TzMG4F6GPiKWZNdnUJYpQw=="
+secured: "5WlX3LjHXFRE6MzSivQqcy+yWvTqLOntE3s5cMfn9BGU8Tep6HgIv9MtnM3QxlR2zg0krFHVx51rJKEab1isEbOd88HitwE4d2n8SYZTMEFpo6LZ/si4oFnsqAir5gQgUDg72ZBtVlwi9Y+UbFm4W9zlmuyITF4Xl3mTf6b4fREssJEr9/+SV2GJ7DoLTfaDAltI88UM+pN4WkWiOAXjdOBHkItszyoSm+SDOnN9rQ4y4kxBTFQSYfxeI0GDYF8zs5U++iajnqHR2LoicnT7H1DIdnV9plcd/6w5K5DhnO8qPmRd3Vz74U6267yL0HyQhkmGx+LYjshcYR7aJ0k1ILJExou4gprv8fCUb7lD/CQ=;5dboTD6whVu2XRTgq7nlyw=="
 ---
 

@@ -39,6 +39,15 @@ related:
         width: 1343
         height: 712
         isCached: true
+  - title: "IBM Is Cloudgazing With Its Latest $4.6 Billion Software Company Acquisition"
+    excerpt: "The acquisition news was a rare glimmer of hope for IBM’s share price, given the stock has had a gloomy 2023 so far."
+    publishedDateTime: 2023-06-27T13:37:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/27/ibm-is-cloudgazing-with-its-latest-46-billion-software-company-acquisition/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
   - title: "IBM Agrees to Pay $5 Billion for Apptio Acquisition"
     excerpt: "IBM has made an official announcement regarding its definitive agreement with Vista Equity Partners. The agreement entails the acquisition of Apptio Inc. for a total of $5 billion."
     publishedDateTime: 2023-06-26T16:07:00Z

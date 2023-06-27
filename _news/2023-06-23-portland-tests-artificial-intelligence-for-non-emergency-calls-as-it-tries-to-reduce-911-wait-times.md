@@ -9,8 +9,8 @@ ampWebUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-in
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Oregonian
@@ -42,6 +42,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meet Sixty AI the new startup from Portland founder Mat Ellis"
+    excerpt: "Productivity tools are all about doing more things. And we are about having to do less and concentrate on the human side of staying in touch.'"
+    publishedDateTime: 2023-06-27T11:30:00Z
+    webUrl: "https://www.bizjournals.com/portland/inno/stories/fundings/2023/06/27/sixty-ai-mat-ellis-cloudability.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Fmbnmjqi/QZ3X+IHuW/XjUkXEz167zSO5hS5jQSdxfE7NKQjorU6a4vIZgykh1l1H44SyYc5MRux5BEGJbscbuGe4MqIgxGPAjb/p3Yq4nvveegJs+XQok4Ho7oQldhMr16/ZL8ryI4fOhzDBvD48ZyKC7CVFCqzk2s84VM2DJhZPB6Tc5F/8NIbw4UkgLORU259QSiTqE+6jMTglJ/ln0c0fsH4+NWoq5p9lqVF66qm6/GVrwstS4CRK5tJUZSUu07H4ntKqsUmdTkjg5tsyknkiyG1pIgiLM1AiR8uBTs+TAanB7pEYufWjS0zYJCXcuV5JTnachDEerYajjJqV9ZQOdf2zQcDhqnSpYt4KDbvgnRJaQBNMNQbiyVSzCUFfnfrjRw50fAVgfPGgfROaaCzQaMja7ER2dmoqlZtwAT4bgrOqm+55FabCuXZoJpn/oi0XDJJHN0iOOaE5BHmzlt6mfjzg/apjRS1u8rDVEuiwV4TLK5JQUhRWN9wB13v2Rl94LRywfV+NlXbWoefkg==;jWjwOIISTdhXbSksdkCNVA=="
 ---

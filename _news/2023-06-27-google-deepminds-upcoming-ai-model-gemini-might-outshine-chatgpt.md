@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan"
-    excerpt: "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded."
-    publishedDateTime: 2023-06-22T21:41:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
+  - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
+    excerpt: "Google DeepMind is working on a new system, Gemini, that combines LLMs with reinforcement learning techniques used in AlphaGo."
+    publishedDateTime: 2023-06-26T17:19:00Z
+    webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AI-5.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Google DeepMind unveils self-improving AI model RoboCat"
+    excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
+    publishedDateTime: 2023-06-23T17:14:00Z
+    webUrl: "https://inshorts.com/en/news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
+        width: 1080
+        height: 569
+        isCached: true
+  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
+    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
+    publishedDateTime: 2023-06-27T02:06:00Z
+    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
+    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
   - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
     excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
@@ -73,19 +103,37 @@ related:
         width: 1286
         height: 675
         isCached: true
-  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
-    publishedDateTime: 2023-06-25T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
+  - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
+    excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
+    publishedDateTime: 2023-06-25T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/"
+    ampWebUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 73
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
+      - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
+    excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
+    publishedDateTime: 2023-06-27T11:55:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
         width: 1200
-        height: 600
+        height: 667
         isCached: true
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
@@ -98,6 +146,20 @@ related:
     quality: 54
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
+    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -115,61 +177,74 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
-    excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
-    publishedDateTime: 2023-06-26T19:57:00Z
-    webUrl: "https://www.engadget.com/congress-is-reportedly-limiting-staff-use-of-ai-models-like-chatgpt-195454777.html"
+  - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
+    excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
-  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
-    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
-    publishedDateTime: 2023-06-26T03:11:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
+    excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
+    publishedDateTime: 2023-06-23T14:22:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
     type: article
     provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
+      name: The Independent
+      domain: independent.co.uk
+    quality: 48
+  - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
+    excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
+    publishedDateTime: 2023-06-26T17:13:00Z
+    webUrl: "https://www.onmsft.com/news/google-deepmind-devises-a-strategy-to-outwit-chatgpt-with-gemini/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
     images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
-        width: 1250
-        height: 834
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
-    excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."
-    publishedDateTime: 2023-06-22T21:04:00Z
-    webUrl: "https://www.courthousenews.com/sanctions-ordered-for-lawyers-who-relied-on-chatgpt-artificial-intelligence-to-prepare-court-brief/"
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 23
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/06/steven-schwartz-manhattan-federal-june-2023-scaled.jpg"
-        width: 3000
-        height: 1995
-        isCached: true
-  - title: "ChatGPT builds a tomato-harvesting robot"
-    excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
-    publishedDateTime: 2023-06-27T09:33:00Z
-    webUrl: "https://insights.globalspec.com/article/20657/chatgpt-builds-a-tomato-harvesting-robot"
+      name: Tech.co
+      domain: tech.co
+    quality: 34
+  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
+    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
+    publishedDateTime: 2023-06-27T12:21:00Z
+    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
     type: article
     provider:
-      name: GlobalSpec
-      domain: globalspec.com
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
+  - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
+    excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
+    publishedDateTime: 2023-06-27T13:13:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108164/gemini-chatbot-is-more-powerful-than-chatgpt-says-google-deepmind/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
     quality: 19
-  - title: "Can ChatGPT brew a better beer than humans? Pa. brewery tests AI-created beer"
-    excerpt: "\"Jake Against\" is Second Sin Brewing's newest IPA and was made by the head brewer and co-owner. But \"the machine\" was generated by using AI technology."
-    publishedDateTime: 2023-06-23T12:05:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/chatgpt-artificial-intelligence-brews-beer-second-sin-brewing-bucks-county-pennsylvania/"
+  - title: "How Google DeepMind is planning to defeat ChatGPT"
+    excerpt: "AlphaGo was based on a technique called reinforcement learning. This technique involves training in which software learns to take on tough problems that require taking actions based on making repeated attempts and receiving feedback on its performance."
+    publishedDateTime: 2023-06-27T12:50:00Z
+    webUrl: "https://www.gadgetsnow.com/featured/how-google-deepmind-is-planning-to-defeat-chatgpt/articleshow/101312979.cms"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 14
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "wHN6RJ6OU9s7hj4TTn2CRjCHbf7mbBiu90N7geHiLU/Z4cnIfpWNDpzCIBKnXklufBSr/2GFXS+4AdDk1uAKunLUQH3gy0dE+ZIxv3/ib1rnaa+anO5EDcnFhzIwwarJiVip38vUHHELc5whf43HgXczD5ChBub/Uxt0DtxFPsGpkPmLqNusc1rdvb6bLZ94+2952cANIt6zaOW0bJSyzROGCDkEYfF+MCygSSiiJIV+uZnwkjuQQTBogyHq/SqxzDXknAbPLGBPH4oU8Gl8w6JRjvulDwQasnU8cgDPpx8whdRgVm0TojB7kEJSHl7sey8v8jV5MKGmbbr7QCnyY+LReLtWng2PWRRaGaTCZZDSPI/xaW/3wjXWuXLTLBKEX6Pc5AQDdoNrLaZCkwOkvn77pN8dHMgLjtJCdk4MykHWHvzhfYNjRBpqdDsQFQFTR2VxkeEvjtSh/YDae6m5oPxF6cCueI2zT/RC2U2JXPEibeHGr0uohZDIQnTOB32omcIZl7EHyV3HJOgmjlb6lg==;UVU8brnx0k5RCjJHgG8egg=="
 ---

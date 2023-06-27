@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "8J/9a+rPNrcTgMQ/dqdjbGGm/HbK3O5o/7vvAaUhYgc248zoGU5ah45uwbN9E6DHTpDI5L8nKrtJs5PebJ0crv1lPVDGAFYvdozTML5sMguOYtEjNtG+8tkOLdVDtuOCEW+ybZMlCWK4fSOPIAnl3xGsifA3kLvB/rgGTDeccZPEHhvLx1AAlIgzDUWaKoSd/dWkTm+wq8JA6lEM71g70Ng4z9k41xOSRD89a+oCu2bIblgVa09nywF7A0McIiv3Itymrf8FMWeDPq/WgSYpc3QvoaFVGS9wheE80elyGqJFmeJNFk5C81UQd5TAg1s0YjkCA+IVyCY1Cu65f657zeQMqktoj2+dofpSMyaUgT7XOckagTs8Vb5ZlRO94vzEWBU06z/gZpXVmCNK8iSajPFb0/K40rqVXX1vMVPjdg0DUnIVxaP3BHO/bXOXxhQQgmqfhq6ydo6iuEyoEIP+in+sUh4afCjQJNeXuxQ4TZH6AOfb0LKcgVzeIM8npdzenK0v40qdmljVIxZyS+iTWQ==;TIKJ7GCYwxoLGtzoV+KeXQ=="
 ---

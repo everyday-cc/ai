@@ -33,6 +33,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Researchers use AI to translate 5,000 year-old tablets containing mysterious languages"
+    excerpt: "Archaeologists are taking the power of artificial intelligence and aiming it at ancient tablets that contain mysterious texts that date back 5,000 years."
+    publishedDateTime: 2023-06-26T10:44:00Z
+    webUrl: "https://www.tweaktown.com/news/92088/researchers-use-ai-to-translate-5-000-year-old-tablets-containing-mysterious-languages/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92088_156_researchers-use-ai-to-translate-5-000-year-old-tablets_full.png"
+        width: 1500
+        height: 845
+        isCached: true
 
 secured: "JZ/2ALgfd4gIAhp8FmGSSh00FMRZngavZiW81IOJhPHdvXYsMWQlRHqDOvMpy81aJANkZEVcfRHvTzxSaFr+P/+Rcu8BkCNF5CK6SYAIU000bya/kFqjq5arqaMhU6q8XbvWmRKBFxidUVVGkuocWkP1iGtAH8yglypZ9I6h9yLGBVG8d+ePC/feTks0yQVRcPTxjANa0trygTXO3SCm1dQoWe901tbop++Tw32dY/xIuD4hBjtUtKXBbqK96NBZ+VxWiTHSrZHSasT9A+oX5J59v1S2uwJUwOhbRgZ2PnQZP2Rr2wuj6rUPw50uc1SmBL/Os5Emk3CqIrdTSbfL4Yt3+0yo8CtxdDMgubyor/UuUninUF1rPsWG8j+WeaFnBT9VlpWpHSMbxOLlpg8j3F4K6aP2pHRWdw1c0rNIMB9UVC2Dx3I5K1Vp2nqHsoB0abwjpRsuuKbG4Gm5mA/N8RC96DqOrKbaMH+kcSvKYNfd6aS9nCD4kp2SBD8GlMLgBTQe9BZD3a6BpSbv2w7TbA==;e68XBz83TwIzmB6j28yszQ=="
 ---

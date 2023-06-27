@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Crypto.com to set up global R&D hub in Singapore to focus on blockchain, Web3 and AI"
-    excerpt: "SINGAPORE - Cryptocurrency exchange Crypto.com will be setting up its first global innovation lab that focuses on blockchain technology, Web3 and artificial intelligence (AI) here. Read more at straitstimes."
-    publishedDateTime: 2023-06-27T03:33:00Z
-    webUrl: "https://www.straitstimes.com/business/cryptocom-to-set-up-global-rd-hub-in-singapore-to-focus-on-blockchain-web3-and-ai"
+  - title: "Singapore Startup Attracts High-Profile Backers for AI Monocle"
+    excerpt: "Brilliant Labs, the designer of an AI-powered mixed-reality gadget, has pulled in investors including Oculus co-founder Brendan Iribe, Siri co-founder Adam Cheyer, and Eric Migicovsky, the founder of Pebble,"
+    publishedDateTime: 2023-06-27T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/singapore-startup-attracts-high-profile-backers-for-ai-monocle"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 32
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/27/IMG3169.JPG?VersionId=B5.CuxUEa7zXh_YlcF4h92gc_eKkFv9D"
-        width: 860
-        height: 573
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFK5thT.mZmY/v2/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "MVJHtl0JblhGIiMuQA8MMQGgWkaYyclxV1W65MUogp/8NgQZZ4CIqNRqNf6wFItbzCSEFvyFUxTHwqRYYsLUf+eHX6ppaO33/2BlhuRlYnqfjU+sUyw3zyvCnWhKgZ49R5t9d45oyso9U1zlko03YehD3rrM4al3S0HVLT0AnAACIohkI1ryyM2wW9OL85PWij6/tBWHCD6yE6E/EWijdWKmyzMweYizQL3EYQCRoVrFN8nRsDEkV77zjBs74kPjZICSyOggMI7e2y3iEY66Z64vq5E70UXKQQGFzHZPJnwoB1nSCr9udZqmsK9NELFT/YEw4phK4k9GlicCVnKNcIEO5+7kmVkpW1PFf87S/ph4/2PTDK6+siMRCaxpNHfImxDbKlecHp5trSUPMyc6phRhK6J/kZudduv9Y4GuRLXoiKow3sIDC+YIe4zKOmF72+bzHqL988lyr+i0hUtaUawMxkzsYd4cA3Bvw+1cj7RxDkCD4llD7ZuNtlNCIbI8HvOj1oXcOpg/qKZV/T30+A==;CGN1pCqQ6e0e76a/NYFg7w=="

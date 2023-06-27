@@ -130,20 +130,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS Investing $100M in Generative AI Center"
-    excerpt: "Amazon Web Services today announced the AWS Generative AI Innovation Center, in which the company is investing $100 million to help customers build genAI solutions. Customers will work with generative AI strategists,"
-    publishedDateTime: 2023-06-22T20:36:00Z
-    webUrl: "https://insidehpc.com/2023/06/aws-investing-100m-in-generative-ai-center/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AWS invests $100M in new Generative AI Innovation Center"
     excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
     publishedDateTime: 2023-06-23T10:14:00Z
@@ -158,20 +144,15 @@ related:
         width: 1000
         height: 594
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-22T19:44:00Z
-    webUrl: "https://insidebigdata.com/2023/06/22/aws-announces-generative-ai-innovation-center-with-100-million-investment/"
+  - title: "Enterprises need to control their own generative AI, say data scientists"
+    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
+    publishedDateTime: 2023-06-27T12:30:00Z
+    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
   - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
     excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
     publishedDateTime: 2023-06-23T17:07:00Z

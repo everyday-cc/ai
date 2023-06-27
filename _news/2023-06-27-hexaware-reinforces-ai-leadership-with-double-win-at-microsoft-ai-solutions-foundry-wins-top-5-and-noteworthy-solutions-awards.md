@@ -2,9 +2,9 @@
 category: news
 title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
 excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-publishedDateTime: 2023-06-27T09:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
+publishedDateTime: 2023-06-27T08:44:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839286.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839286.htm"
 type: article
 quality: 25
 heat: -1
@@ -199,6 +199,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
+  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
+    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
+    publishedDateTime: 2023-06-27T12:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
   - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
     excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
     publishedDateTime: 2023-06-24T12:03:00Z
@@ -210,14 +219,14 @@ related:
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T14:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
 
-secured: "5RAVdmHrcqLjGhvwscm9h+GxxwmLuTWE8JOrCBTMIqNh5bPh3BieEuSCyV29MgMWzR4Yr/MYikJq90tMYGuaD4jV0PwTRmwMxFIdV2F+bE5ZZMrkKn4AdW95TJPtVpGU3L6zxhojT83GAiFIpV42sAlroYWTSBlq4xyihwn09nGrmnblz1okgtEWpmcS52PXyWGpfKRPQAqaNxnEtdPlZo9U2X5V1sa84kdAKazrfvtaHo+DM0tgpDmmwG4S9pNDppGXx1N/vMcQwQo4B6hJeIAC9tbIvE9xFCN3GK4szp4Nv9K257AwjPfAWMpEnq4PWzqo4vDcczI6LPhe4c6virNmNauXjd31X4bQeL4aO1Y=;vZLFv3EzJvcGAcbeW73QkA=="
+secured: "lrKB5odlCbqQXn9IMH3S9y6HtgxgIqMNRlbkREtT8Jm/h1MLSd9Vr/z6c+bXuUOXdTok6hpvULHcQnZc/1d3++PCSz988OZJTTDHcerrWMi3Qq0h43ZDejWK8D1xXIdeLlFreULlseIuFMGwZx6vTGL5FOvv8lsCDKdmOVYjaNOMTbHtwrH8w0oJkw91mrnOri8ivDtBbyVwvFIqHskv5SyHUL7ri2yAXji0/Pu8admIeVqiUJ2gS8YOjoNZtNw6h4qq0HMYLtgZz8BOf7pMgHz7NBc63FE8Nz8yk/R5gKeGHJet9+rkiEr19aOO8U4uTo0Jf7ybyS00Ao+qCb3N5NxOnII6kijy0kLN2YK+B6Y=;+vg4vUvzDTX1zXKQG3v7Yw=="
 ---
 

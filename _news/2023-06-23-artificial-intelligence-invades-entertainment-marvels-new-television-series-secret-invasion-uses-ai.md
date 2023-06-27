@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?"
-    excerpt: "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?"
-    publishedDateTime: 2023-06-22T21:59:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
   - title: "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful"
     excerpt: "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul."
     publishedDateTime: 2023-06-23T13:00:00Z

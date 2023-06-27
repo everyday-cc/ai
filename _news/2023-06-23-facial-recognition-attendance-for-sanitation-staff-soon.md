@@ -9,7 +9,7 @@ ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendan
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 34
-  - title: "Indonesia developing facial recognition system for public transportation system access"
-    excerpt: "The Indonesian government is developing a facial recognition system to identify passengers using its transportation system."
-    publishedDateTime: 2023-06-22T19:27:00Z
-    webUrl: "https://www.biometricupdate.com/202306/indonesia-developing-facial-recognition-system-for-public-transportation-system-access"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/22152608/indonesia-train-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Cameroon’s largest city switches on live facial recognition video surveillance programme"
     excerpt: "Live facial recognition is now in place across Douala, Cameroon’s largest city, in a move designed to reduce urban crime rates."
     publishedDateTime: 2023-06-23T13:34:00Z

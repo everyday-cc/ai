@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transform
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6499961a621e4f04eafde972/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -47,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "u08CHPM8Aosxb4d/htm6hwSgA5NgdyN6ASG4xACG7WRs282QHtM+ySLHRA/nDLzXz5bE84e640YVlEesk04VR1o+2+i/bukyi8KvIW9LwhGPh5nM25pJAumF9cItT7xKkCrdb5L+h2+2ZhzG17cbzPHV+ufItCjO9kWoZ+Ei2kefQfVi7dpDP6ytnNe8kA6XH5rLcMVentIe9BJ/yekthQoaCboqJ1b4Lyo9Ue58gpFN78IK9Oytiyz4+r0hC0hGLvSoqebWt2WP8BJzon4EYTbQ3Zt5HX1vTsWENLSyGCz8ZtQ9xYTKhLBp1QNBGlMK/5mRmR6/fNkESg+Q1A6m3y6abK7xFCI6CZRgXE9UcAE=;uRvmHBic0QA51/UgP9nygA=="
+secured: "AHZu8OIMQ2ZMhl826YbwE2wpKyGOmtQOactnmezVW2ASUz5rSDPCbUor0p2OiB3Vyf+uBJMybdsmyBEI2t6U10hiAaLIh5YI6sWBK8oBYXlw88ERhgRcfJSB6+PGOLY+8dseYMcTbhcso0R3MUnGULvFUDdv2HcvCPy4t+/CsBGuEilRhfMYt93aE781yl2J2ld+xE7KF3bPqX8GTLCgLWmxM5ZSDQmyphnR9j6mj9MecjAg/ipo/rFt97WKn3AcM0DQLNpQFflnfoDWqLIXdU3YI/umbi+7/vpd3RiFFUXqn6QxUiWxYBAbkXVtgbJ9I+zsWdOuIChDyDfX4B74JnEV/c2jeMyD9AqyOFPFbFpg/JG0wmfTCJ5bLZ1NiYHBgwcr8FTZ4HlNjBceBSBJkcyK8wBmusGFfeN6OyEICZZKjnBVwCu8w0zMwzIwFs88kc07S3uqZI9Ug5PfIQCJj4N035fsOwKej8KyiHweJg7GJHi5vuHx5PoHEg1jxDraEG+A8NdUkrv5Tl5nGOSbHg==;Q1PQ5c1Q2kmFa/RIvRqczA=="
 ---
 

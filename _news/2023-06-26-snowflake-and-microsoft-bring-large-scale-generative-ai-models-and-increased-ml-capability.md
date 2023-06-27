@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "AWS pledges $100M to launch generative AI innovation center"
-    excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
-    publishedDateTime: 2023-06-22T20:47:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-generative-AI-center/653726/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
-    images:
-      - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Generative AI: The Next Frontier for Section 230 of the Communications Decency Act"
     excerpt: "An examination of an emerging battle front regarding the controversial Section 230 of the Communications Decency Act protecting online platforms from liability over posted content—namely, how Section 230 will treat generative AI content."
     publishedDateTime: 2023-06-26T19:44:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/nearly-80-women-jobs-could-202548330.h
 webUrl: "https://www.aol.com/finance/nearly-80-women-jobs-could-202548330.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Nearly 80% of women’s jobs could be disrupted, automated by AI"
-    excerpt: "Recent research shows that although outnumbered by men in the U.S. workforce, women could be disproportionately affected by businesses' adoption of generative AI."
-    publishedDateTime: 2023-06-22T20:51:00Z
-    webUrl: "https://www.wesh.com/article/women-jobs-disrupted-by-ai/44306467"
-    ampWebUrl: "https://www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/women-jobs-disrupted-by-ai/44306467"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtmzhiyzexnjjkzthhnji1mdu0owjinzq0n2y4zwzmote-l19wywdlcy9oxzzhm2rhyme2njqynji5mza0y2eyyjfhzjywytazywu1-jpg-6494bbde6866a.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
 
 secured: "PY7Xzd3UAS93y3UoaNNNlQ2TuLznt1L2LN9aXmSj9tsx1j2uuExmXcocOQY7KrlbO4TC4IATEsWMBlsRNZ7S/3fGWeeEEnmOYMFjtmtPRYj5bLasJKMHqr10+Zji4u2ITkgiI+r07LtqiEGXQxxQVJKYtVfoN6UU2xyCnQMl68q4hyybdkkDpwOatwrIBGdukYQJ7/UPIV2lVzeK22kjleKjfSuaCzLMlvVVtZbJrugRBG8I6XV0YoS+OFlXMQfYl+Y4BDmFajUyLY4xWRw+EmFY2tVncAwUqWM7bnwAR7xlKlI76MIQbDgscw2sMERaXZwR0H+XivleMv6NBcXaD++DbH3C1SwVZ3nFkDiGkI/DxMM/FtStX8WdHRmrCQYOUpdJ1szny9dU4YvntOpIoMmD6nkjsJv7kLyYi/b/Ao58rzwqb7nBTanEK6P0OFPQKZgzOt70UGn2D05RFMvk+ZO7fPz/i2OgfSIvyZyZsRFbT/sSirJwHcBYu4QpJ/CzDD7VO45lYrdlJ80b9obTPg==;VhqIP0YBKeykJ2kTd0l0yQ=="
 ---

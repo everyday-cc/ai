@@ -43,6 +43,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "New York Is Buying a Supercomputer to Understand and Regulate AI"
+    excerpt: "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation."
+    publishedDateTime: 2023-06-27T14:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Contractors, tried using Artificial Intelligence to create your CV?"
     excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
     publishedDateTime: 2023-06-26T08:53:00Z

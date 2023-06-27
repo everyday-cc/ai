@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-
 webUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Samsung SmartThings to use AI to optimize home energy use"
+    excerpt: "SmartThings Energy also announced new features to allow people more control over their energy consumption and ways to save money and earn rewards."
+    publishedDateTime: 2023-06-27T13:04:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/sustainability/samsung-smartthings-to-use-ai-to-optimize-home-energy-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Samsung Enters AI Chip Market With High-Bandwidth Memory Solutions, Challenging SK hynix"
     excerpt: "Samsung Electronics leaps into the artificial intelligence (AI) chip market, planning to mass-produce high-bandwidth memory (HBM) chips this year, potentially upsetting current leader SK hynixs market dominance"
     publishedDateTime: 2023-06-26T09:30:00Z

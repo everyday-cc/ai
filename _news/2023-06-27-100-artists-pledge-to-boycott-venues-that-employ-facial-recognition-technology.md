@@ -40,6 +40,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
+    excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
+    publishedDateTime: 2023-06-27T12:03:00Z
+    webUrl: "https://mixmag.net/read/artists-boycott-venues-that-use-face-scanning-tech-news"
+    type: article
+    provider:
+      name: Mixmag
+      domain: mixmag.net
+    quality: 14
   - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
     excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
     publishedDateTime: 2023-06-27T08:07:00Z
@@ -55,6 +64,6 @@ related:
         height: 900
         isCached: true
 
-secured: "t/Fj7uTLCSrplJZ0O3NEpKYILbij2D9lnxmAvz95BhgYvbDdqtqoIDYf+8jMMt9t3kJc54aneo4bemXh4wCSxYjCBKDr4Dz8VAs07gjsjnkjrreTP7S40C10aVYaV7QiXlP+IvY/87Ql/zUQEhQo3NRMlC8fLAwTA0jp++MugYW1bxMTTN+U9oExCe281D9lTLGMTYxRTYPnCCtwHM68SCgSOjF6LAZ3i+4aQFRuSb1N3IizEb8ZtJxNcFiLZdlErpU5OotwGfPNiWGkf5K1efnNahb6KiBCcd3JlI5lrMXX07hZez7MHi/jR/jcDiS4Gf/b1mTTIBzOUuy7c20Ej86bhwUleqeBfCfBMXZFc6Q=;tTJeP4hjiThOGBlThkrqwQ=="
+secured: "WlnorZClnVZUqulNKjnLABn02SzawiCl/3mZKMUEGDlPrfxOheRB6vGVLa+T99MAsyycQUn2RZSrKM4Hr6IuPhf/ZdA8CwOMwP3LXQ/4oCDZGMlzSV6fAKT8lxHY9MEh6sN8qoCU7D6nk0ZY7gRbyU16/0sfzeMV9ieJxrhu/tKGaCV7JvL7liRCWnY+Ju2puunZytk+ZLEYUKe5qEVgHqCkEXFWxUYC4rotTphH5rN2sbAMbtkzmqT3uMIC2YeHdNcYA8naFq5uDM+7Q0ZBLUguoHMsfeNrs/UdTjWWH+aQfnlD76IFJub5PpdjaLMEbnAhnuGRi5pm2RulOUINKJ40OPBw++XfD7Uh0AVjvqI+aQ7WUWXWRBv5QMP7jkBaAetwovPVu3XnxqVNylPCWUUOeNZrSoW+ZScnzrYqTMPxLlEc3cREba0NOXlIlFlC9QYMiY32Vw76XMXwUHMfBIh4rBt18rs0EmB3rA7+mzMVxcAwbBHRETcM/3Pb3q22D/+Ft/dqd7CKF4BVyhZ2EQ==;CQ6ZGQy+OX0E4X+xh76Myg=="
 ---
 

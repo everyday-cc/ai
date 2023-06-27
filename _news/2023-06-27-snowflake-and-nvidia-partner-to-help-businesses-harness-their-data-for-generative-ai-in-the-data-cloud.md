@@ -82,20 +82,6 @@ related:
         width: 1525
         height: 900
         isCached: true
-  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
-    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
-    publishedDateTime: 2023-06-22T20:12:00Z
-    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-805133/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
     publishedDateTime: 2023-06-26T11:17:00Z
@@ -139,6 +125,22 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Releases-Open-Source-AI-Toolkit-to-Promote-Responsible-Use-in-Finance-Sector.png?x22319"
         width: 1024
         height: 567
+        isCached: true
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in The Data Cloud"
+    excerpt: "Snowflake, announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path."
+    publishedDateTime: 2023-06-27T15:30:00Z
+    webUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
+    ampWebUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 45
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Snowflake-and-NVIDIA-Team-to-Help-Businesses-Harness-Their-Data-for-Generative-AI-in-The-Data-Cloud.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Dataiku unlocks the potential of generative AI in business apps"
     excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
@@ -207,20 +209,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
-    publishedDateTime: 2023-06-27T00:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the/article_da67b7d6-21f9-516a-8e5f-7ba468d31449.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 25
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/24/b247e86e-d892-5af4-9719-3201a0262482/649a283dc6442.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Adobe Flies Towards Generative AI"
     excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
     publishedDateTime: 2023-06-24T13:00:00Z
@@ -239,7 +227,16 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 19
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-26T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/26/9839167.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
-secured: "ugjnAIEg7elo9It7cKyEHkm8aEeR3+ita5B7rCbd2twifMRslkk9Q6ZlKkymqonaqbCppOjIFoDCUCf/KGyScKsV1sXCUfCyxpmzoAoyUcuFK/xqb5ZNMZS0tTBOyOq9ZVqE8j5F8zKHpg2VobTsIXlJwGr/uAx5kgIKMKCjP6NYE5SJFPFY2rrlcKrGz5but0tu8o4WfnkzJQQdeKyIPSmVdixoaNF1E64W+i9WBd6lDd8U6dnXDMnmVsTjGynX8cIDDkXNEQsgxr665b1FHBYiz0zDDihOYjC4JOlUGQefr7tWY0S2frCqzsxizxPpDa3IVmXxLVS+W+CnNDWFyHSL4lTKptwKTPwXE10lAZA=;fGWqereHoJyD3qJQUwnA5w=="
+secured: "Nx0n/zt3S/PlR6qYTuOLzT0rDO2iLq6/Rv8xnW5SGGx5PCCX0ODPPl8wQaaU4HPknpK1PlTp4nOypNz+rLgdmFJ2Wu7VDeI4YwcvC9RAZBpMjQWu02bvpbZX3T+IWk6vivQ11HFQEYH84Ze7NAWQnJAIvUoUdQ5KQj8YaRSCiqVRj1rKIbzhb6GtsgjrSE1uJE3JPfp7OzAI3TtSM3Fl64kYaynUC+7pPrfetZ9rJ/ZPJRuHmorQDdurSLi3bi1rimGLLHZm2UEANqm6nQ19ro2jLVPteMsYCcKrB/88fa5jbnzCvYPzpWkj0GuyviTmzj2biyZhQqNNHx8TlyJths+k5s+5jMFnSIL2ZSKht3wsrUo74N9pLEVBjOTx4Lr4YctAD8dzOPSv028/b09vS39mk5eD/SVEpNWrgx7p/gAkHcqWMW4XzS77PvtBs+/+TOt5malFFsg3dica8AAIfgCfWWKjxtLG49lCokMR94zVvSrlZK1HGHr0K9ZZVLKf7vODRQbdVy9PGFgWlggkaQ==;wQMxUvTrGqidYudPnfT5SQ=="
 ---
 

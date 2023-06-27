@@ -39,6 +39,15 @@ related:
         width: 1343
         height: 712
         isCached: true
+  - title: "IBM Is Cloudgazing With Its Latest $4.6 Billion Software Company Acquisition"
+    excerpt: "The acquisition news was a rare glimmer of hope for IBM’s share price, given the stock has had a gloomy 2023 so far."
+    publishedDateTime: 2023-06-27T13:37:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/27/ibm-is-cloudgazing-with-its-latest-46-billion-software-company-acquisition/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
   - title: "IBM will buy software company Apptio for $4.6 billion"
     excerpt: "IBM will buy software company Apptio for $4.6 billion, marking the seventh acquisition this year as Chief Executive Officer Arvind Krishna pushes the company's transformation into a hybrid-cloud and artificial intelligence business."
     publishedDateTime: 2023-06-26T23:38:00Z

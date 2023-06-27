@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Blue Chip Ads Feeding Unreliable AI-Generated News Websites"
+    excerpt: "and Elisa Xu — did not identify any of the blue-chip advertisers by name because “none of the brands or their ad agencies had any idea that their advertisements would appear on these unreliable, AI-driven sites.” However, they did note that the ..."
+    publishedDateTime: 2023-06-27T13:09:00Z
+    webUrl: "https://www.ecommercetimes.com/story/blue-chip-ads-feeding-unreliable-ai-generated-news-websites-177695.html"
+    type: article
+    provider:
+      name: ecommercetimes
+      domain: ecommercetimes.com
+    quality: 34
   - title: "The Download: advertising on junk AI websites, and forest bathing in VR"
     excerpt: "The news: AI chatbots are filling junk websites with AI-generated text that attracts paying advertisers. More than 140 major brands are paying for ads that end up on unreliable AI-written sites, likely without their knowledge, according to a new report."
     publishedDateTime: 2023-06-26T12:10:00Z
@@ -53,6 +62,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "9oGdx/u0Mg15WivGGNFbuk10OAlqxhPjI9gEJXW06wT7sZo1nc4kMPrNAMAyJbAYZV5xeQWryVzWcqrGDJbpkdf01MMic6rjQVa+DVvQmI/NTEPOSrwNnY/d6tb8ybdvgwKSSgOCWcJIIDU4CNIWxrJOy+3Tugi7RT9d8NWtY9AaeN0dkihGIhLJUL8Dl0lbCfIXcn4N6E/VCsvGnzjMidz7tQv4icyMDUKaH45nPiOlMe5B58VXoARrXlZ1NOq9R47SVKT860UjK5S3gPFz5uF5X/k/FwLRFsBwNSOSQoRJatLkg15v92NCap9IpbwpmgBoMDuDlpxLWexuLOH35WmijJfq1y+WkxxO6SmVKso=;vJjF82iFIn0AV2Vri/zPbg=="
+secured: "XQ3J3lqiUZszkw29+/7ervL32zENJJDKkz+qW/5uqRywTyYsjXoaw+nXBOb58BDaVhIAcGOP0oCur+F+MeGPvySgILAvEDkrg8HBaqEHP4yEnqdASil0l8GXuwK5ME6ud6HsT/CZusw6pCJ8Dy11jNJkLWbH7pHxvVMyAVJkh6drcw3P6KGY6g19e/yo+JofP8FGBr7Ozd3ycLCOmBujpTX9+QFive/lZK6qnu9bnGYEXPX3D/jmmL1JsFqEUe8g32o9FLZSM6zzzh64b805a/ydTE0VAvsEQ+0dBDoBQU24M3yHGEPcjgSva0rEgGy5aj81GXI1WdbZXFPM+StotilVr9AYjEQ389Wx7h3+QQzFdBM5vm1wvJ5ygnryiVcwi8wV1h3KCS98Tgwv1uPMMcHVNZTH3N8EXMhu2HFO9eMqHPgMNDF2BJtYuLGTSQr3vD7oNkdmZjot0wwzQg48LciwSi18fWgjyrVl9AzzHNMKjIPkFPXSzoNSgfB64Z36xuq1y3QJuDotVaeqOdZogA==;nwntwgIUIMSCFw6SzPlITA=="
 ---
 

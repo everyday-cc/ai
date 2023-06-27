@@ -19,54 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Wars: Google, ChatGPT And Pi On Creating The Ultimate Weight Loss Plan"
-    excerpt: "Can AI help you lose weight? Google, ChatGPT and the newest chatbot Pi were prompted to create a 1200-calorie meal plan to optimize health and here's how they responded."
-    publishedDateTime: 2023-06-22T21:41:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d5e189491462d8daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
-    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
-    publishedDateTime: 2023-06-27T08:29:00Z
-    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
-    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
-    excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
-    publishedDateTime: 2023-06-27T06:27:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/deepmind-1.jpg"
-        width: 1286
-        height: 675
-        isCached: true
   - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
     publishedDateTime: 2023-06-25T15:20:00Z
@@ -81,47 +33,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How to control ChatGPT with your voice"
-    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
-    publishedDateTime: 2023-06-23T18:02:00Z
-    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
+  - title: "1 AI Stock That Could Take You to Easy Street -- and 1 That Could Take You to the Cleaners"
+    excerpt: "AI stocks have jumped this year, but there's a lot of hype in the sector. One AI fintech stock looks poised for a turnaround. Another AI software stock looks significantly overvalued. Investors can't get enough of artificial intelligence (AI) stocks these ..."
+    publishedDateTime: 2023-06-23T10:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 59
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
-    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
-    publishedDateTime: 2023-06-27T05:49:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google DeepMind to power its AI with AlphaGo-like features to fight ChatGPT"
-    excerpt: "DeepMind's success in beating a human Go champion is a stellar example of its capabilities in AI. Can it apply these techniques to language models and outperform GPT?"
-    publishedDateTime: 2023-06-27T09:52:00Z
-    webUrl: "https://interestingengineering.com/culture/google-deepmind-ai-alphago-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 52
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/27/image/jpeg/51U1HcTsdW47Txd36NQ49l0LnzO7gI0DLaxc8SxW.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://g.foolcdn.com/editorial/images/736866/artificial-intelligence-ai.jpg"
+        width: 2102
+        height: 1426
         isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
@@ -132,6 +56,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "ChatGPT and generative AI: A tax professional's savior or nemesis?"
+    excerpt: "ChatGPT and generative AI are not the answer in and of themselves but are tools to help humans find the answers faster."
+    publishedDateTime: 2023-06-24T00:42:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/chatgpt-and-generative-ai-a-tax-professionals-savior-or-nemesis"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a28968b/2147483647/strip/true/crop/3543x1860+0+178/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa8%2F0a%2F870a669e49b7a3421d2812b6767d%2F394891899.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z
@@ -146,29 +84,6 @@ related:
         width: 1250
         height: 834
         isCached: true
-  - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
-    excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."
-    publishedDateTime: 2023-06-22T21:04:00Z
-    webUrl: "https://www.courthousenews.com/sanctions-ordered-for-lawyers-who-relied-on-chatgpt-artificial-intelligence-to-prepare-court-brief/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 23
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2023/06/steven-schwartz-manhattan-federal-june-2023-scaled.jpg"
-        width: 3000
-        height: 1995
-        isCached: true
-  - title: "Can ChatGPT brew a better beer than humans? Pa. brewery tests AI-created beer"
-    excerpt: "\"Jake Against\" is Second Sin Brewing's newest IPA and was made by the head brewer and co-owner. But \"the machine\" was generated by using AI technology."
-    publishedDateTime: 2023-06-23T12:05:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/chatgpt-artificial-intelligence-brews-beer-second-sin-brewing-bucks-county-pennsylvania/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 14
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="
 ---

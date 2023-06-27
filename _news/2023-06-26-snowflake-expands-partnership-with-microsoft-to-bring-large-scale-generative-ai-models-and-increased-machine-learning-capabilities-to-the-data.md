@@ -2,9 +2,9 @@
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
 excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-publishedDateTime: 2023-06-26T13:24:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+publishedDateTime: 2023-06-26T14:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
 type: article
 quality: 12
 heat: -1
@@ -169,8 +169,8 @@ related:
         isCached: true
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
+    publishedDateTime: 2023-06-27T08:44:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839286.htm"
     type: article
     provider:
       name: TMCnet
@@ -208,6 +208,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
+  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
+    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
+    publishedDateTime: 2023-06-27T12:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
   - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
     excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
     publishedDateTime: 2023-06-24T12:03:00Z
@@ -218,6 +227,6 @@ related:
       domain: techtimes.com
     quality: 14
 
-secured: "epw6KLxszLUJqFvq0RbvO1YgfOCfFgKcah5ievpXxArYpAFSkK6GvhN5gwUNSwnq+sKnxUOCHsn7NmlkR+wLOHs2ymVdVKCIqmYXmukSREMgbMEJ75S29T+t7wP6NWAmXT3DFE8RgpZqHvYcq17JK+fMn4nSXoG4tRQYAex/O7zE+1Xc+FExvr41SWzQG+Lo7g9oXqg2pRZD4M0mvP2OyqVr5jl2DMvrAPfo4iXxoxGSjDprcUCrA4xSbayinohQ7iI4/nYDXWdZ/DKXhe85WZZKt8TDM8Pk5Mb0qcQJu+73PcWC+ddc4XUPQwM8dqLMHWSeq7lwRcOU/4SJXz3GIx75ZfbbfK6OFxw+mIJ7Hl8=;5M8DFQRx8iawqfY1XKgIzA=="
+secured: "h1KS1DdIYYTe/5iTeWUcpEG45bgWSSZTP8PeerxN75VCcBaTWum8BRjl4PRen7HWIyDL5NF3BFhl5o5vg16NzSwu4HW3QRQlYQPvP0n40GE1TobdxRx5qR/3CDLdWk8d5qvIAS9nUMjDwE9wNs69vQhoKUPM1itpB7M8wQKh5e1qQ9pAtGhbX8jeDWheZj8yi0EJv2gan7RFCu8fMdGGIksS3WmYwWEFrtlj+KPzF0nYHTKlgKaPrtJnyeR/8JDXXoa8kx+EqKDX59GU6K7kn5Dk6sG0c4ZWC20s+aTbm/94RdGWQSZ4gf6FVRaJ8Q2z3Xo72dOCe6JvDvAUGXBr73SDI7TlKxO9QsQWWSR9+5U=;HMiC3TZ443A+bB1Ti63y9w=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Auddia Announces Breakthrough in AI and Natural Language Processing Technology for Podcasts"
 excerpt: "Auddia Engineers Have Successfully Combined Natural Language Processing and the Company’s AI Audio-classification Algorithm to Create a New AI Model. The New Model can be Applie"
-publishedDateTime: 2023-06-27T11:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839435.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839435.htm"
+publishedDateTime: 2023-06-27T12:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-auddia-announces-breakthrough-ai-natural-language-processing-technology-/2023/06/27/9839435.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-auddia-announces-breakthrough-ai-natural-language-processing-technology-/2023/06/27/9839435.htm"
 type: article
 quality: 24
 heat: 24
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "STNvubdt+9Qhn4ghaCek/pT1dHChEl3s6nEUu85YhbHBEFI/w3/m0XyhoBMJscHYQldEIv+VnC3fknIL/8LZI1mwLhQAbiyrcVnIj47V7aGGubG+kYK0Z7iPv8bAWwLX+32NyH0wk/W1KlziBP8Yt0RQK8MwqScqjrnWl6ffAVde/oIkHoTzzt/BOxjtFhGq4M2Y/r3ozBluLeXL03+q61TCZdUKx9gQgQCFzMPl0DS7UxqxrcqWxk2AHcpXISMKf8NTwQ2zz9MlHVhfioBFu57FDGGd8RqMmkwhrbaYEGyEZ8YvMHNZJkE/MS7UgUq+avxQY33y97CgFvGHirWJWo/hbWR9NTF2SLWTXxsvKYk=;GWVMI/QSCGH95F+a0voxDQ=="
+secured: "tcJjd1/EDZI3oyFGMFg2Km62YFY+E0TtVZR/F4djUEa3lSRnvNQMB/+u33wDx8ITq+o1jW6MtiRyYyKXWzBG6EA1QSlHUvQ6oWHpb4WSmwTZI3Dd/7Uta3UcUt4GyusrScT8HTCna9p++pYXIoDiuxlvmUnit77wugerMnSqc5XQLY/7HSRLCPjFp9jYtERoRFfU8UsHJKgA1VUWSURTHv9C3xfwujIBoYKJQt6chc0zAHm7IHwUfWlvMHag53+d/OWqfhfxfvnInHXl97P2gfm91Tn7d1tI/hF7SHMkEvyXxgrZtERj1WL7ZWN3VnfDDJoxXCnFrWIsquZjDDvZGeqyps4HAYyIwa289LP7BbE=;whSd8t/gYGW03WdBKdYowQ=="
 ---
 

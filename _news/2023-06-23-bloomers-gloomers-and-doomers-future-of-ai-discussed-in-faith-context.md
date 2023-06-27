@@ -7,7 +7,7 @@ originalUrl: "https://www.churchtimes.co.uk/articles/2023/23-june/news/uk/bloome
 webUrl: "https://www.churchtimes.co.uk/articles/2023/23-june/news/uk/bloomers-gloomers-and-doomers-future-of-ai-discussed-in-faith-context"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 600
     height: 314
     isCached: true
+
+related:
+  - title: "Ignore The AI Utopists And Doomers: The Need For Louder AI Pragmatists"
+    excerpt: "We need stronger voices that can help facilitate AI learning, and then establish the conditions under which risky AI applications can be deployed responsibly."
+    publishedDateTime: 2023-06-27T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbeseq/2023/06/27/ignore-the-ai-utopists-and-doomers-the-need-for-louder-ai-pragmatists/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "QiCqoXDbnIJPxNHXZ9RuPFCHHznms17d9AFU63cD5ARc4u7N7ZJsIX+DaB1TiLIL5cBd3NPKjhmoJpV1PrkkF8C3mDPXc+q4kb7QYwvyxEvcP5vn/ej/g3mYV3pJZiTdsdZetQkIhOzk21ce4Sph5nWI63RFt3BnvOqGUeCzSg6iHKlrYbr/6EoEcbT1o5y62huP4ww0C7G7T+zjCcP6p8nsYNCycy+JIVv9os+GpGcootSySD4WWSflBUXNYf1LcddskBpZjPSto+/rCuKWp1681bRtIf7/UIgc1qxPech+7N7ovG0WsC1ColqVOqxjUOzEIBhtsnCKVolKHdbPdAQwky4IboyS5gIlm6ZXuYY=;VyI5n6mobYtlRtK6CMGnJA=="
 ---

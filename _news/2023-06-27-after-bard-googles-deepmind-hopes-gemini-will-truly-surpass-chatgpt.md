@@ -73,6 +73,38 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
+    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
+    publishedDateTime: 2023-06-27T08:29:00Z
+    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
+    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
+    excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
+    publishedDateTime: 2023-06-27T06:27:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/deepmind-1.jpg"
+        width: 1286
+        height: 675
+        isCached: true
   - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
     excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
     publishedDateTime: 2023-06-25T14:00:00Z
@@ -89,6 +121,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "How to control ChatGPT with your voice"
+    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
+    publishedDateTime: 2023-06-23T18:02:00Z
+    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google DeepMind Takes Back What it Lost to OpenAI"
     excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
     publishedDateTime: 2023-06-27T06:59:00Z
@@ -100,6 +146,34 @@ related:
     quality: 54
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
+    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
+    publishedDateTime: 2023-06-27T05:49:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind to power its AI with AlphaGo-like features to fight ChatGPT"
+    excerpt: "DeepMind's success in beating a human Go champion is a stellar example of its capabilities in AI. Can it apply these techniques to language models and outperform GPT?"
+    publishedDateTime: 2023-06-27T09:52:00Z
+    webUrl: "https://interestingengineering.com/culture/google-deepmind-ai-alphago-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 52
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/27/image/jpeg/51U1HcTsdW47Txd36NQ49l0LnzO7gI0DLaxc8SxW.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -144,6 +218,33 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 34
+  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
+    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
+    publishedDateTime: 2023-06-27T12:21:00Z
+    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
+  - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
+    excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
+    publishedDateTime: 2023-06-27T13:13:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108164/gemini-chatbot-is-more-powerful-than-chatgpt-says-google-deepmind/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "How Google DeepMind is planning to defeat ChatGPT"
+    excerpt: "AlphaGo was based on a technique called reinforcement learning. This technique involves training in which software learns to take on tough problems that require taking actions based on making repeated attempts and receiving feedback on its performance."
+    publishedDateTime: 2023-06-27T12:50:00Z
+    webUrl: "https://www.gadgetsnow.com/featured/how-google-deepmind-is-planning-to-defeat-chatgpt/articleshow/101312979.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 19
 
 secured: "O0eubFkUUXLawZlkYv0MjpIHv3gSdOVA72GZ8niPLGjynQyQWanrzT+BHzmlSHC2CqUtRipmDrwrp4LJ2Zn9Vr/uv7QVgSn9KeR5+hlvypTHJh5dt4tBP0m618vYFwKR7pypOazGWOhFhUihWbwtPojIzbWtjCUEQqfIxZ8qIC63xcAKeNq8yWdaPjfO2nXrqYhn4oKRbJnEjbilGvX9yQG2MXYS1GTFdYnZ/aft2QKKyB5BQM6C8fKmAOz2i2UsZYP6LluGglE/c5D4Kkd6x0A2fKJKW8wq4tIy8fKFob81R0jOiV6w/v8a7d6OXPIBXAEapZynbWb31ob13tWvWq1zT//pm/9D6QZv88SZDI0=;GVNxTLX3lTc0aKo5+Pd6AA=="
 ---

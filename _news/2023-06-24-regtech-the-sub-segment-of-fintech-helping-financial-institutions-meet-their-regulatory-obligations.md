@@ -107,6 +107,15 @@ related:
       name: Bdaily Business Network
       domain: bdaily.co.uk
     quality: 4
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "DNkgFFSQbtyIWAjSPoQxyBiYGe7jHKQUpGmSFEO5sv05GyWqBuzlYis8ZdkOZS6hJazCMOAcOLYw23oFUN3T77PBHRe9kth2j0w1TXq3fUa01g47HjW41IrwkednCsSzNiO3cCjACbBU5wBVbD8Uecrq/WBfnbZXnvWiLAODObnPeZr6n5f3ntJHd7wyD7pmPtNGdM0aQms7yfrAHjoJ8X/Wgi7exZgR65wfazDvAzAjx3DGKM5hEQXmu5SJogNV+lKidOn5wepOG0d/EAl1KSwHIVSkz6cL/1LZfRR7yao45CKh13gK+W+w3a+Mx3Fd+tZQtHmQvSu5R+jJOs/ayQQb3u8G+SkbeK4ZIoWr4+4=;ceNP5hg2h6D6MeiM1rdK9A=="
 ---

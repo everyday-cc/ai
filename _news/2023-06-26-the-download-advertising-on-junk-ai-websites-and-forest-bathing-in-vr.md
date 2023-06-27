@@ -50,6 +50,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Blue Chip Ads Feeding Unreliable AI-Generated News Websites"
+    excerpt: "and Elisa Xu — did not identify any of the blue-chip advertisers by name because “none of the brands or their ad agencies had any idea that their advertisements would appear on these unreliable, AI-driven sites.” However, they did note that the ..."
+    publishedDateTime: 2023-06-27T13:09:00Z
+    webUrl: "https://www.ecommercetimes.com/story/blue-chip-ads-feeding-unreliable-ai-generated-news-websites-177695.html"
+    type: article
+    provider:
+      name: ecommercetimes
+      domain: ecommercetimes.com
+    quality: 34
 
 secured: "weKBMFUJNAW/RCuJMI1l7//1Qs7t1XCXiuF0WYwioJdeYlaW6e310I+sQMKGxf/0mHCUQ+mMfYRgNLhRWU/fGJWbpFqHCNWRdEOo/BOTw4tAvVCoifjbbKkT+8NNeeXKEoahvIhID3j3nnZA7vlQ8KzjNB+sgOsK7JDmFWm1MEnwQUy+k/5RzSRpBorVcRwYRuT0CWtfzl3zzaLXZuMTd804lAWrquhdyJNtVj4K7N5oTLWBN8ZTnwd5zIIvkyFyTOx+McVtKOHm1xCP0SJZf588W5wpkEkc5bUnq6n016XbHmNVB4D0BQf3OCZ4K2gnESa+B9vjomWedAx3a2CSg2aCtBunqwac0tTKxdL7eDyu2ne6hwFVlFHpojnAGHnOtMMll2xJsxIPxkw7euoAF0Zhm6t80Up2ucixQLA+0ggGn3CYhI/Mw8FkPU5zzl8t2MFUtVN9pHpiSXxj/9s0RpNTeVf4BqT+sPrdA4NGwXMRH4KJal72UbC/IOMxctD1XTHtN4BAW2g3MTfUHkFvZA==;LGJduj+Q35N1Awftrzl3NA=="
 ---

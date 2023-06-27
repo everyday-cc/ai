@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets"
-excerpt: "CHICAGO, June 19, 2023 /PRNewswire/ -- The Far-Field Speech and Voice Recognition Market is projected to grow from USD 3.7 billion in 2023 to reach USD 6.9 billion by 2028; it is expected to grow at a Compound Annual Growth Rate (CAGR) of 13.1% from 2023 ..."
+title: "Far-Field Speech and Voice Recognition Market worth $6.9 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+excerpt: "Speech and voice recognition systems must include an audio-playback path. However, an acoustic echo occurs when the audio being played back is picked up by microphone elements and sent back into ..."
 publishedDateTime: 2023-06-19T15:19:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59373071-far-field-speech-and-voice-recognition-market-worth-dollar-6-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59373071-far-field-speech-and-voice-recognition-market-worth-dollar-6-9-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32913346/far-field-speech-and-voice-recognition-market-worth-6-9-billion-by-2028-exclusive-report-by-market"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "MGRJTZVEdlTsjmctwZGE159hy8xVgT0/jYLRqAy+tFNqdn8y+XBADwfk1g+uhWJLEIt8bgtDg3MwcPtSY2jkSaN9Qw5f8Efodeowsh8CJEpCol0HaIaHogO+P762jHszdN5208Lv/JIqD5LBy1AqNJS/nsGapa0cgz13YNXFzWecgmT1MfzRowDglCjCIfA7eWPRhaFP8Bxl5LUC179sDVPGiQEbUXem1J1GACx6y8+Ex33PwYzkwKZ5gUUNeJ1lGPsyKKOS4Vq8PJ5JmhXDUtPeYR3bh2R9Ol+w5iUOxtV8EzJy2uE0JUcJyNmD2Pr3UB9l/ys/s4pz4I3SCSy4fjLZtnlxkF2sXGZNMnEOLJM=;XCyO3qbaew6+UwlIm1UrXg=="
+secured: "VCNT8Uz9PzamFBbVO0Rv7V0ypZqOmCYSlqNvRVvd/9NgWjWQzIuiaysdh3S8O8DEcbEckGQp+hU3qdMghMykb4xr6ayIKHaVoV6XzIR/IfjcNW6YrEwC4Jj1tZEMeyxc/7ozGScALUUrqe/j156YEIE1u1b+L72BXaKuSqta87rhA/fHKn0e+kaDM1gVpbQ6QTswTasH1xARW5BU1LjktUppY8yJT53WjBzuHCIsGYSSCbE7bWINYriIdyrNpRzvV7CQ3Ur82ef66FQ8/IvwzYGY+0qbzxkaXsVlqYt0Eh6vdN9F3RAB/YTV4zPQ8FZLb7gxtD3RYjwY6GQTBv0RVfmY2JnxrAtmkl0Mf4AH3VM=;CUBhGpA3tmpqTgg+3RwoWg=="
 ---
 

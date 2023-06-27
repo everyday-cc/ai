@@ -55,6 +55,15 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Samsung SmartThings to use AI to optimize home energy use"
+    excerpt: "SmartThings Energy also announced new features to allow people more control over their energy consumption and ways to save money and earn rewards."
+    publishedDateTime: 2023-06-27T13:04:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/sustainability/samsung-smartthings-to-use-ai-to-optimize-home-energy-use/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "xacFwAVuGHd+YFUyquwIc49Vw2aXkksOy3z2MuEIrVgScbVpmJdUTCXwGGzQ1cCxFOhxa00U2Bj4HZ0FfmOZkVcf8nWfDnpByi/2Y9ZTRVbTcV4wV7GVg94Rm8O5YNPkW//FX/8RQeZ8RsgwDg6YyQL6isiONutJ3heco3ZHfNhIG5O5zKDB0m05OeGD87YrnFxfGia64LC95g1F7CmSuhjGvfuCUM7odcPZcBDz2KOGy+trNprAetEJm+fhlcecegDa6mS0Z72ernHebU2XdaU+Kzxs220zp9PYpdvzXOqpJJhVCfDZ0TAZt4LYBJT8LDEH45OmhxKhh+zM90Z/y4vQDXjh2gcH7RiknpZWjZReXo0XepeG2rswIFwOeodFnbluh4N2+uUADE+BpD73Gsgt9H9Y3OtDBSMpeEnnp8nzQJkay605kQtUglgce9153mIMeJi1BSX8TsbANA21QNZgV37fHhlUGsjXHcHwgpUQCvKtFUZEo8ZKyy01UDitfOkXjvEelUYE9WcCVOSegg==;3TMSh+vINUKli5l9sUyPWw=="
 ---

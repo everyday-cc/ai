@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-ta
 webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -29,38 +29,66 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
-    publishedDateTime: 2023-06-26T09:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-get-an-amazon-amd-deal-boost-1032409143"
+  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
+    publishedDateTime: 2023-06-25T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "It Takes The Right Leadership To Beat AI Bias"
-    excerpt: "Learn, adapt, and address bias. Leaders safeguard businesses by equipping themselves and understand the dynamics."
-    publishedDateTime: 2023-06-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2023/06/24/it-takes-the-right-leadership-to-beat-ai-bias/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
-    excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
-    publishedDateTime: 2023-06-23T17:43:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/17966312/amazon-wants-to-teach-its-cloud-customers-about-ai-and-its-yet-another-reason-to-buy-the-stock/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 26
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/77f62d9f3180cafab9d14e785f0423ae/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f737330%252fan-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg%26amp%3Bw%3D700"
-        width: 3840
-        height: 2160
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
+    excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
+    publishedDateTime: 2023-06-26T19:57:00Z
+    webUrl: "https://www.engadget.com/congress-is-reportedly-limiting-staff-use-of-ai-models-like-chatgpt-195454777.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+  - title: "ChatGPT and generative AI: A tax professional's savior or nemesis?"
+    excerpt: "ChatGPT and generative AI are not the answer in and of themselves but are tools to help humans find the answers faster."
+    publishedDateTime: 2023-06-24T00:42:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/chatgpt-and-generative-ai-a-tax-professionals-savior-or-nemesis"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a28968b/2147483647/strip/true/crop/3543x1860+0+178/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa8%2F0a%2F870a669e49b7a3421d2812b6767d%2F394891899.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
+    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
+    publishedDateTime: 2023-06-26T03:11:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
+        width: 1250
+        height: 834
+        isCached: true
+  - title: "ChatGPT builds a tomato-harvesting robot"
+    excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
+    publishedDateTime: 2023-06-27T09:33:00Z
+    webUrl: "https://insights.globalspec.com/article/20657/chatgpt-builds-a-tomato-harvesting-robot"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 19
 
 secured: "LmBUgHmatuz+QPYxGgnEFXMyEApyX1Jvsf2/PxD3XZVW2ObbWlOdiiJfOGu1R1ZDVfHRZSc1vyV2bJjdDG19py1sXniB3sWUFc3RTU8dNL01wK0kNsITLMkL66TGfn/hRXcfkWAhLPG8Du60qHXVyiJbB9wuLRmFJR+pg3j8rocuTGQFPbILUIOwvgqPVSGSkO2sA1NrpH5M7LUB0LXKuyYkbY8ldtGKoEHlIXu0cWZLiULwTf35sz4AxVzmrZv1DrTg9GOhc8m7uPaMjb3ZOQtBHLWWIVjUeBNx5c1lNfTAVsPd2h9CBLAo1QDRT5pKfne6gNKOdtk5hY9E8zmGc6MC/oSNnedFKXY1cAc7+BM=;wBHklI0f7jneGyRd3lB/5w=="
 ---

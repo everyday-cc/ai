@@ -42,6 +42,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Blue Chip Ads Feeding Unreliable AI-Generated News Websites"
+    excerpt: "and Elisa Xu — did not identify any of the blue-chip advertisers by name because “none of the brands or their ad agencies had any idea that their advertisements would appear on these unreliable, AI-driven sites.” However, they did note that the ..."
+    publishedDateTime: 2023-06-27T13:09:00Z
+    webUrl: "https://www.ecommercetimes.com/story/blue-chip-ads-feeding-unreliable-ai-generated-news-websites-177695.html"
+    type: article
+    provider:
+      name: ecommercetimes
+      domain: ecommercetimes.com
+    quality: 34
   - title: "The Download: advertising on junk AI websites, and forest bathing in VR"
     excerpt: "The news: AI chatbots are filling junk websites with AI-generated text that attracts paying advertisers. More than 140 major brands are paying for ads that end up on unreliable AI-written sites, likely without their knowledge, according to a new report."
     publishedDateTime: 2023-06-26T12:10:00Z

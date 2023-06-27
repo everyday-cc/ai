@@ -111,15 +111,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-22T19:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32974414/amazon-will-be-prominent-player-in-ai-josh-brown-says-as-aws-launches-generative-ai-inno"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "gnn8hurICEVANV011P9eZZbqlxQ3BkcTNifCV6hHx9aGV0SD/sMwL2JaOb3bNb/hH2nigyV6hEJlVIOzS7SUeXNCS0Oy36pOMnK/ohpXeMn3HkNqyDkvQDKu0kMhZtPF6Z0Xa2cb0L5/1PQxiluNkagl+nEGrOZXO76kTJmwSKaB0QfJakMBi8SQ2NRULrSuQ/us5FthQDFOixfy95PoznOzLOYfzXNAXo5Y/nPm9DuZIcGmaceaT9evhBl823v8MSp3rHR+vBEueutVB9OhiGdVy73mKsUdHqpHb5UQg00+RMrPibXLKGcf5xeHW2zmdMZ3AYgVdrjz9C/QWyVVT1VERijJVSpLsSoAwSC+sCBmk6g3eg1KvBM5Ec9tqeFbTO5ZjChDu5hJeag6D3H26vw7XXx/PCEnAkbnDhJpDaf+6M4aWckvPX7iMknNG1w1JnqjS+MXWHTuLRT6In2MdxoC6eJbDW6WAEs1/VCmDKfxG3TAbOGi5tSFNUq7NirctU2bMpKZ3/oG1M9jNIbTTQ==;VlmHidjLIbKg1eL/io0xcQ=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
-publishedDateTime: 2023-06-27T00:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the/article_da67b7d6-21f9-516a-8e5f-7ba468d31449.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the/article_da67b7d6-21f9-516a-8e5f-7ba468d31449.html"
+title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in The Data Cloud"
+excerpt: "Snowflake, announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path."
+publishedDateTime: 2023-06-27T15:30:00Z
+originalUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
+webUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
+ampWebUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: enterprisetalk
+  domain: enterprisetalk.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/24/b247e86e-d892-5af4-9719-3201a0262482/649a283dc6442.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Snowflake-and-NVIDIA-Team-to-Help-Businesses-Harness-Their-Data-for-Generative-AI-in-The-Data-Cloud.jpg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -81,20 +83,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1525
         height: 900
-        isCached: true
-  - title: "Consultants Emerge as Early Winners in Generative AI Boom"
-    excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
-    publishedDateTime: 2023-06-22T20:12:00Z
-    webUrl: "https://www.wsj.com/articles/consultants-emerge-as-early-winners-in-generative-ai-boom-8df71d38"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-805133/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
@@ -239,7 +227,16 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 19
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-26T00:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/26/9839167.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
-secured: "boomtrZtte92nc4lgo6rTf1GT063bJgEQNa4rYCmw/zx0qrGt4OVCqCvKQOSRxssOHG2n17W/Bhr3bX/iXkdcOkYYKiQxASbjUwg9sxuN2kQbEA/+q/VmJO7Kv5Y12lecnUog2dTHgvIGfuoWJgIMYFfdlJ9TvPZodpqqMXLjxN+rMC0qVrZwOg2lcjeT8N8MT6+LuyU4T/kxhV2xUnhzHOUFyXSdNOOnYq5iFb07euN3es7tqCifxaZSyWQJWPd5r3qCwpovlVGzzCPSR6Ei9uPv2PeSQiwPqeMhqnldx5ecYXO1UJH2o+eXLftPuTNDrvawz4v/jKkuW/Q7Kb4OonmBoYKcIgD/rAXvmQWUpyl+5BeNMQezaohdLVLB+5mMrqf69FafP7UQ0ar9P501knpG+pucOv1n8XUAqeI9V6E0LWcJaIlNFdYmzMxUlYAMmymN4WzbnFPXYHtoyt3aSBEklAUaVYRqKLfNXukamkXfrZBIPAvvUit1Fh9K1eON4O6REBw0k33KDFsRv8RYg==;Pu90LfZCGCR1HG4jGFgYnA=="
+secured: "OOEVwe22GnoeTKhhHaB2B2hZ07L/uu9JAgEFb8qxesK9Lu69J9ixFUpkXwZMGSepouTvKJ/wpIdbjzFTnbbZcHX7Fq0W9ucr3kmACxh8t88Ud1zc7iUoAG6qize705uYYnwt10yeJHu4u6y3qdupNQiGpggTr7q5MUu4sLcpq+YFTgkwzHTDRKDfARFqqDs0N0Xcj+SAmRMOCo3fV5WFZDpFCUScOsBSmEC3gP8RvVBioCmmj7Yc7Xid5w27cmSQ1tzLvPtUYj1DkRk50c8hX7M2qQhsDxYfqab00pFRs1+Un0360dqixvhhw98YiTnWhzlun0x1jgRk1+0BDJsLQHWlg+d4aj1Xy7QsP8eYpgA=;RY5c0oWNVNr8JlMFDZffaQ=="
 ---
 

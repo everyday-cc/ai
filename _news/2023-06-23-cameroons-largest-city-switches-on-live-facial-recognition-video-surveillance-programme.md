@@ -58,20 +58,6 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 34
-  - title: "Indonesia developing facial recognition system for public transportation system access"
-    excerpt: "The Indonesian government is developing a facial recognition system to identify passengers using its transportation system."
-    publishedDateTime: 2023-06-22T19:27:00Z
-    webUrl: "https://www.biometricupdate.com/202306/indonesia-developing-facial-recognition-system-for-public-transportation-system-access"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/22152608/indonesia-train-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
 
 secured: "Ny//kUye0gZRnZsMCfRMwSYpLoYJmhQZk3ylfrShvoT5IAP36w9gIvmpMi06fNVDOuSrk74FC84nj4W9DN69JtXDWJofn9K08oEntMWnDUJRYQag8Q9eiNh1qI/QUJCikDRIscziMdVPgIPR7le18I+RvTOXBXS61KluJLMtvG7E2r3KkBlZiUZFxE58olgaL7nFcgBE9cpeRg3jrRKQBJb3h9lsUKlaMn5LKAuCbZywg2MVSss0UowgieyKpw3vfWSN8fJ1GLmqCcNOlc0FRa9Dl9vfat+X2jZC6t0nAfo/hk4iHyLhlvIcOR4hcP+xwZUkkETMiMbeuzfBxYwTvI1c3+mZaNE2RRYUiVFdhMNTZMswRV4lGv8vz13HyqUBeQDjgAW49GZRkcZuecZT9PhfZlMBeHt2klEkUXCU7k5ztGyLZaQPQ4wZvfdD0fgOUVRHxuPCJFU4afsEi4GPGAzLmLDWXQhh1JHRU90K1XVefQIC6CYIaojVLFh2jNcATRdf8ryxBo6IuhL9bunTRA==;PTvM3ep4LnJbkl9sW0SBqw=="
 ---

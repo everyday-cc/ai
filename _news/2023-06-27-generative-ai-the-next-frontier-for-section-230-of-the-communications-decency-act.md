@@ -53,20 +53,6 @@ related:
         width: 375
         height: 300
         isCached: true
-  - title: "AWS pledges $100M to launch generative AI innovation center"
-    excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
-    publishedDateTime: 2023-06-22T20:47:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-generative-AI-center/653726/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
-    images:
-      - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "2m9BH8Y5CHI83G2Rhs8pPmsFddXS0xavFx1sOqFo6SX98TUGf84JdL9OKyJAX/N5ZervsiyU2Ei1MVUzV30oBQuEA893Xd91lshfpfeneZumPBMWsSNLTN8Au5/B+C7DEXHH07th/CMX6awO0kYM36D79K8dN5g/FJGLz6ltUjBPNlv13WvjHwGyINuf/sLaeZOW7Tl4me2GvRnfKrjW5cvV6rTJKsLamRTIMdLbCatkRO1yKS9HyvHAYwc/QCRZ36Ps12jroUopC9TUEMKKehvQCgDuGMzo5WyE6WTugrInOZiLKag4ooEcfhzHgjUq0zOd0z6rsmmITkuHaLb3YSk0xU1tYkJe+Flb4KD/KMt4xRsHlLszcJhu/5x1uzLj9euaHlTulorgwiDNCNU3WDdZZQmT5LR0/YEBq6jFOnf0u3K6i2i5JmB2BvbNokG+2YMUq6W9GCG7B8+a4rvDMGpYCt96dV++XiaL9inlMBJ2wZye+BHI6LE0GjAPCVR+P1VX93NeP/NLAZKSbrXanA==;dGxIjzIYxAd8RhY0zv5aTw=="
 ---

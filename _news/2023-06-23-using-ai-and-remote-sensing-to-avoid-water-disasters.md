@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-rem
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "New York Is Buying a Supercomputer to Understand and Regulate AI"
+    excerpt: "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation."
+    publishedDateTime: 2023-06-27T14:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
     excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
     publishedDateTime: 2023-06-26T08:09:00Z

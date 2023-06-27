@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 410
         isCached: true
+  - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
+    excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
+    publishedDateTime: 2023-06-27T12:03:00Z
+    webUrl: "https://mixmag.net/read/artists-boycott-venues-that-use-face-scanning-tech-news"
+    type: article
+    provider:
+      name: Mixmag
+      domain: mixmag.net
+    quality: 14
   - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
     excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
     publishedDateTime: 2023-06-27T08:07:00Z

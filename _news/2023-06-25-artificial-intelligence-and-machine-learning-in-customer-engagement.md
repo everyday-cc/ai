@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/tech/artificial-intelligence-and
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/artificial-intelligence-and-machine-learning-in-customer-engagement"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The Future Of Product Management: Embracing AI's Revolution"
+    excerpt: "Artificial intelligence (AI) is transforming the world as we know it, and product management is no exception. It has the potential to revolutionize customer research, decision-making and much more, providing us with data-driven insights and paving the way for a future that is not only intelligent but intuitive."
+    publishedDateTime: 2023-06-27T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-future-of-product-management-embracing-ais-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "CaHpUwJij+F3RP2go19mQpuLlFzq/3NYmQ9RIxXTBKUvjMgHRe1OwlRdpZkVPEfz623iRTAarYsTo2811w/thvi7/Cr/xpp1tOAZ7NZyC/3DD3tcR/bFLfYx/0Xxcsq2thVXX4IZJfkUBalHmNBydwcoCXStM5xP5WIpWMJ3joeGffoeVod4W2BymuhBue9EhAZ7VbnLT8ssNEXt3H+wtM3BYziqmlZXVMTwMbmwBOl5l1Zzm8CiENHJVng90zXpARJfgsNLX4Qvg/WSIrO815CzZlb19CXFrmqJ5AAwHFcXNo2OrIvU27N+C3QJ4qDqdaTaGAmR4UnRLITMfuhwgB8Z0aqrB2ImiUAMUixgYNZA+w5YfKiYyIkKEHJ9y20AEHnTDF0fh+7SQ07iarnmDgbzW/6ScDE/fHSVgUXUMhnAhzamMg7l8imermPtWP+O/Fcd6c174AwJizUAwlW2Iv5qfDioIyQaPdifHkxtXYHcgq89tWEL2lrMCdbMnDp/eDN5jnOYWykPTOCbE9AZlA==;zpCruiuE4w1+I9CqloQYwA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-ol
 webUrl: "https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PC Gamer
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use AI to translate 5,000 year-old tablets containing mysterious languages"
+    excerpt: "Archaeologists are taking the power of artificial intelligence and aiming it at ancient tablets that contain mysterious texts that date back 5,000 years."
+    publishedDateTime: 2023-06-26T10:44:00Z
+    webUrl: "https://www.tweaktown.com/news/92088/researchers-use-ai-to-translate-5-000-year-old-tablets-containing-mysterious-languages/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92088_156_researchers-use-ai-to-translate-5-000-year-old-tablets_full.png"
+        width: 1500
+        height: 845
+        isCached: true
   - title: "AI steps in to save 5000-year old Cuneiform writing"
     excerpt: "With few experts left in the world who understand this ancient form of writing, can AI step in to save the language?"
     publishedDateTime: 2023-06-25T12:53:00Z

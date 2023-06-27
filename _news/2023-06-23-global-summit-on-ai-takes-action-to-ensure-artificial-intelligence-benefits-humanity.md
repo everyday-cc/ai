@@ -39,6 +39,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "UK’s Ai-Da Robot to give keynote speech at AI for Good Global Summit"
+    excerpt: "Artificial intelligence (AI) and robotics innovators will join humanitarian leaders in Geneva AI for Good Global Summit"
+    publishedDateTime: 2023-06-27T13:31:00Z
+    webUrl: "https://www.techdigest.tv/2023/06/uks-ai-da-robot-to-give-keynote-speech-at-ai-for-good-global-summit.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 34
 
 secured: "3TA3dfOBnK5s5ZcyQ9JrK3IakHjnRIbh9/wxbGRvjbV22cADBj/lKLHk1U+3qqg7F0T4pHyRDcmbBtssI47V8WlSqMOALx6MNDsEvexCwGoYdX70mGOG4T69eAinzUt4wET03guvdCoYnu/e42vPp8nATcUKKa/dCt6QIczQqx9C/nvm5dw+51VeMqW+GnYdNF1NcDZhxAg8nKSabqA73JjXw6LgJM0czJ14YSEPGFmDipUZmM+aeX1jcangU79QBdMdQYqw4oaAkmPrgVdL8cWvH8yL2DAtIvSdlsf84RIKHIE2WQ5orA8BQhR0fiWSmJXycV+mWRSIuKtvfwd2VjTjZ7hVVFGwpLMKbxk5krI=;3UZxcXM23RPYi+2MIE7pgQ=="
 ---

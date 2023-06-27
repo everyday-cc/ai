@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-custom
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
-  - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-22T19:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32974414/amazon-will-be-prominent-player-in-ai-josh-brown-says-as-aws-launches-generative-ai-inno"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "USCaJ9dfxJNueT532Ew6Z4ZJugIpal74iBO7A+O12DPht9dH8s8BNirHJO54v8CiX6gGLixNzaifspkKv1QYGOVVqGNnaNHunFV9xmbC3wMlVnYlRuCvOj5lE9OEEcZCC5Oq/uUwlcpUdbPPYvyudSCzdi5eeTGMtzF7DzRsN1WJtLNTfYfV4TFfriy4mS7xGSYDkngetDhkclumaKt7yN4rI8h6s2xFOkxW+1hnlK4xQQsKGLKQU/fakrNkn0KnLQSgAorg4+t4nRuTDzW+OCkE3UiZCpnYZlHLx3fs3N5lxJ5vi2boVo7wwusxeQHARAF7FJQMs5xmwiCUbUoDb6yqNuRepIh3y0h8dKkaM3Ax3F+HTf2XWy4uu/OtiN72V/UQhyvNBBVGB//XX17D/Dj9l53D0w5MBbCygbBvbFP3pvdHLB6j21jQDaeZEXdTXgDewrg6cVBAdX61AKRBa/7vnqiWIxRhfkC8kA2/4N8IzMIHTcP+xM/iTy5lVDFLmiB4cZWhvyybRtpHi1GzVQ==;f4P/al4A2fHxvm7qx+G0zw=="
 ---

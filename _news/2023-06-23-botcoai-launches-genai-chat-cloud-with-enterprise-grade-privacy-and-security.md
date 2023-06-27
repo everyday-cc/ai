@@ -49,20 +49,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Faros AI raises $20M to bring AI insights to software engineering"
-    excerpt: "Faros AI, an AI startup focused on software engineering, announced today that it has raised $20 million in Series A funding."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://venturebeat.com/ai/faros-ai-secures-20m-engineering-leaders-data-insights/"
+  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "n0UrlSMzu83J6uSQUYwVkdCDOILkvS96vazGhgv4MeK2RQWVI6V/vLUTyP5mZFRQAJ0KLG+XshXddug0oNh1g7T26F+Fr2oKSq4Mq19c39UHWeiInh55pzHYMYDano6Px8+9LF8UbIgZsth7sQBceSi+0hJE1j8+wT3d5RMr2zGo40cBqPLFG9LFYiUxQhC+foE08zxQ/RlI8kn0pWophszLTfGfmCH9DAbi+oUnN73SUDlkeBiRu/LqEe1r3ZiPSltWI6CK32Ht+H+NtsUfEFBo5jVBXGdTk8fVKpvfLZlyV6rA6P23Ryd+FXWB6aU0AIVSLsFVMsdKu+eG/z7Nn283ndqvvMfXRc8GPnq4IHs=;SSGaLY1OuQ/P/xeZ7NtRsw=="
 ---

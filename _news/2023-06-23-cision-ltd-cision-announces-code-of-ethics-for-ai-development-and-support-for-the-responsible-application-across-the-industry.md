@@ -129,20 +129,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
-    excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
-    publishedDateTime: 2023-06-22T20:03:00Z
-    webUrl: "https://www.unite.ai/amazons-aws-invests-100-million-in-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/06/aws-header_tvMEUF2.width-800.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
     publishedDateTime: 2023-06-23T04:20:00Z
@@ -284,6 +270,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
+  - title: "Artificial Intelligence can Support Automation and Independent Learning"
+    excerpt: "Even though it has two sides, it is believed that artificial intelligence still needs to be optimized in the world of education. For this reason, it must be ensured that its development and utilization are ethical so that it is not misused."
+    publishedDateTime: 2023-06-27T12:30:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-kecerdasan-buatan-dapat-menunjang-otomatisasi-dan-belajar-mandiri"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 21
 
 secured: "FA8HJQghq7OgGKY87H4lmvIfQiBi0LJnHjD536yr3q8tabOZVEdA2WphjBAA7MnESP1fNb4hmg2s/Bv/TzDMlMG4VH170wJIdbNj7oNpv2o453erIE30J9+AxRfn0QAGpQ4ILhnFjqPrelLgbRPXrtVVtjTbxJtYNXrVlr50Oq22ni7xWpI/FIx0erUBGtrdxaxsYw2WAdnAdUTQFUZHUpY4uzT6/Y/WNkiy/QGWk8fEAE7Wfk6DFnWukAP5kKUmdA6qgPY+Dfcazd6Rfvb33Qi12RZiXTzI1eFvvzqnX0nJrGiXyPgAeireqC3HzzMTObjUl5oWpBN2H/JhKAI+4C8HgIqXicXHJHZe9qf/xMwRAGvmJ/Fdn1qJBdwXdkkY3bjy4Bl/TXsHiA49bInpPlLNZo93xvPYfNuo5U/ie797ftH7PkwRCWvcFGQz1sC5lKCKmnw0UiTby24dONO2rEaOiErDQBFENUoDy0cN5v442XnkhWhli7Wr+DzKurYSV+OXgcGW31F25U9u9yC5rA==;eCuyrIcUPGEOx5p0JMxtJw=="
 ---
