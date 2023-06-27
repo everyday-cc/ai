@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Media must not confuse voters about Indigenous support for voice, Anthony Albanese says"
+    excerpt: "PM reels off names of prominent yes campaigners backing ‘a moment of national unity’"
+    publishedDateTime: 2023-06-27T00:06:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jun/27/indigenous-support-voice-to-parliament-media-must-not-confuse-voters-anthony-albanese-says"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jun/27/indigenous-support-voice-to-parliament-media-must-not-confuse-voters-anthony-albanese-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jun/27/indigenous-support-voice-to-parliament-media-must-not-confuse-voters-anthony-albanese-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 36
+    images:
+      - url: "https://i.guim.co.uk/img/media/f12eaf0427d779a696dff2e800a3f399e6e04f22/0_2_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=da31bdd10f8096052f436130c0bd707e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Albanese will lose his Voice unless it changes tune"
     excerpt: "Unless something dramatic changes, the referendum for an Indigenous Voice to parliament will fail. This is the stark evidence of the published opinion polls. And while different polling companies show different levels of approval in their latest results,"
     publishedDateTime: 2023-06-23T17:30:00Z

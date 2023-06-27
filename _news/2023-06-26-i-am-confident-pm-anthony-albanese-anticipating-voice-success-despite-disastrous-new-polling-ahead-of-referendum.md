@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "‘Certainly want this’: Anthony Albanese backs Voice leaders despite poll slump"
+    excerpt: "Anthony Albanese has backed in the leadership of the Yes campaign, despite flagging support for the Voice to parliament referendum."
+    publishedDateTime: 2023-06-27T01:43:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/certainly-want-this-anthony-albanese-backs-voice-leaders-despite-poll-slump/news-story/5d835e79186233e1b51a52cb47ddffa1"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 15
   - title: "Anthony Albanese says the voice will have no power of veto yet some senators persist with allegations"
     excerpt: "Anthony Albanese has accused some politicians who oppose the Indigenous voice to parliament of dishonesty by proposing scenarios they know to be impossible."
     publishedDateTime: 2023-06-23T17:24:00Z

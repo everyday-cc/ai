@@ -151,6 +151,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "YouTube is using AI to break down language barriers"
+    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
+    publishedDateTime: 2023-06-27T01:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
     excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
     publishedDateTime: 2023-06-26T11:08:00Z

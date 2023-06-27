@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "NASA is building an artificial intelligence that will make talking spaceships real"
+    excerpt: "NASA engineers are saying the agency is constructing a ChatGPT-like artificial intelligence interface to assist astronauts while on a mission."
+    publishedDateTime: 2023-06-26T16:16:00Z
+    webUrl: "https://www.tweaktown.com/news/92089/nasa-is-building-an-artificial-intelligence-that-will-make-talking-spaceships-real/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92089_56115_nasa-is-building-chatgpt-like-assistant-to-help-astronauts_full.jpg"
+        width: 1500
+        height: 682
+        isCached: true
   - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
     excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
     publishedDateTime: 2023-06-26T14:59:00Z

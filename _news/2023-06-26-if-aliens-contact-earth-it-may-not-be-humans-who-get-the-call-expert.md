@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aliens most likely to contact artificial intelligence before humans over likely ‘kinship’: Expert"
-    excerpt: "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a “kinship” with human"
-    publishedDateTime: 2023-06-22T08:37:00Z
-    webUrl: "https://nypost.com/2023/06/22/aliens-most-likely-to-contact-artificial-intelligence-before-humans-over-likely-kinship-expert/"
-    ampWebUrl: "https://nypost.com/2023/06/22/aliens-most-likely-to-contact-artificial-intelligence-before-humans-over-likely-kinship-expert/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/06/22/aliens-most-likely-to-contact-artificial-intelligence-before-humans-over-likely-kinship-expert/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 46
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-slnc7mo7h-1687421450424.jpg?quality=75&strip=all&1687407184&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Aliens most likely to contact artificial intelligence before humans over likely 'kinship': Expert"
     excerpt: "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology."
     publishedDateTime: 2023-06-25T18:10:00Z

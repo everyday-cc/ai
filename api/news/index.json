@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
+      "title": "Here’s how robotics in healthcare settings could reduce wait times",
+      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
+      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
+          "width": 695,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-get-ready-for-ai-powered-social-media-scams.md",
+      "title": "Get Ready For AI-Powered Social Media Scams",
+      "excerpt": "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
+      "publishedDateTime": "2023-06-26T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ibm-to-acquire-apptio-for-46-billion-boosting-hybrid-cloud-and-ml-services.md",
       "title": "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services",
       "excerpt": "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year.",
@@ -155,6 +251,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation.md",
+      "title": "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation",
+      "excerpt": "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T11:52:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -321,7 +460,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -809,6 +948,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-bentoml-scores-9m-funding-to-expedite-ai-app-development.md",
+      "title": "BentoML scores $9M funding to expedite AI app development",
+      "excerpt": "Chaoyu Yang and his co-founders have built the AI development framework BentoML, which just announced a seed financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1224500457.jpg?resize=1200,886",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
+      "publishedDateTime": "2023-06-26T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai.md",
       "title": "HPE GreenLake Large Language Models And IEEE Urges Ethical Use Of AI",
       "excerpt": "HPE announced GreenLake AI Cloud for privately trained large language models. IEEE cautions that in addition to the good that it enables we must avoid AI for malicious applications.",
@@ -1058,202 +1249,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-aspen-ideas-festival-2023-live-updates-former-google-ceo-eric-schmidt-to-discuss-ai.md",
-      "title": "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI",
-      "excerpt": "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
-      "originalUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230623-aspen-colorado-live-blog-cs-4a7c50.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/rcna90875",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875",
-      "publishedDateTime": "2023-06-26T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-to-boost-personalized-email-campaigns-with-ai-technology.md",
-      "title": "How To Boost Personalized Email Campaigns With AI Technology",
-      "excerpt": "There are several ways AI can be used to improve email marketing campaigns, such as: • Predictive analytics. AI can now analyze subscriber/website visitor data to predict how likely they are to open an email, click a link or make a purchase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6398900f0db7ac9716620eb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
-      "publishedDateTime": "2023-06-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-uk-artificial-intelligence-ai-statistics-and-trends-in-2023.md",
-      "title": "UK Artificial Intelligence (AI) Statistics And Trends In 2023",
-      "excerpt": "The rapidly growing field of artificial intelligence (AI) has the potential to revolutionise many aspects of our lives. With AI already powering everyt",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/06/pexels-cottonbro-studio-6153354-scaled-e1687161473695.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-and-cyber-defense-2025-decoding-defense-strategies.md",
-      "title": "AI And Cyber Defense 2025: Decoding Defense Strategies",
-      "excerpt": "That principle resonates strongly in an era where the rise of generative artificial intelligence (AI) is causing tectonic shifts in cybersecurity. In response to these clear and present risks, I hold an optimistic vision for the prevailing good that can emerge from AI's intersection with cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64959ac665e1e518488daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
-      "publishedDateTime": "2023-06-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

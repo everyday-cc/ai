@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-net
 webUrl: "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://i.insider.com/6495f26ac218ba0019a7f11a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Our early-adopters index examines how corporate America is deploying AI"
+    excerpt: "PitchBook, another research firm, concludes that in 2023 some 25% of venture deals by s&p 500 firms involved ai startups, up from 19% in 2021. GlobalData, also a research firm, finds that about half the firms scrutinised have talked about AI in their earnings calls since 2021 and that in the first quarter of this year the number of times AI was mentioned in the earnings calls of America Inc more than doubled compared with the previous quarter."
+    publishedDateTime: 2023-06-25T18:49:00Z
+    webUrl: "https://www.economist.com/business/2023/06/25/our-early-adopters-index-examines-how-corporate-america-is-deploying-ai"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230701_WBD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LwYS8cLL6GINcSlz7s5LxLN5Lo0dRTgEmHKD+jYRSA0VyOWwXGk//cPbbuPYVzhEB4ihjn9ImrIbZ4OFkfFNYslXinjHM64FUOKn8q/iLdU8vz8mlndazPzecwvjvKiN2hnIim4CDOu9/DFdE+prbxM+0VGT4P6SP9ND9rndcpZJD6udNA0wbkfr5InSvXzvfNWPqs3F8ca7dBDq65mCoIs3CCyxTu9FJnLolCBjfdMWRHeE9T5rVzFcIvSpvZjg1o+wUAbeTVp5BVbYggPoRVl+r4Vjgt5XUJubQsuivNNC3wadxvkvbSeTbInwqLHUBygvo05+jup7qW1oV2yYGpwK/klNr7nAamjfNwmOrpo=;FXPIlKGOFVvzOIwxJg6XkQ=="

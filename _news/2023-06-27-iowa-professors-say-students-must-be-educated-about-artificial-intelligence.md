@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-26T23:16:00Z
 originalUrl: "https://www.the74million.org/article/iowa-professors-say-students-must-be-educated-about-artificial-intelligence/"
 webUrl: "https://www.the74million.org/article/iowa-professors-say-students-must-be-educated-about-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.the74million.org/wp-content/uploads/2023/06/iowa-professors-artificial-intelligence--825x495.jpg?cb=710925"
@@ -24,6 +25,6 @@ images:
     height: 495
     isCached: true
 
-secured: "OVpGF3ARWboq4cCfDGC67m4dcQo65rpRRFj+d2xmGYDwDcsy/yUeL5VgZuDeXSrwqCDVG67x7CSPl3lLxvfq5iJfZC8nsMxW5DsKOfnU8Muu3FXLMMIDpFxZ3Yjya8QscQZRF0eW6XmegqTupkZPkXL0oqUmL5jdHj2w9sGkZNdi+lI7KRnk7MoA0/y3QcjiEU2v1khwaSEvCkl7oNqqUu7uQyMvO31vUenkNb5gV6OREVljs7BJ2NHQRViReOvkhaOBTercwHX8Bix/CmcLQk6xHz30AxOfi7fvnBmTnU57Mc47AfKUoLUaCOwvYwe1KD0XCiApAA86RaVCRtUKSd73DJGGkRhawdFeutvOGkc=;O10pgdIGFN85o4YM/UHBcQ=="
+secured: "YB1ScNv8SKQisODtF470weUOz2DXDMGRIVY3HSXx2gfUg1TxOLW/CMwMhHK5MWIfAkuoyd5D17V15ag3VrLx85BdzHqRzPIOJNwUl7ylRYGrf+5UszRJ4QeyXUf6mGzlp24QmM7OvIdsJEYMiv/0n/Yksr2ERWi1nXRae+FjV3JIEO9WcxiRbyx3BlR81YoXlhpjq/rtEwOTq9G0Z51J/nqXrnNSunDg02yfJDDh3wzhehluf5shZ6onhMcgpyKxHC481aSuoOE2ThQ1hhcAnh2Fwyt14AqxqR8pgcf3xymhYAvSXUrj4GlnXiplg+P0E4sBXEbI/wrhvERZUTUF1rnwsrdsWime7Kqch/67fNg9oBSi8K9NOzCkeO0WvWn8Y2lKW+/kAWgJpCQ87MpOjmn017KiG0Ew1a/8QmMBNyqHvJA5BANmLNcTAkNj/NY8w9KMPcfnt+PjP1EClOYgawnzWsC58gHjvCFyWZ0TaLiaIwwDkUjE8ThAn4G9liz4jIhMDVW+27+9AYofqn66tA==;qrpdmp3nfUiu4umHsQN1DA=="
 ---
 

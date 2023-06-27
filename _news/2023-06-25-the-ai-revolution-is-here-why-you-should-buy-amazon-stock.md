@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-wh
 webUrl: "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/"
 type: article
 quality: 69
-heat: 111
+heat: 109
 published: true
 
 provider:

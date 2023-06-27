@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-23-the-65-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
+      "title": "The 65 Weirdest, Most Hilarious Things You Can Buy on Amazon",
+      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? You can also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-65-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon-FT.jpg",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-announcing-the-updated-microsoft-sharepoint-connector-v20-for-amazon-kendra.md",
       "title": "Announcing the updated Microsoft SharePoint connector (V2.0) for Amazon Kendra",
       "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
@@ -1427,58 +1470,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability.md",
-      "title": "The AI era of risk management is a win for financial inclusivity and stability",
-      "excerpt": "The applicant takes a selfie and a picture of a document that confirms their employment and income status, which is then matched using Amazon Rekognition to verify their identity and immediately release the funding. This is particularly important for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
-      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/nvidia-art-5-hero.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

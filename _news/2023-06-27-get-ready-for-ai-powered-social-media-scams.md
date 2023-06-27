@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-p
 ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -46,21 +47,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Our early-adopters index examines how corporate America is deploying AI"
-    excerpt: "PitchBook, another research firm, concludes that in 2023 some 25% of venture deals by s&p 500 firms involved ai startups, up from 19% in 2021. GlobalData, also a research firm, finds that about half the firms scrutinised have talked about AI in their earnings calls since 2021 and that in the first quarter of this year the number of times AI was mentioned in the earnings calls of America Inc more than doubled compared with the previous quarter."
-    publishedDateTime: 2023-06-25T18:49:00Z
-    webUrl: "https://www.economist.com/business/2023/06/25/our-early-adopters-index-examines-how-corporate-america-is-deploying-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230701_WBD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "NQ3ZKIXffbRfXZQcnxVQ6Uml5jCKzZGFmyo3TilfNhd5NKIx5HNbNhUcM7OCvJHM2lLGitnmeSRfBV/9oGiFkIGPU51Eg5x38HfJCUUpNqtdSNLWjo8Wqmga91fudD8EEB7a0ZT3M9agW2jSOkVWE++Mr96SYAvYF6arGHfYKbKz5VKjQidasCToot1LXwYsaSXby+2evyd89pezn5D/ax2X21ZJ+3FMbGr/iBWi6hLtVGU5hm8KClUfyx3mOj/Rq4LdZC7SdCWgrBcOMOw6N0BmfeO6DXiM+Ckk6X8txaPsdxfmI9IJc7wUOYiW4HcW5/P+cE6ndfL4G18sj/toYUfuWjhjv9VCvOJtnmP44ZQ=;25DsKH9DLI3Uecm5k08lJQ=="
+secured: "9/LBEm8ItpT6PeYtxqz4F9q6/Xz44/bWJ4hX+9Z2mPtYdLqXRa/KASCIkvWJcfJ+qW2PecvYk7Uk4GW0BZSqdPski1zIzpqGm5khECstrR1foC1y5ps1V0HITm5vstIDaRrKJlYF85USmidFABhJbCGpoR6+RzHzzJyt5dxX2IyBOtRJ64wX5r/MSzrR2/jaZKwsTMucnCQRXpJDytkvFmWV2LA4zircPz+mBAaiSItykPgJBhYB97i2rFLqIpxB93lasCUwp5Sif6Muh7uZH81WjjU5qzy7aBIilxi7NAaz/xd5s8FCOv2NpX5a2a4VzsFuHAGAVmuxT1yVAJfehyc81Dyrex+oBKBR+dymLfdE+ZGGtTIrjR3izVjPJGXYIVZp0q5IGnvKnXMAqd/IGW/m6mnoW0q0aFT3bvVtov/qQ9MpO42ErMzlrbCqSwxB/TpznPX9cEfVT3b1s9LYH2f1PIAcfT46UXHuFk8Xc2mV1jeRPjnMMZ/0MvquWLN0QIGsIVqDUhCk10Vdu+P6fQ==;PdqgDEjgL+Y49CWngknubg=="
 ---
 

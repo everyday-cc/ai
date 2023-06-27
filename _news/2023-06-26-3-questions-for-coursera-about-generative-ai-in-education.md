@@ -70,6 +70,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
+    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
+    publishedDateTime: 2023-06-27T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
     excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
     publishedDateTime: 2023-06-22T13:02:00Z

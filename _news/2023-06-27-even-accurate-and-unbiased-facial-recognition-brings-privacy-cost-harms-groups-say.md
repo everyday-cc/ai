@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition attendance for sanitation staff soon"
+    excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
+    publishedDateTime: 2023-06-23T02:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg"
+        width: 660
+        height: 439
+        isCached: true
   - title: "Voice Speech Recognition Software Market size to grow by USD…"
     excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
     publishedDateTime: 2023-06-23T00:00:00Z
@@ -49,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "W8EoFs1g/U7T1PUXCHlbuzBXMuweNg0BND1LMFL0XV5W0oDa+vdvR6BNHo08OZr5JgfxoIaPsWjJhFuojbWqsn4pJrgPjn7Z3Ufr4c2GkiTjmKyWIzwmrN813Dt4E+VuyXbzA9lJndE9gpLYYLu83gl8Dbx16Vhqv2Apq6bT1vqaC2p5Y/PbOHkFK4/7xPvJz5R9h02fCnuROeWSZCc/qpsXBqkAdzgoGF2CrMpLGQHrtRGoneka35DxnHnFofRvQoWl7yQWXSWFw7jo6XTnoPEj30xrqIU4UPfDzRirlwRtOn4lFLeE3AH4qppkquiVHrJpk4mSdzZrfMY2L/23pteEAtDVvoWK6mrudbMYLjc=;GCv2kI8FgrLS+Bve/OyEmw=="
+secured: "Iw2UCgbbgac/5mAcYNNYm5h9ionBz8NvY2V0ff3u8t0n2UgAOOTW5NyPpULkRLrIj7lpjWDwmc7s20cf1tKzS8eNh8+57hNxFvvDmD3qbDS9e6oKSvxG7NvhWdBMybTxbwfbkO8sjUlirZnOSRqm/YrdwlZxvBdL4N0jyylqz5BeJHo0TRk+f8AyeIkPOUIz0YE6AAFZSf94AOur4HGTRrMy8AthE2wwB92HFo9f249e+W1DXm/KpsTp8UC/zbhfyGKIg/5a2Mul/ctLmC3JTci5emuJrMWUlhlVWFHcGvfyMct7RItjdQUUtEdXzPIn1PLwT2xjLY5OI/ETgGJ3lDGc756CVPaS8GW4AZ9Rk2/jNyAgaZ8sH3K3ksvN0HMJCMeT9XBbSNQ6wKOqAdav4FOpJ3D55Um5MfdzBJI2C6l0jQWLPSDj+im/Q7bntdpBb9gGy4DRXx2vO/6tEJV1FOGxU3jHuNlRPScpEgsU/kyKheU3j1JMHV6Ftdb+Sqsk4rfW4lD3Y2xVD8cp22C/4Q==;2eZ9/NZcI+nQmGpXw+KAIA=="
 ---
 

@@ -2,6 +2,161 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-05-15-unlock-productivity-with-advanced-generative-ai.md",
+      "title": "Unlock productivity with advanced generative AI",
+      "excerpt": "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/unlock-productivity-with-advanced-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/watson-assistant-ai-for-customer-service-create.Original.jpg",
+          "width": 1217,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T09:44:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis.md",
+      "title": "2030, Machine Learning Operations (MLOps) Market Growth | Future Prospects and Competitive Analysis",
+      "excerpt": "The \"Machine Learning Operations (MLOps) Market\" is one of the sectors that is expanding the fastest, thus it is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-machine-learning-operations-mlops-market-growth-future-prospects-and-competitive-analysis-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app.md",
+      "title": "Leveraging partnerships, technology, and design to enhance water quality through the inaugural Aquality app",
+      "excerpt": "Summary:&#160; Maintaining good water quality is crucial for the overall well-being of people and the environment. Yet, Our World in Data reports that one in four people do not have access to safe drinking water. The world is making progress on clean water and sanitation, but is still far behind its",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app/",
+      "originalUrl": "https://www.ibm.com/blog/leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-aquality-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Leveraging-partnerships-technology-and-design-to-enhance-water-quality-through-the-inaugural-Aquality-app-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T08:57:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-ai-isnt-coming-for-your-job-but-spotlights-outdated-learning-development-practices.md",
       "title": "AI Isn’t Coming For Your Job, But Spotlights Outdated Learning & Development Practices",
       "excerpt": "Given the rapid advancement in what technology can do for businesses, companies must approach learning & development more innovatively to equip their people to maintain relevant skills.",
@@ -1096,152 +1251,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-google-launching-tools-to-identify-misleading-and-ai-images.md",
-      "title": "Google Launching Tools to Identify Misleading and AI Images",
-      "excerpt": "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
-      "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country BALTIMORE -- A passenger walks up to an airport ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_d8b6397c02afe16602c8d34409d1451f_4x3_992.jpg",
-          "width": 992,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/Business/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322639",
-      "publishedDateTime": "2023-05-14T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare.md",
-      "title": "The Race Intensfies: Google Announces Bold Progress In AI, Advancing Med-PaLM 2 For Healthcare",
-      "excerpt": "AI has been all the buzz in both Silicon Valley and around the world for the last few months, especially after the release of Chat-GPT and advanced generative AI systems. This has triggered somewhat of a frantic rat-race amongst tech giants: everyone wants a piece of the AI pie, and the race to the top is intense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6461b63580f36a6d14cef342/0x0.jpg?format=jpg&crop=6058,3406,x0,y61,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/05/15/the-race-intensfies-google-announces-bold-progress-in-ai-advancing-med-palm-2-for-healthcare/amp/",
-      "publishedDateTime": "2023-05-14T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

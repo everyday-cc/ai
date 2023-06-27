@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
+    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
+    publishedDateTime: 2023-06-27T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."

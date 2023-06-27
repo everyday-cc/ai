@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-30-ibm-tech-now-may-30-2023.md",
+      "title": "IBM Tech Now: May 30, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at IBM Watson Code Assistant, IBM Hybrid Cloud Mesh and IBM Event Automation.\nThe post IBM Tech Now: May 30, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T06:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-can-chatgpt-really-think-like-a-human-qa-with-ai-scientist-dave-ferrucci.md",
       "title": "Can ChatGPT Really Think Like a Human? Q&A With A.I. Scientist Dave Ferrucci",
       "excerpt": "Artificial intelligence is getting smart quickly ... Ferrucci is best known as the creator of IBM Watson. Developed in the late 2000s to answer questions on the television quiz show Jeopardy!,",
@@ -1357,58 +1399,6 @@
       "topics": [
         "IBM AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-managing-aws-s3-pricing-and-costs-with-ibm-turbonomic.md",
-      "title": "Managing AWS S3 pricing and costs with IBM Turbonomic",
-      "excerpt": "IBM Turbonomic can help organizations navigate the complexity of AWS storage options by providing guidance on how to select the right storage class. \nThe post Managing AWS S3 pricing and costs with IBM Turbonomic appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
-      "originalUrl": "https://www.ibm.com/blog/managing-aws-s3-pricing-and-costs-with-ibm-turbonomic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/dji_0420-9b.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

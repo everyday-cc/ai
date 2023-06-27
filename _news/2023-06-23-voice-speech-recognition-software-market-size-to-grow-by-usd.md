@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition attendance for sanitation staff soon"
+    excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
+    publishedDateTime: 2023-06-23T02:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg"
+        width: 660
+        height: 439
+        isCached: true
   - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
     excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
     publishedDateTime: 2023-06-26T22:00:00Z

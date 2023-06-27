@@ -27,34 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition – The Key to Safe Future"
-    excerpt: "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels."
-    publishedDateTime: 2023-06-22T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-the-key-to-safe-future-2023-06-22"
+  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
+    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
+    publishedDateTime: 2023-06-22T16:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition in the city"
-    excerpt: "The technology comes with many concerns about the privacy of individual citizens. The potential to use facial recognition technology (FRT) as a tool of social control is widely feared."
-    publishedDateTime: 2023-06-22T07:46:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/facial-recognition-in-the-city"
+  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
+    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
+    publishedDateTime: 2023-06-26T22:00:00Z
+    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/030/iStock-1219135449.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
+  - title: "Voice Speech Recognition Software Market size to grow by USD…"
+    excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
+    publishedDateTime: 2023-06-23T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-market-size-grow-usd-/2023/06/23/9838419.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "elvpJ5Ip5CRnWq1788k34GHMxYBEy2i5fNzWtjiXkdxE9OtzhbdtKI1n1nCS6DwSTyUpOLIRwi71ve0xoiabiwwadsoRoHu6frF2uEbOkT4RWdkQa/N6/QvklbOoE/bCcdh02QKcaYj37Ce2Cr9+ky9G5Gr/gBiXXUvfj6u52uolt+KJmS5ZSUoLRNRpOBAU3OFbJfv88VkOCaG5vGENqyUK7sUBGbUwaRgW0fcGwZG6+mtER3vew/5JcWalkcv+PckzFGF0scUW65XnkWG6pNl5RqXsbqOKkyPNmAqzXiOffkxAx2D9wpaGyI6bWxv4MydEhnAq9YXAk8azPDmr8/JdIfBQMNu0W5cu83hJ8bE=;pD577YKT6Xcn0bBkWfyYtA=="
 ---

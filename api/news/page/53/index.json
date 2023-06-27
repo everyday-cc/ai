@@ -2,6 +2,153 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-can-you-tell-that-these-photographs-are-artificial.md",
+      "title": "AI: Can you tell that these 'photographs' are artificial?",
+      "excerpt": "A text prompt can be something as simple as \"woman shouting\" or \"twins\". The potential pitfalls of such content were recently demonstrated when German artist Boris Eldagsen entered this year's Sony World Photography Award with an AI-generated image and won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-65562658",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-65562658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1730D/production/_129698949_air.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-65562658.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65562658.amp",
+      "publishedDateTime": "2023-05-20T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "LONDON: Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/21/humans-could-be-controlled-by-robots-ai-firms-founder-warns",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/21/humans-could-be-controlled-by-robots-ai-firms-founder-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/05/18/2079048.jpeg",
+          "width": 1240,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
       "title": "TSA testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
@@ -1069,135 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-which-artificial-intelligence-stocks-are-institutional-investors-buying.md",
-      "title": "Which Artificial Intelligence Stocks Are Institutional Investors Buying?",
-      "excerpt": "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai.md",
-      "title": "Apple looking to hire machine learning engineers with an interest in generative AI",
-      "excerpt": "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "originalUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "publishedDateTime": "2023-05-19T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-how-to-build-and-scale-ai-projects-in-2023-and-beyond.md",
-      "title": "How to build and scale AI projects in 2023 and beyond",
-      "excerpt": "The artificial intelligence (AI) industry has made significant strides in recent years, making it a vital component of business growth and innovation. The increasing adoption of AI across industries has created a significant demand",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

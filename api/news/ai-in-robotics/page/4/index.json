@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-30-should-your-company-be-embracing-ai.md",
+      "title": "Should Your Company Be Embracing AI?",
+      "excerpt": "As businesses continue to implement AI into their growth campaigns, you might be wondering if it’s time for you to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470f1e77c557919ad569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/amp/",
+      "publishedDateTime": "2023-05-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-retail-investors-arent-buying-into-the-ai-hype-yet-and-the-boom-pales-in-comparison-to-the-meme-stock-bubble.md",
+      "title": "Retail investors aren't buying into the AI hype yet, and the boom pales in comparison to the meme-stock bubble",
+      "excerpt": "So far this year, Nvidia stock has shot up 167%. Meanwhile, the Global X Robotics & Artificial Intelligence ETF has soared 33%, and the ROBO Global Robotics & Automation Index ETF is up 19%.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6470ccbc3be3b50019f6fcaa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp",
+      "publishedDateTime": "2023-05-29T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-ai-in-fitness-could-your-future-workout-buddy-be-a-robot.md",
       "title": "AI in Fitness: Could Your Future Workout Buddy Be a Robot?",
       "excerpt": "Once upon a time, artificial intelligence was restricted to the realm ... and didn't include mobility or stretching to start or end the workouts. It also lacked rest time between sets, which ...",
@@ -1269,93 +1373,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-this-shark-2-in-1-robot-vacuum-and-mop-is-like-living-with-a-dream-roommate.md",
-      "title": "This Shark 2-in-1 Robot Vacuum and Mop Is Like Living With a Dream Roommate",
-      "excerpt": "I’ve tinkered with and used a fair share of robot vacuums while bouncing from rental to rental this last decade. I’ve seen friends’ vacs get caught under bed frames and TV stands, listened to roaring motors suck up cat hair like margarita salt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "originalUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/shark-wandvac-245-645d52ec32723.jpg?crop=1.00xw:0.671xh;0,0.290xh&resize=1200:*",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
-      "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
-      "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "originalUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/05/Tesla-optimus-.webp?resize=788%2C443&#038;ssl=1",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-09-the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability.md",
+      "title": "The AI era of risk management is a win for financial inclusivity and stability",
+      "excerpt": "The applicant takes a selfie and a picture of a document that confirms their employment and income status, which is then matched using Amazon Rekognition to verify their identity and immediately release the funding. This is particularly important for ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/nvidia-art-5-hero.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies.md",
       "title": "Antimetal is putting AI to work to root out cloud cost inefficiencies",
       "excerpt": "Antimetal, a NYC-based startup, announced a $4.3 million seed investment to help optimize AWS costs with plans to add other platforms soon.",
@@ -1306,49 +1358,6 @@
       "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
       "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
       "publishedDateTime": "2023-04-26T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-best-small-kitchen-appliance-deals-at-amazon.md",
-      "title": "Best small kitchen appliance deals at Amazon",
-      "excerpt": "Amazon's not the only place you'll find great deals on small kitchen appliances today. Way Day 2023 has arrived! But don't delay -- Way Day 2023 only lasts through April 27. These coveted kitchen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/05/05/027b22c8-d67f-4e1e-92d2-2520dfcbdefb/thumbnail/1200x630/dabab5ca4c47e730f305e03a1201de75/kitchen-appliances-amazon-prime.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-small-kitchen-appliance-deals-on-amazon-2023-04-26/",
-      "publishedDateTime": "2023-04-26T15:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",

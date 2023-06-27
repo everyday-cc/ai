@@ -119,22 +119,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Widespread adoption of generative AI tools is derailing responsible AI efforts"
-    excerpt: "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ..."
-    publishedDateTime: 2023-06-22T07:42:00Z
-    webUrl: "https://www.zdnet.com/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/widespread-adoption-of-generative-ai-tools-is-derailing-responsible-ai-efforts/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
-        isCached: true
   - title: "Consultants Emerge as Early Winners in Generative AI Boom"
     excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
     publishedDateTime: 2023-06-22T20:12:00Z
@@ -180,20 +164,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/541536"
         width: 690
         height: 407
-        isCached: true
-  - title: "Navigating the future and ethics of Generative AI"
-    excerpt: "For instance, the ability to automate the news creation process and dissemination also means we are disregarding journalistic ethics and ideals. The AI systems can generate realistic and convincing images, movies, and sounds that are enough to propagate ..."
-    publishedDateTime: 2023-06-22T07:19:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/navigating-the-future-and-ethics-of-generative-ai/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 54
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2023/06/AI_2253900307_Bg.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "The best use for generative AI in healthcare"
     excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"

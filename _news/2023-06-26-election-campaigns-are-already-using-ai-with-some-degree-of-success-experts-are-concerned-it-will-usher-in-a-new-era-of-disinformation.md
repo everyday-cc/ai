@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/republican-democratic-political-elec
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-democratic-political-election-campaigns-using-ai-disinformation-artificial-intelligence-2023-6?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Swiss political parties, election campaigns and AI"
-    excerpt: "Cautious restraint is the motto of the Swiss political parties when it comes to artificial intelligence. A demand for a code of conduct is not being met with approval by all."
-    publishedDateTime: 2023-06-22T09:01:00Z
-    webUrl: "https://www.swissinfo.ch/eng/politics/swiss-political-parties--election-campaigns-and-ai/48609988"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 39
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/48592336/landscape_ratio16x9/1920/1080/b6c3a4688e35077b70e90fbfe0641a62/420F8A230494BCDF4A8A049814EE1112/dalle_a_woman_creating_an_algorithm_for_an_artificial_intelligence_futuristic_art.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ZeZCnYu6JhUQq+ESWLUQULmRUWThd6TOpU6MlqczQyEC3WZxrINhDknC4ZPPfP1WyEPGwtGzkZ1u5z78GVRvs0VRkdih1uxZunLrHXLVRbO09JiaIj1vGB5B3e6GW02R+ItCQBCMTnU+JJpX3Ht62cpAec7y0llVYKOmUHDQRDXc7c9/Ng0K0nwYrpP30wpbTP6fc1mF89x/KAiEjD4CygU6UR72+CJZFzbr0jJ6tQ8iylB3v+c3xfjNxdmNmYL1QpbST/XGNoM/tebgjdM5+SQMcXRRvbQwcbqSDCoemkLngyTEluWXPmFwcgxDgfw+hMCJ5Y5PLNZ7enp+5mM9OeI1LXCLR63pCt22wLdavQmtNjBaXz/+haY5TYcMCe8rmATtZHJYK4kXlXmNtZhpCYI8k0ZWXYW68R1Hp3qAO+EiigQbAuOKBq3E0ni2fOA483TAy91GGBCT/ePgal5gXC+KQhpsYhuTJ6SpF2uVnue3IVO7DEmE2nqoQcxVtmwp9pdQxsOSupU9VUZrku/7Sg==;r8fuzriasi1HngPrCE75VA=="
 ---

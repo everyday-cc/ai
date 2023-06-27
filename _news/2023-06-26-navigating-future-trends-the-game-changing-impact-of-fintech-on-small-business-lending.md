@@ -35,6 +35,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "NASA is building an artificial intelligence that will make talking spaceships real"
+    excerpt: "NASA engineers are saying the agency is constructing a ChatGPT-like artificial intelligence interface to assist astronauts while on a mission."
+    publishedDateTime: 2023-06-26T16:16:00Z
+    webUrl: "https://www.tweaktown.com/news/92089/nasa-is-building-an-artificial-intelligence-that-will-make-talking-spaceships-real/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92089_56115_nasa-is-building-chatgpt-like-assistant-to-help-astronauts_full.jpg"
+        width: 1500
+        height: 682
+        isCached: true
 
 secured: "gwvWPoPXhkdiNPYwQ+Z+d8lxEuF5k1MdGkzpBPNr42qvZl283V7cnqCkq/SZw0I2FqO9RJgZDqkraQ6c4dYlxBLu3jRMZGk3Kopu4hJxZF1crwaeDTuokKfSqPYS930n3COis24m8QiFSlJaTVnDeUaA05NdfFbJgv89K1GL7aMbsPX9dSsYispa507nOXFmss3ajhoIlVGQnxZxPr5QSbl3oMZnGAGPHtFYTgTRDneKS71f4fMFYpVChRschS2bRlM9C/Mc3G8SqY6g7gBaOcB3UvtAhzpOBRa0JIctcZKa7aOZBS8s24LtepbVJwQTaVtKcNT4eD0meuIksU3SRCEdBa96SPKU7z4KGv/t4aA=;fFVuVZVDtwBuowq2EnCnFw=="
 ---

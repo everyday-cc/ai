@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-bentoml-scores-9m-funding-to-expedite-ai-app-development.md",
+      "title": "BentoML scores $9M funding to expedite AI app development",
+      "excerpt": "Chaoyu Yang and his co-founders have built the AI development framework BentoML, which just announced a seed financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1224500457.jpg?resize=1200,886",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
+      "publishedDateTime": "2023-06-26T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
       "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
       "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
@@ -370,10 +422,10 @@
     {
       "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
       "title": "Old Mutual Completes All-In Migration to AWS",
-      "excerpt": "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ...",
+      "excerpt": "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/",
+      "webUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -383,11 +435,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T01:55:00-07:00",
+      "publishedDateTime": "2023-06-21T03:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1435,59 +1487,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
-      "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
-      "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/07/retrain-ml-models-batch-predictions.jpg",
-          "width": 1022,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T10:55:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
