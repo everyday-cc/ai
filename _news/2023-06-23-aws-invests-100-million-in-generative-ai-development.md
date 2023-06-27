@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
-    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
-    publishedDateTime: 2023-06-22T23:47:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
     excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
     publishedDateTime: 2023-06-27T00:00:00Z
@@ -221,6 +207,20 @@ related:
       - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
+    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
+    publishedDateTime: 2023-06-27T17:57:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "yRvCikQ0erDcm8iT76zKTuLVvXIHswbf6ZsHVt2E9g91K5LonQDEB6CkT/pPlg+DOWFhf4WxmLGZqQp6cNyhrE0kF11QNj7B9jJK2Tdo2K8RsE0+BLPVsdQhHShDzP9EQ3y8d+lTGUkgYltLuUIIekxutfCRWtHJD17dcga2zuA98yGAq5XGPS+dtD67abNmfudiCwdVCVitCCnALpQ4iCGl/NwjWNhgS/LIHQEQVYbB3HAwAvH6LUHp0e6SYr2uSlG0Csq+DIzptg19vpBbv6PFpo3OFbVe8rrhJL2yYR6bC5Oe7rM/5b0MuU19Uba4a58ozk+8hWfLCquzm8kc3fCmtx3TKOyV51++jmwZVO2sbl1IIAVLpXRYcEGccv7wjhgjS8Iabffc4q4dMfRqSZO7Qz7OvGK4gF3v839lHhgx9UFX9yXj1aPkL9mbubYeN+djbsJziXuIvevGMKw/bb20soBXinGjSgKPjfeI1Is7wnRHha0Kl5Vy0nwqpHV6o41LAKVGZsf0sfmemW849w==;fQbhonoA8gn0N1FxZQ2lEw=="

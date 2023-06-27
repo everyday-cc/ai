@@ -164,6 +164,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI linked to new crop of business email scams"
+    excerpt: "Businesses can no longer count on bad spelling and grammar to red-flag problem emails: fraudsters are using AI to craft well-written email messages at scale."
+    publishedDateTime: 2023-06-27T15:59:00Z
+    webUrl: "https://www.cfodive.com/news/ai-linked-new-crop-of-business-email-scams/653977/"
+    type: article
+    provider:
+      name: cfodive
+      domain: cfodive.com
+    quality: 39
+    images:
+      - url: "https://www.cfodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "How to use AI to edit and generate stunning photos"
     excerpt: "An AI-powered version of Photoshop and the image generator Midjourney live up to the hype for tech writer Brian X. Chen. He offers a few tips for getting started."
     publishedDateTime: 2023-06-25T14:00:00Z

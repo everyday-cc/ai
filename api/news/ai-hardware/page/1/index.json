@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-27-brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens.md",
+      "title": "Brilliant Labs puts AI in front of your eye with its tiny open source AR lens",
+      "excerpt": "To integrate its AR device into people's daily life, Singapore-based Brilliant Labs aims to embed generative AI into its compact wearable.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Brilliant-Labs-Monocle-looking-down.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "publishedDateTime": "2023-06-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-next-gen-content-farms-are-using-ai-generated-text-to-spin-up-junk-websites.md",
       "title": "Next-gen content farms are using AI-generated text to spin up junk websites",
       "excerpt": "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report.",
@@ -297,20 +349,20 @@
     },
     {
       "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
-      "title": "AI Chip Giant Nvidia 'Extremely Likely' To Invest In Europe",
+      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
       "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8",
-      "originalUrl": "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8",
+      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -318,13 +370,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8",
-      "publishedDateTime": "2023-06-23T22:53:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
+      "publishedDateTime": "2023-06-23T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -347,7 +399,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1415,58 +1467,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future.md",
-      "title": "AMD Laid The Groundwork For Big Hyperscaler AI Accelerator Play In The Future",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as yesterday AMD held an in-person event in San Francisco to cover the latest in its datacenter and AI progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e8531c18e5e7d67d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "publishedDateTime": "2023-06-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

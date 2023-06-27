@@ -7,7 +7,7 @@ originalUrl: "https://www.beckersdental.com/ai-teledentistry/41318-7-dental-ai-u
 webUrl: "https://www.beckersdental.com/ai-teledentistry/41318-7-dental-ai-updates-to-know.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "AI ethics toolkit updated to include more assessment components"
+    excerpt: "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence."
+    publishedDateTime: 2023-06-27T16:39:00Z
+    webUrl: "https://www.zdnet.com/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/67e8ddec8fbda08aa6aa41f56f4eebd3490ba09d/2023/06/27/21f0d05c-4499-4fbb-8397-0e776e3df381/gettyimages-1386663569.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+Zq4UPnXiH+5CL9kb4ULt0gWE2bfRrG0BD/I9LRStKVqUhWC90SOFDR/WrlBlcjuA2yUcmEcLQF9/1qrPrrzBXgvupXpOs9xwblAiKZvUpmOWePffFIUB1BXg6lcl/tq3NFM2mRTQKRTDaD12OF2Qq2WV/+KPz5kmWaybMRKY5R7caY7puVbJwCg9LC/+ZAL1CYSrW1OgLy6w4C5Dp7qLPFC9wjimafi4M7o7FDlE6rP42z5XAWcTOfLt+giKViX1juuJkRCL8VZ4Dgr7bRjexT/nbiCQHzdERiZJABE+cckGqO5OFlDiszEIpi/UT2Ma0eR/0pcEnpfjhF95MRPPTg2XkhH+MO9VVXkRUneNIA=;cPHxOWtmXpZKxeDJbyjugg=="
 ---

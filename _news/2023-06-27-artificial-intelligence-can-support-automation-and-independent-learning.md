@@ -239,6 +239,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "IDGlobal Corp Announces New Advisory Board Focused on AI and Digital Innovation Marketing"
+    excerpt: "DOWNERS GROVE, IL / ACCESSWIRE / June 27, 2023 / (OTC PINK:IDGC) IDGlobal Corp. Announces Groundbreaking Venture in Digital Workflows and Innovations in Digital Marketing."
+    publishedDateTime: 2023-06-27T13:23:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273880852/idglobal-corp-announces-new-advisory-board-focused-on-ai-and-digital-innovation-marketing"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 47
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1687838160379.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
     publishedDateTime: 2023-06-23T14:36:00Z

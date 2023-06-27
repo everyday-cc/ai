@@ -79,20 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."
-    publishedDateTime: 2023-06-23T01:05:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/22/amazon-is-spending-100-million-to-teach-cloud-cust/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/B5UxYNbrnMprdCPmokm4DWurUZY=/1200x630/smart/media.spokesman.com/photos/2023/06/22/6494e22b7058e.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon is spending $100m to teach cloud customers about AI"
     excerpt: "Amazon has denied its generative AI tools were rushed or incomplete and said the technology is ready for customers to test and provide feedback."
     publishedDateTime: 2023-06-23T05:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-te
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "VIDEO: Self-driving Tesla nearly blows past stop sign on test drive"
+    excerpt: "A test drive of Tesla’s self-driving technology revealed a significant error when the vehicle nearly plowed through a stop sign into oncoming traffic in Santa Barbara on Thursday"
+    publishedDateTime: 2023-06-25T00:56:00Z
+    webUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/"
+    ampWebUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 59
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/06/Screen-Shot-2023-06-24-at-5.54.10-PM.png?w=1280"
+        width: 1279
+        height: 713
+        isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
     publishedDateTime: 2023-06-23T19:54:00Z

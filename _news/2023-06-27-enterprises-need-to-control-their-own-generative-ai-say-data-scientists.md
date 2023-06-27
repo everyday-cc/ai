@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
-    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
-    publishedDateTime: 2023-06-22T23:47:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
     excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
     publishedDateTime: 2023-06-27T00:00:00Z
@@ -225,6 +211,20 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 34
+  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
+    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
+    publishedDateTime: 2023-06-27T17:57:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "eMyCUbKxjW2A8lG7GIXY6zMSrD5jjJdPGxeLTyBHFSBeRsHrJAb8js2DuPmsdN2jogFjgwlzsHFautToOHglskbKegVB50772hHG+jHGTzLLe9XKcpnjcezYnc8A4iBHKYoqwdqZfkFpENIKPu+ZrNPCak7TrmGFuVB0BHbHySQ0hcOXyjOBsUAXnQNLw8JDMU+mTTv/NhXqSEUj4+4e+6H6qYIe2s4oPuzTSe49+3Du6ZT06j28q+lOVNSG7mJh53BnR65na1lAWqY6lPMn0nArt6EmFpToZz9JmQ7Bd6ddW7qcmB6bx5JHcP3tICxDVaqspOZ1biqZq4kL48vy2j4yDkFSmyABj2VQmLBlrAeRqHY79qW9Rp6WbqwYnSE7V/zD1Ap1EwAYzR3KfPK4zg1UWNsBnh6Bc1UhrlRZam5pCikxxhWsfwZN3cRWJ4Wz2dQ7cQaNn2GmF8tWEE3BBxW8JOt3OgXa5crKk+vQPESSp5sPb47MhOEUB6fMISTHCs+wjtgEr/hTjPJ9CCVS+Q==;EqeMF3scGw7J9MzkZ8cYLA=="
 ---

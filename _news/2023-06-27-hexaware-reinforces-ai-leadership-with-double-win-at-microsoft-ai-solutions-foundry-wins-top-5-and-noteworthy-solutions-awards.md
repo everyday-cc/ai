@@ -2,9 +2,9 @@
 category: news
 title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
 excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-publishedDateTime: 2023-06-27T08:44:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839286.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839286.htm"
+publishedDateTime: 2023-06-27T09:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
 type: article
 quality: 25
 heat: -1
@@ -227,6 +227,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "lrKB5odlCbqQXn9IMH3S9y6HtgxgIqMNRlbkREtT8Jm/h1MLSd9Vr/z6c+bXuUOXdTok6hpvULHcQnZc/1d3++PCSz988OZJTTDHcerrWMi3Qq0h43ZDejWK8D1xXIdeLlFreULlseIuFMGwZx6vTGL5FOvv8lsCDKdmOVYjaNOMTbHtwrH8w0oJkw91mrnOri8ivDtBbyVwvFIqHskv5SyHUL7ri2yAXji0/Pu8admIeVqiUJ2gS8YOjoNZtNw6h4qq0HMYLtgZz8BOf7pMgHz7NBc63FE8Nz8yk/R5gKeGHJet9+rkiEr19aOO8U4uTo0Jf7ybyS00Ao+qCb3N5NxOnII6kijy0kLN2YK+B6Y=;+vg4vUvzDTX1zXKQG3v7Yw=="
+secured: "BDumolYvClnCWSV47HicS3/HtQzNViDTbP0g7LSjxz8Ud4ZvtonulfjceBpTLBE917908pdQg3D7zUa3YMT02bcws3v4QGZEGp2G25H9rlnjNi9JyPVDgKrKadvR8YE2SlGZltAAm2oE/uVCEzM9tdDNkaG/0rJyDjI36r/dmx5yCDvz//7XumS76kSIE5UNWqpmuw3K5VQlxzFc6yJZAzW9P5+zjR2xWH7dlk4l1fNFOzu00yzuy1j2OJOYkCAxZHOmuCQXBWtkzYjsF7EQVX0wHLgfS1arg30mjdhj+BsQqwfv7qYmGmhHvL3Ab1OC9rb2HiPK3+UFgNqsxIreNAmCUIbTTUrNaPzVbbG748E=;G00CXSUBVXM3M5zc3qfwkA=="
 ---
 

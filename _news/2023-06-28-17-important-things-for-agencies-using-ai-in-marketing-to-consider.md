@@ -1,0 +1,96 @@
+---
+category: news
+title: "17 Important Things For Agencies Using AI In Marketing To Consider"
+excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
+publishedDateTime: 2023-06-27T17:15:00Z
+originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
+webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
+type: article
+quality: 86
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI in Marketing
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "Using AI And Remote Sensing To Avoid Water Disasters"
+    excerpt: "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters."
+    publishedDateTime: 2023-06-23T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "New York Is Buying a Supercomputer to Understand and Regulate AI"
+    excerpt: "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation."
+    publishedDateTime: 2023-06-27T14:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
+    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
+    publishedDateTime: 2023-06-26T08:09:00Z
+    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
+    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 56
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
+        width: 999
+        height: 560
+        isCached: true
+  - title: "Contractors, tried using Artificial Intelligence to create your CV?"
+    excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
+    publishedDateTime: 2023-06-26T08:53:00Z
+    webUrl: "https://www.contractoruk.com/cv/contractors_tried_using_artificial_intelligence_create_your_cv.html"
+    type: article
+    provider:
+      name: contractoruk.com
+      domain: contractoruk.com
+    quality: 37
+    images:
+      - url: "https://www.contractoruk.com/sites/default/files/socialmedia-thumbnail.jpg"
+        width: 600
+        height: 400
+        isCached: true
+
+secured: "IlLY8/xwW8r01dq/+WazeFTvJ+jDjD2F4ZGO6FZDtIv1FAvjnVtuqFua8gfOf2S97Lw0Ia/DXL0xlFHwOfJV/v47B6/wBVoXOmXRkGYNr/vgcegVHN2eiuuJcba7aho5zNmH91MK3VTs5vinmsD1G4mplUEIduu8sVuZHTwWEZ1Gkklfzv20KqDmqVAuC6slJQVRTfqW9x+Yk4W6mQh+GeLCsvN+uE86c/oak1dBc26kg+xFkOMaA/VFtUIL+p7VvSPFDNRSz+tndrA+HVI5tpfEzvSnASifdTH5gvmKHXLBS2tlrOC/QOfGQ8ATPPQUV8CvrXpxZCh+gunwWMcDZciODO/Uykkbd2bb1OQtepg=;n6Bc+ftIf86NO86SauZLmA=="
+---
+

@@ -242,6 +242,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "IDGlobal Corp Announces New Advisory Board Focused on AI and Digital Innovation Marketing"
+    excerpt: "DOWNERS GROVE, IL / ACCESSWIRE / June 27, 2023 / (OTC PINK:IDGC) IDGlobal Corp. Announces Groundbreaking Venture in Digital Workflows and Innovations in Digital Marketing."
+    publishedDateTime: 2023-06-27T13:23:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273880852/idglobal-corp-announces-new-advisory-board-focused-on-ai-and-digital-innovation-marketing"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 47
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1687838160379.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "5 AI tools for translation"
     excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
     publishedDateTime: 2023-06-24T09:08:00Z

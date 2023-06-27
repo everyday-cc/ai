@@ -44,6 +44,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
+    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
+    publishedDateTime: 2023-06-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
     excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
     publishedDateTime: 2023-06-26T08:09:00Z

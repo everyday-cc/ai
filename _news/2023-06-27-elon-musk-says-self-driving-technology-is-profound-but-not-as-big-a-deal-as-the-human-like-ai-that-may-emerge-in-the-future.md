@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-pr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     height: 600
     isCached: true
 
-secured: "dzwbc5q7vvC0/eRzTiKYY1cjUitEr023CkmpOzMFZQfYHlNVvlA0GOLLhe6kHibmZiaxNNm00rB/ML7gnFezVkrE+wKGk79JgfN++VaB43U7to0qGDweOFfH5JXCqyarq/GvYhcZ8p6XDOpKMqbiMWO5p+M0PktP/yjVtNDF5OaQsjAlqn1ImQxLaQirm6BS/TisiA9ly/Zbl+cj+rbusGQ9svTjygOy7QNRmK0zxeNyGdPCl/kkqeefE6j1MaTLd37lS0eu7xX9QQDRDNiaO1sEOkUmkPgSybQ0DA1iMVOhgTe8dFbu0d0khlV+PAFij8dsgPkNbQZGCMX2Fy/T012B01VQ9l6RBnqVOY8uAUE=;IxmjHUzkuCr+X+RPUzOy0w=="
+related:
+  - title: "This self-driving boat maps underwater terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here — and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys — surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-27T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993768"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/00eb77c9-3e44-41dc-b1cd-f2fa1a17eac7/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+
+secured: "uZ5R+mzJHKeneriV/VyGL7KFnptjZNhQvJXejNaGu++8N6PSt6eJdhAu4Gi1t4St742oQbpHpPLcIzu8BIrFW6h8xYC/wby6VkAPVWpp9yScHcm6suUMD7ohgnb/9gBZAsT6pgdxq4/0B/UTGQQmILr9Xuz6aneWRxPJfrvusKErHmQ8e9ZMqOWK8coY1ye335XZrDM0uryO5fEV7jU4Qh7tzDLb4V8f6Q+eBZ8gRo/D6FBwcjqWZ/U+verZChCTff/LzXc5mzGGDdSQi5usgnAhgnYk+3lDokUU2WMyRrIo/a3RmsgE9oHpsEXiqkx7vbe2CdMGab0WvcFmY9vwecere/5K6Y5yYrq3gsdlO2RsN0AIlA7DtPw0GOEq2jyLe+x4H1jLqBom1Qk1nlPm0Hk1U+qiMX9dJEVL5pWMthnv8f70wLN9HHq0dfXmHDhYYd1PDDn83DIYLhIgcd718+6Ps0LJbbPGxVnK9CDruysjpXgb/1Bj3SeMdb9BnaFUjWwxzQJHVQmMQq7T4gRdrA==;+M3cbhKg+dDkq4+QHesLgw=="
 ---
 

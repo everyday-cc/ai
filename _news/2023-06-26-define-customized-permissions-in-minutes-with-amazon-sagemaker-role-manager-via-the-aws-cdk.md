@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Earth.com and Provectus implemented their MLOps Infrastructure with Amazon SageMaker"
+    excerpt: "This blog post is co-written with Marat Adayev and Dmitrii Evstiukhin from Provectus. When machine learning (ML) models are deployed into production and employed to drive business decisions, the challenge often lies in the operation and management of multiple models. Machine Learning Operations (MLOps)"
+    publishedDateTime: 2023-06-27T16:26:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-earth-com-and-provectus-implemented-their-mlops-infrastructure-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/earth-provectus-sagemaker.jpg"
+        width: 1020
+        height: 508
+        isCached: true
   - title: "Accelerate time to business insights with the Amazon SageMaker Data Wrangler direct connection to Snowflake"
     excerpt: "Amazon SageMaker Data Wrangler is a single visual interface that reduces the time required to prepare data and perform feature engineering from weeks to minutes with the ability to select and clean data, create features, and automate data preparation in machine learning (ML) workflows without writing"
     publishedDateTime: 2023-06-23T20:32:20Z

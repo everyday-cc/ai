@@ -35,6 +35,22 @@ related:
         width: 620
         height: 382
         isCached: true
+  - title: "VIDEO: Self-driving Tesla nearly blows past stop sign on test drive"
+    excerpt: "A test drive of Tesla’s self-driving technology revealed a significant error when the vehicle nearly plowed through a stop sign into oncoming traffic in Santa Barbara on Thursday"
+    publishedDateTime: 2023-06-25T00:56:00Z
+    webUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/"
+    ampWebUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 59
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/06/Screen-Shot-2023-06-24-at-5.54.10-PM.png?w=1280"
+        width: 1279
+        height: 713
+        isCached: true
 
 secured: "LtBJH1aWlApMVPEru6mf9kMefc0xAZBFXtWVSy/ojXXX019m2Zp08T6sCTzq8QY/iEoudfETAMW61vXvjoKg+qzUSpbJJTqWOg7pWtv6HPtPOpjzSvO6rdNk7/4hGu4Hlg/4AA/6YNXDpQH/XgG2qBlygjaX1GkQMgxCkA3NnvJlBeE8oYHVnXxbfaELLwDmd0IZsVWgMuQcMApeXI0F32D1CUlMlvDnf/fzlOeFeG6fnz04iwIRghxFUzoV3Bza0rRw9LlQGjpQ/uFNDuluROrB+Iv6xbUloPYTBLbCbJJC87PySZx+jg5t9qPqYKc5OHyqFA4+RcsUapk0ogZxuv6WPwkULu6uM71uvKPGmWKjsBAl3TSQYV1jtT5ajtZOQTgV8DgBbV/xDUgqZsAmubQmsPN2Ugz6JHdCQ4dce7jDEr8Av8heYvAwNTupEoPOaI+N4/KflUOxayCnMNqAK+DQAyByuuGmXvJRGq+jmRbj9JJmhEWVpExuf5rcRFePv/ks6Ez5s9vyuTu9jMYXtw==;NWaCzA9Q5ZQ/Sjt5cpYrDA=="
 ---

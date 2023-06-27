@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How Policymakers Can Tackle the Complexities of AI Models"
+    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
+    publishedDateTime: 2023-06-27T16:05:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Z5VoflKmIovRH4yps+p8vR/ZzKXG1aFToxItu+R8JLQw1D6s9F/o4ZnNDnPoEnvbRdaIi4x1RPBPb6sGo1jlzaaO+JS9W+aVZG1NGNwBktDUHaXT+SVlv4r+vNHofBdzMTeNL35onYqa5Ntt/jm0XVohRvERIJmqm2I7Y72kVcFS+QyFRaw+7aMu72RX8i5mJ4U9uSkHbFfDqkuo4nR77uoE9nHa0EnQjPYjf4g9q0psl+SkVKW9cX+tui17WniyrzxzMHBeYOYdEGVdaLTWc1es8g+bUeOMwjHiFh6bUfaPtcHItiC1TFX3lRJR1IfYdwafvi9lmEe6bnFDUVOVMSvLx+uzujWVjjVURYobipBJvAvQ6SRtZSvObJEQ+werES2ipVnSfq/mn3PmFJlj/rxmURjifDsWlTUej/vTFpp87Em2wpzpmhdVQcD8OphaFu9FP7K2TAQ2SuTYhwVSzDshXRp1L7ed2WJaR6yEQuVUWAd+hRvdQYq6CI2Bhn8PO3QTxbk7KDKOnoWQ0joNaQ==;9lyZHbHwMWPGfEpkQ3gAdg=="
 ---
