@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/insider-qa-john-riccit
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/insider-qa-john-riccitiello-ceo-video-game-software-100377254"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 834
     height: 308
     isCached: true
-
-related:
-  - title: "Q&A: DexCare CEO on raising $75M in a ‘rough’ market, using generative AI, and more"
-    excerpt: "We didn’t really start looking at this seriously until April ... Can you explain how the company incorporates generative AI into the product? We use quite a bit of sophisticated, AI-driven decisioning in our platform now so we can ensure patients ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/06/Untitled-design-20.jpeg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "3ID35h3lVGckjFLiVcjde6lWoLE2ST4/nir0IpKTqOlHV9dE3oyCkBOifvvSDloj3KGoyR0EjdOtETLGhRJnaESJgR85oaxF+KXTjHlNXQLDV0XWHLUroK/6xtihACpJ/Kjis0w/kCxtpCi0rcjR2qrB3UblTnhVVS7l5wDn2Agl3gZWo4if/zFDceVUfuhNOUo0qQjBHuAMiseb1GKX+TPBdV8zfcsnrxhPd5nxH7M4kXgIhgq4JN/v6eYSdJ6Ov6vQnE4fdc8UE/E3d50lPEJY+rgYk66gD5aaFutGMnfAxdDPn9mmsixXBN0A4iBN9fvSyPybiESNuHCGkcJTpeNxQg2ycxNElkWDEtQkQqM=;YQa2P3A6iwOC+ADlNXknrA=="
 ---

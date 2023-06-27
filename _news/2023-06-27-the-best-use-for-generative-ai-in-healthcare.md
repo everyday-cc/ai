@@ -66,22 +66,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Ready Or Not, Disruptive AI Is Here To Stay"
-    excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
-    publishedDateTime: 2023-06-22T16:38:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/06/22/ready-or-not-disruptive-ai-is-here-to-stay/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64946edd3998a0768d3cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1396
-        height: 900
-        isCached: true
   - title: "The Top Five Real Risks Of AI to Your Business"
     excerpt: "If Google is used to search for something, typically it can return a link to the source or the originator of the IP — such is not the case with AI. There’s a host of other issues: data privacy, data bias, discrimination, security, and ethics."
     publishedDateTime: 2023-06-22T17:31:00Z
@@ -97,22 +81,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649484cd8abe593c478f46c2/0x0.jpg?format=jpg&crop=3607,2030,x0,y186,safe&height=900&width=1600&fit=bounds"
         width: 1599
         height: 900
-        isCached: true
-  - title: "Is The Drone Industry Ready For Generative AI?"
-    excerpt: "With the implementation of advanced flight controllers and intuitive AI, any person could quickly pick-up a quadcopter and fly or even start taking professional grade videos. This evolution democratized in many ways the low-altitude skies and in the same ..."
-    publishedDateTime: 2023-06-22T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/harrisonwolf/2023/06/22/is-the-drone-industry-ready-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64947d0dcf1e9c1fe13cb269/OpenAI-To-Offer-Commercial-Version-Of-ChatGPT/960x0.jpg?height=472&width=711&fit=bounds"
-        width: 709
-        height: 472
         isCached: true
   - title: "AI Awareness Now A Must On Any Business Resume"
     excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
@@ -143,22 +111,6 @@ related:
       - url: "https://images.wsj.net/im-805133/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "New report to help businesses implement responsible AI"
-    excerpt: "Practices such as impact assessments, data curation, fairness measures, pilot studies and organizational training are some of the simple but effective approaches described in a new report that can help Australian businesses develop robust and responsible artificial intelligence (AI)."
-    publishedDateTime: 2023-06-22T16:33:00Z
-    webUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-businesses-responsible-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-businesses-responsible-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/new-report-to-help-bus.jpg"
-        width: 567
-        height: 801
         isCached: true
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."

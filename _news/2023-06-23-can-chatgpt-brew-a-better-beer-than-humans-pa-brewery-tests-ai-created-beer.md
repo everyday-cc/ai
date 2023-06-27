@@ -34,6 +34,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
+    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
+    publishedDateTime: 2023-06-27T08:29:00Z
+    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
+    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
     excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
     publishedDateTime: 2023-06-27T06:27:00Z
@@ -92,6 +108,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google DeepMind to power its AI with AlphaGo-like features to fight ChatGPT"
+    excerpt: "DeepMind's success in beating a human Go champion is a stellar example of its capabilities in AI. Can it apply these techniques to language models and outperform GPT?"
+    publishedDateTime: 2023-06-27T09:52:00Z
+    webUrl: "https://interestingengineering.com/culture/google-deepmind-ai-alphago-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 52
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/27/image/jpeg/51U1HcTsdW47Txd36NQ49l0LnzO7gI0DLaxc8SxW.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z
@@ -129,6 +159,15 @@ related:
         width: 3000
         height: 1995
         isCached: true
+  - title: "ChatGPT builds a tomato-harvesting robot"
+    excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
+    publishedDateTime: 2023-06-27T09:33:00Z
+    webUrl: "https://insights.globalspec.com/article/20657/chatgpt-builds-a-tomato-harvesting-robot"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 19
 
 secured: "1+a0hJJ8w0kRHFHRn+65V0sDAJJ+kkMlht2+V3scKsgbBt6WDUskeDrniZHWmgb4hNl9UKOJ4rJFvpVTKS3c8aTq9U30M/m9PIyGHy7FNAwUJWqglY0qeYAk/T7k5WXwkDXkGdWhHqmICVxbJQ88sf5LCLoTWf+T8CHlgB0iiRTCHBD5HcfI+E8120TdXQzLCYOcXHWKtDfSoT7dPZth4oEOQfkANS4BjZ9oGO6LM4YgPm5KWQomteYjPdaIksjIPV8gDUeRlu9zZRlxgtdPPMv+tnh6BBku/+0b9Ju8xoWaIHfKywK8vAb1u1hxPHLp5Nik6u4g3o7QBHAJiFkBm7WoR4B/SYVYymXAZXTGYk9KM4+GM+adQE3WnUJ+Wua+NTAiqzzqqBnHdDPmqTD3mF8RoCd9+jCV/RyjtZV7brk709M2pfyCKMjakpid+4798z0Jiq7Z6QL95TCLRfCGtFj4dVoEtQ0NTgh6oMTqr43HwXaARtxRCTPTo/CTvfDM/068dMxaPjXV8rR+Y/pPqA==;woexE/wueBiwnZhCMrdtEQ=="
 ---

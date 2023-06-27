@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-
 webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
-    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
-    publishedDateTime: 2023-06-22T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "WuJn21srcu9DpfFTpXO4i8AQKlra3e6CfZX4r8XOjDimc2DR0IAu7umNDTehdvmFN9GFcbasnySZ+aGszXsVdvlaeu0yaUQWS5YZtgcPnnN2ksIUo+Qp1XxyhvZtIJJUqKVk1K2rkkvpjCkiBedttQDcOWNU+lDTV87ubPoZhuicY4fjL2JMGdl3lUcnhnTJef816ApMxdvUG71kC+taR2o40LQSa1RKA3mSlxYkqx12NK/wiozI+Bbn1FomCBF9hHm+eOzxzLmMTbMGzKJB69eiIRJwEdV232XAcTNi9HSmPG2UGGHbDz+8goYJS9Q5wccY9T6v1phUFgWmYhvgrHJz/c53TWC16wmjF83FEW4=;ha1FUPCQYxyNvurq7igN6w=="
 ---

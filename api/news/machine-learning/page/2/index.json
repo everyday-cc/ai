@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-16-binary-classification-using-a-scikit-neural-network.md",
+      "title": "Binary Classification Using a scikit Neural Network",
+      "excerpt": "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WeirdSpaceImageSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
       "title": "A Machine Learning Engineer’s Guide To The AI Act",
       "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
@@ -946,6 +989,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-12-fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging-talent-demands.md",
+      "title": "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands",
+      "excerpt": "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/20230531JuneJoplinMagazine-1.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-artificial-neural-networks-market-insights-2023-2030.md",
       "title": "Artificial Neural Networks Market Insights | 2023-2030",
       "excerpt": "The Global Artificial Neural Networks market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
@@ -1280,92 +1367,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-sanchar-shakti.md",
-      "title": "The AI Revolution: How Machine Learning is Changing the Way We Live and Work : Sanchar Shakti",
-      "excerpt": "In the discussion like this we can talk on & on but raising concerns and suggesting solutions  are not going to work . We need a robust platform where these suggestions become our way of life that turns  our choices into our command says “Productivity Conultant & Founder of Sanchar Shakti” Kabeer Goswami.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "originalUrl": "https://www.mid-day.com/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2023/jun/Sanchar-Shakti-0806_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/the-ai-revolution-how-machine-learning-is-changing-the-way-we-live-and-work-23291243",
-      "publishedDateTime": "2023-06-08T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-exploring-how-the-human-brain-and-artificial-neural-networks-assemble-knowledge.md",
-      "title": "Exploring how the human brain and artificial neural networks assemble knowledge",
-      "excerpt": "As humans explore the world around them and experience new things, they innately start to make sense of what they encounter, creating mental connections between the objects, people, places, and events they encounter.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/exploring-how-the-huma.jpg",
-          "width": 946,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.amp",
-      "publishedDateTime": "2023-06-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

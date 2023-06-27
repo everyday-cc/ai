@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-09-host-ml-models-on-amazon-sagemaker-using-triton-python-backend.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: Python backend",
+      "excerpt": "Amazon SageMaker provides a number of options for users who are looking for a solution to host their machine learning (ML) models. Of these options, one of the key features that SageMaker provides is real-time inference. Real-time inference workloads can have varying levels of requirements and service",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-python-backend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-python-backend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/09/host-ml-models-triton-python-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T08:59:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability.md",
       "title": "The AI era of risk management is a win for financial inclusivity and stability",
       "excerpt": "The applicant takes a selfie and a picture of a document that confirms their employment and income status, which is then matched using Amazon Rekognition to verify their identity and immediately release the funding. This is particularly important for ...",
@@ -1330,49 +1383,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-amazon-killing-off-its-halo-fitness-and-health-tracking-devices.md",
-      "title": "Amazon killing off its Halo fitness and health tracking devices",
-      "excerpt": "Amazon is scrapping its Halo fitness tracker device, a setback for a company long known for having its finger on the pulse of what consumers desire. The e-commerce company said on Wednesday it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
-      "originalUrl": "https://www.cbsnews.com/news/amazon-halo-fitness-tracker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/6ddaca42-fa82-4e40-ae52-dbccf9ef9b7e/thumbnail/1200x630/543468eeb5f3994a7083e78eea9d54d0/gettyimages-1359067593.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amazon-halo-fitness-tracker/",
-      "publishedDateTime": "2023-04-26T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

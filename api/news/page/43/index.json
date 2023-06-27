@@ -2,6 +2,608 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-05-29-google-deepmind-makes-youtube-shorts-more-searchable-with-ai.md",
+      "title": "Google Deepmind makes YouTube Shorts more searchable with AI",
+      "excerpt": "Google Deepmind has introduced a new visual language model for YouTube Shorts, making them more searchable with AI-generated metadata descriptions. The language model, Flamingo, also provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/09/AH-YouTube-Shorts-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/google-deepmind-makes-youtube-shorts-more-searchable-with-ai.html/amp",
+      "publishedDateTime": "2023-05-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-how-generative-ai-can-revolutionize-customization-and-user-empowerment.md",
+      "title": "How generative AI can revolutionize customization and user empowerment",
+      "excerpt": "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist.md",
+      "title": "'You Should Try Tesla Self-Driving,' Says Elon Musk To Meta Chief AI Scientist",
+      "excerpt": "Tesla Inc TSLA CEO Elon Musk on Friday recommended Tesla’s self-driving to Meta Platforms Inc META Chief Artificial Intelligence scientist looking for the missing element in machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
+      "originalUrl": "https://www.benzinga.com/news/23/05/32611631/you-should-try-tesla-self-driving-says-elon-musk-to-meta-chief-ai-scientist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/elon_musk_ai4_7.png?width=1200&height=800&fit=crop",
+          "width": 861,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32611631",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611631",
+      "publishedDateTime": "2023-05-28T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-i-took-a-trip-on-britains-first-driverless-bus-there-were-heart-stopping-moments-but-the-robots-are-coming.md",
+      "title": "I took a trip on Britain’s first driverless bus – there were heart-stopping moments but the robots are coming",
+      "excerpt": "Bristling with Artificial Intelligence software and hi-tech sensors ... is the vanguard of Britain’s coming driverless vehicle revolution. It is pitched as a safer alternative to human drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
+      "originalUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/stagecoachs-robobus-part-feature-rise-819905064.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10791016/trip-britains-first-driverless-bus-edinburgh-robots/amp/",
+      "publishedDateTime": "2023-05-28T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how.md",
+      "title": "Want To Prep For An Interview Using AI? This TikTok Video Shows You How",
+      "excerpt": "A TikTok video by a user named Hanna Goefft shows how easy it is to use AI to help you prepare for an interview. It’s a novel idea and actually seems to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647372dbb65ff1df789811f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
+      "publishedDateTime": "2023-05-28T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it.md",
+      "title": "How the rise of generative AI could kill the metaverse — or save it",
+      "excerpt": "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-ai-versus-machine-learning-whats-the-difference.md",
+      "title": "AI Versus Machine Learning: What's The Difference?",
+      "excerpt": "The key to developing such technology and best taking advantage of it, however, is in utilizing both AI and machine learning to the best of their increasingly substantial potential. Though the two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1298487/ai-vs-machine-learning-difference/",
+      "originalUrl": "https://www.slashgear.com/1298487/ai-vs-machine-learning-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/ai-vs-machine-learning-whats-the-difference/l-intro-1685212071.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-will-the-artificial-intelligence-mania-sink-stocks.md",
+      "title": "Will The Artificial Intelligence Mania Sink Stocks?",
+      "excerpt": "Stock returns have been dominated by mega-cap technology and artificial intelligence-related stocks. AI has the opportunity to increase productivity across the economy, but even a revolutionary innovation that changes the world can be overdone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64735a8290ba01ceb8569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/",
+      "publishedDateTime": "2023-05-28T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-the-music-industry-is-freaking-out-about-ai-but-this-artist-is-embracing-the-new-tools.md",
+      "title": "The music industry is freaking out about AI — but this artist is embracing the 'new tools'",
+      "excerpt": "\"Patten\" made his album \"Mirage FM\" entirely from text-to-audio AI samples and says AI tools can help more people \"express themselves.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "originalUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646e42256f9a4800187369fb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-05-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-can-chatgpt-really-think-like-a-human-qa-with-ai-scientist-dave-ferrucci.md",
+      "title": "Can ChatGPT Really Think Like a Human? Q&A With A.I. Scientist Dave Ferrucci",
+      "excerpt": "Artificial intelligence is getting smart quickly ... Ferrucci is best known as the creator of IBM Watson. Developed in the late 2000s to answer questions on the television quiz show Jeopardy!,",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "originalUrl": "https://observer.com/2023/05/david-ferrucci-artificial-intelligence-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2023/05/Dave-Ferrucci-Headshot-1.png?quality=80&#038;strip",
+          "width": 750,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "originalUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "cdnAmpWebUrl": "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "publishedDateTime": "2023-05-27T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXEmpire.com",
+        "domain": "fxempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
+      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
+      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html",
+      "originalUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 413,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html",
+      "publishedDateTime": "2023-05-27T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-ai-ml-data-news-roundup-generative-fill-copilot-aria-and-brain-chips.md",
+      "title": "AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips",
+      "excerpt": "The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/",
+      "originalUrl": "https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/en/headerimage/generatedHeaderImage-1685203993883.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-12-companies-racing-to-create-ai-deepfake-detectors.md",
       "title": "12 Companies Racing to Create AI Deepfake Detectors",
       "excerpt": "Startups and tech giants alike are racing to create deepfake detection devices to try and prevent a surge in AI-generated disinformation in the age of ChatGPT.",
@@ -521,591 +1123,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
-      "title": "Japan AI startup launches robot for home use",
-      "excerpt": "TOKYO (Kyodo) -- A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to ...",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?2",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "毎日新聞",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-biden-education-department-worried-ai-in-the-classroom-might-be-used-to-spy-on-teachers.md",
-      "title": "Biden Education Department worried AI in the classroom might be used to spy on teachers",
-      "excerpt": "The Department of Education released a report warning that artificial intelligence systems should not be used to surveil teachers in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
-      "originalUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
-      "publishedDateTime": "2023-05-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-ai-is-a-nuclear-bomb-and-the-entire-world-has-already-got-it-palantir-ethics-expert-warns.md",
-      "title": "AI is 'a nuclear bomb and the entire world has already got it,' Palantir ethics expert warns",
-      "excerpt": "An expert on artificial intelligence ethics for a company that builds software used in war zones likened the emergence of widely-available advanced AI to the atomic bomb this week, voicing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "originalUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e411ac96-aa6b-4cff-8544-75f535f21996/3051c914-44d6-4e64-b3d4-b809d56b5ce9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "publishedDateTime": "2023-05-26T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
-      "title": "Regulators take aim at AI to protect consumers and workers",
-      "excerpt": "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "originalUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "publishedDateTime": "2023-05-26T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-deep-ink-daniel-sprong.md",
-      "title": "Deep Ink: Daniel Sprong",
-      "excerpt": "Daniel Sprong knew he wanted to get tattoos as early as age 18, but he also knew he should probably clear the idea with his family first. So he sought out permission from mom and dad. \"They said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "originalUrl": "https://www.nhl.com/kraken/news/deep-ink-daniel-sprong/c-344601470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Hockey League",
-        "domain": "nhl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
-      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
-      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
-          "width": 361,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "publishedDateTime": "2023-05-26T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
-      "title": "Workplace AI: How artificial intelligence will transform the workday",
-      "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-ai-is-becoming-the-stock-markets-answer-to-everything.md",
-      "title": "AI Is Becoming the Stock Market’s Answer to Everything",
-      "excerpt": "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
-      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
-      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
-          "width": 1000,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
-      "publishedDateTime": "2023-05-26T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
-      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered organization, our grassroots movement to democratize AI has led us to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "originalUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
-      "title": "What You Need to Know About AI ETFs",
-      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
-      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
-      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-789668/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
-      "publishedDateTime": "2023-05-26T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position.md",
-      "title": "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position",
-      "excerpt": "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
-      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
-      "publishedDateTime": "2023-05-26T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

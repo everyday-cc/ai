@@ -19,31 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI"
-    excerpt: "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ..."
-    publishedDateTime: 2023-06-22T17:03:00Z
-    webUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html"
-    ampWebUrl: "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html"
+  - title: "Cops arrest man for taping photos to a dummy to trick mobile banking facial recognition"
+    excerpt: "Brazilian police have arrested a man accused of taping photos of victims’ faces onto dummies to trick mobile banking facial recognition technology and then take out loans."
+    publishedDateTime: 2023-06-23T01:46:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42534/cops-arrest-man-for-taping-photos-to-a-dummy-to-trick-mobile-banking-facial-recognition"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 58
+      name: Finextra
+      domain: finextra.com
+    quality: 31
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/download.jpeg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Ripton Rosen Explores the Ethics of Using AI in Data Analysis"
-    excerpt: "Artificial intelligence (AI) refers to the ability of a machine to display actions like thinking and processing ideas in a similar way to that of a human. Recently, people have used AI for such things as responding to people via chatbots and developing codes for apps."
-    publishedDateTime: 2023-06-26T18:42:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2023/06/26/456283-ripton-rosen-explores-ethics-using-ai-data-analysis.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "U6ElrnrjlivmHRwSQauKQwP/DkbFEu53ClwF0x7xi+oWnyMgC+M8WDu9FFb9XNcH/U21ii4ckNXPQuY2Mo9OFPZMiBU+PWVI8uoD32nO6eS30KwAXBBVylPBjgJHOtGeQmnYZCqcQoCLMV8nZz4V3MT9NYEGj1F6wDQv+zC7fr9TPsGoNT1VRgITBLJ9wiG2mdrlAylRaE3UP8xThAQoLc+YbtqAuQK6Gii7/3CyTYCeNe1OzA/hiKa2M5yIZLibJquEDw8n7CEqtQTmHuKJs9+IuGiKUadRQ41wWSzWJ3jT6J+f/6qr0E1b84t9KLth1k3dhv3Dvm+GWm5sfF2rLpFkTANSXnJ2Wx0DYvTxqmU=;ASJwdQZjDUqejOZdlG+ZPQ=="
 ---

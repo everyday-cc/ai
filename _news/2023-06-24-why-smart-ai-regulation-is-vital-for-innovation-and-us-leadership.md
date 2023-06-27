@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
+    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
+    publishedDateTime: 2023-06-27T09:49:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true

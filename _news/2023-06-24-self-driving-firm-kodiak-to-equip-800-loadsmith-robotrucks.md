@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Kodiak Robotics intends to equip 800 trucks with self-driving systems in 2025"
-    excerpt: "Kodiak Robotics intends to outfit a fleet of 800 commercial trucks with self-driving systems. The trucks are expected to reach the road in the second half of 2025, the company said Thursday. Logistics firm Loadsmith will operate the trucks as part of a ..."
-    publishedDateTime: 2023-06-22T15:21:00Z
-    webUrl: "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks"
+  - title: "Loadsmith orders 800 self-driving truck systems to automate highway portions of freight routes"
+    excerpt: "Autonomous trucks using “Kodiak Driver” technology will hand off loads to human drivers for local pickups and deliveries"
+    publishedDateTime: 2023-06-23T20:59:00Z
+    webUrl: "https://www.dcvelocity.com/articles/57853-loadsmith-orders-800-self-driving-truck-systems-to-automate-highway-portions-of-freight-routes"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 53
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 12
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KodiakTruck-MAIN_i.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dcvelocity.com/ext/resources/2023/06/23/kodiak-Screen-Shot-2023-06-23-at-4.35.59-PM.jpg?height=635&t=1687554078&width=1200"
+        width: 969
+        height: 635
         isCached: true
 
 secured: "KK3gutIcu8IqzYX+Kvq9BqGkZC/QAtju16iGR1Na+9cQP8g0JN8wtz/5beD+W2ItKAq2T4VSo0uaMy+Pv6ooEBYuL/oZkANgvyXncPVd2pxsfYfIEnv4Z9Mq+K/Kkhsu16tWXX8hHfdlIH4qwrGCHQ58UNQi4rYGkrJeZ7hj3DVsOHH3ZjnGPJMQN3IkcfKLKO7AKQBfkcyBVZX9Rh7R/XQVXajkybPgNiUvA+1xjJ7HS/wBwG0F2+VRdslMLDApmdBtD/7/d9lfiyUh2lh6TdAUotxNj4/C6j5NCjEDmybGROjXeN2WVz3vV5L/2WCdxFwxsx79ix7M/8Wt+UBROa4Z0mJ/sSv51CpVuGVLcgvqno+C/pXJuf3losBmHU7/+mgMFJSa/49MYkXPf34JWSGB4YxvInUd4f1c/lxaASd/2LbU7GV5XxvC+9TlFVRLH06UYaWN4CtuUjoJ+xBcHF5ZufJJYv+fwPHIFsCdEQByLjd4V+r9HTTYCMi9Azduvm49+sOUt0e8tfVzExa4qw==;OhhH/uGmUR206jHA6KEJ9A=="

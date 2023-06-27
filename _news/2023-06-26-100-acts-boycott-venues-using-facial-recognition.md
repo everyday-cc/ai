@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Over 100 artists pledge to boycott venues that use facial recognition"
-    excerpt: "Over 100 artists have boycotted a number of venues that use facial recognition at gigs, including Madison Square Garden. Artists to sign the boycott include Bedouine, Boots Riley, Wheatus and Deerhoof."
-    publishedDateTime: 2023-06-26T20:12:00Z
-    webUrl: "https://faroutmagazine.co.uk/over-100-artists-pledge-to-boycott-venues-that-use-facial-recognition/"
+  - title: "Facial recognition attendance for sanitation staff soon"
+    excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
+    publishedDateTime: 2023-06-23T02:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
     type: article
     provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 41
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
     images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/1/2021/05/Live-music-concert.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "TOM MORELLO & ZACK DE LA ROCHA Back Petition To Ban Facial Recognition At Venues"
-    excerpt: "\"The music industry is reeling at news that the owner of iconic New York City venue Madison Square Garden is using facial recognition to identify, harass, and ban people from his venues,\" reads the introduction to the petition. \"This invasive biometric ..."
-    publishedDateTime: 2023-06-22T16:44:00Z
-    webUrl: "https://metalinjection.net/news/tom-morello-zack-de-la-rocha-back-petition-to-ban-facial-recognition-at-venues"
-    type: article
-    provider:
-      name: Metal Injection
-      domain: metalinjection.net
-    quality: 34
-    images:
-      - url: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2023/06/Morello-De-La-Rocha.png"
-        width: 1600
-        height: 975
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg"
+        width: 660
+        height: 439
         isCached: true
   - title: "US campaign against facial recognition in venues ramps up"
     excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
@@ -62,20 +50,29 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 34
-  - title: "Over 100 Artists Pledge To Boycott Venues That Use Face-Scanning Technology"
-    excerpt: "nonprofit organization Fight For The Future launched the campaign to draw attention to venues that use facial recognition technology, and so far artists like Tom Morello, Zack De La Rocha, Boots Riley, Wheatus, Anti-Flag, and more have signed the pledge."
-    publishedDateTime: 2023-06-22T15:10:00Z
-    webUrl: "https://www.stereogum.com/2227894/over-100-artists-pledge-to-boycott-venues-that-use-face-scanning-technology/news/"
+  - title: "Indonesia developing facial recognition system for public transportation system access"
+    excerpt: "The Indonesian government is developing a facial recognition system to identify passengers using its transportation system."
+    publishedDateTime: 2023-06-22T19:27:00Z
+    webUrl: "https://www.biometricupdate.com/202306/indonesia-developing-facial-recognition-system-for-public-transportation-system-access"
     type: article
     provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 22
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
     images:
-      - url: "https://static.stereogum.com/uploads/2023/06/GettyImages-826000302-1687446514.jpg"
-        width: 1024
-        height: 652
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/22152608/indonesia-train-scaled.jpg"
+        width: 2048
+        height: 1367
         isCached: true
+  - title: "Cameroon’s largest city switches on live facial recognition video surveillance programme"
+    excerpt: "Live facial recognition is now in place across Douala, Cameroon’s largest city, in a move designed to reduce urban crime rates."
+    publishedDateTime: 2023-06-23T13:34:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/cameroons-largest-city-switches-on-live-facial-recognition-video-surveillance-programme/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 10
 
 secured: "cm1f06nGruwNxuSb2w8uh3uOGzG5u9PvyEgxPYoJ3bLnNACXzp68lr+OvowSSxOGCIKpape/a+p3RyiBkot+vyc3Wq7sRQsqctLXY9PO4A8UNGRQVZjsxY8Y5QAbfPiy97VSHwwrFlsrsVbW4RqvxJec1o+bQgk8HQqFey5DXYiub0kUeR+5oM5qUiWZ54prbDwrqomPIs0wrbJi+VVRtrJjPQvCaqr4h6bI2+sb98NZH/YqU/yPprCtvGe7of2iYQdr7ltDzlR4/5SZOO8W1e/BTGr26dpf0WfB8jIUk5UeS+z9rVOf+KUYYlJOSaE31wtQtWBccAlF/nmi/1Rzeq3cxcdnoURknw/dQgHWWAec7bw6XWgpA3y4cqZUFjRnaqHfpDIcnK2Gt8C7rBUAM/PzGd+9iBjHlOqC1NVSi4RW+BFPyRPkD6Zl0eMaP8ujZMJaOp3jh4kZAN+YcNG4BGI92FgqBuUS66mtDfB77d/ahNIAWMOgGnwvxb6VxDcgZdESY978dqLqekItvKUizg==;sQGc6uM4yi0ShY8BBVBLYg=="
 ---

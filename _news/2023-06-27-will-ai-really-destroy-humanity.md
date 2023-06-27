@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Will AI really destroy humanity?"
+title: "Will AI Really Destroy Humanity?"
 excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-publishedDateTime: 2023-06-27T06:59:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/will-ai-really-destroy-humanity"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/will-ai-really-destroy-humanity"
+publishedDateTime: 2023-06-27T09:14:00Z
+originalUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
+webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
+ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147750.JPG"
-    width: 1240
-    height: 825
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg"
+    width: 768
+    height: 511
     isCached: true
 
 related:
@@ -65,6 +67,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Ap+TevpIOTylXISpUoR8Q5gwlzW/q1eAUXlBsmhYuTfe/HxzUEtut9tfMFJPv+08Cparz1WHlqTNLyoiftDaW2iExmWo7VcUIVhae3Pu82u9AseF3m4PMxFodhZ7Sct5BxUlyUfwiG97Gi+eoyhdAvfvVEb78JQ8ES1nmzzVslv5o6Od+R4Z2fmsF5AaaPKpt8Px9oGD8QyrqDtUYYzoiznf5EWrLHT/Q1Vy3Jw4zVPvuxIPETS+Jk8EGsWCqftUIfVEzvomqz0xtb2wb7Bml9ROelYUl4Uyad1djQXn0k02eOXIxR9uxKSKqNNWH6X9vPa5MrIOU7eC6kCsjFl/VbiXOd7zl95PpRt0VS2TNYE=;v56ha5RkdGM2esxH0NkYAQ=="
+secured: "4dFthVlMoq2P+WmljLRs2AYTy9ZEnZUhfnQjUoVHyiqt+6ZpXwX5nL+w19MTB3mC9ozAipF7IBRiZyOXyxDfehVyBP6dsQOYsQKyZZZ9lGiMQyJIn9AQvQA554SCpyAFNQq5CQDOcZ5P5/16iNU+cgmd5RT/sZ8ILdkhh3ckpF9tHdnK+hciba6lYad8el/Nd4Dp7wv9zEbKYn//UQDoJXHcv0MJjn5lVXLQZM8HQwPBGmYW8Z8A5NJ4O3vUvQM7p7TCNa6FpIuyeODR+7b3pEaq5l9gMJ8FYl8IxJ2/PyDtdtpdyF+rfDKmBR5Jm6iSGrSaHrIPsybyWWTusPtiT0yp6Fq5/9daeGury0U8q8A=;1aKCSlAeRzjh6uzG66cLBw=="
 ---
 

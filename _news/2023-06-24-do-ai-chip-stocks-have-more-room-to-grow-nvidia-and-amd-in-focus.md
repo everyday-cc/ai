@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Nvidia partners with Snowflake on AI"
+    excerpt: "Will help customers build their own products Cloudy Snowflake is partnering with the chipmaker named after a vengeance daemon Nvidia to allow customers to build AI models using their own data. The two companies announced the partnership at Snowflake Summit 2023."
+    publishedDateTime: 2023-06-27T09:53:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57152-nvidia-partners-with-snowflake-on-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/c6aabe27ba0a0222c0a19962d3fb8abe_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "TWuXg7p46/wMRXP1UeEoN22B7ylicMlR/+RTikXcrEBmpcgSrFiWhe1lBR3R1vYgAwrhxC84kpW8I5xn+TPwbq2/8C8Vjflose+M/TsvK/b9J6YNkmzhWa85YlzsOtQL24cZpq7wzweQ31WLPuz2KAnZtNtn1jtGVHjn+ttmh9WFARdSjLRJOOYg6NYPTczoUQ5SDuKcXqOiOIV7I3ZJ+OQa2crYjUzNh3uejHWUYGc/lUZkMITr3CpEx9FkFhcLn5FGVctJQ+3LsCg7kTfjVTIDX8c3rVkwl61GPMELeyT18ciRoqxoR8B8ianAIWaYMUHjh2hGcMR5+W4Lg4WlJn2z4bwQUm2zDOXKIGvhklIkjq5xiwNSFde68O8r6AdJw7MTIXGwURE7XocO+q53grB5NGRvLMrWUi1BdFQoucyQpfW3xP2wQLYiwKgo8g1/Zq78xSGc//Yf2GEafr2pMHKwqt52ksRApH+vqm33GOmEoL+CdC2w/vVPxWRo7p1qCYd/43PSpR2FSsWEHF9g9A==;7hmqF33HljkOWjiYkhLYaw=="
 ---

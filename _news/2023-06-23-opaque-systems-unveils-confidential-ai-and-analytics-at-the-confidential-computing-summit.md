@@ -49,6 +49,15 @@ related:
         width: 721
         height: 487
         isCached: true
+  - title: "Generative AI, ESG to reshape big data and analytics"
+    excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
+    publishedDateTime: 2023-06-27T08:27:00Z
+    webUrl: "https://it-online.co.za/2023/06/27/generative-ai-esg-to-reshape-big-data-and-analytics/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
     excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
     publishedDateTime: 2023-06-22T18:18:00Z

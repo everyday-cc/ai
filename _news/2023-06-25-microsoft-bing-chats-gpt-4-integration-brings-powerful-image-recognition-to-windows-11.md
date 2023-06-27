@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 63
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
     excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
     publishedDateTime: 2023-06-27T02:43:00Z

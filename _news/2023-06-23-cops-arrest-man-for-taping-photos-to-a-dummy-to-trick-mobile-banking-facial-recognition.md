@@ -24,6 +24,17 @@ images:
     height: 270
     isCached: true
 
+related:
+  - title: "Beijing using facial recognition to track down North Korean refugees"
+    excerpt: "Monitoring systems and artificial intelligence have increased the risks and costs for those trying to flee the Kim regime. If a face does not match a profile, the police can intervene. COVID-19 and in"
+    publishedDateTime: 2023-06-23T13:03:00Z
+    webUrl: "https://www.asianews.it/news-en/Beijing-using-facial-recognition-to-track-down-North-Korean-refugees-58657.html"
+    type: article
+    provider:
+      name: Asia News
+      domain: asianews.it
+    quality: 19
+
 secured: "D8zC3wcyyOqpIRXA3udkYgbhA8Ezyb3ovaEMIVKArL1y1EKEU4c/fdNaOmrBHGAqVgNJ+6+6uyJDKOdpygAdVAjartaoQacQqeq1GvjR9eQrgyHf09XA3DtwHs8Vm32uLeIV51YTxMxdi2iO35VkoucAtVlH/6Z9wMMB1T8okbRWJzhIcrWdd+6YDK/H539w8hL7Ao+EABZJDiqjVi5xroCmWRsNDYjpI17yGTKKMucrMv31OBBQuexOK+gplt7/wxssHU1waDJbI2Tf3v8cBJO+xXT7WHJY5pqtpKBGaFkJsOWQckYEjv3DgB44jhiiv+I+ugBmlbwiInsefFXRXzYkdqq/Mq6kNiSeJ93RWa4=;kowYTQ79gaOrS3pq57sIpw=="
 ---
 

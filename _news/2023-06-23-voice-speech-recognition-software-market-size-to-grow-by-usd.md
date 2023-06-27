@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-
 webUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-market-size-grow-usd-/2023/06/23/9838419.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,52 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
-    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
-    publishedDateTime: 2023-06-22T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition attendance for sanitation staff soon"
-    excerpt: "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon."
-    publishedDateTime: 2023-06-23T02:30:00Z
-    webUrl: "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
-    ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
-    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg"
-        width: 660
-        height: 439
-        isCached: true
-  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
-    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
-    publishedDateTime: 2023-06-26T22:00:00Z
-    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "6J4J0xqv/ucHCTFCj0rVm+ygrQ5zpZ+9tkycgJMo/SmGgw8nvF2DuIva72VoCQfgR7qor7Ud2eQ56Lv9zZKAv3d427n+NFy+1Tz4Phw1WorfqEyPcQAWWTUZAxC3ssggfA8adtDomutZWtmyBzVwAflnOK2lL0JbZtrCHMtYai7tZ5/vdYWxmDjhFVZ0MaYHw8pTjdjJD/KSO3KmSA88MlyTpSpZN0/hm/GGxyg+pQIHptNjs4pOOGhzBkR8MTIWkgwpq9S4s9dfPebjVaVIZszV4YZ/ZlRfQKDYsDIrdnN3sKCzfXJmTOqXoxgzGIeGhaZJs/5L1Kq2HIsS6kksgCbZ+iakqc8/KZ3E6SL1TzHw94TTFTu+xJuGVCymg+C8G/6tJ8zlWFoTlrAeUjiWouaYGAl+bz5ih5I/2pLfgriJKX12zOinvaZDG3vwb60a1cL/qAiCn3AUg2RAEzEcseeiam5eOlXQqn2uHWavOW1mxp2TvWEn7ZWYp5hIDcKhJRU2S3xBpAR/ZMg64pe3AA==;zXtfYDJL8MWfAQVEpQ+Fmw=="
 ---

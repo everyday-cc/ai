@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Generative AI Investment Sprints For Supremacy"
-    excerpt: "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race."
-    publishedDateTime: 2023-06-23T10:41:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1391
-        height: 900
-        isCached: true
   - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
     excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
     publishedDateTime: 2023-06-26T16:57:00Z
@@ -61,99 +45,6 @@ related:
       - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
-    excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
-    publishedDateTime: 2023-06-22T16:01:00Z
-    webUrl: "https://venturebeat.com/ai/stravito-launches-generative-ai-tool-enterprise-search-knowledge-management/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Stravito-Answers-Press-Image-1200x675px.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Prophecy’s generative AI assistant ushers in a new era of data pipeline automation"
-    excerpt: "Prophecy today launched a data copilot to help with data pipeline creation and a platform to build generative AI apps on enterprise data."
-    publishedDateTime: 2023-06-22T23:47:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/prophecys-generative-ai-assistant-ushers-in-a-new-era-of-data-pipeline-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/8a516188-4a7d-4cab-80a7-a367e6be7017-e1687464894359.jpeg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
-    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "3 Questions for Coursera About Generative AI in Education"
-    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
-    publishedDateTime: 2023-06-26T04:46:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 56
-    images:
-      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
-    excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
-    publishedDateTime: 2023-06-23T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/harness-unveils-aida-generative-ai-assistant-software-development-lifecycle/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-  - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
-    excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
-    publishedDateTime: 2023-06-23T10:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/digital-health-funding-outbound-ai-aledade-dexcare"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What are the best ways to use generative AI in the workplace?"
-    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
-    publishedDateTime: 2023-06-26T21:05:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "The deluge of new generative AI products is just getting started"
     excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."

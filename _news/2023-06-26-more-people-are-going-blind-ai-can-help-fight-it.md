@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intel
 webUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/"
 type: article
 quality: 67
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, AI could help us fix the productivity slump, but it can't fix everything"
-    excerpt: "Our nation is experiencing its lowest productivity growth in 60 years, according to the Committee for the Economic Development of Australia. And this downturn is reflected across most advanced economies worldwide."
-    publishedDateTime: 2023-06-22T16:33:00Z
-    webUrl: "https://techxplore.com/news/2023-06-ai-productivity-slump.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-ai-productivity-slump.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-productivity-slump.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/yes-ai-could-help-us-f.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Fear not AI, fear bad and careless people"
     excerpt: "It’s 2036, tens of thousands of artificially intelligent machines around the world, capable of generating their own power and with neural networks instantly linked by trillions of connections, decide to unleash poisons and diseases to destroy the intellectually inferior human pest."
     publishedDateTime: 2023-06-24T16:25:00Z

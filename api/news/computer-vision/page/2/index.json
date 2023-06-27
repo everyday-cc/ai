@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-07-powerful-object-recognition-for-diverse-applications-using-ai-and-robotics.md",
+      "title": "Powerful object recognition for diverse applications using AI and robotics",
+      "excerpt": "New algorithms for object recognition and environment perception have been developed at Fraunhofer IPA, enabling sophisticated automation solutions for the service and production sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news815664",
+      "originalUrl": "https://idw-online.de/de/news815664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-the-fight-to-stop-face-recognition-technology.md",
       "title": "The Fight to Stop Face Recognition Technology",
       "excerpt": "Robert Williams, a Black man living in Michigan, was handcuffed and hauled away by Detroit police in front of his wife and young girls because of a false face recognition match. Even though he was locked up for 30 hours despite being innocent, he considers ...",
@@ -1245,50 +1289,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "originalUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "publishedDateTime": "2023-05-16T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

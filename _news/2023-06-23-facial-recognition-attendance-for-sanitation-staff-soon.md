@@ -9,8 +9,8 @@ ampWebUrl: "https://m.tribuneindia.com/news/himachal/facial-recognition-attendan
 cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Tribune
@@ -27,43 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031"
-    excerpt: "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ..."
-    publishedDateTime: 2023-06-22T16:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
+  - title: "100+ acts boycott venues using facial recognition"
+    excerpt: "Over 100 artists, including Tom Morello and Zack De La Rocha, have pledged to boycott venues that use face-scanning technology. The boycott was organised by the digital rights advocacy group Fight for the Future,"
+    publishedDateTime: 2023-06-26T15:50:00Z
+    webUrl: "https://www.iq-mag.net/2023/06/100-acts-boycoot-venues-facial-recognition/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: iq-mag
+      domain: iq-mag.net
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.iq-mag.net/wp-content/uploads/2021/11/tom-morello-2.jpg"
+        width: 800
+        height: 371
         isCached: true
-  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
-    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
-    publishedDateTime: 2023-06-26T22:00:00Z
-    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
+  - title: "US campaign against facial recognition in venues ramps up"
+    excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
+    publishedDateTime: 2023-06-23T09:06:00Z
+    webUrl: "https://musically.com/2023/06/23/us-campaign-against-facial-recognition-in-venues-ramps-up/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 34
+  - title: "Indonesia developing facial recognition system for public transportation system access"
+    excerpt: "The Indonesian government is developing a facial recognition system to identify passengers using its transportation system."
+    publishedDateTime: 2023-06-22T19:27:00Z
+    webUrl: "https://www.biometricupdate.com/202306/indonesia-developing-facial-recognition-system-for-public-transportation-system-access"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 32
+    quality: 31
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/22152608/indonesia-train-scaled.jpg"
         width: 2048
-        height: 1152
+        height: 1367
         isCached: true
-  - title: "Voice Speech Recognition Software Market size to grow by USD…"
-    excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
-    publishedDateTime: 2023-06-23T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-voice-speech-recognition-software-market-size-grow-usd-/2023/06/23/9838419.htm"
+  - title: "Cameroon’s largest city switches on live facial recognition video surveillance programme"
+    excerpt: "Live facial recognition is now in place across Douala, Cameroon’s largest city, in a move designed to reduce urban crime rates."
+    publishedDateTime: 2023-06-23T13:34:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/cameroons-largest-city-switches-on-live-facial-recognition-video-surveillance-programme/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 10
 
 secured: "elvpJ5Ip5CRnWq1788k34GHMxYBEy2i5fNzWtjiXkdxE9OtzhbdtKI1n1nCS6DwSTyUpOLIRwi71ve0xoiabiwwadsoRoHu6frF2uEbOkT4RWdkQa/N6/QvklbOoE/bCcdh02QKcaYj37Ce2Cr9+ky9G5Gr/gBiXXUvfj6u52uolt+KJmS5ZSUoLRNRpOBAU3OFbJfv88VkOCaG5vGENqyUK7sUBGbUwaRgW0fcGwZG6+mtER3vew/5JcWalkcv+PckzFGF0scUW65XnkWG6pNl5RqXsbqOKkyPNmAqzXiOffkxAx2D9wpaGyI6bWxv4MydEhnAq9YXAk8azPDmr8/JdIfBQMNu0W5cu83hJ8bE=;pD577YKT6Xcn0bBkWfyYtA=="
 ---

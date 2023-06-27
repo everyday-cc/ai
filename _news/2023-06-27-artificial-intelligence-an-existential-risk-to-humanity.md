@@ -8,7 +8,7 @@ webUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existenti
 ampWebUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
@@ -43,6 +44,6 @@ related:
         height: 689
         isCached: true
 
-secured: "o3ObrRJzmkaaMYAUm6paLM4eoDS4QWmpadFqppIO1eO5duySm1UgbU1iMA9ZSU5BimLcds6K0aLsrBHb+o383NKKIVmo2I9vwFDIa8w05GNHQK16Q5DcSizRH+RZzLRQCxLxKfwIyJtdyuCgqYk7nVO/dfqzjDKAfDlcHlsLPX1hgk9xZR/MMbUCwXzmt55F3pr2Cc38o0tbyIEOXb20SkfP7ewydMvoXHQo02JiEKc+BCNeXLDhBrqe1AOBfmhBA3yHgDLeI9KBxyCVOxUTFXPwr9qpEucOifUZAyle+wY7Eb2CR05dupmmWyyhofAxFUumnPPbHRTf0Ely5Aas2XptyxFe040Jp4Pu0fTzYC8=;5zKsJcQ2O1qfiDcunuSmGw=="
+secured: "bVhe6EQ4ESJhseLJB5LoFW7/ieQEinfFTGF+MPSa6iLT85C3sKag1BSxtO/hO/cMy0gzu+Gsum8o23GxlUZv7hXM+ZMTuUUe6vnt3SjiC+Vr52YCcE25ufQiVljScjqTzfUpFtx/1mvHDpHi5mfl1h2k0uCp8EhgSrDR+aTnJuCDq0QV6aAA+p0hqop23mDRxdOkNkgNvxb2X8eBBlFWzf175whmIqxsBN9EZ/d+LrLxagle1T1bQWqpefeOOC/rZeZJzIMEf7qwo55FwCyorgp7wuhlSRGWwlH+3yJUqM9AGvUjJDl8e/Vh1MeeY/ZmRE9np1PhC4zPVG69wZtTO1kVMYQdURyzTb3BvyBvfJLigjQv8rYRLG8TTiqBlJGECoJNyLngKpUnzbB8vUadXA4ekHSaC+GmJzWjJgIxs2Ab33rDipM87lOMW+wfJ5qfDM5jTNM5a4No/LWipbk5PAGWk7jTVSWbPfQ19/b0Ck/rpH0XbEGWz0tIOX4+sFyFYiapmljHZAmB9VBCvV8t1g==;bnvSX/lA1czvMsEev+QI0Q=="
 ---
 

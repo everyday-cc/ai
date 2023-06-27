@@ -65,20 +65,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The Best Places To Invest In The Self-Driving Car Industry"
-    excerpt: "The article discusses the self-driving car industry, focusing on Tesla, Inc.'s strategic missteps and its competitors, including Waymo, Cruise, Baidu's Apollo, and Mobileye. It delves into the ..."
-    publishedDateTime: 2023-06-22T16:35:00Z
-    webUrl: "https://seekingalpha.com/article/4613025-the-best-places-to-invest-in-the-self-driving-car-industry"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1446301560/image_1446301560.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1000
-        isCached: true
   - title: "FMCSA Plans Driver Behavior Study on Self-Driving Trucks"
     excerpt: "The Federal Motor Carrier Safety Administration is seeking approval from the Office of Management and Budget to do a study related to truck drivers and advanced driver-assistance systems."
     publishedDateTime: 2023-06-26T17:11:00Z

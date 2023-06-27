@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-27-microsofts-latest-small-language-model-outperforms-chatgpt-with-a-fraction-of-parameters.md",
+      "title": "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters",
+      "excerpt": "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-mizuho-rolls-out-generative-ai-to-all-45000-bank-staff-in-japan.md",
       "title": "Mizuho Rolls Out Generative AI to All 45,000 Bank Staff in Japan",
       "excerpt": "Mizuho Financial Group Inc. is giving all its Japan bank employees access to Microsoft Corp.’s Azure OpenAI service this week, making it one of the country’s first financial firms to adopt the potentially transformative generative artificial intelligence technology.",
@@ -234,6 +287,58 @@
         "name": "Computerworld",
         "domain": "computerworld.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
+      "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
+      "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "publishedDateTime": "2023-06-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -739,6 +844,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
+      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
+      "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1295,149 +1435,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
-      "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
-      "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
-      "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "originalUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/06/15/f07ca4ed39925dc0b23208f32d0652101686820877963402_original.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/ai-image-generator-video-full-form-meaning-in-text-glossary-artificial-intelligence-1609273/amp",
-      "publishedDateTime": "2023-06-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-endocrine-disrupting-chemicals-may-raise-risk-of-cognitive-disorders-in-future-generations.md",
-      "title": "Endocrine-disrupting chemicals may raise risk of cognitive disorders in future generations",
-      "excerpt": "Adverse cognitive effects linked to polychlorinated biphenyls (PCBs) exposure, a type of endocrine-disrupting chemical (EDC), have the potential to be passed down through generations, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230615183239.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027.md",
-      "title": "Microsoft –AI Will Help Drive $100 Billion In Revenue By 2027",
-      "excerpt": "The latest of these tools, generative AI capabilities through Microsoft Azure OpenAI Service, can help government agencies improve efficiency, enhance productivity, and unlock new insights from their data. Many agencies require a higher level of security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648bd2abff1c29c9aeb1e996/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/06/15/microsoft-ai-will-help-drive-100-billion-in-revenue-by-2027/amp/",
-      "publishedDateTime": "2023-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

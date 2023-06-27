@@ -57,20 +57,6 @@ related:
         width: 850
         height: 500
         isCached: true
-  - title: "The Best Places To Invest In The Self-Driving Car Industry"
-    excerpt: "The article discusses the self-driving car industry, focusing on Tesla, Inc.'s strategic missteps and its competitors, including Waymo, Cruise, Baidu's Apollo, and Mobileye. It delves into the ..."
-    publishedDateTime: 2023-06-22T16:35:00Z
-    webUrl: "https://seekingalpha.com/article/4613025-the-best-places-to-invest-in-the-self-driving-car-industry"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1446301560/image_1446301560.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1000
-        isCached: true
   - title: "Saudi Arabia Introduces Self-Driving Buses for Hajj Pilgrims"
     excerpt: "A new self-driving bus service has been introduced for the convenience of Hajj pilgrims. Alongside the traditional transport options, this year's Hajj"
     publishedDateTime: 2023-06-23T11:26:00Z

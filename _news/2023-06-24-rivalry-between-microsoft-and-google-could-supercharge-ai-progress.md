@@ -70,20 +70,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
-    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 63
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
     excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
     publishedDateTime: 2023-06-26T16:49:00Z
@@ -157,6 +143,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
         width: 1893
         height: 767
+        isCached: true
+  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
+    excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
+    publishedDateTime: 2023-06-27T09:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
     excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"

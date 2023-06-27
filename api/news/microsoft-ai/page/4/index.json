@@ -2,6 +2,179 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-24-microsoft-launches-azure-ai-studio-for-developers-to-create-their-own-ai-copilots.md",
+      "title": "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'",
+      "excerpt": "(MENAFN- IANS) San Francisco, May 24 (IANS) Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their own ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
+      "originalUrl": "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
+      "title": "IT services firms leverage generative AI capabilities for clients",
+      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "publishedDateTime": "2023-05-23T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
+      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
+      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "This approach should work well alongside the updates to Azure AI Studio to deliver AI-ready private data to your Azure OpenAI-based applications. What this means for your code is that it will be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.md",
       "title": "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain",
       "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
@@ -1286,187 +1459,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-microsoft-ceo-satya-nadella-on-ai.md",
-      "title": "Microsoft CEO Satya Nadella on AI",
-      "excerpt": "TIME talks with Microsoft CEO Satya Nadella about Copilot and company's use of AI Write to Andrew D. Johnson at andrew.johnson@time.com.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "originalUrl": "https://time.com/6278841/microsoft-ceo-satya-nadella-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.jwplayer.com/v2/media/N9qPsYLv/poster.jpg?width&#x3D;720",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-microsoft-partners-gurugram-based-builderai-for-developing-ai-solutions-for-businesses.md",
-      "title": "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses",
-      "excerpt": "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/AI-globe-climate-change.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
-      "publishedDateTime": "2023-05-10T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-why-ai-will-open-up-new-career-opportunities-for-young-people.md",
-      "title": "Why AI Will Open Up New Career Opportunities For Young People",
-      "excerpt": "Between the aging labor force and new technology like ChatGPT, the future looks bright for young people just launching their careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "originalUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644d8f7506c6135340824e83/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markcperna/2023/05/09/why-ai-will-open-up-new-career-opportunities-for-young-people/amp/",
-      "publishedDateTime": "2023-05-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
-      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
-      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
-      "originalUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

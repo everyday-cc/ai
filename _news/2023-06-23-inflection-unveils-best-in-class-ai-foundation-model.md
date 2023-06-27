@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
-    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
-    publishedDateTime: 2023-06-26T15:02:00Z
-    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Google DeepMind Takes Back What it Lost to OpenAI"
     excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
     publishedDateTime: 2023-06-27T06:59:00Z

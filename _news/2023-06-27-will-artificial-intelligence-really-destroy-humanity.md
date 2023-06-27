@@ -9,8 +9,8 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-arti
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: malaymail
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will AI Really Destroy Humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T09:14:00Z
+    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
+    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
     excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
     publishedDateTime: 2023-06-23T18:36:00Z
@@ -50,21 +66,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Will AI really destroy humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/will-ai-really-destroy-humanity"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147750.JPG"
-        width: 1240
-        height: 825
-        isCached: true
 
-secured: "DP6Xelavr4v5iVDX0rFf5Pwxh8b4BE5gnnKrOqz3veLsJktPnEZJaSlT7iAji3T9SUGGt+mBrt2Ru8e1ThEnzK2xSiAjCXe9Q0WmzndddKne5XNwJG8apiv5DNQ4zPeAGnwkiDzM7GlSq4n6CPBNmUo8yiZQGY+NwLc+j76XIXKMi9wfyCNrDIEUZF7+msp4UaETVOZI3GtHjPVAoqMJYNp7KcTfx4LzwpEnyrFtWuR9iaJLt3VliPXnmecTJkmcMyeNPj0GJ5U+W4N6GIixnhKdFBjFVW7OpIdzETYtiz8zuRlBxrlcLR8jwKrNsL0qqflLIqJS5KOjTN3cHBPOwCBizwKq3EFqE+jeNBQ8AHw=;pylQhk9Cjgr0DGiWjGzS5A=="
+secured: "lusUI2y/VZPtlSEJRq+GNhCkKNbIW3+a68iBNePb3Hvfcqm3X2zD6Q6O+GW1dBZLaGBxV1vmzo+w7hNOSA6g01guwCfaE2ysOaHNcuo15KZnlrS5FFhgPWWT4trYqgC8+cj2R/d8vgdt7P+RoZmNAXZP3Ifi3gFieVoKmMErfQIvhy1DoKdjy0seWtbMj0uktJZ+pHzlLBtHRQKrAzsTXXDIpLNmcnJYyVzD3/kQaxUvWD0NGoAyNdto5XlDxLOW4DoBCjV1agnXsPOSk1bEGlM0neJip2flPOtkLbnNouqvWqPAOtIqfw5sdG8FatnLR0BHjsF4z1aBZ0m/T9a1ZOfPMHWzL5ii+mNdnPQS/SLjCZ2fXxpWmHbtIU4IDzOIpxFbCIHbau+DpTb50tJX6cFv5WWc7vlIZKElU5ue+PJepiTelH6ksNg0bqKHqiDYCKnNPOSPb1TKuswsWbz0Nx67aRg1Mtw5+cmYt7wGNCudQz88zFLdRtlUFfKcXsC0cUqyBAAyr40Zinr37EurKw==;OQ8hleMka/xEiAoE8tqrHw=="
 ---
 

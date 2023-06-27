@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MongoDB adds vector search to Atlas database to help build AI apps"
-    excerpt: "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform."
-    publishedDateTime: 2023-06-22T17:02:00Z
-    webUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html"
-    ampWebUrl: "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MongoDB Embraces AI & Reduces Developer Friction With New Features"
     excerpt: "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ..."
     publishedDateTime: 2023-06-25T21:40:00Z
@@ -77,15 +61,6 @@ related:
         width: 1199
         height: 607
         isCached: true
-  - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
-    excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
-    publishedDateTime: 2023-06-22T18:51:00Z
-    webUrl: "https://www.crn.com/news/software/database-migration-ai-initiatives-highlight-mongodb-developer-event"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
 
 secured: "JgxALQByXGAIqkkJDTNUp8Cz/DpwxRo25tLwEKHcB3hJAAsl65+4qMi/qHp+4duVFEQryHffASt/5Ewwol13Y6XQUFFxJmYg0eFp2qf7IfdnHiM7vz5jdLPjPkQF7QhbX2uUzok98Kjd+N96iSCLXIQoPpw6WkOivfQ538BmRMMnBBTWamYNaPEJ54+koZI9DlBI0REXgdTMOjl+YQyiVe/bhbNjCaIZF5ggnOAUpVNAsZ45IsSCaLlY6+eJHN3ijMMSQzQmEhtSpBGniO+8g8gtq6g1U3ASVAwvYC9h5lFDSRKJF+YH1L2imJKd+gH2xTsYVGtIBiyzXcMsBRsUsrCkMahITjn83catG1KqxWs1LkDXWmIvUK16HfTWPNhOO3a13on/a0i89xEQ4oePZlfJ9GBvqN4tsnMXGsyC1k1bUnTfhp35+DgZSzsad1n+k/qmMSCuX7PO5uLAoBvGyu/MgMcr4heh9fPCJ2A0tVLBPVfN5ICB3MLuq46TaSNUb94aJUTajo08d5WAH72R/A==;sKrExAfzobWWs352mbSyYQ=="
 ---

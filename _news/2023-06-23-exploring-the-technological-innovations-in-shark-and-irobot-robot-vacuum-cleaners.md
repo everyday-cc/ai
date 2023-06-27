@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/exploring-the-technological-innovations-in
 webUrl: "https://techbullion.com/exploring-the-technological-innovations-in-shark-and-irobot-robot-vacuum-cleaners/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 450
     height: 270
     isCached: true
+
+related:
+  - title: "Techman Robot's Cobot Features AI Technology, Vision System"
+    excerpt: "Techman Robot has announced the launch of its TM AI Cobot TM25S, a 25-kg payload cobot that joins the TM AI Cobot S Series, designed for a wide range of industrial applications. With a reach of over 190 cm,"
+    publishedDateTime: 2023-06-27T08:00:00Z
+    webUrl: "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system"
+    type: article
+    provider:
+      name: Modern Machine Shop
+      domain: mmsonline.com
+    quality: 54
+    images:
+      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/0723-mms-product-techmanrobot.jpg;maxWidth=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZckpOz2LkG3BQgKAlMxJey+qVNCafy/hUsRe4VpFNMEtoMz8fT3xG2YKAdP1PiAIwk5b9VvOyfIg8V/+C8dfnhXsy3kcgimwjaR6XCT0tIJctbOwn9MQDMgTU6s0hXisJjineT+wHd2Rji/W1qTLTKxgaPyxZ4i8H6lZDOXryki7jcq27hQoQtGYsTno7QD3yWfYncXiLLP4cF20boKisHJe5+lltCfHwu5f5hp49TJreaJmcx3luX1NxMPqKBHx3oU4Shjz/TWAp7H32kcjK0Sgfqq+y8DJr4iYap1m3KhElnW0QtD+KXn3Sc0ww8D9dIPHyWVDKfp6iXqfEjllgZjsK6DQkW5wSFeLOXC9yC0=;LVIFgDw4PubrgG/trwUzOw=="
 ---

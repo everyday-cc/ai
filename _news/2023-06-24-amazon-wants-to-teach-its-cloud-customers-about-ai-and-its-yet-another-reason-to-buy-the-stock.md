@@ -25,38 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "1 AI Stock That Could Take You to Easy Street -- and 1 That Could Take You to the Cleaners"
-    excerpt: "AI stocks have jumped this year, but there's a lot of hype in the sector. One AI fintech stock looks poised for a turnaround. Another AI software stock looks significantly overvalued. Investors can't get enough of artificial intelligence (AI) stocks these ..."
-    publishedDateTime: 2023-06-23T10:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
+  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
+    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
+    publishedDateTime: 2023-06-23T13:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://g.foolcdn.com/editorial/images/736866/artificial-intelligence-ai.jpg"
-        width: 2102
-        height: 1426
+      - url: "https://images.wsj.net/im-805564?width=600"
+        width: 600
+        height: 800
         isCached: true
-  - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
-    publishedDateTime: 2023-06-26T09:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-get-an-amazon-amd-deal-boost-1032409143"
+  - title: "AI and crypto integration is going to happen whether you want it or not"
+    excerpt: "During Coinbase’s State of Crypto Summit on Thursday, venture capitalists and AI experts shared their thoughts during a panel on what similarities and differences the industries have and how investors,"
+    publishedDateTime: 2023-06-23T20:06:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "What's Going On With C3.Ai Stock Friday"
+    excerpt: "C3.Ai, Inc (NYSE: AI) stock dropped after Deutsche Bank reiterated a Sell rating after its investor meeting. The Bank said the AI winner could be in trouble after its latest investor day."
+    publishedDateTime: 2023-06-23T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-friday-1032407528"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "It Takes The Right Leadership To Beat AI Bias"
-    excerpt: "Learn, adapt, and address bias. Leaders safeguard businesses by equipping themselves and understand the dynamics."
-    publishedDateTime: 2023-06-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2023/06/24/it-takes-the-right-leadership-to-beat-ai-bias/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/23/ai.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "YGUXwbZAWDyiPfXDS2zwmnDyLPb8JE1n9m6RMaj47kYsp+NVbOpXEW4+WBuDQ3sDfY9EmC6eMyMyiocDxPGljyHkE1r0TlMy+XXyPB+S5+14B8FNUTChv9r4gnHf3ZhK/ycibKC6RntCffksylOVGD2Tztvz/qL6yGYMPc/z0g+w7FnMZyiqY6RLpid07RyNRfKq4fEE09OC8BkU5kyKsTR1NbePMWspDn4KS9D8mBWJTrO+Ys3rFi5i3lrYO2GX9Xp+8wZtG6sN1KI655Wogv//6G1GYzkSWOxR9RaySNvdGhX0pAtlXoHG8TjrbJ/JIpYFRelFW8r6k66TbZ9nYHQ0bxd5XJOqFEgLMYBmmUk=;zd0AZ7mMnY1IhFgtipMhGA=="
 ---

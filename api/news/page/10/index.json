@@ -2,6 +2,571 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-06-20-nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters.md",
+      "title": "Nvidia AI Chips Getting Sold In China's Underground Market Amid US Sanctions: Reuters",
+      "excerpt": "Despite U.S. sanctions, high-end Nvidia Corp. NVDA AI chips are being sold in China’s underground market, Reuters reports. Underground Market: At the Huaqiangbei electronics area in Shenzhen, vendors discreetly offer Nvidia’s A100 artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32918479/nvidia-ai-chips-getting-sold-in-chinas-underground-market-amid-us-sanctions-reuters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Nvidia_9.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32918479",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32918479",
+      "publishedDateTime": "2023-06-20T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai.md",
+      "title": "These 3 Approaches Are Key For Businesses To Avoid Being Eaten By AI",
+      "excerpt": "Given the deafening buzz in the six months since the public debut of ChatGPT, it can feel like we’ve entered an AI bubble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64917f6cbaae7f061c9b887a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/devpatnaik/2023/06/20/these-3-approaches-are-key-for-businesses-to-avoid-being-eaten-by-ai/amp/",
+      "publishedDateTime": "2023-06-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
+      "title": "Can AI Make Airspace Security Smarter?",
+      "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6132caf85eefc9b1e992/0x0.jpg?format=jpg&crop=3033,1707,x0,y156,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/can-ai-make-airspace-security-smarter/amp/",
+      "publishedDateTime": "2023-06-20T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-ai-vs-professional-translators-which-is-better.md",
+      "title": "AI vs Professional Translators: Which is better?",
+      "excerpt": "The Rise of AI in Translation Services AI technology has made remarkable advancements in recent years, revolutionising various industries, including language translation. Machine translation, a subfield of AI, aims to automatically translate text or speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-vs-professional-translators-which-is-better-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-vs-professional-translators-which-is-better-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization.md",
+      "title": "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization",
+      "excerpt": "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "publishedDateTime": "2023-06-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu.md",
+      "title": "Cognitive System & Artificial Intelligence (AI) Systems Market Likely to Boost Future Growth Prospects with Google, Brighterion, Microsoft, Baidu",
+      "excerpt": "The Cognitive System & Artificial Intelligence (AI) Systems Market report contains in-depth information on factors influencing demand, growth, opportunities, challenges, and restraints. It includes comprehensive details on the composition and outlook of global and local industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-opera-one-offers-an-ai-based-web-browsing-experience.md",
+      "title": "Opera One Offers an AI-Based Web Browsing Experience",
+      "excerpt": "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
+      "originalUrl": "https://www.pcmag.com/news/opera-one-offers-an-ai-based-web-browsing-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03tWfDqRAoOVCWepnIXfbXQ-2.fit_lim.size_1200x630.v1687190420.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5.md",
+      "title": "AI Utopia And Dystopia. What Will The Future Have In Store? Artificial Intelligence Series 5 Of 5",
+      "excerpt": "Human Flourishing And A Utopian Future In a utopian future empowered by artificial intelligence ... Here are some ways AI could be beneficial to individuals and society: Healthcare spans beyond internal health. There are also companies such as Coralai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6478245378a2f7a6b37b69d7/0x0.jpg?format=jpg&width=1200",
+          "width": 649,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/20/ai-utopia-and-dystopia-what-will-the-future-have-in-store-artificial-intelligence-series-5-of-5/amp/",
+      "publishedDateTime": "2023-06-19T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
+      "title": "Amazon And The AI War: iRobot Acquisition In Focus",
+      "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
+      "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp",
+          "width": 1000,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029.md",
+      "title": "Automotive self-driving chip sales Market Current Scenario Analysis Report till 2029",
+      "excerpt": "Global “ Automotive self-driving chip sales ” Market Research 2023 provides in-depth information on market segments, geographical areas, and the most recent industry trends and developments. The research provides industry affecting growth variables such as size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-self-driving-chip-sales-market-current-scenario-analysis-report-till-2029-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier.md",
+      "title": "Vimeo adds a suite of AI tools to make video creation significantly easier",
+      "excerpt": "On Tuesday, Vimeo announced it is adding a suite of AI tools to its platform that will automate a lot of the video-editing process. The features include an AI script generator, a teleprompter, and even a text-based video editor. Also : TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "originalUrl": "https://www.zdnet.com/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb0f8df4687cfc04a4ac734b220e0f4b00c9e0ff/2023/06/16/2c07c14f-1fed-45bd-9a02-dd27d3b4b9cd/vimeo-ai-prompt-720.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vimeo-adds-a-suite-of-ai-tools-to-make-video-creation-significantly-easier/",
+      "publishedDateTime": "2023-06-19T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-google-translate-like-ai-tool-can-interpret-cuneiform-a-5000-year-old-writing-system.md",
       "title": "Google Translate like AI tool can interpret Cuneiform, a 5000-year-old writing system!",
       "excerpt": "A recently developed AI tool might be able to unearth mysteries of the past by translating a 5000-year-old writing system into English! The artificial intelligence (AI) revolution has taken the world by storm.",
@@ -677,523 +1242,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-73-of-consumers-trust-what-generative-ai-wants-us-to-see.md",
-      "title": "73% of consumers trust what generative AI wants us to see",
-      "excerpt": "Eager to use generative artificial intelligence to save effort and time, most consumers trust content created by such tools, including ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b3ee67379bffce0c874b5c8b8a44664e3895e0f7/2023/06/19/17423dc3-cd27-4476-bf7e-d899a3679ceb/gettyimages-1490711125.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
-      "publishedDateTime": "2023-06-19T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-with-omni-assist-omnicom-leverages-first-mover-access-to-open-ai-to-accelerate-the-timeline-from-insights-to-outcomes.md",
-      "title": "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes",
-      "excerpt": "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "Nvidia has come to dominate the market for chips used in artificial intelligence (AI) systems. Interest in that sector reached frenzied levels after ChatGPT went public last November, which sent a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/business-65675027?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
-      "publishedDateTime": "2023-06-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-reshoring-the-risks-of-swinging-the-pendulum-too-far.md",
-      "title": "Reshoring: The risks of swinging the pendulum too far",
-      "excerpt": "From the decades before the turn of the century until the global pandemic, great economic growth spread across the world, driving historic demand in commodities and consumer goods. But this economic growth, coupled with stringent labor laws, drove up labor costs. By sourcing materials and labor from",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/reshoring-the-risks-of-swinging-the-pendulum-too-far/",
-      "originalUrl": "https://www.ibm.com/blog/reshoring-the-risks-of-swinging-the-pendulum-too-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029.md",
-      "title": "Artificial Intelligence (AI) Robots Market Opportunities for Growth and Exploration by 2029",
-      "excerpt": "Get a sample PDF of the report at -  The Artificial Intelligence (AI) Robots market size, estimations, and forecasts are provided in terms of sales volume (K Units) and revenue (USD millions), considering 2022 as the base year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029-2023-06-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029-2023-06-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-this-industry-expert-explains-why-fintech-holds-a-bright-future-for-small-businesses.md",
-      "title": "This Industry Expert Explains Why Fintech Holds a Bright Future For Small Businesses",
-      "excerpt": "However, the emerging market of SMB-focused financial technology (FinTech) companies presents promising possibilities for these businesses. Anchit Singh, the Head of Product & Credit Strategy at Fundbox, an AI-driven financial platform for small businesses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342",
-      "originalUrl": "https://www.entrepreneur.com/en-in/finance/this-industry-expert-explains-why-fintech-holds-a-bright/454342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1687172448-Yourparagraphtext4.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs.md",
-      "title": "Despite Funding Winter AI, Fintech Offers Hope To Young Entrepreneurs",
-      "excerpt": "Fintech takes the lead with 171 valuable startups, boasting a combined value of $728 billion. The SaaS sector comes in second with 136 unicorns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/r9nlqv0vwkc9estt_1687172425.jpeg",
-          "width": 768,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/despite-funding-winter-ai-fintech-offers-hope-to-young-entrepreneurs-articleshow.html",
-      "publishedDateTime": "2023-06-19T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-chemo-brain-is-real-but-there-are-ways-to-ease-it.md",
-      "title": "‘Chemo brain’ is real, but there are ways to ease it",
-      "excerpt": "Physicians call it cancer-related cognitive impairment (CRCI), and research indicates it affects about 75 percent of cancer patients during treatment, with 35 percent reporting persistent symptoms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "originalUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BAXZSIH3RRGRTBI2FEKABL6ONI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-why-machine-learning-is-imperative-to-your-brands-digital-marketing.md",
-      "title": "Why Machine Learning Is Imperative To Your Brand’s Digital Marketing",
-      "excerpt": "Business owners and executives new to machine learning and its applications may not know the full potential it has for their digital marketing strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6234c761e493a5459f8e0764/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/19/why-machine-learning-is-imperative-to-your-brands-digital-marketing/amp/",
-      "publishedDateTime": "2023-06-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence.md",
-      "title": "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence",
-      "excerpt": "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-19T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees.md",
-      "title": "Omnicom Group to Debut Tool Using Generative AI for Advertising Employees",
-      "excerpt": "Ad holding company Omnicom Group plans to debut its first generative artificial intelligence tool as part of a partnership with Microsoft: A virtual assistant to help ad agency employees with tasks across the advertising process such as compiling audience insights and building media plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
-      "originalUrl": "https://www.wsj.com/articles/omnicom-group-to-debut-tool-using-generative-ai-for-advertising-employees-4976424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-802415/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

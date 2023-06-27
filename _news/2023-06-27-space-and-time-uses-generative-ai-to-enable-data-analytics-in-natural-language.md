@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI, ESG to reshape big data and analytics"
+    excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
+    publishedDateTime: 2023-06-27T08:27:00Z
+    webUrl: "https://it-online.co.za/2023/06/27/generative-ai-esg-to-reshape-big-data-and-analytics/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Opaque Systems Unveils Confidential AI and Analytics at the Confidential Computing Summit"
     excerpt: "Through privacy-preserving generative AI and zero trust data clean rooms (DCRs) optimized for Microsoft Azure confidential computing ... the Opaque platform will also provide safeguards for machine learning and AI models to execute on encrypted data ..."
     publishedDateTime: 2023-06-22T19:29:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatp
 webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Gizmochina
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT"
-    excerpt: "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ..."
-    publishedDateTime: 2023-06-22T15:34:00Z
-    webUrl: "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 63
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
     excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
     publishedDateTime: 2023-06-26T03:42:00Z

@@ -57,6 +57,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
+    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
+    publishedDateTime: 2023-06-27T09:49:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "The AI Rules Companies Really Want From the EU"
     excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
     publishedDateTime: 2023-06-27T04:44:00Z

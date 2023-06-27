@@ -39,7 +39,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
         width: 1200
