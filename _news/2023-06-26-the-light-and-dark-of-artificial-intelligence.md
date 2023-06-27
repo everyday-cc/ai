@@ -243,20 +243,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
-    publishedDateTime: 2023-06-22T06:48:00Z
-    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
     excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
     publishedDateTime: 2023-06-23T09:03:00Z

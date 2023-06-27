@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -246,20 +246,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 626
-        isCached: true
-  - title: "This startup is hoping to revolutionize the farming industry with bringing AI to small farms"
-    excerpt: "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture, but we also see a ..."
-    publishedDateTime: 2023-06-22T06:48:00Z
-    webUrl: "https://www.chron.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/33/31/53/23960285/3/rawImage.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
     excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"

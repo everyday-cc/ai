@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stabili
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,34 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-1-4.jpg&signature=5945675e22db832c4411b91d509e7252"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI in startup fundraising"
+    excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
+    publishedDateTime: 2023-06-26T21:46:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/ai-is-becoming-a-game-changer-in-startup-fundraising/453560"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Stability AI Head of Research Resigns From Startup"
+    excerpt: "At least two high-profile people have left the artificial intelligence startup in recent weeks. Stability AI, the closely watched artificial intelligence startup, has lost at least two top executives in recent weeks, including its head of research and chief operating officer."
+    publishedDateTime: 2023-06-26T22:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXreZVrCiv0Q/v0/1200x798.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Startup Stability Releases New AI Model For Stable Diffusion as Deep-Fake Concerns Rise"
     excerpt: "Artificial intelligence startup Stability AI is releasing a new model for generating images that it says can produce pictures that look more realistic than past efforts. In a blog"

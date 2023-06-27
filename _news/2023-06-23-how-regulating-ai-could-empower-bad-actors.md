@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/06/22/how-regulating-ai-could-empower-bad-actors/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Democrat urging swift action on artificial intelligence regulations"
-    excerpt: "The development of artificial intelligence is a “moment of revolution” that requires swift action from the government. That's according to Senate Majority Leader Chuck Schumer, who said Wednesday that he is working on ambitious bipartisan legislation dealing with AI."
-    publishedDateTime: 2023-06-22T06:00:00Z
-    webUrl: "https://www.timesfreepress.com/news/2023/jun/22/top-democrat-urges-artificial-intelligence-regulation-tfp/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102840778_102840778-67030effa7154ca3b4441756bcdf864e_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Despite Federal Regulations, States Likely to Tread Their Own AI Regulatory Path"
     excerpt: "While federal agencies have been quite vocal about the fact that AI is already regulated in the U.S., states are seeing openings to address the technology's risks for themselves."
     publishedDateTime: 2023-06-22T21:20:00Z

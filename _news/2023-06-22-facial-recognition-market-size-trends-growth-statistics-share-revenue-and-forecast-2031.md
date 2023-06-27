@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
+    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
+    publishedDateTime: 2023-06-26T22:00:00Z
+    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Voice Speech Recognition Software Market size to grow by USD…"
     excerpt: "The latest report on the voice speech recognition software market, from 2022 to 2027 estimates to register an incremental growth of USD 14,859.93 millio n, at a CAGR of 13.72% during the forecast period."
     publishedDateTime: 2023-06-23T00:00:00Z

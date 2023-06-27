@@ -56,6 +56,34 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI in startup fundraising"
+    excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
+    publishedDateTime: 2023-06-26T21:46:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/ai-is-becoming-a-game-changer-in-startup-fundraising/453560"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Stability AI Head of Research Resigns From Startup"
+    excerpt: "At least two high-profile people have left the artificial intelligence startup in recent weeks. Stability AI, the closely watched artificial intelligence startup, has lost at least two top executives in recent weeks, including its head of research and chief operating officer."
+    publishedDateTime: 2023-06-26T22:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXreZVrCiv0Q/v0/1200x798.jpg"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "6EOqSwH9XMMk8bcA+eaKC+LCA9F3wNLAtyZHDSgPmKl50C9b+Swn+PJatBULxxg/UnUdohEmnhmrhcowjmz5ALMuULW6VfEZkgsMEj2yVVl82y2CXUALUcd701eTQLYjWg0YCKbSbZlHSy0n/eZzGuAhqmvPJU+nXjjChXP3hVzJP94qUe8UkrSA17YAgBtsg7W6URVXM8v8uyjt3+uRz6sv27Jy+sWEx2yfXn9yJyqYhi9DEra7FIoTdjBHejNjYJGTawuq2suD3kIZaccbRcCmyT2VP7PihJBMsUVXxfoDYwQuLenjSFoQapwU05DnSwbwMRZk/aqHbN1Iti8I/cgJeNOXQcMWpnzLYs+2cJdZjPrH1b5013a4Q5iZc6McPWjNH7sIscohOnaBZhdQUhxdJF1SdfFpqKxWpQDjuLp8CUiQ4YrnNmMre1rEDbwv3AoH/jp+BgFK9i4yPSmnnSKmk1KtA1XE7NtxvfN0ble9a8XmU9RzBRvILbXUvh3aZwSlVsK1LYBV5Zi3GR+YRg==;/5gdSr3QlcdbpRg5dc5yqA=="
 ---

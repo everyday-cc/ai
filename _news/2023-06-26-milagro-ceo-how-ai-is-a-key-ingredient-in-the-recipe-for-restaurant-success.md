@@ -23,17 +23,6 @@ images:
     height: 464
     isCached: true
 
-related:
-  - title: "Recording Academy Implements New Rules for Grammy Awards, Including Restrictions on Artificial Intelligence in Music"
-    excerpt: "The Grammy Awards have issued changes to address how artificial intelligence (AI) affects music. Among the revisions is a rule stating that only “human creators” are eligible to win the music industry’s highest honor."
-    publishedDateTime: 2023-06-26T07:27:00Z
-    webUrl: "https://sacobserver.com/2023/06/recording-academy-implements-new-rules-for-grammy-awards-including-restrictions-on-artificial-intelligence-in-music/"
-    type: article
-    provider:
-      name: The Sacramento Observer
-      domain: sacobserver.com
-    quality: 0
-
 secured: "8CjyBRZ+Cogaoh9qKBSOk9pXd3btrAvennYBGsxTrng5OwOxr6utFn2K4OtYLZSP527MUgxSR6wirdI1FGB3IwwlbnR1Ug8anRwoUa37wQGROl3ffqWveULcei+JbxMtLOl7m/Ku3VTIczf1J9FpguSrUhhASmL26QyRSvz7w6jBJNRDyZ/cHb80i1bxoMOEr0nSAK/EirTMkQoIN1IiHhggM3uDBu/O6dxsCEi3OvIhlO01PBdEh1SsZBvO1NpFhO3OzkhvoQZtSxEreEBk5TLDZMC17Hzj6WCo0+C+QlCzkGTW0PL6rDdchndJ9GyQ8l14TecqAILt6vwj5uFHinXQJAvlpokBXVjR4lo9WZA=;Bl5lYNhG8unjlHtqQYIgmA=="
 ---
 

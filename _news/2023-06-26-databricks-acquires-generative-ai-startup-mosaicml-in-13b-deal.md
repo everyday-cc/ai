@@ -169,6 +169,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
+  - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
+    excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."
+    publishedDateTime: 2023-06-26T23:47:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/databricks-buy-generative-ai-startup-us13-billion-heating-ai-arms-race"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 11
 
 secured: "wEdGpMjZL+8kFAgV1R9vCr4qVLcRy7jX1DCUCX18vJ66/8m/Kztlf+X95yIe29VdZXspNfjU94PKIBeCsBsrd4iFW/gxv02k3vSe7ibwwauwNM2mnnxSw7GVdzhCMB0dGWPx7PHyYw6VQFOAmoyHPsZZkFNtnzbdNEV1b1gcn6Ljuj4s6xi0WFUZISyh5SaHfdVP3eB7MoowWz3G7DCbiB1anUJNt9x3nAA6eLDMbCerrhJH6pqWh8MdHQgYdk0tOcECTOXxjNsEHOndRjw4zgVszLTD6dB9bLX4+0EcFmGzpQDkXyS2BW5usqFNL5EnK/awisOsef5G0l2AsLz+zz37AjxtDnqx/ex9TE+Tl5DBnNsrN8Llq+3/NnQaAFWXRqoMlAm8Rph1HgmUlwVnYpN332VKF/NPC7PGID6LTqyBp+iK7S1fPaqx6b44pabQLUH7e39HdPmpbKATkw1GODJKhXcMvtTfBQoRw+TByoCcrY740M7KwGWGru5CKILauPZJNmVb9ZDN978THs9LlQ==;UTO9rv3tFbbFYSKdLl62dA=="
 ---

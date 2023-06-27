@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
+    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
+    publishedDateTime: 2023-06-26T16:49:00Z
+    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 61
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
+        width: 375
+        height: 300
+        isCached: true
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
     publishedDateTime: 2023-06-26T19:11:00Z
@@ -159,14 +173,14 @@ related:
     quality: 15
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
 
-secured: "gDHuGHpTnPREoaypRG5bbp9YQkbViIDgyg1jP+PZwSiFMgTTwYkZPN7KqAsg0qHp6q8TFjoI3CuOJI95tSJa+dq9Fvp8708w/O1ZIkjC32wgQDgcTPD5jZVS0YDemNBesLNqcbSsNDPFuU3CpqP85NNPdYH/Rjev6Sn0VEgwr8Q9uQNeEAVjiQYMug/aoIImnhlfLDHwr/2pBUKHzHKjgP2deku2rx0Q47FXZcjG0N5g+cPZlRTAFVLOx2fTDNMx8tEVjWR61A8mu4LaoUancRFRQPpTwHlx6squzBPJn2jy7xhXfXpRjAeoLa/eL1GPcOUNwIoH2jkZhyGDM4F1uakfLCiz0sfvMM/ODYphXrc=;nuQp8bHANoPfso/U5VZvsQ=="
+secured: "0G+WQsvZ+o05j0xx1t9xUg1jWcf6UAXQ/wIY3cwwIEkdwkpMOSqVvZ49bMH1CbD+g1mxGzLRQlsKErD3X42emhO5iQzoZJ9fn9Av6/TfDf/IWs24CfgEUJ03gkoNnDZlK1f0p1CSoqNO8tMkmx4sxTOk6R9Si/XO+02K+/gAm/nCxsJDRtAYPoVPrV9lt0cGqW/X4qe7XGJKnDAmrIO7x99QLNLXAYC6pWoa0JpJReH8FViyHkkCcVQqW7EHCDy+Q2U4VBWtPhVy6ZMk8m6ZBQpSRcizYP0z6L8JEjxpk9L568QcHfd19qkCmcReSeJbBNIER5GIufFBkRkGp82TCB7gQmWtyRvEgrqE+bKvNdpdi4c9eAzNaRUE6ck0ngdYKe+bsDjpRpK6wpzVQCFNUS8BciHYiIRcFl81G8ae/F/0+56ESY3Jke0LavHnQBRLzzuxN75W2p70h+DJmc1RQd1T4NLJyNEMOhG6fBEA2iK5iuMpivGCslF00QCFM73LtkLI4Tsq1ceHxNgBpLGgLw==;ZGy+x66wHU4NCXXQOqMjiA=="
 ---
 

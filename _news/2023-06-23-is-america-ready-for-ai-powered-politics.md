@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/artificial-intelligence-ai-astroturfi
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-ai-astroturfing-influence-operations-propaganda_n_649495eee4b08f753c2aa4ee/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Get Ready For AI-Powered Social Media Scams"
+    excerpt: "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot."
+    publishedDateTime: 2023-06-26T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Our early-adopters index examines how corporate America is deploying AI"
     excerpt: "PitchBook, another research firm, concludes that in 2023 some 25% of venture deals by s&p 500 firms involved ai startups, up from 19% in 2021. GlobalData, also a research firm, finds that about half the firms scrutinised have talked about AI in their earnings calls since 2021 and that in the first quarter of this year the number of times AI was mentioned in the earnings calls of America Inc more than doubled compared with the previous quarter."
     publishedDateTime: 2023-06-25T18:49:00Z

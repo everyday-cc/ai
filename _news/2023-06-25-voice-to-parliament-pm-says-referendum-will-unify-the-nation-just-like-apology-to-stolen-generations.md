@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Voice to Parliament is about ‘recognition and listening’"
-    excerpt: "Minister for Indigenous Australians Linda Burney says the Voice to Parliament is about “recognition and listening”. “It’s about making a practical difference,” Ms Burney said."
-    publishedDateTime: 2023-06-22T05:45:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/voice-to-parliament-is-about-recognition-and-listening/video/a9f88aff080bc242e0da009907417b3f"
+  - title: "Michael Jensen’s Christian defence of the Voice to Parliament: A Christian critique"
+    excerpt: "As commendable as Rev. Dr Michael Jensen’s defence of the Voice to Parliament is, it left me even more convinced that it is not the way forward, and would mark the beginning of a new regression — this time,"
+    publishedDateTime: 2023-06-26T01:29:00Z
+    webUrl: "https://www.abc.net.au/religion/stephen-chavura-christian-critique-of-voice-to-parliament/102523242"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 24
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 18
     images:
-      - url: "https://content.api.news/v3/images/bin/e17999f889afc86e4fa5b1cda042cc74"
-        width: 1280
-        height: 720
+      - url: "https://live-production.wcms.abc-cdn.net.au/3794b8d4b95bd260ae372c56ec817d77?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
+        width: 862
+        height: 485
         isCached: true
 
 secured: "tbZ1XRRHtm/iA0sB3C5/lwoUyTAl3bu0ud1IU8983cRrPipykhPdzjGDXzcgcWwoiLL5UPc7Zyo6yeDeUDDq+5piDQKInvLIZbtaLZIFHNah8rrxa5VAbYqpUQno6wPqOuDbu6H3omdafW4Z5fIije5kcVzHf9vvp6yktWe33DN+pKrDDcsOWVScN9wrLwidpm7noM1bl7LgdO5BJroyNrFjb07BBd61W3TldL0zwUQYO1ICvsFYQurrecPmEzEh53feylqmHQPNnD5prBNGHaUOfWaBfSg0uZd4I2exmCXzWQJqbQXQlUiCg8od+B3RAK23csoNnSkmuL5U0clLSsWR7DEBgY6i8y9xCe5mgCM=;MxInliJVabuBxiffoMz6tw=="

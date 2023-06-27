@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
+      "title": "Robotaxis take over the wheel",
+      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
+      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LewistownSentinel.com",
+        "domain": "lewistownsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
       "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
       "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
@@ -1341,40 +1384,6 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
-      "title": "Self-driving cars could clear light rail’s troubles",
-      "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/opinion/article227311534.html",
-      "originalUrl": "https://www.newsobserver.com/opinion/article227311534.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

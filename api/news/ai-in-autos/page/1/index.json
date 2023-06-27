@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-if-aliens-contact-earth-it-may-not-be-humans-who-get-the-call-expert.md",
+      "title": "If aliens contact Earth, it may not be humans who get the call: expert",
+      "excerpt": "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "originalUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d89c5ff-a5c0-4573-8ae1-3c96fca895f5/48e89d32-5b3c-4b92-a139-0d2c6338b1de/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "publishedDateTime": "2023-06-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
       "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
       "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
@@ -1374,49 +1426,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
-      "title": "Robotaxis take over the wheel",
-      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LewistownSentinel.com",
-        "domain": "lewistownsentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite
 webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
 type: article
 quality: 98
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
+    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
+    publishedDateTime: 2023-06-26T16:49:00Z
+    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 61
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
+        width: 375
+        height: 300
         isCached: true
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
@@ -163,8 +177,8 @@ related:
     quality: 15
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Crypto scams are going to ramp up with the rise of AI"
+    excerpt: "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer."
+    publishedDateTime: 2023-06-26T23:08:00Z
+    webUrl: "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence"
+    ampWebUrl: "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "Startup Kaito Gets $87.5M Valuation in New Funding to Build AI Search Engine for Crypto"
     excerpt: "Startup Kaito raised $5.5 million in a Series A funding round at a $87.5 million valuation, to build an artificial intelligence (AI) search engine tailored to the crypto industry, the firm told CoinDesk. Crypto firms are increasingly turning to AI ..."
     publishedDateTime: 2023-06-22T14:42:00Z

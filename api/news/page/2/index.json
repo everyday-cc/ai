@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
+      "title": "How to responsibly scale business-ready generative AI",
+      "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-more-people-are-going-blind-ai-can-help-fight-it.md",
       "title": "More People Are Going Blind. AI Can Help Fight It",
       "excerpt": "Early detection is crucial for treating eye disease. AI-enhanced eye scan analyses could spot warning signs quicker—and reach patients at scale.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -100,49 +152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study.md",
-      "title": "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study",
-      "excerpt": "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280",
-          "width": 1280,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
-      "publishedDateTime": "2023-06-26T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -488,6 +497,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-if-aliens-contact-earth-it-may-not-be-humans-who-get-the-call-expert.md",
+      "title": "If aliens contact Earth, it may not be humans who get the call: expert",
+      "excerpt": "A Harvard professor of astronomy is predicting extraterrestrials will make contact with artificial intelligence before humans, due to aliens potentially feeling a \"kinship\" with human technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "originalUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d89c5ff-a5c0-4573-8ae1-3c96fca895f5/48e89d32-5b3c-4b92-a139-0d2c6338b1de/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/aliens-most-likely-contact-artificial-intelligence-humans-likely-kinship-expert.amp",
+      "publishedDateTime": "2023-06-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-25-3-millionaire-maker-robotics-stocks-to-buy-and-hold-forever.md",
       "title": "3 Millionaire-Maker Robotics Stocks to Buy And Hold Forever",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips For those that want a path to riches, jumping aboard innovative enterprises",
@@ -539,7 +600,7 @@
       "originalUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1131,48 +1192,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-nervous-about-ai-many-internet-creators-consider-it-a-tool-not-a-threat.md",
-      "title": "Nervous about AI? Many Internet creators consider it a tool, not a threat.",
-      "excerpt": "Samir Chaudry, co-host of “The Colin and Samir Show,” said he’s encouraging his entire team to use AI in their day-to-day jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "originalUrl": "https://www.nbcnews.com/tech/ai-internet-creators-excitement-rcna89790",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230622-vidcon-ai-lr-97d957.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna89790",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna89790",
-      "publishedDateTime": "2023-06-23T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

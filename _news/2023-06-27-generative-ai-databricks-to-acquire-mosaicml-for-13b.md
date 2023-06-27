@@ -168,6 +168,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
+  - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
+    excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."
+    publishedDateTime: 2023-06-26T23:47:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/databricks-buy-generative-ai-startup-us13-billion-heating-ai-arms-race"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 11
 
 secured: "juZxQO3/GqHDnMz/J5ojlzT7SLnJjDpac2dPX8A984fCUkXt5wfbb1NNDSFhopuBVDglEYgnuqiissj62IdqBWHeb7hpBMeCYDSGPwSyFbBVKU7v33piSE3sTmvJ+qnJt5ez/IP3rrDeoRwBdw/EwsA3I4WpFah5wZEa+0eXFphouZaqqUb9Pw5h2BHSgRgAFbuLd82Qjnii2Z/ojKjAwmeP6UklOxNkqJ5O4nsuWvRhMpQxMurglQHwJQ6LwXuVQJtPEk7FrNwuW8oCfyMFnaNzDOSr04vAsl89WhcxggP9SxGbQMG4uV5xLNsNRgxOQtGoEr60jAzCAnOo7foCFG1cE8XTz7m/pEojh290dpG6jw3kFpIwqt8QXDNXft4vrfbM7JQASfD8OkQnynky0haJoyrB0qeUyuiRWUhDvparfXGwucbX8SoiSqN0M2DTyHnGVKorRlqnjIkby0zyOrZfIJSl+tyuTrTQRi8j4VJ66V7zgHl+Qndk/cf5IpHE4VPlw5sMQ+nx8rOADCFFzQ==;j2/Uj4Ohnkc6zEERok/6XQ=="
 ---

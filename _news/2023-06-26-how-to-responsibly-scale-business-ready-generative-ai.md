@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-g
 webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
 type: article
 quality: 119
-heat: 329
+heat: 309
 published: true
 
 provider:
@@ -210,20 +210,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Freshworks Unveils New Generative AI Enhancements Across Product Lines to Power Greater Business Efficiency"
-    excerpt: "Freshworks chose to integrate Microsoft Azure OpenAI Service into Freddy AI solutions to ensure the privacy and security of Freshworks customers data. John Montgomery, Corporate Vice President, Azure AI Platform at Microsoft said, \"Microsoft and Freshworks ..."
-    publishedDateTime: 2023-06-22T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/freshworks-unveils-new-generative-ai-enhancements-across-product-lines-to-power-greater-business-efficiency-2023-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dataiku unlocks the potential of generative AI in business apps"
     excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
     publishedDateTime: 2023-06-26T11:12:00Z
@@ -238,17 +224,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "CSIRO leads on responsible AI"
-    excerpt: "The National AI Centre, housed in the CSIRO, has released a new report to advise small businesses about the uptake and rollout of AI in their operations in a responsible way."
-    publishedDateTime: 2023-06-22T05:29:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/csiro-leads-on-responsible-ai/news-story/d893751fa43bf6ce55dc14ce868ba88c?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Sima.ai Gears Up for a Generative AI-Embedded Edge Future"
     excerpt: "Even though the Sima.ai has not revealed its roadmap, Krishna Rangasayee, CEO said that the startup is preparing for a generative AI embedded edge future"
     publishedDateTime: 2023-06-24T05:27:00Z

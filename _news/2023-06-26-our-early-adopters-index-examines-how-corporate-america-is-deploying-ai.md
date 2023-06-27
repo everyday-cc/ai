@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Get Ready For AI-Powered Social Media Scams"
+    excerpt: "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot."
+    publishedDateTime: 2023-06-26T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "arxQgM6pv3vkk+FeyAqxB2RgZa6Yir//xstHq4BnmyMpOWqMNkJ6/iQbyCg/Sn0mPeAhxgN6Hy8h59Fd+mOFxw86l4us8Qby2VLvMscCXV3BOg0OVATRlFLdAK7JOPsBMLihyNCR0/M0wkwKJ2PzSHAFG1mWHarMrif/7jwGL9m68537tzw4Dx6M/9ailQgUcLSx/h4Plqsalh1XNpXvHWaeo4MvAoqbW9Q1ZjcLLw5cPtPhRf9FK0k1aHxXnkQvuTzWpH2JebM0pteq1IiumJzV5vC62aUICmWFdbZJJTCY/M1cv6Gv9qB0rnEUygwXv4m1EHTRDw2EBuR7x47sNYwcqKLA3xR3j4hd0PZZ4QqPiOik2AQPMUkG7HAUhn73CAghejET3PFbLpuZblP7fJzeXhVWk+FmSCtWq3P6fnnmVYWq1J2GkKOoKindeRTaK06XtFlkINpxdmi1JjUzAdI1xJN6PChyimMOYD242i1GqxNtEW3bc7kkitc5DLy/dAffoHSLxtoyUlxmTE0ZQA==;41//oS1Mc/qiQkOoJaeGkg=="
 ---

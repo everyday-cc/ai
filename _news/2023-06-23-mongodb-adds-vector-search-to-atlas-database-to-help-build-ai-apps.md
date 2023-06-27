@@ -47,6 +47,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI will change software development in massive ways, says MongoDB CTO"
+    excerpt: "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter."
+    publishedDateTime: 2023-06-26T18:09:00Z
+    webUrl: "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e1f3b2050f61238595de2449c3501e9161f73f0c/2023/06/26/a1a9ef9c-51e1-472c-8d00-50976872ae9a/mark-porter-hero.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MongoDB integrates with Google Cloud’s Vertex AI models amid flurry of new features"
     excerpt: "MongoDB today hosted its developer conference and announced new features for Atlas as well as a Google Cloud partnership and new programs."
     publishedDateTime: 2023-06-23T01:26:00Z
@@ -61,15 +77,6 @@ related:
         width: 1199
         height: 607
         isCached: true
-  - title: "AI will change software development in massive ways, says MongoDB CTO"
-    excerpt: "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter."
-    publishedDateTime: 2023-06-26T18:09:00Z
-    webUrl: "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
   - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
     excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
     publishedDateTime: 2023-06-22T18:51:00Z

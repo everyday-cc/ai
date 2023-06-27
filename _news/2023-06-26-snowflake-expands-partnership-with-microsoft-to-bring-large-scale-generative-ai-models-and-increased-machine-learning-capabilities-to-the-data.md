@@ -2,9 +2,9 @@
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
 excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-publishedDateTime: 2023-06-26T14:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+publishedDateTime: 2023-06-26T13:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
 type: article
 quality: 12
 heat: -1
@@ -63,6 +63,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
+    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
+    publishedDateTime: 2023-06-26T16:49:00Z
+    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 61
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
+        width: 375
+        height: 300
         isCached: true
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
@@ -167,6 +181,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "gRALpKFmngQp9zLBXIRR5lqUgpGPeKriAkd2bLt+Oy+YseH/R2FX1gVfI8hJxOmnDI0CM+G3v5enI5HAuLYfc5MuLOF/+APnZvTuXfkroTSTZF+4Y7OVyfOyay9j/5ZF3SzSHUJ4f1b7OGxt+fKqUrZL4Qe9k4ivyQDKV4FrT9DvNC4ES3nHuSPFEfEeV9IVaFdVgjfaEnes7nTFEDdzfgS8VXMIolXOheaT1c0od7Z4EkS8X7U7k9C5p57fGODJ56oCUTfcxsxG0ldsbxhUW2GVyW1UGg0/+cYeEs6zZYbDbE3RvbPmY1aqI9APdee0w0UOeB+WsqoEjwHlzp4SjKTtItos8ocaiKvwu2cQ04A=;ew4gu4G0HAltWxzjbAEBaQ=="
+secured: "epw6KLxszLUJqFvq0RbvO1YgfOCfFgKcah5ievpXxArYpAFSkK6GvhN5gwUNSwnq+sKnxUOCHsn7NmlkR+wLOHs2ymVdVKCIqmYXmukSREMgbMEJ75S29T+t7wP6NWAmXT3DFE8RgpZqHvYcq17JK+fMn4nSXoG4tRQYAex/O7zE+1Xc+FExvr41SWzQG+Lo7g9oXqg2pRZD4M0mvP2OyqVr5jl2DMvrAPfo4iXxoxGSjDprcUCrA4xSbayinohQ7iI4/nYDXWdZ/DKXhe85WZZKt8TDM8Pk5Mb0qcQJu+73PcWC+ddc4XUPQwM8dqLMHWSeq7lwRcOU/4SJXz3GIx75ZfbbfK6OFxw+mIJ7Hl8=;5M8DFQRx8iawqfY1XKgIzA=="
 ---
 

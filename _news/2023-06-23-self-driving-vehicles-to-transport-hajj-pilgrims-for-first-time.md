@@ -57,19 +57,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Saudi’s Transport General Authority introduces self-driving electric buses for Hajj pilgrims"
-    excerpt: "The self-driving buses in Saudi operate autonomously, thanks to artificial intelligence, cameras and surrounding sensors."
-    publishedDateTime: 2023-06-22T05:51:00Z
-    webUrl: "https://gulfbusiness.com/saudi-tga-introduces-self-driving-electric-buses/"
+  - title: "The Best Places To Invest In The Self-Driving Car Industry"
+    excerpt: "The article discusses the self-driving car industry, focusing on Tesla, Inc.'s strategic missteps and its competitors, including Waymo, Cruise, Baidu's Apollo, and Mobileye. It delves into the ..."
+    publishedDateTime: 2023-06-22T16:35:00Z
+    webUrl: "https://seekingalpha.com/article/4613025-the-best-places-to-invest-in-the-self-driving-car-industry"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 13
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Screenshot-2023-06-22-at-9.38.53-AM.png"
-        width: 930
-        height: 644
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1446301560/image_1446301560.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1000
         isCached: true
   - title: "Saudi Arabia Introduces Self-Driving Buses for Hajj Pilgrims"
     excerpt: "A new self-driving bus service has been introduced for the convenience of Hajj pilgrims. Alongside the traditional transport options, this year's Hajj"

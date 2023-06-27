@@ -5,6 +5,8 @@ excerpt: "Lenovo, the world's top sellers of PCs and supercomputers, is broadeni
 publishedDateTime: 2023-06-14T11:47:00Z
 originalUrl: "https://wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/"
 webUrl: "https://wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/"
+ampWebUrl: "https://wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/?amp=1"
+cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/14/targeting-artificial-intelligence-lenovo-to-invest-additional-1b-over-3-years/?amp=1"
 type: article
 quality: 15
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://wraltechwire.com/wp-content/uploads/2018/05/artificial-intelligence-4-alien-god-diety.jpg"
+    width: 960
+    height: 578
+    isCached: true
 
 related:
   - title: "Lenovo To Invest $1 Billion For Artificial Intelligence Acceleration"
@@ -52,6 +61,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "KabhwfwgMAbsoQgmfy8TGVY0vdbB5ohioY6pcv0SKjAxSqpy90G+urT9Izk3Wa0UziskckzNpaPryh/DMwpS8ULmuI11871kryIQeTmEmkNn2cqn8wElqrYY3yguxNiHlrM8ioUSg7qrcxG3VpMlJyvwagpEXebWmY3ZtoadPT2XUo+oAOCjjFm4P2cEwSsPysmsX9LW17Ehe4mOpAkgoSMibCH89jUvo/QofynrPxNVbbnveRUn4/D3o7qyCS5h2iUhXG7oaw1jPJWEwqbtvB2lLzFoymxfmLo3I9SHGu8BmGYIP7DloMxRZ6ustWT1gP0fcBpSgYxELn37ZvyIAz+K8v+o9hdr2nZjOy3Nblhsfpg0CRVMcBCsEtQaqLRquMEpmtyYwJ6wjHISlt7tJtQI+p6Nb+REk5/4vniLMoRcHGJ4TQ0M359NDyCtvnZSCvGqhoze5ro9lsJsRLLp6V8nrZLhkq/M2kwWl/+6VQW6PKp/zibdN82+2NOK1uuZb2gtZCFjwXMbyL50OkC9DQ==;ZraFYC/o+VX6rg5DLGStjg=="
+secured: "8tNqfr2Jn5rX52JZZDxNrMKhRWUpKcoXNwT1x6KUh9Fs/N6TW8anAir1AFx6eDi3Zyv/aJpczChoLQ3LpYzpp4KBGH69KrkAXPMGHFi2wx2eBmB+qgIwTK+q+AnhA+cm1ffz05mLPmHI6SPxsB+YoP2W12hTGQfQgvsNV/jLTFlKL9DUKPrLpTYSvZBlc5W52L5DTsq74BKy3/Q3xVN432EJ5pfidDKMfmsM6UI0o2VOdUJ7ZO8rGSVYVHTvwZLFZkjnkSx6uIcDiMecpv/8rcM8KZzaScmlHVidOmUv71Eps6v6x8nQ8MseEaZTxJzfR8cvjGL5KhOESagAa2XxMhPBpauVtTCU8mrKen2OP6I=;mZ+Xg61HPqLYNG5gGt9eMA=="
 ---
 

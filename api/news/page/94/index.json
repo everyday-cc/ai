@@ -2,6 +2,195 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-04-28-ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023.md",
+      "title": "AI Trends In Education And The Workforce That You Should Know About In 2023",
+      "excerpt": "The field of Artificial Intelligence is evolving so quickly that nearly every industry is being impacted seemingly overnight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-how-generative-ai-is-transforming-enterprise-search-solutions.md",
+      "title": "How generative AI is transforming enterprise search solutions",
+      "excerpt": "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
+      "publishedDateTime": "2023-04-27T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-home-regina-leader-post.md",
+      "title": "Home | Regina Leader Post",
+      "excerpt": "This advertisement has not loaded yet, but your article continues below. The Mosaic Company announced $500,000 funding toward Wanuskewin Heritage Park's UNESCO World Heritage Designation at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://leaderpost.com/news/local-news/live-rcmp-outline-what-happened-in-the-mass-stabbings-in-james-smith-cree-nation-and-weldon",
+      "originalUrl": "https://leaderpost.com/news/local-news/live-rcmp-outline-what-happened-in-the-mass-stabbings-in-james-smith-cree-nation-and-weldon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/13.4.5/websites/images/broadsheets/ogimage-lp.png",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leader-Post",
+        "domain": "leaderpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models.md",
+      "title": "Alibaba Cloud seeks partners to help build custom generative AI models",
+      "excerpt": "The Chinese cloud vendor announced a new program to find partners that can create large language models tailored for companies across various sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
+      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/78805114ccf28a4a5f4114d5b5828cd52a8b054d/2023/04/27/5b5953af-e8ce-4564-b05c-44eec02c4038/gettyimages-1438616508.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-seeks-partners-to-help-build-custom-generative-ai-models/",
+      "publishedDateTime": "2023-04-27T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-google-microsoft-and-meta-each-said-ai-nearly-50-times-on-earnings-calls-heres-why-we-should-all-care.md",
       "title": "Google, Microsoft and Meta each said ‘AI’ nearly 50 times on earnings calls. Here’s why we should all care",
       "excerpt": "In earnings results this week, Alphabet, Microsoft and Meta all announced revenue boosts and put their AI priorities front-and-center.",
@@ -1033,160 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
-      "title": "Robots run the show as Swiss radio tests AI voices for a day",
-      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023.md",
-      "title": "ChatGPT is the Most In-Demand Workplace Skill in Q1 2023",
-      "excerpt": "Udemy (Nasdaq: UDMY), a company dedicated to improving lives through online learning, today released its Q1 2023 Workplace Learning Index, a quarterly",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023/article_44a37423-47c6-515d-bbf6-cd4c852d09d6.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/chatgpt-is-the-most-in-demand-workplace-skill-in-q1-2023/article_44a37423-47c6-515d-bbf6-cd4c852d09d6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
-      "title": "First babies conceived using PlayStation-controlled robot are born",
-      "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
-      "originalUrl": "https://metro.co.uk/2023/04/27/first-babies-conceived-using-playstation-controlled-robot-are-born-18685759/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-nextira-selected-by-aws-for-ansys-technology-partner-program-to-support-predictive-enterprise.md",
-      "title": "Nextira Selected by AWS for Ansys Technology Partner Program to Support Predictive Enterprise",
-      "excerpt": "Ansys Gateway is a solution for developers, designers and engineers who want to expand their Ansys simulation and computer-aided design or engineering (CAD/CAE) capability into the cloud. Using Ansys Gateway for design and modeling improves companies' ability to evolve into predictive enterprises by removing users' dependence on on-premise servers,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

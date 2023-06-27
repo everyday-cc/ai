@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acqu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -174,6 +174,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
+  - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
+    excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."
+    publishedDateTime: 2023-06-26T23:47:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/databricks-buy-generative-ai-startup-us13-billion-heating-ai-arms-race"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 11
 
 secured: "UV9fj2vpU9GHkJL+ixEQJkM0A6zWTjzPPHJoFiBrNH1Og1HpAs4SolntwZfF5J1Yd/E/EQoTMpz5gNJd/rb6YQp0aXCvAL5A6cFZP+5/Sywh+Dx2LmLEYzMitPP5D01p5E0Vg9T0sb3pdK0X/Qy569mU28TpGZpFq/xg5ShwhC0a1/d9TYMstvCL/sZULacK5R8O6X0elFSO41K2LS+owscc+I2LF7lQdviljvHVn5O3ShLszbxD18ajc8NvlHfd8NYsc8/5gHtB3fOozxzAx1e3fogkOzM/U/UMIAe57+H6cpBCvbtwpfNJ63J3xkvAEw8oloU9vI0yaMrmsKpBZIpt0qEUUwCNk5d9wG58gyofDSLofImdBbECHR6gbw6Z4ZsRfGXKpwbbtcz8yIctiFG2ndcq+Lk9g7la3ERsJgEBo1bpGBVFHJbdi3YIPH/bplicTUGtyi97DdYHR9vYqbItenXawecD9OHLk+fYaiKq9rWoLcsUOgTIl4CA55CgCeBnbAlZA5tZDVSOIgfcUw==;74PQ7ulncfC4KA/8qeS3LA=="
 ---
