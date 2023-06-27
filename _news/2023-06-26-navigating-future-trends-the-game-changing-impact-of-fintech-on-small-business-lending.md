@@ -49,6 +49,15 @@ related:
         width: 1500
         height: 682
         isCached: true
+  - title: "How NYC hospitals are using artificial intelligence to save lives"
+    excerpt: "Artificial intelligence is changing the way we learn and work. But New Yorkers may not realize that similar algorithms are already aiding lifesaving decisions at hospitals every day. Staff at three New York City hospital systems say that in mere seconds,"
+    publishedDateTime: 2023-06-27T10:00:00Z
+    webUrl: "https://gothamist.com/news/how-nyc-hospitals-are-using-ai-artificial-intelligence-to-save-lives"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 21
 
 secured: "gwvWPoPXhkdiNPYwQ+Z+d8lxEuF5k1MdGkzpBPNr42qvZl283V7cnqCkq/SZw0I2FqO9RJgZDqkraQ6c4dYlxBLu3jRMZGk3Kopu4hJxZF1crwaeDTuokKfSqPYS930n3COis24m8QiFSlJaTVnDeUaA05NdfFbJgv89K1GL7aMbsPX9dSsYispa507nOXFmss3ajhoIlVGQnxZxPr5QSbl3oMZnGAGPHtFYTgTRDneKS71f4fMFYpVChRschS2bRlM9C/Mc3G8SqY6g7gBaOcB3UvtAhzpOBRa0JIctcZKa7aOZBS8s24LtepbVJwQTaVtKcNT4eD0meuIksU3SRCEdBa96SPKU7z4KGv/t4aA=;fFVuVZVDtwBuowq2EnCnFw=="
 ---

@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-26-three-ways-use-ai-to-create-a-seven-figure-e-commerce-storeeven-if-youre-not-a-techie.md",
+      "title": "Three Ways Use AI To Create A Seven-Figure E-Commerce Store—Even If You’re Not A Techie",
+      "excerpt": "When Huang surveyed more than 220 e-commerce sellers recently, 58% said they were not familiar with AI technology or were only somewhat familiar. Huang saw a need to bring them together to give them a place to start. After spending two months doing a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/",
+      "originalUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6121218d5c555303e8592cc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 783,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elainepofeldt/2023/06/26/three-ways-use-ai-to-create-a-seven-figure-e-commerce-store-even-if-youre-not-a-techie/amp/",
+      "publishedDateTime": "2023-06-26T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-the-hybrid-cloud-forecast-part-2.md",
+      "title": "The Hybrid Cloud Forecast: Part 2",
+      "excerpt": "Looking at the theme of \"Journey to Cloud\" on the Hybrid Cloud Forecast podcast.\nThe post The Hybrid Cloud Forecast: Part 2 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-2/",
+      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:43:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-the-six-strategic-uses-cases-for-aiops.md",
       "title": "The six strategic uses cases for AIOps",
       "excerpt": "Six strategic use cases for AIOps and practical next steps to guide your AIOps journey.\nThe post The six strategic uses cases for AIOps appeared first on IBM Blog.\n",
@@ -450,6 +543,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-26-merlyn-mind-launches-education-focused-llms-for-classroom-integration-of-generative-ai.md",
+      "title": "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI",
+      "excerpt": "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
       "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
       "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
@@ -699,57 +844,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-26-the-future-of-excellent-cx-leveraging-enhanced-generative-ai.md",
-      "title": "The Future Of Excellent CX: Leveraging Enhanced Generative AI",
-      "excerpt": "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
-      "publishedDateTime": "2023-06-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
       "title": "How to responsibly scale business-ready generative AI",
       "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
@@ -815,57 +909,6 @@
       "images": [
         {
           "url": "https://media.wired.com/photos/64931e618d6da8ab812d8551/191:100/w_1280,c_limit/01-Wired_NHS_Spot.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-the-us-senate-wants-to-rein-in-ai-good-luck-with-that.md",
-      "title": "The US Senate Wants to Rein In AI. Good Luck With That",
-      "excerpt": "Even with some senators still catching up on the basics of AI, Schumer and his bipartisan allies were overall happy with their first all-senators meeting. “Listen, if you’re delivering a lecture to scores of senators, they’ll be at varying degrees of expertise, so I actually think it was appropriate for the audience,” Senator Young of Indiana says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-ai-regulation-congress-briefings/",
-      "originalUrl": "https://www.wired.com/story/us-ai-regulation-congress-briefings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64962ab46279e36472844619/191:100/w_1280,c_limit/062323-security-us-senate-artificial-intelligence-future.jpg",
           "width": 1280,
           "height": 670,
           "title": null,
@@ -1153,7 +1196,7 @@
       "originalUrl": "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1184,49 +1227,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock.md",
-      "title": "Chip startup rides AI frenzy to become top-gaining topix stock",
-      "excerpt": "Socionext Inc. has jumped more than 245% this year, with its market value touching a high of around ¥957 billion ($6.7 billion), making it the best-performing stock on the Topix index.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Sensex_nifty_market_down_Sensex.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html/amp",
-      "publishedDateTime": "2023-06-25T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

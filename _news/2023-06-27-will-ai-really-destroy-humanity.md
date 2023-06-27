@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Barron's
@@ -43,30 +43,7 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
-    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
-    publishedDateTime: 2023-06-23T18:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "When AI bots pose as humans"
-    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
-    publishedDateTime: 2023-06-27T03:50:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
-secured: "4dFthVlMoq2P+WmljLRs2AYTy9ZEnZUhfnQjUoVHyiqt+6ZpXwX5nL+w19MTB3mC9ozAipF7IBRiZyOXyxDfehVyBP6dsQOYsQKyZZZ9lGiMQyJIn9AQvQA554SCpyAFNQq5CQDOcZ5P5/16iNU+cgmd5RT/sZ8ILdkhh3ckpF9tHdnK+hciba6lYad8el/Nd4Dp7wv9zEbKYn//UQDoJXHcv0MJjn5lVXLQZM8HQwPBGmYW8Z8A5NJ4O3vUvQM7p7TCNa6FpIuyeODR+7b3pEaq5l9gMJ8FYl8IxJ2/PyDtdtpdyF+rfDKmBR5Jm6iSGrSaHrIPsybyWWTusPtiT0yp6Fq5/9daeGury0U8q8A=;1aKCSlAeRzjh6uzG66cLBw=="
+secured: "/+UxthxYheiumsga8t/9LCm4MaYlojr52DMtDlHp7f+PV8QXpmxvqn8Ig9Ba4Xw26C8Yk/Re/goOPjV48UlDItI0t6SMI100ZNbx7GEnzSmXsJXouZecd/gjjEoasEVpDbsHupZ4ID6ASNibwMZHwtGcboKnAAaegoCtQyF8eRvI8ZkYsZVvopzLXSud6fsjLn0QsxaRmIDj1SBcDrKtFpbTKHSeGEmc1zDgxQIoWznXr442V8WX9yFw+8AJ2ALR466cuLAnujoUXw40avzbFhvRp7uhrV7IiX7HJOPnomnBDy/g1oaWg219We++jldgvhzFg0lF0gHjRRPDZfpQhMzUr3w+YZYFO3zRL1iZwgRZt63PXYAnIFIRywHDVlXN+d/w0/ynaiBV991Ce0K/p3h0l6qJAhwDRF3GdICfV2yR4BQqgBDXoKyYOOCt1VnUFpl836DXByGokaQ5EjY3JmWWDVKOuHpvGfgqreUwPtjnwgT1SzixH9C1tg2usB3Juy3222UL9Z/KP2zlqTBofw==;qNyD/uIvDtXAhRKH0VUWRg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -76,6 +76,36 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
         width: 1068
         height: 601
+        isCached: true
+  - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
+    excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
+    publishedDateTime: 2023-06-27T11:55:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
+    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
     excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."

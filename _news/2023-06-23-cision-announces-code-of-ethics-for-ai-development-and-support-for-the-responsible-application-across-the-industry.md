@@ -71,6 +71,38 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AWS invests $100 million in new Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
+    publishedDateTime: 2023-06-26T15:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706"
+    ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 76
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
+        width: 724
+        height: 482
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-26T09:19:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "The AI Rules Companies Really Want From the EU"
     excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
     publishedDateTime: 2023-06-27T04:44:00Z
@@ -100,6 +132,104 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
+    excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
+    publishedDateTime: 2023-06-22T20:03:00Z
+    webUrl: "https://www.unite.ai/amazons-aws-invests-100-million-in-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/06/aws-header_tvMEUF2.width-800.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
+    publishedDateTime: 2023-06-23T04:20:00Z
+    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
+    excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
+    publishedDateTime: 2023-06-23T16:36:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/aws-invests-100-million-in-new-generative-ai-innovation-center-news-8748"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 54
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Aws Announces Generative Ai Innovation Center"
+    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
+    publishedDateTime: 2023-06-24T10:11:00Z
+    webUrl: "https://menafn.com/1106495265/Aws-Announces-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496238"
+        width: 400
+        height: 250
+        isCached: true
+  - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
+    excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
+    publishedDateTime: 2023-06-26T02:39:00Z
+    webUrl: "https://fintechnews.sg/75493/ai/aws-invests-us100-million-for-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/AWS-Invests-US100-Million-for-Generative-AI-Innovation-Center.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Aws Launches $100 Million Generative Ai Innovation Center"
+    excerpt: "(MENAFN- coinxposure) aws is developing a $100 million solution to compete with microsoft and google in the market for generative artificial intelligence (ai). according to bloomberg, the impending aws generative ai innovation center will connect amazon's ai and machine learning experts with clients seeking to develop applications based on the most recent technologies."
+    publishedDateTime: 2023-06-26T03:58:00Z
+    webUrl: "https://menafn.com/1106500435/Aws-Launches-100-Million-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-06/25/C_4a95bimage_story.jpeg"
+        width: 679
+        height: 452
+        isCached: true
+  - title: "AWS announces generative AI innovation center"
+    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-27T06:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
+        width: 1280
+        height: 852
         isCached: true
   - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
     excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
@@ -140,6 +270,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Amazon's Aws Unveils Generative Ai Innovation Center"
+    excerpt: "(full-name excess cash flow value funds), which invest in an event-driven equity and credit strategy read more among other things, the team of experts working at the center will help customers develop generative ai applications with step-by-step instructions."
+    publishedDateTime: 2023-06-23T18:59:00Z
+    webUrl: "https://menafn.com/1106493357/Amazons-Aws-Unveils-Generative-Ai-Innovation-Center"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
     excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
     publishedDateTime: 2023-06-23T12:42:00Z

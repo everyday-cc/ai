@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Motley Fool
@@ -27,36 +27,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "AI Threatens Many Jobs, But Workers Still Plan to Quit"
-    excerpt: "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers."
-    publishedDateTime: 2023-06-22T18:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg"
-        width: 1200
-        height: 808
-        isCached: true
-  - title: "AI Threatens Many Jobs but More Than a Quarter of Workers Still Plan to Quit"
-    excerpt: "Quit rates dropped to 2019 levels in April after the mass turnover of the Great Resignation, but PwC data shows that the desire to quit has shifted to a different end of the corporate hierarchy — unspecialized workers."
-    publishedDateTime: 2023-06-22T18:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/ai-threatens-many-jobs-but-more-than-a-quarter-of-workers-still-plan-to-quit"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF8CrpCBCw5g/v1/1200x808.jpg"
-        width: 1200
-        height: 808
-        isCached: true
 
 secured: "bMB5CU57h88VdagJEQ+iMUP03FTpFZdCXN6Yit/n9NJvu6sfydurUFIZCYvpDu5lztLNPMKGWYQZVChY96nF/xb2u963Ka6fmFAp7uMyB2d1ncC6GNsijET+d0XmSFlCjo7rrK9V11GzEI8dj/LHLwhWAS8I3nzRngSxKGA8Ot3zZxIiB2S6Y11iil9g8EpumW9pSEKXkn8NYDlv42PJLdux2VfUMCVJDUIdq3TGoJF35tAcdxeFDtAXXJRIfrBZS0zNt0dppw2dU/Jxk2g7zdQmSp4Kjgjvj9LYnNRUIBxy9pHcMqDckEF9SKsAaAkk7r4txAFwhB20Nht9zl2DyKhePmCk5b18/FOBkgkv1fA5avt8HXtBQNcMEfDSIWDKQv4mnGB3Kk6Q9J/DajoZoUdt/nYZd3V+lYmn8t/b5FFmvAfuHSugefOAN1dODLgj+Q2fbW9PDTS0CU1E2Ov3vLJXKC8uST5AC2kCc6gp+dfCVxDx7NnvybypyRzX9/4do1eHrTDwVro4pYjjj3lWzw==;PF/V7T3rHedNlFSTb/Shzg=="
 ---

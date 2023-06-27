@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "100+ artists pledge to boycott venues that employ facial recognition technology"
+    excerpt: "Business News Live Business 100+ artists pledge to boycott venues that employ facial recognition technology By Chris Cooke \\| Published on Tuesday 27 June 2023. A US-based campaign"
+    publishedDateTime: 2023-06-27T10:14:00Z
+    webUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boycott-venues-that-employ-facial-recognition-technology/"
+    type: article
+    provider:
+      name: completemusicupdate
+      domain: completemusicupdate.com
+    quality: 37
+    images:
+      - url: "https://completemusicupdate.com/wp-content/uploads/2019/09/fightthefuture1250-1024x410.jpg"
+        width: 1024
+        height: 410
+        isCached: true
   - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
     excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
     publishedDateTime: 2023-06-27T08:07:00Z

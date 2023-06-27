@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bank of America sees these 3 names benefiting from the A.I. networking chip war"
-    excerpt: "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ..."
-    publishedDateTime: 2023-06-22T19:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
   - title: "3 stocks set to lead a booming AI networking market that will grow 5x to $10 billion by 2027, according to Bank of America"
     excerpt: "As big-tech cloud providers begin to integrate generative AI into their centers, demand for certain hardware will skyrocket."
     publishedDateTime: 2023-06-25T08:59:00Z

@@ -39,12 +39,12 @@ related:
         isCached: true
   - title: "‘Certainly want this’: Anthony Albanese backs Voice leaders despite poll slump"
     excerpt: "Anthony Albanese has backed in the leadership of the Yes campaign, despite flagging support for the Voice to parliament referendum."
-    publishedDateTime: 2023-06-27T01:43:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/certainly-want-this-anthony-albanese-backs-voice-leaders-despite-poll-slump/news-story/5d835e79186233e1b51a52cb47ddffa1"
+    publishedDateTime: 2023-06-27T11:13:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/certainly-want-this-anthony-albanese-backs-voice-leaders-despite-poll-slump/news-story/5d835e79186233e1b51a52cb47ddffa1"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 15
 
 secured: "8j+ZHi7vII/Um0xBvOgygFw3XC8+xJ6CN+LXmZc+cD6v0fxeBi1JbKsoDS+6J7ZJoZFqARxLmSeCTcyvPsXN8c2ohYhaKphU2E8TEtKp4MNrT4MDOdhG7oxEFVEeFUN/uEVylbWOy0mXoucwd5SVNGTWnicdD2pKxcLxeLdh6T53u/0L3+TYWoUJcNvfuoWgKdebpvN4ykxyvAU9TjOCWSj06uiKUD+GemCTq3ZPZE7gboe4BH+2Da09LZGiemblLqhUhJgVlG4fPrE4G2aebfg6CIFzJANYktk2cBqY0s6MXLAlLTDFZPUUO6dsQ1cS1mHH9xTT4irRcDeYhtFyJWvWEorqhKkn7Il7DU1zlw7EfEt5Mh7+QO6KP+Nl8xugz7USzG8AxN+yuzQIeqdL4504BF1dZZvlfrCX/ggQ91HcRncChc2FA5yR67NpKRrzEzZL4v2TSRg7GcS65NSz+TqtVFFHw1rCjzN23Qe8/DYmKu4o0pTWpPtve5B8JYJWDg65nBT778ShEePnW9cd7g==;+JTkgOLOAT/6Y8V/w1xL2Q=="

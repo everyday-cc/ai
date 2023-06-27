@@ -67,6 +67,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Artificial intelligence technology helping fraudsters create fake posts and websites"
+    excerpt: "Fraud experts say the web is one of the riskiest places for consumers. News5 spoke with a fraud expert about how artificial intelligence is fueling fraud online."
+    publishedDateTime: 2023-06-27T10:00:00Z
+    webUrl: "https://www.koaa.com/money/consumer/artificial-intelligence-technology-helping-fraudsters-create-fake-posts-and-websites"
+    type: article
+    provider:
+      name: koaa
+      domain: koaa.com
+    quality: 30
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/082e3f8/2147483647/strip/true/crop/712x374+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fda%2F6b%2Fbc36114a4b9bbd8cb5cd24ff9690%2Fcomputer-mouse.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---

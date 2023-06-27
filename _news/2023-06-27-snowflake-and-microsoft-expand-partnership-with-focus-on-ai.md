@@ -73,19 +73,19 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
-    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
-    publishedDateTime: 2023-06-26T16:49:00Z
-    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
+  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
+    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
+    publishedDateTime: 2023-06-26T08:53:00Z
+    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 61
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 63
     images:
-      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
-        width: 375
-        height: 300
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
@@ -107,6 +107,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 56
+  - title: "Snowflake and Microsoft expand partnership with AI"
+    excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
+    publishedDateTime: 2023-06-27T11:18:00Z
+    webUrl: "https://www.techzine.eu/news/applications/108171/snowflake-and-microsoft-expand-partnership-with-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/Snowflake.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
     excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
     publishedDateTime: 2023-06-23T12:52:00Z

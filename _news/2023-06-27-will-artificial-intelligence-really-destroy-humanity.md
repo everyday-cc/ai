@@ -43,29 +43,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
-    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
-    publishedDateTime: 2023-06-23T18:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "When AI bots pose as humans"
-    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
-    publishedDateTime: 2023-06-27T03:50:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "lusUI2y/VZPtlSEJRq+GNhCkKNbIW3+a68iBNePb3Hvfcqm3X2zD6Q6O+GW1dBZLaGBxV1vmzo+w7hNOSA6g01guwCfaE2ysOaHNcuo15KZnlrS5FFhgPWWT4trYqgC8+cj2R/d8vgdt7P+RoZmNAXZP3Ifi3gFieVoKmMErfQIvhy1DoKdjy0seWtbMj0uktJZ+pHzlLBtHRQKrAzsTXXDIpLNmcnJYyVzD3/kQaxUvWD0NGoAyNdto5XlDxLOW4DoBCjV1agnXsPOSk1bEGlM0neJip2flPOtkLbnNouqvWqPAOtIqfw5sdG8FatnLR0BHjsF4z1aBZ0m/T9a1ZOfPMHWzL5ii+mNdnPQS/SLjCZ2fXxpWmHbtIU4IDzOIpxFbCIHbau+DpTb50tJX6cFv5WWc7vlIZKElU5ue+PJepiTelH6ksNg0bqKHqiDYCKnNPOSPb1TKuswsWbz0Nx67aRg1Mtw5+cmYt7wGNCudQz88zFLdRtlUFfKcXsC0cUqyBAAyr40Zinr37EurKw==;OQ8hleMka/xEiAoE8tqrHw=="
 ---

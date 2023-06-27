@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-stocks-to-buy-lead-booming-netw
 webUrl: "https://www.businessinsider.com/ai-stocks-to-buy-lead-booming-network-market-artificial-intelligence-2023-6"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bank of America sees these 3 names benefiting from the A.I. networking chip war"
-    excerpt: "but investors may also want to keep an eye on networking chip stocks Marvell and Broadcom , according to Bank of America. Networking semiconductors play a critical role in the graphics processing units underpinning many generative AI models, and these ..."
-    publishedDateTime: 2023-06-22T19:00:00Z
-    webUrl: "https://www.cnbc.com/2023/06/22/three-chip-stocks-could-win-ai-networking-war-bank-of-america-says.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
   - title: "Our early-adopters index examines how corporate America is deploying AI"
     excerpt: "PitchBook, another research firm, concludes that in 2023 some 25% of venture deals by s&p 500 firms involved ai startups, up from 19% in 2021. GlobalData, also a research firm, finds that about half the firms scrutinised have talked about AI in their earnings calls since 2021 and that in the first quarter of this year the number of times AI was mentioned in the earnings calls of America Inc more than doubled compared with the previous quarter."
     publishedDateTime: 2023-06-25T18:49:00Z

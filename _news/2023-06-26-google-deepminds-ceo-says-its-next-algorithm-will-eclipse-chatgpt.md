@@ -85,6 +85,36 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
+    excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
+    publishedDateTime: 2023-06-27T11:55:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
+    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
     excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
     publishedDateTime: 2023-06-23T14:22:00Z

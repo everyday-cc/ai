@@ -25,51 +25,126 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs"
-    excerpt: "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ..."
-    publishedDateTime: 2023-06-22T17:44:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/"
+  - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
+    excerpt: "Google DeepMind is working on a new system, Gemini, that combines LLMs with reinforcement learning techniques used in AlphaGo."
+    publishedDateTime: 2023-06-26T17:19:00Z
+    webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AI-5.png?w=1200&strip=all"
         width: 1200
-        height: 669
+        height: 750
         isCached: true
-  - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
-    excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"
-    publishedDateTime: 2023-06-23T16:16:00Z
-    webUrl: "https://www.theinformation.com/articles/ai-boomerang-googles-internal-critic-returns-from-rival-openai"
+  - title: "Google DeepMind unveils self-improving AI model RoboCat"
+    excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
+    publishedDateTime: 2023-06-23T17:14:00Z
+    webUrl: "https://inshorts.com/en/news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
     images:
-      - url: "https://tii.imgix.net/production/articles/10745/761d04e5-3946-4954-9cc5-5413925a8aab.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
+        width: 1080
+        height: 569
         isCached: true
-  - title: "Inflection unveils “best in class” AI foundation model"
-    excerpt: "Inflection, an AI startup led by LinkedIn and DeepMind co-founders, releases a new AI model. The new service is designed to compete with comparable LLMs"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108002/inflection-unveils-best-in-class-ai-foundation-model/"
+  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
+    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
+    publishedDateTime: 2023-06-27T02:06:00Z
+    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
+    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 37
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
+  - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
+    excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
+    publishedDateTime: 2023-06-25T14:00:00Z
+    webUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/"
+    ampWebUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 73
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
+    excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
+    publishedDateTime: 2023-06-27T11:55:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/deepmind-claims-gemini-will-rival-chatgpt-8688846/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
+    excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
+    excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
+    publishedDateTime: 2023-06-23T14:22:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 48
+  - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
+    excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
+    publishedDateTime: 2023-06-26T17:13:00Z
+    webUrl: "https://www.onmsft.com/news/google-deepmind-devises-a-strategy-to-outwit-chatgpt-with-gemini/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
+    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
+    publishedDateTime: 2023-06-26T18:18:00Z
+    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
-secured: "hX4XtiAGfbVMIf32C5WG+HRUEnzO9+MaLKrcb+BqHF+yWXj2KWJE8sWFvv+YhkqOI+67CYogdJnbGiKqGftjgtd6GnKmZZo3DzMJjDyvx73DUHEnZdmXGzEgxB9kqGJfS7tUWNbee8uFeLKzsASD9qE62Pr14gNNJ9eS828M4GkVWZgboYfkOK/VcoK/7i4p3PC7ctxiLs1NLF8yn9pO3a0Gvs5F8knncNkcpjfhp202U0HA+ZY4IQpHXi+eXjFOcRD38ru1RtBCB35zfN1iJV9HwyBupjlWyrc5HB7zBvZF3DlwwT8BycUseZOf73kJhsINkexvAcPdfeKSH3gtlVJhO1/76m4FPOYLMNRlWDI=;c7QpATs9lLDEhmoJ6l8UcA=="
+secured: "ZjMy52LTg72nLI7B320MIsjrsz1MVJYE6WMkpQgBAEzopblvGJXL1usAje69VfTWXzkoT8MCZjVsCFMWTCRzWHYtS0n07voYEbzls9j9MAHaPPcWKMs3LWEjsYNsMjTo1GWOnOyuX24Mk0P6/nqPaYWi0zU1HNfXC4HQIWtEHyIEdiXdqr+5tfvZlmIIBoBxIPnDr0iddHszcxYZn2nCKL+utV3tlZH2BzyLdHcE9GOs0e9bliV2wZciDbh/Q03XIY1Dj/udVUMoO3jVxZA7gx5nYee/pWNLk5KkQzJDmLq8einiadWSPFIftE/VnY4h5e4s0RqrVy9fRFwDAfyQNPzMnCXoyv0DGYLxGpLZ+wY+XZUhxQjChtupPui4HN17hj2CQQZxudNeQUB3HYGKQZDjAKkVpxWyGJOAsf306zjLx+s17Bl9FQQ3+hspvvZ0BzE9BKbu0ZZ0wOc8NlnSKYPg0jUSVTp1uU2Msq5sIV8DRqztJd/ItDhZO8jquaWzrkgEuXFPMS8JeSpKOlkMNQ==;fWD8RPZOmFAZ4wypRqftKQ=="
 ---
 

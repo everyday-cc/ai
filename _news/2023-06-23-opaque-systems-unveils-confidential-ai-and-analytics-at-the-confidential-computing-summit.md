@@ -58,15 +58,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
-    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
-    publishedDateTime: 2023-06-22T18:18:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 9
 
 secured: "GiXmToZQaxNjE5PzilXiX+Efl6n5ZgRnpUgQqh+coBjfIieKmBREr7C6eXzJ33z2RyDo6rKmR6y19CfAeR2B8d5fIMrYvpy7OoBODCeqWe/1P+FvudvK8J6QK6NCBE9tVJ2K9CLAQNyQ+6QZ4yB4XtRBP/uPsjkoEO3VTXEG9uIiLJf5aYXZzifqp1PKFbIeSp5IKhfjCmGOnhnEYAWD0tei+ePaK6E0WjdCJug7JjyLKxsPKN4684/9XwlAOwjMAq8ZIq0PBE3/LwEwJ3PG4sXm9SX35SfwU0FjTmJWS8Csstqn0BbBQBTg47eD9zoiPJZu9Fzh2Qvd6J1Z88I98fpN+rGenY/3Pes1gVyZqm0=;l8JKA8k3pMmOKYUHqafLEw=="
 ---

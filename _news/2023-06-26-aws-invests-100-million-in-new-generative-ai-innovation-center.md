@@ -28,67 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches $100M program to fund generative AI initiatives"
-    excerpt: "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ..."
-    publishedDateTime: 2023-06-22T18:58:00Z
-    webUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/"
-    ampWebUrl: "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The Generative AI Investment Sprints For Supremacy"
-    excerpt: "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race."
-    publishedDateTime: 2023-06-23T10:41:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
+  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
+    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
+    publishedDateTime: 2023-06-25T20:29:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1391
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
-    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
-    publishedDateTime: 2023-06-26T15:02:00Z
-    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
+    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
+    publishedDateTime: 2023-06-27T09:49:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "AWS invests $100 mn to help customers build generative AI solutions"
-    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879"
-    ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 74
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
   - title: "AWS Announces Generative AI Innovation Center"
     excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
@@ -106,58 +92,35 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
-    excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
-    publishedDateTime: 2023-06-23T07:28:00Z
-    webUrl: "https://www.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    ampWebUrl: "https://amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
+  - title: "The AI Rules Companies Really Want From the EU"
+    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
+    publishedDateTime: 2023-06-27T04:44:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 73
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg"
-        width: 1125
-        height: 750
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Amazon.com to Invest $100 Million in New AWS AI Center"
-    excerpt: "Amazon.com said it is investing $100 million in a new generative artificial intelligence program in its cloud-computing unit to help customers launch new AI products. The company said its AWS Generative AI Innovation Center will connect AWS AI and machine ..."
-    publishedDateTime: 2023-06-22T18:26:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5?mod=mw_RHF"
+  - title: "Big tech companies want AI regulation - but on their own terms"
+    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
+    publishedDateTime: 2023-06-27T05:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
-    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 63
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
         width: 1280
-        height: 853
-        isCached: true
-  - title: "AWS pledges $100M to launch generative AI innovation center"
-    excerpt: "The AWS Generative AI Innovation Center would connect customers with AWS experts in AI and ML to help them build and launch generative AI products, services and processes, the company said. Customers want guidance to quickly enable generative AI,"
-    publishedDateTime: 2023-06-22T20:47:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-generative-AI-center/653726/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
-    images:
-      - url: "https://www.ciodive.com/imgproxy/MGb6UCx7mi29_8BTYHgGI-ws0NGO5whP2whVr9yb90w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyNDUyNDc2MDBfMmlkUjJzMS5qcGc.jpg"
-        width: 770
-        height: 435
+        height: 720
         isCached: true
   - title: "Amazon’s AWS Invests $100 Million in Generative AI Innovation Center"
     excerpt: "In an exciting turn of events for the AI industry, Amazon's cloud unit, Amazon Web Services (AWS), has announced its commitment of $100 million towards establishing a center dedicated to generative artificial intelligence."
@@ -173,17 +136,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AWS Announces $100M Investment in Generative AI"
-    excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
-    publishedDateTime: 2023-06-23T07:59:00Z
-    webUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 54
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
     publishedDateTime: 2023-06-23T04:20:00Z
@@ -198,48 +150,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Centre"
-    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
-    publishedDateTime: 2023-06-23T11:13:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AWS deviates slightly from cloud, sets sight on AI"
-    excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
-    publishedDateTime: 2023-06-23T10:03:00Z
-    webUrl: "https://htxt.co.za/2023/06/23/aws-deviates-slightly-from-cloud-sets-sight-on-ai/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 54
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/06/AWS-ChatGPT.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AWS Investing $100M in Generative AI Center"
-    excerpt: "Amazon Web Services today announced the AWS Generative AI Innovation Center, in which the company is investing $100 million to help customers build genAI solutions. Customers will work with generative AI strategists,"
-    publishedDateTime: 2023-06-22T20:36:00Z
-    webUrl: "https://insidehpc.com/2023/06/aws-investing-100m-in-generative-ai-center/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
     excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
     publishedDateTime: 2023-06-23T16:36:00Z
@@ -253,20 +163,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AWS invests $100M in new Generative AI Innovation Center"
-    excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
-    publishedDateTime: 2023-06-23T10:14:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108014/aws-invests-100m-in-new-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/AI-spraak.jpg"
-        width: 1000
-        height: 594
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
@@ -324,61 +220,54 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center with $100 million Investment"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the AWS Generative AI Innovation Center, a new program to help customers successfully build and deploy generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-22T19:44:00Z
-    webUrl: "https://insidebigdata.com/2023/06/22/aws-announces-generative-ai-innovation-center-with-100-million-investment/"
+  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
+    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
+    publishedDateTime: 2023-06-24T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 52
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Amazon is spending $100m to teach cloud customers about AI"
-    excerpt: "Amazon has denied its generative AI tools were rushed or incomplete and said the technology is ready for customers to test and provide feedback."
-    publishedDateTime: 2023-06-23T05:20:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/amazon-is-spending-100m-to-teach-cloud-customers-about-ai/"
+  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
+    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
     type: article
     provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 39
     images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/06/399523647-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Amazon launches $100M generative AI center, targeting healthcare"
-    excerpt: "Amazon debuted a $100 million generative artificial intelligence center June 22 to help ... for guidance about how to get started quickly and securely with generative AI.\" Healthcare and life sciences customers, for instance, might use generative AI ..."
-    publishedDateTime: 2023-06-22T18:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/amazon-launches-100m-generative-ai-center-targeting-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "AWS invests $100 million in generative AI development"
-    excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
-    publishedDateTime: 2023-06-23T09:23:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-invests-100-million-in-generative-ai-development"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 34
-  - title: "AWS Launches Generative AI Innovation Center"
-    excerpt: "Additionally, customers can build, train, and deploy their own models with Amazon SageMaker or use Amazon SageMaker Jumpstart to deploy some of today’s most popular FMs, including Cohere’s large language models, Technology Innovation Institute’s ..."
-    publishedDateTime: 2023-06-22T18:56:00Z
-    webUrl: "https://www.tvtechnology.com/news/aws-launches-generative-ai-innovation-center"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 34
   - title: "Amazon's Aws Unveils Generative Ai Innovation Center"
     excerpt: "(full-name excess cash flow value funds), which invest in an event-driven equity and credit strategy read more among other things, the team of experts working at the center will help customers develop generative ai applications with step-by-step instructions."
     publishedDateTime: 2023-06-23T18:59:00Z
@@ -388,24 +277,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Database Migration, AI Initiatives Highlight MongoDB Developer Event"
-    excerpt: "“AI will accelerate application modernization ... And new multi-cloud options add Microsoft Azure support to MongoDB Atlas Online Archive and Atlas Data Federation, in addition to Amazon Web Services. MongoDB also announced the general availability ..."
-    publishedDateTime: 2023-06-22T18:51:00Z
-    webUrl: "https://www.crn.com/news/software/database-migration-ai-initiatives-highlight-mongodb-developer-event"
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "Amazon Will Be 'Prominent Player In AI,' Josh Brown Says As AWS Launches Generative AI Innovation Center"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) on Thursday announced a new program to help customers build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-22T19:13:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/23/06/32974414/amazon-will-be-prominent-player-in-ai-josh-brown-says-as-aws-launches-generative-ai-inno"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "dddtpSpVXI0OxWywKOO5b0ESJKIjpM6xs6FC8TYmHJa+lPaayhl77yd5ToieNynxEcSUoroEtOyr8jEOxfbsJe4BYWXa2iv40iQUIoy0T/vy7AvzgWMIH/njefSgheKsAeOedfCHgs7WwpaEN7sI4YgMb8xXZtnzvZ1cEAIUb1IVe48eNwJ9iZtA1K5p37EEnTXPEXxz5CSuzH1aTnKekXVkwfq6Uo+XfZ5cHUVMJU2e61Ev7ItmiH19HYh98GNg7q4vToKzetNPHeMZkLwD3yEUrD5CfkjAVrtdFDcF2vnpMN9yEkZHzU5v5qO0mZh28H/ggjQZCNZ7B9YBMzkKnxNTY8DaJivtbp7zV/ASciMMhzier64ARttQV2gjjjXY+vtsm8z8KBYqcfHJ7s5IWw3gP5oKssj5ciBP/+HkRLpnHFSxzh0mn0gWo2d2ztvg3BiGX8HWBoEif54+fnCeZY7TV5MNuCrSmE4z9FMfphAZH7LF79528n+GrVPaPwYhKk5EZQe8UFnvoePaFRoFsA==;NFBDZfV0QoCEaBFCTkMunA=="
 ---

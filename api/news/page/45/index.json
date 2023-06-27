@@ -2,6 +2,161 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-05-26-how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation.md",
+      "title": "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation",
+      "excerpt": "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-this-ai-startup-aims-to-predict-heart-failure-before-it-happens.md",
+      "title": "This AI Startup Aims To Predict Heart Failure Before It Happens",
+      "excerpt": "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-were-still-waiting-for-self-driving-cars-but-autonomous-boats-are-already-here.md",
+      "title": "We’re still waiting for self-driving cars, but autonomous boats are already here",
+      "excerpt": "Fully self-driving cars have been promised for years, but despite numerous road trials and advances in technology, we’re still waiting. In 2016, Lyft predicted that most of its rides would be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/autonomous-boats-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/autonomous-boats-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230524161415-self-driving-boats-spc-intl-2.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/autonomous-boats-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/autonomous-boats-spc-intl/index.html",
+      "publishedDateTime": "2023-05-26T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
       "title": "Regulators take aim at AI to protect consumers and workers",
       "excerpt": "AI also affects hiring, housing and working conditions ... hosted by software industry group BSA. “Those could start with industry standards and some sort of coalescing around that. And decisions about whether or not to make those compulsory, and ...",
@@ -1000,152 +1155,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
-      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
-      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-610305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "publishedDateTime": "2023-05-25T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-no-your-job-is-not-going-to-be-replaced-by-ai.md",
-      "title": "No, Your Job Is Not Going To Be Replaced by AI",
-      "excerpt": "Voice AI is already being widely used in healthcare: At a time when the vast majority of people are just beginning to hear and learn about artificial intelligence, it is critical that technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/05/no-your-job-is-not-going-to-be-replaced-by-ai/",
-      "originalUrl": "https://medcitynews.com/2023/05/no-your-job-is-not-going-to-be-replaced-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/11/artificial-intelligence-g0465c9705_1920.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-the-impact-of-ai-on-company-culture-and-how-to-prepare-now.md",
-      "title": "The Impact Of AI On Company Culture And How To Prepare Now",
-      "excerpt": "Your company’s culture will impact how quickly and successfully an organization can adopt AI. Done well, AI can actually improve company culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e18456276933948a62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/",
-      "publishedDateTime": "2023-05-25T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

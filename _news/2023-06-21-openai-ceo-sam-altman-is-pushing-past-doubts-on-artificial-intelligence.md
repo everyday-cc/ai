@@ -2,9 +2,9 @@
 category: news
 title: "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence"
 excerpt: "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,"
-publishedDateTime: 2023-06-21T12:52:00Z
-originalUrl: "https://time.com/collection-post/6284870/openai-disrupters/"
-webUrl: "https://time.com/collection-post/6284870/openai-disrupters/"
+publishedDateTime: 2023-06-21T10:55:00Z
+originalUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
+webUrl: "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://api.time.com/wp-content/uploads/2023/06/time100-Companies-OpenAi-FBcrop.jpg?quality=85&w=1200&h=628&crop=1"
-    width: 1200
-    height: 628
+  - url: "https://time.com/img/icons/wallet-connect.png"
+    width: 256
+    height: 256
     isCached: true
 
-secured: "Xp9uSROaeZdQNzKT+GUZTm4YKAS8CezLO9buF1rxZo7po/h8HgfnngjwN+wr1XK/oTvjwC0uShiZqA54YH6ejGNv2yFhothg07HuntS2Ml0WVVk7OyhShmmjfcqYryCS69OJKF3/ESWWM/YuZPELCnT3cAfxd+76rFmZx290gfuKrmn9xdn8ZKhDOZv6bG0+mousrSIH6ifDXQjJVir4adxkPy91hr3E6MsA5lru9aWaBIbOpf7a6nedPcqnPPDrs3gtEe+/VC6TzQG26yXOwsfXQEp9tYqXZY8mfyA/4WnDZplD/Ojv+U0U1Ey8ETJhkYBXU/RFwm/lWTNrbi5yQITNSplJBxBZ0o51zixjHMHyru+fG+QPUXSX7HVOAGkAAwJfQWJ3mhzX9OHZgsbJLFIe4k7WOwD4TlynCRW6onPUfka4GNsmfIsHz1IqCD5VVM9cJbokn2zby2pkUGBabfcHvFrIv1+MTDCn9U4Rl3wf50QMLPlChGTNHcJcqJMIoQgnC2Qfly2m7mbi5A9i3w==;mNn5fFV+9cRZ/4KmZA9mwQ=="
+secured: "w5zmn0w93OKI9tIja9asHwJvBSCsY79GuJKX8pcJXryy3U881MYHDoppKOBefjLzsylgrITssFnHVLfeHfEh0KtBXDCkJOvTsPoB3JcQWzGoCdx8LsFO2D+cPabAbB9+eXSlUQbxZ+fGaJQ98Q9cKGp5KRs4h+QKOsx72OOEPSzT0Mr8yqJUARn3+MztBG73uDSWurtCrRHRRwijdHoXCeI7kppEp3sF2/2fR4LgHAGjFN2ussMD2Woag3TSTpsOe4WKPLkpQOpsHoDOcuv6aBNEnrJG+4LI2Nrb0a0bUVbO36DpgK4BSnPpEph13KlKFjUgqJg6Ba6aW7OFESBkXf4NRubk4HwlW7i0P5zJwMU=;X79M8ci5BuhihAbrShxnnA=="
 ---
 

@@ -58,15 +58,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 10
-  - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
-    excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."
-    publishedDateTime: 2023-06-22T18:18:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/06/22/parallel-analytica-illuminating-the-power-of-ai-in-data-analytics/70347513007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 9
 
 secured: "m9AOLlLs7UzHtLyPxv1eowBT2WGydsL3Gs7y4hijFD8eqbBbuf5NUO0V73XQHZRjLtrhh1xFUSCXgcOiV1RxUfUe4NYnwpX1eI60POjk8uI/m9/bYRqsCVqC+1euVzcw/BaS/XBtmtG7cy5gEI9gMfVq7J9J86rTkicVRhf/eNpVmTs+80+Qux0StqERKNLxxjxB5K8+GS1B+p8QDo6CxiRC+loRwanjEp5foT6E5o6RR088NBY94SPS+fbq5IU278gwOFxHgFsM92EvjFZxaNChvQ0u8KNatWijieGQY8Dko2Tp5a0eLyc+WZzN/LjwNjoGIB7Tor7aQUofIR+dtWOydCPNKE++/lef0ATka6c=;TyWj9By9sMLtMsnPWB7ULA=="
 ---

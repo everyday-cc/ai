@@ -33,6 +33,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
+    publishedDateTime: 2023-06-27T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "10 AI Stocks Billionaires are Loading Up On"
     excerpt: "The AI mania is quickly dividing the market into two halves, those who believe we are in an AI bubble that will not live up to the hype and all the stocks gaining on the back of the AI hype will soon"
     publishedDateTime: 2023-06-26T16:44:00Z

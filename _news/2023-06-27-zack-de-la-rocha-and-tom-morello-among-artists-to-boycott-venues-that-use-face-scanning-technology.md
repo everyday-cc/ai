@@ -39,7 +39,21 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "100+ artists pledge to boycott venues that employ facial recognition technology"
+    excerpt: "Business News Live Business 100+ artists pledge to boycott venues that employ facial recognition technology By Chris Cooke \\| Published on Tuesday 27 June 2023. A US-based campaign"
+    publishedDateTime: 2023-06-27T10:14:00Z
+    webUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boycott-venues-that-employ-facial-recognition-technology/"
+    type: article
+    provider:
+      name: completemusicupdate
+      domain: completemusicupdate.com
+    quality: 37
+    images:
+      - url: "https://completemusicupdate.com/wp-content/uploads/2019/09/fightthefuture1250-1024x410.jpg"
+        width: 1024
+        height: 410
+        isCached: true
 
-secured: "EG7BPoaWcV5Wf+shQ/v/tETXTbka7XqaicitTWh40blufuZ9a2MyyAFW0fjIRi5Grr+xuxDLfKdf7UiloAk4sl9WzoKophlyf8GXyooPqyvw9WgIhJyzD2oLkWdtAbgtKnrJPw6BocCXBfamL7EleDcKtrQ60nQhQPdyT9O0WInNwGyrnU/Y4X/4lghIik/EwZCPXQUwUWPpWI+aVyjrnnhou4DMOEBgjPGb//dlvaRZ2ar1bM06RA9RcGn30/UNPAUUwa8ocZwkHv8/TEBqGL8WV36eCw7k08/MYTRPlL/mkTZLU0Egu1AXIFNUh50P97cTqC3AGdRoT/kGZDu9aZAyCYYjwzPvVWLC8xFc7TU=;uJkjdwQRsRQeQNFzc6yJTg=="
+secured: "AO00/BBNLwNG24b7yivlYXbSzxTeKyA+q8nufnqbmNwlVJBDgaRnVfp0ZK40iotsCQkyQTSs4vTmeriT3e73uCIXIjx89siKDVHlcPYjPYJOCBN0Nid4emVYOhoMMRAb7Prq92wZUSay1nEvCBmyJ3EZ1szORh8AxFIBzqo2/LZRvz0iiqAEigHU2N+7NghFA+84ZDU3I0pNjCOa0N16yE5sqcL2MnD0HiopKlESPuG8GVpbFCR6UA4wc5MLvp+3SDrO/jtIVlJhcvCe2wytwY9RATxhZXTolJaPwa2fBmNCtHrjbVxhNrpNJCFdr4tN0RLs30ChnGJMB45BvhtzlgsAxGKpUtb9PSME2EwGev8htLvIKzy8NRfMVnnyge18sOTcbZwRB/8NN1XMhE8kVv1uatl6UwVaACh40V0iuyIm2BWeRv9UW0SBw2xewEBD+HWdas2fCvTFCDhY40CACb90EyMc/GGE8quRFs6A1lPzrgRWhavSQ/0Bj/P5SAIi4MNxYmtdXlTyKIQWnlEbdQ==;heraEQ24LuzqKkFQP3xURQ=="
 ---
 

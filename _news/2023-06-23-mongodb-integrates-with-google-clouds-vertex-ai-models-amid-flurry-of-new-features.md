@@ -45,6 +45,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "6 key features of SingleStore Kai for MongoDB"
+    excerpt: "Much of the data accumulated in today’s world is in JSON (JavaScript Object Notation) format ... enabling use cases like semantic search, image recognition, and similarity matching. No code changes or data transformations Developers can continue to ..."
+    publishedDateTime: 2023-06-27T10:55:00Z
+    webUrl: "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html"
+    ampWebUrl: "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/real-time-os_nautilus_clock_against-the-clock_future_by-raspirator-getty-100804551-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI will change software development in massive ways, says MongoDB CTO"
     excerpt: "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter."
     publishedDateTime: 2023-06-26T18:09:00Z

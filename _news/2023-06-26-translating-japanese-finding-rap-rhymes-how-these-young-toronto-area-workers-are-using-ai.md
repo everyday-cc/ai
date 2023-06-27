@@ -41,6 +41,15 @@ related:
         width: 1500
         height: 682
         isCached: true
+  - title: "How NYC hospitals are using artificial intelligence to save lives"
+    excerpt: "Artificial intelligence is changing the way we learn and work. But New Yorkers may not realize that similar algorithms are already aiding lifesaving decisions at hospitals every day. Staff at three New York City hospital systems say that in mere seconds,"
+    publishedDateTime: 2023-06-27T10:00:00Z
+    webUrl: "https://gothamist.com/news/how-nyc-hospitals-are-using-ai-artificial-intelligence-to-save-lives"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 21
   - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
     excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
     publishedDateTime: 2023-06-26T14:59:00Z
