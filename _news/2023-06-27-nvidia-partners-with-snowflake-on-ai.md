@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 516
         isCached: true
+  - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
+    excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
+    publishedDateTime: 2023-06-27T13:15:00Z
+    webUrl: "https://www.industryleadersmagazine.com/nvidia-partners-with-snowflake-to-create-customized-generative-ai-models/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 18
 
 secured: "ZbZTjqlraZVWEllqQuTBx6iuhonxXWocfFfMuXDhyKu4tGLXLa9A6mZIXAoQt4Ky6R1Y2z7C/NJmZJtikCMFIvvcT+kuOPcbwFeKCKdTsOj3w543CAcw3aOZpXu2x9YpQlrfJEEJnLYh5aW21T1Yqeisfj/p5q7ZPbEzTzg3MgkkUFU+8L2iD3bwqzHMOfAm9arcPN/zvbY65nMRskwHHgk9JdoD2VOVqVSyckDMtRlKfNymo1Uo2Mb8IGR7zzPYHTBWSiKyZP/ubV7Dhx4OaY6MwuZgCVo6N10JVGlmj4Zl0H8YmcvpCTMHmd0S0+IDT3V4S1bFFQm0PkOF1dPSFjtZbHxHHXoi5wdyUUZoGBs=;difwE05QNtHvtrj+HVSmCA=="
 ---

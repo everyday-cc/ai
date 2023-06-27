@@ -3,11 +3,13 @@ category: news
 title: "12 of the Best Robot Movies, for When You Want to Binge-Watch through the A.I. Apocalypse"
 excerpt: "Here are 12 robot movies to stream online, including everything from a violent robot doll to a touching robot romance."
 publishedDateTime: 2023-06-26T23:53:00Z
-originalUrl: "https://www.aol.com/lifestyle/12-best-robot-movies-want-205400938.html"
-webUrl: "https://www.aol.com/lifestyle/12-best-robot-movies-want-205400938.html"
+originalUrl: "https://www.aol.com/12-best-robot-movies-want-205400938.html"
+webUrl: "https://www.aol.com/12-best-robot-movies-want-205400938.html"
+ampWebUrl: "https://www.aol.com/amphtml/12-best-robot-movies-want-205400938.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/12-best-robot-movies-want-205400938.html"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -24,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "nq7D8Jz2JxKhptwTxuXtDKY9MRJXGbLtE2m13tfPJfHKt8CmK564O9JfLeadcwJOzpcoKPQFnaZ2QHN1ZPrJ4OYIi/OKgscQ5nqMvEv1eIJ77uglQq/n/JSFQitaxUqVa3hp/2Wj04j3/HK/933X8ZWD25Vw94CWlCrcUU6BAEmbYQvP7Uj4D17/SRuMOdymuiAbesOPBIAYEWi7ypSj3eIcO67bzRmx3JjegRo0oowSVvjyaC2gybtMIWR3D8Ve1pRFAIulH5gbFWwHgVb2zNLMhDtzynd89GSg4c2WooSTlVapsyuubZGg7n4Uf6lSdiqNibIYoUZKqHH+kjm13Tw/Qw7S4puFRBNdPpr2/6hH8G7nzogBUbXzO30tr6jS2Jb1yKkWlQEIdK7/DdEG1/BAMYibYlo+ggNOXM+XYLRE/QykOCedRuZYBbng5D22IeUZ/Iz7IM7PPybzE0wqSa0YFbN433t3GeG2flJQrzl/MDy0+YeBNsc5Ra4L22No/IWklDTJrX9ry40ke72Ppw==;R6gOpK1vSWLgRfuY4jTL0Q=="
+secured: "kAqgTTfGF4NYxIoHMubnUCH2nwIowBOlAK/e2wOizx1nvPQZfa1yd5z9/beYVgkIiJGsaFWt/suDQa4uXqhNZ4CpdBWZxO9/awU3aKbAd9gCskTzGQ2Ya7zTNFDPQyJI+ntbTpWk3mHNm3s+lTEqINIz3WY5LPhA596nw9B3zsYNI/J+S4bbfadEvzD4eeledkG27WsBVzwMu9gkde0EPv11eejY/kG9aLIMud5MLhnWCPbAS1utGgguysFVm64gFJ+0YH/SUaBkW/zglIPprmi7WW/5+rWRp+oWfhRwV/XpLyVrdForKHwLR4S8OAGJ+eDu42vejNlUEQRCi1oEfKaroZH8vIWbgCVMEzUnBtM=;6MAkW9GFH+ujditNBpNSDQ=="
 ---
 

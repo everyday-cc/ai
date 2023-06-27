@@ -7,7 +7,7 @@ originalUrl: "https://www.moneymarketing.co.uk/news/aveni-assist-ai-launches-whi
 webUrl: "https://www.moneymarketing.co.uk/news/aveni-assist-ai-launches-which-triples-advisers-productivity/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Aveni unveils AI platform for financial advice firms"
-    excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
-    publishedDateTime: 2023-06-27T10:03:00Z
-    webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
+  - title: "French AI Startup Raises $5.5M to Boost Team Productivity With Large Language Models"
+    excerpt: "Dust, a new AI startup based in France, has successfully raised $5.5 million in a seed funding round with the goal of enhancing team productivity through the utilization of large language models (LLMs)."
+    publishedDateTime: 2023-06-27T11:40:00Z
+    webUrl: "https://www.techtimes.com/articles/293080/20230627/french-ai-startup-dust-raises-5-5m-boost-team-productivity.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293080/20230627/french-ai-startup-dust-raises-5-5m-boost-team-productivity.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293080/20230627/french-ai-startup-dust-raises-5-5m-boost-team-productivity.htm"
     type: article
     provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 39
+      name: techtimes
+      domain: techtimes.com
+    quality: 50
     images:
-      - url: "https://s31974.pcdn.co/wp-content/uploads/sites/3/2019/12/launch-take-off-plane.jpg"
-        width: 640
-        height: 410
-        isCached: true
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430415/ai.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "SRkqbmHeQ8oDsFnlWVpUuqHI6zfXzUAUZZboYN3762om1Md6pUlYoh2Ef70xfEpyfzhcJ3wtmGh9L5f1d68vRNhBL5i/7+sl1kfF8rQ9vaVYtCcbpwpsTCI/N7On2OI/q7kwx8TkmF0Fa4Z29caNXvM6W2YvMlHKZPBbumulhRkjSUyVOIrFICiI89Td/7avvGvpzh0UhstaaHhXG2PLo2Mv2ImAvRqoFRjttVZJCwSmV92Yz6QdERexgKjar//t0mbMRKaOSjo6AbYEIQlrEiGbgLmYruvRZfH/eig4TxZIC0BPxdrJEnt4YK0uh1W/qyakKGaXBAG/jN0tM0G32HuK8qIsLPQ68ujA9/mmWYc=;2xLx8ptbhzY/tqAQxtjIPA=="

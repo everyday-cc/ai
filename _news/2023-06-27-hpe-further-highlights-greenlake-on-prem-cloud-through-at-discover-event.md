@@ -39,6 +39,15 @@ related:
         width: 1519
         height: 900
         isCached: true
+  - title: "Nvidia teams up with Snowflake for large language model AI"
+    excerpt: "Snowflake extends its Snowpark offering with GPU instances to run foundation models from Nvidia's NeMo framework -- to be further trained on customer data stored in Snowflake."
+    publishedDateTime: 2023-06-27T18:41:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "L99+wi7bRbdF6rMTgVs7tq2hHebpb458CsNUDM8dqYoIOUSk0HxP+VALjbuX9wseHbJE8bDVuwbv2y+9eByMXiXhjvJ5rhGhWnY1K5VWVA2Er1B3Bbhljbr4d3UyJDrgwPIZxtoY/uTDVTPeYFMdx4C8Li6bUX+H7xF1ToNHQ+lkkmU66TeIOjbbgNFqrlqUoet9eUI+foQiSWglO9W99+Jyq6KsiskCOnH8RRIFmRZ5C577YkUh76i0hKGkxaEYIvbKGt0o2mtzntgk4ut4RaShXlTi/XTM4KGtCRPN830U0IrjDDkXvULFHE4nDUbHVpvcqJEw/Ss+cpYLRfoNGACHBonXo2/HHkRhIAU8mzY7ISAbGp8fwM8Z+xv+RmI7uXLJBtNbv3El888YYOXMZdodzaQzkuCQfYRTj+c126jP6yIalxnEgQeMxBvVh8JOfz3wKdSzuEUSqQ/P06mvshEOrFuL1f8eGEvjBRSJ6QbF7vATHuVZg50YrneWygTJG38Ebcvp65YV0q9l2PKfog==;4PaukU5e9rymrkInwfo5XQ=="
 ---

@@ -61,6 +61,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
+    excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
+    publishedDateTime: 2023-06-27T18:01:00Z
+    webUrl: "https://www.zdnet.com/article/these-two-ai-chatbots-claim-to-be-better-than-chatgpt-heres-what-they-are/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z

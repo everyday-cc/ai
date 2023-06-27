@@ -65,20 +65,6 @@ related:
       name: psychiatryadvisor.com
       domain: psychiatryadvisor.com
     quality: 19
-  - title: "Regulating fintech: Allowing for the innovation while protecting investors and consumers"
-    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
-    publishedDateTime: 2023-06-23T04:00:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2023/06/23/regulating-fintech-allowing-for-the-innovation-while-protecting-investors-and-consumers/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 15
-    images:
-      - url: "https://www.irishtimes.com/resizer/wlvhuWXI7a7Cjl6uRRVZlHUN0BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/RPUIGKQF2RHEHHNIHMKJOTFJV4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
     excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
     publishedDateTime: 2023-06-26T12:59:00Z
@@ -89,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 13
 
-secured: "OXB0/cqP6xEEoBfYbTnCHCYT4oikjgqogDdLd0e63k7USBo99vts788fhK6mSLucU2IVEfCJs1iOJXoR5A3WSd8SbOp35GxTUUYU12iPGUld70ccvAhcph5+tzVHismpFtcax54cnmoTr0xURF71oHkOFB8y0Ci3GLYPMtRDfyn4+HXMGZeuNpKx3A7ER6D22pnR8l6OP8d7rP5cjz1M745kSdxMfCHgJnP7T/0kq10D2B55ymVlqFB2QRHm8frR65UHD741GSkjFJ/S5eMStzWiELey9n2zRX7l607dR9Y8eRqfhHgYFgCW1uZRzdOH7R84No/rpcAHHnk2iac4yBIoLdtV7vJWY4BJxDwbkA0=;jKPdnsWxVsUZqUJKX+xM1w=="
+secured: "54PKj+/536nPVQgWQWtCCFQvGMmyBW9nXrqw03H0CncjkBL1u0tLaWumu4e8ZJ5ZeuMQh9k722vW5haKuuEXOXtJZMsnAjD3Qqxkb1lMwoJKt/uV3V8JlQnr+dsRBfcM76+ERatwXwQwqMc+wAsZju2vDzWG2e89Fgq6KbKNdqVd18zGZNtUMYz8xWIU8BX0aEg4xT3wG7dZMLxdDshRra0xmQjGKHC7++9SVjdRMaMjYYZMmZkmdzgkMuZ9GpKNhZjx63u4QO0CyK6NTUjvOlaEKCdpEJ0IgF0sJKjkCONkWsnDbZ5+u3NeiKV/xHKo1LzwGLch9k+x/QwgllvR72hX1mayreKhSX4/FgH4Bmsb+GdNXIQulJP4po1J7WuwKwXN4Qd39BGMvsqZBv7V6Hl7fxkPytpBPQLYcY10qqC3ttYjkKv1Ppg4YZoVMGMc2ELWsN8q8BAsek3QSrUSzAmd5S3sAxj+PQiodTJqtr91PPuLhe3u2FJo/TkU8svZSGOQ5Uh+AxGAV9vLZvUSAw==;p9rt7tpORyQx02+vX8OK+g=="
 ---
 

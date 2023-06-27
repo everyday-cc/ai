@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1020
         height: 509
         isCached: true
+  - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"
+    publishedDateTime: 2023-06-27T19:38:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-proprietary-foundation-models-from-amazon-sagemaker-jumpstart-in-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 58
 
 secured: "k+yLOmIZkkvQ++7YZz8Nf/GdvW4iB4eeSedQnoS2O5KyFfAM74G8fJ3nVceKg51a6T8fGarvT5UOSY98mXnYjPCrO8r1ks/AyBUnVg2im3u2qfRbuv/4fHP9MNDpMBaVNAwIO1HJ0eLVuSYe7ncLZbUSWlTtsKgBYz94fJobJ0q/AgWV9FQxKFHB4zllG9GG9EjBV4uZe/Ac3fXGgNVjgwwSnReCTofuXsIUEy0D5GxKkT4n9zgtEem2KJNvtvCqptPuB1Sz9OALb41FUNVZJJL054sRa0ksowkkNNHsWAsctp374fLyzMPj6dkH5tgprccvjcitGSG1+CeboVqIjL8ItLfed2vleIPVYIuSLAQ=;m7J5OdisTUx/lhiR8EwrKQ=="
 ---

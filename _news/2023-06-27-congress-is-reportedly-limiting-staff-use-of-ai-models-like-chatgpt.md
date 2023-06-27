@@ -50,6 +50,15 @@ related:
         width: 2102
         height: 1426
         isCached: true
+  - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
+    excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
+    publishedDateTime: 2023-06-27T18:01:00Z
+    webUrl: "https://www.zdnet.com/article/these-two-ai-chatbots-claim-to-be-better-than-chatgpt-heres-what-they-are/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "ChatGPT and generative AI: A tax professional's savior or nemesis?"
     excerpt: "ChatGPT and generative AI are not the answer in and of themselves but are tools to help humans find the answers faster."
     publishedDateTime: 2023-06-24T00:42:00Z

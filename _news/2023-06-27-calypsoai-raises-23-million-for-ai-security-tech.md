@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
+    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
+    publishedDateTime: 2023-06-27T18:38:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Faros AI raises $20M to bring visibility to software engineering teams"
+    excerpt: "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round."
+    publishedDateTime: 2023-06-27T15:28:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
     excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
     publishedDateTime: 2023-06-27T11:30:00Z
@@ -41,24 +73,20 @@ related:
         width: 1028
         height: 685
         isCached: true
-  - title: "Botco.ai launches GenAI Chat Cloud with enterprise-grade privacy and security"
-    excerpt: "The Botco.ai GenAI Chat Cloud is a no-code platform comprised of three modules, enabling enterprises to develop a range of generative AI chatbots rapidly to fulfill different tasks. For instance, InstaStack enables companies to build a chatbot that can instantly query documents from across their entire information technology system,"
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/23/botco-ai-launches-genai-chat-cloud-enterprise-grade-privacy-security/"
+  - title: "Faros AI raises $20M to bring AI insights to software engineering"
+    excerpt: "Faros AI, an AI startup focused on software engineering, announced today that it has raised $20 million in Series A funding."
+    publishedDateTime: 2023-06-27T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/faros-ai-secures-20m-engineering-leaders-data-insights/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
-    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
-    publishedDateTime: 2023-06-27T15:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "vGW+M2KtPXBYjyuz/4W39545ct3Dvw1jLcoA0mBz8eBoo3O4M/8A2FBKcmY67gsumdmsmmceEJ1ND5pUTqTt48fNbVxCzmba7bUqyts4BJq2lQjVOnpjN9N/nsbqceqeRnURbCt/ZJCt4PHJna9SuArqceOX4ohacJRn3oOxdRvGkWzH0658Szd3x5BTrFX2fJdM4M0xb4rU4B5axxMX7Nar2xFjuQLmV4ma06rZQ+EMlOlZ5CfEd/WUr8dfnpI5ZT45NWZ+Y5e0XAYM0xI+vNe9KyvQ/eTiHPhM6eK/ieQOxwi2W30VFdOdTDcd4lNM5D8RT1ftOyUGpRa+0aytGhRp8jQjRUwj3Glonqu++5I=;eLjn61U6K8aI/hOrN9r3KQ=="
 ---

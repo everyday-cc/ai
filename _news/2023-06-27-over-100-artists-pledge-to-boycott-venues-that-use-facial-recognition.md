@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "100+ acts boycott venues using facial recognition"
+    excerpt: "Over 100 artists, including Tom Morello and Zack De La Rocha, have pledged to boycott venues that use face-scanning technology. The boycott was organised by the digital rights advocacy group Fight for the Future,"
+    publishedDateTime: 2023-06-26T15:50:00Z
+    webUrl: "https://www.iq-mag.net/2023/06/100-acts-boycoot-venues-facial-recognition/"
+    type: article
+    provider:
+      name: iq-mag
+      domain: iq-mag.net
+    quality: 39
+    images:
+      - url: "https://www.iq-mag.net/wp-content/uploads/2021/11/tom-morello-2.jpg"
+        width: 800
+        height: 371
+        isCached: true
   - title: "100+ artists pledge to boycott venues that employ facial recognition technology"
     excerpt: "Business News Live Business 100+ artists pledge to boycott venues that employ facial recognition technology By Chris Cooke \\| Published on Tuesday 27 June 2023. A US-based campaign"
     publishedDateTime: 2023-06-27T10:14:00Z
@@ -40,6 +54,15 @@ related:
         width: 1024
         height: 410
         isCached: true
+  - title: "US campaign against facial recognition in venues ramps up"
+    excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
+    publishedDateTime: 2023-06-23T09:06:00Z
+    webUrl: "https://musically.com/2023/06/23/us-campaign-against-facial-recognition-in-venues-ramps-up/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 34
   - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
     excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
     publishedDateTime: 2023-06-27T12:03:00Z

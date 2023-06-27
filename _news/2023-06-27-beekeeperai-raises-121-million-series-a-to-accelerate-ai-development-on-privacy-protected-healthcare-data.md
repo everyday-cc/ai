@@ -19,45 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
-    excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
-    publishedDateTime: 2023-06-27T11:30:00Z
-    webUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_vector_art_of_AI_security_13117b12-b3d2-4178-8ffb-89eb5868470e.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
-  - title: "CalypsoAI Raises $23 Million for AI Security Tech"
-    excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
-    publishedDateTime: 2023-06-27T11:30:00Z
-    webUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/"
-    ampWebUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
+  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
+    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
+    publishedDateTime: 2023-06-27T15:50:00Z
+    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
+    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
     type: article
     provider:
       name: SecurityWeek
       domain: securityweek.com
-    quality: 74
+    quality: 53
     images:
       - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Botco.ai launches GenAI Chat Cloud with enterprise-grade privacy and security"
-    excerpt: "The Botco.ai GenAI Chat Cloud is a no-code platform comprised of three modules, enabling enterprises to develop a range of generative AI chatbots rapidly to fulfill different tasks. For instance, InstaStack enables companies to build a chatbot that can instantly query documents from across their entire information technology system,"
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/23/botco-ai-launches-genai-chat-cloud-enterprise-grade-privacy-security/"
+  - title: "UCSF Spinout Raises $12M for Platform That Facilitates Secure AI Development"
+    excerpt: "BeeKeeperAI — which offers a platform to facilitate the development and deployment of healthcare AI models — raked in $12.1 million in Series A funding led by Santé Ventures. The startup was spun out of UCSF last year."
+    publishedDateTime: 2023-06-27T20:37:00Z
+    webUrl: "https://medcitynews.com/2023/06/ai-algorithm-privacy-cybersecurity-healthcare/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 36
+    images:
+      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "9mZQ7049nrTrq7mjMe0v1mHRfkXNI8mBHu4F/GtCgiygyvZpoSqHEML1ViX4GoiiyRzJ3O3WPnlwfOu0n0QMTBoKoU1/BM6edNmFKDUnHMgAhpj1qnh9WWiFQX3IL3dzmh+dmn6tAhjqfkZoF3wLFCt4MTyF8eXr+Rj52mxAnTB8MHvxFAdNYZ+abMoh9M68VVY+hbClIjCOjZt1BLdk59qxQTDdXmLmbQ1aa/3xEzSmy818JC5pQmo7t+Wz6WqJuybVstyLK0EctJU2GyIKrYHRtG6/oBVo59CZEG2r5WrmEreHPc5fj/Qyi9aD5i9BJfETI8zadJ1jzGEe84XjX1chs6pDLZQv2bGX+p5v/1A=;rfO5JuXIOUc1uzPZyOYJjw=="
 ---

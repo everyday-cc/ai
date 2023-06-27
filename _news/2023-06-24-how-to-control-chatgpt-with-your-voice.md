@@ -139,6 +139,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
+    excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
+    publishedDateTime: 2023-06-27T17:28:00Z
+    webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
   - title: "Google DeepMind Takes Back What it Lost to OpenAI"
     excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
     publishedDateTime: 2023-06-27T06:59:00Z

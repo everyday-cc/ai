@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Immuta updates its Data Security Platform for Databricks to strengthen AI workload protection"
+    excerpt: "Immuta said that the updates to the Databricks platform aim to unlock data value and maintain robust data security."
+    publishedDateTime: 2023-06-27T20:21:00Z
+    webUrl: "https://venturebeat.com/ai/immuta-updates-its-data-security-platform-for-databricks-to-strengthen-ai-workload-protection/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Immuta_Primary_Logo@3x.jpg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
     excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
     publishedDateTime: 2023-06-26T10:40:00Z
@@ -212,6 +226,24 @@ related:
     provider:
       name: The Edge Singapore
       domain: theedgesingapore.com
+    quality: 19
+  - title: "Databricks Purchases AI Startup MosaicML For $1.3 Billion"
+    excerpt: "Databricks' acquisition of MosaicML for $1.3 billion is one of the most significant transactions of its kind within the AI space. The acquisition took place amidst the tech industry's growing focus on AI. As noted above, tech giants such as Google and Microsoft, along with venture capital investors, are heavily investing in AI startups​."
+    publishedDateTime: 2023-06-27T19:20:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/33032655/databricks-purchases-ai-startup-mosaicml-for-1-3-billion"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "SqlDBM Attends the 2023 Data + AI Summit by Databricks"
+    excerpt: "The Data + AI Summit is renowned for its comprehensive program, featuring engaging sessions, workshops, and keynote presentations. Attendees will gain valuable insights into cutting-edge technologies,"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/27/9840206.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
   - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
     excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."

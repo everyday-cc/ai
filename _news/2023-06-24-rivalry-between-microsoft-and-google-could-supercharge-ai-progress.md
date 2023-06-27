@@ -158,6 +158,24 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
+    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
+    publishedDateTime: 2023-06-27T19:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Why Microsoft Leads the AI Race"
+    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
+    publishedDateTime: 2023-06-27T17:55:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 34
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
     publishedDateTime: 2023-06-27T09:53:00Z
@@ -219,13 +237,22 @@ related:
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T14:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+    publishedDateTime: 2023-06-26T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
+    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
+    publishedDateTime: 2023-06-27T21:40:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
 secured: "+YkqpuDZJ/dsvzPShTqzZaNk9AME4vpvf6dDtL6KLoOJ7r0wpz17EdxIkziP7njONLURqBt7ohLfatV7NbIJPYjtrfK06H5N/Lrxkkz2VlNwYMjbpn/OjMTC6lEJFSMdj0uPUmEPNm2T4QY2SlnrP28gicPJxy3JJotipZE6XNBZZAKc5bd7stP4jlinAZJ7id6HptH+11ejDuQ4sK6uQjz/AaVzw+P09EMqawtnsagScCnPwTUNVb8cs3R7Vf/AI3CJD/01og0NHwLpNEuiv0x8J+5vnmWELlO+ombRCA31z8Otnfib5uobPG5KzJmtz/iU1av5sQvawQ8oD6NHbGxHeqwGogQS91jznzO/mbnaHQ4zHj2j1yq8a/BjBdqJ8Nkb/bNrwGenxRylz0x60QRVowO2H+E9WBciVDeLJVN49yw294m5MW4S4fvbxO3qrgQgFu+3qLg8+qnoMIsL/icxc+cLOM/ujvrb4PcE0Jqy/UKHQKloGcvr8JvInFpUtVgGf7dBVxx3MzByE/PGOQ==;CevoU12YPYGoL1DXhKNaBQ=="
 ---

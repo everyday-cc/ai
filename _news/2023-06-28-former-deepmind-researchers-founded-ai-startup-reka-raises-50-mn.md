@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-found
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,7 +85,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
+    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
+    publishedDateTime: 2023-06-27T21:18:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "xRE89sGZ/8FiiuYz2EOBTVlR+zVqVYw4AMLg5B1u1mJ7IogpOOoTzk/HlNH4p1sYPRa4bPgNk2cu3+Y0EZY14w/UNS9rveKpJmqULid0lv6R6JZGGXVaSBBryzSlDV2rmNRq27iyamfcTm3uCUoeEmI4QigCQSfKAUOGNiglOGnRayzT9OPw+x+l1BIa638+5stvO5bG+5j+cgN2lNWm4F9fG9aabLe2vRcef5SfTWUswieStEiF17wHkBOi46HTiUt5XHW2Ga44fMyDLXGhHywGU4x+ZsqK+lfEFuQxjSBcJZCcJfa28GJaupaNhYZYy5+f6McK5ExFLQkXRXjf9x2baofyynmecvAaA68MLoM=;CYKGsan0C0XOCJnI7DKyrA=="
+secured: "8LwjGTE8kCVs8SfyxMSzuNi+FMwT6wXVgFYVY7SoKEpMlW9KaSrogAsBzbV8LHdyZDTUZJ4GI0wIl5u7mu3dO/aAK9Vu2Tjx3VWiDUCigLbFwBfe8FN9fvoBqaOfZ7Ks4O2GlnfDbedhA4Tz7QfgKmGUL/qXju3C3ygVgFr95hAJCmVQcuah8CWeZugi5dY5jhHyBqLe0RgWYW2RlvhWzTJsQTtaesOPjEx8mCRaJ6YIA5va+/sUbq2/HaRme+oryEk72VqkrWs7oArTsTy0uNFtcF5zqlHDi1ubKUHmzE8sfGXy1eKICdLjhy14FlK2lXpK/81yV9svgsivQh6J/V94PJ+xMfbm3QtB/zp4Oa1ja4GFy/1sg9eEZudSOaTnVJNbsV6fXndfegEB9p4MyTNfS2uKUQHV8o+rMsiqPJ/xD1xFRuRki/gpGWJeom4XxRDMIJ1lgfvC3TcvUn2Or7+2Q14jQzowQocldTase2wOruD0LNHBEnEe9tAgdcfLAF43xlplQij/1Qv8Qwx2Kg==;KeOg8jYmh1lUbTcKiSa1cw=="
 ---
 

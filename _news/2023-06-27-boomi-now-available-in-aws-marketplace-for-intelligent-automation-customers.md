@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Boomi Now Available in AWS Marketplace for Intelligent Automation Customers"
-excerpt: "Boomi™, the intelligent connectivity and automation leader, today announced that the Boomi platform - a category-leading integration platform as a service (iPaaS) - is now available as an Intelligent Automation solution in AWS Marketplace,"
+excerpt: "Available in AWS Marketplace for Intelligent Automation Customers. Boomi™, the intelligent connectivity and automation leader, today announced that the Boomi platform"
 publishedDateTime: 2023-06-27T14:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839762.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839762.htm"
+originalUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-boomi-now-available-aws-marketplace-intelligent-automation-customers-/2023/06/27/9839762.htm"
+webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-boomi-now-available-aws-marketplace-intelligent-automation-customers-/2023/06/27/9839762.htm"
 type: article
 quality: 32
 heat: 32
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "zZQLfVHclqYSPJrSZ2x2PwRIG6jvmJ1C+X/68tAF2rp9kh+42B321rvgpGE+44bjdJtQw7t+EBq5rRnlCpz5Bp/LuCqJl5Zf40YOIlPpC7QuQD41kGS3D+/SCzaTnA7lAhUpwA860ouAKuujrqSsQ7rnvTfk7wS1ILnMM4kLgkBNqGs8JJtJvPYaBO7/lxc0bTqfUpRHmrk0nmqB+vejaZsZMXWQ+jmlfvTN4BJ5mIJHRXEbHlKOBijAyDya0c55EJZNGnGX3yxg7enSfbSbl84zbuAc7FPQbMwCjp4sKdneo2IEUGT4aMrGoAc/Y1OMtmaLs4fRe2eo3RxVU27ymOiQlaqQn/wxsxrIdyJA/m0=;XzVm+qwTjFBsiRkMgnWHuA=="
+secured: "Cdy2Ck3JcIoeKmTyVlir8o2ftpZwR45Ye/57uTFE9Ylr/ootax+agMmNRpjI/l2xKgFCiupiQVfxA1ZbiJjUKEHRUPJ0W4U4+gHpNHzxaQG/a8kCUGsU16TBhYO9tNEEx8nwQ1Z535QE7ecl5gD7ZUboDUI6WkltRzzmXoYTjXTB+0SJb9uRzNC67Rx2gmyyzh5Uqualjn40TBEsRf6+HDezbZFeDKjAyNh+OL+ktfv1v+bxT1vHbJzSaYX6HicRIsfQiyfr8wSHYHxZmZKbH1Yi4+bxu+zhomBJee6pawyRmsnuuXYWyKnWcbL1GUOTC0cwNnk14MxJI1lUnkVbs8a0Q3GqEt4pFZk7QbS9r+w=;Nr73IFtoPnRaD/aZil5k+g=="
 ---
 

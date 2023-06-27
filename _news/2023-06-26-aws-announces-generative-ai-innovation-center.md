@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
+    excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
+    publishedDateTime: 2023-06-27T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/relationalai-and-snowflake-join-forces-to-revolutionize-enterprise-ai-decision-making/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_intelligent_knowledge_graph_to_serve-up_relationship_426cbfbb-026a-4dd2-b28b-5565991d8b51.png?w=1200&strip=all"
+        width: 1028
+        height: 685
+        isCached: true
   - title: "Big tech companies want AI regulation - but on their own terms"
     excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
     publishedDateTime: 2023-06-27T05:44:00Z
@@ -120,20 +134,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor"
-    publishedDateTime: 2023-06-23T04:20:00Z
-    webUrl: "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg"
-        width: 800
-        height: 418
         isCached: true
   - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
     excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"

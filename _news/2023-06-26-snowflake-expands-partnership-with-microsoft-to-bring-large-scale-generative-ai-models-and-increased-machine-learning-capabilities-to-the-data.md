@@ -2,9 +2,9 @@
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
 excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-publishedDateTime: 2023-06-26T14:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-snowflake-expands-partnership-with-microsoft-bring-large-scale-/2023/06/26/9838883.htm"
+publishedDateTime: 2023-06-26T13:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
 type: article
 quality: 12
 heat: -1
@@ -167,6 +167,24 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
+    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
+    publishedDateTime: 2023-06-27T19:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Why Microsoft Leads the AI Race"
+    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
+    publishedDateTime: 2023-06-27T17:55:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 34
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
     publishedDateTime: 2023-06-27T09:53:00Z
@@ -226,7 +244,16 @@ related:
       name: techtimes
       domain: techtimes.com
     quality: 14
+  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
+    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
+    publishedDateTime: 2023-06-27T21:40:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 5
 
-secured: "h1KS1DdIYYTe/5iTeWUcpEG45bgWSSZTP8PeerxN75VCcBaTWum8BRjl4PRen7HWIyDL5NF3BFhl5o5vg16NzSwu4HW3QRQlYQPvP0n40GE1TobdxRx5qR/3CDLdWk8d5qvIAS9nUMjDwE9wNs69vQhoKUPM1itpB7M8wQKh5e1qQ9pAtGhbX8jeDWheZj8yi0EJv2gan7RFCu8fMdGGIksS3WmYwWEFrtlj+KPzF0nYHTKlgKaPrtJnyeR/8JDXXoa8kx+EqKDX59GU6K7kn5Dk6sG0c4ZWC20s+aTbm/94RdGWQSZ4gf6FVRaJ8Q2z3Xo72dOCe6JvDvAUGXBr73SDI7TlKxO9QsQWWSR9+5U=;HMiC3TZ443A+bB1Ti63y9w=="
+secured: "p0dyomXuBuDolCGTD5lVkdT3x2RjDpM6ClZ6RfcQQfA2q7JR0fArAKIM57wxgfqkd15mgyZW8M5EfVGRVeRWC2fJmeRpa9Mg6Pmhjk6cM45b5Iunv1uKPyVA4+ikUCGd53vS0kOpLHRVg9gBasDKx2YGqapy+plsUhceXHElrZXvKoGRXYRghUAMSxV/DYsPx2cD4ggYbktK+ZG5+MN+or4JtnwrBctW2Mw9LUEPihK1ICLfga/G9oL5ygh4qEvremprYKrqsYTSSTwFAYI338kKD97TyLDAdspOEtS8ZwgqWYfcEW8d23kSiiqeuKcdq+lmAn3kA3hVWZ3OaoefxY2gnNfNAR87ZpmHq4qm0Vg=;PJEe74nMZJQbmPpBSHxfrQ=="
 ---
 

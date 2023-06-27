@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-l
 webUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
+    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
+    publishedDateTime: 2023-06-27T18:38:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Faros AI raises $20M to bring visibility to software engineering teams"
+    excerpt: "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round."
+    publishedDateTime: 2023-06-27T15:28:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "CalypsoAI Raises $23 Million for AI Security Tech"
     excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
     publishedDateTime: 2023-06-27T11:30:00Z
@@ -45,25 +77,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Botco.ai launches GenAI Chat Cloud with enterprise-grade privacy and security"
-    excerpt: "The Botco.ai GenAI Chat Cloud is a no-code platform comprised of three modules, enabling enterprises to develop a range of generative AI chatbots rapidly to fulfill different tasks. For instance, InstaStack enables companies to build a chatbot that can instantly query documents from across their entire information technology system,"
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/06/23/botco-ai-launches-genai-chat-cloud-enterprise-grade-privacy-security/"
+  - title: "Faros AI raises $20M to bring AI insights to software engineering"
+    excerpt: "Faros AI, an AI startup focused on software engineering, announced today that it has raised $20 million in Series A funding."
+    publishedDateTime: 2023-06-27T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/faros-ai-secures-20m-engineering-leaders-data-insights/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
-    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
-    publishedDateTime: 2023-06-27T15:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "DvTXxXD2SlxHl+AHjZvXLWbqGa2u0m9ECXFFPnaUBCL9fK80Ql++xbJ0YWMQT4SEZE+HVe5YrmeydGKGysMOzyoRFJUfUS5o/zI/MEY3j1ne45npuZIG5m4SznGuze/Rv5EeTTdr2jrSawm6bfS9Y8hvIDWLe5nCxhtwvTsFKUtjVazwUimDTc/ZlWhigadAmMDxKPkRqCE3UCGYPZVOi+0WeslAXuwxlivVeFflwee0XQruqrc72Ci3kaW6K0d7RbdMWx2zFBmT1ghlTF68HOwvLji8E1jwflGNhhPL/JdFdV/vKTloXts9rR1z4mK4IpW5Tpmk0+PUAxtgBvSkeKvxsEchYdCqCMgB5hG4b6I=;JapUFrlnciN6DXuWWgEGhg=="
+secured: "mWybmZ1xJagQL4HiyO96puvwL1sNUiAFJo3heJa1C8HkOapx4t1yL18iAEomgCxmaLHgdtqjyBvg5Offj0sdHNvRD9oKF/JnXrSecQbHFmGgWZ0IO1S3YPZ549y9otH4UCTWL/QdxQVdUMAJE9bICxdoZNYqTW4Z86WdvM80ztx43FL07eGFEBZtb1zX6fYj12ppZ8eLOKR4ItN9bApsO/FDl24uO4WrznXuSiv/8YSG2GPuqY2lUaxHFyixAovRpG4PKG15LlUWzwdlxmPMUyb+GpOoXS1vqYBiUwem0xaM38Km6fd4NstQJS6wCVRyZRbGQUWSWY70I27wCQj25V2Hn2zU2S1zVjWoqqJ98F2jC9KAr1TtcUjHHVJVlvy2XtP0Q5PmTaZKTqJt84Jq+pKPXRwCYLfjrksUAZTPw/dOmEoibaKqRN5iYeerv5Z/p9lyJuHBisMoBjhjToi8vR0Zsi2H7KMjyXY9jN5lw3eyo9A2SkwLhJo7vXTO1nIycd4nPsA4mP3VYidSu8hmew==;qJnIaaC9k4eLtpltfnBSIQ=="
 ---
 

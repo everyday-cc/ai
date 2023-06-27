@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/do-ai-chip-stocks-have-more-room-to-grow-nvidia-and-amd-in-focus-1032407734"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
+    excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
+    publishedDateTime: 2023-06-27T13:15:00Z
+    webUrl: "https://www.industryleadersmagazine.com/nvidia-partners-with-snowflake-to-create-customized-generative-ai-models/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 18
 
 secured: "TWuXg7p46/wMRXP1UeEoN22B7ylicMlR/+RTikXcrEBmpcgSrFiWhe1lBR3R1vYgAwrhxC84kpW8I5xn+TPwbq2/8C8Vjflose+M/TsvK/b9J6YNkmzhWa85YlzsOtQL24cZpq7wzweQ31WLPuz2KAnZtNtn1jtGVHjn+ttmh9WFARdSjLRJOOYg6NYPTczoUQ5SDuKcXqOiOIV7I3ZJ+OQa2crYjUzNh3uejHWUYGc/lUZkMITr3CpEx9FkFhcLn5FGVctJQ+3LsCg7kTfjVTIDX8c3rVkwl61GPMELeyT18ciRoqxoR8B8ianAIWaYMUHjh2hGcMR5+W4Lg4WlJn2z4bwQUm2zDOXKIGvhklIkjq5xiwNSFde68O8r6AdJw7MTIXGwURE7XocO+q53grB5NGRvLMrWUi1BdFQoucyQpfW3xP2wQLYiwKgo8g1/Zq78xSGc//Yf2GEafr2pMHKwqt52ksRApH+vqm33GOmEoL+CdC2w/vVPxWRo7p1qCYd/43PSpR2FSsWEHF9g9A==;7hmqF33HljkOWjiYkhLYaw=="
 ---

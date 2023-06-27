@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 79
+  - title: "AI Is Unlocking Major Wealth Potential for Robotics Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over"
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "3 Millionaire-Maker Autonomous Driving Stocks to Buy And Hold Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous vehicle technology continues to hold massive promise to growth"
     publishedDateTime: 2023-06-23T10:59:00Z

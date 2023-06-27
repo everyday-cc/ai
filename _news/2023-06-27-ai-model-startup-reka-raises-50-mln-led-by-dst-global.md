@@ -88,7 +88,21 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
+    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
+    publishedDateTime: 2023-06-27T21:18:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "1TFCnWnY3XFW7tAxe7zq6vOXUpwNvGQ+xwSVbYaWgg5/eJxqlNzD4fE6jEg7J2ZuQAlm2QZQf9uZY2vLzbzFKLZYTzesjqBylzUuvGxnepvLncgBR6H8XVv1oUuoIDK9JVVmebDagZchqA7BznGIKN9oQsMq1CyOPaWUUybHN8kTrGsM+1gw6/sa7riS76dSgg0yF1w4ZFvYa+2DHOTO10M6tHLoJFgaRwVqZOy8DknQdMOybKbYVgi+JR/LhJkqvHBPcfEaXJi3SXCQF+y9h4Rltz6IemnSzIbrVKBhQYkx6mR8aPh3FwbTfi1Efsjvi72r2KkJrtu6VkkrWRY3qWhEUZvvuGrUGkvEFxufsl0=;MPB8KlxSEGwCvHEdUXWGsw=="
+secured: "cYYjxU0dDdqEo1a6mTS7NscC8+uYAw+wh696nCvoc1nzmRt9XnF4gcA/SXDVCnrQjIC/erbQQKen9bKDrztjw/0PIZ1n3WANRAR5gxmCI1qb0k4yReTOQtlNpV7MggPLtSpZthHtPmZdJfIwoDCuXU8Vco1NiS0trp57ZJ68nd2m7xoV1uMeTA7y0P/kM21HD8rFeK7xwi756Gsvj3mQDyR/v5GnzIBa3/fzQnQHr532Z5SXHaEytm3EjmzTQL/smlhS2EHEBIMTuk1ePm87z9+QtH3jhUAwqUJQT6gCGNazAGyF92imDNucgQyFluuYTmscUTGIlr/YCBEH8hVYnL7rDD/irdaaIs80rjbrAKe9G0lhYO8ISIBuNYd62n7IMEIdbrSPfgDHDfV+unxx8SB2TQfiwZEaxPc0ZgMeX91/FhyQl+TWu2OIbzxjzJ2Og4VowT2BSneffvDHEYgpCHA5Kk9yhmWIrSFibM7hxNG9jEhH6T8WcsMO/tFnhQ1TMMUM8nEdl4ygTo/OiOd/UQ==;uiiEF+8K65ECNEnVyoec1w=="
 ---
 

@@ -64,7 +64,16 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "How CEOs can tap full potential of generative artificial intelligence"
+    excerpt: "Boardroom conversations are dominated by the relevance of this technological advancement, its applicability, regulations, interoperability and adoption. The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'."
+    publishedDateTime: 2023-06-27T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318695.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
-secured: "qOxQnqWy0WHG4CQSuDhOHKcYJImPPitcuKKsfrbDyNEasL+5fEMMBGrCi5i5t1aJJXL+Ea5+2XxIjC2ipIP7s3juMftBVMs1WTTSRwqkIBB9i6jquOlBheTRIm/P5oi5ZgpXjMXmxzpKGCcAyPVDEM8UmV/NpRoGhejWaPFTSW8FhRl8V1nl4zxHqgkJ+9KWoCsoiXUiq4vVMdNujCg2LmBWJaPvxj/u/ME55QYXrm9COoTKMQwSGeyfKdLzsFgqoI2LilaIeUVp9N/Z7gqemg8+aLywfZsWeQDyA683QTB2hb4JvyShUB9hzr2hDZMf8qQr/THkk3gq7VvIUe8KvoGa2YZiD6P6iE0IohD1O9g=;S1ERsZkBX3KkLQyR4OHQTw=="
+secured: "OXAyQLekstsy5QP5Z2tsO66LEjUJKpQhB4EqrZSHTnzvbyjN7RAeRwqyShlNlHnfMAEj7wrmG+8C6dT6nhnKD5esWHbzBmt2RBO2rX0rPNh7/QYTGjjXOMtOZNsWCXf6AlIMGzmxMzDessn5H92rLh22s11ZwjZn1r+Mrw1PNuA8HCR+E3eXFvnQ+dA2BwefWrnjhANr/wNSxzEzxB86nsnJxfNKEx1R1UcRWzZ3GXjuOcq3rGU33LlCIZbOOKXndnFEcCCdCEgubq+TJYRDvDuy2ULevSQvf9xEey39HKANjf9gmuLqOxYLdpPpNLUZxDBXW3k2Rj9BJjoBlAc1BibWvvoqYLREr9kdwduRsMynHYBF5yn6VtINBTT/jrpvw2JlJw8ultrsgYK6ZcnJuHT1hf1gCs7L2Yf+aChCLWvB0eX1H5LbSCzTRG0YQLqnEJgJIXx/yQ2bwh4KQk1XdG/gz0jlqleeA/tvu81BZfy97Rd0z3yoxjkaQ0Udo3y9TIXyIQw2L/SAy5AmzuR/bw==;DwuaAohipliGZ1FHIH2seA=="
 ---
 

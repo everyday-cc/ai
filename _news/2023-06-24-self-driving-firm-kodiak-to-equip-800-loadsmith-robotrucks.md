@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Kodiak to Equip 800 Loadsmith Trucks With Self-Driving Tech"
+    excerpt: "Kodiak Robotics Inc. is set to equip 800 trucks with self-driving technology for Loadsmith, a third-party Capacity-as-a-Service logistics provider, the companies said."
+    publishedDateTime: 2023-06-27T19:05:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-loadsmith-trucks-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/BizBCKodiak-1200.gif"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Loadsmith orders 800 self-driving truck systems to automate highway portions of freight routes"
     excerpt: "Autonomous trucks using “Kodiak Driver” technology will hand off loads to human drivers for local pickups and deliveries"
     publishedDateTime: 2023-06-23T20:59:00Z

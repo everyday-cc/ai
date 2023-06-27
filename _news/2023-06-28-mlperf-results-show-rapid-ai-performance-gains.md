@@ -1,10 +1,10 @@
 ---
 category: news
 title: "MLPerf Results Show Rapid AI Performance Gains"
-excerpt: "The latest MLPerf Training round demonstrates broad industry participation and highlights performance gains of up to 1.54x compared to just six months ago and 33-49x over the first round, reflecting the tremendous rate of innovation in systems for machine learning."
-publishedDateTime: 2023-06-27T17:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-rapid-ai-performance-gains-/2023/06/27/9840083.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-rapid-ai-performance-gains-/2023/06/27/9840083.htm"
+excerpt: "The MLPerf Training benchmark suite comprises full system tests that stress machine learning models, software, and hardware for a broad range of applications. The open-source and peer-reviewed benchmark suite provides a level playing field for competition that drives innovation, performance, and energy-efficiency for the entire industry."
+publishedDateTime: 2023-06-27T18:04:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/27/9840083.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/27/9840083.htm"
 type: article
 quality: 19
 heat: -1
@@ -33,7 +33,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MLCommons: MLPerf Results Show AI Performance Gains"
+    excerpt: "ML Commons announced new results from two industry-standard MLPerf benchmark suites: Training v3.0, which measures the performance of training machine learning models, and Tiny v1.1, which measures how quickly a trained neural network can process new data for extremely low-power devices in the smallest form factors."
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://insidehpc.com/2023/06/mlcommons-mlperf-results-show-ai-performance-gains/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
+        width: 500
+        height: 261
+        isCached: true
 
-secured: "sBvaIGAd3pLS6CM8CcupLIASVW71OygSZhJgQuYt9WN/y6/AsuVbWViQr/UKtrwVRU6NEO+AnZ1bXZtXl5wcq6wrXD0X6MsT9BTzgKaEDmAAJFIowIGUhQ5VpS7xUlRm6H4FkNp3uJKJQk1+NtAsgXmZ2gtd0OOK6XEWRZ83jpNfX45jGSuYA9Gxlq0Cl8Jt0qTF08zNPaA2WvjRsAL2iyq18gOiaY8MIcEkpuj+Bc10qUnPnyoUEpcjNlXKbD75wzxf7me/hWP010xGSy6TYa8roWp82nf/OlZwWPoov9MOEuUGWX8XWOjwDEggCO0ySihw+2ooG6Z4AFnWFQHXZks0dzV2+OKx4Bh6RN4oimk=;vyZF4oosg4sDSGx2Dp4t8g=="
+secured: "jKtQWkDG8YRSfvLnMcqOLu5+7QG8+TLcAyLxrx32WWKlobzSQQmwIa85yV2Hg379EmRUes6RFHKoPnZq+adCPbg27DRV5u6z9u20E8P1kYPDvfjcaaS/2tHwRqIUkpQD3Jd3Apa7Zp30VHxHuUkkUuLNeTagT7Sn8gMhPxTLQBg4bZkOWQLtqv+YGF1okKZtuQhoiXdhQExlyvMUFiiqkuVgIupKTMBMwttjMEVKHSeCMO6WMJpw8VTlLmZZQ6Prcwxf043Q60nlmHt1LaYWGUfQksb8g2wA/iku4FnOV66lXitGNPShq8IDgC4NWsBzeRgHIfvYGqI/HWX2ngRIgo+gLar2bySEtiRlLeSz26g=;KNU119wjn+y9djnXqnNjvQ=="
 ---
 

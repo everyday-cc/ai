@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: devdiscourse
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 759
     isCached: true
+
+related:
+  - title: "New Wef Research Identifies Revolutionary Healthcare Ai Applications"
+    excerpt: "(wam) – a new world economic forum report released today highlights the transformative potential of artificial intellige"
+    publishedDateTime: 2023-06-27T19:55:00Z
+    webUrl: "https://menafn.com/1106509503/New-Wef-Research-Identifies-Revolutionary-Healthcare-Ai-Applications"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "1P5A9Xdmpx22THdTgS7SsWHItMVs+I9DklbIfhzex+Glb3fBuvW9h9p0uMntC4N2kJ74zJpsZzziffa+36mJqmg0CoeGcAzYMmy95Uj8+vs4XQ/FQ1//bny7PdnfMC9c9etGy+ZPniOjQEGvOol5D8qvJLyQ2bBHjvEYKBr0KwHUmmGEoD6zB5dZdsbXahHaVuliWbkb1Rj30L57j9t60wl6ZhjfbdQ0l/0+zgcmV0XqdVU6UckWV8uT9VwlMUaA3werE/npyDZ/jt+4xEsXiqSaj4ENZliSNDUPDMjYzDdk9XVdLdcD4pYbEgrduLwE5J8AD5sVe88axdH5QCEE0uI+jBhRzUGWYEbeDNp188U=;dvKvn2t0uQyxrd4srXEDVA=="
 ---

@@ -249,6 +249,15 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 19
+  - title: "Generative AI is breaking all the rules"
+    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
+    publishedDateTime: 2023-06-27T18:15:00Z
+    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 19
 
 secured: "Tr0srrvr7efwPxRxAOYVoYPzwIUUmeh2RJUYC5fbA+jmdlrCzdoz+K4L/JzgVBVJuiruE2aRXjbKLtLWLH3DMIC3ExTpKAqr9gzVEJhtdqf7gM4sBAptgOFfTXfdV55+PEBgm4PJCou/sLeGOveNpXVOTORz/FHR6kQYmFnTw4JhQ7n0AnsepoFqCyjerKBkaJ8Y80fz7xHKLNkzgbKl2ZMGi4+ilJWzmOaNf8PO0ufX1Ud/j1qSm8UNEJTI5+kNBhfdaQS/YYOTKsCw3XatoqGDIfZ20S13ofk7k3wRcHbE9469yTVjJYomWhhQlYXzK1LSPX2AyLRFiekERnYPmEPolOdMwY0AZHIxQHtEQluCDfQXvDldySwkC226SYm/kXX3HGFMNIFbLrK3DwqyEUxlPptmvP6pK+wGe66VLWtZw/Lk4WdWSyBFQjQkE+OoOAZWvt8IBI3O8LDA2YT6AyAdT1FR5TS5G5CTYn/IOCXCaDAOt02y8Cf3npdk0rDQhwXx8IxQnyoMYZSX2Nkubg==;AHgpeHhG6tH8cYaE87DPxA=="
 ---

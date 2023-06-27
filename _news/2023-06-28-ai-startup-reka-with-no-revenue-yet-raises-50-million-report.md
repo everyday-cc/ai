@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
+    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
+    publishedDateTime: 2023-06-27T21:18:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "MbDU04mkfoMqe2ePXqAxhDcKGeTkK0MDL3w+tLuu9uLVtwiB9t9dUi9vCYPLAIcT/+XdDAVq5T5DZS4lLLOs4IJUVrYkT5919Wc0T59uyO6ELNYQk1kwyaj6Su1cLu+i+BHRxfcwxlOZw/98ar79OSZU5iqn/wam2nSnMgu03vYrSywMU0nrjpPHzQQ4fHs6IHCY1vDmYbEGU75EoqyQZSsE/878UWgx6NSXWsTmwr6jGD+bMsHgkwasgZ2rQ/rf2awAvH5ESXmQs4Aa0Cu8n4Yuc6mGzeo8H094PyVnWl1xiJ6YdBUSfjOesVYlNWCNKWTqOcJPqlNH1FYj57EpElpBZlzJSve6vTsfoZxbbGI=;PcxcQ/7keqi+MA57IMhjYA=="
 ---

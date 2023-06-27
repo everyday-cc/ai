@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/57853-loadsmith-orders-800-sel
 webUrl: "https://www.dcvelocity.com/articles/57853-loadsmith-orders-800-self-driving-truck-systems-to-automate-highway-portions-of-freight-routes"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kodiak to Equip 800 Loadsmith Trucks With Self-Driving Tech"
+    excerpt: "Kodiak Robotics Inc. is set to equip 800 trucks with self-driving technology for Loadsmith, a third-party Capacity-as-a-Service logistics provider, the companies said."
+    publishedDateTime: 2023-06-27T19:05:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-loadsmith-trucks-tech"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/BizBCKodiak-1200.gif"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Self-driving firm Kodiak to equip 800 Loadsmith robotrucks"
     excerpt: "Autonomy firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said. The rigs won't have human drivers."
     publishedDateTime: 2023-06-24T11:00:00Z

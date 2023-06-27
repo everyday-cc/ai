@@ -121,6 +121,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
+    excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
+    publishedDateTime: 2023-06-27T17:28:00Z
+    webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 58
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
     publishedDateTime: 2023-06-23T18:02:00Z
@@ -246,6 +255,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "O0eubFkUUXLawZlkYv0MjpIHv3gSdOVA72GZ8niPLGjynQyQWanrzT+BHzmlSHC2CqUtRipmDrwrp4LJ2Zn9Vr/uv7QVgSn9KeR5+hlvypTHJh5dt4tBP0m618vYFwKR7pypOazGWOhFhUihWbwtPojIzbWtjCUEQqfIxZ8qIC63xcAKeNq8yWdaPjfO2nXrqYhn4oKRbJnEjbilGvX9yQG2MXYS1GTFdYnZ/aft2QKKyB5BQM6C8fKmAOz2i2UsZYP6LluGglE/c5D4Kkd6x0A2fKJKW8wq4tIy8fKFob81R0jOiV6w/v8a7d6OXPIBXAEapZynbWb31ob13tWvWq1zT//pm/9D6QZv88SZDI0=;GVNxTLX3lTc0aKo5+Pd6AA=="
+secured: "fVQZPZnXbx1c4M+ZknX5dj7MQbfFK+oZuSXdRi0nb1RFfjir2jw8qDLz4LzvihvUEzrDkAofUrDY2bsCju6223GRbefpdTUGOa6/23CEup73dVf3WXlMlIqfjljz/xrLOSdRak8WYRzkdKaROveS37OMjIxEvuZifQVtgHSJiAYWb4qdyb5b9bSovSTVFKS2jYDIA9bneAnT5qmlZJhHE7kWdveKIBez3SUiwUObWzyp/txTpgsVnVArwex8Prod7PfnwFKCF2Rn0Domapsh9x6c6ZNFln/s0HfCw2UH10GUdoYJH5/WJ1P8TMrjssHmH6nukwxX0Ep+i/9p0wrAaBhnoGjVgAwi8eajAmx6VibVKrKsddJzLwTHPXG84jywZJBZwvsi875OnIO5jtUfDN+dTYQZZisAwS952FFsry9G3X04+FZkeAekTDBcH93NAeszZ0uV4mzoexh5hFgWmuJdaCND1zVtkjdk8YzYon1FEwz0IukelSkI9vBI9OKa2vnlaXNHMyUDrIbHkwAkxQ==;psh7CEB22N0GwVLNKXOZew=="
 ---
 

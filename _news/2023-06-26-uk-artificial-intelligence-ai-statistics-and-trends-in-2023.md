@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/uk/advisor/business/software/uk-artificial-
 webUrl: "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

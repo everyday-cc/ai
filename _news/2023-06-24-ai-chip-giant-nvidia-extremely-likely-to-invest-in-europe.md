@@ -1,30 +1,22 @@
 ---
 category: news
-title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
+title: "AI Chip Giant Nvidia 'Extremely Likely' To Invest In Europe"
 excerpt: "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe."
-publishedDateTime: 2023-06-24T06:30:00Z
-originalUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html"
-webUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
+publishedDateTime: 2023-06-24T05:53:00Z
+originalUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
+webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "AI chip giant Nvidia ‘extremely likely' to invest in Europe, says CEO Jensen Huang"
@@ -67,6 +59,6 @@ related:
       domain: newagebd.net
     quality: 34
 
-secured: "QveZzqxIFe+Ew+uJVq1B7Y+5/ve9Q5SyyQSGMMk6JLKV0fKPcFXYrsaIlSEXHKVsmoBCaldFD4cjfA35dUds9/wxF/LvGci8YDesG0YaStV/3gFwHbekAIjIOWzi4IPIa09F8inp9LmwXgdr9Glb9nIWRf1F9q3u9nz7fh5gG8XZ3vvwnmkx9OVn2Z7WfR5Amuv8yRo97PUnYQg4Zk72wJR245nlO4o4qRxDlCg2lgQAEwwGuRnU4OmMhvVdkyQf5SrLUuCkkfZ0Jorz6hTnCrOhvMkIp1zc7fDCqPusZfPB/sgtlo87F/2qIPz3xpJuYD5VDnWGyaTzsT9CrQvtEBfiKtyuGX2x5KbfoJjAe7Q=;t4G+6UldZxMBzP1a+1wfwg=="
+secured: "cppoj/SyIj8R0+BASc1XHUNPUsz5DGBuw2a3PtAD6L6PiVrGrA2qpNy8mfsCLogn/pKRnDZhykbw25L3144gFK9Q7qPdHJQtR+6Ky7O5TNbWmwsZrhEwhKx9EgGbCnxDgw1KB9hJLr5IqKj3UB9rAOPpnyr7jGmc0DGNAac5zkhoxHj6yzb5zVzu22VKRoZh4hyk9nvikRuNxGtRMlMcGFbUyKeugbq3F3FGyNER+a7sCvzQO3nxFPNFna65GZ07sedfHcXVFO8WBrl7J0SHHLQ+umVFJ4ITdinPFQZ95nfg33cWVKTf8sYtYAiC2kiBuSQreIpPgLCYDZ54TYQ8Gd7wThJ+gvVSrhcNSNPTMuc=;jOsk45hBs0lt7EQEpPyZIA=="
 ---
 

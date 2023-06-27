@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Hacker claims to discover “Elon Mode” for Tesla self-driving cars"
-    excerpt: "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these"
-    publishedDateTime: 2023-06-23T04:15:00Z
-    webUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars"
-    ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
-    images:
-      - url: "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png"
-        width: 620
-        height: 382
-        isCached: true
   - title: "VIDEO: Self-driving Tesla nearly blows past stop sign on test drive"
     excerpt: "A test drive of Tesla’s self-driving technology revealed a significant error when the vehicle nearly plowed through a stop sign into oncoming traffic in Santa Barbara on Thursday"
     publishedDateTime: 2023-06-25T00:56:00Z
@@ -50,6 +34,36 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/06/Screen-Shot-2023-06-24-at-5.54.10-PM.png?w=1280"
         width: 1279
         height: 713
+        isCached: true
+  - title: "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People"
+    excerpt: "The Montecito billionaire recently took one of the self-driving electric cars for a test drive in Santa Barbara to demonstrate its dangers."
+    publishedDateTime: 2023-06-23T22:41:00Z
+    webUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/"
+    ampWebUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
+    type: article
+    provider:
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 53
+    images:
+      - url: "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
+    excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
+    publishedDateTime: 2023-06-27T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840041.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2142145/The_Dawn_Project.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "LtBJH1aWlApMVPEru6mf9kMefc0xAZBFXtWVSy/ojXXX019m2Zp08T6sCTzq8QY/iEoudfETAMW61vXvjoKg+qzUSpbJJTqWOg7pWtv6HPtPOpjzSvO6rdNk7/4hGu4Hlg/4AA/6YNXDpQH/XgG2qBlygjaX1GkQMgxCkA3NnvJlBeE8oYHVnXxbfaELLwDmd0IZsVWgMuQcMApeXI0F32D1CUlMlvDnf/fzlOeFeG6fnz04iwIRghxFUzoV3Bza0rRw9LlQGjpQ/uFNDuluROrB+Iv6xbUloPYTBLbCbJJC87PySZx+jg5t9qPqYKc5OHyqFA4+RcsUapk0ogZxuv6WPwkULu6uM71uvKPGmWKjsBAl3TSQYV1jtT5ajtZOQTgV8DgBbV/xDUgqZsAmubQmsPN2Ugz6JHdCQ4dce7jDEr8Av8heYvAwNTupEoPOaI+N4/KflUOxayCnMNqAK+DQAyByuuGmXvJRGq+jmRbj9JJmhEWVpExuf5rcRFePv/ks6Ez5s9vyuTu9jMYXtw==;NWaCzA9Q5ZQ/Sjt5cpYrDA=="

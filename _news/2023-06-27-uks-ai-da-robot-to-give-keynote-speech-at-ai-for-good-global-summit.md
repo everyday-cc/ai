@@ -7,7 +7,7 @@ originalUrl: "https://www.techdigest.tv/2023/06/uks-ai-da-robot-to-give-keynote-
 webUrl: "https://www.techdigest.tv/2023/06/uks-ai-da-robot-to-give-keynote-speech-at-ai-for-good-global-summit.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Global Summit On Ai Takes Action To Ensure Artificial Intelligence Benefits Humanity"
-    excerpt: "global summit on ai takes action to ensure artificial intelligence benefits humanity un tech agency will host crucial discussions on the guardrails"
-    publishedDateTime: 2023-06-23T02:54:00Z
-    webUrl: "https://menafn.com/1106490400/Global-Summit-On-Ai-Takes-Action-To-Ensure-Artificial-Intelligence-Benefits-Humanity"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?853887"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "New Set of Standards Aims to Ensure Effectiveness, Equity of AI"
-    excerpt: "The National Academy of Medicine partnered with various health leaders to create a code of conduct for using AI in healthcare."
-    publishedDateTime: 2023-06-23T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/new-set-of-standards-aims-to-ensure-effectiveness-equity-of-ai"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-846841412.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "vI5xmZT+Ig6s8g0l8pCP5rSmgAR6mnADeb+hkjZXNw1HZNt1b1XIu6o82fCMJ4763RVbVolY2QJ+B9F7dbgIpLFlJB8xLMoefLLdCwP9SSRbHKsvoy9FsSZcH9mdNAKuAD6CrtFdPuLZE8N8NEkLdz/IkLBFYxDvSbcw/TQnv5inwMqnSTa+YO1QM8YwG++usoDnMbbks3zBNAjR8IsLJVYsd9RUA5ihAShn1Y0rOPjwS12rdrtmgZsZcpkO7i7wakxDaSdZm0xnvo5uQ7UG8/4zYvodJNiy5Gt1oXB49I4mLkll0kNFfMN6cWSg/98Mw60kCynncB6cPdJxv/8DwFzLIKff5L0Hp5fYZN+hdE9sKDX0Rlqs/x7XWMUT52yboHMqN2GVStxg/oAya6oWBTlnAbD0Btt6V1V2H3WLmN1I47zY5JT/HgyPr4ZVp19Z/hWInKHK0WiYrEFrTuX8dGyq6ek1fMPSdiXZnuT8lhnV1bB3pezc7f+f9UuXyKpQEApC8HSP1jvTAdSdJhRE7g==;PlgKUYv/8TKaJEE+JMYBJw=="
 ---

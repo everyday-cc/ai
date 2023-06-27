@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MongoDB integrates with Google Cloud’s Vertex AI models amid flurry of new features"
-    excerpt: "MongoDB today hosted its developer conference and announced new features for Atlas as well as a Google Cloud partnership and new programs."
-    publishedDateTime: 2023-06-23T01:26:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/top-5-announcements-from-mongodb-annual-developer-conference/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/MongoDBHQ.jpg?w=1200&strip=all"
-        width: 1199
-        height: 607
-        isCached: true
 
 secured: "JgxALQByXGAIqkkJDTNUp8Cz/DpwxRo25tLwEKHcB3hJAAsl65+4qMi/qHp+4duVFEQryHffASt/5Ewwol13Y6XQUFFxJmYg0eFp2qf7IfdnHiM7vz5jdLPjPkQF7QhbX2uUzok98Kjd+N96iSCLXIQoPpw6WkOivfQ538BmRMMnBBTWamYNaPEJ54+koZI9DlBI0REXgdTMOjl+YQyiVe/bhbNjCaIZF5ggnOAUpVNAsZ45IsSCaLlY6+eJHN3ijMMSQzQmEhtSpBGniO+8g8gtq6g1U3ASVAwvYC9h5lFDSRKJF+YH1L2imJKd+gH2xTsYVGtIBiyzXcMsBRsUsrCkMahITjn83catG1KqxWs1LkDXWmIvUK16HfTWPNhOO3a13on/a0i89xEQ4oePZlfJ9GBvqN4tsnMXGsyC1k1bUnTfhp35+DgZSzsad1n+k/qmMSCuX7PO5uLAoBvGyu/MgMcr4heh9fPCJ2A0tVLBPVfN5ICB3MLuq46TaSNUb94aJUTajo08d5WAH72R/A==;sKrExAfzobWWs352mbSyYQ=="
 ---

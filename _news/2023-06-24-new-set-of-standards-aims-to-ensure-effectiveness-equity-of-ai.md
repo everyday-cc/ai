@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/new-set-of-standards-aims-to-en
 webUrl: "https://healthitanalytics.com/news/new-set-of-standards-aims-to-ensure-effectiveness-equity-of-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 690
     height: 400
     isCached: true
-
-related:
-  - title: "Global Summit On Ai Takes Action To Ensure Artificial Intelligence Benefits Humanity"
-    excerpt: "global summit on ai takes action to ensure artificial intelligence benefits humanity un tech agency will host crucial discussions on the guardrails"
-    publishedDateTime: 2023-06-23T02:54:00Z
-    webUrl: "https://menafn.com/1106490400/Global-Summit-On-Ai-Takes-Action-To-Ensure-Artificial-Intelligence-Benefits-Humanity"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?853887"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "UK’s Ai-Da Robot to give keynote speech at AI for Good Global Summit"
-    excerpt: "Artificial intelligence (AI) and robotics innovators will join humanitarian leaders in Geneva AI for Good Global Summit"
-    publishedDateTime: 2023-06-27T13:31:00Z
-    webUrl: "https://www.techdigest.tv/2023/06/uks-ai-da-robot-to-give-keynote-speech-at-ai-for-good-global-summit.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 34
 
 secured: "5mH2EsY5NARu+TB40uyPDjEPrpe2uDPbQlv5xSQ20TbGHAQuz8oBz7IzuCAUuU8MW+vAkez/FnWwQjxOh2+28VapHLl2lz7HFA+ip12SN5Wjc2rieLmmw6TjAyiYY8IWAG6aZA2ni6xwS103hoRM1Zk42CoAih5C1XDZ6RLrkHI94UpkHNlt+TjeER+khNQf8T62UKMglnC7pLETAn48KPc611fM1b2jMZAJHzfswIgF3QamQvfU9/KmZDktIJfev/C5wvrvRgO3eaR3zizVAlJ4ZyVzy5rQZ2AVX0+peRb0GlxNuAFQjP8NIbSr76dZWhu0w2AFS/N9fr+Nkwbg835aIc4pRseIK5Fk7adl4bY7ZgUmHYZue1VjKj2dgDKuYya4ir+tI5Sj+ZTzdgkKC4XvM0IjqjnJwAYyePQbK2hKt3+4hiHrTBpBL7QGlk9LfkMZuaTMlsrf8PYjMX6MuF89L8nKRfflAsmBYN3salZA7aoBPBS8+eDQ+p9QlVOIlkcjwLDzClJ3VjScM7KcOg==;NiNDN4eUteso9Me7/zbQQQ=="
 ---

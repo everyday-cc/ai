@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intel
 webUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:

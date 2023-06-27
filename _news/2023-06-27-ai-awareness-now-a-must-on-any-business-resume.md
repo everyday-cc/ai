@@ -244,6 +244,15 @@ related:
       name: Penn Live
       domain: pennlive.com
     quality: 19
+  - title: "Generative AI is breaking all the rules"
+    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
+    publishedDateTime: 2023-06-27T18:15:00Z
+    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 19
   - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
     publishedDateTime: 2023-06-26T00:00:00Z

@@ -48,7 +48,7 @@ related:
     provider:
       name: Gothamist
       domain: gothamist.com
-    quality: 21
+    quality: 23
   - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
     excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
     publishedDateTime: 2023-06-26T14:59:00Z

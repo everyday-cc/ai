@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-
 webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.insidermonkey.com/blog/wp-content/uploads/2012/09/Stanley-Druckenmiller-e1354390334422.jpg"
         width: 2472
         height: 3235
+        isCached: true
+  - title: "How investors are buying their way into the AI start-up gold rush"
+    excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
+    publishedDateTime: 2023-06-27T21:16:00Z
+    webUrl: "https://www.afr.com/technology/how-investors-are-buying-their-way-into-the-ai-start-up-gold-rush-20230628-p5dk0a"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1741%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e792f9305c6fcfa2bf821b0329ba4aed66236261"
+        width: 1200
+        height: 628
         isCached: true
   - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
     excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."

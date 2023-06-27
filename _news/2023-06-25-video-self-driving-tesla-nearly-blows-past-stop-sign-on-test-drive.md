@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearl
 cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: KRON4 News
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hacker claims to discover “Elon Mode” for Tesla self-driving cars"
-    excerpt: "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these"
-    publishedDateTime: 2023-06-23T04:15:00Z
-    webUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars"
-    ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
+  - title: "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People"
+    excerpt: "The Montecito billionaire recently took one of the self-driving electric cars for a test drive in Santa Barbara to demonstrate its dangers."
+    publishedDateTime: 2023-06-23T22:41:00Z
+    webUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/"
+    ampWebUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 74
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 53
     images:
-      - url: "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png"
-        width: 620
-        height: 382
+      - url: "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
@@ -52,7 +52,21 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 14
+  - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
+    excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
+    publishedDateTime: 2023-06-27T15:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840041.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/2142145/The_Dawn_Project.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
-secured: "dm2re1WwE7W50Fb+eXsnQsff4/yKgstojwP8aRiMan2658xw5bKDXB3T8z47LB/U9YMBE9VDbxDCjTn5AkyByxLKww/HDRrNZIh57N75ZyoE5xI1PMM/g8/l2vWxjgru/J1d2eu3gYGeNe2FdtSLiIQMxEdb6BKMxZ4J69AM56e/xVAS37sPuVviHg8smfsYqj1IBMZ658Zd74n2J6za7rpEhaa8b+4/JKJjfOlZxhQm8l/Wh8t0jvPYnRB5InRAgKjhXDiM8ltdP7RF627gEOn+j8buClSoh6+QR9K1TRf05VT0PqtNP8h4ctOblLOtGHVisY22S1x0No3m+D9XsPWBUxoudNQogvFcLfp/7v0=;lCJzJRE+xxFZ9NVfrVdPaw=="
+secured: "qA7kY8QqcsS9vrUmXUj8BsAVaIEDZ7LRSrxgS3Z1lIqYDcp+b1iuAZ0EFMZzae9sk+OqK048NuxpmfOPdlg4I2l1mew314Tic+QE/+sJOM8YwEC8YrF72HqlydjJKHL9KPYpREmBnwkDvHyzu9CQqlET1L/nGrGObBEB6nflcXsfJJTkf82Iq5DJ++0EgI8V8rr478eZPbdeY0bvKXFPwKFzedMSQ5u5JM531y9VlkQk6bJIu30vzG3mFjpPX4lWY8kELvh7r9oGboE6K7aPxiP1H0AcFiBEWcl3ysodsdH9iG10ezBlerKI+0RRMZTvPTcdiLCu/iOiSUnL5thK0Oc5LJh1uDFP3CQPlTMo5RJdX1hYWDDDQRpMGGUgjINjA/8fPETMcrs4iEyCRAXouydbmHqorRSf+q4huiL87WevKSI47FgeemSlSDkatJ1cS4WLNuWu+xzSB4VUDCdn1FIEYdG958xLRXQz8IsKY7b+4dJ+qgjIcTJkPSrTa0kWh2HREid8oSvC4USvw4QPTA==;QRTgTNjbQ7kQ9uJph7RSFg=="
 ---
 

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
+    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
+    publishedDateTime: 2023-06-27T18:38:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Faros AI raises $20M to bring visibility to software engineering teams"
     excerpt: "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round."
     publishedDateTime: 2023-06-27T15:28:00Z
@@ -43,6 +59,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
+    excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
+    publishedDateTime: 2023-06-27T11:30:00Z
+    webUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_vector_art_of_AI_security_13117b12-b3d2-4178-8ffb-89eb5868470e.png?w=1200&strip=all"
+        width: 1028
+        height: 685
+        isCached: true
+  - title: "CalypsoAI Raises $23 Million for AI Security Tech"
+    excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
+    publishedDateTime: 2023-06-27T11:30:00Z
+    webUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/"
+    ampWebUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 74
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "wH918JEx8Oh/4w/gJco/gU4lPrk6itvCIabv20GwAw8dsi14ANdaCUjed5YOubPtKzchDdWqankGXiKk26iNBSW6EKZgagAQIyPPk9W+mS0Z+34GJNPnklzeKubdytDgJwwKoUfrWpRNfdtz3BPMcQSBV5b5Gz8kfI1grwMtYT94npfWiW9GVKLOSTFR3PBARHZv2M7iILVDqFcC3HgSHuQaFAT6OK6Yb1lywHR1rCb/XXCVMuj5AuyQFBVXzTN3oiDpplKbDHWTMiI1+yAcVH88bnfKOCjpzlQ1kXXNY2lDsmGb6ltg2ba/+ZVKbq/aLRo+I+7unTh0h9rgbbxSCo82tIHlRaAXeItDwRdDJsDQFAo3JMl63SQO2VknJijBQqxj83eNpmknn2A2dAnT7ViITO8l8DXH/8dnKhfDaRbtNN7nNCfcD5X3bnRUzGhalo3N/NmGiTG5RK2jNeSjQY9ckM975jJMRY5eiXp4M9DOMHwx29yFl31cnwzh6IEVILoiJReEK1DM+JaeZ+oxQQ==;YN4Z+eqyew+E8tzfsy4KyQ=="

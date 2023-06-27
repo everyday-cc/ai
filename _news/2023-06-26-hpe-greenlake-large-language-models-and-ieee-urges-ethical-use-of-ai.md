@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia teams up with Snowflake for large language model AI"
+    excerpt: "Snowflake extends its Snowpark offering with GPU instances to run foundation models from Nvidia's NeMo framework -- to be further trained on customer data stored in Snowflake."
+    publishedDateTime: 2023-06-27T18:41:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "HPE Further Highlights GreenLake On-Prem Cloud Through At Discover Event"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as HPE Discover just took place in Las Vegas and CEO Antonio Neri started the proceedings."
     publishedDateTime: 2023-06-26T18:09:00Z

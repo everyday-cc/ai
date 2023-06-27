@@ -43,22 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "OpenAI CEO Sam Altman Says AI Is ‘Most Important Step Yet’ For Humans and Tech"
-    excerpt: "Sam Altman has recently expressed concern over the potential for the increasingly powerful AI technology to inflict harm. (AFP) Sam Altman, chief executive officer of artificial intelligence startup OpenAI Inc."
-    publishedDateTime: 2023-06-23T01:22:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech-71687457685798.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/06/23/1600x900/FRANCE-SCIENCE-TECHNOLOGY-AI-10_1686208934601_1687483109493.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
     excerpt: "Despite the potential dangers of what he called an exponential technological shift, Altman spoke about several areas where AI could be beneficial, including medicine, science and education."
     publishedDateTime: 2023-06-26T01:00:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/06/24/2143474.jpg"
         width: 1240
         height: 825
-        isCached: true
-  - title: "OpenAI of Sam Altman Scores “Most Visible” In TIME100 Most Influential Companies of 2023"
-    excerpt: "TIME magazine recently unveiled its highly anticipated 2023 TIME100 Most Influential Companies list, showcasing businesses and leaders that are shaping the future. Among the diverse group of companies,"
-    publishedDateTime: 2023-06-23T05:07:00Z
-    webUrl: "https://www.cryptopolitan.com/top-ai-companies-times-most-influential-2023/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 30
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/06/JasperArt_2023-06-23_03.05.23_1_upscaled.jpg"
-        width: 1024
-        height: 1024
         isCached: true
 
 secured: "EJb5Zj4iB+y54XGbtRJGNa58ywQ8JmzNBt51hXprRhqTbc0oo/KF/7GDq5ZAjKIdZf28lNLjr4Z3oSg5Ac4UxQPxHkDIfYKgIs2dQICcs+xFGMKz+3a/g9yLiY8YI4zcWIh3v1RyHErSuq8zwlBGhxWH4i7w8+TptFv5e+SOYAeerJJXP/vOVBapPsQQzGj0h8iEqsoWeel5Ek0Lqzgz6nP3kXdDMIt5VJRef6qRrog770WIZmD342ZjZQi1Y1eeUucmQb/MirBc0C99kcuUGt9xK9flWSawnaW5JA9l51ncy0X2kUMfhAtU2pbXd872NusLf8bDBgOiVYhJ886ZS84wP7+rWXvGkuzdtJlR4IQP5IFFgiuiyAG+3iIpDtyueiFBgq/zPCsv8Cn2Lqz9r2EShr52AaV5skxOvvMrZTkrxflZnbu2dfNHZDV6Ya1PMdUdNgCwaKKQC5fTgJW1YA08pBRN0meD3yFdm8PCJYj6EZGmmUUvtxNeHyty5+wWPou1HEuj4zhFDes+xlwFqA==;GEZeaROb4HfplRdN78T05Q=="

@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-27T10:00:00Z
 originalUrl: "https://gothamist.com/news/how-nyc-hospitals-are-using-ai-artificial-intelligence-to-save-lives"
 webUrl: "https://gothamist.com/news/how-nyc-hospitals-are-using-ai-artificial-intelligence-to-save-lives"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Autos
 
 related:
   - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"

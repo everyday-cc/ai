@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 853
         isCached: true
+  - title: "Filmora at VidCon 2023: YouTube Creators Embrace AI for Future Video Content"
+    excerpt: "Wondershare at VidCon 2023 will be showing off Filmora's AI tools, as YouTube creators embrace AI and show us all how its done. Learn all about it here."
+    publishedDateTime: 2023-06-27T18:07:00Z
+    webUrl: "https://www.digitaltrends.com/business/vidcon-2023-filmora-youtube-creators-embrace-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 44
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z

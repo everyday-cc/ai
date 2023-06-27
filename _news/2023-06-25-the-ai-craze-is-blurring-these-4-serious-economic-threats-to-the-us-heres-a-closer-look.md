@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/artificial-intellige
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/artificial-intelligence-hype-4-key-troubles-us-economy-2023-6?amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "These Are the 10 AI Companies to Watch Right Now"
-    excerpt: "With billions in backing from Big Tech and venture capital, AI upstarts have been driving the industry’s latest advancements — laying the foundation for a new technological era. Here are 10 of the biggest, buzziest and best-funded AI startups to watch this year."
-    publishedDateTime: 2023-06-23T05:01:00Z
-    webUrl: "https://www.bloomberg.com/features/2023-top-ai-startups/"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in6s.D4DuV2w/v0/-1x-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zT6qUbcP20cKvLfjbEaiIaNkpSSX3K9LhgesFEqqHq5WiXCmrVG9WFV8ZEaIX0ykTa0vaEvUTBkC3Muay8f36AORt+C27P+hNwGIFC55xl0S/h8iSkVK2Flq0Su9awFeexxbZTcvTRcF6y68Akza5f0Calc+kYnsjfsVSgFIsGFWU6EJ5oADAUY9iQr1GhSYnqY7HKROhUnZMXQ9vK3TmVbcC9um7VegbDM36vNPDt6uuCXw60DUHlmc5LA3j3aVKjYmWkq4d1jHEISxtO6UP4kC+0TnzGHtKcq58cH0Gr9vQFXNDNlWOI1cBH1KK9rkE1+3kV5S+nuZVIbYF5clksWlVHr1ktP2sojRnpC7zvkx7b09h1AXMjMFzu6WcYBa2kkArJ1KSMTkBxrqJzTx93fFWrVJnaTPHaP8SNinuOLMt2DlLc2+r2KXJq6m9Rf8JYkR0T5058CXwWXQeu6qFpv6qn5CI1lV2VqD87c1McZLKWwki5H/6Y0Clpo9tHDY0WEUdudFM6+iSNMrAcsaKg==;cs36OQ03Y9REaPAGyUzKUw=="
 ---

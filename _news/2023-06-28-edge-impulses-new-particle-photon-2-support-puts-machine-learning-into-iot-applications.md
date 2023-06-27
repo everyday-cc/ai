@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Edge Impulse's New Particle Photon 2 Support Puts Machine Learning Into IoT Applications"
-excerpt: "Since its launch in 2019, Edge Impulse has quickly become the go-to provider for enterprises, developers, and ML experts that need to efficiently build AI and machine learning solutions for edge devices."
-publishedDateTime: 2023-06-27T17:35:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9840133.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840133.htm"
+excerpt: "\"Edge Impulse's pioneering work in AI and machine learning is at the very forefront of the industry, and the integration of their technology with our new Particle Photon 2 board w"
+publishedDateTime: 2023-06-27T18:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-s-new-particle-photon-2-support-puts-machine-learning-into-iot-applications-1032413168"
+webUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-s-new-particle-photon-2-support-puts-machine-learning-into-iot-applications-1032413168"
 type: article
-quality: 10
-heat: 10
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "rsZd7s4fsa/gKvbSv+gPupdiztlY30IPQhShgeOVUbf5MhOmlJwI5LbKPxtoSxZEj3+RMlN4Yh81o/cPCzixpfqmogR36R8vfhT2F3lhcR3RIUh1L85AdHi15XRdUDDFCNcGzyYtO00sJoAvSenfOvbUpor6SUIaZ/ao+J+PfbsZjIH699arkRqavbI56qvdpCjTlptLfXlVQZR7v1u3ItX4WPFmZ8kua/yVbrXH9aPWQUPhytgqmSc2J5bqjsta6cQhmQr+2vvxTTOUlhv/cfrTt8kiGIPMZJhtLNpNd1so+hp8cH34wc5Dc78kG49a3Coq5WVORS/dzd3FpZqr3SgzJQ7qMubNoycuy5YlMjk=;ClxMxu+cqjpWDQv0HUm1rA=="
+secured: "G/czUtaNasvuJSs+CfoGQNdUnNYDcHHCprWaYaYyohgBqTj3TmUtzKpbISVijwTgoHfKYAKxXvjlHk/SeXYE3Ye7B0paxzGKUtic/LGgeAlT6ZT32oqDxVTikYCQwvceJtpNyNQIAsrKwzo8awGtJOp+TXA85erzdke88QG3DtbWjqdsF/LOauvwkPr7iDBULdtT0XrNJHyhXP1UKrplV1hNKtjeioLTA0JqSxdLOBN16QvcNam2tWICpVUPQrw9UiQjuQpzo9MgSnQglTN4rod35qnemSOUhg09Ftca9SfIsh1X1WK5cPUw8OaFeE0egKGyqN5uDASb/f7EB+fxBABtjgAivVTP7qy8txVmuuk=;ZwG7Hv4GGh/Qz2bdX8U+TQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-fi
 webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aveni Assist AI launches to boost adviser productivity"
-    excerpt: "Aveni, the artificial intelligence (AI) fintech business has announced the release of a new platform, Aveni Assist. It aims to enhance the productivity of an adviser by up to three times.."
-    publishedDateTime: 2023-06-26T06:30:00Z
-    webUrl: "https://www.moneymarketing.co.uk/news/aveni-assist-ai-launches-which-triples-advisers-productivity/"
-    type: article
-    provider:
-      name: Money Marketing
-      domain: moneymarketing.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn.moneymarketing.co.uk/content/uploads/2018/07/11095802/iStock-700469758.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
     excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
     publishedDateTime: 2023-06-26T09:43:00Z
