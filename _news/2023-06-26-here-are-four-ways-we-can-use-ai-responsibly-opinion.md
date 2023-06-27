@@ -253,6 +253,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "The Race to Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
+    publishedDateTime: 2023-06-27T04:49:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
     excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
     publishedDateTime: 2023-06-23T18:32:00Z

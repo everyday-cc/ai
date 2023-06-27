@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
+    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
+    publishedDateTime: 2023-06-27T05:49:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z

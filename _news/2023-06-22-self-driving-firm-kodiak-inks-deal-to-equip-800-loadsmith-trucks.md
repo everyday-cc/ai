@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Loadsmith plans to deploy 800 Kodiak self-driving trucks"
-    excerpt: "The trucks, equipped with the Kodiak Driver self-driving technology, would serve the middle miles on some of the 150 most popular freight lanes in the U.S., according to Brett Suma, Loadsmith's CEO and founder. He told FleetOwner he wants to work with ..."
-    publishedDateTime: 2023-06-22T12:51:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21268284/loadsmith-orders-800-kodiak-selfdriving-trucks"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 24
-    images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/06/16x9/Loadsmith_trailers.649439929c5f4.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving firm Kodiak to equip 800 Loadsmith robotrucks"
     excerpt: "Autonomy firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said. The rigs won't have human drivers."
     publishedDateTime: 2023-06-24T11:00:00Z

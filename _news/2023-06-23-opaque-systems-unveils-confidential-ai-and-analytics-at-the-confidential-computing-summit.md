@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Opaque Systems unveils confidential AI and analytics tools ahead of Confidential Computing Summit"
-    excerpt: "They comprise a privacy-preserving generative AI optimized for Microsoft Azure’s Confidential Computing Cloud, and a zero-trust analytics platform: Data Clean Room (DCR). According to the company, its generative AI harnesses multiple layers of protection ..."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/OS_Logo_Final_Print_O_Logo_Web_Color.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
     excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
     publishedDateTime: 2023-06-26T15:39:00Z
@@ -48,6 +34,20 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Space and Time uses generative AI to enable data analytics in natural language"
+    excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."
+    publishedDateTime: 2023-06-27T04:13:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/space-time-uses-generative-ai-enable-data-analytics-natural-language/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-27_064307840.png"
+        width: 721
+        height: 487
         isCached: true
   - title: "Parallel Analytica: Illuminating the Power of Artificial Intelligence in Data Analytics"
     excerpt: "Arguably the most controversial upgrade is artificial intelligence (AI), which promises speedier and more efficient work but threatens, in some skeptics’ minds, the replacement of human careers. Enter Chris Méndez and his trailblazing data analytics ..."

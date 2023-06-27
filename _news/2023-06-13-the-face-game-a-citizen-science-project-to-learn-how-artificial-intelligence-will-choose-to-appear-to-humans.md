@@ -1,20 +1,28 @@
 ---
 category: news
 title: "The Face Game: A citizen science project to learn how Artificial Intelligence will choose to appear to humans"
-excerpt: "In this online experiment, humans mix up with neural networks, and everyone (including the machines), posts their own profile pictures and reacts to the profile pictures of others. The game aims at understanding how AI will learn to choose different types ..."
-publishedDateTime: 2023-06-12T17:22:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/992273"
-webUrl: "https://www.eurekalert.org/news-releases/992273"
+excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
+publishedDateTime: 2023-06-13T08:31:00Z
+originalUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html"
+webUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.html"
+ampWebUrl: "https://sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp"
+cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/448086428/the-face-game-a-citizen-science-project-to-learn-how-artificial.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: sciencex
+  domain: sciencex.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "+JMVhE9ZTrGPN2oRoxvHbYeq4JSUq7Ey44Og1DJN1X20D8BtnEiEoMJXL+A4Gl71+ldq7kAaluCNd/aPhnu8Lp+y1F7spOAgAXXmhUT8L7OyBhiymwzwp5XqjFBoBml677YYvLPxjDvbcK5OO0XEgLQqDTerrl13dleILy24t/m/7TU/fAKvjkNIpghC4FE1t+zCqA/3e3bNW8ewKzmm5xhwDh4/KEIHt2+FeKW+XhP1B78/MDpYOIEVPRKxThrpjexDKtTze8hCgLgS1FIbfbddFd84qnOBED0074KUrja11+DlSmbi5Qdpu4gyZGMO39d9/SerCLMtQKLdrE4r965Yimk3N7LylFMMTeMIbl4=;ui48d1b7w9UNDtq+CM/XuQ=="
+images:
+  - url: "https://scx1.b-cdn.net/csz/news/800/2023/ai.jpg"
+    width: 800
+    height: 480
+    isCached: true
+
+secured: "jlZcrjxcloyr8rVQIXTZ0wwqMR/A+uD/5JHAnp5v1U2S4g0wQ4JN4d4AZD0/a+AgwQzm11oydMAa1V2tJr7D4xQZLRb3loNR1w3heKSSCiGaU7RvX0kseqAemkC6HuWTriuNjt/l9muPMge/K12J5WRhmNILy4nMqacZJGyUaapXxtsa9rI9uu4JqSHZK9B0y0swfURtki4JSCOeqlk1cq6velnafW60d/Dc+c30vgKRtwM8k5fzWzU7rHinEmTiVI2R+kve6gHX45EN+kH7b2l33fziSzBBE4bbd3HmoEgwdFURnHyAxLsz8XsTLOKCpdL/dN2S21XQOoSU+lqcP81DEVYQpe2km1cFeM5T7XA=;qZcrBhXM9Qix6KiqCwDkNA=="
 ---
 

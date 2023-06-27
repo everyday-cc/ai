@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
     quality: 54
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
+    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
+    publishedDateTime: 2023-06-27T05:49:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
         width: 1920
         height: 1080
         isCached: true

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing The Future Of Work"
-    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
-    publishedDateTime: 2023-06-22T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
-    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Role Of AI In Creating A Sustainable Future"
     excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
     publishedDateTime: 2023-06-25T15:58:00Z
@@ -58,117 +42,35 @@ related:
         width: 1491
         height: 900
         isCached: true
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+  - title: "Defining the unexplainable in artificial intelligence"
+    excerpt: "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness."
+    publishedDateTime: 2023-06-26T15:22:00Z
+    webUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
-        isCached: true
-  - title: "Tech leaders discuss future of AI at Aspen Ideas Festival"
-    excerpt: "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future."
-    publishedDateTime: 2023-06-27T03:23:00Z
-    webUrl: "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo185196101717"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg"
         width: 1920
-        height: 1080
+        height: 1280
         isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
+  - title: "AI in startup fundraising"
+    excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
+    publishedDateTime: 2023-06-26T21:46:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/ai-is-becoming-a-game-changer-in-startup-fundraising/453560"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
-    excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
-    publishedDateTime: 2023-06-22T16:31:00Z
-    webUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/"
-    ampWebUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/OF4OOmG6LbQ/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "How AI is changing the way humans interact with machines"
-    excerpt: "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ..."
-    publishedDateTime: 2023-06-22T15:15:00Z
-    webUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines"
-    ampWebUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "The people paid to train AI are outsourcing their work… to AI"
-    excerpt: "It’s a practice that could introduce further errors into already error-prone models."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "How Is AI Changing the Future of Modern Health Care?"
-    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
-    publishedDateTime: 2023-06-26T16:24:00Z
-    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
-    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Achieving a sustainable future for AI"
     excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
@@ -186,66 +88,15 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Five AI gadgets making the most of machine learning"
-    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
-    publishedDateTime: 2023-06-26T16:00:00Z
-    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
+  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
+    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
+    publishedDateTime: 2023-06-23T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 56
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
-    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
-    publishedDateTime: 2023-06-22T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
-    excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
-    publishedDateTime: 2023-06-22T18:36:00Z
-    webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
-    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
-    publishedDateTime: 2023-06-26T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
-    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
-    publishedDateTime: 2023-06-24T15:49:00Z
-    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "AI could change the future of yogurt"
     excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
     publishedDateTime: 2023-06-25T03:15:00Z
@@ -259,20 +110,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "The light and dark of artificial intelligence"
-    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
-    publishedDateTime: 2023-06-26T15:13:00Z
-    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 626
         isCached: true
 
 secured: "SqCrpA5fWskr+XPQVy/Hapo4JvMwl83t56Yqux6qBiLBV1Rc97tWK+j2zIeSb3Ymm3MiQXC4/yv+6BrHgXbmaTuW8vvK+ietA/CJp1lhZyMhvObttarKMsH/YsPT4od3dArLvVixBWqnuoWTK6t12/ER4kq6BjafgkzFclJGT1LJZGizNIV5fpoVXYMEUSfhWmXYgYrI6+bkCtHYXW6rchB0PmmP0/0UZ+v1Qr2iw/Q48D8X5fBOEgAuVflYqlc0nU2h0ZG0r/HEzB343F7M1Dzu4xAqlly7zNW/x/Xeun99YItUx5tH4yPgWADz2AlfpHAdlQWSjHDjzUR0yA7qRX44AAFXOP915W4zL1qSI1eYYWW5jYwu8aiw9ZVVKr0SBkMkvwAauKDdSbUBA8euMSjQyd037EfaTR4kqHhESyucMXwT7bdheZGH50/vpQTqjWKnidt0M+kvw6KnSTrU0q1ozPZgFgbF3MgnObc7oD0RK2P8rsGBXWmHNzWK1/7CGH2hvAjqYHF+dnxXU7Lffw==;tnQiEnE5f6qGbej0raZk6w=="

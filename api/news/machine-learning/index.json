@@ -55,50 +55,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-26-defining-the-unexplainable-in-artificial-intelligence.md",
-      "title": "Defining the unexplainable in artificial intelligence",
-      "excerpt": "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "publishedDateTime": "2023-06-26T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-25-artificial-intelligence-and-machine-learning-in-customer-engagement.md",
       "title": "Artificial Intelligence and Machine Learning in Customer Engagement",
       "excerpt": "In the modern era, the utilization of Artificial Intelligence (AI) and Machine Learning (ML) has emerged as a crucial factor in contributing to the success of large-scale businesses. This article explores the manifold ways in which AI can revolutionize customer engagement strategies.",
@@ -839,24 +795,33 @@
     {
       "path": "_news/2023-06-19-profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-at-ho-chi-minh-event.md",
       "title": "Profet AI and Hive Ventures Showcase Taiwan AI Manufacturing Expertise at Ho Chi Minh Event",
-      "excerpt": "Profet AI and Hive Ventures chose to hold this event in Vietnam because of its growing importance for both Taiwan and the global manufacturing sector as a whole. Vietnam's industr",
+      "excerpt": "Crossover Talks forum will highlight how manufacturers in Vietnam can study Taiwan AI best practices to accelerate their digital transformation and nurture AI talent TAIPEI, June 19,",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/19/9834692.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/19/9834692.htm",
+      "webUrl": "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event",
+      "originalUrl": "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/image_660.jpg?h=6462b6b4&itok=hVbn18Xh",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-18T23:28:00-07:00",
+      "publishedDateTime": "2023-06-18T23:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1399,6 +1364,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-binary-classification-using-a-scikit-neural-network.md",
+      "title": "Binary Classification Using a scikit Neural Network",
+      "excerpt": "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WeirdSpaceImageSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

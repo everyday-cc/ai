@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/kodiak-robotics-partners-
 webUrl: "https://www.autonews.com/mobility-report/kodiak-robotics-partners-loadsmith-self-driving-trucks"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 44
     images:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Loadsmith plans to deploy 800 Kodiak self-driving trucks"
-    excerpt: "The trucks, equipped with the Kodiak Driver self-driving technology, would serve the middle miles on some of the 150 most popular freight lanes in the U.S., according to Brett Suma, Loadsmith's CEO and founder. He told FleetOwner he wants to work with ..."
-    publishedDateTime: 2023-06-22T12:51:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21268284/loadsmith-orders-800-kodiak-selfdriving-trucks"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 24
-    images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/06/16x9/Loadsmith_trailers.649439929c5f4.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true

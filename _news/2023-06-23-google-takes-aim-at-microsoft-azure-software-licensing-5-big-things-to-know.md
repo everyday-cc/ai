@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI"
-    excerpt: "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,"
-    publishedDateTime: 2023-06-22T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -48,6 +34,38 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/17/11/m365copilot_business_1920x1080_print-100938654-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
+    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T14:52:00Z
+    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 63
+    images:
+      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
+    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
+    publishedDateTime: 2023-06-24T05:24:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
     excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
@@ -125,15 +143,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Canadian Tire Looks to Microsoft Cloud, AI to Modernize Business"
-    excerpt: "On Thursday, the two companies said in a joint statement that the partnership has a seven-year timeline in which the Canadian retailer will migrate the majority of its IT infrastructure onto the Microsoft Azure ... AI and machine learning toward improving ..."
-    publishedDateTime: 2023-06-22T12:42:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202306224093/canadian-tire-looks-to-microsoft-cloud-ai-to-modernize-business"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 34
   - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
     excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
     publishedDateTime: 2023-06-26T06:30:00Z
@@ -161,15 +170,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
-  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
-    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
-    publishedDateTime: 2023-06-22T12:31:00Z
-    webUrl: "https://www.inferse.com/562823/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+  - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
+    excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
+    publishedDateTime: 2023-06-24T12:03:00Z
+    webUrl: "https://www.techtimes.com/articles/293002/20230624/microsoft-researchers-announce-major-breakthrough-advancing-practical-quantum-computing.htm"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 15
+      name: techtimes
+      domain: techtimes.com
+    quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
     publishedDateTime: 2023-06-26T13:24:00Z

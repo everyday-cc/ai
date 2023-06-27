@@ -27,102 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing The Future Of Work"
-    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
-    publishedDateTime: 2023-06-22T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
-    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Role Of AI In Creating A Sustainable Future"
-    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
-    publishedDateTime: 2023-06-25T15:58:00Z
-    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
-    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1491
-        height: 900
-        isCached: true
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
-        isCached: true
-  - title: "Tech leaders discuss future of AI at Aspen Ideas Festival"
-    excerpt: "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future."
-    publishedDateTime: 2023-06-27T03:23:00Z
-    webUrl: "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo185196101717"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
-    excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
-    publishedDateTime: 2023-06-22T16:31:00Z
-    webUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/"
-    ampWebUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 59
-    images:
-      - url: "https://i.ytimg.com/vi/OF4OOmG6LbQ/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "How AI is changing the way humans interact with machines"
     excerpt: "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ..."
     publishedDateTime: 2023-06-22T15:15:00Z
@@ -139,38 +43,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "The people paid to train AI are outsourcing their work… to AI"
-    excerpt: "It’s a practice that could introduce further errors into already error-prone models."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Achieving a sustainable future for AI"
-    excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
-    publishedDateTime: 2023-06-26T16:51:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/192826007_tree_tech_1200-1.png?w=1200"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Five AI gadgets making the most of machine learning"
     excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
     publishedDateTime: 2023-06-26T16:00:00Z
@@ -185,93 +57,19 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
-    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
-    publishedDateTime: 2023-06-22T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
+  - title: "Artificial Intelligence and the Curse of the Machine Gods"
+    excerpt: "Sometime back in 2008 I was having a conversation with an FBI agent. This is not something I would normally care to do, but in this case it was a family"
+    publishedDateTime: 2023-06-23T05:37:00Z
+    webUrl: "https://www.counterpunch.org/2023/06/23/artificial-intelligence-and-the-curse-of-the-machine-gods/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
-    excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
-    publishedDateTime: 2023-06-22T18:36:00Z
-    webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
-    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
-    publishedDateTime: 2023-06-26T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
-    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
-    publishedDateTime: 2023-06-24T15:49:00Z
-    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI could change the future of yogurt"
-    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
-    publishedDateTime: 2023-06-25T03:15:00Z
-    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "The light and dark of artificial intelligence"
-    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
-    publishedDateTime: 2023-06-26T15:13:00Z
-    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 626
-        isCached: true
-  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
-    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
-    publishedDateTime: 2023-06-23T09:03:00Z
-    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 28
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/06/gertruda-valaseviciute-xMObPS6V_gY-unsplash-680x453.jpg"
+        width: 680
+        height: 453
         isCached: true
 
 secured: "BovNxxMyGkC/tDKflcLNA3m0jqQPbj0dwbSrowHRwOeZImu0sucIaM80yOuKjBiRNAukv79SQsKr9jqM5p0Flt+984xn+HhJjFvBpPJqLziD+x9zwm2kjmWh7g4tjMCKIu4IL2Rd7D7TpSxnNnno8HCOS2AURXygYl95M8Pmpgw6GcwPe5OWe34Uw/lrTLqaVEjJEaGoqiI2yT5B22jiY1kCcLhNvuN69Tp/XO1M6WNKeed6Djxdn8Lfrdm/NxwkMjO3BocIC+Olj3zj5gHwNRtz81JJBQrrRD1gQtwwIkb4KtMBRu7v/OxmKFhzzt18NUU0qBAPke9teC+9s0efinGOpacBWP26jFb+s7WpRG7vU0JNVa63zdxIAtjZAuWyLBis9RMMnjS+zbZrbEnvR507hYodpe5tKkv9mfRS65op70pxCyk6+S3Er1fNzUIFTG65k5Su6MNv/wPtry+MkVwNT3+7hiQg7shGZwwtw28UWRYFzwF+0XGjfWXJP1V2FfSQOEI9ixZrQVtj7VE0YQ==;Aiit5joSvhGMdD95tSs2WQ=="

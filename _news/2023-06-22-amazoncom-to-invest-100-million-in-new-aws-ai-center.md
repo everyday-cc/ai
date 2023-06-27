@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-com-to-invest-100-milli
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-com-to-invest-100-million-in-new-aws-ai-center-777d46f5"
 type: article
 quality: 104
-heat: 444
+heat: 434
 published: true
 
 provider:
@@ -374,20 +374,6 @@ related:
       - url: "https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special.jpg"
         width: 1100
         height: 550
-        isCached: true
-  - title: "Old Mutual closes data centers and moves to AWS"
-    excerpt: "The South Africa-based company will be using AWS machine learning and generative AI services including Amazon SageMaker in order to provide real-time financial forecasting and recommendations for customers. For example, it can make savings recommendations ..."
-    publishedDateTime: 2023-06-22T11:23:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/old-mutual-closes-data-centers-and-moves-to-aws/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Amazon is spending $100 million to teach cloud customers about AI"
     excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."

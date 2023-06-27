@@ -7,7 +7,7 @@ originalUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-
 webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     height: 600
     isCached: true
 
-secured: "Hj7Upt8FrWaNpose/WXX190gJfHU9n6VzD1ZYwlQGRmKpyn7ek0SaWRCQG2mDYm/kh/l+8O+KIvbvDB0Eu08VluBzIYfUBCawxZoTP5/92vX3Y0i3+iY51/aUR0PGT9rtWEspkt0EsNpaCPB38U34cTg+D6Z5muWLsS3+iccn5uW6eOsQ5QbLPGkoe4q/KfixtFfnnXnXVnQLkS8BYY/w0htvw0oRcIwKD04CKKYmzVTRXhxMxuZ2MVuUF+HpyzqAZim555a1TeQcNrzrMkdgYDkPSwkunLSzn//stRg663wzsSBJuFa3okZehZBXeyh2OYb0CpGfpETM+13gd5G1IVQZ058YjGtKC1Oh7/Fdwo=;bXWE96KHj34Fa1E6KvHNBQ=="
+related:
+  - title: "Will AI Really Destroy Humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T05:14:00Z
+    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
+    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
+    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
+    publishedDateTime: 2023-06-23T18:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+
+secured: "RzOjY72NqkmZuaiNj7vzh9NO6BiZNmTXTIZty74MDCuDaya7EQwot4JJ1M5NZcPgPGsMkyaSiIP3ehqqvg7Jt+6giN4XxfyhGLM7E2cvQtzd/FG5pT8oz/mwgWjEIGWrrJgVj/Qgv4R6BWfrthMrckU72QZacHSD4EInlbdewRkfP76EQDyYmk+ZOt9wHfd79fS2FUOLNOP/osZ27rW9qZD+Oeb6dETlH3US1Yg1Vk5Up5iL9/daaV163Bu5Q+Q8p5daYh2Dfk8MP0MYg+btyrH3NsUir5nKBX8z4BVtfwKrs668g8UnKCL0axJt9OIG2Jb8YqWk8aEd9RSpPis+VsAJ7+j2iezdPYFp+pLhWpLEqdsjuY7U8C+Qx0LAs0SPlf29Z3UTqno19Le26qj0GXcxQWsotWHZ/t4hzy4/BZGUm7c/OCuDNyLO94pN+Q1na7TmqETfBTmhqy8zVzfIwF7yAHGu0xd/ZBB+930UZ0JQQ5Yd9RjPCt75xrNZD5/2+1XccvhuA/7Fp2AyoUssaA==;jE1A9/+J+cdALCb+yY2Mdw=="
 ---
 

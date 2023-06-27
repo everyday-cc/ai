@@ -127,15 +127,6 @@ related:
         width: 1200
         height: 853
         isCached: true
-  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
-    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
-    publishedDateTime: 2023-06-23T18:38:00Z
-    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
   - title: "YouTube adding AI-powered dubbing for creators"
     excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
     publishedDateTime: 2023-06-23T07:40:00Z
@@ -160,6 +151,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l9320230623104651.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
+    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
+    publishedDateTime: 2023-06-24T15:49:00Z
+    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."

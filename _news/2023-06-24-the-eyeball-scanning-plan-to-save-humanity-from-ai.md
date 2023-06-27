@@ -22,33 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Global Summit On Ai Takes Action To Ensure Artificial Intelligence Benefits Humanity"
-    excerpt: "global summit on ai takes action to ensure artificial intelligence benefits humanity un tech agency will host crucial discussions on the guardrails"
-    publishedDateTime: 2023-06-23T02:54:00Z
-    webUrl: "https://menafn.com/1106490400/Global-Summit-On-Ai-Takes-Action-To-Ensure-Artificial-Intelligence-Benefits-Humanity"
+  - title: "Will AI Really Destroy Humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T05:14:00Z
+    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
+    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 47
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?853887"
-        width: 444
-        height: 250
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg"
+        width: 768
+        height: 511
         isCached: true
-  - title: "New Set of Standards Aims to Ensure Effectiveness, Equity of AI"
-    excerpt: "The National Academy of Medicine partnered with various health leaders to create a code of conduct for using AI in healthcare."
-    publishedDateTime: 2023-06-23T17:30:00Z
-    webUrl: "https://healthitanalytics.com/news/new-set-of-standards-aims-to-ensure-effectiveness-equity-of-ai"
+  - title: "When AI bots pose as humans"
+    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
+    publishedDateTime: 2023-06-27T03:50:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
+      name: BusinessGhana
+      domain: businessghana.com
     quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-846841412.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Q2wnk7vMCcjWzOlgKTZ9h6H4wbSU3X7gbZz9QMMCGf+KTPVEthhWUOHBxzK1hvPf9+4yFEAl2oqRzXE3W2znspY1E5AuTxmXdXev1IHpeudqTQ2arwhSA5FPcxD6bcXhu9wAGD8P/2unK+/kWlRRAPqU2Vla1K12pc/auoM5Eeth24IPDmF6yraO+dlEKrBY6ChwNwKcH33BBGW1vAwKJSR8nVEvi2EemDiA6NS8OsI0M0825wbM7mWWwUjOcfS2bxJDaKbiAiDm6FDJYuB4avjfb3xW+I66szHLOn96/l4eKc3fz+a75KDwyfQSYIJa1JZuFS3CupocPpkV364Xni7AaHeVzbSPQha1o0A0Yuq4qEmY8kmCOQgVDrLs36Gewv8gu0jh2XKkYq23NQJsjB2h8auxjcEOhdc3NAWLZVUOuoTtMDf68BQhf71RrKXGaxpApWhTUZd+nqu7lY+fYDziJ8/Ga/guLqFyntYmy+6C0NbRRLdBoNrywGpFyWB1dlMdXcF3jTxm7b5Pn5Lfdg==;VWpABsByLgOk62Parvps9A=="

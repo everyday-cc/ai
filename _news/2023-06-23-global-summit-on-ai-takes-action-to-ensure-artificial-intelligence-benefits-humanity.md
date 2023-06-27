@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
-    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
-    publishedDateTime: 2023-06-23T18:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "New Set of Standards Aims to Ensure Effectiveness, Equity of AI"
     excerpt: "The National Academy of Medicine partnered with various health leaders to create a code of conduct for using AI in healthcare."
     publishedDateTime: 2023-06-23T17:30:00Z

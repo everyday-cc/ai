@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-te
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Says Artificial Intelligence (AI) Will Be the Primary Growth Driver for Tesla Stock"
-    excerpt: "CEO Elon Musk says full self-driving (FSD) software will eventually be the ... mobility and logistics by replacing fallible humans with less fallible artificial intelligence (AI) software. Robotaxis will make car ownership optional, reduce motor vehicle ..."
-    publishedDateTime: 2023-06-22T11:19:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/22/musk-says-ai-will-be-growth-driver-for-tesla-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
     publishedDateTime: 2023-06-23T19:54:00Z

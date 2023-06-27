@@ -259,6 +259,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "The Race to Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
+    publishedDateTime: 2023-06-27T04:49:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
     excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
     publishedDateTime: 2023-06-23T18:32:00Z
@@ -292,6 +306,6 @@ related:
       domain: pennlive.com
     quality: 19
 
-secured: "M7n4yRXFyNrpFPEFH1mi1APVtYKD2Gzkfv5CbU3TH1jbLb3EJl44ylFC/e/S3SdJCAo+rXCx5m6jXb7cdF7CpRKevnjR6iE+vH4kgpedtoaWYWHta3t5c6XY5VoXmrJ6nCTylk3fZX0jj4x2i7K2sRWVKRolablUfSHAFjYTligLwAPsbyAaqnXyR/kqMgn9hEfFlsotIUvF8zVCd3rxv+RjgPS8X1O39MD5026iVuu/tEOx7yUfXUUow6tc7kQi521bDMfzyIxQ9OxaAcjtkbgJ2YHowWqzlN+b/aIkO+pUecaM+UM87IwEui42119vkOGx7nxP/IaZizjyxRTEy3nmsyyVN7XWYFHFzNN9naE=;uaNJ2eOk72Rz7HvCDoqUaA=="
+secured: "boomtrZtte92nc4lgo6rTf1GT063bJgEQNa4rYCmw/zx0qrGt4OVCqCvKQOSRxssOHG2n17W/Bhr3bX/iXkdcOkYYKiQxASbjUwg9sxuN2kQbEA/+q/VmJO7Kv5Y12lecnUog2dTHgvIGfuoWJgIMYFfdlJ9TvPZodpqqMXLjxN+rMC0qVrZwOg2lcjeT8N8MT6+LuyU4T/kxhV2xUnhzHOUFyXSdNOOnYq5iFb07euN3es7tqCifxaZSyWQJWPd5r3qCwpovlVGzzCPSR6Ei9uPv2PeSQiwPqeMhqnldx5ecYXO1UJH2o+eXLftPuTNDrvawz4v/jKkuW/Q7Kb4OonmBoYKcIgD/rAXvmQWUpyl+5BeNMQezaohdLVLB+5mMrqf69FafP7UQ0ar9P501knpG+pucOv1n8XUAqeI9V6E0LWcJaIlNFdYmzMxUlYAMmymN4WzbnFPXYHtoyt3aSBEklAUaVYRqKLfNXukamkXfrZBIPAvvUit1Fh9K1eON4O6REBw0k33KDFsRv8RYg==;Pu90LfZCGCR1HG4jGFgYnA=="
 ---
 

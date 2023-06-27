@@ -90,15 +90,6 @@ related:
       name: Firehouse
       domain: firehouse.com
     quality: 4
-  - title: "San Francisco’s fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next"
-    excerpt: "Although, as the driverless industry notes ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by Google ..."
-    publishedDateTime: 2023-06-22T12:04:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
 
 secured: "ZQSoduA7nkpxLhLS/PJ26rwdswHalV61JPpCzQxVjktKkKTMK9yQCw+UXBj7SbiyYkJRnPwYmaQXimD914qkA9pJkkxNgXFqt6kMrP/li/uqaWC/wgW6/a9Mjt7yukFQ1AvlOveKlYtA3u5Jma2WEgt/3jC9ERjKSIyM5BsacXsEaUVItK06sRMmj6bu0NopedcObFB1CP/InKYpm147nm3+zW9R0MBwQ8QgjDm0wh8g4qMrfguFYHmeoHy19h2ypcWGuBiPK5VLWOCi6f74fRHwMOPikiYk/DYUtc0EBauQCoWtjLURiTk6dCcEd0/Korq7nwzJGTV30Je+V09imj+W7VbN6g5Cc5pvkdln26DN9xd6zOWkG4FjHBZ3fpcDOFbH3SVVshS60euRGsI3SKrukuhu7+lkG11exkE2IyOCqdE+4cj8nIzNWWSuFAUJZwCm+eUAjGVDAarCwEz8oUHq1hrYK8BtC/yoX1wG2eqwkd9yxCOUjDmDgjJcFkl0ak0tfvqsI5zwhcejnoUjmw==;gEahcRSwGOxFaQFuCiIRRg=="
 ---

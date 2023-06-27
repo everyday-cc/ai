@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
-    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T14:52:00Z
-    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 63
-    images:
-      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
-    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T05:24:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Google to open global fintech operation centre at GIFT City"
     excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
     publishedDateTime: 2023-06-24T23:56:00Z
@@ -89,22 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
-    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
-    publishedDateTime: 2023-06-24T07:19:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 33
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
     excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
     publishedDateTime: 2023-06-26T05:02:00Z
@@ -132,6 +84,29 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 24
+  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
+    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
+    publishedDateTime: 2023-06-24T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 9
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
+    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
+    publishedDateTime: 2023-06-23T13:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 4
 
 secured: "Dyeer2VYhK8BLKBkz4nS09C2EGODv8vyGZBaZ2wogWX/yttCyKfyDreXnOWHetmkyFmijZTFcRINL5SNB+/OkBApInw19y+UBNWGxeMxRc14Z6c9pjh4jvrx8nEkTeygcFkNyo1sibAvKuoEGHLlYloxKAcqvImWNcu/ib28q98JXpjZjgfBUB4xFK9veV8LIK11FchPN4UbmmFfeLatgkzlS/ZcjgUI7WWgqiuE/Pw8T7pO+GuSlAha+FTrWdoJe+nGgXwI22el1vF9x/hJbR1DWYX6PJMSAo/v+agbChV/vbLZzwD+6iw/jVl3zdClHFcayuGA8zwR+V4Ocn13Co+eJox+WKFcwZ8toDQmWSM=;pQj/BeBjEUtlx6wBJh5Q0Q=="
 ---

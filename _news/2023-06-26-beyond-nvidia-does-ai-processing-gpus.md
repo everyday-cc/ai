@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processi
 webUrl: "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

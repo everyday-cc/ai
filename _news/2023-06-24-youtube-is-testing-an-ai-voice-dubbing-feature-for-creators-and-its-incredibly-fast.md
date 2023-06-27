@@ -22,171 +22,96 @@ topics:
   - AI
 
 related:
-  - title: "YouTube integrates AI-powered dubbing tool"
-    excerpt: "YouTube is currently testing a new tool that will help creators automatically dub their videos into other languages using AI."
-    publishedDateTime: 2023-06-23T18:16:00Z
-    webUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/"
-    ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
         isCached: true
-  - title: "YouTube's new tool can automatically dub videos into other languages"
-    excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
-    publishedDateTime: 2023-06-23T10:18:00Z
-    webUrl: "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
-    ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
+  - title: "Defining the unexplainable in artificial intelligence"
+    excerpt: "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness."
+    publishedDateTime: 2023-06-26T15:22:00Z
+    webUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "YouTube's new tool can automatically dub videos in other languages"
-    excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
-    publishedDateTime: 2023-06-26T06:18:00Z
-    webUrl: "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
-    ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "YouTube to boost AI-generated foreign language dubs for videos"
-    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
-    publishedDateTime: 2023-06-23T11:56:00Z
-    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
-        width: 1000
-        height: 744
-        isCached: true
-  - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
-    excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
-    publishedDateTime: 2023-06-24T01:09:00Z
-    webUrl: "https://www.techtimes.com/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 52
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429037/youtube.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
-    excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."
-    publishedDateTime: 2023-06-23T19:13:00Z
-    webUrl: "https://www.techradar.com/computing/software/youtube-video-translation-is-getting-an-ai-powered-dubbing-tool-upgrade"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
-  - title: "YouTube to make it easier for creators to dub videos in different languages with AI: Know how"
-    excerpt: "YouTube is set to roll out a new feature that will help creators reach out to a larger audience, irrespective of the place they live or the language they speak."
-    publishedDateTime: 2023-06-24T06:34:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 48
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/yt-bloom-6.jpg"
-        width: 1200
-        height: 853
-        isCached: true
-  - title: "YouTube adding AI-powered dubbing for creators"
-    excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
-    publishedDateTime: 2023-06-23T07:40:00Z
-    webUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
-  - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
-    excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."
-    publishedDateTime: 2023-06-23T05:41:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/youtube-is-adding-ai-powered-dubbing-tool/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l9320230623104651.jpeg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg"
         width: 1920
-        height: 1080
+        height: 1280
         isCached: true
-  - title: "YouTube is using AI to break down language barriers"
-    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
-    publishedDateTime: 2023-06-27T01:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
+  - title: "AI in startup fundraising"
+    excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
+    publishedDateTime: 2023-06-26T21:46:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/ai-is-becoming-a-game-changer-in-startup-fundraising/453560"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Achieving a sustainable future for AI"
+    excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
+    publishedDateTime: 2023-06-26T16:51:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/192826007_tree_tech_1200-1.png?w=1200"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "AI could change the future of yogurt"
+    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
+    publishedDateTime: 2023-06-25T03:15:00Z
+    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
-        width: 1240
-        height: 826
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
-    excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
-    publishedDateTime: 2023-06-26T11:08:00Z
-    webUrl: "https://starlocalmedia.com/lifestyles/entertainment/youtube-testing-new-artificial-intelligence-tool-that-will-help-creators/video_579f0bb1-d9c9-5d5f-8458-3f8e60a80b5f.html"
+  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
+    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
     type: article
     provider:
-      name: Star Local Media
-      domain: starlocalmedia.com
-    quality: 36
+      name: WTKR
+      domain: wtkr.com
+    quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/5/79/579f0bb1-d9c9-5d5f-8458-3f8e60a80b5f/64997aa533ae3.image.jpg?crop=611%2C321%2C0%2C11&resize=611%2C321&order=crop%2Cresize"
-        width: 611
-        height: 321
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "YouTube adding AI dub technology to translate videos for creators"
-    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
-    publishedDateTime: 2023-06-23T13:12:00Z
-    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 34
 
 secured: "X5pu2FL4iChlFCyLYQYaXmtkO0U0zu5SxYxmkhJI4dfUEP/3WTTxWUyq7so3RSkQJZrfczFa4Uv78MRFPA+Vm/hzcwl0cgTnXwx5J6Bxs6N/mHMxzdjAb2A5IYdy4RCVXV3Ed8xnMFx8UoAXBWebakeEkMJTm0P3TDpiVCbVJs+20XTlX9H6hBG6dXqKiVQK6H9HVblVYLUFexpD7JX3mVuAIosoYkas9LTiCMNHwThwrHT7crGADDtuSpi6X0JiVKOYR2JADC3ea3NAbLH7BMu7hZuL2HSLmLwZ3unM4RGg9/woYY/Mp6IVTp0Y9AejPK23WsZPrJuiQgMWR4xQ/T+D2D0xAXmX6THDuNvxXZpe5gpBnr19DMejfmnEkmAL443ZSNcL85gyq6yL/i4TgDYlVIETJVdXH6L1b7PnW+uFQz1M9xGafHLnPuvlfpEK6g3xGGnan4If9w5e5W4En4RTdfjjy3b5Qg4nCWn7ZRPasVHjeiN/DenQjvXov0kong7VbFM4wanxLlXYgQu6fA==;dGN1GOpKgEBLpAnnIz6KIA=="
 ---

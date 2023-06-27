@@ -22,259 +22,116 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Changing The Future Of Work"
-    excerpt: "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ..."
-    publishedDateTime: 2023-06-22T11:06:00Z
-    webUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/"
-    ampWebUrl: "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/"
+  - title: "Why smart AI regulation is vital for innovation and US leadership"
+    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
+    publishedDateTime: 2023-06-23T21:54:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "Role Of AI In Creating A Sustainable Future"
-    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
-    publishedDateTime: 2023-06-25T15:58:00Z
-    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
-    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
+    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
+    publishedDateTime: 2023-06-25T20:29:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1491
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+  - title: "The AI Rules Companies Really Want From the EU"
+    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
+    publishedDateTime: 2023-06-27T04:44:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
-        isCached: true
-  - title: "Tech leaders discuss future of AI at Aspen Ideas Festival"
-    excerpt: "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future."
-    publishedDateTime: 2023-06-27T03:23:00Z
-    webUrl: "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo185196101717"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
-  - title: "AI Is Changing the Short-Term Rental Business at Plum Guide: Full Video"
-    excerpt: "Plum Guide is injecting generative AI into much of the way the luxury short-term rental ... they would get a sample of homes and they would just start flicking through them and go, pass, fail, pass, fail. This is good design, bad design."
-    publishedDateTime: 2023-06-22T16:31:00Z
-    webUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/"
-    ampWebUrl: "https://skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/06/22/ai-is-changing-the-short-term-rental-business-at-plum-guide-full-video/amp/"
+  - title: "Big tech companies want AI regulation - but on their own terms"
+    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
+    publishedDateTime: 2023-06-27T05:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 59
     images:
-      - url: "https://i.ytimg.com/vi/OF4OOmG6LbQ/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "How AI is changing the way humans interact with machines"
-    excerpt: "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ..."
-    publishedDateTime: 2023-06-22T15:15:00Z
-    webUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines"
-    ampWebUrl: "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp"
+  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
+    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
+    publishedDateTime: 2023-06-24T04:28:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
+    publishedDateTime: 2023-06-23T14:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
     type: article
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "The people paid to train AI are outsourcing their work… to AI"
-    excerpt: "It’s a practice that could introduce further errors into already error-prone models."
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/production-turk.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "How Is AI Changing the Future of Modern Health Care?"
-    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
-    publishedDateTime: 2023-06-26T16:24:00Z
-    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
-    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Achieving a sustainable future for AI"
-    excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
-    publishedDateTime: 2023-06-26T16:51:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/192826007_tree_tech_1200-1.png?w=1200"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Five AI gadgets making the most of machine learning"
-    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
-    publishedDateTime: 2023-06-26T16:00:00Z
-    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 56
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "The AI-powered future of healthcare is 'right now': What CEOs think of AI"
-    excerpt: "Explore how healthcare leaders are using AI to revolutionize care delivery, improve patient outcomes, and reduce health disparities. From UC Davis Health to Nor"
-    publishedDateTime: 2023-06-22T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/hospital-management-administration/the-ai-powered-future-of-healthcare-is-right-now-what-ceos-think-of-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The AI Future Is Bright But You Gotta Look At Shades Of Perspective"
-    excerpt: "Each panelist represented a unique and valid perspective of AI and I think each point of view should be contemplated as we propel legislation, ethics, labor regulation, litigation, and capitalism onto this rapidly sophisticated technology of AI."
-    publishedDateTime: 2023-06-22T18:36:00Z
-    webUrl: "https://www.forbes.com/sites/elsaramo/2023/06/22/the-ai-future-is-bright-but-you-gotta-look-at-shades-of-perspective/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
-    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
-    publishedDateTime: 2023-06-24T15:49:00Z
-    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "AI could change the future of yogurt"
-    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
-    publishedDateTime: 2023-06-25T03:15:00Z
-    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
+    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
+    publishedDateTime: 2023-06-23T12:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "The light and dark of artificial intelligence"
-    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
-    publishedDateTime: 2023-06-26T15:13:00Z
-    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 626
-        isCached: true
-  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
-    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
-    publishedDateTime: 2023-06-23T09:03:00Z
-    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 28
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 6
 
 secured: "rl0aOL1irRhEhxgKCM9MX0VkCfcuC/Bt7r9mBzLOV3toeZnmoa1CTC5fsabwesv7xmTpzIWx+JdE8WW9YUBSgi1uoe97t4CshpqaHW4GEc3nNo/3T8N/yymCYoxnXVvcWh0toLvnjl0eEo0b0cbRK4k3xv8ylpXF9/AzxgjacCXWeRL0T9Vq4JnoUJa43CpcO/JCJHUp8CUmDVxgUVB8ZwSFZVtmH5UQqqzQy3jHLJhLepJGMYUHpg8xRyMD4mlpiu8+v84tGyj4Go6d9gnqObmnfAXGSQzwafENxGCCz7D3+gQYChN1oSdzMNXZiT6ZUkXHPssqXUpyNaohNtgPaNbEmpmi2/aPaYErR1+MeIGaf5rNT+aiPOiCJZbqnm7EYnooZlD9jYQBCjbUwzbDD6jmBusJyC9TfczBl+ELtdhBIqBreG89vFZZQto44tQvLPtEgfiz1+9IJe6FCcjPcsO6/fPFuuOKhSp68E4kqkPfDZBGo9mjgi6vIqHDHspaK5eo8G78v/qZM9FVtZ3l+A==;V010GD9F7ROKRLfRG/l7Rg=="
 ---

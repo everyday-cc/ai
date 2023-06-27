@@ -41,7 +41,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.insidermonkey.com/blog/wp-content/uploads/2012/09/Stanley-Druckenmiller-e1354390334422.jpg"
         width: 2472

@@ -38,6 +38,38 @@ related:
         width: 1391
         height: 900
         isCached: true
+  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
+    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
+    publishedDateTime: 2023-06-26T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 880
+        isCached: true
+  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
+    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
+    publishedDateTime: 2023-06-26T16:57:00Z
+    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Stravito launches generative AI tool for enterprise search and knowledge management"
     excerpt: "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources."
     publishedDateTime: 2023-06-22T16:01:00Z
@@ -94,15 +126,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "How Companies Can Use Generative AI And Maintain Data Privacy"
-    excerpt: "Ameesh Divatia is cofounder and CEO of Baffle, Inc., with a proven track record of turning innovative ideas into successful businesses. A recent study of software firms found that employees with access to generative artificial intelligence (AI) tools were ..."
-    publishedDateTime: 2023-06-22T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/how-companies-can-use-generative-ai-and-maintain-data-privacy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
     excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
     publishedDateTime: 2023-06-23T10:00:00Z

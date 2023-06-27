@@ -28,61 +28,90 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Stability Debuts a New AI Model For Stable Diffusion"
-    excerpt: "Artificial intelligence startup Stability AI is releasing a new model for generating images that its says can produce pictures that look more photorealistic than past efforts. In a blog post Thursday, Stability AI, which popularized the Stable Diffusion ..."
-    publishedDateTime: 2023-06-22T13:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion"
+  - title: "Role Of AI In Creating A Sustainable Future"
+    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
+    publishedDateTime: 2023-06-25T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
+    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png"
-        width: 1200
-        height: 604
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1491
+        height: 900
         isCached: true
-  - title: "Startup unveils AI breakthrough for male fertility diagnosis"
-    excerpt: "A new algorithm can determine male fertility at a faster and more accurate rate than previously possible, according to research by UK startup Bayezian ... machine learning incubation services, applied AI to the problem. “We see accurate diagnosis ..."
-    publishedDateTime: 2023-06-22T14:52:00Z
-    webUrl: "https://thenextweb.com/news/startup-bayezian-reveals-ai-breakthrough-for-male-fertility-diagnosis"
+  - title: "Defining the unexplainable in artificial intelligence"
+    excerpt: "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness."
+    publishedDateTime: 2023-06-26T15:22:00Z
+    webUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-1-4.jpg&signature=5945675e22db832c4411b91d509e7252"
-        width: 1280
-        height: 640
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Stability AI Head of Research Resigns From Startup"
-    excerpt: "At least two high-profile people have left the artificial intelligence startup in recent weeks. Stability AI, the closely watched artificial intelligence startup, has lost at least two top executives in recent weeks, including its head of research and chief operating officer."
-    publishedDateTime: 2023-06-26T22:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup"
+  - title: "Achieving a sustainable future for AI"
+    excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
+    publishedDateTime: 2023-06-26T16:51:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXreZVrCiv0Q/v0/1200x798.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/192826007_tree_tech_1200-1.png?w=1200"
         width: 1200
-        height: 798
+        height: 720
         isCached: true
-  - title: "Startup Stability Releases New AI Model For Stable Diffusion as Deep-Fake Concerns Rise"
-    excerpt: "Artificial intelligence startup Stability AI is releasing a new model for generating images that it says can produce pictures that look more realistic than past efforts. In a blog"
-    publishedDateTime: 2023-06-22T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion?leadSource=uverify wall"
+  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
+    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
+    publishedDateTime: 2023-06-23T18:38:00Z
+    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
+  - title: "AI could change the future of yogurt"
+    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
+    publishedDateTime: 2023-06-25T03:15:00Z
+    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png"
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
+    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
+    publishedDateTime: 2023-06-23T09:03:00Z
+    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
+    type: article
+    provider:
+      name: WTKR
+      domain: wtkr.com
+    quality: 28
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
         width: 1200
-        height: 604
+        height: 630
         isCached: true
 
 secured: "2sHflriPYVevGw/4DZVhNL/GymV2hu397ITozRuq7Dzwx3PMiOUf5nEgxmMJhvmmifShWg+YFb3GpUzvoQxO06KLyk300XctkSty+CR+aUrMFAotxt9vYrG4BCFWV0mQesJJTPRmBp1TY3LvAz2FRz4Gd0KEuCai81XryI5c+m9TJH3SzAR3l8mLDOwE17NAN7iW3Ppc8QIVlIttfssT3BZM/ej3lNbS/WhJ/SHbPZbjGeWB3RzEUr74jX5+vxSSlP7+H26FTcL/1dFZQNuycP31vXvxprOrxWd9pFDIxnSeESQCMLaMe6wpgZvmq39x3vPqYa+fx65MQ+d8Ulqs3WTFR6hJfp2WySbuPSCtpgY=;Oy0+c1qFDFBz1hkYzv/oxg=="

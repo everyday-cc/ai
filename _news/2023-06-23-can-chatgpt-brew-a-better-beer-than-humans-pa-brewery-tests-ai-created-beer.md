@@ -62,6 +62,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
+    excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
+    publishedDateTime: 2023-06-27T05:49:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/google-s-deepmind-claims-its-next-llm-will-outclass-chatgpt/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z

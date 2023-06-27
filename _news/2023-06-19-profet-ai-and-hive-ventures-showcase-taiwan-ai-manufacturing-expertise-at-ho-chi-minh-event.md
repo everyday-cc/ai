@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Profet AI and Hive Ventures Showcase Taiwan AI Manufacturing Expertise at Ho Chi Minh Event"
-excerpt: "Profet AI and Hive Ventures chose to hold this event in Vietnam because of its growing importance for both Taiwan and the global manufacturing sector as a whole. Vietnam's industr"
-publishedDateTime: 2023-06-19T06:28:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/19/9834692.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/19/9834692.htm"
+excerpt: "Crossover Talks forum will highlight how manufacturers in Vietnam can study Taiwan AI best practices to accelerate their digital transformation and nurture AI talent TAIPEI, June 19,"
+publishedDateTime: 2023-06-19T06:19:00Z
+originalUrl: "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event"
+webUrl: "https://www.asiaone.com/business/profet-ai-and-hive-ventures-showcase-taiwan-ai-manufacturing-expertise-ho-chi-minh-event"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "YS4dEf4xHqqU5n1Kn5G3g1s9BoHza8Z/drcCpMaloL3d1srPYZOK0KYZbPM2TgmsC+I5jXj6hsJsKRsDSHU39NxH40e2J09I1NGAZZkcuF9bOabZzFWXboAy+8Unj5qDL5RxbM1q+bYfS7B2lr85aeu5cm87AAPFowdMLEUmTN6mlBVyReLkEsSdk/cdqaXGCcG0RMxRTZ9pjkXPzbEBQbTXCG7k3o1elOqrfkhh4uSaEPXmj+kLQnnBaoqM+PoQyLnHc46WSRMM25DeuQEigGs+nwmcyTMdgUpqI1Qj+PQrTPgwJI0NlzLkeb2Q+sstLiV5HST8QMGZ17egvVOhs1gGCTpE93FZfwmmT7NnQjttf+vB01pn73qc7U2zRxNXqOENHJcPO/YNOogHWtuybVQDiYwxrLI45sNenrHnV7Fj5EXChhdaWu9gJADH0mKZbOaQrxkdce0RaV+KArvkyaNqRkRYZZWsputKBuBaY5mCRaQVAmjQwrNPqq+jwNOozZkHXDhqJt/Nkn22V5QxqQ==;HQf6HXgxYqg7U4gK9e05yg=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/image_660.jpg?h=6462b6b4&itok=hVbn18Xh"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "k6BK/FZqYHzJC6RGECv5bCeM9ABQrkM4S44ve1bR2ge7LZnuupTe5AAkCha33WoBVUna/g8sAivWrIjST4bnyfgfiux4SfkFPdwpCxmwnHX4gHJivt3xyrAmVYFckKboWhVw2r1wACorvwk1Twffb8bXDfWwZ5wfHSDfaf/qcn05iWXdLD5VVmfn2YcoYYaaHuqvrZKM46r/hj3EsIGBCOZyVYyhUD82z1hVN8SE1YMxjQCyhs3Tzo3jl6Ot8QlWJIMCljsxNn61zED1VM/XihMU7LPP1dAXCbsuF1vbcjg4mSXVCdPWt/f3PAKL0+vjPrc6lzJkQgKR8ceyp0SINR/7Qn2s5hMETnMrSxaxzuQ=;e07iClJhnv8LczxJKYV4fQ=="
 ---
 

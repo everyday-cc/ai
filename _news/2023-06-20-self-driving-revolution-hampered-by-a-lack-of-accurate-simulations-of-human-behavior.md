@@ -1,38 +1,26 @@
 ---
 category: news
 title: "Self-driving revolution hampered by a lack of accurate simulations of human behavior"
-excerpt: "Professor Markkula said: \"These findings suggest that everyday road user behaviour relies on a number of complex underlying cognitive mechanisms, which may be part of the reason why it has been more difficult than expected to create self-driving vehicles.\""
-publishedDateTime: 2023-06-20T16:33:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/06/230620113736.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/06/230620113736.htm"
+excerpt: "Algorithms that accurately reflect the behaviour of road users - vital for the safe roll out of driverless vehicles - are still not available, warn scientists. They say there is “formidable complexity” in developing software that can predict the way people behave and interact on the roads,"
+publishedDateTime: 2023-06-20T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/992833"
+webUrl: "https://www.eurekalert.org/news-releases/992833"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Self-driving revolution hampered by a lack of accurate simulations of human behavior, study warns"
-    excerpt: "Algorithms that accurately reflect the behavior of road users—vital for the safe roll out of driverless vehicles—are still not available, warn scientists."
-    publishedDateTime: 2023-06-20T19:02:00Z
-    webUrl: "https://techxplore.com/news/2023-06-self-driving-revolution-hampered-lack-accurate.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8c18a92d-5c74-4f66-b5de-5669a743b242/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
 
-secured: "HOs7zbvZVpTCds/JcLxbwjJqhMVLI6cmuLssm+ZWvyqbZgET0feM8jBNm3O9lKKejN2jekWsBW00HJfZhvqWU3MYfccdzSkqdOOnFnY03hJ3CkX/sbJR9M4gu+KgZUU3hEa0OnPx9vVnTXw7W3vOwWg4WBe0/NQukYeb1F18Bnz5TmGcmTElZdp78PQItJOfvguxOMv58XlU5/WNcT7vYgps5OIMKyHxiRhPSCfhvz8NeBiGUFeFYGHoMnaS2LJtPvtLffPp+2GqJQW6oHJhD7+wie42wbhJujhVXUBdLxUeczEifl1i7sLgcky6pnJzeUJpteWlwawgZdbGBK+AdscHkZccSLkDqQGUfnJwknE=;ruxOHL8mVwWGS5hUvk1eug=="
+secured: "Kk/fauwDlMCpJ/zsI16c1WP7N5aQ9EUQoagPpC7l06DHF6haQkK1QAJyVsDg5+zPuQYi0hCB4sWfZY1TJwJf3piypGT6u7GJ7Z5dz41j5NODA4k818GZGwu8/1GRWOfkFkd7/ow91k8orO2xbqO7wvOm0onkGleHTqvfuBa4NSOKo4TdNu/QttbUrjTpK2cFMkXn2K+av/OKqXdfMVKv3v5f1C775yRrLIU0D0k9ymWpvPmZTbVaMrXJDPX5rOfcynYRSVPaqniwBoXQPd95VnjHK7oU4cH1OA5bBpoDkQpdgv1ggLuxDNNlz5mxQLU9Vjm5d6CbcgdBCzJhPg4QUybMO9V6tP77+iP1wtHPMsg=;r6CJ9iHBT0crCRIqWQf+uA=="
 ---
 

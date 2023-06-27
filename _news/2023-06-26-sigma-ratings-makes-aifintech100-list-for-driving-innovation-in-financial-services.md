@@ -51,6 +51,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
+    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
+    publishedDateTime: 2023-06-24T07:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 33
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---
