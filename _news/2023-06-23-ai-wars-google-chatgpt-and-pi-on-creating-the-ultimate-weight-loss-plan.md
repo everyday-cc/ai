@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/22/ai-wars-google-chatgpt-and-pi-on-creating-the-ultimate-weight-loss-plan/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
         width: 1250
         height: 834
-        isCached: true
-  - title: "A CT author wants to help job seekers use artificial intelligence. Think ChatGPT meets resumes."
-    excerpt: "People who are less computer-savvy and perhaps with no experience using AI, Leykam said, can easily follow the book and use it."
-    publishedDateTime: 2023-06-22T10:00:00Z
-    webUrl: "https://www.courant.com/2023/06/22/west-hartford-author-publishes-book-to-help-job-seekers-use-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 25
-    images:
-      - url: "https://www.courant.com/wp-content/uploads/2023/06/Garrison-cropped-headshot.jpg?w=644&#038;h=551"
-        width: 644
-        height: 551
         isCached: true
   - title: "Sanctions ordered for lawyers who relied on ChatGPT artificial intelligence to prepare court brief"
     excerpt: "A federal judge said the fines are meant to serve as deterrent in the era of artificial intelligence tools that are already giving way to legal fabrications."

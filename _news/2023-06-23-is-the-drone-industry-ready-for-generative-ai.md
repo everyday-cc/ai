@@ -119,6 +119,22 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "AI Awareness Now A Must On Any Business Resume"
+    excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
+    publishedDateTime: 2023-06-27T02:57:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1525
+        height: 900
+        isCached: true
   - title: "Consultants Emerge as Early Winners in Generative AI Boom"
     excerpt: "Lacking in-house know-how, companies are turning to outside experts for help putting ChatGPT-like tools to work."
     publishedDateTime: 2023-06-22T20:12:00Z
@@ -179,6 +195,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "MAS Releases Open-Source AI Toolkit to Promote Responsible Use in Finance Sector"
+    excerpt: "MAS has released an open-source toolkit to enable the responsible use of Artificial Intelligence (AI) in the financial industry."
+    publishedDateTime: 2023-06-27T03:43:00Z
+    webUrl: "https://fintechnews.sg/75549/ai/mas-releases-open-source-ai-toolkit-to-promote-responsible-use-in-finance-sector/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 51
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Releases-Open-Source-AI-Toolkit-to-Promote-Responsible-Use-in-Finance-Sector.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Dataiku unlocks the potential of generative AI in business apps"
     excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
     publishedDateTime: 2023-06-26T11:12:00Z
@@ -231,6 +261,20 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
+    publishedDateTime: 2023-06-27T00:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the/article_da67b7d6-21f9-516a-8e5f-7ba468d31449.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/24/b247e86e-d892-5af4-9719-3201a0262482/649a283dc6442.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Adobe Flies Towards Generative AI"
     excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"

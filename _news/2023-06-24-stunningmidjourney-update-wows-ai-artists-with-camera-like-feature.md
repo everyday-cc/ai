@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/stunning-midj
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/stunning-midjourney-update-wows-ai-artists-with-camera-like-feature/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Midjourney AI photo editor adds mind-boggling Zoom Out feature you need to see to believe"
+    excerpt: "Midjourney v5.2 brings over a new Zoom Out feature that's impressive fans - here's how the new generative AI feature works."
+    publishedDateTime: 2023-06-27T00:50:00Z
+    webUrl: "https://bgr.com/tech/midjourney-ai-photo-editor-adds-mind-boggling-zoom-out-feature-you-need-to-see-to-believe/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 28
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/Midjourney.jpg?quality=82&strip=all"
+        width: 1627
+        height: 1023
+        isCached: true
 
 secured: "Moh770wedDbaNps4PSCWThrr9Lr4sqhw7OOdCYHrH0VZv/6RiT2LcwlWSKX7RA8FhnArH6khFn5/N65zes6N/ZiV2U+f5uYa5gIyXEIOGKHOOUiyWJ5fGYjtDVondfzuu7DU9HDFVR8UtYnglgUAEpBKwtcfJo1aZVDJ7wr17T8EzvcQ3IsZlnSa+1nDtHBVpVQtAGeSqIiA1ABk6qGl1mt2IWalBLSYKU7Up51u1w+7laRhbFdz329Vu4UPRN0UU8jbrQWZvnJ6DVknE0sEEsaxSF+UhVosboIk7N9gH0M4THYkYuPw6RfD9G1USCK94EQ+ENFx45V99YFpRSIx6EUFWVb+nW1Dc+v8WbjH7R60HO0DkmbZ9vP1Io1h8D0GEiBDz2oQzxhA+ygPhwgDgNsf1dlfuJFS/xTFLryqdV2vyaL+8sROHZdMQH90VfZgoonv4g+244Q79QDjdsE98QHn6mI6euPJOMVjPGrf1CeNsxyYh2wLSEYJF/1rGk91RYcd2j9hkPdxakw6cGrMJQ==;c2JNAc5PL5pVTm8uUJ8RTw=="
 ---

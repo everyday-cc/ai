@@ -24,6 +24,17 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Artificial Intelligence to Transform Patient-Centric Care: Meity-nasscom CoE"
+    excerpt: "With an aim to explore the latest developments, applications of AI in healthcare and their impact on patients, Meity-nasscom CoE is hosting the 11th Edition of the Lifesciences & Healthcare Innovation Forum (LHIF11) on 'Patient Centricity in the Digital age: Transforming Healthcare through AI'."
+    publishedDateTime: 2023-06-27T02:09:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230626/4093242.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
+
 secured: "HMNBUZvmrVB+JLKHHrGpTecrg6Eo89GmxqEpiBsUoCt3aTfPB+iXcXKIOtfF56t1JdPCzQ+XX0/EWqp+MRk/zetNipFZi2fcR1uUQTOV3dnSVXo7Ogj/kvV1Yam/fWL6Dsk75slBGZafWFQgbNM2Yt3oG6QacSI7gddBSYvQs6uCZhJrvGqxB+1qAmTcy6kc3IwTBf9iZUrSa/YanucjTGou9p/ii9FQowC1p+1+XIsF3KV6Q1rON40kS9r1hOJrdy5BRdD0MhWNAo31qSxUcesYHt1OwlJWILOrQ8U5xJ6XCXQOI3qH329W86yoEEkYQG7XWBDWJMoYOSPZqylDKMYpsgOXysaI/hyxeBjOSaM=;lGS/agikQ14BPecG8GtnTw=="
 ---
 

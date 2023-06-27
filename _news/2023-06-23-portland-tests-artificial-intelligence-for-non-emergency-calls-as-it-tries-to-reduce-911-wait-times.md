@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-in
 cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 680
     isCached: true
+
+related:
+  - title: "Artificial intelligence program will soon help with Portland non-emergency calls"
+    excerpt: "We are surrounded by artificial intelligence in everyday life, whether it’s through smart devices or the algorithms that decide which ads are presented to us online."
+    publishedDateTime: 2023-06-27T01:38:00Z
+    webUrl: "https://www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/"
+    ampWebUrl: "https://www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/?outputType=amp"
+    type: article
+    provider:
+      name: Fox 12 Oregon
+      domain: kptv.com
+    quality: 52
+    images:
+      - url: "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/qzJdLdxC1qRT6GImkNkEafdDIi4=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/06-27-2023/t_efa59ccc67984616bef30770158f15ce_name_YT_THUMBNAIL__43_.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Fmbnmjqi/QZ3X+IHuW/XjUkXEz167zSO5hS5jQSdxfE7NKQjorU6a4vIZgykh1l1H44SyYc5MRux5BEGJbscbuGe4MqIgxGPAjb/p3Yq4nvveegJs+XQok4Ho7oQldhMr16/ZL8ryI4fOhzDBvD48ZyKC7CVFCqzk2s84VM2DJhZPB6Tc5F/8NIbw4UkgLORU259QSiTqE+6jMTglJ/ln0c0fsH4+NWoq5p9lqVF66qm6/GVrwstS4CRK5tJUZSUu07H4ntKqsUmdTkjg5tsyknkiyG1pIgiLM1AiR8uBTs+TAanB7pEYufWjS0zYJCXcuV5JTnachDEerYajjJqV9ZQOdf2zQcDhqnSpYt4KDbvgnRJaQBNMNQbiyVSzCUFfnfrjRw50fAVgfPGgfROaaCzQaMja7ER2dmoqlZtwAT4bgrOqm+55FabCuXZoJpn/oi0XDJJHN0iOOaE5BHmzlt6mfjzg/apjRS1u8rDVEuiwV4TLK5JQUhRWN9wB13v2Rl94LRywfV+NlXbWoefkg==;jWjwOIISTdhXbSksdkCNVA=="
 ---

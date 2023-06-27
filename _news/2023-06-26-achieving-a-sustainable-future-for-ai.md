@@ -74,6 +74,22 @@ related:
         width: 1600
         height: 880
         isCached: true
+  - title: "Tech leaders discuss future of AI at Aspen Ideas Festival"
+    excerpt: "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future."
+    publishedDateTime: 2023-06-27T03:23:00Z
+    webUrl: "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo185196101717"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
     excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
     publishedDateTime: 2023-06-26T16:57:00Z

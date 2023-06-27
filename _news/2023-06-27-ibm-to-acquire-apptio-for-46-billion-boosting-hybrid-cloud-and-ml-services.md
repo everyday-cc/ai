@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
 webUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
 type: article
 quality: 68
-heat: 108
+heat: 112
 published: true
 
 provider:

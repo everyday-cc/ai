@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
         width: 1080
         height: 569
+        isCached: true
+  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
+    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
+    publishedDateTime: 2023-06-27T02:06:00Z
+    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
+    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
   - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
     excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
