@@ -54,22 +54,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Startup Kaito Gets $87.5M Valuation in New Funding to Build AI Search Engine for Crypto"
-    excerpt: "Startup Kaito raised $5.5 million in a Series A funding round at a $87.5 million valuation, to build an artificial intelligence (AI) search engine tailored to the crypto industry, the firm told CoinDesk. Crypto firms are increasingly turning to AI ..."
-    publishedDateTime: 2023-06-22T14:42:00Z
-    webUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/"
-    ampWebUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 49
-    images:
-      - url: "https://www.coindesk.com/resizer/GvZgGFK572wMYwv_m0Bwcj_UJYQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EDM67YOGW5FPJMCFFAMZ7BKMPQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "U7VU91f+Xj3LTuucrSSpznmn83Hkg8XfttL8PKIz2TzaW9vKs9gYn7x4WcFRZbi3lnhC8hLmw76waGTX+SPz1mzme8/287+7FRs7eSIJXoROb4L3ej27LmiDSsT1xqvtPv+e3LaspgRhl4msHHKMh9kEf/KXbY7cZFC/Wiu1MExNw4hrleHIAdr0M95cFJiCbqZpNjieShgM0IYdW2FC0lCV5MXj5ElZW75eoCElmTY6EGEQtbTZ4TsshBFFf3n0pmmvSouokZgNuQ+p4i9vpcfhtBT3u3M5ij0J3XEKLO1OC2PjnVMHA4wQbNZPWdswIwnIWzs/1O0bA5eD8kUUWsHOgY3m03zAgA3ndSXaxP5d8fyht9RN2hP2p60uh7F/CKTigMyBVu8eO4tQJglGw4VM9mWgQTxBerXWDpaGz2VIOis5v6ojmjkjxOT6UQXQNuN443aElUKZyI+YtGTDMw/PgW4rjlgtN9o/Jym+eZ9uMw4n0FZpYpEORNrfMJjhJAPzjv2wrUczjEM2VJ6dtA==;nJjQ9XWJA9zsee8HkxkjGg=="
 ---

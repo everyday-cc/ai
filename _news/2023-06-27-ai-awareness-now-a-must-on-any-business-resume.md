@@ -71,22 +71,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Generative AI: The Next Frontier For Business Innovation"
-    excerpt: "Large Language Model (LLM): A type of artificial intelligence (AI) model that is trained on a massive dataset of text and code. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in ..."
-    publishedDateTime: 2023-06-22T14:49:00Z
-    webUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/betsyatkins/2023/06/22/generative-ai-the-next-frontier-for-business-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64945e3789ac7755e98f46c2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 764
-        isCached: true
   - title: "Ready Or Not, Disruptive AI Is Here To Stay"
     excerpt: "AI has the potential to revolutionize many industries and ... These models are able to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. These models have recently burst onto ..."
     publishedDateTime: 2023-06-22T16:38:00Z
@@ -309,6 +293,6 @@ related:
       domain: pennlive.com
     quality: 19
 
-secured: "tX4Zv1cFUILNnTZy5Dd6T1lodedlhBEFuLMH3xCuLpvM5VcCPwsssstCrbfkw0ZQQTvLBjkgalL0xjopZMjOUkndN2ZNG1AENL+gH3A9CHMIrscwrHdY0G1LD++sKK0QvVc3VBawik9LK/y6rTPUP0OyXw8nhKxhp3YF/l/HHetcLHWXA0EuELsPUjh+KxffWkW9MdUbgBEIbAppWmMf9rQ8GaTF3OVDrqeW2RxaujXRZYUJKuyDficW8TOYqW1n8K2XYp038WZVd+D4kC29z1ojnay/Pll88LwbM0Wwyt5Pg2YmVnTkOj+YbpAu9oGTtVokYXG7N5brSdKVqUKOK2Nw8eoK91/vShS9NZzYWM8=;CGbIX0nDx84G1ZY1Y4R54w=="
+secured: "414OH6kWcOTe2Hp61akTcj8lSfQr+kSVOukiXlFYdL3q6Jq78WvtbiwjHgb10pvr+f3jNMWpVXDoqzPHeTxPLO5qOWkQ+trToEpCZtv+cb90hXc0NGnlJhOnbYc5WH8fSnj/t03zlCAW5QNl+Q5Wl4BgMNpUBn2PDnqaj67CJa6pRfnv1rB/8c1JnwnGuZtB6D9eaLaPB/1+JwLrYCHjhU+WUIsTIL3bkF8ddbUB2Vgb5b11rN7Q4jIFIQlColq1Xj8p6X9WpeZS+hBNN2yXykSzCuNUMPTzjrOuYeouiVgy1d7e9qwwWDstY7Rz2ooCzMhsDUoSltEJWVt+w8cqwuH9Kyc7LdRaXui27Dn8JuyXzLqNpoTd4cSIyi0EZbleBI3pp6BmN8qICCrlkosJuzVMTAQSoC8tBfaqYpND1n7RENxaTAoilXjLUVX2WoXF0/OJ7zxzF9jW5lBlG0DGcyCYUe2tMA3HOwrwBLK58sSxcZc6pwMvgvQLwpOEhbYFDD/NbXb70HJuVUFZkCQdtA==;RZ4xU6A9fMTXE3//HGKFaw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-e
 ampWebUrl: "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-26-at-11.07.59-AM.png?resize=1200,818"
@@ -45,6 +46,6 @@ related:
         height: 798
         isCached: true
 
-secured: "otYeEJ1qQjJF/274j54AUQhxdPK/AKik8ellxR8nRSi2KdAIBk1y/U0OHjRfWtGQbdsp2bor1oPptb+OZRAM5jvEDgb/8dhDeNQBuGc2aUt/1wov0R8GNiL4T3sOuZYoV2WHGGzcayGsXNNDeFmo+DUdgGXcJerOqRWy+xT6DzZuESqkWIfLXfsYbs3bGqXxNWg5zn73ttQhp+2p/kYG8sBs6KXCgGvyCPwhAgkwgK76Gunn+FaV8w7tsGXACnKmxUmtUXmVbuhjFHs9s6nKSyvP05ohQ7uNwpkqKEI9+Kytnr980JqsPSi/wr7PqFLNzwtpa7eAEFB2kRH5Lxap/w4uUAGqCa1J8gkBCLTfdwA=;xmWfDY6Sh2TOVUwBsA9vnw=="
+secured: "8NX40Tf09ghbZjLP7vQfN9oYG0HupWkFsyBm5GFZKgbXVhLSpH7fxK9OJt/725IJml6fufN6A4GjpOG93iw/7JGxwPFbBxmHigeXmihVli89wfXVT4AyN1Tj+yX7V+3XNhhh7POuXQndYP+SCnEJrRWAEllvMsxMOM3D9ZJFjcGX2g7pWxXdoamnYLjUEz5qB+Ftnj2leycVjJQnRhjcpJrKWF5N0HzZt1jKqzIYxCMegq0ci2xr4Re68zoEJWjOQJlMlwF5X/6N8OODbAfKPcRZ7/zf3KdK34KHt4TRmInXQwSeb5poupNycyEqYHVAZkkWE+T+YmwnfcL4xP3GoZAwFgwlODWAW8xCOxwCrTYmSoJ+1aXPhhWLmMT5CFm7LP9ioDVKuNg1v5cpqV5fwGkBGAQYbmR2ZxcZ9oHISYefnQoDTZvTuhSU7amxXSe9DqId64cDqxYhxuX8u5jLSWZnDm3L3poNh4xdeX3kI9s8Qqgs0kZE2LctYm5wiM24mgIs3cE5MmYkZg3rZoFDDw==;pp+WidkNhACWq4S2D98dxw=="
 ---
 

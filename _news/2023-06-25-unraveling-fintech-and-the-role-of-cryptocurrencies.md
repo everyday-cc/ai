@@ -51,6 +51,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "“Data is the new oil” is “more true than ever” says fintech investment head at Lloyds"
+    excerpt: "Kirsty Rutter, director of fintech investment at Lloyds Banking Group, says she continues to be excited about data-focused investment opportunities"
+    publishedDateTime: 2023-06-27T04:31:00Z
+    webUrl: "https://www.altfi.com/article/data-is-the-new-oil-is-more-true-than-ever-says-fintech-investment-head-at-lloyds"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 17
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5QPVfhcAYv1bdf2LoH4tYp/64614d0ba84ea23b1cbc84d395caa729/Kirsty_Rutter_LBG.png"
+        width: 3915
+        height: 5482
+        isCached: true
 
 secured: "DvX5hx8VhaVI/L+Q2ZoUYYWd9cWHZ3ZBMLNaZB+3ryuL2SmryuK3/DIEYDYDrPfvqaX0RG6T/Tp6wyfEipC2IW8Sb1WkZUc0YiVBhuxdnLIeBiiTQb3d7410bheYfEMGGxnKGt3DnlZ9b9EPwYVPv62oZ0JJfSc5dB2tlwEBrMnVFVRdGZbvak4jmyOR3lFeEgB6fhyE5dJ9o5AqJkDWXnBF028sfTMVImub4Mb/fWIrV3UOFXJhAovIgz2X+WLJxAJIALokFBMVhPUa1NmUjJ13IMdLh6s8c4t3CgKYzrKRiLnsw/DqmaA5dyofQYVKUxTSTLFreHCe7hYj+70jiRWXIFG1u7KQjRYtF6dh3qc/PXr57avUWL/qIYYGRW8xzIeOfj7YJw5ftGD7xwiH+vpd8wArrKNROm7m53NUrRXAXG2PCGe8n0zvEuOnlHArq4pXnb2H9GnyXGmOHGt5NpNPEbmfrpW0XKZCfMKlU7/CjO99f/Yi1QRYpaCr6qF/YW6Kaq5kIkwY7JGDFmLlwg==;R2MqeSYPw2pMsBKZ6ynMAA=="
 ---

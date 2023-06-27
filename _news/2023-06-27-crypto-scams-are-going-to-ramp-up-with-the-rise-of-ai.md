@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Startup Kaito Gets $87.5M Valuation in New Funding to Build AI Search Engine for Crypto"
-    excerpt: "Startup Kaito raised $5.5 million in a Series A funding round at a $87.5 million valuation, to build an artificial intelligence (AI) search engine tailored to the crypto industry, the firm told CoinDesk. Crypto firms are increasingly turning to AI ..."
-    publishedDateTime: 2023-06-22T14:42:00Z
-    webUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/"
-    ampWebUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 49
-    images:
-      - url: "https://www.coindesk.com/resizer/GvZgGFK572wMYwv_m0Bwcj_UJYQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EDM67YOGW5FPJMCFFAMZ7BKMPQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Embracing the AI Wave: Crypto Explores New Avenues for Blockchain Integration"
     excerpt: "Is the integration of AI and crypto may be the next best thing? Read on to know more about recent developments in the space."
     publishedDateTime: 2023-06-25T20:47:00Z

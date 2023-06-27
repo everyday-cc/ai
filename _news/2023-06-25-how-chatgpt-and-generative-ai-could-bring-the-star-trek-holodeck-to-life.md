@@ -45,6 +45,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
+    excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
+    publishedDateTime: 2023-06-27T06:27:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/deepmind-1.jpg"
+        width: 1286
+        height: 675
+        isCached: true
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
     publishedDateTime: 2023-06-23T18:02:00Z

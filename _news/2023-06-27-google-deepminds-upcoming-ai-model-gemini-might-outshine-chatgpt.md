@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
+    excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
+    publishedDateTime: 2023-06-27T06:27:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-google-deepmind-is-apparently-building-a-chatgpt-killer-ai-bot-3144205/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/deepmind-1.jpg"
+        width: 1286
+        height: 675
+        isCached: true
   - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
     publishedDateTime: 2023-06-25T15:20:00Z
@@ -116,6 +132,6 @@ related:
       domain: cbsnews.com
     quality: 14
 
-secured: "HH8ewzTIcxOuUtuYWXFLx+h4SGfBbPXZC3D6JXaRpxl/f+tozJInzYv/cw8j6Nj3IWBN9Jfz5ogn+qjEOSepBS0OltpShKSHRsxkbyJazl9Fs3w4iYdsuXLApPWi3x1BZC1U7xesppVHsvQxPw1nWQsrXNSbjzU1IADVolZUlHEe8Muitd8yXJQVHiM04emStmvFGk58whaddospNTp6r76lcQx6pAOSwCn3pjKwnCt8YZhqWkwm14NAwbEtVjjnbw2tXuSmXQA0FWijSOrBqYxhZvOJSszEYvlRDLmANpWsgS7W5P/vJ0NUB7WYk6z2GPml6k01GvGLsuzv4M5YE1aQlIc44R9eFzngcKZvZwE=;P5GSrsLja4M1Kx05cFGdIw=="
+secured: "wHN6RJ6OU9s7hj4TTn2CRjCHbf7mbBiu90N7geHiLU/Z4cnIfpWNDpzCIBKnXklufBSr/2GFXS+4AdDk1uAKunLUQH3gy0dE+ZIxv3/ib1rnaa+anO5EDcnFhzIwwarJiVip38vUHHELc5whf43HgXczD5ChBub/Uxt0DtxFPsGpkPmLqNusc1rdvb6bLZ94+2952cANIt6zaOW0bJSyzROGCDkEYfF+MCygSSiiJIV+uZnwkjuQQTBogyHq/SqxzDXknAbPLGBPH4oU8Gl8w6JRjvulDwQasnU8cgDPpx8whdRgVm0TojB7kEJSHl7sey8v8jV5MKGmbbr7QCnyY+LReLtWng2PWRRaGaTCZZDSPI/xaW/3wjXWuXLTLBKEX6Pc5AQDdoNrLaZCkwOkvn77pN8dHMgLjtJCdk4MykHWHvzhfYNjRBpqdDsQFQFTR2VxkeEvjtSh/YDae6m5oPxF6cCueI2zT/RC2U2JXPEibeHGr0uohZDIQnTOB32omcIZl7EHyV3HJOgmjlb6lg==;UVU8brnx0k5RCjJHgG8egg=="
 ---
 

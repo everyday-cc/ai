@@ -45,19 +45,19 @@ related:
         width: 1200
         height: 669
         isCached: true
-  - title: "MosaicML challenges OpenAI with its new open-source language model"
-    excerpt: "The lower cost and smaller size of MPT-30B could make it more attractive to enterprises looking to deploy natural language processing (NLP) models in applications like dialog systems, code completion and text summarization. “MPT-30B adds better ..."
-    publishedDateTime: 2023-06-22T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/"
+  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
+    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/MosaicML.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI Boomerang: Google’s Internal Critic Returns From Rival OpenAI"
     excerpt: "Jacob Devlin, a prominent artificial intelligence researcher who left Google for rival OpenAI in January after complaining internally about how the company trained its Bard AI chatbot software, has returned to his old job,"

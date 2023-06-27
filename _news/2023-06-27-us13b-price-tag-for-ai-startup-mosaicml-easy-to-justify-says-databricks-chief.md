@@ -189,6 +189,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Databricks Acquires MosaicML, a Generative AI Startup, in a $1.3 Billion Deal"
+    excerpt: "Databricks has announced its acquisition of MosaicML, a San Francisco-based generative artificial intelligence startup, for $1.3 billion"
+    publishedDateTime: 2023-06-27T06:57:00Z
+    webUrl: "https://techstory.in/databricks-acquires-mosaicml-a-generative-ai-startup-in-a-1-3-billion-deal/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 34
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/1200x0-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Databricks acquires generative AI startup MosaicML for US$1.3 bil"
     excerpt: "MosaicML is a generative AI platform known for its state-of-the-art MPT (or MosaicML pre-trained transformer) large language models (LLMs). The platform has over 3.3 million downloads of MPT-7B and released MPT-30B, a more powerful version of one of its open-source models on June 22."
     publishedDateTime: 2023-06-26T19:32:00Z

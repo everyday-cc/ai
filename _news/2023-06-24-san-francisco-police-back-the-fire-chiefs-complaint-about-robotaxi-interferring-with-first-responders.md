@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "San Francisco Chief Irked with Robotaxis Tangling with Firefighters"
-    excerpt: "The driverless taxis have blocked streets ... Robotaxi companies have spent enormous sums developing expensive artificial intelligence technology and want a return on investment. Cruise, owned by General Motors, has deep pockets. Waymo, owned by ..."
-    publishedDateTime: 2023-06-22T13:18:00Z
-    webUrl: "https://www.firehouse.com/apparatus/news/53064109/san-francisco-chief-irked-with-robotaxis-tangling-with-firefighters"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 4
   - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
     excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
     publishedDateTime: 2023-06-23T18:07:00Z

@@ -48,15 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "AI Everywhere: 7 AI Stocks to Buy as Adoption Skyrockets"
-    excerpt: "Snowflake’s cloud is built on top of the three dominant cloud infrastructures: AWS, Azure, and Google Cloud. The software is built to leverage these networks, and those three platforms are AI-heavy. Snowflake is heavily focused on this key area ..."
-    publishedDateTime: 2023-06-22T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-everywhere-7-ai-stocks-to-buy-as-adoption-skyrockets-1032404628"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
     excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
     publishedDateTime: 2023-06-26T16:13:00Z

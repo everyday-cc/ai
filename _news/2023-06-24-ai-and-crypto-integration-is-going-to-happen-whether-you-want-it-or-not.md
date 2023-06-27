@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
 webUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg"
         width: 740
         height: 492
-        isCached: true
-  - title: "Startup Kaito Gets $87.5M Valuation in New Funding to Build AI Search Engine for Crypto"
-    excerpt: "Startup Kaito raised $5.5 million in a Series A funding round at a $87.5 million valuation, to build an artificial intelligence (AI) search engine tailored to the crypto industry, the firm told CoinDesk. Crypto firms are increasingly turning to AI ..."
-    publishedDateTime: 2023-06-22T14:42:00Z
-    webUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/"
-    ampWebUrl: "https://www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/06/22/startup-kaito-gets-875m-valuation-in-new-funding-to-build-ai-search-engine-for-crypto/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 49
-    images:
-      - url: "https://www.coindesk.com/resizer/GvZgGFK572wMYwv_m0Bwcj_UJYQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EDM67YOGW5FPJMCFFAMZ7BKMPQ.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Embracing the AI Wave: Crypto Explores New Avenues for Blockchain Integration"
     excerpt: "Is the integration of AI and crypto may be the next best thing? Read on to know more about recent developments in the space."

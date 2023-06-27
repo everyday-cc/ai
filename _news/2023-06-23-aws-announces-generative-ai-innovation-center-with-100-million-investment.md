@@ -371,6 +371,20 @@ related:
         width: 679
         height: 452
         isCached: true
+  - title: "AWS announces generative AI innovation center"
+    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-27T06:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Amazon is spending $100 million to teach cloud customers about AI"
     excerpt: "Amazon.com's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products as the biggest seller of cloud services tries to match Microsoft and Google in the market for so-called generative AI."
     publishedDateTime: 2023-06-23T01:05:00Z

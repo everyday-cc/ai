@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Will AI Really Destroy Humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-    publishedDateTime: 2023-06-27T05:14:00Z
-    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39"
-    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39"
+  - title: "Will artificial intelligence really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence (AI) poses an existential risk to humanity and must be shackled before it is too late. But"
+    publishedDateTime: 2023-06-27T07:51:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: malaymail
+      domain: malaymail.com
     quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg"
-        width: 768
-        height: 511
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/27/125105.JPG?v=1687853100"
+        width: 1000
+        height: 665
         isCached: true
   - title: "When AI bots pose as humans"
     excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
@@ -51,6 +51,20 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Will AI really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/will-ai-really-destroy-humanity"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147750.JPG"
+        width: 1240
+        height: 825
         isCached: true
 
 secured: "Q2wnk7vMCcjWzOlgKTZ9h6H4wbSU3X7gbZz9QMMCGf+KTPVEthhWUOHBxzK1hvPf9+4yFEAl2oqRzXE3W2znspY1E5AuTxmXdXev1IHpeudqTQ2arwhSA5FPcxD6bcXhu9wAGD8P/2unK+/kWlRRAPqU2Vla1K12pc/auoM5Eeth24IPDmF6yraO+dlEKrBY6ChwNwKcH33BBGW1vAwKJSR8nVEvi2EemDiA6NS8OsI0M0825wbM7mWWwUjOcfS2bxJDaKbiAiDm6FDJYuB4avjfb3xW+I66szHLOn96/l4eKc3fz+a75KDwyfQSYIJa1JZuFS3CupocPpkV364Xni7AaHeVzbSPQha1o0A0Yuq4qEmY8kmCOQgVDrLs36Gewv8gu0jh2XKkYq23NQJsjB2h8auxjcEOhdc3NAWLZVUOuoTtMDf68BQhf71RrKXGaxpApWhTUZd+nqu7lY+fYDziJ8/Ga/guLqFyntYmy+6C0NbRRLdBoNrywGpFyWB1dlMdXcF3jTxm7b5Pn5Lfdg==;VWpABsByLgOk62Parvps9A=="

@@ -131,6 +131,20 @@ related:
       name: CRN
       domain: crn.com
     quality: 46
+  - title: "Microsoft Bing Chat set to launch image recognition very soon"
+    excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
+    publishedDateTime: 2023-06-27T07:10:00Z
+    webUrl: "https://www.ibtimes.co.uk/microsoft-bing-chat-set-launch-image-recognition-very-soon-1717116"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 41
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft"
     excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
     publishedDateTime: 2023-06-26T16:47:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/"
 webUrl: "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "What To Expect When You Move Data To The Cloud"
-    excerpt: "Once this data is in one place in the cloud, you can start to think about how to leverage artificial intelligence (AI) and machine learning (ML) tools from leading providers like Amazon Web Services and Microsoft Azure to uncover business insights."
-    publishedDateTime: 2023-06-22T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/22/what-to-expect-when-you-move-data-to-the-cloud/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "oPuUwKCgqkqd1g236ycLj0UPJLYc7fsn44bj2W0jwNjq/UFgYFWlHmj8Xau3HPKGhWfzLJnSDo3gcQ9ySYq2dF6TCM3nrrsIgkHAi5pPmcyX6U/dNsyURTk5RCzkO9Uo10bx23zLZGyu/GUGWkVq7QIRK4BUw3DMDOlkXA7E2IajxNMKW8+wpwmrHrEP0uvQ+nzMyzY3MpbGfiaDjRkeo9vKzX6VYAyDgRMk00AVAxhCmrH7lthelRVrgCIykF/ZB3EEZ0bADm4FLSQ9ukMx/A97kIKa/GjF9yV7pt5RLdNT2dkmAdRbRGOeqZWGZx844ldv54uPrPg/yY//x+bROc5BR67I3wBuf10meSTteX4=;LqWqmrRt+NXc+k7eYPavgw=="
 ---

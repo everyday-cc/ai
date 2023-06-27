@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm
 webUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm-tech-to-power-ai-commentary-for-online-highlights"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Wimbledon teams up with IBM to introduce generative AI video commentary and highlight clips"
+    excerpt: "The All England Club is partnering with tech giant IBM to bring AI-generated audio commentary and captions to the Grand Slam tournament's online highlights videos."
+    publishedDateTime: 2023-06-27T06:06:00Z
+    webUrl: "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips"
+    ampWebUrl: "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 77
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/1200/675/Wimbledon-Championship.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI watch: from Wimbledon to job losses in journalism"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-23T11:54:00Z
