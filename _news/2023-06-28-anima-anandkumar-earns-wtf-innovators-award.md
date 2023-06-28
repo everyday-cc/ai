@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Dr. Fei-Fei Li Earns WTF Innovators Award"
+    excerpt: "QuHarrison Terry presents Dr. Fei-Fei Li, Professor of CS at Stanford, Co-Director at Stanford HAI, and CoFounder/Chair of AI4ALL with the WTF Innovators Award for numerous impactful contributions to the field of AI,"
+    publishedDateTime: 2023-06-28T16:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/28/9841017.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+
 secured: "pBwAKCfnUHThEvzrdr4rMVChX25dDrKwhv8OSDz3bVJXd4gzvbke/i+btU6iSg3QP9b3jlfYkQ7uBag4olGQrLbVZpMU16MIMIs0eFXp5aEJ40v88Aml0RV2Ll8h3GtFwP4ePUgwpWHP6Zuqf4cGLl4xSdSmiRtyGu3nuEZowCdLl2jaUN5UzUaBBj5z0UYP97KWyPeqE790tFoHYXpatEeQh5phLEqtQMweYMYathyhk9cMqeHMQlcsTznkIqdLX3g6Pi9KLUzVqK3niPuNPyi4ep0l5tjga7enUWlGBWS2UMfznmrRk9BiOtf4EdLEHqbcz7UTk5S/3TGT69vlIAGHCrsOOZYmOoad02kayPI=;ekttRBHxh17tNpG30800cw=="
 ---
 

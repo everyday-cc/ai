@@ -170,6 +170,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How artificial intelligence and machine learning are being used by credit unions in 2023"
+    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses, and benefits for credit unions. Because of this maturity and expanded adoption rate, AI/ML is helping to solve highly complex opportunities ..."
+    publishedDateTime: 2023-06-28T17:00:00Z
+    webUrl: "https://www.cuinsight.com/how-artificial-intelligence-and-machine-learning-are-being-used-by-credit-unions-in-2023/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 45
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/01/bigstock-Artificial-Intelligence-ai-419338291.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
     publishedDateTime: 2023-06-27T01:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -249,6 +249,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "AI Powerhouses Clash: DeepMind Unleashes Gemini, a Chatbot to Rival ChatGPT, as Industry Gold Rush Heats Up"
+    excerpt: "By applying reinforcement learning and drawing on their expertise in building complex systems like AlphaGo, the DeepMind team aims to develop a chatbot capable of not only understanding and generating human-like text but also planning and solving problems effectively."
+    publishedDateTime: 2023-06-28T17:32:00Z
+    webUrl: "https://techstory.in/ai-powerhouses-clash-deepmind-unleashes-gemini-a-chatbot-to-rival-chatgpt-as-industry-gold-rush-heats-up/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/Bing-ChatGPT.jpg"
+        width: 850
+        height: 425
         isCached: true
   - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
     excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
+    excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
+    publishedDateTime: 2023-06-27T20:01:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fclarification.png&width=684"
+        width: 684
+        height: 523
+        isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z
@@ -51,20 +65,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "ChatGPT and generative AI: A tax professional's savior or nemesis?"
-    excerpt: "ChatGPT and generative AI are not the answer in and of themselves but are tools to help humans find the answers faster."
-    publishedDateTime: 2023-06-24T00:42:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/chatgpt-and-generative-ai-a-tax-professionals-savior-or-nemesis"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/a28968b/2147483647/strip/true/crop/3543x1860+0+178/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa8%2F0a%2F870a669e49b7a3421d2812b6767d%2F394891899.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z

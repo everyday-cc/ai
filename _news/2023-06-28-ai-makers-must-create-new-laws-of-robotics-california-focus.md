@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-o
 cdnAmpWebUrl: "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "California shouldn’t get in the way of self-driving trucks. Reject Assembly Bill 316."
+    excerpt: "Nevada, Arizona, New Mexico, and Texas have jumped to an early lead in the testing of driverless trucks, and California needs to choose now whether it wants to stay ahead of the curve."
+    publishedDateTime: 2023-06-28T13:00:00Z
+    webUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/"
+    ampWebUrl: "https://www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/california-shouldnt-get-in-the-way-of-self-driving-trucks-reject-assembly-bill-316/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 37
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-L-NEWASSEMBLY-1224-2.jpg?w=1024&h=693"
+        width: 1024
+        height: 692
+        isCached: true
   - title: "Sacramento-based Abstract offers artificial intelligence to track California legislation"
     excerpt: "Sacramento startup Abstract has developed an automated platform that uses artificial intelligence to search and track California legislation, analyze how it could affect businesses and industries, and keep users updated on amendments."
     publishedDateTime: 2023-06-26T11:30:00Z

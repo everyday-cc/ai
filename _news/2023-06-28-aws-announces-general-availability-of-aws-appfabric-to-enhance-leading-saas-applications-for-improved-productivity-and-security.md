@@ -7,7 +7,7 @@ originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availabi
 webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
-    excerpt: "AWS AppFabric quickly connects SaaS applications across an organization so IT and security teams can easily manage and secure applications using a standard schema, and employees can complete everyday tasks faster using generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T19:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rapid7-expands-relationship-with-aws-include-insightidr-support-/2023/06/27/9840156.htm"
+  - title: "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
+    excerpt: "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023"
+    publishedDateTime: 2023-06-28T17:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg"
+        width: 395
+        height: 400
+        isCached: true
+  - title: "Space and Time uses generative AI to enable data analytics in natural language"
+    excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."
+    publishedDateTime: 2023-06-27T04:13:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/space-time-uses-generative-ai-enable-data-analytics-natural-language/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-27_064307840.png"
+        width: 721
+        height: 487
+        isCached: true
+  - title: "Generative AI, ESG to reshape big data and analytics"
+    excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
+    publishedDateTime: 2023-06-27T08:27:00Z
+    webUrl: "https://it-online.co.za/2023/06/27/generative-ai-esg-to-reshape-big-data-and-analytics/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "C6m97BbiqZElT10s2ElZxHLoE2aKA98D08qrP7DpqRPfAUnV26L/KSo6btiCe6xGu/NEiYYg4olE+j7HQuriTeZEWsVVaCNabpvcWiwgdPg3RfGNjktFzQoAzdtkhviL+X6ey7rDbJWcyWUHI7mgO5dKnW6LIKi7rnqDBJScw+FBT2txhipJ/jNP92/opakVPozIj6P+5in5U2moQNmZiCCzoaDtZN+arKnW6zwLVvsjtcUguY4nRgRjJT6f1qUWOrAydSROFlvxjlC/jKW8Aqb0fy5bzF03o1lTOs0nW0uyWks8T2+tgRHJ1GumK7dsQSheznE/TcICIh2viKBKuL6bvLVm46MNhm8TCDYYuVw=;82jnhIw3HRUhsYLQ7KLHnA=="
 ---

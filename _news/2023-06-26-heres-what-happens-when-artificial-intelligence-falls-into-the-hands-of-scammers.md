@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happe
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/?outputType=amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Dallas Morning News
@@ -41,6 +41,20 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2023/06/AI-art-small-5bf1532.jpg?quality=90&resize=960,413"
         width: 960
         height: 413
+        isCached: true
+  - title: "The first half of 2023 has been all about AI"
+    excerpt: "The first half of 2023 has been a wild ride for the tech industry — from Microsoft’s battle to acquire Activision Blizzard to"
+    publishedDateTime: 2023-06-28T15:11:00Z
+    webUrl: "https://www.aol.com/finance/first-half-2023-ai-151156673.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/.b6ZMJib.7OdXuwiScYJmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/41d44d03bf006d93fccd08e3803832d5"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "UJVjxQ2FYWdvabCFTRlVW5f0AwrwJni3HQ5pL0PVLBYUUp7BWpW24+MdsaWbhqmnnt+QjsI4ifEQmI2NvWQMgVQDXPZ1fht+XDofjH3lvqO1Z/Dd5tblte06pR/BjyxmWGH3lWa5G8a0WQmAT2RbL8sLOQUjb6Ht0DvCaGx/vQtrS94F8w8ynWr355Jr+vy6TWOoCzcBBRqHbuG9wO/12gxoqH6np35+Fyoev8+wgbpHVMyGLNNqOglW4c3xQ3oEnxXdqOoQqS6tiBbVB+40BwDNWLgU7Dkb8Xt0vB5lxHzEbj8wOo9NcAV3coK49R/GPeGW4eoefrxyi5WiLut61HzYGDrjsXM2s/94R5WUXRG55H7Xuf5X+oubFvNNfB+ze2GLj4Zi4Tc6ieAM476WDk7sN7491VVgBQjNEMTgtGNA2si7mbrxH8K2IFY0y7qAymTDq2x9ysJkBhjXR3KgSM6vrzrgozinPSYO1Juf1ISeJ4Ce5g0Sq2y1An/8xu69nG2OLngCpENaYKmyl2ANcg==;fyEddcLr5PDbV354pcWqYQ=="

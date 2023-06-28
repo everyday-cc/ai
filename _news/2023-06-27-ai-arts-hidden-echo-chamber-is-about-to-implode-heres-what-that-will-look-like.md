@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The first half of 2023 has been all about AI"
+    excerpt: "The first half of 2023 has been a wild ride for the tech industry — from Microsoft’s battle to acquire Activision Blizzard to"
+    publishedDateTime: 2023-06-28T15:11:00Z
+    webUrl: "https://www.aol.com/finance/first-half-2023-ai-151156673.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/.b6ZMJib.7OdXuwiScYJmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/41d44d03bf006d93fccd08e3803832d5"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5EzC8RnP7imed/8YpUPVusM0edp4YuPDTwQCnZYdzQqhYw/51CBEBKxx83dI7KSfP/w8Z3hHTL0n2i/JbNRUMVAm5cv1vkNvB2PidcOaoItkaceLv8iTbLsoLz/NdpydeG5nG4cpC/hiWVBTrmQwbEWVL36ztS5lxa87k0/0Qe85KcGmOxRRgw5KHqkq0q5OiwObzUOguCh+jHwyvr+6wMw7crJFlNgUVuo4TEIKH8IDDAuZOQAGt/Kc5ygYXQaVl8HCpkPaINud14nisUICOLJUi2gMAbyGo5soxaFj3bdDW3C+J28SvluPLtzrFqzRh+cky9LqQNGjNEaIAh2Wm/mdW9GTPh/VtfzCvsY6Kmk=;cjjq4vJ/Efd2Vi3GUZR9DQ=="
 ---

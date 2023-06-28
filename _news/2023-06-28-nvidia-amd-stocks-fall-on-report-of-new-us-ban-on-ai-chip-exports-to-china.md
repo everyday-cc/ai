@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 381
+heat: 391
 published: true
 
 provider:
@@ -312,6 +312,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "US Considers More Restrictions on AI Chips to China"
+    excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
+    publishedDateTime: 2023-06-28T17:33:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/06/us-considers-more-restrictions-on-ai-chips-to-china.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
+        width: 1024
+        height: 718
         isCached: true
   - title: "Nvidia and AMD shares fall as US considers tightening restrictions on AI chip exports to China"
     excerpt: "The Wall Street Journal reports that Washington is considering tightening its export controls on AI chips to China as a means of preventing US companies' top"

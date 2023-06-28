@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
 type: article
 quality: 76
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT World Canada
@@ -28,6 +28,64 @@ images:
     isCached: true
 
 related:
+  - title: "AWS invests $100 million in Generative AI Innovation Center"
+    excerpt: "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first."
+    publishedDateTime: 2023-06-28T16:52:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Safe image generation and diffusion models with Amazon AI content moderation services"
+    excerpt: "Generative AI technology is improving rapidly, and it’s now possible to generate text and images based on text input. Stable Diffusion is a text-to-image model that empowers you to create photorealistic applications. You can easily generate images from text using Stable Diffusion models through Amazon"
+    publishedDateTime: 2023-06-28T16:08:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/safe-image-generation-and-diffusion-models-with-amazon-ai-content-moderation-services/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
+        width: 1023
+        height: 513
+        isCached: true
+  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
+    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
+    publishedDateTime: 2023-06-26T15:02:00Z
+    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
+    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
+    publishedDateTime: 2023-06-24T18:01:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
     publishedDateTime: 2023-06-26T04:46:00Z

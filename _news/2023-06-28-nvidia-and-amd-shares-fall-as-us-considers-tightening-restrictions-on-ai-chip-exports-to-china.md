@@ -321,6 +321,20 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "US Considers More Restrictions on AI Chips to China"
+    excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
+    publishedDateTime: 2023-06-28T17:33:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/06/us-considers-more-restrictions-on-ai-chips-to-china.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
     publishedDateTime: 2023-06-26T09:52:00Z

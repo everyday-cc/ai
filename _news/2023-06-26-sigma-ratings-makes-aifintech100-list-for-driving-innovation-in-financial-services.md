@@ -19,40 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
+  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
+    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
+    publishedDateTime: 2023-06-26T09:43:00Z
+    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 15
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Artificial Intelligence Poses Threat to Patient Privacy"
-    excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
-    publishedDateTime: 2023-06-27T12:38:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/artificial-intelligence-poses-threat-to-patient-privacy/"
+  - title: "What today’s banks need from commercial lending technology and fintech vendors"
+    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
+    publishedDateTime: 2023-06-27T15:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
     type: article
     provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 19
-  - title: "Using AI to unlock magical creative possibilities"
-    excerpt: "There’s a new trend in Hollywood to use artificial intelligence to de-age actors. Jenny Priestley talks to Metaphysic, one of the leading innovators, whose technology is being used on Tom Hanks’ lates"
-    publishedDateTime: 2023-06-28T08:24:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlock-magical-creative-possibilities"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 19
+      name: Finextra
+      domain: finextra.com
+    quality: 15
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---

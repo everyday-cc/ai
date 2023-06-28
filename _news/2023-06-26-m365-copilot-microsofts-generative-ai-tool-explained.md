@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 662
         isCached: true
+  - title: "Microsoft is already offering a generative AI certification program"
+    excerpt: "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce."
+    publishedDateTime: 2023-06-28T16:36:00Z
+    webUrl: "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 106
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Develop Microsoft Azure skills with 30 Days to Learn It"
     excerpt: " The Microsoft Cloud Skills Challenge 30 Days to Learn It program is aimed at helping individuals develop proficiency in the most in-demand skills in the tech industry, such as learning the Microsoft Azure platform. The program offers various learning journeys designed for participants with different"
     publishedDateTime: 2023-06-26T16:00:00Z
@@ -132,6 +148,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
         width: 933
         height: 520
+        isCached: true
+  - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
+    excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
+    publishedDateTime: 2023-06-27T11:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/logic-apps-custom-code/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 52
+    images:
+      - url: "https://res.infoq.com/news/2023/06/logic-apps-custom-code/en/headerimage/generatedHeaderImage-1687712825387.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Education helps to create AI-powered learning experiences"
     excerpt: "Microsoft Education is collaborating with several organisations to create AI-powered experiences that save time for educators and improve learning experiences. For example, Microsoft is working with New York City Public Schools in the USA to support students and teachers with generative AI tools such as a chatbot that provides personalised IT support."

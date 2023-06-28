@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -160,6 +160,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "How artificial intelligence and machine learning are being used by credit unions in 2023"
+    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses, and benefits for credit unions. Because of this maturity and expanded adoption rate, AI/ML is helping to solve highly complex opportunities ..."
+    publishedDateTime: 2023-06-28T17:00:00Z
+    webUrl: "https://www.cuinsight.com/how-artificial-intelligence-and-machine-learning-are-being-used-by-credit-unions-in-2023/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 45
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/01/bigstock-Artificial-Intelligence-ai-419338291.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z

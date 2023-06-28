@@ -7,7 +7,7 @@ originalUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlo
 webUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlock-magical-creative-possibilities"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,42 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Artificial Intelligence Poses Threat to Patient Privacy"
-    excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
-    publishedDateTime: 2023-06-27T12:38:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/artificial-intelligence-poses-threat-to-patient-privacy/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 19
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "m3fnbu7hMxRtJ9KcuTsoEcz0TsYVh1FNria7ihJ64ZFszNWz9H74+lAbxblKPiELZ/G00+i9cE/qZBRZSI1vaGc7qHyYFZOlvWku80WzyIWLXu/8RNfqGqXeQYubM2L2Z2qlPg/ifI70vzATgs8zEENQEV/SvwrrkrvThc5DpDj8y2v7ZPpDSm2qJ9FW+9zTjKOcI6HvxfpBwHdXg0zF8APFkVobIQOzQ4EOFg9wuBu3KC1x4Mrdk1yOCoLX46XVr/JyuAIVGTTv9Z20cUePemRsPdoBb+zmF6gNH5wk/IHWDzHuI4qwYONKv+IMueqKsPjWbXyZpB+CdGSTubK7tv1kD8EdLaoO28vNEYSyZ0s=;Uf8l3i2oA2VNjngijV5o+A=="
 ---

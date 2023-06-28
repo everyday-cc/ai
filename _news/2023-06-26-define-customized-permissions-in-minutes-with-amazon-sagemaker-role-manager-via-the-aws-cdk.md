@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Capture public health insights more quickly with no-code machine learning using Amazon SageMaker Canvas"
+    excerpt: "Public health organizations have a wealth of data about different types of diseases, health trends, and risk factors. Their staff has long used statistical models and regression analyses to make important decisions such as targeting populations with the highest risk factors for a disease with therapeutics,"
+    publishedDateTime: 2023-06-28T16:12:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/capture-public-health-insights-more-quickly-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/21/ml-14481-image005-945x630.png"
+        width: 945
+        height: 630
+        isCached: true
   - title: "How Earth.com and Provectus implemented their MLOps Infrastructure with Amazon SageMaker"
     excerpt: "This blog post is co-written with Marat Adayev and Dmitrii Evstiukhin from Provectus. When machine learning (ML) models are deployed into production and employed to drive business decisions, the challenge often lies in the operation and management of multiple models. Machine Learning Operations (MLOps)"
     publishedDateTime: 2023-06-27T16:26:06Z

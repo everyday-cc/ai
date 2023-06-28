@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-cl
 ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200"
@@ -280,6 +281,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "UrqQmU0aWlzbV3xyeE5dboNJ4uEkP+W+mUhCA9f/dQ12H47HX+VbMNtIquWCY70gdA0V8kNiIpuAuZ29wFdWmnkUuLbpCBDPoI0OlA7jHthSK4Nl0UQZY64L8WZ2B0kpUWUDc8CkLPh6OysloLi977tXmpW6/bVFqFUimnH+TTGY3kFa32eFCyhktADv/OqyOKaV2qBzyjJzmniHD62GBH9TEb5aLmL+BFFOObmmgkLa6Qj6d3RBPrk3USOddbeha0DT9eZZ8pPdSrwGiSDwBggY6OR3pu03Zqsi82p6+HloD6zLNNjGqn62EW1roMl7YFFhTOblWScRHwkTAR2ySNMjqb/ynu80wLLaAjEbACc=;1ZBfJRp66hZtmPckyU5IXg=="
+secured: "E5bRQVBbuOyxB54xDngQkvk75zUsacICTM6r0ZbEjBedmikooD9zEuMULor9D+V8i1s09uucjknvKZmGJocCbAI6Nxu+IeupBMLRFnRSH9YD2x5hTGcgSPgALGMeu4bOSym+CKmA4aDrehLyRGVqPx6DcKt39xYeQ8B/bu5yKKc80klNaI/hQFsBoJF9bCZCqD9LjeCbLAplEp10PxvaMpuILybgTSMy23qwdVzcxQsWAEYJ+ysZegesaeHhmwElvcgwpIbqaHv7ot/BhoDr3T3xiWpz3MYlSAcFlMxk7u5ohpcZeKsBpaGQ5zCHO7kwrtzvCR5u+ePWH776Lp8p3MHUwexDGVrfuwswJSBNY2qnwipG4k2d+ET1vS5100dfMpJWP6aMMVQ0MMXUvrL2fMfLOWpu2CgQwKE1DOTI6CvqRkiRPiftLYXv+JGm+bWzd8xApvPm6vCb4bkouXb4bXU5DHWlASIZfNC9XuFwQUpWwZQswbBgG/ZicTzVFHJA68XZW/U/omveLuxijNCGZw==;JC6C3maDpJTUMfSZCMtVOA=="
 ---
 

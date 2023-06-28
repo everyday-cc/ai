@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 346
+heat: 366
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is already offering a generative AI certification program"
+    excerpt: "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce."
+    publishedDateTime: 2023-06-28T16:36:00Z
+    webUrl: "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 106
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Develop Microsoft Azure skills with 30 Days to Learn It"
     excerpt: " The Microsoft Cloud Skills Challenge 30 Days to Learn It program is aimed at helping individuals develop proficiency in the most in-demand skills in the tech industry, such as learning the Microsoft Azure platform. The program offers various learning journeys designed for participants with different"
     publishedDateTime: 2023-06-26T16:00:00Z
@@ -137,6 +153,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
         width: 933
         height: 520
+        isCached: true
+  - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
+    excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
+    publishedDateTime: 2023-06-27T11:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/logic-apps-custom-code/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 52
+    images:
+      - url: "https://res.infoq.com/news/2023/06/logic-apps-custom-code/en/headerimage/generatedHeaderImage-1687712825387.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Education helps to create AI-powered learning experiences"
     excerpt: "Microsoft Education is collaborating with several organisations to create AI-powered experiences that save time for educators and improve learning experiences. For example, Microsoft is working with New York City Public Schools in the USA to support students and teachers with generative AI tools such as a chatbot that provides personalised IT support."
@@ -303,6 +333,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "CUhdJ511PmlpOnyM5E+mENY361nqa+x0m6XOhvEQn4RPGHaBWsfbq0elQdZ61fhLQoeKUGeFet2L+fMm8Mc9QkkFRigZhCBMVd2pv8tQD+km7Unp9OcznSuNvXuYjMcWw2HlN7t//ySZNNrqXqHO+dL7LD0Gn7mPyUp3Flhzh0imyNSsCViLOKN29I8MHvn48wZuYGTBZ37TuSjN9SiPK3qxc4pANomyNQzRIhyWjAMNQZUJ9r35AP1HbFNVJ6jMxGmLLcLdSMPRqD10uN2YHJIlHS6oJm8qYkT6GzA84WN5mSB7sbrXMccc5bGMEREEHrfWfWSyaKmU24dbMKdguj9iu6ScxpHBmRhLxlp/CiM=;W0xqyROc+g3gRiGn47D82w=="
+secured: "X4HMZVutK7obJj3MxaopqjjjjQ78udd8GRhOpKjtjMEtA3zCe0DhCsHxd1R2mM1ei0V2DYkPX66KXAFsLJzpOo5zzw2gNvKP/Mzs7u8bwB5WENEhTDr4KElf4FiXFDT7um4Lvxj1QLbfcYXsEoyzY9qpUb9WtKRkL23mXvLhhUV/rfWdb4u8u3fpj2kyy5DCZ/bzdH609yMQRHtnpI8P0b6iaWDpVVSizDP49RNi5SEmHUgLLHPrhU1QAQ17eOkjfBrDW6x5AAaC6Q0B6MTi3OagV35LpuOqtJTKxYipd9A8SSSj4ily3Kqmi0ciredOKBmI4rV1e8i1clCBvmUEQy8bnP0089ZY/l0k6RZOKfRXSwyTXdLgzPAYlR9bMWAYbhh30gohu3ZS462ma88A+69IMeecUw1zgewLx4AojplXiCbUd84EaZ+X8QKCFZsBL+hrVbQ2qYXZ0lXj2uSipaNF3PUA/va4k+aybGLVHZ+8UeOParecsj5XwJHNn6GBX3mSLvvymDDuEeDxwQRSHw==;gQR9/Riw1nRiV9BjrGN1oA=="
 ---
 

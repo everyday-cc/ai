@@ -19,40 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Using AI to unlock magical creative possibilities"
-    excerpt: "There’s a new trend in Hollywood to use artificial intelligence to de-age actors. Jenny Priestley talks to Metaphysic, one of the leading innovators, whose technology is being used on Tom Hanks’ lates"
-    publishedDateTime: 2023-06-28T08:24:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlock-magical-creative-possibilities"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 19
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+  - title: "Tenable Integrates AI-Fueled Identity Security into Exposure Management Platform"
+    excerpt: "Tenable ®, the Exposure Management company, today announced the addition of several new identity-aware features that harness the power of artificial intelligence (AI) and machine learning to provide a unified view of all user identities and entitlement risks,"
+    publishedDateTime: 2023-06-27T13:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839673.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 13
+    quality: 31
 
 secured: "vIX2UH+h/d8WOIzQUfRiBGsnNsQGcKpsiTRXqMp9u8CoGjl1+6/nfPm7u0gDuc/dAWbizhrrpY5IKRtkk5fuHiysH0qN3/hwFfjDtVVdLlQARpCXZaozgfDfxqdP5achX9+/LWAbTUDnkP6qjyF67bwCmOgDgUoZABmnmAjmCu3QHh31OJR68XfcyibCbKAYOiUgrmzlOMJBr03PFeLjN4TyOkHT7np/SKLDVt49CYrybFAjilBvbEe6yZEqkzzQGgGfJ+cuKnlhEjLuso3yQCaGSOKXjdouoXpQV6NRJ2TDjJWRV0YUv2JTbSGd38pEv53lAhpi9XqvEMpjJgAd1Lvc9WEFdwGM6D9bHabuO6Q=;90LjQpnVGeKwGkZoyemnKw=="
 ---

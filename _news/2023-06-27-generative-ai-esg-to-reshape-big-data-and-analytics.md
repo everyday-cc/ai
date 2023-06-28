@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
-    excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
-    publishedDateTime: 2023-06-26T15:39:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+  - title: "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
+    excerpt: "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023"
+    publishedDateTime: 2023-06-28T17:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg"
+        width: 395
+        height: 400
+        isCached: true
+  - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
+    excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
+    publishedDateTime: 2023-06-27T17:05:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Space and Time uses generative AI to enable data analytics in natural language"
     excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."

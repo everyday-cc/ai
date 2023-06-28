@@ -1,31 +1,30 @@
 ---
 category: news
-title: "How should a robot explore the moon? A simple question shows the limits of current AI systems"
-excerpt: "Rapid progress in artificial intelligence (AI) has spurred some leading voices in the field to call for a research pause, raise the possibility of AI-driven human extinction, and even ask for government regulation."
-publishedDateTime: 2023-06-28T14:25:00Z
-originalUrl: "https://techxplore.com/news/2023-06-robot-explore-moon-simple-limits.html"
-webUrl: "https://techxplore.com/news/2023-06-robot-explore-moon-simple-limits.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-robot-explore-moon-simple-limits.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-robot-explore-moon-simple-limits.amp"
+title: "How should a robot explore the Moon? A simple question shows the limits of current AI systems"
+excerpt: "To be useful in high-stakes situations, AI needs to understand cause and effect – and the limits of its knowledge."
+publishedDateTime: 2023-06-28T03:14:00Z
+originalUrl: "https://theconversation.com/how-should-a-robot-explore-the-moon-a-simple-question-shows-the-limits-of-current-ai-systems-199180"
+webUrl: "https://theconversation.com/how-should-a-robot-explore-the-moon-a-simple-question-shows-the-limits-of-current-ai-systems-199180"
 type: article
-quality: 63
-heat: 63
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/how-should-a-robot-exp.jpg"
+  - url: "https://images.theconversation.com/files/534227/original/file-20230627-21-19eu48.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C2880%2C1440&q=45&auto=format&w=1356&h=668&fit=crop"
     width: 1356
     height: 668
     isCached: true
 
-secured: "RyEMzEEUoeJu89LdthmQbqV0aXUEdy+z5vc9NldDoEx+JnATnBS13Q27/G2oGwCGCxXqcY0J5nBBwHq45yneszghsAvlDRD+mRROKIbrqQBAWOj07gWkyZbb6i9U6a1gRwxSoz7f0j3Q7NODua/owV/5F2/yMfz3AO6OTHhDyp9VNrBpN11EHGagdrSpe7BYhnRsKqizInzZZclfTYRb4rSpE/uinsJgpggnqguMsV0U94BsiOwaKEqlRBpwpgmMh8gEYaBj36EKOw/V51LQXtk6J2GUr1Sz4XZv/V7PiAIScl8dDK7PrRtqBd6KOC6l7feKuXZGnSpUbVNiwfb7URHobj/Mz7bwmAZUmSWXThU=;LUd1RRq2EuZrpIvwKQ2xhw=="
+secured: "d1mBtbCLARMp9LZ4lLjgXUM7dju98/v+7rQ5SwYRpw3mih/bPPB09+01GPv5X4ujYB2A9uNN38mI/Khtoj446tPehnag6lDIPI2J5+Gz6VQ0RP7G6+acKtbxW5Mry4KdQwtOos+NtioOZEdqBSqM/oz62mTdX/wAPmleydBVz4qYOovm12BByP6mPO3Y+XpHyUJXyZU7KLt32wecnsZHkyMpuaJ3Bji7nzRRb4//9Zy2jJHxhY52EqvUOYSBwC+AsD3WzXuCpup16eGlhLAEU65SCh457CZE/NKRy6S31q0RbkomVnwjNp4bgTIhIvMJBz5Q+mbazia2i1YfU+LR4vhTEF6QOtIvmSLND6KV1hs=;sJTTUcx3QdwGh3TmvCHOMg=="
 ---
 

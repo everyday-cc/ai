@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acqu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/"
 type: article
 quality: 89
-heat: 309
+heat: 339
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large-100917188-large-100921746-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Databricks Unveils Lakehouse AI - A Platform For Building Generative AI Models"
+    excerpt: "With the new Lakehouse AI, Databricks aims to unify the data and AI platform, enabling organizations to accelerate their generative AI journey."
+    publishedDateTime: 2023-06-28T16:04:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 544
         isCached: true
   - title: "Databricks' $1.3 billion buy of AI startup MosaicML is a battle for the database's future"
     excerpt: "On Monday, Databricks, a ten-year-old software maker based in San Francisco, announced it would acquire MosaicML, a three-year-old San Francisco-based startup focused on taking AI beyond the lab, for $1.3 billion."
@@ -90,6 +106,20 @@ related:
       - url: "https://images.wsj.net/im-806103/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Databricks continues generative AI push, launches LakehouseIQ, Lakehouse AI tools"
+    excerpt: "Databricks debuted LakehouseIQ for conversational querying of data and new Lakehouse AI tools to help enterprises build generative AI."
+    publishedDateTime: 2023-06-28T15:52:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/databricks-continues-generative-ai-push-launches-lakehouseiq-and-more/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/unnamed-e1687967517506.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
     excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
@@ -237,6 +267,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 31
+  - title: "Databricks adds federation, generative AI front end and development tools to its lakehouse"
+    excerpt: "Databricks Inc. is joining the generative AI parade today with a query engine that lets users ask questions and get contextually relevant answers in natural language. LakehouseIQ is integrated with the company’s Unity Catalog governance platform to ensure adherence to internal security and governance rules."
+    publishedDateTime: 2023-06-28T15:59:00Z
+    webUrl: "https://siliconangle.com/2023/06/28/databricks-adds-federation-generative-ai-front-end-development-tools-lakehouse/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/alighodsi-dataaisummit2023-1.png"
+        width: 2758
+        height: 1672
+        isCached: true
   - title: "Databricks acquires generative AI startup MosaicML for US$1.3 bil"
     excerpt: "MosaicML is a generative AI platform known for its state-of-the-art MPT (or MosaicML pre-trained transformer) large language models (LLMs). The platform has over 3.3 million downloads of MPT-7B and released MPT-30B, a more powerful version of one of its open-source models on June 22."
     publishedDateTime: 2023-06-26T19:32:00Z
