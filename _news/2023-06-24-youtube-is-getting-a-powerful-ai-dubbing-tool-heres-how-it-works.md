@@ -148,20 +148,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
-  - title: "YouTube is testing Aloud, an AI-powered multilingual dubbing tool"
-    excerpt: "YouTube announced the integration of an AI-powered dubbing tool at VidCon 2023 Foreign-language movies and TV shows have grown in popularity over the last few years. This prompted streaming platforms like Netflix to focus more on multilingual content."
-    publishedDateTime: 2023-06-23T05:41:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/youtube-is-adding-ai-powered-dubbing-tool/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l9320230623104651.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
     publishedDateTime: 2023-06-27T01:01:00Z

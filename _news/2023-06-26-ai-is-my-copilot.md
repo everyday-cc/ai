@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "When The AI Is More Compassionate Than The Doctor"
+    excerpt: "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion."
+    publishedDateTime: 2023-06-27T23:44:00Z
+    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/"
+    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1273
+        height: 900
+        isCached: true
 
 secured: "jj04u7kBVY3xIhGhJaU6gfx6pIsQQOEQ2R8VQSj3X/F3PM+o4QDDh1DM/VMADavfpvtSBHvjaRbPtQrzeibqjcnPagefIJe2G2KGKzZf8mp8M5IkamxlfWIKHzAhYhpuc5v0oGQD8GOD8Mijwwo4iSIuFr9YbkUNyfM6bonSk4ofToHVR6CIyQ05GwnZMrAg5ak9ecTZ7CE+g64qOQpojVd8SEYbfBRp3ia8VMNYwtS2rEl+vkMJ96Hkv+7bWWoDRRnZH+ubLfYoIvqa+Q2TzFburGGfO4Ss8Idnx/RzyWbAFKR793aZeQAyT3upA6kuSRA7asLvTVHrO+IfE3QUTl4lutkz3pNPiYBr4mK5rT5pOjJLs7YRkCkKUnb387Qit4qNt1yR64nS0VoZBwctEG7banxtIMAMRGRMqOUtYWZqKKjNtnKdDpBevUBSmAI9Me/yR+5LlptX7Zr4Nmu9WL1KvcUaEj5p11LkhWBhFhaKwKIZm8MLGL11G26kmpaNzv1oyQ+ijnQICx1+uVN07Q==;y4FQyNe7+fzOoc43iYx55g=="
 ---

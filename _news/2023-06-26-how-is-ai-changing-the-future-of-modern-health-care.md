@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-mode
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -43,15 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Rapid transformation. Artificial Intelligence in Indian healthcare: A promising future with challenges"
-    excerpt: "Artificial intelligence (AI) is rapidly transforming the healthcare industry in India, bringing unprecedented tools for diagnosis, treatment and patient care. AI expenditure in India is expected to reach $11.78 billion by 2025 and add $1 trillion to India ..."
-    publishedDateTime: 2023-06-27T11:49:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/science/artificial-intelligence-in-indian-healthcare-a-promising-future-with-challenges/article67015361.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 18
 
 secured: "BovNxxMyGkC/tDKflcLNA3m0jqQPbj0dwbSrowHRwOeZImu0sucIaM80yOuKjBiRNAukv79SQsKr9jqM5p0Flt+984xn+HhJjFvBpPJqLziD+x9zwm2kjmWh7g4tjMCKIu4IL2Rd7D7TpSxnNnno8HCOS2AURXygYl95M8Pmpgw6GcwPe5OWe34Uw/lrTLqaVEjJEaGoqiI2yT5B22jiY1kCcLhNvuN69Tp/XO1M6WNKeed6Djxdn8Lfrdm/NxwkMjO3BocIC+Olj3zj5gHwNRtz81JJBQrrRD1gQtwwIkb4KtMBRu7v/OxmKFhzzt18NUU0qBAPke9teC+9s0efinGOpacBWP26jFb+s7WpRG7vU0JNVa63zdxIAtjZAuWyLBis9RMMnjS+zbZrbEnvR507hYodpe5tKkv9mfRS65op70pxCyk6+S3Er1fNzUIFTG65k5Su6MNv/wPtry+MkVwNT3+7hiQg7shGZwwtw28UWRYFzwF+0XGjfWXJP1V2FfSQOEI9ixZrQVtj7VE0YQ==;Aiit5joSvhGMdD95tSs2WQ=="
 ---

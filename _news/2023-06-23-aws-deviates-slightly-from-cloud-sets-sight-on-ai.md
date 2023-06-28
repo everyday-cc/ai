@@ -80,20 +80,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Amazon is spending $100m to teach cloud customers about AI"
-    excerpt: "Amazon has denied its generative AI tools were rushed or incomplete and said the technology is ready for customers to test and provide feedback."
-    publishedDateTime: 2023-06-23T05:20:00Z
-    webUrl: "https://www.moneyweb.co.za/news/ai/amazon-is-spending-100m-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 39
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/06/399523647-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Amazon is spending $100 million to teach cloud customers about AI"
     excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
     publishedDateTime: 2023-06-26T13:00:00Z

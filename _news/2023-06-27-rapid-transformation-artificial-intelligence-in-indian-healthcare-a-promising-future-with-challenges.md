@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "How Is AI Changing the Future of Modern Health Care?"
-    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
-    publishedDateTime: 2023-06-26T16:24:00Z
-    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
-    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
+  - title: "CloudMedx builds LLMs To Solve the Five Biggest Challenges for AI in Healthcare"
+    excerpt: "The CloudMedx platform has been adopted by major healthcare organizations, and is quickly adding new functionality SUNNYVALE, Calif., June 27, 2023 /PRNewswire/ -- While numerous industries are rapidl"
+    publishedDateTime: 2023-06-27T20:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33034356/cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33034356"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33034356"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "‘The future is bleak’: how AI concerns are shaping graduate’s career choices"
-    excerpt: "From illustration to translation, young people worry that they will have to choose their paths carefully"
-    publishedDateTime: 2023-06-27T14:31:00Z
-    webUrl: "https://www.theguardian.com/money/2023/jun/27/the-future-is-bleak-how-ai-concerns-are-shaping-graduates-career-choices"
-    ampWebUrl: "https://amp.theguardian.com/money/2023/jun/27/the-future-is-bleak-how-ai-concerns-are-shaping-graduates-career-choices"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/money/2023/jun/27/the-future-is-bleak-how-ai-concerns-are-shaping-graduates-career-choices"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/f3940fa5e7768453d33d5640c8a3ff70b87c21bd/0_129_3000_1801/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=0507d1c1a034ac49514f24ea12b2a95e"
-        width: 620
-        height: 372
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "1+cbj2eEW3as307b6+sjuOH0PLicBPsf79AwnzhxCPw5YKSVMLJd/GXgX+FRD5kiBX0CJYbmai9LJ7Mq2ItBVxyw0DiSar7+iaXjMyHwKGQtx79SELP8HuZzyaokc2/GW/z4SV+Wi3RDGzWJccHCUt9Q/Q2sOozng6ZFKXG9sO1svKf7NJ2MJPGWlLFk0bZnl3MdDZCAjKu4Skj9qxgnvMSugexbu1jKB58rpLo610jvzAAoRTwQF39yDqFIWsT9AZ567U7EFSwAhiAe9rW+yLv+x5yzhnfh+06IZMFe33FYnhO+NmFjkdJnQskfsG2ECBlPZ+KZ6Klka4OAxOrp1Cyn5zXNgb1pJf1G29cJw+4=;x7c/jxxQwsUuzF9GiwMDAg=="

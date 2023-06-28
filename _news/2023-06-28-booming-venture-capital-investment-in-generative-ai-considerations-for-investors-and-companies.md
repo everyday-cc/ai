@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 880
         isCached: true
+  - title: "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support"
+    excerpt: "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ..."
+    publishedDateTime: 2023-06-27T16:17:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
     excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
     publishedDateTime: 2023-06-26T16:57:00Z
@@ -223,6 +239,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 34
+  - title: "Quantitative Investment Management Firm Versor Investments Launches Machine Learning-Based Global Equity Strategy"
+    excerpt: "Versor Investments, a quantitative investment firm focused on liquid alternatives, announced today the launch of the Versor Equity Prism Strategy to outside investors. The strategy, which the firm started incubating with partner capital in January of 2022,"
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quantitative-investment-management-firm-versor-investments-launches-machine-learning-based-global-equity-strategy-1032412347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "t8cwQ00lpa/p4WhsC8WCsKl8Y/jx8pQHLy7d9zrA3pmvuzDlHFH4u0bAhY+yu7Hi9/fio1WutyRbgFHRyudIObCH5oH5oGGT0bqL4H5/qJnAVvWA4K7DhY5kertUcmyhSkBwuu8/LSVV3/HFH6Ez6vjedUTtEzxfk7PDcQCs5+I/IlL0qI7YFveG78iMpF7cyswJn34yyAVr3DcpLXRkMSZxjtRltFv7i5V11pPNXnVguet26WcekQwIOeYkCrDib/O4PtNitTY5tCPK2IBtaDA93Ok5vz7mgEXtMPRckWsx/EaHQCOJSCNQUbJoUBCNQdXvT7/hBegUq6kvL9JS2jF1ucqtx0Lxn/9nkPJiOxE=;E3tNNMmSOnwsCH+TGIdxdw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 264
+heat: 265
 published: true
 
 provider:

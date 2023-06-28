@@ -7,7 +7,7 @@ originalUrl: "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-set
 webUrl: "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

@@ -7,8 +7,8 @@ originalUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
 webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Financial Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and the Curse of the Machine Gods"
-    excerpt: "Sometime back in 2008 I was having a conversation with an FBI agent. This is not something I would normally care to do, but in this case it was a family"
-    publishedDateTime: 2023-06-23T05:37:00Z
-    webUrl: "https://www.counterpunch.org/2023/06/23/artificial-intelligence-and-the-curse-of-the-machine-gods/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 37
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2023/06/gertruda-valaseviciute-xMObPS6V_gY-unsplash-680x453.jpg"
-        width: 680
-        height: 453
-        isCached: true
   - title: "China Looking to Become Artificial Intelligence Global Leader, Report Says"
     excerpt: "The United States leads China in innovative national security technology and industrial might, but Beijing is rushing ahead in areas like artificial intelligence, where it feels it can be a global leader in the next decade,"
     publishedDateTime: 2023-06-26T20:49:00Z

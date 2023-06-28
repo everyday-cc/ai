@@ -38,20 +38,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Artificial Intelligence and the Curse of the Machine Gods"
-    excerpt: "Sometime back in 2008 I was having a conversation with an FBI agent. This is not something I would normally care to do, but in this case it was a family"
-    publishedDateTime: 2023-06-23T05:37:00Z
-    webUrl: "https://www.counterpunch.org/2023/06/23/artificial-intelligence-and-the-curse-of-the-machine-gods/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 37
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2023/06/gertruda-valaseviciute-xMObPS6V_gY-unsplash-680x453.jpg"
-        width: 680
-        height: 453
-        isCached: true
 
 secured: "muTqbGP6zJJVdpt7TTfdb+3HwCpzhiO8yj4OaoNggpnwvKxRIn2fI3GvZu9q2+zPnXxQALlpWGHENOe1DaS4JZKGADd0R7OmktpgAh8TIgRAjqYOq4vDMtzJaS9MhFWyv1LarpM9nCt8xbn477wLNzErRUfkBII/HHjJOoFRtMUkSNouejVtZarSCTddeld3HKsr3108wlm6EfD7Eufg4TxfiJDQM4TPw/8TFu9wSu7U2s8RTDFMpXREuLvMlHk9OaP16w0mawQzX6e3Ni7L6R0+EJ7oajJOH60VMKuwzIimtRRwLXMc0djQJWQ9a7qR6Qolz7MYI9SvsGknPlKh1bFSTwcqWCDzMKtXyIE+r/c=;SSBm9qWcx3oIq5Z2u5KYXw=="
 ---

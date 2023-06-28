@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Reka emerges from stealth to build custom AI models for the enterprise"
+    excerpt: "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round."
+    publishedDateTime: 2023-06-27T23:29:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
     excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
@@ -92,6 +108,6 @@ related:
         height: 500
         isCached: true
 
-secured: "T0QgCKpx6wT3WSCDSmc9UFqimSXbbgxik4KzJ8iXj+0z3T96pMDaCVMOkG9XBD4FCp6Z1hxLDKL85UEylGGJnlF3xak0EDe+XnuX3Ur8fX6Hf0/7Gib6rF8IKJptbIWod+fAeNyerLKhvidPw8YwAIhm0Tnw5avBFRZsMqgxVigw31aBAI7Jj+XB5771TwZSmWi9oof1crTZkMR2kHuRMkKiGXmJYhdWUNaq/W4n049dFXdMjD1O/vgMf/O2B/9goQ0fiPdDEbE4srRNnBr6r3YSDV5OmdKhKoo9sY8OuPlaCEqdZD3TgKm7CQa7fw9HgaotjsrZ9WxnuFoKzrRSJPCJ73h3lUIcrOl8Wreyjyw=;P78Q0ovRmFYaXobG57uYzw=="
+secured: "UGztIPPvreTpql9cXD6jCcNbHcSEoKWvrvKeIW2hQikda+XbLOKa2Vm9rGnRAldy7NOw3w/cyHbajLu/vFWXOmzLJb69Hru6zNHiJTDmeHycW6m3eFNmvPhaGGjFL1nD+1DNH/I79KIkw8blP7l6NgNjQvcA9KGJBFMzISbACnEr2JvBLIN/imywjFeIOT+F+qKhTnytw6TJU2z7SLaROt451LoFzdmXdqlqQsr+RRR4ArGJNorZViHT3FvhXuQYgv6InGdUPW/PWt6qJbFqINT6xgnB8Me1WY1Kc8ChFezFpfFA1y/ZtBcDDfMu40uKWl0k2BNSnd1z56LMEOEAzt29OzGYdWHK+cZggRQ+q5SLQJid67g8rLX8UZTSm9SiKdRHRIyQG+3bsa6FAxFwzv99V//2ko6ksaqm35Ra3Ia/aL9UYi83mCUcpYhF/7UFemLm2lHdsah//fKBBvoO7UcFdeINeXNRtcsXducm5+6MbDmfnGVJqJPfXFU0XY209iufUGcWfqBNSnDUVH9ehg==;VaekHDQBw/vILADqMFaKmQ=="
 ---
 

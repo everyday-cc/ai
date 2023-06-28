@@ -539,6 +539,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
+      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
+      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
+      "publishedDateTime": "2023-06-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-can-ai-make-airspace-security-smarter.md",
       "title": "Can AI Make Airspace Security Smarter?",
       "excerpt": "The impact of AI on keeping our airspace safe is determined by how well it is designed and what it has been trained on.",
@@ -1386,49 +1429,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-hitpaw-video-object-remover-v120-released-with-enhanced-features-for-seamless-object-removal-and-enhanced-user-experience.md",
-      "title": "Hitpaw Video Object Remover V1.2.0 Released With Enhanced Features For Seamless Object Removal And Enhanced User Experience",
-      "excerpt": "HitPaw, a leading software technology company, has announced the release of its latest version of the Video Object Remover – the hitpaw video object remover v1.2.0 . This upgraded version comes with enhanced features that make the application more efficient and reliable.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
-      "originalUrl": "https://menafn.com/1106408183/Hitpaw-Video-Object-Remover-V120-Released-With-Enhanced-Features-For-Seamless-Object-Removal-And-Enhanced-User-Experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/07/SN_a453eimage_story.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

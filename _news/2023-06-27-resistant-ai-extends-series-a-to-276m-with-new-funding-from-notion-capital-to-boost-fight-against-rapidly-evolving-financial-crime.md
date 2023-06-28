@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/fundraising-news/resistant-ai-extends
 webUrl: "https://financialit.net/news/fundraising-news/resistant-ai-extends-series-276m-new-funding-notion-capital-boost-fight"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1366
     height: 768
     isCached: true
+
+related:
+  - title: "Resistant AI Extends Series A to $28M"
+    excerpt: "Resistant AI, an AI and machine learning security provider for the financial services sector, has expanded its Series A funding"
+    publishedDateTime: 2023-06-27T15:46:00Z
+    webUrl: "https://www.corporatecomplianceinsights.com/resistant-ai-funding/"
+    type: article
+    provider:
+      name: corporatecomplianceinsights.com
+      domain: corporatecomplianceinsights.com
+    quality: 39
+    images:
+      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2023/06/resistant-funding.jpg"
+        width: 1200
+        height: 629
+        isCached: true
 
 secured: "A01difjp6h2QdO4BS3pBJkweAEAdCtaV6F7Z3eZx1CbtJCSlMpL20/dehERHqkNU4SVWv+BaWd3IX9PuDo8GJoMUQtMMJvs4cVy7lYELr2T5QtjXoettNmdjJ+agP5A9429aI92QZ7gu1WfWInDtY1B3fZW8WO8NHAPOReM/z7kFds2Rt9r6T6PGj4IYeuV+2Y+8JUG1ovQryf0MN/k2Qnuvd5fEPlFsaEkL/D75vCHoJmmjKu2M2ZTZjHB2jwx2UTxG84IOFGrHXLeUvezdDLipJ96XV0Kycs8UoDlh2dBh0rMvRJmyfUlre1da9IHqP0fjS0xIUUIp5LpfmCqeEbR4O3DNMCxEP1XKU0m28tDErWA38+I0PpnP2FSpmOK6imneuAw4OtqS27L0xOBhM0hRxrqnps8UpeLcs83Rs9DWvY1h24Kr/lRiQFOLmhTlTzGYPTrDl/vhclIaGih8KyZHjuqt3mekd40BIK+WCq4OHZwbM5KVI/VLEAZtWfGDIhhojYTrT/fwRxxSKkVD1Q==;I9B1Y/HCOMWuJZAyJcRFZQ=="
 ---

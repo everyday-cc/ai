@@ -20,6 +20,19 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "Congress, before tackling AI, save local journalism | Opinion"
+    excerpt: "Pass the Journalism Competition and Preservation Act that would allow news outlets to collectively negotiate content deals with tech platforms."
+    publishedDateTime: 2023-06-26T22:11:00Z
+    webUrl: "https://www.theolympian.com/opinion/op-ed/article276767946.html"
+    ampWebUrl: "https://amp.theolympian.com/opinion/op-ed/article276767946.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/opinion/op-ed/article276767946.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 39
+
 secured: "89jdBY0crn7Br8w41hgqRkffYYQLQa7P0HNRUBYz+vRcbFFoHr2g0ypjicLaafQjf2qTsO3/AjB2JM/gpxjdNS9FjL+cFXBBYnpa31ema0diwe0OkIQFvyLLWTNPrNg3YdmACS1hhtFaxyfjr9sbVE3rBwovQZ5lF7QD8BJREpLSqWJflxIZ+BHhkQq58CRVqA2eLIF4O3wabDlcIX7kvCg0++oy91fwWqsSglgH1W7rP52sP0fTQ4q/3eBGwJfRClyMVf8ehENujjdNVyemzz6AEkDcywKPx0ezm+MIr1Q0MraTe1Fb67mhbCazaq/osAC5k28v/Rvw5Bo83xbzVFevOAqbToO/G87P2ghy8JUbaJDxAucknbLrkZtDFXXa5mCxXN3WUvUWHqx9o2TMo2g9UiWXYX7MxhUIKIigy8/kp7cZSGE8Q0lVSgWb3XsUd+Uf4w6L9SYT/2kQ/QrPLrVUKXFUVBHfccWoqReCTQ/lFfXVK7SSHlISB+1cyBIfkiGjHc6RSmM5im5UrOr9Ig==;G93pHGN/OJLkPyeN3PjmSw=="
 ---
 

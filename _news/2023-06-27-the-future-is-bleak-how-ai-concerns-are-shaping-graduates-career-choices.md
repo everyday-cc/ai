@@ -46,15 +46,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Rapid transformation. Artificial Intelligence in Indian healthcare: A promising future with challenges"
-    excerpt: "Artificial intelligence (AI) is rapidly transforming the healthcare industry in India, bringing unprecedented tools for diagnosis, treatment and patient care. AI expenditure in India is expected to reach $11.78 billion by 2025 and add $1 trillion to India ..."
-    publishedDateTime: 2023-06-27T11:49:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/science/artificial-intelligence-in-indian-healthcare-a-promising-future-with-challenges/article67015361.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 18
 
 secured: "hagJm3C8+3ifORFvnuj8ljH349iuOxj99rQ7qX+7CqpB8a4KnxVkJUQnMgo/NGMyzolu9GBzStB/JI9t/h9DnO1RFAHcUzuqs920E0i7FabFu42hbdRoeSZGZXIi3HdcPae3/NJwfMoMDOIbh1uAWeNZO4o3PkcS9+1a1AjquPmcMuJoN9rBnMjHskqXABFQATCTQKVtC5L+i7T0GAoEnu+8sVf5gGmtKsdSV9z9lofgxeAVT6wsI5YCCXMPPtA9063inGnSWpwPvq8H53c5N8KIQkhyuZ7UwVVj9VAHR15xFZuAzf6XjpCALcBi+NMIi42tiobj4aBi2sG0+Zdzufcz351SkIjmlRlNWdG9D8E=;ScJjeC/RccTtsMd1ps1Ndw=="
 ---

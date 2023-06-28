@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-28-how-ai-and-web3-id-tech-can-defeat-deepfake-frauds.md",
+      "title": "How AI And Web3 ID Tech Can Defeat Deepfake Frauds",
+      "excerpt": "As exciting as this technology is, it’s brought with it a rise in frauds and deepfake duplicate accounts looking to steal our identities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649473a86aba405b693cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/",
+      "publishedDateTime": "2023-06-27T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
+      "title": "AI is catching on with API developers",
+      "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/01/shutterstock_1850095465-100936239-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
+      "publishedDateTime": "2023-06-27T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-us-considers-new-curbs-on-ai-chip-exports-to-china.md",
+      "title": "U.S. Considers New Curbs on AI Chip Exports to China",
+      "excerpt": "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon-development and hacking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb",
+      "originalUrl": "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-808160/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare.md",
+      "title": "CloudMedx builds LLMs To Solve the Five Biggest Challenges for AI in Healthcare",
+      "excerpt": "The CloudMedx platform has been adopted by major healthcare organizations, and is quickly adding new functionality SUNNYVALE, Calif., June 27, 2023 /PRNewswire/ -- While numerous industries are rapidl",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33034356/cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33034356/cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33034356",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33034356",
+      "publishedDateTime": "2023-06-27T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-this-new-product-will-change-how-nonprofits-think-about-ai.md",
       "title": "This New Product Will Change How Nonprofits Think About AI",
       "excerpt": "CareerVillage announced the launch of Coach, its new generative AI tool making great career resources available to everyone.",
@@ -163,7 +360,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -810,6 +1007,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services.md",
+      "title": "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services",
+      "excerpt": "Integration of Azure OpenAI Service extends Indico Data's enterprise large language model ('LLM') capabilities and enables insurance carriers to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-singapore-startup-attracts-high-profile-backers-for-ai-monocle.md",
       "title": "Singapore Startup Attracts High-Profile Backers for AI Monocle",
       "excerpt": "Brilliant Labs, the designer of an AI-powered mixed-reality gadget, has pulled in investors including Oculus co-founder Brendan Iribe, Siri co-founder Adam Cheyer, and Eric Migicovsky, the founder of Pebble,",
@@ -1003,238 +1243,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-elon-musk-says-self-driving-technology-is-profound-but-not-as-big-a-deal-as-the-human-like-ai-that-may-emerge-in-the-future.md",
-      "title": "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future",
-      "excerpt": "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/649ab231867d960019d9282d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp",
-      "publishedDateTime": "2023-06-27T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-meet-the-humans-trying-to-keep-us-safe-from-ai.md",
-      "title": "Meet the Humans Trying to Keep Us Safe From AI",
-      "excerpt": "As artificial intelligence explodes, the field is expanding beyond the usual suspects—and the usual motivations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/",
-      "originalUrl": "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/649a32b16279e3647284462c/191:100/w_1280,c_limit/Women-GenAI-RC_FINAL.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-will-ai-really-destroy-humanity.md",
-      "title": "Will AI Really Destroy Humanity?",
-      "excerpt": "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39",
-      "originalUrl": "https://www.barrons.com/news/will-ai-really-destroy-humanity-66d76d39",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1109542201478670185476628571251987291100---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-66d76d39",
-      "publishedDateTime": "2023-06-27T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-journeying-towards-a-two-person-delivery-network-digital-twin.md",
-      "title": "Journeying towards a ‘two-person delivery network’ digital twin",
-      "excerpt": "Optimizing and improving the supply chain to support a positive customer experience is a priority for any retailer.\nThe post Journeying towards a ‘two-person delivery network’ digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-techman-robots-cobot-features-ai-technology-vision-system.md",
-      "title": "Techman Robot's Cobot Features AI Technology, Vision System",
-      "excerpt": "Techman Robot has announced the launch of its TM AI Cobot TM25S, a 25-kg payload cobot that joins the TM AI Cobot S Series, designed for a wide range of industrial applications. With a reach of over 190 cm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system",
-      "originalUrl": "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/0723-mms-product-techmanrobot.jpg;maxWidth=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Machine Shop",
-        "domain": "mmsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

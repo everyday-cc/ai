@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MongoDB ‘Loves Developers’ At MongoDB.local NYC"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event."
+    publishedDateTime: 2023-06-27T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 898
+        isCached: true
 
 secured: "NksAnx2LDTKPoHNC3OMvHkCNHEdObP5rrvKCoRD26vyL+ts53QbAzSuEyO+iBhqyR8fn/ujmYOK5Wys/7UZRCE71I5WoREdEGngXHDCLxKPdHGpaU6OgTkW8BWAtvTLuPNgcoXc2jNc8qOi2JEWs/LD/06F+DeBogGGhXizFhGpSPXPFUc4JMhkDkXfi6pdPsEgfnCZq/MfTH7wljX+aQJMpGpVIQg+U7q9OgGbFwYG3qmWH/jCaDYxbPX/0WIHwe9GqoWRzIC9dVOWFKidneZP2DE9NiHPK4I+dszpf6drGkHcOQLN1fjGW2+eTk2JQN7eYAYkP7Gk/m7vky3Kxd8MQTrN6AV98ciGNUGd/YoE=;rxViGRELN3JFh+pjLvn4tw=="
 ---

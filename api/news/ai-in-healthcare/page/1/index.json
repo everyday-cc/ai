@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-28-cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare.md",
+      "title": "CloudMedx builds LLMs To Solve the Five Biggest Challenges for AI in Healthcare",
+      "excerpt": "The CloudMedx platform has been adopted by major healthcare organizations, and is quickly adding new functionality SUNNYVALE, Calif., June 27, 2023 /PRNewswire/ -- While numerous industries are rapidl",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33034356/cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33034356/cloudmedx-builds-llms-to-solve-the-five-biggest-challenges-for-ai-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33034356",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33034356",
+      "publishedDateTime": "2023-06-27T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-the-transformative-impact-of-artificial-intelligence-in-medical-tech.md",
       "title": "The Transformative Impact Of Artificial Intelligence In Medical Tech",
       "excerpt": "While potentially impeding progress, government regulations play a crucial role in protecting patients and society.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -147,49 +190,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-is-ai-changing-the-future-of-modern-health-care.md",
-      "title": "How Is AI Changing the Future of Modern Health Care?",
-      "excerpt": "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care",
-      "originalUrl": "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true",
-      "publishedDateTime": "2023-06-26T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -244,7 +244,7 @@
       "originalUrl": "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {

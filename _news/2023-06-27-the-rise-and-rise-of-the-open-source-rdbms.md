@@ -5,9 +5,11 @@ excerpt: "Open-source database engines have overtaken proprietary systems in pop
 publishedDateTime: 2023-06-27T13:00:00Z
 originalUrl: "https://www.theregister.com/2023/06/27/open_source_rdbms_momentum/"
 webUrl: "https://www.theregister.com/2023/06/27/open_source_rdbms_momentum/"
+ampWebUrl: "https://www.theregister.com/AMP/2023/06/27/open_source_rdbms_momentum/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/06/27/open_source_rdbms_momentum/"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "oCRovQi0Jq6Q9bp4t2lQEyjGIqTNs2ONQQZFRVnMpbnUhqhQMFAxbQj1lyINAgIFANdBriCq3zqLkP3wz97k1Xd4NefamEyQ8sEYo/bOkEzDMH3aqZHMxBPL0D+yuuEIs0fB8sJu/Fjro8rLGhl3XvOCC0NJnM5rfvj3W5tjehUo0n9EIGF5qKp9y0V20H8vtrovUYm+7ZkC8z+eZSFyvFQ1txZFYIiJ+++X2h0ig0V753pADLiS2fycTRaoVA+usgIa4myQagou9aT292n4IK0rvHDz6++L3yQ+EXSQwmX8YP3UuLf1iEmMCw6FpCR1ZNWs3h5UQShV8kMfSqbG4nHj5//ZM+WzCLi0UJ6Lskk=;6cZFCqFXj0iWwgaq8n4NSg=="
+images:
+  - url: "https://regmedia.co.uk/2021/07/08/shutterstock_open_source.jpg"
+    width: 1300
+    height: 650
+    isCached: true
+
+secured: "m3s7zAbrpIhD41dDkjGo//ysp/m6WI4Gaeo8P9wTukLbVSceqiYNMQVozKc3H+cEvtHV/Zect2JyvjBWhYB8pJvARxcvGgp6kv/m5dBQt80H/yXh7Ekn9WilVv5gxPkM12GezByUS0Spmc9zDQc2yPTZJSpT9cJ6UJ7JuVP8Dh3mxzJBf/CB86asf4g8vefUnSlfL/2jIYndvUH9fBp4jpIVCFEGizWz6c6IVUfbQ5IcALaBYXzRm0Q+/w6j3MeVUhOBfzfsEYmmWaiTDU0hCQgMsDeGu+TIGlRbpAIU3fpENYg7hVlXcwgDIc9EurTstWaDEg3V93oxYe19R32HOLdaqMBL9DrIWKKxju14g8s=;q+B/ru111SkZCWBo9AN+Zg=="
 ---
 

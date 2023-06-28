@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-26-five-ai-gadgets-making-the-most-of-machine-learning.md",
-      "title": "Five AI gadgets making the most of machine learning",
-      "excerpt": "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa",
-      "originalUrl": "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
       "title": "AI: Will it help humanity or doom it?",
       "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
@@ -1401,6 +1357,58 @@
         "name": "The Financial Times",
         "domain": "ft.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-prediction-this-ai-stock-could-be-worth-1-trillion-by-2027.md",
+      "title": "Prediction: This AI Stock Could Be Worth $1 Trillion by 2027",
+      "excerpt": "The company granted the research community access to its Large Language Model Meta AI (LLaMA) in February ... market development and spokeswoman for Facebook and sister to Meta Platforms CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/02/prediction-this-ai-stock-could-be-worth-1-trillion/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/02/prediction-this-ai-stock-could-be-worth-1-trillion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/734413/person-recording-video-on-a-smartphone.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

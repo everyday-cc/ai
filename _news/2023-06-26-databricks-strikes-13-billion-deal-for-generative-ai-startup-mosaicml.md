@@ -3,8 +3,8 @@ category: news
 title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
 excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
 publishedDateTime: 2023-06-26T10:40:00Z
-originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=djemVentureCapitalPro&tpl=vc"
-webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=djemVentureCapitalPro&tpl=vc"
+originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=vc&mod=hp_lead_pos2"
+webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=vc&mod=hp_lead_pos2"
 type: article
 quality: 67
 heat: -1
@@ -268,6 +268,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "8hnXYXWJmBTfjAFAsWsCl6FlESj00Kl/RvlgUsXYY9Z5cJ3y4No4kcR126UY160hUvqIaBfJeQqmCqUzfdn5XWi/2FIm1m2kwlqo8Hjc2dqokxEqTDwjnbzDJ8JXZnjk5s1V8sDO7NENCY3rv6XyWOBTmpc+lmSTWWjCgn+Km+zt7M4sLWIPwuGqcX4QXBMH8d1cG3dwIhflolpgX5hPe5egKvjTuqJBBEWsLICsIQuodML4pe1zwfkwKJ9X/RWiU5LOaxMll8im9l0CHH1QfuwIBoj69XeBLYmmJZdIKKmJsjwtO6S2nLeWbBtzWSKN0Va4kIoOMAlCfgNofKg07/swViWDIkzX5FdEZp5CK/Zhz5yqt/6qfrI2bF77njzp5mx9kXWgevZcwe1QLSgcQgkjA2dxbvyJvAb8LKiCPp+q6H6RX3dBFy06/kIxqzH2oplqQdjSX5JHz4zPC4Vzl+WUIpTy2SmVhKctUWCkum9b2AHNzmvl25yek6TuEcHZZlptRcmq7mvoBgSzFzappQ==;OR07LG0Ug2v39s4Qg6h9xA=="
+secured: "HJQaGUsownRyVGzyYdF89LrtGSBDzKYL2cyZ83D9AKpWdrpKQlGyUhaSZVuz9aDzK/YvY0gGm1rU5WVsFoQrowErwrnWTgxSSjW8v5bf+iIUiUsTljepWYC829CvcAPLeUwCM6M5CxVeZflZDddiLRfMfbz4+1iYtvNJqDxGrwEGz7qUi9c3FqLqZZHqpdm6xuVBDOw4Q/0mF4EY5qmsI7nz/GpOCtD5yoHr38Qt5Zsgq2hMS4URPajxk13OKXvlzk+1kg32Vsi2Jap/HC+XptF5DmCPO+auULzDxvr0Ci56D7I6mCymI1TW/pKTuM8VREmnQtxEaWd/8/BWKYMrvn3LduejByQcBF8lbHPwwy4=;rCfyBHOJFGt09GI8imY7lg=="
 ---
 

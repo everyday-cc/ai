@@ -58,6 +58,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
+    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
+    publishedDateTime: 2023-06-27T23:23:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 61
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Achieving a sustainable future for AI"
     excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
     publishedDateTime: 2023-06-26T16:51:00Z
@@ -111,6 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "mrtsmHsqHuk9VAQf6rpN6oI24u5r5/jhub1yR1mNUJNdY8dFGigiz9Dd2Tk1InvVVJJy11Wyvty3BggbdHCmr89WNHfsnfhfW3vqAhM5Uc8nJ/aX8zVGbltkfh67mMM6CTlOvH06By/pfR2HTs+E/uj9DaS5VYipvgtKOEsCwxN1BZGAHSckLv2D+gG941RsViO2YYWiHgFHwZdpoBWeEDP0vt+HdelAbJR8E3alr7k7e7PFDEWqWQnPPPaDaLvmAXSKkrnm/ApMDL3AZZpfpnb9plyUfSunGTaiZeiTzuR+MtLsQphgkMXIHq2FzPTpL/rees5ePHOIpcMwaR5AqosM2SYO1TJHN+6MR+f+73Tf5pdBn6SSMzJVhkUlexnS8S4zDY9M1a8end+TxOCYCbSk64iwQrAed2uhero0fr85KeMkiGpNu168dvx15CE11jf9hIpm49GWtztmaGRXyyNw2eBdoSYlkXDs8xjWSHJd+h/6/EP0JnIlbRrHiFLzg9uZPlulk0vx7F4H0zyVtg==;zhY5BKXCDzIc2iqfEBF67w=="
 ---

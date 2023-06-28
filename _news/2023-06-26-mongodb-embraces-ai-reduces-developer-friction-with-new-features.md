@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embrac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/e1f3b2050f61238595de2449c3501e9161f73f0c/2023/06/26/a1a9ef9c-51e1-472c-8d00-50976872ae9a/mark-porter-hero.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "MongoDB ‘Loves Developers’ At MongoDB.local NYC"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event."
+    publishedDateTime: 2023-06-27T23:48:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 898
         isCached: true
 
 secured: "CDWsVGRdtkSREHP+TPWNhzr6iunBYQ0wM3jt6mck1eOZ7CEdAlEfcTDF8s2LtWF8As7/rZl5Z2OUo/+I2dCeYxEJKm9ANvlsddQnEl5JgLDRl0y9kFpNixJHAK+gml2EnY1kBCR/tDP7JstmjGqIEihdeW1ldVRotTGRsyN3zwqmcJDyGX0VHCufY0lKz45c8HaJtjoyC2Rq0mSoq8gjU6Hq2FqjR2bQjprhXCLXGmdjfqjix8AioeI0RFjr1qdhbwjtbSI4mhG/tvJHhhTTeE44AO2kYPgTo/3cEpIFqrNldXc7pFN3EKlppI653oX+4OLGJ9p9IszkU0uDQ/zScUQHmgibIMhZjeaov51lGal7k4KU0UYpffKP0BJGA+kVdXKOsgZhBVhldWBVQpZLqbzcmVTyTkGufWU4yeOD2+gIXBEVnKVblW4rRK/kqqpuyRUBiiHfWkIvoJTZcun6/gUEpvrERO1QQAZ8yAcJFO1AOMG+NJoiJpqOd09WY0YQ7Ut7rns37oyVOCia1dXZOg==;6WjsPjSoM2wfFIuzd+5QZw=="

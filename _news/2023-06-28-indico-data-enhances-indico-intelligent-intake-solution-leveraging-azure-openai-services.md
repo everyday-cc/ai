@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
+        isCached: true
 
 secured: "OeY1H0Y6GLmew6qWg8Y8c/RRXcTPengR9lifzocvF0vvaGT3ajuqThYUHz1e3EQpv4/1EtneViwQlJG0h1vpOGZ1ODRhNxyG+WsQyXUP/xPiGdlzFj3maAw7zKC4Pt+yeLMfDnUMuF3YhvkTS09rkTb4UMt5U3zDTqTdHXW0x2MsUPGYVhRBwV4yVIv8F+dDrR+rB09aZeMRa0gZx7C5pdR1xJSntsQ2TqXa5SF2zJt7uEaD8ajmbDM8ZgYKsxexLkG1xopFWU6jjPwsJEtZ1jP0nR+gIChu5RT5oC2+vSdWHREGmuoS72EW9cBDOViP5v2NyBmSFMrnMjrAVbyYNFwyOj1mjcRCWnPgsleRdezfQNEc6qY30w8rRTXANAZzXTgTcszAah/pNtC3xs245f6/Z0fFUY1XsaYhKgs6eEo4HUjqij+nuoA0Y/tjN1Gj6qzIYZdfzcccY4qflEJKDVuJlWBZS5FNCdSFXuTTJzejRh5XXjP1r3FHAmD1ATXRu6zXqwpHdiz5bFePMMJQMA==;vzaR7zcLVDC8Ujb64TEctQ=="
 ---

@@ -24,56 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
+  - title: "How AI And Web3 ID Tech Can Defeat Deepfake Frauds"
+    excerpt: "As exciting as this technology is, it’s brought with it a rise in frauds and deepfake duplicate accounts looking to steal our identities."
+    publishedDateTime: 2023-06-27T22:28:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649473a86aba405b693cb265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
-    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
-    publishedDateTime: 2023-06-24T07:19:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 33
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Artificial Intelligence Poses Threat to Patient Privacy"
-    excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
-    publishedDateTime: 2023-06-27T12:38:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/artificial-intelligence-poses-threat-to-patient-privacy/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 19
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "54PKj+/536nPVQgWQWtCCFQvGMmyBW9nXrqw03H0CncjkBL1u0tLaWumu4e8ZJ5ZeuMQh9k722vW5haKuuEXOXtJZMsnAjD3Qqxkb1lMwoJKt/uV3V8JlQnr+dsRBfcM76+ERatwXwQwqMc+wAsZju2vDzWG2e89Fgq6KbKNdqVd18zGZNtUMYz8xWIU8BX0aEg4xT3wG7dZMLxdDshRra0xmQjGKHC7++9SVjdRMaMjYYZMmZkmdzgkMuZ9GpKNhZjx63u4QO0CyK6NTUjvOlaEKCdpEJ0IgF0sJKjkCONkWsnDbZ5+u3NeiKV/xHKo1LzwGLch9k+x/QwgllvR72hX1mayreKhSX4/FgH4Bmsb+GdNXIQulJP4po1J7WuwKwXN4Qd39BGMvsqZBv7V6Hl7fxkPytpBPQLYcY10qqC3ttYjkKv1Ppg4YZoVMGMc2ELWsN8q8BAsek3QSrUSzAmd5S3sAxj+PQiodTJqtr91PPuLhe3u2FJo/TkU8svZSGOQ5Uh+AxGAV9vLZvUSAw==;p9rt7tpORyQx02+vX8OK+g=="
 ---

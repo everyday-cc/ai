@@ -72,6 +72,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
+    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
+    publishedDateTime: 2023-06-27T23:23:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 61
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
+        width: 800
+        height: 600
+        isCached: true
   - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
     excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
     publishedDateTime: 2023-06-23T18:38:00Z
@@ -109,6 +125,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "lGxM0AXQ70Sjz7I7ZEsBV9K6VqLzoZvrMTdsjx+LfDYMKJZlBfgMUXSB87hjHo27SgL0vSlB5NAlPMLv/L1hvKFhw2xaOCdKSJkYGie8W1JewulCBy1WsCaAThzI5BpY9+NewuXP8v7hxdNdQfez8zkHxjiMrGJbFXco64q/syyTqPQrvWVrwPuFwZUp6cE8pdlmwank9vZzhvhE9rN0kcKk6RN4FaZoR8VzyfozY1SZQ7Ay0pvGMbZyKmJ2W2BEFPXctOynMYxvMMM8pqXKTRE4iOlNOxw2tqdW62vPr8H5mP5491eoYgWFHiVqQEVPxjuzfhjBhnC7xnAK1IE4skIOrJITtawkEABeakxJdpqhgGk+KY1Qo0y6J/DSP9Fckn29DDXC5ouHnPck/zLfawTpu6WMHfpffL3MrFqFmW2N4/2QZJWh9SIvBsJ8xASKPvfRFUmWVW2v3LXyBNtSvYfZb/87C8a8SmcFFPFz2DX5yE3RSKp8GW5kgsnIONQG7tQddEn9oJl05gnTXWdpPA==;tgLBc9baUERFq0ZHhdCH/A=="
 ---

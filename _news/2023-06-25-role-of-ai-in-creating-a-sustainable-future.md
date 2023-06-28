@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
+    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
+    publishedDateTime: 2023-06-27T23:23:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 61
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
+        width: 800
+        height: 600
         isCached: true
   - title: "Achieving a sustainable future for AI"
     excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
@@ -114,6 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "f+O9BPjVCUfe1TyLwymRhoWb4suH959t8uIECGQF18Mm6DIWeF09OSAEfG4ijm02IBH8gDChrwXrXlRRLSGqc5lhmxRb6sWdFpxXZRTN+aSKcH8GDa7qXJ9MmGQ3XLqMlgf2RhzxRTZb6d06YEoeyi7CzCwjbu+g9LZ/5upBFbmFUT7gXZiKOHzdNGWS3UBaxbKwK6ksTszd9zSWvbPDRk4Oo1R5r7xSFz542uRldCAbfW2uHMregoy9PxeG7gPJx25Adny/0lzBYgap+dBsmUIpO+rd9jQYSOchERkrwaJiDPVMnx5eAdt+XdU095Z/8ej2jPIkIh50LiB1ZwyaSGzrAFg+JiJ2tv+TDo7dNFUBjZzdwWoqr6zmhDFzK6OMWdkVOg132fCH527pA9HsEyxU/XJZJz2Cu09cdNA4JPKjXEVvY6vjg7bU3KfvS8LC/4olG173imgRlEEY22bUMRxySIPux/7tjtthTt0lFsHgUU3iUtXG8QhNtPk3ow88ZBDt8LsUXu0jIaeP1Bjo1A==;dlHPK2dKOJp/tBNyh/Pr4w=="
 ---

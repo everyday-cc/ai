@@ -7,7 +7,7 @@ originalUrl: "https://www.bdcnetwork.com/racial-bias-concerns-prompt-lawmakers-a
 webUrl: "https://www.bdcnetwork.com/racial-bias-concerns-prompt-lawmakers-ask-hud-ban-biometric-surveillance-including-facial"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1920
     height: 1274
     isCached: true
+
+related:
+  - title: "No dismissal in unique face biometric court fight in NYC"
+    excerpt: "A New York City lawsuit will continue over the legality of using face-matching algorithms to score points in corporate tiff."
+    publishedDateTime: 2023-06-27T22:59:00Z
+    webUrl: "https://www.biometricupdate.com/202306/no-dismissal-in-unique-face-biometric-court-fight-in-nyc"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/14154408/facial-recognition-nyc-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
+  - title: "PixLab and FaceIO update privacy policy for face biometrics, age verification"
+    excerpt: "PixLab and its brand FaceIO have updated their privacy policy and TOS to align them with the GDPR and the California Consumer Privacy Act."
+    publishedDateTime: 2023-06-26T17:57:00Z
+    webUrl: "https://www.biometricupdate.com/202306/pixlab-and-faceio-update-privacy-policy-for-face-biometrics-age-verification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 1
 
 secured: "0dZ40eR7xiV07rde4MlqDPxU/2MKnjLXFCzl0NFP3+auXn8LXmnHSGBnDDQmGiTERmXYpau+MzBbr3QgHxebJBCbUAmaLTjaTGUmMzxW9N4rYauhAasjgA0A7ogoAKI1XeXHqQq3BCevAxR3ouoxRrl8kD6O85DgsaFtSVBHLUJjZ9HMMZNVB2fg2p1PcmV4E+XlDUNFIOf+8kokn9tFlH+crGjn85balwZuK2Eh2o03llooXNtFoP1fg5Z74aenh3aA3LtShbSnsAXIpfWg4oRYtGy9D8dJUUhLX0P4yG+lUIrFxiWUebVX0U2iyX4z0Z/LtoNMkDnIFlB1PQ8L2qurCy8duzZCsTpvsu1qRKjv3PrNstNceykIQRioX8W50/RqZkhHnHrxxFEsXJTyiQGDpGU4bc2AO+Hnn6kb8JIwH/GMBeDwFDzVKtiVNUlBCDNRUOdSvM6gDDrdAQK4hNjJjsS3xxkSBv6BAXa6suLtFOIlYRg7btfE5ZySGWCEm4hUVS1I6WyQZQxlOWnEdg==;t2ROmbbjC64UYZZj4rAZ9g=="
 ---

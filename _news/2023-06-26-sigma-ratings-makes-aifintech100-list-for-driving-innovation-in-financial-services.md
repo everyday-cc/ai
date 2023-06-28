@@ -51,20 +51,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Artificial intelligence technology helping fraudsters create fake posts and websites"
-    excerpt: "Fraud experts say the web is one of the riskiest places for consumers. News5 spoke with a fraud expert about how artificial intelligence is fueling fraud online."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://www.koaa.com/money/consumer/artificial-intelligence-technology-helping-fraudsters-create-fake-posts-and-websites"
-    type: article
-    provider:
-      name: koaa
-      domain: koaa.com
-    quality: 30
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/082e3f8/2147483647/strip/true/crop/712x374+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fda%2F6b%2Fbc36114a4b9bbd8cb5cd24ff9690%2Fcomputer-mouse.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Poses Threat to Patient Privacy"
     excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
     publishedDateTime: 2023-06-27T12:38:00Z

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Reka emerges from stealth to build custom AI models for the enterprise"
+    excerpt: "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round."
+    publishedDateTime: 2023-06-27T23:29:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CalypsoAI Raises $23 Million for AI Security Tech"
     excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
     publishedDateTime: 2023-06-27T11:30:00Z

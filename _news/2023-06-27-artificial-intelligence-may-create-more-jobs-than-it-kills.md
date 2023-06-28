@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -71,6 +71,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
+    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
+    publishedDateTime: 2023-06-27T23:23:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 61
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Achieving a sustainable future for AI"
     excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
     publishedDateTime: 2023-06-26T16:51:00Z
@@ -110,6 +126,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "d+gu6Ii9VM5CNTeV1JCl7djX4bhK28vhxdAV2g3kNewISlA79cMltu77Ye1xG2wUxUplFmvtEJHnyFIlZUexDgnau6IbeschUHlD3OhDRgOojE/r7l8lEqCraH2sAMBqmLHsG2/JBfsvIM2f7HSSV6SdE4xZqoP7jNs3JfoTbjUQuzg8Tqc12OIuakOPULqlIuf2R1Eac3t859RIXbW6s93Tl1UBwBuCv0oytFOoYIDfBO/EF0WdZg+t/IA/qQZrkqKgwQTXMTWxBRZHfYL2v2XWJWQoR+QCrX9jyrsDXd7qijzf/PedF+BKBuco6JRZVpfsLBze7dxzTo487lL1Hnbvn83ESV4sAXqGpbMh9Bw=;IDcQRAEtNINtYGNtviCJXA=="
 ---
