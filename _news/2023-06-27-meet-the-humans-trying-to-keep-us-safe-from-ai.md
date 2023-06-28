@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe
 webUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI to the rescue"
-    excerpt: "The pace of work is outpacing our ability to keep up. AI is poised to create a whole new way of working, according to a new report from Microsoft."
-    publishedDateTime: 2023-06-26T13:17:00Z
-    webUrl: "https://emerging-europe.com/news/ai-to-the-rescue/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 19
 
 secured: "ScKPjiBmaoldgwnG7Q8TnYiLnSMwpyCZAOZ0fnMa8WnNvDeXWOFDESMmCyxzV8XGt4ToOHfPNypI7PdSY35un25us9fsNQNpgMFffAJSZnotYQYrtiT1ghIM6HuXlTWcWF9rzgGNIG3LrAhggW09PgLnY+wq8i/OQ+KkImexNwX6LAjBWPquYT5EmEMSXdhLlTiNPViWztKkVcjZkxCVlPI1mbUeO6cRO7K+Vo3fYS0R71BUJmOAX6yhpMiAUeAh8YxivL/mD8PI/WBsqSgYdj1w5XZc72hZwcsghutDx1PXl96nkV2Hcpf/9gOLeb+y4FP4dpZ267mPimAzId4aEloe0ZpCma7EtpkdR8xL0NrKhsQgOk7KmtlAb06yiyyxPjr0y1pX3B5UlXzvz/oNoAlI939fVb6bplHrPLca6Tmhv5yAvwbz8WPJx3A6yiOWl0n/BOr0KjYaW70JSPMPDL5SVro9CDCJ8sR47KicQ4ApFkhrOkIgyPiqKZdhqr7e5DPaS3v76lD8+5vrqQr4/Q==;P5gSpU8KVdV8t2aJY7M3sA=="
 ---

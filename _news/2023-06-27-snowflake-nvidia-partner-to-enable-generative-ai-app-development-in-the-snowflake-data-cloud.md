@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generat
 webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
 type: article
 quality: 58
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Partnering With Nvidia, Snowflake Aims At $100 Billion + Generative AI Market"
-    excerpt: "Can Snowflake grow faster? Based on new products and a partnership to help companies benefit from large language models (LLMs), Snowflake has the potential to restore its rapid growth by gaining share in a generative AI market worth “hundreds of billions of dollars,” according to a Snowflake spokesperson."
-    publishedDateTime: 2023-06-27T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/27/partnering-with-nvidia-snowflake-aims-at-100-billion--generative-ai-market/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
     excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
     publishedDateTime: 2023-06-27T00:29:00Z

@@ -272,6 +272,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
+    excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
+    publishedDateTime: 2023-06-28T12:58:00Z
+    webUrl: "https://www.phonearena.com/news/gemini-by-google-deepmind-to-rival-chatgpt_id148484"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 31
   - title: "How Google DeepMind is planning to defeat ChatGPT"
     excerpt: "AlphaGo was based on a technique called reinforcement learning. This technique involves training in which software learns to take on tough problems that require taking actions based on making repeated attempts and receiving feedback on its performance."
     publishedDateTime: 2023-06-27T12:50:00Z

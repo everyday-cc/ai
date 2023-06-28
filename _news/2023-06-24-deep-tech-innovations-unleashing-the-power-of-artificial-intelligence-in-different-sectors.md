@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why smart AI regulation is vital for innovation and US leadership"
-    excerpt: "With all this possibility, can such an amazing technology also be bad? Some of the concerns around AI platforms are legitimate."
-    publishedDateTime: 2023-06-23T21:54:00Z
-    webUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
-    ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1495170962.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Zoomerang: Short-Form AI Video Platform Is A Creative Innovation"
-    excerpt: "This article introduces Zoomerang a short form AI video platform that is democratizing video production for the masses, and creating a market place with Smart AI methods."
-    publishedDateTime: 2023-06-25T20:29:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498a0bb52c8bb875a8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
-    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
-    publishedDateTime: 2023-06-27T09:49:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
-    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AWS invests $100 million in new Generative AI Innovation Center"
     excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
     publishedDateTime: 2023-06-26T15:26:00Z
@@ -91,79 +43,19 @@ related:
         width: 724
         height: 482
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-26T09:19:00Z
-    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
-    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+  - title: "3 Questions for Coursera About Generative AI in Education"
+    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
+    publishedDateTime: 2023-06-26T04:46:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 56
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "The AI Rules Companies Really Want From the EU"
-    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
-    publishedDateTime: 2023-06-27T04:44:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
-    excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
-    publishedDateTime: 2023-06-27T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/relationalai-and-snowflake-join-forces-to-revolutionize-enterprise-ai-decision-making/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_intelligent_knowledge_graph_to_serve-up_relationship_426cbfbb-026a-4dd2-b28b-5565991d8b51.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
-  - title: "Big tech companies want AI regulation - but on their own terms"
-    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
-    publishedDateTime: 2023-06-27T05:44:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
-    publishedDateTime: 2023-06-24T10:11:00Z
-    webUrl: "https://menafn.com/1106495265/Aws-Announces-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496238"
-        width: 400
-        height: 250
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
     excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
@@ -193,52 +85,66 @@ related:
         width: 679
         height: 452
         isCached: true
-  - title: "AWS announces generative AI innovation center"
-    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-27T06:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
+  - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
+    excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
+    publishedDateTime: 2023-06-27T10:53:00Z
+    webUrl: "https://techstory.in/aws-announces-7-8-billion-investment-in-data-center-expansion/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: tech
+      domain: techstory.in
+    quality: 39
     images:
-      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
-        width: 1280
-        height: 852
+      - url: "https://techstory.in/wp-content/uploads/2023/06/aws-sign-v2.jpeg"
+        width: 609
+        height: 457
         isCached: true
-  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
-    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
-    publishedDateTime: 2023-06-26T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
+  - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
+    excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
+    publishedDateTime: 2023-06-28T14:36:00Z
+    webUrl: "https://siliconangle.com/2023/06/28/aws-enters-genai-scene-bedrock-helping-enterprise-enter-next-generation-technology-hpediscover/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "IDGlobal Corp Announces New Advisory Board Focused on AI and Digital Innovation Marketing"
-    excerpt: "DOWNERS GROVE, IL / ACCESSWIRE / June 27, 2023 / (OTC PINK:IDGC) IDGlobal Corp. Announces Groundbreaking Venture in Digital Workflows and Innovations in Digital Marketing."
-    publishedDateTime: 2023-06-27T13:23:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273880852/idglobal-corp-announces-new-advisory-board-focused-on-ai-and-digital-innovation-marketing"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 47
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1687838160379.jpg"
-        width: 630
-        height: 420
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Shaown-Nandi-Clean-Thumb.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Artificial Intelligence can Support Automation and Independent Learning"
-    excerpt: "Even though it has two sides, it is believed that artificial intelligence still needs to be optimized in the world of education. For this reason, it must be ensured that its development and utilization are ethical so that it is not misused."
-    publishedDateTime: 2023-06-27T12:30:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-kecerdasan-buatan-dapat-menunjang-otomatisasi-dan-belajar-mandiri"
+  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
+    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
+    publishedDateTime: 2023-06-27T17:57:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
     type: article
     provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 21
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Amazon is spending $100 million to teach cloud customers about AI"
+    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
+  - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
+    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
+    publishedDateTime: 2023-06-28T13:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840691.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "BYDpmfY/hzYihEcj28H3pQdoKRl3jmvWvZRDOjOpq/qdyNCgTjXniqtou/ooggVlWTAf4ffPM7C2th4zgkW2hOkYfiHK06g1sx7acdBV/zD2Wd8q1RWixBjz0OufH1jkS7JagacGelEUy8bM2yGmlsxeHxXbeLKG46quuR3dn4eDg/Xw42wmsmariUsiD07JNuWOdY28cN8BiAfVwb+6A44ekmz/Nypqhezb1V7BfiDYQ310mZ//M1GQjH+NOgGwNGpML89p0nEatjQrcZP8cbH6itZFPK+RAfx2+cmWULTu4Vjal6JmBIASafgtFn1yc0kt9kEFO913pcgyCaVkYxgOcMm8A/B2F2g0lYXfjDp6MhqbeUxgPoH4GgZkoTcUIm/YC1YlJAiZQcau2elVAmgVz8T9bHr101VmSqq1x4p+NfudjSG9i893R/HdiD5yt3VwLrLZlzqBJ2SEGUQJu2BqbPt2ZgWBp66Q2t0QhzhiS+8R8MPwbICttDPwuOylnLN7CRtHIasnGAj83cJTng==;Oxo7YSd2OyU1nW6Dmnu9oQ=="
 ---

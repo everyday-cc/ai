@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Business Operations: The Multimodal AI Advantage For Internal Processes"
-    excerpt: "Leveraging AI for internal processes can also significantly improve both customer experience (CX) and employee experience (EX). AI-powered virtual assistants, equipped with natural language processing (NLP) capabilities, can provide real-time feedback, guide new product users and offer personalized suggestions."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/revolutionizing-business-operations-the-multimodal-ai-advantage-for-internal-processes/"
+  - title: "Slang taps AI to answer phone calls for brick-and-mortar businesses"
+    excerpt: "Slang, which is developing tech to help brick-and-mortar businesses field phone calls, has emerged from stealth with $20 million."
+    publishedDateTime: 2023-06-28T12:29:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "WkMfxivVX/n5DRgPudEoGCO05ooy1aC9/xxj81SzFkU+lROutiV9dSPOsJKoovoDWXzvvFSMyRdNR7xkg16r7+2swsWSInwxeAOWb5Re+t2tcUoSGzccSgwp/dY2p8NMQiWiTGI/xRag1Z4lqinSYlKTSZyyH5BHB7UwQ58x/dOAQwI/8s01fVBwxE/KnjoKak7ufkJsvMTDU6RE2hQHkMgo98dU9gTnimq4NEfKXv5tgtqr1yBWK+gcSq0RxS+s3pEd0a7eTWv2GdChPkXAYi8CfHRy3CfEgAq0b+wneV9KvsLyMJOzET0gv/CGOfPFTpyBEEQSCger87TeCE0YKrdhD927CCNdC7LUt5+dehJv1hnjNXN9RdjSNMEsLqCNCOiBCE9voT4sPDXPf3IuEo1kzj3mpFeNez5FME14xY2siceJh2h/YtRhzBCL1m0OP6rDyoKYNbStR0gTNtD0crpoFN0/hHmVmndZuyHwzoaDOqmwU71oruM4tKZiy8Y1lstg/RMttdChmZy7IAy5Sw==;QJK8hRPtzpY2Vg+fYPBr9A=="
 ---

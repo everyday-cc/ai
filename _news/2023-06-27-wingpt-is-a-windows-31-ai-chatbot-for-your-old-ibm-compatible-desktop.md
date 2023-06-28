@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-c
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
+    publishedDateTime: 2023-06-28T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 21
   - title: "Put AI to use, from chatbots to robots with this training bundle deal"
     excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
     publishedDateTime: 2023-06-24T12:12:00Z

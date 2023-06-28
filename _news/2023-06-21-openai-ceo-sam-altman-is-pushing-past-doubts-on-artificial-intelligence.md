@@ -19,6 +19,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "dRBKWsIFFeF4vVcl5TvfH1MBL7nHw0iz3NORdZu6M5Aak8nqFNnQf76HmBYALrI67CvDtCe7kTcj/VpDEcZalRuu+fcq+/3Bv20BkL8CpRZyzv+OmIu9ZQoYX/r72m4B6IqAn5vfF3X8p+AZ+eRKiTJ4kQOYtR/hQSZ76QkBmWZAbWlaRTt7iJDP6AOns5t/2h2wdEZST7r5EZfCY2NDhEaRoll89Hv1i4MKY0wUfxi/FmomIXH9xncTjZZnBqmV60MZ1jjR5AtED1PnUxidJgQHNBAkwuQRzTi4Ip6dS0AHMwEu7AOroxTid22I6d5i/A3jQTnjb5RVMi+cPYdErw9SWrNtvYLC0+6T2so7kY/iieWJFlYMXBrw2mMvPgcsiBbnxhs00tMDXtxF5YbSHPu2f6GgS5EQTxHXDwAtuMOu+ahbUKIVbmW61zuhCOU7FAWx4dIPK+LaxQvTew4NM6og7KiMMu13hLtOXvi2TJK+soIFmUHPNhXb9sAN9GarLkm5Gl2sTuh2Wsv+P6C08Q==;U1VLnKpBGTpFRXKhpfVz7Q=="
+images:
+  - url: "https://api.time.com/wp-content/uploads/2023/06/time100-Companies-OpenAi-FBcrop.jpg?quality=85&w=1200&h=628&crop=1"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "jrELXyIT8g5ND6IymqF4vYG3PSA9Gyyz5NCYfcMc5tls/C5a56oSpNC4/swgWNooDmirt3rxSu2pGSSYfHpifo6fRsIOtDDmWvDtDwKoFSu1xp7bpJf+WliD9j+ifxB1L9oSUVDV8ppk8B2qf3bTE8ErvmJxtEvLwWYKLPlLhxbYBWjbcK3XFl9sD+EAo7BnN8HbmVVgZsKaV9Y4MiOXXkh+MzUw9eX9aw6+cQIzc1fi3GQ8KtPEV2J/ydqtUT4REZ2NTmuRw889/ghuGLcwLME9jne2zdKmY8NmvAbzgrWfbcTGSj0RMevEoZ9u8MrKKt+P2rEJGT++zwtMpoQsUSt3BflIZHTsOfUGtJuyfO4=;U/Aj13e/iFuKOdEpQ6gFUw=="
 ---
 

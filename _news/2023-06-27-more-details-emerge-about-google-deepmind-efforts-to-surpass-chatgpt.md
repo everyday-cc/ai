@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -268,6 +268,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
+    excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
+    publishedDateTime: 2023-06-28T12:58:00Z
+    webUrl: "https://www.phonearena.com/news/gemini-by-google-deepmind-to-rival-chatgpt_id148484"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 31
   - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
     excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
     publishedDateTime: 2023-06-27T13:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
+    excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
+    publishedDateTime: 2023-06-28T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/uncovering-how-ais-dual-relationship-with-cybersecurity-operates/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI-Driven Cybersecurity Startup Raises $100M"
     excerpt: "The Cyera cybersecurity platform uses large language models to automatically discover, classify, and secure sensitive data."
     publishedDateTime: 2023-06-28T10:09:00Z

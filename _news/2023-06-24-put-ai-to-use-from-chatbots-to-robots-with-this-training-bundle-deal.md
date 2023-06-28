@@ -35,6 +35,15 @@ related:
         width: 728
         height: 443
         isCached: true
+  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
+    publishedDateTime: 2023-06-28T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 21
 
 secured: "PbhI9MdoIHfRahYV9CZ0lP0oHDbDJGUTNT1ouz5pmkHo927aSuYxtP1KafpmMhQhuz7MxkZ997iDOglHkqp09VQ1igi8SxNsuXISoO5c/Zmoj25BssaGMtVkzkNYJVVkGNMa+JtGA4Hqq408f9wqNpeKyqaaNxKeGk1xKyH1Z38TNs0+um1NAYA78R3diNxojoSlg0nG8NvGDoZaYzLMzrHuECAwSqzZ7PK443Jqw/DHaq1lI01HayBwFY6mL8z1tH+G508cgkQ2/EPN5jMnZq46gBakMsNFG6IXqfgapXIJVSZgGiGFwpJz8i1syo2Z7LSsu+bCKGCDv+XRMX0n95FkimpsUe5AQt2OIP/IYog=;W6+4OtHJrtITFoipoLl8NQ=="
 ---

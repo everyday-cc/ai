@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI could transform the legal industry … for the better"
-    excerpt: "Can AI free the wrongfully convicted quicker and easier? These lawyers, and the company behind CoCounsel, think so."
-    publishedDateTime: 2023-06-23T21:32:00Z
-    webUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    ampWebUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1251982007-e1687541573224.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "5 AI tools for translation"
     excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
     publishedDateTime: 2023-06-24T09:08:00Z

@@ -27,21 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
-    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
-    publishedDateTime: 2023-06-27T23:23:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
+  - title: "Wisconsin healthcare system using artificial intelligence"
+    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
+    publishedDateTime: 2023-06-28T13:27:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 76
     images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
+      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
+    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 65
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
+        width: 1280
+        height: 759
+        isCached: true
+  - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
+    excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
+    publishedDateTime: 2023-06-28T14:38:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
+    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
+    publishedDateTime: 2023-06-28T03:35:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "BovNxxMyGkC/tDKflcLNA3m0jqQPbj0dwbSrowHRwOeZImu0sucIaM80yOuKjBiRNAukv79SQsKr9jqM5p0Flt+984xn+HhJjFvBpPJqLziD+x9zwm2kjmWh7g4tjMCKIu4IL2Rd7D7TpSxnNnno8HCOS2AURXygYl95M8Pmpgw6GcwPe5OWe34Uw/lrTLqaVEjJEaGoqiI2yT5B22jiY1kCcLhNvuN69Tp/XO1M6WNKeed6Djxdn8Lfrdm/NxwkMjO3BocIC+Olj3zj5gHwNRtz81JJBQrrRD1gQtwwIkb4KtMBRu7v/OxmKFhzzt18NUU0qBAPke9teC+9s0efinGOpacBWP26jFb+s7WpRG7vU0JNVa63zdxIAtjZAuWyLBis9RMMnjS+zbZrbEnvR507hYodpe5tKkv9mfRS65op70pxCyk6+S3Er1fNzUIFTG65k5Su6MNv/wPtry+MkVwNT3+7hiQg7shGZwwtw28UWRYFzwF+0XGjfWXJP1V2FfSQOEI9ixZrQVtj7VE0YQ==;Aiit5joSvhGMdD95tSs2WQ=="

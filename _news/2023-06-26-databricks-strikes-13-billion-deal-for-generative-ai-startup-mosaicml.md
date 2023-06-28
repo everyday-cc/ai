@@ -263,6 +263,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
+    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
+    publishedDateTime: 2023-06-28T13:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
   - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
     excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."
     publishedDateTime: 2023-06-26T19:33:00Z
@@ -271,6 +280,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 17
+  - title: "Databricks rolls out AI assistant to help analyze business data"
+    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
+    publishedDateTime: 2023-06-28T13:33:00Z
+    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 17
   - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
     excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."
@@ -282,6 +300,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "A96jGMZmrDCS1AWRU0UtlWQ+AbxoQE984jK/mPG0Ub39sNCzq6R6hZSZW+p399r/OFNZyiX4XGCbpJUYa0LfVJtGoYHzTMinn/lEKmKJa0tP0KAK2c++3WbWWBcyomEuguXLPbQ6JlTziYvQiSHzvNvkgR2tr2Pkye5M7AaA+QedS3qGZOh1er6sRGdlN7Dnt8PCBxlznJUtlQap1YzDA5ooW1mTVf+ubM+OzfvtnvH4cvUDfQaaTWSn0nkfg8LSR7JOMGS9oQVjY34zkN/7WgLfLbETUqRdB4Wf56duA6zzBoRph7cPWEkW5B/dUELmsnzH+2XDVrzkwR8MZI1CoMxMCFmCAxgIO2v8GfjTzr0=;Zr3IXIgsg6cZOfiChYf2Gg=="
+secured: "2Mse5BTh4CrZWpVCdYho0DXkgoLwbZRUMxZO1npzZ6h294m41HxM9EOhaWhC/ZrAJ7O7bfJIdlOM8rboPfmkDouWJqAtFWRfERpIMPBKE4HhFmFczly8MuRrtqEMWFiKdWOAh0Gp9SZ7S0lxd66L4CvTooPG6eqL0eaOF+XtHazhrLnU+XZQun2eE0VkN1+C0DToiACzWOdRY26gchRGxx3xqFP68lyKWItOjDmy7AGITMfkCxebA7F9r4qsSJFKUojjKLCalTcjYoC0Nvpa4w/MHrgxS6Iu5ZhzFJRz2vJ/Q15rYmoaCdUn6mK1HmGQ/P+oSYDzj8S3py4xTBvWfLuC74KN0SabwkuqRN71gkEmxwWKC0kOxjhBKp519Rvkbxvj9a1fLuoilr4VuL1yOQZ2WknUMsdZNMK8D0Zms4DWzJ6QekfC89iQcUAXqHnDQ8IOonmZ5t357W+SjCEMf3Za4DZH/r0eZoi39MpOVlgYtT2GRI5fIYgT1pKB8MWXywswnMpQorzxA3fzeaUALA==;S45TBvaBL4UM5BgQm6VgbQ=="
 ---
 

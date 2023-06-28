@@ -41,21 +41,19 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
-    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+  - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
+    excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
+    publishedDateTime: 2023-06-27T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/relationalai-and-snowflake-join-forces-to-revolutionize-enterprise-ai-decision-making/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 65
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
-        width: 1280
-        height: 759
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_intelligent_knowledge_graph_to_serve-up_relationship_426cbfbb-026a-4dd2-b28b-5565991d8b51.png?w=1200&strip=all"
+        width: 1028
+        height: 685
         isCached: true
   - title: "AI revolutionising medical diagnoses"
     excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
@@ -73,6 +71,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Healthcare leaders open to potential AI legislation"
+    excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
+    publishedDateTime: 2023-06-28T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-open-to-potential-ai-legislation.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Will AI be an exceptional industrial revolution?"
     excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
     publishedDateTime: 2023-06-26T01:15:00Z
@@ -86,20 +98,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
-    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
-    publishedDateTime: 2023-06-28T03:35:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "3v8u3M5ooIQ8+345VRwhqNL/f7Tv18eCNLDH6m9dq5t+frJIhBUsFSr9SYSH10XXlSU5MYtUX9yz3oAL5ieh3NCNvZufZufhXpw0Q0re8NsDz3YobJQPWEN+9GrpuXYmtRMAML7j/rbNW87F2nYlzlM6LZCEScB8JZNHIsIUbM6nNJW/6RDgpb8ci8zhTTGNUNFiQsbW1NWZuYkUTxlIr/knVe7zL0MQWhIK3c2ydJUCxArOXQKdT6zrLcwyhANbmVNiq+huEi09E2oZHNICXMdHPgkSb5fi2epEGICGLiX1rk+8A3dr4z5nyw5GKQW6tYGKoePxTUz+oEINrxGR+vnvn+cxoqAFUU4YwzBo3jo=;IOw5Z0wQ3nJ0l1x0NA/uKA=="

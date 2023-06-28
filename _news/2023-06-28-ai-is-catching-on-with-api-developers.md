@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html"
 type: article
 quality: 87
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 531
     isCached: true
+
+related:
+  - title: "Media organizations grapple with developing AI policies"
+    excerpt: "Generative AI tools have a lot of power to change the media business—from the way we work, to the data we collect, to audience needs and expectations. The area"
+    publishedDateTime: 2023-06-28T14:39:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/06/28/media-organizations-grapple-with-developing-ai-policies/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 39
+    images:
+      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/06/Tome1.png"
+        width: 867
+        height: 400
+        isCached: true
 
 secured: "aMhUpe/iM/M4qxTArEaXVTw2rqv8hrK+XrSf9NZ8UA/5Wkq7uhVdz7qr91ptbYykuP5LdqPNXThhsYYFRyANJWnxTgHfl5qJePyZpvp1Y+UIV+otm4v8o/QpEPgXtHt5IvhpOsH5R2kng36bjCfGdaJjw+POWLACk5GBTDxI0ce3chxVefbYS5aD7jpS7vlVNuv7ntOZGYJpjXOL46KGxlqvipC59B8MfJ9Uu+eNkbZGOwty3MlGcu++ABqj5SmhPYpgpfUM1iBytaKUTCkpN00Js97DEvnzmKExKbBYgs3j1cvmw5awiKAWtWlvl6AqmIFxQraEKADM3fLZnoIFqSH2dTBXbAeyAk1YXSwb3huIfT04HXvTZtvH2aJvTZu0/qgK1OW2dvjg++VFe0qBHiPjrXmICrMihCAbRRRSv18grXTUs85kwSKtCQIwpuVIWVZ/YrQC3Am2ebi6uWyrmxt/nawwS3/fR9MNsjxSfmHh/qZd85mKB7m98j5G8lI26FS6Sbu2nr7x/t2z0Tp80g==;5N2ntissMs0zX9sZG96WtQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-cou
 webUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-court/article_3cd3bc4a-1089-11ee-b542-f780ea9b84b2.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Norman Transcript
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI robot officiates a Colorado couple’s wedding"
+    excerpt: "\"And now with great joy and utmost honor, I pronounce you partners in love, in life and in the exploration of future filled with endless possibilities,\" said the AI officiator."
+    publishedDateTime: 2023-06-28T14:19:00Z
+    webUrl: "https://kyma.com/news/national-world/2023/06/28/ai-robot-officiates-a-colorado-couples-wedding/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 54
+    images:
+      - url: "https://kyma.b-cdn.net/2023/06/AI-WEDDING.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "UK’s Ai-Da Robot to give keynote speech at AI for Good Global Summit"
     excerpt: "Artificial intelligence (AI) and robotics innovators will join humanitarian leaders in Geneva AI for Good Global Summit"
     publishedDateTime: 2023-06-27T13:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400"
         width: 400
         height: 224
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Assessment, By Component, By Technology, By Application, By End-User, By Region"
+    excerpt: "(globe newswire) -- reportlinker announces the release of the report artificial intelligence in healthcare market assessmen"
+    publishedDateTime: 2023-06-28T12:01:00Z
+    webUrl: "https://menafn.com/1106511691/Artificial-Intelligence-In-Healthcare-Market-Assessment-By-Component-By-Technology-By-Application-By-End-User-By-Region"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?598695"
+        width: 445
+        height: 249
         isCached: true
 
 secured: "1hQ/EguMPxRNUEnwQKhGiF7+eE/lqzEJPDMmdfWNJzCLn0JsJmYWIIR2H9mn1xermSr0VsQNrJer8ydYVpJmStkgrtYAUAXIf/NZ8I34QpcLu9UKaIy4vlxKnrdVkM/ZSaLwxVCS6LgX9Rh4Ebq6mbnh0TUYEChMcXeVcCCZOR/yHBHt5nid1qaOiNZrMeieB1I8Nc4yzWkumt6mODwSRxYDmcsjny4Gk1DFMqbLy5DIAFCYXwY4emttLxRUBo8efY2sH7hEtkXkIo/FI1IrwDGQTvAgL5xcu89NrOkZt6DviZgzbLzu/auXGa/Rhfaoc0wBbnGNf3M0gzS9GJzYpGq1PDZUJH+Wj02oyJ1ZJavnz/6jSNmpjJ3iZfnk9dOdyZpUUgiZNzIn6kxOO+RG/i57TSDZRxEoJbh/Jq5H6205tfRJOOHDIhGgTxIsjtOshwNOh3LANQDv3cWbQhZIJoKZdPt7RCU/+hZNDeCCKH5pw/OtNMVoy8skVQ+oG9IF+1UM43rkmplfbw+9xxETNQ==;yHcG7i2CYseCnfbjgb9aVw=="

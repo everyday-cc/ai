@@ -3,8 +3,8 @@ category: news
 title: "How artificial intelligence will help, or hinder, your workforce"
 excerpt: "AI tools can boost productivity, but business owners also should be mindful of certain risks."
 publishedDateTime: 2023-06-26T17:37:00Z
-originalUrl: "https://www.bizjournals.com/losangeles/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
-webUrl: "https://www.bizjournals.com/losangeles/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
+originalUrl: "https://www.bizjournals.com/austin/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
+webUrl: "https://www.bizjournals.com/austin/news/2023/06/26/ai-chatgpt-tools-workers-manager-risk.html"
 type: article
 quality: 19
 heat: 19
@@ -15,9 +15,9 @@ provider:
   domain: bizjournals.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-secured: "CtzNlC3+VtFLBEK0ZtwXC9ptnR6z106n5Nsk1hQ+PaLwhZ3uFUfZMlhT3WGCR1FtsswYcMXS2LllCw8dXcSyiD6MJcWu2/BaC27bGl5wS7bAQPigSFtDDG0RzBB91c1k2eAbY51/4RWw1OPQtd/hxN7SLO5PGZwDsOa77qrDaCw3m+gvRPGDHVv04RwVWlQSBFUeugquK5AcGHPOrKlUEGCPvlbCaeuhCzY8Q+ANaCiDcwLOP9kDdvSD1hh3Akbvkyj8j9NvW1q8ln2ifwQD+OJP7JJv5Pqnqhq8X1aGKWFSlPuBoxJ/9QBVKXmvZh9pDtKiGLFLpOw3I6uedMjcudXVlWGpYYdK4NQSxH4nuzq2/sI8AvG0tEsKjUvFmr+zTmPJYPIENs+wtBbb+nLzHzN0Ug+ye+rCgkAdI2jxOmjH9+/9FGSLu5+hx8Rdnc8JLT8Bm20Fjcs+aTO4ImP30Lft3ggE8Cu3dLI/PJEGGvwp0i8OutulUnSaS0gjZxxUVnuF+lg4ZKLv6ZMj5dVq7g==;0mYUAuH370soWCplQNgmKQ=="
+secured: "zJdy8yeihGvZetuBvpMEQovsLaWX0Xm5HZOydkqT0PiJQ4QfORJ6Erm0C60Lx5S/sJZe6v9qlFzrHB8adOGDfDGHKVvqv0a1Tm/hu6vfIXqPU3zV3THBeuuHaIHnvp0//7m96iXrCp9dVbrBfl4q1rq6QEH4Zw5GbqJiA7skDTKplakt8o1+N7B9CTKsvinT1EoepJafcvuQMnTAo1reQsfFKfk2H1UlE1a/aFIz12qxWJaWbChUUSlIWsUkdjAmCtd9RE6AfVkzCBLq+TRgwTuCaebIiO5Xkv7QmHFUji/x8FVzaPhXLy/0sRSMZi6zT9KpkXYuKBlo7ZlkgwZJtDgb1U+7JClwTBCaUaxqttWRWzpMa1RrToC3VQef16AoFOFbBwTi7T9mzMOJuJb1xlDc2okhPUuRHaqYcklCpIc0voNw/FOmOpsGWqSh+m1LGdt4JWgNcg+GSosgkrHHm/VnJdU1I/7Qt/0nm0OWmjSveCyxEQjSdtYaLXXt4L+EE7mWwvfngxkZ8zwp9sZoAA==;LKcMxtbBcOHotrm5tSUCZg=="
 ---
 

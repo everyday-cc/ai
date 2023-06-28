@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -40,20 +40,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/06/16x9/Marco_etico_global_sobre_la_Inteligencia_artificial_.649af267bf04d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "EU, Unesco to help developing countries shape AI rules"
-    excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
-    publishedDateTime: 2023-06-27T15:44:00Z
-    webUrl: "https://www.todayonline.com/world/eu-unesco-help-developing-countries-shape-ai-rules-2200641"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "f4p788Xofe3HAqcicBqHu9uIL+AqUqX55gxykkKhkdMPDuhLRnbSou3lZkSsva9cyhVmCjYzYRhMlY1MZEz1GL3E9v9vPxGB408HIq1NzBnh4aIKQoIThNEwlf/4tmMTlXXV4WHVnxkhYjd+AlF2u72a9RDPxcZ2FIa5xpnQ87aZpyG3Z2JatDsVxFeY0hcl7XQA1Tu/VdTf6EPzHGd/sGzPWdz2lowvxisKjzg5q7CrNTTOxGvAE+jAkQ4+tBOxWvh/oCE3bdyb6l9GMXR9i9Y3G/fgkx+iKhftRD+Oe53S/u2t9CEFGM7F524/h//4Nns07uOOOzYYGCkAzIvPW97VpVg1hkyl+Xs8QryO+4I=;/twd+XpQ3ECZLn0Wy9QTfg=="

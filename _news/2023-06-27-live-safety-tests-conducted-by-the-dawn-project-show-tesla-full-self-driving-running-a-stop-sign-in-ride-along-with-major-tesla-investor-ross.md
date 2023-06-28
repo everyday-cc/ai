@@ -57,31 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People"
-    excerpt: "The Montecito billionaire recently took one of the self-driving electric cars for a test drive in Santa Barbara to demonstrate its dangers."
-    publishedDateTime: 2023-06-23T22:41:00Z
-    webUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/"
-    ampWebUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
-    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
-    type: article
-    provider:
-      name: Santa Barbara Independent
-      domain: independent.com
-    quality: 53
-    images:
-      - url: "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
-    excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
-    publishedDateTime: 2023-06-23T19:54:00Z
-    webUrl: "https://www.thestreet.com/automotive/watch-tesla-test-drivers-narrowly-avoid-scary-accident-in-full-self-driving-mode"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "dQHEAfC7RszvKq3+iMUJwZPMd0DYBw2eExMCKu3m8gbs2g1gkz+SqXtf22X2uGy9sDowEgDn4jmPkjK7hAS47gUkcSHgCFEmLoG/VtT0ikCnD/OztcWoBSBB8w1lird6DbgD0Gu9wShybB5iJn7X7IIUySVwTpJ/ivO64J8pSRDhqFbFa8N63m0SgjZgMl2SLcjNPMRSjyJKCwy8FZ6ieJhQTWiJ3d86OyVLFiKrdfBLs6bB+8afRKIsIUllJRKFg+Ck9ou0ZKH2hGDvTYrKWYSJFb+dRgp7jS2tdtmRyVBJS/URqeh6ILikcen/FfNtWupkzTeNbpyL7un4Mo85zB+5sEySEdWcL2p49QybIZ5oMAbTLe6Ywq8MFDABWFK0wcP+U8UmDYGQ4fLddHsXxYm6oyr+iRhugVaD3ukni1huXh7BL2jBZkqVwzlAqr/wC8bBXHRCQDYhpkOg1uOTXZII/EBbnKnRKLT+6Zon6OsiRWxGfDEuNE8TeDglWuTm5kvaDjjKr7UjzjXnKM9IFQ==;HmuVjR6qdLCqRmotBFsCVQ=="
 ---

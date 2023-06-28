@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3983029-thomson-reuters-to-acquire-c
 webUrl: "https://seekingalpha.com/news/3983029-thomson-reuters-to-acquire-california-based-casetext-for-650m"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 750
     height: 375
     isCached: true
+
+related:
+  - title: "Thomson Reuters buys Casetext, an AI legal tech startup, for $650M in cash"
+    excerpt: "Thomson Reuters has agreed to acquire Casetext, a startup developing AI-powered legal workflows, for $650 million in cash."
+    publishedDateTime: 2023-06-27T16:01:00Z
+    webUrl: "https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 45
 
 secured: "WqKBAx2OfxrlcE3/nMG4InBEJY9baJ74tt9WDQdhkcnv8g/utLKledaDgXah+mm/45FBwbyiveBCdKZ9I5oAPL3ubYch9ybC4qdGNrHrwGc2b+OekCfTuhoIcUcCHKvVn+o70zxV6fpkJUVHctDLSsmr0ItDUQx6JI0XICNfuz5Q5EtZ3EDlhuM+nCJgmeXhvosPkyVqm1FvyCBLC83W1yZa78p+e0sHT+LRYOWknWNrXpNzX1cNXQpU/u+oS6WLu8PapTkZQ59bDFCzrOaxOZln4yjVG5HCNbBHV5XZDkffvbF2lppJrHDH9m9EgFyEriYjD+AhDtcWMXggEq9Lv+bxrbYlO3z8fuSGmVSHoQNvB9V7BRE1U1NoYgMFjKJBTnGbQRsg9O1AMgASh71cSckTdRhi82FbcHCRFwKCyaKbcFMOGNWGIjEt71f0rwWLhPg0JTTRBy/fh5EnDiabh4QvQ1DWEna044JYQMfRkOdHnCfFiXe8OcC5CJHULrdJiYS8kmNDEwbHWXXblkALnQ==;SmejLoE0GbXDhkpdgyFusg=="
 ---

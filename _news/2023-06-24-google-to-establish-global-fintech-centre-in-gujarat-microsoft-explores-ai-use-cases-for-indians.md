@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-f
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
 type: article
 quality: 63
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
         isCached: true
   - title: "Google to open global fintech operation centre at GIFT City"
     excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"

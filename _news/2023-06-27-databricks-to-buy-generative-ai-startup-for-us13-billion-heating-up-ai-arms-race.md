@@ -267,6 +267,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
+    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
+    publishedDateTime: 2023-06-28T13:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
   - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
     excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."
     publishedDateTime: 2023-06-26T19:33:00Z
@@ -275,6 +284,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 17
+  - title: "Databricks rolls out AI assistant to help analyze business data"
+    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
+    publishedDateTime: 2023-06-28T13:33:00Z
+    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 17
 
 secured: "ZTyLPNxdMaTMG1QR21RCA5wJzj+HNyo/SqFNN+IwOMpCsmfssI5/KK1L3IqLz1E5ZKU5xMLBqPawIECxvFlT3b6SX9akJ2b52oZSE2TN+JvK83Nwf5S2i9NhOaGS167QK0OtJ5WDZNcb4x7aFRU5kFtkwK2Tjqf5pGuGrddr3YUcTvZIGUt5D/z9AxoRg9/nOGpDsmUpN+PBDDbDsOTgnfMeqUJe8iAsl3k1C5QOzPWWRw9yX0D4cdJ4tyqnfa5W4gl1Ym+kjnoQ7bk58E0K3iqyjDC2Y5bHPirhI40SyQ74XCKTZ1mIFk7CCuS1LEZKe3pXBb2iuna/2ClQ22CaGbpIXDeq0TPVa3pUGblW4SX23xAMDhfBxQaCHreX8JGxa8tKuZhVSTSU7jw/AisGNEdle+UHXlcnxA8Um6O3lVCtGkQUwPM+3RS2xRRtNxfDYfM6ssbuiey71pdOr5OOgxPychjD3C9f4cidlTOHOCpX6ai+InxuNoorn0UuxazZFheLrEJfjUdrX0o8FREHRg==;+N5N4dQDb4AswCzMckwrrA=="

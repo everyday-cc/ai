@@ -42,21 +42,33 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
-    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+  - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
+    excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
+    publishedDateTime: 2023-06-27T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/relationalai-and-snowflake-join-forces-to-revolutionize-enterprise-ai-decision-making/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 65
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
-        width: 1280
-        height: 759
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_intelligent_knowledge_graph_to_serve-up_relationship_426cbfbb-026a-4dd2-b28b-5565991d8b51.png?w=1200&strip=all"
+        width: 1028
+        height: 685
+        isCached: true
+  - title: "Healthcare leaders open to potential AI legislation"
+    excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
+    publishedDateTime: 2023-06-28T14:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-open-to-potential-ai-legislation.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Health care’s AI revolution is well under way"
     excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
@@ -85,20 +97,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
-    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
-    publishedDateTime: 2023-06-28T03:35:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "a/pltym794x7/FCFdigVgDQRp/8igIbhvAdDz60/LkEb6Woe97NLRlH1YtDHklx5DFtZRcECMqESUuAZ/HKt58mvGp90sIMhQ8GRurriCTJnNzh8xqzYGSv5HJX7Uvn5HUHV2tOg8N8QDEl6V89DzEodSD67ManD6jVr9CLbLknKqnSgqMMzqPkxJUX/wqh14tDLEaWi12s51Lvf2cA1oPRvptUtL89FXkmt8Rf/d6wI8+mQMXB29kVm/zpnjUSS/t6JY07fjDiJ1jaWsdzNZ81cDQUJh324v0UXB32FV/WWE9FE/I2r2M/vl1SWEQaXpBN5zqKLii+cUbrfeJ5C8w1x0h4EEBu4UQJlIR7wUSU=;rckaRMxAmwtZQRF4+OrmCQ=="

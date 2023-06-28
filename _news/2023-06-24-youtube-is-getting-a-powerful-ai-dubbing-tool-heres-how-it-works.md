@@ -161,6 +161,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Using AI For Rescue In The Wake Of Disasters"
+    excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E generated poetry and art. But when AI is combined with GIS technology, it can be used to save lives."
+    publishedDateTime: 2023-06-28T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
     publishedDateTime: 2023-06-27T01:01:00Z

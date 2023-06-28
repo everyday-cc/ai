@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bin
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: techtimes
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
+    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
+    publishedDateTime: 2023-06-27T02:43:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 62
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
     excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
     publishedDateTime: 2023-06-25T08:20:00Z
@@ -44,15 +58,22 @@ related:
         width: 1760
         height: 884
         isCached: true
-  - title: "BEST Inc. enhances AI capabilities by integrating ChatGPT into Qianyi ERP software"
-    excerpt: "BEST Inc. announced today that it has integrated the natural language processing tool ChatGPT into its Qianyi ERP software, allowing cross-border sellers to generate multi-language product titles and descriptions using AI."
-    publishedDateTime: 2023-06-28T09:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/best-inc-enhances-ai-capabilities-by-integrating-chatgpt-into-qianyi-erp-software-1032414274"
+  - title: "BEST Brings ChatGPT In Qianyi ERP Software For Multi-Language Product Titles For Cross-border Sellers"
+    excerpt: "BEST Inc. BEST integrated the natural language processing tool ChatGPT into its Qianyi ERP software. The integration allows cross-border sellers to generate multi-language product titles and descriptions using AI,"
+    publishedDateTime: 2023-06-28T11:19:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/23/06/33038758/best-brings-chatgpt-in-qianyi-erp-software-for-multi-language-product-titles-for-cross-border-se"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33038758"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33038758"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/28/best.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "oEOBEUvXM8ea9FyHDgmUZzNFLtUvhQMpfVN9p00+cftI0SmKWkmZW78KctnnJGatuVa979+3A4O0JmgvynuIRWIDf8gVz4mY1MTzLstY8krCzaTfK9BaDLmrUDHW0p0KEbvr9cm8R1PejH2P6A/XqGysHThXAEcDUUliO1vf0TCUy9vXyWXCL+rG/I1rNjF0V/gouv2FrBQvBvzJnKLiKza3jVrcBGbsttcRIOKSrF+xY8iX6eXpi+ks3DiM0yZid1qDRk4vtqqQX8EpSb+BO4XFweyU94yIlp/IjO1TYfYR8JrEiKb4gGdX5vafBpvePuVsPjeTJYr1rnRLlTABMQ1loMFdlqzJWloVW9qK2S8ZaysoMm+NZQwbxu6J75IznRY9ZyJhhStbM2T7qrUiwv2Kr52syfnGsLr8RnB0fEdC9l7gQ3FSY+FAjh92w9deWuOPUaGsJ3uoPxpwLhHHAmiSnFD9VD6fLb8abBWDvQXusz9EFl09ULxWcRAi9Tzo/8QmyIUdX0pcCS1STfExKQ==;oEwQjoG3rkw1z7+RU6MCOQ=="
 ---

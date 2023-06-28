@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence bot Chat GPT helps officiate a wedding in Colorado"
-excerpt: "Today, we gathered in this historic Morrison church. That's right. Artificial intelligence was used to create the words for the voice. In this ceremony, Dayton Truitt was the groom in what he calls *** monumental event here in the state of Colorado by the ..."
-publishedDateTime: 2023-06-28T09:46:00Z
-originalUrl: "https://www.wbaltv.com/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
-webUrl: "https://www.wbaltv.com/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
-ampWebUrl: "https://www.wbaltv.com/amp/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
+excerpt: "But using the AI bot Chat GPT, it finally came around. \"We are honored and grateful to have each and everyone of you here, especially those who have traveled from out of state, notably Kansas,\" the bot said. Just in case you are wondering how the couple met, it was through a dating app — online."
+publishedDateTime: 2023-06-28T08:42:00Z
+originalUrl: "https://www.kcra.com/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
+webUrl: "https://www.kcra.com/article/chat-gpt-helps-officiate-wedding-in-colorado/44367314"
 type: article
-quality: 55
-heat: 55
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: WBAL-TV
-  domain: wbaltv.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
   - AI
 
-images:
-  - url: "https://kubrick.htvapps.com/vidthumb/5063361e-a4bf-45bf-a2b6-f3659cefe474/thumb_1920x1080_00002_1687942905_33425.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "j5sENB+IVfufnhVHPcB3WhdvMIx5O5pagNjmhkhWhc0+J997bQhLgB3UUpkJx7yQ2k2jQdccNpZii0CDYEL9fds3aeoaVIvYVJFBXIH2XxmfWt5ttdIAZ/R+FFMKkRNCCUsLp88mH4E+pfxEK3YZDwmQzGUdx3cIcHL0lDxAxVa9tlZEXpitMPzQSqfhINAiaW8v0nJORlS2orRE63SMwbGYq0jh5dMIE0BqFyPna/K3p7dNZYuWXgbCnkqoWIcJvgcKrZP4Pry/LgyoaKQFFLzcsc6hXV+SfJxFLOedCD3GF11RluJizPFnj5XqDsRHSFq7bnUqI1EUbu0XHs4zVsTW61n4ehOVgZ416rLuoN8=;/Q4Ti0yeCB1q1xXztExnwA=="
+secured: "DOqLJ8ll6o76UoAUhs/QCr2Xw1Qz2D8PsxeRmo5q7JGzc1slHkoT3ydqWECwa62BfP3ujOiICbMLuao4fy89+XbYdiYrsnBsZsQpKh8661LGTyfXdfBTf1N5xlG9rrDq9hLJNpVPG2kfX5hJA9oIopKgBFJK5KFYzNoJeeA4UAxXcf1Mf8f2roodY8xl/HPC7POFd3bGPSmz/dJLyaqmqgH19FxJMJz7XHl0p9Icbu/mJqOqTySmuz+FmJF3Z1NG4RKzAN01G0+vYKWkCS/lKTHcYbbx8/fNMEkcd6JQpNebENLehZWK62v300bWGjkIqNP5RCwl8x5CwRjT75UdFrTvUb4boUm5DrQjF0wfahoSj1RIRqdfSrLJzfBP/B62qsbDy9V6FfdZKhBCF4QOiE5h5no5TLAigp5S1sePuknhYEk2sjRETRnv9PdD8ATub7zy+dJc3e9844B+v5g4xLCUqvRudoFGuQHW4yKKbuKDppKo1yXRiNHagBuKqGW83RqYSM3xSHmtoLS4N79x9Q==;cikEHMZkVPjLKsGdbb0TtQ=="
 ---
 

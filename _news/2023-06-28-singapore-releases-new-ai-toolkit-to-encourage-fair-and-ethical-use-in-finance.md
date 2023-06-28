@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Assessment, By Component, By Technology, By Application, By End-User, By Region"
+    excerpt: "(globe newswire) -- reportlinker announces the release of the report artificial intelligence in healthcare market assessmen"
+    publishedDateTime: 2023-06-28T12:01:00Z
+    webUrl: "https://menafn.com/1106511691/Artificial-Intelligence-In-Healthcare-Market-Assessment-By-Component-By-Technology-By-Application-By-End-User-By-Region"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?598695"
+        width: 445
+        height: 249
+        isCached: true
 
 secured: "LZ55Gf9WTDFfPySEh771c9eUSyeshnG30En1GKb+qNuwddD3YgybxYqXFqHwNeUEH9G4Va1jDq6VzQnFDM42caPAUs/1Z54i9ABmI90QW7LmAYEhUJbZ6R7lQYeHsAPxkcgYU69Ocoom9crJ6PTmtAheVXQhkEO+shy62DDc3QVt2sC7lnm3t5VRK0YY5Q7T1HALSchtPZHlmy0NizCDlFHP6VDPv3lLGIXdblh/nQn9dAc1pkt7Z6cq0qdItIm8BVg5xDBGHRu78jGs53p5bYLtmWOsJHGX3Zsdo0YI+3ioFSNqJXVgpM2fTAargU9kuyh+F1svXWZo9V7ZT9SHZ1LqYy9dSxfCf8M4bYmTPYE=;iJvztb+YtSgzkmcbfBfjZg=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1023
         height: 507
         isCached: true
-  - title: "Accelerate time to business insights with the Amazon SageMaker Data Wrangler direct connection to Snowflake"
-    excerpt: "Amazon SageMaker Data Wrangler is a single visual interface that reduces the time required to prepare data and perform feature engineering from weeks to minutes with the ability to select and clean data, create features, and automate data preparation in machine learning (ML) workflows without writing"
-    publishedDateTime: 2023-06-23T20:32:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-time-to-business-insights-with-the-amazon-sagemaker-data-wrangler-direct-connection-to-snowflake/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/accelerate-time-to-business.jpg"
-        width: 1020
-        height: 509
-        isCached: true
   - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"
     publishedDateTime: 2023-06-27T19:38:14Z

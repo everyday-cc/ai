@@ -41,22 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How AI could transform the legal industry … for the better"
-    excerpt: "Can AI free the wrongfully convicted quicker and easier? These lawyers, and the company behind CoCounsel, think so."
-    publishedDateTime: 2023-06-23T21:32:00Z
-    webUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    ampWebUrl: "https://www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/06/23/how-ai-could-transform-legal-industry-for-the-better/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1251982007-e1687541573224.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "BDjPvV5V8lYTVH/gwik4/la5MQOkeNmcaGkw8GH5At6CRGliPCVM4LpD3O+WYLZcGFrZ3LweRNiPX8z4I+jJAHSzbVFjs6b3xgQHNky2t9TLhMIDOWtN9xda5K2hWGdVkL1TxtzjfUGMplLjoDNAzHwovD2Zm/TXBY7yrhal/wG/6leSv/DpZ23xix8qLFAr38m0nNOTiBdTWTLPUqnaN+Rv9x5byLG3DClzPK9UuLPEG2f50Ks7OY9DZFqp+kMT/IErT4jnzKlh8Wu2HDoLx+nV4YRy1+oxfyc5E4lZL8dEB5E9Cvsps8Ed9CVkZCoMUl5uAecq+UX7qakGLFog4jLkdMnj01/27IEhem7DKGo=;nvSVvzT/LDNZfJSV6UG1iA=="
 ---

@@ -53,6 +53,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
+        isCached: true
   - title: "Google to open global fintech operation centre at GIFT City"
     excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
     publishedDateTime: 2023-06-24T23:56:00Z

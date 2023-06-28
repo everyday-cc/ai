@@ -27,65 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "New WEF research identifies revolutionary healthcare AI applications"
-    excerpt: "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption."
-    publishedDateTime: 2023-06-28T08:02:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications"
-    ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
+  - title: "Wisconsin healthcare system using artificial intelligence"
+    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
+    publishedDateTime: 2023-06-28T13:27:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 76
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
+      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
-        height: 720
+        height: 675
         isCached: true
-  - title: "Health care’s AI revolution is well under way"
-    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
-    publishedDateTime: 2023-06-26T11:34:00Z
-    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
+  - title: "How Is AI Changing the Future of Modern Health Care?"
+    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
+    publishedDateTime: 2023-06-26T16:24:00Z
+    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
+    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 681
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Will AI be an exceptional industrial revolution?"
-    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
-    publishedDateTime: 2023-06-26T01:15:00Z
-    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
+  - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
+    excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
+    publishedDateTime: 2023-06-28T14:38:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
     images:
-      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
     excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"

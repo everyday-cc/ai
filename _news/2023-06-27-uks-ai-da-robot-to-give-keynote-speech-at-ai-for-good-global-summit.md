@@ -33,6 +33,20 @@ related:
         width: 600
         height: 319
         isCached: true
+  - title: "AI robot officiates a Colorado couple’s wedding"
+    excerpt: "\"And now with great joy and utmost honor, I pronounce you partners in love, in life and in the exploration of future filled with endless possibilities,\" said the AI officiator."
+    publishedDateTime: 2023-06-28T14:19:00Z
+    webUrl: "https://kyma.com/news/national-world/2023/06/28/ai-robot-officiates-a-colorado-couples-wedding/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 54
+    images:
+      - url: "https://kyma.b-cdn.net/2023/06/AI-WEDDING.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "vI5xmZT+Ig6s8g0l8pCP5rSmgAR6mnADeb+hkjZXNw1HZNt1b1XIu6o82fCMJ4763RVbVolY2QJ+B9F7dbgIpLFlJB8xLMoefLLdCwP9SSRbHKsvoy9FsSZcH9mdNAKuAD6CrtFdPuLZE8N8NEkLdz/IkLBFYxDvSbcw/TQnv5inwMqnSTa+YO1QM8YwG++usoDnMbbks3zBNAjR8IsLJVYsd9RUA5ihAShn1Y0rOPjwS12rdrtmgZsZcpkO7i7wakxDaSdZm0xnvo5uQ7UG8/4zYvodJNiy5Gt1oXB49I4mLkll0kNFfMN6cWSg/98Mw60kCynncB6cPdJxv/8DwFzLIKff5L0Hp5fYZN+hdE9sKDX0Rlqs/x7XWMUT52yboHMqN2GVStxg/oAya6oWBTlnAbD0Btt6V1V2H3WLmN1I47zY5JT/HgyPr4ZVp19Z/hWInKHK0WiYrEFrTuX8dGyq6ek1fMPSdiXZnuT8lhnV1bB3pezc7f+f9UuXyKpQEApC8HSP1jvTAdSdJhRE7g==;PlgKUYv/8TKaJEE+JMYBJw=="
 ---

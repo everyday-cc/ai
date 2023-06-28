@@ -34,33 +34,22 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "How generative AI can help finance and accounting professionals"
-    excerpt: "Whether you&#8217;re a CFO, an accountant, a financial analyst or a business partner, artificial intelligence (AI) can help improve your finance strategy, uplift productivity and accelerate business outcomes. Though it may feel futuristic, advancements such as generative AI and conversational AI technology"
-    publishedDateTime: 2023-06-23T19:46:52Z
-    webUrl: "https://www.ibm.com/blog/how-generative-ai-can-help-finance-and-accounting-professionals/"
+  - title: "Google Stakes A Claim To All Things Generative AI"
+    excerpt: "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ..."
+    publishedDateTime: 2023-06-28T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 116
-  - title: "How to improve your finance operation’s efficiency with generative AI"
-    excerpt: "While you may have learned about generative artificial intelligence (AI), you may not know what it means for the future of Finance and Accounting (F&#38;A). As the name suggests, it generates images, music, speech, code, video or text, while it interprets and manipulates preexisting data. For F&#38;A"
-    publishedDateTime: 2023-06-23T19:47:10Z
-    webUrl: "https://www.ibm.com/blog/how-to-improve-your-finance-operations-efficiency-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 116
-  - title: "How to streamline and enhance critical F&A functions with generative AI"
-    excerpt: "Imagine the future of Finance and Accounting (F&#38;A). In this future, your F&#38;A function is cutting edge.&#160; Perhaps you are using a next-gen Enterprise Resource Planning (ERP) system and an unmatched F&#38;A planning platform that delivers advanced predictive analytics. You may have also deployed"
-    publishedDateTime: 2023-06-23T19:46:56Z
-    webUrl: "https://www.ibm.com/blog/how-to-streamline-and-enhance-critical-fa-functions-with-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "AI Awareness Now A Must On Any Business Resume"
     excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
     publishedDateTime: 2023-06-27T02:57:00Z
@@ -77,6 +66,15 @@ related:
         width: 1525
         height: 900
         isCached: true
+  - title: "Transforming Healthcare With Generative AI"
+    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
+    publishedDateTime: 2023-06-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
     publishedDateTime: 2023-06-26T11:17:00Z
@@ -238,6 +236,15 @@ related:
     provider:
       name: Penn Live
       domain: pennlive.com
+    quality: 19
+  - title: "AI linked to new crop of business email scams"
+    excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
+    publishedDateTime: 2023-06-28T13:18:00Z
+    webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 19
   - title: "Generative AI is breaking all the rules"
     excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."

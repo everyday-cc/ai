@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
+    excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
+    publishedDateTime: 2023-06-28T14:19:00Z
+    webUrl: "https://betakit.com/aws-nvidia-launch-global-fintech-accelerator-for-seed-stage-startups/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
+        width: 960
+        height: 720
+        isCached: true
   - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
     excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
     publishedDateTime: 2023-06-24T08:00:00Z

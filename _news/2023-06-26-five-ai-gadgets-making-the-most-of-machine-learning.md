@@ -148,6 +148,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Using AI For Rescue In The Wake Of Disasters"
+    excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E generated poetry and art. But when AI is combined with GIS technology, it can be used to save lives."
+    publishedDateTime: 2023-06-28T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
     excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
     publishedDateTime: 2023-06-24T15:49:00Z

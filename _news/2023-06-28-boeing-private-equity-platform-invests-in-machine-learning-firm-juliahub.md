@@ -24,6 +24,17 @@ images:
     height: 930
     isCached: true
 
+related:
+  - title: "Quantitative Investment Management Firm Versor Investments Launches Machine Learning-Based Global Equity Strategy"
+    excerpt: "Versor Investments, a quantitative investment firm focused on liquid alternatives, announced today the launch of the Versor Equity Prism Strategy to outside investors. The strategy, which the firm started incubating with partner capital in January of 2022,"
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quantitative-investment-management-firm-versor-investments-launches-machine-learning-based-global-equity-strategy-1032412347"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+
 secured: "TmBOeIxUjgrfyR8XIwQSQA3OfOd5hmhwh9KXEV7w9odboN9lM6mNUcmkODHOdfGda0gRbs23bM9GLD9zg4jcN/mUwFCOJbJVeBzyFsYoQyhXChzGAAV/NjgoozuM1nB/obh6Ex6wn9OdaHg4aqfRYty0PKejvijFATO/sv6cGADn2b6iFN+lr1TFlrGfe5BgJvFmxh5hiselbJGhkO+1o3ctyhLnj/t3o4IAl2CTctHH1JdiywxCMqoldHinrduNsvAqqFvPvJSNuZWQCijxRMD3WubW1f6BCJAWDEYu+xUdrAZdnV/Yr5PKrnEtr71xJuAJN/WwUs3LqourSjYy6cvUgy6XLaEuFb4VIJB5nSY=;tAlsjjn9luVhIk6a6jcPlw=="
 ---
 

@@ -34,6 +34,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 74
+  - title: "Artificial Intelligence can Support Automation and Independent Learning"
+    excerpt: "Even though it has two sides, it is believed that artificial intelligence still needs to be optimized in the world of education. For this reason, it must be ensured that its development and utilization are ethical so that it is not misused."
+    publishedDateTime: 2023-06-27T12:30:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-kecerdasan-buatan-dapat-menunjang-otomatisasi-dan-belajar-mandiri"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 21
 
 secured: "euFoxdBxkdA6rFnOJYoQjUIsKZVohNTSybs5aJ6fNLqH73wYGtI/6jUqH9HyhJ85c7anXVrIcjyODe9/4hfNXljI2ocEmELhjI+MU9gFSy3l6+CcQkbjO/cVO0zAtbnXX8pCZSqyCDD81aLDPzenIQniGfKpIc+8QOBfxUHndVt/VyTLiJ+HcGo936uErK0i7yClZInhDdIa193eQytYKPxaeTN6J9ZlI2q+OyauCKHxAcMJaL/QXeK+M8q7MP8zlo8v9brFlXLkSperqkNUNK1kkqFCM0/wt4jqZ1UeGJzH9yENSz1Ez3+MEyV1DNcx24s5iEDvS6xXmIKUHWgQA3d2QP/spaWvPG+NwfUeUxc=;HSVPbQ6wbEnMOwdIG0Pppg=="
 ---

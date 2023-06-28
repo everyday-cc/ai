@@ -1,0 +1,93 @@
+---
+category: news
+title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
+excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
+publishedDateTime: 2023-06-28T14:38:00Z
+originalUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
+webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "Wisconsin healthcare system using artificial intelligence"
+    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
+    publishedDateTime: 2023-06-28T13:27:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 76
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
+    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 65
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
+        width: 1280
+        height: 759
+        isCached: true
+  - title: "How Is AI Changing the Future of Modern Health Care?"
+    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
+    publishedDateTime: 2023-06-26T16:24:00Z
+    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
+    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
+    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
+    publishedDateTime: 2023-06-28T03:35:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "L6iuZyGd5EQTtR2oWlmpnAO9wUFcPs/khxFpbt45+eSntf74MQTpb9JRQINx+BoIzFut3isZLCS3/ISOIjtBeGX4PO5/BlebPNztc22sUsJvbfIf7v82Gzo3O2oayV8iK+xS4X51GNZeU4CzDlaR728cPDIK/edoUE4jAOTOKrAGIY/jyZTRtzfuBEcQ6kE1W2VNy0eEYlkFFIhsFT1tj6SrB8pDjX9/wo10l9+JRPjprsSa/MZLwKEE/o6MoUtrwJH9FahUqNsKF2AC+Lwz/XfDKUel8Ex4uPZFuYJxaGaVVhlvTau01KC1hpq4zp+fG/BrwPOcdFUlZ9xYBODxQSAI9TQmUUA5sE5XO4HBZKs=;rBEcNx7Kv7gd8iOHqN1LcA=="
+---
+

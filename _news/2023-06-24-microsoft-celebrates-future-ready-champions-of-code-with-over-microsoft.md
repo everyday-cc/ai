@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Five Microsoft AI Advances That Business Leaders Should Know About"
+    excerpt: "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications."
+    publishedDateTime: 2023-06-28T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/"
+    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 662
+        isCached: true
   - title: "Develop Microsoft Azure skills with 30 Days to Learn It"
     excerpt: " The Microsoft Cloud Skills Challenge 30 Days to Learn It program is aimed at helping individuals develop proficiency in the most in-demand skills in the tech industry, such as learning the Microsoft Azure platform. The program offers various learning journeys designed for participants with different"
     publishedDateTime: 2023-06-26T16:00:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
-    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
-    publishedDateTime: 2023-06-27T02:43:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 62
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
     excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
@@ -157,34 +159,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
-  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
-    publishedDateTime: 2023-06-27T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 47
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
-        width: 300
-        height: 203
-        isCached: true
-  - title: "Microsoft Flight Simulator Passes 12 Million Players; New MSFS 2024 Details & Much More Revealed"
-    excerpt: "Today is the first day of FlightSimExpo in Houston, Texas, and both Microsoft and third-party developers had a ton of news to share about Microsoft Flight Simulator."
-    publishedDateTime: 2023-06-23T23:09:00Z
-    webUrl: "https://techraptor.net/gaming/news/microsoft-flight-simulator-2024-12-million-expo-news"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 41
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-06/Microsoft%20Flight%20Simulator%20Ford%20Trimotor.jpg?itok=XCWOzfSu"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z
@@ -213,15 +187,15 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
-    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
-    publishedDateTime: 2023-06-27T19:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
+  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
+    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
+    publishedDateTime: 2023-06-28T13:20:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9840760.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Why Microsoft Leads the AI Race"
     excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
     publishedDateTime: 2023-06-27T17:55:00Z
@@ -231,6 +205,20 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 34
+  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
+    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-28T04:00:00Z
+    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 33
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z
@@ -272,15 +260,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 24
-  - title: "Volpara recognized as the winner of 2023 Microsoft Healthcare & Life Sciences Partner of the Year"
-    excerpt: "Of the awards, Teri Thomas, Volpara CEO and Managing Director, said: \"We love our Microsoft partners and are so proud to be named Microsoft Partner of the Year in the Healthcare & Life Sciences category."
-    publishedDateTime: 2023-06-27T19:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840229.htm"
+  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
+    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
+    publishedDateTime: 2023-06-27T12:22:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
   - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
     excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
     publishedDateTime: 2023-06-24T12:03:00Z

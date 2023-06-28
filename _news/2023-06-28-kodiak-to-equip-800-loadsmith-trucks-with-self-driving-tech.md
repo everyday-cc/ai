@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Loadsmith orders 800 self-driving truck systems to automate highway portions of freight routes"
-    excerpt: "Autonomous trucks using “Kodiak Driver” technology will hand off loads to human drivers for local pickups and deliveries"
-    publishedDateTime: 2023-06-23T20:59:00Z
-    webUrl: "https://www.dcvelocity.com/articles/57853-loadsmith-orders-800-self-driving-truck-systems-to-automate-highway-portions-of-freight-routes"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 12
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2023/06/23/kodiak-Screen-Shot-2023-06-23-at-4.35.59-PM.jpg?height=635&t=1687554078&width=1200"
-        width: 969
-        height: 635
-        isCached: true
   - title: "Self-driving firm Kodiak to equip 800 Loadsmith robotrucks"
     excerpt: "Autonomy firm Kodiak Robotics will equip its self-driving software in 800 trucks for logistics platform Loadsmith, the companies said. The rigs won't have human drivers."
     publishedDateTime: 2023-06-24T11:00:00Z

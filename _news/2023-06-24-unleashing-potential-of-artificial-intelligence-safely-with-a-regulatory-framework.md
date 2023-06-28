@@ -43,6 +43,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UK hospital uses new Azure AI system to cut waiting times for radiotherapy patients"
+    excerpt: "Addenbrooke’s Hospital in Cambridge, UK, has more than doubled the speed at which it can plan radiotherapy treatments by using a new artificial intelligence system developed by the NHS and built using Microsoft Azure Machine Learning."
+    publishedDateTime: 2023-06-28T14:45:00Z
+    webUrl: "https://www.technologyrecord.com/article/uk-hospital-uses-new-azure-ai-system-to-cut-waiting-times-for-radiotherapy-patients"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 48
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4438/MS_OSAIRIS_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
 
 secured: "h+JwNvl8QOklTEkOEVhMYCl447pXwtMI3sy3lqPmwng4y7klCdcyxuK2miS6xT2QSgJTaCbDIwnHmfdwV+Vh3ITAonfS7aZlhSee6DcUhAWSz6sR9lFzo35R0zS9E1wsSkfIiB8J2dy77dFKhd886G8vpBDx34jrxJOJLYJQrlPUE/Oc4FC4Nc7/d4SkSJAhChdP1oZawqrKtYAbm8HIFQZCLAy311Ves7DOiSs59/KCi4jjmeRErpc3cDIhqO970mqx7u9JhGD/RfAt5AytTDfAx1dMKLSuKVhyczdXQrxu3DTOefLUi/u6GLiUDgt3yhC22FHvo+ZTnCL1mKd7slVCNd1vyy9o89GtHuxxbfc=;S8+3FpGxXP+hRWXog/xO7Q=="
 ---

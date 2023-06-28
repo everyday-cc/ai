@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acqu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 309
 published: true
 
 provider:
@@ -264,6 +264,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
+    excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
+    publishedDateTime: 2023-06-28T13:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59448313-databricks-introduces-new-generative-ai-tools-investing-in-lakehouse-ai-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
   - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
     excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."
     publishedDateTime: 2023-06-26T19:33:00Z
@@ -272,6 +281,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 17
+  - title: "Databricks rolls out AI assistant to help analyze business data"
+    excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
+    publishedDateTime: 2023-06-28T13:33:00Z
+    webUrl: "https://www.aol.com/news/databricks-rolls-ai-assistant-help-130517472.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 17
   - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
     excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."

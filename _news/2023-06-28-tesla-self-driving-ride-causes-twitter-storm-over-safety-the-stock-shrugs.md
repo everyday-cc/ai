@@ -43,31 +43,6 @@ related:
         width: 1279
         height: 713
         isCached: true
-  - title: "Dan O’Dowd Wants Tesla to Fix Its Self-Driving Program Before It Kills More People"
-    excerpt: "The Montecito billionaire recently took one of the self-driving electric cars for a test drive in Santa Barbara to demonstrate its dangers."
-    publishedDateTime: 2023-06-23T22:41:00Z
-    webUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/"
-    ampWebUrl: "https://www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
-    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2023/06/23/dan-odowd-wants-tesla-to-fix-its-self-driving-program-before-it-kills-more-people/?amp=1"
-    type: article
-    provider:
-      name: Santa Barbara Independent
-      domain: independent.com
-    quality: 53
-    images:
-      - url: "https://www.independent.com/wp-content/uploads/2023/06/Tesla-fails-bus-stop-test-e1687556803267.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
-    excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
-    publishedDateTime: 2023-06-23T19:54:00Z
-    webUrl: "https://www.thestreet.com/automotive/watch-tesla-test-drivers-narrowly-avoid-scary-accident-in-full-self-driving-mode"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
   - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
     excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."
     publishedDateTime: 2023-06-27T15:49:00Z
@@ -83,6 +58,6 @@ related:
         height: 225
         isCached: true
 
-secured: "FiJVqMUisVbgrHgHTu3csEUmNvDktab3NuNYiw6+lsws2qA25XN5bWiuwqhUeq0FhnHxzckB8QT33WccqVMC2s0WizefFmHfRLJBVxYP1d/ISFHnHEczr0Cp49yZvWn9p5zQrVN8SPjgsi7bJzPhrLgLffgdd6IXP60Ixe3DjSbIfqdSD/nFMi9EVqbkZ4hiY1ejwnvXiclAXuUviVKxh+quNvlneUDpGqE3LISVGX7ndkoYl+eJLxiCbQKTrDtE2sBLS/W+WuBSLURr2SEHFHZnydRyeFVOhe8+rWVYcORQVCISo6FhYSaptmgff6DjgXiYccmw/ttutPYX1ORHOgJkg8CfVxnaWngQuhCorzI=;gVYw+JmQwkk3UT51Q8fyKA=="
+secured: "BOdyuYV6YFEWpssBW8f/r/fAfwaZignTKV/h8lESc+9pdGe/H/rqdAItD6HuuhZYKPz4mPPCGJ+mF6ecPeYJrG87De3T59VLJvJH+NqKrpVBSbzw8CBDYj97FAXF991t55ahC9A0q/aD1j37olpJA+wFIO3ltW6gUiSmWslF5K07HMKoiTCmdDA5kJtEZduDq20OLOLYY0qojBsfLv7xMwChT60CABHMz0lLr/dnmnkmTvmZEMdajcv5jfGdjh/FyNGhkvhEzcTmuJSaZDW3Am4XtAR4QYbV9+kR46hA9WbH+Vm+nEubhYVhYALyVv/5EH4sjLPOs4/2uePh0qvyDPFO6ZuEm3chVpTe9YYT1NZfhU6Nh2OzyHkHB/2l1Sy0CBpo+Fz8I5BJbi1fJSUBWFkR2im0jhmCtOyOkOCU27M5c8QtkV/WiQ+bOal4iKnvL2S5v2BP31qu+5ajqkgMu6A9Y8INHrFBTZGPFk4GFB7dhj8xa7qc0KEM7CTAQuuac3gaamp3zfMYnjqqPy5PlQ==;P0A3UtpoKkKMd2vSH6VExg=="
 ---
 

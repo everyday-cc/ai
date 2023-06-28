@@ -40,6 +40,15 @@ related:
         width: 720
         height: 402
         isCached: true
+  - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
+    excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
+    publishedDateTime: 2023-06-28T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/uncovering-how-ais-dual-relationship-with-cybersecurity-operates/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Startup Unveils Personalized AI Tool To Spot Cybersecurity Risks"
     excerpt: "An Israeli company, Rescana, has developed a new personalized artificial intelligence tool to help its clients detect cybersecurity risks."
     publishedDateTime: 2023-06-26T12:41:00Z

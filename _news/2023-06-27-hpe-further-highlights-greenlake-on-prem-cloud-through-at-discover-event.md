@@ -39,6 +39,22 @@ related:
         width: 1519
         height: 900
         isCached: true
+  - title: "HPE Dives Into Supercomputing As-A-Service With GreenLake For AI LLMs"
+    excerpt: "HPE teamed up with Aleph Alpha, an AI startup, to offer ready-to-use large language models (LLMs) as part of its on-demand, multi-tenant supercomputing cloud service."
+    publishedDateTime: 2023-06-28T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/"
+    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c2e8927a2d87aa15d41ce/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 707
+        isCached: true
   - title: "Nvidia teams up with Snowflake for large language model AI"
     excerpt: "Snowflake extends its Snowpark offering with GPU instances to run foundation models from Nvidia's NeMo framework -- to be further trained on customer data stored in Snowflake."
     publishedDateTime: 2023-06-27T18:41:00Z
