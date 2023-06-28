@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Middle Market 100: For fintech Upstart, AI plus lending is a volatile mix"
-    excerpt: "Fintech lending platform Upstart Holdings Inc ... Upstart is riding some powerful trends reflected in Wall Street’s enthusiasm for AI and bankers’ waning appetite for lending as the Fed ..."
-    publishedDateTime: 2023-06-24T01:03:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/06/23/middle-market-100-upstart.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
   - title: "“Data is the new oil” is “more true than ever” says fintech investment head at Lloyds"
     excerpt: "Kirsty Rutter, director of fintech investment at Lloyds Banking Group, says she continues to be excited about data-focused investment opportunities"
     publishedDateTime: 2023-06-27T04:31:00Z

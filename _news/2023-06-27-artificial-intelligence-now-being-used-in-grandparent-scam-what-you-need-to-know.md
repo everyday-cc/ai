@@ -19,6 +19,70 @@ topics:
   - AI
 
 related:
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI."
+    publishedDateTime: 2023-06-28T20:57:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-06-28T20:10:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "This New Product Will Change How Nonprofits Think About AI"
+    excerpt: "CareerVillage announced the launch of Coach, its new generative AI tool making great career resources available to everyone."
+    publishedDateTime: 2023-06-27T20:48:00Z
+    webUrl: "https://www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b4279c5e712976dc53940/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 667
+        isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "What’s clear, however, is that AI is not going away, but it is changing very fast. Here’s everything you need to know to keep up."
+    publishedDateTime: 2023-06-28T12:08:00Z
+    webUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    ampWebUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 59
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Five Things You Need to Know to Start Your Day"
     excerpt: "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today."
     publishedDateTime: 2023-06-25T23:37:00Z

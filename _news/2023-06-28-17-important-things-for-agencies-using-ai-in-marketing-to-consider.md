@@ -169,7 +169,7 @@ related:
     provider:
       name: CUInsight
       domain: cuinsight.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://www.cuinsight.com/wp-content/uploads/2022/01/bigstock-Artificial-Intelligence-ai-419338291.jpg"
         width: 1000

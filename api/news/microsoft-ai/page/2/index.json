@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-19-chemo-brain-is-real-but-there-are-ways-to-ease-it.md",
+      "title": "‘Chemo brain’ is real, but there are ways to ease it",
+      "excerpt": "Physicians call it cancer-related cognitive impairment (CRCI), and research indicates it affects about 75 percent of cancer patients during treatment, with 35 percent reporting persistent symptoms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
+      "originalUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BAXZSIH3RRGRTBI2FEKABL6ONI.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-tdra-launches-initiative-to-optimise-fednet-with-ai-services.md",
       "title": "TDRA Launches Initiative To Optimise Fednet With AI Services",
       "excerpt": "Commenting on this development, Majed Sultan Al Mesmar, TDRA Director-General, said,“AI services on AI-supported FedNet are a great step in the digital transformation process, and an important element in enhancing the ability of government entities to provide easy and fast services to all customers,",
@@ -1433,59 +1476,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud.md",
-      "title": "Cisco Shows Breakthrough Innovation Towards AI-First Security Cloud",
-      "excerpt": "Cisco launches new security service edge (SSE) solution to enable superior hybrid work experiences and dramatically simplify access",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cisco-shows-breakthrough-innovation-towards-ai-first-security-cloud-1032373587",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/813707/Cisco_v2_Logo.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

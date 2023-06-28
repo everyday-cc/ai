@@ -34,6 +34,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
+    excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
+    publishedDateTime: 2023-06-28T18:39:00Z
+    webUrl: "https://www.businessinsider.com/how-men-are-using-ai-for-dating-profiles-messaging-study-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "WkMfxivVX/n5DRgPudEoGCO05ooy1aC9/xxj81SzFkU+lROutiV9dSPOsJKoovoDWXzvvFSMyRdNR7xkg16r7+2swsWSInwxeAOWb5Re+t2tcUoSGzccSgwp/dY2p8NMQiWiTGI/xRag1Z4lqinSYlKTSZyyH5BHB7UwQ58x/dOAQwI/8s01fVBwxE/KnjoKak7ufkJsvMTDU6RE2hQHkMgo98dU9gTnimq4NEfKXv5tgtqr1yBWK+gcSq0RxS+s3pEd0a7eTWv2GdChPkXAYi8CfHRy3CfEgAq0b+wneV9KvsLyMJOzET0gv/CGOfPFTpyBEEQSCger87TeCE0YKrdhD927CCNdC7LUt5+dehJv1hnjNXN9RdjSNMEsLqCNCOiBCE9voT4sPDXPf3IuEo1kzj3mpFeNez5FME14xY2siceJh2h/YtRhzBCL1m0OP6rDyoKYNbStR0gTNtD0crpoFN0/hHmVmndZuyHwzoaDOqmwU71oruM4tKZiy8Y1lstg/RMttdChmZy7IAy5Sw==;QJK8hRPtzpY2Vg+fYPBr9A=="
 ---

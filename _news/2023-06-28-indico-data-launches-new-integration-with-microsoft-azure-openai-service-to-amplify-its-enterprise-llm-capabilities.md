@@ -121,20 +121,6 @@ related:
         width: 1320
         height: 743
         isCached: true
-  - title: "Google to set up fintech operations center in Gujarat"
-    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
-    publishedDateTime: 2023-06-24T02:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
     excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
     publishedDateTime: 2023-06-24T07:16:00Z
@@ -161,6 +147,6 @@ related:
         height: 300
         isCached: true
 
-secured: "epNFBsrDqWxgCfNju2PZ0vIKSu0q0KA3oF0AZb9riZ8n6IeAU+gx1EesM5/hqi/Z/xE2tEGnCg2Kv7wPO9K5mMC/mX1xS0dFXdf89yJ8TrCPzEVxH1aIMyW5dFLl02czk6MwN9OSj1L6vlDkIyZR8HMnIwus496jXF/7t6LrG8gxTEOAWRzd4nFFOCDMfsP6naik2P7egSEkend7k/9s5a3Ml9kwpDEZVkO7aUNedXrXxAC6UshBZtYBfYQRsEKIRrFdyLKn+KaJ66YHR7iKu3IzoiVI9LizvGDVVqLsxcB0ysvaD7wEChi2TZrRPM+OvrbAfuWslmZJj9RPPul4MrYEa+E+f/9vkPM8yJaAFB4=;bFB9Hm3IoFHV/L/hmWeUjA=="
+secured: "rRAqWvOa4AcRW6uZsEbJBbTL22D2g8Z9YsSauR6NYYKANowdB23gSMV4eeFSCV48yzqRR2egw5uBpApobPgR3hN1K6PAyQ959WjckWG7tpw1uNheSn2imlWIKiFXLZWgMtTSp24gE86b6IbSL6tpPzz8lMk/UdsfVPnu4LlRdKorzK12C/XSadPCpmSZWW4NxLkQLad71BxAG45pxNQzTzyEOnNuvP+GZhNckmggQ6gD5+Vnto+i1HaT+QnnCcGWbwR1P6w8oRLKZtnfgmpAiu2MRaypIzX4vAEAaI/51pWNfKqGBx2rmcChrf/Np9qEpNoJwzJR7RrBr5mBZhmWVGLo785WK00r7ZUfsmMEnAmEFmhag6S1JKIwfwyL6vTz6Qn09x1WzQ3ifJZISimXFkW9kLVz2vc+LKT8FJwWOLi1mZuFoBChzVZwWyUELH7Gcqb5fCRmLm41BbLs2ANARUfu3FZDmLk44bAurd4WsM5nG0D/53X/CLdX9GGEY5AZnWQShgda7dhgZtnoWE/rrg==;dGx6TsQQWdqE0ahUoz5K0w=="
 ---
 

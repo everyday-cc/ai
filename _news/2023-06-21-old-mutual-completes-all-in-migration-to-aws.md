@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Old Mutual Completes All-In Migration to AWS"
-excerpt: "The company will leverage AWS ML and generative artificial intelligence (AI) services—including Amazon SageMaker, a fully managed service to build, train, and deploy ML models—to generate real-time, personalized financial forecasting and ..."
-publishedDateTime: 2023-06-21T08:55:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
-webUrl: "https://www.businesswire.com/news/home/20230621435504/en/Old-Mutual-Completes-All-In-Migration-to-AWS/"
+excerpt: "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,"
+publishedDateTime: 2023-06-21T10:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/21/9836258.htm"
 type: article
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "cwgU3gBhRPuNO+037yQFAew079ezQf5OrlXA7UCvAFqlSliOJwfcmtzy9KBNFW9d96mhvEDEDgTHCUUzSIHu+iRL6rltY3XItzGY1g+JlN9FUS+j2EZ9ItWirTHDjn6y4b801sxSgMPETzDgrBd1dngfbAwcNbPnoXFc/zvIp9hjK6nesE8JNS+9qfZdSI4rFyxqBuZBsyWZJ5NxyIgeCZl0foOb0sW4MZR/smU6p47NsGpNp3udbW6pwVymMD+Uce9bpYte4mx2tOKr9G1zA9PfGQ+uTMwq1AEWBgqJ14RBWMv+OXKa45y1mh46IBUlNALKiVkDeMUK4v+mtL+rVIbPT7ZksmKUr7Xs44XLj/0=;s3BImezWYXYuDOie4ayxfA=="
+secured: "B3u0iQLbaM3hKMcxYdpCH9qjcBo39/K+LjucEQoDxGXPghzv/NoYi/11hFkSJriW7S1ni3y1ihGQbNJ+mlqUyvV8zuv/+q0OxeGF9iCBonsO/xSKqWeEU9T7/YDNdYI02QTe00CNERwXReF+6SSFOrfSRFLjU/zwIpK/BUvZxSDkCOwhcq4qHxy4qUgaBZ0dBjFFOY6tjyCGvswIHHOmCIRs5+sJ/mEryK+33CrtdW6fA0FrUEh8KPaPgAptqnujGyd8yHHlNZM75fGK+lhZvMV5aAtDpZZTGtCu2OfDounfNTrTX4FyDsCzSlu3QCkEz8IQ2aehULGNpz2jhfwoyrXQXPM8HL0C+RRQrgFHZ0o=;DmgpHqFdzvTextTiAY6pbg=="
 ---
 

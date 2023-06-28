@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 84
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -131,22 +131,6 @@ related:
         width: 679
         height: 452
         isCached: true
-  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
-    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
-    publishedDateTime: 2023-06-24T04:28:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
     excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
     publishedDateTime: 2023-06-27T10:53:00Z
@@ -208,6 +192,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "Hi9vsN+1RzZpRiFWuQOCWiQUUkQ2fkGy+OmluafkbTO9S2Y/gWXNZ6U6g9kydOk7nqPA6+DjZ4h1xrXFjEE9/IW5x2xWYEQwqFn1nFbrRCzmUUpvaU/8JmIYBxK+5e4M9Z4Q/zQ4WZUkt7BuuXUyAMJgSG9E8CQVppyMp5sZ1sFjEgVDfOvPfwQGGW/ygdUZWTvU9wXNuPKvr8TyM6gqOiI75B6n5QT6me7lN/vaycnS0IJjwaCVTxlTxEOu4AQdq/Z0FzY/xVfMSHAccvaXnMzq1nN/xvCoRX6vi+JdiU8r9ozoQwYOwBSXwp0Wkwd398EekIFNX3D2XnOG95Ac00NZlT+P8Oq/Y4ZcSPmpeCs=;FFx3HT5N+g/oBex1Uxb7TQ=="
+secured: "2V87qpnRx5XhNYZI4gHCixHBnvp4DDjVYMurF4ZybTyIyhJ4o9OH/imdP0PCkrSskzBr0OxZHBa34EsKJdwbtEpPk62cmURPKxVbQzG6ebP0m1Nye8/QZII/7peF5ZYDr1vz1mQQpT33djxKAXirV/R4oqJLHydPzmUl7DpLXsXnYlegr9AUvErSN3v9/GKRtRD/s7U6WVbbNWMPSA36AQev7PKXpaaRCfM5Yh74xr0Poon71/dIjBvhL7ImVetnexXKhM09A96sUblZ1dQxdrv/delBkp9TGEKUOhcQV9BkiCCFKu+NQTPsZF4qqfyMZ+T+wPz2KzIgTvMh032LosnvJIYtqaD5vl+fuJGTHV3o8Jn0DNSETh9oi1wWFQq9D5V/8zwfnsKKrrorYbOWrlE3q3wZLAcjehD9GrlscA0/DQP8lFxWWmNf6BAXlI7wRIyU0k5utG8OSKfEFAK38etKOfLBCBkhdTYZTNO0fLxcEGZ8NTOYl7lYR6bEG3SiG+eIrYRDaaPetljtaUoZug==;A9AggoU+0uHJoypM7IWMrA=="
 ---
 

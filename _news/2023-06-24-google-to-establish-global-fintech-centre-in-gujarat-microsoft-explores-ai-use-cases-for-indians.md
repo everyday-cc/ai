@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-f
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
 type: article
 quality: 63
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
         width: 1320
         height: 743
-        isCached: true
-  - title: "Google to set up fintech operations center in Gujarat"
-    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
-    publishedDateTime: 2023-06-24T02:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
-        width: 1200
-        height: 765
         isCached: true
   - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
     excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."

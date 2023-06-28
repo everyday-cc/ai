@@ -20,6 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "BlueVoyant recognized as the winner of 2023 Microsoft US Partner of the Year"
+    excerpt: "BlueVoyant, a cybersecurity company that illuminates, validates, and remediates internal and external risks, today announced it has won the 2023 Microsoft U.S. Security Partner of"
+    publishedDateTime: 2023-06-28T19:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33049303/bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33049303"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33049303"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
     excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
     publishedDateTime: 2023-06-27T19:49:00Z

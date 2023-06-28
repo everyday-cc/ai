@@ -97,6 +97,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 4
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
+    publishedDateTime: 2023-06-28T20:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840834.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "0PFRmkWc5591MLfMmcypGjwszLiOIJ5+CBXRK1qi5SUPpmc/FhaKidY1rlsS2XZc2fJmxdPan94y497bXv/CNL1hD+QeDtn++2IIzZiATHY1Zs3Ltrg7kItJ5ufPxJ+MMcd4MClA8TdPZmsuTSD5RPakzJ2uEItteRnh/z5ACq/PcjQyNR/wumu5BiafTtKuKO0rEy373mkKrTmuLjFiU43ukfbnRnh60GfHH4wPHJhsIZv8cGz//wMpdKN3SRCiwpOVhKVFvKZNQmIrlWkL/dm6QyVzR4V7ol7fk1MMPAaWE8005E05rdabK78zchLaQPHPkiE27/JTJuxJl/kCAjqKlllV9Ydfn/XXau4cr7d1AXI95Ayu67qbqNEtmz9tqvOvYyBgsBOfbf9rOzDYq3RxMqj6cDuGapUhrlBpqYo6zoYCf6smAhjzLMlXjvvjsQmNTR2BFP7gJtwsDlWGDtmreq2Fn0CNtKlbdZ10TH337rx6CDowZgc3EPpbyjKLW11YaooKoqqwiU+IU4ry7Q==;LF7IijYFyTlhmMVp/m45lQ=="
 ---

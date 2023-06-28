@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Artificial intelligence can support architects but lacks empathy and ethics"
+    excerpt: "Artificial intelligence is changing how different disciplines are practiced and taught, including architecture. (Shutterstock) Artificial intelligence (AI) has revolutionized many different industries in recent years."
+    publishedDateTime: 2023-06-28T13:00:00Z
+    webUrl: "https://www.canadianarchitect.com/artificial-intelligence-can-support-architects-but-lacks-empathy-and-ethics/"
+    type: article
+    provider:
+      name: Canadian Architect
+      domain: canadianarchitect.com
+    quality: 32
+
 secured: "uUg5+aeBdwGFxoZShlsBMRxobaW//IrCxWLD4k553JQf99TkNRE6vJNnVjv1Gs+VwcIxbFofn7ETlp2SU8g4NHYkc3eUxoQOSNezxwA5Y4Sv8oM58s8o5uu2KdUi3CTOoiufInF8c7So3Zi2fNCXS8RMZ7fooCO4Ff6g44OcqCvwZIsrlUueqyB+wNGkpdwtc1njGoXCgnXaT+mpG5q8eTOpe4sl5yd2ekYUdGkUMfqckga9v7f7Qzf4VLfKsLX6K9h6LnZ2gc1aznLFlPq6CkkfzHlV3YPA53QYYXZBSw88ugsODrsIqcHg2qTKHNXTpwre7qs+DOtwdaLPlSvkE7xSEEFIj41BLSlSrmVwYUk=;RslBHWbBcEyWquVs3Lnqug=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 1525
         height: 900
         isCached: true
+  - title: "Oracle taps generative AI to streamline HR workflows"
+    excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
+    publishedDateTime: 2023-06-28T21:19:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
     publishedDateTime: 2023-06-26T11:17:00Z

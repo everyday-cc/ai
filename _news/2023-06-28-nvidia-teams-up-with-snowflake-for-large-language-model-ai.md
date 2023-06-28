@@ -39,6 +39,22 @@ related:
         width: 1519
         height: 900
         isCached: true
+  - title: "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs"
+    excerpt: "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer."
+    publishedDateTime: 2023-06-28T21:30:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 635
+        isCached: true
   - title: "HPE Dives Into Supercomputing As-A-Service With GreenLake For AI LLMs"
     excerpt: "HPE teamed up with Aleph Alpha, an AI startup, to offer ready-to-use large language models (LLMs) as part of its on-demand, multi-tenant supercomputing cloud service."
     publishedDateTime: 2023-06-28T15:35:00Z

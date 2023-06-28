@@ -2,17 +2,17 @@
 category: news
 title: "How the Bud Light boycott shows brands at a crossroads: Use their voice, or shut up?"
 excerpt: "Large companies have played the role of activists and been one of the biggest countervailing forces against social and religious conservatives on LGBTQ measures. All that is at stake now."
-publishedDateTime: 2023-06-28T09:00:00Z
-originalUrl: "https://www.boisestatepublicradio.org/2023-06-28/how-the-bud-light-boycott-shows-brands-at-a-crossroads-use-their-voice-or-shut-up"
-webUrl: "https://www.boisestatepublicradio.org/2023-06-28/how-the-bud-light-boycott-shows-brands-at-a-crossroads-use-their-voice-or-shut-up"
+publishedDateTime: 2023-06-28T13:00:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2023-06-28/how-the-bud-light-boycott-shows-brands-at-a-crossroads-use-their-voice-or-shut-up"
+webUrl: "https://wusfnews.wusf.usf.edu/2023-06-28/how-the-bud-light-boycott-shows-brands-at-a-crossroads-use-their-voice-or-shut-up"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Boise State Public Radio
-  domain: boisestatepublicradio.org
+  name: wusfnews.wusf.usf.edu
+  domain: usf.edu
 
 topics:
   - Natural Language Processing
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pWI5VhSOY4zyI474rk4EM+rZWBxM6A0ALUY8uBBYFLAHOi/HKMHqbw8sNGgKc+f2uFBlSm1MvUmA01sUNrAuawbE0mjUn9AUb1BjXIDFs9TMxd2QZs/B/z/YzkHaYu0kKhcBXdmQ9hLQkU0wj/Bmeum54Dk7NPy2pa3lh8qJO5pjgZMSyyjernBJC5fAqSeEaTMUzM9aPtDKg8DmfnjO9sUc2gtd5sC83hEDYiig59cIIEzaLMWk5gdA3QsbdK/79P0ogsNdPqspwV3vpDMoTZAaSFYzux9gag08q0glVSUo+c9Jjy5GZ/pdkNKYJEYIyq8m0Ta9vSE+KBzFry3W9lr0W7CnaGdxRS0/a8DcMiA=;sYd2Ztyu8hgoUvININdGkw=="
+secured: "HMhZMLMXy9ur+peFZbGy6cG0VA67AbwuVy332zCw/NtNJe/zj4QHEva9Kg0TeYCPpaoadPz6xi+HcMP58qqNJNsHun1oRkF+RqDhq+CcwnEuCg7hDkNsjze2sJb9S5fRZAzKhPmPyRzkX43E66MoiD9ANtb01rRIzsZhJ+IoZX9jPQQH3dMg4dsjvarawGw2IJDqr8CVaqwjdirBkBRL9U+AvSyssawcvwHN5pOptkgj/DAALVXMrK2NQO4lZBdQ+mwng+WZWsoXhsqtcKZeJno9wFq3EittXYuVKmiZ0Qy+VTA36B+Afz7dreiDYZIFQodl0asDGIjEWAt3SIEoPHBa7iQuNrtCAboN4rwqgKY=;LwSS8l44zi2TmEj6VShL5Q=="
 ---
 

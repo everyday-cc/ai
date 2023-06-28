@@ -241,6 +241,15 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 34
+  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
+    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
+    publishedDateTime: 2023-06-28T18:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840760.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z

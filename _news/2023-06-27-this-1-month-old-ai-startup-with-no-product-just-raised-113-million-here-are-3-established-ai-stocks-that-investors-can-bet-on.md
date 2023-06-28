@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Small-business owners are investing in AI to help free up their time"
+    excerpt: "Small-business owners are planning to spend tens of thousands of dollars on digital tools in the next year — and that includes AI software. A new survey of 1,000 businesses with up to 200 employees by Intuit Quickbooks found that business owners were expecting to spend between $45,"
+    publishedDateTime: 2023-06-28T19:17:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/06/28/chatgpt-ai-small-business-invest-money-time.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "BVMW3clrLDH+FRn4fLLefZk0hKyQb7gYCGKQKC3FqVje4BPOYfM5u3JO80IrHP2mc+ITobHoXa8iVd/vL42Q0QyaIw02ijQkPQEDb0GziCCDVFvtlnif7Ofl3d0k8Jr8ikzyvANDtDMdxr2ygyd5X2EX+QLPK11v9bWYan2DhccANr96hatwHErFqpMZo0MTlllZyUcWrgtzDkyw465MEA2q1LMVGKnoLX9H3M4v8va9I94bdv8BrDDF9f68hJMheLaPiPW74PqAzknMVDb98QbhCRTdabmwOfoSm0TbWfdmJL8ex3GnVqXMHvb1cKZ1WJmRKaJI7peD2nMK7KqoWWWCRJ3t7yeWtORjgSSrEn0=;mdrYXjstbWRdUPr5QZqejA=="
 ---

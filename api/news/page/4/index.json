@@ -2,6 +2,212 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-27-databricks-acquires-mosaicml-to-make-generative-ai-more-accessible.md",
+      "title": "Databricks Acquires MosaicML To Make Generative AI More Accessible",
+      "excerpt": "The acquisition of MosiacML marks one of the first major acquisition deals in the emerging generative AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 359,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499c5aff7ffe450335d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
+      "publishedDateTime": "2023-06-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-wingpt-is-a-windows-31-ai-chatbot-for-your-old-ibm-compatible-desktop.md",
+      "title": "“WinGPT” is a Windows 3.1 AI chatbot for your old IBM-compatible desktop",
+      "excerpt": "WinGPT supports any 16- or 32-bit version of Windows 3.1 or newer but won't run natively on 64-bit versions of Windows. You can download it from the bottom of this Dialup.net page, which also doubles as a development blog detailing how it was built and how its icon was designed.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image_editor.png",
+          "width": 728,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
+      "publishedDateTime": "2023-06-26T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
+      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
+      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ibm-tech-now-june-26-2023.md",
+      "title": "IBM Tech Now: June 26, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at quantum utility and the GA of IBM Storage Defender.\nThe post IBM Tech Now: June 26, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/IBM_Tech_Now_thumbnail_079-e1687798517469.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:46:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-three-ways-use-ai-to-create-a-seven-figure-e-commerce-storeeven-if-youre-not-a-techie.md",
       "title": "Three Ways Use AI To Create A Seven-Figure E-Commerce Store—Even If You’re Not A Techie",
       "excerpt": "When Huang surveyed more than 220 e-commerce sellers recently, 58% said they were not familiar with AI technology or were only somewhat familiar. Huang saw a need to bring them together to give them a place to start. After spending two months doing a deep ...",
@@ -352,7 +558,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -604,7 +810,7 @@
       "originalUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -893,7 +1099,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1035,194 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-thoughts-on-ai-impact-in-banking-mckinsey-banking-ceos-and-boards.md",
-      "title": "Thoughts On AI Impact In Banking - McKinsey, Banking CEOs, And Boards",
-      "excerpt": "AI continues to develop quickly, and executives are establishing frameworks for how to work with the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
-      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6498df4fa8cb02b4c45d417c/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1070,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
-      "publishedDateTime": "2023-06-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-is-my-copilot.md",
-      "title": "AI is my copilot",
-      "excerpt": "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
-      "originalUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
-      "publishedDateTime": "2023-06-26T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-cisos-can-balance-the-risks-and-benefits-of-ai.md",
-      "title": "How CISOs can balance the risks and benefits of AI",
-      "excerpt": "Rapid growth and development of AI is pushing the limits of cybersecurity and CISOs must take charge now to be ahead of a range of risks including data leak, compliance and prompt injection attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.html",
-      "originalUrl": "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html",
-      "publishedDateTime": "2023-06-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets.md",
-      "title": "AI is being used to translate 5,000-year-old cuneiform tablets",
-      "excerpt": "AI is broadly software that's able to learn, reason, and infer meaning, and that makes it a wonderful tool for translating ancient or dead languages. A team of archaeologists and computer scientists have created an AI program with exactly that purpose in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets/",
-      "originalUrl": "https://www.pcgamer.com/ai-is-being-used-to-translate-5000-year-old-cuneiform-tablets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZhP6GkGFiTKFoFp44cEtHY-1200-80.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

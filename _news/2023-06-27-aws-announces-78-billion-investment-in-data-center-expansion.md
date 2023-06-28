@@ -141,22 +141,6 @@ related:
         width: 679
         height: 452
         isCached: true
-  - title: "Deep tech innovations: Unleashing the power of Artificial Intelligence in different sectors"
-    excerpt: "At its core, AI is the simulation of human intelligence in machines that are programmed to think, learn, and problem-solve like humans. In an era of rapid technological advancements, one concept that has emerged as a driving force behind revolutionary innovations is deep tech."
-    publishedDateTime: 2023-06-24T04:28:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/articleshow/101232509.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/deep-tech-innovations-unleashing-the-power-of-artificial-intelligence-in-different-sectors/amp_articleshow/101232509.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-158819,msid-101232508/capture.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
     excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
     publishedDateTime: 2023-06-28T14:36:00Z

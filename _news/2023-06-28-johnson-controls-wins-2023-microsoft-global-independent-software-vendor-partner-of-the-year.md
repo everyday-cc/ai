@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-w
 webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "BlueVoyant recognized as the winner of 2023 Microsoft US Partner of the Year"
+    excerpt: "BlueVoyant, a cybersecurity company that illuminates, validates, and remediates internal and external risks, today announced it has won the 2023 Microsoft U.S. Security Partner of"
+    publishedDateTime: 2023-06-28T19:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n33049303/bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33049303"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33049303"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Volpara recognized as the winner of 2023 Microsoft Healthcare & Life Sciences Partner of the Year"
     excerpt: "Of the awards, Teri Thomas, Volpara CEO and Managing Director, said: \"We love our Microsoft partners and are so proud to be named Microsoft Partner of the Year in the Healthcare & Life Sciences category."
     publishedDateTime: 2023-06-27T19:25:00Z

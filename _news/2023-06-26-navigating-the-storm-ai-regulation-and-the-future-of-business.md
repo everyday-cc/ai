@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI redefining corporate communication"
-    excerpt: "AI is becoming an inevitable part of our everyday life. You might not be aware of it or how it works, but in one way or another other it affects your life. It is increasingly being used in various industries,"
-    publishedDateTime: 2023-06-24T03:38:00Z
-    webUrl: "https://www.theindependent.co.zw/opinion-analysis/article/200013142/ai-redefining-corporate-communication"
-    ampWebUrl: "https://www.newsday.co.zw/theindependent/amp/opinion-analysis/article/200013142/ai-redefining-corporate-communication"
-    cdnAmpWebUrl: "https://www-newsday-co-zw.cdn.ampproject.org/c/s/www.newsday.co.zw/theindependent/amp/opinion-analysis/article/200013142/ai-redefining-corporate-communication"
-    type: article
-    provider:
-      name: Zimbabwe Independent
-      domain: theindependent.co.zw
-    quality: 59
-    images:
-      - url: "https://cdn.thestandard.co.zw/images/newsday/uploads/2023/06/CSJoUGBne5mwEk2gPjL2eAQnNjImY4j351MG2x9p.png"
-        width: 870
-        height: 470
-        isCached: true
   - title: "Big tech companies want AI regulation - but on their own terms"
     excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
     publishedDateTime: 2023-06-27T05:44:00Z

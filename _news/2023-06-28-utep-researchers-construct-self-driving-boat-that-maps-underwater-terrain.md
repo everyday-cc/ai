@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-bo
 cdnAmpWebUrl: "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: NewsChannel 9 - KTSM
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "This Self-Driving Boat Maps Underwater Terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-28T18:06:00Z
+    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 19
 
 secured: "Yz+UaLSCKMy5VPl6Tt/5yPQvjnMxwhQPW34OHtQh3uQWYHtD6nJ/R6v+238jRlv5HRnk3BFZ5UtN0f3twZisml/wdPd5SA/q2eSNA3EBArKD783kJMyGFrwVkiQPzqwwTKC4UON+vpw9pW3kqOhkb5PRy4ZgXlaQ4Ah+RTFKSSbdqL+HGMim+KF9Xh+QhN50OuFdZ8Qbiy7ARybLavB+1LavHPBFwQTIAZiNL2sCffNBpfiAI+r/CEpoFbQxMDdXEIeYqVnnzTkU9zA3nOFA1zRhlJ1775GBMpAVLWXjrem/axYCYyTBjxEaRg1+yt54c2KrAHXV0IrigeRL1RFvucnLQjQ8Az0viOKzP6WvHIk=;lTk9S0G899gMIz56nVtMIg=="
 ---

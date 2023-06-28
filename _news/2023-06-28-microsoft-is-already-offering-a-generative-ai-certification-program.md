@@ -232,6 +232,15 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 34
+  - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
+    excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
+    publishedDateTime: 2023-06-28T18:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840760.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
     excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
     publishedDateTime: 2023-06-28T04:00:00Z
@@ -333,6 +342,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "GpzRbaLrLOibzx1I4vSd8TR/0VTcZj9gS0VnvlIEDkCJODzys4qGe1QYuiJjtAW+gfMRsrWqR7S2KXaZA6ZYYKFBQeRci3wbgGI/251UQsR0+yXeOTSScc8JcRqeakzbdu95iEgw9QDYWVf41CKJ/TAbDBKuLyrICm8NkKMp8l+87QE+hZ+6c3LmbmRrr/dead/SaVBGKRpZ/OmnJgmfVk0n6W5Lri8Bd8LKa9J24F74tGelykbwN6JuGN1lANSb3US1dz7ZACDiqqTIwY8dFUaDm8K+weCRlfFeOvbWwFuQ8891zq2JFykNveHdsTGcjm5r5pQzbQjMjmpX2BG4909VkMbmCrZzptpTF9tVYBM=;HRCnY0K1BCkKRc0hem5wGg=="
+secured: "Ko4ojqtbEiCEMQJknKdSEYBPLi2zqhcjIsIXi4A0l1msIu0gUheylA5Ja5rOLbHxbXhAU7VD0Vj7/OFroJpmVcZOq+Tvx5uWDu54PkwCnXs6Jk2l1ZnJZ0SU+sh8RMywmbCs1eFKb6IwHVyAIcfZy584cFRJw8X0ObtqRF47SAUovl2e4PmYBV//zyCAiBoxiMmhr1YbTyXP/k1IC6Pd21emJuwQdXVeG6ayMLu9CFSnBsYsjxlanPGTLT0b/iUE2cfEAsAlbigmDHLB0FkxFfdLEifAxN5mDeUPWwskO01Wo5eCnEhbcjDc4iYYtqnzbw9lASmL7sZIARD/CXUkJ+VyhEbhrt7TmiO1f0CeechkkvVxuSG581nmqI6JTz4kHE+zvBtmgmUpDL4dqp7qBDI3iuGqGank5mybv7iGGsksyfmJocqdYhvupSLxQum8xvH4x9nZy2oDLH4lHC3GvjfHh6YGxmWReIgHVZYyQOdo1w1RLD3wqReT62bjJ5TkskZsZ2HTC3Vvxkwi1YvkDg==;Wk7RMH0DWiXJJObwyomN9Q=="
 ---
 

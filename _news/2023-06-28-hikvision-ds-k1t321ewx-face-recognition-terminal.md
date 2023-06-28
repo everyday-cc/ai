@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/hikvision-ds-k1t321ewx-access-contr
 webUrl: "https://www.sourcesecurity.com/hikvision-ds-k1t321ewx-access-control-reader-technical-details.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Computer vision system marries image recognition and generation"
+    excerpt: "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),"
+    publishedDateTime: 2023-06-28T20:39:00Z
+    webUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "HIasczeWoSZ+PAt3bWM9Nx3NChMB5PjI1BKpY9tdB99YPdbdc2DyfavaRMDZUf9v3fXJOclqCtrFyl9MhuoiyuvDUcktdoLyyGqpQe3Vi14qtj786+JGC+3fn9rGm2Bwp1MYjo/pOTM1VVCEYdKK6OCdyENUl7g4m2cqW7qCazJPIvTaj/bGbhwnKN+R8i7fv2fvr8cdwDOy/wl+LvC/d3q3u1P9mSqBj3YZ2wN1oMOEi43Q4R7aev0UkDIlLWNxniIJqC20PvAtx6q3/uS1DMmClxNOH660pVpWBuDy57DKX0zB2Tcta8wpihtJLnTLkUlAe73F6GjXBLVHe2/CoagadELiFNWxrI9MBbl71t4=;PXKGKsKZryKEy5pMDSi3xg=="
 ---

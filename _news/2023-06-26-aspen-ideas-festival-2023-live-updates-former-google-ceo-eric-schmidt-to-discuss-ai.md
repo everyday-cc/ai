@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/rcna90875"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/25/w600X390/Google012.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Google CEO Sundar Pichai meets Narendra Modi, discusses issues like AI, cyber security"
-    excerpt: "Washington: Prime Minister Narendra Modi, who is currently in the US, on Saturday met CEO of Alphabet Inc. and Google Sundar Pichai in Washington DC."
-    publishedDateTime: 2023-06-24T03:18:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/90280/google-ceo-sundar-pichai-meets-narendra-modi-discusses-issues-like-ai-cyber-security.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 48
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2023/d93b7bd98e741c58052a1c30fea0fd45.jpg"
-        width: 800
-        height: 439
         isCached: true
   - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
     excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."

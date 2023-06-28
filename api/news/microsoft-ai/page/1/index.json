@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year.md",
+      "title": "BlueVoyant recognized as the winner of 2023 Microsoft US Partner of the Year",
+      "excerpt": "BlueVoyant, a cybersecurity company that illuminates, validates, and remediates internal and external risks, today announced it has won the 2023 Microsoft U.S. Security Partner of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33049303/bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33049303/bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33049303",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33049303",
+      "publishedDateTime": "2023-06-28T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
       "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
       "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
@@ -168,7 +211,7 @@
       "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 366,
+      "heat": 376,
       "tags": null,
       "images": [
         {
@@ -685,7 +728,7 @@
       "originalUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1411,49 +1454,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-chemo-brain-is-real-but-there-are-ways-to-ease-it.md",
-      "title": "‘Chemo brain’ is real, but there are ways to ease it",
-      "excerpt": "Physicians call it cancer-related cognitive impairment (CRCI), and research indicates it affects about 75 percent of cancer patients during treatment, with 35 percent reporting persistent symptoms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "originalUrl": "https://www.washingtonpost.com/wellness/2023/06/18/chemo-brain-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BAXZSIH3RRGRTBI2FEKABL6ONI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

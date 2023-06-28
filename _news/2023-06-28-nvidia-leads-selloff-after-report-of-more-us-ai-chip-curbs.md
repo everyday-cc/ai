@@ -181,6 +181,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chinese Internet Stocks Slip on Report U.S. to Tighten AI Chip Exports"
+    excerpt: "China internet stocks lost ground Wednesday following a report in The Wall Street Journal that the Biden Administration intends to make it harder for chip makers Nvidia and Advanced Micro Devices to sell their most advanced processors to Chinese companies ..."
+    publishedDateTime: 2023-06-28T20:12:00Z
+    webUrl: "https://www.barrons.com/articles/chinese-internet-chip-exports-6bb6c550"
+    ampWebUrl: "https://www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chinese-internet-chip-exports-6bb6c550"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-808733/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Stock Lower on Possible AI Chip Sales Restrictions"
     excerpt: "Nvidia (NVDA) stock is struggling this morning amid reports of potential restrictions of AI chip sales to China"
     publishedDateTime: 2023-06-28T14:32:00Z
@@ -253,6 +269,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
+    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
+    publishedDateTime: 2023-06-28T19:29:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-warns-of-lost-opportunities-if-u-s-bans-ai-chip-exports-to-china-293fa911"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 63
+  - title: "US Considers More Restrictions on AI Chips to China"
+    excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
+    publishedDateTime: 2023-06-28T17:33:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/06/us-considers-more-restrictions-on-ai-chips-to-china.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 56
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "Nvidia drops on report US plans more AI chip curbs for China"
     excerpt: "The two lead the market for chips vital to the development of generative artificial intelligence models such as ChatGPT. In China, traders unloaded a slew of AI-related stocks, pushing Inspur Electronic Information Industry Co. and Unisplendour Corp ..."
     publishedDateTime: 2023-06-28T15:03:00Z
@@ -309,20 +348,15 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "US Considers More Restrictions on AI Chips to China"
-    excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
-    publishedDateTime: 2023-06-28T17:33:00Z
-    webUrl: "https://www.nextbigfuture.com/2023/06/us-considers-more-restrictions-on-ai-chips-to-china.html"
+  - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
+    excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."
+    publishedDateTime: 2023-06-28T17:25:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/nvidia-knocks-down-concern-over-ai-chip-exports-to-china.html"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
-        width: 1024
-        height: 718
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "Nvidia and AMD shares fall as US considers tightening restrictions on AI chip exports to China"
     excerpt: "The Wall Street Journal reports that Washington is considering tightening its export controls on AI chips to China as a means of preventing US companies' top"
     publishedDateTime: 2023-06-28T13:43:00Z

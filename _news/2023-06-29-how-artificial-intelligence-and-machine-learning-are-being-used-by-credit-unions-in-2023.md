@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-28T17:00:00Z
 originalUrl: "https://www.cuinsight.com/how-artificial-intelligence-and-machine-learning-are-being-used-by-credit-unions-in-2023/"
 webUrl: "https://www.cuinsight.com/how-artificial-intelligence-and-machine-learning-are-being-used-by-credit-unions-in-2023/"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.cuinsight.com/wp-content/uploads/2022/01/bigstock-Artificial-Intelligence-ai-419338291.jpg"

@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "This Self-Driving Boat Maps Underwater Terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-28T18:06:00Z
+    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 19
 
 secured: "aARJVtdvee5HTbHjLeQW/DdArYOD2oL3qjShgtO9rlxzHa/+ynyNCwKpk47er7gahkaWRHRoTrNaidBUzCs0hE3V0s+qWWSLLf9v+28Q4OX8Kdu1pW8snYdT1ZSdlyk91Cv3TpuWdYiFlyssCT4TGBfOq3U/Ww32WcK5BIZ/G7X62GiKik69379ATsHrwpcWKDZrQ6Fe6MaLiO6x9Z/E/DIlo3L4pCQtmQdX2Uq+8QI7BswyfpXWMHqJz3J5NaODJRgic8gPiHoIVvyS3564UkJGnKhTZVZ5KD37nhD/eFivc366nQYhlWAoVdomjpoxJDAuI9kRqjPREgdq4LNad3kYX4f4YcoM+El0Ats8OVAd85WBixMKkpbl4X0PGNPJo7zngTP5A9XGdfeuXbaP7fw4qA4P7GSnOa81h1q92R9QIT9xZ5qRfWBkEz91PQaBggCzNeEFVq3T/PsvqtOVk0fSOt3DzzHbJP0TnJWDK9GeURq5kHSKUdoKSH0BZwVeQ0kBcyREFBv2Y1AuxQ+Gpg==;SeT+LYqGH9Z8DAL/9cgXNg=="
 ---

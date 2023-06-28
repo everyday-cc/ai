@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/06/28/1075495/empowering-asias-ci
 ampWebUrl: "https://www.technologyreview.com/2023/06/28/1075495/empowering-asias-citizens-the-generative-ai-opportunity-for-government/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/28/1075495/empowering-asias-citizens-the-generative-ai-opportunity-for-government/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.ytimg.com/vi/p9gh_HZQCbk/hqdefault.jpg"

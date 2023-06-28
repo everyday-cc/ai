@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman Calls AI ‘Most Important Step Yet’ for Humans, Tech"
-    excerpt: "The CEO of artificial intelligence startup OpenAI Inc. said there are many ways that rapidly progressing AI technology “could go wrong,” but he argues that the benefits outweigh the costs."
-    publishedDateTime: 2023-06-24T01:49:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/sam-altman-calls-ai-most-important-step-yet-for-humans-tech?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e09d706/2147483647/strip/true/crop/3000x1564+0+216/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ff2%2F07%2F32b283f742babdcb9c67f01a88a5%2Fbiz-cpt-ai-altman-get.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
     excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
     publishedDateTime: 2023-06-25T12:29:00Z

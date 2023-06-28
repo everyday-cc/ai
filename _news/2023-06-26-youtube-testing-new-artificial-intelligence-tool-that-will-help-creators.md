@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
-    excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
-    publishedDateTime: 2023-06-24T01:09:00Z
-    webUrl: "https://www.techtimes.com/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/292997/20230623/youtube-dub-videos-languages-new-ai-tool-aloud-under-testing.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 52
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/429037/youtube.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "YouTube to make it easier for creators to dub videos in different languages with AI: Know how"
     excerpt: "YouTube is set to roll out a new feature that will help creators reach out to a larger audience, irrespective of the place they live or the language they speak."
     publishedDateTime: 2023-06-24T06:34:00Z

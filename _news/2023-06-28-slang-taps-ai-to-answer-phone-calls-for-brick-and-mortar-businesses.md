@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
+    excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
+    publishedDateTime: 2023-06-28T18:39:00Z
+    webUrl: "https://www.businessinsider.com/how-men-are-using-ai-for-dating-profiles-messaging-study-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Business Hunter will host a summit this week to discuss the implications of artificial intelligence for Hunter businesses"
     excerpt: "He has previously covered issues including the health and environmental impacts of uncovered coal wagons in the Hunter Valley, the pollution of legacy of former industrial sites and freedom of information issues."
     publishedDateTime: 2023-06-27T23:00:00Z

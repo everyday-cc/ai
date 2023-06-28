@@ -44,6 +44,22 @@ related:
         width: 1000
         height: 683
         isCached: true
+  - title: "Databricks Unveils Lakehouse AI - A Platform For Building Generative AI Models"
+    excerpt: "With the new Lakehouse AI, Databricks aims to unify the data and AI platform, enabling organizations to accelerate their generative AI journey."
+    publishedDateTime: 2023-06-28T16:04:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 544
+        isCached: true
   - title: "Databricks’ $1.3 billion MosiacML acquisition to boost generative AI offerings"
     excerpt: "Data lakehouse provider Databricks on Monday said that it was acquiring large language model (LLM) and model-training software provider MosiacML for $1.3 billion in order to boost its generative AI offerings."
     publishedDateTime: 2023-06-26T16:58:00Z
@@ -59,22 +75,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large-100917188-large-100921746-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Databricks Unveils Lakehouse AI - A Platform For Building Generative AI Models"
-    excerpt: "With the new Lakehouse AI, Databricks aims to unify the data and AI platform, enabling organizations to accelerate their generative AI journey."
-    publishedDateTime: 2023-06-28T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 544
         isCached: true
   - title: "Databricks' $1.3 billion buy of AI startup MosaicML is a battle for the database's future"
     excerpt: "On Monday, Databricks, a ten-year-old software maker based in San Francisco, announced it would acquire MosaicML, a three-year-old San Francisco-based startup focused on taking AI beyond the lab, for $1.3 billion."
@@ -119,6 +119,20 @@ related:
       - url: "https://images.wsj.net/im-806103/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
+    excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
+    publishedDateTime: 2023-06-28T20:52:00Z
+    webUrl: "https://www.techrepublic.com/article/databricks-gains-mosaicml-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/using-ai-ml-optimize-edge-iot-performance.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
     excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
@@ -307,6 +321,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
+    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
+    publishedDateTime: 2023-06-28T18:19:00Z
+    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
     excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
     publishedDateTime: 2023-06-28T13:17:00Z
@@ -344,6 +367,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "8RjmnOT8rUpnKFLxiv6PjSd/14dBQhf38O1Tm40sui1m3B9iQQPiP+d87WQHWhJARsmziumitLOwR0aDMNt/B0dYl0hByYcS5WqY5WbMu5Vj41PKdGhsaSZPzxZxzf99qbJFUlabIS44YawVJ5xHTmCQ9aMCcqxyCLNf8kwAB3kHFRGXpSetoJKXcoyHt0NDNLLqrxgalf9hR6zSuMbQiuElLCGlxJNR3xI612daopEnaehuZeNZoVQYcxev8HPnVOX40JzZECA0rTLs8SdBJbw/t4o09lliGbjkrfN50mjgOvy+UuKEPtmxWs9sqE0pge0USS/N0/faBoQN88zhpso+UvHyO8uLHfTHkvEAAc8=;91DPaobXx8ALW6Verfp+0A=="
+secured: "IpznVDPkyXiUfeZe3YRRc7DQh7v/OjuIR9qd2m9Vrl7S9bwYuqfrNCZxERUhuUO7pRyFMp+GqThMHt6lqgWN2WmhssMIra7V+PGpnZQYhvh1HYvTiEEDnaTQXBHWe/tDeyhB5sVl3X10Lu+PBMF6gud3am2PglQ8drSMKc3aStf1E3RbVrOKSnyl6z6RkxpEAUdjUOZl5RsjNFjG8+kIuuFBf+v5oKwxFnvVkfwR94/B5tCjASvNBHO5EMXzLDbHthcD/wNjXsKnHhjRpzrRli/+MBthr7MTNZ1ikGRM9a+VEpl3Smcs4CyM4ImHw8ldynKotSN79N/5FvzLjLD69NzwFQFF/q7FLVqFyB9YgZBBjapRJ8LaaS1oW96HkKnAxGerENX/R4CQKVFARiFTVrXbXUo1nmp5CqkaSnSILhJDrcNB+yDjozzqdJ1iLdL/LLc6b/QD2jBndZRQRgGO+rO3PnMN6nxK7doQcEKGU2LfpBsWePo+9oEuMNkBCdnDF1p29wYGgzlfGuToSdYcnw==;boVVrjayJ2WEs8FCdH+D2Q=="
 ---
 

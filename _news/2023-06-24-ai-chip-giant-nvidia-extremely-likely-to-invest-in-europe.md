@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip giant Nvidia ‘extremely likely' to invest in Europe, says CEO Jensen Huang"
-    excerpt: "Nvidia is ‘extremely likely’ to invest in Europe, according to CEO Jensen Huang, who said European Commissioner Thierry Breton suggested the chipmaker should invest more in the region"
-    publishedDateTime: 2023-06-24T02:39:00Z
-    webUrl: "https://www.livemint.com/companies/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-says-ceo-jensen-huang-11687574059271.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-says-ceo-jensen-huang/amp-11687574059271.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-says-ceo-jensen-huang/amp-11687574059271.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 68
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/24/600x338/NVIDIA-TAIWAN--0_1687574279442_1687574298367.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
     excerpt: "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe."
     publishedDateTime: 2023-06-27T09:00:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/28/databricks-unveils-lakehouse-aia-platform-for-building-generative-ai-models/amp/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
@@ -105,6 +106,20 @@ related:
       - url: "https://images.wsj.net/im-806103/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
+    excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
+    publishedDateTime: 2023-06-28T20:52:00Z
+    webUrl: "https://www.techrepublic.com/article/databricks-gains-mosaicml-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/using-ai-ml-optimize-edge-iot-performance.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Databricks continues generative AI push, launches LakehouseIQ, Lakehouse AI tools"
     excerpt: "Databricks debuted LakehouseIQ for conversational querying of data and new Lakehouse AI tools to help enterprises build generative AI."
@@ -307,6 +322,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
+    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
+    publishedDateTime: 2023-06-28T18:19:00Z
+    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
     excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"
     publishedDateTime: 2023-06-28T13:17:00Z
@@ -344,6 +368,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "PPmLUVQ+LYwvD2K5sMuw6t5qgGmWQzDtRtdImLJuok346tRV5IrX4fBVY29gl7B6IK66JojKymbrneN0XmzjiSZv1+SHe7c3t2brNYMufrx6TDrERAuZgKqMa/wAGjqZpea/uzWp97GR9DBuyjP4Us+fNyuEFwxG1GApYI35TzNlyQUmxy4yo1EbGib8pc5CW1f9TqAudg7NXfp37STy3kM706Dnp3dku3qbIyLp/9Y+hAz90uD4EA4lyY9UDsTZRczrUEy/1xsHlMYzbfHp5aK88A85ek9QhAqXuh7+PHOCEi+jkL/u8PRrfLODPxJBIOEa8ZY5cm3GXjDXBXfzjF8TvHZS9LkNuFTld52psw0=;hpKdfqFFnIyLYrn6nT7Ebg=="
+secured: "xWpB44sZchk+DON7hwASQiq2TtsQtdiOp4vDNHlaRvKKIjyFPqa9Rpi46LYPpxEgQCL/9Fhe9GGqMOTxVjjEIre5AfekuR1W/g0IAXSDb2FIczgvXvwaeGAI1s19+VLucg+4qZ2gcPltwrIOz9WffO2jmdF2rUDs6E0yO/vl15LdjlvcefGuAkb042JFa6mKas7ZfKI2vIGHVMsrHtjcOZ1sbkmxXvuAnywjtk3NwL7ZoeF/snrb5g7OOYYbcfKyQskYB1EVSRWE1EoaeuPNdlzLgZKJe8BxivgsBm9l/B+axuoxgwj4jfoJQDzCG0T7OyF3DjWwn2RtbcwqxYQT5ipUzHc6ROCXfTqV/LtopYb9bZ5ZE67A3C14kTOffYkwp/8sx9hZDp7M4eaWBq/dMlhO23sNtsQ2MP8/aCq+Ehe4JuyaHljgivzFrdXTIiY90doCcwD18u865QjUs9L+l9eTVMjnv/qKARlPKWxphsOAYRjrz1Z26Ym+9vcgZeP6IoDFZ30qURK8X8cDf6rdgQ==;jbnxaxmjjhDwru9BoVJClA=="
 ---
 

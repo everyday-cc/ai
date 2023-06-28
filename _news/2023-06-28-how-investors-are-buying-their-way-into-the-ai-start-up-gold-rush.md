@@ -61,6 +61,15 @@ related:
         width: 2472
         height: 3235
         isCached: true
+  - title: "Small-business owners are investing in AI to help free up their time"
+    excerpt: "Small-business owners are planning to spend tens of thousands of dollars on digital tools in the next year — and that includes AI software. A new survey of 1,000 businesses with up to 200 employees by Intuit Quickbooks found that business owners were expecting to spend between $45,"
+    publishedDateTime: 2023-06-28T19:17:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2023/06/28/chatgpt-ai-small-business-invest-money-time.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
     excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
     publishedDateTime: 2023-06-26T18:18:00Z

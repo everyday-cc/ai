@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-arms-race-this-global-index-ranks-whic
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/2771880621e26c9077d6e2e7e0db4cb2dbaaee8a/2023/06/28/d777c4cd-81cb-44cf-a91e-287d5756ef88/screenshot-2023-06-28-at-10-47-52-am.png?auto=webp&fit=crop&height=675&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "DYQnuZaEZedLO4hHpRxGrjjIsfbMBIwthLB3rz3mnBvZqV9nVgao4N+zWH6jtnnIc8rVIUNxTLW8xNqFrgm12IO0XJp3Ic2QB+deIXQkJ/Q4FupOzt03Es5M9WbB4/Y2rs/dFyj1VDTCJL5fcVNjl1YACIe2AiXevhZs69cLNLNEUYrrp9uFIWs18SuavCGljIUPUJXCUgdqKcIW+1kltWJJIvi93SxdtzsLx5cuyiUmkJ82pHXPw8WAMLw1aSncy+0q7qAVZmynOR6Gy1394dxA6rjd7buckvZPshNpfS72dmESAvUhiLvc2+7H1nVDE2x6t+IvP9WcTD7piL1pMptMIJWjZ7XOm8ad3kl9j/s=;aeUmcmxMDFosT/TMzre2RQ=="
+secured: "hSEAEToB4NNbkTdMKgdKBHcyC2W6QC/GFNyIacsE7fq0TwTmk3BoIFpYB/7gapikijaCJX7C+oFF4HW72fMOlEg/pPCtAeC9lL6YAaLcVykFsWCwXRmYg0HdUL8tSO4RdEfV0mIKmJOiI81ufJZMmHhorJiuE5J+Sq/1aZI4y8PxNq4Rl8wQiB6vn/7OUtXB9kLbGSmcXgQ3zLiKqLMEH7u1vx7tPMTbL1uT1lht1pFpdoPiFLr5bIv7Jc1PJzE2VBvTywPwzBKbN/4gSapo7NilE+EvLu1U4ZlfsxAftSuJVHNXeE5vZabPDGlbI1DtcAARDLbOQ48tp41zA0bAhalhHQmKRel2jDu14lQ6jl64/Y6ftvclDO6/TeumhnXsEvPpetu8k/YTTRI6CJc75hYR0512+Tc86l957+Ov7qEHX4JSqzkhvhDpuwWaVPnxY03zTCOkprc41eVOQhkFNouJ8ieBMdzBu9MoLOIfpOaS67kcWFwoUz6VDMaRbxeiDqZcL6A4TK7t7om7s9n3yg==;MIDQiqJzocqpr40zo17GXQ=="
 ---
 

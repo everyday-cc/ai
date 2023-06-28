@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649c5872cf3c0a50c06aa415/0x0.jpg?format=jpg&width=1200"
         width: 1000
@@ -105,6 +105,20 @@ related:
       - url: "https://images.wsj.net/im-806103/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
+    excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."
+    publishedDateTime: 2023-06-28T20:52:00Z
+    webUrl: "https://www.techrepublic.com/article/databricks-gains-mosaicml-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/02/using-ai-ml-optimize-edge-iot-performance.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Databricks continues generative AI push, launches LakehouseIQ, Lakehouse AI tools"
     excerpt: "Databricks debuted LakehouseIQ for conversational querying of data and new Lakehouse AI tools to help enterprises build generative AI."
@@ -306,6 +320,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Databricks Unleashes New Tools for Gen AI in the Lakehouse"
+    excerpt: "Fresh off its announcement of the acquisition of MosaicML on Monday, Databricks today unleashed a torrent of new AI capabilities at its Data + AI Summit"
+    publishedDateTime: 2023-06-28T18:19:00Z
+    webUrl: "https://www.datanami.com/2023/06/28/databricks-unleashes-new-tools-for-gen-ai-in-the-lakehouse/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 19
   - title: "Databricks Introduces New Generative AI Tools, Investing in Lakehouse AI"
     excerpt: "Databricks' data-centric approach to AI makes it easier to build, deploy and manage large language model (LLM) applications, enabling customers to accelerate their generative AI journey SAN"

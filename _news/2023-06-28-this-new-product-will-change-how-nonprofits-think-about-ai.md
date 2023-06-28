@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/fastforward/2023/06/27/this-new-product
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fastforward/2023/06/27/this-new-product-will-change-how-nonprofits-think-about-ai/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,20 +30,114 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s deflationary winds will blow away profits"
-    excerpt: "The prevailing expectation for artificial intelligence’s (AI’s) impact on humans is laden with doom. Robots will displace workers, enabling companies to fatten their bottom lines. But the history of new technology suggests another narrative,"
-    publishedDateTime: 2023-06-27T13:40:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ais-deflationary-winds-will-blow-away-profits-2023-06-27/"
+  - title: "Age of AI: Everything you need to know about artificial intelligence"
+    excerpt: "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI."
+    publishedDateTime: 2023-06-28T20:57:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
+    ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://www.reuters.com/resizer/F38NajnBw4KY0CNFqCRDcuHo-5Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-06-28T20:10:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "What’s clear, however, is that AI is not going away, but it is changing very fast. Here’s everything you need to know to keep up."
+    publishedDateTime: 2023-06-28T12:08:00Z
+    webUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    ampWebUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 59
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Five Things You Need to Know to Start Your Day"
+    excerpt: "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today."
+    publishedDateTime: 2023-06-25T23:37:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4faQQOWr0KY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
+    publishedDateTime: 2023-06-24T11:04:00Z
+    webUrl: "https://kesq.com/news/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2023/06/tJgl66TP-first-alert-logo-1-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
+  - title: "Everything you need to know about AI but were too afraid to ask"
+    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
+    publishedDateTime: 2023-06-24T17:04:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk-300.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
+    excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
+    publishedDateTime: 2023-06-26T19:18:00Z
+    webUrl: "https://eurweb.com/2023/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask-videos/"
+    type: article
+    provider:
+      name: EURweb
+      domain: eurweb.com
+    quality: 18
+  - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
+    excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
+    publishedDateTime: 2023-06-27T12:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 14
 
 secured: "/c+fc42DnXn6chg9drqp7eDCww3u4OM43TVh4WOW8aATaqhu5fs+D0fak0tnpEAcETPePdiNgD2Z/mIeLQ+OQe1u2514gLOE2gVnm5DB1OOY+to6SC0Gz2hFNcudaKnwf65qginIpjJNudAncouPSQ2rwcU/eri0DpAAhN3fxt6maYwMKJeEG4vhgRKG7/xZzREzSAopIAYBYFGCh7dDSF7g8tGSGtY0ChdhYWsDfUo9l+9WBVBhbR9LQzSWBZJ+ZB8u23QQ4czReajfxnYKeJ61sbKBjO/hkVGl4o+YtMo6IC7LMpF2o9E7f+liM8D36U6sANmCIfeKKeaLCkMWO3e7TjSBOjRK2sJCkuX/rt4=;SlzVx+uZnAvi1oNf9nqW/A=="
 ---
