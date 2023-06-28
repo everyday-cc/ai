@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: psychiatryadvisor.com
       domain: psychiatryadvisor.com
+    quality: 19
+  - title: "Using AI to unlock magical creative possibilities"
+    excerpt: "There’s a new trend in Hollywood to use artificial intelligence to de-age actors. Jenny Priestley talks to Metaphysic, one of the leading innovators, whose technology is being used on Tom Hanks’ lates"
+    publishedDateTime: 2023-06-28T08:24:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlock-magical-creative-possibilities"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
     quality: 19
 
 secured: "w+yJaKO5lFnO59l5HClxkoZCtZOTeju1yJYrSb/o5FTrK8PFR09urisxtqVekqpsiQGGr+nO7ogpcJh9IHaKF8+4B3CmfVTvtvMLZsSy0EHAJUkCZsFSu8wMiU5TZ3UvgYnG24GKA4zYy4dS+GsJMtUZq2yvFAOl4KUtPPZxXMLS0bWGKYwIiBBQzdA4EB0ZbHxwPn9jxR3/7Vo5TtKRU8akDoJpLgVpORZn1j5CLbMRTFL837hYoRIkLSYLjGRtS4Ddf96TOKtchpWC4+fb92hODXFkHBe39lFrBwKuCrU3t4GqDsCoVSqN1o/tWKG+oi9pk51P92ZpQzNE3Nec5c8KoMtuJbwl6cBk23Z1AAs=;4E55n6tbYEby9CbsuJAkjg=="

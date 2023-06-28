@@ -48,15 +48,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "GXE2ER5flmOXI/ZXRw2118+nOZl17zERxef4zxG84VEm2qQXSMlmaYD9c8m1TMX1dhK3qEGLexuAEiG/ZCdCkfJhx9zXtjCBhRxa7XIt5TghbrCf/M25Qky0vyHTd3tT3vLxiRx9XaDVhIO9sVzEZmimUhjCiRnOQiiwjtAS+4hjawfhvPVF0mPrcLfeyKXtBYYASTUdOSwFjmfJcZOArV0dalJVP+4MO6po6wjug3SBHlNhEaD4MbON2eHCFmyEvBv+DZrmwDSjP1Csv8brFGDMbYXizTBtbXSP0xGrBS/SD8RvajTnUXUNiUOVTEhBo3jFuTIVdSO13igOCGKg6kWCe/7mchSGAcIpuleqHfM=;HIEPzq2rn/JRNN2WjDSPDg=="
 ---

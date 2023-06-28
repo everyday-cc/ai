@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Nvidia Leads Selloff After Report of More US AI Chip Curbs"
-excerpt: "Nvidia Corp. led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
-publishedDateTime: 2023-06-28T03:29:00Z
-originalUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
-webUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
-ampWebUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
-cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
+title: "Nvidia leads selloff after report of more US AI chip curbs"
+excerpt: "Nvidia Corp led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
+publishedDateTime: 2023-06-28T04:36:00Z
+originalUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
+webUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1938860!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-nvidia-corp-chip-during-the-taipei-computex-expo-in-taipei-taiwan-on-monday-may-29-2023-in-a-two-hour-presentation-in-taiwan-nvidia-corp-chief-executive-officer-jensen-huang-unveiled-a-new-batch-of-products-and-services-tied-to-artificial-intelligence-looking-to-capitalize-on-a-frenzy-that-has-made-his-company-the-world-s-most-valuable-chipmaker.jpg"
-    width: 620
-    height: 349
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/2023-06-27T132227Z1034386068RC21P1ACV1YZRTRMADP3REKA-SNOWFLAKE-FUNDING_4.JPG?VersionId=gcW3t9zqQrFiutN9vQP.SGlBVGOXd7Gd"
+    width: 860
+    height: 573
     isCached: true
 
 related:
@@ -239,6 +237,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "US to impose new regulations limiting AI chip exports to China: report"
+    excerpt: "The US is mulling over the introduction of new limits on shipping artificial intelligence chips to China, according to The Wall Street Journal report on"
+    publishedDateTime: 2023-06-28T08:18:00Z
+    webUrl: "https://technode.com/2023/06/28/us-to-impose-new-regulations-limiting-ai-chip-exports-to-china-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
     publishedDateTime: 2023-06-26T09:52:00Z
@@ -295,6 +307,6 @@ related:
         height: 427
         isCached: true
 
-secured: "S7PPHDv2+mRWZ8jNPyue9tMt0OjDPR+u6iMGfBUr07Ya4SEk35m8VmEkgkZMeshXCfTIY69S6SXSjZ4gXjRODHkkc+ci1vsh7SOoQUcBImidNraEJU7XmQ8J7HUE373V8emd0jErkoh9itsraQBYPq4CxcWVZik4K7Rb0EOJd17BFFHhHjxOCAZFhV+SG2obvlSVS4tSLnIKFdN1v8KxDIfKMQxauVUMU3GL8YuQjG8dfza8cqoVWvFTIfrssVLWA6nmuW/3sDeO0QmFA+LvKBaRmxNr5dr3rSRWhZ919E3gCvobiWCfZjkMfn6HP6LQQNzoeMhE31/hVvS5gTFIbMVozu6L9aV8gYsGiBM0kFw=;mnDEn1EnRbK1UGtoEE8iUg=="
+secured: "KsH+rSrhSDuiIzSAd48d80KnwI9wQMMcxPxTPd+788BeEjSfqLyxttzK2hZwfkH0PbcgrAf1cBPQYEo6smT71yflgRVfzd89lEgRiskptT/ruIUCup/GjbFDsvIwWbunv4aQPDNLZAHZvub9IioRpSuxiflnIwNDlTvEmOo7KoaWPFc9cloMfFxZdUtmdW+moLbekP+9Bqy5X6192lduBkgDxXBd89moVzdOi8l4ix4XEhaGC0hEQU4yaaAq/bkKhwThathZBvReonoN+w9XfAr85GQUzQt034/8Qdqz5BfYMdPfesNrmfC0WAo302fjU0wwJz7kpYj/SnIlqC+jOPLV8X7/eWeuxfUciPD5ihU=;A3l5u1biG7DDlH7848gIog=="
 ---
 

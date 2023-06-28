@@ -26,65 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics"
-    excerpt: "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself."
-    publishedDateTime: 2023-06-23T15:26:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
+  - title: "New WEF research identifies revolutionary healthcare AI applications"
+    excerpt: "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption."
+    publishedDateTime: 2023-06-28T08:02:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications"
+    ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 80
-    images:
-      - url: "https://images.indianexpress.com/2023/06/RoboCat.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "DeepMind unveils self-training RoboCat"
-    excerpt: "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\""
-    publishedDateTime: 2023-06-26T20:10:00Z
-    webUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
+      name: devdiscourse
+      domain: devdiscourse.com
     quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "DeepMind introduces self-improving AI model called RoboCat"
-    excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
-    publishedDateTime: 2023-06-24T15:02:00Z
-    webUrl: "https://interestingengineering.com/innovation/deepmind-introduces-self-improving-ai-model-called-robocat"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
-    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
-    publishedDateTime: 2023-06-26T08:00:00Z
-    webUrl: "https://i-hls.com/archives/119736"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 54
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280"
         width: 1280
-        height: 853
+        height: 960
+        isCached: true
+  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
+    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 65
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
+        width: 1280
+        height: 759
+        isCached: true
+  - title: "Health care’s AI revolution is well under way"
+    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
+    publishedDateTime: 2023-06-26T11:34:00Z
+    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 39
+    images:
+      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Will AI be an exceptional industrial revolution?"
+    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
+    publishedDateTime: 2023-06-26T01:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
+    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
+    publishedDateTime: 2023-06-28T03:35:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 29
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "a/pltym794x7/FCFdigVgDQRp/8igIbhvAdDz60/LkEb6Woe97NLRlH1YtDHklx5DFtZRcECMqESUuAZ/HKt58mvGp90sIMhQ8GRurriCTJnNzh8xqzYGSv5HJX7Uvn5HUHV2tOg8N8QDEl6V89DzEodSD67ManD6jVr9CLbLknKqnSgqMMzqPkxJUX/wqh14tDLEaWi12s51Lvf2cA1oPRvptUtL89FXkmt8Rf/d6wI8+mQMXB29kVm/zpnjUSS/t6JY07fjDiJ1jaWsdzNZ81cDQUJh324v0UXB32FV/WWE9FE/I2r2M/vl1SWEQaXpBN5zqKLii+cUbrfeJ5C8w1x0h4EEBu4UQJlIR7wUSU=;rckaRMxAmwtZQRF4+OrmCQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kptv.com/video/2023/06/27/artificial-intelligence-progra
 cdnAmpWebUrl: "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/?outputType=amp"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Portland tests artificial intelligence for non-emergency calls as it tries to reduce 911 wait times"
-    excerpt: "The system at first will be used \"for a couple hours a day\" to identify calls that should be redirected from the Bureau of Emergency Communications' non-emergency line – 503-823-3333 – to the separately managed 311 system."
-    publishedDateTime: 2023-06-23T16:16:00Z
-    webUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html"
-    ampWebUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 58
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QSW7EYQDURBWLDEJWJM6OE4TZY.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Meet Sixty AI the new startup from Portland founder Mat Ellis"
     excerpt: "Productivity tools are all about doing more things. And we are about having to do less and concentrate on the human side of staying in touch.'"
     publishedDateTime: 2023-06-27T11:30:00Z

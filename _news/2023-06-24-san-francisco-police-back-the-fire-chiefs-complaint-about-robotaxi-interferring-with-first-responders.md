@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/san-francisco-police-back-fire-215203874
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/san-francisco-police-back-fire-215203874.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
-    excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
-    publishedDateTime: 2023-06-23T15:37:00Z
-    webUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis"
-    ampWebUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/94da5ef/2147483647/strip/true/crop/1172x611+0+51/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2Fb4%2F95696e8771c007df4d93db50a98b%2Fsan-francisco-shutterstock.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
     excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
     publishedDateTime: 2023-06-23T18:07:00Z

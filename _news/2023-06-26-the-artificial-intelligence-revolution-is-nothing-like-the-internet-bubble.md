@@ -47,20 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Health care’s AI revolution is well under way"
-    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
-    publishedDateTime: 2023-06-26T11:34:00Z
-    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "Kksry7PtU3JEAnYyZTiNoAwY9q+TOzISytq/AH3gC62wgzLa9UZbP0PLuID94XjSbWi6SYNESXEmjIQhWmuw5RVQi8h8TS6Ezkenflicu5AmDuEbH4X2TkH9UeZPdEL9qDSjvT5zkvD4dsR5h/30R+1RtCpuB9ALodrvPLwUVlZ4qIhQsDG37o5itR4hTeqBX5iRTRgonBuloW2uwMKMh4s9ulFCu1viY+xlgl5MoGbd5av+nmDKou9RhX5s9X6oOVJNoPwZXA9ORMWKVkmaRn6D5iFgqwfkZjcbYJRMQ7DM4k4cBS6wYgguIDF9pMIMotbad2BXvM36myrrauEP9Hx6ir/407V/IEqHQmmvooiNE9Az8lmQ392IgfBQVrpcD21AAO0UNkAdu51ro/Dak0ErFUK7B48oDZtHnt3yoCTVZzwvvIPmEn+gZvYhj5q7nlzTKHP+ejcpiUmdnC7kJ/ThXqEh8esaqpoycPiR7IFK9LTmN+VDZ+ceE5DZF1UR4eLkAkepmvOv0J/7k/4cXA==;84CxPExKFg2SvNclOpU10Q=="
 ---

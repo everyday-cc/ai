@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
-    excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
-    publishedDateTime: 2023-06-23T15:37:00Z
-    webUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis"
-    ampWebUrl: "https://www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/san-francisco-fire-chief-voices-concern-over-robotaxis?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/94da5ef/2147483647/strip/true/crop/1172x611+0+51/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9d%2Fb4%2F95696e8771c007df4d93db50a98b%2Fsan-francisco-shutterstock.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "San Francisco police back the fire chief's complaint about robotaxi interferring with first responders"
     excerpt: "San Francisco officials want to delay a vote on robotaxi expansion while issues with emergency vehicles are sorted out."
     publishedDateTime: 2023-06-23T21:53:00Z

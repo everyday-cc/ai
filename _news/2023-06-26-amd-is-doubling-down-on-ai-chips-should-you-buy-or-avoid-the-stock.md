@@ -37,20 +37,6 @@ related:
         width: 2265
         height: 1511
         isCached: true
-  - title: "Health care’s AI revolution is well under way"
-    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
-    publishedDateTime: 2023-06-26T11:34:00Z
-    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
-    images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
     excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
     publishedDateTime: 2023-06-26T16:13:00Z

@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-24-self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year.md",
-      "title": "Self-Driving Ubers Coming Soon: Waymo Partnership Could Start This Year",
-      "excerpt": "Uber has signed a multi-year partnership with Waymo, the Alphabet-owned autonomous driving technology company, to begin offering self-driving vehicles possibly this year, starting in Phoenix, the companies announced Tuesday. Waymo's self-driving vehicles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646cc55f6e11735320467d31/0x0.jpg?format=jpg&crop=1813,1019,x0,y93,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
-      "publishedDateTime": "2023-05-23T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-is-alphabet-a-buy.md",
       "title": "Is Alphabet a Buy?",
       "excerpt": "Alphabet 's (NASDAQ: GOOGL) (NASDAQ: GOOG) big reliance on digital advertising can be a boon in robust economic times, but a headwind in weaker ones. The company's revenue was up",
@@ -1349,6 +1297,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-intelligence-broad-development-space-sustainable-development-driver.md",
+      "title": "Intelligence: Broad Development Space Sustainable Development Driver",
+      "excerpt": "The 7th World Intelligence Summit will be held from May 18 to 21 at the National Convention and Exhibition Center (Thenchin). The theme of the conference | The Eastern Herald",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
+      "originalUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=640,height=355,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/05/Intelligence-Broad-Development-Space-Sustainable-Development-Driver.jpg",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

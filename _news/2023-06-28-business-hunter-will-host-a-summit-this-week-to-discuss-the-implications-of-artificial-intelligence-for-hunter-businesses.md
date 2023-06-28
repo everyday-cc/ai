@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
-  - title: "Will AI be an exceptional industrial revolution?"
-    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
-    publishedDateTime: 2023-06-26T01:15:00Z
-    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "WkMfxivVX/n5DRgPudEoGCO05ooy1aC9/xxj81SzFkU+lROutiV9dSPOsJKoovoDWXzvvFSMyRdNR7xkg16r7+2swsWSInwxeAOWb5Re+t2tcUoSGzccSgwp/dY2p8NMQiWiTGI/xRag1Z4lqinSYlKTSZyyH5BHB7UwQ58x/dOAQwI/8s01fVBwxE/KnjoKak7ufkJsvMTDU6RE2hQHkMgo98dU9gTnimq4NEfKXv5tgtqr1yBWK+gcSq0RxS+s3pEd0a7eTWv2GdChPkXAYi8CfHRy3CfEgAq0b+wneV9KvsLyMJOzET0gv/CGOfPFTpyBEEQSCger87TeCE0YKrdhD927CCNdC7LUt5+dehJv1hnjNXN9RdjSNMEsLqCNCOiBCE9voT4sPDXPf3IuEo1kzj3mpFeNez5FME14xY2siceJh2h/YtRhzBCL1m0OP6rDyoKYNbStR0gTNtD0crpoFN0/hHmVmndZuyHwzoaDOqmwU71oruM4tKZiy8Y1lstg/RMttdChmZy7IAy5Sw==;QJK8hRPtzpY2Vg+fYPBr9A=="
 ---

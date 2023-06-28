@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Will AI be an exceptional industrial revolution?"
-    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
-    publishedDateTime: 2023-06-26T01:15:00Z
-    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Business Hunter will host a summit this week to discuss the implications of artificial intelligence for Hunter businesses"
     excerpt: "He has previously covered issues including the health and environmental impacts of uncovered coal wagons in the Hunter Valley, the pollution of legacy of former industrial sites and freedom of information issues."
     publishedDateTime: 2023-06-27T23:00:00Z

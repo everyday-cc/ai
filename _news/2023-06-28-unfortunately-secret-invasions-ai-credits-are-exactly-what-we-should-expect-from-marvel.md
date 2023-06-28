@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/6/27/23770133/secret-invasion-ai-cre
 webUrl: "https://www.theverge.com/2023/6/27/23770133/secret-invasion-ai-credits-marvel"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Exactly What Scares Experts About Artificial Intelligence"
-    excerpt: "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging"
-    publishedDateTime: 2023-06-23T17:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737406%2Fwoman-hijabi-eating-apple-on-phone-online-banking.jpg&op=resize&h=340"
-        width: 502
-        height: 340
-        isCached: true
 
 secured: "6mTd2Ty73k6oV4mHb43s6Z9N54XbGg6F5zL9JP2af46pWMY0tr5WM/e6LM14d4WUqw9K86xXTsnZnNbCAClNbN6ZnIWyrSuKR6NGdnjlPNSW8UJqBFv0LstLMjLISZHfomnR+IhmBoxjKoUN/s809Kq2iR0VDwRomoHxuUBUIhB+EdvlDAISU3UV/d7sRrD2neI5XGZ0qPNpP3JSsu222pIGHycU2YDbkJzC6kDEU4xoc5y+yn8a+xzk2v7JQq2f6WBiWCFr77yTRIXsn5yBtE+qmB4rDjqSFle4YNBLPSE9/uVxCT2T75iuPLO/4nBgCx1xCi/AJzp3kDqbH/DLSNvMEhshIqwwPSV1kITemxpZCGIhDSyVdk3bFBcBX0NisE7FEAFvdFn9TpTYbNJNfvYRCKpcLfEqYeJu1LO+bPb8vAA5WIHoefawooi3LHkXd37bIQscjayuUWh74m0UgaYiAMd7SJJ3GwTwscSemk/4/tVhXxdTHXutoAss627Q/n9dfl1rWFhA5GZPBNNQ8Q==;0DtHxyh4+WEhHoxAPngi7Q=="
 ---

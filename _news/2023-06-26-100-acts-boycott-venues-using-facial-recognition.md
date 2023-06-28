@@ -25,56 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Over 100 artists pledge to boycott venues that use facial recognition"
-    excerpt: "Over 100 artists have boycotted a number of venues that use facial recognition at gigs, including Madison Square Garden. Artists to sign the boycott include Bedouine, Boots Riley, Wheatus and Deerhoof."
-    publishedDateTime: 2023-06-26T20:12:00Z
-    webUrl: "https://faroutmagazine.co.uk/over-100-artists-pledge-to-boycott-venues-that-use-facial-recognition/"
+  - title: "Barred From Grocery Stores by Facial Recognition"
+    excerpt: "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ..."
+    publishedDateTime: 2023-06-28T09:02:00Z
+    webUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html"
     type: article
     provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 41
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/1/2021/05/Live-music-concert.jpg"
-        width: 900
-        height: 600
+      - url: "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "100+ artists pledge to boycott venues that employ facial recognition technology"
-    excerpt: "Business News Live Business 100+ artists pledge to boycott venues that employ facial recognition technology By Chris Cooke \\| Published on Tuesday 27 June 2023. A US-based campaign"
-    publishedDateTime: 2023-06-27T10:14:00Z
-    webUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boycott-venues-that-employ-facial-recognition-technology/"
+  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
+    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
+    publishedDateTime: 2023-06-26T22:00:00Z
+    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
     type: article
     provider:
-      name: completemusicupdate
-      domain: completemusicupdate.com
-    quality: 37
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
     images:
-      - url: "https://completemusicupdate.com/wp-content/uploads/2019/09/fightthefuture1250-1024x410.jpg"
-        width: 1024
-        height: 410
-        isCached: true
-  - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
-    excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
-    publishedDateTime: 2023-06-27T12:03:00Z
-    webUrl: "https://mixmag.net/read/artists-boycott-venues-that-use-face-scanning-tech-news"
-    type: article
-    provider:
-      name: Mixmag
-      domain: mixmag.net
-    quality: 14
-  - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
-    excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
-    publishedDateTime: 2023-06-27T08:07:00Z
-    webUrl: "https://www.aol.com/news/zack-la-rocha-tom-morello-080621218.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/57bd0c712ebc5f95dd7c0ee69f9d512c"
-        width: 1200
-        height: 900
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "cm1f06nGruwNxuSb2w8uh3uOGzG5u9PvyEgxPYoJ3bLnNACXzp68lr+OvowSSxOGCIKpape/a+p3RyiBkot+vyc3Wq7sRQsqctLXY9PO4A8UNGRQVZjsxY8Y5QAbfPiy97VSHwwrFlsrsVbW4RqvxJec1o+bQgk8HQqFey5DXYiub0kUeR+5oM5qUiWZ54prbDwrqomPIs0wrbJi+VVRtrJjPQvCaqr4h6bI2+sb98NZH/YqU/yPprCtvGe7of2iYQdr7ltDzlR4/5SZOO8W1e/BTGr26dpf0WfB8jIUk5UeS+z9rVOf+KUYYlJOSaE31wtQtWBccAlF/nmi/1Rzeq3cxcdnoURknw/dQgHWWAec7bw6XWgpA3y4cqZUFjRnaqHfpDIcnK2Gt8C7rBUAM/PzGd+9iBjHlOqC1NVSi4RW+BFPyRPkD6Zl0eMaP8ujZMJaOp3jh4kZAN+YcNG4BGI92FgqBuUS66mtDfB77d/ahNIAWMOgGnwvxb6VxDcgZdESY978dqLqekItvKUizg==;sQGc6uM4yi0ShY8BBVBLYg=="

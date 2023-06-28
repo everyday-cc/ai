@@ -44,6 +44,15 @@ related:
         width: 1500
         height: 1125
         isCached: true
+  - title: "BEST Inc. enhances AI capabilities by integrating ChatGPT into Qianyi ERP software"
+    excerpt: "BEST Inc. announced today that it has integrated the natural language processing tool ChatGPT into its Qianyi ERP software, allowing cross-border sellers to generate multi-language product titles and descriptions using AI."
+    publishedDateTime: 2023-06-28T09:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-inc-enhances-ai-capabilities-by-integrating-chatgpt-into-qianyi-erp-software-1032414274"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "qff4NNrJoRzqS0Wd/bIpEA9rxuVruJWKN5SY+tJi7UqFrQhQmxbfaRQeN8HfWsfAOnp+XCbrBgSNq5t/wp5pAEgthrrxSqJVWQ56eEksCzgZi5eYHQZF7TD9Sop5xhaj4A6Iz8G8ekNto+1j5VomKljsjweldzGFqsmjm0Wf5+odEft24GJxtewbPg2ClyE7tYKVNu1/N7c/LcF1wFZiMjeekS2xeZKLWy+pijhaU/NnQCIFHDxKatQIUCYPARiZH3YsKSBJMwMJYJPKoP9r6ybhNUOCXzzhDO/oTmw3cAaq2YFB5T4H8SRf3QbvrRDxIhpmR/jAtGoFnLwdck1MW++o31od3yKMoivhCX9fAd8=;weMm2OBeG77q6hL1JATKxA=="
 ---

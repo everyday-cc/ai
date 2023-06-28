@@ -35,6 +35,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Using AI to unlock magical creative possibilities"
+    excerpt: "There’s a new trend in Hollywood to use artificial intelligence to de-age actors. Jenny Priestley talks to Metaphysic, one of the leading innovators, whose technology is being used on Tom Hanks’ lates"
+    publishedDateTime: 2023-06-28T08:24:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/using-ai-to-unlock-magical-creative-possibilities"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 19
 
 secured: "vIX2UH+h/d8WOIzQUfRiBGsnNsQGcKpsiTRXqMp9u8CoGjl1+6/nfPm7u0gDuc/dAWbizhrrpY5IKRtkk5fuHiysH0qN3/hwFfjDtVVdLlQARpCXZaozgfDfxqdP5achX9+/LWAbTUDnkP6qjyF67bwCmOgDgUoZABmnmAjmCu3QHh31OJR68XfcyibCbKAYOiUgrmzlOMJBr03PFeLjN4TyOkHT7np/SKLDVt49CYrybFAjilBvbEe6yZEqkzzQGgGfJ+cuKnlhEjLuso3yQCaGSOKXjdouoXpQV6NRJ2TDjJWRV0YUv2JTbSGd38pEv53lAhpi9XqvEMpjJgAd1Lvc9WEFdwGM6D9bHabuO6Q=;90LjQpnVGeKwGkZoyemnKw=="
 ---

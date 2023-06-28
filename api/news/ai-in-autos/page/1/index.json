@@ -10,7 +10,7 @@
       "originalUrl": "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -285,50 +285,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-artificial-intelligence-in-psychiatry.md",
-      "title": "Artificial Intelligence in Psychiatry",
-      "excerpt": "Trained using large language models and natural language processing, generative artificial intelligence ... this could do a world of good for healthcare systems in the U.S. More Face Time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-06/ai%20.png.jpg?itok=mlgDC4Ys",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/balanced/202306/artificial-intelligence-in-psychiatry?amp",
-      "publishedDateTime": "2023-06-24T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1412,6 +1368,49 @@
       "provider": {
         "name": "TheStreet.com",
         "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--fFhN_mG5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-16t082609z_1_lynxmpej5f09b_rtroptp_3_china-baidu-robotaxi.jpg?itok=D8sSFWKj",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null

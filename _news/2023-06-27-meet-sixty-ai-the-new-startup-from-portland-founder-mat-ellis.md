@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Portland tests artificial intelligence for non-emergency calls as it tries to reduce 911 wait times"
-    excerpt: "The system at first will be used \"for a couple hours a day\" to identify calls that should be redirected from the Bureau of Emergency Communications' non-emergency line – 503-823-3333 – to the separately managed 311 system."
-    publishedDateTime: 2023-06-23T16:16:00Z
-    webUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html"
-    ampWebUrl: "https://www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2023/06/portland-tests-artificial-intelligence-for-non-emergency-calls-as-it-tries-to-reduce-911-wait-times.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 58
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QSW7EYQDURBWLDEJWJM6OE4TZY.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Artificial intelligence program will soon help with Portland non-emergency calls"
     excerpt: "We are surrounded by artificial intelligence in everyday life, whether it’s through smart devices or the algorithms that decide which ads are presented to us online."
     publishedDateTime: 2023-06-27T01:38:00Z

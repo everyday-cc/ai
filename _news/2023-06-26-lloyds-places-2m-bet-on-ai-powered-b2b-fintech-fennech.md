@@ -48,15 +48,6 @@ related:
         width: 3915
         height: 5482
         isCached: true
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "DVApEedh3QTiiV7FyEko0CKfKR3ReW5zjduqlMz3XOsy7TphQvmQBKA8SMwT5oI2gqeORgchKIeWTSiCoBx0M1hGyvrhCfq+PvK9xTJdhAcN91PapEu6yBhLUHYNkZCkrHT7eInzvAzJwH4BCsUsJ5K8P3yOvZueAxEH5UolWsMiKDntmSXIoIlchb3GBWGYTJVEWYyWRs+COM9QybMOY0ZshXMXkLEbvB0T7/1ktoyjp1auNj3ibpeylRbgPfyfpm42x8GHKxHlqRrhMPKbemwDZ6YCN0jKsQnfDZB+wxv/6PQNksptyneiqXiErRT5GACAEmFVl/W/rWqYrS7LifgubbR3YxWyU2eBC5D9YeI=;fktzffyv7X7lOuR2giRU4g=="
 ---

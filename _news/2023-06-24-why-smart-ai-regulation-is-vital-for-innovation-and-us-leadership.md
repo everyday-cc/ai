@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AWS Invests $100 Million In New Generative AI Innovation Center"
-    excerpt: "The new program connects AWS machine learning and artificial intelligence experts with customers and partners worldwide to accelerate enterprise innovation and success with generative AI"
-    publishedDateTime: 2023-06-23T16:36:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/aws-invests-100-million-in-new-generative-ai-innovation-center-news-8748"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 54
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/AWS_1687538044.jpg?utm_source=fb"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Aws Announces Generative Ai Innovation Center"
     excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"

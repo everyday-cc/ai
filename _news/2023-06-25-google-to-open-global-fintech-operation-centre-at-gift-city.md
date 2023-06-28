@@ -132,6 +132,20 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 24
+  - title: "5 FinTech platforms redefining the future of lending in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-28T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "KfyYI0KI/yqlOfk1A2s+07oikXsOF5F9/e7V06/tHWS7eISPFdQWX/Kf+5hsYaU6M+dxU/WHBDirhQdnZMg06Q+BTzjXilffonjUhlBTQwLb6k8QokmBoBbX6C7b5L2aWzuitmEGBcfUQ7aNDMIKTGg/qq1gYWGaQi9zNDDa2y+/I1Lv94f4UFbzAIs19bB+cWHFseZ1IdjySwb3EVVpn3QyrINjGWDscd8WHRlMy6D9CPF0werbz9FLYfGomW7KAenR6S079ToUAR9cc+dYr8h3u9Mbop94f4OxX9bVMAkhWli06YdkknZaGbfUaABtPzxWZjuRjKKJzmkDNFzECYP6t4TM2OuirTTgKPON5pA2ItsBseL00YvidpjUOEAWato3SeGWnMljXarXX65ZkfOvJWCU5aeL5N5s1/w80HoONOwEnrYtYC8erB8MGeBu7Y/P4BdxOSG+NhDLPYRQiBjbkjb16DOWUO2JDeuTv0JPM9WJ1sS8ixIvUPKkV2983rPNleXuzBOdJVJ521hFxA==;zjjIp0V3Rl3I7THTVFWkMQ=="
 ---

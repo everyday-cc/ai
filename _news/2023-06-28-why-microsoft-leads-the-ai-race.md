@@ -222,6 +222,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
+    excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2023-06-28T09:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230628/4093822.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
     publishedDateTime: 2023-06-27T09:53:00Z

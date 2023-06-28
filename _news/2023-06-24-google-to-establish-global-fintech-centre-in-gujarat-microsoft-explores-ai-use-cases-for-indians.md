@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-f
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
 type: article
 quality: 63
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 24
+  - title: "5 FinTech platforms redefining the future of lending in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-28T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "um0fEXA2hOu+tGZOKAUZ5ZhEnDGwX8166+LXDPdEv0nGyJpJEdzS0pCUkg/Q/6SFdIK2Yfsn7tGea3vZON64rsH5SOrYNEYoI83sP5YR7HNVJqbPcQ0lSlmj1A7N3xdfO8dwkEFvcs7dv2K0ipl5AYx+u/E2rZx8GRqZXJ9AoNoPkPdKEjGEYR7RXkSWXdhy6CpuXYxL/OtFDKh42CiPlmNJhWz5rwnc+3MkTgzE5d2uDriok9ypvDNM5TLNWK67kTC5R0QlSNsYjX+RL5wZE71Ca3lQC0K36lO8a8CmRKS79hkjqciFue76xq5fL0FBX77OLQ69Ouobz2ghmaVzccJs3jWJy+ZgxlkAIl8ykPrsnOxu5AKCqumULHskJtZd2oSZfEVdcGehlYVkUvWGOmGRefVC+3FlDAS8tLFotKGJKGCKkd6Q7OEy/q0IpKNUw2ZDKDhnpoRLpffAAUXHS9DvXQl12/ZIA1N4cil9iqpGS3S8/SoWAFGtGJ1jERLUAAgjo2ThkalcJrCAJUgNmw==;GnTkr+b9KUY/Z0xr0COjSw=="
 ---

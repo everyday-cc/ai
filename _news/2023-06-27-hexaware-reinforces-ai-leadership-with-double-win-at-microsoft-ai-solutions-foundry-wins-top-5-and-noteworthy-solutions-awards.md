@@ -237,6 +237,15 @@ related:
       name: Institutional Investor
       domain: institutionalinvestor.com
     quality: 34
+  - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
+    excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
+    publishedDateTime: 2023-06-28T09:41:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230628/4093822.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
   - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
     excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
     publishedDateTime: 2023-06-26T06:30:00Z

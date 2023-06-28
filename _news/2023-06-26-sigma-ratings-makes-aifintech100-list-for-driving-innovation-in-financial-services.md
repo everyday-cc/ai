@@ -123,6 +123,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Using Machine Learning for Predicting Cricket Matches"
+    excerpt: "Due to cricket’s immense popularity, its data has been fed into many machine-learning tests. Aside from using the sport as a base to test new machine learning methods, there has been much pursuit in predicting the expected outcomes of games."
+    publishedDateTime: 2023-06-28T08:23:00Z
+    webUrl: "https://khelnow.com/cricket/2023-06-machine-learning-cricket"
+    type: article
+    provider:
+      name: Khel Now
+      domain: khelnow.com
+    quality: 19
   - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
     excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
     publishedDateTime: 2023-06-27T13:29:00Z

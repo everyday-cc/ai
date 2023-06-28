@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-r
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: techxplore
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RoboCat, a self-learning agent developed by Google DeepMind, is set to revolutionise robotics"
-    excerpt: "The latest AI model from Google DeepMind has the ability to execute a variety of tasks, learn and improve itself."
-    publishedDateTime: 2023-06-23T15:26:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/robocat-from-google-deepmind-explained-8681613/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 80
-    images:
-      - url: "https://images.indianexpress.com/2023/06/RoboCat.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "DeepMind introduces self-improving AI model called RoboCat"
     excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
     publishedDateTime: 2023-06-24T15:02:00Z

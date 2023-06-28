@@ -2,6 +2,212 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-27-snapcalorie-taps-ai-to-estimate-the-caloric-content-of-food-from-photos.md",
+      "title": "SnapCalorie taps AI to estimate the caloric content of food from photos",
+      "excerpt": "SnapCalorie, a Y Combinator-backed app that leverages AI to estimate the nutrient content of food from a photo, has raised $2 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/snapcalorie.jpg?resize=1200,929",
+          "width": 1200,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
+      "publishedDateTime": "2023-06-26T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-databricks-acquires-mosaicml-to-make-generative-ai-more-accessible.md",
+      "title": "Databricks Acquires MosaicML To Make Generative AI More Accessible",
+      "excerpt": "The acquisition of MosiacML marks one of the first major acquisition deals in the emerging generative AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499c5aff7ffe450335d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
+      "publishedDateTime": "2023-06-26T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-wingpt-is-a-windows-31-ai-chatbot-for-your-old-ibm-compatible-desktop.md",
+      "title": "“WinGPT” is a Windows 3.1 AI chatbot for your old IBM-compatible desktop",
+      "excerpt": "WinGPT supports any 16- or 32-bit version of Windows 3.1 or newer but won't run natively on 64-bit versions of Windows. You can download it from the bottom of this Dialup.net page, which also doubles as a development blog detailing how it was built and how its icon was designed.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image_editor.png",
+          "width": 728,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
+      "publishedDateTime": "2023-06-26T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
+      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
+      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-ibm-tech-now-june-26-2023.md",
       "title": "IBM Tech Now: June 26, 2023",
       "excerpt": "The latest episode of IBM Tech Now looks at quantum utility and the GA of IBM Storage Defender.\nThe post IBM Tech Now: June 26, 2023 appeared first on IBM Blog.\n",
@@ -498,7 +704,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/develop-microsoft-azure-skills-with-30-days-to-learn-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -1045,202 +1251,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-more-people-are-going-blind-ai-can-help-fight-it.md",
-      "title": "More People Are Going Blind. AI Can Help Fight It",
-      "excerpt": "Early detection is crucial for treating eye disease. AI-enhanced eye scan analyses could spot warning signs quicker—and reach patients at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
-      "originalUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64931e618d6da8ab812d8551/191:100/w_1280,c_limit/01-Wired_NHS_Spot.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
-      "title": "Responsible AI: A Practical Roadmap For Business Executives",
-      "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe10716f37920266d57594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
-      "publishedDateTime": "2023-06-26T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study.md",
-      "title": "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study",
-      "excerpt": "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280",
-          "width": 1280,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp",
-      "publishedDateTime": "2023-06-26T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-thoughts-on-ai-impact-in-banking-mckinsey-banking-ceos-and-boards.md",
-      "title": "Thoughts On AI Impact In Banking - McKinsey, Banking CEOs, And Boards",
-      "excerpt": "AI continues to develop quickly, and executives are establishing frameworks for how to work with the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
-      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6498df4fa8cb02b4c45d417c/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 1070,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/26/thoughts-on-ai-impact-in-bankingmckinsey-banking-ceos-and-boards/amp/",
-      "publishedDateTime": "2023-06-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

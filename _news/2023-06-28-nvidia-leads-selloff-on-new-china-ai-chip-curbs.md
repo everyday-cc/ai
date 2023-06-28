@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Leads Selloff After Report of More US AI Chip Curbs"
-    excerpt: "Nvidia Corp. led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
-    publishedDateTime: 2023-06-28T03:29:00Z
-    webUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
-    ampWebUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 74
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1938860!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-nvidia-corp-chip-during-the-taipei-computex-expo-in-taipei-taiwan-on-monday-may-29-2023-in-a-two-hour-presentation-in-taiwan-nvidia-corp-chief-executive-officer-jensen-huang-unveiled-a-new-batch-of-products-and-services-tied-to-artificial-intelligence-looking-to-capitalize-on-a-frenzy-that-has-made-his-company-the-world-s-most-valuable-chipmaker.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Report: US considering new restrictions on AI chip exports to China"
     excerpt: "The United States is considering new restrictions on exports of artificial intelligence chips to China, the Wall Street Journal (WSJ) reported"
     publishedDateTime: 2023-06-27T23:36:00Z
@@ -219,6 +203,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia leads selloff after report of more US AI chip curbs"
+    excerpt: "Nvidia Corp led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
+    publishedDateTime: 2023-06-28T04:36:00Z
+    webUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/2023-06-27T132227Z1034386068RC21P1ACV1YZRTRMADP3REKA-SNOWFLAKE-FUNDING_4.JPG?VersionId=gcW3t9zqQrFiutN9vQP.SGlBVGOXd7Gd"
+        width: 860
+        height: 573
+        isCached: true
   - title: "US Considers New Curbs On AI Chip Exports To China, WSJ Reports"
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday."
     publishedDateTime: 2023-06-27T23:05:00Z
@@ -246,6 +244,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230628vl203_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "US to impose new regulations limiting AI chip exports to China: report"
+    excerpt: "The US is mulling over the introduction of new limits on shipping artificial intelligence chips to China, according to The Wall Street Journal report on"
+    publishedDateTime: 2023-06-28T08:18:00Z
+    webUrl: "https://technode.com/2023/06/28/us-to-impose-new-regulations-limiting-ai-chip-exports-to-china-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"

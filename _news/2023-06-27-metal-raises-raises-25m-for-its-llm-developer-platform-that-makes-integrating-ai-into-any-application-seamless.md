@@ -122,6 +122,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Using Machine Learning for Predicting Cricket Matches"
+    excerpt: "Due to cricket’s immense popularity, its data has been fed into many machine-learning tests. Aside from using the sport as a base to test new machine learning methods, there has been much pursuit in predicting the expected outcomes of games."
+    publishedDateTime: 2023-06-28T08:23:00Z
+    webUrl: "https://khelnow.com/cricket/2023-06-machine-learning-cricket"
+    type: article
+    provider:
+      name: Khel Now
+      domain: khelnow.com
+    quality: 19
   - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
     excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
     publishedDateTime: 2023-06-26T12:59:00Z

@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-27-can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes.md",
+      "title": "Can AI Reinvent Song Creation Without Cutting Out Humans? Music Sample Platform Splice Says ‘Yes’",
+      "excerpt": "One of the hottest sample libraries in the music biz is introducing AI that opens new avenues for song creation while keeping human-created loops at the forefront.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "originalUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499e4a91cfff1423c225776/0x0.jpg?format=jpg&crop=1722,876,x102,y53,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyolson/2023/06/27/can-ai-reinvent-song-creation-without-cutting-out-humans-music-sample-platform-splice-says-yes/amp/",
+      "publishedDateTime": "2023-06-27T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy.md",
+      "title": "Higher education plays a big role in preparing graduates for an AI-led economy",
+      "excerpt": "A career development expert at the best college for entrepreneurship shares how higher education institutions should prepare their students for the future of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
+      "originalUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/11737f02aaa1b3a4f7527638970d184233fb2e57/2023/06/26/5f88e4b2-3e51-498a-b82b-f2bdb8fa50ee/davenport-1200x630.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
+      "publishedDateTime": "2023-06-27T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai.md",
+      "title": "New York Is Buying a Supercomputer to Understand and Regulate AI",
+      "excerpt": "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ai-driven-consumer-experience-how-not-to-cross-the-line.md",
       "title": "AI-Driven Consumer Experience: How Not To Cross The Line",
       "excerpt": "Although AI-powered solutions often come with the promise of accelerating company processes, the power of these tools may be overestimated.",
@@ -839,6 +993,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-deepmind-unveils-self-training-robocat.md",
+      "title": "DeepMind unveils self-training RoboCat",
+      "excerpt": "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
+      "publishedDateTime": "2023-06-26T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-samsung-to-mass-produce-hbm-chips-for-ai-competing-with-sk-hynix.md",
       "title": "Samsung to mass produce HBM chips for AI, competing with SK Hynix",
       "excerpt": "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market.",
@@ -1034,212 +1231,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-snapcalorie-taps-ai-to-estimate-the-caloric-content-of-food-from-photos.md",
-      "title": "SnapCalorie taps AI to estimate the caloric content of food from photos",
-      "excerpt": "SnapCalorie, a Y Combinator-backed app that leverages AI to estimate the nutrient content of food from a photo, has raised $2 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/snapcalorie.jpg?resize=1200,929",
-          "width": 1200,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
-      "publishedDateTime": "2023-06-26T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-databricks-acquires-mosaicml-to-make-generative-ai-more-accessible.md",
-      "title": "Databricks Acquires MosaicML To Make Generative AI More Accessible",
-      "excerpt": "The acquisition of MosiacML marks one of the first major acquisition deals in the emerging generative AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499c5aff7ffe450335d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/",
-      "publishedDateTime": "2023-06-26T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-wingpt-is-a-windows-31-ai-chatbot-for-your-old-ibm-compatible-desktop.md",
-      "title": "“WinGPT” is a Windows 3.1 AI chatbot for your old IBM-compatible desktop",
-      "excerpt": "WinGPT supports any 16- or 32-bit version of Windows 3.1 or newer but won't run natively on 64-bit versions of Windows. You can download it from the bottom of this Dialup.net page, which also doubles as a development blog detailing how it was built and how its icon was designed.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image_editor.png",
-          "width": 728,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
-      "publishedDateTime": "2023-06-26T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
-      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
-      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
