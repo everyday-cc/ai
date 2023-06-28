@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
+    excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
+    publishedDateTime: 2023-06-27T17:28:00Z
+    webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 78
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-27-image-14.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Google DeepMind unveils self-improving AI model RoboCat"
     excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
     publishedDateTime: 2023-06-23T17:14:00Z
@@ -122,15 +136,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
-    excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
-    publishedDateTime: 2023-06-27T17:28:00Z
-    webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 58
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
     publishedDateTime: 2023-06-23T18:02:00Z

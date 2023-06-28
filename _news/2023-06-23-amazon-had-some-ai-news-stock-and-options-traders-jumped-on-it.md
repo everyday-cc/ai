@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-2
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,54 +28,62 @@ images:
     isCached: true
 
 related:
-  - title: "AWS invests $100 mn to help customers build generative AI solutions"
-    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879"
-    ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
+  - title: "AI and crypto integration is going to happen whether you want it or not"
+    excerpt: "During Coinbase’s State of Crypto Summit on Thursday, venture capitalists and AI experts shared their thoughts during a panel on what similarities and differences the industries have and how investors,"
+    publishedDateTime: 2023-06-23T20:06:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS deviates slightly from cloud, sets sight on AI"
-    excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
-    publishedDateTime: 2023-06-23T10:03:00Z
-    webUrl: "https://htxt.co.za/2023/06/23/aws-deviates-slightly-from-cloud-sets-sight-on-ai/"
+  - title: "What's Going On With C3.Ai Stock Friday"
+    excerpt: "C3.Ai, Inc (NYSE: AI) stock dropped after Deutsche Bank reiterated a Sell rating after its investor meeting. The Bank said the AI winner could be in trouble after its latest investor day."
+    publishedDateTime: 2023-06-23T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-friday-1032407528"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/23/ai.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Centre"
+    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
+    publishedDateTime: 2023-06-23T11:13:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/06/AWS-ChatGPT.jpg"
-        width: 1280
-        height: 720
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Partnering With Nvidia, Snowflake Aims At $100 Billion + Generative AI Market"
-    excerpt: "Can Snowflake grow faster? Based on new products and a partnership to help companies benefit from large language models (LLMs), Snowflake has the potential to restore its rapid growth by gaining share in a generative AI market worth “hundreds of billions of dollars,” according to a Snowflake spokesperson."
-    publishedDateTime: 2023-06-27T18:07:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/06/27/partnering-with-nvidia-snowflake-aims-at-100-billion--generative-ai-market/"
+  - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
+    excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
+    publishedDateTime: 2023-06-23T17:43:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/17966312/amazon-wants-to-teach-its-cloud-customers-about-ai-and-its-yet-another-reason-to-buy-the-stock/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 26
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/77f62d9f3180cafab9d14e785f0423ae/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f737330%252fan-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
+        isCached: true
 
 secured: "gnn8hurICEVANV011P9eZZbqlxQ3BkcTNifCV6hHx9aGV0SD/sMwL2JaOb3bNb/hH2nigyV6hEJlVIOzS7SUeXNCS0Oy36pOMnK/ohpXeMn3HkNqyDkvQDKu0kMhZtPF6Z0Xa2cb0L5/1PQxiluNkagl+nEGrOZXO76kTJmwSKaB0QfJakMBi8SQ2NRULrSuQ/us5FthQDFOixfy95PoznOzLOYfzXNAXo5Y/nPm9DuZIcGmaceaT9evhBl823v8MSp3rHR+vBEueutVB9OhiGdVy73mKsUdHqpHb5UQg00+RMrPibXLKGcf5xeHW2zmdMZ3AYgVdrjz9C/QWyVVT1VERijJVSpLsSoAwSC+sCBmk6g3eg1KvBM5Ec9tqeFbTO5ZjChDu5hJeag6D3H26vw7XXx/PCEnAkbnDhJpDaf+6M4aWckvPX7iMknNG1w1JnqjS+MXWHTuLRT6In2MdxoC6eJbDW6WAEs1/VCmDKfxG3TAbOGi5tSFNUq7NirctU2bMpKZ3/oG1M9jNIbTTQ==;VlmHidjLIbKg1eL/io0xcQ=="
 ---

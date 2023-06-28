@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
-    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
-    publishedDateTime: 2023-06-23T09:03:00Z
-    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 28
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Table of Experts: The future of AI"
     excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."

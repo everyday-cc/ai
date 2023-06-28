@@ -22,59 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "AWS invests $100 mn to help customers build generative AI solutions"
-    excerpt: "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,"
-    publishedDateTime: 2023-06-23T10:23:00Z
-    webUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879"
-    ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
+  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
+    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
+    publishedDateTime: 2023-06-27T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
-    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
-    publishedDateTime: 2023-06-23T13:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
+  - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
+    excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
+    publishedDateTime: 2023-06-27T00:29:00Z
+    webUrl: "https://www.techzine.eu/blogs/applications/107281/nvidia-lowers-case-for-gen-ai-data-concerns-on-snowflake-secure-llms/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://images.wsj.net/im-805564?width=600"
-        width: 600
-        height: 800
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/f0f35af3-7772-4b75-b1a5-985839196e0d.jpg"
+        width: 2048
+        height: 1436
         isCached: true
-  - title: "AWS deviates slightly from cloud, sets sight on AI"
-    excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
-    publishedDateTime: 2023-06-23T10:03:00Z
-    webUrl: "https://htxt.co.za/2023/06/23/aws-deviates-slightly-from-cloud-sets-sight-on-ai/"
+  - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
+    excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
+    publishedDateTime: 2023-06-27T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230627337396/en/Weights-Biases-Accelerates-Deep-Learning-Large-Language-Models-LLMs-and-Generative-AI-Securely-in-the-Snowflake-Data-Cloud-with-New-Snowpark-Container-Services"
     type: article
     provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 54
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2023/06/AWS-ChatGPT.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "CO235ZsJZwn0vVyLcg44IZ4dOpy+qkrYeEZSFErtUFEaL8qtkyrZcTnZTrpjBXGWh6ngndIlSt1rAL6trcCJ3Vb9e/n532904PlJjErEEWWdtoU/d+tM9/xvNqcugqrgA8hX51iH3Y4Ta4ptH1MWoNXDcTn6FCsfm2U8BbYWcrG1FmqkS/WOFl1BL7jTVWkFz8Wr2PqcHG4ScJnqG0J/p+VG5Mo9hCMD8vtxegXAASsVTrbvf+0vSz36NCz0nwyORk+Y3s3e6oIULzPCh4tlve4L/uci+nAayc87MeJVGduohDuUrbgNorvSs5g4rWnzVlXwv0TDGzhkShVT82ib9zYzevhxJgtpGUFU9pT/YthCCQovMICWn33Y3ed79wEjxmaO/ESVkeUF5wTlo62oBEM665b3SpuIPatcHoPKIy2OortAcXGqU5a/yOH+HeSsS7S0MshLaT0uwOTGgIg9mB3T+C6NLFgK/43nEsEvcCTwQZwRTl+eFecO7Etc6zh9dAIlNG0HM8tcjjf5SHgSqA==;truzcIe2oCwN2C9pHgXizg=="
 ---

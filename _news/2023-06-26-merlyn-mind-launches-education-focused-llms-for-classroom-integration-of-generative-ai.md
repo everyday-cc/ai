@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-
 webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     images:
       - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
         width: 375
+        height: 300
+        isCached: true
+  - title: "3 Questions for Coursera About Generative AI in Education"
+    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
+    publishedDateTime: 2023-06-26T04:46:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 56
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
         height: 300
         isCached: true
   - title: "Generative AI: The Next Frontier for Section 230 of the Communications Decency Act"

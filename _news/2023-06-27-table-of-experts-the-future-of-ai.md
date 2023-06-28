@@ -120,20 +120,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "How Old Dominion University's Vision Lab is contributing to the future of artificial intelligence"
-    excerpt: "ODU’s Batten College of Engineering and Technology is playing a role in the future of AI by contributing to research in the medical space through their artificial intelligence advancements and work"
-    publishedDateTime: 2023-06-23T09:03:00Z
-    webUrl: "https://www.wtkr.com/news/how-old-dominion-universitys-vision-lab-is-contributing-to-the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: WTKR
-      domain: wtkr.com
-    quality: 28
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/7249624/2147483647/strip/true/crop/1467x770+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F9b%2F08aea2f7485089949b497f1a714b%2Ferin-ai-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O3wx7+6c4tBEqeYYGiuSqOnWh7kw7Rfvpqho24KTXZgwcFzwHtQDmLNYz11oHVtfcSYjMLGhqWMAFfbChb4LnF42SDShfZF1NcHoqso4mot8IJhS6E1E3r7qRurdgi17+NSYvJtuoQClMAxR6LQ7EfivglFdxAAeM+9TYHWJPjiobh+qZRQx+YgpqOOxf3DRIZTB0GTZIAypVi6FdRHiwrv+tBveHCMZtkTzTK/Pex5+Rfft2Lz4rhXJML5NXb24pMZvlreDpBFswI2X9kd7W94hx+G7/JiUtKf0WAlvJw9+0qi5AyDQTMn0nRUnAYm99iPfMcmZSLkAL7+UgU8ppFOk00/qxcc2DKpYxkSXUcc=;y0xy19xuxGAiP/75i/+t0w=="
 ---

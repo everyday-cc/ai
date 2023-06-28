@@ -41,15 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "3 Millionaire-Maker Autonomous Driving Stocks to Buy And Hold Forever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous vehicle technology continues to hold massive promise to growth"
-    publishedDateTime: 2023-06-23T10:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-millionaire-maker-autonomous-driving-stocks-to-buy-and-hold-forever-1032406619"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "jLbQPpwlED7aDfUg5LOxt4hRwPxVo3WbhcyDKM4EexRtcOJ6j4NO8rz75asnGOYYzytKtNJOaflnZtHXLZDn8aJfVJ/IBErofq/E93Fkgt5wdiGeZPtNQzjU104xQZriEdyaDWoUtcZygUePY1BMNT7unm/fyipg3OmIhf88i0OqLlmuy7uFt6PhrTI9ns2vG+qFgZYuCAQ1Nv2yJs82pZKJSkTt7WJGyfWXb4RmFvHeYN8+3cNy7xQDvVIpmsRSWOkYcfafBp4efTOsC/V98Gf39GxbcteaL5Htzn3XO5DmWLVeuwgiBYbGIB6JUlEV4Fz2ckXoEc0vwqNyYyMWRsK+YrLGCsqz/HQEyh5PX1o=;h6Aa33ph0lCnETdv9xYxEw=="
 ---

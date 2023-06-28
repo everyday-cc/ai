@@ -53,6 +53,20 @@ related:
         width: 375
         height: 300
         isCached: true
+  - title: "3 Questions for Coursera About Generative AI in Education"
+    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
+    publishedDateTime: 2023-06-26T04:46:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 56
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "2m9BH8Y5CHI83G2Rhs8pPmsFddXS0xavFx1sOqFo6SX98TUGf84JdL9OKyJAX/N5ZervsiyU2Ei1MVUzV30oBQuEA893Xd91lshfpfeneZumPBMWsSNLTN8Au5/B+C7DEXHH07th/CMX6awO0kYM36D79K8dN5g/FJGLz6ltUjBPNlv13WvjHwGyINuf/sLaeZOW7Tl4me2GvRnfKrjW5cvV6rTJKsLamRTIMdLbCatkRO1yKS9HyvHAYwc/QCRZ36Ps12jroUopC9TUEMKKehvQCgDuGMzo5WyE6WTugrInOZiLKag4ooEcfhzHgjUq0zOd0z6rsmmITkuHaLb3YSk0xU1tYkJe+Flb4KD/KMt4xRsHlLszcJhu/5x1uzLj9euaHlTulorgwiDNCNU3WDdZZQmT5LR0/YEBq6jFOnf0u3K6i2i5JmB2BvbNokG+2YMUq6W9GCG7B8+a4rvDMGpYCt96dV++XiaL9inlMBJ2wZye+BHI6LE0GjAPCVR+P1VX93NeP/NLAZKSbrXanA==;dGxIjzIYxAd8RhY0zv5aTw=="
 ---

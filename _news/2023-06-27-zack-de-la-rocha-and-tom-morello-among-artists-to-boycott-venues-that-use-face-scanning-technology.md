@@ -67,15 +67,6 @@ related:
         width: 1024
         height: 410
         isCached: true
-  - title: "US campaign against facial recognition in venues ramps up"
-    excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
-    publishedDateTime: 2023-06-23T09:06:00Z
-    webUrl: "https://musically.com/2023/06/23/us-campaign-against-facial-recognition-in-venues-ramps-up/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 34
   - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
     excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
     publishedDateTime: 2023-06-27T12:03:00Z

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Giant Nvidia 'Extremely Likely' To Invest In Europe"
+  - title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
     excerpt: "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe."
-    publishedDateTime: 2023-06-24T05:53:00Z
-    webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe-b0f8eea8"
+    publishedDateTime: 2023-06-24T06:30:00Z
+    webUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: techxplore
+      domain: techxplore.com
     quality: 74
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI chip giant Nvidia 'extremely likely' to invest in Europe"
     excerpt: "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe."

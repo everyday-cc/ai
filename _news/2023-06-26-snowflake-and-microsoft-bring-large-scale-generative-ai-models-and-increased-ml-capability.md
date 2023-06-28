@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "3 Questions for Coursera About Generative AI in Education"
+    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
+    publishedDateTime: 2023-06-26T04:46:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 56
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Generative AI: The Next Frontier for Section 230 of the Communications Decency Act"
     excerpt: "An examination of an emerging battle front regarding the controversial Section 230 of the Communications Decency Act protecting online platforms from liability over posted content—namely, how Section 230 will treat generative AI content."
     publishedDateTime: 2023-06-26T19:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance"
+    excerpt: "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ..."
+    publishedDateTime: 2023-06-28T02:22:00Z
+    webUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/"
+    ampWebUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 87
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "7 dental AI updates to know"
     excerpt: "Explore seven artificial intelligence updates in the dental industry since April 20, from FDA clearances to industry collaborations. Discover how AI is revolutionizing the dental industry."
     publishedDateTime: 2023-06-23T17:51:00Z

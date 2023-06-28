@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "1 AI Stock That Could Take You to Easy Street -- and 1 That Could Take You to the Cleaners"
-    excerpt: "AI stocks have jumped this year, but there's a lot of hype in the sector. One AI fintech stock looks poised for a turnaround. Another AI software stock looks significantly overvalued. Investors can't get enough of artificial intelligence (AI) stocks these ..."
-    publishedDateTime: 2023-06-23T10:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 59
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/736866/artificial-intelligence-ai.jpg"
-        width: 2102
-        height: 1426
-        isCached: true
   - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
     excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
     publishedDateTime: 2023-06-27T18:01:00Z

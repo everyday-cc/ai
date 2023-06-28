@@ -59,6 +59,20 @@ related:
       name: ecommercetimes
       domain: ecommercetimes.com
     quality: 34
+  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
+    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
+    publishedDateTime: 2023-06-27T17:57:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 27
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "weKBMFUJNAW/RCuJMI1l7//1Qs7t1XCXiuF0WYwioJdeYlaW6e310I+sQMKGxf/0mHCUQ+mMfYRgNLhRWU/fGJWbpFqHCNWRdEOo/BOTw4tAvVCoifjbbKkT+8NNeeXKEoahvIhID3j3nnZA7vlQ8KzjNB+sgOsK7JDmFWm1MEnwQUy+k/5RzSRpBorVcRwYRuT0CWtfzl3zzaLXZuMTd804lAWrquhdyJNtVj4K7N5oTLWBN8ZTnwd5zIIvkyFyTOx+McVtKOHm1xCP0SJZf588W5wpkEkc5bUnq6n016XbHmNVB4D0BQf3OCZ4K2gnESa+B9vjomWedAx3a2CSg2aCtBunqwac0tTKxdL7eDyu2ne6hwFVlFHpojnAGHnOtMMll2xJsxIPxkw7euoAF0Zhm6t80Up2ucixQLA+0ggGn3CYhI/Mw8FkPU5zzl8t2MFUtVN9pHpiSXxj/9s0RpNTeVf4BqT+sPrdA4NGwXMRH4KJal72UbC/IOMxctD1XTHtN4BAW2g3MTfUHkFvZA==;LGJduj+Q35N1Awftrzl3NA=="
 ---

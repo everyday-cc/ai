@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "1 AI Stock That Could Take You to Easy Street -- and 1 That Could Take You to the Cleaners"
-    excerpt: "AI stocks have jumped this year, but there's a lot of hype in the sector. One AI fintech stock looks poised for a turnaround. Another AI software stock looks significantly overvalued. Investors can't get enough of artificial intelligence (AI) stocks these ..."
-    publishedDateTime: 2023-06-23T10:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/23/1-ai-stock-that-could-take-you-to-easy-street-1-th/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 59
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/736866/artificial-intelligence-ai.jpg"
-        width: 2102
-        height: 1426
-        isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z

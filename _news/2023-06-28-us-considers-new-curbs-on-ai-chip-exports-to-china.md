@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-ex
 webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,19 +77,19 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "US considering new restrictions on AI chip exports to China: Report"
-    excerpt: "US will stop the shipments of chips made by Nvidia and other chip companies to China as early as July. Read more at straitstimes.com."
-    publishedDateTime: 2023-06-27T23:36:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/us-considering-new-restrictions-on-ai-chip-exports-to-china-report"
+  - title: "US considering new restrictions on AI chip exports to China: report"
+    excerpt: "The United States is considering new restrictions on exports of artificial intelligence chips to China, the Wall Street Journal reported on Tuesday, citing people familiar with the matter. Shares of Nvidia fell more than 2%, while Advanced Micro Devices ..."
+    publishedDateTime: 2023-06-28T03:58:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/us-considering-new-restrictions-on-ai-chip-exports-to-china-report/101325822"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 54
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/399247424.jpg?VersionId=hHoDKfJAJTMMOZBlybeWMQ4jUeWTZluH"
-        width: 860
-        height: 573
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101325822,imgsize-85394,width-1200,height=765,overlay-etcio/business-analytics/us-considering-new-restrictions-on-ai-chip-exports-to-china-report.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "US Considers New Curbs On AI Chip Exports To China, WSJ Reports"
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday."
@@ -105,6 +105,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "US considers tougher restrictions on AI chip exports to China"
+    excerpt: "The Biden administration is contemplating new export controls on chips for artificial intelligence, as Washington increases its efforts to make it harder for China to obtain technology with military applications."
+    publishedDateTime: 2023-06-28T03:48:00Z
+    webUrl: "https://www.ft.com/content/a6c6b769-349e-440f-a55b-c92371d00dd9"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "QcjYbZaqPU1zG4c2o8yShhUO4mRNcPFPBqzTlxhl2pEv0xdHO75C2noA6nMQGTWdqsKTwhtdp5ouoRpU1GkGC7eiR/9LYm5cuVw3SnwpX2fX7wzhliwVv0QRZyxdK5Jpi4QDz3T4jlMAIICBOPV4EHjcAd+mfJu4Aj0zrTjYjqRtqzKGmvLAH5ZbEl0zXuNRoBc/jaMQSxO/fLUzq4Yprc2KSAi6RTl5zdVHuG2wRHwfXLgSa9mprfQs5NZ4rR22oMQ7iOG2/8Ph3g4EDs3RBTOoOBCiOaL7Cj2ICOl1g7YN3g0izjsmNkEsfB+CSMiONVE62J8W8sh2LreAWbey1n1dROp99iaHi1fflaaHc72scnl6H+k1NIrAq/uHWRpENZlAkdwVI3VwcaAEKEo6YlSK8nsnd94fXbM9R1ukwjtMLD2xhaiy8+ySA+uvQGqmENsTDPWHfFt7v3iSyCMUOXe0GJTlczekGvWfjp9DROI5vtiHyYOsBRmJBRzQMmoq06cS++40ul/ezw9BVpRMWA==;7YV9wfXpQAoOzS+iI1E/9g=="
 ---

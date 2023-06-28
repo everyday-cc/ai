@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-27T17:28:00Z
 originalUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
 webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
 type: article
-quality: 58
+quality: 78
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-27-image-14.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
@@ -258,6 +264,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "iXMEehbW3HXh4ZFdv+QmlwxSwZ0DKQhgmG7vxLz6uv02jRUHRnGW+WSjr7c7XBtBnhUWEAY+kftwwyiuVU5VKzhIbLatxd+294RBky36u3AKsSX1ivmRJu1EvNGvBd/pH+m6MgOFVUzPUGMFY0iy2v7sIyjjkcEP8+/ntTBP+XHBTuJzb5NNragHGO542anAkdwGWs8cOJV8VtvOAPsFYw0JiQboIplcaqoOaUjimfvvcSpyTK8izJDhKBT/jrnLz9bpDdjSVfLyQoU28ECFIMMB/M42b68BmbsSC/L3GIMCSH1ABbVDssRTCDcE+BiNkyg4/GAqFShSPoVuG0z+eI3jpUVNDtvcLU1wsD7hvJM=;8e+vAUrDrznJyxLuIJHh9g=="
+secured: "jPANepe9ljbESswlNeWCssWjKjLXFRrOt2KWwKaSk+3AKk1CTnZxcannjPJbGq6M9e3oZKWqgQE0s/76c++fyR+AABlbRzdMiFQ9rcOmfShBc6ASYhEVKmhyZsRglyIR1lYb4LAVg3n4krxIWNoxGX80VxFg+nCZIR4tB24AktVQbKTCYWkQ7rwmkhMCtv+tg7tm4XGacZY5j3VOzHWbHrTeeoD8eHOABR76UQvKlmtkoddTF0/0KYBPV2DVeDvzKWOWkwGcxjNzHbSzmovCRudUhk9n4hedMxqGVo7t1Ej7Etc3TmZjl0ZGsfC4vNMEhBjNtG/ZBEVcb6yRGj14ryJF3xKXFidmyiefuG+k4PI=;ULMDIIDKSu/HgizzNjtofw=="
 ---
 

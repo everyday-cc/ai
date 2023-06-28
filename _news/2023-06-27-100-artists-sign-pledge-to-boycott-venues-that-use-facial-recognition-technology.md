@@ -61,15 +61,6 @@ related:
         width: 1024
         height: 410
         isCached: true
-  - title: "US campaign against facial recognition in venues ramps up"
-    excerpt: "A US-based campaign to ban facial recognition technology at live events is picking up steam again, four years after it first launched."
-    publishedDateTime: 2023-06-23T09:06:00Z
-    webUrl: "https://musically.com/2023/06/23/us-campaign-against-facial-recognition-in-venues-ramps-up/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 34
   - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
     excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
     publishedDateTime: 2023-06-27T08:07:00Z

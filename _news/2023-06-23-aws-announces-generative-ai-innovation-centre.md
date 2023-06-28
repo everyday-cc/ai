@@ -25,217 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Generative AI Investment Sprints For Supremacy"
-    excerpt: "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race."
-    publishedDateTime: 2023-06-23T10:41:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/"
+  - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
+    excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
+    publishedDateTime: 2023-06-23T13:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1391
-        height: 900
+      - url: "https://images.wsj.net/im-805564?width=600"
+        width: 600
+        height: 800
         isCached: true
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+  - title: "AI and crypto integration is going to happen whether you want it or not"
+    excerpt: "During Coinbase’s State of Crypto Summit on Thursday, venture capitalists and AI experts shared their thoughts during a panel on what similarities and differences the industries have and how investors,"
+    publishedDateTime: 2023-06-23T20:06:00Z
+    webUrl: "https://techcrunch.com/2023/06/23/ai-crypto-integration/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
-        isCached: true
-  - title: "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support"
-    excerpt: "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ..."
-    publishedDateTime: 2023-06-27T16:17:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1281361359.jpg?resize=1200,800"
         width: 1200
         height: 800
         isCached: true
-  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
-    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "3 Questions for Coursera About Generative AI in Education"
-    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
-    publishedDateTime: 2023-06-26T04:46:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 56
-    images:
-      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AWS invests $100M in new Generative AI Innovation Center"
-    excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
-    publishedDateTime: 2023-06-23T10:14:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108014/aws-invests-100m-in-new-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/AI-spraak.jpg"
-        width: 1000
-        height: 594
-        isCached: true
-  - title: "Enterprises need to control their own generative AI, say data scientists"
-    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
-    publishedDateTime: 2023-06-27T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
-  - title: "Harness unveils AIDA, a generative AI assistant for software development lifecycle"
-    excerpt: "Unlike AI applications that primarily focus on code development, AIDA from Harness powered by generative AI addresses the entire SDLC."
-    publishedDateTime: 2023-06-23T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/harness-unveils-aida-generative-ai-assistant-software-development-lifecycle/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 41
-  - title: "Funding roundup: AI, Medicare Advantage capture investor interest"
-    excerpt: "Investors are funding companies operating in artificial intelligence, women's health and the Medicare Advantage space."
-    publishedDateTime: 2023-06-23T10:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/digital-health-funding-outbound-ai-aledade-dexcare"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/puzzle%20and%20money_WEB_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What are the best ways to use generative AI in the workplace?"
-    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
-    publishedDateTime: 2023-06-26T21:05:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T14:14:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T18:19:00Z
-    webUrl: "https://www.hrdive.com/news/generative-AI-startups-enterprise-software/653923/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "AWS invests $100 million in generative AI development"
-    excerpt: "The AWS Generative AI Innovation Center, will connect AWS AI and machine learning experts with customers to help them envision, design, and launch new generative AI products, services, and processes"
-    publishedDateTime: 2023-06-23T09:23:00Z
-    webUrl: "https://www.tvbeurope.com/artificial-intelligence/aws-invests-100-million-in-generative-ai-development"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 34
-  - title: "Quantitative Investment Management Firm Versor Investments Launches Machine Learning-Based Global Equity Strategy"
-    excerpt: "Versor Investments, a quantitative investment firm focused on liquid alternatives, announced today the launch of the Versor Equity Prism Strategy to outside investors. The strategy, which the firm started incubating with partner capital in January of 2022,"
-    publishedDateTime: 2023-06-27T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quantitative-investment-management-firm-versor-investments-launches-machine-learning-based-global-equity-strategy-1032412347"
+  - title: "What's Going On With C3.Ai Stock Friday"
+    excerpt: "C3.Ai, Inc (NYSE: AI) stock dropped after Deutsche Bank reiterated a Sell rating after its investor meeting. The Bank said the AI winner could be in trouble after its latest investor day."
+    publishedDateTime: 2023-06-23T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-friday-1032407528"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 28
-  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
-    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/06/23/ai.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
+    excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
+    publishedDateTime: 2023-06-23T17:43:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/17966312/amazon-wants-to-teach-its-cloud-customers-about-ai-and-its-yet-another-reason-to-buy-the-stock/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 26
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
-        width: 1200
-        height: 900
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/77f62d9f3180cafab9d14e785f0423ae/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f737330%252fan-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg%26amp%3Bw%3D700"
+        width: 3840
+        height: 2160
         isCached: true
 
 secured: "dwCEpPAT8pE15ewB9d9FLGUsN/wCYLoOdplHkIhW1X/hBNDdnJce8A86JOPyy277hbk+a4Tib2ROYkXftfNml2OvwMfViFQAjObbhkrlVk10n76KbjTLERePSc3j48+2ik9PU3450kwAQYVgc50kOD7oCMBkkhq/pFh0jNZWoVGMfdALYmoFlwo5hRD7Sa6bd+yHnR3AXSpx03nTZfNRY+zPyII/kaKS2ZF3Y4hXo9BlX5HRdfcsSWkIsjE5GX0sAx8pNlFwBSjr19q2XCr5HU9rBzqYUM2dB8d4Jksqwm1NBHqsawRHCisOFOcxdN+CCtnPGZD0LK6QbU2EkwVutxEOQQ7tvLq6hCvHBoiu+NwipVmnv6V5BHEcs1g4vmsiVaImiv9VuSk/Yd74kGIHaQtb7/h8k82dufHm8YgJEN4QgE+jdCbyCJAHDP+FRhBYwwuSSypcujh1FVATGvNj4BO4S1D1YYGVnbXbx+fF0AZa17bC5ULGXxA0DwxwzYPtCGm9doJ7OIUMW67u0naBtA==;Kv4QD8hvqZTFl5TZr9SQIg=="

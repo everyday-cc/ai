@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How CEOs can tap full potential of generative artificial intelligence"
+    excerpt: "Boardroom conversations are dominated by the relevance of this technological advancement, its applicability, regulations, interoperability and adoption. The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'."
+    publishedDateTime: 2023-06-27T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318695.cms"
+    ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/amp_articleshow/101318695.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/amp_articleshow/101318695.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://img.etimg.com/thumb/height-450,width-600,msid-101318695/.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The Picks And Shovels Of The AI Gold Rush"
     excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
     publishedDateTime: 2023-06-26T19:42:00Z

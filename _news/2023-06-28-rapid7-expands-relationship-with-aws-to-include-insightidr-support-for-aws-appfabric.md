@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
-excerpt: "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by"
-publishedDateTime: 2023-06-27T18:00:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html"
-webUrl: "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html"
+excerpt: "AWS AppFabric quickly connects SaaS applications across an organization so IT and security teams can easily manage and secure applications using a standard schema, and employees can complete everyday tasks faster using generative artificial intelligence (AI)."
+publishedDateTime: 2023-06-27T18:16:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9840156.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840156.htm"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
@@ -40,6 +34,6 @@ related:
         height: 315
         isCached: true
 
-secured: "D/YXOPeE6YNCv/0h6/0oA1mw7yUgVVZGnAuWkyG8Qb7Q2ciUiSZOP+mOxk6TITkBneVCMJVog5GsRqCwKfnazr78HzXazV5FzhrTdFo3uX6FP0z2IpDrKg/Z4cn2GRVnS44TSH3xJqyDKK/LBa9D3zS+8YTiu+9AqsmPK6Y12ewMUtadH3ZLUF4LGjg1bD8wCpcdXGuMlQYKe+kqAN/3UYQvclGCLzH+vxcfUS420/U1/X7TV6nHI836gjZHU15TCO7B+2IUosubErNiLTrKhRFvK+ZxsF1cehcj2vG47y/AIkDpet6qtqO71enMmkvOaZz2K2ZfZsU/wkzSK9tfO0BdzTwP47zgnFSjIrN8imI=;2vLBxl1HpoNlOoAJ7naOnA=="
+secured: "q+l8/xIOdr/JfqRbDTVzZ9lQjXWSvyHZGKXjIbwk6ybo9BZaBdKgcXW8SyeQX8v5TxoGAaHbkMkcNgGK3MO4AQdCzylbTfy1bBgCE2m9F4zGV8sKrVisqVyjOmec6icC+K5HT4Sjo30bVtPvK2PVBEilH1jySwCvKB3/BPordlDKhpoxGhpZTjkAwtus/sqz8QRWBv/FHKKnaokHemWMtDDr0qlKY6lHPOZ/wyRDJHL4kk9ee853r/s9vlIbnccGvQ3UBNsfdTPxAgD2Ji+D8YT4vsqZ/4EuK7MkhGWWL1liDNc9FlqiJVn8CURcZ5ECC5Ip0R5jo6Tx6vrSG48AOLEXYzS2X5RRqI7ynD3CyNc=;4k5BodpK+kVd6Y2dIvUyiQ=="
 ---
 

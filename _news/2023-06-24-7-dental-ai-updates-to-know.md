@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance"
+    excerpt: "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ..."
+    publishedDateTime: 2023-06-28T02:22:00Z
+    webUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/"
+    ampWebUrl: "https://247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/06/27/singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 87
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "+Zq4UPnXiH+5CL9kb4ULt0gWE2bfRrG0BD/I9LRStKVqUhWC90SOFDR/WrlBlcjuA2yUcmEcLQF9/1qrPrrzBXgvupXpOs9xwblAiKZvUpmOWePffFIUB1BXg6lcl/tq3NFM2mRTQKRTDaD12OF2Qq2WV/+KPz5kmWaybMRKY5R7caY7puVbJwCg9LC/+ZAL1CYSrW1OgLy6w4C5Dp7qLPFC9wjimafi4M7o7FDlE6rP42z5XAWcTOfLt+giKViX1juuJkRCL8VZ4Dgr7bRjexT/nbiCQHzdERiZJABE+cckGqO5OFlDiszEIpi/UT2Ma0eR/0pcEnpfjhF95MRPPTg2XkhH+MO9VVXkRUneNIA=;cPHxOWtmXpZKxeDJbyjugg=="
 ---

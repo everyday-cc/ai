@@ -9,7 +9,7 @@ ampWebUrl: "https://globalnews.ca/news/9795522/collision-tech-conference-toronto
 cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9795522/collision-tech-conference-toronto-ai/amp/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 681
     isCached: true
 
-secured: "5SA3oGrSAPgZPkhnIAPyOoiWuk+FptPDEwKbIYAj6EwAFhqThFmVqBrmHvCIqyUTeQdI7iAWOH9ITdxA3KaRmkwRgvUcy6L0uQstF7Tn1yqpx6ja/rg7sKdvNJ7BL9xyOws6E436GZWRAuGtYzFj7SPqywHZhe7dSonPxKzEugHBy4WH3WTE3rLB4907FluaKAVCXP4ojdD29cg5tytTI2Pc4rsHcCmVzsvit3Ah3O3tjxZgW6XGGr2HAZgUQIGSqIfGvkwlcq1N0PdTNWQUSC3jm1AT694R1ewacVuKXLP52WSYcZCx6i/lfatv2Kyma5jZnjc6DsYcycxxvs3DGF3zW3UMFt/sef0iUhLVgQY=;3H3FHc9cDY7xFSNSgqYB4g=="
+related:
+  - title: "Artificial intelligence takes centre stage at Collision tech conference in Toronto"
+    excerpt: "When the Collision tech conference got underway in Toronto on Tuesday, there were two words that dominated discussions across the Enercare Centre: artificial intelligence."
+    publishedDateTime: 2023-06-27T18:49:00Z
+    webUrl: "https://www.cp24.com/news/artificial-intelligence-takes-centre-stage-at-collision-tech-conference-in-toronto-1.6458040"
+    ampWebUrl: "https://beta.cp24.com/news/2023/6/27/1_6458040.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2023/6/27/1_6458040.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 53
+    images:
+      - url: "https://beta.cp24.com/content/dam/cp24/videos/axis/2023/6/27/2716151/_jcr_content/renditions/videothumbnail.1687903788912.jpg"
+        width: 974
+        height: 548
+        isCached: true
+
+secured: "hJknzKBKWl7k0E1oJJFusUacV+EjewGByzOmUSTb9J3Uhr7AcyLN3GgmaMUR7V6ET1Cx5ODAHsZdcTsmzJLCxTgmaUUUbZxd26VGU52kRLo8BWNeYme5zsiBFrpGYsQf+v/172os87pOhT3bWpDdMU/ACjyf/ZnnZpX22SQKIvgrtEd32XgwMYLrO6sXYd3eN7LE/ZaxfwtqbsTKazzw/9rim8TFrNPggvbleLnaqHfMdn3GKo2A//HhJuIkcAhB+dLPEjhYRCeaQqfg4jRO5X+bJL0ZMQNxGrxase30RwDL/2xmKC45SZxYC7/liQfmLm9jkwBT6jT4HVgTGbJPUqUkIRyc7ZhfZfEKGbeBpbp7+Hba5HItoR4kn+c9IGwfZFD8fVMBKgtv+yvRM7kdzc4dcuOAbM6RuAAeVgK5VlFgmF97Cg+NoSd3830kkya3/6XPkWq8Z3niS8CHHqQt+/TfhoR7htvcxkyyYXL0dIU0SIlLdHEpRVzfrvMlRBTl8jWE0ZeNCsvcWMU49La9WQ==;dns9zd0Yim/aYGbwh0WwPA=="
 ---
 
