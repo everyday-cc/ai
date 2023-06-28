@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "7 dental AI updates to know"
-    excerpt: "Explore seven artificial intelligence updates in the dental industry since April 20, from FDA clearances to industry collaborations. Discover how AI is revolutionizing the dental industry."
-    publishedDateTime: 2023-06-23T17:51:00Z
-    webUrl: "https://www.beckersdental.com/ai-teledentistry/41318-7-dental-ai-updates-to-know.html"
-    type: article
-    provider:
-      name: beckersdental
-      domain: beckersdental.com
-    quality: 37
-    images:
-      - url: "https://www.beckersdental.com/templates/beckers/assets/images/dental-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "LZ55Gf9WTDFfPySEh771c9eUSyeshnG30En1GKb+qNuwddD3YgybxYqXFqHwNeUEH9G4Va1jDq6VzQnFDM42caPAUs/1Z54i9ABmI90QW7LmAYEhUJbZ6R7lQYeHsAPxkcgYU69Ocoom9crJ6PTmtAheVXQhkEO+shy62DDc3QVt2sC7lnm3t5VRK0YY5Q7T1HALSchtPZHlmy0NizCDlFHP6VDPv3lLGIXdblh/nQn9dAc1pkt7Z6cq0qdItIm8BVg5xDBGHRu78jGs53p5bYLtmWOsJHGX3Zsdo0YI+3ioFSNqJXVgpM2fTAargU9kuyh+F1svXWZo9V7ZT9SHZ1LqYy9dSxfCf8M4bYmTPYE=;iJvztb+YtSgzkmcbfBfjZg=="
 ---

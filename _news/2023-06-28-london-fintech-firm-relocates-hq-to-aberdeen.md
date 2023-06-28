@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+  - title: "Fintech Start-up ZIPZERO Relocates to Aberdeen Seeking “Most Fertile Land for UK Tech”"
+    excerpt: "UK fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, Scotland, in a bid to accelerate its growth. ZIPZERO is spearheading an AI-driven consumer-and-advertiser platform revolution – bringing together both groups for a financially empowering relationship."
+    publishedDateTime: 2023-06-28T10:12:00Z
+    webUrl: "https://financialit.net/news/personal-finance/fintech-start-zipzero-relocates-aberdeen-seeking-most-fertile-land-uk-tech"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
+      name: Financial IT
+      domain: financialit.net
+    quality: 16
+    images:
+      - url: "https://financialit.net/sites/default/files/zipzero_1.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "rShjujUtw3hYFShb9fS3v/Cgdo+7tXQrW8y9VqGRnl6bT37P/bwVJ2mdiFp2f9EvebesUP891oflBLTBIUxqa5iDhYAeFyYOU/HwiYKQt+bASb0oHQwoQNoU4OGRA0G5ZtnlvswjyMJH3uuAeXsjhmhmMomZ30+PVlmNn6v4t9dECnG3/cMdLmYQM3+dXFeq1nzTurRe5Hqgmb/GCWQL0/hlOGdrjLp/wsUuBnbdWcJl6ZJRq6Ea4gIbbzkg054N1WK/N/8Aj0nlpgtsQnCW29Ii9kwXvhTHQSu9pqaicjdYxHcyXwPEoOU7GUfEOwJKPOqHeYLlmbX5ks7KupkHAL4MIEnxN/dVkFfnbPCHUlw=;nTtfPziB1UVWwYyuA/PP0g=="
 ---

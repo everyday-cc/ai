@@ -24,6 +24,22 @@ images:
     height: 1124
     isCached: true
 
+related:
+  - title: "Researchers use AI to help save a woodpecker species in decline"
+    excerpt: "The ultimate goal here is to try to inform management efforts that are aimed at restoring oak savanna habitats that appear to be really, really rare in the state.\""
+    publishedDateTime: 2023-06-28T11:38:00Z
+    webUrl: "https://www.duluthnewstribune.com/news/minnesota/researchers-use-ai-to-help-save-a-woodpecker-species-in-decline"
+    type: article
+    provider:
+      name: Duluth News Tribune
+      domain: duluthnewstribune.com
+    quality: 39
+    images:
+      - url: "https://cdn.forumcomm.com/dims4/default/a105c17/2147483647/strip/true/crop/600x451+0+0/resize/1418x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fc1%2Fdd%2Fd752ab7942a4a2cbd81e968f0b06%2Fwoodpeckerresearch.jpg"
+        width: 1418
+        height: 1066
+        isCached: true
+
 secured: "nIFSWly3FQpyj06ikEGOKwR59yfHXew2zk62Sz+spXfxHXZJvIgWMKLajIJhNgiBhT7NFCIj4ijlhzkkeOkemcpMgIL1fMU/uTRmN92QuRjCOQcViEf3mgJNhw0s/Q0xExB+31yDniIyRSrhMMICxz2ibLH3sSrVNjWFvPj5mcWXijxzy80fV+IeE/F/pY9FvEG+61yKjBrgne+LxRhZA3XtMTDhYwkXmXBeQJC4fHw5eriLO/bVDCQ/MFsL79i8565UHUcG28iK6fFete2KO7N9tUfpM5dZ+1en06rW/NimK265lTer98H3D+3108Zdp3zkRZtzJ8/wb/0+p0RtkIYSc9oBRo4AiVYYSQ5I2e8=;3jLTfZop91aJNciul6bzSg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shou
 cdnAmpWebUrl: "https://www-greeleytribune-com.cdn.ampproject.org/c/s/www.greeleytribune.com/2023/06/25/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 681
     isCached: true
-
-related:
-  - title: "Editorial: Federal law shouldn’t shield AI chatbots from liability"
-    excerpt: "We must not let them expand that shield to AI. Applications such as ChatGPT should not be protected from liability by Section 230 of the Communication Decency Act. Simply put, if an AI product creates content, then the company that hosts the platform should be held responsible for that information."
-    publishedDateTime: 2023-06-23T17:59:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/06/23/editorial-ai-chatbots-shouldnt-enjoy-liability-shield/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 19
 
 secured: "VJIc+Q+a9fYlB+TS2QajSDz1/XT59PMHvqIKevWaoXfkOmFXkRSxUKW+wu6F7I58/ZoT0hfeuuOhDcfn1RkE5boEu4Koqp1fZ+496CqDaxPeDIUBmlZ9h+GJMFl9zNI3gYc77IGEjANTfd3XVecLX4H8t9r/9qBw5i4WNg8lhZa9a+ev5SlhcJvr5lDMINmYaPf8eNRXKJPtVQ2etSgagPKuwRLRUYiVc7hKzjk1t2bGCA9p0NjDXJbGoZSTAsWvhR/2B9wQHEJYfVB6+Mr9GUSpMpDsXVTEUqKZjosQoYbVC/iu3+Nei7x0beAhlZQP4j2YAdYoJxmAWzLDo5d/Z7OlPbEzLNYdmxQJf7H44EeJ+9wSyeMy7Dbve2t4ToHESbUQ8F2f10ckICuAf9ktvMTT+G7ot4zaYHVG+0AWc00ieOR+hy4gscUVVq6OKqmw5hZbrhDJuGdwPEEznrlCct7btCcM9DXMu/qecSXgVbXSWwdJiIo3+2zV4a54+ZwlsWaHNfL7L7mtoRsexVnIUQ==;6KIjTa7JcRsKzPwmg1sROA=="
 ---

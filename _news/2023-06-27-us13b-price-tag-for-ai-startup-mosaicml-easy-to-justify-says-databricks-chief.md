@@ -85,7 +85,7 @@ related:
   - title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
     excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
     publishedDateTime: 2023-06-26T10:40:00Z
-    webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=vc&mod=hp_lead_pos2"
+    webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=venturecapital"
     type: article
     provider:
       name: Wall Street Journal

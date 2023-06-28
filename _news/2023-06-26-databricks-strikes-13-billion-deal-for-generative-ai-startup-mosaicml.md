@@ -3,8 +3,8 @@ category: news
 title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
 excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
 publishedDateTime: 2023-06-26T10:40:00Z
-originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=vc&mod=hp_lead_pos2"
-webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=vc&mod=hp_lead_pos2"
+originalUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=venturecapital"
+webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=venturecapital"
 type: article
 quality: 67
 heat: -1
@@ -282,6 +282,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "rkkvkCX3EMxmvft5uKhZUj/0yZbR+UitdE3YsUIF+sk70imCO+8lrpvT5RcCOkW6BjBl/bh8gj+MeZiNyQmOUTIrfeABhTlwuyhvM6GiWdelgsQ2wpWV/wEDRQCVHDUs5o2XQrI9oil3B6PQ0eXkL+2Fz1lmNv/BGmCDS1nv+X2bwPqKMd6O3JloA0rGIl8JlkektJeJof3oZu5ZDPXszUkyQ+ngjS39pA6sU1ma6os2t4q5Xicv8KPGVgKML2Qj09wnTycHtKhdoWHxx9E1YRHlwoBtIDitqYPXM1Fon4SaPd/wJRmMIK2EftA4yFgECpnufLf1TeqoF3hhHJk1+9Kjcz+iqTx9UbxHndJBeO7OmvvJYfkZWhnuDNn6GlIamRZO98WMsTwoQbT/gOsqkvcYE+uNCBgMMY1L9s54uRROw1mRQIRTMh9OnWbClswiEBEZzsWSSYyeLFnFzngPip1IzZJWO1ctR2miDvGpDfbj8boQ8eYSlr1wvAd2JOv1g9z5ilGz1VlhIb+WB5ynjw==;zOuip/uKMyMjxNTYCn+28g=="
+secured: "A96jGMZmrDCS1AWRU0UtlWQ+AbxoQE984jK/mPG0Ub39sNCzq6R6hZSZW+p399r/OFNZyiX4XGCbpJUYa0LfVJtGoYHzTMinn/lEKmKJa0tP0KAK2c++3WbWWBcyomEuguXLPbQ6JlTziYvQiSHzvNvkgR2tr2Pkye5M7AaA+QedS3qGZOh1er6sRGdlN7Dnt8PCBxlznJUtlQap1YzDA5ooW1mTVf+ubM+OzfvtnvH4cvUDfQaaTWSn0nkfg8LSR7JOMGS9oQVjY34zkN/7WgLfLbETUqRdB4Wf56duA6zzBoRph7cPWEkW5B/dUELmsnzH+2XDVrzkwR8MZI1CoMxMCFmCAxgIO2v8GfjTzr0=;Zr3IXIgsg6cZOfiChYf2Gg=="
 ---
 

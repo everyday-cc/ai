@@ -52,26 +52,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 15
-  - title: "Anthony Albanese says the voice will have no power of veto yet some senators persist with allegations"
-    excerpt: "Anthony Albanese has accused some politicians who oppose the Indigenous voice to parliament of dishonesty by proposing scenarios they know to be impossible."
-    publishedDateTime: 2023-06-23T17:24:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/anthony-albanese-says-the-voice-will-have-no-power-of-veto-yet-some-senators-persist-with-allegations/news-story/a4ee340aaa8be189e4c2e4ee7e4c60eb"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/anthony-albanese-says-the-voice-will-have-no-power-of-veto-yet-some-senators-persist-with-allegations/news-story/a4ee340aaa8be189e4c2e4ee7e4c60eb?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/anthony-albanese-says-the-voice-will-have-no-power-of-veto-yet-some-senators-persist-with-allegations/news-story/a4ee340aaa8be189e4c2e4ee7e4c60eb?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 9
-  - title: "Albanese will lose his Voice unless it changes tune"
-    excerpt: "Unless something dramatic changes, the referendum for an Indigenous Voice to parliament will fail. This is the stark evidence of the published opinion polls. And while different polling companies show different levels of approval in their latest results,"
-    publishedDateTime: 2023-06-23T17:30:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/albanese-will-lose-his-voice-unless-it-changes-tune-20230621-p5dick.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 4
   - title: "Anthony Albanese rejects Peter Dutton’s call to put Voice referendum on ice"
     excerpt: "Anthony Albanese has rejected calls from Peter Dutton to put the Indigenous Voice referendum on ice as some opinion polling shows support for the proposal is lagging."
     publishedDateTime: 2023-06-25T05:40:00Z

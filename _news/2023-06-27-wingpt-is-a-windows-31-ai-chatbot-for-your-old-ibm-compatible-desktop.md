@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-c
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNC Health creates generative AI chatbot"
-    excerpt: "UNC Health has created a secure, internal AI-based chatbot using Microsoft's Azure OpenAI Service to help streamline administrative work."
-    publishedDateTime: 2023-06-23T19:07:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/unc-health-creates-generative-ai-chatbot.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Put AI to use, from chatbots to robots with this training bundle deal"
     excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
     publishedDateTime: 2023-06-24T12:12:00Z

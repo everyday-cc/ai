@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Can the EU bring law and order to AI?"
-    excerpt: "As countries scramble to deal with the risks and rewards of AI, the European Union is way ahead on the first laws regulating artificial intelligence. Here’s what’s really in the new AI Act"
-    publishedDateTime: 2023-06-27T09:55:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/27/techscape-european-union-ai"
+  - title: "Unesco advances AI support for member states"
+    excerpt: "The European Commission provides R82 million funding for low-income member states to develop AI ethics legislation."
+    publishedDateTime: 2023-06-28T10:38:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/f4bdac59cb787d8865f0e5ea267c6636a65f903b/0_0_6041_3840/master/6041.jpg?width=620&quality=85&auto=format&fit=max&s=cef2f3f80987cb6bfcd6d3ce267f62fe"
-        width: 620
-        height: 394
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/AI-data-hologram-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial intelligence: Partnership between UNESCO, EU to speed up implementation of ethical rules"
+    excerpt: "At a moment where concerns over generative AI are growing, the partnership between UNESCO and the European Commission will help low-income countries to develop their"
+    publishedDateTime: 2023-06-27T14:38:00Z
+    webUrl: "https://www.securityinfowatch.com/industry-news/press-release/53064520/artificial-intelligence-partnership-between-unesco-eu-to-speed-up-implementation-of-ethical-rules"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 40
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/06/16x9/Marco_etico_global_sobre_la_Inteligencia_artificial_.649af267bf04d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CtjpDd49fYIc4Z04sHlui4NtyfsBUWP4o05jkwdyAmF9sbtgtwEHaimxuT/pPulaGnWEUQ2teAQqovYV3bOFrKEcNkdEHoV/5X9qL5MbOK+diH9wFFz3hdp3medZYToCY78vxGIXejutiGufbV/OXORCJP4TL21Yvs8qY+nZQ+K852kAZBHomyq4WUVxbD7vF0j6A8LrcEpILyiNeBjBtpXa16qSaaCTfrAcVVY8wXCg1PlKA6J+rUVgvyOMG3yS1dYkV3Y7uuNa/OJ73+zARDWPjl1YZg+KsUkd5maaYn0TTyvl9P0e1lakPcJ0E5piKThknR4OPk/MZGjfclqDWgD3pMq/wABcpkFPhpIGVLI=;/hbiyInXt8WO6185HAjVOA=="

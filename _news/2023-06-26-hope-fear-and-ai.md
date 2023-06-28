@@ -45,20 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Balancing AI And Engineering Expertise In The Fab"
-    excerpt: "Before a new device makes it to high-volume manufacturing, there are countless engineering hours spent on developing the lithography, etching, deposition, CMP, and many other processes, at high yield."
-    publishedDateTime: 2023-06-28T07:01:00Z
-    webUrl: "https://semiengineering.com/balancing-ai-and-engineering-expertise-in-the-fab/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
-        width: 766
-        height: 524
-        isCached: true
 
 secured: "Ho+0fuEKAgO3AHIXvRWqrySK79n7v/U40D1vVZ0MoXGpdfEmW2wsDT+YjTUx8hGjVCLjTc6gAJR5RS/RT8VEyjo5Bczs30gp9p8S5o9DkteEngu9zhkBoRWAKngW1EzzGWSZ6BG+CCmtcagIpnF+rqDQkjbLZL1lvUWNbYuXStzL0dc6njVPKrRo4lubB4StYbMdMB5sZm6xICX4M0VjfKDdwSqDgpzNeu8MpWqYreYVSlVsbtIyYiD//F7xnFpKqylQNkaz0hYIQnU2WQGVgkYkTQ43l2JOa9BTpFyp3dl6XJ5N+nugOayuF3bGrQ5kpqGffHgC1GAxmgMCgfXAUQ2RACIcYiM9nR3Rf6CxR5NBc9ND31zfkYDOm1TZZM4CFSsOkbiSY7dAdGaq0BKp6QEnKvYQsZQ4EabVh6uz/CpzMOAxhfwvEEZh2UcWxlu5OfqULd/O8E7ovjyanW93FLs3EabTorWeyzXSE9p4FClUoDrJI+e21vqXfwuQpGb8tw5G6YFXl3/r6QficeuTog==;WZKNPXu+0z+dlJGUazsu0w=="
 ---

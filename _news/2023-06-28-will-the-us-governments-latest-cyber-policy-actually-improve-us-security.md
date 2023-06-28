@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Driven Cybersecurity Startup Raises $100M"
+    excerpt: "The Cyera cybersecurity platform uses large language models to automatically discover, classify, and secure sensitive data."
+    publishedDateTime: 2023-06-28T10:09:00Z
+    webUrl: "https://nocamels.com/2023/06/ai-driven-cybersecurity-startup-raises-100m/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2023/06/CyeraFounders2-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Startup Unveils Personalized AI Tool To Spot Cybersecurity Risks"
     excerpt: "An Israeli company, Rescana, has developed a new personalized artificial intelligence tool to help its clients detect cybersecurity risks."
     publishedDateTime: 2023-06-26T12:41:00Z

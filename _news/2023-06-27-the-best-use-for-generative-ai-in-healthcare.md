@@ -112,21 +112,21 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in The Data Cloud"
-    excerpt: "Snowflake, announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path."
-    publishedDateTime: 2023-06-27T15:30:00Z
-    webUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
-    ampWebUrl: "https://enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/amp/"
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
+    publishedDateTime: 2023-06-27T00:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 45
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/Snowflake-and-NVIDIA-Team-to-Help-Businesses-Harness-Their-Data-for-Generative-AI-in-The-Data-Cloud.jpg"
-        width: 1500
-        height: 844
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Dataiku unlocks the potential of generative AI in business apps"
     excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
@@ -195,19 +195,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "We’ll Need to Put Humanism at the Center of Generative AI to Reap Its Rewards"
-    excerpt: "It has already enabled remote working (which allowed us to avoid a major catastrophe during the Covid pandemic), and a proper use of generative artificial intelligence (AI) will be the key to the golden age that accompanies the crossing of each step on Maslow’s Hierarchy."
-    publishedDateTime: 2023-06-23T18:32:00Z
-    webUrl: "https://hbr.org/sponsored/2023/06/well-need-to-put-humanism-at-the-center-of-generative-ai-to-reap-its-rewards"
+  - title: "Study reveals generative artificial intelligence impact on job roles"
+    excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
+    publishedDateTime: 2023-06-28T11:46:00Z
+    webUrl: "https://www.openaccessgovernment.org/study-reveals-generative-artificial-intelligence-impact-on-job-roles/162139/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 36
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/HBR_Teleperformance-article-image-1200x675pxls.png"
-        width: 1200
-        height: 675
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
+        width: 2000
+        height: 1334
         isCached: true
   - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"

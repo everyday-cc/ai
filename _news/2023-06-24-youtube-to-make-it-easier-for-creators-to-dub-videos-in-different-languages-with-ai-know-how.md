@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube integrates AI-powered dubbing tool"
-    excerpt: "YouTube is currently testing a new tool that will help creators automatically dub their videos into other languages using AI."
-    publishedDateTime: 2023-06-23T18:16:00Z
-    webUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/"
-    ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "YouTube's new tool can automatically dub videos in other languages"
     excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
     publishedDateTime: 2023-06-26T06:18:00Z
@@ -74,52 +58,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/429037/youtube.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "YouTube video translation is getting an AI-powered dubbing tool upgrade"
-    excerpt: "It’s unknown when the Aloud update will launch. However, YouTube is already working on expanding the AI beyond what it’s currently possible. Right now, Aloud can only translate English content to either Spanish or Portuguese. But there are plans to expand into other languages from Hindi to Indonesian plus support for different dialects."
-    publishedDateTime: 2023-06-23T19:13:00Z
-    webUrl: "https://www.techradar.com/computing/software/youtube-video-translation-is-getting-an-ai-powered-dubbing-tool-upgrade"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
-  - title: "Filmora at VidCon 2023: YouTube Creators Embrace AI for Future Video Content"
-    excerpt: "Wondershare at VidCon 2023 will be showing off Filmora's AI tools, as YouTube creators embrace AI and show us all how its done. Learn all about it here."
-    publishedDateTime: 2023-06-27T18:07:00Z
-    webUrl: "https://www.digitaltrends.com/business/vidcon-2023-filmora-youtube-creators-embrace-ai/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 44
-  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
-    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
-    publishedDateTime: 2023-06-24T15:49:00Z
-    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "YouTube is using AI to break down language barriers"
-    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
-    publishedDateTime: 2023-06-27T01:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
     excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"

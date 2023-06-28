@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-28-chip-dip-the-bloomberg-open-americas-edition.md",
+      "title": "Chip Dip: The Bloomberg Open, Americas Edition",
+      "excerpt": "Good morning. Chipmakers fall as the US is said to consider new curbs on exports to China. Looks like the global race for AI dominance is heating up. And Joe Biden faces an uphill battle with voters as inflation still bites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibuzuUN8d1U0/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-nvidia-amd-stocks-fall-on-report-of-new-us-ban-on-ai-chip-exports-to-china.md",
       "title": "Nvidia, AMD stocks fall on report of new U.S. ban on AI chip exports to China",
       "excerpt": "Nvidia and AMD shares slumped in the extended session Tuesday following a report that the Biden administration might ban more AI chip sales to China.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -145,49 +197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-next-gen-content-farms-are-using-ai-generated-text-to-spin-up-junk-websites.md",
-      "title": "Next-gen content farms are using AI-generated text to spin up junk websites",
-      "excerpt": "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/",
-      "originalUrl": "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/clickbait2.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/",
-      "publishedDateTime": "2023-06-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

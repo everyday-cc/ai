@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-28/let-the-chip
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-28/let-the-chips-fall-the-bloomberg-close-asia-edition"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Chip Dip: The Bloomberg Open, Americas Edition"
+    excerpt: "Good morning. Chipmakers fall as the US is said to consider new curbs on exports to China. Looks like the global race for AI dominance is heating up. And Joe Biden faces an uphill battle with voters as inflation still bites."
+    publishedDateTime: 2023-06-28T11:15:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibuzuUN8d1U0/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "nmw/8v50xd2I/4YLqtbB6A+fJAKj+pobvaKednjHexZaVmlRD4WBlDbq9qmxQJYRRcYP1Tz2oNHoo99hEz8PzGdRR/6OkaqdClbu/ih5Rw0+TZwk7EI+DmQAXSA9RXh3yaMDftEQ7fWTcm5sc4y17bFmfpq14lNnqBrJz15UOEJ7dV84hzoB532pCHpwS3eUhNhGsAwu0HvLVoGFPFg0B6dqDS0/GPCS9wvqVvPdGSa01c1vBTZcmBpGUSuUj5bKwIXQLi4FlGWXwvdG5sBvMkeTFNpav6NQ6qo6hIkgFyyrSQG9gQP5lhulA42LrloxxqFRhR/nN73X4FJ1FzBTUdegNsZbC8jLbefT1bL6oYU=;y9b/RGeh/WG6yIus8EbpLQ=="
 ---

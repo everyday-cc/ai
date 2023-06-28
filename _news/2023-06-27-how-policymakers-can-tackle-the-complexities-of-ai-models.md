@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The light and dark of artificial intelligence"
-    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
-    publishedDateTime: 2023-06-26T15:13:00Z
-    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 626
-        isCached: true
 
 secured: "OXAyQLekstsy5QP5Z2tsO66LEjUJKpQhB4EqrZSHTnzvbyjN7RAeRwqyShlNlHnfMAEj7wrmG+8C6dT6nhnKD5esWHbzBmt2RBO2rX0rPNh7/QYTGjjXOMtOZNsWCXf6AlIMGzmxMzDessn5H92rLh22s11ZwjZn1r+Mrw1PNuA8HCR+E3eXFvnQ+dA2BwefWrnjhANr/wNSxzEzxB86nsnJxfNKEx1R1UcRWzZ3GXjuOcq3rGU33LlCIZbOOKXndnFEcCCdCEgubq+TJYRDvDuy2ULevSQvf9xEey39HKANjf9gmuLqOxYLdpPpNLUZxDBXW3k2Rj9BJjoBlAc1BibWvvoqYLREr9kdwduRsMynHYBF5yn6VtINBTT/jrpvw2JlJw8ultrsgYK6ZcnJuHT1hf1gCs7L2Yf+aChCLWvB0eX1H5LbSCzTRG0YQLqnEJgJIXx/yQ2bwh4KQk1XdG/gz0jlqleeA/tvu81BZfy97Rd0z3yoxjkaQ0Udo3y9TIXyIQw2L/SAy5AmzuR/bw==;DwuaAohipliGZ1FHIH2seA=="
 ---

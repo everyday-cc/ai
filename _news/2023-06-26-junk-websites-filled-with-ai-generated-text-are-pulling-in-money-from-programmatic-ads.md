@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075504/junk-websites-fi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Next-gen content farms are using AI-generated text to spin up junk websites"
-    excerpt: "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report."
-    publishedDateTime: 2023-06-27T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
+  - title: "The Grammys just drew the line between artists and AI-generated music"
+    excerpt: "Generative AI has permeated many different industries including the music scene, allowing people to create entire songs simply by using AI. As demonstrated by an AI-generated song featuring The Weeknd and Drake that went viral a couple of months ago, AI is capable of creating songs that sound like the real deal."
+    publishedDateTime: 2023-06-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-between-artists-and-ai-generated-music/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/clickbait2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Blue Chip Ads Feeding Unreliable AI-Generated News Websites"
     excerpt: "and Elisa Xu — did not identify any of the blue-chip advertisers by name because “none of the brands or their ad agencies had any idea that their advertisements would appear on these unreliable, AI-driven sites.” However, they did note that the ..."
     publishedDateTime: 2023-06-27T13:09:00Z
@@ -51,20 +44,6 @@ related:
       name: ecommercetimes
       domain: ecommercetimes.com
     quality: 34
-  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
-    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Download: advertising on junk AI websites, and forest bathing in VR"
     excerpt: "The news: AI chatbots are filling junk websites with AI-generated text that attracts paying advertisers. More than 140 major brands are paying for ads that end up on unreliable AI-written sites, likely without their knowledge, according to a new report."
     publishedDateTime: 2023-06-26T12:10:00Z

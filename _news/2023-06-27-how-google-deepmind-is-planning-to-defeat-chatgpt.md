@@ -47,22 +47,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Google DeepMind unveils self-improving AI model RoboCat"
-    excerpt: "Google DeepMind has unveiled a self-improving AI model RoboCat that can learn to perform a variety of tasks across different robotic arms. It can also self-generate new training data to improve its technique,"
-    publishedDateTime: 2023-06-23T17:14:00Z
-    webUrl: "https://inshorts.com/en/news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-deepmind-unveils-selfimproving-ai-model-robocat-1687540443134"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/23_fri/img_1687537639046_367.jpg?"
-        width: 1080
-        height: 569
-        isCached: true
   - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
     excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
     publishedDateTime: 2023-06-27T02:06:00Z
@@ -204,20 +188,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How to control ChatGPT with your voice"
-    excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
-    publishedDateTime: 2023-06-23T18:02:00Z
-    webUrl: "https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 54
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/ChatGPT-stock-photo-11.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Google DeepMind Takes Back What it Lost to OpenAI"
     excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."

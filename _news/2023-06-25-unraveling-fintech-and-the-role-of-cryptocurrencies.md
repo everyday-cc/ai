@@ -19,22 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "London fintech firm relocates HQ to Aberdeen"
-    excerpt: "Fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, in a bid to accelerate its growth. The platform crowdsources paper and digital receipts directly from consenting shoppers to help optimise spending and lower household bills,"
-    publishedDateTime: 2023-06-28T08:12:00Z
-    webUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324"
-    ampWebUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
+  - title: "Applications open for AWS' global fintech accelerator"
+    excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
+    publishedDateTime: 2023-06-28T09:15:00Z
+    webUrl: "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
     type: article
     provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 44
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 61
     images:
-      - url: "https://i2-prod.insider.co.uk/news/article30339315.ece/ALTERNATES/s1200/0_Mohsin-Rashid.jpg"
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS opens up applications for Global Fintech Accelerator"
+    excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
+    publishedDateTime: 2023-06-28T10:07:00Z
+    webUrl: "https://htxt.co.za/2023/06/28/aws-opens-up-applications-for-global-fintech-accelerator/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 41
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
+    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
+    publishedDateTime: 2023-06-24T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 9
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
+    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
 
 secured: "DvX5hx8VhaVI/L+Q2ZoUYYWd9cWHZ3ZBMLNaZB+3ryuL2SmryuK3/DIEYDYDrPfvqaX0RG6T/Tp6wyfEipC2IW8Sb1WkZUc0YiVBhuxdnLIeBiiTQb3d7410bheYfEMGGxnKGt3DnlZ9b9EPwYVPv62oZ0JJfSc5dB2tlwEBrMnVFVRdGZbvak4jmyOR3lFeEgB6fhyE5dJ9o5AqJkDWXnBF028sfTMVImub4Mb/fWIrV3UOFXJhAovIgz2X+WLJxAJIALokFBMVhPUa1NmUjJ13IMdLh6s8c4t3CgKYzrKRiLnsw/DqmaA5dyofQYVKUxTSTLFreHCe7hYj+70jiRWXIFG1u7KQjRYtF6dh3qc/PXr57avUWL/qIYYGRW8xzIeOfj7YJw5ftGD7xwiH+vpd8wArrKNROm7m53NUrRXAXG2PCGe8n0zvEuOnlHArq4pXnb2H9GnyXGmOHGt5NpNPEbmfrpW0XKZCfMKlU7/CjO99f/Yi1QRYpaCr6qF/YW6Kaq5kIkwY7JGDFmLlwg==;R2MqeSYPw2pMsBKZ6ynMAA=="
 ---

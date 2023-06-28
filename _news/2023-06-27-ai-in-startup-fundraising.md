@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Staying Authentic While Using AI In Your Marketing Strategy"
+    excerpt: "Before diving into all that AI has to offer, consider the importance of staying authentic and maintaining a distinguished brand."
+    publishedDateTime: 2023-06-28T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f060d881e3f8e00067832c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Role Of AI In Creating A Sustainable Future"
     excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
     publishedDateTime: 2023-06-25T15:58:00Z
@@ -44,99 +60,165 @@ related:
         width: 1491
         height: 900
         isCached: true
-  - title: "Defining the unexplainable in artificial intelligence"
-    excerpt: "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness."
-    publishedDateTime: 2023-06-26T15:22:00Z
-    webUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp"
+  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
+    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
+    publishedDateTime: 2023-06-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS"
-    excerpt: "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g"
-    publishedDateTime: 2023-06-27T23:23:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 61
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Achieving a sustainable future for AI"
-    excerpt: "As the carbon footprint of AI computing expands, more sustainable AI designs and new best practices are essential."
-    publishedDateTime: 2023-06-26T16:51:00Z
-    webUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/26/1075202/achieving-a-sustainable-future-for-ai/amp/"
+  - title: "Next-gen content farms are using AI-generated text to spin up junk websites"
+    excerpt: "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report."
+    publishedDateTime: 2023-06-27T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/"
+    ampWebUrl: "https://www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/27/1075545/next-gen-content-farms-ai-generated-text-ads/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/192826007_tree_tech_1200-1.png?w=1200"
-        width: 1200
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/06/clickbait2.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "YouTube is testing an AI voice-dubbing feature for creators, and it's incredibly fast"
-    excerpt: "As reported by The Verge, at VidCon, YouTube announced that it will be employing the use of Aloud, an AI-powered dubbing service from Area 120, Google's incubator for experimental products, to enable AI-powered dubbing for its videos."
-    publishedDateTime: 2023-06-23T18:38:00Z
-    webUrl: "https://www.zdnet.com/article/youtube-is-testing-an-ai-voice-dubbing-feature-for-creators-and-its-incredibly-fast/"
+  - title: "Five AI gadgets making the most of machine learning"
+    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
+    publishedDateTime: 2023-06-26T16:00:00Z
+    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
-  - title: "AI could change the future of yogurt"
-    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
-    publishedDateTime: 2023-06-25T03:15:00Z
-    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
+    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
+    publishedDateTime: 2023-06-26T08:09:00Z
+    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
+    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 56
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
+        width: 999
+        height: 560
+        isCached: true
+  - title: "How AI is Reshaping Banking in 2023"
+    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
+    publishedDateTime: 2023-06-28T01:43:00Z
+    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"
+    excerpt: "People working in marketing, sales and music are using ChatGPT for a host of reasons. Here are ways five young people in the GTA are using it."
+    publishedDateTime: 2023-06-26T09:01:00Z
+    webUrl: "https://www.thestar.com/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 49
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/personal_finance/2023/06/26/heres-how-to-make-the-high-cost-of-groceries-pay-for-that-dream-flight/biz_rewards_smartmoney_web.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "YouTube is getting a powerful AI dubbing tool — here’s how it works"
+    excerpt: "YouTube is testing a new tool to automatically translate your videos into other languages using AI. The company announced this week it’s teamed up with AI-dubbing service Aloud to make it easier than ever for creators to reach a wider international audience."
+    publishedDateTime: 2023-06-24T15:49:00Z
+    webUrl: "https://www.tomsguide.com/news/youtube-is-getting-a-powerful-ai-dubbing-tool-heres-how-it-works"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Table of Experts: The future of AI"
-    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
-    publishedDateTime: 2023-06-27T13:06:00Z
-    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Embracing a Sustainable Future: Aboitiz Data Innovation and globally-renowned institute Mila join forces to combat climate change with AI"
-    excerpt: "Aboitiz Data Innovation (ADI) and Mila - Quebec AI Institute, a research community headquartered in Montreal, Canada and founded by ACM A.M. Turing Award (often referred to as the “Nobel Prize of Computing”) recipient Prof."
-    publishedDateTime: 2023-06-28T04:22:00Z
-    webUrl: "https://journal.com.ph/embracing-a-sustainable-future/"
-    type: article
-    provider:
-      name: Journal
-      domain: journal.com.ph
-    quality: 6
-    images:
-      - url: "https://journal.com.ph/wp-content/uploads/2023/06/ADI-and-Mila-1200x800.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD-1200-80.jpg"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "YouTube is using AI to break down language barriers"
+    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
+    publishedDateTime: 2023-06-27T01:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Balancing AI And Engineering Expertise In The Fab"
+    excerpt: "Before a new device makes it to high-volume manufacturing, there are countless engineering hours spent on developing the lithography, etching, deposition, CMP, and many other processes, at high yield."
+    publishedDateTime: 2023-06-28T07:01:00Z
+    webUrl: "https://semiengineering.com/balancing-ai-and-engineering-expertise-in-the-fab/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
+        width: 766
+        height: 524
+        isCached: true
+  - title: "Contractors, tried using Artificial Intelligence to create your CV?"
+    excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
+    publishedDateTime: 2023-06-26T08:53:00Z
+    webUrl: "https://www.contractoruk.com/cv/contractors_tried_using_artificial_intelligence_create_your_cv.html"
+    type: article
+    provider:
+      name: contractoruk.com
+      domain: contractoruk.com
+    quality: 37
+    images:
+      - url: "https://www.contractoruk.com/sites/default/files/socialmedia-thumbnail.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "NASA is building an artificial intelligence that will make talking spaceships real"
+    excerpt: "NASA engineers are saying the agency is constructing a ChatGPT-like artificial intelligence interface to assist astronauts while on a mission."
+    publishedDateTime: 2023-06-26T16:16:00Z
+    webUrl: "https://www.tweaktown.com/news/92089/nasa-is-building-an-artificial-intelligence-that-will-make-talking-spaceships-real/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92089_56115_nasa-is-building-chatgpt-like-assistant-to-help-astronauts_full.jpg"
+        width: 1500
+        height: 682
         isCached: true
 
 secured: "2sHflriPYVevGw/4DZVhNL/GymV2hu397ITozRuq7Dzwx3PMiOUf5nEgxmMJhvmmifShWg+YFb3GpUzvoQxO06KLyk300XctkSty+CR+aUrMFAotxt9vYrG4BCFWV0mQesJJTPRmBp1TY3LvAz2FRz4Gd0KEuCai81XryI5c+m9TJH3SzAR3l8mLDOwE17NAN7iW3Ppc8QIVlIttfssT3BZM/ej3lNbS/WhJ/SHbPZbjGeWB3RzEUr74jX5+vxSSlP7+H26FTcL/1dFZQNuycP31vXvxprOrxWd9pFDIxnSeESQCMLaMe6wpgZvmq39x3vPqYa+fx65MQ+d8Ulqs3WTFR6hJfp2WySbuPSCtpgY=;Oy0+c1qFDFBz1hkYzv/oxg=="

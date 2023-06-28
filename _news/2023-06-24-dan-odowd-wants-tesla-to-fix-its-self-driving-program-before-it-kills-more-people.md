@@ -43,6 +43,22 @@ related:
         width: 1279
         height: 713
         isCached: true
+  - title: "Tesla Self-Driving Ride Causes Twitter Storm Over Safety. The Stock Shrugs."
+    excerpt: "The electric-vehicle maker's FSD technology has divided opinion between a bull and a bear. Fortunately, safety regulators aren't swayed by social media."
+    publishedDateTime: 2023-06-28T11:50:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-807567/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Watch Tesla Test Drivers Narrowly Avoid Scary Accident in Full Self-Driving Mode"
     excerpt: "A video posted online shows the vehicle navigating a winding road fairly well, sticking to it's side of the the two-lane street and even braking to avoid a large semi-truck unexpectedly backing into the road while test drivers Ross Gerber and Dan O'Dowd sit ready to take control of the vehicle if anything goes wrong."
     publishedDateTime: 2023-06-23T19:54:00Z

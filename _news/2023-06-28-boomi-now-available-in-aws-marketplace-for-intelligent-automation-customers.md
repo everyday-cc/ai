@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Boomi Now Available in AWS Marketplace for Intelligent Automation Customers"
-    excerpt: "Boomi™, the intelligent connectivity and automation leader, today announced that the Boomi platform - a category-leading integration platform as a service (iPaaS) - is now available as an Intelligent Automation solution in AWS Marketplace,"
+    excerpt: "Available in AWS Marketplace for Intelligent Automation Customers. Boomi™, the intelligent connectivity and automation leader, today announced that the Boomi platform"
     publishedDateTime: 2023-06-27T14:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839762.htm"
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/news/-boomi-now-available-aws-marketplace-intelligent-automation-customers-/2023/06/27/9839762.htm"
     type: article
     provider:
       name: TMCnet

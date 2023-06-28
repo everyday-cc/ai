@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 301
+heat: 321
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055"
         width: 4000
         height: 2486
+        isCached: true
+  - title: "Nvidia Leads Premarket Slump In Chipmaker Shares—As White House Reportedly Mulls Fresh Curbs On AI Chips"
+    excerpt: "The Biden administration is planning to expand its curbs on the export of AI chips to China and other nations, the Wall Street Journal reported."
+    publishedDateTime: 2023-06-28T10:49:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/06/28/nvidia-leads-premarket-slump-in-chipmaker-shares-as-white-house-reportedly-mulls-fresh-curbs-on-ai-chips/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c0fafd13ced24caec5d4f/0x0.jpg?format=jpg&crop=3000,1688,x0,y178,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
     excerpt: "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the"
@@ -184,6 +200,20 @@ related:
       - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Beautiful Rally, AI Chips to China, Bank Stress Tests, Fed, Defense Stocks"
+    excerpt: "The U.S. is considering new restrictions on exports of AI capable chips to China, negatively affecting Nvidia and AMD."
+    publishedDateTime: 2023-06-28T11:37:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/beautiful-rally-ai-chips-to-china-bank-stress-tests-fed-defense-stocks-16127588"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 69
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png"
+        width: 1152
+        height: 768
         isCached: true
   - title: "China stocks fall on weak industrial profit, US weighing new chip export curbs"
     excerpt: "China and Hong Kong stocks fell on Wednesday, after profit at Chinese industrial firms declined in May, and on news that the U.S. is weighing new restrictions on AI chip exports to China."

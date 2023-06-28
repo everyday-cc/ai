@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-toolkit-updated-to-include-more-assessment-components/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2021/09/imageForEntry21-tdI.jpg?w=400"
         width: 400
         height: 224
-        isCached: true
-  - title: "7 dental AI updates to know"
-    excerpt: "Explore seven artificial intelligence updates in the dental industry since April 20, from FDA clearances to industry collaborations. Discover how AI is revolutionizing the dental industry."
-    publishedDateTime: 2023-06-23T17:51:00Z
-    webUrl: "https://www.beckersdental.com/ai-teledentistry/41318-7-dental-ai-updates-to-know.html"
-    type: article
-    provider:
-      name: beckersdental
-      domain: beckersdental.com
-    quality: 37
-    images:
-      - url: "https://www.beckersdental.com/templates/beckers/assets/images/dental-og-image.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "1hQ/EguMPxRNUEnwQKhGiF7+eE/lqzEJPDMmdfWNJzCLn0JsJmYWIIR2H9mn1xermSr0VsQNrJer8ydYVpJmStkgrtYAUAXIf/NZ8I34QpcLu9UKaIy4vlxKnrdVkM/ZSaLwxVCS6LgX9Rh4Ebq6mbnh0TUYEChMcXeVcCCZOR/yHBHt5nid1qaOiNZrMeieB1I8Nc4yzWkumt6mODwSRxYDmcsjny4Gk1DFMqbLy5DIAFCYXwY4emttLxRUBo8efY2sH7hEtkXkIo/FI1IrwDGQTvAgL5xcu89NrOkZt6DviZgzbLzu/auXGa/Rhfaoc0wBbnGNf3M0gzS9GJzYpGq1PDZUJH+Wj02oyJ1ZJavnz/6jSNmpjJ3iZfnk9dOdyZpUUgiZNzIn6kxOO+RG/i57TSDZRxEoJbh/Jq5H6205tfRJOOHDIhGgTxIsjtOshwNOh3LANQDv3cWbQhZIJoKZdPt7RCU/+hZNDeCCKH5pw/OtNMVoy8skVQ+oG9IF+1UM43rkmplfbw+9xxETNQ==;yHcG7i2CYseCnfbjgb9aVw=="

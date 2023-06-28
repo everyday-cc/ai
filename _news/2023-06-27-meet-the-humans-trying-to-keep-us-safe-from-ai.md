@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe
 webUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
-    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
-    publishedDateTime: 2023-06-23T18:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "When AI bots pose as humans"
     excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
     publishedDateTime: 2023-06-27T03:50:00Z

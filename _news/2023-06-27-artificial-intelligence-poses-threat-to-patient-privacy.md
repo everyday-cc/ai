@@ -44,6 +44,15 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 19
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "vIX2UH+h/d8WOIzQUfRiBGsnNsQGcKpsiTRXqMp9u8CoGjl1+6/nfPm7u0gDuc/dAWbizhrrpY5IKRtkk5fuHiysH0qN3/hwFfjDtVVdLlQARpCXZaozgfDfxqdP5achX9+/LWAbTUDnkP6qjyF67bwCmOgDgUoZABmnmAjmCu3QHh31OJR68XfcyibCbKAYOiUgrmzlOMJBr03PFeLjN4TyOkHT7np/SKLDVt49CYrybFAjilBvbEe6yZEqkzzQGgGfJ+cuKnlhEjLuso3yQCaGSOKXjdouoXpQV6NRJ2TDjJWRV0YUv2JTbSGd38pEv53lAhpi9XqvEMpjJgAd1Lvc9WEFdwGM6D9bHabuO6Q=;90LjQpnVGeKwGkZoyemnKw=="
 ---

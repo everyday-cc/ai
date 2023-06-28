@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI could change the future of yogurt"
+    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
+    publishedDateTime: 2023-06-25T03:15:00Z
+    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "The deluge of new generative AI products is just getting started"
     excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
     publishedDateTime: 2023-06-26T14:14:00Z
@@ -58,6 +72,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "7lqao4+26hbwadUfcN8NqDh5oaB64qfJENzXRJcpbwhtSw+kJQUvqTZFkwUjp3pLCYhdm5nLhs44vPXw6/8Zw1MZzf5ltmitUnqJfZ96+OF/Jozu4tp13/FcHVdLpwDmwukgXk5q9WbliBbrHeRPuT6dai0ELwr7KSQ9M1KzXy2MqKa07o6CDhrbKpJC+XTImsbpE+w+5cbgEDdYDtubElO6Zf2oxd1EDzTBE6kxqn2tJY8ITo5vfPl77eT6RfjR8N4diqaDn0rBoFKo3sNIYWx07IUpnn+vNZWQtKc7xZq26K67nFT6jI0ajN11PKf0aN+KrBIqhwfyVVRI2VutY4I8onwozJiP/iQ3Vy+WiEQnUCMDSVhFJ6mwUSAhgV0m/WTZ1VhdhhyPl+ZMemBNvSzybqvkuvQaHAUBFP6nTM8jsTh0KZjWBMDxS/pbgwvGLxlWiBVSHsfen6hLXDNSG8bNiQx3Nb3exxLaiQnDRDNHjT2PLBtSLIXw9dRGCC43SfvCxK4VVvN0r7oQfETfaw==;C1x7pQi/pSQFZR0oy2bjUA=="
 ---

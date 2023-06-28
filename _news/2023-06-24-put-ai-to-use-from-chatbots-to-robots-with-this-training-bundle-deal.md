@@ -35,20 +35,6 @@ related:
         width: 728
         height: 443
         isCached: true
-  - title: "UNC Health creates generative AI chatbot"
-    excerpt: "UNC Health has created a secure, internal AI-based chatbot using Microsoft's Azure OpenAI Service to help streamline administrative work."
-    publishedDateTime: 2023-06-23T19:07:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/unc-health-creates-generative-ai-chatbot.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "PbhI9MdoIHfRahYV9CZ0lP0oHDbDJGUTNT1ouz5pmkHo927aSuYxtP1KafpmMhQhuz7MxkZ997iDOglHkqp09VQ1igi8SxNsuXISoO5c/Zmoj25BssaGMtVkzkNYJVVkGNMa+JtGA4Hqq408f9wqNpeKyqaaNxKeGk1xKyH1Z38TNs0+um1NAYA78R3diNxojoSlg0nG8NvGDoZaYzLMzrHuECAwSqzZ7PK443Jqw/DHaq1lI01HayBwFY6mL8z1tH+G508cgkQ2/EPN5jMnZq46gBakMsNFG6IXqfgapXIJVSZgGiGFwpJz8i1syo2Z7LSsu+bCKGCDv+XRMX0n95FkimpsUe5AQt2OIP/IYog=;W6+4OtHJrtITFoipoLl8NQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artific
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CBS News
@@ -38,6 +38,20 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 39
+  - title: "AI model can help doctors determine the extent of cancer within the prostate"
+    excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
+    publishedDateTime: 2023-06-28T01:14:00Z
+    webUrl: "https://www.news-medical.net/news/20230627/AI-model-can-help-doctors-determine-the-extent-of-cancer-within-the-prostate.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "y+F8nRqrVlfOHKCsFsgshfdS5r8KUQ+vLBcqSNQrXCbstPaNLM64p7cnNXMvWAnoi70h/xMwdsEZ3Y5LVuPONFQEtnbuak3Oz2LTJkDeuHMqL6qvvfJQU2v8Mligz77JgdkAMcbWDExulgd6Jp9K7cStMk2gw2UQ8I52WctGntdu53WRB/34/IShMWZkaQNGL59aWfQwboaSCvfW3YNdERrbDtAMwa0m3Js6nqVYyd+ZRZTHd/+GX4gCx1781dWroBFZxRnRroR0OZmLwkkFgzKRQIXHJkloGRVZ/ek11MjCgxY4muqZMOOUZ3VKpM5rbvLe4kUuBFjNhGzJS+NgrNNh6j8j4Hx+O+bTjR0D/vQ=;mFDMvStcRcDt+O9B07eeAw=="
 ---

@@ -21,12 +21,12 @@ topics:
 related:
   - title: "Provenir Awarded Best AI-Driven Credit Decisioning Solution Provider of the Year at Annual Africa Bank 4.0 Awards for North Africa"
     excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced it has been awarded the Best AI-Driven Credit Decisioning Solution Provider of the Year at the annual Africa Bank 4."
-    publishedDateTime: 2023-06-28T09:03:00Z
-    webUrl: "https://www.afp.com/en/news/1314/provenir-awarded-best-ai-driven-credit-decisioning-solution-provider-year-annual-africa-bank-40-awards-north-africa-202306259442121"
+    publishedDateTime: 2023-06-28T11:02:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9840423.htm"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
 
 secured: "57awykQ6Zbkgi5WCpCaEc+cxtctN4SsOmSgj5IKbL7npwEKait/umfj5zIHJ2tp/6AwQ8Mf3gnj7sPtvrRupmZd5pi3w9y3McUULM2b2GcZ23ujaRjQM2EXDgOvIQiiJI865JaJ92aWlpZ7mod/0koeqGihOgzlZDxYL9kUjqeC2xWMspArylh5wShySaOY6CCgoUub6erkJ5FyJpLk76XznyznsWgaL552RbcDsa8YeOrYDxmi2GLeMg8Upbd2zePlWu7W2P1rdG3eguX6ZpQ0DJfhm3DFZU9efXitIXQ6Rxd0C4Rqm7UkYCxR04QtVo59YKC7da67OGsAQbD2ChTCLan5Yh3oK1J0GCUV44hE=;l9NSZ4wR31wpdpRvaMqoYQ=="

@@ -37,11 +37,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6499961a621e4f04eafde972/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "5 AI tools for translation"
+    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
+    publishedDateTime: 2023-06-24T09:08:00Z
+    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "i1YwOF32gwL1l1uu8wB9FXfqLL0P5T7dXryYbaGRWe9A6Ekr80qma/UlDPe5NOPUCfxOwOO1FlaDa98dlkD/1qZoUNN2lIRDJmnwjCIWGGnrMRJqeOh4b30I8S/X1k4s53vKkZpEEeEtHask/5uMNuAMR1abJeLGEzFT6ssgPsqvS94+X+VNQKJqN8qaAPX5prVI/dWkadgENhM6Ddw5t4qZxhZiD6N+dr1ZzXUvd9PljWYmEKQc13/j3qf7HA2iB9bZN254+HWUe5TFsH45noqFwLGc3+UenaK9kRGbPRrPE77iaj0CtbpkI2IdRgCahqRuTBb4JyhnX7szbZ2aS/LEIFg2zKap6CFvhxXkeUb0Ju4bzO5U0dR8rIcw+M7Mx+Bd5DGXFigyTbX/WLM8e48zQRdcR9Lei1U83ho/XhsTJSNsW3+erXUlqHeU7KfIV0zMreqylWlvPrTMjiUb2X8nvZDWgFaqHjHy7LVyZDGVyUnWDnu1slWEu3NqVeFQQoI/IoDSNp4nQa1GZTNL/w==;0n0INsWOn/F083QpbklS0A=="

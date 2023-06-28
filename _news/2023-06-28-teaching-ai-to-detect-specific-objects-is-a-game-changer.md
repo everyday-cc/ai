@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI model can help doctors determine the extent of cancer within the prostate"
+    excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
+    publishedDateTime: 2023-06-28T01:14:00Z
+    webUrl: "https://www.news-medical.net/news/20230627/AI-model-can-help-doctors-determine-the-extent-of-cancer-within-the-prostate.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "ERMacWci8VH0HUGFs2u0mEH6QrBYEeGcLCP2rI7nWIU3nYn6Q7Bx3WGbK3xjP7/r+d3TnpuU+yKqluCzb5878d97eiPiBprgNtm9rYPxfFeXeX1EIBMeIjxfh+c8pXBDz8viM7n6L054MWkP/y33O8meAaUCrIr3QkQQPPtQd6lvGTIeR/u4lKgp5O5J8ehjuRhBJfyTjFaeToK3mZSXYCLyyMHzBAaE9794C9umB/VfvYli8OW9GClTsy+cauxOyMcffL6UvfZ7uWbnAIjcyPkXGLtLcn/TYuYWWP+tDcp8goy+JDmWdtF+X+GgnB1OdcuVYTbLnEAK4GHwkk3bxstq3C2l4u9uJLu+uAWKeBS6hrqzXn/fkYjTM4YzgegtP1Jpda4bTCwRkGxxxBnfqj7DIrQXWEbNE/zsx6ZdgpNbXu3FR7QUkme1asA2KnjHHcqxxW/vrcD1aKIErx681YE0Y6wfBg8Q5VhB+hR9igfQ7FLP+zH8/+GiR9UiGQv2hRjVRqPZqmVx3FH69B7dBQ==;4Jyag2X1XdUMxN1bEdDG6Q=="
 ---

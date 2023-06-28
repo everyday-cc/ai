@@ -239,29 +239,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "5 AI tools for translation"
-    excerpt: "Translation is the process of converting written or spoken content from one language to another while preserving its meaning. By automating and enhancing the translation process, artificial intelligence (AI) has significantly contributed to changing the ..."
-    publishedDateTime: 2023-06-24T09:08:00Z
-    webUrl: "https://cointelegraph.com/news/5-ai-tools-for-translation"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDYvN2YyZWQ1NmQtZWIwNi00MmYzLTljMjktZGI3N2ZmNmE5NzI4LmpwZw==.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Amazon's Aws Unveils Generative Ai Innovation Center"
-    excerpt: "(full-name excess cash flow value funds), which invest in an event-driven equity and credit strategy read more among other things, the team of experts working at the center will help customers develop generative ai applications with step-by-step instructions."
-    publishedDateTime: 2023-06-23T18:59:00Z
-    webUrl: "https://menafn.com/1106493357/Amazons-Aws-Unveils-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "wmknsVRrM2VbZpopcJvrOz9AcRgVxrO1o97K0tYdqsEhrGDKwkIokAp1jfsHDj1l/6+N+kJeiuL8Lo65PYKGZHAmawVDVRdM8nqf0l3+z7gAgEdvdbyFJbO5Vy1t2pkHDHj67avm9cgOTJ+cFd61TMAx0FWFUKSXAbrXEvju7kNkYGdNGIPQoLOm+MC8LviheAxANtX4sV6oPnzD3KH6LVOXwETW7hyIyfFbVCSlozClFGOy8tN7Sa63FC/n1UVRsbhwClpO4UIsrH6gBFIPDKcbdcPe1ldJiLh4LNcOg4kwLiGeuakhtnhvCHMXiFs+5kTbdIqU4U4k4wD6GO7FswLQ8pwKFdn7e4i8x3DtI77G/AJmBPnJ76udcaUiXMuDlXRR+u58YvKzhwJC8r/D4bMkWqoqoHob5RDdKT5o7a9H/1iZl2GmOG3iDsvDQZ1TaJSsFjjXWn0wUuJVxcxBLDygthRMiGmDAeR3O4EjTRXs4wO/Cfw9aQ3lvf0AeiKcLvS0nTS1pusKqmzxfov+iw==;+3ojpUB3yk/F4TGipJ6Vvw=="
 ---

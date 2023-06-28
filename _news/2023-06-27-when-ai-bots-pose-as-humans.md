@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "The Eyeball-Scanning Plan to Save Humanity From AI"
-    excerpt: "On this episode of Odd Lots, we explore the growing concerns emerging from the rise of AI and how other technologies might rein it in."
-    publishedDateTime: 2023-06-23T18:36:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-23/video-the-eyeball-scanning-plan-to-save-humanity-from-ai"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "AI to the rescue"
     excerpt: "The pace of work is outpacing our ability to keep up. AI is poised to create a whole new way of working, according to a new report from Microsoft."
     publishedDateTime: 2023-06-26T13:17:00Z

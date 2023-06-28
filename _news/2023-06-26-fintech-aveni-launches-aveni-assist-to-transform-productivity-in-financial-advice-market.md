@@ -7,7 +7,7 @@ originalUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assis
 webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Aveni unveils AI platform for financial advice firms"
-    excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
-    publishedDateTime: 2023-06-27T10:03:00Z
-    webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
+  - title: "What today’s banks need from commercial lending technology and fintech vendors"
+    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
+    publishedDateTime: 2023-06-27T15:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
     type: article
     provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 39
-    images:
-      - url: "https://s31974.pcdn.co/wp-content/uploads/sites/3/2019/12/launch-take-off-plane.jpg"
-        width: 640
-        height: 410
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 15
 
 secured: "/DpdHMovz53SxI6eE82WVQ3LGSkCAkAPG60jeeaU9MYnju9qzdMXq2ziwHckJOSWPQvGC5Rt2qs9tWN/kYj4L9gRQeletdNpB9J4CohSchUINoAnCc52B5M6INdjXluk/2552i7kxDRq2jYxnqx0qi04YyptcvWQgey0/6HAZuPQs/WQjbNNwAkf8UumvHGaJEosP/7eq9mBqx0VoyW4/eWTx0dzSqfGODEFrl3aTlrHTZfDSb6qn7MTvXKt8OgM20UyaEyEyQNefHNEzBw4oj23A8XoYZHU1kcx5XSue9f5xzS4kkR4Nyx4IyB4p8T4h7CqooBrRCM1vpqhgW6msPyieo8z5e98IUrv4PUUZaU=;ZXYkqobCMIGzjXO8OsZ5vg=="
 ---

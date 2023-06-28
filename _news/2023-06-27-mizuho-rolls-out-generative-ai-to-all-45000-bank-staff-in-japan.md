@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-ou
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan"
 type: article
 quality: 86
-heat: 96
+heat: 98
 published: true
 
 provider:
