@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'They're not ready for prime time': San Francisco fire chief says robotaxis interfere with responses"
-    excerpt: "Robotaxis have run through emergency tape, blocked firehouses and proved almost impossible to move out of the way"
-    publishedDateTime: 2023-06-23T14:14:00Z
-    webUrl: "https://www.ems1.com/technology/articles/theyre-not-ready-for-prime-time-san-francisco-fire-chief-says-robotaxis-interfere-with-responses-GcwTELEXYjtrMvpg/"
-    type: article
-    provider:
-      name: EMS1
-      domain: ems1.com
-    quality: 9
-    images:
-      - url: "https://media.cdn.lexipol.com/article-images/AP23077015308090.jpg?w=1600&format=jpg&quality=87&crop=29%2C0%2C1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks"
     excerpt: "Since Jan. 1, the Fire Department has logged at least 39 robotaxi incident reports, a caution sign for plans to deploy driverless cars in other towns."
     publishedDateTime: 2023-06-23T18:07:00Z

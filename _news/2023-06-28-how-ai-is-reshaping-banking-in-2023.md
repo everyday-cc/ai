@@ -25,65 +25,113 @@ images:
     isCached: true
 
 related:
-  - title: "One Major Risk With Investing in Artificial Intelligence Stocks"
-    excerpt: "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme."
-    publishedDateTime: 2023-06-24T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
+  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
+    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
+    publishedDateTime: 2023-06-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
-    publishedDateTime: 2023-06-27T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
+  - title: "Five AI gadgets making the most of machine learning"
+    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
+    publishedDateTime: 2023-06-26T16:00:00Z
+    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "10 AI Stocks Billionaires are Loading Up On"
-    excerpt: "The AI mania is quickly dividing the market into two halves, those who believe we are in an AI bubble that will not live up to the hype and all the stocks gaining on the back of the AI hype will soon"
-    publishedDateTime: 2023-06-26T16:44:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-ai-stocks-billionaires-are-loading-up-on-1158885/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 41
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
     images:
-      - url: "https://www.insidermonkey.com/blog/wp-content/uploads/2012/09/Stanley-Druckenmiller-e1354390334422.jpg"
-        width: 2472
-        height: 3235
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
-  - title: "How investors are buying their way into the AI start-up gold rush"
-    excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
-    publishedDateTime: 2023-06-27T21:16:00Z
-    webUrl: "https://www.afr.com/technology/how-investors-are-buying-their-way-into-the-ai-start-up-gold-rush-20230628-p5dk0a"
+  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
+    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
+    publishedDateTime: 2023-06-26T08:09:00Z
+    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
+    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 56
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.1741%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e792f9305c6fcfa2bf821b0329ba4aed66236261"
-        width: 1200
-        height: 628
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
+        width: 999
+        height: 560
         isCached: true
-  - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
-    excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
-    publishedDateTime: 2023-06-26T18:18:00Z
-    webUrl: "https://www.benzinga.com/startups/23/06/33011902/this-1-month-old-ai-startup-with-no-product-just-raised-113-million-here-are-3-established-ai-stocks"
+  - title: "Training AI to recognize fly mating identifies a gene that controls mating positions"
+    excerpt: "A research group at the Graduate School of Science, Nagoya University in Japan has used artificial intelligence to determine that piezo, a channel that receives mechanical stimuli, plays a role in controlling the mating posture of male fruit flies (Drosophila melanogaster)."
+    publishedDateTime: 2023-06-27T14:20:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.html"
+    ampWebUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-fly-gene-positions.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Phys.org
+      domain: phys.org
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/boy-fly-meets-girl-fly.jpg"
+        width: 2750
+        height: 2000
+        isCached: true
+  - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"
+    excerpt: "People working in marketing, sales and music are using ChatGPT for a host of reasons. Here are ways five young people in the GTA are using it."
+    publishedDateTime: 2023-06-26T09:01:00Z
+    webUrl: "https://www.thestar.com/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 49
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/personal_finance/2023/06/26/heres-how-to-make-the-high-cost-of-groceries-pay-for-that-dream-flight/biz_rewards_smartmoney_web.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "How machine learning development companies are redefining the business landscape"
+    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
+    publishedDateTime: 2023-06-27T20:35:00Z
+    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
+    excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
+    publishedDateTime: 2023-06-27T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/06/metal-llm-developer-platform-integrate-ai-applications-taylor-lowe/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
     quality: 0
 
 secured: "EDrQrRapP77M1UZM6X4+oSi/vrYlvXDTi00RXHLZIv4nhBJClLEl86fSRVj/Nc/gjqU/q9785e588aCA6v0daiZECqo1tZsBoQA3HdkzY4kaXS0F9jGpL+MB57RodKwCtt2IPriDh4VD2NRKYMdi73FwY5ONQEsjOOEz2M0TrqxtRPMoR3t1Fv0Lw+ptNDhHWMdAT4hq3zswF1gdWoR+UNAeIw64kKteBpmnrguVk536RwIZdmhoQeMU4bJ7x6PNU4JSUtNhKDzQYJQ9ChtgCo/95lEMsanK+hHTTcmfU+I1aR17UNvlnd6xztfhlKgzX/um5zyBucMOYbtktlsDWXddxMoBZO+OgG8BDvhnokHdvctHVDzrt6pJkZYIo+TMZKNeSrFvujm6zIIK7MV5TM6DNkw2ndk5KTm/kXtF/E15uvxq4whw2ulcchBHDnOrEryvuFodz3WTookOrwOQX6SocL1AlzKzoRwVXb1RbZZuxsRfeATBzkY7xJxZLGEH8D2lkOdk009Yit9n2YGQPQ==;InpWqQic9Pos1x+09kJPQQ=="

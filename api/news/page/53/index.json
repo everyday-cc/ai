@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-05-23-these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind.md",
+      "title": "These generative AI tools coming to Adobe Photoshop will blow your mind",
+      "excerpt": "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "originalUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "publishedDateTime": "2023-05-23T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-enough-with-the-corporate-therapy-speak-workers-say.md",
       "title": "Enough With The Corporate ‘Therapy Speak,’ Workers Say",
       "excerpt": "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday.",
@@ -1162,57 +1214,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai.md",
-      "title": "Endless Adventures will enable gamers to create narrative games with no-code tools and AI",
-      "excerpt": "Endless Adventures came out of stealth at GamesBeat Summit 2023 to talk about the intersection of gaming, AI and user-generated content.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
-      "originalUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ENDLESS-5_Gameplay.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
-      "publishedDateTime": "2023-05-22T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

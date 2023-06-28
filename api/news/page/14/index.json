@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-17-5-loreal-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility.md",
+      "title": "5 L’Oréal Hair And Beauty Innovations At Viva Tech: AR, AI, Web3 Driving D&I And Utility",
+      "excerpt": "Top 5 L'Oréal hair and beauty innovations premiered at Viva Tech in Paris with AR, AI, Web3 technology driving diversity, inclusion and utility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648dd29e6c865656a85e44ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/06/17/5-loral-hair-and-beauty-innovations-at-viva-tech-ar-ai-web3-driving-di-and-utility/amp/",
+      "publishedDateTime": "2023-06-17T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-datas-destiny-former-microsoft-and-snowflake-exec-bob-muglia-on-the-future-of-ai-and-humanity.md",
       "title": "Data’s destiny: Former Microsoft and Snowflake exec Bob Muglia on the future of AI and humanity",
       "excerpt": "This week: the origins of data, and the future of the digital species. Our guest on the GeekWire Podcast is business and tech leader Bob Muglia, a startup investor and… Read More",
@@ -1191,50 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance.md",
-      "title": "Viperatech Supercharges AI Innovation with NVIDIA DGX H100 & H100 GPU's: A New Era in Deep Learning Performance",
-      "excerpt": "and H100 4x GPU models, is set to make waves in the AI and deep learning ecosystem, enhancing capabilities for businesses and researchers around the globe. Designed for an era of AI and high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/ein-presswire/639851294/viperatech-supercharges-ai-innovation-with-nvidia-dgx-h100-h100-gpus-a-new-era-in-deep-learning-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2020/11/Capture3-2.jpg?w=2000&#038;ssl=1",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN-TV",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

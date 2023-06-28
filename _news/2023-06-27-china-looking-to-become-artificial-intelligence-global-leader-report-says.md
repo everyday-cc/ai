@@ -7,7 +7,7 @@ originalUrl: "https://news.usni.org/2023/06/26/china-looking-to-become-artificia
 webUrl: "https://news.usni.org/2023/06/26/china-looking-to-become-artificial-intelligence-global-leader-report-says"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 826
     height: 549
     isCached: true
-
-related:
-  - title: "Five AI gadgets making the most of machine learning"
-    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
-    publishedDateTime: 2023-06-26T16:00:00Z
-    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 56
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "muTqbGP6zJJVdpt7TTfdb+3HwCpzhiO8yj4OaoNggpnwvKxRIn2fI3GvZu9q2+zPnXxQALlpWGHENOe1DaS4JZKGADd0R7OmktpgAh8TIgRAjqYOq4vDMtzJaS9MhFWyv1LarpM9nCt8xbn477wLNzErRUfkBII/HHjJOoFRtMUkSNouejVtZarSCTddeld3HKsr3108wlm6EfD7Eufg4TxfiJDQM4TPw/8TFu9wSu7U2s8RTDFMpXREuLvMlHk9OaP16w0mawQzX6e3Ni7L6R0+EJ7oajJOH60VMKuwzIimtRRwLXMc0djQJWQ9a7qR6Qolz7MYI9SvsGknPlKh1bFSTwcqWCDzMKtXyIE+r/c=;SSBm9qWcx3oIq5Z2u5KYXw=="
 ---

@@ -258,15 +258,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
-    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive Risk Management Framework created specifically to guide the company's development of Artificial Intelligence (AI) driven capabilities."
-    publishedDateTime: 2023-06-23T14:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-1032406843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Amazon's Aws Unveils Generative Ai Innovation Center"
     excerpt: "(full-name excess cash flow value funds), which invest in an event-driven equity and credit strategy read more among other things, the team of experts working at the center will help customers develop generative ai applications with step-by-step instructions."
     publishedDateTime: 2023-06-23T18:59:00Z

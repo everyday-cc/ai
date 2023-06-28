@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
-      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
-      "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-06-06-1-ai-etf-poised-to-outperform-the-market-over-the-next-5-years.md",
       "title": "1 AI ETF Poised to Outperform the Market Over the Next 5 Years",
       "excerpt": "Many sector-tracking ETFs tie their stock choices to a market index. The Global X Robotics & Artificial Intelligence ETF is no exception, aiming to match the performance of the Indxx Global ...",
@@ -1362,6 +1309,49 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-uber-and-serve-robotics-to-deploy-up-to-2000-food-delivery-robots.md",
+      "title": "Uber and Serve Robotics to deploy up to 2,000 food delivery robots",
+      "excerpt": "Uber Technologies Inc. and startup Serve Robotics Inc. plan to deploy a fleet of up 2,000 delivery robots that will transport restaurant orders to consumers. The companies detailed the initiative today.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
+      "originalUrl": "https://siliconangle.com/2023/05/30/uber-serve-robotics-deploy-2000-food-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/robot.png",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

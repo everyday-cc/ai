@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese A.I. stocks fall as U.S. reportedly weighs curbs on chip exports"
+    excerpt: "China's AI stocks fell Wednesday after The Wall Street Journal reported that the U.S. is planning to impose more chip restrictions"
+    publishedDateTime: 2023-06-28T05:08:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055"
+        width: 4000
+        height: 2486
+        isCached: true
   - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
     excerpt: "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the"
     publishedDateTime: 2023-06-23T20:36:00Z
@@ -69,6 +85,22 @@ related:
       - url: "https://images.wsj.net/im-808160/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia Leads Selloff After Report of More US AI Chip Curbs"
+    excerpt: "Nvidia Corp. led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
+    publishedDateTime: 2023-06-28T03:29:00Z
+    webUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
+    ampWebUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 74
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1938860!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-nvidia-corp-chip-during-the-taipei-computex-expo-in-taipei-taiwan-on-monday-may-29-2023-in-a-two-hour-presentation-in-taiwan-nvidia-corp-chief-executive-officer-jensen-huang-unveiled-a-new-batch-of-products-and-services-tied-to-artificial-intelligence-looking-to-capitalize-on-a-frenzy-that-has-made-his-company-the-world-s-most-valuable-chipmaker.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Report: US considering new restrictions on AI chip exports to China"
     excerpt: "The United States is considering new restrictions on exports of artificial intelligence chips to China, the Wall Street Journal (WSJ) reported"
@@ -134,6 +166,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "US Considers New Regulations on Export of AI Chips to China: Report"
+    excerpt: "The United States is considering new restrictions on exports of artificial intelligence (AI) chips to China, the Wall Street Journal reported on Tuesday, citing people familiar with the matter. Shares of Nvidia fell more than 2 percent,"
+    publishedDateTime: 2023-06-28T03:48:00Z
+    webUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792"
+    ampWebUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 74
+    images:
+      - url: "https://i.gadgets360cdn.com/large/ukraine_neon_semiconductor_shortage_reuters_1647068115179.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
     excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
     publishedDateTime: 2023-06-26T16:57:00Z
@@ -163,20 +211,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nvidia leads selloff after report of more US AI chip curbs"
-    excerpt: "Nvidia Corp led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
-    publishedDateTime: 2023-06-28T04:36:00Z
-    webUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/2023-06-27T132227Z1034386068RC21P1ACV1YZRTRMADP3REKA-SNOWFLAKE-FUNDING_3.JPG?VersionId=Xib8Z0dFcQOknmZy0.MTJ1IJmByNLbvT"
-        width: 860
-        height: 573
         isCached: true
   - title: "US Considers New Curbs On AI Chip Exports To China, WSJ Reports"
     excerpt: "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday."
@@ -229,6 +263,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Nvidia leads selloff on new China AI chip curbs"
+    excerpt: "Nvidia, which gets about a fifth of its revenue from China, slid as much as 3.2% in after-hours trading in New York. Rival Advanced Micro Devices Inc fell about 3%. The two lead the market for chips vital to the development of generative AI models such as ChatGPT."
+    publishedDateTime: 2023-06-28T06:24:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/06/28/nvidia-leads-selloff-on-new-china-ai-chip-curbs/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "US considers tougher restrictions on AI chip exports to China"
     excerpt: "The Biden administration is contemplating new export controls on chips for artificial intelligence, as Washington increases its efforts to make it harder for China to obtain technology with military applications."
     publishedDateTime: 2023-06-28T03:48:00Z
@@ -253,6 +296,6 @@ related:
         height: 427
         isCached: true
 
-secured: "gIysIallp5Bbznt+eiSkhxfMzRcwLYcm2G+06glc9AX1zDbNcHCtRkTgMzl1daCVnTNqUGHWjgZIp4ag5fbdakLauFrK1bsBDuFNBIhg4JPA7FEJDk0ydIgfLICxFB5+h7nSdDSkxWXOp+z/MPHkKsrh8bfm0VI8pShv8gU+aKz5Um5iZq/iLN/Ak62u1O4o8T48REDv6ezlo6kSQbWDQ2RhOi49TM1Q0I1aBmX0jADKwvmUu/xgxRqNOhM5SrLvyHZHjbZFXJcZA035GKNSHICAwRMpuOmqv6//UM/d8QLVZH9mLXUsoREf9hVsFFads8WcO7sW9sQwRBClVVgyghUg0Qfe37ooISdWjrCyd3M=;q4k+rx96GghifKT3pnmsFA=="
+secured: "A0hV99N2XkWpnN2Afp/Y9N8foV8Q0bwGXRPo+RkWOdg2WnPn/5FC7IBQ08s/s0dzHWp09MfS2Zl/FQ3fqL5M+PiJfR/KwI8sLp9cHs9HMiJBTqxxOtC1nSQXzSk2wIzPpVQmNJbNvN4cv31ssnc2HuW/8wBf8SVFJgr2WlF/XSRrHvzj8ZFYrN8ZpXR4XwN+XOIF2mvJnsoeZXzeASAavm/dSEGab/FoOl1zQULsOHqwcDjDh9aTx5hzsxYoP8wfMmistm3+IifsCVlrP0wDcEEqJrUGWEbQaKRSMmP192OYyR/28XhIJIMkv+jkyhVrlmHI/2s0v12L5FZOmXZ7M4z+dAU+K0cEXJSObc0nUP/goSZRCrXKqNQKzeiXDzmK+NrYqR+17UQf5Iyr7A+n9dFoHKcahk+fMzgnx5QlQeOi8x66GoO1zqQzJuU8sSSfvZh9EAFfc6ZRk1jjd1r2jKMS3gT7V0tEZ72Ye2iyuJKPe7oIdFYQWmX4Oke6Gdu3kHzn6KB2jTyHz5T76rvh4Q==;3ZaRh4HmcgQ5izPSmH+gAA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-fly-gene-positions.amp"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,112 @@ images:
     isCached: true
 
 related:
-  - title: "Why traditional outsourcing is becoming obsolete as AI continues to evolve"
-    excerpt: "As AI capabilities develop, businesses are looking at how they can use it to enhance productivity. Previously outsourced digital services are key."
-    publishedDateTime: 2023-06-23T13:49:00Z
-    webUrl: "https://www.businessinsider.com/sc/artificial-intelligence-is-replacing-traditional-outsourcing"
+  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
+    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
+    publishedDateTime: 2023-06-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Five AI gadgets making the most of machine learning"
+    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
+    publishedDateTime: 2023-06-26T16:00:00Z
+    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
+    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
+    publishedDateTime: 2023-06-26T08:09:00Z
+    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
+    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 56
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
+        width: 999
+        height: 560
+        isCached: true
+  - title: "How AI is Reshaping Banking in 2023"
+    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
+    publishedDateTime: 2023-06-28T01:43:00Z
+    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"
+    excerpt: "People working in marketing, sales and music are using ChatGPT for a host of reasons. Here are ways five young people in the GTA are using it."
+    publishedDateTime: 2023-06-26T09:01:00Z
+    webUrl: "https://www.thestar.com/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 49
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/personal_finance/2023/06/26/heres-how-to-make-the-high-cost-of-groceries-pay-for-that-dream-flight/biz_rewards_smartmoney_web.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "How machine learning development companies are redefining the business landscape"
+    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
+    publishedDateTime: 2023-06-27T20:35:00Z
+    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
+    excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
+    publishedDateTime: 2023-06-27T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/06/metal-llm-developer-platform-integrate-ai-applications-taylor-lowe/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "DXJ+FvSLAIdzwEfC2IjSpKupPtH92UJpFYJGz4/slISPrYq4HVwQb5TtJeYuHOwD4mKTewh0ThNJZmt6QcWhLoWaGvliruaEhvDVNLiEFae/IsFWJioztQfvndFMn9PyqoT4uX+pbyEMHWiMol++UExr7oDIf71opyDTUy0A/BRxzw7zP84ksNpzTmakPNNuI0LZpQ7rPavKHsQ9839Dm81w9OYv9yK9fYArBXr+rZvzZJSyI2WrD8Vzoh/CM/0hATuOAhvJS595msuJ2sXGC4VORlBxUME9uM8B8Ij/DEP6tIgkkIgFgl891Eec0d4xTo1VNn1uDmiYyryqjITp3eNGOMadWD8FHJoS/pRu4ic=;IBFehO4RyRH+DDV3t6g9fA=="
 ---

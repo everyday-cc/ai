@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-06-14-ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms.md",
+      "title": "AI And Retail: Consumer Adoption On The Rise, Yet Uncertainty Looms",
+      "excerpt": "AI technology is redefining the retail industry - from curated tailored promotions and deals to direct product purchase reminders and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64889ccacdfe7d759fb12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/06/14/ai-and-retail-consumer-adoption-on-the-rise-yet-uncertainty-looms/amp/",
+      "publishedDateTime": "2023-06-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-octoml-debuts-self-optimizing-compute-services-for-generative-ai.md",
       "title": "OctoML debuts self-optimizing compute services for generative AI",
       "excerpt": "OctoML's new OctoAI self optimizing infrastructure aims to help organizations build and deploy generative AI applications.",
@@ -1177,40 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-3-fintech-stocks-with-high-potential-for-growth.md",
-      "title": "3 Fintech Stocks With High Potential for Growth",
-      "excerpt": "The financial technology (fintech) industry continues to reshape ... further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
-      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

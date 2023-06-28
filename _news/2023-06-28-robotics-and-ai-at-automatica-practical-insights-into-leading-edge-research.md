@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotics and AI at automatica: practical insights into leading-edge research"
-excerpt: "At this year’s automatica trade show, the munich_i high-tech platform will highlight robotics and AI developments for the third time. More than 30 demos will be on display in the AI.Society exhibition."
-publishedDateTime: 2023-06-27T18:49:00Z
-originalUrl: "https://idw-online.de/de/news816821"
-webUrl: "https://idw-online.de/de/news816821"
+excerpt: "Robotics and AI at automatica: practical ... At this year’s automatica trade show, the munich_i high-tech platform will highlight robotics and AI developments for the third time. More than 30 demos will be on display in the AI."
+publishedDateTime: 2023-06-27T18:01:00Z
+originalUrl: "https://idw-online.de/en/news816821"
+webUrl: "https://idw-online.de/en/news816821"
 type: article
 quality: 66
 heat: 66
@@ -24,6 +24,6 @@ images:
     height: 259
     isCached: true
 
-secured: "Qz4OmQZAsuquSdwMEfGI+sS3KsbtKsyy9UIFfHo5oGgCoZ+yV3nTpBy0XHpfG4roKwZ/IRLpVsST53MWMAgEt4RClGfAqH5oe1Nu3nnuymzJ9DtrApdVFujblnV1VlKT77yaKyx1GEID59rPEU1bJqQK+KYFcjw6Hk9cI2FcjCMe6mFdzAjqzi+qH0xc3AOIStks7L5vlnqNcjzqFvBIYluY5+/vtr+gEKP8XfQIRMRS345WUewtMpM9UGQjcV3f4ORrOKOCJEunDzkfxbFp3juD6qfsCnPrmdAA/9G9WP6IQr+jLlis6MBUYXfuZTz0he7gNW/WauIhndbK1T6yXMjACz8gjR2ZsQwFMrOaWyc=;kua3Dnbdm1ia/kBA9Tvybw=="
+secured: "LOK2BuVgq+uaCUWelJ/N2faIPE0Y3llEQSs4H5svdFQp0lExYsQpSLupRliN01W/taIQYLvgKGAbdxLYWVATGEBjaKYnK9yq9sjHhyDXDpZHx3acRu887fUm2uJ0VUqd7+ikjiKakXSBDTfBsts8RBIXLcWqs0CRqwTPLLloY02m9rygvxxi1JwbpnuZr5rDsWl+MwMtiXiDDJkh82FWZGknP2lsR5oVXCmr3+YV6yRnivTMoRhan/7K+PWJK2tEu/DRvdGaJOEIa9ETYTE0VO7zxEETLyBsPNsNwetLBck4b6it7mgHBbISTL6yAgCdNPRyTdUjYB1t3ZeaE/P3MQa6h/4jWeS5BLCVzXqj2Pk=;VX5LioC6Zc8G7kLoTZE5Ag=="
 ---
 

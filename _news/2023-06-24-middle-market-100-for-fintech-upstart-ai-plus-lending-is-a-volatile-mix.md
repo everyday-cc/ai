@@ -47,15 +47,6 @@ related:
         width: 3915
         height: 5482
         isCached: true
-  - title: "FinTech North returns to Leeds as city hits '100 fintechs' milestone"
-    excerpt: "FinTech North will return in force to Leeds this summer, with its annual conference celebrating the best of FinTech within… | Finance | Yorkshire & The Humber | Technology | Fintech | Technology |"
-    publishedDateTime: 2023-06-23T13:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2023/06/23/fintech-north-returns-to-leeds-as-city-hits-100-fintechs-milestone"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 4
   - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
     excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
     publishedDateTime: 2023-06-24T18:40:00Z

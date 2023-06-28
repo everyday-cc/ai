@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-27-ai-driven-consumer-experience-how-not-to-cross-the-line.md",
+      "title": "AI-Driven Consumer Experience: How Not To Cross The Line",
+      "excerpt": "Although AI-powered solutions often come with the promise of accelerating company processes, the power of these tools may be overestimated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/",
+      "publishedDateTime": "2023-06-27T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-the-transformative-impact-of-artificial-intelligence-in-medical-tech.md",
+      "title": "The Transformative Impact Of Artificial Intelligence In Medical Tech",
+      "excerpt": "While potentially impeding progress, government regulations play a crucial role in protecting patients and society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499961a621e4f04eafde972/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/",
+      "publishedDateTime": "2023-06-27T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-next-gen-content-farms-are-using-ai-generated-text-to-spin-up-junk-websites.md",
       "title": "Next-gen content farms are using AI-generated text to spin up junk websites",
       "excerpt": "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report.",
@@ -234,49 +337,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-27-techman-robots-cobot-features-ai-technology-vision-system.md",
-      "title": "Techman Robot's Cobot Features AI Technology, Vision System",
-      "excerpt": "Techman Robot has announced the launch of its TM AI Cobot TM25S, a 25-kg payload cobot that joins the TM AI Cobot S Series, designed for a wide range of industrial applications. With a reach of over 190 cm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system",
-      "originalUrl": "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/mms/2023-mms/0723-mms-product-techmanrobot.jpg;maxWidth=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Machine Shop",
-        "domain": "mmsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-27-wimbledon-teams-up-with-ibm-to-introduce-generative-ai-video-commentary-and-highlight-clips.md",
       "title": "Wimbledon teams up with IBM to introduce generative AI video commentary and highlight clips",
       "excerpt": "The All England Club is partnering with tech giant IBM to bring AI-generated audio commentary and captions to the Grand Slam tournament's online highlights videos.",
@@ -481,7 +541,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -578,7 +638,7 @@
       "originalUrl": "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -618,49 +678,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
-      "title": "Crypto scams are going to ramp up with the rise of AI",
-      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "publishedDateTime": "2023-06-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -976,7 +993,7 @@
       "originalUrl": "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {

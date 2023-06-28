@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-04-28-aurora-self-driving-truck-service-to-launch-in-2024.md",
+      "title": "Aurora self-driving truck service to launch in 2024",
+      "excerpt": "Aurora Innovation, the self-driving technology startup founded by Chris Urmson, one of the original engineers of the Google Self-Driving Car Project that eventually became Waymo, plans to launch a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
+      "originalUrl": "https://www.motorauthority.com/news/1139487_aurora-self-driving-truck-service-to-launch-in-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/aurora-self-driving-truck-prototype_100883024_h.jpg",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-tenable-report-shows-how-generative-ai-is-changing-security-research.md",
       "title": "Tenable report shows how generative AI is changing security research",
       "excerpt": "A Tenable report reveals four ways researchers can use generative AI to enhance vulnerability analysis and debugging.",
@@ -1133,57 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-open-source-ray-24-upgrade-speeds-up-generative-ai-model-deployment.md",
-      "title": "Open-source Ray 2.4 upgrade speeds up generative AI model deployment",
-      "excerpt": "Ray, an ML technology for deploying and scaling AI workloads, released Ray 2.4 today, which specifically accelerates generative AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
-      "originalUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_Ray24_logo_1200x800_042723.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/open-source-ray-2-4-upgrade-speeds-up-generative-ai-model-deployment/amp/",
-      "publishedDateTime": "2023-04-27T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

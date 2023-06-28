@@ -51,6 +51,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
+  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
+    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
+    publishedDateTime: 2023-06-26T14:59:00Z
+    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 0
 
 secured: "NaE+bAzhwC4UPrcRTHvsh8SHMnz1JIK3ZGxXxFphAsmAka1lyD5H1am7p5p1x+bQJlLLaEnoDmD0eUI1799IzSCr/ezfDthwvF1zrvs0qMw4eGP61vmlroFnRNhuqxbZmpO1mKXGdTSNetXwiFqMD45kiIjJ2bZR/7JKdjMQ7BXroiDyfIBfBFbQmyJ6r2a+PkW5WsxeLBk+k0q4OcmKdKqiLhpbV0aoa+vhleATy1YZ8VrlHjEtgjDpC5zhNU+KHKx/dJdsXx6sVaFDuFzIIFAW5LyTV95am9uzpLGw8NAVoNJH+D8xmn2znzRf0PiEFv4hmKzLMVeKh7vPlCT44Y4J69dbKPmBqvfQiGQNubouM9ZhRfJRyJurmsHesXGhGDX/dPYV4OjmC5/Lq4KI+u8+/ve4NFTsIfbm9m9FhXfBidIKA4afHPPWoEwDNuOPskbDZzbCHKxHncGe+q4rX0fmdj3byAiYI2uXoLJAvb/be+2m/qKbKpzp2z3fGxSK1PcfWrxExy643tpX+1AzNQ==;fx9uSwBeexMkLOT8p7ap1w=="
 ---

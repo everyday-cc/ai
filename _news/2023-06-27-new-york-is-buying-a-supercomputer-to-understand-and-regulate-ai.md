@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buy
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -28,65 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI And Remote Sensing To Avoid Water Disasters"
-    excerpt: "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters."
-    publishedDateTime: 2023-06-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
+  - title: "HPE wants to turn supercomputing leadership into generative AI profits"
+    excerpt: "Although we think HPE has some distinct advantages with respect to its supercomputing intellectual property, the public cloud players have a substantial lead in AI with a point of view that generative AI such as OpenAI LP’s ChatGPT is fully dependent on the cloud and its massive compute capabilities."
+    publishedDateTime: 2023-06-25T03:07:00Z
+    webUrl: "https://siliconangle.com/2023/06/24/hpe-wants-turn-supercomputing-leadership-generative-ai-profits/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
-    excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
-    publishedDateTime: 2023-06-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/17-important-things-for-agencies-using-ai-in-marketing-to-consider/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
-    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
-    publishedDateTime: 2023-06-26T08:09:00Z
-    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
-    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 56
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
-        width: 999
-        height: 560
-        isCached: true
-  - title: "Contractors, tried using Artificial Intelligence to create your CV?"
-    excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://www.contractoruk.com/cv/contractors_tried_using_artificial_intelligence_create_your_cv.html"
-    type: article
-    provider:
-      name: contractoruk.com
-      domain: contractoruk.com
-    quality: 37
-    images:
-      - url: "https://www.contractoruk.com/sites/default/files/socialmedia-thumbnail.jpg"
-        width: 600
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/HPE.jpg"
+        width: 2184
+        height: 1450
         isCached: true
 
 secured: "lH5TgweAY2mixYAC90ly70nQEPOGoHVuBYtXJluZQg8rmH6Po6RiAbz+aBndFBMa5suVyLBU4e3RXiK9Nt3Y8YBZnQptpkLOmlbnZQCTUYIVQ+jlSKrxVx+kp+m6j0kDGvZwxZO+ooQvoISxf3EjsuC7ja8uRByZXFZ9JyplsFcTJJJgg02ZK2hdI7sP5eliqNcioKphIyYNU5TlxpSAnHfXexbZexjj/2XCwDniq9wDdfGABw45iuKvpJs0KuhfGynYQlmnjkoyqKkzeTI8nJWyNEw8oFDcYichWszEdLCfiFI5uzMsu9mkD8pdXRvRANtXBJrE+wDDUVWH9SKCxCbTlnex5ljqFjurbC9QGTo=;Cs/JpPsc6zyW5ptcaivkUw=="

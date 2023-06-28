@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI And Remote Sensing To Avoid Water Disasters"
-    excerpt: "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters."
-    publishedDateTime: 2023-06-23T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
     excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
     publishedDateTime: 2023-06-27T17:15:00Z
@@ -57,34 +41,98 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New York Is Buying a Supercomputer to Understand and Regulate AI"
-    excerpt: "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation."
-    publishedDateTime: 2023-06-27T14:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
+  - title: "Five AI gadgets making the most of machine learning"
+    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
+    publishedDateTime: 2023-06-26T16:00:00Z
+    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: The Financial Times
+      domain: ft.com
+    quality: 56
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Contractors, tried using Artificial Intelligence to create your CV?"
-    excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://www.contractoruk.com/cv/contractors_tried_using_artificial_intelligence_create_your_cv.html"
+  - title: "How AI is Reshaping Banking in 2023"
+    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
+    publishedDateTime: 2023-06-28T01:43:00Z
+    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
     type: article
     provider:
-      name: contractoruk.com
-      domain: contractoruk.com
-    quality: 37
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 54
     images:
-      - url: "https://www.contractoruk.com/sites/default/files/socialmedia-thumbnail.jpg"
-        width: 600
-        height: 400
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
+        width: 1024
+        height: 567
         isCached: true
+  - title: "Training AI to recognize fly mating identifies a gene that controls mating positions"
+    excerpt: "A research group at the Graduate School of Science, Nagoya University in Japan has used artificial intelligence to determine that piezo, a channel that receives mechanical stimuli, plays a role in controlling the mating posture of male fruit flies (Drosophila melanogaster)."
+    publishedDateTime: 2023-06-27T14:20:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.html"
+    ampWebUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-fly-gene-positions.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/boy-fly-meets-girl-fly.jpg"
+        width: 2750
+        height: 2000
+        isCached: true
+  - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"
+    excerpt: "People working in marketing, sales and music are using ChatGPT for a host of reasons. Here are ways five young people in the GTA are using it."
+    publishedDateTime: 2023-06-26T09:01:00Z
+    webUrl: "https://www.thestar.com/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 49
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/personal_finance/2023/06/26/heres-how-to-make-the-high-cost-of-groceries-pay-for-that-dream-flight/biz_rewards_smartmoney_web.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "How machine learning development companies are redefining the business landscape"
+    excerpt: "Machine learning companies are driving tech innovation, empowering businesses in the digital era with cutting-edge solutions and expertise."
+    publishedDateTime: 2023-06-27T20:35:00Z
+    webUrl: "https://knowtechie.com/how-machine-learning-development-companies-are-redefining-the-business-landscape/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2023/06/Machine-learning-feature-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
+    excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
+    publishedDateTime: 2023-06-27T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/06/metal-llm-developer-platform-integrate-ai-applications-taylor-lowe/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "BC2z5rqqXyi38Y92L5IJeU+UbHWMUX7NXPUacCghwis87GuJ+GZKtR4oXth7vUht0xxazyMIjbNqbYkwOYUgCe3GF/nVJCFr4WnWXtCfU2ySbuqesAnC9TRvY2H18v5K5n4U5wDZkc60dl8OpZeShtj1yG6HEmirlHLDCgHhcDAl1CBPALxgld1JJtRdDshQrPGd6bFVsfgkxdI1YRSN97REzj6ZoA5P0iR3ZqF3m89cNza3Hk69t7wAgVh7BVOhBXvW3JTdlP6ARsNYkJR8b/jqs0Sc1FdgVyWubzUIfRxljUwILPkHA+8H/PwQXej1R5TqSePjxPDUUuPs5wH2thy2mtmpSo822rMJ+N0rU35z7NjtD99IwEA/69CzUZwIVY5ZVjjdn8sUhBP1IHV2xQnsmhpunxP21OzLonNnmSzts5P9iXqtw+7DTPDclUQAWBWYNVGPhqiLk8+puEHpTBUO1mWgbwOd94LTZC9dc1Vn6Ju7S+Dy1LRQ61QZ2/bXter2XW+5XjEi+RyHnWieVQ==;Mzl0+VdPuc4osgw/qIEV/A=="
 ---

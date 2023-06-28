@@ -7,8 +7,8 @@ originalUrl: "https://www.mmsonline.com/products/techman-robots-cobot-features-a
 webUrl: "https://www.mmsonline.com/products/techman-robots-cobot-features-ai-technology-vision-system"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Modern Machine Shop
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the Technological Innovations in Shark and iRobot Robot Vacuum Cleaners"
-    excerpt: "Well hello there, tech enthusiasts! Welcome to a fresh episode of “Exploring Innovations”. Today, we’re diving into the fascinating realm of robotic vacuum cleaners – a domain where innovation meets daily chores."
-    publishedDateTime: 2023-06-23T13:54:00Z
-    webUrl: "https://techbullion.com/exploring-the-technological-innovations-in-shark-and-irobot-robot-vacuum-cleaners/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 34
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/Boundless-Inspiration-450x270.jpg"
-        width: 450
-        height: 270
-        isCached: true
   - title: "Google's PaLM-E Combines Vision and Language AI for Robot Control"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
     publishedDateTime: 2023-06-27T13:24:00Z

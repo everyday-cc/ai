@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Nvidia leads selloff after report of more US AI chip curbs"
-excerpt: "Nvidia Corp led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
-publishedDateTime: 2023-06-28T04:36:00Z
-originalUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
-webUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
+title: "Nvidia Leads Selloff After Report of More US AI Chip Curbs"
+excerpt: "Nvidia Corp. led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
+publishedDateTime: 2023-06-28T03:29:00Z
+originalUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
+webUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859"
+ampWebUrl: "https://www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
+cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs-1.1938859.amp.html"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: bnnbloomberg
+  domain: bnnbloomberg.ca
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/2023-06-27T132227Z1034386068RC21P1ACV1YZRTRMADP3REKA-SNOWFLAKE-FUNDING_3.JPG?VersionId=Xib8Z0dFcQOknmZy0.MTJ1IJmByNLbvT"
-    width: 860
-    height: 573
+  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1938860!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-nvidia-corp-chip-during-the-taipei-computex-expo-in-taipei-taiwan-on-monday-may-29-2023-in-a-two-hour-presentation-in-taiwan-nvidia-corp-chief-executive-officer-jensen-huang-unveiled-a-new-batch-of-products-and-services-tied-to-artificial-intelligence-looking-to-capitalize-on-a-frenzy-that-has-made-his-company-the-world-s-most-valuable-chipmaker.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
@@ -40,6 +42,22 @@ related:
       - url: "https://images.mktw.net/im-790609/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Chinese A.I. stocks fall as U.S. reportedly weighs curbs on chip exports"
+    excerpt: "China's AI stocks fell Wednesday after The Wall Street Journal reported that the U.S. is planning to impose more chip restrictions"
+    publishedDateTime: 2023-06-28T05:08:00Z
+    webUrl: "https://www.cnbc.com/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/28/chinese-ai-stocks-fall-as-us-reportedly-weighs-curbs-on-chip-exports.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107263783-1687930209478-gettyimages-1258367086-TAIWAN_NVIDIA.jpeg?v=1687936055"
+        width: 4000
+        height: 2486
         isCached: true
   - title: "Do AI Chip Stocks Have More Room to Grow? Nvidia and AMD in Focus"
     excerpt: "AI and semiconductor chips have been capturing investors’ collective imagination – and for good reason. Together, they’re driving the"
@@ -132,6 +150,22 @@ related:
       - url: "https://cdn.ttweb.net/News/images/296042.jpg?preset=w800_q70"
         width: 800
         height: 450
+        isCached: true
+  - title: "US Considers New Regulations on Export of AI Chips to China: Report"
+    excerpt: "The United States is considering new restrictions on exports of artificial intelligence (AI) chips to China, the Wall Street Journal reported on Tuesday, citing people familiar with the matter. Shares of Nvidia fell more than 2 percent,"
+    publishedDateTime: 2023-06-28T03:48:00Z
+    webUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792"
+    ampWebUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 74
+    images:
+      - url: "https://i.gadgets360cdn.com/large/ukraine_neon_semiconductor_shortage_reuters_1647068115179.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "US to further tighten curbs on AI chip sales to China: report"
     excerpt: "Existing restrictions on AI chip sales by US corporations to China will be further tightened, the Wall Street Journal reports, claiming there are rising concerns over the technology being sold to US rivals."
@@ -228,6 +262,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Nvidia leads selloff on new China AI chip curbs"
+    excerpt: "Nvidia, which gets about a fifth of its revenue from China, slid as much as 3.2% in after-hours trading in New York. Rival Advanced Micro Devices Inc fell about 3%. The two lead the market for chips vital to the development of generative AI models such as ChatGPT."
+    publishedDateTime: 2023-06-28T06:24:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/06/28/nvidia-leads-selloff-on-new-china-ai-chip-curbs/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "US considers tougher restrictions on AI chip exports to China"
     excerpt: "The Biden administration is contemplating new export controls on chips for artificial intelligence, as Washington increases its efforts to make it harder for China to obtain technology with military applications."
     publishedDateTime: 2023-06-28T03:48:00Z
@@ -252,6 +295,6 @@ related:
         height: 427
         isCached: true
 
-secured: "qEgLTmIIz920EkQA8S3uaNZx6sgeKMrr1eHMM3XQLLlYdSp4TbGHQSiwWkZUpdWuO/svt/ALsiRfQQr+S23QsuM57xY4OGmP7B5TQilMgjcdYSATUOAgKRfNJ18h40Kc+Bw5SnDKR0pJNJBhM/iKMT+OrzWlxn5txfmySO1Y9KsCck2cMRPISMC9EErGC/KBtFBuZaiJVa6sb52mCd8Ak5oNjyuAjJpFDWxVonz7rC58gRf7ix1L3GjNWDriCsHx/wQ1vbBozjRzbpvv5XbIV/NZc++IS5enzGtbfQDBZvU6Lma3w4yS3sXlYaEZZ1QunN6R0E4z0m9awpROWh1iu/0utEpMwG7dZqxzJ0FxyTg=;KavKG+WhkxdbUrZAKota9A=="
+secured: "S7PPHDv2+mRWZ8jNPyue9tMt0OjDPR+u6iMGfBUr07Ya4SEk35m8VmEkgkZMeshXCfTIY69S6SXSjZ4gXjRODHkkc+ci1vsh7SOoQUcBImidNraEJU7XmQ8J7HUE373V8emd0jErkoh9itsraQBYPq4CxcWVZik4K7Rb0EOJd17BFFHhHjxOCAZFhV+SG2obvlSVS4tSLnIKFdN1v8KxDIfKMQxauVUMU3GL8YuQjG8dfza8cqoVWvFTIfrssVLWA6nmuW/3sDeO0QmFA+LvKBaRmxNr5dr3rSRWhZ919E3gCvobiWCfZjkMfn6HP6LQQNzoeMhE31/hVvS5gTFIbMVozu6L9aV8gYsGiBM0kFw=;mnDEn1EnRbK1UGtoEE8iUg=="
 ---
 

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NVIDIA H100 Aces Generative AI, Breaks MLPerf Records"
+    excerpt: "NVIDIA’s flagship H100 chip has blown the competition out of the water yet again, demonstrating the best performance yet on a set of MLPerf training benchmarks. The GPU set new records across the board in a new attempt conducted in conjunction with CoreWeave and Inflection AI."
+    publishedDateTime: 2023-06-28T06:39:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-aces-generative-ai-breaks-mlperf-records/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
     excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
     publishedDateTime: 2023-06-27T19:05:00Z

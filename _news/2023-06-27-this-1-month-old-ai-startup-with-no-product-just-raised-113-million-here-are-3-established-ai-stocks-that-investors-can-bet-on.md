@@ -33,20 +33,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How AI is Reshaping Banking in 2023"
-    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
-    publishedDateTime: 2023-06-28T01:43:00Z
-    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 54
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
     publishedDateTime: 2023-06-27T11:37:00Z

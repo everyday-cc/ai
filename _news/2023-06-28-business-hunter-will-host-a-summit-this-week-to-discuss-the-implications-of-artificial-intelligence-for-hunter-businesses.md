@@ -25,19 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "AI for job hunting: Smart idea or risky business?"
-    excerpt: "\"In addition, if your AI essay is too good, he cautions, your prospective boss could realize it wasn't you who wrote it.\"I go in and represent something as my work, especially in an interview, and you start asking questions that I probably can't answer ..."
-    publishedDateTime: 2023-06-26T11:58:00Z
-    webUrl: "https://www.sfweekly.com/news/national/ai-for-job-hunting-smart-idea-or-risky-business/video_9f1eb768-ea7b-553d-9f1d-3d19014391dd.html"
+  - title: "Revolutionizing Business Operations: The Multimodal AI Advantage For Internal Processes"
+    excerpt: "Leveraging AI for internal processes can also significantly improve both customer experience (CX) and employee experience (EX). AI-powered virtual assistants, equipped with natural language processing (NLP) capabilities, can provide real-time feedback, guide new product users and offer personalized suggestions."
+    publishedDateTime: 2023-06-26T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/revolutionizing-business-operations-the-multimodal-ai-advantage-for-internal-processes/"
     type: article
     provider:
-      name: SF Weekly
-      domain: sfweekly.com
+      name: Forbes
+      domain: forbes.com
+    quality: 39
+  - title: "Will AI be an exceptional industrial revolution?"
+    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
+    publishedDateTime: 2023-06-26T01:15:00Z
+    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/9/f1/9f1eb768-ea7b-553d-9f1d-3d19014391dd/64997a8d9dd6e.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "WkMfxivVX/n5DRgPudEoGCO05ooy1aC9/xxj81SzFkU+lROutiV9dSPOsJKoovoDWXzvvFSMyRdNR7xkg16r7+2swsWSInwxeAOWb5Re+t2tcUoSGzccSgwp/dY2p8NMQiWiTGI/xRag1Z4lqinSYlKTSZyyH5BHB7UwQ58x/dOAQwI/8s01fVBwxE/KnjoKak7ufkJsvMTDU6RE2hQHkMgo98dU9gTnimq4NEfKXv5tgtqr1yBWK+gcSq0RxS+s3pEd0a7eTWv2GdChPkXAYi8CfHRy3CfEgAq0b+wneV9KvsLyMJOzET0gv/CGOfPFTpyBEEQSCger87TeCE0YKrdhD927CCNdC7LUt5+dehJv1hnjNXN9RdjSNMEsLqCNCOiBCE9voT4sPDXPf3IuEo1kzj3mpFeNez5FME14xY2siceJh2h/YtRhzBCL1m0OP6rDyoKYNbStR0gTNtD0crpoFN0/hHmVmndZuyHwzoaDOqmwU71oruM4tKZiy8Y1lstg/RMttdChmZy7IAy5Sw==;QJK8hRPtzpY2Vg+fYPBr9A=="

@@ -163,6 +163,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
+    publishedDateTime: 2023-06-28T06:01:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-google-ceo-10870641.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
     excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
     publishedDateTime: 2023-06-28T04:44:00Z
@@ -178,6 +194,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says CEO Demis Hassabis"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
+    publishedDateTime: 2023-06-28T06:01:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepminds-alphago-powered-chatbot-will-rival-chatgpt-says-ceo-demis-hassabis-10870641.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."
@@ -244,15 +276,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "Google’s DeepMind unveils AI robot that can teach itself without supervision"
-    excerpt: "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ..."
-    publishedDateTime: 2023-06-23T14:22:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 48
   - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
     excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
     publishedDateTime: 2023-06-26T18:18:00Z

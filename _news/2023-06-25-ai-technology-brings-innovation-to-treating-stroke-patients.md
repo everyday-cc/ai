@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: psychiatryadvisor.com
       domain: psychiatryadvisor.com
     quality: 19
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "w+yJaKO5lFnO59l5HClxkoZCtZOTeju1yJYrSb/o5FTrK8PFR09urisxtqVekqpsiQGGr+nO7ogpcJh9IHaKF8+4B3CmfVTvtvMLZsSy0EHAJUkCZsFSu8wMiU5TZ3UvgYnG24GKA4zYy4dS+GsJMtUZq2yvFAOl4KUtPPZxXMLS0bWGKYwIiBBQzdA4EB0ZbHxwPn9jxR3/7Vo5TtKRU8akDoJpLgVpORZn1j5CLbMRTFL837hYoRIkLSYLjGRtS4Ddf96TOKtchpWC4+fb92hODXFkHBe39lFrBwKuCrU3t4GqDsCoVSqN1o/tWKG+oi9pk51P92ZpQzNE3Nec5c8KoMtuJbwl6cBk23Z1AAs=;4E55n6tbYEby9CbsuJAkjg=="
 ---

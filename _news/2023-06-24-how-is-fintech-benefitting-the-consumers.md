@@ -51,6 +51,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 4
+  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
+    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
+    publishedDateTime: 2023-06-26T14:59:00Z
+    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 0
 
 secured: "WbMVSlqUZyuexkW+PQIhZHLtQQbcspLIV9aQlPA51up78L85tgbCj2oV2QmuimNTGioEi2HDLNVmqGjwZRNe+6MBAZE13/FBRxfGwNcE1I6+zOEXF+LV5DRE1d7E45eTZRcjg4tbdqWvZvgEiVoWubSYdy5zXnuNFau0MTE84WlzuoVbXDHNqffJgSGwhF/iX/LzX5KXdnf5NPYhp1CrsE+9w2ZaIDhNcUz9BJbicssKC+AlWeu3L9yrkUHcZK16karv25QWfCfK3xQWnSNWuNlv1TsX317rwPV05AnrqvJ2aV/cm7jI+9dmMJC7xbyvkSgvxs29YDOhNNcUEnpOh8xoju5mcQH6DSElwWZRHII=;Guj8s81wb30RPgkObeeXCw=="
 ---

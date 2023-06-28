@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-04-13-putin-and-xi-seek-to-weaponize-artificial-intelligence-against-america.md",
-      "title": "Putin and Xi seek to weaponize Artificial Intelligence against America",
-      "excerpt": "Russia's Putin and China's Xi seek to weaponize artificial intelligence against America and dominate the world as the Biden administration ponders hitting the brakes on AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "originalUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39b9bfbe-9556-462f-bf6a-a645426e701e/4af56975-0b7e-4a1d-9d54-31a23a484ae7/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/putin-xi-seek-weaponize-artificial-intelligence-against-america.amp",
-      "publishedDateTime": "2023-04-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-04-13-startups-plans-for-robot-lawyer-nixed-after-ceo-threatened-with-jail.md",
       "title": "Startup's Plans for Robot Lawyer Nixed After CEO Threatened With Jail",
       "excerpt": "It looks like AI startup DoNotPay's \"robot lawyer\" — specifically, an AI-powered earpiece designed to coach defendants through court hearings about things like parking tickets and bill ...",
@@ -1222,6 +1170,49 @@
         "name": "Interesting Engineering",
         "domain": "interestingengineering.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
+      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
+      "excerpt": "Health and social care students at the University of Lincoln are learning to operate a robotic seal to help prepare them to use the technology in their work with patients. It is hoped the £6,000 \"social robot\" can provide an alternative form of communication for those who may be uncomfortable interacting with other people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
+      "originalUrl": "https://www.bbc.com/news/av/uk-england-lincolnshire-65178888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
