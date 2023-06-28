@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "YouTube to boost AI-generated foreign language dubs for videos"
-    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
-    publishedDateTime: 2023-06-23T11:56:00Z
-    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
-        width: 1000
-        height: 744
-        isCached: true
   - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
     excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
     publishedDateTime: 2023-06-24T01:09:00Z
@@ -149,15 +135,6 @@ related:
         width: 611
         height: 321
         isCached: true
-  - title: "YouTube adding AI dub technology to translate videos for creators"
-    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
-    publishedDateTime: 2023-06-23T13:12:00Z
-    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 34
 
 secured: "FU8BnoXsFTlC49iqE/zRPt1R2IMlm5BdpbL18soeONihIcFqYALTIytaz5zGDsSuyKYK9JkCjYgrS03ko2em06zwUdxNk+plbvRa+SGMQ/tphaoV8pg8mLaZ9S7ymHwj8tF5uAJ78MCBI3+ojwtxmOk0YxNFKxGYn1ELxACKaMSDkV0XKdxIkG4j4PDIw82pJqfQOMtMKRTlddf8Pt1+BLk8ug+s9XRTGQEoi1JYr3AShMt1yWJmLrPixqwwU22IzCjeZChBerxzI458fKN1XOusw5GIRVz/gaB0N/57N1ZbVHF123uqZm4EmLgFrVJWQKVTaT1FnDDVvSwoHdY3BkkRu5Vg2OByPrOI7qu83Tc=;EeRQstAMzp6uo9ApkQpBUA=="
 ---

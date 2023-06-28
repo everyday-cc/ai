@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
-    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
-    publishedDateTime: 2023-06-27T02:43:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 62
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
     excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
     publishedDateTime: 2023-06-26T03:42:00Z

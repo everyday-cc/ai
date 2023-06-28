@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
+    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
+    publishedDateTime: 2023-06-24T08:00:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 9
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How is Fintech Benefitting the Consumers?"
     excerpt: "Financial Technology, a.k.a Fintech, is currently all the rage. Be it in the news, during bank visits, or even daily conversations. The finance industry has adopted technology into its mainstream to make things easier for consumers and businesses alike!"
     publishedDateTime: 2023-06-23T19:04:00Z
@@ -28,15 +42,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Corestrat Shortlisted As Finalist For The Asia Fintech Awards' Best Lendtech Of The Year Category"
-    excerpt: "singapore, june 23, 2023/einpresswire / -- corestrat , a leading decision intelligence company at the forefront of revolutionising lendi"
-    publishedDateTime: 2023-06-23T12:18:00Z
-    webUrl: "https://menafn.com/1106492288/Corestrat-Shortlisted-As-Finalist-For-The-Asia-Fintech-Awards-Best-Lendtech-Of-The-Year-Category"
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "CuqTiEeU/DrITaT2CM8unF7r917Yx00Crfhe4GSRiW3ljpYXMAzFShdbGtgoCh/5O1yr8pybIDFh8/yun++m9PfDC1dj+iVkRpK+9c6um0MgPI913wAYajfN6GTjtfH1/CNInAlgexx5zxi53yGoN6I3gpXrNuYwuCNlgojgLbbbTgHdI2dD1GNg6OdqmROZZnEYun6QSgku3QWe45x3sGMCa2CDw+/aI467c429zmaUZjrEnEayawC+A7Kcp9zboiHgVv3itcm2WgXf9lVaefjCOOYQKiJFhQhQgtKuGOTEY5BqUSgy/VWdjhfAhWDx1U4x3LBtVSZX37jfyyjw3u4jHnDZrM3fU/TanIv6gXblTrPWfSIk0fWTSyu1qWmTxRDgxLI6tYDF0seqTUiQ570XB/avjXfo6R5bfDTm+XqC3qwzGKGDSKoSvrpVRSgvIAUPT2v0gx/08paO3VCt5zokScf8cP8APXGhRqShBlnR/vpyeL6SygpJ7Jd+8rwLN+rsbqwj52p+ZyHcO3OhMw==;nlY24d4cY3sC0VYb6SkBSg=="
 ---

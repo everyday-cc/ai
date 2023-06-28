@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Embracing a Sustainable Future: Aboitiz Data Innovation and globally-renowned institute Mila join forces to combat climate change with AI"
+    excerpt: "Aboitiz Data Innovation (ADI) and Mila - Quebec AI Institute, a research community headquartered in Montreal, Canada and founded by ACM A.M. Turing Award (often referred to as the “Nobel Prize of Computing”) recipient Prof."
+    publishedDateTime: 2023-06-28T04:22:00Z
+    webUrl: "https://journal.com.ph/embracing-a-sustainable-future/"
+    type: article
+    provider:
+      name: Journal
+      domain: journal.com.ph
+    quality: 6
+    images:
+      - url: "https://journal.com.ph/wp-content/uploads/2023/06/ADI-and-Mila-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "f+O9BPjVCUfe1TyLwymRhoWb4suH959t8uIECGQF18Mm6DIWeF09OSAEfG4ijm02IBH8gDChrwXrXlRRLSGqc5lhmxRb6sWdFpxXZRTN+aSKcH8GDa7qXJ9MmGQ3XLqMlgf2RhzxRTZb6d06YEoeyi7CzCwjbu+g9LZ/5upBFbmFUT7gXZiKOHzdNGWS3UBaxbKwK6ksTszd9zSWvbPDRk4Oo1R5r7xSFz542uRldCAbfW2uHMregoy9PxeG7gPJx25Adny/0lzBYgap+dBsmUIpO+rd9jQYSOchERkrwaJiDPVMnx5eAdt+XdU095Z/8ej2jPIkIh50LiB1ZwyaSGzrAFg+JiJ2tv+TDo7dNFUBjZzdwWoqr6zmhDFzK6OMWdkVOg132fCH527pA9HsEyxU/XJZJz2Cu09cdNA4JPKjXEVvY6vjg7bU3KfvS8LC/4olG173imgRlEEY22bUMRxySIPux/7tjtthTt0lFsHgUU3iUtXG8QhNtPk3ow88ZBDt8LsUXu0jIaeP1Bjo1A==;dlHPK2dKOJp/tBNyh/Pr4w=="
 ---

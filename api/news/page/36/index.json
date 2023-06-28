@@ -2,49 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2023-06-02-not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai.md",
-      "title": "Not self-driving cars! Infosys' Narayana Murthy believes THIS is how India should use AI",
-      "excerpt": "shared his perspective on the strategic use of artificial intelligence (AI) in India. Murthy emphasised the importance of employing AI in a judicious and assistive manner rather than focusing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "originalUrl": "https://www.businesstoday.in/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/dsc_3047-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "publishedDateTime": "2023-06-02T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
       "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
       "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
@@ -1160,6 +1117,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels.md",
+      "title": "Citizen’s New CZ Smart Watches Use AI To Forecast Your Energy Levels",
+      "excerpt": "Watchmaker Citizen just launched the newest generation of CZ Smart watches, now featuring an onboard wellness advisor, powered by AI learning via IBM Watson® and NASA research. Available in 16 styles across Sport and Casual Touchscreen and Hybrid Display, the CZ Smart puts a self-care coach right on your wrist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
+      "originalUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646cf8790227ed23db80423b/master/pass/Shot%2001_172_HERO_3_crop_small.jpg",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
+      "publishedDateTime": "2023-06-01T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

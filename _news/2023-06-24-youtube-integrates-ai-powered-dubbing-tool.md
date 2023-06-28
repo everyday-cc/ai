@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/youtube-integrates-ai-powered-dubbing-tool/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "YouTube to boost AI-generated foreign language dubs for videos"
-    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
-    publishedDateTime: 2023-06-23T11:56:00Z
-    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
-        width: 1000
-        height: 744
         isCached: true
   - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
     excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
@@ -152,15 +138,6 @@ related:
         width: 611
         height: 321
         isCached: true
-  - title: "YouTube adding AI dub technology to translate videos for creators"
-    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
-    publishedDateTime: 2023-06-23T13:12:00Z
-    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 34
 
 secured: "fwzH1p+lBcMO7fpx/XxMJN7rRTvWZOWC6xMu8oLDIsT2083IkcsJcro9zPIM1Ss1/irwwmC8qBp7Slgr0mzgav3DkerYBmOcTHUIhiSit8I4xMvGf7MJ3s9AFibxxwx5MBosIRfTP6LyAoADz+60a0wr84Kgme6A6k/1TMoJA/0R1O3djFFKw8/buS3aiYqUJXMQvBiv4RorzI8x9gxoTznpG2cKjoJULRb9xTO8gQQ+8oXK2f3z7PPFEh8QdzR1Ie1zv7f3fLuAN9vwnuPULgYrcJscmXg72eha1O5K9wYjyywC1uHzqSwViCqe2OAQ0tucBJNxHhym2Kfk4+yd8uR7FDVKsYy0tZE+kIIGW5rasxAHrYKLYAOChjaYL7Wl8PrxuNgRpdHRHpo9QvllYdCY5ydWq5a/B4VcWOWrXjIsfZDczw2azNIovTF25wnvsEeK95YI5uAG5EB9Zp/mMbvTCqz2CHskYPhqBrRvCdUER3+y2Lc++FDURMh2K8bjlx2bA0Q+mP7Bt9r9K/OiRQ==;BuokzZSP40Zsj6hELQ/aGw=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
-    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
-    publishedDateTime: 2023-06-26T16:49:00Z
-    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 61
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
-        width: 375
-        height: 300
-        isCached: true
   - title: "Generative AI: The Next Frontier for Section 230 of the Communications Decency Act"
     excerpt: "An examination of an emerging battle front regarding the controversial Section 230 of the Communications Decency Act protecting online platforms from liability over posted content—namely, how Section 230 will treat generative AI content."
     publishedDateTime: 2023-06-26T19:44:00Z

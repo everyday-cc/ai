@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-drive
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Microsoft Education helps to create AI-powered learning experiences"
-    excerpt: "Microsoft Education is collaborating with several organisations to create AI-powered experiences that save time for educators and improve learning experiences. For example, Microsoft is working with New York City Public Schools in the USA to support students and teachers with generative AI tools such as a chatbot that provides personalised IT support."
-    publishedDateTime: 2023-06-27T12:03:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-education-helps-to-create-ai-powered-learning-experiences"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 51
 
 secured: "eQOxU3EOaYj+lpvM80uwx50we9arQ0Gg81bwUzqgNPpN4hR7py8Rpi0PrAenHqBjd2htjI6eEmyMMbgA4E2c5bQGVSlyYhbfDeBpVOLiBBo2TXlhmlto1scRUbKk+OvZOnKwWY3xJs3n+VaEh1x/tB1hYqjaHGcVv0SmBVdLDsJBywT1ERQ4I4/UpTN/gAkIpLFJi0TLfgpLW4e9X6RL8aOIXLBQFWFysyQdpZg/kC0+1/3D5Gn9KxpSqbvzP1kAFMAllCqRhutQS5oecGiMImdmVfe0BNLVZLOZGZOgzI6tgW4OlbFtwIMbQRBpoTuDVuI2UzXf2YH9mrgVFSWVtR19PeyoNV8DBC+ZzOdkfBw=;JQSbr5X8KJcoMJhNFwtx0A=="
 ---

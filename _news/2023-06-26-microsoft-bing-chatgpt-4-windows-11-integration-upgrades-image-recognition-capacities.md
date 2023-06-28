@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bin
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
-    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
-    publishedDateTime: 2023-06-27T02:43:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 62
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
     excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
     publishedDateTime: 2023-06-25T08:20:00Z

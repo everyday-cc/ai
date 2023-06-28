@@ -2,28 +2,26 @@
 category: news
 title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
 excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
-publishedDateTime: 2023-06-27T19:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/n33032598/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-b"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/n33032598/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/33032598"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33032598"
+publishedDateTime: 2023-06-28T03:35:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 470
         isCached: true
 
-secured: "OQUvY762CN861r4rtMm6PDq09H7IPiSuaWMUZQ4PXtvPW5tYdeFcQKpLSNqCABjM7Iyxgn9gRLeaoPveDFILVYiw76w1A6/4yT9CqjUxQcJNjm/duqnaAaD/vmpq2cZM8Ma3kDV2ajmtoX2NKs4kzH7l8RzJw8qtzOY75BThO3qs1pOqR0ur+IZI7bDSw/VkhaAlyGhiBNuNtfSf9RGqBka6sRVWRhzYDenOPVTVOD5GB/TGCiJRl3X373ao1eRPoYCCQ7GL4xIW+V07wvtT4QhXpcshhMe4M494Gp/LRhafb0V8lCywA7QX3FdDJ0R5ohhmwK2GUQnVJtXhnnieGfxDvqmUvuFB3G9zwbwawrA=;FMvDXsvR4hqepTPf4/iHyg=="
+secured: "2CKpuwhz22C2pv6MGAj5MhXk93ZbQ3Q0b98Gd9XM5mPkRTKM9y1FVUIuAkItR0qiUAlCLPntbH29FO/gz/mxT/Kl4SoIUT39suAiySXstkd96rQrO0feNl6tDAMTEwA5+94QzAo4+V6UN+/KdjvIabjLT/J0ZeY59xVAd/lWTL1haSHhA4TJw8qhpCjCO1DydxFd1XX6w49bhFwxDgPRl74Zv+WQXFfNkaNBlD06RvqTyfGqU8Ic5Z5W8dDea+ctgfxjpupASrcDRvWEWq0JKZtGyAnC7G953UwqhTJEuPhQHjNMDmVbANHfDbRLAWH0gR86sNFwB0beRGeNgb2xldxdp+CXgoaI+L/Rn49DtiU=;aa+DFCoYdlM+XNoQWsZoHQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-
 webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
-    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
-    publishedDateTime: 2023-06-26T16:49:00Z
-    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 61
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
-        width: 375
-        height: 300
-        isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
     publishedDateTime: 2023-06-26T04:46:00Z

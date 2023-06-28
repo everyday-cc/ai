@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Gathr Brings Integration, Machine Learning, Insights, & Automation Together as World’s First Data-to-Outcome Platform"
-excerpt: "Gathr is now the world’s first and only zero-code platform for building ML-powered, data-to-outcome applications for data at scale. Bringing data integration, machine learning, analytics and insights,"
-publishedDateTime: 2023-06-27T12:21:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/gathr-brings-integration-machine-learning-insights-automation-together-as-world-s-first-data-to-outcome/article_ba87bc62-664e-56fe-b0c3-0a040c66dccb.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/gathr-brings-integration-machine-learning-insights-automation-together-as-world-s-first-data-to-outcome/article_ba87bc62-664e-56fe-b0c3-0a040c66dccb.html"
+excerpt: "Gathr is now the world’s first and only zero-code platform for building ML-powered, data-to-outcome applications for data at scale. Bringing data inte"
+publishedDateTime: 2023-06-27T16:21:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230627505457/en/Gathr-Brings-Integration-Machine-Learning-Insights-Automation-Together-as-World’s-First-Data-to-Outcome-Platform"
+webUrl: "https://www.businesswire.com/news/home/20230627505457/en/Gathr-Brings-Integration-Machine-Learning-Insights-Automation-Together-as-World’s-First-Data-to-Outcome-Platform"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "RWDjqylg91ubsfdsQxi1lT5tH4+83lydyTtvKhjxLjrZDYg5GnxxwaZm31/uNMM3MDPaEnu5thavxjLMilC+XgokiN9z3J7dtEwztyMWlgafs+idukxyiMaNQdG1RzKSygPVu5knD4nvUSaCCn0nJXXDybcv6YeMJ+MAvp2gpqzHMpLwNymtMw997345tA79JYW0zgyylNSFdMCOa6kc3z92xSyYZLkbVN8wc9RFnh5RmrXifX4KLDQT2vIdiXdahZxA2VGEP2us1xqG0J3eALMnO79nkoAPd1r1avyCDD5q1sHrpNb/rYRhEgG2pD3xea2PTQ4pPboHfI1ElhI09RyXz0HDezCl55RfXbDdl3U=;WiARY4IjsBjRKsG50vpaew=="
+secured: "OC0nYU1AQOeC2DdpHrSXtJw6lU4+/GDtS9Cnd2+neLfSeWp9+SXECZbivd2sKKtm0Z5aBOUGEvHqxMlMuJspIw15zYmuSrhCP3LpybvIV8a/U85iNKnWeMf3GviB5KxtDR0x7+TVjowF8acDHMEaex6Y6s0OmySepW2MbO7ow1yDy67wmmbNdi6F3FsR1lTtBOqK8JtNuTeYDFgbcndUsFMQhDsoVmAsjCHenuLcplAIwY4Hzmyc/RtluRDelgSl6N6Q7WEipng4B+S5hc0LnVUYS+9V7emVyCxpssfDFcN9uSi+I2dc0egAhyNfSZM+ht8gcsNm1FN10/H37zlC35Ezclus4pJ0Qg10v/z894Y=;oKidx8e9zVxpqELptyFBUQ=="
 ---
 

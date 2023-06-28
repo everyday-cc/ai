@@ -285,15 +285,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 34
-  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
-    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
-    publishedDateTime: 2023-06-23T12:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "wmknsVRrM2VbZpopcJvrOz9AcRgVxrO1o97K0tYdqsEhrGDKwkIokAp1jfsHDj1l/6+N+kJeiuL8Lo65PYKGZHAmawVDVRdM8nqf0l3+z7gAgEdvdbyFJbO5Vy1t2pkHDHj67avm9cgOTJ+cFd61TMAx0FWFUKSXAbrXEvju7kNkYGdNGIPQoLOm+MC8LviheAxANtX4sV6oPnzD3KH6LVOXwETW7hyIyfFbVCSlozClFGOy8tN7Sa63FC/n1UVRsbhwClpO4UIsrH6gBFIPDKcbdcPe1ldJiLh4LNcOg4kwLiGeuakhtnhvCHMXiFs+5kTbdIqU4U4k4wD6GO7FswLQ8pwKFdn7e4i8x3DtI77G/AJmBPnJ76udcaUiXMuDlXRR+u58YvKzhwJC8r/D4bMkWqoqoHob5RDdKT5o7a9H/1iZl2GmOG3iDsvDQZ1TaJSsFjjXWn0wUuJVxcxBLDygthRMiGmDAeR3O4EjTRXs4wO/Cfw9aQ3lvf0AeiKcLvS0nTS1pusKqmzxfov+iw==;+3ojpUB3yk/F4TGipJ6Vvw=="
 ---

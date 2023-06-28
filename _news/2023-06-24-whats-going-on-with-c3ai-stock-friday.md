@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Centre"
-    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
-    publishedDateTime: 2023-06-23T11:13:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Amazon Wants to Teach Its Cloud Customers About AI, and It's Yet Another Reason to Buy the Stock"
     excerpt: "Amazon (NASDAQ: AMZN) has dropped out of the spotlight this year as its big tech peers, Microsoft and Google parent Alphabet, fight an intense battle over artificial intelligence (AI)."
     publishedDateTime: 2023-06-23T17:43:00Z

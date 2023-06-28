@@ -121,6 +121,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Embracing a Sustainable Future: Aboitiz Data Innovation and globally-renowned institute Mila join forces to combat climate change with AI"
+    excerpt: "Aboitiz Data Innovation (ADI) and Mila - Quebec AI Institute, a research community headquartered in Montreal, Canada and founded by ACM A.M. Turing Award (often referred to as the “Nobel Prize of Computing”) recipient Prof."
+    publishedDateTime: 2023-06-28T04:22:00Z
+    webUrl: "https://journal.com.ph/embracing-a-sustainable-future/"
+    type: article
+    provider:
+      name: Journal
+      domain: journal.com.ph
+    quality: 6
+    images:
+      - url: "https://journal.com.ph/wp-content/uploads/2023/06/ADI-and-Mila-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "d+gu6Ii9VM5CNTeV1JCl7djX4bhK28vhxdAV2g3kNewISlA79cMltu77Ye1xG2wUxUplFmvtEJHnyFIlZUexDgnau6IbeschUHlD3OhDRgOojE/r7l8lEqCraH2sAMBqmLHsG2/JBfsvIM2f7HSSV6SdE4xZqoP7jNs3JfoTbjUQuzg8Tqc12OIuakOPULqlIuf2R1Eac3t859RIXbW6s93Tl1UBwBuCv0oytFOoYIDfBO/EF0WdZg+t/IA/qQZrkqKgwQTXMTWxBRZHfYL2v2XWJWQoR+QCrX9jyrsDXd7qijzf/PedF+BKBuco6JRZVpfsLBze7dxzTo487lL1Hnbvn83ESV4sAXqGpbMh9Bw=;IDcQRAEtNINtYGNtviCJXA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robotics and AI at automatica: practical insights into leading-edge research"
-excerpt: "Home > Press release: Robotics and AI at automatica: practical ..."
-publishedDateTime: 2023-06-27T18:01:00Z
-originalUrl: "https://idw-online.de/en/news816821"
-webUrl: "https://idw-online.de/en/news816821"
+excerpt: "At this year’s automatica trade show, the munich_i high-tech platform will highlight robotics and AI developments for the third time. More than 30 demos will be on display in the AI.Society exhibition."
+publishedDateTime: 2023-06-27T18:49:00Z
+originalUrl: "https://idw-online.de/de/news816821"
+webUrl: "https://idw-online.de/de/news816821"
 type: article
 quality: 66
 heat: 66
@@ -24,6 +24,6 @@ images:
     height: 259
     isCached: true
 
-secured: "lmnkxqH+RD27AN1THCkou1VKEfAunUI4VRp8g6EBKY1BjFQLTor18ku2d/OlUt9SiLkhYBzrMj3djb5Hygc0eNRPJjp9zknIjUAgJGeX/01bLp/9Cp8/sZg5maO3MR5VlatJgBS+xcLO1T4p2dn2LhemVv/dgj8uakmprWtnCnKD+1QqNObWELqBgpQtB4dRlxHI1lP0fgFUJpHwIL+60VGglx/2xKAbmJ/U70E/CHbh0hx3bn7kY663/AWXYyzqIaM5lbEFSJ15yGx0ZCUCqUrexqCoil0mJ61sNaghEYCr/Fln5lRu6RyjX+ViHrps7zdRzY6l56AF/PDwwJOh8gFzvhGNieENGiWMUrD2Mik=;5Q+3+BcOZCoNEYcgAGMZaQ=="
+secured: "Qz4OmQZAsuquSdwMEfGI+sS3KsbtKsyy9UIFfHo5oGgCoZ+yV3nTpBy0XHpfG4roKwZ/IRLpVsST53MWMAgEt4RClGfAqH5oe1Nu3nnuymzJ9DtrApdVFujblnV1VlKT77yaKyx1GEID59rPEU1bJqQK+KYFcjw6Hk9cI2FcjCMe6mFdzAjqzi+qH0xc3AOIStks7L5vlnqNcjzqFvBIYluY5+/vtr+gEKP8XfQIRMRS345WUewtMpM9UGQjcV3f4ORrOKOCJEunDzkfxbFp3juD6qfsCnPrmdAA/9G9WP6IQr+jLlis6MBUYXfuZTz0he7gNW/WauIhndbK1T6yXMjACz8gjR2ZsQwFMrOaWyc=;kua3Dnbdm1ia/kBA9Tvybw=="
 ---
 

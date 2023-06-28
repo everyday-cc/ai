@@ -67,20 +67,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Centre"
-    excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
-    publishedDateTime: 2023-06-23T11:13:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-generative-ai-innovation-centre/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/04/AWS-on-Quantum-Cloud-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "YGUXwbZAWDyiPfXDS2zwmnDyLPb8JE1n9m6RMaj47kYsp+NVbOpXEW4+WBuDQ3sDfY9EmC6eMyMyiocDxPGljyHkE1r0TlMy+XXyPB+S5+14B8FNUTChv9r4gnHf3ZhK/ycibKC6RntCffksylOVGD2Tztvz/qL6yGYMPc/z0g+w7FnMZyiqY6RLpid07RyNRfKq4fEE09OC8BkU5kyKsTR1NbePMWspDn4KS9D8mBWJTrO+Ys3rFi5i3lrYO2GX9Xp+8wZtG6sN1KI655Wogv//6G1GYzkSWOxR9RaySNvdGhX0pAtlXoHG8TjrbJ/JIpYFRelFW8r6k66TbZ9nYHQ0bxd5XJOqFEgLMYBmmUk=;zd0AZ7mMnY1IhFgtipMhGA=="
 ---

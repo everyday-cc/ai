@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-gene
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 19
-  - title: "AI watch: from Wimbledon to job losses in journalism"
-    excerpt: "This week in artificial intelligence"
-    publishedDateTime: 2023-06-23T11:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/23/ai-watch-from-wimbledon-to-job-losses-in-journalism"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "7ir8Epkc2BIoyMNiIP+KaeZgDQ+nN5HWT9NwVNjealQfnzoFpWQycrfZkKIKvqpU6k736s+xhGhauzU26v88IfyZ53bVPngDe4/BCg51PMym1fwP4kR9omoyaQyy5zugjknFwXKOFN2RHZ5CsKJks4NKH7HQIekBsZ9oRliXSoKt6/TNlsI8jK8PqJYCvq1mtNfLBH6c+ysEW6Uez6Ab6mps/ZdqyU0ZgLTCInYXDGKNDrjqSGObQxK4MuRojE25h9zoMm6SFvTBknD0RylDoCRbAFdwoB9rS6AWTcqtbTt6wIeXv9XYDNbYskBjkWcWiZI+R9hGVDpnho9/3d7/ceVLcIqYIpbmfFQLpdtSyDs=;DswrDhgr0s3UEEzeeIMGbw=="
 ---

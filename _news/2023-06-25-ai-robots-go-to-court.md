@@ -42,20 +42,6 @@ related:
         width: 3000
         height: 4000
         isCached: true
-  - title: "I Went to Bed With a Robot to Get Better Sleep. This Is What Happened"
-    excerpt: "I used an AI-powered wearable to track my sleep and got a sleep routine through ChatGPT. Welcome to the future."
-    publishedDateTime: 2023-06-23T11:54:00Z
-    webUrl: "https://www.cnet.com/health/sleep/i-went-to-bed-with-a-robot-to-get-better-sleep-this-is-what-happened/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/783f7e31d8662867bc4f3adb4458e39d99ef48c9/hub/2023/06/21/2b359d8c-bfc7-4211-8b5d-196ffaaf538f/gettyimages-1393881047.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ofWpx7F6tN6kWeQ2CQFqEoaZlHRPnYrBzy+nnvIp/HIZPP51lmFFpv1B7WybQXgHv4tL227s3Z+02eLRD3z/wc1elJK7HChE1NzmH8y6tsSrt5MJTyiLfwt+qm11hvOZaLZjTn7KUeMc+D1EG8LOcZYNBGGiE1Yx1hbNYxP84+Us+FnNI1N97W4w1nlhBFk1duy43tiwKXtI+yw4zzyMVoE/LUh25Ln972q1VQDNzrtTNl8iOTlc98QDIHN+o82huwao0Q8A7se9UZmwSD1lzCRUDJUXanr0z/FIiJxmZY7lKCb26ith0PUGjhfFnBYFt54+KpLEEpFbjqQA8JvwiDT/qMZj/vjLsvhewUasmz8=;XogoOVJjIeB8gG3alqEZKg=="
 ---

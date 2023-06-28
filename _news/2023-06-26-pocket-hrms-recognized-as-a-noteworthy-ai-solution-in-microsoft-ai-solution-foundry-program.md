@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Develop Microsoft Azure skills with 30 Days to Learn It"
+    excerpt: " The Microsoft Cloud Skills Challenge 30 Days to Learn It program is aimed at helping individuals develop proficiency in the most in-demand skills in the tech industry, such as learning the Microsoft Azure platform. The program offers various learning journeys designed for participants with different"
+    publishedDateTime: 2023-06-26T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/develop-microsoft-azure-skills-with-30-days-to-learn-it/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Learn-It-Blog-Pic.jpg"
+        width: 900
+        height: 541
+        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -35,38 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
-    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T14:52:00Z
-    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 63
-    images:
-      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google to set up global fintech centre in Gujarat; Microsoft to explore AI use cases for Indians"
-    excerpt: "Google CEO Sundar Pichai on Saturday said the search giant will open its global fintech operations centre at GIFT City in Gujarat and that Google will continue to invest in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T05:24:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/articleshow/101233263.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/google-to-set-up-global-fintech-centre-in-gujarat-microsoft-to-explore-ai-use-cases-for-indians/amp_articleshow/101233263.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1795047,msid-101233365/google-to-invest-10-billion-in-digitisation-ceo-sundar-pichai-after-meeting-pm-modi.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
     excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
     publishedDateTime: 2023-06-26T08:53:00Z
@@ -80,6 +62,34 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
+    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
+    publishedDateTime: 2023-06-27T02:43:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 62
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
+    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
+    publishedDateTime: 2023-06-26T16:49:00Z
+    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 61
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
+        width: 375
+        height: 300
         isCached: true
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
@@ -129,6 +139,15 @@ related:
         width: 933
         height: 520
         isCached: true
+  - title: "Microsoft Education helps to create AI-powered learning experiences"
+    excerpt: "Microsoft Education is collaborating with several organisations to create AI-powered experiences that save time for educators and improve learning experiences. For example, Microsoft is working with New York City Public Schools in the USA to support students and teachers with generative AI tools such as a chatbot that provides personalised IT support."
+    publishedDateTime: 2023-06-27T12:03:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-education-helps-to-create-ai-powered-learning-experiences"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 51
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
     publishedDateTime: 2023-06-28T00:30:00Z
@@ -138,15 +157,34 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
-  - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
-    excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
-    publishedDateTime: 2023-06-23T12:52:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-takes-aim-at-microsoft-azure-software-licensing-5-big-things-to-know"
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
+        isCached: true
+  - title: "Microsoft Flight Simulator Passes 12 Million Players; New MSFS 2024 Details & Much More Revealed"
+    excerpt: "Today is the first day of FlightSimExpo in Houston, Texas, and both Microsoft and third-party developers had a ton of news to share about Microsoft Flight Simulator."
+    publishedDateTime: 2023-06-23T23:09:00Z
+    webUrl: "https://techraptor.net/gaming/news/microsoft-flight-simulator-2024-12-million-expo-news"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 41
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2023-06/Microsoft%20Flight%20Simulator%20Ford%20Trimotor.jpg?itok=XCWOzfSu"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z
@@ -216,6 +254,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 24
+  - title: "Volpara recognized as the winner of 2023 Microsoft Healthcare & Life Sciences Partner of the Year"
+    excerpt: "Of the awards, Teri Thomas, Volpara CEO and Managing Director, said: \"We love our Microsoft partners and are so proud to be named Microsoft Partner of the Year in the Healthcare & Life Sciences category."
+    publishedDateTime: 2023-06-27T19:25:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840229.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
     publishedDateTime: 2023-06-24T13:17:00Z
@@ -225,15 +272,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 17
-  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
-    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
-    publishedDateTime: 2023-06-27T12:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
   - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
     excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
     publishedDateTime: 2023-06-24T12:03:00Z

@@ -35,22 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
-    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
-    publishedDateTime: 2023-06-24T07:19:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 33
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Artificial Intelligence Poses Threat to Patient Privacy"
     excerpt: "New regulations are needed to ensure that artificial intelligence technologies do not expose patients’ confidential information. Specific regulations for artificial intelligence (AI) technologies may be warranted to ensure the confidentiality of patient data."
     publishedDateTime: 2023-06-27T12:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.deseret.com/entertainment/2023/6/23/23769802/artificia
 webUrl: "https://www.deseret.com/entertainment/2023/6/23/23769802/artificial-intelligence-disney-marvel-secret-invasion"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1461
     height: 834
     isCached: true
-
-related:
-  - title: "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful"
-    excerpt: "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul."
-    publishedDateTime: 2023-06-23T13:00:00Z
-    webUrl: "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6494948a9ec11a2433532b58/191:100/w_1280,c_limit/The-Monitor-Marvel-Secret-Invasion-Culture.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "4T8CvL5jtkQlVlv31ENjWesosREs0MAdg7XdOUSxj2ZdX50wrLoWsZmuShgR6DenxuDcttHaqUHDYGzTAfxxAVQCvQ0mFgJY+bDuDjgIpwSE5OkS7r1Eb7B9+z1mkODdgrf+3nq0asJsPQZCWFQD+CsCcrsdfqnBCSIykkIWRw6FS/nuzn868JbOYQVpPy33YhfEczYw4C+oo19U+vbucRVzWTlKNnUJOMdBZPqNQyzALzvOkRy+ZXrT3kbwMrC21pp3NAiQDoDT97aEXdV+/IpVRCx0W1jegP/NZeTkoo3RYRIcOSKaRzqleQyjzdTv/ibbMCpQJfohvasyJ7G2EKMeCEfV6R9FX1/jYIxvH45b5BmnJ7KzMRIOi8BzkDj7rPbwH+oCin7SHL6XhAmMe0rG1Wkd8byWpVPn/ZJADMsfGn9OdDsx0Fr3H/v9WNDmTwlDnHIpMA+b8baJ8XBjt8qmC5WJlNE6420N0HM79H3QKTGtruFSeeYHGcsA515Ry06cX/FeYFlWZsidTX/i6A==;/sr/Imowhe306V9wf8kWMw=="
 ---

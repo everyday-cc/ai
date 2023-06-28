@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco"
-    excerpt: "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies"
-    publishedDateTime: 2023-06-23T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 58
-    images:
-      - url: "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "San Francisco Fire Chief Voices Concern Over Robotaxis"
     excerpt: "The robotaxi industry is being allowed to move too fast and break things, officials say, putting more robotaxis on streets even as they prove inept at dealing with firetrucks, ambulances and police cars."
     publishedDateTime: 2023-06-23T15:37:00Z

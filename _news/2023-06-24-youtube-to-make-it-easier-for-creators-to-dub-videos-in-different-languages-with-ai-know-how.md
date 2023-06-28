@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "YouTube to boost AI-generated foreign language dubs for videos"
-    excerpt: "YouTube recently announced plans to support a group that helps creators quickly produce audio translations for videos using AI. The initiative will likely complement the company's"
-    publishedDateTime: 2023-06-23T11:56:00Z
-    webUrl: "https://www.techspot.com/news/99175-youtube-boost-ai-generated-foreign-language-dubs-videos.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-22-image-26.jpg"
-        width: 1000
-        height: 744
-        isCached: true
   - title: "YouTube: Dub Videos in Other Languages with New AI Tool from Aloud—Now Under Testing"
     excerpt: "A new tool is coming from YouTube, and this AI-powered technology would help translate your videos for you with dubs for your specific languages to hear. Streaming is set to get easier thanks to YouTube's Aloud integration that will feature audio dubs for various content on the platform,"
     publishedDateTime: 2023-06-24T01:09:00Z
@@ -149,15 +135,6 @@ related:
         width: 611
         height: 321
         isCached: true
-  - title: "YouTube adding AI dub technology to translate videos for creators"
-    excerpt: "A new feature for YouTube will allow creators to dub their videos into other languages with an upcoming AI integration."
-    publishedDateTime: 2023-06-23T13:12:00Z
-    webUrl: "https://www.dexerto.com/tech/youtube-adding-ai-dub-technology-to-translate-videos-for-creators-2187848/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 34
 
 secured: "uqKqtHcTXg7uhN4SuKuEUSULD8j2d5MggJ6GvMzkNKkdv/uFFgx5J1yOrbFPHoIzVST8+QYXFsconiXtd/+f5WEGcX7Lp8NIpPky6PnSRRCPsYPxfEJgTovBSfUnM90ozQ2pimRSp2vX3HOTZVAxGChD8vGYnsE77+50pnPEnFXHgzN+5xFONSNQObPIhT5pjttXelxH4xcsCn3FKw7m/rS4GkLIW80R7d4P7+f0Xm+rnWiErb94Nub9yF2mfp9s9Lh0c0l6vYzfmxkHtjdjYY4B7hHVMH9D4OugLFkn1NLZLST6vtB0Q6HmJWTZg0WIvbVNoARv96hXsCgYSR3t6py2cFzX2pUCeZGDA6szVKi9fU3go0hkHt8EWVhktTI0X1Dkcbl4H33nWWhpfCAe0V/zSxGnAGLJth9PjIEjNW1JHvILU4SDsFbRz5Ub6fj2/q6MHCsRhb5dJDgiTEldDb4J3kJvpgI2ybMRCG1/lFwe6Qssis+D07FgZ+3lGtPijZ0/f+gBtq7FhQC4NG63Tw==;fURSmcjEHTwSzTw84MgFbQ=="
 ---

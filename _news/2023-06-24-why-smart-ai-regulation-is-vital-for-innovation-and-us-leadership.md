@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -289,15 +289,6 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 21
-  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
-    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
-    publishedDateTime: 2023-06-23T12:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "3525lrcye6e3Rca6jLs6F1AhfkzI7yszZZlG/xuYmxc3ZIj5nC8jQZrAHX+EAAj3eKisO2dm825qNR1JiryUTGH3KqG2cL6b5m57pTeU2p0Xk0ocxh7gF43pL5KhKzqXBX1HMzodCnQ6d3plO4eucIlluvRcU9S95JKsgUVDsbt6zgnAXr+ujWuhnZ1hiu9qGGVFQgWJbVPm0xczqhTAb0ZxyJ1XExWUI2niGCCo2rbihDJKWjNChviYMBP4010hRj4uYqeJykD73InJ7TQWNRvTN/YBSOR4GUZszZ1lICWRHg3sI4hGgzryPVagWpV3hBpTIgpD3CwsKeiHU4yNX2cwQTOWoNdZk+8NHKyMHWePHf06StLV0kWAp4ismIiARyEtJvKRybmcc69Xb0xiFV899GvqS1fLBgNQ+eelod4iFH5qxGBo1hWdcr6olWMtCT55W1Ssa3ELpvz5jF0/0alcUwgs0BbNw1a9uNCTsxrjLYTi50lOau7ElmXulEDkE8HavicSiw1Tn6mOpOswkA==;aoBn7iVuRgd9c1moE/tUSg=="
 ---

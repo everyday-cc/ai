@@ -133,6 +133,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
+    excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
+    publishedDateTime: 2023-06-28T05:00:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-says-its-secret-ai-weapon-could-eventually-outsmart-chatgpt"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/j2dgg7wUnxEbnBRwTJVzgg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
     excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
     publishedDateTime: 2023-06-27T11:55:00Z
@@ -148,6 +162,22 @@ related:
       - url: "https://images.indianexpress.com/2023/06/google-deepmind-featured.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
+    excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
+    publishedDateTime: 2023-06-28T04:44:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
+        width: 360
+        height: 202
         isCached: true
   - title: "How to control ChatGPT with your voice"
     excerpt: "However, there are workarounds in using ChatGPT with your voice. The first is using speech recognition software to convert your speech into text, then feeding that text into ChatGPT. This way, you can save yourself from needing to type long paragraphs of ..."

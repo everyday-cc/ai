@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
-    excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
-    publishedDateTime: 2023-06-26T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/17/11/m365copilot_business_1920x1080_print-100938654-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
     excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
     publishedDateTime: 2023-06-24T14:52:00Z
@@ -60,209 +44,95 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
-    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 63
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
-        width: 1280
-        height: 853
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
-  - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
-    excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
-    publishedDateTime: 2023-06-26T19:11:00Z
-    webUrl: "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/"
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 59
-  - title: "Rivalry between Microsoft and Google could supercharge AI progress"
-    excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
-    publishedDateTime: 2023-06-24T11:01:00Z
-    webUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 56
-  - title: "Snowflake and Microsoft expand partnership with AI"
-    excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
-    publishedDateTime: 2023-06-27T11:18:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108171/snowflake-and-microsoft-expand-partnership-with-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/Snowflake.jpg"
-        width: 1500
-        height: 800
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Snowflake and Microsoft expand partnership with focus on AI"
-    excerpt: "As part of their expanded partnership, Snowflake and Microsoft are working on an integration that will make it easier to use Azure OpenAI Service with records stored in the former company’s cloud data platform. There are a number of ways enterprises can use such records in their AI projects."
-    publishedDateTime: 2023-06-26T21:33:00Z
-    webUrl: "https://siliconangle.com/2023/06/26/snowflake-microsoft-expand-partnership-focus-ai/"
+  - title: "Google Commits $10 Billion To India's Digitisation Fund, Backing Fintech And Business Growth"
+    excerpt: "The investment aims to foster innovation, empower businesses, and accelerate digital transformation efforts in India, amplifying its position as a global leader in the fintech sector."
+    publishedDateTime: 2023-06-24T07:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/google-commits-10-dollars-billion-to-indias-digitisation-fund-backing-fintech-and-business-growth-articleshow.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 33
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
-        width: 933
-        height: 520
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/zlozpac113whohj2_1687593836.jpeg"
+        width: 768
+        height: 438
         isCached: true
-  - title: "Azure: Our AI Platform – Stories – Microsoft"
-    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
-    publishedDateTime: 2023-06-28T00:30:00Z
-    webUrl: "https://www.inferse.com/571220/azure-our-ai-platform-stories-microsoft/"
+  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
+    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
+    publishedDateTime: 2023-06-26T05:02:00Z
+    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
+    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
-  - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
-    excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
-    publishedDateTime: 2023-06-23T12:52:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-takes-aim-at-microsoft-azure-software-licensing-5-big-things-to-know"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
-  - title: "Microsoft Bing Chat set to launch image recognition very soon"
-    excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
-    publishedDateTime: 2023-06-27T07:10:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-bing-chat-set-launch-image-recognition-very-soon-1717116"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 41
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 29
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
-        width: 1280
-        height: 853
+      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
+        width: 1320
+        height: 743
         isCached: true
-  - title: "Snowflake Expands Partnership with Microsoft"
-    excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
-    publishedDateTime: 2023-06-26T16:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-expands-partnership-with-microsoft/"
+  - title: "Google to set up fintech operations center in Gujarat"
+    excerpt: "Google CEO Sundar Pichai announced that the company would set up its global fintech operation centre in Gujarat's GIFT City, following a meeting with Indian Prime Minister Narendra Modi in Washington."
+    publishedDateTime: 2023-06-24T02:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat/101230264"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
-    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
-    publishedDateTime: 2023-06-27T19:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Why Microsoft Leads the AI Race"
-    excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
-    publishedDateTime: 2023-06-27T17:55:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/b8z7v6l4j2qzj7/Why-Microsoft-Leads-the-AI-Race"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 34
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hexaware-reinforces-ai-leadership-with-double-w-at-/2023/06/27/9839286.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/530945/Hexaware.jpg"
-        width: 400
-        height: 240
-        isCached: true
-  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
-    publishedDateTime: 2023-06-26T06:30:00Z
-    webUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 24
-  - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "\"We are equally thrilled and humbled by the recognition at Microsoft AI Solution Foundry. I dedicate this award to the development, technical, and functional teams for setting new standards in the HRMS and Payroll Software domain for being the pioneers in utilizing Microsoft Azure AI effectively,"
-    publishedDateTime: 2023-06-26T20:39:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230626/4093122.html"
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101230264,imgsize-38934,width-1200,height=765,overlay-etcio/corporate-news/google-to-set-up-fintech-operations-center-in-gujarat.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Google to Set Up Its Global Fintech Operation Centre in Gujarat"
+    excerpt: "Google is also investing $10 billion (roughly Rs. 81,980 crore) in the India digitisation fund, said CEO Sundar Pichai."
+    publishedDateTime: 2023-06-24T07:16:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-set-up-global-fintech-operation-centre-gujarat-4148883/amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: gadgets360
+      domain: gadgets360.com
     quality: 24
-  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
-    excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
-    publishedDateTime: 2023-06-24T13:17:00Z
-    webUrl: "https://www.inferse.com/564114/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 17
-  - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
-    excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
-    publishedDateTime: 2023-06-27T12:22:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59436497-nowvertical-group-inc-nowvertical-announces-new-partnership-program-with-microsoft-and-azure-openai-for-secured-enterprise-ai-deployments-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
-  - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
-    excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
-    publishedDateTime: 2023-06-24T12:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293002/20230624/microsoft-researchers-announce-major-breakthrough-advancing-practical-quantum-computing.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 14
-  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-  - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
-    excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
-    publishedDateTime: 2023-06-27T21:40:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230627/4093494.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 5
 
 secured: "cX0HS9lK9PItx8MWfK8sXc2zfhK+I2C4/M/5MTk5m2g5+Pg7NJvkeaEkTGH+BbLOvMlsoTIDZB6IB3SaoKUAI7gGjEp7vJZWJrcKcjcl6XCEGuuw+TUdhC+oJHJ3pol9ZJy7Xfzvue+yRkf3P/8XMub9Rrry0/OkeRYqTa9d/sdjnv8/EWNLibXHVtRTD6jInn/ybVZLh/1LzqIdRHjjMf8F0UgynDvqYZ1ZPgX93w2T9BwL4K1uJyIY30Fl1rKnBto2p5eQ8/ukzw0MHTvkTfrE4YDDyjUcnKnFDPtpmugqFMmcsK9DKe/kvegf0n6oGvMVChjWvZMvwTC4UDxwn7PAXjiVxBehu9R9yylpaH2bbVdpQi6suhYzis2RfDLU++vx1j/SmqDSdSxnJ/NvVGMvN3l9zIe0Bsussnz+i6CgBPFl4AsoDljuaIi2GH/yNc1UumsMWUgYyNw0dpErof+jmVeWu8BkbzlMO/nJBP/eQDg/mBruwy/MLBin31q75NmeWHwxQYx/BQHDp4xY4A==;8D4BT0vUl3dXnL/pfXUxlQ=="
 ---

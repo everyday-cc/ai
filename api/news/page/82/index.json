@@ -2,49 +2,6 @@
   "page": 82,
   "value": [
     {
-      "path": "_news/2023-05-06-we-were-right-about-artificial-intelligence.md",
-      "title": "We Were Right About Artificial Intelligence",
-      "excerpt": "A number of recent surveys revealed that Americans are scared of artificial intelligence. 75% of us think it can be abused and needs to be regulated. However, only 30% of us believe the government would be an effective regulator of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.grantcountybeat.com/columns/opinion/undeniably-right/78081-we-were-right-about-artificial-intelligence",
-      "originalUrl": "https://www.grantcountybeat.com/columns/opinion/undeniably-right/78081-we-were-right-about-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.grantcountybeat.com/images/fl_gcb_300x30024.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-05T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "grantcountybeat",
-        "domain": "grantcountybeat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-06-chatgpt-and-generative-ai-in-payments-reality-hype-whats-next-and-how-to-prepare.md",
       "title": "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare",
       "excerpt": "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers.",
@@ -1215,6 +1172,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
+      "title": "Qatar adopts speech recognition AI to boost prosecution efficiency",
+      "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday. The system will be used in criminal investigations and editing legal documents in addition to manual input.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
+      "originalUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0223/doha.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
+      "publishedDateTime": "2023-05-05T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

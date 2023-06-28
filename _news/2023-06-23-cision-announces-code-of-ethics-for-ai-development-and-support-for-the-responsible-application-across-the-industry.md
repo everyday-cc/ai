@@ -288,15 +288,6 @@ related:
       name: Kompas.id
       domain: kompas.id
     quality: 21
-  - title: "Cision Ltd.: Cision Announces Code of Ethics for AI Development and Support for the Responsible Application Across the Industry"
-    excerpt: "Cision, an end-to-end consumer and media intelligence and communications platform, announces the introduction of a new Code of Ethics and a comprehensive"
-    publishedDateTime: 2023-06-23T12:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59412980-cision-ltd-cision-announces-code-of-ethics-for-ai-development-and-support-for-the-responsible-application-across-the-industry-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "URr+zTG439X0/DPptr28nSVwoWhnTJSfhCm84LXYVsPSuYCC3witQm14S22T+NoEREMTf6NyM9RnB67il3MoueTAP6IEM8Zc1Y1+/wCup3dQw90NEoO3Qw+Wv3ejrJ9T8nqEQ+D87CzJlAK/VWNAtevb64lC7/mMZ8F/ejyWVaMwLf12/k5ZpsQGsq5H3LyTjdKxMm0bdz6XSSexubEHuDm97IR9012SHc+nkHjRsWC2g6eizaESjopmmcjo6FKgYOAtNZtEqDyJW1HH3rI/EErqOiproNw4Sv4PlSGs5wkjA2Fvlnis2UTcF9AA6bpiOuwqXOuUAF6fuEt/nIyVsM8O0/4jMYLQIdXEqf0HkD6jjn1hCqm3e45XpYd7jYxcPAKuKOlRjfKEumYBnBBJ/p9IJkBfhCCxE+nVLvc8YhLFXLfdJFoEmbeZCM4FOR6Nz+wrc//nhGtL1nbmuMwgFJI7dgMg9rEZzBvuvpFiDLFOIVF5jlaVsSONFqdQtYgWt7GWOQJUeQB9RxcxACzKwA==;R6pA79jlbtCxAeiXkr7OpQ=="
 ---
