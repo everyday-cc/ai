@@ -37,15 +37,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
-    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
-    publishedDateTime: 2023-06-23T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 0
 
 secured: "cIXUhtbpxUiv1ERCzs6HTovOJdOfOaUV7ln2ZhX5rqalUY74Qs6gx6lbHD/Z/KRm7S4nwRhkBZ/99xcGTTc+HMQSMZ0nvKLNOJ4t8TmYrZ9/wOzVmE1sdFjsiH8uD4l4B6+xZp2Zvvz+IxxhzkrRF0PcWPdX5pQmYQ22hmFdy354A+1pnMIDKlVU0A0B/FdU3H0dK53Bi8OjDjlwnAg+8BFB/siop+uucF+Mw3Asi903K3ygfMcQuWu8D97ny0L/KEzdYKwlZ7zfrqafGcsC8OCeXhI4Q2wjJDqn/6C2W6sfu6KhDm/wOhjGcNH3WfnfEDJju8gAP7kkO4LMZQfKrN+DjSFHJkO0rh1hXoQGDRY=;1Kuwq3cJDrK2dQ/sM+sUSg=="
 ---

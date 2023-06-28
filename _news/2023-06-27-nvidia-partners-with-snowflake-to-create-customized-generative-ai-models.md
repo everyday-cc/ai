@@ -47,6 +47,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Nvidia, Snowflake announce partnership for custom generative AI models"
+    excerpt: "Nvidia and Snowflake are entering a partnership that will let Snowflake customers build custom generative AI models."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-snowflake-announce-partnership-custom-000058515.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/LUDd2fPwcZFoKu.F9tIu_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/91ebdfd245b3934c569bc9119203d5d1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "3KnG2cZI5Ow6lsNsYW7e6ra28kvpfCNBc0QZNkosVxIfEMRZsCQAjpaz0Urr7M4juzE7Sj29bupkg2QnbJS2VV+aU9JgjesEwRR7WMZPf3axFLhYVJ1Ke8J/o0uqY1OcUBZH0FVP7cLY3Xp3JYr2yjC/aJYSPD/ZilkhYWMflCwHaCtIojiYlnuww8b6er4HHCeKmA1eZOp+ij+03nIbiUmDHsmVoLX3sAXjn9EoDYlms2ZSiQmNJMXBwR7bEWtUXPaqNhkwBG3zC8pYzlkB/1NIopxAnC+9+exbeVUbpjzxvz/u6y9jOqtC5luYNvlbBR1l849QRLvFJ3Npqok0/3/e9cAFrRLEufZYZ3ajowT876/33iBTOXuXJWqfUmWdHsN3jsGcHlqN2V4r9Yi+tE0caDCiRnUc2nQfN2pCIEyrm2yZDknfJ2WqmISdflu7IfEQUPiEtnmKDhdBOkfx60rN+rrJ/cvuXuMa+D2GyKoaj2cxYmntbsSeFwYmVeByInLhd1QRB2khAKsGwwEtwA==;dH2TDyYFIRQJrecYWrxThg=="
 ---

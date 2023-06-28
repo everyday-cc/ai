@@ -37,15 +37,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 0
-  - title: "Regulating fintech: Allowing for innovation while protecting investors and consumers"
-    excerpt: "How Ireland’s innovative fintech sector navigates regulation, to keep first-mover advantage while satisfying regulatory requirements"
-    publishedDateTime: 2023-06-23T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168650.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 0
 
 secured: "WbMVSlqUZyuexkW+PQIhZHLtQQbcspLIV9aQlPA51up78L85tgbCj2oV2QmuimNTGioEi2HDLNVmqGjwZRNe+6MBAZE13/FBRxfGwNcE1I6+zOEXF+LV5DRE1d7E45eTZRcjg4tbdqWvZvgEiVoWubSYdy5zXnuNFau0MTE84WlzuoVbXDHNqffJgSGwhF/iX/LzX5KXdnf5NPYhp1CrsE+9w2ZaIDhNcUz9BJbicssKC+AlWeu3L9yrkUHcZK16karv25QWfCfK3xQWnSNWuNlv1TsX317rwPV05AnrqvJ2aV/cm7jI+9dmMJC7xbyvkSgvxs29YDOhNNcUEnpOh8xoju5mcQH6DSElwWZRHII=;Guj8s81wb30RPgkObeeXCw=="
 ---

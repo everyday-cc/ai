@@ -258,6 +258,15 @@ related:
       name: Toronto Star
       domain: thestar.com
     quality: 19
+  - title: "How CEOs can tap full potential of generative artificial intelligence"
+    excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
+    publishedDateTime: 2023-06-27T18:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "Tr0srrvr7efwPxRxAOYVoYPzwIUUmeh2RJUYC5fbA+jmdlrCzdoz+K4L/JzgVBVJuiruE2aRXjbKLtLWLH3DMIC3ExTpKAqr9gzVEJhtdqf7gM4sBAptgOFfTXfdV55+PEBgm4PJCou/sLeGOveNpXVOTORz/FHR6kQYmFnTw4JhQ7n0AnsepoFqCyjerKBkaJ8Y80fz7xHKLNkzgbKl2ZMGi4+ilJWzmOaNf8PO0ufX1Ud/j1qSm8UNEJTI5+kNBhfdaQS/YYOTKsCw3XatoqGDIfZ20S13ofk7k3wRcHbE9469yTVjJYomWhhQlYXzK1LSPX2AyLRFiekERnYPmEPolOdMwY0AZHIxQHtEQluCDfQXvDldySwkC226SYm/kXX3HGFMNIFbLrK3DwqyEUxlPptmvP6pK+wGe66VLWtZw/Lk4WdWSyBFQjQkE+OoOAZWvt8IBI3O8LDA2YT6AyAdT1FR5TS5G5CTYn/IOCXCaDAOt02y8Cf3npdk0rDQhwXx8IxQnyoMYZSX2Nkubg==;AHgpeHhG6tH8cYaE87DPxA=="
 ---

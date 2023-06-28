@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-we
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "HEFuJbmZAIq8PrSSDPule15lk1e4EjdulNI8kE9LCoT9IPQuWbxZpDWyrkOl2Ph0UgYA+KCJ6v8BBDkTqr1QOo0KJGdf58kMxUa3TKmYwUFBKQtV8UTFmKhNwzfAl7t2lumTu+zpDwmzgM+EpUh4REE/RBk2YTTG6jp2+VE9T3yDdLOD8HqDf9D2r7AJI3ZzbdjJ9/YLt4fI0szY57Z07C1ktQSXauTgCbV2CPzdbCBnLGW31L8ngWi/5gy7yjuZG63aMHPfAc9KV4l2AiFNKZ5Q3P/OVfBOXBk+Sqr/xoaMLXm/Zw5Yy7/DoVjuA/rZ3VX5/BI1ZIlX7nfN/UF8LpGHO9LO1vIyMfmjJZoB/Lw=;/VYqJceGO6on/xl8d6Kicg=="
+secured: "UoeO557aYZGcj0OOZ1eLQBV5WRLJF3d5f3Ghu88bV83YUTnKpwKBayuHqzDPQYlZZ+jCj/MOyWvy1MD8nhTcIqzaYaPIvMl/DG3O4VoXDEWKBZKDdIPwfgRIYMWR+ZjMv6K1GLQMcUE2+sebzuDkvXJ4hB8CfM9d+Oqp/ajqQ18K3GEihxd1HB3WyHdMFsqcyDt8NVOaOjFh3Ijgz/em3ozEE03NaTivSVqQh8XSv7/tjRUZ2KPqge8MzcsZ0ky5qaXiZxcj5GtoiPXSPT0qLYWrzEkfLwlPNer7/GoZ3iBD+I+wNXglpLhYKSCRTMjE5Vsy7a0XnSkzsjT3VKW3n+2YerjFW/dbN/kG1H8ovbra1pmse48ciw2ZAI63FSmgR+TM6k2eolY1inS7sOgttc+8aafBQy4mt8vNGnsR4HRzN0EyeumVZFx4I5AsU1yvwTR8dnCIylhSTWGpqmk6aaYZSeMV2r5b3HANoC7fk47ZVnnqS3bLaOxMn3mzYYG+4J8xLe+EF7L5fJQx0LBH8A==;zQ8pgypjXd9ta9jM7XBs3w=="
 ---
 

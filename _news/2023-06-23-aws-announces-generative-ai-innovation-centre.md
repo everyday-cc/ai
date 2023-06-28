@@ -67,7 +67,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1000
@@ -117,17 +117,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS Announces $100M Investment in Generative AI"
-    excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
-    publishedDateTime: 2023-06-23T07:59:00Z
-    webUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 54
   - title: "AWS invests $100M in new Generative AI Innovation Center"
     excerpt: "AWS aims to connect customers with its AI and machine learning experts pool, who will guide them in developing and launching their generative AI"
     publishedDateTime: 2023-06-23T10:14:00Z

@@ -98,6 +98,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
+    excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
+    publishedDateTime: 2023-06-27T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/databricks-and-mosaicml-ceos-say-1-3-billion-deal-is-about-helping-enterprises-create-ip/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-27T101016.621.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Databricks acquires AI startup MosaicML in $1.3 billion deal"
     excerpt: "Databricks said on Monday it had agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at $1.3 billion, marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
     publishedDateTime: 2023-06-26T15:57:00Z

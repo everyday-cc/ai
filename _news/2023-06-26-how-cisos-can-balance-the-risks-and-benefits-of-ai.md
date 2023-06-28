@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How CEOs can tap full potential of generative artificial intelligence"
-    excerpt: "Boardroom conversations are dominated by the relevance of this technological advancement, its applicability, regulations, interoperability and adoption. The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'."
-    publishedDateTime: 2023-06-27T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318695.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "BBlxJIgSAdPC6/lyhZal68HKHYUksI11ySXINRJQOobIHflIgjrASxKsiJjn01aCxhcJJK29UmiXdQxfmG2eVmmn/8E+K/P68sBiEg2d8ArkV1+SsXS+F9bJBg42dM00Pbd+uttMxIyqdcJ36gAEec0YLdJtG0LIK4X2PV2P8qrfWYxA2fHm6tkdURQ5TznJiraHnsLuDmWwCSDsGoY5tZrTaYZ0WTqkkq+lVsMaLQxHqSPtbFVdZ/d9OMLaKr6Qxx+aIiC+dmk+XX165Tgow7kQlmUWb+gAyHqJprs50mxNJsFsy9nOowuVJ46wDGPJNbRV9RbIvBm5DBPalCsECKeKbRf2bssT+IOC5Gs1LYgk+oeYPuDsmySBOpKvyYg5x5tC1gIxfuJg7D0DvKA2G2ff3bydYFSrz7qqUhhV9Nl7HL+OSXTAq7WnlxO9SVFFt/E6x1yfeBr60F2mEr9uwoqmGJMQWaX1Z8/G1QHCkVimIk/1Sm0NRI9rCvgQANYot3BX1fHVopI//h/COzUVdA==;qsKfTfHDOHYHX8OaqoCmtQ=="
 ---

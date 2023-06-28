@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/aws-invests-100-mn-help-custom
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
-    excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
-    publishedDateTime: 2023-06-23T07:28:00Z
-    webUrl: "https://www.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    ampWebUrl: "https://amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 73
-    images:
-      - url: "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg"
-        width: 1125
-        height: 750
-        isCached: true
   - title: "Amazon Had Some AI News. Stock and Options Traders Jumped On It"
     excerpt: "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo"
     publishedDateTime: 2023-06-23T13:45:00Z

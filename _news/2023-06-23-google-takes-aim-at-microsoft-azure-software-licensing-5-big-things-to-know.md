@@ -129,6 +129,15 @@ related:
         width: 933
         height: 520
         isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-06-28T00:30:00Z
+    webUrl: "https://www.inferse.com/571220/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z

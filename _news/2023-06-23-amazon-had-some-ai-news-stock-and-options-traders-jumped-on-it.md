@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS Invests $100 Million to Help Customers Build Generative AI Solutions"
-    excerpt: "The AI innovation centre team of strategists, data scientists, engineers, and solutions architects will work step-by-step with customers to build bespoke solutions that harness the power of generative AI."
-    publishedDateTime: 2023-06-23T07:28:00Z
-    webUrl: "https://www.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    ampWebUrl: "https://amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/aws-invests-100-million-help-customers-build-generative-ai-solutions-70678"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 73
-    images:
-      - url: "https://data.ibtimes.sg/en/full/65132/artificial-intelligence.jpg"
-        width: 1125
-        height: 750
-        isCached: true
   - title: "AWS deviates slightly from cloud, sets sight on AI"
     excerpt: "AWS will invest $100 million into establishing a generative AI innovation centre in the company's push towards the popular tech."
     publishedDateTime: 2023-06-23T10:03:00Z

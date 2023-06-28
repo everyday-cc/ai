@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 437
         isCached: true
+  - title: "US considering new restrictions on AI chip exports to China"
+    excerpt: "Shares of Nvidia fell more than 2%, while Advanced Micro Devices (AMD) fell about 1.5% on the news in extended trading."
+    publishedDateTime: 2023-06-28T00:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/neuromorphic-chip-market-1.gif"
+        width: 498
+        height: 280
+        isCached: true
   - title: "US considering new restrictions on AI chip exports to China: Report"
     excerpt: "US will stop the shipments of chips made by Nvidia and other chip companies to China as early as July. Read more at straitstimes.com."
     publishedDateTime: 2023-06-27T23:36:00Z

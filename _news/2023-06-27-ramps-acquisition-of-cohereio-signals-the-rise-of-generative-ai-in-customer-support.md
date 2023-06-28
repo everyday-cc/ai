@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -107,17 +108,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS Announces $100M Investment in Generative AI"
-    excerpt: "Also, the generative AI program is a strategy for AWS to bring artificial intelligence to its global customers and partners."
-    publishedDateTime: 2023-06-23T07:59:00Z
-    webUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/"
-    ampWebUrl: "https://www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/aws-100m-generative-ai/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 54
   - title: "AWS Announces Generative AI Innovation Centre"
     excerpt: "With a $100 million investment, AWS will connect its AI and machine learning (ML) experts with customers worldwide, enabling them to envision, design, and launch new generative AI products, services,"
     publishedDateTime: 2023-06-23T11:13:00Z

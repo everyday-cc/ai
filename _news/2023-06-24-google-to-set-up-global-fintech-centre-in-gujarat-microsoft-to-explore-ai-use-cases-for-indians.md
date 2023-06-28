@@ -122,6 +122,15 @@ related:
         width: 933
         height: 520
         isCached: true
+  - title: "Azure: Our AI Platform – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
+    publishedDateTime: 2023-06-28T00:30:00Z
+    webUrl: "https://www.inferse.com/571220/azure-our-ai-platform-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 49
   - title: "Google Takes Aim At Microsoft Azure, Software Licensing: 5 Big Things To Know"
     excerpt: "Google files complaint against Microsoft software licensing models, saying the cloud company forces customer lock-ins and uses Windows Server and Microsoft Office products to keep clients on Azure."
     publishedDateTime: 2023-06-23T12:52:00Z

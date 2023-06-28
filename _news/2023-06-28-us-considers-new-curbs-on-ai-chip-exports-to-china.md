@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-ex
 webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/28/125285.JPG?v=1687911120"
         width: 1000
         height: 437
+        isCached: true
+  - title: "US considering new restrictions on AI chip exports to China"
+    excerpt: "Shares of Nvidia fell more than 2%, while Advanced Micro Devices (AMD) fell about 1.5% on the news in extended trading."
+    publishedDateTime: 2023-06-28T00:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/neuromorphic-chip-market-1.gif"
+        width: 498
+        height: 280
         isCached: true
   - title: "US considering restrictions on AI chip exports to China"
     excerpt: "The Biden administration may impose additional restrictions on the export of artificial intelligence (AI) chips to China, the Wall Street Journal reported, citing people familiar with the matter. The"
@@ -90,6 +106,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "9iKPy+pCjwWSrjSAJ8P3wsvgmmOQeZs8UG9Zn4SjbpY1UL7dJoNP2zcDpAgM4aYUzcu77b0rC0Dsq7+SyNFYB7Ckf2XtTr8q2SOP6mFrqW1qsXgYTJn/o4M1rQsOxS+JedDT4kt1R3ogyYgKWSvGsS+P1U8gehKnKcbF8vSLIQq+rRThB4tDb3fl8hvLTHafifzT9tYs9WQGck1EnslVnSo4r7rc4iEr3AwDE/nrNzzsXzr7sm5j33KiWGLpXQsfi1tqvls/lANq8H4XvnHR08fCPl1DMcTh471YsHJF8ZYoSvn9kP4RVOO0/0OrV7gTYQ0dZuCVV20ud+gvrmR+qjtZTDYdrkZ+rcaOb+HpTi4=;m93F/9NqW+B461oMJzChyg=="
+secured: "QcjYbZaqPU1zG4c2o8yShhUO4mRNcPFPBqzTlxhl2pEv0xdHO75C2noA6nMQGTWdqsKTwhtdp5ouoRpU1GkGC7eiR/9LYm5cuVw3SnwpX2fX7wzhliwVv0QRZyxdK5Jpi4QDz3T4jlMAIICBOPV4EHjcAd+mfJu4Aj0zrTjYjqRtqzKGmvLAH5ZbEl0zXuNRoBc/jaMQSxO/fLUzq4Yprc2KSAi6RTl5zdVHuG2wRHwfXLgSa9mprfQs5NZ4rR22oMQ7iOG2/8Ph3g4EDs3RBTOoOBCiOaL7Cj2ICOl1g7YN3g0izjsmNkEsfB+CSMiONVE62J8W8sh2LreAWbey1n1dROp99iaHi1fflaaHc72scnl6H+k1NIrAq/uHWRpENZlAkdwVI3VwcaAEKEo6YlSK8nsnd94fXbM9R1ukwjtMLD2xhaiy8+ySA+uvQGqmENsTDPWHfFt7v3iSyCMUOXe0GJTlczekGvWfjp9DROI5vtiHyYOsBRmJBRzQMmoq06cS++40ul/ezw9BVpRMWA==;7YV9wfXpQAoOzS+iI1E/9g=="
 ---
 

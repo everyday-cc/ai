@@ -137,17 +137,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 44
-  - title: "YouTube adding AI-powered dubbing for creators"
-    excerpt: "YouTube plans to make it easier for creators to dub their videos into other languages with artificial intelligence (AI), The Verge reports. The company announced it would enlist the team from Aloud — an AI-powered dubbing service out of Google’s Area 120 Incubator — at VidCon 2023 on Thursday, 22 June."
-    publishedDateTime: 2023-06-23T07:40:00Z
-    webUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497393-youtube-adding-ai-powered-dubbing-for-creators.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
     publishedDateTime: 2023-06-27T01:01:00Z

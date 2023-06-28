@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acqu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.wsj.net/im-806103/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
+    excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
+    publishedDateTime: 2023-06-27T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/databricks-and-mosaicml-ceos-say-1-3-billion-deal-is-about-helping-enterprises-create-ip/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-27T101016.621.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Databricks strikes $1.3 bln deal for generative AI startup MosaicML"
     excerpt: "Databricks said on Monday it has agreed to acquire generative artificial intelligence startup MosaicML in a deal valued at roughly $1.3 billion. The deal comes at a time when Artificial Intelligence (AI) is dominating the tech industry, with rapid AI ..."

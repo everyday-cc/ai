@@ -55,6 +55,22 @@ related:
         width: 1000
         height: 437
         isCached: true
+  - title: "US considering new restrictions on AI chip exports to China"
+    excerpt: "Shares of Nvidia fell more than 2%, while Advanced Micro Devices (AMD) fell about 1.5% on the news in extended trading."
+    publishedDateTime: 2023-06-28T00:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-considering-new-restrictions-on-ai-chip-exports-to-china-10869141.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/neuromorphic-chip-market-1.gif"
+        width: 498
+        height: 280
+        isCached: true
   - title: "US considering restrictions on AI chip exports to China"
     excerpt: "The Biden administration may impose additional restrictions on the export of artificial intelligence (AI) chips to China, the Wall Street Journal reported, citing people familiar with the matter. The"
     publishedDateTime: 2023-06-27T22:48:00Z
@@ -86,6 +102,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "ulCfR7hh1rq5S0fZvSswSxZTgMDPXo5TfUjA4kNUOBFWTeGsLaIpwWCGOn3Zrd57biU9oRS8aXST7kK85WdqR5TUe/tB03XUXRAqUfL4IaYyDO7m0OyqGiUj4XaFIr5PZW/Uvdfku9vEsmakMERDgswrXdXnr2dlOkWFVnn71Lkn2Wu5mGPM7OTL454xh0zdFDsLQUXDz0XW3CuzMRtqw+Bk+VL4OAQNp6/MK60zJ26Ly2csrStM8jCCvhjO0YdJ8KBomEhaQ5U85Qf+ldZo/MdaHZCI7ysYCBEOydyJChfMH2ECuDp61lKzOLXUBhVyQ45pCV0XN2HeNUzLWFKaP2izCulQ/OSCx4oGbnEfEZ4=;/Qwb5Ym32gq+6xsND0HV6w=="
+secured: "mw9oVfq/3lhPaFomeAgPhVJJ97/AOynpr7U7O1Dw/n8XhiH74BcxsAXj4f4L5I0YkVEeiv9iRbj8N88JELUO1MiHm2OV86HkC4Idkh6Axb/hJWJ1ITmRu1Xnw/WUhSg30ID3IPqFNkXrFzYCt0KF0XnQeF3PqHPMKIBMbQ8wOQlEn+VT1WVhuXyXtl1vRAcnuhk2xxOBhaFS4RLO/uRNeazg84FtH5QYqBrn3cHGwLnjwenZv1JNUY+Yha7e/+OKuvs7bo65a7oDqQAg78jBcxvBc8wclLmaPfucHSafh/lnrDRGflJ3yMqPvBTEY6CoOx6EDWk2LclKBOR7xsUS/q+90VnsNdePlNNl97BORMH0MlhGhFeZ+0M9NDUSOG/TOn0QC/jVfLZ+PU2yMAAGuWPasttF4JOX2yQV8DBryXz9eHO4CBgyWpjMF/t0pgp5MPZJ3RSdliJZrD3hH2rwNW+xIXaGLxIvtYGOYRhEjUUdX01OsdvQLrrAnE0k4KwQuLeJp0JxKS6tGVfSkfczZg==;h248vCtaNl9r9ULlD5cxuQ=="
 ---
 

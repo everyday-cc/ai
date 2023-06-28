@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Databricks and MosaicML CEOs say $1.3 billion deal is about helping enterprises create AI IP"
+    excerpt: "For the CEOs of Databricks and MosaicML, yesterday's acquisition news is all about helping speed up enterprise adoption of generative AI."
+    publishedDateTime: 2023-06-27T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/databricks-and-mosaicml-ceos-say-1-3-billion-deal-is-about-helping-enterprises-create-ip/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-27T101016.621.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Databricks strikes $1.3 bln deal for generative AI startup MosaicML"
     excerpt: "Databricks said on Monday it has agreed to acquire generative artificial intelligence startup MosaicML in a deal valued at roughly $1.3 billion. The deal comes at a time when Artificial Intelligence (AI) is dominating the tech industry, with rapid AI ..."
     publishedDateTime: 2023-06-26T12:31:00Z
@@ -268,6 +282,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "HJQaGUsownRyVGzyYdF89LrtGSBDzKYL2cyZ83D9AKpWdrpKQlGyUhaSZVuz9aDzK/YvY0gGm1rU5WVsFoQrowErwrnWTgxSSjW8v5bf+iIUiUsTljepWYC829CvcAPLeUwCM6M5CxVeZflZDddiLRfMfbz4+1iYtvNJqDxGrwEGz7qUi9c3FqLqZZHqpdm6xuVBDOw4Q/0mF4EY5qmsI7nz/GpOCtD5yoHr38Qt5Zsgq2hMS4URPajxk13OKXvlzk+1kg32Vsi2Jap/HC+XptF5DmCPO+auULzDxvr0Ci56D7I6mCymI1TW/pKTuM8VREmnQtxEaWd/8/BWKYMrvn3LduejByQcBF8lbHPwwy4=;rCfyBHOJFGt09GI8imY7lg=="
+secured: "rkkvkCX3EMxmvft5uKhZUj/0yZbR+UitdE3YsUIF+sk70imCO+8lrpvT5RcCOkW6BjBl/bh8gj+MeZiNyQmOUTIrfeABhTlwuyhvM6GiWdelgsQ2wpWV/wEDRQCVHDUs5o2XQrI9oil3B6PQ0eXkL+2Fz1lmNv/BGmCDS1nv+X2bwPqKMd6O3JloA0rGIl8JlkektJeJof3oZu5ZDPXszUkyQ+ngjS39pA6sU1ma6os2t4q5Xicv8KPGVgKML2Qj09wnTycHtKhdoWHxx9E1YRHlwoBtIDitqYPXM1Fon4SaPd/wJRmMIK2EftA4yFgECpnufLf1TeqoF3hhHJk1+9Kjcz+iqTx9UbxHndJBeO7OmvvJYfkZWhnuDNn6GlIamRZO98WMsTwoQbT/gOsqkvcYE+uNCBgMMY1L9s54uRROw1mRQIRTMh9OnWbClswiEBEZzsWSSYyeLFnFzngPip1IzZJWO1ctR2miDvGpDfbj8boQ8eYSlr1wvAd2JOv1g9z5ilGz1VlhIb+WB5ynjw==;zOuip/uKMyMjxNTYCn+28g=="
 ---
 
