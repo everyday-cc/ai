@@ -2,6 +2,290 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-05-30-how-are-indian-languages-faring-in-the-age-of-ai-and-language-models.md",
+      "title": "How are Indian languages faring in the age of AI and language models?",
+      "excerpt": "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg",
+          "width": 1200,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "publishedDateTime": "2023-05-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-voice-typing-can-help-you-write-more-effectively-in-less-time.md",
+      "title": "Voice Typing Can Help You Write More Effectively In Less Time",
+      "excerpt": "The computer industry has spent a lot of time refining keyboards instead of enhancing voice recognition software, until recently. Dragon by Nuance is arguably the best voice dictation on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tjmccue/2019/04/24/how-to-write-more-words-effectively-in-less-time/",
+      "originalUrl": "https://www.forbes.com/sites/tjmccue/2019/04/24/how-to-write-more-words-effectively-in-less-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/dam/imageserve/6ae0b34f790248e29f1a9b3f1a674714/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2019/04/24/how-to-write-more-words-effectively-in-less-time/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2019/04/24/how-to-write-more-words-effectively-in-less-time/amp/",
+      "publishedDateTime": "2023-05-30T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-qualcomm-says-ai-will-demand-more-power-than-just-the-cloud.md",
+      "title": "Qualcomm Says AI Will Demand More Power Than Just the Cloud",
+      "excerpt": "Qualcomm Inc. is betting the future of AI will require more computing power than what the cloud alone can provide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV9Pq7ZOJOmM/v1/1200x904.jpg",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nortons-new-super-naked-cafe-racer-is-highly-saucy-way-too-pricey.md",
+      "title": "Norton's new super-naked cafe racer is highly saucy, way too pricey",
+      "excerpt": "Norton has made good on its threat to turn its slinky V4SV superbike into a cafe racer – without neutering its rorty 1200cc V4 engine. The new V4CR carries an absolutely brutal price tag, but a ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "originalUrl": "https://newatlas.com/motorcycles/norton-v4cr-cafe-racer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b438591/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2Fb7%2F272f2e404139a49750dc2dcb84b0%2Fv4cr-video-thumb-01.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nvidias-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.md",
+      "title": "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer",
+      "excerpt": "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "originalUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "publishedDateTime": "2023-05-30T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-microsoft-azure-openai-service-generally-available-chatgpt-api-voicebotai.md",
+      "title": "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai",
+      "excerpt": "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
+      "originalUrl": "https://www.inferse.com/525616/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/05/wp-header-logo-1220.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-ai-boom-dont-miss-out-but-avoid-the-frenzy.md",
       "title": "AI boom: Don’t miss out, but avoid the frenzy",
       "excerpt": "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting ‘burned says Nigel Green.",
@@ -870,284 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t.md",
-      "title": "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T",
-      "excerpt": "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
-      "publishedDateTime": "2023-05-28T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei.md",
-      "title": "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei",
-      "excerpt": "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-the-ai-boom-runs-on-chips-but-it-cant-get-enough.md",
-      "title": "The AI Boom Runs on Chips, but It Can’t Get Enough",
-      "excerpt": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-790143/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
-      "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
-      "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-artificial-intelligence-to-estimate-the-accuracy-of-data-explaining.md",
-      "title": "Artificial Intelligence To Estimate The Accuracy Of Data Explaining",
-      "excerpt": "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg",
-          "width": 900,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "publishedDateTime": "2023-05-28T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-destiny-2-season-of-the-deep-guides-season-pass-gear-exotics.md",
-      "title": "Destiny 2: Season Of The Deep Guides, Season Pass Gear, Exotics",
-      "excerpt": "GameSpot may get a commission from retail offers. Destiny 2's second season of 2023 is here, and after Season of Defiance kept the action focused mostly on Earth, Season of the Deep shifts the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/destiny-2-season-of-the-deep-guides-season-pass-gear-exotics/1100-6514462/",
-      "originalUrl": "https://www.gamespot.com/articles/destiny-2-season-of-the-deep-guides-season-pass-gear-exotics/1100-6514462/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

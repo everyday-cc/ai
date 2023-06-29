@@ -2,6 +2,202 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-06-23-six-skills-you-need-to-become-an-ai-prompt-engineer.md",
+      "title": "Six skills you need to become an AI prompt engineer",
+      "excerpt": "WIth the explosive rise of generative AI in the past half a year, prompt engineering is the exciting new career that's growing along with it. If you want to get a gig as a professional prompt engineer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
+      "originalUrl": "https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c20ef06b8430236714dd1c694314e5800ade6ad8/2023/06/23/9a1b31b9-0ff9-4816-8af0-95def708f4db/gettyimages-1413761223.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-skills-you-need-to-become-an-ai-prompt-engineer/",
+      "publishedDateTime": "2023-06-23T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-using-ai-and-remote-sensing-to-avoid-water-disasters.md",
+      "title": "Using AI And Remote Sensing To Avoid Water Disasters",
+      "excerpt": "An Argentinian medical doctor has returned to his home country to use AI and remote sensing to provide a snapshot of the risk water-related disasters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
+      "originalUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64930faca657e2b8d03b363e/0x0.jpg?format=jpg&crop=446,251,x0,y13,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2023/06/23/using-ai-and-remote-sensing-to-avoid-water-disasters/amp/",
+      "publishedDateTime": "2023-06-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it.md",
+      "title": "Amazon Had Some AI News. Stock and Options Traders Jumped On It",
+      "excerpt": "Amazon said yesterday that it is investing $100 million in a \"Generative AI Innovation Center.\" The center is supposed to help customers incorporate AI into their businesses, the company said. Investo",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023/card/amazon-had-some-ai-news-stock-and-options-traders-jumped-on-it-DUZHs9T2TDO8udjzEJ8q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-805564?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-business-value-of-operating-core-insurance-solutions-on-the-cloud.md",
+      "title": "The business value of operating core insurance solutions on the cloud",
+      "excerpt": "IBM has a well-architected, secure core insurance platform for life and group insurance operating on the cloud.\nThe post The business value of operating core insurance solutions on the cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/the-business-value-of-operating-core-insurance-solutions-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T06:23:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
       "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
       "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
@@ -1024,204 +1220,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-aws-launches-100m-program-to-fund-generative-ai-initiatives.md",
-      "title": "AWS launches $100M program to fund generative AI initiatives",
-      "excerpt": "Amazon, keen to avoid being left behind in the hyper-competitive AI race, is launching a new program to bolster startup companies and organizations focused on generative AI. Called the AWS Generative AI Innovation Center, the program will put $100 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 394,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/aws-launches-100m-program-to-fund-generative-ai-initiatives/amp/",
-      "publishedDateTime": "2023-06-22T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms.md",
-      "title": "Inflection debuts its own foundation AI model to rival Google and OpenAI LLMs",
-      "excerpt": "Inflection, a well-funded AI startup aiming to create “personal AI for everyone,” has taken the wraps off the large language model powering its Pi conversational agent. It’s hard to evaluate the quality of these things in any way, let alone ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/pi-inflection.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/amp/",
-      "publishedDateTime": "2023-06-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai.md",
-      "title": "Korean webtoon uses AI to copy anime artwork and characters raising questions on the ethics of using AI",
-      "excerpt": "A South Korean webtoon has allegedly plagiarised Mushoku Tensei's artwork using AI causing uproar among the community. The ethics of AI usage are under scrutiny A South Korean webtoon is under fire as it is accused of plagiarism and for using artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "originalUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/Jobless_Reincarnation_1687438850587_1687438860004.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/entertainment/anime/korean-webtoon-uses-ai-to-copy-anime-artwork-and-characters-raising-questions-on-the-ethics-of-using-ai-101687437364724-amp.html",
-      "publishedDateTime": "2023-06-22T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.md",
-      "title": "MongoDB adds vector search to Atlas database to help build AI apps",
-      "excerpt": "In addition to integrating Google Cloud’s Vertex AI foundation models, MongoDB is adding features aimed at making Atlas a complete developer data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "originalUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/programming_coding_elements_lines_of_code_development_developers_teamwork_by_dean_mitchell_gettyimages-1055056840_2400x1600-100795791-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700728/mongodb-adds-vector-search-to-atlas-database-to-help-build-ai-apps.amp.html",
-      "publishedDateTime": "2023-06-22T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

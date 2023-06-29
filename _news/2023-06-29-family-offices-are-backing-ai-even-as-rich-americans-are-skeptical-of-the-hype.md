@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/family-offices-ai-rich-americans-w
 webUrl: "https://www.businessinsider.com/family-offices-ai-rich-americans-wealthy-investing-hype-2023-6"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Where Americans want and don't want AI in healthcare: 7 things to know"
+    excerpt: "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School."
+    publishedDateTime: 2023-06-29T21:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IQVIA Wins Prestigious “Best AI-based Solution for Healthcare” Award in 2023 Artificial Intelligence Breakthrough Awards"
+    excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the “Best AI-based Solution for Healthcare” award in the sixth annual AI Breakthrough Awards,"
+    publishedDateTime: 2023-06-27T13:30:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: galvnews.com
+    quality: 24
 
 secured: "4brHsuPcrn3LBiFz3LzuG6e3yUtlUvoj+slt76+KST7vzYHmGlMtsEc6sdDZCa2XAUm/Ygmf+jsdc1njILWFGqfG1W6D1Zji8aP2wntl1nXZp2LmAZkZJLpV/2Zc7g51eJmV7FrUYeYyRNO/Q+xbG/2aW4tucC8XA3ZaJ7v/KtjJx+18F1U8YY6vyaklBBblXFzJHIb095lRRYDPBEpqAC2F08TrxYqo9c0zNzeBmp2taHIeh08DAEPftKvm9B8XmbU2CUe/KfLbU92ATd2v2pkOqsF9mpK25msWWtoVpDCtUKI2xDy17rbWfPtkTAwoxkvDT2wdfeHBdp1AU05GiB6XeeceVw8OYYFNg1RmKXaLJbtaYzdVwQMWBQVqzd4BucNKKSdtLzRLeJVaTbiPjyu0s0k2NHObrRyLcIyyxytA3YL/jjgWFutY7IL5nLHlmm/NTgPlqmmeI6QkdSQmiqgzGVUoZ68+IQlqkyVMQ4Whlb7rvCjBR/w4Y/xo32uZ3Ul+f7HRtrExY3wzPXMV9Q==;vOE624ru1j/Fj4G2EEObgQ=="
 ---

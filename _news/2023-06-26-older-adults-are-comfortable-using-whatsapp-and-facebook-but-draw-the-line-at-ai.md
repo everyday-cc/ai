@@ -43,6 +43,47 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
+    excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps."
+    publishedDateTime: 2023-06-29T10:01:00Z
+    webUrl: "https://www.wral.com/story/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/20933054/"
+    ampWebUrl: "https://www.wral.com/amp/20933054/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20933054/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 59
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_newcom_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
+    excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
+    publishedDateTime: 2023-06-29T17:03:00Z
+    webUrl: "https://www.techtimes.com/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 49
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
+        width: 1024
+        height: 648
+        isCached: true
+  - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
+    excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
+    publishedDateTime: 2023-06-29T18:41:00Z
+    webUrl: "https://searchengineland.com/how-facebook-ranks-content-2023-feed-stories-reels-428837"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "voYdQWkf53kLzGhnQBQs1Qn1Fe8Vl2ViUYhtNAUbUEw0ZXrAL5L/BXPVf//GqhaeoFc3dusPy+vTthD4BWhb9NgAmzwXj/WcaDyblSsbpQcJy8llTK5XxN9cYq8Cg35PkMapZOMxdRMIYKspVpF+WivNftzYUYG/0oCbX4KALZRWVZhGv5aRdhPHLCDW6MDcE0cGEI8sQ9JiaJdbZctH0T8hf7j2xegzNTvkD32RDkXAUUomZL7+IWmH8cAX8eta94XcmQVjuC6e3+j3dO/sFBV3MDbntbabUvU9M36Yu/fUaPCd1+zivNF3sYyALmyUMByxD4ficwKTfFjWIO//SN6C2p94WWOB0XrC4f9e+fsatiCuYEU0IsTw9fV1V5sPZt6RX1p9ZVZFY9EurbN5pJZZ2OsvGG5je5fFD46Zx9harIMOLtw2G2wkZ3oiDr6A2IWpjcTyu4DxmKs/A8IfhX10zj963imVx5YVw7agUVYrdq5ohdBx8McmcQ+CQ9v0EIEQE6zB8FRQ01PICXbjiA==;+AKnqnIyHLhClsvy+8+Uag=="
 ---

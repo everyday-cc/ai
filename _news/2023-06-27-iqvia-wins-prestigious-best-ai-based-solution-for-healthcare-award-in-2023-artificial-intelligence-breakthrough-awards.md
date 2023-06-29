@@ -1,62 +1,48 @@
 ---
 category: news
-title: "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
-excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,"
-publishedDateTime: 2023-06-27T13:44:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
+title: "IQVIA Wins Prestigious “Best AI-based Solution for Healthcare” Award in 2023 Artificial Intelligence Breakthrough Awards"
+excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the “Best AI-based Solution for Healthcare” award in the sixth annual AI Breakthrough Awards,"
+publishedDateTime: 2023-06-27T13:30:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
+webUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 related:
-  - title: "Artificial Intelligence Breakthrough Recognizes Roambee With Award For \"Best AI-based Solution For Supply Chain\""
-    excerpt: "Roambee, the global real-time supply chain visibility and intelligence provider, today announced that it'd been selected as the winner of the \"Best AI-based Solution for Supply Chain\" designation in the sixth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2023-06-28T15:33:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/28/9841056.htm"
+  - title: "Where Americans want and don't want AI in healthcare: 7 things to know"
+    excerpt: "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School."
+    publishedDateTime: 2023-06-29T21:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/2143178/AI_Breakthrough_Awards___2023__Roambee.jpg"
-        width: 400
-        height: 390
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Special recognition for three Lough Ree RNLI volunteers"
-    excerpt: "Excellence in volunteering awards were recently presented to three volunteers at Lough Ree RNLI, Damien Delaney, Tony McCarth and Bernard Larkin BEING recognised for their generous and significant contributions to the community and the charity."
-    publishedDateTime: 2023-06-29T00:35:00Z
-    webUrl: "https://www.advertiser.ie/athlone/article/136279/special-recognition-for-three-lough-ree-rnli-volunteers"
+  - title: "Family offices are backing AI, even as rich Americans are skeptical of the hype"
+    excerpt: "Billionaires like Google's Eric Schmidt are betting big on AI through their family offices. But these private investment shops are wary of a bubble burst."
+    publishedDateTime: 2023-06-29T13:20:00Z
+    webUrl: "https://www.businessinsider.com/family-offices-ai-rich-americans-wealthy-investing-hype-2023-6"
     type: article
     provider:
-      name: advertiser.ie
-      domain: advertiser.ie
-    quality: 24
-    images:
-      - url: "https://www.advertiser.ie/images/2023/06/136279.jpg?fbrefresh=a6d52f2ad5fb"
-        width: 700
-        height: 1055
-        isCached: true
-  - title: "Provenir Awarded Best AI-Driven Credit Decisioning Solution Provider of the Year at Annual Africa Bank 4.0 Awards for North Africa"
-    excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced it has been awarded the Best AI-Driven Credit Decisioning Solution Provider of the Year at the annual Africa Bank 4."
-    publishedDateTime: 2023-06-28T10:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840423.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
-secured: "/Ontd+OI8F5oaeUF6SIqVbktZgNZKCoplmw835DOHihqDcyQl4nj/U9zdO9YyKp9EGz2mBtKysaNFehdk47N3B0jibSN2wnDBGqHD5TsZrW2x0C8PrQ3NnEPX+/Rg6m9Gl3++u/96604M8z7ua/4Y7zj7SfmmKlQKz6dPn8mivTqT8e27hBS/HJbGsTwFNUCaYIY7rzhf5CqUjIWD2D2KM5yv9sDVHQYmWYvJZtvqdJ37OYR2XK2lcMRPb5u2acJ342CdonwCJt+3mWSXmS6AR2nMeWSvtk1kZgvMYXzw3n4JxLY0PjJafdwcMxN49Db+gdONMezTGYRlJ+CcSoZGZNV4lDGRCt9hZk66VtSeos=;73wN49cDDVZnAbJab9k+cw=="
+secured: "ELLM5ZA4hgIEUEx0Ewvr3F/mTROw9LAUPPHVGO8CJ0ah7U1WoeGyVp7J2u1MGVfg8vwT4gj4TBzimPmQClOEklyZCFq6ZCgwcl4l7H2iLmbB5v6SectHd+xxKipSPbPFzRjGejPRxDakPnt92uvqAXBqNm4H/cRpWilW5IrydoIDB5LJ84e8Y1j98wnxKkVR9xp2rCA3u4LKms0fO24EQatH/ndwhqZR/FnjNfUX7FE5OGpmrtHdYEE1Nbsp2n4AHDwseK01Pjodrx2hVad5VQzT1nlaSxuo1ZV67IWu51ZiBg8mZ37QKyhBaJ9GvkNpQl3XmMkThP3yyAHCqisxWPDoFPlE6p3wnKr3eVPtdUU=;+hEMjAqkCrv0nseeafAlQQ=="
 ---
 

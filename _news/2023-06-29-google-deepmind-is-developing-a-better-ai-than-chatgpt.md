@@ -2,11 +2,13 @@
 category: news
 title: "Google DeepMind is developing a better AI than ChatGPT"
 excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-publishedDateTime: 2023-06-28T21:39:00Z
-originalUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/"
-webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/"
+publishedDateTime: 2023-06-29T13:36:00Z
+originalUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
+webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
+ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
+    width: 620
+    height: 382
+    isCached: true
 
 related:
   - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
@@ -243,6 +251,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "OWG2bDq6NVqPCWA4PxIwRDUKqm6sZIqYyB3Jz+nGw/v3Rzo0YJmLUzwObLK+ubWwCRFeKuSM1RZb46yRggvXz1u8x1av2hAKez6i3cIxy1UvNZfieVbBDYLrG26sylqDmftfEIhnzNharQBQtKBwURvWK53dqliHzr0oyM6o9rxSIUIV2m9/1oSMlPbYbEoeABmAGtpP+VkZ6w03uAgSMzYmLQxl9LMk3LwqxXGsSdiDPTGBVXiC9FpHYSSGlDSwXQskhB8kRF62Hh2F0OXYuAfF8HDIaQWskya2qra6w/Mh7ClGATISVf8H1lhcA1xJEd0+wREesn5oko7/aELHh25V4x9KLbZ5WFCExsgYTDl30Sq1Z1MpcmMjWJl03suB6ZFwiMAL6gaF36qCvx4b463U1iaGRuFqcccf4BAIG7vLfapzcMU0YAy+95gwlTOcUPQyGp4XwQA9x7cUtbW3WecZk/VE1uWQzzrFZPTQl+vFlU0JAZXwNXM+KG2sz1lp8dOrQdGYcrDq2AamIKvkJw==;TSy4T0eJP+VGvnxWa+fxwQ=="
+secured: "bVHUesBK7wG2oIZj9R44gqGf8gECfutF9kn3u7v0GphTrWXLBiZZNGCwC+X8lBqtCCsznVj8lihAGXvgj2gCAcHiiBts+vRkLYKicSDHxhkUhNJUnnCOwZIgdLetTt16iWnQ0UT4hy4r3+tEqmEyVrAGH+XWVRvCRyhhlSkMEY8M1vQHtsYayH98vFmt2/sQRBnghkVaIPpwhZMPzrYnmtbOazpPgd+1EZKTOYO/fm2QG36pv6GS37qWzFiKtR/NM+eu93DIfYSQYXqKChHhxcWu00VfU1drQHgVqEygFgASTKm4LGa9y+L9u31krdkJ2S2gifZqhWpRm2opwVXJLqVwbLn2iOq6YzKv0kfxy2g=;rcDx5ICtFuIlMpsiDsRWZQ=="
 ---
 

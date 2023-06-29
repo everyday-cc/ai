@@ -159,6 +159,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
+      "title": "How AI Influences What You See on Facebook and Instagram",
+      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "publishedDateTime": "2023-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "about.fb",
+        "domain": "fb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-aws-invests-100-million-in-generative-ai-innovation-center.md",
       "title": "AWS invests $100 million in Generative AI Innovation Center",
       "excerpt": "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first.",
@@ -167,7 +210,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -405,6 +448,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-22-ai-may-transform-healthcare-2-top-stocks-to-buy-now.md",
+      "title": "AI May Transform Healthcare: 2 Top Stocks to Buy Now",
+      "excerpt": "The global AI-in-healthcare market is set to grow in the double digits to top $100 billion later this decade, a Research and Markets report shows. It's no surprise that some healthcare companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
       "title": "Biden visits Marin after AI forum in San Francisco",
       "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
@@ -434,6 +521,40 @@
       "provider": {
         "name": "Marin Independent Journal",
         "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence.md",
+      "title": "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence",
+      "excerpt": "SAN FRANCISCO – President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the “risks and enormous promises” of artificial intelligence. The Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "originalUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1307,146 +1428,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
-      "title": "Job listings asking for generative AI skills are soaring, analysis finds",
-      "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "originalUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "publishedDateTime": "2023-06-07T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-how-ai-is-transforming-music-creation-in-web3.md",
-      "title": "How AI is Transforming Music Creation in Web3",
-      "excerpt": "head of tech and strategy at the music research network, Water & Music, says that tech innovation generally travels from the least data-intensive formats to the richest. In the case of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/",
-      "originalUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/ZYE7ehVQtc7HdIPw6qfyX1gMcXY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4GTMBRO4LRCVNBCNJWI6SDWDZA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/web3/2023/06/06/how-ai-is-transforming-music-creation-in-web3/?outputType=amp",
-      "publishedDateTime": "2023-06-06T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-build-high-performance-ml-models-using-pytorch-20-on-aws-part-1.md",
-      "title": "Build high-performance ML models using PyTorch 2.0 on AWS – Part 1",
-      "excerpt": "PyTorch is a machine learning (ML) framework that is widely used by AWS customers for a variety of applications, such as computer vision, natural language processing, content creation, and more. With the recent PyTorch 2.0 release, AWS customers can now do same things as they could with PyTorch 1.x but",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T12:31:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/us-ai-regulation-congress-briefings/"
 webUrl: "https://www.wired.com/story/us-ai-regulation-congress-briefings/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wired
@@ -26,6 +26,17 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "Unlock the AI Boom with These 3 Top Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is no longer just a buzzword. The revolutionary"
+    publishedDateTime: 2023-06-29T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/unlock-the-ai-boom-with-these-3-top-stocks-1032418962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "AC3De42xpkdnlNRzkdzjuaHVBk7tjT3zZQry/WXa/U6dCOE4dHXU3peGrZ+3XfD7rD2Gb5EUpHUHruxDq8rQChLFeJsKyyK+jSVQulI+AIO5KoQ60SgxPez+IvpEw8OlOeuVBYHBJJ1+TVXtdCVlXvfp/h3IaKoDpwrfZlPjTM/XwhE95+niWVN0HeIwGN8OTJAV6P4bay4muD2pIoSGbluvpENSbuGb2xD/uvnRE/BY9M5kwmd9UKuEUwbNc2IMD7vwOqc/x698RaSYexY9qDsaWr81sVimkmKvVqbU6hUY6MOYoOrxGR4o3plPau+upRz6psKw/eDBK7DnhwZ5v18uHaVEQcqYXRYLC71doqU=;DjK2FA+JUiZNO0F/BCJKvg=="
 ---

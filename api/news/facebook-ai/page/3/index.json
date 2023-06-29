@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-19-meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next.md",
+      "title": "Meta Platforms Crafts Homegrown AI Inference Chip, AI Training Next",
+      "excerpt": "As we pointed out a year ago when some key silicon experts were hired from Intel and Broadcom to come work for Meta Platforms, the company formerly known",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
+      "originalUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/meta-platforms-mtia-die-shot.jpg",
+          "width": 1125,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/amp/",
+      "publishedDateTime": "2023-05-18T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat.md",
+      "title": "Roundhill Investments Launches Generative AI & Technology ETF (NYSE Arca: CHAT)",
+      "excerpt": "Roundhill's research estimates suggest $120+ billion total addressable market for Generative AI enterprise software NEW YORK, May 18, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat-1032337340",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roundhill-investments-launches-generative-ai-technology-etf-nyse-arca-chat-1032337340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1993329/Roundhill_Investments_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
+      "title": "Big-name investors are going all-in on AI",
+      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
+      "publishedDateTime": "2023-05-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-2-ai-stocks-to-buy-before-they-skyrocket.md",
       "title": "2 AI Stocks to Buy Before They Skyrocket",
       "excerpt": "Known for its social media businesses, Facebook and Instagram, Meta Platforms is another tech giant that could be greatly influenced by the AI megatrend. While management has spent recent years ...",
@@ -1314,162 +1462,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
-      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
-      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "publishedDateTime": "2023-04-26T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-ai-isnt-just-for-tech-stocks-heres-how-coca-cola-is-teaming-up-with-openai.md",
-      "title": "AI Isn't Just for Tech Stocks. Here's How Coca-Cola Is Teaming Up With OpenAI",
-      "excerpt": "In March, the company launched an AI-driven design platform, \"Create Your Own Magic.\" Beyond marketing, Coke aims to use AI in areas like customer service and ordering. The partnership shows that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729339/aluminum-cans.jpg",
-          "width": 3456,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
-      "title": "66% of Americans would not want AI to help make hiring decisions",
-      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
-      "publishedDateTime": "2023-04-24T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

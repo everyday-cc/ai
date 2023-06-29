@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-24-which-car-makers-offer-hands-free-driving-systems-for-2023.md",
+      "title": "Which car makers offer hands-free driving systems for 2023?",
+      "excerpt": "Fully automated self-driving cars are still a thing of the future. But you can get a taste of what they’ll be like if your vehicle has what’s commonly described as hands-free driving capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "originalUrl": "https://www.seattletimes.com/business/edmunds-who-offers-hands-free-driving-systems-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-uber-partners-with-alphabet-over-self-driving-taxis.md",
       "title": "Uber Partners With Alphabet Over Self-Driving Taxis",
       "excerpt": "Learn More To keep dreaming its self-driving dream, Uber is entering into a new relationship with an old adversary. Uber and Waymo, the autonomous driving... For more crisp and insightful business ...",
@@ -1305,51 +1339,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-trying-to-make-sense-of-artificial-intelligence-heres-your-guide.md",
-      "title": "Trying to make sense of artificial intelligence? Here’s your guide",
-      "excerpt": "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
-      "originalUrl": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77889",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889",
-      "publishedDateTime": "2023-05-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 86
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Matt-Garman-Headshot-1.jpg"
         width: 2225
         height: 2504
+        isCached: true
+  - title: "Runway draws fresh $141 million as next-level generative AI video begins to emerge"
+    excerpt: "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding."
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
     excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."

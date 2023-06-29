@@ -44,6 +44,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
+    excerpt: "The chief business officer at Google's artificial intelligence research lab says the world is having a \"eureka moment\" around artificial intelligence, but we have to be responsible with the technology."
+    publishedDateTime: 2023-06-29T20:33:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment-1.6461891"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 72
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/6/20/1_6334864.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "AI startup Reka, with no revenue yet, raises $50 million: Report"
     excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
     publishedDateTime: 2023-06-27T17:24:00Z

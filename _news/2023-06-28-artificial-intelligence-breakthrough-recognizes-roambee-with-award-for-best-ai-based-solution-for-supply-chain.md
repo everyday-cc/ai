@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
-    excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,"
-    publishedDateTime: 2023-06-27T13:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
   - title: "Special recognition for three Lough Ree RNLI volunteers"
     excerpt: "Excellence in volunteering awards were recently presented to three volunteers at Lough Ree RNLI, Damien Delaney, Tony McCarth and Bernard Larkin BEING recognised for their generous and significant contributions to the community and the charity."
     publishedDateTime: 2023-06-29T00:35:00Z

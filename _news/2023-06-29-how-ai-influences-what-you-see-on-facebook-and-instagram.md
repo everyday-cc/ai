@@ -9,8 +9,8 @@ ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-a
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 99
+published: true
 
 provider:
   name: about.fb
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta releases clues on how AI is used on Facebook and Instagram"
+    excerpt: "As demand for greater transparency in artificial intelligence mounts, Meta released tools and information Thursday aimed at helping users understand how AI influences what they see on its apps."
+    publishedDateTime: 2023-06-29T10:01:00Z
+    webUrl: "https://www.wral.com/story/meta-releases-clues-on-how-ai-is-used-on-facebook-and-instagram/20933054/"
+    ampWebUrl: "https://www.wral.com/amp/20933054/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20933054/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 59
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_newcom_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Older adults are comfortable using WhatsApp and Facebook - but draw the line at AI"
     excerpt: "Over half of adults over the age of 65 say they would like to become more confident with using and understanding digital technology, research has found."
     publishedDateTime: 2023-06-26T10:46:00Z
@@ -43,6 +59,31 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
+    excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
+    publishedDateTime: 2023-06-29T17:03:00Z
+    webUrl: "https://www.techtimes.com/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 49
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
+        width: 1024
+        height: 648
+        isCached: true
+  - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
+    excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
+    publishedDateTime: 2023-06-29T18:41:00Z
+    webUrl: "https://searchengineland.com/how-facebook-ranks-content-2023-feed-stories-reels-428837"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 4
 
 secured: "6bGNRwq+uTdoWfkiVx4DbKseJ6f5DhWll7jcKn+wnJMyShh4Y5w3RMUmFxOAVHoudtEWjiiRzvo9DBQ+QD1iXxbvca34ZzFTokt572dZIljRpFlagI2zV2pD7sihlOrgJaBu0MXxmYlM4h73LZWtKHzGZGdEJVuXnbE9JyvS1bzrNwoXy02EQj3Wn7gU3hdqDTU/U9HCuVDSwpO/O/BJa5j2qHZkAZTXpFt1yxuqvsrcKZhu9y8YTd4LrVSBvKQIo6/arCEfOyTptr7f1m08Ebzq04I41TAv+p/9nlwqE6CAfhWWBeYrmz4WW7OOsi5P08CstEQBel+NIAcy6HfIMD9U5FoCLpfxMaqlJIVhsinNfTBvlugU/1PXpbjRWld+gydLHIKtn/LRULfRoFMpgFTto9qa1SeYHr+wsJVokNFzaXAChXpn3o6TBn1wMRLWM67ev+XD19R4AtpxsfM4Yf0nY3o10Xl4WtV/Y9y0pVF8+Pl6PHuPKKWEMkOq52smj2T0eVUCaGIHEDfNVmPgDA==;bjSavZXa/dE+/evXJWv+1g=="
 ---

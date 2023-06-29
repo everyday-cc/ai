@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefini
 webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "What today’s banks need from commercial lending technology and fintech vendors"
-    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
-    publishedDateTime: 2023-06-27T15:42:00Z
-    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
+  - title: "Why India Risks Falling Behind in the AI Race"
+    excerpt: "India’s tech industry is being less than bold in embracing artificial intelligence. It’s hoping to create solutions for corporate clients by building on top of somebody else’s investment in foundational technologies, hardly a strategy for pathbreaking success."
+    publishedDateTime: 2023-06-29T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 15
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKrCGrr9zSHg/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial intelligence is arriving in the muni industry"
+    excerpt: "Some in the industry already use AI to help determine fair bid and offer prices and to summarize new-issue offering statements, but full integration into all aspects of the market is a ways away."
+    publishedDateTime: 2023-06-26T15:07:00Z
+    webUrl: "https://www.bondbuyer.com/news/municipal-bond-industry-finds-uses-for-artificial-intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/836b54b/2147483647/strip/true/crop/712x374+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Ff8%2F478884a84bacb37c7eac86f0f575%2Fmatt-schrager-photo-from-ms-crpopped.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why is AI the future of trading in India?"
+    excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
+    publishedDateTime: 2023-06-29T18:26:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "Rapid transformation. Artificial Intelligence in Indian healthcare: A promising future with challenges"
+    excerpt: "Artificial intelligence (AI) is rapidly transforming the healthcare industry in India, bringing unprecedented tools for diagnosis, treatment and patient care. AI expenditure in India is expected to reach $11.78 billion by 2025 and add $1 trillion to India ..."
+    publishedDateTime: 2023-06-27T11:49:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/science/artificial-intelligence-in-indian-healthcare-a-promising-future-with-challenges/article67015361.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 18
+  - title: "Food Allergy Institute's Inderpal Randhawa, MD Discusses the Relationship Between Artificial Intelligence and Medicine in In-Depth Video Interview"
+    excerpt: "Food Allergy Institute (FAI) founder Inderpal Randhawa, MD, was interviewed by an investigative reporter for an in-depth discussion on the current state of artificial intelligence (A.I.) and how he an"
+    publishedDateTime: 2023-06-29T15:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33062179/food-allergy-institutes-inderpal-randhawa-md-discusses-the-relationship-between-artificial-intelli"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Fp45X8Ust18OySUVt5PbXOciENNkeh6zG369RBoouf3hqHacCQcNXOGc/1T9HFiOBS8BRytqMLF5WKuBmF29WJXR3wXQ7cF//lcqegKsV6kSI+p174YSorwTsOJ36ujUPeviJdXUKOjbj3wOE0c7vQVKsH1JQMghCVE0eHwotJdSiwNm5mPPyAkBroVbk1fcoAYzA94FpQqzKk9itxLHE1w8yRejs0YHrioXx98QT2nGv1DgncaImLXMrxgV2PSYGKf9jFxw+LdPVQR087JLG7e+xySbOAttobcc95xllF7kLmjxhGCURqREjVAOGEzLXsnLPgxfHdBRaMr9sxQKTtBycbZ+XtHQanWa438f2tU=;eI6KYM9bKKhSJ6MvSjP+yQ=="
 ---

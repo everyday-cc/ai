@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-15-exclusive-42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years.md",
+      "title": "Exclusive: 42% of CEOs say AI could destroy humanity in five to ten years",
+      "excerpt": "Many top business leaders are seriously worried that artificial intelligence could pose an existential threat to humanity in the not-too-distant future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230607154817-person-working-laptop-screen-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
+      "publishedDateTime": "2023-06-14T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-chatbots-could-help-provide-therapy-but-caution-is-needed.md",
+      "title": "AI Chatbots Could Help Provide Therapy, but Caution Is Needed",
+      "excerpt": "Therapy apps are incorporating AI programs such as ChatGPT. But such programs could provide unvetted or harmful feedback if they’re not well regulated",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "originalUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/1A754ECE-07C0-407C-81F2761EEE57345F.jpg",
+          "width": 790,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
+      "publishedDateTime": "2023-06-14T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
       "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
       "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
@@ -1276,103 +1371,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
-      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
-      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
-      "publishedDateTime": "2023-06-02T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive.md",
-      "title": "Rise of AI to Give Freshers an Edge! Impact of Artificial Intelligence on Education, Jobs [Exclusive]",
-      "excerpt": "The rise of AI has its pros and cons. With one of the major cons being the threat to job availability for freshers, experts have shared with the rise of ChatGPT and other AI tools, freshers are actually at an advantage!",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648",
-      "originalUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-100697648,updatedat-1685688968821,width-1280,height-720,resizemode-75/100697648.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive-article-100697648/amp",
-      "publishedDateTime": "2023-06-01T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

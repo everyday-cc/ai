@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.md",
+      "title": "Where Americans want and don't want AI in healthcare: 7 things to know",
+      "excerpt": "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-healthcare-moves-forward-in-the-cloud.md",
       "title": "Healthcare moves forward in the cloud",
       "excerpt": "How global healthcare and life sciences organizations can derive benefits working with AWS Partners on cloud projects",
@@ -141,7 +184,7 @@
       "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -465,31 +508,66 @@
       ]
     },
     {
-      "path": "_news/2023-06-21-openai-ceo-sam-altman-is-pushing-past-doubts-on-artificial-intelligence.md",
-      "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
-      "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
+      "path": "_news/2023-06-22-ai-may-transform-healthcare-2-top-stocks-to-buy-now.md",
+      "title": "AI May Transform Healthcare: 2 Top Stocks to Buy Now",
+      "excerpt": "The global AI-in-healthcare market is set to grow in the double digits to top $100 billion later this decade, a Research and Markets report shows. It's no surprise that some healthcare companies ...",
       "sourceUrl": null,
-      "webUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
-      "originalUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
+      "webUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T03:55:00-07:00",
+      "publishedDateTime": "2023-06-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-openai-ceo-sam-altman-is-pushing-past-doubts-on-artificial-intelligence.md",
+      "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
+      "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "originalUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T05:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",
@@ -1308,101 +1386,6 @@
         "AI in Autos",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-exclusive-42-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years.md",
-      "title": "Exclusive: 42% of CEOs say AI could destroy humanity in five to ten years",
-      "excerpt": "Many top business leaders are seriously worried that artificial intelligence could pose an existential threat to humanity in the not-too-distant future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230607154817-person-working-laptop-screen-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/business/artificial-intelligence-ceos-warning/index.html",
-      "publishedDateTime": "2023-06-14T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-chatbots-could-help-provide-therapy-but-caution-is-needed.md",
-      "title": "AI Chatbots Could Help Provide Therapy, but Caution Is Needed",
-      "excerpt": "Therapy apps are incorporating AI programs such as ChatGPT. But such programs could provide unvetted or harmful feedback if they’re not well regulated",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
-      "originalUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/1A754ECE-07C0-407C-81F2761EEE57345F.jpg",
-          "width": 790,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-chatbots-could-help-provide-therapy-but-caution-is-needed/?amp=true",
-      "publishedDateTime": "2023-06-14T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

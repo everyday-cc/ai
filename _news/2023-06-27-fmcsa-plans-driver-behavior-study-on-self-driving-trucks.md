@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Self-driving car company removes safety drivers for rides downtown"
+    excerpt: "The commerical launch from Halo.Car details that its cars can be delivered to customers in downtown Las Vegas without a safety driver."
+    publishedDateTime: 2023-06-29T19:09:00Z
+    webUrl: "https://www.reviewjournal.com/business/entrepreneurs/self-driving-car-company-removes-safety-drivers-for-rides-downtown-2801411/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 4
+
 secured: "uoA4v/o9C35EBDVz5J7n1TCLBTF5OK/wuSD/jq+JXqXZXXVNlhle7Kq2bjBO/td8KGYGpfsBJt4cmMnhu9JN+nZDKaoY3sL9FH+wbFNXVI1WugfuLZiv8Qr8JxJGjdnDR1GJmSnaqgK8wITjdgj5LUTfUkNe7Ah5Z3P1oSS4t/qzwpGB7P4aTHG2YxoezFVaLkqoEEu7H6QQNPpzUX3bGyzbaUqBXp4tDRPYI3Ftv8RQ8pW1fO06FWOc0qAhE2yTkmUWqwTu286hmjArkaLrXZHNZVsjWsep44IbqXF6FyVc6o8D0ntlmwzPREBCK+ywXU/sfNzBXvS/S+SpSrQWyJyRin+jWUFpoku8dFMqresEOFQYx8aEzxDASX5xeptNl+rk+IYl+gsbLhdN3hS19HN/KreAMJcGHC1xxo3/yLyVrNmyC0G2lGuZKpYVf80MEGq6EBsSsJ49COpVfWhPreSE7aLG9nDa10qhguXL8cANLnrLzDX5ZspJ9Oo+No3NFGoQiSUsK7BFne93ZXd/Cw==;KYtltY1k3ngLDbv/gr+aoA=="
 ---
 

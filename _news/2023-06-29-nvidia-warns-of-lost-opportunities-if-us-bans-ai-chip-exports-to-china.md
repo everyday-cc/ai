@@ -306,6 +306,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "US mulls new export restriction on computing power in AI chips"
+    excerpt: "U.S. officials are considering tightening an export control rule designed to slow the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://www.reuters.com/technology/us-mulls-new-export-restriction-computing-power-ai-chips-2023-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
     excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
     publishedDateTime: 2023-06-29T02:43:00Z

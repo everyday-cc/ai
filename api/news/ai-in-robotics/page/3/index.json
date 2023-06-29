@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-09-2023-2030-artificial-intelligence-ai-robots-market-research.md",
-      "title": "2023-2030 | Artificial Intelligence (AI) Robots Market Research",
-      "excerpt": "Robots market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-robots-market-research-2023-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-2030-artificial-intelligence-ai-robots-market-research-2023-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-09T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-09-artificial-intelligencefor-good-health.md",
       "title": "Artificial Intelligence—For Good Health",
       "excerpt": "Will they carry out the most complex procedures without human supervision? Robots that are equipped with artificial intelligence (AI) and can analyze vast amounts of data will be able to choose the best procedures—taking into account (among other things ...",
@@ -1343,6 +1291,49 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What’s new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/",
+      "originalUrl": "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
         "images": null,
         "publishers": null,
         "authors": null

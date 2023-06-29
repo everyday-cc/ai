@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use of face biometrics sharply criticized in two US criminal cases"
+    excerpt: "A Minnesota man has filed a civil rights lawsuit against police alleging false arrest, which officials have blamed on facial recognition."
+    publishedDateTime: 2023-06-29T19:44:00Z
+    webUrl: "https://www.biometricupdate.com/202306/use-of-face-biometrics-sharply-criticized-in-two-us-criminal-cases"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/08130639/police.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Racial bias concerns prompt lawmakers to ask HUD to ban biometric surveillance, including facial recognition"
     excerpt: "Two members of the U.S. House of Representative have asked the Department of Housing and Urban Development to end the use of biometric technology, including facial recognition, for surveillance purposes in public housing."
     publishedDateTime: 2023-06-27T14:23:00Z

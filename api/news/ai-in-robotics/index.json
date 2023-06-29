@@ -89,49 +89,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-29-contoro-robotics-raises-47m-in-seed-round.md",
-      "title": "CONTORO ROBOTICS RAISES $4.7M IN SEED ROUND",
-      "excerpt": "Funding Accelerates Development of Robot Technology Powered with Augmented Intelligence AUSTIN, Texas, June 28, 2023 /PRNewswire/ -- Today Contoro Robotics, a company augmenting robot intelligence wit",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33049619/contoro-robotics-raises-4-7m-in-seed-round",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33049619/contoro-robotics-raises-4-7m-in-seed-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33049619",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33049619",
-      "publishedDateTime": "2023-06-28T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real.md",
       "title": "AI is making smart manufacturing faster, greener, virtual — and more real",
       "excerpt": "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution.",
@@ -1362,6 +1319,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029.md",
+      "title": "Artificial Intelligence (AI) Robots Market Opportunities for Growth and Exploration by 2029",
+      "excerpt": "Get a sample PDF of the report at -  The Artificial Intelligence (AI) Robots market size, estimations, and forecasts are provided in terms of sales volume (K Units) and revenue (USD millions), considering 2022 as the base year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029-2023-06-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-opportunities-for-growth-and-exploration-by-2029-2023-06-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-19T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

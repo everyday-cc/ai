@@ -26,6 +26,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Best early Amazon Prime Day 2023 deals on robot vacuums"
+    excerpt: "It's almost Amazon Prime Day 2023. But you don't need to wait until Amazon's major sales event to score a deal on a top-rated robot vacuum. The experts at CBS Essentials have rounded up the best robot vacuum deals on the internet."
+    publishedDateTime: 2023-06-29T18:59:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-early-amazon-prime-day-2023-deals-on-robot-vacuums-2023-06-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 21
+
 secured: "mnJ3XfskWjI0aHXsz6ZmrnYMiFIPhHiZqK2bd3oZXZd9drr1/67OlDpoLaFs2kol+VwMCD2JEJUMuJtH9SIoFndk9fLFdd2/7rgod4rl/B2cVm57aulb7HpU7WGJgSlXTcrn8dnUtEgwF0BSmJXIwB5A956T+DPFGj/LYapT/0TAyaIK3fZo3EC+UogWb0pG7HP7UC3TzRUNKpscZ8VgKDoJuYBTkDvP7t1VNJDRHRCN82QcFGkZTZBPiLf2CJwqA9dcsOeNBkpNE7GW4MXc2kOFwi0J6yr7xvdLM+7RszQ7kV2Vu52ExFKdtbUiThjMjfQPL97BVUsjEIn7yNtY6bbfv0TeYJiM3GsNUboYbUU=;VD3bmGfOt3B4caiqbIE6RQ=="
 ---
 

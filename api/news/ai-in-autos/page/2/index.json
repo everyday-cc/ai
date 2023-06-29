@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-16-opinion-the-fifth-beatle-is-artificial-intelligence.md",
+      "title": "Opinion: The fifth Beatle is artificial intelligence",
+      "excerpt": "But now there’s a 21st century contender for the honor: artificial intelligence. Sir Paul McCartney’s revelation to BBC Radio 4’s “Today” program that AI-assisted tinkering with John ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/16/opinions/the-beatles-artificial-intelligence-hester/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/16/opinions/the-beatles-artificial-intelligence-hester/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-elon-musk-gives-google-a-driving-test.md",
       "title": "Elon Musk Gives Google a Driving Test",
       "excerpt": "Waymo didn't immediately respond to a request ... chatbot that has become the face of the progress made by artificial intelligence. \"Three million cars will drive themselves with no one.",
@@ -1344,40 +1387,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-san-antonio-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "San Antonio Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "San Antonio is one of 28+ cities selected to host camps across the US in Fall 2023. The San Antonio Bootcamp will be held over four consecutive Saturdays starting on October 14th and ending on November 4th.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/06/9827710.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

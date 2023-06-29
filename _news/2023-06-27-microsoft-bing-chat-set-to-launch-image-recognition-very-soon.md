@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI startup Inflection raises $1.3b from Microsoft, others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion in a fresh round of funding amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T15:29:00Z
+    webUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998"
+    ampWebUrl: "https://www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-startup-inflection-raises-13b-microsoft-others-657998?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Microsoft weaves generative AI fabric for Moody’s"
     excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."
     publishedDateTime: 2023-06-29T12:30:00Z
@@ -155,6 +171,24 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft unveils first professional certificate for generative AI skills"
+    excerpt: "With the new AI Skills Initiative, people can take free online training via LinkedIn to learn concepts of Ai good toward a Career Essentials certificate."
+    publishedDateTime: 2023-06-29T18:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-first-professional-certificate-for-generative-ai-skills/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
+  - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
+    excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
+    publishedDateTime: 2023-06-29T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
     excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
     publishedDateTime: 2023-06-26T16:49:00Z
@@ -169,6 +203,15 @@ related:
         width: 375
         height: 300
         isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T16:26:00Z
+    webUrl: "https://www.reuters.com/article/inflection-ai-funding/update-3-microsoft-backed-ai-startup-inflection-raises-1-3-bln-from-nvidia-and-others-idUSL4N38L2U7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
   - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
     excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
     publishedDateTime: 2023-06-26T19:11:00Z
@@ -336,6 +379,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Inflection AI raises $1.3B in funding led by Microsoft and NVIDIA"
+    excerpt: "The company has raised $1.525 billion in funding since its inception last year."
+    publishedDateTime: 2023-06-29T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/inflection-ai-raises-1-3b-in-funding-led-by-microsoft-and-nvidia"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 36
   - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
     excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
     publishedDateTime: 2023-06-29T15:04:00Z
@@ -400,6 +452,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
+    publishedDateTime: 2023-06-29T19:08:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-ai-startup-inflection-raises-us13-billion-nvidia-and-others-3595251"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 28
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z
@@ -450,6 +511,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 24
+  - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
+    excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
+    publishedDateTime: 2023-06-29T18:35:00Z
+    webUrl: "https://www.datanami.com/this-just-in/moodys-and-microsoft-announce-partnership-for-innovative-ai-based-research-and-risk-analysis/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
   - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
     excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
     publishedDateTime: 2023-06-27T12:22:00Z

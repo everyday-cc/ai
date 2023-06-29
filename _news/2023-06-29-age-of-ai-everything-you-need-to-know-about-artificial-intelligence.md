@@ -105,13 +105,13 @@ related:
   - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
     excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
     publishedDateTime: 2023-06-27T12:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 14
+    quality: 12
 
-secured: "Gll4wPWhTAHls+d2KLksYgHFkMoRPLZ6DTG38mV5EJz55nQ1K2HwgDA8+LNZTsIEP3Jax7UZlWOEW/skYpg5mcmboF4t+I43zv6h/9smHjXcaO+5mr30wP/8dg7ILAdcYn+MYctSh4nDaAcSU82aSzDkbOXASJ2p508glODpU85CCrWosDNO9/goZfL+YYh0yAi+MU6d3FpaDKkmp4yok+E2wetwzUC6umMk3EqvzTCyTNx7KecP9odlkAciZNqs0rqbTZmUxhw9DVNNoCimLY992OpJMSgftr3ySshCyJGF1VcnOS7hNo32FvlV4yOCN/bgFFuVj4MDw/rAuiPtEDcwycn/51JWRnQmVqAv1c4=;p0Sc/QKLe/Z9zezL4X/vxw=="
+secured: "jsBrvPA9C58HCqTNYcgVjjllf/rUd/kZYIjxN+ccVi8I1ytQiAUxRZFKB4RUULu6okQ5QTYq3b+VV5GgPOyCEF5teBRpOL7HKkgnK2Ik7TiBUDR+QwLdeVlvdpN5Csqtox3n/AtI34ZcDwQ5K4Lc8vHbRuSlgu7WEsKVWn6immKaI0a1y0PXFWQpU085KLc8vQ/iYlESutNS5aNd25zv0WvxEj+F1jDdp1G5ltntjffUSsZLtcjw9qOZrDAt5uO1q13M0U4yGmuZAmWc0eFH3hZW31v/OvA3cdcaNc5UOblJ4vcMKq+pMydxjmBSQuZI/9vunqxuaA/zbMU66sSaFE2nSKePgfbMQOfRDJuM7L5b1k3+9uUytuEA/UOYYofIBhr3LXfRnmEwp4wEm7qbOb0SebSZYy88WqLHBNFNHgzobLYaWJ1XqdVrclE5PYq7iJuf6fbvLT98oErjjb5yeoKMKVw9kKZH0Tv34EB/xVMGthChP8FP6spLgdqiLUliehnAO9d4XmIWxDSYb7mb8g==;v16yJ242vEOq70hLLUZp6g=="
 ---
 

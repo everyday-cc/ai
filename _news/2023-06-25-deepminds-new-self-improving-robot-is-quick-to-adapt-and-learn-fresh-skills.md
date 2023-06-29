@@ -72,6 +72,22 @@ related:
         width: 1286
         height: 675
         isCached: true
+  - title: "Google DeepMind is developing a better AI than ChatGPT"
+    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
+    publishedDateTime: 2023-06-29T13:36:00Z
+    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
+    ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 74
+    images:
+      - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
+        width: 620
+        height: 382
+        isCached: true
   - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
     excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
     publishedDateTime: 2023-06-28T05:00:00Z
@@ -207,15 +223,6 @@ related:
     provider:
       name: Tech.co
       domain: tech.co
-    quality: 34
-  - title: "Google DeepMind is developing a better AI than ChatGPT"
-    excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
-    publishedDateTime: 2023-06-28T21:39:00Z
-    webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
     quality: 34
   - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
     excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."

@@ -298,6 +298,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "US mulls new export restriction on computing power in AI chips"
+    excerpt: "U.S. officials are considering tightening an export control rule designed to slow the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://www.reuters.com/technology/us-mulls-new-export-restriction-computing-power-ai-chips-2023-06-28/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
     excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
     publishedDateTime: 2023-06-28T19:29:00Z

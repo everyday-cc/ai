@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "5 FinTech platforms redefining the future of lending in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-28T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
+    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
+    publishedDateTime: 2023-06-26T09:43:00Z
+    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 15
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
-        width: 300
-        height: 300
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
+    excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
+    publishedDateTime: 2023-06-29T14:30:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/670351"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 15
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
     excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."

@@ -47,20 +47,6 @@ related:
         width: 1600
         height: 880
         isCached: true
-  - title: "AI could change the future of yogurt"
-    excerpt: "Making the yogurt of the future requires a cast of 21st-century helpers: machine learning, gut science and even a mysterious artificial stomach."
-    publishedDateTime: 2023-06-25T03:15:00Z
-    webUrl: "https://www.dailyitem.com/wire/ai-could-change-the-future-of-yogurt/article_7f69b44a-deed-509b-85bd-0e7009e514b9.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "The deluge of new generative AI products is just getting started"
     excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
     publishedDateTime: 2023-06-26T14:14:00Z

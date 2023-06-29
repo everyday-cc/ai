@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetequipmentmag.com/ai-cloud-fleet-operations/"
 webUrl: "https://www.fleetequipmentmag.com/ai-cloud-fleet-operations/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 600
     height: 300
     isCached: true
+
+related:
+  - title: "The Future Of Product Management: Embracing AI's Revolution"
+    excerpt: "Artificial intelligence (AI) is transforming the world as we know it, and product management is no exception. It has the potential to revolutionize customer research, decision-making and much more, providing us with data-driven insights and paving the way for a future that is not only intelligent but intuitive."
+    publishedDateTime: 2023-06-27T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-future-of-product-management-embracing-ais-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "rqIfShzr54BJo8nHJHfQAdwyqOcgY1bYfrpu5XeG6EhozsadhJZAmQawnUeqnsOMPJvjcyZ6JTILrKZzEk/OhGls6CXbu4ceY20EbXl5vqyBzimFHlxgrMxgh08uAO4rHfeIuLOODOrV4dFyxZPscsd7SIUF4cFsgQT3l+i2jtSHwiKeL8EP9PxhQyGTj5njnKrUG/Hq/3LgHW/b8P4F+x8rL5vIOEXgXCektLbKf+MRNzlq8VoeoNHolharDoqNq41x79rxR0VUqNeQOWEHONxlmtka37m2jx9W5BIDWalOx3u7UgA4RlVJy5Vgn3E478gd3xK5EyahcojljO9Nb5bd1roOEHz8TWchynvdmBKLaNxOrl2zBv6Iu0z21ig4XHevuyrqdNBoc2kE2r8ay9+P3oXH2y7zBboPP4AUSvVdewAbmK971XtdQ3jXZNuuzLi1HlcgR4VFZgr12mRqmx3bnIYg2MHj/1ylKF4uDQJK631JQtDgLKSy6LlJAI79JXGdATq7mgdwwwIeTk6ZSw==;h7ANdTxeEDna3puaUuM6Bg=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "What today’s banks need from commercial lending technology and fintech vendors"
+    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
+    publishedDateTime: 2023-06-27T15:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 15
   - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
     excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
     publishedDateTime: 2023-06-29T14:30:00Z
@@ -39,6 +48,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
+    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
+    publishedDateTime: 2023-06-26T12:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "/DpdHMovz53SxI6eE82WVQ3LGSkCAkAPG60jeeaU9MYnju9qzdMXq2ziwHckJOSWPQvGC5Rt2qs9tWN/kYj4L9gRQeletdNpB9J4CohSchUINoAnCc52B5M6INdjXluk/2552i7kxDRq2jYxnqx0qi04YyptcvWQgey0/6HAZuPQs/WQjbNNwAkf8UumvHGaJEosP/7eq9mBqx0VoyW4/eWTx0dzSqfGODEFrl3aTlrHTZfDSb6qn7MTvXKt8OgM20UyaEyEyQNefHNEzBw4oj23A8XoYZHU1kcx5XSue9f5xzS4kkR4Nyx4IyB4p8T4h7CqooBrRCM1vpqhgW6msPyieo8z5e98IUrv4PUUZaU=;ZXYkqobCMIGzjXO8OsZ5vg=="
 ---

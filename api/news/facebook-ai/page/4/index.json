@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
+      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
+      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
+      "publishedDateTime": "2023-04-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-ai-isnt-just-for-tech-stocks-heres-how-coca-cola-is-teaming-up-with-openai.md",
+      "title": "AI Isn't Just for Tech Stocks. Here's How Coca-Cola Is Teaming Up With OpenAI",
+      "excerpt": "In March, the company launched an AI-driven design platform, \"Create Your Own Magic.\" Beyond marketing, Coke aims to use AI in areas like customer service and ordering. The partnership shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/24/ai-isnt-just-for-tech-stocks-heres-how-coca-cola-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729339/aluminum-cans.jpg",
+          "width": 3456,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-66-of-americans-would-not-want-ai-to-help-make-hiring-decisions.md",
+      "title": "66% of Americans would not want AI to help make hiring decisions",
+      "excerpt": "A recent Pew Research study about using artificial intelligence when hiring and evaluating workers reveals mixed opinions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "originalUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/future-procurement-data-first.jpeg",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/hiring-with-ai-pew/amp/",
+      "publishedDateTime": "2023-04-24T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-mark-zuckerberg-has-become-so-obsessed-with-ai-that-one-wall-street-research-firm-is-jesting-that-facebook-will-change-its-name-to-metai.md",
       "title": "Mark Zuckerberg has become so obsessed with AI that one Wall Street research firm is jesting that Facebook will change its name to MetAI",
       "excerpt": "After a Metaverse spending splurge last year, the company has been buying a lot of Nvidia chips, which are needed to train large AI models.",
@@ -1208,153 +1364,6 @@
       "provider": {
         "name": "Nikkei Asia",
         "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-04-why-halt-ai-research-when-we-already-know-how-to-make-it-safer.md",
-      "title": "Why Halt AI Research When We Already Know How To Make It Safer",
-      "excerpt": "This path is eminently clear: Instead of halting research, we need to improve transparency and accountability while developing guidelines around the deployment of AI systems. Policy, research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "originalUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/642b528c9a4669561fee612f/191:100/w_1280,c_limit/ideas_ai_tech_research_regulation.jpg",
-          "width": 1232,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
-      "publishedDateTime": "2023-04-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-3-ai-stocks-you-cant-afford-to-miss.md",
-      "title": "3 AI Stocks You Can't Afford to Miss",
-      "excerpt": "Amazon's cloud unit is certainly not going to get left behind in the age of AI, and is investing heavily to gear up for the next round of growth. Lam Research is a key player in the chip ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/02/3-ai-stocks-you-cant-afford-to-miss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/726495/artificial-intelligence-getty-62817.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-how-researchers-are-using-ai-fruit-flies-to-make-major-biological-breakthroughs.md",
-      "title": "How researchers are using AI, fruit flies to make major biological breakthroughs",
-      "excerpt": "KANSAS CITY, Mo. (KCTV) - Artificial intelligence is taking the world to a new era at the Stowers Institute for Medical Research. AI is making major breakthroughs in biology that have stumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "originalUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/T8YzKAN3cuVd7ooBW0YR1SxdDMg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QE3MRHDW6NAFJHDPKHACMG53UM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/04/04/how-researchers-are-using-ai-fruit-flies-make-major-biological-breakthroughs/?outputType=amp",
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCTV News",
-        "domain": "kctv5.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -61,6 +61,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "Kyvos Announces Availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
+    excerpt: "Kyvos, a modern, cloud-native analytics acceleration platform, has announced the availability of its azure application"
+    publishedDateTime: 2023-06-29T19:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "m9AOLlLs7UzHtLyPxv1eowBT2WGydsL3Gs7y4hijFD8eqbBbuf5NUO0V73XQHZRjLtrhh1xFUSCXgcOiV1RxUfUe4NYnwpX1eI60POjk8uI/m9/bYRqsCVqC+1euVzcw/BaS/XBtmtG7cy5gEI9gMfVq7J9J86rTkicVRhf/eNpVmTs+80+Qux0StqERKNLxxjxB5K8+GS1B+p8QDo6CxiRC+loRwanjEp5foT6E5o6RR088NBY94SPS+fbq5IU278gwOFxHgFsM92EvjFZxaNChvQ0u8KNatWijieGQY8Dko2Tp5a0eLyc+WZzN/LjwNjoGIB7Tor7aQUofIR+dtWOydCPNKE++/lef0ATka6c=;TyWj9By9sMLtMsnPWB7ULA=="
 ---

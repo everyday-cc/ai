@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-29T17:09:00Z
 originalUrl: "https://venturebeat.com/ai/inflection-ai-sets-off-fireworks-with-1-3-billion-funding-highlighting-power-of-llms-and-nvidia-h100s/"
 webUrl: "https://venturebeat.com/ai/inflection-ai-sets-off-fireworks-with-1-3-billion-funding-highlighting-power-of-llms-and-nvidia-h100s/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T122624.682.png?w=1200&strip=all"
@@ -36,13 +37,13 @@ related:
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
         width: 900
         height: 506
         isCached: true
 
-secured: "mea8zm7jWzsVfspyizL+sELR2TFESbuY9/8nTsiS+TPKQVfs1ln6OrqKZnTIHn+xN+RNGBrFVMNWmETVLuYd8F0/U4ROmd/U04Gk9+urhtkM5xPJg1ap8kIvra3RNEpdaSS9EePOZsy7zgPVi/CBNadCjqBO7xfvS5rBMTEjmQ+hU9C8vkFw0hPeXM9Wwu7sczr0XOcCioK+Il47cqR0GD4rmRbFiMJDobgU0nckUnCoyiCM7gxE+Grz85JVTWQTldQ0SR+ZGMStzSxlWc+YCKYVHr8XKroXRu4RyfvB4hCy93Okc/28F2iCejjANnFLMUSLkC0zjbo31doExfXxRZJ/NnP9ktMNDc4q13xCXUM=;KONYjeI9Tr7pEEPEgeXUfQ=="
+secured: "diOBd5b5Kp0yO7qv0XSPNiEF+wl4Rc/ksI6KTWpbjgL0j3YK8x0VNMjazgqmZ9f8N/qpmtKfNb/zA1MunIZ68O8fS0PThBQDzMdc+ZPK1uEBKoeNjYB/dhZsSaoUTn2iqqA+/ITt/D2zdoRUDmh5yqe1eoKNCXyAltK3vzHaXPkCWRCdw5kCVkB4kHqlY5V1CSxMmikzjmocYStqlcmp6HuVzBMt2eu4mtE0xtJ2A3rNSK1Iv4beIzZW+b/2K6NX7Ziyx/pvQ0tL4h3nPeE/N6BCof8ayQ8ZjXBP2NxjgiRgB42eBJ2qVpru3BrzMVKPiF2qt7i2kT+KoPyzRhi5J3y1F6gZgUVHaR0HtnZdWBMJYmQp9y4YjwVWEHZANm9Addm91cwhvkTp+UTJMZxL8kv0siGEh8afneW/u0zi+s2OuyH2DxVzdbK9XeW4GN1OsuVLCGBJWCSGuNfodvRsCAU3ThTttGCgqO/KX9XJeBpGzdACBo4MBRslyEdHWNDQu3rVhOzRgHXoc6ceQSUVZw==;c5dXA25kBpNaNzFB5+b99A=="
 ---
 

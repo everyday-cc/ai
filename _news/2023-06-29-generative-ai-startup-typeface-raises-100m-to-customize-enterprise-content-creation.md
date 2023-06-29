@@ -128,6 +128,20 @@ related:
         width: 2225
         height: 2504
         isCached: true
+  - title: "Runway draws fresh $141 million as next-level generative AI video begins to emerge"
+    excerpt: "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding."
+    publishedDateTime: 2023-06-29T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Democratization of information with AI: Empowering innovation & inclusion"
     excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
     publishedDateTime: 2023-06-29T11:14:00Z
