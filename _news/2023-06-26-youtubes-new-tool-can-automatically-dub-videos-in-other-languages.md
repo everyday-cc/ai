@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -31,6 +31,29 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube is testing an AI-powered dub tool to translate creators' videos"
+    excerpt: "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ..."
+    publishedDateTime: 2023-06-24T19:11:00Z
+    webUrl: "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Filmora at VidCon 2023: YouTube Creators Embrace AI for Future Video Content"
+    excerpt: "Wondershare at VidCon 2023 will be showing off Filmora's AI tools, as YouTube creators embrace AI and show us all how its done. Learn all about it here."
+    publishedDateTime: 2023-06-27T18:07:00Z
+    webUrl: "https://www.digitaltrends.com/business/vidcon-2023-filmora-youtube-creators-embrace-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 44
   - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
     excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
     publishedDateTime: 2023-06-26T11:08:00Z

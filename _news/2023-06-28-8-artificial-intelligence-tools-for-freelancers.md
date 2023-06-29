@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Braze unveils Sage AI, a GPT-powered tool for marketers"
-    excerpt: "Braze's Sage AI builds upon the company's existing AI/ML capabilities, which include predictive identification and targeting of customers."
-    publishedDateTime: 2023-06-27T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/braze-unveils-sage-ai-a-gpt-powered-tool-for-marketers/"
+  - title: "The Best AI Video-Editing Tools"
+    excerpt: "We noticed mistakes in synching face movement to audio, minor errors in object recognition, and misidentification of a Black speaker’s race. The platform is not the most beginner-friendly. If Runway is your first introduction to video editing ..."
+    publishedDateTime: 2023-06-28T16:40:00Z
+    webUrl: "https://time.com/charter/6290883/best-ai-video-editing-tools/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: Time
+      domain: time.com
+    quality: 49
 
 secured: "qZxj7Kj7IYE3k7MgZ5PnyRU6UI96C30ONjZ3r5m1Z2iUTlauYR7bkWsj+i7SxIa743VGI9Ro/R4tiJGcW3i+EfdHjEKCfyCmb6d5ykeWXorIqUsEyRm0likA9iAptjUJK/EGNztNILDuQO/hXP9WL8SsCq1PvYJ6+QsdsYb2GYd0lC6jvhCyt5T/58vfFT0wh96m/7JJgrwn4M9fgwfeN421Qa1Oah08fprDEiWQPbgiaO2KsOefyJF3SxcdJD3nmDp3JFYeT0W/B0Y9zGHlSJUSpnKVOVKMU75gJTRALEJ6c2HXxj/nSHOQywJzLZCwmDm6mQ0NqJL6xR+GzTdVH6Hs8Dp5CtzfEbZUnEYsk8f9BvbCG5kcmP0wWxxQ/r4M7gFdPPG7KMBw6kl8MYSF0RrgXvbDA6WsmGoB+5sZrLqCvaYwpCtwHG+kXzXsooc/+3XW/SGM6NppGgxibR0FQUUpodtX89EVt9pUkxZopYwFVhp9PgfOppXD60KiglrzhfeUOjvor8Es10PuAXXLpw==;BGMJRH7Vx2U9foyPSbIIYA=="
 ---

@@ -5,8 +5,10 @@ excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E gene
 publishedDateTime: 2023-06-28T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
 webUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
+ampWebUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/amp/"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/649b09c9b461677db75d4179/0x0.jpg?format=jpg&crop=1981,1778,x231,y0,safe&width=1200"
+    width: 1200
+    height: 1077
+    isCached: true
 
 related:
   - title: "Staying Authentic While Using AI In Your Marketing Strategy"
@@ -128,6 +136,22 @@ related:
       - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
         width: 999
         height: 560
+        isCached: true
+  - title: "Machine learning human ideating: How LLM is changing the advertising landscape"
+    excerpt: "LLM technology has the possibility of bringing in impactful campaigns, which will provide brands and marketers with a better ROI, say industry experts"
+    publishedDateTime: 2023-06-29T03:14:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 55
+    images:
+      - url: "https://www.exchange4media.com/news-photo/128298-big.jpg"
+        width: 730
+        height: 395
         isCached: true
   - title: "How AI is Reshaping Banking in 2023"
     excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
@@ -244,6 +268,6 @@ related:
         height: 682
         isCached: true
 
-secured: "xcTUm3Yd7vENAPPyHC5QuDx1BMMKWGZ3MFja1gNCgn8VtBiQDcwFcBIhFrw9Gcdm0BpstA7dXSLAtTFIIrdJL4UGfSgFGF9payJniuekycWMHVpECTkbVFTvhz+jbuVDYbjrGZcPMoGEaGfd5TIUA/MZQXfD4OYqXFdSXOVBtFYSOXLOYi8wDjCX0hZUlGzblyqLLACSJLX3IBW6ELeRiUVUENdcj7qQwi/RBh7ws+dD+Mf/edgDnKzDpwiV5TnsD1QKfc8msUvrsIMqlkbJeeZtIBnbfpH75mfQipe9euPOaZzsOzOYCCZ2AUwy7tcIqOdP7ootaWwGfCpO/6zHLNxP9dy/ANajIIQOlQd/YDI=;9m2qoHixmNCsgiXtJ/DAxA=="
+secured: "2CD8Q795rxM2ofSFYG+sXkATUz3r+v6eIEi7eUNnzUeAab04K/rT3aIDlczKJ79bMv4g88YM6TRFkeMeUT8xR2gb8pcbYR0GHCQOtBenGVL+q6agLdtOzmNxXqhzQKiBTzpIPJKCUAP0Wxh755lGy75iue9BwvUpl6ZtWVh/WZWuM7xn2ZtlUh87nUJlU4zA+eFM0TlxJWh7ulln1UosI1K4cpfh/0aKrw5A9D8t9eyg2U6KsWYQrwZnWmCHW6XYdGiApbNIUnoG94mSV2l+3Zdj7PuOXd83Pst4CMm/0/9tvTQugYN0hjJGRq33q1F2eOea/6JTsY0VHuWaUROtUDrgcObzcc4rMZlUg8go/8o=;I2YgZa9ZiX/SehC1HwaMzA=="
 ---
 

@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
+    excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
+    publishedDateTime: 2023-06-28T22:04:00Z
+    webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Matt-Garman-Headshot-1.jpg"
+        width: 2225
+        height: 2504
+        isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
     publishedDateTime: 2023-06-26T04:46:00Z
@@ -128,15 +142,6 @@ related:
         width: 679
         height: 452
         isCached: true
-  - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
-    excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
-    publishedDateTime: 2023-06-28T22:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 46
   - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
     excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
     publishedDateTime: 2023-06-27T10:53:00Z

@@ -43,20 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
-    publishedDateTime: 2023-06-24T10:11:00Z
-    webUrl: "https://menafn.com/1106495265/Aws-Announces-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496238"
-        width: 400
-        height: 250
-        isCached: true
   - title: "AWS announces generative AI innovation center"
     excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
     publishedDateTime: 2023-06-27T06:16:00Z

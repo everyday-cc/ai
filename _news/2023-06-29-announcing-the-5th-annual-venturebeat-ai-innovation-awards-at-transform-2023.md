@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-28T20:56:00Z
 originalUrl: "https://venturebeat.com/ai/announcing-the-5th-annual-venturebeat-ai-innovation-awards-at-transform-2023/"
 webUrl: "https://venturebeat.com/ai/announcing-the-5th-annual-venturebeat-ai-innovation-awards-at-transform-2023/"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Prem-N.jpg?resize=754%2C940&#038;strip=all"

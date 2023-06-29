@@ -69,6 +69,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Robotics startup raises millions for AI, remote control applications"
+    excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
+    publishedDateTime: 2023-06-29T01:22:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/inno-insights/2023/06/28/contoro-robotics-lands-millions-for-warehouse-bots.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
   - title: "Will AI be an exceptional industrial revolution?"
     excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
     publishedDateTime: 2023-06-26T01:15:00Z

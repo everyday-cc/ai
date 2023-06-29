@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/25/zoomerang-short-form-ai-video-platform-is-a-creative-innovation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Aws Announces Generative Ai Innovation Center"
-    excerpt: "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wo"
-    publishedDateTime: 2023-06-24T10:11:00Z
-    webUrl: "https://menafn.com/1106495265/Aws-Announces-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?496238"
-        width: 400
-        height: 250
         isCached: true
   - title: "AWS announces generative AI innovation center"
     excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."

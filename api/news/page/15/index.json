@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-06-18-universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-and-ai.md",
+      "title": "Universities Team Up With edx To Offer Micro BootCamps In Machine Learning And AI",
+      "excerpt": "X, the global online learning platform, is launching a Machine Learning and Artificial Intelligence MicroBootCamp in partnership with 12 American universities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648e18c771786c5a475e44a7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/06/18/universities-team-up-with-edx-to-offer-micro-bootcamps-in-machine-learning-ai/amp/",
+      "publishedDateTime": "2023-06-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-tdra-launches-initiative-to-optimise-fednet-with-ai-services.md",
       "title": "TDRA Launches Initiative To Optimise Fednet With AI Services",
       "excerpt": "Commenting on this development, Majed Sultan Al Mesmar, TDRA Director-General, said,“AI services on AI-supported FedNet are a great step in the digital transformation process, and an important element in enhancing the ability of government entities to provide easy and fast services to all customers,",
@@ -198,6 +250,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial intelligence and natural language processing",
+      "excerpt": "You are now leaving the Cambridge University Press website. Your eBook purchase and download will be completed by our partner www.ebooks.com. Please see the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/dm/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/",
+      "originalUrl": "https://www.cambridge.org/dm/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1139,108 +1225,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-elon-musk-backs-ai-regulation-but-offers-only-vague-solutions.md",
-      "title": "Elon Musk Backs AI Regulation, But Offers Only Vague Solutions",
-      "excerpt": "I’m in favor of AI regulation because...advanced AI is [a] risk to the public,' he says today. But when pushed for specifics, the Tesla CEO comes up empty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "originalUrl": "https://www.pcmag.com/news/elon-musk-backs-ai-regulation-but-offers-only-vague-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05DAz1A8aNpuSWJBng8gzvN-1.fit_lim.size_1200x630.v1686931162.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-funding-is-drying-up-for-ai-run-vertical-farms.md",
-      "title": "Funding Is Drying Up for AI-Run Vertical Farms",
-      "excerpt": "Industry experts still say that indoor farming is a crucial piece of agriculture’s future, especially as climate change spurs more destructive wildfires and floods. Nonetheless, the ability of vertical farms to carve out meaningful market share on a national scale could be years away, they note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-16/from-appharvest-to-aerofarms-funding-is-drying-up-for-ai-run-vertical-farms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isP5Xb70JjuU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

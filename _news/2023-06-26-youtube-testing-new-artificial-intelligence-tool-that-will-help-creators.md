@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube is testing an AI-powered dub tool to translate creators' videos"
+    excerpt: "YouTube is testing out an AI-powered multi-language dubbing feature for creators. Credit: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images) YouTube has been making some big ..."
+    publishedDateTime: 2023-06-24T19:11:00Z
+    webUrl: "https://mashable.com/article/youtube-ai-powered-dubbing-tool-aloud"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/033TXxSPosNJOZ5ZMWXOEVK/hero-image.fill.size_1200x675.v1687620649.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "YouTube's new tool can automatically dub videos in other languages"
     excerpt: "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages.."
     publishedDateTime: 2023-06-26T06:18:00Z
@@ -40,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Filmora at VidCon 2023: YouTube Creators Embrace AI for Future Video Content"
+    excerpt: "Wondershare at VidCon 2023 will be showing off Filmora's AI tools, as YouTube creators embrace AI and show us all how its done. Learn all about it here."
+    publishedDateTime: 2023-06-27T18:07:00Z
+    webUrl: "https://www.digitaltrends.com/business/vidcon-2023-filmora-youtube-creators-embrace-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 44
 
 secured: "4c5ZJi5Vcp2XY450nPHvZ5wqNEIQkCu3vrVilxauvie85lscu69PJGo9fVNr5hCjKc9obG0cXozWGoVMWeDoj/D8R+leoJseoCdscnoLf28G7r2Z3peUhtfVbn4a7ipKl93TDiz0ItMFFCaPWZ4kMhVAsoPLy3TfjfnKqkirKe70wiiyF772t5SflyaIVR9H25xR0zrzMLPN5FXkRq8yn5Stbkr5zh6KtJ+KF/hSKWBeOaQZnrKdANOSZ8jgA1h2M+ilvQpXNcvhbmj6wBEJAJkBvsAKv7uvqX+HCTzIOlfFXcS0vi9cpVhI+NNitGZAs605yDbsfLxwvAWf9WwiHkVnFIyPdeywvRsgYBvdgiaqNR2iTMDrQCk7hyy8xNrwT7cQC11pgEGiQQo4U/77blBsUVO0HRc4sfXNW7kn9XEy10rzDMCLcv5K5U1Oy3HQpL+Fau91nnSvyGymGgHfoQBpJ7LbuLHKjyda4IZNBM0SCoKgtnSTMO0pJOhM5fPYJQMRKCWHcAnkcrNB5exWlQ==;vj3n/mXRGZEa3OhfJkX4TA=="
 ---

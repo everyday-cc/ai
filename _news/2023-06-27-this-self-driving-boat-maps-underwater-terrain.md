@@ -1,30 +1,26 @@
 ---
 category: news
 title: "This self-driving boat maps underwater terrain"
-excerpt: "Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans, rivers and lakes."
-publishedDateTime: 2023-06-27T16:58:00Z
-originalUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html"
-webUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html"
-ampWebUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
+excerpt: "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys -- surveys of the depth and terrain of bodies of water like oceans,"
+publishedDateTime: 2023-06-27T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/this-self-driving-boat.jpg"
-    width: 2500
-    height: 1667
-    isCached: true
 
 related:
   - title: "UTEP researchers construct self-driving boat that maps underwater terrain"
@@ -53,6 +49,6 @@ related:
       domain: labmanager.com
     quality: 19
 
-secured: "i6GFAcKmUeukcw6Q5U5nlTBErmF6Io89GeYGfEOYVtu6jLNrhBe9ubJGIKbX10tvv6MHMk3UvBbFvUY70YK/eIgd5fDt/bEBitsQ50C517q0X5SuA683lkODINma6grIwsfrhDOmrKC/i/P1jbdd0CrC+EnCfplwUwqNATYGt3e8y7/CUFgE+9XOpGrMbggJ2bgd5ksno9FLIJQ4iBNKnztM+NXKLRAEePN4ONSmxb8X84ZPWN9Ar5hp9hVB/wNn86fRXbdue6yTU5HQAKFeTnRSX20iZwwbCVawc4+vocKOS3+dv6hzzhkOHl+hFk4LAc4XblO4AlDztM3TyRsR+ywprUXWWkeZ2bR+qQWbqI4=;t+0TEk+zrax+41/RUtPi1g=="
+secured: "L+GLnkrgfmqaUxOUR7h+d+F5ttt7+9bOZt/JKFQZa2jInoO7BeJtC56dROhfVBNRE+JczWMqr6jvDoyELdlTm7zSrnDpzt963PqU1e200J+B17qv4dsNG1egAjz+4THTGlJS7wD1EfFfCrPVGwSoSDeeQ5+ERaiUBbXEUksJbNSfVsvFmW3PmMxnRKPRduWvlM/6//KM+nfBSz5nQo478dMb4V9lHUIlRqr0mGo6dUCagSENIJ0fG1czDkC6XwB6g4iR6juOMe1tseH9ihzDvaj/pkNyNEW3cijBi0hJxyrbH9NeHKibm5Hy24bOQkpO4ZUaoBZQP4OO1cH8UU0NOLsalFFxoHnQnhzn/z0to9E=;+PwSC4YB1jEURvn91P1Spw=="
 ---
 

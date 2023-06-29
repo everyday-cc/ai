@@ -2,6 +2,84 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-06-06-nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing.md",
+      "title": "NextGen Food Robotics Provides Update on Lily App and Highlights the Advancements in Generative AI and Natural Language Processing",
+      "excerpt": "while emphasizing the significant advancements in Generative AI and Natural Language Processing (NLP). These technologies have proven to be major game-changers in the field, propelling NextGen Food Robotics Inc. to the forefront of innovation. A welcome ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
+      "originalUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-japan-eyes-labor-market-reform-focuses-on-ai-chips-to-drive-growth.md",
+      "title": "Japan eyes labor market reform, focuses on AI, chips to drive growth",
+      "excerpt": "The government said Tuesday it will aim to close wage gaps between Japan and other countries and attract more foreign talent while de",
+      "sourceUrl": null,
+      "webUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
+      "originalUrl": "https://mainichi.jp/english/articles/20230606/p2g/00m/0na/037000c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mainichi.jp/vol1/2023/06/06/20230606p2g00m0na036000p/0c10.jpg?1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "毎日新聞",
+        "domain": "mainichi.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-nigerian-fg-to-install-facial-recognition-technology-at-airports.md",
       "title": "Nigerian FG to install facial recognition technology at airports",
       "excerpt": "The initial project phase includes Lagos and Abuja international airports, but will be extended to other airports, including Port Harcourt, Enugu and Kano.",
@@ -1079,102 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-how-ai-can-revolutionize-pharma-sales-and-marketing.md",
-      "title": "How AI Can Revolutionize Pharma Sales And Marketing",
-      "excerpt": "The challenge has been to interpret large quantities of ever-changing data to create clear prioritization and messaging. It's a problem statement tailor-made for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647cd384304f51197113b283/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/06/05/how-ai-can-revolutionize-pharma-sales-and-marketing/amp/",
-      "publishedDateTime": "2023-06-05T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-killer-robots-could-emerge-from-ai-in-just-two-years-gov-expert-warns.md",
-      "title": "Killer robots could emerge from AI in just TWO years, Gov expert warns",
-      "excerpt": "WORLD leaders have TWO YEARS left to tame Artificial Intelligence before humans are unable to control powerful computers,  a government top adviser says. Tech entrepreneur Matt Clifford, the Prime",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
-      "originalUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/06/kdf6e3-creepy-robot-heads-ai-820760241.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/politics/22586259/killer-robots-could-emerge-two-years/amp/",
-      "publishedDateTime": "2023-06-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

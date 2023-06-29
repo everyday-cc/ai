@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

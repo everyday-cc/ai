@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1491
         height: 900
+        isCached: true
+  - title: "Using AI For Rescue In The Wake Of Disasters"
+    excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E generated poetry and art. But when AI is combined with GIS technology, it can be used to save lives."
+    publishedDateTime: 2023-06-28T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
+    ampWebUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b09c9b461677db75d4179/0x0.jpg?format=jpg&crop=1981,1778,x231,y0,safe&width=1200"
+        width: 1200
+        height: 1077
         isCached: true
   - title: "17 Important Things For Agencies Using AI In Marketing To Consider"
     excerpt: "Balancing caution and innovation is going to be a challenge for many agencies and in-house marketers seeking to leverage AI in their operations this year."
@@ -121,6 +137,22 @@ related:
         width: 999
         height: 560
         isCached: true
+  - title: "Machine learning human ideating: How LLM is changing the advertising landscape"
+    excerpt: "LLM technology has the possibility of bringing in impactful campaigns, which will provide brands and marketers with a better ROI, say industry experts"
+    publishedDateTime: 2023-06-29T03:14:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/machine-learning-human-ideating-how-llm-is-changing-the-advertising-landscape-128298.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 55
+    images:
+      - url: "https://www.exchange4media.com/news-photo/128298-big.jpg"
+        width: 730
+        height: 395
+        isCached: true
   - title: "How AI is Reshaping Banking in 2023"
     excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
     publishedDateTime: 2023-06-28T01:43:00Z
@@ -151,15 +183,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Using AI For Rescue In The Wake Of Disasters"
-    excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E generated poetry and art. But when AI is combined with GIS technology, it can be used to save lives."
-    publishedDateTime: 2023-06-28T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/esri/2023/06/28/using-ai-for-rescue-in-the-wake-of-disasters/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How artificial intelligence and machine learning are being used by credit unions in 2023"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses, and benefits for credit unions. Because of this maturity and expanded adoption rate, AI/ML is helping to solve highly complex opportunities ..."
     publishedDateTime: 2023-06-28T17:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-28T22:04:00Z
 originalUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
 webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Sales
   - AWS AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Matt-Garman-Headshot-1.jpg"
+    width: 2225
+    height: 2504
+    isCached: true
 
 related:
   - title: "AWS invests $100 million in Generative AI Innovation Center"
@@ -198,6 +204,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "9JETULcsFgvTK826ksEW/O5vhJM+y7wU788ZzTaXw1uAURY2pq3QcHEdkA5rjMrISMBv96je3uiP8ycfDa0/hoz4/Bi4FlJLVlyW2q+O0RhhCODsewEwwkhmOp6Fo6TppcyTmkSV6vdLlLtZVaj6Rptma0+4MJbfb8v/tpxfVMcfqrsb9iYzvU9kEjclvMCGw3fmSAbV06NXpHUQv6UUQtTyoIT+b6LhmaITL5R1s7k3axrGtGIekm8S4fLahBa6BOH4y954atAUibeeTqNVEz6mZbPmf5tg0TYujO89wc4Efr9qsJmPEo9ol/30RGfHj1+OqYJ0jh+XXBwCB1al27owCmwXiZa6KO6TpGMPr6s=;6IWCJzvONuABSl7aCbXVUg=="
+secured: "i4+XIOmjeBUbKrtAaYwMtTSL68ixP52xMyzN9AoUc3MJmak5hCbDsUjp1/4YGwhwpFq26sSh0jc7cm/cmnv/efll13bM7d7Px28IwLV/izcu+hz7lEDq9iYoHHfdGCulJi2bMAlX0C5bD/W6PB9cowqyRY/NGPOMVkn6iwSQb358wWthMIJgYI7a3KZ5FDsPaTyA2nnUgxAE/fO3ZcEdY27VgTwSfRgk+qvcbl0+QJYRk/wUUEe6EIhLx+/mrGsD7M3YMppIwK3z3Vp8GTdpJNpV0O3Yy7wTm9/90n1V1/2ueKXlKrFIhkvnlAGodbV59zyZKUC5TZqGM/cPzJYrFGKiI86EqnZq/etd4ekNQqw=;d2fS1/d9Fm5VSRrYo6P50A=="
 ---
 

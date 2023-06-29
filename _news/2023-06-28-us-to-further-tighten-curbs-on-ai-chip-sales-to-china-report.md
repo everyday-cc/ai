@@ -265,6 +265,22 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 63
+  - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
+    excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
+    publishedDateTime: 2023-06-29T02:43:00Z
+    webUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/"
+    ampWebUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "US Considers More Restrictions on AI Chips to China"
     excerpt: "Nvidia was already required to make a weaker version of its flagship A100 for China, but even that weakened chip wouldn’t be allowed under the rules under ..."
     publishedDateTime: 2023-06-28T17:33:00Z
@@ -412,6 +428,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/06/PNY_NVIDIA_Infiniband_whitepaper.png"
         width: 300
         height: 387
+        isCached: true
+  - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
+    excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"
+    publishedDateTime: 2023-06-29T01:08:00Z
+    webUrl: "https://www.pcgamer.com/the-us-wants-to-restrict-chinas-access-to-ai-chips-even-more-and-nvidia-could-lose-out-as-a-result/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KEnYwb6XugVqo5QDXpjNsm-1200-80.jpg"
+        width: 1170
+        height: 664
         isCached: true
   - title: "Nvidia leads selloff on new China AI chip curbs"
     excerpt: "Nvidia, which gets about a fifth of its revenue from China, slid as much as 3.2% in after-hours trading in New York. Rival Advanced Micro Devices Inc fell about 3%. The two lead the market for chips vital to the development of generative AI models such as ChatGPT."

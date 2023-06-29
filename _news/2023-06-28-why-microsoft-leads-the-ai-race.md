@@ -118,17 +118,6 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 59
-  - title: "Rivalry between Microsoft and Google could supercharge AI progress"
-    excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
-    publishedDateTime: 2023-06-24T11:01:00Z
-    webUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 56
   - title: "Snowflake and Microsoft expand partnership with AI"
     excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
     publishedDateTime: 2023-06-27T11:18:00Z
@@ -316,6 +305,15 @@ related:
     provider:
       name: techtimes
       domain: techtimes.com
+    quality: 14
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
+    publishedDateTime: 2023-06-29T03:11:00Z
+    webUrl: "https://www.inferse.com/573595/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
     excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"

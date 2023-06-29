@@ -119,17 +119,6 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 59
-  - title: "Rivalry between Microsoft and Google could supercharge AI progress"
-    excerpt: "Microsoft and Google have made big investments in two of the most valuable companies in artificial intelligence (AI)."
-    publishedDateTime: 2023-06-24T11:01:00Z
-    webUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/497513-rivalry-between-microsoft-and-google-could-supercharge-ai-progress.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 56
   - title: "Snowflake and Microsoft expand partnership with AI"
     excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
     publishedDateTime: 2023-06-27T11:18:00Z
@@ -326,6 +315,15 @@ related:
     provider:
       name: techtimes
       domain: techtimes.com
+    quality: 14
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
+    publishedDateTime: 2023-06-29T03:11:00Z
+    webUrl: "https://www.inferse.com/573595/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
     quality: 14
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
