@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+  - title: "5 FinTech platforms redefining the future of lending in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-28T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
     type: article
     provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "What today’s banks need from commercial lending technology and fintech vendors"
     excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
@@ -42,6 +42,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 15
+  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
+    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
+    publishedDateTime: 2023-06-26T14:59:00Z
+    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 0
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---

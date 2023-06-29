@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
+    excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
+    publishedDateTime: 2023-06-29T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/sequoia-capital-partners-with-ai-startup-dust-to-bolster-enterprise-automation-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-3-1.jpg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
     excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
     publishedDateTime: 2023-06-27T13:15:00Z

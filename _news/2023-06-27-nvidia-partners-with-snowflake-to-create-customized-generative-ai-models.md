@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
+    excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
+    publishedDateTime: 2023-06-29T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/sequoia-capital-partners-with-ai-startup-dust-to-bolster-enterprise-automation-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-3-1.jpg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
     excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
     publishedDateTime: 2023-06-27T19:05:00Z

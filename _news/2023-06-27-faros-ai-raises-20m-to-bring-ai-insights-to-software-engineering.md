@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
+    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
 
 secured: "wH918JEx8Oh/4w/gJco/gU4lPrk6itvCIabv20GwAw8dsi14ANdaCUjed5YOubPtKzchDdWqankGXiKk26iNBSW6EKZgagAQIyPPk9W+mS0Z+34GJNPnklzeKubdytDgJwwKoUfrWpRNfdtz3BPMcQSBV5b5Gz8kfI1grwMtYT94npfWiW9GVKLOSTFR3PBARHZv2M7iILVDqFcC3HgSHuQaFAT6OK6Yb1lywHR1rCb/XXCVMuj5AuyQFBVXzTN3oiDpplKbDHWTMiI1+yAcVH88bnfKOCjpzlQ1kXXNY2lDsmGb6ltg2ba/+ZVKbq/aLRo+I+7unTh0h9rgbbxSCo82tIHlRaAXeItDwRdDJsDQFAo3JMl63SQO2VknJijBQqxj83eNpmknn2A2dAnT7ViITO8l8DXH/8dnKhfDaRbtNN7nNCfcD5X3bnRUzGhalo3N/NmGiTG5RK2jNeSjQY9ckM975jJMRY5eiXp4M9DOMHwx29yFl31cnwzh6IEVILoiJReEK1DM+JaeZ+oxQQ==;YN4Z+eqyew+E8tzfsy4KyQ=="
 ---

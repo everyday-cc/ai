@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
+        isCached: true
+  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
+    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
         isCached: true
 
 secured: "UGztIPPvreTpql9cXD6jCcNbHcSEoKWvrvKeIW2hQikda+XbLOKa2Vm9rGnRAldy7NOw3w/cyHbajLu/vFWXOmzLJb69Hru6zNHiJTDmeHycW6m3eFNmvPhaGGjFL1nD+1DNH/I79KIkw8blP7l6NgNjQvcA9KGJBFMzISbACnEr2JvBLIN/imywjFeIOT+F+qKhTnytw6TJU2z7SLaROt451LoFzdmXdqlqQsr+RRR4ArGJNorZViHT3FvhXuQYgv6InGdUPW/PWt6qJbFqINT6xgnB8Me1WY1Kc8ChFezFpfFA1y/ZtBcDDfMu40uKWl0k2BNSnd1z56LMEOEAzt29OzGYdWHK+cZggRQ+q5SLQJid67g8rLX8UZTSm9SiKdRHRIyQG+3bsa6FAxFwzv99V//2ko6ksaqm35Ra3Ia/aL9UYi83mCUcpYhF/7UFemLm2lHdsah//fKBBvoO7UcFdeINeXNRtcsXducm5+6MbDmfnGVJqJPfXFU0XY209iufUGcWfqBNSnDUVH9ehg==;VaekHDQBw/vILADqMFaKmQ=="

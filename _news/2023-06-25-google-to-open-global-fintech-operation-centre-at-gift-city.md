@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
-    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T14:52:00Z
-    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+  - title: "Applications open for AWS' global fintech accelerator"
+    excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
+    publishedDateTime: 2023-06-28T09:15:00Z
+    webUrl: "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 63
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 61
     images:
-      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
-    publishedDateTime: 2023-06-27T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 47
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
-        width: 300
-        height: 203
         isCached: true
   - title: "Why Google chose Gujarat for its global fintech operations hub"
     excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
@@ -73,6 +59,34 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
+    excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
+    publishedDateTime: 2023-06-28T14:19:00Z
+    webUrl: "https://betakit.com/aws-nvidia-launch-global-fintech-accelerator-for-seed-stage-startups/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
+        width: 960
+        height: 720
+        isCached: true
+  - title: "AWS opens up applications for Global Fintech Accelerator"
+    excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
+    publishedDateTime: 2023-06-28T10:07:00Z
+    webUrl: "https://htxt.co.za/2023/06/28/aws-opens-up-applications-for-global-fintech-accelerator/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 41
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
     excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
     publishedDateTime: 2023-06-26T05:02:00Z
@@ -89,20 +103,51 @@ related:
         width: 1320
         height: 743
         isCached: true
-  - title: "5 FinTech platforms redefining the future of lending in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-28T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
+    publishedDateTime: 2023-06-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-releases-groundbreaking-first-and-third-party-fraud-solution-api-for-fintech-1032415116"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
+    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
+    publishedDateTime: 2023-06-24T18:40:00Z
+    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
+    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
+    publishedDateTime: 2023-06-28T20:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840834.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KfyYI0KI/yqlOfk1A2s+07oikXsOF5F9/e7V06/tHWS7eISPFdQWX/Kf+5hsYaU6M+dxU/WHBDirhQdnZMg06Q+BTzjXilffonjUhlBTQwLb6k8QokmBoBbX6C7b5L2aWzuitmEGBcfUQ7aNDMIKTGg/qq1gYWGaQi9zNDDa2y+/I1Lv94f4UFbzAIs19bB+cWHFseZ1IdjySwb3EVVpn3QyrINjGWDscd8WHRlMy6D9CPF0werbz9FLYfGomW7KAenR6S079ToUAR9cc+dYr8h3u9Mbop94f4OxX9bVMAkhWli06YdkknZaGbfUaABtPzxWZjuRjKKJzmkDNFzECYP6t4TM2OuirTTgKPON5pA2ItsBseL00YvidpjUOEAWato3SeGWnMljXarXX65ZkfOvJWCU5aeL5N5s1/w80HoONOwEnrYtYC8erB8MGeBu7Y/P4BdxOSG+NhDLPYRQiBjbkjb16DOWUO2JDeuTv0JPM9WJ1sS8ixIvUPKkV2983rPNleXuzBOdJVJ521hFxA==;zjjIp0V3Rl3I7THTVFWkMQ=="
 ---

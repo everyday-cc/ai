@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
 type: article
 quality: 61
-heat: 131
+heat: 161
 published: true
 
 provider:
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "Google to open global fintech operation centre at GIFT City"
+    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
+    publishedDateTime: 2023-06-24T23:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
     excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
     publishedDateTime: 2023-06-28T14:19:00Z
@@ -55,6 +87,22 @@ related:
       - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
+    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
+    publishedDateTime: 2023-06-26T05:02:00Z
+    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
+    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 29
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
+        width: 1320
+        height: 743
         isCached: true
   - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
     excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"

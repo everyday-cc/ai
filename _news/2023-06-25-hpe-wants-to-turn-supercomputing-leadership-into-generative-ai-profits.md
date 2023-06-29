@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI hiring tools to be audited for sexism and racism under New York law"
+    excerpt: "A New York City law is requiring companies to show that the AI-powered tools they use in hiring and promotion are not biased. Critics say it lets most employers off the hook"
+    publishedDateTime: 2023-06-29T06:01:00Z
+    webUrl: "https://www.newscientist.com/article/2376984-ai-hiring-tools-to-be-audited-for-sexism-and-racism-under-new-york-law/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27175015/SEI_161950089.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "bp5eWRWqMA7osWZEmoBDLhwHOuElox2dcR0bAUe7by/0gHGZzHSSlBY3zec4+NegkFiqsR0ROPKYRfFOyf1WF95ZD9C35YVJYl3MrJBh+oSC3QLkCFvw3HdvDftoBRC0j8Tq32pguQOvRQXw0fVdl1kjzKuHXMT0Jcjxcp0/cfQ9J8PkwkPn42vt6G9eP0Dq0jv8rJrbblJgW2D6XbWIknX5OeKU6nJqUFT72CvkdgIB3hB9C6T5caUg0y4GJGq52fZWuqlZAK0kL1+eM9XC2d1MNb2lhYfAT2KB3r3nVgrUlFzY2Bswmklk9Y87F6SJPExMyqzAut/Q7CqR3nybJl556dHIgJVxJt9Df0dn+H3FslfThyCASva/0BHNUXzVKwhZw1t/kqb0rPcO24VY/6gnzWdh+YaESJigh+ZYiMorGJ4aiV0n1rHiAocx8DFQaIcQ6QgjDGXzJjIVVXi0F5ZM8hESbg0g4W4BNVUuLe4zg0pfpo9jGxHBBS4DcnQ0l48B9wSA7hPfViZlDtvrGA==;o3ldpQMaH1vGC4fujvYEJQ=="
 ---

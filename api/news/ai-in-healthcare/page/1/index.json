@@ -372,17 +372,17 @@
       "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
       "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
       "sourceUrl": null,
-      "webUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
-      "originalUrl": "https://time.com/collection-post/6284870/openai-disrupters/",
+      "webUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
+      "originalUrl": "https://time.com/collection/time100-companies-2023/6284870/openai-disrupters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://api.time.com/wp-content/uploads/2023/06/time100-Companies-OpenAi-FBcrop.jpg?quality=85&w=1200&h=628&crop=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -392,7 +392,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T05:52:00-07:00",
+      "publishedDateTime": "2023-06-21T03:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Time",

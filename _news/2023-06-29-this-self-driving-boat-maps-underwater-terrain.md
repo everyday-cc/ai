@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "This self-driving boat maps underwater terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here — and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys — surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-27T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993768"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/00eb77c9-3e44-41dc-b1cd-f2fa1a17eac7/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "zQu04IKnXC9XZJks3kqTsAfOqDdlubXus7TIQBWUGC9QCa/egqOpw2kyjepNrS5Rym2cw+Klg/LIjCPc3Zi2hjEW9R4npNYoz+KRbMurTOG2cJrDNCUYCwIDkKIqv6YNkV3y1QvkYIskIaD2RfYI8kLldNzcj/PTMiqcUiDtUe+vzR2VOpShGbSLO5pJa+724W3nxCTI67NHXxRv4EQc/u03dBzS3BmoWJEY7mdiMBOAnLwjiC8HP478OKuqkqu/pfZ/FVBc5QKLqGb7dZkTHXsGNBtDWaFwLPos7uAGwfxu+JCb8gnd6pbzZSFGN51NAWquMhFPc8HBMzEyxlfidWVNAKFrkyJRvPHEFpJqF48=;z6mJZfrTd4PBl/VCgyeGGw=="
 ---

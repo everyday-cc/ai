@@ -25,22 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future"
-    excerpt: "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology."
-    publishedDateTime: 2023-06-27T10:36:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-self-driving-tesla-less-profound-ai-2023-6?amp"
+  - title: "UTEP researchers construct self-driving boat that maps underwater terrain"
+    excerpt: "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater"
+    publishedDateTime: 2023-06-27T17:46:00Z
+    webUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/"
+    ampWebUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
+    cdnAmpWebUrl: "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: NewsChannel 9 - KTSM
+      domain: ktsm.com
+    quality: 58
     images:
-      - url: "https://i.insider.com/649ab231867d960019d9282d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "This self-driving boat maps underwater terrain"
+    excerpt: "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys -- surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-27T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "This Self-Driving Boat Maps Underwater Terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-28T18:06:00Z
+    webUrl: "https://www.labmanager.com/this-self-driving-boat-maps-underwater-terrain-30510"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 19
 
 secured: "V3NbEhrlGQOYOKTOHU1LUR2BR9fZhPZOLkwAG0eh9lHl3Fnxx0QqqSN6+qcGsgwEUTnB+NrzjCLFDWNZ19vB9VTflfPZWnuwI7oPA2IFzrK642OZqu0MgEPnP+Oqz0uMIKoXvwvnBb43NjjTTg0cz7Qjx5+oWbbgNJaJufuOT2GEuJuzVLxf9cKuhcXOp5ur13D3YT8ZauYjsKV9f/kv5acKH/His+r8KcW17OqfRsVpm2tesSWkA5KpvAX71lqN7ZFPbTQq5I4Ba32fdoqIX1JlzHJa+WPg9toZ6AXlF+jS0LNp8W1hVdAb/swe0f7E6V8S8DzjdIayWmJ58bgvH64+bXx7ohnhHslfu0d74qrCObNKcekbnqU1kTwJ9cU6ZCy7XxHGJxxhk06cZog1qNZNTglYyCCMPwaP0oYWuBYXquuiA1V4ud3hUHFhlwJkP8tONF9XDYwyPpaB5cJyzrAwtpGMEz2DZLZa3yMBGeiqQxOaK5Ps+lHP6wCQC5p5K0cfdyHvL+Sxw3wz5y8Ciw==;Loj6PrGH2MAeoGq13KDSQw=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-publishedDateTime: 2023-06-28T12:00:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+publishedDateTime: 2023-06-28T04:00:00Z
+originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -72,6 +70,22 @@ related:
       - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Learn-It-Blog-Pic.jpg"
         width: 900
         height: 541
+        isCached: true
+  - title: "AI needs 'a new era of law and regulation,' says Microsoft president"
+    excerpt: "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\""
+    publishedDateTime: 2023-06-29T06:51:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
@@ -282,15 +296,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 24
-  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
-    excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
-    publishedDateTime: 2023-06-24T13:17:00Z
-    webUrl: "https://www.inferse.com/564114/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 17
   - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
     excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
     publishedDateTime: 2023-06-27T12:22:00Z
@@ -328,6 +333,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "T38JuKyvyi7z5dDWMsivGmO1zKQdab81IlzjTvOwESFNfF42vRReGaXfLMLwSa1z7pvoqR7Nt8yRD+zE5dF2rnja42WOFM2SRctjD6Of72RvHJdn/QswezXIZesJugZY8EI2Daz555ufHvm4wLnspr4BDJwNXIqsmceU+XihTois2e/Tpi6pJgnni5RMS02CrAqdPlgxf3XRrQq1Nu5UiaW3l1jWiz6KPWOlzbKpBlqDUmseDPi71FmRkJRVAurii7Hi8F5RMTYuZUhmaSn+aB8+GgFv6cVjv3tNQP+uuBARDHfzzMO+AdrH0t78/0AcdWWD2qdNd4oGV43QAipm+oW/3V3LgjC4vMxwSMPYLq4=;JvjeEyUv7Ui/3k+cX7SixQ=="
+secured: "HlmkLX5bZpW7iYMdRMDGQix6p1cSD2YCCAto5wrcZRHGwyKnCrf+6svXzXUE6LTPOCWp54qIpX1yaDk29jVaja6Uhj5n1UZIeUbVSlQRtXvh1R1oQwNPR+CdJtqcJWJ33LZHkicUPSXqwxTmTyBeUzQ1bjFls/H+6svePq4sbEdThEpEY/N/m58JhqscrhY9gHqxNM9ha7ncH7wDpVuYmuxJScfNB0adHspJJxtesnpDCL9q1HcrSkcmWjDBQThvgtjSLCauuGrmSIl31F9wW65b3lMXLHwZ/m2VsIpWgudqgyj3IHQM2IoCHFbRWHLhvxdAtsMVKheFddGGkF3AlRmxWfU5ayalFDzBJ18ajEs=;e+WDEGuscfw7McTxGGmQdw=="
 ---
 

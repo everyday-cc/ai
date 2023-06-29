@@ -25,84 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians"
-    excerpt: "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund."
-    publishedDateTime: 2023-06-24T14:52:00Z
-    webUrl: "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html"
+  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
+    excerpt: "Integration of Azure OpenAI Service extends Indico Data's enterprise large language model ('LLM') capabilities and enables insurance carriers to"
+    publishedDateTime: 2023-06-27T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 63
-    images:
-      - url: "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google to open global fintech operation centre at GIFT City"
-    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
-    publishedDateTime: 2023-06-24T23:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
+    publishedDateTime: 2023-06-27T18:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "Why Google chose Gujarat for its global fintech operations hub"
-    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 44
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
-    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
-    publishedDateTime: 2023-06-26T05:02:00Z
-    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
-    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 29
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
-        width: 1320
-        height: 743
-        isCached: true
-  - title: "5 FinTech platforms redefining the future of lending in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-28T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "rRAqWvOa4AcRW6uZsEbJBbTL22D2g8Z9YsSauR6NYYKANowdB23gSMV4eeFSCV48yzqRR2egw5uBpApobPgR3hN1K6PAyQ959WjckWG7tpw1uNheSn2imlWIKiFXLZWgMtTSp24gE86b6IbSL6tpPzz8lMk/UdsfVPnu4LlRdKorzK12C/XSadPCpmSZWW4NxLkQLad71BxAG45pxNQzTzyEOnNuvP+GZhNckmggQ6gD5+Vnto+i1HaT+QnnCcGWbwR1P6w8oRLKZtnfgmpAiu2MRaypIzX4vAEAaI/51pWNfKqGBx2rmcChrf/Np9qEpNoJwzJR7RrBr5mBZhmWVGLo785WK00r7ZUfsmMEnAmEFmhag6S1JKIwfwyL6vTz6Qn09x1WzQ3ifJZISimXFkW9kLVz2vc+LKT8FJwWOLi1mZuFoBChzVZwWyUELH7Gcqb5fCRmLm41BbLs2ANARUfu3FZDmLk44bAurd4WsM5nG0D/53X/CLdX9GGEY5AZnWQShgda7dhgZtnoWE/rrg==;dGx6TsQQWdqE0ahUoz5K0w=="
 ---

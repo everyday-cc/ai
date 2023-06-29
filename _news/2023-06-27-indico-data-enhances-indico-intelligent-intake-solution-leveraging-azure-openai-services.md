@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhanc
 webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
+        isCached: true
   - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
     excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
     publishedDateTime: 2023-06-27T18:36:00Z

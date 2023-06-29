@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-bo
 cdnAmpWebUrl: "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "This self-driving boat maps underwater terrain"
+    excerpt: "Step aside self-driving cars, self-driving boats are here — and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys — surveys of the depth and terrain of bodies of water like oceans,"
+    publishedDateTime: 2023-06-27T17:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993768"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/00eb77c9-3e44-41dc-b1cd-f2fa1a17eac7/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "This Self-Driving Boat Maps Underwater Terrain"
     excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
     publishedDateTime: 2023-06-28T18:06:00Z

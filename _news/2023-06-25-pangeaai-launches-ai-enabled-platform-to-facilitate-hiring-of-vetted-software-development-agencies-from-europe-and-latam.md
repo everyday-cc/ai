@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches
 webUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -20,36 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Europe launches massive AI test facilities"
-    excerpt: "A 220m€ investment launching on 27 June provides a permanent capacity to deliver responsible AI in Europe by testing solutions before they hit the"
-    publishedDateTime: 2023-06-26T09:44:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/667d0e02-55ba-46e9-b5a1-7427026e47dd-Corp_Red_RGB.png"
-        width: 1951
-        height: 2846
-        isCached: true
-  - title: "Europe launches massive AI test facilities"
-    excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."
-    publishedDateTime: 2023-06-26T19:52:00Z
-    webUrl: "https://techxplore.com/news/2023-06-europe-massive-ai-facilities.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "+b2BYwO5Es8fEmM5eXGHW6YbYUgt7UZFXHHmu3m+aNf8K5wSapTX0Hn5Pk1lnWUTxvOghsD0cAkmK9srTPdd2IuSHKVOOG0XUYSzD+RKHegDjK6FWx/i7jTtyuU6li5I0s6r41/LdhKDTSEDCuxGR1gX1wwrW6XJ3m1twudt8jui9y0vlziqO0eLOIkuT+kXU49Ybh0ftO74LTldQ49L0Bq8ql//3v2RbdPk01pckA2i2/m7eqWvMZtM7d42Iwug+qDkexJe+3XWL1dVblpbjr/gLyrC7yfSFcnhFqU4oDvJ6DFR6+ZgpMxEbH6+ctvYedVQLbAX80ixChsLOfAP+rGTJQvopf0nrZBfI+mH+qw=;W+Y/pEduwku6spRwWxHCEQ=="
 ---

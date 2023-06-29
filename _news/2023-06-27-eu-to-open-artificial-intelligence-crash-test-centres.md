@@ -20,6 +20,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Europe to Open Artificial Intelligence ‘Crash Test’ Centers"
+    excerpt: "The Europe Union is introducing “crash test” systems for artificial intelligence to ensure new innovations are safe before they hit the market."
+    publishedDateTime: 2023-06-27T10:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU Introduces 'Crash Test' Systems for AI to Ensure Safety"
     excerpt: "This will give technology providers a space to test AI and robotics in different fields, including manufacturing and health care."
     publishedDateTime: 2023-06-27T13:50:00Z
@@ -35,6 +49,34 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430426/finland-eu-ai-technology-right.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Europe launches massive AI test facilities"
+    excerpt: "A 220m€ investment launching on 27 June provides a permanent capacity to deliver responsible AI in Europe by testing solutions before they hit the"
+    publishedDateTime: 2023-06-26T09:44:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 39
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/667d0e02-55ba-46e9-b5a1-7427026e47dd-Corp_Red_RGB.png"
+        width: 1951
+        height: 2846
+        isCached: true
+  - title: "Europe launches massive AI test facilities"
+    excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."
+    publishedDateTime: 2023-06-26T19:52:00Z
+    webUrl: "https://techxplore.com/news/2023-06-europe-massive-ai-facilities.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "w81+QXJzCVxXtgPGqphhnTaBTGK/4MFH6861J/dp5TP+7lkIyWVrD2OZBUWK4Ra0v7wPE6dOgijUcirUcsm2WruAA04tv3DNlkVCj3HRON4MX2RB7R1WzpEVB4/SUuR5giN+ShwB4TCbyKybi90EiIFSIRfeBwX7/sXpUfwQbxg8jZrvP9+M6MikeojbAQl7bOEbCvFN/sWmjTkg1v2SRw5RjTMeua1zXBrEpRB/vvoUhPMG/Vm8Ok1ocg3ZyOylUxFhChrKie6tdbd/9L8jr324oVFUm0Fu1rgbEdxku3ff8EI0e0HwQnOlf71sXYi7gOQw+Ot7rsHdrYqpWZZIdqkiFg1G5SjmSn/bxJznWIBYtYdBWeHMRgBm7qbf1TgKlvRX/tIoUaITiFQZRGioLEpTayXWxbyun6l8wr/JpE+7BLNQzKCqehIMc9x//onJ2Cbl2Fmr2nvkUfAR92PUzIaZvmKDIw+zfLOpwsrIjU1e986LTLPF7EY3iAL38vPTiRsdBf3tqo+2b7DyvjgAEw==;4E4OC3qgaA2sQ/w8dHA4ZQ=="

@@ -65,6 +65,22 @@ related:
         width: 900
         height: 541
         isCached: true
+  - title: "AI needs 'a new era of law and regulation,' says Microsoft president"
+    excerpt: "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\""
+    publishedDateTime: 2023-06-29T06:51:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -145,22 +161,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
         width: 933
         height: 520
-        isCached: true
-  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-    excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-    publishedDateTime: 2023-06-28T12:00:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 53
-    images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
@@ -249,6 +249,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
+    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-28T04:00:00Z
+    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 33
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z
@@ -281,15 +295,6 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 24
-  - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
-    excerpt: "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips developers with globally recognized and industry-endorsed skills and competencies in digital and cloud technologies."
-    publishedDateTime: 2023-06-24T13:17:00Z
-    webUrl: "https://www.inferse.com/564114/microsoft-celebrates-future-ready-champions-of-code-with-over-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 17
   - title: "NowVertical Group Inc: NowVertical Announces New Partnership Program with Microsoft and Azure OpenAI for Secured, Enterprise AI Deployments"
     excerpt: "NowVertical Group Inc. (TSX-V: NOW) (OTCQB: NOWVF) (the \"Company\"), the vertical intelligence (VI) software and solutions company, is pleased to announce the"
     publishedDateTime: 2023-06-27T12:22:00Z

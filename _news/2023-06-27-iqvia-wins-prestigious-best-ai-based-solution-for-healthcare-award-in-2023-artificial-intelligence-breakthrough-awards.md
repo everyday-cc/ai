@@ -1,18 +1,18 @@
 ---
 category: news
-title: "IQVIA Wins Prestigious “Best AI-based Solution for Healthcare” Award in 2023 Artificial Intelligence Breakthrough Awards"
-excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the “Best AI-based Solution for Healthcare” award in the sixth annual AI Breakthrough Awards,"
-publishedDateTime: 2023-06-27T13:30:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
-webUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
+title: "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
+excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,"
+publishedDateTime: 2023-06-27T13:44:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: The Daily News
-  domain: galvnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "K5b/kuO5xNJO31Sd/we9Z7YpH32F52qGgBWY6AELbKnBEV1ufqjp3ikoHCia+/oPhNNBozAMYZvt5g7ov41U+GCdUX29HMjgwqKsZx0vKgsfQO2DZbHe0zJSG3H5btaOs3kt+mhAupYPri8RZpcEyHZ8MLehoad7E14tHXQROPRD0qBJppjyTF8aaBO0YLeJNGhargQsMFZ2ayIyA/aXH0+pxnGiPKINMZ/DoA8ulEojY7M5UjNdkqE+1MIzqk0bf1TQ64Y0F1XAC84q37B9aZuzjRfsyY+v9fIqWU7Al0yarEqNmrY0EMwzpFGfksKchw9Os+MWSYqruBeRS9FOksXjsWyZXuHM+FS1eloEvsk=;LRsfC644Azev88TP5AfFUw=="
+secured: "7RftjZop7NO/zKuYkoNxA3E8PiBCe4GHx0JmQCsNqaicZnDk6htzumD18Cdt/MjYzdXnd8MWLwBQ7E89SXoK2/ALrp7fzCy15xAyqmSwGbiDRtGSNajggaVHXXMQ4hLV4lE5bYxjqZSgZIpC6cFLuObTwQZBxaM/6VRTPEruvEEimxXhMK5OrdTwbVy25RhxSuf1RrnwKC45polN+igwY9evWltClNzbudfYzBFFe2/h7IY92zoyGueiDmT9UUMyhjvaD+jAb49GSmAPbg4OF8OsNF8VCeRUpR5OQ08/gb7utlRm6Ow8M8W+q1eg6k9vXHRJHd8K4gai7CHP3BvH8LsyKauw8zDd0et8WrZeo5k=;27dKmEjYpkoIEW/I0U9SQQ=="
 ---
 

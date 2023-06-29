@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-openai-opens-office-in-london-home-base-of-googles-deepmind.md",
+      "title": "OpenAI Opens Office in London, Home Base of Google's DeepMind",
+      "excerpt": "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735",
+      "originalUrl": "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/64831/openai-microsoft.png",
+          "width": 1093,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735",
+      "publishedDateTime": "2023-06-28T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
       "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
       "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
@@ -53,7 +96,7 @@
       "originalUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1440,58 +1483,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-this-is-just-the-beginning-of-a-revolution-deepmind-cofounder-says-personal-ai-assistants-will-make-us-better-at-basically-everything.md",
-      "title": "'This is just the beginning of a revolution': DeepMind cofounder says personal AI assistants will make us better at basically everything",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Personal AI assistants that can do everything from shop and negotiate on your behalf are the future of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6",
-      "originalUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-personal-ai-chatbot-assistants-will-change-search-impact-productivity-2023-6?amp",
-      "publishedDateTime": "2023-06-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

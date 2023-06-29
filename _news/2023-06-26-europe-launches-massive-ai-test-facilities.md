@@ -7,7 +7,7 @@ originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Europe to Open Artificial Intelligence ‘Crash Test’ Centers"
+    excerpt: "The Europe Union is introducing “crash test” systems for artificial intelligence to ensure new innovations are safe before they hit the market."
+    publishedDateTime: 2023-06-27T10:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "EU Introduces 'Crash Test' Systems for AI to Ensure Safety"
+    excerpt: "This will give technology providers a space to test AI and robotics in different fields, including manufacturing and health care."
+    publishedDateTime: 2023-06-27T13:50:00Z
+    webUrl: "https://www.techtimes.com/articles/293087/20230627/eu-introduces-crash-test-systems-ai-ensure-safety.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293087/20230627/eu-introduces-crash-test-systems-ai-ensure-safety.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293087/20230627/eu-introduces-crash-test-systems-ai-ensure-safety.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430426/finland-eu-ai-technology-right.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Europe launches massive AI test facilities"
     excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."
     publishedDateTime: 2023-06-26T19:52:00Z
@@ -39,15 +69,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM"
-    excerpt: "Pangea.ai Launches AI-Enabled Platform to Facilitate Hiring of Vetted Software Development Agencies from Europe and LATAM Switzerland - June"
-    publishedDateTime: 2023-06-25T06:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pangea-ai-launches-ai-enabled-platform-to-facilitate-hiring-of-vetted-software-development-agencies-from-europe-and-latam-1032408153"
+  - title: "EU to open artificial intelligence ‘crash test’ centres"
+    excerpt: "The centres, which are virtual and physical, will from next year give technology providers a space to test AI and robotics in real-life settings"
+    publishedDateTime: 2023-06-27T13:28:00Z
+    webUrl: "https://www.businesspost.ie/tech/eu-to-open-artificial-intelligence-crash-test-centres/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 21
 
 secured: "ZVqXfkYeSW1DX/uyFpRd5EQ8pOyFLoo30kKDZeFUwidCGBez6HfX7wjum6696XdxJJw+oO28hq0izfXt5gjjMH423w1ANLUThc7uPTvhE8WeXB3sJVdTZmuasH76VhqlDWfoiqXhxr4amWgUTX4+Fw+SSCVeYwpJ/UV9UrX7u58jtCS1gULUOGKKxUkn3RNMWc6T/ELzR6Ov5iUhfRpk2cwNuzv91fWECazuyx1mFNOb86Tys7YXa87TDxQprdFH7FVGW9B4JgJJq0e1GsD7xk1NOYmCZGcYLRcTtOGMhoEj+F6KdDNQCL7P5m6xnJE2Z1F5LDRaXozwvJ8wkIQABTyBllDVsvuyGtCo35rN5X6cftgGgNi/wyb7Pc2Gi+ZnUGnoCJ3cA4vlcVM1BE5T0sWzl+ONuK8j4b60fy0A/R2tejeNikOGuY+LxAMaMJPoc2YQ6WfTu6Wp3VkbP0JkeN485lsW/J5WCs7qZhyBOZ7TFxHhvKwyt9J9FOn5HckQEwmF3CgOJcKwNMCOiKMrzA==;3aRomNsP/UxaLfSKflRXmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-r
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind introduces self-improving AI model called RoboCat"
-    excerpt: "Google’s DeepMind has introduced a self-improving AI model called RoboCat that may just be the key to machines that can self-generate new training data to improve their technique."
-    publishedDateTime: 2023-06-24T15:02:00Z
-    webUrl: "https://interestingengineering.com/innovation/deepmind-introduces-self-improving-ai-model-called-robocat"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/06/24/image/jpeg/9aHw2L9Tyaf7smxpJkIvbxm4sv7HjQGM1ZjxmU4d.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
     excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
     publishedDateTime: 2023-06-26T08:00:00Z
