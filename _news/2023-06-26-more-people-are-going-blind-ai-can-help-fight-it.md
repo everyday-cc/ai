@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intel
 webUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fear not AI, fear bad and careless people"
-    excerpt: "It’s 2036, tens of thousands of artificially intelligent machines around the world, capable of generating their own power and with neural networks instantly linked by trillions of connections, decide to unleash poisons and diseases to destroy the intellectually inferior human pest."
-    publishedDateTime: 2023-06-24T16:25:00Z
-    webUrl: "https://www.gulftoday.ae/opinion/2023/06/24/fear-not-ai-fear-bad-and-careless-people"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/opinion/2021/10/26/artificial-intelligence.ashx?h=450&w=750&hash=56A01A29B1362B38D23F6F36C5D95396"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Fear not AI, fear certain people"
     excerpt: "It's 2036, tens of thousands of artificially intelligent machines around the world, capable of generating their own power and with neural networks instantly linked by trillions of connections, decide to unleash poisons and diseases to destroy the intellectually inferior human pest."
     publishedDateTime: 2023-06-25T07:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
     quality: 54
     images:
       - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind Will Eclipse OpenAI"
+    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
         width: 1920
         height: 1080
         isCached: true

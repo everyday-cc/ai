@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-publishedDateTime: 2023-06-28T04:00:00Z
-originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
-webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
+publishedDateTime: 2023-06-28T12:00:00Z
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
-    width: 400
-    height: 225
+  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -191,6 +193,20 @@ related:
       name: technologyrecord.com
       domain: technologyrecord.com
     quality: 51
+  - title: "Microsoft launches new AI skills training initiative with LinkedIn and GitHub"
+    excerpt: "Microsoft is joining forces with LinkedIn and GitHub to launch a new artificial intelligence skills initiative to help people prepare for the digital workplace. The Microsoft AI Skills Initiative includes free coursework developed with LinkedIn that will cover introductory concepts of AI and responsible AI frameworks."
+    publishedDateTime: 2023-06-29T09:48:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-launches-new-ai-skills-training-initiative-with-linkedin-and-github"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 51
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4439/Unsplash_Mimi-Thian_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Azure: Our AI Platform – Stories – Microsoft"
     excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
     publishedDateTime: 2023-06-28T00:30:00Z
@@ -200,6 +216,20 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
+  - title: "Business leader express concerns about ethics and implementation of artificial intelligence"
+    excerpt: "A report claims that the majority of business leaders still grappling with the skills and ethics needed to implement artificial intelligence"
+    publishedDateTime: 2023-06-29T07:44:00Z
+    webUrl: "https://workplaceinsight.net/business-leader-express-concerns-about-ethics-and-implementation-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Workplace Insight
+      domain: workplaceinsight.net
+    quality: 44
+    images:
+      - url: "https://workplaceinsight.net/wp-content/uploads/2019/09/Automation-eye.jpg"
+        width: 1923
+        height: 1923
+        isCached: true
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z
@@ -333,6 +363,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "HlmkLX5bZpW7iYMdRMDGQix6p1cSD2YCCAto5wrcZRHGwyKnCrf+6svXzXUE6LTPOCWp54qIpX1yaDk29jVaja6Uhj5n1UZIeUbVSlQRtXvh1R1oQwNPR+CdJtqcJWJ33LZHkicUPSXqwxTmTyBeUzQ1bjFls/H+6svePq4sbEdThEpEY/N/m58JhqscrhY9gHqxNM9ha7ncH7wDpVuYmuxJScfNB0adHspJJxtesnpDCL9q1HcrSkcmWjDBQThvgtjSLCauuGrmSIl31F9wW65b3lMXLHwZ/m2VsIpWgudqgyj3IHQM2IoCHFbRWHLhvxdAtsMVKheFddGGkF3AlRmxWfU5ayalFDzBJ18ajEs=;e+WDEGuscfw7McTxGGmQdw=="
+secured: "IYDgXgJT5C7qOVdPA9U0lXT080Xs2bXTzq4DW61MZRfbPaDltLm4z2Y4rJwxZAop+Zass4bKHkV1vmfXg+FknDmZW583u+B/SP7IQ5CTjFFc+MD0rt685P/+Xx8q6LH2lw7Gq40aHJbyj+pLiw7ByVS9/YizxBG6/Jz46AgH2h2+XRTQ3XoVaNsiKR+2ORG5rP0hVrpgfOAi6DcckmX44oqBu00DECrcqX7vAzQSYMmXk2/2+XbmgkTRuyIu7AxolhUjQJLBhBOdmekWk9YguT+B+RSB2U2QB2Y8Tq9naIy5r+uHhOBwlesfp0Szm4ykpdk5Hiw/6t3snJb4IFQrTaPGt1XI/5nqcYrW3wFqb78=;uHNLgyrMTL++EiW3wxW7FA=="
 ---
 

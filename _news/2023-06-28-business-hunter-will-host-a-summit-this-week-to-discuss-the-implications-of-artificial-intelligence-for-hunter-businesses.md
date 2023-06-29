@@ -34,6 +34,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Startup Unveils AI Editor To Transform Small Businesses’ Images"
+    excerpt: "Image and video-editing company Cloudinary has just launched FinalTouch, a generative AI solution that transforms images into photos that look as though they were taken at a professional photoshoot. Creating engaging photos for consumers requires a significant investment of time and resources,"
+    publishedDateTime: 2023-06-29T08:31:00Z
+    webUrl: "https://nocamels.com/2023/06/startup-unveils-ai-editor-to-transform-small-businesses-images/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2018/07/videocamera.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
     excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
     publishedDateTime: 2023-06-28T18:39:00Z

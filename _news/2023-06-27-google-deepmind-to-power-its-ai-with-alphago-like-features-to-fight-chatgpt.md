@@ -223,6 +223,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google DeepMind Will Eclipse OpenAI"
+    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
     excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
     publishedDateTime: 2023-06-26T12:01:00Z

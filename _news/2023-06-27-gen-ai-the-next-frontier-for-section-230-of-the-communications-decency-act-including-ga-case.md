@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vertical AI: The next logical iteration of vertical SaaS"
+    excerpt: "The AI category is rapidly evolving but developing into three layers: foundational models, AI infrastructure and AI applications."
+    publishedDateTime: 2023-06-28T19:46:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1423438259.jpg?resize=1200,801"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Generative AI: The Next Frontier for Section 230 of the Communications Decency Act"
     excerpt: "An examination of an emerging battle front regarding the controversial Section 230 of the Communications Decency Act protecting online platforms from liability over posted content—namely, how Section 230 will treat generative AI content."
     publishedDateTime: 2023-06-26T19:44:00Z

@@ -265,6 +265,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Call for generative AI guardrails, responsible design"
+    excerpt: "Researchers are cautiously optimistic about where generative artificial intelligence (GenAI) will lead humanity, but “we must develop more guardrails”. This is according to Pascale Fung, chair professor in the Department of Electronic and Computer Engineering of Hong Kong SAR,"
+    publishedDateTime: 2023-06-29T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/06/29/call-for-generative-ai-guardrails-responsible-design/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "Tr0srrvr7efwPxRxAOYVoYPzwIUUmeh2RJUYC5fbA+jmdlrCzdoz+K4L/JzgVBVJuiruE2aRXjbKLtLWLH3DMIC3ExTpKAqr9gzVEJhtdqf7gM4sBAptgOFfTXfdV55+PEBgm4PJCou/sLeGOveNpXVOTORz/FHR6kQYmFnTw4JhQ7n0AnsepoFqCyjerKBkaJ8Y80fz7xHKLNkzgbKl2ZMGi4+ilJWzmOaNf8PO0ufX1Ud/j1qSm8UNEJTI5+kNBhfdaQS/YYOTKsCw3XatoqGDIfZ20S13ofk7k3wRcHbE9469yTVjJYomWhhQlYXzK1LSPX2AyLRFiekERnYPmEPolOdMwY0AZHIxQHtEQluCDfQXvDldySwkC226SYm/kXX3HGFMNIFbLrK3DwqyEUxlPptmvP6pK+wGe66VLWtZw/Lk4WdWSyBFQjQkE+OoOAZWvt8IBI3O8LDA2YT6AyAdT1FR5TS5G5CTYn/IOCXCaDAOt02y8Cf3npdk0rDQhwXx8IxQnyoMYZSX2Nkubg==;AHgpeHhG6tH8cYaE87DPxA=="
 ---

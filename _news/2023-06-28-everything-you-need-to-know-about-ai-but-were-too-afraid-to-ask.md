@@ -3,25 +3,25 @@ category: news
 title: "Everything you need to know about AI but were too afraid to ask"
 excerpt: "What’s clear, however, is that AI is not going away, but it is changing very fast. Here’s everything you need to know to keep up."
 publishedDateTime: 2023-06-28T12:08:00Z
-originalUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
-webUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
-ampWebUrl: "https://www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+originalUrl: "https://www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+webUrl: "https://www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
+ampWebUrl: "https://www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/06/28/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Everything you need to know about AI but were too afraid to ask"
-    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
-    publishedDateTime: 2023-06-24T17:04:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk-300.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
     excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
     publishedDateTime: 2023-06-26T19:18:00Z
@@ -122,6 +108,6 @@ related:
       domain: usatoday.com
     quality: 14
 
-secured: "H1MoXJnGaYf7NqNzXtg5/jLXXwikCJsJSU4aSPb4ITqAgccB+Nd4YElDI7YRmqZRIUSX36Fp7zlkmOYpk7gsVz+aXSG1lImaH3YGMda7/eBgq5/0kydfK8Bkkdj5IFWipJGn4hDquJlsU4/xMyhkhiQEv/M44W595J7oQ3TlXF2DXcoKRao7Cb5IpHORwlOw5uIKcKpMkontZIylfh0bPj48jhcUijyo6vVX97Y8KaXMTv6y3omUVBdkNSgECb2yGGzrLfqiflS7yafjKCnCqgbwLOc0EgIwHQys0HtVZqV/DV86zdEH6xJ8RA69xk15nmA+Lxbmk6oP0TAbwZHHLEAxf15ezxuk2RrL8mMZVGPN2nBc4kNRpyfLWLBj6m1UxSLRn/kDQVLRjN8VjLrzdS41/ypox7Y8SiteGsYr4SPfV0vsHh7lJYCgg0dfBPANtHbrs0OEZYm4Q3q25S0BTobi/rlLeouUnoovRCgE9VEGQCEMSNai+B78/pZ5ZbbVR+mqixnZo21BwNwYFwJkpQ==;r+8GDUGOz6urVfagt9PKDg=="
+secured: "E2qMjHIfLK7aF+JLP3HdSrIgDaBk8QOdWM8F1nOk4ztfisE77FTECLvs6EZ450ZgSy1zLhoD2h/hGZGMmwTLy+yURUDLLFZlHKSCsjnJk6fX8W8E7J356zCDWf6xDD7jLQm3vrwDc/AL3Zw+tlms8OxNG0AgE9s5j7lQUP3iDV8WhBVTD9ylzIhDFNBQMhXkiRE6KYO5L+nwg4/SjS7q3gFqjIahOUiAWwYqGYlEXRNLqPZSgjw7fCbxDa0Ghya05yQEghtdCx8adaoPtmTqRlg+cvA5omZeYRjr+pY+KjICjnN8URvazBya2iFv8lGKV46KWnyUIY0Sao54maw52vLZW/MBBPvuMoDq16QQBWc=;E63v8hyAiat/kJu7zsp2iA=="
 ---
 

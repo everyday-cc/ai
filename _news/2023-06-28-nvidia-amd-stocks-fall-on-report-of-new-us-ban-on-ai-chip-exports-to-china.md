@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 451
+heat: 471
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://images.barrons.com/im-808733/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "U.S. considers tightening restrictions on AI chip exports"
+    excerpt: "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China."
+    publishedDateTime: 2023-06-29T09:02:00Z
+    webUrl: "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports"
+    ampWebUrl: "https://cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/us-considers-tightening-restrictions-on-ai-chip-exports/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 74
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/621d1be9-e0b2-43fe-b511-f43734a5574d.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Nvidia Stock Lower on Possible AI Chip Sales Restrictions"
     excerpt: "Nvidia (NVDA) stock is struggling this morning amid reports of potential restrictions of AI chip sales to China"
@@ -367,6 +383,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "US plans new AI chip export controls aimed at Nvidia"
+    excerpt: "Under the commerce department proposal, expected in July, the US would revise export controls announced in October to make it harder to sell some chips to China without a licence. The move is aimed in part at Nvidia’s A800 chip,"
+    publishedDateTime: 2023-06-29T09:26:00Z
+    webUrl: "https://techcentral.co.za/us-plans-new-ai-chip-export-controls-aimed-at-nvidia/227630/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Nvidia knocks down concern over AI chip exports to China. The reason is why we own the stock"
     excerpt: "Nvidia (NVDA) on Wednesday reassured investors that potential export restrictions on chips wouldn't hurt the semiconductor firm's bottom line."

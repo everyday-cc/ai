@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-27T10:05:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers"
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers"
 type: article
-quality: 69
-heat: 109
+quality: 71
+heat: 111
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg"
@@ -83,6 +84,6 @@ related:
       domain: businesspost.ie
     quality: 21
 
-secured: "/yecbmwOc1KAHyhHJ2n/PKHmAsWI1jhVUeehQNHRtnFBeGrPVBKsHuRQ1f5gzdZQwwFLkvvYrU6ygkFL6NUweuWuHnHxozFdU3Xzw1WmIt1rofgKD6ADRVC46gJUxYPcYwAePajuzMs5L31tK4ejxKvXehxK13MFQULzinCVmkeVPHgQQ98FZV9ortipkrjfh4XrezqgPF8oQyiLskmV61P0C9NF1Cs0+MmHZWmjr63o/bLwyAxxL6RSIwBoCWLjgCx17Yqr3at5iGlpwfHZr4fQIH051CWcc4xs4jUNnGaGqswYiKoBYWsZvuiLBRLFy4I5a6vNs0QTo9x38q//SEODI03D4DK/K0BSIQA+gSU=;oSWseSWz0Ch9k9SHoSI2EA=="
+secured: "nVAQL85UdmyRHjc1YfLhGIhlAMAEdzLz2D8MZhHOg6HQmcmAaRUm3ncnMOs93vn5ygxXuNM5rB84Z8q5hgobI8TjozjQGkBiHj5ubsUnOC2WNwvD6ij4r+iBi0cRD1YJHZrDFtH2HndzyBcszd0lx9zZiRvK37kH3ZLlSooyA7ihX1lRSzv+tnhVRgQRxEoAmbTiOpXq/HkOOcXUlnEEReDsupUd00yL3iLC5zIx1+m3xjS9pQloUX+FJ0mibYSeLdFPmL224J55u+Tv38ImeTD4odFH8vWCSOGoWEZI8/RGbHwN61+j1i1agw/iryTS93cFjqS2mpVWOqT7Lqm5wpsdd9LwgssCMn7leDQ6BDoq43kCOBtZe2ICFXUEmfEgzNZ2abaQXCivM3jPRY6rC4H/vbNzvDMTqUKEBTSX7EK5+Yze0YsIIsMctY5h3khwQC5LJlgY0Ra0oZQQqed4FRZL+333z/rjtINJSapRwiB6AQdVgvEMBvtwiqAjljEaaAxEuUy8ULKE4JqG6v65UQ==;esdpi5/Bcmt5nNJzZ71PdA=="
 ---
 

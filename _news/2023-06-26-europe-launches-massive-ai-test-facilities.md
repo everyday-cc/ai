@@ -33,7 +33,7 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg"
         width: 1200

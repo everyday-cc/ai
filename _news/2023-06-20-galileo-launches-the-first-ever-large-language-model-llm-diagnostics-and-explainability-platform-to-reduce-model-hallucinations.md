@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations"
-excerpt: "Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision, announced a suite of new tools called Galileo LLM Studio — now available for waitlist signups here."
+excerpt: "The Galileo LLM Studio debugs the data and prompts to reduce hallucinations powered by powerful algorithms. Today, Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision,"
 publishedDateTime: 2023-06-20T15:28:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8f2c48db-5f68-59be-a4ce-2b8329d3fc9e.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8f2c48db-5f68-59be-a4ce-2b8329d3fc9e.html"
+originalUrl: "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html"
+webUrl: "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "kS237LMCFJn9vsvCGEF0pny6q66yZwl5IkeeKeaOtdV6uZpajaYxLvM1xsYasWXWNsiv4CWvqnoxVl8Xsj1DOZBcFAkbHMc8G+T2TeLKEBJ7fTAW17+6HgYRfuWfJ/ivJqnISDXIIZTE7Et27SaAH/zDj4Ro8cQdUFqqxNduGoLzhrriQQKO2G1GEX9Bxr11TruZUZ7dYES3b8KTtGI1R7RO0QInJ/4wwKWtHmpIpwbc+FEKJfWy9txzccjcUeai/EYEVvIJ7l/nUuJtI0w8oXkThHO+VRQHqr474v2Y0ICIbF0XeJKRPJWspFkN4CyG1IU2XpuuKQ2gAt1L0pKvVjdxE8zkht630ACJdHZng6ku524HOe9ZgiOdFhOVjNnNPCAX7vgVbGY87LuOQ2H75QH2Bxz1I0Hu2DT4ksDKvTdyChhzw+2eSz5mNgVbdWXfF6EveUx4IjRMbOT+k1X8mzpNW1mlU5ipbyut8KX59YxcYkTCvgkpVBkzlVIpva6tk1AHAWdRtMj1U5N+IJmLfA==;Uc69OnpcMtL+UL6gsvSKqw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/1c/31c7a945-e802-54b0-8ef8-6a4703482f1c/6491c881081f3.image.jpg?crop=1890%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "hyk6tC6cz6BcVMtYhJpg7HuF+mH6Cfq0gyVbiP8ZzXlkki48i2v0ODFB/a4HYOsI5DHe/D9SpSjVU1TRt5/w0TQHBq7hll49c/SrWHWaSEnqGZSvIqefiVwqKrTITVwdMhOdHvJLMZ8JIM9ND7yd8MpoFA6SaYfhd1WDlt6fFcUiMHo9Lr5ptg/t5fOSifds2y2Tx6LKMuxpzHTPq62zzdskTqFxU5h5YCnImfGlAbm6yR7KYglaf2n/D/gVQIK2mmob/ysZbt45m3gpQr+CSbEL9oH9beQpEb5PMSngLsLPRRVWUigYI79sJy6nX6nDz0RxyYafzQyWeN3lbEiue7FqRwfHU1wWOHvjbHZUaO0=;RdqLvW3Bvq8xoZUsYDmbQw=="
 ---
 

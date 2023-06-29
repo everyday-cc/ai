@@ -31,6 +31,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Startup Unveils AI Editor To Transform Small Businesses’ Images"
+    excerpt: "Image and video-editing company Cloudinary has just launched FinalTouch, a generative AI solution that transforms images into photos that look as though they were taken at a professional photoshoot. Creating engaging photos for consumers requires a significant investment of time and resources,"
+    publishedDateTime: 2023-06-29T08:31:00Z
+    webUrl: "https://nocamels.com/2023/06/startup-unveils-ai-editor-to-transform-small-businesses-images/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2018/07/videocamera.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Business Hunter will host a summit this week to discuss the implications of artificial intelligence for Hunter businesses"
     excerpt: "He has previously covered issues including the health and environmental impacts of uncovered coal wagons in the Hunter Valley, the pollution of legacy of former industrial sites and freedom of information issues."
     publishedDateTime: 2023-06-27T23:00:00Z
