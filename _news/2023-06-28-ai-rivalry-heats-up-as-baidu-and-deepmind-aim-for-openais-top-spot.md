@@ -25,80 +25,123 @@ images:
     isCached: true
 
 related:
-  - title: "Former DeepMind researchers founded AI startup Reka raises $50 mn"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
+  - title: "OpenAI brings the competition to DeepMind’s doorstep with new London office"
+    excerpt: "OpenAI is opening an office in London, its first international expansion. The company's move comes as it attempts to sway international policymakers to regulate AI with a light touch."
+    publishedDateTime: 2023-06-28T21:20:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/"
+    ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
+    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
+    publishedDateTime: 2023-06-27T02:06:00Z
+    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
+    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
     quality: 74
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
-  - title: "AI model startup Reka raises $50 mln led by DST Global"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind , has raised $50 million in a fresh round of funding from investors including Yuri Milner's DST Global and Snowflake ,"
-    publishedDateTime: 2023-06-27T15:04:00Z
-    webUrl: "https://www.reuters.com/technology/ai-model-startup-reka-raises-50-mln-led-by-dst-global-2023-06-27/"
+  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
+    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
+    publishedDateTime: 2023-06-27T08:29:00Z
+    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
+    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
     images:
-      - url: "https://www.reuters.com/resizer/RWA0Ya2T3MAuv2aIuYymMdsLXFM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GDMQKGOBNBIQVHXGF3ZLSCKWBY.jpg"
-        width: 1200
-        height: 628
+      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "AI startup Reka, with no revenue yet, raises $50 million: Report"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
+  - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
+    excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
+    publishedDateTime: 2023-06-29T06:18:00Z
+    webUrl: "https://www.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
+    ampWebUrl: "https://amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/openai-opens-office-london-home-base-googles-deepmind-70735"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 74
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
+      - url: "https://data.ibtimes.sg/en/full/64831/openai-microsoft.png"
+        width: 1093
+        height: 400
         isCached: true
-  - title: "AI model startup Reka raises US$50 million led by DST Global"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global and Snowflake,"
-    publishedDateTime: 2023-06-27T16:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-3590381"
+  - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
+    excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
+    publishedDateTime: 2023-06-28T04:44:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
-        width: 1200
-        height: 676
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
+        width: 360
+        height: 202
         isCached: true
-  - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
-    publishedDateTime: 2023-06-27T21:18:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
+  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
+    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
-        width: 1200
-        height: 676
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Google DeepMind Will Eclipse OpenAI"
+    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
+    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
+    publishedDateTime: 2023-06-27T12:21:00Z
+    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "XB8FjowEXJ4wl+MGyqhC0OQLqYQIkiaA91C8wEcef4jrC35A5KcLV6o8Ny6FOfwCeuC02gCg00jusRP3TIlaOk5SCa4Nc0jOn6Y+CAWD34eNus5ZfO/vrF7HGywRBXZ8tnXPxKAevYIeCjg4ZOO6IMf3biDngSEwLfmlGLL5QjRbJNU7JvPGZmsP/RyNqOqy+K0VEde7uu0YPyWJbmBCeo3CYlft8hYMaTeIx7nc/8QyfgfiIR+WP1Bndz7wU7GYNdqiCr+aADxg+A8ZCqRlSJAKce1J7og8c9yh2ooLoayjmzAx2rtfbEWXNYM08SzujVDm1lOG3t9udwJwZiu0s2Kt6HXoF7Tzphk7Uy+ND+L2SVCazyQU7v8LxB4GY7SJFWslSAjWE+bvt1SmMZZJbUuaHhd2FdQDyREYPfJJHuKWsNHGiwSTc+DzN2AlahOUvRdm+6Qpl7KO8xvBKyY2sFvGkt9egtgyw3VSRKrHqO5H08al/lVT1bbIIrI64u2kEhgP3OjfyF04g8+doudNMA==;XiqW4C9pEVAmYMgn4m71YA=="
 ---

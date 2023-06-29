@@ -120,15 +120,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
   - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
     excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
     publishedDateTime: 2023-06-27T18:04:00Z

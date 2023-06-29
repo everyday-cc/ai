@@ -154,21 +154,19 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-    excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-    publishedDateTime: 2023-06-28T12:00:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+  - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
+    excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
+    publishedDateTime: 2023-06-29T11:20:00Z
+    webUrl: "https://www.techzine.eu/news/security/108292/rubrik-integrates-zero-trust-platform-with-microsofts-generative-ai/"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 53
+      name: techzine
+      domain: techzine.eu
+    quality: 54
     images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/09/rubrik.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
@@ -258,6 +256,20 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "Microsoft Guidance Offers Language for Controlling Large Language Models"
+    excerpt: "Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation,"
+    publishedDateTime: 2023-06-27T14:42:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/guidance-microsoft-language/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/news/2023/06/guidance-microsoft-language/en/headerimage/guidance-microsoft-domain-specific-language-header-1687789721356.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
     excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
     publishedDateTime: 2023-06-28T13:20:00Z
@@ -285,6 +297,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
+    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-28T04:00:00Z
+    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 33
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z

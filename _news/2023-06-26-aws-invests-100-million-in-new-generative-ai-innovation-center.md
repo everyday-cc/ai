@@ -112,22 +112,6 @@ related:
         width: 2225
         height: 2504
         isCached: true
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
     excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
     publishedDateTime: 2023-06-29T08:00:00Z
@@ -141,6 +125,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Democratization of information with AI: Empowering innovation & inclusion"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
+    publishedDateTime: 2023-06-29T11:14:00Z
+    webUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion-11688035902518.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/29/600x338/Delhi_Lead_1688036701270_1688036717445.jpg"
+        width: 599
+        height: 338
         isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."

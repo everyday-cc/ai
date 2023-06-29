@@ -31,6 +31,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Don’t Fall for It! 3 Overhyped AI Stocks to Avoid."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has been the talk of the town over the past few"
+    publishedDateTime: 2023-06-29T10:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dont-fall-for-it-3-overhyped-ai-stocks-to-avoid-1032417421"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "B+QG2mnpVR9ZP3MWOsBBM04l7una0DwIFL8dmlqGrUwzu149q8wYSTJz6ckOCBRlRUO6hQocsb2izaZ9Lq0J24CvQ3sttkdpGYfHEZXbGihxmI+jnF0P7l2HqCxNeWCUNK6tzS7UrFKiiRI8vo17kVT9m4Pit4RXC049ekUQ59Ya6nqD5MblCNpovTVqaIciecNZyCH/fSEkp4xOH8rNR3gp5jaHMLbsuLh6rgHie44fIP6eqqu8xJp3ePG3bOcim/AtBTX72Oeu4XH7CvXz6nrTbGZvH790Tdd/qXgCbOa0EwiSxXnkjApL7T/Z90HgS6HE8JC7sD6eXUToef6r87aeJ8/o5GewQwblUG7A+Htp79nc/f9rXFWVZcznNX85c4ugsUxd1EE9OpoSVy3TJslT2j0qBIuaxUCAo2mMU2fvtGElLf5DWQYYn0qYLev10PS9MctUFolxNF7egWWXhIpiv03Yl7rrZyKv8zXNApGKKo3oswFqV+0pU+Sa9oGJpIBuU0HQoXFdXd2+SbnIBQ==;ZkYli22JmsxoCU2eSllg8Q=="
 ---

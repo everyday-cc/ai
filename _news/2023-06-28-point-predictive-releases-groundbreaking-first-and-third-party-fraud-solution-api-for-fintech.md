@@ -115,15 +115,6 @@ related:
         width: 1320
         height: 743
         isCached: true
-  - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
-    excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
-    publishedDateTime: 2023-06-24T18:40:00Z
-    webUrl: "https://menafn.com/1106496740/Unraveling-Fintech-And-The-Role-Of-Cryptocurrencies"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
   - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
     excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
     publishedDateTime: 2023-06-27T11:29:00Z

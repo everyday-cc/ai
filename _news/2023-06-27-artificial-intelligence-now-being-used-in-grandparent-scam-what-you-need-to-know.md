@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
 excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
 publishedDateTime: 2023-06-27T12:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
-webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
+webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
 type: article
-quality: 14
+quality: 12
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: usatoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -107,6 +106,6 @@ related:
       domain: eurweb.com
     quality: 18
 
-secured: "JGK3pz4FPW+Y7CYXjF/uyVqgapen7C5OqKTk54yvLip9E8UsM6PmowY1Z/GhHYHgTMcBHp7eqXWh+Wewq+WdKzhp5iQdR9ZS02OnoLhefz52YUqOpU0ZrKQmXzZdUsWgi3FyX/oTcAThxjlgOCDc71UHw6z9J3MDh4G5NiXWPPTAaFVq0SNgrBuYJ4wCX+FblUf07dVFUnVpw9cv8+nmPlKXdRq/XHWKPkZC9c1GhyIFaBCEI0sHQaT0X4T1iypTBa7O7qBUnY7aQxWDikJtOrcpcVjoAMn1YsPVfqeVjdWOKhRbp48G1I6bggoGF2wp00QuP8tG6LMFZc+tsK4Pk62tAVhddvfBfVAAS3zaJ0gPv9N+FjYYTFtejeojyHgxIT5ToQy96SPZXaSy3UHT4/hu8I3qqgkRqczxTzTq99wI1jyP8SQvV6CKHr0TxcYStw+nvpAqDfYUxpT7BI98mUxr3hoiQJn1yezV2luZCg4jtTzjenqNeVZBRetwrlHGHYJy2Xj6mk4NgQ3pCx/r1w==;1PhxTbvtOA5pav1ljxkNPA=="
+secured: "fUsDj2c12KuQVigbgvIHX3uze0ytX4b+jM6skYY7C6PPzvaAELI0GA6JYdzwvM3V45EQamlSezw6j0RBIeW6mVL98wumUFexPIWw3H+6puKYN6xa3MfJVAgKGJ9tckH25tOniWLDdHAgVuuhNTtZjdBl6JGdquU+6e8Jk9esgwF/1XwP5LzZLPsrMeJLaJGXefrgXbUPamOQUmMj4YfRFPBM6isw1o65SPdsu5ZEy47tepbUNEVEzOEKVBPiI+D1nSur9uS3uNL4DmwNH4qMF+w70PGN8HW9RjRGfHLXtlllZihMQQUtFjTGEyZ/t2rXCZ3pH4IHcSZ3zDc8Vf8PLp0CBWfH6s6UaR/zAfCLPbhUPM9HbxSejaP2dZXTVYs5dKTgAKfFoj2EF40+XXnYE5AO/R+ti/7eJPiaxWTsbg94Y6rcBo3ET2ZhWgdlUxijk2NJkwICYgotcb/vCPnePWAjGuRonid/agkhnGNcAzsCNk7Sbmw2rO96eL8doMPOaBekVDyQqLQ7zaeAkENsYg==;GNflN8wO2slu4a9I1+/aPQ=="
 ---
 

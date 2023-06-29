@@ -55,38 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
-    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
-    publishedDateTime: 2023-06-27T02:06:00Z
-    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
-    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
-  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
-    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
-    publishedDateTime: 2023-06-27T08:29:00Z
-    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
-    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Google DeepMind is apparently building a ChatGPT killer AI bot"
     excerpt: "DeepMind’s CEO says that his engineers are working to use the techniques from AlphaGo to make Gemini more capable than ChatGPT."
     publishedDateTime: 2023-06-27T06:27:00Z
@@ -149,22 +117,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
-    excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
-    publishedDateTime: 2023-06-28T04:44:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says CEO Demis Hassabis"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z
@@ -181,20 +133,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google DeepMind Takes Back What it Lost to OpenAI"
-    excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-takes-back-what-it-lost-to-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google DeepMind's upcoming AI model, Gemini, might outshine ChatGPT"
     excerpt: "DeepMind's Gemini AI model is expected to be better than GPT-4 The AI system Hassabis talked about is called Gemini. You probably heard this name for the first time at this year's Google I/O. Gemini is still in development."
     publishedDateTime: 2023-06-27T05:49:00Z
@@ -206,20 +144,6 @@ related:
     quality: 54
     images:
       - url: "https://i.cdn.newsbytesapp.com/images/l88520230627105623.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google DeepMind Will Eclipse OpenAI"
-    excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepmind-will-eclipse-openai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Google-DeepMind-Will-Eclipse-OpenAI_.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -282,15 +206,6 @@ related:
     provider:
       name: Tech.co
       domain: tech.co
-    quality: 34
-  - title: "Google DeepMind’s Gemini Can Rival ChatGPT, Claims DeepMind"
-    excerpt: "DeepMind CEO Demis Hassabis confirmed that Gemini could analyze text and plan and solve problems, along with some “pretty interesting” new innovations. Google’s DeepMind announced Gemini soon after making headlines with PaLM 2,"
-    publishedDateTime: 2023-06-27T12:21:00Z
-    webUrl: "https://techreport.com/news/google-deepminds-gemini-can-rival-chatgpt-claims-deepmind/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
     quality: 34
   - title: "Google DeepMind is developing a better AI than ChatGPT"
     excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"

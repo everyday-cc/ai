@@ -3,22 +3,18 @@ category: news
 title: "AI will transform finance sector, regulator says"
 excerpt: "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector."
 publishedDateTime: 2023-06-29T05:07:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-guernsey-66041385"
-webUrl: "https://www.bbc.com/news/world-europe-guernsey-66041385"
-ampWebUrl: "https://www.bbc.com/news/world-europe-guernsey-66041385.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-guernsey-66041385.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp"
 type: article
-quality: 104
-heat: 124
+quality: 74
+heat: 84
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -47,21 +43,7 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Aveni unveils AI platform for financial advice firms"
-    excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
-    publishedDateTime: 2023-06-27T10:03:00Z
-    webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 39
-    images:
-      - url: "https://s31974.pcdn.co/wp-content/uploads/sites/3/2019/12/launch-take-off-plane.jpg"
-        width: 640
-        height: 410
-        isCached: true
 
-secured: "PDr97deU/5u56ovHPFAKoXv30Cvut9UAG2Pygbxx1ovDYQLuThrdfi2BZ6Zc4oyDeLbdl7JeTedD5pY/k4TA1cAUuikNAEkwDormtEQ3InkhS5uV39cHnCHGZv1occJzQHESNcSxWh9nuvUfpR3MI3gk2piCNICmGwZlppojbOCdAIByuIetceesJyggjLTNu+LLMWHXwtunk2BcbCkko2W44PJ+jp0WhjtgaNrOyHio+9lCkAhSOuufl9v+kxydo7alPm5hn75Rf4Rhfz+AWRrs8FeoAjQEpHNDvRLt7LXDjM745gB6tczQOvWOI4XFXqRBtyrgtHXz2UYsAEPlyEKtH11emddsq4RDafPAXcytX/+eunL18EAV+ReT+EoFEqzKwuSlJwWqTMZ1cqnEtSjUk84j0EKzFfPZbelDLkRecqqOiC5YdB39dZVFoiDRn2MXRut4yzl/D6HlhIXBoy2hRrXRCSMGbzUzIW84rnFeTORHqzWm2/E2UyZ8i3r8j6ttYSwKhoWySjGqBa/Hig==;s1LqPMP44FbeaWHzHCvndw=="
+secured: "qyq00meyHddbYfHcXfIbf5sm920Rj8iUooQSLGQI6ejZptVexOLE/SMBKfi5ActXKHmrGMkj4hN79sVIvIolxdG9+6OlFgnKG2voZsNnWda7h/IZO75vzfqUaQfu9FPmzTNrMYvKXg3DEz+oTGXn1WEwwM160DhmbWHTBgNJPEnJSioEOU/wNqgNiy1W234F4n2rsKqXJHtoCWVId7b2qLErQx0Gytz/3zzHV9anRVV9wILjFbBMdvVSleDy49d7sLAqCIXcQyP3ywOxP9oUfmdsLVY3BvIdy3FPBVr31h6PgvLDkHPJwVImOw5r1Xv/yKtLYiSME9C0D4rrNbKi3kQTfOnjxZCgbppioO0dpoo=;HzfkwKJdKdKIOk1jwO33FA=="
 ---
 

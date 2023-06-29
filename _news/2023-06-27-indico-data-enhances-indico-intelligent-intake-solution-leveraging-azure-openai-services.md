@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhanc
 webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Insider
@@ -37,15 +37,6 @@ related:
         width: 300
         height: 203
         isCached: true
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "ATPrbYVH7xCmLpUUj+iK1l+Yu7l62ZSzi8zBSQvY8rDinAr+gFFAAXYEqAfbKcE7k54PCXZfWk4B9nAttLzDhxA3IHUIDz+p6KM6yUmP3QBBW02Cp0Fs/Qzw3W9VL6ytVOXN1axk7Ts3Hn22YJl/jVLuKowONeZansveNstngSoIA6C4kZTm+FxR44Spgwf3mMEfUnMy8mhTY52wQMMCDK9A2DVKhcvD7Rj6nLW0ZeI7KX98bQZptWRFVYaWDOe/+oXtNedGDJLoQtQ0Wbn5N5GU1j19KVyVrYkFaZft0pHt6zXg2kizLA7pJC9AUvRY7S8XQeX0/xQIFdteM1RIaVHOZIqX/1KovqPHbdJZc1s5QGNxJYPxTrJIgbdDwfLueEzOjGOXdVN4P8rXQcnJifpSUUSFxSQ1tqF4+MCc6eDEPuejK0F9F/h40ZRgmuBU4xj2cmLD2eJQdybKm6ymfovKFulmoTfEI3w/1RcxreeO3OXPJQuTjObmhwkwL2FJ26t3kLcevMCV5bDB9JLrMA==;X1LOauXCZL8A+Qg4IoUVIA=="
 ---

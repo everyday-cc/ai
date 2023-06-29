@@ -7,8 +7,8 @@ originalUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-cou
 webUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-court/article_3cd3bc4a-1089-11ee-b542-f780ea9b84b2.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Norman Transcript
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI robot officiates a Colorado couple’s wedding"
-    excerpt: "\"And now with great joy and utmost honor, I pronounce you partners in love, in life and in the exploration of future filled with endless possibilities,\" said the AI officiator."
-    publishedDateTime: 2023-06-28T14:19:00Z
-    webUrl: "https://kyma.com/news/national-world/2023/06/28/ai-robot-officiates-a-colorado-couples-wedding/"
+  - title: "AI robots put to work at Kent Co. recycling center"
+    excerpt: "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,"
+    publishedDateTime: 2023-06-29T11:11:00Z
+    webUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/"
+    ampWebUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 74
     images:
-      - url: "https://kyma.b-cdn.net/2023/06/AI-WEDDING.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "UK’s Ai-Da Robot to give keynote speech at AI for Good Global Summit"
-    excerpt: "Artificial intelligence (AI) and robotics innovators will join humanitarian leaders in Geneva AI for Good Global Summit"
-    publishedDateTime: 2023-06-27T13:31:00Z
-    webUrl: "https://www.techdigest.tv/2023/06/uks-ai-da-robot-to-give-keynote-speech-at-ai-for-good-global-summit.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 34
 
 secured: "ofWpx7F6tN6kWeQ2CQFqEoaZlHRPnYrBzy+nnvIp/HIZPP51lmFFpv1B7WybQXgHv4tL227s3Z+02eLRD3z/wc1elJK7HChE1NzmH8y6tsSrt5MJTyiLfwt+qm11hvOZaLZjTn7KUeMc+D1EG8LOcZYNBGGiE1Yx1hbNYxP84+Us+FnNI1N97W4w1nlhBFk1duy43tiwKXtI+yw4zzyMVoE/LUh25Ln972q1VQDNzrtTNl8iOTlc98QDIHN+o82huwao0Q8A7se9UZmwSD1lzCRUDJUXanr0z/FIiJxmZY7lKCb26ith0PUGjhfFnBYFt54+KpLEEpFbjqQA8JvwiDT/qMZj/vjLsvhewUasmz8=;XogoOVJjIeB8gG3alqEZKg=="
 ---

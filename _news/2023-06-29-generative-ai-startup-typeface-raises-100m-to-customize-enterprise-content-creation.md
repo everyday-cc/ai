@@ -128,21 +128,21 @@ related:
         width: 2225
         height: 2504
         isCached: true
-  - title: "AI Technology Brings Innovation To Treating Stroke Patients"
-    excerpt: "Tampa General Rehabilitation Hospital is one of the first medical facilities in Florida to implement BIONIK's InMotion robotic arm to treat stroke patients. Through the use of activities and games, therapy for stroke patients is more interactive and fun than ever before."
-    publishedDateTime: 2023-06-24T18:01:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32997125/ai-technology-brings-innovation-to-treating-stroke-patients"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32997125"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32997125"
+  - title: "Democratization of information with AI: Empowering innovation & inclusion"
+    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
+    publishedDateTime: 2023-06-29T11:14:00Z
+    webUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion-11688035902518.html"
+    ampWebUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: Mint
+      domain: livemint.com
+    quality: 58
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.livemint.com/lm-img/img/2023/06/29/600x338/Delhi_Lead_1688036701270_1688036717445.jpg"
+        width: 599
+        height: 338
         isCached: true
   - title: "3 Questions for Coursera About Generative AI in Education"
     excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
@@ -247,6 +247,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "KsItZa0AI+nyFT1ojFeCwSUHMqrOsIcbY7+vJ61u74ReDhC1muMhfV07tXZwtD5knMUbAd5X9G2Xnn6QtsClieB4D229NiMMrWj5+fFfaXdqgWBsYGHhe/e0dupOECjEjULYZxIZRp5sq+V6hqzJk2f120T5Fo4URgrQ5av24SopyJhb30ee00tY0HBgagdttE3FGlhhvS9FixZdwEpqPE1EVM5BwVJCM7UoaNCw/MBx/QNH2pLWyxgXuQpu94pKKbv/xOnzjkaoDkO4n4Kt5vmcoucojFYVY6AFSFNT2xx4CZofFgoUR9cNvuWyOrSlwlmXVX80xXd+HBlCBTJWCABhq5CAlQZkduMq2m+TcZg=;QJ6W0HBfHE8LI5AQ2Uaifg=="
+secured: "2WuJWKiII40FapRmPW9YSvIk9UHgWtPGQqfJjgIZ3NkDifgOKWJGEIbtQf3T/nZSuiRaueYiQxFGYoksRqfpi/5mqbDIvRpNi5FOw7bRtYa+7sHUIwGur0FDrHvQ49ghd0myrayPDViEfOw7VAz0n6ytv0H/syJ//klNdUX0jlwN9AyNjXSH72+DcUPi5i0CQ/97GQFdXp0G0HmakicAmj49N5GwPf6GaLeg6PuPLwwQKj8SpWtesj869IOxamN1/TgXBLHOLhlmZYmfkpolGW9BFABqH3dIv0RNuhJEQHvPviyaC7wkoM6SNn4UvkP0F2rCEHwhRGA9cwsadM2zBDkF8KMhJdCZ8FeR4hERanlUjmKyDGsjaktdk0GJtY7TUV2qMicYaHz4uJv66Vm+DA7IBr+v/9AEbrEecmeSfXv0c/yi+jevV606kzygRY9hADz3YwY+OeUHsJpihmUJhVMmreyZ8gThr1aSOlIBxbN7vZ0ftcpEGubseja4CTKelF1LYLOhq2967lUc8rph5Q==;yTaNts3qtUpUVDdYf2tKIA=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-publishedDateTime: 2023-06-28T12:00:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+publishedDateTime: 2023-06-28T04:00:00Z
+originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -170,6 +168,20 @@ related:
         width: 933
         height: 520
         isCached: true
+  - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
+    excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
+    publishedDateTime: 2023-06-29T11:20:00Z
+    webUrl: "https://www.techzine.eu/news/security/108292/rubrik-integrates-zero-trust-platform-with-microsofts-generative-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/09/rubrik.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
     publishedDateTime: 2023-06-27T11:13:00Z
@@ -257,6 +269,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
         width: 1893
         height: 767
+        isCached: true
+  - title: "Microsoft Guidance Offers Language for Controlling Large Language Models"
+    excerpt: "Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation,"
+    publishedDateTime: 2023-06-27T14:42:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/guidance-microsoft-language/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/news/2023/06/guidance-microsoft-language/en/headerimage/guidance-microsoft-domain-specific-language-header-1687789721356.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Anjuna Adds Support for Microsoft Azure Confidential VMs"
     excerpt: "Anjuna Security Inc., a confidential computing software company, today announced that its flagship product, the Anjuna Confide"
@@ -363,6 +389,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "IYDgXgJT5C7qOVdPA9U0lXT080Xs2bXTzq4DW61MZRfbPaDltLm4z2Y4rJwxZAop+Zass4bKHkV1vmfXg+FknDmZW583u+B/SP7IQ5CTjFFc+MD0rt685P/+Xx8q6LH2lw7Gq40aHJbyj+pLiw7ByVS9/YizxBG6/Jz46AgH2h2+XRTQ3XoVaNsiKR+2ORG5rP0hVrpgfOAi6DcckmX44oqBu00DECrcqX7vAzQSYMmXk2/2+XbmgkTRuyIu7AxolhUjQJLBhBOdmekWk9YguT+B+RSB2U2QB2Y8Tq9naIy5r+uHhOBwlesfp0Szm4ykpdk5Hiw/6t3snJb4IFQrTaPGt1XI/5nqcYrW3wFqb78=;uHNLgyrMTL++EiW3wxW7FA=="
+secured: "XJXsG70mh3Kkupyvm1NH3peUbL2jH6K+bdWw0hkNjJ2hPo/d8uZXtd/We/YKnXer0bETbfttlA8xl374LaCJFFa1fyemUDWlY/WnEQD4cZbgs6qFtuoReAng0zaYEYejPXC4jxyWiAQbNYwVXPKy3EYKHWztnvr+c11H271S6Y2ICvKXrCPfWURcsp8NEsqWgkgYTNCI1u6cqGF0KtjIgnxfv51cLvzXSmsN62DN4C8IAA/kGZTahYNKc09mDdh6hGATXse6ynNlXQy7Jm3MTWs8TjxE197KvCqqLVsYpVgZouj9Ck94Jo250VtHnN2qOheqClAVpAvPPwXbVBs+K7SQJo/jdVdWQbDxk5PNC4s=;EHEa31UbAEB6WKEHotcuVg=="
 ---
 

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "The Vatican issues handbook to navigate AI ethics in the ChatGPT era"
+    excerpt: "Amid the call to regulate and create guardrails against the misuse of artificial intelligence (AI), The Vatican has now issued its own handbook for navigating the ethics of AI technology in the ChatGPT era."
+    publishedDateTime: 2023-06-29T06:32:00Z
+    webUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/articleshow/101360880.cms"
+    ampWebUrl: "https://www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/international/news/the-vatican-issues-handbook-to-navigate-ai-ethics-in-the-chatgpt-era/amp_articleshow/101360880.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
+    images:
+      - url: "https://www.businessinsider.in/thumb/101360974.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
     excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
     publishedDateTime: 2023-06-25T15:20:00Z
@@ -47,6 +63,22 @@ related:
         width: 684
         height: 523
         isCached: true
+  - title: "The Vatican teams up with US-based university to escape AI's misuse"
+    excerpt: "Pope Francis and Santa Clara University's Markkula Center for Applied Ethics collaborate to establish the Institute for Technology, Ethics, and Culture (ITEC), releasing a handbook titled 'Ethics in the Age of Disruptive Technologies: An Operational Roadmap'."
+    publishedDateTime: 2023-06-29T07:52:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/the-vatican-teams-up-with-us-based-university-to-escape-ai-s-misuse-2023-06-29-878443"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/the-vatican-teams-up-with-us-based-university-to-escape-ai-s-misuse-2023-06-29-878443"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/the-vatican-teams-up-with-us-based-university-to-escape-ai-s-misuse-2023-06-29-878443"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/artificial-intelligence-1688024729.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z
@@ -65,20 +97,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
-    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
-    publishedDateTime: 2023-06-26T03:11:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+  - title: "BEST Inc. enhances AI capabilities by integrating ChatGPT into Qianyi ERP software"
+    excerpt: "BEST Inc. announced today that it has integrated the natural language processing tool ChatGPT into its Qianyi ERP software, allowing cross-border sellers to generate multi-language product titles and descriptions using AI."
+    publishedDateTime: 2023-06-28T09:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-inc-enhances-ai-capabilities-by-integrating-chatgpt-into-qianyi-erp-software-1032414274"
     type: article
     provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
-        width: 1250
-        height: 834
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="
 ---

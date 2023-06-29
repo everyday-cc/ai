@@ -70,20 +70,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "AI rivalry heats up as Baidu and DeepMind aim for OpenAI’s top spot"
-    excerpt: "At the front of the pack, Google DeepMind, Alphabet Inc.’s AI research lab, said its own large language model chatbot Gemini, which is still in development, is on track to eclipse ChatGPT and GPT-4, OpenAI’s newest and most powerful AI model."
-    publishedDateTime: 2023-06-27T17:10:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/ai-rivalry-heats-baidu-deepmind-aim-openais-top-spot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/chatbot-gd9fc1c034_1280.jpg"
-        width: 1280
-        height: 1106
-        isCached: true
   - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
     excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
     publishedDateTime: 2023-06-27T21:18:00Z
