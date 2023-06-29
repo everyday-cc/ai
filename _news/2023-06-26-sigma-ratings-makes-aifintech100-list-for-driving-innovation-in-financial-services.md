@@ -42,15 +42,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 15
-  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
-    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
-    publishedDateTime: 2023-06-26T14:59:00Z
-    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
-    quality: 0
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---

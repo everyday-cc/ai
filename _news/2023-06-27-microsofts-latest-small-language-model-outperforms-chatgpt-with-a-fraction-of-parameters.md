@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatp
 webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430323/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.jpg"
         width: 1500
         height: 1125
-        isCached: true
-  - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
-    excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
-    publishedDateTime: 2023-06-25T08:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 53
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/06/Bing-AI-Chat-Image-update.jpg"
-        width: 1760
-        height: 884
         isCached: true
   - title: "BEST Brings ChatGPT In Qianyi ERP Software For Multi-Language Product Titles For Cross-border Sellers"
     excerpt: "BEST Inc. BEST integrated the natural language processing tool ChatGPT into its Qianyi ERP software. The integration allows cross-border sellers to generate multi-language product titles and descriptions using AI,"

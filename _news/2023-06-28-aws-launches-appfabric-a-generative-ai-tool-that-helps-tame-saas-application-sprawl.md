@@ -40,14 +40,19 @@ related:
         height: 875
         isCached: true
   - title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
-    excerpt: "AWS AppFabric quickly connects SaaS applications across an organization so IT and security teams can easily manage and secure applications using a standard schema, and employees can complete everyday tasks faster using generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T18:16:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840156.htm"
+    excerpt: "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by"
+    publishedDateTime: 2023-06-27T18:00:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "C3aWhTIhTaXRbLlHUvzNBosxlGOlRuhZCLHXM8gGSFj6/s+RKpXBqVNbuz2PDEslRnhV/cRqRJS0XsFm6ImZwiKa9D/uRV2hWxaMMJOkwiTVZ+p+y2vgyRszfTln6mAWw8mAXpbHMBxCVrpMfDI+B8QMtWAB2Fd25mRq2k8gDbP0jKJvsgdKmIGKM7KD2iDD1gm3nH9kVpIiXI7fh5gGPk7DUPFqtLR5u41khy1ypgya/96b57X5KNth/HvV3EaheYH5xtqC9CiPVLHaLdfUEEAIvQ2Vee0yNeHJXjP1wwJ3GtrjVPRr1MXbwVfYyemDgNJd49lLALGIj51VjWVg8t1wHn7cl5SuGrps1jkQmZ0=;jd1cDhuyvzP/2bMwm1puFw=="
 ---

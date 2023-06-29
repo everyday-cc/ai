@@ -2,28 +2,26 @@
 category: news
 title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
 excerpt: "Forget about the canary in the coal mine — experts say the day is coming when there won't even be a need for a human."
-publishedDateTime: 2023-06-26T12:16:00Z
-originalUrl: "https://www.bnnbloomberg.ca/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-1.1937984"
-webUrl: "https://www.bnnbloomberg.ca/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-1.1937984"
-ampWebUrl: "https://www.bnnbloomberg.ca/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-1.1937984.amp.html"
-cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-1.1937984.amp.html"
+publishedDateTime: 2023-06-26T12:40:00Z
+originalUrl: "https://www.princegeorgecitizen.com/highlights/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-7194646"
+webUrl: "https://www.princegeorgecitizen.com/highlights/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-7194646"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: bnnbloomberg
-  domain: bnnbloomberg.ca
+  name: The Prince George Citizen
+  domain: princegeorgecitizen.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.bnnbloomberg.ca/img/bnn/amp/BNN_placeholder.jpg"
-    width: 620
-    height: 349
+  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/06/20230620130656-152159e5d2902365d3b01e4bef7a7e7c96b673de2bef23da917f1ccf24364258.jpg;w=650;h=433;mode=crop"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -67,6 +65,6 @@ related:
       domain: ctvnews.ca
     quality: 0
 
-secured: "LSrLJl4ItN2r3p0qD1Pqkj+fFtJOCUeIRQDDWxDqj5oTSqZ2AShuVDM18FqOoi8eRmhg2w0dP43JFY+0v0aa1c5g+vDyODp6gNyk5ayc/tbW67jZdc01pqEomY9OcA/JcLPFtNMrpd11uZjAAY7tGtNyDOf8o5LqrzJU718frGIsHUZFPesJGz0LYsmSmHNXYYufLxNy1m6WheKZZAMihqeASzS0iajJ/hgJGprswsi0OnsCBeDMfR6mmUvukn6r5yl6rDxf+qfdEk2fHfb8BrIAY3xUojTPahZUhsLzEOFzpMp1GmWnkumOBL2jYHsULGbTJzZpUpv5TSXe42DN0rLfwqvkfDyec2PAkz86baQ=;RB9HttUUVKPfHmjk+0hHTw=="
+secured: "JKawg9JpFdanqznSj2y7XfqyFvqHy8x/lVtCa0mud8Z3+eRLWh3iJxaXVwGs8n0d4aSPNheT5FbjFzOXTp+qHF98I+4thfGHtvSoy0/11ujI4kSzF0S0QYGjsGm8elLwYt18/cUy1lPKZG4+6PtH6OLeksbTCI1H60lAdxCiSEEOOjsLXwKWwQ9KeXmwBxQbEAjh1f5obEVMf3x8Gcui4xtUNi5X4NECC13C4N/kiJx5OSphriACL9iuqPBdJLJWCyhGG8janDjtqLTt12Ipk8DHA+jDtnFB+iMSSiXcV6uY4pC87SNHinlwSIthLXpbPz0j0AHnuxXBSTf+Ol35rForFjLK1O2lZ1zhncXXuwM=;LiLK1tbyG49YspZbp8ywlA=="
 ---
 

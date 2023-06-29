@@ -59,6 +59,15 @@ related:
         width: 972
         height: 547
         isCached: true
+  - title: "The Transform AI Survey: Help discover the state of generative AI"
+    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "M+j+PMRlMLdkVgREsjQ7L6J6KMDAiw4bmbeG2PyPFva9YXgjkyniSsrIM7vc4cDyuzwWqCE30VOHUf3ffiin+IzUkEGTQxklxx1kUuxKdoQuWuVubSzcmNF7NmSc9Jd+vHtfiqLEXp9839d7p+vRl2ppfjYrN2YWd7xFpHBwIzb50CPf+X+orss6t/EkdpDrjD88xPO/Atc3OwNW2M+imWK5CTvYuCJBqgHDvOUKghs0InbA9YYwsiNmYDXewqfuaahZcQ+SLqThErlBzU7ISxbbTdBhwyKnQcfBGlElH6lE2sFJ2TEZVdoaSAU2TQHHPXEmkocfgCdvUjOgfGRTjyyHLoG+JebBpZjgPDM+e1U=;SZBPrpWL+/uQuR51e58Prw=="
 ---

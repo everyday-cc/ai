@@ -57,22 +57,6 @@ related:
         width: 1500
         height: 1125
         isCached: true
-  - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
-    excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
-    publishedDateTime: 2023-06-25T08:20:00Z
-    webUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 53
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/06/Bing-AI-Chat-Image-update.jpg"
-        width: 1760
-        height: 884
-        isCached: true
 
 secured: "HZpkOY0fAyHMws9zEytONpXsYrHO+hL1t0lS1c983ssprEVWS6uZzHvLZ01ing3pWvE7gJXiEWlI+deEeKujRTeIAKk3t2TxFpkDSRNseZ0x3+fAYw63TSv1JUlzZ53en04mnCMGtZQPM9fpyHQ9OdaAiK8JARm86cxwhO4zr/i5wARnlsbcDoBW6i79+kt8h9uxTOCYpGhuHi4tc77EsJ87UotgG3FQeSLGjiXtZNcwb5on8GJbi5MMcAzPOcLh6+GiJwIQ6+gOUZhtgJeMOvPjkwYTw21vuUjQ7iSr9hQl7WvcIAE/ppU0uOfdjIg3/IGyRd2hOvesTQisXZzy0cqGslJp1BUqnID+IlV22/4=;jylSiaFSluiawoIUZUw70g=="
 ---

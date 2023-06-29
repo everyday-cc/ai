@@ -47,6 +47,22 @@ related:
         width: 1000
         height: 683
         isCached: true
+  - title: "Databricks Hosts Data + AI Summit, Unveils Suite Of AI Tools For Customers"
+    excerpt: "Databricks has revealed its new AI-augmented Lakehouse IQ platform, while Snowflake confirmed it was partnering with Nvidia to help customers build their own AI models."
+    publishedDateTime: 2023-06-29T14:12:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649d915b0297b7ca3032423a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Databricks’ $1.3 billion MosiacML acquisition to boost generative AI offerings"
     excerpt: "Data lakehouse provider Databricks on Monday said that it was acquiring large language model (LLM) and model-training software provider MosiacML for $1.3 billion in order to boost its generative AI offerings."
     publishedDateTime: 2023-06-26T16:58:00Z

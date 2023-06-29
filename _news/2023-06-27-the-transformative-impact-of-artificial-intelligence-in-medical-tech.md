@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "The Transform AI Survey: Help discover the state of generative AI"
+    excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://venturebeat.com/ai/the-transform-ai-survey-help-discover-the-state-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "AHZu8OIMQ2ZMhl826YbwE2wpKyGOmtQOactnmezVW2ASUz5rSDPCbUor0p2OiB3Vyf+uBJMybdsmyBEI2t6U10hiAaLIh5YI6sWBK8oBYXlw88ERhgRcfJSB6+PGOLY+8dseYMcTbhcso0R3MUnGULvFUDdv2HcvCPy4t+/CsBGuEilRhfMYt93aE781yl2J2ld+xE7KF3bPqX8GTLCgLWmxM5ZSDQmyphnR9j6mj9MecjAg/ipo/rFt97WKn3AcM0DQLNpQFflnfoDWqLIXdU3YI/umbi+7/vpd3RiFFUXqn6QxUiWxYBAbkXVtgbJ9I+zsWdOuIChDyDfX4B74JnEV/c2jeMyD9AqyOFPFbFpg/JG0wmfTCJ5bLZ1NiYHBgwcr8FTZ4HlNjBceBSBJkcyK8wBmusGFfeN6OyEICZZKjnBVwCu8w0zMwzIwFs88kc07S3uqZI9Ug5PfIQCJj4N035fsOwKej8KyiHweJg7GJHi5vuHx5PoHEg1jxDraEG+A8NdUkrv5Tl5nGOSbHg==;Q1PQ5c1Q2kmFa/RIvRqczA=="
 ---

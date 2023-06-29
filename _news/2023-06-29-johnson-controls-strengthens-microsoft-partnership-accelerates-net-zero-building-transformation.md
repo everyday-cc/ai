@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/johnson-controls-strengthens
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-strengthens-microsoft-partnership-accelerates-co-2900-ga-co-14053-ga.1688016081.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,81 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service"
+    excerpt: "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and"
+    publishedDateTime: 2023-06-29T15:24:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
+    excerpt: "Integration of Azure OpenAI Service extends Indico Data's enterprise large language model ('LLM') capabilities and enables insurance carriers to"
+    publishedDateTime: 2023-06-27T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "Microsoft Bing Chat’s GPT-4 integration brings powerful image recognition to Windows 11"
+    excerpt: "Microsoft Bing Chat is getting another big update on desktops with image recognition support, or OCR. This feature uses OpenAI’s ChatGPT-4 vision model to detect and understand the objects in an image and give a detailed explanation of the image using real-life examples."
+    publishedDateTime: 2023-06-25T08:20:00Z
+    webUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/"
+    ampWebUrl: "https://www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/06/25/microsoft-bing-chats-gpt-4-integration-brings-powerful-image-recognition-to-windows-11/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 53
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/06/Bing-AI-Chat-Image-update.jpg"
+        width: 1760
+        height: 884
+        isCached: true
+  - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
+    publishedDateTime: 2023-06-27T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/indico-data-launches-new-integration-with-microsoft-azure-openai-service-to-amplify-its-enterprise-llm-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 47
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/indico-data-300x203.jpg"
+        width: 300
+        height: 203
+        isCached: true
+  - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
+    excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
+    publishedDateTime: 2023-06-27T19:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-wins-2023-microsoft-global-independent-software-vendor-partner-of-the-year-1032413360"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
+    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
+    publishedDateTime: 2023-06-27T18:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "riTZ9OFLIlXyccWtDSc9XID9SsbISBiomeCG8dRdJx0lqSJkqHIxcCte2ToYeaRQveQGcm9ANFdLef3Jw08Jx8u+BV9tzmDqsTfDwBLgz7gky5WyyOryvTICRwlezOYX2yh5NvvIwEOokwiULDBYrWBAZMN1sHmLSEW2ZoRUfOQW3qBDdNKQPa0uJRHNvYku5fubm40AfgLNYGwXV9rU81HZb/1pDyLdHs9tvYEmJuezapozW6oocvwAc8e4s47otN9vZWRkwu8orBhtGbFMxvE3HlzYhqoHxSm+K8XPliHZRyEae0FpJ0MZC18znc+L61rKKjXgCp8BzDAwrbW0KjZMpVaLNLOdU8e4KO03P70=;WVO9/j6MXkP7ohVXhXrQkQ=="
 ---

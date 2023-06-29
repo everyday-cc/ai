@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet the Humans Trying to Keep Us Safe From AI"
-    excerpt: "As artificial intelligence explodes, the field is expanding beyond the usual suspects—and the usual motivations."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/649a32b16279e3647284462c/191:100/w_1280,c_limit/Women-GenAI-RC_FINAL.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "lMGQCvvW3PLCjkAkNLoxJJzi6rx8OTJSZTdPHXTgzi+WFlYF2L9FK3lyGGb+lZYJ4DzqPmRDJAbmQuKd0ANUt2YYa93pO56AFHGtVCcivZWPHkpWEsvc9tyj38yaie3hAUrRqjOBltTgpyNiUggVrls0R0c3KpOWZXgkW2TDZTac3N2aXVH8jxw95oSb61+i6o4v8yeQIkmGZrgHaHN7txtGVND4voe6Xu3vzsftmF8H35b9URjNMNU/rom2SGBRVOi1KoxJTyyfbx03zX9ubXmc7T49kpkf8aC/hRc2reY9ABb2ftz80rDMfpgq3Sl+sRVX3N+L1p6SoX9/0P3iRbX5e/628m4Lq+7Wr/iORQirJgxTc420bIDlvmVy3p+T5vBGLsqGKKIrnHwcxTg7ijGinldJ6hzTpLOk53nRvuofg5E/awCnNA9l/etqk6vVjLkJ1kwcb2L/WB7IvyJQI+MWnF6Wt0G59CIrqzSyq35DGhn/3tFSdk57jSufiCpPyDR8rQBVpHc4nxjqKE2Bfg==;xhnFF9UptJeu9IcBAOPq+w=="
 ---

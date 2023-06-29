@@ -81,6 +81,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft Taps Bing AI to Generate Shopping Guides"
+    excerpt: "The company is also using AI to power a new price-matching service and to summarize reviews for consumer products on Bing Chat."
+    publishedDateTime: 2023-06-29T15:00:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-taps-bing-ai-to-generate-shopping-guides"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
+        width: 1108
+        height: 630
+        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -97,6 +111,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft weaves generative AI fabric for Moody’s"
+    excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."
+    publishedDateTime: 2023-06-29T12:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-weaves-generative-ai-fabric-for-moodys/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
     excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
     publishedDateTime: 2023-06-26T08:53:00Z
@@ -250,6 +273,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft partners with Moody’s for “Moody’s Copilot,” generative AI for their financial services"
+    excerpt: "Moody's, a renowned global entity headquartered in New York, is expanding its prowess with a newly announced alliance with Microsoft. The collaboration will"
+    publishedDateTime: 2023-06-29T15:22:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-moodys-for-moodys-copilot-generative-ai-for-their-financial-services/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 41
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/06/Microsoft-Green.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft"
     excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
     publishedDateTime: 2023-06-26T16:47:00Z
@@ -277,6 +314,20 @@ related:
       - url: "https://res.infoq.com/news/2023/06/guidance-microsoft-language/en/headerimage/guidance-microsoft-domain-specific-language-header-1687789721356.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft enhances Bing Chat by introducing GPT-4-powered image recognition feature"
+    excerpt: "Microsoft has recently introduced a major feature to Bing Chat for desktops. The company has started testing an image recognition system powered by OpenAI's"
+    publishedDateTime: 2023-06-29T15:04:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-enhances-bing-chat-by-introducing-gpt-4-powered-image-recognition-feature/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 35
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Bing-Chat-in-general-availability.jpg"
+        width: 1024
+        height: 765
         isCached: true
   - title: "Why Microsoft Leads the AI Race"
     excerpt: "The tech giant’s alliance with ChatGPT’s maker positions it to dominate the early AI market, says Morningstar – and competitors face a wide moat."
@@ -318,6 +369,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 26
+  - title: "Rubrik extends Microsoft collaboration around Sentinel to Azure OpenAI Service to add Generative AI to cyber recovery"
+    excerpt: "The new collaboration will not be sold separately, but will be rolled into the existing offering around Rubrik and Microsoft Sentinel, meaning that partners will not have a new product to sell,"
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://channelbuzz.ca/2023/06/rubrik-extends-microsoft-collaboration-around-sentinel-to-azure-openai-service-to-add-generative-ai-to-cyber-recovery-41317/"
+    type: article
+    provider:
+      name: Channel Buzz
+      domain: channelbuzz.ca
     quality: 26
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
@@ -370,13 +430,13 @@ related:
       domain: inferse.com
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+    excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+    publishedDateTime: 2023-06-26T14:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 12
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"

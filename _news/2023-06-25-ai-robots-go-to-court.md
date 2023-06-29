@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Grand Rapids Recycling Facilities Install AI Robots to Help Sorting"
+    excerpt: "The recycling facilities in Kent County, Mich. Will now have four new robots for sorting, three of which will be powered by artificial intelligence."
+    publishedDateTime: 2023-06-29T15:02:00Z
+    webUrl: "https://www.waste360.com/recycling/grand-rapids-recycling-facilities-install-ai-robots-help-sorting"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 54
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/robot%20arms%20recycling%20MR1540.jpg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "ofWpx7F6tN6kWeQ2CQFqEoaZlHRPnYrBzy+nnvIp/HIZPP51lmFFpv1B7WybQXgHv4tL227s3Z+02eLRD3z/wc1elJK7HChE1NzmH8y6tsSrt5MJTyiLfwt+qm11hvOZaLZjTn7KUeMc+D1EG8LOcZYNBGGiE1Yx1hbNYxP84+Us+FnNI1N97W4w1nlhBFk1duy43tiwKXtI+yw4zzyMVoE/LUh25Ln972q1VQDNzrtTNl8iOTlc98QDIHN+o82huwao0Q8A7se9UZmwSD1lzCRUDJUXanr0z/FIiJxmZY7lKCb26ith0PUGjhfFnBYFt54+KpLEEpFbjqQA8JvwiDT/qMZj/vjLsvhewUasmz8=;XogoOVJjIeB8gG3alqEZKg=="
 ---

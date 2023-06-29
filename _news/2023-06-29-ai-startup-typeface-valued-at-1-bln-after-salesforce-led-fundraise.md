@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bl
 webUrl: "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "AI startup Typeface valued at US$1 billion after Salesforce-led fundraise"
+    excerpt: "Typeface, a generative AI platform for enterprise content creation, said on Thursday (Jun 29) that it was valued at US$1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,"
+    publishedDateTime: 2023-06-29T13:10:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-startup-typeface-valued-us1-billion-after-salesforce-led-fundraise-3594491"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 16
 
 secured: "xb6FLvhD9q0wJXLja0/8Wu3UNbt3WW0OD4uzwjYuuUe1H5ggxaKK2S2/TiXbzFsRX7TvQSGRdnoufiDRrLVQKrijN6PgmVwsff8/nAUz6fCXlMWfMwVljay2DG8OwNsVjIPOv0zsqLNFLQNPigWuGrgcn+k2ALKsvfv1Iel/muUcxrrdmXZDT7IiKqqlG0jVBpen1/rJhc9ZfkEkZBng4QjfxWHi4Qo/fXtQGxGjLLZId6qNR9Dp1HiSL13rDzI97V2f2YqfBAcm88KrEv9q71go2SBhaNBJbTUsS0XzjJ7UyGxHWeMn9RnlPJ6JJmFrfIMsYf4eQyNG27BrXepe/YtxJSN8bquI9xJNKU4d5wTBLfkA1bhvapdCsrhaq0VsCdeYpMieJaK/EvEWJmgLxOxScUOp2hvWM0c8Ynq1UAp1SH4SedbU6qsDWPm8xKXbJBHZCaUosDSLsuMN6pnfVgzyFp3XFFt3uu4KlorGO0SFXGH11zbpKyyuYeKZ0eIoIZUNM5TZBYpD4LuNsr+QTA==;OfUHO5x42d4iTJKoc4fP2w=="
 ---

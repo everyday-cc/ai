@@ -7,7 +7,7 @@ originalUrl: "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-set
 webUrl: "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 391
     isCached: true
 
-secured: "qmswj10rK+Sf87HvTcnDhSptX6/Fn3d4lRqt1LtkHivt6zncghVFOfuYSRSkJXnHVGdtX/qSmefyVDWzSjDeCDRB6w+TyyxkI+m++bUU8+9UbVX5sWgjmNng/5B52MAvB1t/z3BVIDK3umvqYxUJK3AZ0oRU+SotIrceAyES8MpAOo+sujDFmYg8Ne4pQpeU5tVYktT4zPfkm4nEl869NiQP9qHwFhjUlamB+8f/zgvbw3bxOuKMjecBFyTrmopNkvI1BjsL03PpkkeVKE564XDH2oD/NmsgCBrOukB+EWi8Cm2vaafX/VNwUZUsyVJTm2g0aiWd9gyHkchQYSmNlyI5uTxifXfwe2Nglr9QoFw=;DGmkvacjwT/E1mFLbsSWiA=="
+secured: "8lvNURndosi7bJ/qkmdYlk7qbR5q09oMBUNB13fQs07Ii1URecSPAxzFKVbuwFicWc/jZdtDciKy0S/MClDYJp0D0nnytMjSlmvWeeEASM1FWpoSq4RFEFN3QPRXI0LKmzSzCgVGGAsRMPTASg/ye84/TVPtXl+I7wUq5fdbzp/QtXOlWb+PopaTqArt7RNnuAbs3SO4k+xv47e7bE6dGy1pb/ALQ9jxquRV3I2XKb/Rp4KjQHT4I7jPeLCZ+KPSsS0nC4d0w8AEJ72qy/+iS0nZ00l2pL/QDORdEgrK5bJkes48PeI7UHsbz7CyaMZ95NgyGT39Gx/ersWS3szn68jZqhXbfL2meGHM7AI6u6ACzzQVeZiXOnbWVvetlyKBoVMXYvAa8t6viBD7YWzjhGro53NV1OIktss90hn0/5zlHI/UKe4WXayOqzKIouj9jmQzOTaoIatBAaMHIc4fpS0PnFJxqu8zqYlbB6Ffk9GIdMnjJDbdfcEKD8jyqO7iHwotqQs6U54U4sISoXg7XQ==;copYa9/EO9qpFU9w2pl0WA=="
 ---
 

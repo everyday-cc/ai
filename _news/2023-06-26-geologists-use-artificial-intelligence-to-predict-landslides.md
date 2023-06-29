@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-geologists-artificial-intelligence-lan
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1920
     height: 1082
     isCached: true
+
+related:
+  - title: "Geologists are using artificial intelligence to predict landslides"
+    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
+    publishedDateTime: 2023-06-29T12:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230628130502.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "ImBRtqhFuOpWM1oaI4h8TXKo3B9OtOBfAz2L9VtZ8AsrXsb1tdlv2sjT8SW+eKcCpubn9sqdjvSoLN/kawIwBWFHcgexBPXRaVj9Jnd1rFjCDg9PsekC/mdkJNhJ6JTUd+KqJB7WH/9MPf6Lm/LKI+96eoBFZpi8+n02IUMPGa4wg385RMzsfrqB3urxg/3+NjPyp7Jt0bd7rjm2QVDpvygB5kU18J+Jlz4F/SFU3zYx7Xi6M/YgM1WwNdOaL6cDrYC2BtOp4oXvxuZ0YaO1xkyIIGcDsRaqhr8nmKkAgf7mNUaP12JDXeQvFYbN8v0m0E5MUsYmILrQuCSxtzVxxzPGEnf6Jzy3Qa9fu7AZFnhKhl3SGxLMo+PclsvwCcTShaX4fdfx8Ja1sCyvCL01Hf1qIWooWcprKT2DYCxpRuwZFJ3Gs0xdefHRAtak4JBplCYUJ52XFMh0f54A61V+4VBVG09iCif3z9S0ymH+nnGr5Crk5k9rkyhGOIR7s6TurgQfA+xBelbx+oJMgQQC5g==;xDtFS/ovoOE6/MaA3uH/IQ=="
 ---

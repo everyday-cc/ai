@@ -200,6 +200,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia warns tighter AI chip export restrictions to China risk permanent US industry losses"
+    excerpt: "Nvidia's share price took a tumble yesterday following a report that the US government is considering tightening its export controls on AI chips to China as"
+    publishedDateTime: 2023-06-29T14:34:00Z
+    webUrl: "https://www.techspot.com/news/99246-nvidia-warns-tighter-ai-chip-export-restrictions-china.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-29-image-13.jpg"
+        width: 2160
+        height: 990
+        isCached: true
   - title: "U.S. considers tightening restrictions on AI chip exports"
     excerpt: "The potential restrictions would include further clamping down on the level of the computing power of chips that are available to be exported to foreign markets in China."
     publishedDateTime: 2023-06-29T09:02:00Z

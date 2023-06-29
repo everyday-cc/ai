@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the Humans Trying to Keep Us Safe From AI"
-    excerpt: "As artificial intelligence explodes, the field is expanding beyond the usual suspects—and the usual motivations."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://www.wired.com/story/meet-the-humans-trying-to-keep-us-safe-from-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/649a32b16279e3647284462c/191:100/w_1280,c_limit/Women-GenAI-RC_FINAL.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
     excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
     publishedDateTime: 2023-06-27T21:15:00Z

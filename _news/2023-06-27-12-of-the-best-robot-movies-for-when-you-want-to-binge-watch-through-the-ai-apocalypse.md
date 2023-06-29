@@ -3,13 +3,11 @@ category: news
 title: "12 of the Best Robot Movies, for When You Want to Binge-Watch through the A.I. Apocalypse"
 excerpt: "Here are 12 robot movies to stream online, including everything from a violent robot doll to a touching robot romance."
 publishedDateTime: 2023-06-26T23:53:00Z
-originalUrl: "https://www.aol.com/12-best-robot-movies-want-205400938.html"
-webUrl: "https://www.aol.com/12-best-robot-movies-want-205400938.html"
-ampWebUrl: "https://www.aol.com/amphtml/12-best-robot-movies-want-205400938.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/12-best-robot-movies-want-205400938.html"
+originalUrl: "https://www.aol.com/lifestyle/12-best-robot-movies-want-205400938.html"
+webUrl: "https://www.aol.com/lifestyle/12-best-robot-movies-want-205400938.html"
 type: article
-quality: 50
-heat: 50
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -20,12 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/qETrS6AeAYG38_MqxdYJhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_cosmopolitan_670/8d01c0b1409bc79ca10e18c9e3bb50cd"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "o94QWA4cN7og9L6DyU9gB0qy0OF9Fnn4Ntz1Z4gURs7pYp+ViPOBAHomqCN7tXP35wyK2y+d5iVXscobUl7IrMKztHH8x6f3MC0h1ZvUQhW3zA7TLd6clUuXBdv2Be0Y2SvUFfoTOfHLbfWUeK1VKhrgzxY6cWuz2TPlisMFylnSUhiarULYtk0oseHubVRJibUrJyZy5OXQR3uxmXi+uxRusBRsujuQqvuCzr4tmfVSk2E/ruTheuKQ3K3dK5qkHvmkg+Eec27wEFqdGFJY1O5Jwklki/1u9XTgcs/nGnOZiTbWI59DDkzawVlr0rgc5SXT+cv2FzZulZ8yu/iaUOaU1ilkqMV2m+rrCMb3mLdLIhVK7CseU+63RHtk9KQzYz9OIqoaxa6XoeJGmCnUn5IxlTnIeY8dxNZK23I2DnyjsWfiAjqTegPY3PMrLE4lpK6UBxUTpTd99lCTAuIy3nZwBGyovt09qBfILSR/dVUCLafNIMysNfKmhZeh6v2wtF5hAinwalrMB4zszXpF7A==;wUl1sCVdtHg31P+c31c9uw=="
+secured: "fkWPCvSIr1Tj9tVejwNRsbD4p0L4/r84+b5rczNeqHVWx3AE0yWFoDk8MfDPQ2r9amMsDUPx6XWcQhvF/ZjNCjz8lwQxHkAAeeds4uIDQxBfKBRHc9V/7y6yljL+fveCSxc3FDZFK0NCf2UciASS/NxgP+fcyuf5ASgOW+3a+jOwxfjq8ucd3M2LXs+cRZgL9ES+/VG3P6wyDJ1GJShLyQy+D4BFc0+XBtMqTiUSywakLkKNKcoDZtSX9xlc9h2ch/b3f6AJUZwWY48GrOfsN1BOd849FqGNdActA1MHXmP4mx2zmRg19Nm42uQHR1eU2zxnu+/vS+hS7gWKnpS3pcb67gGx4cAULRcxdiKVgcU0V/cE3yAEaeLZ3Pcz12JlGPGRu45gR0B24nvuOFp9zejeeqVYUrAuH91SWRYuIFwQqEqrI410jZwGUqt6gNy07+6SsQLo0kO+tvmSV9PkcabBXgjrZXKu9gwrh+9YTEhVHmv1KHz7zTKeClhi21iuuv/BIzWTcvXErcs+SidLjA==;4HtDujLt0KBVJ3BtTl9r3Q=="
 ---
 

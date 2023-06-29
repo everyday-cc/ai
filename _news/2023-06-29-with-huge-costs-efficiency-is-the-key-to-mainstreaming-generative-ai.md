@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-i
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

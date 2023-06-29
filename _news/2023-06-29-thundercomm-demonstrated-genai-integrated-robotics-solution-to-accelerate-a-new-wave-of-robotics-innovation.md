@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33053388"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with Microsoft Azure OpenAI Service to extend Indico's Enterprise Large Language Model (LLM) capabilities using the latest in generative artificial intelligence (AI)."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9839505.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "gTuMaTu9Wcrke7HaotZbmZ6th+TBpVXXAeTh2rSjz1b+KK+9BVf/qHp81oIc3taGNkCQ1HQiDtkv2aJBRT5rCEmOCsnUNseOqmr8PVrzjYLI9zFqGwrFxsPzxOE8k8lwYb5YLnTi+iGWue3uRDFgEleXmXo7LOLdTm4lHGIdgAwQIOBPWL5Pp2ssRA3DEKqNOVmkIrX3xOMRbxyZJPuD396NdiDT3uDketGywNP89uvaUUI2JsTIrobKW4B3MI9JRgZ+2C6+FbAuL3D4AXn1k118+RsEhqMeRIizO5w49BLqtXnruyNk5k+Wec/Y+NziM35fc49RnEXeZczNeSGRDpcEq8etg5ZuSxOTVqgpWFs=;DKvAz848qOdc52mEbj6HXQ=="
 ---

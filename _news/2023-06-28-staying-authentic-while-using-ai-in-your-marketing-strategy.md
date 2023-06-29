@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 284
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
         width: 999
         height: 560
         isCached: true
+  - title: "Efforts to label AI content in influencer marketing are gaining steam, but industry insiders warn regulation will face hurdles"
+    excerpt: "Ad agency Ogilvy launched an initiative to disclose the use of AI influencers. Creator-economy insiders discuss whether regulation is needed."
+    publishedDateTime: 2023-06-29T14:59:00Z
+    webUrl: "https://www.businessinsider.com/disclosure-use-of-ai-influencer-marketing-creator-economy-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/64956d8c1465b6001998b5a8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Machine learning human ideating: How LLM is changing the advertising landscape"
     excerpt: "LLM technology has the possibility of bringing in impactful campaigns, which will provide brands and marketers with a better ROI, say industry experts"
     publishedDateTime: 2023-06-29T03:14:00Z
@@ -183,6 +197,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
+    excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."
+    publishedDateTime: 2023-06-29T13:47:00Z
+    webUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/"
+    ampWebUrl: "https://wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/29/bringing-ai-to-the-classroom-its-time-to-start-learning-and-teaching-how-to-use-it/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 48
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg"
+        width: 1203
+        height: 678
+        isCached: true
   - title: "How artificial intelligence and machine learning are being used by credit unions in 2023"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses, and benefits for credit unions. Because of this maturity and expanded adoption rate, AI/ML is helping to solve highly complex opportunities ..."
     publishedDateTime: 2023-06-28T17:00:00Z
@@ -197,6 +227,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Steam Is Reportedly Rejecting Games Using AI Art"
+    excerpt: "If this is an actual policy, one that Steam has not publicly announced, it would be a significant moment in the use of AI for creative work in the video game industry."
+    publishedDateTime: 2023-06-29T12:56:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2023/06/29/steam-is-reportedly-rejecting-games-using-ai-art/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "YouTube is using AI to break down language barriers"
     excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
     publishedDateTime: 2023-06-27T01:01:00Z

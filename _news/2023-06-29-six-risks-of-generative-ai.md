@@ -286,6 +286,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "How Businesses Can Leverage Google’s AI Tech"
+    excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
+    publishedDateTime: 2023-06-29T13:49:00Z
+    webUrl: "https://www.unite.ai/how-businesses-can-leverage-googles-ai-tech/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
   - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
     publishedDateTime: 2023-06-26T00:00:00Z
@@ -296,6 +305,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "RM5oYgDc4QOcFzoVqTbpoCUWLB6cfS6vuU04ksu4gCQ2661+Ox68ioF/rlbjouw191ck0BT8HsU2Pc3ZqMZBnPFvLCNIvTIjx4kTn7u5TkZEg729Vh+qy7n6ad5aR3RJTZSmQNQaTG8VaaFlmWIsxfH9WHDSZOYBYg9Sja2nA/mOdBUflo/Ho+kGeT6qBO0uINKXaOuDFXrngL2fSjhAR5lnKqulRaNXyD6MmBWbbwAOAVTBNGO75gU22JMQZ+TQPd+GnBsb6AohOaYboTZIg/A1099CnQ0CpLmQ2o0e0wKtnGXAwKyptmxz74iiEPnVYdL/m8XhrwM0yVu0dw/S4ocO/gdLrJNAU+IeCJ0o0so=;v9SS8pjFNGyoawZGL0tcLQ=="
+secured: "3BS2wbZFQSx1zF/IG+A1y3EfMlId43Xi18aKUbi6Ycvxh56DokAmdsIy56GbOa+jfdwE/3Bi08VdGUailXXHdHRSbHi1t/8loRvPDFgo+5UMcae9WMq9VwRO+MgMfvo+qeEGn+cX6G4CiV4fJcmCug/+ejVvJIus/nHqVwI5sUp3HVQZPemz6locS/1oSHUes14PGUqdO9HjwuygUv+pWd5yYnefT8cUXd2d5N9/c++Evyt49Iw5w7nlpYytaNu9gwM4sym+e0tcCFZDgnrbpOPmxgiIfd75zk3FYlO34Cbx31h/xjVKI+gsF5jnZ1PmrYz3P+2R4GvmrsPbOEVNeoWCTOg59YcxAi1RUSIYThtu3NaRA2/NXtc4BT/w9GrWOhU9UdgWUeg7MQ8GUoCV5tRCLOeHRsh8sAlPe1t//QtJrICvOotoL18+H+Xe9YCymL1to5/sEUIF23HqgbDvMZfodAZPtimlISS3oAbZbRM5ewoUtBmwjjA/OB3drWAWmuiKIk9oGqWTR1Pbb6KE4w==;AFQEbvVeWYBOlxOyTuY/Mg=="
 ---
 
