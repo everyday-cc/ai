@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Unesco official: AI could accomplish more tasks in newsroom"
+    excerpt: "He said that with more than 7,000 languages worldwide, of which 4,000 can be expressed in written form, AI through machine translation provides an opportunity for media to expand readership and inclusion with proper contextualization. Organized by the ..."
+    publishedDateTime: 2023-06-28T23:49:00Z
+    webUrl: "https://www.manilatimes.net/2023/06/29/campus-press/unesco-official-ai-could-accomplish-more-tasks-in-newsroom/1898327"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 21
 
 secured: "com2eKdfoGsGtIaWsA6LwhQ5g8etavDPIxOyUzV8FoaVPuxyfQPCGVhkQt59JSgui2N7mWy3lujFzJZaEXELGKxIZaerq1AEEp72TfFKOGxpx1S9qMZWxqsLWHXyl1wUZimg+orbrRd+w44wTF2afq1Bs6L0ENurnoo5gWDnnZ0fOtvvhtcinmN68kINEIU5I20wFpSJ8zoRLIiAAqWi9DidlYti110LMIic/eFt0++yNTyLZMB+kWlZB8pZXk+XCZ1hLo6M9tzRDpV6Kzgu4Ty4+KCraHylSu2yhUdGmKnmD265CW/sqXmpOZvfQ1iQqTn2wHY9rXgaoqhiqLUhsV8LEqNjGjlahFLNaGZ8rCwVPmfJ1OxLFwskD2C7RGJ3jBJNc4t38Vtur0xkrqK2hxprQZPTCWG4ad99d7yJM3u2zNad3/GMo5mc6JHYqRZJS73Rsi9w6wNXFDElvm8VUoLS5lSdLRdkokXfWCdj9sv8/nomzzzXotQ4k5SEprkliSI/tTO7sqOwS3tDqKdBqg==;pHnlUTvoZz1nNK0YJ6UJNg=="
 ---

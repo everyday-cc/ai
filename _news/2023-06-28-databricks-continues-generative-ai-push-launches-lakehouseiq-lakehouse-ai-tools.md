@@ -157,6 +157,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
+    excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
+    publishedDateTime: 2023-06-28T21:16:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/28/databricks-ai-assistant-offers-cemented-business-knowledge/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Databricks acquires AI startup MosaicML in $1.3 billion deal"
     excerpt: "Databricks said on Monday it had agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at $1.3 billion, marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
     publishedDateTime: 2023-06-26T15:57:00Z

@@ -157,20 +157,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Sima.ai Gears Up for a Generative AI-Embedded Edge Future"
-    excerpt: "Even though the Sima.ai has not revealed its roadmap, Krishna Rangasayee, CEO said that the startup is preparing for a generative AI embedded edge future"
-    publishedDateTime: 2023-06-24T05:27:00Z
-    webUrl: "https://analyticsindiamag.com/sima-ai-gears-up-for-a-generative-ai-embedded-edge-future/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/interview-banner-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI linked to new crop of business email scams"
     excerpt: "Businesses can no longer count on bad spelling and grammar to red-flag problem emails: fraudsters are using AI to craft well-written email messages at scale."
     publishedDateTime: 2023-06-27T15:59:00Z
@@ -293,6 +279,6 @@ related:
       domain: tmcnet.com
     quality: 5
 
-secured: "oAtedp3El77YAzlsHFPc9jbIi3JdlenOiMvRsRt4KFj/qQy5pNFYkerqZiofApgBMYire4WJqe/3ZPrVI7HiwSjcv1ExiJrSZKlAXU69nDJrzT9Ny0ypR9nI8nbLpF2XGsoTvhcXxWqBkyJJaLZtbjf8+j+APd8uUFmuigQSO0Wb9V1hfcNZNnuhFqWnOdcFtdbhYs3R6XvLCMoPpNAb6yDAPo3Sg8AZr9OF9GmqE1s49vGcdjhmPaACCnrxNOcsDrkVjPEZ5LPmbM7xgCBgH9BJXP2nM6nOTYZeYisrA1ENO/yrrJ2HocOdGP4uaXi10Drkr/FqLQie0r0xsRGbKLALRHt1wi6ZCwmAwo6ayxI=;YUWZslmopk4pgEka4ncuvg=="
+secured: "S0TdtTQLkzvZMmwSiskWMsYfp2qF3auGmj7HfhJcITPBSfrnLt0CpEKWlLLJg58auliKGdNdRhx+IUDVASkbT1aAp8gFTkvwQnVnY1FjRaWdO90PCHmQe3mpWSeFZ7SQDRJ3lEXl/JHpnJ/z1h3dgu0Sm5OQtcxUpj4WpOaA1DBdeidYT06NWHDjCDruXLnJcbPYhcLgvyYNCUfrXSe2yrRiP8a7Qj30UBuD7ZF4u+Ih8OaJVKyMbSyNEahhE2iZRp605FmW7uGwjXxP13TJSaXHVRO+5gbCPwAc9AaoFTsTBZwhpaJn4+teMYLXkceP5BoZNyAtIPolaUajTrx6HYjFWhuO6xe/DfdWDXZNWQKNJKc8ipsZUGUfPm6RVv5zmhNKeEdOhrvtwEPR14oz7sT2YOxn1BVzh/dIqz43m8N5i7gpxPRm/47uUNYqEY9PNQixsMsFWerryGcb5e3n/Cp9/JVaaTedkilAQOikHbZgj9nZprB2KYAYMvuM0QixKknavPu6A9rM/YzVo8goKw==;pqqUx/u4Y1D6wkqi1cywiA=="
 ---
 

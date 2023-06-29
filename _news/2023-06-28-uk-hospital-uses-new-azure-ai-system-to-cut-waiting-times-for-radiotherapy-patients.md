@@ -41,22 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Unleashing potential of artificial intelligence safely with a regulatory framework"
-    excerpt: "Apart from notified bodies, the AI Act also proposes national authorities to coordinate AI regulation with a European Artificial Intelligence Board"
-    publishedDateTime: 2023-06-24T05:29:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/My-project-1-2023-06-24T104557.147.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5wippHxAXM+giBe1sjieEoXt9v6E5BISnegA7oK5SLE07jSqpw9YX3yCCDCT0849Y3oHdW/bvGbXfx5HEsSyrjFDYa0GR8rMc2K95xPdbu1/+Y6/QXy9cpBworuypa2r1EuMr2WAPLwrtq8fTizaUx5reVUyuwcwzk1ZBOG+ZMxt+1qVIVG4XmrKF5nFx4UnbHn7OcSxXeluh9TZiIFsnG/HL4RRH0iVrWgAVl69MohizpzuVU7UzEm9nN/eSXrz68nA+/1dN33ZRUugjs7lt5hEfkjeZdraqZEwfxcquF3CZ9E0QO+yNE+DodDNhNqOanPvvr/BAKPH1OXg7Ra0Bx8OApWeSqkYrmaOjQNdcXw=;8z3Yj3We1LlFBAJT7eZ6Uw=="
 ---

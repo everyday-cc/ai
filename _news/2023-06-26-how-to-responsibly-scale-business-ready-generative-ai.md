@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-g
 webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
 type: article
 quality: 119
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -157,20 +157,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
         width: 2560
         height: 1920
-        isCached: true
-  - title: "Sima.ai Gears Up for a Generative AI-Embedded Edge Future"
-    excerpt: "Even though the Sima.ai has not revealed its roadmap, Krishna Rangasayee, CEO said that the startup is preparing for a generative AI embedded edge future"
-    publishedDateTime: 2023-06-24T05:27:00Z
-    webUrl: "https://analyticsindiamag.com/sima-ai-gears-up-for-a-generative-ai-embedded-edge-future/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/interview-banner-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI linked to new crop of business email scams"
     excerpt: "Businesses can no longer count on bad spelling and grammar to red-flag problem emails: fraudsters are using AI to craft well-written email messages at scale."

@@ -53,7 +53,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
@@ -136,6 +136,6 @@ related:
       domain: usatoday.com
     quality: 14
 
-secured: "uybMjTwmZmDkWqKIf+AwxfN1GRt1QKtCmUSm2MEvbsmqiBEst7Tlk1bgQHCDllDPOi06lRge8QWoabq8eWqOn50jFZ0fyHKfx0VwzsWdyYrWA8EoAjEqxqbji9mkw+4TgQcyf4usDu90PqwtYwkyT9WgRWKBJvI7/iHJvRZsePGlWSpJhILVg3B2BJfKIKTnb5Iioer+EvGJJ/kSlO7YV8YwWsT09BdvdkgqMF3lG4exKt+s8UkaCrjdr5OCf/4DsHLy00MbJa5z/oXDt3wrR3etDNqGcWCpGva/gUV0fQZ5LjT2LGM9WnmNMXb7hJ884N0x5rg+qtTNTw6UP/VwZhE4j4kZ3/tqIbOd2pXpC94=;xSK8QuXPmmCzniDFF3qSZA=="
+secured: "H1MoXJnGaYf7NqNzXtg5/jLXXwikCJsJSU4aSPb4ITqAgccB+Nd4YElDI7YRmqZRIUSX36Fp7zlkmOYpk7gsVz+aXSG1lImaH3YGMda7/eBgq5/0kydfK8Bkkdj5IFWipJGn4hDquJlsU4/xMyhkhiQEv/M44W595J7oQ3TlXF2DXcoKRao7Cb5IpHORwlOw5uIKcKpMkontZIylfh0bPj48jhcUijyo6vVX97Y8KaXMTv6y3omUVBdkNSgECb2yGGzrLfqiflS7yafjKCnCqgbwLOc0EgIwHQys0HtVZqV/DV86zdEH6xJ8RA69xk15nmA+Lxbmk6oP0TAbwZHHLEAxf15ezxuk2RrL8mMZVGPN2nBc4kNRpyfLWLBj6m1UxSLRn/kDQVLRjN8VjLrzdS41/ypox7Y8SiteGsYr4SPfV0vsHh7lJYCgg0dfBPANtHbrs0OEZYm4Q3q25S0BTobi/rlLeouUnoovRCgE9VEGQCEMSNai+B78/pZ5ZbbVR+mqixnZo21BwNwYFwJkpQ==;r+8GDUGOz6urVfagt9PKDg=="
 ---
 

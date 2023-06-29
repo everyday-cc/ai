@@ -429,6 +429,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
+    excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
+    publishedDateTime: 2023-06-28T21:17:00Z
+    webUrl: "https://executivegov.com/2023/06/report-us-eyes-new-restrictions-on-ai-chip-exports-to-geopolitical-rivals/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 32
   - title: "China-subsidized GPU firm MetaX founded by former AMD executives to compete with Nvidia"
     excerpt: "With the latest generative AI boom, GPUs from Nvidia or AMD are the first choice for AI servers and high-performance computing data centers. But in China, even if they can only get a downgraded version of Nvidia H800 or A800 due to US sanctions, Chinese..."
     publishedDateTime: 2023-06-26T01:27:00Z

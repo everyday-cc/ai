@@ -1,27 +1,29 @@
 ---
 category: news
-title: "This Self-Driving Boat Maps Underwater Terrain"
-excerpt: "The rudderless watercraft operates with four thrusters, allowing it to travel up to 5 feet per second and easily rotate 360-degrees."
-publishedDateTime: 2023-06-27T15:27:00Z
-originalUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
-webUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
+title: "This self-driving boat maps underwater terrain"
+excerpt: "Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans, rivers and lakes."
+publishedDateTime: 2023-06-27T16:58:00Z
+originalUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html"
+webUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html"
+ampWebUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Manufacturing
-  domain: manufacturing.net
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/boat.649af49c0ba67.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C4%2C700%2C394&w=1200"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/this-self-driving-boat.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: labmanager.com
     quality: 19
 
-secured: "aARJVtdvee5HTbHjLeQW/DdArYOD2oL3qjShgtO9rlxzHa/+ynyNCwKpk47er7gahkaWRHRoTrNaidBUzCs0hE3V0s+qWWSLLf9v+28Q4OX8Kdu1pW8snYdT1ZSdlyk91Cv3TpuWdYiFlyssCT4TGBfOq3U/Ww32WcK5BIZ/G7X62GiKik69379ATsHrwpcWKDZrQ6Fe6MaLiO6x9Z/E/DIlo3L4pCQtmQdX2Uq+8QI7BswyfpXWMHqJz3J5NaODJRgic8gPiHoIVvyS3564UkJGnKhTZVZ5KD37nhD/eFivc366nQYhlWAoVdomjpoxJDAuI9kRqjPREgdq4LNad3kYX4f4YcoM+El0Ats8OVAd85WBixMKkpbl4X0PGNPJo7zngTP5A9XGdfeuXbaP7fw4qA4P7GSnOa81h1q92R9QIT9xZ5qRfWBkEz91PQaBggCzNeEFVq3T/PsvqtOVk0fSOt3DzzHbJP0TnJWDK9GeURq5kHSKUdoKSH0BZwVeQ0kBcyREFBv2Y1AuxQ+Gpg==;SeT+LYqGH9Z8DAL/9cgXNg=="
+secured: "i6GFAcKmUeukcw6Q5U5nlTBErmF6Io89GeYGfEOYVtu6jLNrhBe9ubJGIKbX10tvv6MHMk3UvBbFvUY70YK/eIgd5fDt/bEBitsQ50C517q0X5SuA683lkODINma6grIwsfrhDOmrKC/i/P1jbdd0CrC+EnCfplwUwqNATYGt3e8y7/CUFgE+9XOpGrMbggJ2bgd5ksno9FLIJQ4iBNKnztM+NXKLRAEePN4ONSmxb8X84ZPWN9Ar5hp9hVB/wNn86fRXbdue6yTU5HQAKFeTnRSX20iZwwbCVawc4+vocKOS3+dv6hzzhkOHl+hFk4LAc4XblO4AlDztM3TyRsR+ywprUXWWkeZ2bR+qQWbqI4=;t+0TEk+zrax+41/RUtPi1g=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "ACLU lawsuit: Facial recognition led to wrongful arrest, prosecution"
+    excerpt: "A young man says he was arrested, imprisoned, and prosecuted for a crime he did not commit, and is now suing both Bloomington Police and Hennepin County Sheriff’s Office for allegedly violating his rights."
+    publishedDateTime: 2023-06-28T23:27:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/aclu-lawsuit-facial-recognition-led-to-wrongful-arrest-prosecution/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 39
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/6d127b17-e043-4f9c-b615-c71e4406815a/thumbnail/1200x630/91e71a94070a14dcd1184289cdb48e1e/c25ab25b1a0da1ad4580e18e4ba5d050.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
     excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
     publishedDateTime: 2023-06-26T22:00:00Z

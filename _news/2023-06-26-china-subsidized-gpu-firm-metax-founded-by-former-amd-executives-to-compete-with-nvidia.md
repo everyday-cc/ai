@@ -444,6 +444,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
+    excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
+    publishedDateTime: 2023-06-28T21:17:00Z
+    webUrl: "https://executivegov.com/2023/06/report-us-eyes-new-restrictions-on-ai-chip-exports-to-geopolitical-rivals/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 32
   - title: "NVIDIA, Chipmakers Brace For Impact As US Mulls New Chip Export Restrictions To China: Could This End AI Stock Rally?"
     excerpt: "The U.S. may restrict AI chip exports to China to limit Beijing's technology advances and influence. Given its strong revenue exposure to China, Nvidia may be one of the chipmakers hardest hurt by the limit."
     publishedDateTime: 2023-06-28T12:55:00Z

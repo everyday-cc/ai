@@ -168,20 +168,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Sima.ai Gears Up for a Generative AI-Embedded Edge Future"
-    excerpt: "Even though the Sima.ai has not revealed its roadmap, Krishna Rangasayee, CEO said that the startup is preparing for a generative AI embedded edge future"
-    publishedDateTime: 2023-06-24T05:27:00Z
-    webUrl: "https://analyticsindiamag.com/sima-ai-gears-up-for-a-generative-ai-embedded-edge-future/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/interview-banner-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How to use AI to edit and generate stunning photos"
     excerpt: "An AI-powered version of Photoshop and the image generator Midjourney live up to the hype for tech writer Brian X. Chen. He offers a few tips for getting started."
     publishedDateTime: 2023-06-25T14:00:00Z

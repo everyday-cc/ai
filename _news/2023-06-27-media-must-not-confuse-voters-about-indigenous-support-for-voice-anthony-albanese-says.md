@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Peter Dutton urges Anthony Albanese to dump vote on Voice and instead hold referendum on constitutional recognition"
+    excerpt: "Opposition Leader Peter Dutton has warned the Prime Minister against proceeding with the Voice to Parliament and potentially risking setting reconciliation back."
+    publishedDateTime: 2023-06-26T09:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 22
+    images:
+      - url: "https://origin.go.skynews.com.au/wp-content/uploads/2023/06/CHP_Export_282716059_CANBERRA-AUSTRALIA-NewsWire-Photos-JUNE-17-2023-Leader-of-the-Opposition-Peter.jpg?includeSharpen=true&w=1280&h=720&crop=1&strip=all"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Certainly want this’: Anthony Albanese backs Voice leaders despite poll slump"
     excerpt: "Anthony Albanese has backed in the leadership of the Yes campaign, despite flagging support for the Voice to parliament referendum."
     publishedDateTime: 2023-06-27T11:13:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
-excerpt: "I call her my roommate,\" the grandmother said as she introduced her companion robot almost as if it were human. Artificial intelligence is all the rage, and now it's helping some Pacific Northwest seniors live in their own homes for longer."
-publishedDateTime: 2023-06-28T21:14:00Z
-originalUrl: "https://kuow.org/stories/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
-webUrl: "https://kuow.org/stories/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors —especially those living alone."
+publishedDateTime: 2023-06-28T23:05:00Z
+originalUrl: "https://www.knkx.org/public-health/2023-06-28/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+webUrl: "https://www.knkx.org/public-health/2023-06-28/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: KNKX
+  domain: knkx.org
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://kuow-prod.imgix.net/store/7b188724696ba85df3f48fc9d4c62a41.png?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 948
-    height: 628
-    isCached: true
-
-secured: "/MEr29I2sbzOiigTjHqj79vvxAJ5BXesVpL/xbzHMj5JzP6ERulAYeVck6grl9ARQqck56CwAF4Tw+Cb0sxLLubELzjHQpLSXEXNE/SpZ3/0bPyLjEd+tM3AhnOBYcLecaw9HVOuuedB5e9WHPWMK/7fjm5dwH9H9EI0eU+wq9nLEQoTSoTdsDo/xCtKPFKQXxISpdN3FjkhUooIAvARjTTbAg5WnymLn2mC/tjOUHsQ7CzsDYQRGFyAdavxHbSgBiL93Ck//LOAx+sxhk1FKMd9gbXe53wCQZ/iSLCHQ2hU2kM7g1PTYFmTbDzb/Byzcq6mD8VELtMvZIZk73KK44Ni+txPDUnTUQ4hjzekAkM=;GHD1VpMFEWAAm0M9GfhSiA=="
+secured: "CDJv1r5bOzPv2q+qLVFx8ALUv5Tds2UMUdCG3lh1VoS38Npw8/+X1Vqjs8e8xCmZyU/zsG5gWZtmxz/NutL8K/tG1/3xvMmA4wB2Qpm1Kmq6qKx1yRbNXKyTL/q185nK01qQxk97TXZ7AZ8Hf3pEtNP3B7eo9qba2GxOPyznllhD0JrRBljX6F08A+r06a1zerq6YU31S4bFBp2rDCiahEFhdFCNcD/YHyiDTMoMjrGFIopu9XZWwq80kEvnY5cv4oqDaZPYUV5rBWq47SWqNTjkCvu6ABmZ961L5qHbEkxMlwsyfZErPYfnGkO5Jh6FlFnuCc5ii5x/WoZBxoa46ypTg0ies449bvq24P9Q+Zct2o/Yh6E+5DJKxL/7kSetIQjL+hTSRbITmDZiIhNYgfjKDvHY0ib35QIsixhbk5mJmfT33KKLP1+BmNQmPa7JIoYJkXiD9zLEqWv+JI3PYlBLZdJhJZ7lv5EueaFib9pVI7VMoR6FPSfK7yXRMa80QxbL4+ZRlU/1bN1j0lDoIA==;9TGz9uHdoH1lhgThvNTsyQ=="
 ---
 

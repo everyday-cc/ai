@@ -43,34 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund..Google. global fintech operations centre. Sundar Pichai. Prime Minister Narendra Modi."
-    publishedDateTime: 2023-06-24T05:19:00Z
-    webUrl: "https://www.onmanorama.com/news/world/2023/06/24/google-set-up-global-fintech-operations-centre-gujarat-ceo-sundar-pichai.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 33
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/news/world/images/2023/6/24/sundar-pichai-modi.jpg"
-        width: 1248
-        height: 650
-        isCached: true
-  - title: "After meeting Modi, Google CEO Sundar Pichai announces to open global fintech operation centre in Gujarat"
-    excerpt: "Washington/IBNS: After meeting Prime Minister Narendra Modi here, Google and Alphabet CEO Sundar Pichai has announced the opening of a global fintech operation centre in India's Gujarat, the homestate of the country's political giant."
-    publishedDateTime: 2023-06-24T06:26:00Z
-    webUrl: "https://www.indiablooms.com/news-details/N/90283/after-meeting-modi-google-ceo-sundar-pichai-announces-to-open-global-fintech-operation-centre-in-gujarat.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 22
-    images:
-      - url: "https://www.indiablooms.com/news_pic/2023/6d1377dc508ddb1ffa3b8d6e208bf022.jpg"
-        width: 800
-        height: 539
-        isCached: true
 
 secured: "j37MO7cYDEY68aJtulNRJ/NMEC7b/R9b/4leCa/8tIBHLvk4FmLoxFj48CvjQY7e3Krp3BUjR0zrHT6jMgZdQVCKfNBhHELwiSV5qjGpu1kMQfstkEgL+bCLu/l+cenmDk6pZTby5mGJks/2Bj32HNqE/USkRyOskaVEOV7PVowXjuvnvIg6r7vF5pl3W0QKoBja0pooiumlaFuU2F75WhJBlh9dM1YmjuUJo9h03XMAW4AxT3nzP6hJe2hjJe7g6TcIi/lOSiLwz54ZT+9HGeeO7eRc8NGBgbZ9ZnruMrGsExOIHdMPSyvjRrcLtADDOCqPXCHnnvU3xKbkl7nS9gsGiLVBuG6usJgfcenTXNI=;bBRctiJhbkYzzhiDfF8lWg=="
 ---

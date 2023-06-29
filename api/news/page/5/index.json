@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
+      "title": "How to responsibly scale business-ready generative AI",
+      "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-more-people-are-going-blind-ai-can-help-fight-it.md",
+      "title": "More People Are Going Blind. AI Can Help Fight It",
+      "excerpt": "Early detection is crucial for treating eye disease. AI-enhanced eye scan analyses could spot warning signs quicker—and reach patients at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
+      "originalUrl": "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64931e618d6da8ab812d8551/191:100/w_1280,c_limit/01-Wired_NHS_Spot.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
+      "title": "Responsible AI: A Practical Roadmap For Business Executives",
+      "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe10716f37920266d57594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
+      "publishedDateTime": "2023-06-26T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-thoughts-on-ai-impact-in-banking-mckinsey-banking-ceos-and-boards.md",
       "title": "Thoughts On AI Impact In Banking - McKinsey, Banking CEOs, And Boards",
       "excerpt": "AI continues to develop quickly, and executives are establishing frameworks for how to work with the new technology.",
@@ -286,7 +440,7 @@
       "originalUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -957,49 +1111,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-25-video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive.md",
-      "title": "VIDEO: Self-driving Tesla nearly blows past stop sign on test drive",
-      "excerpt": "A test drive of Tesla’s self-driving technology revealed a significant error when the vehicle nearly plowed through a stop sign into oncoming traffic in Santa Barbara on Thursday",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/",
-      "originalUrl": "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2023/06/Screen-Shot-2023-06-24-at-5.54.10-PM.png?w=1280",
-          "width": 1279,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/",
-      "publishedDateTime": "2023-06-24T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4 News",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-25-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
       "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. In your Smart Money issue on Thursday, we discussed how AI is",
@@ -1061,7 +1172,7 @@
       "originalUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1094,109 +1205,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-rise-of-the-robots-raises-a-big-question-what-will-workers-do.md",
-      "title": "Rise of the robots raises a big question: what will workers do?",
-      "excerpt": "Rapid developments in AI are forcing managers and politicians alike to confront profound questions about the future of jobs",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fa7016ab040c88978d002b92d4ff0cbf2affea20/0_395_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=1225c778c7bbe96f7bee737ee69aaf5b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
-      "publishedDateTime": "2023-06-24T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-one-major-risk-with-investing-in-artificial-intelligence-stocks.md",
-      "title": "One Major Risk With Investing in Artificial Intelligence Stocks",
-      "excerpt": "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

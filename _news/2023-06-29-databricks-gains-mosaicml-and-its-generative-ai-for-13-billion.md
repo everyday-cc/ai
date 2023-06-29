@@ -157,6 +157,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
+    excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
+    publishedDateTime: 2023-06-28T21:16:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/28/databricks-ai-assistant-offers-cemented-business-knowledge/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Databricks acquires AI startup MosaicML in $1.3 billion deal"
     excerpt: "Databricks said on Monday it had agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at $1.3 billion, marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
     publishedDateTime: 2023-06-26T15:57:00Z
@@ -367,6 +376,6 @@ related:
       domain: businesstimes.com.sg
     quality: 11
 
-secured: "biASkK0IbXWcpMVRF170zhJPSDrOrSassDW/GClgO01zeYWeyiECBbfJMn0PB4Pand6fM9Mc0sGLc09zYPL5NMrnTqX89riAAKtx93l9wgbpt1SkYj3AEXjAyMnP2hihzpkW1UlARqVlsRIslVIkGpNX+B5roqQyP2ihsyKc965XjWKuCxaAmTrKHy/OBpM+gRiVGynYYzZw1Lw6xXjkj07UAZ/yTKC5VjsFqpB9lL3Yrg3HhJyxiNfdfdR/7MyeRi8DHu3eE5aTTDBQFBkPNV6UOFNh4emWARd5+F6HHJgzym/oudQ8jeChCIKoH/yHNASRInLMBcINwVSVvqfgoQfsP8EUKuUr20m/Za5JlgU=;0iVVww/+xZBN2eQaH4zx3g=="
+secured: "UvnXLDZVcajCLgB79x4x039TFpeJG/9Z1wTDeXsWqveWA1PG8C4evb3wZ27v7x8UkB6MPDzOXIszrz0trt4F14VYfipTzEwNQJ/LcmB5OQPwVNUZALPQkHAxdfAEFM1JU31A4kfTF+GRdojhW/PCgpHce1voTTGQ6YPiTFY3TGsN1YEDG85DcpHUzQo1Gs/hSOLc3rNZnhSPeLmlGSDL1Z0jtan/n0vfBDCRb/8vpoLTuto2dRdi4HUNxVKoPWrayxKWNRr5rGM0ZrjyU6ivKulWs2kAr3Ls2mfBixiOCNuXeP4tQ67RRcwdLowONOAD+lrJ59tPf4BVRG/W1fltOmribacMjda5p0Y36R1k5uyRhJ5hyTtIX4AzYQLVzX7PflXOSEyfGsulUMoRETESVynrHuLiS+OIyTsIJetCv1X2vaSPLMvhvd/vjO+Cv1j0cI/ESi2Ni+252Ypru4bm2J1/zcwSaemR1JR2SMZyihHjpUpENOG1Xd9ZVW4NXyV3GgQNhbEjVunoQm6zxBAJHw==;Jt0IkhMvz23dHmNfaLVrMg=="
 ---
 

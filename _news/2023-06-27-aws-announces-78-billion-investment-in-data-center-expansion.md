@@ -33,7 +33,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg"
         width: 1000
@@ -141,6 +141,15 @@ related:
         width: 679
         height: 452
         isCached: true
+  - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
+    excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
+    publishedDateTime: 2023-06-28T22:04:00Z
+    webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 46
   - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
     excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
     publishedDateTime: 2023-06-28T14:36:00Z

@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-24-rise-of-the-robots-raises-a-big-question-what-will-workers-do.md",
+      "title": "Rise of the robots raises a big question: what will workers do?",
+      "excerpt": "Rapid developments in AI are forcing managers and politicians alike to confront profound questions about the future of jobs",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fa7016ab040c88978d002b92d4ff0cbf2affea20/0_395_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=1225c778c7bbe96f7bee737ee69aaf5b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/24/rise-of-the-robots-raises-a-big-question-what-will-workers-do",
+      "publishedDateTime": "2023-06-24T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-24-one-major-risk-with-investing-in-artificial-intelligence-stocks.md",
+      "title": "One Major Risk With Investing in Artificial Intelligence Stocks",
+      "excerpt": "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
       "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
       "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
@@ -1088,109 +1191,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-fire-chief-warns-against-unleashing-self-driving-taxis-in-san-francisco.md",
-      "title": "Fire chief warns against ‘unleashing’ self-driving taxis in San Francisco",
-      "excerpt": "Driverless cars are becoming a nuisance for the department as they appear to obstruct fire engines and block roads in emergencies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/bf69134209dd5b1ac944b611a80d4cd407e446c7/13_0_3673_2205/master/3673.jpg?width=620&quality=85&auto=format&fit=max&s=5db9143b0acd0ea40a108c120a1443f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/23/self-driving-taxis-fire-chief-san-francisco",
-      "publishedDateTime": "2023-06-23T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-23-marvels-secret-invasion-ai-scandal-is-strangely-hopeful.md",
-      "title": "Marvel’s Secret Invasion AI Scandal Is Strangely Hopeful",
-      "excerpt": "News broke this week that the show’s opening credits were made using artificial intelligence. Fans immediately cried foul.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/",
-      "originalUrl": "https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6494948a9ec11a2433532b58/191:100/w_1280,c_limit/The-Monitor-Marvel-Secret-Invasion-Culture.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

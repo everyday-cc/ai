@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 421
+heat: 431
 published: true
 
 provider:
@@ -434,6 +434,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
+    excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
+    publishedDateTime: 2023-06-28T21:17:00Z
+    webUrl: "https://executivegov.com/2023/06/report-us-eyes-new-restrictions-on-ai-chip-exports-to-geopolitical-rivals/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 32
   - title: "China-subsidized GPU firm MetaX founded by former AMD executives to compete with Nvidia"
     excerpt: "With the latest generative AI boom, GPUs from Nvidia or AMD are the first choice for AI servers and high-performance computing data centers. But in China, even if they can only get a downgraded version of Nvidia H800 or A800 due to US sanctions, Chinese..."
     publishedDateTime: 2023-06-26T01:27:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearl
 cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: KRON4 News
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Curious Case of Tesla’s Full Self Driving Software and the Confusing Corner"
+    excerpt: "The electric-vehicle maker's FSD technology has divided opinion between a bull and a bear. Fortunately, safety regulators aren't swayed by social media."
+    publishedDateTime: 2023-06-29T00:22:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
+    images:
+      - url: "https://images.barrons.com/im-807567/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla Self-Driving Ride Causes Twitter Storm Over Safety. The Stock Shrugs."
     excerpt: "The electric-vehicle maker's FSD technology has divided opinion between a bull and a bear. Fortunately, safety regulators aren't swayed by social media."
     publishedDateTime: 2023-06-28T11:50:00Z

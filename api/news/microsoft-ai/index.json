@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai.md",
+      "title": "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI",
+      "excerpt": "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
+      "originalUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg",
+          "width": 340,
+          "height": 238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
+      "publishedDateTime": "2023-06-28T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-bluevoyant-recognized-as-the-winner-of-2023-microsoft-us-partner-of-the-year.md",
       "title": "BlueVoyant recognized as the winner of 2023 Microsoft US Partner of the Year",
       "excerpt": "BlueVoyant, a cybersecurity company that illuminates, validates, and remediates internal and external risks, today announced it has won the 2023 Microsoft U.S. Security Partner of",
@@ -474,7 +517,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -527,7 +570,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -728,7 +771,7 @@
       "originalUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1421,40 +1464,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-with-omni-assist-omnicom-leverages-first-mover-access-to-open-ai-to-accelerate-the-timeline-from-insights-to-outcomes.md",
-      "title": "With Omni Assist, Omnicom Leverages First-Mover Access to Open AI to Accelerate the Timeline from Insights to Outcomes",
-      "excerpt": "Omnicom (NYSE: OMC) today unveiled Omni Assist, the inaugural Generative AI capability enabled by a first-mover partnership with Microsoft. Omnicom is the first agency holding company to have enterprise access to the latest Open AI GPT models.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/19/9834868.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube to make it easier for creators to dub videos in different languages with AI: Know how"
-    excerpt: "YouTube is set to roll out a new feature that will help creators reach out to a larger audience, irrespective of the place they live or the language they speak."
-    publishedDateTime: 2023-06-24T06:34:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-youtube-to-make-it-easier-for-creators-to-dub-videos-in-different-languages-with-ai-know-how-3140645/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 48
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/yt-bloom-6.jpg"
-        width: 1200
-        height: 853
-        isCached: true
   - title: "YouTube Testing New Artificial Intelligence Tool That Will Help Creators"
     excerpt: "YouTube is currently testing a new artificial intelligence tool that will help creators on the video sharing platform. The company announced at VidCon that they have teamed up with AI-powered"
     publishedDateTime: 2023-06-26T11:08:00Z

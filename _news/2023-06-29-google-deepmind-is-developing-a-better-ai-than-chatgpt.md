@@ -3,12 +3,10 @@ category: news
 title: "Google DeepMind is developing a better AI than ChatGPT"
 excerpt: "Google’s newly formed artificial intelligence research division DeepMind announced it is creating a chatbot to rival ChatGPT. According to VentureBeat, CEO Demis Hassabis calls the new project"
 publishedDateTime: 2023-06-28T21:39:00Z
-originalUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt"
-ampWebUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
-cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/amp"
+originalUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/"
+webUrl: "https://technology.inquirer.net/125506/google-deepmind-to-rival-chatgpt/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -316,6 +314,6 @@ related:
       domain: gadgetsnow.com
     quality: 19
 
-secured: "r+WlWy2llyisOdffZe802PyJdFR+xMTBGSvVEe4yATS2zgIXUZc5mgI+uLXk3lb/miZhU1MKdVv+evYWLjAW8njWAFFVSMJcSMqe6xp8mctDJi2mELIS0ThZXFeyI9oBtHaP6PwlwfmpQTM6tH+321D/++rF8KbjiB+BxH+YeXl+8yBUdIn94zO178pUm8JF7cm9A5Q7sz31a+V78fezNBwx2OGzmZ4l7amJtc4MO/4qnGiWkUFpLvCasky7i3+tqLPp79uWcrORtUNZEEYA3/WOWrWz/coUYaEHYlyjlzx4zucw6Nhka8kOhTefG7hUt/7UnEI1TMcU4sDzzOl63NzMZEAqkSMLSuhcHyUbfYxY5WH1c0HfKMxo6kHjVFzOMNMLjYZsCZK/Eq6wWFXc+3U24kBiSvWdDtqFPd7dQD3cgu0sKD2ROgfgAexhIgU/KaEUjF/MuT1KasKi92yf6smaiwjAr6Grs4CA0mUEpXae9RfiFxrEHdFIlLwlJzg2hROvdvg8TGOqWTd1Cqyfvg==;vNdCzk6c0bEazBRVLin1Gw=="
+secured: "OWG2bDq6NVqPCWA4PxIwRDUKqm6sZIqYyB3Jz+nGw/v3Rzo0YJmLUzwObLK+ubWwCRFeKuSM1RZb46yRggvXz1u8x1av2hAKez6i3cIxy1UvNZfieVbBDYLrG26sylqDmftfEIhnzNharQBQtKBwURvWK53dqliHzr0oyM6o9rxSIUIV2m9/1oSMlPbYbEoeABmAGtpP+VkZ6w03uAgSMzYmLQxl9LMk3LwqxXGsSdiDPTGBVXiC9FpHYSSGlDSwXQskhB8kRF62Hh2F0OXYuAfF8HDIaQWskya2qra6w/Mh7ClGATISVf8H1lhcA1xJEd0+wREesn5oko7/aELHh25V4x9KLbZ5WFCExsgYTDl30Sq1Z1MpcmMjWJl03suB6ZFwiMAL6gaF36qCvx4b463U1iaGRuFqcccf4BAIG7vLfapzcMU0YAy+95gwlTOcUPQyGp4XwQA9x7cUtbW3WecZk/VE1uWQzzrFZPTQl+vFlU0JAZXwNXM+KG2sz1lp8dOrQdGYcrDq2AamIKvkJw==;TSy4T0eJP+VGvnxWa+fxwQ=="
 ---
 

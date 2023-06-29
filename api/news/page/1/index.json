@@ -2,15 +2,101 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-29-security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai.md",
-      "title": "Security Company: AI ‘Incidents’ Up 690%, Worst Offenders Are Tesla, Facebook, OpenAI",
+      "path": "_news/2023-06-29-with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai.md",
+      "title": "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI",
+      "excerpt": "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
+      "originalUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg",
+          "width": 340,
+          "height": 238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
+      "publishedDateTime": "2023-06-28T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-the-curious-case-of-teslas-full-self-driving-software-and-the-confusing-corner.md",
+      "title": "The Curious Case of Tesla’s Full Self Driving Software and the Confusing Corner",
+      "excerpt": "The electric-vehicle maker's FSD technology has divided opinion between a bull and a bear. Fortunately, safety regulators aren't swayed by social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-safety-fsd-50f87a65",
+      "originalUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-safety-fsd-50f87a65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-807567/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-safety-fsd-50f87a65",
+      "publishedDateTime": "2023-06-28T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
+      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
       "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
       "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -150,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-new-tool-explains-how-ai-sees-images-and-why-it-might-mistake-an-astronaut-for-a-shovel.md",
+      "title": "New tool explains how AI 'sees' images and why it might mistake an astronaut for a shovel",
+      "excerpt": "Why is it that artificial intelligence systems can outperform humans on some visual tasks, like facial recognition, but make egregious errors on others—such as classifying an image of an astronaut as a shovel?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/new-tool-explains-how.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
+      "publishedDateTime": "2023-06-28T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
       "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
       "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
@@ -210,7 +339,7 @@
       "originalUrl": "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -262,7 +391,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -302,7 +431,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -954,6 +1084,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-unesco-advances-ai-support-for-member-states.md",
+      "title": "Unesco advances AI support for member states",
+      "excerpt": "The European Commission provides R82 million funding for low-income member states to develop AI ethics legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
+      "originalUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/AI-data-hologram-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
+      "publishedDateTime": "2023-06-28T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
       "title": "How To Prepare For The Financial And Environmental Costs Of AI",
       "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
@@ -986,57 +1159,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-time-running-out-for-uk-electoral-system-to-keep-up-with-ai-say-regulators.md",
-      "title": "Time running out for UK electoral system to keep up with AI, say regulators",
-      "excerpt": "Watchdog calls for campaigners to behave responsibly amid fears over potential misuse of generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai",
-      "originalUrl": "https://www.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/01714770f9facf56da3611d4b0c91c53d911029d/0_117_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=3adceb361125f90f17b497c46a044484",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai",
-      "publishedDateTime": "2023-06-28T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1095,145 +1217,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-applications-open-for-aws-global-fintech-accelerator.md",
-      "title": "Applications open for AWS' global fintech accelerator",
-      "excerpt": "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8",
-      "originalUrl": "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8",
-      "publishedDateTime": "2023-06-28T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
-      "title": "Barred From Grocery Stores by Facial Recognition",
-      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
-      "title": "New WEF research identifies revolutionary healthcare AI applications",
-      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
-      "publishedDateTime": "2023-06-28T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

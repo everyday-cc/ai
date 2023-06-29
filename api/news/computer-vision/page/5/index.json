@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-28-french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics.md",
+      "title": "French privacy chief warns against using facial recognition for 2024 Olympics",
+      "excerpt": "PARIS — The French data protection authority's president Marie-Laure Denis warned Tuesday against using facial recognition as part of the 2024 Paris Summer Olympics security toolkit. \"The members of the CNIL's college call on parliamentarians not to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "originalUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/01/24/GettyImages-1161938837-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/french-privacy-chief-warns-against-using-facial-recognition-for-2024-olympics/amp/",
+      "publishedDateTime": "2023-04-28T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-new-electric-car-offers-worlds-first-facial-recognition-and-fingerprint-technology.md",
       "title": "New electric car offers world's first facial recognition and fingerprint technology",
       "excerpt": "The world's first application of facial recognition technology has been unveiled, with one electric car removing the need for a key altogether.",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Alaska Public Media",
         "domain": "alaskapublic.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
-      "title": "Divisions Grow Over Use of Facial Recognition in California",
-      "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "originalUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/divisions-grow-over-use-of-facial-recognition-in-california?_amp=true",
-      "publishedDateTime": "2023-04-18T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

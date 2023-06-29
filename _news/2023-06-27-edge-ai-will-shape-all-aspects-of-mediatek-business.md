@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape
 webUrl: "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

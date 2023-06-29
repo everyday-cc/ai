@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-new-tool-explains-how-ai-sees-images-and-why-it-might-mistake-an-astronaut-for-a-shovel.md",
+      "title": "New tool explains how AI 'sees' images and why it might mistake an astronaut for a shovel",
+      "excerpt": "Why is it that artificial intelligence systems can outperform humans on some visual tasks, like facial recognition, but make egregious errors on others—such as classifying an image of an astronaut as a shovel?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/new-tool-explains-how.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
+      "publishedDateTime": "2023-06-28T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
       "title": "Barred From Grocery Stores by Facial Recognition",
       "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1386,58 +1429,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters.md",
-      "title": "Segway partners with Drover AI, Luna to bring computer vision to e-scooters",
-      "excerpt": "Segway-Ninebot is partnering with Drover AI and Luna Systems to integrate their sidewalk riding detection tech into its AI-enabled e-scooters.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
-      "originalUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Segway_Ninebot_Booth_Micromobility_Europe_2022.jpeg?w=1168",
-          "width": 1168,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
-      "publishedDateTime": "2023-06-08T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

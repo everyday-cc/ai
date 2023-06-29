@@ -56,20 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Regtech: The sub-segment of fintech helping financial institutions meet their regulatory obligations"
-    excerpt: "Software solutions can help firms meet a large variety of regulatory requirements efficiently and cost-effectively"
-    publishedDateTime: 2023-06-24T08:00:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-41168935.html"
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
+    publishedDateTime: 2023-06-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-releases-groundbreaking-first-and-third-party-fraud-solution-api-for-fintech-1032415116"
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 9
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/7263/3631525_1_seoimageog_fintechp3offlead.jpeg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Unraveling Fintech And The Role Of Cryptocurrencies"
     excerpt: "rapid technological advancements have reshaped various industries, including the financial sector. the emergence of financial technology, or fintech"
     publishedDateTime: 2023-06-24T18:40:00Z

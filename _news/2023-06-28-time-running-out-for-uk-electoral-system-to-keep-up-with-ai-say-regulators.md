@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/politics/2023/jun/28/time-running-out-fo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing potential of artificial intelligence safely with a regulatory framework"
-    excerpt: "Apart from notified bodies, the AI Act also proposes national authorities to coordinate AI regulation with a European Artificial Intelligence Board"
-    publishedDateTime: 2023-06-24T05:29:00Z
-    webUrl: "https://www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/"
-    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-unleashing-potential-of-artificial-intelligence-safely-with-a-regulatory-framework-3140551/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/My-project-1-2023-06-24T104557.147.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK hospital uses new Azure AI system to cut waiting times for radiotherapy patients"
     excerpt: "Addenbrooke’s Hospital in Cambridge, UK, has more than doubled the speed at which it can plan radiotherapy treatments by using a new artificial intelligence system developed by the NHS and built using Microsoft Azure Machine Learning."
     publishedDateTime: 2023-06-28T14:45:00Z

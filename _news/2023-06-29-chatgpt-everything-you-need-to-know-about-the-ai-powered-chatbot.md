@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-a
 ampWebUrl: "https://techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
@@ -140,6 +141,6 @@ related:
       domain: usatoday.com
     quality: 14
 
-secured: "5EREEcSoERvIeqRc5CJDxing6B+RiBqT38K/F8lyX+BMH4RJV6CK66ddnbrH9vLp21jJHtcju4duJ2wStRejQdKPT4AsFjT9MXhLc6oOES2PJFxueRDxxeEDRyPG93CA4uMnynXYe7o94r+EtVHpAwpMLsSm9AjilOwHDVhoAgD9LaRByOGNrgsnvBMJJU4kQW3q8l2ge/Ai3W4eYa33/tEoBv8TFqlgWt/HGCq/AcvHRZu88ng3hGWsc26F9QRgZvu3UCh0M6mxOPIMJxyctYaX2y6gHFu9YJHM/pSfBuST+GZaFAd5vRvmoeB9eyvf38x4LvH1NBgS7HjnFx0BCkng+LG8J0O/QKDWrxeePew=;z6Aj/oLo6Ztu2qGd8M0N7g=="
+secured: "HK+2c2ml5N+JIWw/SGazlbaBpTDImQoPyJyAUhi3w/ii14TPexf+EdEOS0Inz7YL2lUu0SYoteeV4A7AH0bZRfZoB7G7xSO5SiQ4gxYnu2/GhxZtAUBdosgJXdIKUgutfTHNJYD8EiBIyHEJY/dlY6K0ES/KzVdQK2XI4CikyB68TB8bkZIR7WMO9kQCdua/nscaES8KNyxgePUKVbloEMICZuR9g+j9t5Ek05PMqickLNK7G88EfIqzQefyl4A+zGVI281vZFVd4kdkyugrjryVowZRCEn+XTZxxspGRtC10psQFkStk1QHO8qb8GSBQHCilLjj6p/sE/aiesPQnqoyGepOCgqIs3Y72Ud6O1W1j+OVb3V6AVWfTxfLKB+7YoLoIeSLQ4ySnDFDqYo8J2lvReaEGe3kdLiTG6FxFZ3alarTvPaI8XYgT7pS1eXR8mgluPATeiO5Gm/ioAAXV7chiz33kgUkCmMTWjdO+UwGu1jNW3SoZPkyJGNqtyolnzGo9H2YVW1OUt4kaTEBaw==;Q6Vq2fg1HUvKJIy1cMzFLw=="
 ---
 

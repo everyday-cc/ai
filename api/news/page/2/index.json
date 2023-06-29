@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-28-applications-open-for-aws-global-fintech-accelerator.md",
+      "title": "Applications open for AWS' global fintech accelerator",
+      "excerpt": "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8",
+      "originalUrl": "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8",
+      "publishedDateTime": "2023-06-28T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
+      "title": "Barred From Grocery Stores by Facial Recognition",
+      "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "originalUrl": "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/00facewatch-top-fqlv/00facewatch-top-fqlv-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-wef-research-identifies-revolutionary-healthcare-ai-applications.md",
+      "title": "New WEF research identifies revolutionary healthcare AI applications",
+      "excerpt": "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp",
+      "publishedDateTime": "2023-06-28T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
       "title": "Doctors tout use of artificial intelligence to detect breast cancer",
       "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
@@ -104,7 +243,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
       "featuredContent": null,
       "highlight": null,
-      "heat": 421,
+      "heat": 431,
       "tags": null,
       "images": [
         {
@@ -156,7 +295,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -491,49 +630,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain.md",
-      "title": "UTEP researchers construct self-driving boat that maps underwater terrain",
-      "excerpt": "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "originalUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "cdnAmpWebUrl": "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "publishedDateTime": "2023-06-27T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsChannel 9 - KTSM",
-        "domain": "ktsm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-will-the-us-governments-latest-cyber-policy-actually-improve-us-security.md",
       "title": "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity.",
@@ -681,6 +777,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-this-self-driving-boat-maps-underwater-terrain.md",
+      "title": "This self-driving boat maps underwater terrain",
+      "excerpt": "Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans, rivers and lakes.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/this-self-driving-boat.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp",
+      "publishedDateTime": "2023-06-27T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
       "title": "AI ethics toolkit updated to include more assessment components",
       "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
@@ -741,7 +880,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -846,7 +985,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -897,7 +1036,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1076,160 +1215,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy.md",
-      "title": "Higher education plays a big role in preparing graduates for an AI-led economy",
-      "excerpt": "A career development expert at the best college for entrepreneurship shares how higher education institutions should prepare their students for the future of work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "originalUrl": "https://www.zdnet.com/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/11737f02aaa1b3a4f7527638970d184233fb2e57/2023/06/26/5f88e4b2-3e51-498a-b82b-f2bdb8fa50ee/davenport-1200x630.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy/",
-      "publishedDateTime": "2023-06-27T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai.md",
-      "title": "New York Is Buying a Supercomputer to Understand and Regulate AI",
-      "excerpt": "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-singapore-startup-attracts-high-profile-backers-for-ai-monocle.md",
-      "title": "Singapore Startup Attracts High-Profile Backers for AI Monocle",
-      "excerpt": "Brilliant Labs, the designer of an AI-powered mixed-reality gadget, has pulled in investors including Oculus co-founder Brendan Iribe, Siri co-founder Adam Cheyer, and Eric Migicovsky, the founder of Pebble,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/singapore-startup-attracts-high-profile-backers-for-ai-monocle",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/singapore-startup-attracts-high-profile-backers-for-ai-monocle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFK5thT.mZmY/v2/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

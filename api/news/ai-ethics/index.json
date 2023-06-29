@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-unesco-advances-ai-support-for-member-states.md",
+      "title": "Unesco advances AI support for member states",
+      "excerpt": "The European Commission provides R82 million funding for low-income member states to develop AI ethics legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
+      "originalUrl": "https://www.itweb.co.za/content/G98YdMLGDYy7X2PD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/06/AI-data-hologram-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLGDYy7X2PD",
+      "publishedDateTime": "2023-06-28T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
       "title": "Artificial Intelligence: Risks, Ethics and Future",
       "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
@@ -1425,61 +1468,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai.md",
-      "title": "A Rising Star In The East Lights A Path To Responsible Artificial Intelligence: The Mohammed Bin Zayed University Of AI",
-      "excerpt": "As we hurtle into the 21st century, the pivotal role that Artificial Intelligence plays in reshaping our world cannot be ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6487b8a204b294ec6d7d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidwalcott/2023/06/13/a-rising-star-in-the-east-lights-a-path-to-responsible-artificial-intelligence-the-mohammed-bin-zayed-university-of-ai/amp/",
-      "publishedDateTime": "2023-06-13T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

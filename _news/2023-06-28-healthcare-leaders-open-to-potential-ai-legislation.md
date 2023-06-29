@@ -55,22 +55,6 @@ related:
         width: 1028
         height: 685
         isCached: true
-  - title: "AI revolutionising medical diagnoses"
-    excerpt: "The Indian healthcare space, particularly after the Covid pandemic, is fast evolving with the adoption of technology like artificial intelligence (AI) and machine learning."
-    publishedDateTime: 2023-06-24T05:57:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-revolutionising-medical-diagnoses-805121"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/06/23/1360302-tech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Health care’s AI revolution is well under way"
     excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
     publishedDateTime: 2023-06-26T11:34:00Z

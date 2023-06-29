@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ktsm.com/news/utep-researchers-construct-self-driving-bo
 cdnAmpWebUrl: "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: NewsChannel 9 - KTSM
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "This Self-Driving Boat Maps Underwater Terrain"
-    excerpt: "The rudderless watercraft operates with four thrusters, allowing it to travel up to 5 feet per second and easily rotate 360-degrees."
-    publishedDateTime: 2023-06-27T15:27:00Z
-    webUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
+  - title: "This self-driving boat maps underwater terrain"
+    excerpt: "Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans, rivers and lakes."
+    publishedDateTime: 2023-06-27T16:58:00Z
+    webUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-self-driving-boat-underwater-terrain.amp"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/boat.649af49c0ba67.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C4%2C700%2C394&w=1200"
-        width: 700
-        height: 394
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/this-self-driving-boat.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "This Self-Driving Boat Maps Underwater Terrain"
     excerpt: "Step aside self-driving cars, self-driving boats are here—and they can do more than take you on a cruise. Researchers at The (UTEP) have constructed a fully autonomous boat that can carry out bathymetric surveys—surveys of the depth and terrain of bodies of water like oceans,"
