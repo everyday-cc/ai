@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "The Picks And Shovels Of The AI Gold Rush"
-    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
-    publishedDateTime: 2023-06-26T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "OXAyQLekstsy5QP5Z2tsO66LEjUJKpQhB4EqrZSHTnzvbyjN7RAeRwqyShlNlHnfMAEj7wrmG+8C6dT6nhnKD5esWHbzBmt2RBO2rX0rPNh7/QYTGjjXOMtOZNsWCXf6AlIMGzmxMzDessn5H92rLh22s11ZwjZn1r+Mrw1PNuA8HCR+E3eXFvnQ+dA2BwefWrnjhANr/wNSxzEzxB86nsnJxfNKEx1R1UcRWzZ3GXjuOcq3rGU33LlCIZbOOKXndnFEcCCdCEgubq+TJYRDvDuy2ULevSQvf9xEey39HKANjf9gmuLqOxYLdpPpNLUZxDBXW3k2Rj9BJjoBlAc1BibWvvoqYLREr9kdwduRsMynHYBF5yn6VtINBTT/jrpvw2JlJw8ultrsgYK6ZcnJuHT1hf1gCs7L2Yf+aChCLWvB0eX1H5LbSCzTRG0YQLqnEJgJIXx/yQ2bwh4KQk1XdG/gz0jlqleeA/tvu81BZfy97Rd0z3yoxjkaQ0Udo3y9TIXyIQw2L/SAy5AmzuR/bw==;DwuaAohipliGZ1FHIH2seA=="
 ---

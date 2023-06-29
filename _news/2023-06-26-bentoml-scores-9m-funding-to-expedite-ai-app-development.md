@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-exped
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 886
     isCached: true
+
+related:
+  - title: "Why Startups Need An Old-School Approach To Talent Development In The AI Era"
+    excerpt: "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,"
+    publishedDateTime: 2023-06-29T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "697Nr2XYyxjMC4LK9qNke8V7t4s5OHp/rvoEYEaB+q7O7gifFKNjcAHft3JfrNwtU9yq55L6FIO+GOP3FRaexWrl1qTl41629Vbklb84jeYujb5d0SCDo9vy6V4eAaJRqVPm4GcmGgLvXLi5DUkJ2El21pfXgli407VvlnXBQlboeARwlmBu6aait9RdzX4uG6L7RFxP0qkdVJGPsQsHdGmFmtcSjn7Q9h/DV4z2jGQOQ3rpE05dGImWoGG+Nf0g+vd43Qf/8j7z0epTPM8hK1vMe/wVpdwowsOsQMEqFqZi/wM06Ww5iXvfchJtAhrujAKu5pG9Yo4waxDmJs0K06xuwndYgPEGrgJUbzKWkmw9A1PeTJlMq7YpsoVrni0UtV0qnKO/vxLNL04UVa9eY8VG+5PJDKgRl6nvXAQ1DWsI3m6jHBWDcvID9El94LgQjntlrZSx0ZQ337LOuByOwcwbkfQx1xXCxAO4QVMMmvqb3oNXn9W1eTScMwkGWfXDv1A28EynRldzt9C0V7wh9g==;sj+NEAktbA8ya/HwsAdBDw=="
 ---

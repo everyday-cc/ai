@@ -85,6 +85,20 @@ related:
         width: 1525
         height: 900
         isCached: true
+  - title: "How Generative AI is a Game Changer for Cloud Security"
+    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
+    publishedDateTime: 2023-06-29T16:34:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Oracle taps generative AI to streamline HR workflows"
     excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
     publishedDateTime: 2023-06-28T21:19:00Z

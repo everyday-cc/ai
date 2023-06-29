@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Full Self-Driving to get out of beta with v12 update – should we care?"
+    excerpt: "Now Musk said on Twitter that Tesla would get Full Self-Driving out of beta with the version 12 update. Tesla is currently on v11.4 of FSD Beta, but it could use every decimal before moving to v12. Over the years, Musk has so often claimed that Tesla was on the verge of achieving “full self-driving capability” that it is hard to believe him now."
+    publishedDateTime: 2023-06-29T15:55:00Z
+    webUrl: "https://electrek.co/2023/06/29/tesla-full-self-driving-out-of-beta-v12-update/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 66
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk says self-driving technology is 'profound' but not as big a deal as the human-like AI that may emerge in the future"
     excerpt: "In response to a Tesla fan account on Twitter, the CEO suggested AGI was more profound than full self-driving technology."
     publishedDateTime: 2023-06-27T10:36:00Z
@@ -73,21 +87,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "VIDEO: Self-driving Tesla nearly blows past stop sign on test drive"
-    excerpt: "A test drive of Tesla’s self-driving technology revealed a significant error when the vehicle nearly plowed through a stop sign into oncoming traffic in Santa Barbara on Thursday"
-    publishedDateTime: 2023-06-25T00:56:00Z
-    webUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/"
-    ampWebUrl: "https://www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/california/video-self-driving-tesla-nearly-blows-past-stop-sign-on-test-drive/amp/"
+  - title: "Tesla’s Full Self-Driving Version 12 Will Leave “Beta” Behind"
+    excerpt: "The brand's polarizing CEO Elon Musk says that when version 12 makes it to the masses that it won't be dubbed \"beta\""
+    publishedDateTime: 2023-06-29T17:00:00Z
+    webUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-version-12-will-leave-beta-behind/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/teslas-full-self-driving-version-12-will-leave-beta-behind/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/teslas-full-self-driving-version-12-will-leave-beta-behind/amp/"
     type: article
     provider:
-      name: KRON4 News
-      domain: kron4.com
+      name: Carscoops
+      domain: carscoops.com
     quality: 59
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/06/Screen-Shot-2023-06-24-at-5.54.10-PM.png?w=1280"
-        width: 1279
-        height: 713
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Tesla-Self-Driving-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "dQHEAfC7RszvKq3+iMUJwZPMd0DYBw2eExMCKu3m8gbs2g1gkz+SqXtf22X2uGy9sDowEgDn4jmPkjK7hAS47gUkcSHgCFEmLoG/VtT0ikCnD/OztcWoBSBB8w1lird6DbgD0Gu9wShybB5iJn7X7IIUySVwTpJ/ivO64J8pSRDhqFbFa8N63m0SgjZgMl2SLcjNPMRSjyJKCwy8FZ6ieJhQTWiJ3d86OyVLFiKrdfBLs6bB+8afRKIsIUllJRKFg+Ck9ou0ZKH2hGDvTYrKWYSJFb+dRgp7jS2tdtmRyVBJS/URqeh6ILikcen/FfNtWupkzTeNbpyL7un4Mo85zB+5sEySEdWcL2p49QybIZ5oMAbTLe6Ywq8MFDABWFK0wcP+U8UmDYGQ4fLddHsXxYm6oyr+iRhugVaD3ukni1huXh7BL2jBZkqVwzlAqr/wC8bBXHRCQDYhpkOg1uOTXZII/EBbnKnRKLT+6Zon6OsiRWxGfDEuNE8TeDglWuTm5kvaDjjKr7UjzjXnKM9IFQ==;HmuVjR6qdLCqRmotBFsCVQ=="

@@ -297,6 +297,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
+    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "How New AI Restrictions May Throw a Wrench in Nvidia's Plans"
     excerpt: "This is why the U.S. Department of Commerce seeks to limit China’s access to AI chips further. According to the Wall Street Journal’s report on Tuesday, these new restrictions could come in as early as next month."
     publishedDateTime: 2023-06-29T02:43:00Z

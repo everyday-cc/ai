@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "AI boom forces tech companies to make M&A choice"
+    excerpt: "Speaking to the Financial Times earlier this year, Microsoft chief executive Satya Nadella described the relationship as a form of “codependence”, with OpenAI relying on Microsoft as much as the other way around. The AI company needs the supercomputer Microsoft has built and tuned to train its models, he said."
+    publishedDateTime: 2023-06-29T16:57:00Z
+    webUrl: "https://www.ft.com/content/ef7ad4c8-be0c-4ad8-b829-a105e6965f5f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
     excerpt: "The global mining industry has come a long way since the days when coal-blackened miners would carry a bird underground with them in hopes its distress would alert them to the presence of toxic gases"
     publishedDateTime: 2023-06-28T01:00:00Z

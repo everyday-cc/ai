@@ -285,6 +285,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
+    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
     excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
     publishedDateTime: 2023-06-28T19:29:00Z
@@ -537,6 +546,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "NMUMpfcd+Ap8WJWLtLYAddrlxLgHlQPJP37fS/NopAsPK2lNFdL2WLuezUJluBUUJObQ0aYl63oNxAQCFvtgtfUbwhBm5zhYvTDux/n3SLiI+FqHQAsul1uJoyirn/lil4mxBWEjqfvLMZBr30inOWzeds2F4pQhrezI21OwDrLKJCn1iz2v2/KoUJ2O0oIRzdnIqLaY/7KI2vlGOVdrNbQghrt2xzbEdIi7p8+aqsVGs+pMRliZ+dFIxBhm/TU7JWl8fsLcs6iVyvIFK1heZXV8SuMD2hb9AIIIZsZNA/H+UYF7SV86qdhaa3761fCEoTjtF09Dl85rPGKJPCt6czulq8MZWY8XXTy2gst0ItA=;LeXQUOjE8Gvp+2W1MP8iiQ=="
+secured: "sDYcxsCYzhgENm/rdugT6nkXNc1XY+NUaUoJTPRXBSYadtmeZMl95WWz/PRXCLXxmZ5JsUQdpH2M8Y6pr1+UVXNG7RnbUnZsQ69dygONUyrk20pyV9Wfq43oAFnHr019+gnhqpXU6E441sd4yAfFWEv1xjmGkKkTVY6+kEUKXGQ76t3bZsV2E4ag2KmbdsRVhnQLntqQC11pCnUlLad2iNiYoqg7Cy++ZLa0zdEPiG8IcJX13czRe/19vo1jrAryDdbi53KHJspjiegCgMaPEhf5BIfHTZ8itW0mBj/7BzQ8PctcKy5xzDQF+Ke0Wj/maEjWRVv2nbIalylRf4Sb3A8E8ekqfuE0syd740iAVgS1edPKDdgiKxfOfoGO4NnbaYHFhdkJUaFbudmfoow55HeQ1VmJcus6efQk+hV+NwZd7VKn5+NgChtJQ5FwltaxlZI5gbCBCjXmJGtNxF89G9fF2rBiBUuFX2BBAQmT24m5ump6Ywi1n6z/UFaudxXyDI93QtiT6Be6eL64XX0CXA==;hDm6T0HauEyjzCysFqqXcA=="
 ---
 

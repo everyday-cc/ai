@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google to open global fintech operation centre at GIFT City"
-    excerpt: "US-based tech giant Google is all set to open its global fintech operations centre at the Gujarat International Finance Tec-City (GIFT) in Gandhinaga"
-    publishedDateTime: 2023-06-24T23:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/articleshow/101248819.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/google-to-open-global-fintech-operation-centre-at-gift-city/amp_articleshow/101248819.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-101248848,width-1070,height-580,imgsize-696921,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Why Google chose Gujarat for its global fintech operations hub"
     excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
     publishedDateTime: 2023-06-26T09:57:00Z
@@ -120,6 +104,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Applications open for AWS’s first Global Fintech Accelerator"
+    excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
+    publishedDateTime: 2023-06-29T17:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/applications-open-for-awss-first-global-fintech-accelerator-c8ac91a0-97ef-4d46-a34e-fd4de9cb6281"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 21
   - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
     excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
     publishedDateTime: 2023-06-27T11:29:00Z

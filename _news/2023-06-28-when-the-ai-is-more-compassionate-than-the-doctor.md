@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Windows 11’s Copilot brings AI chat to desktops in first public preview"
+    excerpt: "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen."
+    publishedDateTime: 2023-06-29T17:08:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "mOd7naEhOpsZV034vMfiQcndxvg9uVA7ofMH65cpZo/XIY3UUTdev6W5GHUVCRGkonDRWrDJL4pt85TR0eaofcWnSV/e7i+7RjoCnxJ2v/Pta7SHL6SdZtYPNHznMo7BzHA4Vq7XFBawmFjewHWl80HfohNfDxkeNyT19WgFoRFkoxpIC0flk3WQSSiaOltgqwRaspSi9pxXdOCpmlSUq2Hy8r0ObmYjSbYiNAnS/ylgQ4JTJsuBwVW2BCy/kMR+lklebKcL7AvezM7Nn1+DTDd3kzsdeh7Xo9zYad1jj0buEjw9MZIf7CKFLpRJ0KuKyTkSyfwMJg0e5yNWYENF8X52oci/O6FDa6eEWdJ6UYy+jC8lzdbqJ4GH3ZCjZPPfsswIaBrz1UgYGAPomtmoaNtUJDw5hIOcQjMcOCar43DjMax7t3OHjTbjcQ8BoHQ8P0x7fgbZRjIGaHd/SWYsVSlXn04JWwU2dW3B0p2s434rhQFCBYd3uXx0N7ZjvNDkWvqyfUGU1yn8wdckdJGeQg==;4LY4xW9M9RpmyfIoAmZIyA=="
 ---

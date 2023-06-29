@@ -58,6 +58,20 @@ related:
         width: 1020
         height: 508
         isCached: true
+  - title: "Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA"
+    excerpt: "Fine-tuning large language models (LLMs) allows you to adjust open-source foundational models to achieve improved performance on your domain-specific tasks. In this post, we discuss the advantages of using Amazon SageMaker notebooks to fine-tune state-of-the-art open-source models. We utilize Hugging"
+    publishedDateTime: 2023-06-29T16:18:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/interatively-fine-tune-falcon-40b-sagemaker-1.jpg"
+        width: 1020
+        height: 512
+        isCached: true
   - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"
     publishedDateTime: 2023-06-27T19:38:14Z

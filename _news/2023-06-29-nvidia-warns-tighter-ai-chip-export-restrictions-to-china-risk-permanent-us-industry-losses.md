@@ -289,6 +289,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New AI Chip Export Rules Put Semiconductor Firms in Spotlight"
+    excerpt: "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China."
+    publishedDateTime: 2023-06-29T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Nvidia Warns of Lost Opportunities if U.S. Bans AI Chip Exports to China"
     excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao Potential new ..."
     publishedDateTime: 2023-06-28T19:29:00Z
@@ -541,6 +550,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "e19b2jttdk0Q5wlXuKa6O60UxonQ/LyGTXrP8nTmHd/IOAQeInxis6On3MK8PI31s7MDNWKgbzliCZIavvVd/tcDtKitG2YgDpUQ4C2qVdhF7K8nekmp95HJEf9xGmJGdtuXgxXCL5l1eXlcDqtO4wuWhYBmd5xjyHpFGRc9LWpxn6hJWKbUVx32K2rcaFAkpxuMxLavgtwCJlczNThtPLi1fMF6pKsizF5xzeJDSK2wkRdNBbCmMppw9xq0ECSGlxWwOaOcKOyozDhD0wXyCQBNrBZ33wH3qy/rYOEPPK5VsM5BMz4XhmJqH2LZrhnG5Kqf670giSvjrSQQyy+YCTFXxVLgE0tuI6H0uTv5FA0=;ZW8efGbJ5L4Wiheg1R67Tw=="
+secured: "kgiWN2mJQTfJguY8BNzebxs3RpUqML8zQ9e4ASg+Pcaaef2VmbLmugcLijsNdDD35wHcHKg1RJLw2dla+h0pyVAipsR6tzNo3a/BJC3nHcudGrKkO7goRS4JiAzq1LEC2AC41XMCY5SvptBmvkQN1VpmthKHzSpn3R/aF/g6dkmh0klFxj0Xefv7F+us2ZqrOgQuWWU46pF4Ibx6WGu5L9n4e1jJSX/F9D3luURy9w0A+NmMtWqnORZlvPCwCe58rvPluY3GQH937WhckV4SWZrALR0xLO7xw3JhNRqPK8LuGZZoQ+oxaUqzgSjbyGR/Ll1a/uArH/bvmVvriawbFTdysWnNbcJ7G9t5py+F46awB1MBN88tCv13K3GYBVOPKvccfk72qsXjivWu45SVo74ZXt//i+2vqfEqwganHb1jWn1UKdLs6f6hE8IBQ+P1eTUjk1ZXSUWXsQqlLMplJmUU0ymb0IwtfvddCDkeWQFnp0lVeN1s0NGSA1MmOVSIdxN6x6mKVU4/Oj5rHBV8mg==;+Qx0hSZpkm/GwdpX4gyXrg=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 1707
     isCached: true
 
+related:
+  - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
+    excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
+    publishedDateTime: 2023-06-29T14:30:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/670351"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 15
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "/DpdHMovz53SxI6eE82WVQ3LGSkCAkAPG60jeeaU9MYnju9qzdMXq2ziwHckJOSWPQvGC5Rt2qs9tWN/kYj4L9gRQeletdNpB9J4CohSchUINoAnCc52B5M6INdjXluk/2552i7kxDRq2jYxnqx0qi04YyptcvWQgey0/6HAZuPQs/WQjbNNwAkf8UumvHGaJEosP/7eq9mBqx0VoyW4/eWTx0dzSqfGODEFrl3aTlrHTZfDSb6qn7MTvXKt8OgM20UyaEyEyQNefHNEzBw4oj23A8XoYZHU1kcx5XSue9f5xzS4kkR4Nyx4IyB4p8T4h7CqooBrRCM1vpqhgW6msPyieo8z5e98IUrv4PUUZaU=;ZXYkqobCMIGzjXO8OsZ5vg=="
 ---
 

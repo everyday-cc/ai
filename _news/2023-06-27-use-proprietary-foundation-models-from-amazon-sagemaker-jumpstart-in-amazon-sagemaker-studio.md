@@ -65,6 +65,20 @@ related:
         width: 1020
         height: 508
         isCached: true
+  - title: "Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA"
+    excerpt: "Fine-tuning large language models (LLMs) allows you to adjust open-source foundational models to achieve improved performance on your domain-specific tasks. In this post, we discuss the advantages of using Amazon SageMaker notebooks to fine-tune state-of-the-art open-source models. We utilize Hugging"
+    publishedDateTime: 2023-06-29T16:18:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/interatively-fine-tune-falcon-40b-sagemaker-1.jpg"
+        width: 1020
+        height: 512
+        isCached: true
 
 secured: "2K8s5owV7MmNARVUmc8amngE4+hLj9LoqQt7QrHNTAX2LQ04eZu0HISShxaEbES8fKFFdJjqav/GJ+xz5WoLNLcLrZesCoGp4wcOnzj80N495wn4e34KABJdptUYxUSMx8r6OczDhzvyQZJg7ZL7ju4Ko0xhOn26UIYsUM6ljqSN8Q/4dfv0/K9lJp0F4ZpiMRk1Ro9LG2/I4oUcfAHmzN/Gdu9JHBFj2R3H0dMSw8a2Hr1FRWMCtnb2iaS3XuTmzGfJemA+mDh82LqcIkSrlNlw44k+Nsg8WjbTOB4qtVZZSYJUEGCQuDE+JPi8SN1N4L9Q2Rfo2JXIw9O7509iKiN9ePVxS+5z9vytcqjR21g=;qPKFFAdc5ZebUxuNjhTMUQ=="
 ---

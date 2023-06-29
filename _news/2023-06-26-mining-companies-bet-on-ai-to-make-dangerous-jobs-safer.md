@@ -9,7 +9,7 @@ ampWebUrl: "https://financialpost.com/commodities/mining/mining-companies-bet-ai
 cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer/wcm/8ccc0f7d-21ac-49d2-8851-9315e1414c65/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI boom forces tech companies to make M&A choice"
+    excerpt: "Speaking to the Financial Times earlier this year, Microsoft chief executive Satya Nadella described the relationship as a form of “codependence”, with OpenAI relying on Microsoft as much as the other way around. The AI company needs the supercomputer Microsoft has built and tuned to train its models, he said."
+    publishedDateTime: 2023-06-29T16:57:00Z
+    webUrl: "https://www.ft.com/content/ef7ad4c8-be0c-4ad8-b829-a105e6965f5f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
     excerpt: "Forget about the canary in the coal mine — experts say the day is coming when there won't even be a need for a human."
     publishedDateTime: 2023-06-26T12:40:00Z

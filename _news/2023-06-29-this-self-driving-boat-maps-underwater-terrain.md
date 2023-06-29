@@ -35,15 +35,20 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "This self-driving boat maps underwater terrain"
-    excerpt: "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys -- surveys of the depth and terrain of bodies of water like oceans,"
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
+  - title: "This Self-Driving Boat Maps Underwater Terrain"
+    excerpt: "The rudderless watercraft operates with four thrusters, allowing it to travel up to 5 feet per second and easily rotate 360-degrees."
+    publishedDateTime: 2023-06-27T15:27:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/boat.649af49c0ba67.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C4%2C700%2C394&w=1200"
+        width: 700
+        height: 394
+        isCached: true
   - title: "This self-driving boat maps underwater terrain"
     excerpt: "Step aside self-driving cars, self-driving boats are here — and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys — surveys of the depth and terrain of bodies of water like oceans,"
     publishedDateTime: 2023-06-27T17:45:00Z

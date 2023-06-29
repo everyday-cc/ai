@@ -1,28 +1,22 @@
 ---
 category: news
-title: "IQVIA Wins Prestigious “Best AI-based Solution for Healthcare” Award in 2023 Artificial Intelligence Breakthrough Awards"
-excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the “Best AI-based Solution for Healthcare” award in the sixth annual AI Breakthrough Awards,"
-publishedDateTime: 2023-06-27T13:30:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
-webUrl: "https://www.galvnews.com/news_ap/business/iqvia-wins-prestigious-best-ai-based-solution-for-healthcare-award-in-2023-artificial-intelligence-breakthrough/article_8247608a-0234-587d-8f84-c014aa851b83.html"
+title: "IQVIA Wins Prestigious \"Best AI-based Solution for Healthcare\" Award in 2023 Artificial Intelligence Breakthrough Awards"
+excerpt: "IQVIA ™ (NYSE:IQV), a leading global provider of advanced analytics, technology solutions, and clinical research services to the life science industry, today announced that it has been selected as winner of the \"Best AI-based Solution for Healthcare\" award in the sixth annual AI Breakthrough Awards,"
+publishedDateTime: 2023-06-27T13:44:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9839877.htm"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: The Daily News
-  domain: galvnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Breakthrough Recognizes Roambee With Award For \"Best AI-based Solution For Supply Chain\""
@@ -39,6 +33,20 @@ related:
         width: 400
         height: 390
         isCached: true
+  - title: "Special recognition for three Lough Ree RNLI volunteers"
+    excerpt: "Excellence in volunteering awards were recently presented to three volunteers at Lough Ree RNLI, Damien Delaney, Tony McCarth and Bernard Larkin BEING recognised for their generous and significant contributions to the community and the charity."
+    publishedDateTime: 2023-06-29T00:35:00Z
+    webUrl: "https://www.advertiser.ie/athlone/article/136279/special-recognition-for-three-lough-ree-rnli-volunteers"
+    type: article
+    provider:
+      name: advertiser.ie
+      domain: advertiser.ie
+    quality: 24
+    images:
+      - url: "https://www.advertiser.ie/images/2023/06/136279.jpg?fbrefresh=a6d52f2ad5fb"
+        width: 700
+        height: 1055
+        isCached: true
   - title: "Provenir Awarded Best AI-Driven Credit Decisioning Solution Provider of the Year at Annual Africa Bank 4.0 Awards for North Africa"
     excerpt: "Provenir, a global leader in data and AI-powered risk decisioning software, today announced it has been awarded the Best AI-Driven Credit Decisioning Solution Provider of the Year at the annual Africa Bank 4."
     publishedDateTime: 2023-06-28T10:23:00Z
@@ -49,6 +57,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "YUZ6Y0oGalR5ahZa87jjw1egkfp9yqEPU76lgjw3rXI1K6kgmtNO1Od+jUWkHs7ivHtx/HStsPDPhFlXTuLa6J74AkjPLwfmTZufOYW7+7UU4EsgpNPR0TqfKfOnjwApypM83NLGhQVewz7YILZPHAr74/oq08mAmjK/+VcRjIe4CGGH12cOfYcLk12aiddZ4XkNnwn6VR9iSFZyM2n6W5FFoh3Yr9djQCwPFJp1FGrf6tEw/HQN5b966yNuR4E8JvcbIOswIlyY4D7ZACIZsE68CkIBoqAO4JIuhCrZQtTBf/5AUVhcRKNh1BImDMnaTtDd+ie7W7u5s8/ZCLnjFvbvZWsRby1Ya/RSwVKh00s=;0NznbTq5Nw1cJP8TVhubLA=="
+secured: "/Ontd+OI8F5oaeUF6SIqVbktZgNZKCoplmw835DOHihqDcyQl4nj/U9zdO9YyKp9EGz2mBtKysaNFehdk47N3B0jibSN2wnDBGqHD5TsZrW2x0C8PrQ3NnEPX+/Rg6m9Gl3++u/96604M8z7ua/4Y7zj7SfmmKlQKz6dPn8mivTqT8e27hBS/HJbGsTwFNUCaYIY7rzhf5CqUjIWD2D2KM5yv9sDVHQYmWYvJZtvqdJ37OYR2XK2lcMRPb5u2acJ342CdonwCJt+3mWSXmS6AR2nMeWSvtk1kZgvMYXzw3n4JxLY0PjJafdwcMxN49Db+gdONMezTGYRlJ+CcSoZGZNV4lDGRCt9hZk66VtSeos=;73wN49cDDVZnAbJab9k+cw=="
 ---
 

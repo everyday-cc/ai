@@ -88,6 +88,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
+    excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
+    publishedDateTime: 2023-06-29T16:19:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-bing-edge-ai-shopping-3340393/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Bing-logo-on-phone.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Taps Bing AI to Generate Shopping Guides"
     excerpt: "The company is also using AI to power a new price-matching service and to summarize reviews for consumer products on Bing Chat."
     publishedDateTime: 2023-06-29T15:00:00Z
@@ -266,6 +280,20 @@ related:
         width: 1923
         height: 1923
         isCached: true
+  - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
+    excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
+    publishedDateTime: 2023-06-29T16:47:00Z
+    webUrl: "https://analyticsindiamag.com/inflection-ai-raises-1-3-bn-from-microsoft-nvidia-bill-gates-and-others/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 43
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/Inflection_WebAnimation_Desktop.gif"
+        width: 1000
+        height: 625
+        isCached: true
   - title: "Microsoft partners with Moody’s for “Moody’s Copilot,” generative AI for their financial services"
     excerpt: "Moody's, a renowned global entity headquartered in New York, is expanding its prowess with a newly announced alliance with Microsoft. The collaboration will"
     publishedDateTime: 2023-06-29T15:22:00Z
@@ -348,6 +376,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Microsoft and Nvidia join $1.3bn fundraising for Inflection AI"
+    excerpt: "With Nvidia joining its investment round, the San Francisco-based start-up, co-founded by LinkedIn creator Reid Hoffman, said it has access to 22,000 Nvidia H100 GPUs, the most in-demand resource in the AI industry today, costing $40,000 apiece."
+    publishedDateTime: 2023-06-29T15:53:00Z
+    webUrl: "https://www.ft.com/content/15eca6de-d4be-489d-baa6-765f25cdecf8"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
     excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."

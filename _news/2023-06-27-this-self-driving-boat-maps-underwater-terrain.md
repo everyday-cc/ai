@@ -1,26 +1,28 @@
 ---
 category: news
-title: "This self-driving boat maps underwater terrain"
-excerpt: "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise. Researchers at The University of Texas at El Paso have constructed a fully autonomous boat that can carry out bathymetric surveys -- surveys of the depth and terrain of bodies of water like oceans,"
-publishedDateTime: 2023-06-27T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/06/230627225145.htm"
+title: "This Self-Driving Boat Maps Underwater Terrain"
+excerpt: "The rudderless watercraft operates with four thrusters, allowing it to travel up to 5 feet per second and easily rotate 360-degrees."
+publishedDateTime: 2023-06-27T15:27:00Z
+originalUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
+webUrl: "https://www.manufacturing.net/operations/news/22865940/this-selfdriving-boat-maps-underwater-terrain"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Manufacturing
+  domain: manufacturing.net
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/boat.649af49c0ba67.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C4%2C700%2C394&w=1200"
+    width: 700
+    height: 394
+    isCached: true
 
 related:
   - title: "UTEP researchers construct self-driving boat that maps underwater terrain"
@@ -63,6 +65,6 @@ related:
       domain: labmanager.com
     quality: 19
 
-secured: "L+GLnkrgfmqaUxOUR7h+d+F5ttt7+9bOZt/JKFQZa2jInoO7BeJtC56dROhfVBNRE+JczWMqr6jvDoyELdlTm7zSrnDpzt963PqU1e200J+B17qv4dsNG1egAjz+4THTGlJS7wD1EfFfCrPVGwSoSDeeQ5+ERaiUBbXEUksJbNSfVsvFmW3PmMxnRKPRduWvlM/6//KM+nfBSz5nQo478dMb4V9lHUIlRqr0mGo6dUCagSENIJ0fG1czDkC6XwB6g4iR6juOMe1tseH9ihzDvaj/pkNyNEW3cijBi0hJxyrbH9NeHKibm5Hy24bOQkpO4ZUaoBZQP4OO1cH8UU0NOLsalFFxoHnQnhzn/z0to9E=;+PwSC4YB1jEURvn91P1Spw=="
+secured: "h8wGN6y4ME/Oir9T7jTkSLnXfAXjjBdf5hdshnW6AgwfjNUarAp1Riu8Qa/5tcjkCyoYmKv9WeOPgwQYYdyncV2D99lKieKQXjxQTIikyrcb2RyNNi4oHqdPHB8YoEZphtlRnrwW7AdKYLMnF11zl2qjlQ6A1YlQB3MzxtLOe2KCDsme08fWpvHkPTWQ6TVNPEFEFLxcCEO/FaXMm23Bd6U68JFZukNvKkVgBMzlG0+kYnshYh+mxWnodBbq8oM0Ttco3K4Qh6NKP+7bFiy3LeW9284rynDGCFt+Di8N8h4VhPUWipxJug43M/u9Dnu4HZsgZU94X8KDkTkVdP9TLVVD1f0aS32XpLY/Xvvg2dc=;pkHqDbPEL/J6/y4LvuC1Fg=="
 ---
 
