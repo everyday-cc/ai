@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
+      "title": "AI will transform finance sector, regulator says",
+      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-guernsey-66041385",
+      "originalUrl": "https://www.bbc.com/news/world-europe-guernsey-66041385",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-guernsey-66041385.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-guernsey-66041385.amp",
+      "publishedDateTime": "2023-06-28T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-applications-open-for-aws-global-fintech-accelerator.md",
       "title": "Applications open for AWS' global fintech accelerator",
       "excerpt": "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn",
@@ -1331,49 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services.md",
-      "title": "Quantum Computers: HSBC, Quantinuum Explore Use-Cases of Quantum Computing in Financial Services",
-      "excerpt": "Quantinuum, HSBC announce a series of exploratory projects that exploit the potential near- and long-term benefits of quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/06/208119-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208119-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Computer-Speed-Fast-Internet-Zoom-Keyboard.jpeg",
-          "width": 1280,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

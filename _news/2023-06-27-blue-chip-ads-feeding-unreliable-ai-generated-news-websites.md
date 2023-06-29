@@ -35,15 +35,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "The Grammys just drew the line between artists and AI-generated music"
-    excerpt: "Generative AI has permeated many different industries including the music scene, allowing people to create entire songs simply by using AI. As demonstrated by an AI-generated song featuring The Weeknd and Drake that went viral a couple of months ago, AI is capable of creating songs that sound like the real deal."
-    publishedDateTime: 2023-06-24T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-grammys-just-drew-the-line-between-artists-and-ai-generated-music/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "The Download: advertising on junk AI websites, and forest bathing in VR"
     excerpt: "The news: AI chatbots are filling junk websites with AI-generated text that attracts paying advertisers. More than 140 major brands are paying for ads that end up on unreliable AI-written sites, likely without their knowledge, according to a new report."
     publishedDateTime: 2023-06-26T12:10:00Z

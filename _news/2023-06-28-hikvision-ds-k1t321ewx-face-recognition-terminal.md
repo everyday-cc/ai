@@ -35,6 +35,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Vehicle color recognition based on smooth modulation neural network with multi-scale feature fusion"
+    excerpt: "Vehicle Color Recognition (VCR) is vital in intelligent traffic management and criminal investigation assistance. However, the existing vehicle color datasets only cover 13 classes, which can not meet the current actual demand."
+    publishedDateTime: 2023-06-28T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993796"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/511d1540-9f78-4af4-8065-eda6c4d29a37/Rendition/low-res/Content/Public"
+        width: 700
+        height: 296
+        isCached: true
 
 secured: "HIasczeWoSZ+PAt3bWM9Nx3NChMB5PjI1BKpY9tdB99YPdbdc2DyfavaRMDZUf9v3fXJOclqCtrFyl9MhuoiyuvDUcktdoLyyGqpQe3Vi14qtj786+JGC+3fn9rGm2Bwp1MYjo/pOTM1VVCEYdKK6OCdyENUl7g4m2cqW7qCazJPIvTaj/bGbhwnKN+R8i7fv2fvr8cdwDOy/wl+LvC/d3q3u1P9mSqBj3YZ2wN1oMOEi43Q4R7aev0UkDIlLWNxniIJqC20PvAtx6q3/uS1DMmClxNOH660pVpWBuDy57DKX0zB2Tcta8wpihtJLnTLkUlAe73F6GjXBLVHe2/CoagadELiFNWxrI9MBbl71t4=;PXKGKsKZryKEy5pMDSi3xg=="
 ---

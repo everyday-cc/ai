@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 626
         isCached: true
-  - title: "Aveni unveils AI platform for financial advice firms"
-    excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
-    publishedDateTime: 2023-06-27T10:03:00Z
-    webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
-    type: article
-    provider:
-      name: International Adviser
-      domain: international-adviser.com
-    quality: 39
-    images:
-      - url: "https://s31974.pcdn.co/wp-content/uploads/sites/3/2019/12/launch-take-off-plane.jpg"
-        width: 640
-        height: 410
-        isCached: true
 
 secured: "/3ttK00+TkmUkVdeiywRPKhlnOEj1rNFrGy3elQnnIqOvt9zdugrvLtYT/bk7RL46Yc77qm582ir7E3mpPyDsUm2MYawnE78bOYx4pQ7f30E9VYLDcxHX6AiBRtXfu3tW/TNY+PJlXEzOqU4PSWuk6VwKrEy0WnYSDwwhYH6uwMYIlx2OE8ZuIVoNzAWrkhzlA3yMBwmNPe++nNNj6iRKO88sTda0Z5CrTiOeeitMRwenL1JnIxvpYLrL9ubP4SAyMjqbKqMy0A92Yl31aVPcxlezxp+cv0nZkn+24dvMbQoaCCdm6lH90SZ87ieGWSnjrg3FX1IfXbOBCSHbh0vWa4aEj3w8TBw18ctN+TcP9J/bfLwt/a+TB1htHNtXea0PyJh6CP66KWuINcQr0eVRIthA/VSkg6WSL13zFpivNDdyi+nS0aStYfZWDy8p7oRHno5X6OtQHpztY4Q83yQtQlds9BY3wemFivLP0WF+GIZ8vevmyLk9tQl89qNl2iiXuofSV/hFVx6P1bqtM5ECg==;Lpw1ss6GN5iez2Q01z9BJw=="
 ---

@@ -146,6 +146,22 @@ related:
         width: 933
         height: 520
         isCached: true
+  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
+    excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
+    publishedDateTime: 2023-06-28T12:00:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 53
+    images:
+      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."
     publishedDateTime: 2023-06-27T11:13:00Z
@@ -233,20 +249,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-    publishedDateTime: 2023-06-28T04:00:00Z
-    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 33
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Celebal Technologies recognized as the winner of 2023 Microsoft AI Partner of the Year"
     excerpt: "Celebal Technologies today announced it has won 2023 Microsoft AI Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology."
     publishedDateTime: 2023-06-28T09:41:00Z
@@ -306,15 +308,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 15
-  - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
-    excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
-    publishedDateTime: 2023-06-24T12:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293002/20230624/microsoft-researchers-announce-major-breakthrough-advancing-practical-quantum-computing.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 14
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-06-29T03:11:00Z

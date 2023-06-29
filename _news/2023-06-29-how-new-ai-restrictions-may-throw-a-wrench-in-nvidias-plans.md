@@ -8,7 +8,7 @@ webUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-m
 ampWebUrl: "https://247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
 cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/06/28/how-new-ai-restrictions-may-throw-a-wrench-in-nvidias-plans/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
@@ -493,6 +494,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "o0wRQS+dkxZAjmXt788XLahhhGVa7eoMvBUD0BcRcvEUZX8Pql3JSxcv8ar6SlQddSXQnhNT41Y1sekeVm/HmCFDqkiR8xVwG1Omp37lKX+trD0O1eVG5aNlhnUEWWKmm5MvHxQ6TF9HBEjtDf0YoTkV7jCdEzG3NXtqO7mvZYEL0pVQItTka7J4kdiplF7werbAZtGIBMAghbjhGsjlcWIO5k48D0bdsZJAKiOhCRrmdeUU+xmbSqydSZKm+zN+NjMpQ/+m0FpdoGTduGJuZpnYTIOtTYHMzQLFN5JfzqNMe/BL3BmVGnTp6ky6T2G7fi7suhgRn2P8dJSw809KrLvJuUNx2fjvIa94J2kx0pg=;qqjUiZakgIYe5cXWb7l1Fg=="
+secured: "tgpgbPelZE2r0ZFHU6N4VG1+dOYbqLDBSLC4Cb3pJFK9LzLwORGbGwYuC8VyVRXhRLnRRwyY1ZYAN3z2JZUW8XXRuw/FDmYd3sAZVgll55Il7zVN6R4Ed9jXTtTam+b4Z4Xr1beDrVlmvz4BPq62f48oqypRKNYIeZDaX7vmVuaqnLRkIc/IVKP2H1BE1TULDQed76k2LQqrdApSb61T0ymD/kRCxDmniZn8dtFWqvpmfsMq896nsycXDEAtPdiieab2ol5lZ+qnBNa8lQGifVF5RcqQ9ZWeUZkP5avUz+SQdH6TDrmE8q7Q9qlHG3RLUAqpcMuIueIv0ivbFRr3OYr4dbMnjd8WZaHwucc3gfWzLRXf+osAZRufC9ZIUd6v2GQTzaGU5FsqaQO7Xp3jKitF/VW8Zd79qWDg/Oqzd9P5ZAtaJ/UHINkxM5Adw2jbGTWeeVA8DUVNKfGxC8PQo0zyxkP4WWnk1rUy2U//a8FfINDDKvEZcf50p6GYYtRlko4bAOv4bof5oCTJlNHukA==;rk25pXeTApXFyliXqXYU7w=="
 ---
 

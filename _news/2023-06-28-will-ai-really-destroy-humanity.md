@@ -57,6 +57,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "When AI bots pose as humans"
+    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
+    publishedDateTime: 2023-06-27T03:50:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "e0yjmeWgLzx9VTBWquuMKn09bItFKJcBDoi1z37IZTCpYQF6lFkMx2+OJNunTB2SxaupY1yelyeULQ9nAzaqGJiulz1i9bg8obqIIaybWdt51uDBL5tiHLKhjxYikyW9X589GLOS6RD+/Za/ZQZDcxtKgKrQAnBU6h4y7vUHx0DaQq/vkq8m/RGehaEY+YX+aucx3uFjR/JjZlltlRerQZuo5CRGAEf6sPiGK01ox+0h3Jb/tlb5zFd8wOZ6eHQBXNvLY71o3ILgQP2JGYCcMm1EIyVByzwnXBQezXT1vaTQEqMfRdC/FQtdBs6sIyQbQ3UBIILYnOoBpjUust3fgGtO4dwjRovyn/+KR9C2M7c=;EdMKRXitOYjZB4QvniaqKg=="
 ---

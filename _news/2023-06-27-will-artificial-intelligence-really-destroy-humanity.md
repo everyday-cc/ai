@@ -43,6 +43,20 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "When AI bots pose as humans"
+    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
+    publishedDateTime: 2023-06-27T03:50:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Will AI really destroy humanity?"
     excerpt: "Artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity? PAPE"
     publishedDateTime: 2023-06-27T17:48:00Z

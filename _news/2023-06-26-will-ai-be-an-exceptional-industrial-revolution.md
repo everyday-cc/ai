@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "RelationalAI and Snowflake join forces to revolutionize enterprise AI decision-making"
-    excerpt: "RelationalAI announced today the release of an AI co-processor built for Snowflake, the popular cloud data warehouse provider."
-    publishedDateTime: 2023-06-27T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/relationalai-and-snowflake-join-forces-to-revolutionize-enterprise-ai-decision-making/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_intelligent_knowledge_graph_to_serve-up_relationship_426cbfbb-026a-4dd2-b28b-5565991d8b51.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
   - title: "Healthcare leaders open to potential AI legislation"
     excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
     publishedDateTime: 2023-06-28T14:40:00Z

@@ -2,6 +2,152 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-04-28-jpmorgan-debuts-ai-model-used-to-decipher-fed-speeches-for-potential-trading-signals.md",
+      "title": "JPMorgan debuts AI model used to decipher Fed speeches for potential trading signals",
+      "excerpt": "An curved arrow pointing right. Ahead of the Federal Reserve's policy meeting next week, JPMorgan Chase unveiled a new artificial intelligence-powered tool that digests comments from the US ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "originalUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6439595af62706001942ff9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/bonds/ai-artificial-intelligence-chatgpt-jpmorgan-investing-outlook-fed-jerome-powell-2023-4",
+      "publishedDateTime": "2023-04-27T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system.md",
+      "title": "Navy DoD Supercomputing Resource Center Adds ‘Nautilus’ Penguin HPC System",
+      "excerpt": "The Nautilus HPC system configuration includes 1,352 compute nodes with up to 128 AMD EPYC Milan compute cores per node, 256 GB of memory per node, 16 NVIDIA A40 visualization nodes, 32 NVIDIA A100 Quad GPU AI/ML nodes, 26 petabytes of DDN storage ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
+      "originalUrl": "https://insidehpc.com/2023/04/navy-dod-supercomputing-resource-center-adds-nautilus-penguin-hpc-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2022/04/Cover-Image-The-consequences-of-congestion.jpg",
+          "width": 810,
+          "height": 1048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-apple-is-working-on-an-ai-health-coaching-service-according-to-reports.md",
+      "title": "Apple is working on an AI health coaching service, according to reports",
+      "excerpt": "Need help staying on top of your health and wellness goals? Apple is working on some projects that might help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
+      "originalUrl": "https://www.zdnet.com/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-is-working-on-an-ai-health-coaching-service-according-to-reports/",
+      "publishedDateTime": "2023-04-27T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-google-shares-io-2023-session-list-including-whats-new-in-android-material-design-and-gen-ai.md",
       "title": "Google shares I/O 2023 session list, including What’s new in Android, Material Design, and gen AI",
       "excerpt": "With I/O 2023 two weeks away, Google this morning posted the initial session list, including \"What's new\" across Android,",
@@ -1059,162 +1205,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-genie-ai-achieves-30x-growth-in-one-year-attracting-major-businesses.md",
-      "title": "Genie AI Achieves 30x Growth in One Year - Attracting Major Businesses",
-      "excerpt": "Over 100 new organizations sign up to Genie AI each day. Genie AI, an open-source legal artificial intelligence startup, has experienced a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/genie-ai-achieves-30x-growth-in-one-year---attracting-major-businesses-1032267944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1682576593021-0.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-how-to-extend-the-functionality-of-aws-trainium-with-custom-operators.md",
-      "title": "How to extend the functionality of AWS Trainium with custom operators",
-      "excerpt": "Deep learning (DL) is a fast-evolving field, and practitioners are constantly innovating DL models and inventing ways to speed them up. Custom operators are one of the mechanisms developers use to push the boundaries of DL innovation by extending the functionality of existing machine learning (ML) frameworks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-extend-the-functionality-of-aws-trainium-with-custom-operators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/27/extend-functionality-aws-trainium-custom-operators.jpg",
-          "width": 959,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:30:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai.md",
-      "title": "Microsoft's Q1 Earnings Show Impact Of Companies Going All-In On AI",
-      "excerpt": "Revenue, net income and cloud computing were all up, delighting Wall Street and confirming Microsoft’s gamble has so far paid off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644a90ed0c69a91ea555c171/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/04/27/microsofts-q1-earnings-show-impact-of-companies-going-all-in-on-ai/amp/",
-      "publishedDateTime": "2023-04-27T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

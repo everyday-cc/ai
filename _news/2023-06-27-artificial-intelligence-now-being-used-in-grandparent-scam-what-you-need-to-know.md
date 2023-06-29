@@ -99,20 +99,6 @@ related:
         isCached: true
   - title: "Everything you need to know about AI but were too afraid to ask"
     excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
-    publishedDateTime: 2023-06-24T11:04:00Z
-    webUrl: "https://kesq.com/news/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 39
-    images:
-      - url: "https://kesq.b-cdn.net/2023/06/tJgl66TP-first-alert-logo-1-375x225.jpg"
-        width: 375
-        height: 225
-        isCached: true
-  - title: "Everything you need to know about AI but were too afraid to ask"
-    excerpt: "Business executives keep talking about it. Teachers are struggling with what to do about it. And artists like Drake seem angry about it. Love it or hate it, everyone is paying attention to artificial intelligence right now."
     publishedDateTime: 2023-06-24T17:04:00Z
     webUrl: "https://krdo.com/money/cnn-business-consumer/2023/06/24/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask/"
     type: article

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Airtable launches beta program for no-code AI-powered app deployment"
+    excerpt: "Airtable, a no-code platform for building workflows and apps, today announced that it’s launching a beta program and expanding access to Airtable AI, allowing enterprises to develop and deploy generative artificial intelligence applications for business workflows and productivity."
+    publishedDateTime: 2023-06-27T14:34:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/airtable-launches-beta-program-no-code-ai-powered-app-deployment/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/beta-launch-ai-image-2.png"
+        width: 1600
+        height: 875
+        isCached: true
   - title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
     excerpt: "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by"
     publishedDateTime: 2023-06-27T18:00:00Z

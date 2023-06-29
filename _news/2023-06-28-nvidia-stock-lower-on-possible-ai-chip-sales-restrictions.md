@@ -275,7 +275,7 @@ related:
     provider:
       name: 24/7 Wall St
       domain: 247wallst.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-pEE.jpg?w=400"
         width: 400

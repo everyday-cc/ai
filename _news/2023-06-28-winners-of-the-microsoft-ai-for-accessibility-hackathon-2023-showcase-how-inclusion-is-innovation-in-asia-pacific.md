@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-publishedDateTime: 2023-06-28T04:00:00Z
-originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
-webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
+publishedDateTime: 2023-06-28T12:00:00Z
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
-    width: 400
-    height: 225
+  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -298,15 +300,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 15
-  - title: "Microsoft Researchers Announce Major Breakthrough in Practical Quantum Computing"
-    excerpt: "Microsoft Quantum has achieved a significant breakthrough in developing a reliable and practical quantum computer."
-    publishedDateTime: 2023-06-24T12:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293002/20230624/microsoft-researchers-announce-major-breakthrough-advancing-practical-quantum-computing.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 14
   - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
     excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive innovation and efficiency"
     publishedDateTime: 2023-06-29T03:11:00Z
@@ -335,6 +328,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "LYZiAjuvtOzSU4/oKvq7F23VnPSo/6z7+I88ZeTT/5xk3b+HKgSwD1K9kcjq0sm4QdpzDE5FIsG+ssRKNfyA+hQ1M/necriktZEv59+8uVAWqlLqZxsn65+7H8hGLVCTzUrWe1HfFzLAgx+Iq7mF1Z5690m1tbWTLrBjQzX4XkZUBwa/qVEJYWLHVAAyz670rdir+tq2x5/PEl7DsS7YAd7VYpoFTu4nf2LNJQ80jv2pRwsDssYSPQIu233a270UC58FPRa0ypSY1ABbjhhqkiUlhZ2+r6mTKi58N6YHCEA+eCxfGbYLFZrIJh56XRf6ijeyNa33XvmP0r67gBjDnL75/yEyDWHEeISybmVA9as=;vvCEmuw/qM2qqrUWPtbxqg=="
+secured: "T38JuKyvyi7z5dDWMsivGmO1zKQdab81IlzjTvOwESFNfF42vRReGaXfLMLwSa1z7pvoqR7Nt8yRD+zE5dF2rnja42WOFM2SRctjD6Of72RvHJdn/QswezXIZesJugZY8EI2Daz555ufHvm4wLnspr4BDJwNXIqsmceU+XihTois2e/Tpi6pJgnni5RMS02CrAqdPlgxf3XRrQq1Nu5UiaW3l1jWiz6KPWOlzbKpBlqDUmseDPi71FmRkJRVAurii7Hi8F5RMTYuZUhmaSn+aB8+GgFv6cVjv3tNQP+uuBARDHfzzMO+AdrH0t78/0AcdWWD2qdNd4oGV43QAipm+oW/3V3LgjC4vMxwSMPYLq4=;JvjeEyUv7Ui/3k+cX7SixQ=="
 ---
 

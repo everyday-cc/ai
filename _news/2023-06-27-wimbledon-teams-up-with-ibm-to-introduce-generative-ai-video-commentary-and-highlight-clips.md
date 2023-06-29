@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-gene
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Wimbledon to use IBM tech to power AI commentary for online highlights"
-    excerpt: "\"This year, we're introducing new features that use AI to help fans gain more insight and access commentary through our match highlights videos.\""
-    publishedDateTime: 2023-06-24T12:16:00Z
-    webUrl: "https://interestingengineering.com/innovation/wimbledon-to-use-ibm-tech-to-power-ai-commentary-for-online-highlights"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "7ir8Epkc2BIoyMNiIP+KaeZgDQ+nN5HWT9NwVNjealQfnzoFpWQycrfZkKIKvqpU6k736s+xhGhauzU26v88IfyZ53bVPngDe4/BCg51PMym1fwP4kR9omoyaQyy5zugjknFwXKOFN2RHZ5CsKJks4NKH7HQIekBsZ9oRliXSoKt6/TNlsI8jK8PqJYCvq1mtNfLBH6c+ysEW6Uez6Ab6mps/ZdqyU0ZgLTCInYXDGKNDrjqSGObQxK4MuRojE25h9zoMm6SFvTBknD0RylDoCRbAFdwoB9rS6AWTcqtbTt6wIeXv9XYDNbYskBjkWcWiZI+R9hGVDpnho9/3d7/ceVLcIqYIpbmfFQLpdtSyDs=;DswrDhgr0s3UEEzeeIMGbw=="
 ---

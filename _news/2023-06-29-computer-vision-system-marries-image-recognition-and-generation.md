@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generat
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Vehicle color recognition based on smooth modulation neural network with multi-scale feature fusion"
+    excerpt: "Vehicle Color Recognition (VCR) is vital in intelligent traffic management and criminal investigation assistance. However, the existing vehicle color datasets only cover 13 classes, which can not meet the current actual demand."
+    publishedDateTime: 2023-06-28T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/993796"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/511d1540-9f78-4af4-8065-eda6c4d29a37/Rendition/low-res/Content/Public"
+        width: 700
+        height: 296
+        isCached: true
   - title: "Hikvision DS-K1T321EWX face recognition terminal"
     excerpt: "500 faces, 3,000 cards, and 150,000 events Face recognition duration ＜ 0.2 s/User Face recognition distance: 0.3 m to 1.5 m Supports ISAPI and ISUP 5.0 protocols Configuration via the PC web client and mobile web client Supports wired network and Wi-Fi ..."
     publishedDateTime: 2023-06-27T23:54:00Z

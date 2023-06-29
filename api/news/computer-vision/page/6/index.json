@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
+      "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
+      "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
+      "sourceUrl": null,
+      "webUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "originalUrl": "https://alaskapublic.org/2023/04/18/anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alaska Public Media",
+        "domain": "alaskapublic.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-divisions-grow-over-use-of-facial-recognition-in-california.md",
       "title": "Divisions Grow Over Use of Facial Recognition in California",
       "excerpt": "(TNS) — California legislators are grappling over how to deal with facial recognition technology in policing, leading to tensions between one-time allies on the issue. Assemblyman Phil Ting ...",
@@ -1202,40 +1236,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology.md",
-      "title": "Ant Group partners with Zhejiang University to promote intelligent vision technology",
-      "excerpt": "Alibaba’s financial affiliate, Ant Group, has partnered with Zhejiang University to establish an Intelligent Vision Joint Laboratory.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "originalUrl": "https://technode.com/2023/04/03/ant-group-partners-with-zhejiang-university-to-promote-intelligent-vision-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-03T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
         "images": null,
         "publishers": null,
         "authors": null

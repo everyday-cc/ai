@@ -220,15 +220,6 @@ related:
         width: 300
         height: 207
         isCached: true
-  - title: "Adobe Flies Towards Generative AI"
-    excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
-    publishedDateTime: 2023-06-24T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/adobe-flies-towards-generative-ai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
   - title: "Here are four ways we can use AI responsibly | Opinion"
     excerpt: "Alexa, Siri, chatbots, and thousands of other systems are powered by AI, from text-to-voice translation and facial recognition programs to vehicle accident-avoidance mechanisms. And it’s anticipated that future AI technology could lead to substantial health advances, like earlier detection and diagnosis of cancer."
     publishedDateTime: 2023-06-26T13:50:00Z

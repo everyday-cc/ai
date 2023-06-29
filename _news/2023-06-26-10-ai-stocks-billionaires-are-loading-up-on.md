@@ -26,61 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "One Major Risk With Investing in Artificial Intelligence Stocks"
-    excerpt: "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme."
-    publishedDateTime: 2023-06-24T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
+  - title: "China Lures Billionaires Into Race To Catch US In AI"
+    excerpt: "China's tech sector has a new obsession: competing with US titans like Google and Microsoft Corp. in the breakneck global artificial intelligence race."
+    publishedDateTime: 2023-06-28T01:29:00Z
+    webUrl: "https://www.ndtv.com/world-news/china-lures-billionaires-into-race-to-catch-us-in-ai-4158666"
+    ampWebUrl: "https://www.ndtv.com/world-news/china-lures-billionaires-into-race-to-catch-us-in-ai-4158666/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-lures-billionaires-into-race-to-catch-us-in-ai-4158666/amp/1"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
     images:
-      - url: "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
-    publishedDateTime: 2023-06-27T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "How investors are buying their way into the AI start-up gold rush"
-    excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
-    publishedDateTime: 2023-06-27T21:16:00Z
-    webUrl: "https://www.afr.com/technology/how-investors-are-buying-their-way-into-the-ai-start-up-gold-rush-20230628-p5dk0a"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1741%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e792f9305c6fcfa2bf821b0329ba4aed66236261"
+      - url: "https://c.ndtvimg.com/2023-06/aqv6g0gg_china-ai-bloomberg_625x300_28_June_23.jpg"
         width: 1200
-        height: 628
+        height: 738
         isCached: true
-  - title: "Small-business owners are investing in AI to help free up their time"
-    excerpt: "Small-business owners are planning to spend tens of thousands of dollars on digital tools in the next year — and that includes AI software. A new survey of 1,000 businesses with up to 200 employees by Intuit Quickbooks found that business owners were expecting to spend between $45,"
-    publishedDateTime: 2023-06-28T19:17:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/06/28/chatgpt-ai-small-business-invest-money-time.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
-    excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
-    publishedDateTime: 2023-06-26T18:18:00Z
-    webUrl: "https://www.benzinga.com/startups/23/06/33011902/this-1-month-old-ai-startup-with-no-product-just-raised-113-million-here-are-3-established-ai-stocks"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "C3eZje5nE5Eb75m935s09HN/O4YanZ5/oZz4fnNh2JXSkgIx4opF8NbEbKpwGejnkHit+7eWgBN0BDmvynNwlbJy+uUp+fgypmv8OOXWt7/6Y/euPiOYU0TPwnlSEm/cfy0dUgORDCRPf2qxwkfhpHgyUXPxJ7oCvtdfR1/YrSjBsi4VVWjm+MFFZXQ/zj+/arAEPHVComwlS7WSGPC55YhNbcofWfNsDcA4+RpyCX2cK1Dz+jv+TXScEdn8PByT9YW8Ok5RFUYtWmyYsl5OIaF3Yjh/HokhnECfXgzAn6ewbTyF7k4gj+mnlZJ9po8L6qOyBvieKMB4vENv3nS+IC9DUZophtXVHFzHAk/2vnaGVza0cGJLS6XCey7ywFzSqKCcClHQl6mPFZZub7+G0ca/uZeNCvop0IO/w//SaWDjQP2f9gn9i0PtfUjpO7pkGoEaajcHuMqqoyZGFwrMbfdUI07i8MRRHU2LV1lHVl3UVpPZ6YBcVI6eST+nfCPhUeRFb5ZFb07jUi14NVEGKA==;QCKw0+TXAy70e+MhLALyXQ=="
 ---

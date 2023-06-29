@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/politics/2023/jun/28/time-running-out-fo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jun/28/time-running-out-for-uk-electoral-system-to-keep-up-with-ai"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "UK hospital uses new Azure AI system to cut waiting times for radiotherapy patients"
-    excerpt: "Addenbrooke’s Hospital in Cambridge, UK, has more than doubled the speed at which it can plan radiotherapy treatments by using a new artificial intelligence system developed by the NHS and built using Microsoft Azure Machine Learning."
-    publishedDateTime: 2023-06-28T14:45:00Z
-    webUrl: "https://www.technologyrecord.com/article/uk-hospital-uses-new-azure-ai-system-to-cut-waiting-times-for-radiotherapy-patients"
+  - title: "AI will transform finance sector, regulator says"
+    excerpt: "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector."
+    publishedDateTime: 2023-06-29T05:07:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-guernsey-66041385"
+    ampWebUrl: "https://www.bbc.com/news/world-europe-guernsey-66041385.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-guernsey-66041385.amp"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 48
+      name: BBC
+      domain: bbc.com
+    quality: 104
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4438/MS_OSAIRIS_web.jpg"
-        width: 975
-        height: 548
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Aveni unveils AI platform for financial advice firms"
+    excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
+    publishedDateTime: 2023-06-27T10:03:00Z
+    webUrl: "https://international-adviser.com/aveni-unveils-ai-platform-for-financial-advice-firms/"
+    type: article
+    provider:
+      name: International Adviser
+      domain: international-adviser.com
+    quality: 39
+    images:
+      - url: "https://s31974.pcdn.co/wp-content/uploads/sites/3/2019/12/launch-take-off-plane.jpg"
+        width: 640
+        height: 410
         isCached: true
 
 secured: "XhLLhFFnURJaw0aZimIAFwi0oCOU44C+8wFVmzPF9AuwD1CGhgeTH6fR8DL0x/d7bitbtagAIdKY6CfbA9jRIFTHGXA5kACYEbEZOq2BqJs+HXrqBhogMTk9QCMdxrZr9IzhRMUcP5aE3NnFsub4rlLAqAIDf30TYl5GGYaO4Ecf3P33evgpMso3G/eS2cH9CBCoCIZ+86/h+UnOKE4KiZAjQSgsdDq/tOkTjI5C0JogWSBwWprp31CTb/224QnMsYRP2cz8ZXXul2ijIjXoHGN/Q/WjdnZ+Qxx2fwj9rzc8UUkuGHVaRgX98+w23nZijNXPq88YvhA3W8h/dRntjeZB9uHu5itLzm2dir5FXGR0XQuQ8FFBB7ghUd+gOhI3q/J6FPo+NsBMGevmQcDDP2rPOP/RfgGlDejFvo/qCiKsc3Pu2PPmE2gXN+wicH/O4N0bgzN1uHKYAZ7yBJhw0N7JS5JrtzUaAD7/wZcSq75+Vr9OLFYXOT0orWszqVgBirf+7utliitA52CZbk2lKg==;JBR1lhvWORKtCINXDIFQ9Q=="

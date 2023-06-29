@@ -229,15 +229,6 @@ related:
         width: 300
         height: 207
         isCached: true
-  - title: "Adobe Flies Towards Generative AI"
-    excerpt: "Hi, welcome to your Weekend.For about 11 months after OpenAI released its text-to-image generator Dall-E 2 in April 2022, many of us wondered when Adobe would come to market with a rival product, which could be neatly integrated into design programs like Photoshop,"
-    publishedDateTime: 2023-06-24T13:00:00Z
-    webUrl: "https://www.theinformation.com/articles/adobe-flies-towards-generative-ai"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
   - title: "AI linked to new crop of business email scams"
     excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
     publishedDateTime: 2023-06-28T13:18:00Z

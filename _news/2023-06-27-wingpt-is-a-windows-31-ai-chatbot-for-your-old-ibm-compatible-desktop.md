@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-c
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "Put AI to use, from chatbots to robots with this training bundle deal"
-    excerpt: "The bundle also includes exam prep courses to become a certified Python coder and Microsoft Azure AI programmer. The bundle moves on to more advanced uses of AI, including courses on automatic scripting, image classification using Python frameworks ..."
-    publishedDateTime: 2023-06-24T12:12:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/put-ai-to-use-from-chatbots-to-robots-with-this-training-bundle-deal/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 19
 
 secured: "kK4eDR1QflpFOf1jnnX7RCMK6rNkpdFuFglYc/eizi2fzS5HkJuwUgkK9XKD1rc3H4P68Fymd1QM9xP2xzRCsmL+eP74OjixU9kp3UbxqtMY+a1HfYfC1YlHhpzy5cDpaypP5FE5jfFk2n0He38Lfy70+G6fkxKYCCht2jmlJs5UhnVHYX9tWifr2hVCO15sQmKdTh5qkXHFj1G5AtkCr8TsZeKfpdLL7sSboTFQKP8En2zYYetw2XTkU4RSCRP+MEl9z/+qTGkkkh/EQJOwPAomEnqQWutnD6NzitKUXGqSYcckq9NxQK2y4sTBq319pUb3PpZRswHPdBA1w10W00HI+Ro5aqEUUXT6JWy6N1M=;/EwNMw5IQb2jCUeiGWDmBA=="
 ---

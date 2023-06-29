@@ -24,61 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "One Major Risk With Investing in Artificial Intelligence Stocks"
-    excerpt: "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme."
-    publishedDateTime: 2023-06-24T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/"
+  - title: "AI frenzy draws hordes to private markets in industry gold rush"
+    excerpt: "The buzz around artificial intelligence has investors snapping up shares of start-ups on alternative venues, looking to find the next wave of technology giants before they even go public."
+    publishedDateTime: 2023-06-27T16:58:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jun/27/ai-frenzy-draws-hordes-to-private-markets-in-indus/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
     images:
-      - url: "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://thumb.spokesman.com/OJaj3h9KLrONrLzGvfEECx1svOs=/1200x630/smart/media.spokesman.com/photos/2023/06/27/649b0abbab614.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
-    publishedDateTime: 2023-06-27T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "10 AI Stocks Billionaires are Loading Up On"
-    excerpt: "The AI mania is quickly dividing the market into two halves, those who believe we are in an AI bubble that will not live up to the hype and all the stocks gaining on the back of the AI hype will soon"
-    publishedDateTime: 2023-06-26T16:44:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-ai-stocks-billionaires-are-loading-up-on-1158885/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 41
-    images:
-      - url: "https://www.insidermonkey.com/blog/wp-content/uploads/2012/09/Stanley-Druckenmiller-e1354390334422.jpg"
-        width: 2472
-        height: 3235
-        isCached: true
-  - title: "Small-business owners are investing in AI to help free up their time"
-    excerpt: "Small-business owners are planning to spend tens of thousands of dollars on digital tools in the next year — and that includes AI software. A new survey of 1,000 businesses with up to 200 employees by Intuit Quickbooks found that business owners were expecting to spend between $45,"
-    publishedDateTime: 2023-06-28T19:17:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2023/06/28/chatgpt-ai-small-business-invest-money-time.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "This 1-Month-Old AI Startup With No Product Just Raised $113 Million — Here Are 3 Established AI Stocks That Investors Can Bet On"
-    excerpt: "Artificial intelligence (AI) has become the hottest trend in the tech sphere, and investors aren’t hesitant about spending big money to get into the game."
-    publishedDateTime: 2023-06-26T18:18:00Z
-    webUrl: "https://www.benzinga.com/startups/23/06/33011902/this-1-month-old-ai-startup-with-no-product-just-raised-113-million-here-are-3-established-ai-stocks"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "uR5cx8s2SNdNGGmbOAur7UUYvyDLSI0DpGXIMqWBKfCGlh5qNjM9Iw5lJrVa27nt0HhaPGyMVMfNavMUoYobm0+9r215HDAS/Ki4vdShwLWxSDIAEM2/Yo+YBb6MTfBJxcy4xxVmVv6zgMyFJi65I3LBa+qRxyVSh2EfZue39X/60gD+eh23RQk++L66iDn4Pw9PgNq49d/MvMCMKIb1vKP3axuBAPki0H7MHR9MTAQODsSWkOPS6YwXMawHvKuJ8rwyI20y0ptw73rAD7kiRcQCCUeXgPyqw8O3JeeVhMjPPhLxLYjh6jCsAvuSF3CPfSY7TxaNcVPxWYRVu95Xk0uRk3Flvzq0IZNao+Ewx5s=;JlcPlB39iGLaMJav3J4IqA=="
 ---

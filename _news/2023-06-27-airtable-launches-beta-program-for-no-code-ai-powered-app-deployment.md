@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Airtable CFO Ambereen Toubassy Warns Businesses Not To Ignore AI"
-    excerpt: "In a recent interview with Fox News Digital, Airtable Chief Financial Officer Ambereen Toubassy warned that businesses not embracing AI could fall behind their competitors. While everyone has their own ideas of how AI will impact the future of the business world, Toubassy makes several excellent points."
-    publishedDateTime: 2023-06-24T11:06:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32996332/airtable-cfo-ambereen-toubassy-warns-businesses-not-to-ignore-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32996332"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32996332"
+  - title: "AWS launches AppFabric, a generative AI tool that helps tame SaaS application sprawl"
+    excerpt: "With AWS AppFabric, companies can connect multiple SaaS applications into a single console to improve security, management and productivity. It was announced today at AWS Applications Innovation Day."
+    publishedDateTime: 2023-06-27T17:05:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/aws-launches-appfabric-generative-ai-tool-helps-tame-saas-application-sprawl/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),With,Machine,Deep,Learning,And,Data,Mining.jpeg?width=1200&height=800&fit=crop"
-        width: 570
-        height: 380
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-23_080739550.png"
+        width: 657
+        height: 429
+        isCached: true
+  - title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
+    excerpt: "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by"
+    publishedDateTime: 2023-06-27T18:00:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "m+nbBxIGFZUMC9o2xRoYkvfjvUju4f/kQyCqWRjjk/plJT2OX4gs7IEjYwh3cWr/dlUVQ7fMb9ID0Vn7nn3luwM1BGf1FCmYjTcQ4+/GA89IeNR451jFTJhXZbWNmlY0TPGr3NIIp8uw8qMhzRVTrGVAy4MRMPcVJKWbjCycpDHXd+0YqaOkHGguHAwfXiLszx4CzmxFpun47xz+ZYLpkrlKSrhm9zgIslwe52mz/1NH8FhKR6f1RN4l//50MADZ2qoZTJLGwu2vSQ6yc8rBGGZF+CIBNXl24ke7KABC5gtPS36Kk1K9aoZod/EsW2KnI6RZjX0t0vWO4cCrdXb22Gixa8/GnC8EQ28HlWTEqkE=;4L6gZZefG7lqAdz+//0GHA=="
