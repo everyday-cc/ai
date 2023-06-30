@@ -27,7 +27,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
+    quality: 73
     images:
       - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
         width: 1050
@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The Picks And Shovels Of The AI Gold Rush"
+    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
+    publishedDateTime: 2023-06-26T19:42:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Using AI To Determine The Health Of The Electrical Grid"
     excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
     publishedDateTime: 2023-06-29T18:21:00Z

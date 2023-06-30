@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inside the race to build an ‘operating system’ for generative AI"
+    excerpt: "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers"
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all"
+        width: 1028
+        height: 685
+        isCached: true
   - title: "The deluge of new generative AI products is just getting started"
     excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
     publishedDateTime: 2023-06-26T14:14:00Z

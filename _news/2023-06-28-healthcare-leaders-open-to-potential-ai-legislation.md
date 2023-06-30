@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Robotics startup raises millions for AI, remote control applications"
     excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
     publishedDateTime: 2023-06-29T01:22:00Z

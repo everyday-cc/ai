@@ -168,6 +168,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Regulation and talent: India’s catalysts for generative AI triumph"
+    excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"
+    publishedDateTime: 2023-06-30T11:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Democratization of information with AI: Empowering innovation & inclusion"
     excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
     publishedDateTime: 2023-06-29T11:14:00Z

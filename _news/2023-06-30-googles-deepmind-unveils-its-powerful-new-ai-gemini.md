@@ -91,6 +91,22 @@ related:
         width: 1093
         height: 400
         isCached: true
+  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
+    excerpt: "Novel materials for everything from wind turbines to carbon capture could help cut emissions. A small but growing number of startups want to use AI to develop them faster."
+    publishedDateTime: 2023-06-30T10:36:00Z
+    webUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985"
+    ampWebUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 73
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1939986!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/wind-turbines-at-sunset-in-germany-photographer-bloomberg-creative-photos-bloomberg-creative-collection.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
     excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
     publishedDateTime: 2023-06-28T04:44:00Z
@@ -175,6 +191,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "jackdkRU5J0SKMHdrBoCveQ8bLthtYDk+5/sgOhoHHWrXfz+gecqOJ/VPcLBV3xJ00tgbMtbfDZR63sMLWEIwLKngYI1wfI/UYInI0PMkzQvOmt72yqcWoLfZG77KIQ2JOre4tUlMlaH2op3dv2MjDzJafUHvqfd01kT/+1ixXMInDfec2mg+UH8/duODlqz5gh+TM1LGCgmnBvAMKUtJzI3YmX8aktDIfp3ZaF0cOpnt+DS9sOz7bWZ31iiUOtVDi5+LHthI450n8wgh2Hydern0aOwnYLEiHypVKYq6F4cupKip4e+zSWQkQdY+zEthGiSjhPYXcPTLUKe3bftsxeaav548eMA/ZlD6wBenxQ=;X8fy/T4QYknxoJBeWimKKA=="
+secured: "8N7eYMtZv43QKdyKOUuGE3EkoacpXpI26WuQ864cthEi/uKpviv7zaW1Pd+mF+5CjH2pvpspIJsVokT3iUzOjDdJ8aVJnBcKN2oyuWzNiCqvOZ56u35n1cSahJyW9H9CSNr0aUs6/93rDDUvdB6XtIQ6520T9jcPIA2kuHaQRlhokcih9xgUSMAFGtaXVsT8uYA6rNYLG6fDXWuoYqtx4ZG2GTIaEybwQ50tec/Vp+bqRLj7d40FUuXY8pTGRR+r9igdpM6M9yA3m+dspM8EDgqTZ25vZlEIPjMK36pQOGHt5RWATzcU8gHNZL3jtIWIcwcWJOh/kAqcS22FI8C6iele6NOX8b+Qs6gnfmgaIYb+rYDSWdxw6OD/ctEjjELbJuKCZALoi2eCNz3zlaeQvAZXbAXg7wYX485MT83Kp9ijVOp82Y/R3wae3Qy3Ajv60n7Mi4w8Y+k0xcHlhbhQWKFmIzW3dDqaNkmWP81Oet/7syJ5dvM/gPXWbIN8M4RV09igUwaQOv1ZPcCImVwLxg==;8C7Ye50ZOliHJiRN6CZHpA=="
 ---
 

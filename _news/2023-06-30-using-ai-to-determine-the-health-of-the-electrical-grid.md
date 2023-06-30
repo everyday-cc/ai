@@ -30,7 +30,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
+    quality: 73
     images:
       - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
         width: 1050
@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The Picks And Shovels Of The AI Gold Rush"
+    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
+    publishedDateTime: 2023-06-26T19:42:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI Threatens Creative and Intellectual Workers"
     excerpt: "Several years ago, various studies and reports 'promised' creative and intellectual work would be safe from the artificial intelligence revolution. But the emergence of GPT-4 and Midjourney immediately became a threat."
     publishedDateTime: 2023-06-28T01:17:00Z

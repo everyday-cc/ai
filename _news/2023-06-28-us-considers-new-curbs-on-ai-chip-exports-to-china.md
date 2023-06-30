@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Considers New Curbs on AI Chip Exports to China"
-excerpt: "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon-development and hacking."
-publishedDateTime: 2023-06-27T21:04:00Z
-originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
-webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
+excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao The Biden ..."
+publishedDateTime: 2023-06-28T09:35:00Z
+originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
+webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
 type: article
 quality: 84
 heat: -1
@@ -568,6 +568,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "QcjYbZaqPU1zG4c2o8yShhUO4mRNcPFPBqzTlxhl2pEv0xdHO75C2noA6nMQGTWdqsKTwhtdp5ouoRpU1GkGC7eiR/9LYm5cuVw3SnwpX2fX7wzhliwVv0QRZyxdK5Jpi4QDz3T4jlMAIICBOPV4EHjcAd+mfJu4Aj0zrTjYjqRtqzKGmvLAH5ZbEl0zXuNRoBc/jaMQSxO/fLUzq4Yprc2KSAi6RTl5zdVHuG2wRHwfXLgSa9mprfQs5NZ4rR22oMQ7iOG2/8Ph3g4EDs3RBTOoOBCiOaL7Cj2ICOl1g7YN3g0izjsmNkEsfB+CSMiONVE62J8W8sh2LreAWbey1n1dROp99iaHi1fflaaHc72scnl6H+k1NIrAq/uHWRpENZlAkdwVI3VwcaAEKEo6YlSK8nsnd94fXbM9R1ukwjtMLD2xhaiy8+ySA+uvQGqmENsTDPWHfFt7v3iSyCMUOXe0GJTlczekGvWfjp9DROI5vtiHyYOsBRmJBRzQMmoq06cS++40ul/ezw9BVpRMWA==;7YV9wfXpQAoOzS+iI1E/9g=="
+secured: "5IG0Pbyds180aBo0O3YoLginFRxdPlMuMw63CyzwB89GCjEXfZoOOzTOIXk97/mlaTzG3ZrhP3IULbTszT0yErx/+WfZ7bWknP8Iq0WkBC7ioEYtmKABD/yQDCSidcxL9idWq/9nA+jijmk69h2ZJK9plZ5feWCTiI8mZ3MlN7QnBBNe1Sm6P7BH+IQNCOiBCjf7evkRqohJ5p2BW46A6ywXCmKOwilcAo4VbH7t7P/9ALK9whYUtDLsPXKUvQEIc5EV2Z1Jm7oXw2IYTmjLqqGGFvfGOiSGkp/Dr532UkbhlTgDA3JsiwTDp02I7guzqcQe9Me8yGlk1octhdvJYF63T0oWgZ6pzd1IivQ/h7I=;um5GMZfp8Ves/rjcb/yYPA=="
 ---
 

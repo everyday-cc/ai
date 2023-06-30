@@ -22,20 +22,82 @@ topics:
   - AI
 
 related:
-  - title: "The Huge Power and Potential Danger of AI-Generated Code"
-    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
-    publishedDateTime: 2023-06-29T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
+  - title: "The True Threat of Artificial Intelligence"
+    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
+    publishedDateTime: 2023-06-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
     images:
-      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
-        width: 1280
-        height: 670
+      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
+  - title: "How CISOs can balance the risks and benefits of AI"
+    excerpt: "Rapid growth and development of AI is pushing the limits of cybersecurity and CISOs must take charge now to be ahead of a range of risks including data leak, compliance and prompt injection attacks."
+    publishedDateTime: 2023-06-26T09:00:00Z
+    webUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.html"
+    ampWebUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI Threatens Creative and Intellectual Workers"
+    excerpt: "Several years ago, various studies and reports 'promised' creative and intellectual work would be safe from the artificial intelligence revolution. But the emergence of GPT-4 and Midjourney immediately became a threat."
+    publishedDateTime: 2023-06-28T01:17:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-ai-ancam-pekerja-kreatif-dan-intelektual"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 41
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/yJKxvZMF304_8HhiZMAwNk8WX_Q=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F06%2F27%2F84b58d5f-7dc7-4362-84ea-a3901da86749_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "How Policymakers Can Tackle the Complexities of AI Models"
+    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
+    publishedDateTime: 2023-06-27T16:05:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The real reason claims about the existential risk of AI are scary"
+    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
+    publishedDateTime: 2023-06-28T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 19
 
 secured: "ZnLadIE/iHYk0OWoDLfG99OZiYw5qcG4pQ2KVSmOP7qJD9K0kddqlhirmG8COV+64D3S2bociT2N0qtqxhcGXznFMnKoujtiS+3DiWYFKmi8AUTQso/6XonYK4OPf5OrgeonoxMla+uwtu3cA71FEh71b+XIqmJI3c26+1kDjbg2olFwBN4wSu/p+D0A22zzrj01fPw2MslGJ5oWeEQ2P9jK0bJavcMJrUDmocBak4ZHBOUNUT3Z8oykuKk9kmpSYRe8ub9I1UXmIA6JxYUXeO0ftpJbCpQcHAFve1KBdJ88sVzE+2uWCEdAHG+wySQkDraHx5v8SldQfL31E6pquRdXKX6gnBLv4pLRtCl+iq7gh5Wi/6goIrVOzWX7cujfvBCWjB9rwjh6EN1PUMAiMsLh+yhJwir/3/qy9zOmaCRLpZbtad022PMCJqwxgVW516qRWZRMjwPAbNNMc+ykYZZojK4uGuldi39T4kJUgw1+2yBG6FuWBYZxjjFB4ZLHJYOhHme5g1wzIrg5q7jknQ==;e20oQvWft/Oea9obejG49Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
         width: 2560
         height: 2263
+        isCached: true
+  - title: "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials"
+    excerpt: "Novel materials for everything from wind turbines to carbon capture could help cut emissions. A small but growing number of startups want to use AI to develop them faster."
+    publishedDateTime: 2023-06-30T10:36:00Z
+    webUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985"
+    ampWebUrl: "https://www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials-1.1939985.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 73
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1939986!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/wind-turbines-at-sunset-in-germany-photographer-bloomberg-creative-photos-bloomberg-creative-collection.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
     excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."

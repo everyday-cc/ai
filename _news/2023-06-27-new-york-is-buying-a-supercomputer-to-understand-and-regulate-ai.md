@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buy
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27175015/SEI_161950089.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Welcome to Understand: Tech and AI"
+    excerpt: "On Understand Tech and AI we’ll take one concept per episode, explain what it is and what it does - without any technical jargon - so that you can get a better grasp of the technology that’s in your hand, on your desk or in your living room."
+    publishedDateTime: 2023-06-30T10:40:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fy6c9g"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0fxhxx0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "lH5TgweAY2mixYAC90ly70nQEPOGoHVuBYtXJluZQg8rmH6Po6RiAbz+aBndFBMa5suVyLBU4e3RXiK9Nt3Y8YBZnQptpkLOmlbnZQCTUYIVQ+jlSKrxVx+kp+m6j0kDGvZwxZO+ooQvoISxf3EjsuC7ja8uRByZXFZ9JyplsFcTJJJgg02ZK2hdI7sP5eliqNcioKphIyYNU5TlxpSAnHfXexbZexjj/2XCwDniq9wDdfGABw45iuKvpJs0KuhfGynYQlmnjkoyqKkzeTI8nJWyNEw8oFDcYichWszEdLCfiFI5uzMsu9mkD8pdXRvRANtXBJrE+wDDUVWH9SKCxCbTlnex5ljqFjurbC9QGTo=;Cs/JpPsc6zyW5ptcaivkUw=="

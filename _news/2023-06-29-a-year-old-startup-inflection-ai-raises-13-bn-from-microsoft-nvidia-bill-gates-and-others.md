@@ -87,6 +87,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
+    excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
+    publishedDateTime: 2023-06-30T10:08:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/tech-mahindra-collaborates-microsoft-azure-to-enable/455074"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1688119183-Untitleddesign-2023-06-30T152723739.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Microsoft Adds AI Shopping Tools to Bing and Edge"
     excerpt: "Microsoft is adding more artificial intelligence components into its products ... Some online shoppers love to delve into their research, carefully reading multiple reviews and weeding out brands that don't pass muster. If you need an answer quickly ..."
     publishedDateTime: 2023-06-29T23:14:00Z
@@ -379,6 +393,20 @@ related:
       - url: "https://workplaceinsight.net/wp-content/uploads/2019/09/Automation-eye.jpg"
         width: 1923
         height: 1923
+        isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud, AI technologies"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, on Thursday announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises. The Agent Foundry will integrate Microsoft Cloud and ..."
+    publishedDateTime: 2023-06-30T11:54:00Z
+    webUrl: "https://tuoitrenews.vn/news/business/20230630/trusting-social-brings-aipowered-agents-to-enterprises-backed-by-microsoft-cloud-ai-technologies/74135.html"
+    type: article
+    provider:
+      name: Tuoi Tre news
+      domain: tuoitrenews.vn
+    quality: 42
+    images:
+      - url: "https://secure3.vncdn.vn/ttnew/r/2023/06/30/bcaf76de12aac2f49bbb-1688124913.jpg"
+        width: 4095
+        height: 2730
         isCached: true
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."

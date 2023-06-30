@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-r
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Revolution of AI in Music Production"
+    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
+    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 59
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Healthcare leaders open to potential AI legislation"
     excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
     publishedDateTime: 2023-06-28T14:40:00Z

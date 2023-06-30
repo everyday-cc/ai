@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Welcome to Understand: Tech and AI"
+    excerpt: "On Understand Tech and AI we’ll take one concept per episode, explain what it is and what it does - without any technical jargon - so that you can get a better grasp of the technology that’s in your hand, on your desk or in your living room."
+    publishedDateTime: 2023-06-30T10:40:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0fy6c9g"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0fxhxx0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pUQ+ywgy9oJ8Q/npC2rOvHYgUZTqnZ8iL9g9Y2sWn0hE+yJ/K7BWPJ5LyCGIEsaGHRBwhcDYH4psaRTPJrHAAoTfEBVVUB0PHrOJmlkqcbSJo4aswCKr7mzJTDqj/itM1N18vwJ4KZAeRin2GvdIpLH+us3qgsfzr7F77iFvrZmiWL1YnU4MjXivvyBkEEglUNkRJ2nZG6QeQoL7AvqO+S3+GdCiH/rOwf+ADdmHYrkpVnvneJVesnBQb3gijRY5jnQ+NYJa6tpPH5SNdGBhvRw6WTjElLy89gAG6i0iWcri0n5wOvjmKo8h8WLzhcU3b+rXkEi7cmmmMXr1iU5SbzFU9axFsjl7DyzMk7KJSSktsrgKytFRIinZkHsGX648veU6O1sPyyBZ07vlDgUHxptYiSRJMCwxuzq8eqvHkHe1Z7EAoj6U6/hTvyD1LN/yBgVNWKcZQXVP+bbq0zmbdbA8WXLirPy775dK1uN6aL59Re8NyAIFPhG4Y/D8/+xnzfqMpRyrlKj2WlhWi+fQjQ==;qoCqm9cGZkoCzo+6x/4EPA=="
 ---

@@ -72,9 +72,9 @@ related:
         height: 900
         isCached: true
   - title: "U.S. Considers New Curbs on AI Chip Exports to China"
-    excerpt: "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon-development and hacking."
-    publishedDateTime: 2023-06-27T21:04:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
+    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao The Biden ..."
+    publishedDateTime: 2023-06-28T09:35:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
     type: article
     provider:
       name: Wall Street Journal
