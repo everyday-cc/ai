@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
         width: 1920

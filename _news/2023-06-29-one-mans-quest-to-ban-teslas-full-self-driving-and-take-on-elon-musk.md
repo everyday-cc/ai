@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/features/tesla-full-self-driving-ban-atte
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2023/06/Tesla-Self-Driving-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla Full Self Driving, Autopilot and the Driver Assist Market"
+    excerpt: "In 2021, Baidu -Apollo announced plans to expand its self-driving mobility service to 65 cities by 2025 and 100 cities by 2030. The Apollo RT6 fleet is to be scaled to 10,000 to 100,000 vehicles at a steady rate, Baidu said, without disclosing when it will ..."
+    publishedDateTime: 2023-06-27T04:44:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/06/tesla-full-self-driving-autopilot-and-the-driver-assist-market.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-26-at-9.09.51-AM.jpg"
+        width: 988
+        height: 628
         isCached: true
   - title: "Live safety tests conducted by The Dawn Project show Tesla Full Self-Driving running a stop sign in ride-along with major Tesla investor Ross Gerber"
     excerpt: "In response to Dan O'Dowd's harsh criticisms of the dangers of Tesla Full Self-Driving, the investor Ross Gerber challenged Dan to a ride-along in Santa Barbara in his Full Self-Driving Tesla with the investor supervising."

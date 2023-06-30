@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-26T17:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"

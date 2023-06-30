@@ -2,6 +2,49 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2023-03-27-the-role-robots-play-in-getting-your-online-orders-to-you.md",
+      "title": "The role robots play in getting your online orders to you",
+      "excerpt": "RELATED: AI is getting really good, and some artists and educators don't like that Dejean predicts robots will really start to be in places we can barely imagine now, like transportation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvxu.org/podcast/focus-on-technology/2023-03-27/role-robots-play-online-orders-amazon-dhl",
+      "originalUrl": "https://www.wvxu.org/podcast/focus-on-technology/2023-03-27/role-robots-play-online-orders-amazon-dhl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/c935151/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2Fdd%2F1c637cf64999ac0692fcd0c891a1%2Fdina-gordon-amazon.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WVXU",
+        "domain": "wvxu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues.md",
       "title": "Machine Learning & Big Data Analytics Education Market to Experience a Significant Increase in Revenues",
       "excerpt": "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (96 Pages) | Information Technology |",
@@ -1176,58 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-25-top-5-stories-of-the-week-generative-ai-market-heating-up-even-more.md",
-      "title": "Top 5 stories of the week: Generative AI market heating up (even more)",
-      "excerpt": "This she found in a March 2021 AI research paper, “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?” Although it led to firings, researchers decided it was time to look back at the explosive paper — which in hindsight ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/toa-heftiba-9n_tf0_YANE-unsplash-e1679695283281.jpg?fit=800%2C546&strip=all",
-          "width": 800,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/",
-      "publishedDateTime": "2023-03-25T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

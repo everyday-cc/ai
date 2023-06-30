@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
+      "title": "Crypto scams are going to ramp up with the rise of AI",
+      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-get-ready-for-ai-powered-social-media-scams.md",
       "title": "Get Ready For AI-Powered Social Media Scams",
       "excerpt": "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot.",
@@ -562,7 +605,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -602,7 +645,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Facebook AI"
       ]
     },
     {
@@ -1195,59 +1239,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
-      "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
-      "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
-      "originalUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230626565665/en/1827413/4/Finout_Cost_Optimizer.jpg?strip=all&#038;ssl=1",
-          "width": 480,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

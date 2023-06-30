@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-05-25-can-competition-elevate-deep-giants-wr-room-with-no-obvious-no-1.md",
+      "title": "Can competition elevate deep Giants WR room with no obvious No. 1?",
+      "excerpt": "Saquon Barkley won’t be at the Giants’ first open OTA practice on Thursday and likely not at any other practice until he receives a new contract. So while Daniel Jones’ top running back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
+      "originalUrl": "https://www.nydailynews.com/sports/football/giants/ny-otas-wide-receiver-competition-20230524-shfuc72elfhgblatrqbsffpj7m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
       "title": "The five key benefits of AIOps and automation",
       "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
@@ -1187,60 +1221,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-a-leaked-amazon-generative-ai-sales-playbook-shows-how-the-company-is-going-after-chatgpt-maker-openai-microsoft-and-google.md",
-      "title": "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google",
-      "excerpt": "The guidelines are also intended to help initiate conversations with senior leaders at other companies, and get customers to host their new AI software on AWS services, such as SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
-      "originalUrl": "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
 excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
 publishedDateTime: 2023-06-27T12:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
-webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
+webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
 type: article
 quality: 12
 heat: -1
@@ -106,6 +106,6 @@ related:
       domain: eurweb.com
     quality: 18
 
-secured: "Jfx7nRBNssCHan4X91IjZO00Feb7uQvEoP/Z/p4PNe4Qx+BlHS2O6Hk45vmgs1iKra70qT21QqEEnE5VINhtmnG/fuU0pEMyz96jAUJtXRQGxOG1visEpcFLjwM79IFxdvTEHyD6HoL+myeCRVu6MikVMQLKxZvwx1P3H5Al73qkZiDPxPQDeTtgdnI9mlw2mvvIl5X7yptQ44cfZZn3C9zYvIhsEIQNug2qJoItRY/lS5Ahg3fJ1x2Y8ks4TNbwD2+C7WOHb5C2rHjP4cJSSmnLE0Nqjfcr6rshrQRcgPwwxrsaxulCSHSq0Hk1I7jJZFSsYqlP1gWENEql2qGAS1J8gN7BonI9ldLVXxmE3aQD8hid3Obu6QdmH93vNuxiRmJK1sliOcZ0TakpfJFg015bptTNM5N1Vw4jjeNZHBgLlhTq60n+RuHUlF5C9lQMyi/DvCIHulrGalm/WOd46QhqFPBG66yIuA/F4s3XOUB4fKZpeqotq6ReYB0XeYTg1An1/aT7AbdlkuL1hk27/w==;Lmow60DV8beTkvy+gLzrvA=="
+secured: "9YuD7njQCtw+AgIbsllBDPmbEwnbcPH2CHKFiTN2n7YqE3aR3J9qN1x+xz5ALXHFsfwBTz3/Eef1S8TWoVxBDOJSAaqwu8dXsLyGJX8dyZeKduFfAy/NBh9Y44NLWYpR4NDFd4VuA1zp5P+fYrjDZ/VMKeK5YSiN+MChAYwQJRJpaC/E7RsNzRBwCMj3JoR9Y7D13aYy4KJ6qY3VagzMRpGyEn+8N90I1e+tKwsbw5m9eH9ge8hhpHDm3ls64ksVZ8Ss8hliVOrFgnBrxUgN22eHixqjbS4yWyeOcx391NnL6XuJG+8q5KTcUET2Zo9a70y3gBMEAuyXmvo9hvSi29ogYsLE14x1dw/C0LmrXpb4pDa+mZTV2IN6DOrj0HNn+32KBC4Bf9ZkON8f9tFLpXYW6F/dOYSUGwc1Wfbqtiw1pH/gcjldIo8RFL9Oz7kuENByLbEe/xcclkaXcRFHIFi/mU6uf49NnOhYSI0U8Ky0i/MF5kcbhfFUDNA0930/9utEIH7d47GVsUWu7PwnvA==;LIZmWO5yGicYQKQffHT/OA=="
 ---
 

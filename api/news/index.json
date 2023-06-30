@@ -200,7 +200,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -813,6 +813,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
+      "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
+      "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419aa4ee9628c10ce0aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-what-is-integrated-business-planning-ibp.md",
       "title": "What is Integrated Business Planning (IBP)?",
       "excerpt": "Integrated Business Planning (IBP) framework that integrates strategic planning, analysis, and reporting to drive business outcomes. \nThe post What is Integrated Business Planning (IBP)? appeared first on IBM Blog.\n",
@@ -1143,49 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
-      "title": "AI will transform finance sector, regulator says",
-      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "publishedDateTime": "2023-06-28T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/230621160359-ai-explainer-stock-restricted.jpg?c=16x9&q=w_800,c_fill"

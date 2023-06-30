@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 86
-heat: 266
+heat: 276
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
     excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
     publishedDateTime: 2023-06-29T07:00:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+        width: 1200
+        height: 751
+        isCached: true
+  - title: "AI Startup Typeface Raises $100 Million From Salesforce, GV"
+    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including investment arms of Salesforce Inc. and Alphabet Inc."
+    publishedDateTime: 2023-06-29T07:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google?leadSource=uverify wall"
     type: article
     provider:
       name: Bloomberg L.P.

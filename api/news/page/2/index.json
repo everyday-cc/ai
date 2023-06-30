@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
+      "title": "AI will transform finance sector, regulator says",
+      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
+      "publishedDateTime": "2023-06-28T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-executives-not-inclined-to-remove-humans-from-ai-decision-making.md",
       "title": "Executives Not Inclined To Remove Humans From AI Decision-Making",
       "excerpt": "Fear of losing control is justified, and will motivate executives to keep humans within any AI decisioning processes.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -641,7 +684,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -1185,48 +1228,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
-      "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
-      "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

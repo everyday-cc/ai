@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-26-finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers.md",
+      "title": "Finout Launches AI-Powered Cost Savings for AWS, Giving Every Dollar Saved Back to Customers",
+      "excerpt": "Press Release Finout, the world's first end-to-end FinOps platform for understanding and optimizing cloud costs, today announces the Finout Cost Optimizer, which is powered by artificial intelligence (AI) and can reduce a customer's Amazon Web Services (AWS) bill",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "originalUrl": "https://venturebeat.com/business/finout-launches-ai-powered-cost-savings-for-aws-giving-every-dollar-saved-back-to-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20230626565665/en/1827413/4/Finout_Cost_Optimizer.jpg?strip=all&#038;ssl=1",
+          "width": 480,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-aspen-ideas-festival-2023-live-updates-former-google-ceo-eric-schmidt-to-discuss-ai.md",
       "title": "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI",
       "excerpt": "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”",
@@ -1173,48 +1226,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-steve-pratt-explains-artificial-intelligence-and-its-future.md",
-      "title": "Steve Pratt explains Artificial Intelligence and its future",
-      "excerpt": "Steve Pratt, the Chief Information Security Officer at Sentar, joins Leadership Perspectives to discuss the growth of Artificial Intelligence and its future. You can watch the full Leadership Perspectives interview with News 19’s Steve Johnson in the video player above.",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
-      "originalUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://whnt.com/wp-content/uploads/sites/20/2023/06/Steve-Pratt.png?w=1280",
-          "width": 1279,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/amp/",
-      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/leadership-perspectives/steve-pratt-explains-artificial-intelligence-and-its-future/amp/",
-      "publishedDateTime": "2023-06-25T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

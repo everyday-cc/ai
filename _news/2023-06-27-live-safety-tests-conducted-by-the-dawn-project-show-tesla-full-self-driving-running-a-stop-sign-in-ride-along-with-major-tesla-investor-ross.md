@@ -103,6 +103,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tesla Full Self Driving, Autopilot and the Driver Assist Market"
+    excerpt: "In 2021, Baidu -Apollo announced plans to expand its self-driving mobility service to 65 cities by 2025 and 100 cities by 2030. The Apollo RT6 fleet is to be scaled to 10,000 to 100,000 vehicles at a steady rate, Baidu said, without disclosing when it will ..."
+    publishedDateTime: 2023-06-27T04:44:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/06/tesla-full-self-driving-autopilot-and-the-driver-assist-market.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-26-at-9.09.51-AM.jpg"
+        width: 988
+        height: 628
+        isCached: true
 
 secured: "dQHEAfC7RszvKq3+iMUJwZPMd0DYBw2eExMCKu3m8gbs2g1gkz+SqXtf22X2uGy9sDowEgDn4jmPkjK7hAS47gUkcSHgCFEmLoG/VtT0ikCnD/OztcWoBSBB8w1lird6DbgD0Gu9wShybB5iJn7X7IIUySVwTpJ/ivO64J8pSRDhqFbFa8N63m0SgjZgMl2SLcjNPMRSjyJKCwy8FZ6ieJhQTWiJ3d86OyVLFiKrdfBLs6bB+8afRKIsIUllJRKFg+Ck9ou0ZKH2hGDvTYrKWYSJFb+dRgp7jS2tdtmRyVBJS/URqeh6ILikcen/FfNtWupkzTeNbpyL7un4Mo85zB+5sEySEdWcL2p49QybIZ5oMAbTLe6Ywq8MFDABWFK0wcP+U8UmDYGQ4fLddHsXxYm6oyr+iRhugVaD3ukni1huXh7BL2jBZkqVwzlAqr/wC8bBXHRCQDYhpkOg1uOTXZII/EBbnKnRKLT+6Zon6OsiRWxGfDEuNE8TeDglWuTm5kvaDjjKr7UjzjXnKM9IFQ==;HmuVjR6qdLCqRmotBFsCVQ=="
 ---

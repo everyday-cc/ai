@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "AI Startup Typeface Raises $100 Million From Salesforce, GV"
+    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including investment arms of Salesforce Inc. and Alphabet Inc."
+    publishedDateTime: 2023-06-29T07:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google?leadSource=uverify wall"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+        width: 1200
+        height: 751
+        isCached: true
   - title: "Salesforce to invest $4 bln in UK on AI innovation"
     excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
     publishedDateTime: 2023-06-29T07:06:00Z

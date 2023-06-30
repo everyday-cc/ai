@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-21-ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace.md",
+      "title": "Ekinops Offers Direct Routing Voice and Security Abilities to Microsoft Teams Clients from the Azure Marketplace",
+      "excerpt": "Ekinops is available on the Microsoft Azure Market place. Telecom service vendors can benefit from developing their voice services.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/06/Ekinops-Offers-Direct-Routing-Voice-and-Security-Abilities-to.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "publishedDateTime": "2023-06-21T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software.md",
       "title": "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software",
       "excerpt": "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ...",
@@ -1398,58 +1442,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks.md",
-      "title": "Here's one thing AI can do for 3 of our mega-cap tech stocks",
-      "excerpt": "A series of recent deals, announcements and upgrades involving three major cloud-computing names all share a common thread: Artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/07/heres-one-thing-ai-can-do-for-3-of-our-mega-cap-tech-stocks-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106207351-1572269966772gettyimages-1135936133.jpeg?v=1686171192&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

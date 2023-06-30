@@ -52,6 +52,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
+    excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
+    publishedDateTime: 2023-06-30T02:00:00Z
+    webUrl: "https://fintechnews.sg/75652/fintech-india/google-us10-billion-investment-boosts-indias-fintech-hub/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Fintech-India.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Why is AI the future of trading in India?"
     excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"
     publishedDateTime: 2023-06-29T18:26:00Z

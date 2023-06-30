@@ -2,6 +2,40 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2023-04-21-up-fintech-talks-up-tigergpt-as-new-investor-tool.md",
+      "title": "UP Fintech Talks Up TigerGPT As New Investor Tool",
+      "excerpt": "AI chatbots are likely to have their limitations, at least in the short term, such as the inability to provide highly personalized investment advice. But UP Fintech's new chatbot will only be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
+      "originalUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-call-me-deepbrain-google-smushes-deepmind-and-brain-ai-teams-together.md",
       "title": "Call Me 'DeepBrain': Google Smushes DeepMind and Brain AI Teams Together",
       "excerpt": "Talk about a meeting of the minds. In another bid to add some NOx to its sputtering AI development, Google announced late Thursday that it plans to combine its two major AI teams, once kept ...",
@@ -1162,57 +1196,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-womans-bowel-cancer-spotted-by-artificial-intelligence.md",
-      "title": "Woman's bowel cancer spotted by artificial intelligence",
-      "excerpt": "The Colo-Detect study uses AI to flag up areas of concern during colonoscopies A woman who was part of a study using artificial intelligence (AI) to detect bowel cancer is free of the disease after it was found and removed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ED6/production/_129426604_4cb71ac6-7d85-4663-b06d-3dcb18ff33a6.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "publishedDateTime": "2023-04-20T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
