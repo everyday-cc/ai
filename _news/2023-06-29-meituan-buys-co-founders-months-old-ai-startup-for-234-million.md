@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meituan's insider AI deal does not compute"
+    excerpt: "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,"
+    publishedDateTime: 2023-06-30T02:55:00Z
+    webUrl: "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meituan buys co-founder’s months-old AI startup for US$234 million"
     excerpt: "MEITUAN is buying a co-founder’s generative artificial intelligence (AI) startup for almost US$234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services."
     publishedDateTime: 2023-06-29T11:11:00Z

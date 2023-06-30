@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meituan's insider AI deal does not compute"
+    excerpt: "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,"
+    publishedDateTime: 2023-06-30T02:55:00Z
+    webUrl: "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "iZ6YLSMUPiEKOH3IMO33/2OBo0HCDl9VohEAsNhboScvZNX5/PfRQAYnVw27Of+Lgv+rvXTx1xvrlL+Zr8j1iTy4lKYPHTit5BpZRW8eagbfruz/M5k1erwWZWhpxPEYmqkcIvO5WPG6cUyliJq+o3OHvrUPRf1ChfInXbZTgghKdOuhRFCQpENNhU+uhnpNRjqwu7dIu1X2B+/rZcfqsRsZnlJsvmS138fnNhRYySm1DTp10DWX9YMXV5ojQf/ztU7QW5+8Mn6xsrC4stKpZjMJnDO+U5tMZEXuX6hSW/imt0KmlnCZcGmvsY9SWdWKNDxwaqmr3hfqCkk5pr3xGs4d52VT+rAN/hC7eXdSOSHz2Yd8Xl7mkAJLTUt+88HKjNZ5v3I2EN6M43FKWIgHkWFbVi2sWMMAPfflHjDOrywGoYyt9xk5PZQfWC9GR/1+v2vrb+k1+ytplt1y0maRuZwqzJNuEC8Qa8kZXGqa5DqTOa1xACIzmw+srNWF4/UdgcfU8vweqfr8X+ceqI4HSQ==;loq7VomFuI4B2YKnNS90hQ=="
 ---

@@ -24,80 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
-    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
+  - title: "Big Tech corporate venture capital 🤝 generative AI startups"
+    excerpt: "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks."
+    publishedDateTime: 2023-06-29T19:43:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
-    excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
-    publishedDateTime: 2023-06-27T00:29:00Z
-    webUrl: "https://www.techzine.eu/blogs/applications/107281/nvidia-lowers-case-for-gen-ai-data-concerns-on-snowflake-secure-llms/"
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/f0f35af3-7772-4b75-b1a5-985839196e0d.jpg"
-        width: 2048
-        height: 1436
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Nvidia, Snowflake announce partnership for custom generative AI models"
-    excerpt: "Nvidia and Snowflake are entering a partnership that will let Snowflake customers build custom generative AI models."
-    publishedDateTime: 2023-06-27T06:59:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-snowflake-announce-partnership-custom-000058515.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/LUDd2fPwcZFoKu.F9tIu_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/91ebdfd245b3934c569bc9119203d5d1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "NVIDIA H100 Aces Generative AI, Breaks MLPerf Records"
-    excerpt: "NVIDIA’s flagship H100 chip has blown the competition out of the water yet again, demonstrating the best performance yet on a set of MLPerf training benchmarks. The GPU set new records across the board in a new attempt conducted in conjunction with CoreWeave and Inflection AI."
-    publishedDateTime: 2023-06-28T06:39:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-aces-generative-ai-breaks-mlperf-records/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
-    excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
-    publishedDateTime: 2023-06-27T13:15:00Z
-    webUrl: "https://www.industryleadersmagazine.com/nvidia-partners-with-snowflake-to-create-customized-generative-ai-models/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 18
-  - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
-    excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
-    publishedDateTime: 2023-06-27T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230627337396/en/Weights-Biases-Accelerates-Deep-Learning-Large-Language-Models-LLMs-and-Generative-AI-Securely-in-the-Snowflake-Data-Cloud-with-New-Snowpark-Container-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "jaEbwy0dfU55C7Mf+fPorkPA3s6tcLcFsJ93roqFxg5jEmuW6OpqcYTHGpL1FsVeVYLTcVPEGl+APjctL1YW3U4E6vsAhvEOR1lBVyCvjPq7nasGc2hO5iQKjuo0srYgo/QuRVPjV2TW5dyuYiRN1+MPUoPpTX5LvL5nar6Co7WWmWULl/Otmzj75eTv8qigXGBW/GRL7LW8/ZFAzWNLLLHDMbXZ5B4i+mdvoiAGVcHjI63uHAvzHrl2FkF2kWfFQDXem/8Mww4Ki4OV1zBUD7xBp726y9wUma4+2dFqPNW/THbOEyP20QQtmKTVoagJ8V6Qsq6rhEm7ZHOtUnFaKxL1BcGafI+zcWj1jk/Pg9Q=;hF8oQ+qacWscY0pjfBYQEw=="
 ---

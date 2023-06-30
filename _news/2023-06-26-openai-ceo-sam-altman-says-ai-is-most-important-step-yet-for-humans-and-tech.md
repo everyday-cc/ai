@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/26/openai-ceo-sa
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/26/openai-ceo-sam-altman-says-ai-is-most-important-step-yet-for-humans-and-tech"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1240
     height: 825
     isCached: true
-
-related:
-  - title: "OpenAI CEO Sam Altman says AI is ‘most important step yet’ for humans and tech"
-    excerpt: "Speed and power of fast-growing AI industry has spurred government regulators to try to set guardrails around its development."
-    publishedDateTime: 2023-06-25T12:29:00Z
-    webUrl: "https://www.aol.com/openai-ceo-sam-altman-says-093000689.html"
-    ampWebUrl: "https://www.aol.com/amphtml/openai-ceo-sam-altman-says-093000689.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/openai-ceo-sam-altman-says-093000689.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 55
-    images:
-      - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/224d3e1998a2a046eb2b89c7b54d6ccf"
-        width: 1140
-        height: 802
-        isCached: true
 
 secured: "/vM8BPBl4ZVUw3BIWPM0+lw0Y/G6jWItJFybp1tFIUNXTeARGQ0A4l6LTjSdpDxTVJJEhx3gh+CYyddCchOVphvNjkvpNf33KxE/d5wlhjKpIyO1RSdCtZe1Y42FUHih6BZzXgVi/fLw8osT/zcKVNqDvl+HUnp54mkLNfpCkAZWl5wnRLHsIXngECi8NSoqXkjN0/XcqyYX0x051BxlwnYUkiRoUHX7i8oQPw663s17gs5jIIsVs2xX8GlVFbjDLlOiamcO1uSANL2EXOWUjuDTfNZqewOC6NeF5pW4MNCND5B/h2ZSy49igbFBdYxAL8RqZXBvE/uzPycb4NGPTo6cfBiet085Tyvm6pGayp1YLMAZum81hx5uaH1/sIil2YixwOuqe9ttfAqRM6jSwmVoHduId78zQkeZOVQxCRLCB7gj9RPBNqLXCSRnR0y3F+yev7umxjv8RB+SuO2UMgP+8iBCqKxvOnRvIWAi9sH0unUR7ri1BBGJYlXMr3igltBAouEbvzsqmolT++GepA==;FZTIwTLX6aDeFscvnksdYA=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "AI steps in to save 5000-year old Cuneiform writing"
-    excerpt: "With few experts left in the world who understand this ancient form of writing, can AI step in to save the language?"
-    publishedDateTime: 2023-06-25T12:53:00Z
-    webUrl: "https://interestingengineering.com/science/ai-steps-in-to-save-5000-year-old-cuneiform-writing"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "itdDAK5RnWpMMmlb7QmOlGDjfFyNbVAX5Fmw39JOppCeXEo7ADb+v4+7jqTXfRrEpDnygi/6T1vLGcJQwSaYCNCbh2cWy9Zsr6rLhWFb1YoqulhbIIksoAOdcXtl8KVP7lz0MGtvmf2fXd1SwyX3fBuP5Q7SSrxRKIZ6T/LUdEWMQIUpkfGQLi//8Ygk3ouEcTfeUZPGUsZMRh6YG1mBIZ8bpzWYyqoem0Ihn1WLIgFWgtoO5QNAH16bAhaCUFGSJuK90b/JtettA/wP087l6T73T/EX4VIcl5UYbAE+etkWjQc/F2M3e8hI6tXF7dmuGbTrLbruyqV9QbiWNr34TtkfSFNBzdClcO/+dFbQtKuScyu0F6dpUW9Y7bBj/6rLlSGWfa01OlDrBlmw6G2i5JwnbiJswUA/uRyUXQzSjRnVZUdemYP60kMVbbWh3sMWyulG8Q3nTh3dOYTus7rT8DGX/MJQDQeuBcPa92JvWIyutssOStgYa1wolXevM93F2IUFQ3zTqX+zNZNMQaxH0Q==;tLYt131S/IOp8D/woPJsuw=="
 ---

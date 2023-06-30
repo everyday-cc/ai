@@ -243,6 +243,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-big-tech-corporate-venture-capital-generative-ai-startups.md",
+      "title": "Big Tech corporate venture capital 🤝 generative AI startups",
+      "excerpt": "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-inflection-lands-13b-investment-to-build-more-personal-ai.md",
       "title": "Inflection lands $1.3B investment to build more ‘personal’ AI",
       "excerpt": "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation.",
@@ -1010,7 +1061,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1128,57 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-now-being-used-to-generate-child-pornography-blackmail-teenagers-digital-safety-expert.md",
-      "title": "AI now being used to generate child pornography, blackmail teenagers: Digital safety expert",
-      "excerpt": "Digital safety expert and Canopy CMO Yaron Litwin warned that pedophiles are generating deepfakes of kids to distribute and use as blackmail against them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ai-used-generate-child-pornography-blackmail-teenagers-digital-safety-expert",
-      "originalUrl": "https://www.foxnews.com/media/ai-used-generate-child-pornography-blackmail-teenagers-digital-safety-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ai-used-generate-child-pornography-blackmail-teenagers-digital-safety-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-used-generate-child-pornography-blackmail-teenagers-digital-safety-expert.amp",
-      "publishedDateTime": "2023-06-28T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
