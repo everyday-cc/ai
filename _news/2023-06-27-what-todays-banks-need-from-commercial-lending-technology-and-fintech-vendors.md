@@ -19,6 +19,172 @@ topics:
   - AI
 
 related:
+  - title: "The Top Ten Transferable Skills Into Fintech As Of 2023"
+    excerpt: "In an industry in constant change, individuals whose skills can constantly transfer to new demands will be increasingly important."
+    publishedDateTime: 2023-06-30T08:49:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e96a331545e6dc10b96c9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 758
+        isCached: true
+  - title: "Applications open for AWS' global fintech accelerator"
+    excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
+    publishedDateTime: 2023-06-28T09:15:00Z
+    webUrl: "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 61
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Google chose Gujarat for its global fintech operations hub"
+    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
+    publishedDateTime: 2023-06-26T09:57:00Z
+    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 44
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "London fintech firm relocates HQ to Aberdeen"
+    excerpt: "Fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, in a bid to accelerate its growth. The platform crowdsources paper and digital receipts directly from consenting shoppers to help optimise spending and lower household bills,"
+    publishedDateTime: 2023-06-28T08:12:00Z
+    webUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324"
+    ampWebUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
+    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.insider.co.uk/news/article30339315.ece/ALTERNATES/s1200/0_Mohsin-Rashid.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
+    excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
+    publishedDateTime: 2023-06-28T14:19:00Z
+    webUrl: "https://betakit.com/aws-nvidia-launch-global-fintech-accelerator-for-seed-stage-startups/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
+        width: 960
+        height: 720
+        isCached: true
+  - title: "AWS opens up applications for Global Fintech Accelerator"
+    excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
+    publishedDateTime: 2023-06-28T10:07:00Z
+    webUrl: "https://htxt.co.za/2023/06/28/aws-opens-up-applications-for-global-fintech-accelerator/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 41
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+    publishedDateTime: 2023-06-26T10:09:00Z
+    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+        width: 6139
+        height: 4093
+        isCached: true
+  - title: "5 FinTech platforms redefining the future of lending in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-28T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
+    excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
+    publishedDateTime: 2023-06-29T10:42:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Wells_Fargo_Helps_FinTech_Create_70m_Fund_To_Widen_SME_Credit_Access.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
+        width: 4096
+        height: 2304
+        isCached: true
+  - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
+    excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
+    publishedDateTime: 2023-06-30T02:00:00Z
+    webUrl: "https://fintechnews.sg/75652/fintech-india/google-us10-billion-investment-boosts-indias-fintech-hub/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Fintech-India.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
+    publishedDateTime: 2023-06-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-releases-groundbreaking-first-and-third-party-fraud-solution-api-for-fintech-1032415116"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
+  - title: "Applications open for AWS’s first Global Fintech Accelerator"
+    excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
+    publishedDateTime: 2023-06-29T17:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/applications-open-for-awss-first-global-fintech-accelerator-c8ac91a0-97ef-4d46-a34e-fd4de9cb6281"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 21
   - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
     excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
     publishedDateTime: 2023-06-26T09:43:00Z
@@ -47,15 +213,33 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Sigma Ratings Makes AIFintech100 List for Driving Innovation in Financial Services"
-    excerpt: "Sigma Ratings (\"Sigma\"), has earned a spot on the 2023 AIFintech100 list as a risk and compliance platform that leverages artificial intelligence (AI) to deliver market-leading technology to the financial sector and other industries facing increasing regulatory-driven requirements."
-    publishedDateTime: 2023-06-26T12:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
+  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
+    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
+    publishedDateTime: 2023-06-27T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
+    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 4
+  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
+    excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
+    publishedDateTime: 2023-06-28T20:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840834.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 13
+    quality: 0
 
 secured: "CuqTiEeU/DrITaT2CM8unF7r917Yx00Crfhe4GSRiW3ljpYXMAzFShdbGtgoCh/5O1yr8pybIDFh8/yun++m9PfDC1dj+iVkRpK+9c6um0MgPI913wAYajfN6GTjtfH1/CNInAlgexx5zxi53yGoN6I3gpXrNuYwuCNlgojgLbbbTgHdI2dD1GNg6OdqmROZZnEYun6QSgku3QWe45x3sGMCa2CDw+/aI467c429zmaUZjrEnEayawC+A7Kcp9zboiHgVv3itcm2WgXf9lVaefjCOOYQKiJFhQhQgtKuGOTEY5BqUSgy/VWdjhfAhWDx1U4x3LBtVSZX37jfyyjw3u4jHnDZrM3fU/TanIv6gXblTrPWfSIk0fWTSyu1qWmTxRDgxLI6tYDF0seqTUiQ570XB/avjXfo6R5bfDTm+XqC3qwzGKGDSKoSvrpVRSgvIAUPT2v0gx/08paO3VCt5zokScf8cP8APXGhRqShBlnR/vpyeL6SygpJ7Jd+8rwLN+rsbqwj52p+ZyHcO3OhMw==;nlY24d4cY3sC0VYb6SkBSg=="
 ---

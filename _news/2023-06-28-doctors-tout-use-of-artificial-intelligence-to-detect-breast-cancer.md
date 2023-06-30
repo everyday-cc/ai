@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artific
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Teaching AI to Detect Specific Objects is a Game Changer"
     excerpt: "According to a new AI tool created by researchers at the University of Surrey, it’s possible to train emerging AI tools to be more discerning in thei | Technology"
     publishedDateTime: 2023-06-27T17:00:00Z

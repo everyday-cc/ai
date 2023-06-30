@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Runway, a startup building generative AI for content creators, raises $141M"
+    excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
+    publishedDateTime: 2023-06-29T18:00:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617"
+        width: 1200
+        height: 617
+        isCached: true
   - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
     excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
     publishedDateTime: 2023-06-27T11:30:00Z

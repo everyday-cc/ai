@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -41,34 +41,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/836b54b/2147483647/strip/true/crop/712x374+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F68%2Ff8%2F478884a84bacb37c7eac86f0f575%2Fmatt-schrager-photo-from-ms-crpopped.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "5 FinTech platforms redefining the future of lending in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-06-28T07:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
-    excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
-    publishedDateTime: 2023-06-30T02:00:00Z
-    webUrl: "https://fintechnews.sg/75652/fintech-india/google-us10-billion-investment-boosts-indias-fintech-hub/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Fintech-India.png?x22319"
-        width: 1024
-        height: 567
         isCached: true
   - title: "Why is AI the future of trading in India?"
     excerpt: "AI is revolutionizing the capital markets, leading the second wave of innovation in finance. Before AI, traders relied on stock analysts and media coverage for investment decisions. The rise of online trading platforms democratized the sector,"

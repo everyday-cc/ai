@@ -75,6 +75,22 @@ related:
         width: 1093
         height: 400
         isCached: true
+  - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
+    excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
+    publishedDateTime: 2023-06-29T22:37:00Z
+    webUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/"
+    ampWebUrl: "https://techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/google-deepmind-unveils-new-ai-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=google-deepmind-unveils-new-ai-gemini&amp"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 74
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2023/06/possessed-photography-JjGXjESMxOY-unsplash-scaled.jpg"
+        width: 2560
+        height: 2263
+        isCached: true
   - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
     excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
     publishedDateTime: 2023-06-28T04:44:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "AI watch: UK electoral warning and OpenAI’s move into London"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-30T07:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/40d83fa3f7f39abc7905eca943ad42d809b54945/0_133_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=41088739393e55718565b145d1ec4156"
+        width: 620
+        height: 372
         isCached: true
   - title: "Google DeepMind Takes Back What it Lost to OpenAI"
     excerpt: "OpenAI employees are leaving to join Google DeepMind as the latter looks to take back its market leader position."

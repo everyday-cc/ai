@@ -46,6 +46,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "VOV.VN - Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T09:14:00Z
+    webUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
+    type: article
+    provider:
+      name: VOV Online
+      domain: english.vov.vn
+    quality: 41
+    images:
+      - url: "https://vov-media.emitech.vn/sites/default/files/styles/og_image_en/public/2023-06/signing%201.JPG.jpg?v=1688116468"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "3N3D4Gapz10R6WkCpgzo8UaAFqTwCtIrm2DJcMeSJublwdRdH4dKhScz63i9HIuZ8FLcGAiHIQdFB2QzwK+JTNNc0zRd+YJFDp9xiZ488aeWy9PRRL0EQ1vgSBgeA66QjyTvIscm3zsujbsqCpYse6KBWGIHZiNakBrToAqxTnWQQr4KsfA9SKCxq6emvF2sj4uHsOz72+bdEcbrvreL6LJItU1jZmfBT/pfKYKrX1BDy3tugvZ92XgyQhBudSh3m6Bj+I2+g3N+6Z5bFr44FVCJTpPdDYYa85NuktHNbGCEihqXpQOa94U5vnKSxaDy5LwExLy/T5DlCQHKV3aaye8bzQb7rlmtnnYjdjMq3nc=;Bvxsi1a4YwOanJ4pxtjg0g=="
 ---

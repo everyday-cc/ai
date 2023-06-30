@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-co
 webUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
-    publishedDateTime: 2023-06-25T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
     publishedDateTime: 2023-06-29T22:22:00Z
@@ -89,6 +75,20 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
         width: 1250
         height: 834
+        isCached: true
+  - title: "Brave new world: ChatGPT, artificial intelligence on high schools’ fall agenda"
+    excerpt: "As one school year ends, area administrators are already looking to the fall with a topic fresh in their experience but increasingly demanding attention in education: the launch of ChatGPT, and Open AI."
+    publishedDateTime: 2023-06-25T23:32:00Z
+    webUrl: "https://www.rep-am.com/localnews/2023/06/25/brave-new-world-chatgpt-artificial-intelligence-on-high-schools-fall-agenda/"
+    type: article
+    provider:
+      name: Republican-American
+      domain: rep-am.com
+    quality: 33
+    images:
+      - url: "https://cdn.rep-am.com/wp-content/uploads/2023/06/20230625-203253-pic-558769531.jpg"
+        width: 800
+        height: 562
         isCached: true
   - title: "ChatGPT builds a tomato-harvesting robot"
     excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."

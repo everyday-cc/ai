@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-a
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
         width: 1024
         height: 648
+        isCached: true
+  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
+    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
+    publishedDateTime: 2023-06-30T09:11:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."

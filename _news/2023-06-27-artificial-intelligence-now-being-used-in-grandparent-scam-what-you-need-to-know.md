@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
 excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
 publishedDateTime: 2023-06-27T12:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
-webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?ref=mc.news"
+originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
 type: article
 quality: 12
 heat: -1
@@ -106,6 +106,6 @@ related:
       domain: eurweb.com
     quality: 18
 
-secured: "9YuD7njQCtw+AgIbsllBDPmbEwnbcPH2CHKFiTN2n7YqE3aR3J9qN1x+xz5ALXHFsfwBTz3/Eef1S8TWoVxBDOJSAaqwu8dXsLyGJX8dyZeKduFfAy/NBh9Y44NLWYpR4NDFd4VuA1zp5P+fYrjDZ/VMKeK5YSiN+MChAYwQJRJpaC/E7RsNzRBwCMj3JoR9Y7D13aYy4KJ6qY3VagzMRpGyEn+8N90I1e+tKwsbw5m9eH9ge8hhpHDm3ls64ksVZ8Ss8hliVOrFgnBrxUgN22eHixqjbS4yWyeOcx391NnL6XuJG+8q5KTcUET2Zo9a70y3gBMEAuyXmvo9hvSi29ogYsLE14x1dw/C0LmrXpb4pDa+mZTV2IN6DOrj0HNn+32KBC4Bf9ZkON8f9tFLpXYW6F/dOYSUGwc1Wfbqtiw1pH/gcjldIo8RFL9Oz7kuENByLbEe/xcclkaXcRFHIFi/mU6uf49NnOhYSI0U8Ky0i/MF5kcbhfFUDNA0930/9utEIH7d47GVsUWu7PwnvA==;LIZmWO5yGicYQKQffHT/OA=="
+secured: "0iY4kb7fG2rNX3ikCJLgqtwx4SsnMrL21CZ1jED1B6lLPFjTZc+IsWXXfZU66jFbKKp6AOIFnsoTUtEXO1C2wonKLVnaDA6wB/l5mYdPdTwjiWh49TI8Tti9Zh0r9mWmx4/W/juToOZg140+gY7zh2gz3q0krvBWZsqMYWclTvuZz70M0dY+ZNkcWiVlMA7jWWqK8PnAPJ5xaHv08p+8y3Y7l4XdJN5lzjVLKWNZHzW2A0GAxwD6TmdWDgKUsZSQ0X57Ja4s1y8fps1CLUgIXMv5clfFf058bUryxAVEoBvlP6ySLkPuJTIpneewRvjGt5DkIeMNG753eLcH6PWvdCJgWyt1TRbFtPlPgumtxSJj2FD3fmolD5o1EZSHDmcVkNcMFuLczODL7YzOVVsNgPneYophDanoafUTwze4Ii1fAYMDbiBiOxczeSUnBzgLF3Q3HRg9mKujCQX9LIT752Mv3qeZl2VNAY22Jo4ic8mzKA3UH7AvyiaZ8GiffZgcPDLTj5gwACRCQf9+bTmQhA==;+RB9rGf/7Kt6X0Oq6GYUrw=="
 ---
 

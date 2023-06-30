@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 648
         isCached: true
+  - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
+    excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
+    publishedDateTime: 2023-06-30T09:11:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-meta-reveals-secret-behind-ai-powered-content-personalisation-on-facebook-instagram-3149813/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
     publishedDateTime: 2023-06-29T18:41:00Z
@@ -101,6 +117,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "bk2U3V4GChYuSWM5+m706f+20Jood9lsFkgBlBYT8CtLSIcRtFWql/SglELROjPI4+LfFq64dhVwG5tUJTjAEtZ3UVumo4fnypsC20i408HEwprbtjBSsy4MRkvBf5xIeP1FE8E59ut6RDF2KXyKFQy7HULIoW+4U/q3h5r1BpDRd+pdujuSJNaBkO7/m2ckMV/Mtur5Z5HrU0j1Q8WuidLB02/7+hx5swtWihc7kgZ5l3B5+4FSw0FKvD9OHDvNRJpW6lAZYKf9wPjOWi5x/5Nq+lJ2GwY3gxnPeUgDFSmTSJ8pakG5oGBAgDLJLoLde7ShhIe3+et+eQO9uj1BfVy/ZSKmjz8wXTzdlLBldmg=;OPNkswB+udYnvOq+N2M1gQ=="
+secured: "RrnjKNpcl6i3CXcYcnSWqkjDtV8s4qoJWxx2leggX0QgwpogVuIWUmjj3IgErQR5d2yTjUumJVvCUBDGb0Ey59O+OiGGO02fqbPx4m0XFMswlU8gOc5M4XyjOYse8Qsl5kW5Rd4/usJrXV2/KQB9vDEUWUPegiB0nLWjIgg9eGLeBYI8mL28mAHTw11vSgFqGMnX3yIyxsusK5ZMRZXk7SLC9XCixYsfytJiXdtjDCIJWk0M9ZkTrHUWXRDT7ptIAVnvd+nUGfNGK08nH1lnGa582UqCWScmzWklgXy0+KgP6wzegFIKLm27YPhQYxZTvYqO7uibVAf3jQUZL2W1q0DG/jzzf1g2TQcbML7k9KOKCzi1rv/GtfNClJtJcjYaLkBkVJVaVHxyhNJyXfjXQk1agENoiNhkntHY2CdWOZDK1hgvUWttUnO3oJ5X0hxbRh88spQKqDy00DqbkOyydga5uq/mqJiioTugG28+BKoqq0ppAxqqWo+NrxtH5E9KqKpFUyfCBhTQCk2uWZTIKA==;UpZLjiq/ip664ME9v+CV8Q=="
 ---
 

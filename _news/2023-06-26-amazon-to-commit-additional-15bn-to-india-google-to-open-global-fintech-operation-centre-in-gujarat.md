@@ -9,7 +9,7 @@ ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-in
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,113 +25,6 @@ images:
     width: 1320
     height: 743
     isCached: true
-
-related:
-  - title: "Applications open for AWS' global fintech accelerator"
-    excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
-    publishedDateTime: 2023-06-28T09:15:00Z
-    webUrl: "https://www.itweb.co.za/content/mYZRX79gyaGqOgA8"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mYZRX79gyaGqOgA8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 61
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/06/fintech-Jun-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why Google chose Gujarat for its global fintech operations hub"
-    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 44
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
-    excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."
-    publishedDateTime: 2023-06-28T14:19:00Z
-    webUrl: "https://betakit.com/aws-nvidia-launch-global-fintech-accelerator-for-seed-stage-startups/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 41
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2017/04/17796446_1260944837276212_8463288638094856859_n.jpg"
-        width: 960
-        height: 720
-        isCached: true
-  - title: "AWS opens up applications for Global Fintech Accelerator"
-    excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
-    publishedDateTime: 2023-06-28T10:07:00Z
-    webUrl: "https://htxt.co.za/2023/06/28/aws-opens-up-applications-for-global-fintech-accelerator/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 41
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
-    excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
-    publishedDateTime: 2023-06-28T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/point-predictive-releases-groundbreaking-first-and-third-party-fraud-solution-api-for-fintech-1032415116"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
-  - title: "Applications open for AWS’s first Global Fintech Accelerator"
-    excerpt: "Applications are open for the first Global Fintech Accelerator of Amazon Web Services (AWS), giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market."
-    publishedDateTime: 2023-06-29T17:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/companies/applications-open-for-awss-first-global-fintech-accelerator-c8ac91a0-97ef-4d46-a34e-fd4de9cb6281"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
-  - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
-    excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
-    publishedDateTime: 2023-06-27T11:29:00Z
-    webUrl: "https://analyticsindiamag.com/data-science-hiring-process-at-fiserv/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
-  - title: "‘Push-button scale’ a boon for fintech in the data transformation age"
-    excerpt: "One of those disruptors is Current, the U.S.-based fintech that has leaned on the flexibility, speed and scalability of MongoDB Inc.’s Atlas to deliver outcomes and grow at a consistent, sustainable pace."
-    publishedDateTime: 2023-06-27T18:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/push-button-scale-a-boon-for-fintech-in-the-data-transformation-age-mongodbnyc/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
-  - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
-    excerpt: "The API enables Fintech and lenders to access unique proprietary data and AI, machine learning scoring for accurate and speedy assessments of borrower first- and third-party risk."
-    publishedDateTime: 2023-06-28T20:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840834.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "AnB/MYq49+77rKzdswV0TUzI9kBMjzCDi6zYad0Dhq6ZIcISUjcLf+BbmNcHHLZfaYw4FaDWIj6HOaazgmidjC8mvGvUruVAlAym5I8c0Wdu5KeLvMykxwQ2ou8TDXqZHytvT/5v8ehKSaTgbMyyHjMixVJ477ca5B9WHfs4+DprRrFz4dKab0QDiCDmi8Qdiq06dAkLjBnioYZnFVMd8pIdbP3CLnaFVDxbd3q5cM8BgFk/HaaTV+JKVC50iwU0P0FU/Ivdjd8s5EfrNOFMpmzHqpyCM62FMf+m42SGFeUDXUi5iaosyg18F6p5usD7Q6mqnOleIKur6Gw2nh9LIydJMxH0PVS7mZJAcbzdr/U=;1HnF8AAZXWPEEamW/XOn7Q=="
 ---

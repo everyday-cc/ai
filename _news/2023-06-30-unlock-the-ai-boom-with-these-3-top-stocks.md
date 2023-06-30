@@ -23,20 +23,51 @@ topics:
   - AI
 
 related:
-  - title: "The US Senate Wants to Rein In AI. Good Luck With That"
-    excerpt: "Even with some senators still catching up on the basics of AI, Schumer and his bipartisan allies were overall happy with their first all-senators meeting. “Listen, if you’re delivering a lecture to scores of senators, they’ll be at varying degrees of expertise, so I actually think it was appropriate for the audience,” Senator Young of Indiana says."
-    publishedDateTime: 2023-06-26T11:00:00Z
-    webUrl: "https://www.wired.com/story/us-ai-regulation-congress-briefings/"
+  - title: "AI Is Unlocking Major Wealth Potential for Robotics Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over"
+    publishedDateTime: 2023-06-27T18:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/64962ab46279e36472844619/191:100/w_1280,c_limit/062323-security-us-senate-artificial-intelligence-future.jpg"
-        width: 1280
-        height: 670
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+  - title: "3 Lesser Known AI Stocks You Haven’t Heard of Yet"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity and overall interest in generative AI have investors clamoring"
+    publishedDateTime: 2023-06-29T14:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-lesser-known-ai-stocks-you-havent-heard-of-yet-1032418209"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 AI Stocks to Target for Triple-Digit Returns in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) has received incredible attention this year due"
+    publishedDateTime: 2023-06-27T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-target-for-triple-digit-returns-in-2023-1032411950"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Big Tech on the Prowl: 3 Potential AI Stock Acquisition Targets"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the artificial intelligence boom gaining momentum, we’re likely to"
+    publishedDateTime: 2023-06-27T12:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/big-tech-on-the-prowl-3-potential-ai-stock-acquisition-targets-ai-stocks-to-watch-1032412292"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Don’t Fall for It! 3 Overhyped AI Stocks to Avoid."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has been the talk of the town over the past few"
+    publishedDateTime: 2023-06-29T10:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dont-fall-for-it-3-overhyped-ai-stocks-to-avoid-1032417421"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "s3S6eewfDa3pG9Rf0NX6+BiE2gemcMaj3qfjAvrYgypkByNGeIwimODDzED/yE/Au4YMnGpqoUwyCXghM/wDANDofQSVLGWyvMCIhcCmLK40oOnNzfddqJyodt2yVnY/UE2zb0ZY1MS7eyss+fBnPn1cEV541BvTRJ5Cz/m9OV3bVlcHn0fwwv4MhYwfU3vESMmo9kc5CrKJbXmKzks1Q7a9T2Mbv5rU/b095+xx7K0qYIJQCH3rkrDWDYSwHIRY9Ov3IFNyYn1jNn/DU2rSFzZUjtvmplY0OBtChFDEu0zEpQJ6KpRW1kgGAoDyL6CrxKyxz+K8qrCtBl1gP2Bc9H8g3O8vj3PkVbMT2GMBIiQ=;AM/cXd376l8snYSWHnHWpQ=="
 ---

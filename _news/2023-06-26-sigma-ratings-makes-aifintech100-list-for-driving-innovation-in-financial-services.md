@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838776.htm"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,43 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+  - title: "Metal Raises Raises $2.5M for its LLM Developer Platform That Makes Integrating AI Into Any Application Seamless"
+    excerpt: "The rate of AI development is ushering in a new Moore’s law with the development doubling every few years according to some experts. According to Stanford, the rate of doubling is as frequent as every three months."
+    publishedDateTime: 2023-06-27T13:29:00Z
+    webUrl: "https://www.alleywatch.com/2023/06/metal-llm-developer-platform-integrate-ai-applications-taylor-lowe/"
     type: article
     provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "What today’s banks need from commercial lending technology and fintech vendors"
-    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
-    publishedDateTime: 2023-06-27T15:42:00Z
-    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 15
-  - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
-    excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
-    publishedDateTime: 2023-06-29T14:30:00Z
-    webUrl: "https://www.malaysiakini.com/announcement/670351"
-    type: article
-    provider:
-      name: Malaysiakini
-      domain: malaysiakini.com
-    quality: 15
-    images:
-      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
-        width: 1000
-        height: 600
-        isCached: true
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "5q521u9fFeEmClKAMb+WicYio+Kn5oDIGVly84UaTEpphCrRAD3G3U0u9k1hoBehW9EC7id+Jta2rfHhr+Y2CR6TrgbGl1i616w5C9l+4lRhwqZD6CfMAcpmGMNlaSCEfib0aSifqwdFPZV3MrBPAzCcTGanre/lK1Jmaip1s9FwoW/QPbhvhN9XVYkHdO5l9M9sG85V/9GWwK5hmo4uxvt14JoXe3/02+4ZAJ5aFZeRhrSU04rGbTxT7H64W3sMY1I5CAgBY+Otw0oCww87yLfGuaFywZrcq3qoEoZqzA4hVB+FaLPFdDh39AeYEq+oOqz2MppkceD3I6DiwzqeohykjlOmBGb15vvoHj6rcV0=;ILV4ra+pQtIiJhspfal2JA=="
 ---

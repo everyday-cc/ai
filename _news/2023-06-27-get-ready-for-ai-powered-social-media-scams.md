@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "VOV.VN - Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T09:14:00Z
+    webUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
+    type: article
+    provider:
+      name: VOV Online
+      domain: english.vov.vn
+    quality: 41
+    images:
+      - url: "https://vov-media.emitech.vn/sites/default/files/styles/og_image_en/public/2023-06/signing%201.JPG.jpg?v=1688116468"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "9/LBEm8ItpT6PeYtxqz4F9q6/Xz44/bWJ4hX+9Z2mPtYdLqXRa/KASCIkvWJcfJ+qW2PecvYk7Uk4GW0BZSqdPski1zIzpqGm5khECstrR1foC1y5ps1V0HITm5vstIDaRrKJlYF85USmidFABhJbCGpoR6+RzHzzJyt5dxX2IyBOtRJ64wX5r/MSzrR2/jaZKwsTMucnCQRXpJDytkvFmWV2LA4zircPz+mBAaiSItykPgJBhYB97i2rFLqIpxB93lasCUwp5Sif6Muh7uZH81WjjU5qzy7aBIilxi7NAaz/xd5s8FCOv2NpX5a2a4VzsFuHAGAVmuxT1yVAJfehyc81Dyrex+oBKBR+dymLfdE+ZGGtTIrjR3izVjPJGXYIVZp0q5IGnvKnXMAqd/IGW/m6mnoW0q0aFT3bvVtov/qQ9MpO42ErMzlrbCqSwxB/TpznPX9cEfVT3b1s9LYH2f1PIAcfT46UXHuFk8Xc2mV1jeRPjnMMZ/0MvquWLN0QIGsIVqDUhCk10Vdu+P6fQ==;PdqgDEjgL+Y49CWngknubg=="

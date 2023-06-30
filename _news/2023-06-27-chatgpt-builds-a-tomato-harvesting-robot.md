@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How ChatGPT and generative AI could bring the Star Trek holodeck to life"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More For Star Trek fans and tech nerds, the holodeck concept is a form of geek grail."
-    publishedDateTime: 2023-06-25T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-chatgpt-and-generative-ai-could-bring-the-star-trek-holodeck-to-life/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_a_brightly_lit_holodeck_appearing_out_of_nowhere._colorf_ed1ac62a-65d8-443c-8558-bdba0976e7ba.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
     excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
     publishedDateTime: 2023-06-27T20:01:00Z
@@ -94,6 +80,20 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
         width: 1250
         height: 834
+        isCached: true
+  - title: "Brave new world: ChatGPT, artificial intelligence on high schools’ fall agenda"
+    excerpt: "As one school year ends, area administrators are already looking to the fall with a topic fresh in their experience but increasingly demanding attention in education: the launch of ChatGPT, and Open AI."
+    publishedDateTime: 2023-06-25T23:32:00Z
+    webUrl: "https://www.rep-am.com/localnews/2023/06/25/brave-new-world-chatgpt-artificial-intelligence-on-high-schools-fall-agenda/"
+    type: article
+    provider:
+      name: Republican-American
+      domain: rep-am.com
+    quality: 33
+    images:
+      - url: "https://cdn.rep-am.com/wp-content/uploads/2023/06/20230625-203253-pic-558769531.jpg"
+        width: 800
+        height: 562
         isCached: true
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="

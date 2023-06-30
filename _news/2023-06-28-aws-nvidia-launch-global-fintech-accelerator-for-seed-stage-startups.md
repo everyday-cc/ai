@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Top Ten Transferable Skills Into Fintech As Of 2023"
+    excerpt: "In an industry in constant change, individuals whose skills can constantly transfer to new demands will be increasingly important."
+    publishedDateTime: 2023-06-30T08:49:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e96a331545e6dc10b96c9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 758
+        isCached: true
   - title: "Applications open for AWS' global fintech accelerator"
     excerpt: "Amazon Web Services (AWS) is to launch its first Global Fintech Accelerator as fintech-focused businesses increase their reliance on artificial intelligence (AI) and machine learn"
     publishedDateTime: 2023-06-28T09:15:00Z
@@ -58,6 +74,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "London fintech firm relocates HQ to Aberdeen"
+    excerpt: "Fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, in a bid to accelerate its growth. The platform crowdsources paper and digital receipts directly from consenting shoppers to help optimise spending and lower household bills,"
+    publishedDateTime: 2023-06-28T08:12:00Z
+    webUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324"
+    ampWebUrl: "https://www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
+    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/london-fintech-firm-relocates-hq-30339324.amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.insider.co.uk/news/article30339315.ece/ALTERNATES/s1200/0_Mohsin-Rashid.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS opens up applications for Global Fintech Accelerator"
     excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
     publishedDateTime: 2023-06-28T10:07:00Z
@@ -72,21 +104,61 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon to commit additional $15Bn to India, Google to open global fintech operation centre in Gujarat"
-    excerpt: "Amazon to invest $15 billion more in India, totaling $26 billion, Google to open global fintech operation centre in GIFT city."
-    publishedDateTime: 2023-06-26T05:02:00Z
-    webUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/"
-    ampWebUrl: "https://thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/06/26/amazon-investment-15-billion-india-google-fintech-center-gujarat/?amp"
+  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
+    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
+    publishedDateTime: 2023-06-26T10:09:00Z
+    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
     type: article
     provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 29
+      name: altfi
+      domain: altfi.com
+    quality: 39
     images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/06/download-7-1.jpg"
-        width: 1320
-        height: 743
+      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
+        width: 6139
+        height: 4093
+        isCached: true
+  - title: "5 FinTech platforms redefining the future of lending in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-28T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-platforms-redefining-the-future-of-lending-in-india/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/03/Lending.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
+    excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
+    publishedDateTime: 2023-06-29T10:42:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Wells_Fargo_Helps_FinTech_Create_70m_Fund_To_Widen_SME_Credit_Access.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
+        width: 4096
+        height: 2304
+        isCached: true
+  - title: "Google US$10 billion Investment Boosts India’s Fintech Hub"
+    excerpt: "Google US$10 billion investment signals a bullish outlook for fintech industry in India, underpinning its potential and expanding influence."
+    publishedDateTime: 2023-06-30T02:00:00Z
+    webUrl: "https://fintechnews.sg/75652/fintech-india/google-us10-billion-investment-boosts-indias-fintech-hub/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Fintech-India.png?x22319"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Point Predictive Releases Groundbreaking First- and Third-Party Fraud Solution API for Fintech"
     excerpt: "Renowned Fintech Innovators Barry Kirby and Lauren Crossett Join Point Predictive Advisory Board, Contributing to Next-Level Innovation and"
@@ -106,6 +178,43 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
+  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
+    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
+    publishedDateTime: 2023-06-26T09:43:00Z
+    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
+    type: article
+    provider:
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 15
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "What today’s banks need from commercial lending technology and fintech vendors"
+    excerpt: "Open, accessible and – once again – standardized APIs allow loan origination and servicing systems to exchange critical data in a more timely way with different parts of the bank. At FIS, we’re also building a real-time accounting engine to further accelerate  data delivery."
+    publishedDateTime: 2023-06-27T15:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/24423/what-todays-banks-need-from-commercial-lending-technology-and-fintech-vendors"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 15
+  - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
+    excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
+    publishedDateTime: 2023-06-29T14:30:00Z
+    webUrl: "https://www.malaysiakini.com/announcement/670351"
+    type: article
+    provider:
+      name: Malaysiakini
+      domain: malaysiakini.com
+    quality: 15
+    images:
+      - url: "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2023/01/f834d51133cc36aa4d200d1e9d646200.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Data Science Hiring Process at Global Fintech Company Fiserv"
     excerpt: "Fiserv prioritises up-skilling employees to help them excel in their roles and adapt to new technologies and client needs"
     publishedDateTime: 2023-06-27T11:29:00Z

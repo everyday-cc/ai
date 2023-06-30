@@ -43,22 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Role Of AI In Creating A Sustainable Future"
-    excerpt: "Artificial intelligence can help companies measure, report, and improve their social and environmental impact."
-    publishedDateTime: 2023-06-25T15:58:00Z
-    webUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/"
-    ampWebUrl: "https://www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/06/25/role-of-ai-in-creating-a-sustainable-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498628520598f85fd8f46c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1491
-        height: 900
-        isCached: true
   - title: "Using AI For Rescue In The Wake Of Disasters"
     excerpt: "AI has captured the world’s imagination with ChatGPT and DALL-E generated poetry and art. But when AI is combined with GIS technology, it can be used to save lives."
     publishedDateTime: 2023-06-28T12:00:00Z

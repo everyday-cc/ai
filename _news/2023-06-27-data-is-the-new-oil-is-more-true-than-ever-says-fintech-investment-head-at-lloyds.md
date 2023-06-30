@@ -7,7 +7,7 @@ originalUrl: "https://www.altfi.com/article/data-is-the-new-oil-is-more-true-tha
 webUrl: "https://www.altfi.com/article/data-is-the-new-oil-is-more-true-than-ever-says-fintech-investment-head-at-lloyds"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 3915
     height: 5482
     isCached: true
-
-related:
-  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
-    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
-    publishedDateTime: 2023-06-26T10:09:00Z
-    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
-        width: 6139
-        height: 4093
-        isCached: true
 
 secured: "GXE2ER5flmOXI/ZXRw2118+nOZl17zERxef4zxG84VEm2qQXSMlmaYD9c8m1TMX1dhK3qEGLexuAEiG/ZCdCkfJhx9zXtjCBhRxa7XIt5TghbrCf/M25Qky0vyHTd3tT3vLxiRx9XaDVhIO9sVzEZmimUhjCiRnOQiiwjtAS+4hjawfhvPVF0mPrcLfeyKXtBYYASTUdOSwFjmfJcZOArV0dalJVP+4MO6po6wjug3SBHlNhEaD4MbON2eHCFmyEvBv+DZrmwDSjP1Csv8brFGDMbYXizTBtbXSP0xGrBS/SD8RvajTnUXUNiUOVTEhBo3jFuTIVdSO13igOCGKg6kWCe/7mchSGAcIpuleqHfM=;HIEPzq2rn/JRNN2WjDSPDg=="
 ---
