@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
+    excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
+    publishedDateTime: 2023-06-30T21:16:00Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
+        width: 1400
+        height: 719
+        isCached: true
   - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
     excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
     publishedDateTime: 2023-06-29T16:19:00Z
@@ -217,6 +231,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Report: 2022 Microsoft Azure Revenue Less Than Estimated, Half That Of AWS"
+    excerpt: "An unredacted Microsoft document reportedly revealed that the vendor’s Azure cloud server business revenue in the 2022 fiscal year generated half the revenue of rival Amazon Web Services – and less than the amount some analyst firms had assumed."
+    publishedDateTime: 2023-06-30T20:53:00Z
+    webUrl: "https://www.crn.com/news/cloud/report-2022-microsoft-azure-revenue-less-than-estimated-half-that-of-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 69
+    images:
+      - url: "https://www.crn.com/resources/0282-184d486123e1-9d351d4cfb4d-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
     excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
     publishedDateTime: 2023-06-30T06:51:00Z
@@ -274,6 +302,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
+    excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
+    publishedDateTime: 2023-06-30T19:51:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-few-gen-z-users-tries-luring-youth-with-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/649f2652aa56b70019ca8d09?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
     excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
     publishedDateTime: 2023-06-26T16:49:00Z
@@ -306,6 +348,15 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 59
+  - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
+    excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
+    publishedDateTime: 2023-06-30T18:50:00Z
+    webUrl: "https://www.cnet.com/tech/microsoft-ai-will-help-you-shop-on-bing-and-edge-with-buying-guides-reviews-price-match/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 55
   - title: "Snowflake and Microsoft expand partnership with AI"
     excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
     publishedDateTime: 2023-06-27T11:18:00Z
@@ -445,6 +496,15 @@ related:
         width: 4095
         height: 2730
         isCached: true
+  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
+    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
+    publishedDateTime: 2023-06-30T18:07:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/30/9842393.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z
@@ -693,6 +753,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "qd9FoZmmgyKTSoR6+uSszRzgEd06IvgO6DkSzvB9b9AGll0jCOlEBaVDIVaq1F6kz0HlIZK+Cxbf5gRRR4pz3i5BePqq5TGqjh7LSBuwGSxMbKbx5jwW6PGFnLPUT60cOdZibv2rjj/4LjFfg2CzfX3kjBQNC01IppV1v5G3X5O4uUoQ2wHHZfNT7sI/0lcEYr6fckk+ETdQgCP6QUYQg1hG5TE4QL+kDgdpizCYmqRQ2ALYdrPqDzS+xv0d4FvuGvz7tDgqn1zRZ6YlnwkOsfakedQ68U47g1qVst6ZzUhu1BbtLIM7/zE//FzkDbceN0Pogds5TMt+EyyBqJsnY5ab2nYiRQ1Ub7UBRRqO7TA=;FRpwd9nJIdv33qPX+g5PEw=="
+secured: "UG5v6SD/msCDjSjTxRuZJNKZyIg/8vhaBBwFIli1NymPfwtUh36AFGvrXdVKRbkktf/O/R5v41va9Aaj1IGIxD06jVVSYqxG8zFnl3N9X2CQJnPWDPpGK5Sv1Jvl861OKDG3hQ1hxBtaVBGlWqRxYqvsNtKkuuwMCvD6pB7HcOij01tDqui5W1KxRZsAPbG7gKPTF8WQICh6pHVwJb8XcYErJOvM9nves6P+RWIBgJoxkeBYmfeTBkwwcBX7UrY99ew4gTC9QXPtozkxdwpSfln+pUheZ6Vy/JVGtMp5aoprQm27BszT3Xb5WSdSrUAdzFh8O+eCtIbWzO94yoqibN3gA6WuPj6pkYlcfImklMkagLcktyrInREkuXlRqxS/qFtS3CZADa+r44IXhGpv192wQh4tpsc69zTe6TWoCvoZJbVQcIZKo9cm3nZz7tM4lLOl2FdQsDrI2XVSJCaGwqEi2RBNxgX6N5sJ+onw/hCXn3aOEFlqnhI1YmlCMSuO8XAtXgdz3BmfG0CjflJfUA==;+F5K32JpnLuD4cpIuQoTfA=="
 ---
 

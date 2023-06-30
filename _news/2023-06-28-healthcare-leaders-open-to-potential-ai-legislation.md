@@ -80,20 +80,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Will AI be an exceptional industrial revolution?"
-    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
-    publishedDateTime: 2023-06-26T01:15:00Z
-    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "ih8cRNrzd5TPRxhuQzAhT+czNGB4ZI2EFcp/wADD2rmDEHI3Ove2Z8TIXcN2tAKojWCjk5LJ+0QVVWAPAfUBe4u+kmZSIc9p2DmDZH3naxaNjJr4wpWgRrV2YQVlUaCHOwKuD3G4ngrqzQmAyLVMWbwzMKZ3u2W9to3l93o/exeSFtUzoeFdCMLPiNX9TaYVkNbqRjysk+xwb4J1GBSX8yFGgSsLcAPeDgUZymYEFEd3vtcsYMri7dbJ0l2ehseVO5gjPj2NdgKNbxFAbRE25PbWCpPoMdXuEeFzhaDe7YNxAX3HI2lMXGxCML0MM1dlBu1DueRmxUTmF/ULLAq1Yb8sudU207KDUz5sVC4VnVA=;ii6Ywq022e+rsA8S3BYvUQ=="
 ---

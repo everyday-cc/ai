@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "cqOKYJ+3CrtztlA+hyyh45gaX45kXUYstBc0Ogxdgw1e40LnJj8K4Y5faj5ZGsMNuIyqM8Q8yLt1ZoHGyELyblAEkm6Y/R3mQJZBqNpshoX3Y9BI69IgAw0juR4L4mQ1PKTTdPKO1Yc+1ClAQD2B5DBKNYQxwIC/JbRCfjOcVGuk17r53CC/gAlUpUEDKpU/NgkTS3Pd0ZgIQlu6VoLQOgwv3F+dokNR5dc/G93PIN1A51ModwCsN0EvY9xrFZGfr1U/NN4UWOK+AjOnosnAbMHQXaSpbeFrdO/9WsJRxjfmDZJzFuYuKOj3Cs8l+xVe88X+jFem6rxJ0aL5rPVdoPpuZWUU9ouSysga7iYmli5g/Omj0+HG2eWolVEAKL69pmwG3KIWO5b2P57tY5oWxJyMcKpFYQKJ3FETABcpQ7ZJ3T0X79rTJDoZbCyGludKRi6iYxv1dsyFpRrivDUMk7qPhuAJRuk7AfBw4iNzot27rCCYfs/D2EljP6l9DSbfKuezI5B+tiW554x2RUxmRg==;ZfDd/iCynXTLVP3Wnpx9Yg=="
+secured: "Unb5kBY1djleBB+7xmYumsehVckOYjvyPRK+Q0LRuasHNoAy2V2IAobbbufxzHOmQ/6C3zSaXPS7Bv5dx+EwroHxkP6fpGm2gtLsxxr7MkR+22NdgivlprphCMGc99Ds817XGRteSYvShn3HPb4noAUeYFg07tJ/oNSVYcn/PFifzNADTgtCEda9WIIJQqBrUB168yP2jh2FJrFYNgr5DHSoRYhuE9MWv+RKzauXIPD2zPYrpugIB6LMGimS1F85SwyAQxvrghe6RY7jlomvd9Xz90vUBu+8lJnevv9k4VBIbd2VuRmNozLRmp8svrL5WEOtZG9nn17VpNsAEfwN21pomLeaYGxgTEIgG/YW3XXFU3JLg4NgNroRpzndzaJsQCCKhrVBndA8yW+m/lYJsNi3Aoq/zyo3nIt4sNP63LUTIHGw65YFSvMIG2DEeNxedLUQ/324Budf9Kym1iQX1qyXF2/tqkpD5VHD9NIJavevViwWPH2tfNsihlmWm5KZqdeJd5PlrnrWyYdhwbmmsA==;/rD3VaM1e21XVgU1ZrJzmQ=="
 ---
 

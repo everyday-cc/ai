@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Can AI really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
+    publishedDateTime: 2023-06-30T21:20:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "RzOjY72NqkmZuaiNj7vzh9NO6BiZNmTXTIZty74MDCuDaya7EQwot4JJ1M5NZcPgPGsMkyaSiIP3ehqqvg7Jt+6giN4XxfyhGLM7E2cvQtzd/FG5pT8oz/mwgWjEIGWrrJgVj/Qgv4R6BWfrthMrckU72QZacHSD4EInlbdewRkfP76EQDyYmk+ZOt9wHfd79fS2FUOLNOP/osZ27rW9qZD+Oeb6dETlH3US1Yg1Vk5Up5iL9/daaV163Bu5Q+Q8p5daYh2Dfk8MP0MYg+btyrH3NsUir5nKBX8z4BVtfwKrs668g8UnKCL0axJt9OIG2Jb8YqWk8aEd9RSpPis+VsAJ7+j2iezdPYFp+pLhWpLEqdsjuY7U8C+Qx0LAs0SPlf29Z3UTqno19Le26qj0GXcxQWsotWHZ/t4hzy4/BZGUm7c/OCuDNyLO94pN+Q1na7TmqETfBTmhqy8zVzfIwF7yAHGu0xd/ZBB+930UZ0JQQ5Yd9RjPCt75xrNZD5/2+1XccvhuA/7Fp2AyoUssaA==;jE1A9/+J+cdALCb+yY2Mdw=="
 ---

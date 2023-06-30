@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -194,6 +194,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "AI watch: UK electoral warning and OpenAI’s move into London"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-30T17:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "inOsDhZgVn4AY6UzbgFADcJ/8ovwWHuOSaQ6amDcZi2JGBX6v4e5SlRLvDJs4T36G4ImP3sDcJoRoSs81rrEXzneA7qtTizcoyogLGOTBHs4U53t6A5AvYJEYzVC4t0wPbLk6ayd4bJQ0T6g3wvtMzdMIpb/TEY8DLcMuVd6oBbQJ0t+7QC5YbwzKZD0F3YYdT4fBEfLJnGT7O+bVImudrNwuMaZjdP79N3nFGV7US0LpGD7SABfufowrMlpuE7czZPPv9QzoZHxMzN3UbUZJXGocBpbkBWoAkvHW15r3MESJ/DGdpBYD74oh/XgMc+W/KriCO3HJxU0sqMFXrFKxhNnaJcC6jTz+Ox5va9pWGjrxnjBU5yA91hEIAykXRG4Nha5JTds2DDLtSBeGc7fmodBezbJyxZOEhPGScpT+6Fv7W/tHfzGsKGBvms6swTmHc/2uShxXYEBW+kXamJLx66/OxZJyEMvNKGTEMXHAirvUQa7HKv09cDMPf7II1AQvkp9CLRp7FUt6JyYfdqKAw==;8JGT3/NwRjYaMzvLHRoj2Q=="
 ---

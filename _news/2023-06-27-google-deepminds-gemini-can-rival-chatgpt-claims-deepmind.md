@@ -189,6 +189,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI watch: UK electoral warning and OpenAI’s move into London"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-30T17:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "Oy7RHtI46a4FQWCZTr7u/WXmDkN1Y2+Y2Vb5nsnScu8K70NPtvwS+qn+DR5kqj+3AEneXChnAR1GVAB30kNrOOwoOy3Ixhsj9tq4FMW9tbSpgkTZjoiHHVuUX6CC2nl9BoRkUOiOTsNTdIO35hkSSL7B/Qv6pDJaX2ti+IokSwg29LZYqC21oxc579D7YUHq8MhGabnVk75otddJOv1MY4RpgvSC0Y818rdA7s4dId6NOhJdSEfG0kHZJsttMha6Vm44Oc3l/cZgG6L4K6Z1MeDIM8F+gd+VcUREIGt1mqpGLMOgUP7Hcsg1cSBTCuMElrcoNO7Jd6RWnC9wFndCCgH+7j+lt5GsGJEJVFqQV5dQrM+YZJ48awfFZFqie12xtUcwOiD8hfld6LckyjyEToAtNgui7tR9vBIM4Q4KwBjqdddmucDtvak6Ei5+g6+827lF1+sF7Rortp327W0eeZWEFF32hC4dkZz+rfOOlx3fOsPcHmMTf3g4H4TdYeGlV7xdODfOJ+I2V81R71pa1A==;24plNLXcIkKvVMJ6DvNYJg=="
 ---

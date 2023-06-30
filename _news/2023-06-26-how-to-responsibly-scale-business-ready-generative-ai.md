@@ -150,7 +150,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"
         width: 1200

@@ -90,20 +90,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
-    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
-    publishedDateTime: 2023-06-26T03:11:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+  - title: "ChatGPT has healthcare potential but needs guardrails, surgeon says"
+    excerpt: "Alan Reznik, MD, an orthopedic surgeon at Connecticut Orthopaedics in Hamden, connected with Becker's to discuss how ChatGPT and other artificial intelligence programs will evolve in healthcare. Editor's note: Responses have been lightly edited for clarity and length."
+    publishedDateTime: 2023-06-30T15:51:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic/57251-chatgpt-has-healthcare-potential-but-needs-guardrails-surgeon-says.html"
     type: article
     provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
-        width: 1250
-        height: 834
-        isCached: true
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 34
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="
 ---

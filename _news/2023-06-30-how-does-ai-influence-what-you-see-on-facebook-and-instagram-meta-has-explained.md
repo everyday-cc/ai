@@ -121,6 +121,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta Shares How AI Determines What You See on Facebook, Instagram"
+    excerpt: "Find out how social media giants Facebook and Instagram employ AI systems to curate content tailored to individuals' preferences and choices."
+    publishedDateTime: 2023-06-30T18:46:00Z
+    webUrl: "https://www.iphoneincanada.ca/2023/06/30/meta-shares-ai-determines-what-you-see/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 19
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
     publishedDateTime: 2023-06-29T18:41:00Z
@@ -131,6 +140,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "IY9qxlnREf5hp3olc5SbRQwUQbKdJ7DjBac2tioOoXZ5idTIQClTOA2nto+k8ojmTcecqye9oM//3RUm+rGlQgbmSq8E4yGO5NNT5C9cEJ2v6xkySa50y6OKsxutodnnJdlPE7U8ILjwNVi2KKyPbKXJfRhh2//rvgH3beObjeuiF0Vg2Ma4WglmrV/xiko2u1gHCRU/qwWrIlVYvwz/TYsHaoC2ciiQJjyNYZNoaucYzi/mhBcGKBQGzX1fHzrooONMdt/cZdbJ0qVU2TLEPXKrWYLUj2rrDZMmobSQPXnxlzbxyZz9rq/T9GZ5cu8J9Y7WZuuecxv6t1IQ3s1w25Sb52vtlB6n6QcCDtmvmk0=;pXNEfo6aedN5uur2pa1/wQ=="
+secured: "7HCGME/CQCK3kaZVlcIqn1nK9quyEt8KVxBBcm2G0GwR3TN3oKpGmWljMjN44KW1Z2hEhQemMx/ZnpsErY20MGQ4aoBFAUtxQD5/GDSu+8F3L4+K1Xr3STj/AY8LgNGjyUWlcfAAdsjGJeYmYEz6fpXNYDNsOfgupLyP84oVwBXJz98wQs0o6JD4a6zU4PJNCI7y2qRjdHTX9iZ+mhgdrdqH2UffqywTcVwNUsFT875ZMPFFxUiyXO8BWUp4CfiCdR5hDdpDhzFOmc/RKmtMFUcYPzczxjv5SflYgcptV36gAx7gu1ctVN8/Ym8kJ+0Q/AZzMsKZ19whavVJudLSV2u5w2FeNdqtlM33sI9UyCjFMIPzLIHP7PCjJStOh2jUwXZyMuBTN71/LLNqjCQa2u8FP27/LMqm0jeF6yVvMBPPXIu/46mqgqZbffcKMF5HL57xhW7Hw/WQ8xvvjllQqe3kJAsx5AvmTnBC5j9CXQxb3M1djRf/IBnbgsRCc5FHsHMCibOspD4CUsgqrN0LBQ==;0iBmlX3hqzZ84NO9t12iRQ=="
 ---
 

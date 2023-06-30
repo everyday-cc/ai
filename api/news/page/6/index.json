@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-27-ibm-to-acquire-apptio-for-46-billion-boosting-hybrid-cloud-and-ml-services.md",
+      "title": "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services",
+      "excerpt": "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/06/Apptio_Newsroom_Banner_1920x720.jpeg",
+          "width": 1343,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk.md",
+      "title": "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK",
+      "excerpt": "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg",
+          "width": 1023,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T13:42:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-deepmind-unveils-self-training-robocat.md",
+      "title": "DeepMind unveils self-training RoboCat",
+      "excerpt": "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
+      "publishedDateTime": "2023-06-26T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-samsung-to-mass-produce-hbm-chips-for-ai-competing-with-sk-hynix.md",
       "title": "Samsung to mass produce HBM chips for AI, competing with SK Hynix",
       "excerpt": "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market.",
@@ -208,7 +356,7 @@
       "originalUrl": "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1101,151 +1249,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-aspen-ideas-festival-2023-live-updates-former-google-ceo-eric-schmidt-to-discuss-ai.md",
-      "title": "Aspen Ideas Festival 2023 live updates: Former Google CEO Eric Schmidt to discuss AI",
-      "excerpt": "Monday’s biggest speakers include Schmidt, General Motors CEO Mary Barra and Chevron CEO Mike Wirth. The Aspen Ideas Festival is hosted by the Aspen Institute, a nonprofit founded in 1949 that is dedicated to “change through dialogue, leadership, and action to help solve the most important challenges facing the United States and the world.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
-      "originalUrl": "https://www.nbcnews.com/news/live-blog/aspen-ideas-festival-live-updates-rcna90875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230623-aspen-colorado-live-blog-cs-4a7c50.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/rcna90875",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875",
-      "publishedDateTime": "2023-06-26T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-to-boost-personalized-email-campaigns-with-ai-technology.md",
-      "title": "How To Boost Personalized Email Campaigns With AI Technology",
-      "excerpt": "There are several ways AI can be used to improve email marketing campaigns, such as: • Predictive analytics. AI can now analyze subscriber/website visitor data to predict how likely they are to open an email, click a link or make a purchase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6398900f0db7ac9716620eb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/how-to-boost-personalized-email-campaigns-with-ai-technology/amp/",
-      "publishedDateTime": "2023-06-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-uk-artificial-intelligence-ai-statistics-and-trends-in-2023.md",
-      "title": "UK Artificial Intelligence (AI) Statistics And Trends In 2023",
-      "excerpt": "The rapidly growing field of artificial intelligence (AI) has the potential to revolutionise many aspects of our lives. With AI already powering everyt",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/business/software/uk-artificial-intelligence-ai-statistics-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/06/pexels-cottonbro-studio-6153354-scaled-e1687161473695.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

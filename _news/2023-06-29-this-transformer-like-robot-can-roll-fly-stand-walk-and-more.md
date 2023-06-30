@@ -43,6 +43,15 @@ related:
         width: 1600
         height: 811
         isCached: true
+  - title: "Transformer inspired robot can walk, fly and tumble"
+    excerpt: "Autonomously selecting from eight distinct types of motion, the Multi-Modal Mobility Morphobot (M4) can reportedly roll on four wheels, transform its wheels into rotors and fly, stand on two wheels to peer over large objects, use its wheels like feet to walk, use two rotors to help it roll up steep slopes, tumble and more."
+    publishedDateTime: 2023-06-30T21:12:00Z
+    webUrl: "https://insights.globalspec.com/article/20751/transformer-inspired-robot-can-walk-fly-and-tumble"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 19
 
 secured: "+QzCnyCzhwSBsFR1L0UWyvaF2SQysR+7E/yN/kF/n+jVYCIAiTY65NSOJ4t4lJzrxZ112kJbKPc76rey9U/X+RGiz79n9EqgRvWmKjVVqvICRMT4PlCkKAYVyN9wX+8bELgF8Smv564LoPdPPlAQPsYomJzyeMAKRLLfH7xf4B3TudsJCTG7xgLutZPlSfmvlbHOSTYjOfIlrGEWcGMRf6XDa54ggzSgEEhbFSY+CpG6gJUsdxPfH1GG51sFnsTMprDSU0jBBPb9LnkKZoPYhUSeMGRAa2bSZM/pxm3F3dd7Ltsgr6Db/GqYicLua/k0vmDuGxT/6cm7EIAUi3CTmIrCxJyU0JdoimmcBglGDZr8G+zlrtCvLGZayWEFY8YwBB8puV5JjL1ByeCibhTxJG22+o64yWw1mVo1fD8eOO1gDRUnlvLq/xQTjpVn2MaSyi0q/OjEnQfz0J/Wq/MK2a4Gf30rUnBZG89MYLhSKXSNrWjyWKW7sLCQyiij7BWEWQUrTZe2L1/LqO/nYF2y4w==;ICD4zk5y/rf+c7SskF3eKQ=="
 ---

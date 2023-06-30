@@ -150,7 +150,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"
         width: 1200
@@ -355,6 +355,6 @@ related:
       domain: unite.ai
     quality: 19
 
-secured: "ImpfIBgyPebjpqA1TYMNsHvDRO7axFZQcbsauqClyQtCgW7c7JhDSlcQKm1PDrXW3i4BL2HhYpbyQl3ZDlnBr7DpMomHGQUKFfHBw1gqPK4U55JeyoCfU+pwYXsDWCfhUUb6lLyKfPTcJKRjwvAA7TMZC8PRGI9xL7FBvNH1A+tliO4TrJkLDRyIpKQ5oZZfVryfhQePZY+cxvQGKyeLvQozDNx1HkHKnlNVMlhKqAIfkPzF0qjq0jAwN21FOLSCemU83fSFLgqMNBYZ+MafmMGzOUrw5c5mvbQZPP2m7cq2Rp62LScChjrJo3KXBOLCqFBw2jKuqzNE46QQIPZHS3KKBWiqXtpb/jE+ieJV4OI=;rwoucg7aVcaRyifWyF4wcg=="
+secured: "r9OcvqZOdvcSBvNJ1dEoFOksmakRvcxrc4RB+nqtvQ2NU26710lq5R66hNE/heMxVFd7CZ0h1dYD5VashS8/a9frUFuRBPOYao/G5yul5CZ/Kyihf3bFSQJ/TIEzp5Rr0hUEF0M39VU9SMJI1Rz67s1cXRx/ye8KvRv2Ka2Eil/CGBAuJV6zRfx4t0ngDgk4P9OEvcmX7IjKaIiNWPcQDnJOmGplr9FQQdfxpSoCe2PFGgeZIIxWWolomHCzDDLXUi4iYaBWyCaOrmMTIh8yUnmk6Mdy309am3m991hHrjhzoK8jsYgB/LUEiI/yt+En1DqNFcHoWZ66U9MN62RjvIKhNRw58tV0hqwGqQsol+HQyhkCFDicKnssNMu71AdvVQiokAe+9BgSRM7Dp7AkPPUSjyp6/wBEttBXyW2gGed1cfB2H8/8q2zZIG71NouPiB6nsutgESTvDZDwEMs701KwlP0VVjVj3sCattP2veoKBy4uEuF5xI3WNlIWU23a5ZmLk2GuFMspcLQWT8skqg==;nx0PZKtAHQNsP1R5yppn/w=="
 ---
 

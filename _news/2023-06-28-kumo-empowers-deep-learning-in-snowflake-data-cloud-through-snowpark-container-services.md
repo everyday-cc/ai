@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflak
 webUrl: "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Kumo Runs Deep Learning Securely in the Snowflake Data Cloud with New Snowpark Container Services"
+    excerpt: "Kumo, a leading deep learning platform for relational data, today announced at Snowflake's annual user conference, Snowflake Summit 2023, that it can now run deep learning directly in the Data Cloud with Snowpark Container Services (private preview)."
+    publishedDateTime: 2023-06-27T20:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kumo-runs-deep-learning-securely-the-snowflake-data-/2023/06/27/9840225.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "1IcOcyCA3wp1X3s7u29IoPQFbNWRPE4gSEud092QUptfvI4lV4lVoarP8YJvKTzr0SuOJjPULgd6uGJpKtlDyf02V5nPpAnQ4k3gki7XVXLF4mo8Pfmjo++wqIakXydjSi8QjNM2VAPSpxGUGeUK7cVv7PfWy893FaazFCboW0szUWHE1OxORmZO1AnbFcjFaPSOrYCn0iU0MwXzBw1hYtFypt5tH0ZvVSFrlCYhSG/R5BP62IYd7GNf/fIWtj5OBXf3tO33jheu4Ef/26MJeqr+Oyi9Ow4l4RABnNq5+YNesChktKtf3xeXK0tcX5+u1G37PYSPLY9JEHROwbiN7t0m7VvGP5zbPe7ctXgZr2G5nNi1tXRkT0aYkAic2adsCkiyIM2E1Wi9+nFQqAfY1RpmaRPfJsipBsSFiBaz9K0Vfj/b1nwfiiWrPNW+bkzn6O81+HKKN0p5qDv/fHDaCG5IKBFQgKE6W8/Ps73342eV0lWfjE+vc2ZGuTfTzoPTAMx+TYxu+3AcsJL3dbobGQ==;X3IJUcBJEDkhJtzXRXgaYw=="
 ---

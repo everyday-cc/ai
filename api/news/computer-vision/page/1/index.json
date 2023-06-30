@@ -825,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-best-handwriting-recognition-apps.md",
+      "title": "Best Handwriting Recognition Apps",
+      "excerpt": "Handwriting recognition software allows computers and mobile devices to replace traditional notepads. The best handwriting recognition apps can instantly upload your notes to the cloud for secure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080320/1554238700-scaled.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
       "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
       "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
@@ -1377,49 +1420,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-hybrid-ai-powered-computer-vision-combines-physics-and-big-data.md",
-      "title": "Hybrid AI-powered computer vision combines physics and big data",
-      "excerpt": "Researchers have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques. The study offered an overview of a hybrid methodology designed to improve how AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230614220605.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230614220605.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

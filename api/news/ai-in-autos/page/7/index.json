@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-29-anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097415",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415",
+      "publishedDateTime": "2023-04-28T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-29-fort-worth-selected-as-host-site-for-a-4th-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Fort Worth Selected as Host Site for a 4th Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Elevate will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 4th time in the Fall of 2023. The AI",
@@ -1257,49 +1300,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-spotifys-daniel-ek-weighs-in-on-artificial-intelligence.md",
-      "title": "Spotify's Daniel Ek weighs in on artificial intelligence",
-      "excerpt": "One topic that came up more than once as Spotify's CEO participated Tuesday in the audio streaming service's first-quarter earnings call was artificial intelligence. CEO Daniel Ek responded to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence",
-      "originalUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8fe1d7dc-c1d4-4714-8eb5-9fb09c0965d0/664e06de-5835-48f3-918e-02a62a78d06c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/spotify-daniel-ek-weighs-in-artificial-intelligence.amp",
-      "publishedDateTime": "2023-04-26T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

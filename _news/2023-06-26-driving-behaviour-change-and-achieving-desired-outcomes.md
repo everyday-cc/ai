@@ -39,6 +39,15 @@ related:
         width: 1248
         height: 650
         isCached: true
+  - title: "New AI system can decode fruit fly behaviors: Why that's pivotal for future human genetics research"
+    excerpt: "For more than a century, scientists have used fruit flies' simple genome and short lifespan to decode mysteries of inheritance and immunity in humans with studies of Drosophila melanogaster nabbing six Nobel Prizes. Fruit flies and humans share 60% of the same DNA."
+    publishedDateTime: 2023-06-30T18:00:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-decode-fruit-fly-behaviors.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 3
 
 secured: "Q0aH4MCchzsDHv+xjrZQ0NTsd31/VqXv35lsyyFlTB8LWBk3lg2pFs65u4Dc5CSiYp8GXrkyPjGJ3nR+E1cK4/NwDrzM7YS4W24MziwrXhSre8rMD5v2h9/y5i2MG/hrnpy7f4IvT4ZZOynL3MaiUSw6RKIimHvvNqxWQ/bWFzgpgzVJ6akmh2JKUyANcRruIgIUnQUGcLM6RaJzSwHouqTMvw+Jhlds9izoNuiIIpIE8Pl8TewZzDGZqWDIPdWA/5UmMvC7vSJ4T0YJD22qvc6zJod1IvYv5ky/mWFmI0lOYW8v3E90n1MX29fF2Bky3V17d/evAJMzxdV96aYYoFeRKb2v5ZgsdqWVExup0ZQ=;nxhxd3o72Nbp+8hQg1sjiA=="
 ---

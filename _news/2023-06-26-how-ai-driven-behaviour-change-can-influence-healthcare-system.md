@@ -7,8 +7,8 @@ originalUrl: "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-b
 webUrl: "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: onmanorama
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "New AI system can decode fruit fly behaviors: Why that's pivotal for future human genetics research"
+    excerpt: "For more than a century, scientists have used fruit flies' simple genome and short lifespan to decode mysteries of inheritance and immunity in humans with studies of Drosophila melanogaster nabbing six Nobel Prizes. Fruit flies and humans share 60% of the same DNA."
+    publishedDateTime: 2023-06-30T18:00:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-decode-fruit-fly-behaviors.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 3
 
 secured: "lJS/PuRdvrgr9eUbISgwpeGgj+F0B03GMKtG8enYYjlFmHVzoqlCCfx1eIjzHieaF9FfFKfo/i5XtUm4p1Jt9vEOKRQrRFPMBsNMeBOj2GDP4D72+CBrdIzp9Qk6Wc7umWVnBshYjQDif8rOOdSS1x9JyasBHXDuCb15aGHdT9JuRynWCaBqkLaJt67Cs1w6V0SDMVL5wgqEo+Z3goBWJVZEVfYSJ48roE93/CetDZefAhL+x/RfKuCE6juQS3NaXIYQ4zflmTYQUC61BSm7KIryIZ9bUnv0MtdqafvAk3CjflQnWNd4kkjeXVKgNEPNXn37v/+pV5LmB7MepkASf/kzS82Bs2AIK1dmA4IyJYl7Xqt7lUAYhs9IYa96L1HyhXs1zJI6+GwvSL3PocRRwAbfyJSqM8PNFqvtA1vZkunEfRfGtYz/eym+EaBResyjBys7MtVJkkCtS3AykUE/6AStgDAQNv2uj2zHsaGh/P2xFSGM3dK6lkwXJQgogi5KbdpRyURufzTFuuhUU3UJfQ==;KnYSMGLXyQ7tY5zpPfu0fQ=="
 ---

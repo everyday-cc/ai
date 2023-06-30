@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
         width: 1200
         height: 679
         isCached: true
+  - title: "Healthcare funnels $20B into generative AI"
+    excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
+    publishedDateTime: 2023-06-30T18:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-funnels-20b-into-generative-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "UGztIPPvreTpql9cXD6jCcNbHcSEoKWvrvKeIW2hQikda+XbLOKa2Vm9rGnRAldy7NOw3w/cyHbajLu/vFWXOmzLJb69Hru6zNHiJTDmeHycW6m3eFNmvPhaGGjFL1nD+1DNH/I79KIkw8blP7l6NgNjQvcA9KGJBFMzISbACnEr2JvBLIN/imywjFeIOT+F+qKhTnytw6TJU2z7SLaROt451LoFzdmXdqlqQsr+RRR4ArGJNorZViHT3FvhXuQYgv6InGdUPW/PWt6qJbFqINT6xgnB8Me1WY1Kc8ChFezFpfFA1y/ZtBcDDfMu40uKWl0k2BNSnd1z56LMEOEAzt29OzGYdWHK+cZggRQ+q5SLQJid67g8rLX8UZTSm9SiKdRHRIyQG+3bsa6FAxFwzv99V//2ko6ksaqm35Ra3Ia/aL9UYi83mCUcpYhF/7UFemLm2lHdsah//fKBBvoO7UcFdeINeXNRtcsXducm5+6MbDmfnGVJqJPfXFU0XY209iufUGcWfqBNSnDUVH9ehg==;VaekHDQBw/vILADqMFaKmQ=="
 ---

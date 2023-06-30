@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-01-town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part.md",
+      "title": "Town On Tenterhooks As Hollywood Veers Toward A Second Strike, And AI Is A Big Part",
+      "excerpt": "Writers have been striking Hollywood studios for 60 days, but could be joined by striking actors as soon as tonight. The stoppages could affect consumers within weeks",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649f3fa1edc8959e2ee7868f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/06/30/town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part/amp/",
+      "publishedDateTime": "2023-06-30T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-01-ai-all-in-should-investors-avoid-ai.md",
+      "title": "AI = All In, Should Investors Avoid AI?",
+      "excerpt": "Artificial Intelligence (AI) has existed for some time but we now witness the public discovery of it and already, an investment bubble in AI stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649f2a2994955a8a53f8d8cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/06/30/ai--all-in-should-investors-avoid-ai/amp/",
+      "publishedDateTime": "2023-06-30T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-ai-in-chip-design-where-does-cadence-stand.md",
       "title": "AI in chip design: Where does Cadence stand?",
       "excerpt": "In a preliminary interview with DIGITIMES Asia, the Cadence VP also shares his views on AI deployment in chip design and its implications for the company. According to Moore, Cadence already anticipated the growing role of AI in chip design approximately ten years ago.",
@@ -62,7 +165,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -260,7 +363,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -501,7 +604,7 @@
       "originalUrl": "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1126,109 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-big-tech-corporate-venture-capital-generative-ai-startups.md",
-      "title": "Big Tech corporate venture capital 🤝 generative AI startups",
-      "excerpt": "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-inflection-lands-13b-investment-to-build-more-personal-ai.md",
-      "title": "Inflection lands $1.3B investment to build more ‘personal’ AI",
-      "excerpt": "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
-      "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
-      "publishedDateTime": "2023-06-29T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

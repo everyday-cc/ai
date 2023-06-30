@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
+    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
+    publishedDateTime: 2023-06-30T17:29:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "diOBd5b5Kp0yO7qv0XSPNiEF+wl4Rc/ksI6KTWpbjgL0j3YK8x0VNMjazgqmZ9f8N/qpmtKfNb/zA1MunIZ68O8fS0PThBQDzMdc+ZPK1uEBKoeNjYB/dhZsSaoUTn2iqqA+/ITt/D2zdoRUDmh5yqe1eoKNCXyAltK3vzHaXPkCWRCdw5kCVkB4kHqlY5V1CSxMmikzjmocYStqlcmp6HuVzBMt2eu4mtE0xtJ2A3rNSK1Iv4beIzZW+b/2K6NX7Ziyx/pvQ0tL4h3nPeE/N6BCof8ayQ8ZjXBP2NxjgiRgB42eBJ2qVpru3BrzMVKPiF2qt7i2kT+KoPyzRhi5J3y1F6gZgUVHaR0HtnZdWBMJYmQp9y4YjwVWEHZANm9Addm91cwhvkTp+UTJMZxL8kv0siGEh8afneW/u0zi+s2OuyH2DxVzdbK9XeW4GN1OsuVLCGBJWCSGuNfodvRsCAU3ThTttGCgqO/KX9XJeBpGzdACBo4MBRslyEdHWNDQu3rVhOzRgHXoc6ceQSUVZw==;c5dXA25kBpNaNzFB5+b99A=="
 ---

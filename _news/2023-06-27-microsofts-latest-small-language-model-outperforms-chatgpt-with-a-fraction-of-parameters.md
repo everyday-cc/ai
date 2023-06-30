@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatp
 webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Bing ChatGPT-4 Windows 11 Integration Upgrades Image Recognition Capacities"
-    excerpt: "Microsoft is upgrading its Bing Chat capabilities for Windows 11 users with the upgraded Image Recognition feature. Learn more."
-    publishedDateTime: 2023-06-26T03:42:00Z
-    webUrl: "https://www.techtimes.com/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293032/20230625/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 54
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/430323/microsoft-bing-chatgpt-4-windows-11-integration-upgrades-image-recognition-capacities.jpg"
-        width: 1500
-        height: 1125
-        isCached: true
   - title: "BEST Brings ChatGPT In Qianyi ERP Software For Multi-Language Product Titles For Cross-border Sellers"
     excerpt: "BEST Inc. BEST integrated the natural language processing tool ChatGPT into its Qianyi ERP software. The integration allows cross-border sellers to generate multi-language product titles and descriptions using AI,"
     publishedDateTime: 2023-06-28T11:19:00Z

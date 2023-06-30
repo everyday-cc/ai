@@ -120,6 +120,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Microsoft’s First Generative AI Certificate Is Available for Free"
+    excerpt: "Microsoft is also running a grant competition for ideas on using AI training in community building. Learn more."
+    publishedDateTime: 2023-06-30T21:16:00Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 86
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr063023-featuredimage-microsofts-first-generative-ai-certificate-is-available-for-free.jpeg"
+        width: 1400
+        height: 719
+        isCached: true
   - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
     excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
     publishedDateTime: 2023-06-29T16:19:00Z
@@ -208,6 +222,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Report: 2022 Microsoft Azure Revenue Less Than Estimated, Half That Of AWS"
+    excerpt: "An unredacted Microsoft document reportedly revealed that the vendor’s Azure cloud server business revenue in the 2022 fiscal year generated half the revenue of rival Amazon Web Services – and less than the amount some analyst firms had assumed."
+    publishedDateTime: 2023-06-30T20:53:00Z
+    webUrl: "https://www.crn.com/news/cloud/report-2022-microsoft-azure-revenue-less-than-estimated-half-that-of-aws"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 69
+    images:
+      - url: "https://www.crn.com/resources/0282-184d486123e1-9d351d4cfb4d-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
     excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
     publishedDateTime: 2023-06-30T06:51:00Z
@@ -279,6 +307,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Microsoft knows its out of touch with Gen Z. The software giant plans to lure them with AI, an internal memo shows"
+    excerpt: "Microsoft 365 has fewer Gen Z users than its competitors. This may present a risk to its workplace business, according to newly released documents."
+    publishedDateTime: 2023-06-30T19:51:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-few-gen-z-users-tries-luring-youth-with-ai-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/649f2652aa56b70019ca8d09?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
     excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
     publishedDateTime: 2023-06-26T16:49:00Z
@@ -311,6 +353,15 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 59
+  - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
+    excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
+    publishedDateTime: 2023-06-30T18:50:00Z
+    webUrl: "https://www.cnet.com/tech/microsoft-ai-will-help-you-shop-on-bing-and-edge-with-buying-guides-reviews-price-match/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 55
   - title: "Snowflake and Microsoft expand partnership with AI"
     excerpt: "Snowflake is strengthening its partnership with Microsoft through new product integrations and capabilities. In a press release, Snowflake announces"
     publishedDateTime: 2023-06-27T11:18:00Z
@@ -450,6 +501,15 @@ related:
         width: 4095
         height: 2730
         isCached: true
+  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
+    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
+    publishedDateTime: 2023-06-30T18:07:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/30/9842393.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z

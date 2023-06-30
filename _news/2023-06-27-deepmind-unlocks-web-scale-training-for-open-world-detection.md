@@ -190,6 +190,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "AI watch: UK electoral warning and OpenAI’s move into London"
+    excerpt: "This week in artificial intelligence"
+    publishedDateTime: 2023-06-30T17:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/30/ai-watch-uk-electoral-warning-and-openais-move-into-london?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "VU2XdTA/HZCBR8yedb3SuND4p1rl9h2PH6kXrxBlPwko+3/UXDNgi3HScEll7hb43fjWvHJPBu9uJKZEPDDB8GGx9vpzlURqPnrs+G856+y7U5zZ+1g3SaTZzfBUllrH/kf2BQmuhaYg8D0/vIW+zSwzv2a0LaU7fVWLlAQeox0EjENX4nPJjEjwyw1Z9d1Rmqe0CTJ3k1v6mBG7D71rjuRG6LGONcOALcLqK1rjrsHGzmvukdNMcUgwgf4zYqIMyb1q7BU3/btEyIn78lnwOeU8BQ14GyslGTTiQxBnmjgm60gmdn0vsHhoJahhpfhIeKComk+pKa3xDdPJSgSIIViPVLQ311U+u4tT7s8TBST0MAZ87waaO5q59iWS9xJqSCsExOFWgQWzZIiY9CVPfdmSpnTrOrI8Knn4x9ESGbhXRVmZ0otGUAEqJ0ptEOiksfmf07oi8eyqXa3ODkwtkhFvSMqACY18GBib4VPSat0v6xfGFUQQXT77C4bAHaZpHtpUkTgB+rDxk9eulrt8TA==;kVtXb+QY/PTTfJ5hdPa6/w=="
 ---

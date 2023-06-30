@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-big-tech-corporate-venture-capital-generative-ai-startups.md",
+      "title": "Big Tech corporate venture capital 🤝 generative AI startups",
+      "excerpt": "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-inflection-lands-13b-investment-to-build-more-personal-ai.md",
+      "title": "Inflection lands $1.3B investment to build more ‘personal’ AI",
+      "excerpt": "Inflection AI, an AI startup aiming to build more 'personal' AI assistants, has raised $1.3 billion at a $4 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1448152453.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/",
+      "publishedDateTime": "2023-06-29T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation.md",
       "title": "External AI R&D labs are becoming a competitive advantage for innovation",
       "excerpt": "AI R&D Labs are purpose-built to merge the best of academic research with industry-centered goals in a team with multidisciplinary AI skills.",
@@ -768,7 +871,7 @@
       "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -905,7 +1008,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/28/executives-not-inclined-to-remove-humans-from-ai-decision-making/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1083,102 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai.md",
-      "title": "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI",
-      "excerpt": "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
-      "originalUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg",
-          "width": 340,
-          "height": 238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/",
-      "publishedDateTime": "2023-06-28T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
-      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
-      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "publishedDateTime": "2023-06-28T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Security"
       ]
     }
   ],

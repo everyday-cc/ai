@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/rcna90875"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Bill Gates, Eric Schmidt and Nvidia Pour Cash Into AI Startup"
+    excerpt: "Anthropic AI, a barely two-year-old startup led by a founding researcher of Deepmind, has rounded up every power investor in generative A.I."
+    publishedDateTime: 2023-06-30T18:13:00Z
+    webUrl: "https://observer.com/2023/06/inflection-ai-fundraising-bill-gates-nvidia/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 17
 
 secured: "ZQOGIsMuYrBtXUFLZJP9oKtMH+d+bjgmpE8cFcTG033QTjp+J2AKr6qRl5deOcjVy92Y0QwefIl3o/iUWu6mUf17HbpLuNvaUJFz6YfgLHkS7USfPIdMbTdnzAy3xlXnl8o5ztS4OG6zpDLI/lIkZA1xvoanR2DILsRts/pDgVWqvCs/vukU44D6W3luiAIVMobKjEQJJU9FJWn9k1s4EOeiQ/U+uSHfLwqDl6RcQOdlE4pS7LYbFHqlkGRxN8JvLg4+UAqMgj4q6d9nfFw9RBajJpU/WQWiCvQ8FPl6R/uwUgcWeumwoELFCfwmCsNDP/fgCUX//Ip3gkDCwUsy4Zp0AnJreDtcrhGXJ+JQeHVcqjSmzKWzmCTk85NlXNOvOvEPWvTZFbY73BERX552i2AlV8seuJmfkoHDOUb7mt86n7E93Ya51mFRK5bPyIBACZVevLx/LltE6YEokQeKq052gFtrf6x5tS2Ax8NAQBJy+VNA8nlxLn+P9jXxcy2PhYUiOcQhCvpRR7OM0dcAeg==;iK9ZGxKN8d1DzGBsLVe1Iw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -43,6 +43,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Transformer inspired robot can walk, fly and tumble"
+    excerpt: "Autonomously selecting from eight distinct types of motion, the Multi-Modal Mobility Morphobot (M4) can reportedly roll on four wheels, transform its wheels into rotors and fly, stand on two wheels to peer over large objects, use its wheels like feet to walk, use two rotors to help it roll up steep slopes, tumble and more."
+    publishedDateTime: 2023-06-30T21:12:00Z
+    webUrl: "https://insights.globalspec.com/article/20751/transformer-inspired-robot-can-walk-fly-and-tumble"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 19
 
 secured: "G4Gg91awzeKdhqOc0h3A0ltMBcU2fZZ+nZH/UVQdm6+Fac+FU4FqXw+OGM6FaFkEtIsyxM+iTElJgWLFxZJwTbfqoyi+mDrkL/FoFw6Z8L6uZE23hnySl0c/9Q/5cupxlvhC9k7uVLmlTBgFuippcWYgUoEgLZ9qJJ85GArM3+wFW1zAzS6QUahOtEPqnveGqsfJ1rwMuAEdQWuCZI0VhkpKpFqALrUCiGNhRYw15YJ13u7QEMfWUO6Yw3TD12dzITRDUzzVfsx3EueBXBFIxpGDpZIBPd1kOYgCAMjiBK031Ir7NRDVRX1XfhcELOsZ90hXzTEW7LoQ16rdeVHYVZcXhOSzhqWg4dSFSC4P8yiRvDxsuOFOUh6GrzPz372DlymLe3HdelV46bcRD290iq1j6EhCiUOd5zfg1qPfer5vPRCuNytDxEeTtYBBdQeHpXQiJirmQvgPttpaOCL0mkTIPKVM/NNEXe94ExJjhaweJpiklTcOHWuc7M2EZNRZUEJoElRuLQrGqjp13Z34ZA==;ZN6IXVCNwQqBVpE8Khqf8Q=="
 ---

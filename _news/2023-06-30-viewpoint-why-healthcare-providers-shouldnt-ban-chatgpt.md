@@ -82,20 +82,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
-    excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
-    publishedDateTime: 2023-06-26T03:11:00Z
-    webUrl: "https://knowledge.insead.edu/strategy/chatgpt-and-ai-disruption-consulting-next-line"
+  - title: "ChatGPT has healthcare potential but needs guardrails, surgeon says"
+    excerpt: "Alan Reznik, MD, an orthopedic surgeon at Connecticut Orthopaedics in Hamden, connected with Becker's to discuss how ChatGPT and other artificial intelligence programs will evolve in healthcare. Editor's note: Responses have been lightly edited for clarity and length."
+    publishedDateTime: 2023-06-30T15:51:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic/57251-chatgpt-has-healthcare-potential-but-needs-guardrails-surgeon-says.html"
     type: article
     provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 37
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
-        width: 1250
-        height: 834
-        isCached: true
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 34
   - title: "ChatGPT builds a tomato-harvesting robot"
     excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."
     publishedDateTime: 2023-06-27T09:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-k
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9pbWFnZS0xNTVkYmU4YjM5ZWU3ZWExZDlmMzE5YzM4MmY1ZTNkYw-L19wYWdlcy9oX2M1NTc3ZGEwNWNjOGNkNjJiMmE1MGQ5MjYzODY0Nzhk.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Developing Litigation Issues - The Age of AI"
+    excerpt: "The seventh Webinar in the “Age of AI” series focused on the risk factors at the intersection of litigation and AI. The presenters started with a brief background on AI and the practice of"
+    publishedDateTime: 2023-06-30T20:50:00Z
+    webUrl: "https://www.natlawreview.com/article/developing-litigation-issues-age-ai"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 39
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/banking%20financial%20planning%20accounts%20savings%20stock%20market%20dividents%20interest%20investments_2_0.jpg?itok=wAJLd1CK"
+        width: 500
+        height: 278
         isCached: true
   - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
     excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."

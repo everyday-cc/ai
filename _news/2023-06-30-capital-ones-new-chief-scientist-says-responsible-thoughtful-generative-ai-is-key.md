@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-30T14:41:00Z
 originalUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
 webUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"

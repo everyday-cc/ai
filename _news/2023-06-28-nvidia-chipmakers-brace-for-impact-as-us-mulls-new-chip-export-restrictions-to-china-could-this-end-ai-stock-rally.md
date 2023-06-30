@@ -587,20 +587,15 @@ related:
       name: Executive Gov
       domain: executivegov.com
     quality: 32
-  - title: "China-subsidized GPU firm MetaX founded by former AMD executives to compete with Nvidia"
-    excerpt: "With the latest generative AI boom, GPUs from Nvidia or AMD are the first choice for AI servers and high-performance computing data centers. But in China, even if they can only get a downgraded version of Nvidia H800 or A800 due to US sanctions, Chinese..."
-    publishedDateTime: 2023-06-26T01:27:00Z
-    webUrl: "https://www.digitimes.com/news/a20230621PD211/china-gpu-ic-design-distribution.html"
+  - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
+    excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
+    publishedDateTime: 2023-06-30T17:53:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/30/nvidia-ian-buck-artificial-intelligence.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 31
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230621pd211_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "114ErFK4n4KYTc5IoU94fT5OQXtcY2e1jh+XPzmjb+i6LTZkn1GJoklBVQg0vj3XC0Q6gGME84+qVpx3d69Ok3A3mUgiPgU7LKJ3SQnm/TomOWpAIRnDgle7bM0oQ9+sS8PYVWulI1Q+UvOPJ6iK0xGMjc9Pv4ApJcS/dnycvJW4H8ld5bLHsup1ZbnNxKhhHI2vypSFVTtjHhfuBjjLkuV2IG5gh0wPmap+LDkbHCuMvHwyAfJXM2ZzQa8hsnSTIjF4BbgFZjFLgqtF0Y1vD3s16WkBJqyj8z3f9JT/nAdqneu3l0QIwN0Op0k0PwoLIbnQCRU/L6ON7/URtbNR8H8rdRwGKeUzU2SLrh6cBV0=;S6+qXab7/sOg3ACCe2jSew=="
 ---

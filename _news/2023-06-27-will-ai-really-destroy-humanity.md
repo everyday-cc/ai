@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Can AI really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
+    publishedDateTime: 2023-06-30T21:20:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "oXING4xtTdCJJAnexU1oLmXREYfuH8hV5DwRCNsBW9SgWedg+6y8UqGRfNMfXpBrGONwtmIQwVLlAyGLiJe83NYkDwvh1pv7LI8RceBib3qjRb1+PVI9zJwTv3Fk1mBOfqUmBPJD39js54k8HHSm7Y7NHFP+aNfwrqlCi8Zlj3AnqUyHVbq4Xn3AfkD0t7Kg589O5UgI/DYifsnOjrJYhuDyh/GFzrSTG27Q7HMaYmq+YSZG0qGX0GCpvrwLUnyau3eF7iAihHU4BvhZ6O6FSZMIto2MhEYYaXSk+iK4vfFHDbnqEk8kG6BHXdES0ow+S/KsHJvaFq0Momoq/hhA2H6E890USkOLPj4pZvxTNlTjZgoUvVPk2XdcFPSg5IpggkdXTMJgNVdJ+zfBvHpCpO7G7jy83jlBXEL7ypedNV5/Wy2zblYaNwFjbUSlE0lzxAt6G6miNVi4+Au1tkw5ojwG8Kh1dYX9cmZGaoyIuyjb24JS8Px3jZ/aLOXJzW7v9QWRGfqpfHlVZkiAJAG8Tg==;OTNeyCanhLmSwe2u6vTG/g=="
 ---

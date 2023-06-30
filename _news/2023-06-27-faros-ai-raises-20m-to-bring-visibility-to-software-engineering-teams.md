@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 679
         isCached: true
+  - title: "Healthcare funnels $20B into generative AI"
+    excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
+    publishedDateTime: 2023-06-30T18:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-funnels-20b-into-generative-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "bQscxaAmRqkrsCbEV3vV/jKaV0XMH3w2Vx+Zzql0n05ICQ/clGrBhjfBz3PpMhUYD7Pb7fv1TCff05hLNh6+6lp17Jm80pgMS0ZwqcGRg63Vo2OszLp4m+RFsi1Jl5c7O8/ztItgtM6IW5L7a+zjWzREUlSys6ig5FWQ5vBMXrnIT9T9HfWxnPeumvFweOqcoguhYGPktvmXblkiaoG67k9CxcXSEoack3JH1LaEU8EIsXUCZ4eVWpNjDHokb1yLUyFLinnlT62TTZ1HUtv2xxFbDjXqCLpuuiyQAB4xcrLzA5Gs/ZURm6V6PVegE19aoBtYsrrND9GHeyTDFI6oP3hyFLPtPtiPIjgiWUDaOZA356vY92kwFngMWErIg/XEp+EcLmIYKM7pohPyjmUR2/QqcZSQ1A9QdntzA57iraUvvDYu+ElQ0a6nShWsZjDlXlutIkOUbPKkJXgCcO+66bZkJQXShgGTLYNdpr39SyvR+izI/y4zr2vo4SS0ogLyiuiBWTmm3FwRmqy0qr6HwA==;RntNlm4qQkdObt9vV/Zy8Q=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
-excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors —especially those living alone."
+excerpt: "Artificial intelligence is all the rage, and now it’s helping some Pacific Northwest seniors live in their own homes for longer. Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how AI-driven companion robots could reduce loneliness and social isolation among seniors — especially those living alone."
 publishedDateTime: 2023-06-30T13:00:00Z
-originalUrl: "https://www.klcc.org/human-interest/2023-06-30/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
-webUrl: "https://www.klcc.org/human-interest/2023-06-30/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+originalUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/"
+webUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/"
+ampWebUrl: "https://www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2023/06/30/care-bots-robot-pets-for-seniors-washington-state/?outputType=amp"
 type: article
-quality: 6
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: KLCC
-  domain: klcc.org
+  name: OPB
+  domain: opb.org
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://d3ac64bsgpdzxx.cloudfront.net/08-27-2021/t_4c9bad0c206d4ba48f81b667090d0397_name_Superabundant_Ep__4_Thumbnail_6.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
@@ -29,6 +37,6 @@ related:
       domain: knkx.org
     quality: 6
 
-secured: "80aCSY1LiCPeVNMGoFOJF0xMobmLhCkfClSjhPL3DxaizSRFsTYpTXqj5pTKeRodeZ2v2bWxSeaQ0AKakDf3E/+mQDqafl7KGT5FmyDjYj+Di1VpWKAU15bFkHVfan9ReftKU3wkSY8nayueIM4gj7d50lRO8vVoHla1Vq8SH3iIurW/TBA2slTiSDyA/5LKQoQ07uL5HpKF4AEq4XzGFsce8QSPKPQ9ATyMl/mJ7q3kOLQBPyYqJq4IyImjAqgfjoJLo80DLq6zT8gIuAkBZtwA6+8q6BosMu48li/WgzAZpwgREZCaPgIo+qZamTfYFuygfQZQRRcR7A6/JUpFtS5x8t3XROAzsB1IpSf4VT05nwI7UxgOHezMD/o8bt83wxfkHkWIoJ6J/rcBtHr6aU9UFmFhk2Hz+OgCQE/SE5LqECi2R0alKMaZsW0Rb4hbrjU36LYaR/ghW0S5SUp9PYys8aT0VURWvIQPdUcNkc461Pr0jNvwgtv4J/ISA7ItW1UtrnHOyQ8gNG8971yVbg==;fJ6yz4wuHaf3D8do9W0iOw=="
+secured: "fVw7l0fzf7lu/n3Z9nnw33XkYiJZTCtDcYr4sSHRrPnInpqpPYY4fCfV39WR+y8l9IGBtMQ1ykk1e3vRgroNyvHDfdKqYDvxrIfYVnfuC+uToCRaKZ+BbtSAAvwdzKp88Sc4IoO0+TrfA/6hAV5Ovz55hZfZvvTYfaHNMNfGHtYkGcdFzgVcS9HlpjOGMUIApT8PMF6XShJtai2QiJ1yAdVOVaQIofCcgsfFQ0rS75RCysgDqrPd9RxUvYjDIbKYd+IMbXSEkPGN3Xn5PrffFmEnoe+QR3Qu0EimWhQRavpslZtCF4DfTQyiFh2dj90jr7jaPlRz7XvRJtH9yzVX++deswXHk6mTK7oK5/e1IuU=;Z7twW0oG5gFImm9OeJuwRg=="
 ---
 

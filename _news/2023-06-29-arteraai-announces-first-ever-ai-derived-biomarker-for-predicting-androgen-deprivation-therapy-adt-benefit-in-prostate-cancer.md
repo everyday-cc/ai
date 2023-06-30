@@ -7,7 +7,7 @@ originalUrl: "https://www.kentuckytoday.com/news/business/arteraai-announces-fir
 webUrl: "https://www.kentuckytoday.com/news/business/arteraai-announces-first-ever-ai-derived-biomarker-for-predicting-androgen-deprivation-therapy-adt-benefit-in/article_c08e0cda-6eef-53b4-b28b-cfe718b52857.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
-    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
-    publishedDateTime: 2023-06-27T15:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
+  - title: "Study validates first-ever predictive AI biomarker of androgen deprivation therapy benefit in prostate cancer"
+    excerpt: "Data from a new study published in NEJM Evidence shows promise for personalized use of short term ADT in men with predominantly intermediate-risk prostate cancer. The study involved ArteraAI, a developer of multimodal artificial intelligence-based predictive and prognostic cancer tests,"
+    publishedDateTime: 2023-06-30T21:30:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-validates-first-ever-ai-biomarker-androgen.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-validates-first-ever-ai-biomarker-androgen.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-validates-first-ever-ai-biomarker-androgen.amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/prostate-cancer-2.jpg"
+        width: 740
+        height: 444
+        isCached: true
 
 secured: "lvtdplpkc5KIUwcIsVDjty0hUdAKSnYdpQUaVeNcgCiqGQwp0hPT5GjZ8YyKWXaP8/KtdEXky8EACmGyFFy3IQUWhcMu2GVTsNKve4FccnH8/uOexjH0mKu/TWTbPCGhIKxLVehKeinplI18UFI/BtCN8cQpRme8Os0EAv+IolFvo8gp0mkoU/TKCWnkl9fakysw5fxLqmORj5/A0+ikgc34XXwNJIoZVY9ESW8q/jx2YcrmMJg3Q1yTsUwpqj0PLCQaet/GKgS3NkNCzWC3AUmZEvNpqaCo5oxRqEeT/5YCnuaYDS3yz0L/SWRw1prnZH5Tqfafl8Hh/+2vX+S4R8mONLW3SkkkgM92Jz61hGQ=;DbWaCtwBt6D2PaKRRhHWgg=="
 ---

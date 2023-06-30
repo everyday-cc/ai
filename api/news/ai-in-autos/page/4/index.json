@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-26-from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems.md",
+      "title": "From self-driving cars to military surveillance: quantum computing can help secure the future of AI systems",
+      "excerpt": "Artificial intelligence algorithms are quickly becoming a ... Someone could put a sticker on a stop sign to fool a self-driving car’s AI into identifying it as a speed-limit sign. Or, on the front lines, troops might wear uniforms that can fool AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177",
+      "originalUrl": "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/528182/original/file-20230525-23-bqxfsg.jpeg?ixlib=rb-1.1.0&rect=17%2C1005%2C5973%2C2982&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-uber-announces-deal-with-waymo-on-self-driving-cars.md",
       "title": "Uber announces deal with Waymo on self-driving cars",
       "excerpt": "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the",
@@ -1296,49 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
-      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
-      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
-      "originalUrl": "https://www.stltoday.com/chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/56/45629a65-9fdf-5b61-8df4-4ccc518beddb/6463fc24d6906.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

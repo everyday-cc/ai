@@ -121,6 +121,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Meta Shares How AI Determines What You See on Facebook, Instagram"
+    excerpt: "Find out how social media giants Facebook and Instagram employ AI systems to curate content tailored to individuals' preferences and choices."
+    publishedDateTime: 2023-06-30T18:46:00Z
+    webUrl: "https://www.iphoneincanada.ca/2023/06/30/meta-shares-ai-determines-what-you-see/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 19
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."
     publishedDateTime: 2023-06-29T18:41:00Z

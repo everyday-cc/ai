@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-r
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Will AI be an exceptional industrial revolution?"
-    excerpt: "Jobs that require complex decision-making and reasoning are difficult to replace in the short term. Kai-Fu Lee says that it is difficult to replace columnists for"
-    publishedDateTime: 2023-06-26T01:15:00Z
-    webUrl: "https://www.digitimes.com/news/a20230620PD210/ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230620pd210_files/1_b.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "+N2zGc2LuK8A7aWxOVzI6MhBkoDlG3hj9N0iTkp/9DXpBDv7a3oPZRHHvJvOwi6f1jPkexwwDQY1YJ/KkXQi+yZsY3TDIN/eKqLJzbXYY1mGJdseYP1QjOLUUIafpqhLFRW2YRwqwj22NncqlmbxscX1YtaFByJ5+9hmUYxCAHH6qWKkiuY+LYa08WJ5vELY3D4QlRpWw5QcYdKU724vHrMHH5mHwQzHEyid/a9REeR8cKttsAhVkzJtOsDK85bvFesgJAXywEPMSh60Ypm1zYV2SoG/QJ7xuRMl+xhvHKqgGIOecH+KfOOQLqyM37fNAjqX/7pGEquM+8Wb1aAwncyAHFBVhW8OSJRL/gEBQVY=;QUqnB/JUve1/l2es1ukaPw=="

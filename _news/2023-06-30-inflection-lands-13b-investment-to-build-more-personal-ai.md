@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investmen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
+    excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
+    publishedDateTime: 2023-06-30T17:29:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-06-30/inflection-ai-raises-1-3b-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "880JASAM60PFtSaTAqxqKUV/RnJBuGVU9AmN3w1sV7rYwWvGP6AZI+gjQQnwkGm3ggwR9/XZ/ToPr93RSAo4KQd0D0Eal2yEuatIpBLtdNgFodGe6DrgwZvHjwFqpaoAK2W4PBVqNBVT2tM2R4k3dslgES8G7TTGyEuEbibaxDA/EyMQu4ZVysPkf5SZMnvzmOPN46JF/nAnSLvPxu/o2vGU1Z5wPK2D3MGBYY4JrhozCzdaGgk525Ans99zczEoWOkFjuromm/YFDuaMaTa+/UAdlnrsnRZqZfdOI1r/R5vGGH+n8gjqtUGNJ8T8MhmA7OCGkzBmLA3owG6CzvNbluydaBsIsrJGbF3ctNLrto8sYUsvTp3XiuyfuyANyQlqP6t1c4fUNJNYhwrX8GJEE3cVkahrp8xKXnfZqP889lky54rI0VhuhazQMMtqzB5mTR4Ek79apCmCkGMD7XcqSmOTHhTvnQZkSO6IKAVH4Et78GB7Yzj+9SVC8uAwFcO6+d5rM6NtSCaZ/YpqsKIAw==;MigzPtlowa23crcrCuPPQg=="
 ---

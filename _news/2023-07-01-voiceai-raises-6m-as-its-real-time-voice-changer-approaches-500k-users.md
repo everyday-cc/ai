@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-tim
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/voice-ai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Ne7Df8jQZbc9oZ6sqOesSPSQc+sDGswsU8QqpW9SVV/tUHSUfDmmLnNpsTuRQIpyhCeNM5ZHlBAk40adX0CNDTa/lGnK6kmgx3/qEITlsv8w5AZAHwDGTlKwAZCX1jN1sM2C5UaqYBac4DMsh5YAWp5T6jqH9cvN9FGLtTzOsPppBL/OLoV5caUsvq3ZYmuw3Xna7r9ZY2mn7YMdvmAoGV1Uv5NEBeBCa7YpGF4gxxep2/IItDI7HcPdZQs0vn8EIlc+yfxY4kUZksYL85fgtpjUiUMxn0+EUK1id+2ZjeihCJI2rCv0gl9jLUydHX8yQqJJXu9EABW0Yk+elAdXw50LWRT5LQK4w1fUxHZxeB4=;cFrSJJoC5UfH0DRKA5A2IA=="
+secured: "4hs1Vh0uFl2Zwki/cT8rTyRyqbEf1RjUnnaPBnKczS3rOPS7ax+bqA6T5krlpVDkU4Pfn1Ch7Z3CsZAkUd49S88BStIUjD3h22+jl6ZgHKdsW5xjpGCOZh2ED1cw4OEsn3KAgMTEdH867Dv6wpubh2fP3GEA5qDNkCq1O1KpA1NlUZpsv+7aD5cr57r0PrnnkVPmE/EKKz1xRXU+WpjxOw1jLBI5pIZU8SD7RCvA6pQ1nFtoBUcXCNdO6S0NfDNGQeXP9M8H9qEA4cq1U921ngbItmDcnjvpOdlbWUX4T1f7J5wItScmwibaY8V9GeeDP8smS3XtvyN0N7X90HxpzcSBuo8u/LefiIjqAkVWgb0xlyl/D+sFYGGMs7XpFTHeJqp2+lKEynBDmK8Wvecq3s73x7Zw6xqyTp5usCWxK6EIh0erwCyTUxY9PGit+82I6Re99NqjJLGgsP4v/Z9AxRVgNAQlDRXe4dfY1AXYQHDNHjB0sG7rurIaudaE3pxnhLx/on41FCc1GiOp+ykqyA==;ToYJnAcmBrjuejocctgcVg=="
 ---
 

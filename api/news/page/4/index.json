@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-28-how-to-prepare-for-the-financial-and-environmental-costs-of-ai.md",
+      "title": "How To Prepare For The Financial And Environmental Costs Of AI",
+      "excerpt": "Companies and financial institutions should be thinking about how to build a technology infrastructure capable of supporting increasingly powerful AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649adede9c80aa9106126502/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/",
+      "publishedDateTime": "2023-06-28T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ai-makers-must-create-new-laws-of-robotics-california-focus.md",
+      "title": "A.I. makers must create new laws of robotics | California Focus",
+      "excerpt": "Not long ago, the artificial intelligence (A.I.) bot ChatGPT as a “courtesy ... set of major laws governing intelligent robots. In his 1942 short story “Runaround,” Asimov first put forward these three laws, which would become staples in his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "originalUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png",
+          "width": 450,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "cdnAmpWebUrl": "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2023/06/28/a-i-makers-must-create-new-laws-of-robotics-california-focus/amp/",
+      "publishedDateTime": "2023-06-28T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chico Enterprise-Record",
+        "domain": "chicoer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-barred-from-grocery-stores-by-facial-recognition.md",
       "title": "Barred From Grocery Stores by Facial Recognition",
       "excerpt": "A facial recognition system alerts Simon Mackenzie, a QD Stores security guard near London, when someone on a shoplifting watchlist has entered.Credit...Suzie Howell for The New York Times Supported by By Adam Satariano and Kashmir Hill Adam Satariano ...",
@@ -62,7 +156,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -646,7 +740,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -923,6 +1017,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
+      "title": "New bioinspired robot flies, rolls, walks, and more",
+      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
+          "width": 1600,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "publishedDateTime": "2023-06-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
       "title": "AI ethics toolkit updated to include more assessment components",
       "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
@@ -1077,161 +1214,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-qualcomm-is-right-about-ai-it-requires-strong-edge-computing.md",
-      "title": "Qualcomm Is Right About AI: It Requires Strong Edge Computing",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he wants to unpack the need for strong on-device AI processing and the leadership role Qualcomm is taking on that front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0a613c6a3dfabf6aa415/0x0.png?format=png&height=900&width=1600&fit=bounds",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/qualcomm-is-right-about-ai-it-requires-strong-edge-computing/amp/",
-      "publishedDateTime": "2023-06-27T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens.md",
-      "title": "Brilliant Labs puts AI in front of your eye with its tiny open source AR lens",
-      "excerpt": "To integrate its AR device into people's daily life, Singapore-based Brilliant Labs aims to embed generative AI into its compact wearable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Brilliant-Labs-Monocle-looking-down.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
-      "publishedDateTime": "2023-06-27T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-mlperf-30-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance.md",
-      "title": "MLPerf 3.0 benchmark adds LLMs and shows dramatic rise in AI training performance",
-      "excerpt": "MLCommons announces the latest results for MLPerf training 3.0, which aims to provide a standard for AI and ML model training performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mlperf-3-0-benchmark-adds-llms-and-shows-dramatic-rise-in-ai-training-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

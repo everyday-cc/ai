@@ -198,6 +198,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
+    excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
+    publishedDateTime: 2023-06-30T21:02:00Z
+    webUrl: "https://bgr.com/tech/heres-why-google-thinks-its-gemini-ai-will-surpass-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/06/Google-Gemini.jpg?quality=82&strip=all"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI Powerhouses Clash: DeepMind Unleashes Gemini, a Chatbot to Rival ChatGPT, as Industry Gold Rush Heats Up"
     excerpt: "By applying reinforcement learning and drawing on their expertise in building complex systems like AlphaGo, the DeepMind team aims to develop a chatbot capable of not only understanding and generating human-like text but also planning and solving problems effectively."
     publishedDateTime: 2023-06-28T17:32:00Z

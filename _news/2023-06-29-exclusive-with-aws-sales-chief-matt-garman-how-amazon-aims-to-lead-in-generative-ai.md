@@ -233,48 +233,6 @@ related:
         width: 599
         height: 338
         isCached: true
-  - title: "3 Questions for Coursera About Generative AI in Education"
-    excerpt: "But ChatGPT, a form of generative AI, seemingly came out of nowhere a few months ago. We’re already seeing how students are using it and how faculty are using it for research. Now, let’s dive deeper into how it will impact online learning and get advice on leveraging it."
-    publishedDateTime: 2023-06-26T04:46:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/06/26/three-questions-coursera-about-generative-ai-education"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 56
-    images:
-      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AWS Invests US$100 Million for Generative AI Innovation Center"
-    excerpt: "Amazon Web Services (AWS) announced that it will invest US$$100 million in its AWS Generative AI Innovation Center."
-    publishedDateTime: 2023-06-26T02:39:00Z
-    webUrl: "https://fintechnews.sg/75493/ai/aws-invests-us100-million-for-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 54
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/AWS-Invests-US100-Million-for-Generative-AI-Innovation-Center.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Aws Launches $100 Million Generative Ai Innovation Center"
-    excerpt: "(MENAFN- coinxposure) aws is developing a $100 million solution to compete with microsoft and google in the market for generative artificial intelligence (ai). according to bloomberg, the impending aws generative ai innovation center will connect amazon's ai and machine learning experts with clients seeking to develop applications based on the most recent technologies."
-    publishedDateTime: 2023-06-26T03:58:00Z
-    webUrl: "https://menafn.com/1106500435/Aws-Launches-100-Million-Generative-Ai-Innovation-Center"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-06/25/C_4a95bimage_story.jpeg"
-        width: 679
-        height: 452
-        isCached: true
   - title: "AWS announces generative AI innovation center"
     excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
     publishedDateTime: 2023-06-27T06:16:00Z

@@ -578,20 +578,15 @@ related:
       name: Leadership
       domain: industryleadersmagazine.com
     quality: 34
-  - title: "China-subsidized GPU firm MetaX founded by former AMD executives to compete with Nvidia"
-    excerpt: "With the latest generative AI boom, GPUs from Nvidia or AMD are the first choice for AI servers and high-performance computing data centers. But in China, even if they can only get a downgraded version of Nvidia H800 or A800 due to US sanctions, Chinese..."
-    publishedDateTime: 2023-06-26T01:27:00Z
-    webUrl: "https://www.digitimes.com/news/a20230621PD211/china-gpu-ic-design-distribution.html"
+  - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
+    excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
+    publishedDateTime: 2023-06-30T17:53:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/06/30/nvidia-ian-buck-artificial-intelligence.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 31
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230621pd211_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "NVIDIA, Chipmakers Brace For Impact As US Mulls New Chip Export Restrictions To China: Could This End AI Stock Rally?"
     excerpt: "The U.S. may restrict AI chip exports to China to limit Beijing's technology advances and influence. Given its strong revenue exposure to China, Nvidia may be one of the chipmakers hardest hurt by the limit."
     publishedDateTime: 2023-06-28T12:55:00Z
