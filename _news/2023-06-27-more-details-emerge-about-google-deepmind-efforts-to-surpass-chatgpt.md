@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmi
 webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
 type: article
 quality: 84
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://technology.inquirer.net/files/2023/06/google-ai-projects-620x382.png"
         width: 620
         height: 382
-        isCached: true
-  - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
-    excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
-    publishedDateTime: 2023-06-25T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/"
-    ampWebUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 73
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
     excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"

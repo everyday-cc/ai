@@ -89,22 +89,6 @@ related:
         width: 620
         height: 382
         isCached: true
-  - title: "DeepMind’s New Self-Improving Robot Is Quick to Adapt and Learn Fresh Skills"
-    excerpt: "RoboCat can not only learn a wide range of skills, it can accelerate its learning by generating its own training data."
-    publishedDateTime: 2023-06-25T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/"
-    ampWebUrl: "https://singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/25/deepminds-new-robot-uses-ai-to-learn-without-supervision/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 73
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/06/DeepMind-robocat-robot.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "After Bard, Google’s DeepMind hopes Gemini will truly surpass ChatGPT"
     excerpt: "Google already has a ChatGPT-like AI chatbot called Bard, but users have said that it is not as impressive as OpenAI’s chatbot. Gemini could change that – and Google has high hopes for its development. In April, the company merged DeepMind with Google’s main AI lab, Brain, to form Google DeepMind."
     publishedDateTime: 2023-06-27T11:55:00Z

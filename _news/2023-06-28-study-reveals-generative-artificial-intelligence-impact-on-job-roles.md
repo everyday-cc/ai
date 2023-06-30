@@ -225,17 +225,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "How to use AI to edit and generate stunning photos"
-    excerpt: "An AI-powered version of Photoshop and the image generator Midjourney live up to the hype for tech writer Brian X. Chen. He offers a few tips for getting started."
-    publishedDateTime: 2023-06-25T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-to-use-ai-to-edit-and-generate-stunning-photos/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "The Race to Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
     publishedDateTime: 2023-06-27T04:49:00Z

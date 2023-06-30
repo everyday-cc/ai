@@ -2,6 +2,205 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2023-03-28-can-large-language-models-enhance-efficiency-in-industrial-robotics.md",
+      "title": "Can Large Language Models Enhance Efficiency In Industrial Robotics?",
+      "excerpt": "Industrial robotics have revolutionized modern manufacturing processes ... Large language models are a cutting-edge artificial intelligence technology that can understand and respond to human language at times almost indistinguishable from human conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/28/can-large-language-models-enhance-efficiency-in-industrial-robotics/amp/",
+      "publishedDateTime": "2023-03-28T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-generative-ai-set-to-affect-300-million-jobs-across-major-economies.md",
+      "title": "Generative AI set to affect 300 million jobs across major economies",
+      "excerpt": "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 percent over a 10-year period.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/empty-office-800x563.jpg",
+          "width": 800,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "publishedDateTime": "2023-03-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data.md",
+      "title": "Machine Learning Operations (MLOps) Market Outlook and Forecast to 2030 with Top Countries Data",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major and emerging players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-28-the-3-most-promising-robotics-stocks-to-watch-in-2023.md",
+      "title": "The 3 Most Promising Robotics Stocks to Watch in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With interest in generative artificial intelligence at a fever pitch this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-most-promising-robotics-stocks-to-watch-in-2023-nvda-path-ter-1032196833",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-neubility-plans-to-roll-out-400-lidar-free-delivery-and-security-robots-by-year-end.md",
       "title": "Neubility plans to roll out 400 lidar-free delivery and security robots by year-end",
       "excerpt": "Last-mile robotics startup Neubility — which makes autonomous delivery robots ... Earlier this month, Neubility said it would co-develop AI-powered “cop robots” with Korean telco SK Telecom and SK Shieldus, a platform that offers central monitoring ...",
@@ -1033,188 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-artificial-intelligence-glossary-neural-networks-and-other-terms-explained.md",
-      "title": "Artificial Intelligence Glossary: Neural Networks and Other Terms Explained",
-      "excerpt": "Neural network: A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "originalUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/27/pageoneplus/27OnTechAI-Part1-STILL/27OnTechAI-Part1-STILL-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/ai-artificial-intelligence-glossary.amp.html",
-      "publishedDateTime": "2023-03-27T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
-      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
-      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-buy-nowpay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis.md",
-      "title": "Buy now/pay later fintechs lean on AI to survive the banking crisis",
-      "excerpt": "The recent banking crisis adds even more pressure on buy now/pay later lenders, which are taking steps to better manage underwriting and credit decisions in the months ahead. Many lenders want to limit damage by using machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "originalUrl": "https://www.americanbanker.com/payments/news/buy-now-pay-later-fintechs-lean-on-ai-to-survive-the-banking-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/76e0027/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fee%2Fc1%2Fe042d3314172878007bc70e76645%2F366620409.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-ai-taking-flight-in-the-us-air-force.md",
-      "title": "AI Taking Flight in the U.S. Air Force",
-      "excerpt": "Tesla is already moving to a full self-driving mode, and Waymo is preparing for new driverless prototypes ... became the first military aircraft to fly with artificial intelligence as its copilot. The copilot is named ARTUµ, the algorithm behind the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-taking-flight-in-the-u.s.-air-force?amp",
-      "publishedDateTime": "2023-03-27T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -40,6 +40,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "As the generative AI craze rages on, Ramp acquires customer support startup Cohere.io"
+    excerpt: "Want more fintech news in your inbox? Sign up here. Finance automation company Ramp has acquired Cohere.io, a startup that built an AI-powered customer support tool, the companies told TechCrunch ..."
+    publishedDateTime: 2023-06-26T16:07:00Z
+    webUrl: "https://techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-startup-cohere-io/"
+    ampWebUrl: "https://techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-startup-cohere-io/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/as-the-generative-ai-craze-rages-on-fintech-ramp-acquires-ai-powered-customer-support-startup-cohere-io/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1451031353.jpg?resize=1200,797"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
     excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
     publishedDateTime: 2023-06-28T21:53:00Z

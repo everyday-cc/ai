@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 586
+heat: 596
 published: true
 
 provider:
@@ -179,6 +179,22 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Microsoft announces new initiative to close skills gap, upskill workforce for AI jobs"
+    excerpt: "Microsoft announced on Friday a groundbreaking new initiative as part of its Skills for Jobs program. The \"AI Skills Initiative\" aims to empower individuals and communities worldwide by helping them harness the power of artificial intelligence and bridge the talent gap in the rapidly evolving field."
+    publishedDateTime: 2023-06-30T06:51:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2506247-microsoft-announces-new-initiative-to-close-skills-gap-upskill-workforce-for-ai-jobs?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 67
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_05_2023_12_05_15_7069718.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft weaves generative AI fabric for Moody’s"
     excerpt: "Financial risk assessment powerhouse Moody's is partnering with Microsoft to bring the power of generative AI to its enterprise."

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-09-chinese-firms-to-seek-ai-chips-alternatives.md",
+      "title": "Chinese firms to seek AI chips alternatives",
+      "excerpt": "THE US government's intensifying chip sanctions against China have forced Chinese firms to search for alternatives to advanced chips used in cutting-edge artificial intelligence (AI) and could even offer a new opportunity for Chinese firms to take the lead in the emerging technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644",
+      "originalUrl": "https://www.manilatimes.net/2023/05/10/business/foreign-business/chinese-firms-to-seek-ai-chips-alternatives/1890644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/uploads/authors/468_1656384454.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
       "title": "AI Wrote 95 Percent of This Murder Mystery",
       "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
@@ -1394,49 +1437,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai.md",
-      "title": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI",
-      "excerpt": "Top Taiwan Chip Designer MediaTek 'Rapidly' Shifts Focus to Autos, AI By Sarah Wu TAIPEI (Reuters) - Taiwan's top chip design company MediaTek is focusing more resources on chips for cars and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-04-28/top-taiwan-chip-designer-mediatek-rapidly-shifts-focus-to-autos-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-28T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

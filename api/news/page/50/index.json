@@ -2,6 +2,161 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-05-26-news-tagged-ai-chips.md",
+      "title": "NEWS TAGGED AI CHIPS",
+      "excerpt": "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers. Almost all of TSMC's top-10 customers have readied plans to adopt the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
+      "originalUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-researcher-combines-ai-and-microelectronics-to-create-neural-implants-that-fight-brain-disorders.md",
+      "title": "Researcher combines AI and microelectronics to create neural implants that fight brain disorders",
+      "excerpt": "Neural implants can help treat brain disorders such as Parkinson’s disease and epilepsy by directly modulating abnormal activities – and the University of Toronto’s Xilin Liu is working with microelectronics and artificial intelligence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
+      "originalUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Toronto",
+        "domain": "utoronto.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
+      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
+      "publishedDateTime": "2023-05-25T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
+      "title": "Microsoft rains more machine learning on Azure cloud",
+      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-deep-fake-video-of-biden-in-drag-promoting-bud-light-goes-viral-as-experts-warn-of-techs-risks.md",
       "title": "Deep Fake video of Biden in drag promoting Bud Light goes viral, as experts warn of tech's risks",
       "excerpt": "The word stems from the collaboration of the terms 'deep learning' and 'fake,' and is a form of artificial intelligence. The system studies a target person in pictures and videos, allowing it to ...",
@@ -1035,214 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
-      "title": "3 new ways generative AI can help you search",
-      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
-      "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
-      "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
-      "publishedDateTime": "2023-05-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
-      "title": "Disrupting The Disruptive Disrupters—With AI",
-      "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646f719aafd87168d103a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "publishedDateTime": "2023-05-25T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-replica-unveils-ai-powered-smart-npcs-for-unreal-engine.md",
-      "title": "Replica unveils AI-powered smart NPCs for Unreal Engine",
-      "excerpt": "Replica Studios is unveiling AI-powered smart NPCs for the Unreal Engine platform. Those NPCs can chat with players using OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "originalUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/replica-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "publishedDateTime": "2023-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

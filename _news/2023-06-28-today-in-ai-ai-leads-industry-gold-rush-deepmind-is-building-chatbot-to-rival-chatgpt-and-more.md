@@ -35,6 +35,22 @@ related:
         width: 728
         height: 443
         isCached: true
+  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
+    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
+    publishedDateTime: 2023-06-29T16:27:00Z
+    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "kkh6Fh/Kc2oZrc2oU+fYtwWi3Jz8fyTx4dmFwoSl/dfBzlBzlWUXbf7nWbCbv/fm+Mo/B6AlrrPsbj1eg7RLMv6bWXuptp9gyPv/CU44ZvpqSULWmgyFRWVwQXAPBrSjiVhmeW6FT0JU06GERRlcA5XMGA5uKU8IdDF4xDBLsGVQUJc2RElanbAjDHfnivCqV9p52y4bGMKtc/eJqK/2BP202xlAIE7zyQSRs19t9/gaDKL0HR12a/xc66eMgXMOVELCCPsSD0tL8ePKZTpfzdnYyFbCLMsklrxsWDp027a9Wes1rtHUUHM6edSkfkO0PW0/pPvBh6VXqCvtH1b8Pvo7HDDwTnKPaWZ0smtWLbo=;Rpwih/fqKEQOWwgihfCw8w=="
 ---

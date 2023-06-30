@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-
 webUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-generative-ai-unicorn/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inflection AI collects about $1.3 billion during a fundraising round"
+    excerpt: "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,"
+    publishedDateTime: 2023-06-30T07:26:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
     excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
     publishedDateTime: 2023-06-29T19:27:00Z

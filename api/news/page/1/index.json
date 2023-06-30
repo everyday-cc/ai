@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-inflection-ai-collects-about-13-billion-during-a-fundraising-round.md",
+      "title": "Inflection AI collects about $1.3 billion during a fundraising round",
+      "excerpt": "Inflection AI, a Palo Alto-based artificial intelligence platform, announced that it has completed its fundraising and it amounts to about $1.3 billion. Supposedly this was led by Microsoft, Reid Hoffman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/06/Image-Credit-Freepik223.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-inflection-ai-collects-about-1-3-billion-during-a-fundraising-round-3149497/lite/",
+      "publishedDateTime": "2023-06-30T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
+      "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
+      "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e7325a69e4ef2a20b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "publishedDateTime": "2023-06-29T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-contoro-robotics-brings-in-47m.md",
       "title": "Contoro Robotics brings in $4.7M",
       "excerpt": "This round follows a round from 2022 that totaled $1.3 million, and brings the Contoro Robotics' total funding to date to $6 million.",
@@ -1085,100 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
-      "title": "How AI Influences What You See on Facebook and Instagram",
-      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "publishedDateTime": "2023-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "about.fb",
-        "domain": "fb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-startup-typeface-valued-at-1-bln-after-salesforce-led-fundraise.md",
-      "title": "AI startup Typeface valued at $1 bln after Salesforce-led fundraise",
-      "excerpt": "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

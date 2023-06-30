@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta explains how its AI algorithms work on Instagram and Facebook"
+    excerpt: "The social media giant has put out a post explaining how its AI Algorithms decide on the content you see on your feed."
+    publishedDateTime: 2023-06-30T07:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-explains-how-its-ai-algorithms-work-on-instagram-and-facebook-10882141.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/353634079_292975916467647_5811223305601545193_n.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Meta Addresses AI Transparency Concerns on Facebook, Instagram with New Tools, Disclosures"
     excerpt: "The Mark Zuckerberg-owned company also targets releasing its Content Library and API, a collection of research tools, soon."
     publishedDateTime: 2023-06-29T17:03:00Z

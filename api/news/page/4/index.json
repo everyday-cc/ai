@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
+      "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
+      "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "originalUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "publishedDateTime": "2023-06-27T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
+      "title": "Spectrum Scale on IBM Cloud performance",
+      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:20:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
       "title": "AI ethics toolkit updated to include more assessment components",
       "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
@@ -114,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -578,7 +672,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1160,103 +1254,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-mizuho-rolls-out-generative-ai-to-all-45000-bank-staff-in-japan.md",
-      "title": "Mizuho Rolls Out Generative AI to All 45,000 Bank Staff in Japan",
-      "excerpt": "Mizuho Financial Group Inc. is giving all its Japan bank employees access to Microsoft Corp.’s Azure OpenAI service this week, making it one of the country’s first financial firms to adopt the potentially transformative generative artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0xv1fS6PkA/v0/1200x793.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
-      "title": "Here’s how robotics in healthcare settings could reduce wait times",
-      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
-      "sourceUrl": null,
-      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
-          "width": 695,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

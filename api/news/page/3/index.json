@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
+      "title": "Wisconsin healthcare system using artificial intelligence",
+      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
+      "publishedDateTime": "2023-06-28T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WISN 12 NEWS",
+        "domain": "wisn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-tutorial-trusted-profiles-for-secure-cloud-environments.md",
+      "title": "New tutorial: Trusted profiles for secure cloud environments",
+      "excerpt": "In our new IBM Cloud solution tutorial, you are going to learn about trusted profiles, their use cases and how to utilize them for enhanced security.\nThe post New tutorial: Trusted profiles for secure cloud environments appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/new-tutorial-trusted-profiles-for-secure-cloud-environments/",
+      "originalUrl": "https://www.ibm.com/blog/new-tutorial-trusted-profiles-for-secure-cloud-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T06:04:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-five-microsoft-ai-advances-that-business-leaders-should-know-about.md",
       "title": "Five Microsoft AI Advances That Business Leaders Should Know About",
       "excerpt": "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications.",
@@ -10,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 586,
+      "heat": 596,
       "tags": null,
       "images": [
         {
@@ -1102,100 +1188,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
-      "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
-      "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "originalUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "publishedDateTime": "2023-06-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
-      "title": "Spectrum Scale on IBM Cloud performance",
-      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:20:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

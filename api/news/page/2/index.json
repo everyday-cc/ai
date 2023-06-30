@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
+      "title": "How AI Influences What You See on Facebook and Instagram",
+      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "publishedDateTime": "2023-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "about.fb",
+        "domain": "fb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-startup-typeface-valued-at-1-bln-after-salesforce-led-fundraise.md",
+      "title": "AI startup Typeface valued at $1 bln after Salesforce-led fundraise",
+      "excerpt": "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-ai-now-being-used-to-generate-child-pornography-blackmail-teenagers-digital-safety-expert.md",
       "title": "AI now being used to generate child pornography, blackmail teenagers: Digital safety expert",
       "excerpt": "Digital safety expert and Canopy CMO Yaron Litwin warned that pedophiles are generating deepfakes of kids to distribute and use as blackmail against them.",
@@ -1140,92 +1234,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
-      "title": "Wisconsin healthcare system using artificial intelligence",
-      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "publishedDateTime": "2023-06-28T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WISN 12 NEWS",
-        "domain": "wisn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-tutorial-trusted-profiles-for-secure-cloud-environments.md",
-      "title": "New tutorial: Trusted profiles for secure cloud environments",
-      "excerpt": "In our new IBM Cloud solution tutorial, you are going to learn about trusted profiles, their use cases and how to utilize them for enhanced security.\nThe post New tutorial: Trusted profiles for secure cloud environments appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/new-tutorial-trusted-profiles-for-secure-cloud-environments/",
-      "originalUrl": "https://www.ibm.com/blog/new-tutorial-trusted-profiles-for-secure-cloud-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T06:04:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

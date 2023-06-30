@@ -68,15 +68,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
-    excerpt: "Forget about the canary in the coal mine -- experts say the day is coming when there won't even be a need for a human. Mining companies are already employing everything from driverless haul trucks to remote-controlled and robotic drilling machines to remove human labour from some of their most hazardous operations."
-    publishedDateTime: 2023-06-25T14:56:00Z
-    webUrl: "https://www.ctvnews.ca/business/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-1.6455037"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 0
 
 secured: "h0ZB/p5xDy0BkUmq845t6Bh9QNIOaJgGb0zCMldIxwHwxiTTfOY2EDYyWsu8Y6hIa899i8cuitPJuEdf4fm7+mtMPB20qYSGdPnpHf4nlE5yY6a/sK9Uc8MaeuvbeOq8On2u1+JImx0YlvpATdziNUEXODzLlJ+mIwftWCjZ5o0m1G4/7PzaKqQuVS9toXzw1IDlUQHjGRCuAqJWa8eRqgxAUaRAauD9HltxI7g2USpPrl4JiO/QNtmXCQdXJsVIcE6OVrrCGLrR7TMPLoJ3W5ycxvOSCmV0lHMo8ko0iGAzhcePzA42+sAtSmo+AJxLvPAZ5vKTQZe16sVrvbEPDJd6iVp5I5LqKYUl3raFVktG0t71MePywLKer+9pPbRUtW0wCjtXQX5gzoevORybyaO64KjbDJriTvNskra+FIGrbb44svng1niJ0ZBbykRNgOw8KMQfCVn75YYL44LXDLF6jcJ1GnKUwUISjRBQFHu1GhoMEhlptEanHCWmDQtGBouurTtv/KXYjlt6/ZK/+g==;vtJys4VL7lyHmuXkDZ2+fA=="
 ---
