@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

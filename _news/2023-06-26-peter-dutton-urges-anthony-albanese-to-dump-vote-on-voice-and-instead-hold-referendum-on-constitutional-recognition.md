@@ -68,15 +68,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 15
-  - title: "Anthony Albanese rejects Peter Dutton’s call to put Voice referendum on ice"
-    excerpt: "Anthony Albanese has rejected calls from Peter Dutton to put the Indigenous Voice referendum on ice as some opinion polling shows support for the proposal is lagging."
-    publishedDateTime: 2023-06-25T05:40:00Z
-    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-rejects-peter-duttons-call-to-put-voice-referendum-on-ice/news-story/0483ce2e8926fb2eacd55120afb23bff"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 2
 
 secured: "4iQ0vQLq12snfhYWFE5KCd1MR32jD2zuMpZq9BDRd5/FOlVLgAdc/0kkv6ZNKrwsLkO+tFoCoDGqBKdJCMD9kHscExfnQstq3Qm+NZAIllz/wJ5+8J9z+SUpp6+TcyYGzRcZg+bSxj3yNW1XhV3tT+3aHR2Qqr5+4DzlpFzT2d6o9jP/3a4vBhuo/39ipX7OJScidZJQA7V8ZO2jZAoaFTs6EmDlkLXcfE1mzVk3HnTAYXiwFdhGiPdorB++NHQulkHI3RyEJgK5Z0JLsi1QzJeilzSJ/eUfBvGBbu/yCUBLsM9iQ68OAndTwYgk1evSsunWp1hdQvPof7tM/uPpgo5k6ngId/Lub9r2Gibh8xOBUxYWj/0aEo5tgXAHlMTpeRifLvkiO8NN8Pocap5h5g5/E3RpHtPOc3jzl3KO+twKiWd48R6Yw7iLSw0KvI8YL4A/sbNDEFmNSLb597Vkyt5p9quaGKTO7XUBI6F0hFWBQ8YA8JXH7tW7x+8/QmoV9H5N8htg6UKcm/05VasmQQ==;Of4kYvlRAVRI4PlyuLLxuQ=="
 ---

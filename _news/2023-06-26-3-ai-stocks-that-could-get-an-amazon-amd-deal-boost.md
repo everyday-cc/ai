@@ -525,6 +525,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
+    excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://www.industryleadersmagazine.com/u-s-officials-assesses-new-ai-chip-export-restrictions-on-china/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 34
   - title: "Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals"
     excerpt: "Looking for the latest Government Contracting News? Read about Report: US Eyes New Restrictions on AI Chip Exports to Geopolitical Rivals."
     publishedDateTime: 2023-06-28T21:17:00Z

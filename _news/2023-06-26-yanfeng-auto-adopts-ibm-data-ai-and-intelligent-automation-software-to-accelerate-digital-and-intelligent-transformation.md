@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intel
 webUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Qatar’s advancements in AI, digital transformation ‘inspiring’"
-    excerpt: "In a recent event focused on the transformative power of artificial intelligence (AI) and digitalisation, industry leaders highlighted"
-    publishedDateTime: 2023-06-25T05:22:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/25/06/2023/qatars-advancements-in-ai-digital-transformation-inspiring"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "Artificial Intelligence can Support Automation and Independent Learning"
     excerpt: "Even though it has two sides, it is believed that artificial intelligence still needs to be optimized in the world of education. For this reason, it must be ensured that its development and utilization are ethical so that it is not misused."
     publishedDateTime: 2023-06-27T12:30:00Z

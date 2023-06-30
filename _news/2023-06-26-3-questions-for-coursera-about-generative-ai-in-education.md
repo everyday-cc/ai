@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
+    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809809/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
     excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
     publishedDateTime: 2023-06-28T22:04:00Z

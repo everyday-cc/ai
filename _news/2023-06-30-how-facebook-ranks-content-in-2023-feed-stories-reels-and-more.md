@@ -77,7 +77,7 @@ related:
     provider:
       name: techtimes
       domain: techtimes.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
         width: 1024

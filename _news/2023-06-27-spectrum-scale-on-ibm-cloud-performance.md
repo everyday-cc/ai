@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/"
 webUrl: "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/"
 type: article
 quality: 102
-heat: 104
+heat: 102
 published: true
 
 provider:

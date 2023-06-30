@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/1108209/artificial-intelligence-risks-ethi
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1108209/artificial-intelligence-risks-ethics-and-future/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

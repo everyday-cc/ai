@@ -33,7 +33,7 @@ related:
     provider:
       name: UCR Today
       domain: ucr.edu
-    quality: 39
+    quality: 41
     images:
       - url: "https://news.ucr.edu/sites/default/files/2023-06/GettyImages-1466924677.jpg"
         width: 6720

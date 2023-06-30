@@ -8,7 +8,7 @@ webUrl: "https://www.techtimes.com/articles/293201/20230629/meta-addresses-ai-tr
 ampWebUrl: "https://www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293201/20230629/meta-addresses-ai-transparency-concerns-facebook-instagram-new-tools-disclosures.htm"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://1734811051.rsc.cdn77.org/data/images/full/430631/meta-addresses-ai-transparency-concerns-on-facebook-instagram-with-new-tools-disclosures.jpg"
@@ -85,6 +86,6 @@ related:
       domain: searchengineland.com
     quality: 4
 
-secured: "3Z15144Z8YhmS+0vYriR1FvPzqkOEHeibWZj6twDwk9LHiAobmoa1j3h/ATU4u9xVA9l0zg3dGFxWIJahkuV2CvsMKSx7qCKmAQxF9/MemxeVZSd3hhw3K3wngQPQrkKVjuzXRWrXK4Cil06YzCKDN25rHfFAuONC+66p5WkRzrNjYxw6wBMs7CUrcIXmRuMOG7feDfB8qHfi6JoNo6/4+NezF/hbrjrHhEPst7R2qI0OnmmLf+0ebJri63VVQX7FLISzfB7kEGFLxW8Hbs+bQvW0DsdvzwGq1Qoi2IXQoaIwsJ6XGVNOVh83Wf9X4EhVj3VF3r3Vmb6T3O7F7Hc8jVOYSWXM0hqe9kiiYPK3C0=;dtKiY1vrBU2qMu9ADFjE9w=="
+secured: "MR62I8XMIdI9DJV9/E2C7Ga6gpoD/Coc3Uwp9hVaSSuA8QLAqYymlktCZVfdmsilBEUN/B9txvJknhhiH09UKNA9sqrP+zhwbUiaWKw6zXzg7w1DweByP4MNoU/CXtjwhdrndWQUM63yYfuVoArKdW91jctApXzKrbdPutNW4DZkgMZFpJ6ajJBjAIfGpXdnDi9yrv3E0RroC4D2bKXx63O+bA6ARBOIrgld2bHyQJqUoWsUNfQ8eLV6cBUNGGcLg9JDiDTM1DMc5RchFQDbmj/xV8heW86xKk1w54lmSQDn5TgOhRLs1v94jfesoxE7FkopOD/O5+STJMQzqTQkVfmh3g16y6+cit3sr6FYG1hfN574ZIeLmYVlbgj8Gq5jbjPyp0Z2OwL/UfQNwvqg2j0gbA8h4aGchfnapuGRqmBksfbr1v9t39W1X1pWFSQoJoSyRQYcnFGvk8nKSJRiiI50aBpNhABQGZEpUExmryl84ND2lYkYMAXhTjwrNojiujclMvnJMg7VtaI2GkMq2g==;hC6uAVIwtiAzGM/r+j6HBA=="
 ---
 

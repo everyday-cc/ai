@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intel
 webUrl: "https://www.wired.com/story/blindness-eye-disease-artificial-intelligence-scans/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wired
@@ -26,19 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Fear not AI, fear certain people"
-    excerpt: "It's 2036, tens of thousands of artificially intelligent machines around the world, capable of generating their own power and with neural networks instantly linked by trillions of connections, decide to unleash poisons and diseases to destroy the intellectually inferior human pest."
-    publishedDateTime: 2023-06-25T07:00:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/06/113_353591.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353591"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=353591"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 39
 
 secured: "P/SWInQggbh1MhaVdUz9vYTYXx6gMj23jLCPRa7LUln8u1mojmCj8ZWf30KZfpAZ9MJRHPQ2o++npkNm23nXROmQfy2QQ++6RaWkDpIHpxLTcj5FrjaiLhifwg/izpOTx5NKfLJM0p5Aie0HHaBLBZ3IQarwGlii5k8/SGednzx9EBPso6qBhJy7SPEW/lAmHU9jEF3OJXYhbDMT9CDP5OEfr3T4Xg+d/0fjH4DsW0j/YcpF+vTQhaaXx8bg4RLj2zdya994NPn4CNNW1GnZNghfmKHi5To+t7wQ/wI+PyNBtIZviXjWMVXI73QGax26jkdkq9oEEhJRexdexGmG/lIXgM+XEYi2CY5uz7qktM5Nq9UZEHoCYapo5BctILdy7J5JTAl764f3tQU6YNMtWPGDtynIJbusI/I4jQDkFnfIuWdzpj8AH8qsQXOzy24UQHOGq35PN7fkAlTKdNKnmiRyz63u7iTphJB2HF/X9jpSjC1SXRzMdTzgwNMSsOOMGuLeX9dCeRadLXNPpPZe/w==;SZ7OFI+U2gkWITuv+xca6A=="
 ---

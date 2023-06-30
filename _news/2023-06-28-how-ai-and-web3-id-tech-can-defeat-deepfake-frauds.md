@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-we
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/28/how-ai-and-web3-id-tech-can-defeat-deepfake-frauds/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/082e3f8/2147483647/strip/true/crop/712x374+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fda%2F6b%2Fbc36114a4b9bbd8cb5cd24ff9690%2Fcomputer-mouse.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Daon adds algorithms to improve deepfake detection for voice and face biometrics"
+    excerpt: "Responding to the ongoing rise of deepfake technology, Daon has announced an update to its IdentityX and TrustX biometrics platforms."
+    publishedDateTime: 2023-06-29T22:10:00Z
+    webUrl: "https://www.biometricupdate.com/202306/daon-adds-algorithms-to-improve-deepfake-detection-for-voice-and-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
         isCached: true
 
 secured: "UoeO557aYZGcj0OOZ1eLQBV5WRLJF3d5f3Ghu88bV83YUTnKpwKBayuHqzDPQYlZZ+jCj/MOyWvy1MD8nhTcIqzaYaPIvMl/DG3O4VoXDEWKBZKDdIPwfgRIYMWR+ZjMv6K1GLQMcUE2+sebzuDkvXJ4hB8CfM9d+Oqp/ajqQ18K3GEihxd1HB3WyHdMFsqcyDt8NVOaOjFh3Ijgz/em3ozEE03NaTivSVqQh8XSv7/tjRUZ2KPqge8MzcsZ0ky5qaXiZxcj5GtoiPXSPT0qLYWrzEkfLwlPNer7/GoZ3iBD+I+wNXglpLhYKSCRTMjE5Vsy7a0XnSkzsjT3VKW3n+2YerjFW/dbN/kG1H8ovbra1pmse48ciw2ZAI63FSmgR+TM6k2eolY1inS7sOgttc+8aafBQy4mt8vNGnsR4HRzN0EyeumVZFx4I5AsU1yvwTR8dnCIylhSTWGpqmk6aaYZSeMV2r5b3HANoC7fk47ZVnnqS3bLaOxMn3mzYYG+4J8xLe+EF7L5fJQx0LBH8A==;zQ8pgypjXd9ta9jM7XBs3w=="

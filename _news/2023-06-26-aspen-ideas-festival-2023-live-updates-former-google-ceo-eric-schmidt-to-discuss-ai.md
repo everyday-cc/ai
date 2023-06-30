@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/rcna90875"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/rcna90875"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Google to set up its global fintech operations centre in Gujarat: CEO Sundar Pichai"
-    excerpt: "Pichai also said that his company continues to invest in India though its USD 10 billion India Digitisation Fund."
-    publishedDateTime: 2023-06-25T06:20:00Z
-    webUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.html"
-    ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2023/jun/25/google-to-set-up-its-global-fintech-operations-centre-in-gujarat-ceo-sundar-pichai-2588403.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 53
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/6/25/w600X390/Google012.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "ZQOGIsMuYrBtXUFLZJP9oKtMH+d+bjgmpE8cFcTG033QTjp+J2AKr6qRl5deOcjVy92Y0QwefIl3o/iUWu6mUf17HbpLuNvaUJFz6YfgLHkS7USfPIdMbTdnzAy3xlXnl8o5ztS4OG6zpDLI/lIkZA1xvoanR2DILsRts/pDgVWqvCs/vukU44D6W3luiAIVMobKjEQJJU9FJWn9k1s4EOeiQ/U+uSHfLwqDl6RcQOdlE4pS7LYbFHqlkGRxN8JvLg4+UAqMgj4q6d9nfFw9RBajJpU/WQWiCvQ8FPl6R/uwUgcWeumwoELFCfwmCsNDP/fgCUX//Ip3gkDCwUsy4Zp0AnJreDtcrhGXJ+JQeHVcqjSmzKWzmCTk85NlXNOvOvEPWvTZFbY73BERX552i2AlV8seuJmfkoHDOUb7mt86n7E93Ya51mFRK5bPyIBACZVevLx/LltE6YEokQeKq052gFtrf6x5tS2Ax8NAQBJy+VNA8nlxLn+P9jXxcy2PhYUiOcQhCvpRR7OM0dcAeg==;iK9ZGxKN8d1DzGBsLVe1Iw=="
 ---

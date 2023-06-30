@@ -1,0 +1,38 @@
+---
+category: news
+title: "Inflection AI — Reid Hoffman's new AI startup — scores $1.3B in new funding"
+excerpt: "Inflection AI, co-founded by one of the co-founders of Google DeepMind, is the latest AI startup to score a massive funding deal."
+publishedDateTime: 2023-06-29T19:27:00Z
+originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
+webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/29/reid-hoffmans-inflection-ai-scores-new-funding.html"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI
+
+related:
+  - title: "AI Funding Explosion: Inflection AI Nabs $1.3B, Runway and Typeface Also Raise Big"
+    excerpt: "That funding, led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt and new investor Nvidia, values Inflection AI at $4 billion, according to Forbes, which first reported the news. The new funding brings the total raised by Inflection to more than $1.5 billion, per the company."
+    publishedDateTime: 2023-06-29T17:49:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/funding-explosion-venture-generative-ai-unicorn/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 35
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_Sector_Artificial_Intelligence.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
+secured: "dRJeMZDReIgyHwVJKxpdaS7Xxb1Qvw1SMNPZ36BA627hz10TZtIUlHkYbDS9cBhsgA+iosLmQwNcr5wlt4RE+GP10eoEENjd0Wrq62dfNraInv92RRLKF4F1cApIXMq7GgDypIaDRLWlwv1tKSC58KFclwihpXKiybZBkltHWMQunipF8Fu5w8/yXCVsQBiA+prcoH8W4t2vn1zfAc0BAlaKn4LWzWU8MzHnL8GnN4H1l/DhawP7NEXer2+CTZWo6V3ZZ9BzswCCauw2n0lgY/4ztX6+IKZnMn5ejPCU46f8rF6F8gH343agrFyApQcdaYP8ZHDGtRhSKngJv7u1atJCJSjHlhoV9tJeK0O4bOutprhm9m5pUVy5qzoVFogrocTAqZHvuOPqq7o9cdsn2wb4kG8omhgjXVECQRcl11w4aeUw9conhEPImHADGdfYjSXTj3GM7XmMCj6cPUlxQqgYL16hDqHpuwoWM/k8U5HCiS2BNUmjcs8O3MjdZy4orui0EirMTwIzuK8n1OVehQ==;NUezb+zTuUMH+SPClc8x8Q=="
+---
+

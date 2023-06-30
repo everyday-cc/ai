@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
+    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
+    publishedDateTime: 2023-06-29T21:29:00Z
+    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809809/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
     excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
     publishedDateTime: 2023-06-28T22:04:00Z
@@ -258,6 +272,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "J3JHdcH8gSHeDjLRVlNQYbHnwrzZwO5j6YZK20ZBGsoA4RbJMqJ/UaNjfpT/gIhQU2DD4S7iqW3Uwkg9klR81jyLPxc3ClyBIK9H5XfoUDgtouq6MnfwWVA9foBEr/KCEIo5al/V5M6cVZC0GUzUqLeMhhfRA4wmsZcEvhOK3MKneE95FtCiNvGblfu/IQ0GnU9OJ1Cf5Lcj+Xup3rcujMx/uLgh+3K3RH8S7iWRVSuTd6jUgfjTiEmhk293auOResukXtBr2wU/l+1YW7yzj2oI3kwwQZhBJChVSyRoZYQAj7umRpoyjMQZiSa43JiDI9B6rzCgSjw1+yryOcFgUPwm6TeVvBtlZW7Y/t4gLq4=;Lf15icZaMSKL0vJDA+rfNw=="
+secured: "nxEw8Ci2FReWwsJBeUv8mjJtGD6l2sTSGLOE2l3oMAgs01BmCtkS/ZQPsFCCpjWz4Wss4QjhYNMcAOlvFv3ptkQtbSsh2ZdB0lFUdSIaRabZDqw0R/2weQbw3F4eeV8fSpFR1hS3EjP/0hOiDwFJifyDq3ZDwC5eoI4R6+S0aogrbIZPa8YO7ygMVPXHIYqtjNVJ8mgsFehrq+p+n6dzvGxo9wXaJQwHxOTYy4KwxNUC91sq0LuqfzPX0FlImUR3CnuG8Cd/62UmSs10nRI3bFZXwuYgC6dFKS+WxBcTwIwv09QlihtpLDfB4/JFwGfwZPlA0tGJoTNUgW7y3SkOLpnHFfM54VzxYeHAyGxa4Jy7SGseIJWJrJ53/9uT4sVYimn98Uhkwv7Qwf3AWPSgl2HgGBpLjGrXung6ChSZ27HynDC11BxBxTG6KkdXlQnaD29VKB57Sqap67AoxsnNPxisWlmWtsNniq4tYmrFFCo7jscVl5+iUJC+AH54TD0/iS/dWObmn0vvQx9qW5+uiw==;a08oMDHouBoGRY88V1bG5g=="
 ---
 

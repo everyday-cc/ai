@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-publishedDateTime: 2023-06-26T14:08:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
-webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
+excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
+publishedDateTime: 2023-06-26T13:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -81,6 +81,20 @@ related:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft Adds AI Shopping Tools to Bing and Edge"
+    excerpt: "Microsoft is adding more artificial intelligence components into its products ... Some online shoppers love to delve into their research, carefully reading multiple reviews and weeding out brands that don't pass muster. If you need an answer quickly ..."
+    publishedDateTime: 2023-06-29T23:14:00Z
+    webUrl: "https://www.cnet.com/tech/microsoft-adds-ai-shopping-tools-to-bing-and-edge/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/resize/42190d38ade8b2297bf2f0e63f4439bee821301e/hub/2023/02/10/62e99904-1127-458c-8fdf-cf9018b816b7/20230207-bing-logo-01.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft gives Bing and Edge new AI tools to help you shop"
     excerpt: "Microsoft is launching new AI-powered shopping tools for Bing and the Bing AI chatbot in the Edge sidebar. The new features will make it possible to generate buying guides, review summaries, and price matches."
@@ -556,6 +570,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "HKLDBR/kYkne/cFR/8w/pcqHLjZ1vG9b5d03M6mD/KKSDjlonVtz8Q51fHCjcqqjuTBVi8D6QjfCXL7fRBmak4w794fCFC0W0wbp2uCiScH0OnITMULE/2mfzNb88U+chAA4OU8CUj/fNwYgayvNMHm4v4P9t/mz9WtS4fyZMQj7TTQLHn+MPEslvL5x/kqgid25IraiG5Ywa2I3yvwnRGXeNISekZmVZpMJJ4SGpziLhCW5eSHpBzbCNyCcst9gNCL/GLZpXqfwMFmhL6G6ScmhU5pyLEpSiyenhDxls0jDIje4FBxrSnrERxxjHQQi+g5h2xvYf7QcozEwgqdFytnXiUA0g4Rxl2pXVMBKzdcs0MIPdRf9VQWKU2Y8Dhm8khpws86SwgOPvHjuUCnga3FJED0GwSUDBCbYtBVO8w33lGEhkRBy7v6Z7fPU2teniUz4yR/E8fBfS+b1QmOYzKmiz4AKsETBixvChR/i84C+wo3Qt7PCTtBaRoJ1DFabJUkGbdr6MxhnHDVXEy7Z/w==;OBOxdM2y57FVKI8zGzIBKw=="
+secured: "h66yzUmtXVb56/r5nyPU8xXcyVxRg2K/uWoKb3EFTNX7HOTVLHP082IkOhZR0+j+J4BdYCIMbwnOKhbmmNiFObvXbHKU/K2LG79l25zLFwkMSqLQ3bqxPHNU0K5MfMy2JB16f8WUmKSA53pCVwnoaq7vb+GSotaMuisWs7hYS5pqkJRWeJ8J3epQqIxotVrGffb450nG7HsXtTLNqhA6j/1+xtZroyiZr/rA6thPO2Y7vtqHdkHI5ERdtwSrcLIzmr6FpQAo8RLO8uR7BKn9rQkOvqdzzZLZhRXtPNwoOYCurzfOWZ/0tdbjJtG9fdt+y5Xx1/k3uP/DLX3f/PMP0TIH4vLagx/g36CDGf/yjhA=;q5wAsq0+O6WYL/1z3gjQCQ=="
 ---
 

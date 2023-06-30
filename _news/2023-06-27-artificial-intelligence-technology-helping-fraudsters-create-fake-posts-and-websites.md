@@ -40,6 +40,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Daon adds algorithms to improve deepfake detection for voice and face biometrics"
+    excerpt: "Responding to the ongoing rise of deepfake technology, Daon has announced an update to its IdentityX and TrustX biometrics platforms."
+    publishedDateTime: 2023-06-29T22:10:00Z
+    webUrl: "https://www.biometricupdate.com/202306/daon-adds-algorithms-to-improve-deepfake-detection-for-voice-and-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/28131106/deepfakes-scaled.jpg"
+        width: 2048
+        height: 1376
+        isCached: true
 
 secured: "54PKj+/536nPVQgWQWtCCFQvGMmyBW9nXrqw03H0CncjkBL1u0tLaWumu4e8ZJ5ZeuMQh9k722vW5haKuuEXOXtJZMsnAjD3Qqxkb1lMwoJKt/uV3V8JlQnr+dsRBfcM76+ERatwXwQwqMc+wAsZju2vDzWG2e89Fgq6KbKNdqVd18zGZNtUMYz8xWIU8BX0aEg4xT3wG7dZMLxdDshRra0xmQjGKHC7++9SVjdRMaMjYYZMmZkmdzgkMuZ9GpKNhZjx63u4QO0CyK6NTUjvOlaEKCdpEJ0IgF0sJKjkCONkWsnDbZ5+u3NeiKV/xHKo1LzwGLch9k+x/QwgllvR72hX1mayreKhSX4/FgH4Bmsb+GdNXIQulJP4po1J7WuwKwXN4Qd39BGMvsqZBv7V6Hl7fxkPytpBPQLYcY10qqC3ttYjkKv1Ppg4YZoVMGMc2ELWsN8q8BAsek3QSrUSzAmd5S3sAxj+PQiodTJqtr91PPuLhe3u2FJo/TkU8svZSGOQ5Uh+AxGAV9vLZvUSAw==;p9rt7tpORyQx02+vX8OK+g=="
 ---

@@ -530,6 +530,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
+    excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
+    publishedDateTime: 2023-06-29T13:11:00Z
+    webUrl: "https://www.industryleadersmagazine.com/u-s-officials-assesses-new-ai-chip-export-restrictions-on-china/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 34
   - title: "China-subsidized GPU firm MetaX founded by former AMD executives to compete with Nvidia"
     excerpt: "With the latest generative AI boom, GPUs from Nvidia or AMD are the first choice for AI servers and high-performance computing data centers. But in China, even if they can only get a downgraded version of Nvidia H800 or A800 due to US sanctions, Chinese..."
     publishedDateTime: 2023-06-26T01:27:00Z

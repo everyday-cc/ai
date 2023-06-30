@@ -50,6 +50,22 @@ related:
         width: 684
         height: 523
         isCached: true
+  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
+    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
+    publishedDateTime: 2023-06-29T22:22:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
     excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
     publishedDateTime: 2023-06-27T18:01:00Z
