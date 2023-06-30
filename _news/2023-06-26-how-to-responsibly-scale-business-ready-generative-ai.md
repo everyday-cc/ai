@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-g
 webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
 type: article
 quality: 119
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -244,6 +244,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Race to Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
     publishedDateTime: 2023-06-27T04:49:00Z
@@ -271,20 +285,6 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
         width: 2000
         height: 1334
-        isCached: true
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
@@ -354,15 +354,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
-    publishedDateTime: 2023-06-26T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/26/9839167.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "uE9N1y3B2jK9Vg2KLe51GW7W1JgTmUyAgb2LxFgAS8t4q9mqGWdX/KgxdMaYpKnyk7RpCYASx9xFobGcrxw+4zRj8iCfaZ83YM9ySzrEGsMlg7u0sSsNqzWCAr2Cwy73Nkx/kGnsUnjgvMWKtsaXGlrYfvDpLlqMHhCoObyo0v92JCbrpX6Uiog65C79EgqFmJE0CfTqgs3ud4CeG6k/0bHGSTelzmuXa9QrL100n2CfGbPxUXYjQ/CdnC4g5OiqGDrfajdgekLVQ/f4YCyVCWCEM/pbKahhg4hcCdsFBN4lfwq8zYeC5ulT0UbMPYhyA8aykcyWUo9e7B7NBrtS/oPMvxc5TeMPU8ZCp4s5dHc=;hi89W20eg+Aldxw+D9jYyQ=="
 ---

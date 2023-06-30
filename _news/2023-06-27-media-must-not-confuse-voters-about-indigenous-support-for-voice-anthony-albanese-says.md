@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "'I am confident': PM Anthony Albanese anticipating Voice success despite disastrous new polling ahead of referendum"
-    excerpt: "Prime Minister Anthony Albanese remains optimistic about the Voice to Parliament succeeding, despite new polling suggesting the proposal is faltering."
-    publishedDateTime: 2023-06-26T00:27:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 22
-    images:
-      - url: "https://content.api.news/v3/images/bin/006477ccda9617454ca590b84c63aaec"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Peter Dutton urges Anthony Albanese to dump vote on Voice and instead hold referendum on constitutional recognition"
     excerpt: "Opposition Leader Peter Dutton has warned the Prime Minister against proceeding with the Voice to Parliament and potentially risking setting reconciliation back."
     publishedDateTime: 2023-06-26T09:23:00Z

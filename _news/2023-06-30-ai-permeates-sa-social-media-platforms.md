@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The huge power and potential danger of AI-generated code"
+    excerpt: "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure."
+    publishedDateTime: 2023-06-30T16:42:00Z
+    webUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png"
+        width: 640
+        height: 311
+        isCached: true
   - title: "Trusting Social brings AI-powered agents to enterprises"
     excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
     publishedDateTime: 2023-06-30T11:59:00Z

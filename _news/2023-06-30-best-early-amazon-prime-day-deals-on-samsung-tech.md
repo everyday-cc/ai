@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-d
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-early-amazon-prime-day-deals-on-samsung-tech/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Prime Day 2023: best early deals and when the sale starts"
+    excerpt: "Amazon Prime Day takes place on July 11 - 12 this year but the retailer already has a vast number of early Prime Day deals for you to shop now. We've searched through them and picked out the best ..."
+    publishedDateTime: 2023-06-29T16:43:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZefaoejrEEiKKo7pBmCaL6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Best early Amazon Prime Day 2023 deals on robot vacuums"
     excerpt: "It's almost Amazon Prime Day 2023. But you don't need to wait until Amazon's major sales event to score a deal on a top-rated robot vacuum. The experts at CBS Essentials have rounded up the best robot vacuum deals on the internet."
     publishedDateTime: 2023-06-29T18:59:00Z

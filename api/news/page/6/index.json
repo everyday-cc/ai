@@ -2,6 +2,307 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-27-samsung-to-mass-produce-hbm-chips-for-ai-competing-with-sk-hynix.md",
+      "title": "Samsung to mass produce HBM chips for AI, competing with SK Hynix",
+      "excerpt": "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-Headquarter.jpg",
+          "width": 1210,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation.md",
+      "title": "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation",
+      "excerpt": "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T11:52:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-ai-will-change-software-development-in-massive-ways-says-mongodb-cto.md",
+      "title": "AI will change software development in massive ways, says MongoDB CTO",
+      "excerpt": "AI, especially the generative sort, is going to \"let developers write code at the quality and the speed and the completeness that we've always wanted to,\" says Mark Porter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "originalUrl": "https://www.zdnet.com/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e1f3b2050f61238595de2449c3501e9161f73f0c/2023/06/26/a1a9ef9c-51e1-472c-8d00-50976872ae9a/mark-porter-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/",
+      "publishedDateTime": "2023-06-26T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-how-resilient-is-your-data-in-the-cloud.md",
+      "title": "How resilient is your data in the cloud?",
+      "excerpt": "IBM Storage Protect for Cloud ensures that your data has been scanned for threats and that a clean copy of that data is safely backed up.\nThe post How resilient is your data in the cloud? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/how-resilient-is-your-data-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/chileargentina_194_getty_getty.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:43:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt.md",
+      "title": "More details emerge about Google DeepMind efforts to surpass ChatGPT",
+      "excerpt": "Google DeepMind is working on a new system, Gemini, that combines LLMs with reinforcement learning techniques used in AlphaGo.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/",
+      "originalUrl": "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-5.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-snapcalorie-taps-ai-to-estimate-the-caloric-content-of-food-from-photos.md",
+      "title": "SnapCalorie taps AI to estimate the caloric content of food from photos",
+      "excerpt": "SnapCalorie, a Y Combinator-backed app that leverages AI to estimate the nutrient content of food from a photo, has raised $2 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/snapcalorie.jpg?resize=1200,929",
+          "width": 1200,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/amp/",
+      "publishedDateTime": "2023-06-26T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-databricks-acquires-mosaicml-to-make-generative-ai-more-accessible.md",
       "title": "Databricks Acquires MosaicML To Make Generative AI More Accessible",
       "excerpt": "The acquisition of MosiacML marks one of the first major acquisition deals in the emerging generative AI market.",
@@ -944,305 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-ai-and-cyber-defense-2025-decoding-defense-strategies.md",
-      "title": "AI And Cyber Defense 2025: Decoding Defense Strategies",
-      "excerpt": "That principle resonates strongly in an era where the rise of generative artificial intelligence (AI) is causing tectonic shifts in cybersecurity. In response to these clear and present risks, I hold an optimistic vision for the prevailing good that can emerge from AI's intersection with cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64959ac665e1e518488daaa4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/ai-and-cyber-defense-2025-decoding-defense-strategies/amp/",
-      "publishedDateTime": "2023-06-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-the-future-of-excellent-cx-leveraging-enhanced-generative-ai.md",
-      "title": "The Future Of Excellent CX: Leveraging Enhanced Generative AI",
-      "excerpt": "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/",
-      "publishedDateTime": "2023-06-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers.md",
-      "title": "Here’s what happens when artificial intelligence falls into the hands of scammers",
-      "excerpt": "Artificial intelligence is like a gift from the gods to scammers all over the world. Here’s how they’re starting to use A.I. against us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/",
-      "originalUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3ttUwLSBu_69d2upjCov9PAs9_0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KX3GONKME5HZVLUEP5QA4ICVVM.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/watchdog/2023/06/26/heres-what-happens-when-artificial-intelligence-falls-into-the-hands-of-scammers/?outputType=amp",
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-to-responsibly-scale-business-ready-generative-ai.md",
-      "title": "How to responsibly scale business-ready generative AI",
-      "excerpt": "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 379,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-responsible-ai-a-practical-roadmap-for-business-executives.md",
-      "title": "Responsible AI: A Practical Roadmap For Business Executives",
-      "excerpt": "The need for a responsible AI approach isn't merely virtuous but also pivotal for sustainable development. Responsible AI upholds principles of equity, clarity and accountability, among others, thereby laying the foundation for a wide array of potential benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe10716f37920266d57594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/26/responsible-ai-a-practical-roadmap-for-business-executives/amp/",
-      "publishedDateTime": "2023-06-26T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-amazons-new-robots-are-rolling-out-an-automation-revolution.md",
-      "title": "Amazon’s New Robots Are Rolling Out an Automation Revolution",
-      "excerpt": "A wave of advanced machines is coming to the company's facilities thanks to better AI and robots smart enough to work with—and without—humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/648375409a01d944fee35ef8/191:100/w_1280,c_limit/Amazon-Robot-Proteus-Site-Image-Business.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

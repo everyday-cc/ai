@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
+    excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."
+    publishedDateTime: 2023-06-30T16:44:00Z
+    webUrl: "https://techreport.com/news/how-does-ai-influence-what-you-see-on-facebook-and-instagram-meta-has-explained/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2065574948-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "9sSRjgxgYAxQm8b+rqfmBGNThm3JBs+SwEmiWhYifsij6D2QOyz7WR14/hGyJDMaT+cnHJqFfhFQ7pweaR0bcX7GOxiPej4wF5WH24uZ6m9S8WYUtbmryD6q1tgl3xHudpmErqhVDnVtT1I4N89LSuaEYkjCTv71COPqI6XeiiSgTLJ8AGBOYO39sit1l2wZmyahkfG9r6nX2s4FtJ+zMdu7Q3Ojhs8KyQtVGWdOwCWYy+yHhBwGM2VzCoq02ogUHBkskHQ5YPLvQKAxD5urSOkWxq5qwMx1WAQikvpPpoQfioZTSqzEW04mbGSpBUoEgM9ePuuWrgMpYmdilyYHwF4gvt4j+n3bCuV+TSh59McGsEzRMeT/z5qmYjtSlyuDp0odjBwTw7C9xQULBgRXZBYzptu+TAxeCnA5FNtNAU1CKcjnfC6L4OkqIPHGGlK6IaPtusIW5WR2hovdvsMT/RsdMDmt/ezM9w8hT9q/lhlh2Xg67OzMB1NRPSl7VFPruvzNJOQururKX4SJAbxcvQ==;6aqQPI3GNO4IBK7lwzTkmA=="
 ---

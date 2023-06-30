@@ -2,6 +2,310 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation.md",
+      "title": "External AI R&D labs are becoming a competitive advantage for innovation",
+      "excerpt": "AI R&D Labs are purpose-built to merge the best of academic research with industry-centered goals in a team with multidisciplinary AI skills.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation/",
+      "originalUrl": "https://venturebeat.com/ai/external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-RD-article-DataRoot-Labs.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-amazon-prime-day-2023-best-early-deals-and-when-the-sale-starts.md",
+      "title": "Amazon Prime Day 2023: best early deals and when the sale starts",
+      "excerpt": "Amazon Prime Day takes place on July 11 - 12 this year but the retailer already has a vast number of early Prime Day deals for you to shop now. We've searched through them and picked out the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZefaoejrEEiKKo7pBmCaL6-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize.md",
+      "title": "Recommend and dynamically filter items based on user context in Amazon Personalize",
+      "excerpt": "Organizations are continuously investing time and effort in developing intelligent recommendation solutions to serve customized and relevant content to their users. The goals can be many: transform the user experience, generate meaningful interaction, and drive content consumption. Some of these solutions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/recommend-and-dynamically-filter-items-based-on-user-context-in-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/recommend-dynamic-filter-personalize.jpg",
+          "width": 1020,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:41:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
+      "title": "Amazon's rapid-fire AI testing ground",
+      "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/29/amazons-rapid-fire-ai-testing-ground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/738057/featured-daily-upside-image.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service.md",
+      "title": "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service",
+      "excerpt": "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
+      "originalUrl": "https://www.benzinga.com/news/23/06/33060304/microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/06/29/mco.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33060304",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304",
+      "publishedDateTime": "2023-06-29T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
+      "title": "Human oversight key to keeping AI honest",
+      "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
+      "originalUrl": "https://www.zdnet.com/article/human-oversight-key-to-keeping-ai-honest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/886690d287851265d12fcec69f9b91c30dd772e3/2023/06/29/9b1b0738-2410-4ffd-9bc6-972a839ff522/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-oversight-key-to-keeping-ai-honest/",
+      "publishedDateTime": "2023-06-29T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
       "title": "How advanced AI threatens banking security systems",
       "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
@@ -318,7 +622,7 @@
       "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -361,7 +665,7 @@
       "originalUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -464,7 +768,7 @@
       "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -875,300 +1179,6 @@
         "AI",
         "AI in Autos",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office.md",
-      "title": "OpenAI brings the competition to DeepMind’s doorstep with new London office",
-      "excerpt": "OpenAI is opening an office in London, its first international expansion. The company's move comes as it attempts to sway international policymakers to regulate AI with a light touch.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/",
-      "originalUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/OpenAI-logo-symmetry.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/",
-      "publishedDateTime": "2023-06-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Age of AI: Everything you need to know about artificial intelligence",
-      "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-28T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-computer-vision-system-marries-image-recognition-and-generation.md",
-      "title": "Computer vision system marries image recognition and generation",
-      "excerpt": "Computers possess two remarkable capabilities with respect to images: They can both identify them and generate them anew. Historically, these functions have stood separate, akin to the disparate acts of a chef who is good at creating dishes (generation),",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/computer-vision-system.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp",
-      "publishedDateTime": "2023-06-28T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-vertical-ai-the-next-logical-iteration-of-vertical-saas.md",
-      "title": "Vertical AI: The next logical iteration of vertical SaaS",
-      "excerpt": "The AI category is rapidly evolving but developing into three layers: foundational models, AI infrastructure and AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/vertical-ai-the-next-logical-iteration-of-vertical-saas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1423438259.jpg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-new-tool-explains-how-ai-sees-images-and-why-it-might-mistake-an-astronaut-for-a-shovel.md",
-      "title": "New tool explains how AI 'sees' images and why it might mistake an astronaut for a shovel",
-      "excerpt": "Why is it that artificial intelligence systems can outperform humans on some visual tasks, like facial recognition, but make egregious errors on others—such as classifying an image of an astronaut as a shovel?",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/new-tool-explains-how.jpg",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp",
-      "publishedDateTime": "2023-06-28T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace.md",
-      "title": "Kyvos announces availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace",
-      "excerpt": "Azure users can accelerate analytics on massive data without the hassle of managing software and infrastructure. SAN FRANCISCO, June 28, 2023",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2143384/Kyvos_Insights_Logo.jpg",
-          "width": 395,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

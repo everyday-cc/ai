@@ -43,22 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "'I am confident': PM Anthony Albanese anticipating Voice success despite disastrous new polling ahead of referendum"
-    excerpt: "Prime Minister Anthony Albanese remains optimistic about the Voice to Parliament succeeding, despite new polling suggesting the proposal is faltering."
-    publishedDateTime: 2023-06-26T00:27:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/i-am-confident-pm-anthony-albanese-anticipating-voice-success-despite-disastrous-new-polling-ahead-of-referendum/news-story/ba70a18ca1f5130969d10319de075af0?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 22
-    images:
-      - url: "https://content.api.news/v3/images/bin/006477ccda9617454ca590b84c63aaec"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "‘Certainly want this’: Anthony Albanese backs Voice leaders despite poll slump"
     excerpt: "Anthony Albanese has backed in the leadership of the Yes campaign, despite flagging support for the Voice to parliament referendum."
     publishedDateTime: 2023-06-27T11:13:00Z

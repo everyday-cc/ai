@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "AMD's AI chips could match Nvidia's offerings, software firm says"
+    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp , with a future path to matching their performance, according a Friday report by an AI software firm."
+    publishedDateTime: 2023-06-30T16:41:00Z
+    webUrl: "https://www.reuters.com/technology/amds-ai-chips-could-match-nvidias-offerings-software-firm-says-2023-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/mxKC5pRq-i0-ySt7PlHNvp0ZiLc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTPJK24H2FPUXLGC3ATXP7PD6I.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Report: US considering new restrictions on AI chip exports to China"
     excerpt: "The United States is considering new restrictions on exports of artificial intelligence chips to China, the Wall Street Journal (WSJ) reported"
     publishedDateTime: 2023-06-27T23:36:00Z
@@ -479,6 +493,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
+    excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
+    publishedDateTime: 2023-06-30T17:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-06-30/amds-ai-chips-could-match-nvidias-offerings-software-firm-says"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Nvidia partners with Snowflake on AI"
     excerpt: "Will help customers build their own products Cloudy Snowflake is partnering with the chipmaker named after a vengeance daemon Nvidia to allow customers to build AI models using their own data. The two companies announced the partnership at Snowflake Summit 2023."
     publishedDateTime: 2023-06-27T09:53:00Z
@@ -581,6 +604,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "iJdBTdq3w4QoYn46ep4mngPBRW7pFsa1FkCCVkqd/Znx6wwon4/1px/Qu1VW4I01/ejBvV4oLkL2Lboc2a0K1B/J3UobjfnE5B4DVeo1SZ/gi+krMoTaHacn54pGFVjGUuiTmYQQe40PISMWBBtlp0EXYmhZUrXtK7JOW/vRKbfZk604dkBswj89eUmcb3Xr7vcbyPg6y+WnYWsaWPKOMOWQ6juIzwh1id12yBoblGSmfMGV79Mi2dAxL5eanuTG3lWTkN5yWLaJOGTN7MaucWjtr683atZo2zZmG3B6qCTot8TB7HOHcXYFxRgP6Jq5KWo4HxKQ1D2nRKxYzO+ks2RP1wm8V7EED/5xvAHNrlM=;t5ef0S+Fh81YXXv8HZg7cQ=="
+secured: "qcbCUZtFx7++cdFx+y47Mkvhj1FW7p9pUkIw51NoJV1ekZDyGDbxlevxWMQBdRk13qITmPIO3zvvVAH1tMMvKFj77Wv3EXq9hwc9R4PYZur05bnRuwa633HZbadwIntAgFpW638ulnuUEoTqAoQelTWhsX+uTU2hl8rz1fjE3iTPa0g0eGyRDc1PxnnTbdZmEirc8sPUlbkP01DQTVXfFJUnVQM5+coXJlJcAoumx+GIkCjWwt7HuytOsOWey84ahqB4CXXG9f3GHqE+zsm5d/vF1pFCRyt3KeOYPbYIj/eec/RM/LscAJR+9Opi+tL9GzoKVr3UBKG+3MFoFoDnuKD5jLX0HXAIY5DyzrTnHRD9SIeatfr7JpnFj851L5YzOtTp8fRmz09Hrqp2EUxRhC6IXqdfQMY4JYUjxOrOkxmsHj5ythr50y2MZ+JO6YEiPHpST+Yf4Rxzx/kKjRzDCdaSd9vuXnbnDU7JiiyPf39UsseOT7kgm/o2g+idU/w3NEEFDc2zpnpCDe0weZWLWw==;8XwQA4TFclSH3ixbAdotlQ=="
 ---
 

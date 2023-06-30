@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-a
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/06/meta-2.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How Does AI Influence What You See On Facebook And Instagram? Meta Has Explained"
+    excerpt: "Meta has published a blog post explaining how AI affects your feed on Facebook and Instagram and how you can control the same."
+    publishedDateTime: 2023-06-30T16:44:00Z
+    webUrl: "https://techreport.com/news/how-does-ai-influence-what-you-see-on-facebook-and-instagram-meta-has-explained/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2065574948-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "How Facebook ranks content in 2023: Feed, Stories, Reels and more"
     excerpt: "Here's everything we know about how Facebook ranking algorithms work to help you maximize your visibility and engagement."

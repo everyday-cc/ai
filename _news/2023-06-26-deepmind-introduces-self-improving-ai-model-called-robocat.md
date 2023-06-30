@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind’s Proposes New Paradigm for Interfacing Language Model with Robots Through Rewards"
+    excerpt: "Recent advancements in Large Language Models (LLMs), pretrained on extensive web-based datasets, have endowed these models with a broad spectrum of novel capabilities through in-context learning, including the ability to direct robot behaviors."
+    publishedDateTime: 2023-06-30T16:37:00Z
+    webUrl: "https://syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/"
+    ampWebUrl: "https://syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
 
 secured: "i1WiJVq0IDG7ebF76phg72h2W5ivuUJHy4iDXr/WFw+BOVLdOaP9e1q2DII1vyJnjEcbTohZX3xk/djiEdY8lFNDVfTy+ynd9SXKPulnuzqjmTF8oLiVeGY2viC/6cVOJr8TWVJKE3G8xi/hEKwpDcv92lZOXKOFPlMMgIbEHUHBU5l7JhpRLWVxQ3Gnj1r8DLt7IWYQGw2HM72x+rEuNuK1v02CDbzMZcvePbojK6MXfOyVpB5Job69EZXzU/NMY2V1kzLBpamkJ3vQs//iV51pOoP5xrCOwINBd446+4RWnppBtn0surVbSKTM2kxGd5McXEyeNFetD3DP6IoZdRoVa2QNHRVZ1cvXEsbGHqjuFG33jIkX2x8KWQ09LC0vXg+iXNr+gfg71WHQ8NL2Fo+UYlD11Nz8E6xrvoMg/BXdRLhhzTx557hRW6wVMIxFJ09BUs63RUeTKTxErppiAA3chN18Kb5mu/405FNtFjE3Hg2dxaRZim3zbhGJm6Q4d142kDTPN9QSyuc+RJKckw==;iEsyH4JlhSyNs8QKTqWGgg=="
 ---

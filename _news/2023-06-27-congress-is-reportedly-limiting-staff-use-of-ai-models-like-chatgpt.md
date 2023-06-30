@@ -70,6 +70,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
+  - title: "Viewpoint: Why healthcare providers shouldn't ban ChatGPT"
+    excerpt: "Rather than banning ChatGPT, healthcare providers should make their employees aware of how to use it with patient privacy in mind."
+    publishedDateTime: 2023-06-30T16:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/viewpoint-why-healthcare-providers-shouldnt-ban-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z
@@ -83,20 +97,6 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
         width: 1250
         height: 834
-        isCached: true
-  - title: "Brave new world: ChatGPT, artificial intelligence on high schools’ fall agenda"
-    excerpt: "As one school year ends, area administrators are already looking to the fall with a topic fresh in their experience but increasingly demanding attention in education: the launch of ChatGPT, and Open AI."
-    publishedDateTime: 2023-06-25T23:32:00Z
-    webUrl: "https://www.rep-am.com/localnews/2023/06/25/brave-new-world-chatgpt-artificial-intelligence-on-high-schools-fall-agenda/"
-    type: article
-    provider:
-      name: Republican-American
-      domain: rep-am.com
-    quality: 33
-    images:
-      - url: "https://cdn.rep-am.com/wp-content/uploads/2023/06/20230625-203253-pic-558769531.jpg"
-        width: 800
-        height: 562
         isCached: true
   - title: "ChatGPT builds a tomato-harvesting robot"
     excerpt: "Thanks to a prompt from researchers at Delft University of Technology (TU Delft) in the Netherlands and the Swiss technical university École polytechnique fédérale de Lausanne (EPFL ), ChatGPT, an artificial intelligence (AI) chatbot developed by OpenAI, has created its first robot."

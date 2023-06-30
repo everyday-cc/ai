@@ -80,20 +80,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today."
-    publishedDateTime: 2023-06-25T23:37:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4faQQOWr0KY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
     excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
     publishedDateTime: 2023-06-26T19:18:00Z

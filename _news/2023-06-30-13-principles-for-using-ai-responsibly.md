@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-30T12:14:00Z
 originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
 webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
@@ -349,16 +350,7 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
-    publishedDateTime: 2023-06-26T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/26/9839167.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
-secured: "RavZBwo4PvX91YFGHjiD2QafrBHApf45aWNmePwjVJ0o9GvwYrfm55muYdjjJfxHjdGoRzjyRGymOzdp4kxEHutPnBy8Ag1KROimmhmefkEn8ecIByegRdVERvzZl1E5qTjKbxS+whoA1eDHZJJ/qpkc2lifHp14jCs2qOtP2Je4x3EREx68MlNt9xfQ0sQLoXV4Sz5LZth9jAPIFHnQo4dFToODgB89KcQ6sQ2CVZagWRY+4RiWGjAAOKz5QhjpX9Z9YGzAJazEO+JlGcuJxytOrzVimnRfqNGhUUiaznmpAsCnSSgS1w0EacPP7eLWFM+iYN6i1U/pHry3DXT68rrh6TnuFkcdnDQxmzSuYgo=;t23tvrhW/J2O0a79WNXt2Q=="
+secured: "NyJRIbU/Tjf1C80ZUsXEtaTSX9KFG7BWWyR/w3l6UtR8DiatXokLXQwSPf7nCcPWvgeX50EveEcx2WEmBfrqtLE3iHPMvDCJvdj3uSeC5VgfeA4PKjOFZqeochTpRf+3+CdKjgqvXsPXTJpohpqd0jXu9BBZw/aWcCl1Yi1soNdO9Lj6M7TMIqzEwkIYqI01x/2WcYLlI6pwaXFh3AtijzU5Oy/hFfiGM5slLSxBsL5ufduP6Q6p5V2i2QAstQYi7TUmxvyiZPjfkEo0mjbAl7ZxpzozrVhw26fK0TwzFq4LnYH3V87pfFmF2L2fmBKQ0uQ079ntXqXjswh/yLCJzV5pLzm9kzo254h2PJ0nuCmIHBTQ760VPtQ1WKLRMnSgubK7iKG4hKEgzcGFH9+K2f5vNK+4lu0d+zEbv8laMV1cyET3qukdTUMQy3bV8hwefCSoSqqTp5tp5SErK8jfZwpIW4r50NlTM5TZ3JBf3GHD/pn28epSIXDI7VvVvSkABK+54GzMgks4xZtWIsOLzQ==;DuUtL0GDAIh52NT4DAZZKw=="
 ---
 

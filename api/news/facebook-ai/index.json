@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
+      "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
+      "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
+      "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/ai-xyz-Dashboard-2-1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-external-ai-rd-labs-are-becoming-a-competitive-advantage-for-innovation.md",
       "title": "External AI R&D labs are becoming a competitive advantage for innovation",
       "excerpt": "AI R&D Labs are purpose-built to merge the best of academic research with industry-centered goals in a team with multidisciplinary AI skills.",
@@ -115,7 +168,7 @@
       "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1362,58 +1415,6 @@
       "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "publishedDateTime": "2023-06-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
-      "title": "Job listings asking for generative AI skills are soaring, analysis finds",
-      "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "originalUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
-      "publishedDateTime": "2023-06-07T01:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

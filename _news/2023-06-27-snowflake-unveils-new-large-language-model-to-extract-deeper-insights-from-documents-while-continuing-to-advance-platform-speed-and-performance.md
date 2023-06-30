@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 599
         isCached: true
+  - title: "Snowflake Concludes Its Largest Data, Apps, and AI Event"
+    excerpt: "Snowflake concluded its fifth-annual Snowflake Summit conference and its largest data, apps, and AI event with nearly 12,000 in-person"
+    publishedDateTime: 2023-06-30T15:52:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-concludes-its-largest-data-apps-and-ai-event/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Snowflake Concludes its Largest Data, Apps, and AI"
     excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, last week concluded its fifth-annual Snowflake Summit conference and its largest data, apps, and AI event with nearly 12,000 in-person attendees live in Las Vegas,"
     publishedDateTime: 2023-06-30T14:39:00Z

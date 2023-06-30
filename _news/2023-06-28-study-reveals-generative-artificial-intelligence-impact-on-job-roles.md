@@ -253,6 +253,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Race to Regulate Artificial Intelligence"
     excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
     publishedDateTime: 2023-06-27T04:49:00Z
@@ -266,20 +280,6 @@ related:
       - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
@@ -349,15 +349,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with an accelerated path to create customized generative AI applications using their own proprietary data,"
-    publishedDateTime: 2023-06-26T00:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/26/9839167.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "CEVYtak+pxvRBb9ecaAkcibYgADVEx5poXWDE2moG1tN/+0VKVRLbOMIAaQn2jIQheS3v/z43tzn5gvUBkC+n674OHETAOJfT2aNDlXDNFWImQLq4V1LaiIEz47P4nMoIeGuAS6yIrjpLFAWLFKeq6EwL4hs1SOl4tri10dBq01Mifql8L6na15Y2rpClYQ3IzQAxqHs6egp9u0J+P3IFP3P959KyvVOZFRaIDmbj4ZpU/i7STVXTcezEDmEVXH/9XMfeIsjnw6c+SMzTY7Ee2ZtEws9+RpPUdf9NwgiPHF6QPXFfbATLhg2fDxDdjGCb93P03s3etJB7aR20RTPmr9vxC81ySnJm9gjXu5x7II=;jfFA0KslvRrig99TOtyigw=="
 ---

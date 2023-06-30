@@ -3,18 +3,16 @@ category: news
 title: "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result"
 excerpt: "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics."
 publishedDateTime: 2023-06-29T21:42:00Z
-originalUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
-webUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
-ampWebUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
-cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
+originalUrl: "https://www.couriermail.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
+webUrl: "https://www.couriermail.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
 type: article
-quality: 13
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Adelaide Now
-  domain: adelaidenow.com.au
+  name: The Courier-Mail
+  domain: couriermail.com.au
 
 topics:
   - Natural Language Processing
@@ -36,6 +34,6 @@ related:
         height: 674
         isCached: true
 
-secured: "WRapbsIUyNvEzBxEZVB54gxwdF9K+Dv91Nd+lc0ksb/qjbhs5JWnLrExBS2sFMOHQp59T4cUjduxTjcTchjpZSJQ2wuQbaYE3AN1fLgeb+odRq2swmE1rn/nn+Q3biiW9d3ySZ0BZG/avF1uU9Jz6RQ8IQ0fgGgbqfDTme/Bt8MSW8GQXtXbIY5EiB7QdRNO6+5HF1uEnCMoSn0khWicAkfQgG1EL7quHnDfP5NtKvY58XS1o7TV0u2TU2Ccmn6X0pjOICUJl9pPeCvNUN7/6WcrpiB9WgJ24unNpDKPHwu+E6WF5yic+sMF70JWLl5153wKwFOdsDpakFcnlZgZ5hI8DKbldVDfM+Yyc/zr2ByfaONZZOOJqNSJG1B1aKodL0U3yf+uLK9aifM5lsVh7FmcHG2GeFsXznIKBR+saW/lY0f84ZHzdpAH0jAx1JGt5vQQmGdIGDLwFSWofHiHui/4y0C72UB2DXx63079T6+Oo6foBWGTGZlktazXlRrFMP+seBkknXwW6Gvw1sVVRQ==;uXZs0wKYIhWCUAetPSP+5A=="
+secured: "acdntCc36u4f3A/GPYpGQEzam3mQ5efYP2iUEP84Wnr6P2f2H9kVjp87ORjnqDm5zuWlGGjXplJQbL7Jx2HIRi1pVGo66iZqSm3cCp6QZVWDluFYz4fVwjSsuDyEXtZzK42M/vzqCYyBJdV57FDf5x4quLLTsR36XKluH0CendVpq3Aka4o2sC3jk7m0PHCBNcrMZAugQOc0M6IZuKMHl4vi6ZbuDW4jO99M1L7bevrUuZsqWJzxDYtP8dM3YXj7MIGuorb73gX0yFFq9ak7WdKB+1aLaN1gMELllHpEpzIaYwegaEO+nL70R9C/ZyZ5CbNgKSBjaJuq2Oc0Tmow/zlZyKKQTR1Hl0FHY1h2G4Z4uvFP7yU1nHxwPU3aBgiDoc+OKzcwpHVTJqszq/LZ5lekA0SyQTFRwtIiPF6lv5fOKEVwS1ASpLdoMAmLwzCZVb7qCPxO5dWakdW1n82kYgXYGxhBCdBl69Xbs5yAOdK0pRZ7ule78BnACqoZgyGO8b3DtNWliP9HPCJIL+K1sQ==;nlzhTNB82lQQb8lT6ua7CA=="
 ---
 

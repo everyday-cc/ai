@@ -37,6 +37,20 @@ related:
         width: 1023
         height: 507
         isCached: true
+  - title: "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas"
+    excerpt: "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection"
+    publishedDateTime: 2023-06-30T16:41:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/23/ML-14560-image017-1249x630.png"
+        width: 1249
+        height: 630
+        isCached: true
   - title: "Capture public health insights more quickly with no-code machine learning using Amazon SageMaker Canvas"
     excerpt: "Public health organizations have a wealth of data about different types of diseases, health trends, and risk factors. Their staff has long used statistical models and regression analyses to make important decisions such as targeting populations with the highest risk factors for a disease with therapeutics,"
     publishedDateTime: 2023-06-28T16:12:30Z

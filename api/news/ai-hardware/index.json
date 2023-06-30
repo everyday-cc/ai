@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-01-ai-in-chip-design-where-does-cadence-stand.md",
+      "title": "AI in chip design: Where does Cadence stand?",
+      "excerpt": "In a preliminary interview with DIGITIMES Asia, the Cadence VP also shares his views on AI deployment in chip design and its implications for the company. According to Moore, Cadence already anticipated the growing role of AI in chip design approximately ten years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-in-chip-design-where-does-cadence-stand-1032420971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2145220/image_800964_36161467.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-larry-ellison-says-oracle-plans-to-spend-billions-on-nvidia-gpus-even-more-on-ampere-and-amd-chips.md",
       "title": "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips",
       "excerpt": "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware",
@@ -313,7 +365,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
       "featuredContent": null,
       "highlight": null,
-      "heat": 521,
+      "heat": 541,
       "tags": null,
       "images": [
         {
@@ -1431,58 +1483,6 @@
         "AI",
         "AI Hardware",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x.md",
-      "title": "AMD Hops On The Generative AI Bandwagon With Instinct MI300X",
-      "excerpt": "The big AI news at the AMD Data Center & AI Technology Event was the introduction of a new variant of its Instinct MI300 designed to support generative AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6490f58d3117088bf13b363e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/06/19/amd-hops-on-the-generative-ai-bandwagon-with-instinct-mi300x/amp/",
-      "publishedDateTime": "2023-06-19T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-i
 webUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe"
 type: article
 quality: 69
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "The EU Wants to Protect You From AI. Some Companies Aren't Happy"
+    excerpt: "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development."
+    publishedDateTime: 2023-06-30T17:34:00Z
+    webUrl: "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How computers and artificial intelligence evolve together"
+    excerpt: "Co-design, that is, designing software and hardware simultaneously, is one way of attempting to meet the computing-power needs of today's artificial intelligence applications. Compilers, which translate instructions from one representation to another,"
+    publishedDateTime: 2023-06-30T17:15:00Z
+    webUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-evolve.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/how-computers-and-arti.jpg"
+        width: 660
+        height: 441
+        isCached: true
   - title: "Can the EU bring law and order to AI?"
     excerpt: "As countries scramble to deal with the risks and rewards of AI, the European Union is way ahead on the first laws regulating artificial intelligence. Here’s what’s really in the new AI Act"
     publishedDateTime: 2023-06-27T09:55:00Z

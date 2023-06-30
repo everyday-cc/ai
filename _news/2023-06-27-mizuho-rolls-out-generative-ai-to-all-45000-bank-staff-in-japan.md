@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-ou
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/06/28/2149076.jpeg"
         width: 1240
         height: 825
+        isCached: true
+  - title: "Mizuho permits 45,000 employees to use generative AI"
+    excerpt: "Some 45,000 employees of banking holding firm Mizuho Financial Group, Inc will be allowed access to generative artificial intelligence (AI) this week, according to reports."
+    publishedDateTime: 2023-06-30T16:37:00Z
+    webUrl: "https://www.hcamag.com/asia/specialisation/hr-technology/mizuho-permits-45000-employees-to-use-generative-ai/451243"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/039/0321_638237397957554662.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "4F7d9t7AuhlJfjGd0Pmd3gD/v3ftGHj8lJ+xJnQQhNlHW4DspJv4hU12gooaCnUoL6yPzBVw7EC2qIw0ymqa/49gKXT8li2cm1VEd+jceIXenGv4sNB0HuQZA7dHmMr5/YbETBo2CwgQtSHguw0gsbVMQ+jwQWy2lzaCwAiOy2WOHGNbmC1hGNoZR1X7JVgjy7o3lADtFbzWXngp/HFPQ1Yl3ZR/4FNycsgwoCOEJCV8i55DI8lilMBil7sbsnd4+VHBcXQEK2cy47dGlHTr/nBqbCrb575o08yFVT4U4EPgJ0zmotwN1U++MmkA95yNiZBhIoJxBCKFgx126avG3w8ho9LrOdIwYf04U/ujwfoxFEGUntLFiDIxwZ26JfYBDkKek97uYwebSSmBP7NzzSE/zEg4xdS0eADWXS1Nb35XUBmh503X0yqPE//bZMfEoiNvOptQM23AQiGKIr8NCjwXvrDTaMdvcEl6YpIgh4yl7hdMc/0KXGJ7/BCiy0rGBy5OgQIGLPKdv6osY4uTsg==;6oFDVH4WTxtpqmBJ+M3cig=="

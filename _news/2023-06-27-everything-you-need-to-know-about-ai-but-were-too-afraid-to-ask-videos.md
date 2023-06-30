@@ -83,20 +83,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Five Things You Need to Know to Start Your Day"
-    excerpt: "Eerie calm descends on Russia after uprising. Tech giants pledge India investment. Ten AI companies to be watching right now. Here’s what you need to know today."
-    publishedDateTime: 2023-06-25T23:37:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-25/five-things-you-need-to-know-to-start-your-day"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4faQQOWr0KY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
     excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
     publishedDateTime: 2023-06-27T12:31:00Z

@@ -20,6 +20,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Amazon Prime Day 2023: best early deals and when the sale starts"
+    excerpt: "Amazon Prime Day takes place on July 11 - 12 this year but the retailer already has a vast number of early Prime Day deals for you to shop now. We've searched through them and picked out the best ..."
+    publishedDateTime: 2023-06-29T16:43:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZefaoejrEEiKKo7pBmCaL6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Best early Amazon Prime Day deals on Samsung tech"
     excerpt: "The Samsung Galaxy S22+ includes all of the top-of-the-line features found in the S22, along with a few extras such as a larger display screen and more battery. The S22+ model also comes with an 8K camera -- so you can capture all of your memories in stunning quality. Save on a new Samsung Galaxy Watch ahead of Amazon Prime Day."
     publishedDateTime: 2023-06-29T17:53:00Z

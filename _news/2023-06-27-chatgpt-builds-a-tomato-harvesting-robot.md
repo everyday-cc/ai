@@ -76,6 +76,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
+  - title: "Viewpoint: Why healthcare providers shouldn't ban ChatGPT"
+    excerpt: "Rather than banning ChatGPT, healthcare providers should make their employees aware of how to use it with patient privacy in mind."
+    publishedDateTime: 2023-06-30T16:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/viewpoint-why-healthcare-providers-shouldnt-ban-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "ChatGPT and AI Disruption: Is Consulting Next in Line?"
     excerpt: "This is where generative AI comes in. Algorithms can generate business intelligence reports in a manner analogous to a consultant analysing markets and offering advice – except for a fraction of the fee and almost at real-time."
     publishedDateTime: 2023-06-26T03:11:00Z
@@ -89,20 +103,6 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-06/shutterstock_664063189_1.jpg?itok=7a4qQphF"
         width: 1250
         height: 834
-        isCached: true
-  - title: "Brave new world: ChatGPT, artificial intelligence on high schools’ fall agenda"
-    excerpt: "As one school year ends, area administrators are already looking to the fall with a topic fresh in their experience but increasingly demanding attention in education: the launch of ChatGPT, and Open AI."
-    publishedDateTime: 2023-06-25T23:32:00Z
-    webUrl: "https://www.rep-am.com/localnews/2023/06/25/brave-new-world-chatgpt-artificial-intelligence-on-high-schools-fall-agenda/"
-    type: article
-    provider:
-      name: Republican-American
-      domain: rep-am.com
-    quality: 33
-    images:
-      - url: "https://cdn.rep-am.com/wp-content/uploads/2023/06/20230625-203253-pic-558769531.jpg"
-        width: 800
-        height: 562
         isCached: true
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="

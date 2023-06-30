@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-30T11:48:00Z
 originalUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
 webUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.siliconindia.com/news/newsimages/VE9e54lJ.jpg"
+    width: 570
+    height: 367
+    isCached: true
 
 related:
   - title: "Five Microsoft AI Advances That Business Leaders Should Know About"
@@ -80,6 +86,20 @@ related:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
+        isCached: true
+  - title: "Microsoft is developing cutting-edge AI chips to 'close the gap' with AWS, internal documents show"
+    excerpt: "Documents released during the Federal Trade Commission's lawsuit against Microsoft confirm the company is working on its own AI chips."
+    publishedDateTime: 2023-06-30T17:25:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-making-ai-chips-to-compete-with-aws-documents-confirm-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/649f0139fd8a3e00191220d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
     excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
@@ -404,8 +424,8 @@ related:
         isCached: true
   - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
     excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
-    publishedDateTime: 2023-06-30T15:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842393.htm"
+    publishedDateTime: 2023-06-30T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-soul-machines-recognized-as-finalist-2023-microsoft-azure-/2023/06/30/9842393.htm"
     type: article
     provider:
       name: TMCnet
@@ -452,6 +472,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/06/Microsoft-Green.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Generative AI company Inflection AI raises $1.3bn from Microsoft, Bill Gates, Eric Schmidt, & Nvidia"
+    excerpt: "Inflection AI raised $1.3 billion in a funding round led by Microsoft, Reid Hoffman, Bill Gates, Eric Schmidt, and Nvidia. The generative AI startup claims that it will build the largest AI cluster in the world comprising 22,"
+    publishedDateTime: 2023-06-30T16:38:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/generative-ai-company-inflection-ai-raises-13bn-from-microsoft-bill-gates-eric-schmidt-nvidia/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Snowflake Expands Partnership with Microsoft"
     excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
@@ -641,13 +675,13 @@ related:
       domain: inferse.com
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    publishedDateTime: 2023-06-26T14:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
+    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
+    publishedDateTime: 2023-06-26T13:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 12
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
@@ -659,6 +693,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "1FcuimO1E15zn57AJDbzuQPaE3oPaLpOAT5sKLaT7Tojr3OhZ/n/X9hQ3FNQuMFD2z26OY1Hb0NQThAHJdz4t1mktkV7fL6HgRq+TIDxHHSnJrb0BV3fPiwoPXnJ6puEMRVY9+lN+wCROp0py4LoxYTjH+HPhXHjp7IleRwQh4MaLrf7WiWP7h+hgeTdwUs6A5UDmzBKFgkoaWjBLK8SMj9PFpbvfHbihQD9MOztLngGt7QEs+ARjM7E3geiXtv/ZFpIZHGXyh9lQGBkkzHUeIdxs6Pt7rEfTw3KfZo4ofYTTARMsebOd/aZusu0wb0Xn+WNpZ+bv9cwCblY9koZFjlgi1uspdVJxkuKje5Hp9s=;FJ7MfrUeAuefV+gN5il64Q=="
+secured: "qd9FoZmmgyKTSoR6+uSszRzgEd06IvgO6DkSzvB9b9AGll0jCOlEBaVDIVaq1F6kz0HlIZK+Cxbf5gRRR4pz3i5BePqq5TGqjh7LSBuwGSxMbKbx5jwW6PGFnLPUT60cOdZibv2rjj/4LjFfg2CzfX3kjBQNC01IppV1v5G3X5O4uUoQ2wHHZfNT7sI/0lcEYr6fckk+ETdQgCP6QUYQg1hG5TE4QL+kDgdpizCYmqRQ2ALYdrPqDzS+xv0d4FvuGvz7tDgqn1zRZ6YlnwkOsfakedQ68U47g1qVst6ZzUhu1BbtLIM7/zE//FzkDbceN0Pogds5TMt+EyyBqJsnY5ab2nYiRQ1Ub7UBRRqO7TA=;FRpwd9nJIdv33qPX+g5PEw=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
+      "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
+      "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
+      "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/ai-xyz-Dashboard-2-1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
       "title": "The True Threat of Artificial Intelligence",
       "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
@@ -107,7 +160,7 @@
       "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -516,7 +569,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1328,49 +1381,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-young-man-eyes-bright-future-in-robotics.md",
-      "title": "Young man eyes bright future in robotics",
-      "excerpt": "I really like robotics and engineering and hope to get a PHD in that at GCU,” he said. Artificial intelligence is something Liam said he wants to get into while working with mechanical robots. Liam is confident,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/",
-      "originalUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/GrXuLJmmZaVS5nCRovxzVQPkVNw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/OHKLR2VM4JHAVIIGVRWDOIYANE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/06/20/young-man-eyes-bright-future-robotics/?outputType=amp",
-      "publishedDateTime": "2023-06-20T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

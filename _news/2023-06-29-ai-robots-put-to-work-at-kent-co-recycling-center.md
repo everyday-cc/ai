@@ -9,7 +9,7 @@ ampWebUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-ken
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:
