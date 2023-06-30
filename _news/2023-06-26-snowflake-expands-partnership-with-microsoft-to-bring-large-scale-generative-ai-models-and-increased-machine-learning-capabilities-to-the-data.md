@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-publishedDateTime: 2023-06-26T13:24:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+publishedDateTime: 2023-06-26T14:08:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
+webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Microsoft AI
@@ -123,6 +123,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
         width: 1108
         height: 630
+        isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
+    publishedDateTime: 2023-06-29T17:57:00Z
+    webUrl: "https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/i2bRbXBrVzVI1Ww7fdZ3f8YzHik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54MYZCHZONPHVCAQN35SDL6N2U.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
@@ -570,6 +584,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "h66yzUmtXVb56/r5nyPU8xXcyVxRg2K/uWoKb3EFTNX7HOTVLHP082IkOhZR0+j+J4BdYCIMbwnOKhbmmNiFObvXbHKU/K2LG79l25zLFwkMSqLQ3bqxPHNU0K5MfMy2JB16f8WUmKSA53pCVwnoaq7vb+GSotaMuisWs7hYS5pqkJRWeJ8J3epQqIxotVrGffb450nG7HsXtTLNqhA6j/1+xtZroyiZr/rA6thPO2Y7vtqHdkHI5ERdtwSrcLIzmr6FpQAo8RLO8uR7BKn9rQkOvqdzzZLZhRXtPNwoOYCurzfOWZ/0tdbjJtG9fdt+y5Xx1/k3uP/DLX3f/PMP0TIH4vLagx/g36CDGf/yjhA=;q5wAsq0+O6WYL/1z3gjQCQ=="
+secured: "nmsrw3HmUouA7ekvyg7eN5Hb+1X1k959pGPSZMomjdWRhQzp8TUZ/d+VMrYetFBPY6Z9+dOaXOFtQY7llP2lov+vmcDJo2yDX3xTPLcHY8Hg38LLmbwRufExAeI+uEXrt/rx1oE2/3lGJRTaqPhq9FZVp2GkYz+inBQAoYX/MfPm/mtUo2aMyhSj5QT1oaIf3+CeEKwRY6b+pETAvfrqTBvFvn7xeIlaQjIxHs3PyiAtUNqWSs7OiTkQemRi/Pjrz+jt7LqosHp8f2ZU3/navt7/WljYGKxjMSSDYWwPCiU2WO7csIF/CRzZJOJxHgielh6ywsYJ23QdU0hkguq9qAW+eQOlYk/QyhfcfsTZBM2r7PEmteWIdDrkcTPF0bkG6H8ag8tinb2uZuwyQOw8unPTlrPWfdX9Y5Af4S2gTPNULIGqtxfdNTDuX2kOxnscM2t6LSAeJO7wa+p4f/3Cec+HEwM3TAYfNTtXpgAMTWZMbvAFC59fWZiiLuewK9jQz99QQvnGv56rIBfBfw6cYw==;cyD2rmYlW7bffq8RynN81A=="
 ---
 

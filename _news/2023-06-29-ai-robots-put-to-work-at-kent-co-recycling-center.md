@@ -9,7 +9,7 @@ ampWebUrl: "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-ken
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 85
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI robots go to court"
-    excerpt: "Consider the recent words of Mr. Sundar Pichai, the CEO of Google, who admitted in April nobody really understands how Google’s new AI named “Bard” works. “There is an aspect of this,” Pichai said, “which we call — all of us in the field call it as a ‘black box."
-    publishedDateTime: 2023-06-25T07:45:00Z
-    webUrl: "https://www.normantranscript.com/news/business/ai-robots-go-to-court/article_3cd3bc4a-1089-11ee-b542-f780ea9b84b2.html"
-    type: article
-    provider:
-      name: The Norman Transcript
-      domain: normantranscript.com
-    quality: 56
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319"
-        width: 600
-        height: 319
-        isCached: true
   - title: "Grand Rapids Recycling Facilities Install AI Robots to Help Sorting"
     excerpt: "The recycling facilities in Kent County, Mich. Will now have four new robots for sorting, three of which will be powered by artificial intelligence."
     publishedDateTime: 2023-06-29T15:02:00Z

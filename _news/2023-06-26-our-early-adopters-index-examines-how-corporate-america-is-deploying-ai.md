@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/business/2023/06/25/our-early-adopters-i
 webUrl: "https://www.economist.com/business/2023/06/25/our-early-adopters-index-examines-how-corporate-america-is-deploying-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "3 stocks set to lead a booming AI networking market that will grow 5x to $10 billion by 2027, according to Bank of America"
-    excerpt: "As big-tech cloud providers begin to integrate generative AI into their centers, demand for certain hardware will skyrocket."
-    publishedDateTime: 2023-06-25T08:59:00Z
-    webUrl: "https://www.businessinsider.com/ai-stocks-to-buy-lead-booming-network-market-artificial-intelligence-2023-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/6495f26ac218ba0019a7f11a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "arxQgM6pv3vkk+FeyAqxB2RgZa6Yir//xstHq4BnmyMpOWqMNkJ6/iQbyCg/Sn0mPeAhxgN6Hy8h59Fd+mOFxw86l4us8Qby2VLvMscCXV3BOg0OVATRlFLdAK7JOPsBMLihyNCR0/M0wkwKJ2PzSHAFG1mWHarMrif/7jwGL9m68537tzw4Dx6M/9ailQgUcLSx/h4Plqsalh1XNpXvHWaeo4MvAoqbW9Q1ZjcLLw5cPtPhRf9FK0k1aHxXnkQvuTzWpH2JebM0pteq1IiumJzV5vC62aUICmWFdbZJJTCY/M1cv6Gv9qB0rnEUygwXv4m1EHTRDw2EBuR7x47sNYwcqKLA3xR3j4hd0PZZ4QqPiOik2AQPMUkG7HAUhn73CAghejET3PFbLpuZblP7fJzeXhVWk+FmSCtWq3P6fnnmVYWq1J2GkKOoKindeRTaK06XtFlkINpxdmi1JjUzAdI1xJN6PChyimMOYD242i1GqxNtEW3bc7kkitc5DLy/dAffoHSLxtoyUlxmTE0ZQA==;41//oS1Mc/qiQkOoJaeGkg=="
 ---

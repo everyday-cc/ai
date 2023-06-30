@@ -91,6 +91,20 @@ related:
         width: 1525
         height: 900
         isCached: true
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Oracle taps generative AI to streamline HR workflows"
     excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
     publishedDateTime: 2023-06-28T21:19:00Z

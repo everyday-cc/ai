@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-17-best-ai-cryptos-to-invest-in-artificial-intelligence.md",
+      "title": "Best AI cryptos to invest in Artificial Intelligence",
+      "excerpt": "Fetch.ai is a man-made intelligence-centered blockchain project that intends to make a decentralized computerized economy driven via independent monetary specialists (AEAs). These AEAs address artificial intelligence specialists equipped for performing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "originalUrl": "https://www.ghanabusinessnews.com/2023/06/17/best-ai-cryptos-to-invest-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ghanabusinessnews.com/wp-content/uploads/2018/07/bitcoin.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghana Business News",
+        "domain": "ghanabusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-opinion-the-fifth-beatle-is-artificial-intelligence.md",
       "title": "Opinion: The fifth Beatle is artificial intelligence",
       "excerpt": "But now there’s a 21st century contender for the honor: artificial intelligence. Sir Paul McCartney’s revelation to BBC Radio 4’s “Today” program that AI-assisted tinkering with John ...",
@@ -1344,49 +1387,6 @@
       "provider": {
         "name": "National Review",
         "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Chicago Selected as Host Site for a 3rd Time for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "The Mark Cuban Foundation's Artificial Intelligence Bootcamp Initiative Teaches AI Concepts to Underserved High School Students through a 4-Saturday Bootcamp in the Fall CHICAGO, June 06, 2023 (GLOBE",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32745319/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32745319/chicago-selected-as-host-site-for-a-3rd-time-for-artificial-intelligence-bootcamp-applications-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32745319",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32745319",
-      "publishedDateTime": "2023-06-06T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

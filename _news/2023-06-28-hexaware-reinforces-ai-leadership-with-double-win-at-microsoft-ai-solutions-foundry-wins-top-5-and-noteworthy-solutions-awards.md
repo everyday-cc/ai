@@ -123,6 +123,20 @@ related:
         width: 1108
         height: 630
         isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
+    publishedDateTime: 2023-06-29T17:57:00Z
+    webUrl: "https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/i2bRbXBrVzVI1Ww7fdZ3f8YzHik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54MYZCHZONPHVCAQN35SDL6N2U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -560,13 +574,13 @@ related:
       domain: inferse.com
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+    excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+    publishedDateTime: 2023-06-26T14:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 12
 
 secured: "2a6wm4BcFHzqn1xTteniwFy/+oWmAFQLWDfX3W08/t3ggTPhrVq5Rjm7cXAqgnDwql5FP/G6ZO8/XmtDICVub+xWgqZJdwuX3GMSNirka9VPfZtDFwftc5Penx6pnvKkhgFu15L+kpfODTxhhYCi1Hs9wO6ah6jZoYLtbNpFij0XYAFQXT9qjdAZkNQeDLFCYjfhW7SXHDlgE9w5X8DaqVrP17ttsS+VixlJQ5fXwa+CWuTtD3kJ1cKwByliEjKXAi30RJ40rO9ajnkSaJKATN7To0Wbx22rBB8kG+Y+N75BRRIiru2WTPsLQ8FMp71l+tOdt7RIdE07ArIG7Lxpz5+GxpJt00D6VyGy4Bv1pJc=;37SyDt3vxIGp5oLxSu7+mA=="

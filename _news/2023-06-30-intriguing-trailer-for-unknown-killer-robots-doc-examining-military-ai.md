@@ -7,7 +7,7 @@ originalUrl: "https://www.firstshowing.net/2023/intriguing-trailer-for-unknown-k
 webUrl: "https://www.firstshowing.net/2023/intriguing-trailer-for-unknown-killer-robots-netflix-doc-on-military-a-i/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 391
     isCached: true
 
-secured: "HjB2kZHQNLkCSnaW/ELWkCQhLF0bhRxxlxYdrJWZS5/e2gpRTn6oCc0I4uH3fnD1VSAVNhYBB/HVwJPm/3OhOWivtpbSZ9BctElmyCphO9Wpo03r3Ms9q+j7UZeaHo8PdV3HJ8vf9a11aCQ14VsMTW83D46SEDV/An323Dq0p09Rl58udapM5o9sP0Mh5cYXe5JXAE8kDJ+WgVUsQt4Lp9i6Euw631izs42xbw7LJwPt0wRBqbU9uK/YWJ1TUWXjss3F8WLg9/0OKF4DEF1JgCVl2eq3H6G+E+g895EAWZV2VGK2EX8hMaBMlSGbbJNxydICOEdb2Au+cJnwvzRRBDvRPzmeHbX+En5QxuFa9XM=;VQsqjzAeUACMCC2h5pRsqg=="
+related:
+  - title: "Netflix's First Look At Killer Robots Documentary Is Like Black Mirror Meets Terminator, And It's Nightmare Fuel"
+    excerpt: "If you need nightmare fuel to keep you grounded between summertime activities, one of the big streaming services will (soon) have something to watch for that. One exciting and chilling new documentary that is set to be new on Netflix in July is called Unknown: Killer Robots,"
+    publishedDateTime: 2023-06-30T01:12:00Z
+    webUrl: "https://www.cinemablend.com/streaming-news/netflix-first-look-killer-robots-documentary-black-mirror-terminator-nightmare-fuel"
+    type: article
+    provider:
+      name: Cinema Blend
+      domain: cinemablend.com
+    quality: 18
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/H8wbXyN58gYH2pzh5mYK55-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "3rLe1NQwZMpfrkBCQR8pWPSB5pzDNhmmKmyW4++Zbxx1fjcPHPBBGRexlvARJ7EauHPkJd2hQeODvebG3coRs3SIyyzX/SobW0Sj5ScnPbfkcagGBwF65lAV+92iANqExtZUCn5uabFkYTa1z5VRWD6y0XJKf0sGeYbYZOEVgk7mynNf9DYcR1MlmZNhjHwU1mpVKe1NXM4YuMuF0LEfOxjzzEqu8ESSV5NrsNQ8isIlv2TjBK3ijsb8m9LNHsgkda+37tyymp/Bj34HBBdhuDuXusy7wMcErJ7o3QBXKvY9yOzyTlkgN80G7F8Zjuy9d3f26eEtSxwcfUUnJNCrIqpXAVqiD6rP++AuNlfCc+2rr69I6uJgKhv9XM1K/3gQm+q674UHxqc8arrQdR/RHUnl4/V5Yi+OjzrHwrpevi2OVPEzBMzlTvv9dF3QFBRcTHxWglKUTjkoi9pmyb2pA0ApOikusVodHBKbkX9HZ6kiMqrheV/HeSN1erd7rM1mLiPVXUULCceqyWvc92O78A==;qK0WoKzlgU2SGaBrrMo8ZA=="
 ---
 

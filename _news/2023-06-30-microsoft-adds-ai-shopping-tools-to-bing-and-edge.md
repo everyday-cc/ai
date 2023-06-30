@@ -120,6 +120,20 @@ related:
         width: 1108
         height: 630
         isCached: true
+  - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
+    excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
+    publishedDateTime: 2023-06-29T17:57:00Z
+    webUrl: "https://www.reuters.com/technology/inflection-ai-raises-13-bln-funding-microsoft-others-2023-06-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/i2bRbXBrVzVI1Ww7fdZ3f8YzHik=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54MYZCHZONPHVCAQN35SDL6N2U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
     excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
     publishedDateTime: 2023-06-26T07:00:00Z
@@ -557,13 +571,13 @@ related:
       domain: inferse.com
     quality: 14
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
+    excerpt: "NYSE:SNOW) Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
+    publishedDateTime: 2023-06-26T14:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/06/26/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 12
   - title: "Hexaware Reinforces AI Leadership with Double Win at Microsoft AI Solutions Foundry - Wins Top 5 and Noteworthy Solutions Awards"
     excerpt: "India], June 27: Hexaware Technologies, a leading global provider of IT services and solutions, has been honored with two prestigious awards at the Microsoft AI Solutions Foundry Program. Competing against more than 30 outstanding teams,"
@@ -575,6 +589,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "azOoTpPlDwgkPEV0AK8Six+qVL1ZvZfNKaSymNTUk1cFUqaRog+on1I8jN/etM1bbROKSCM4KKHQao4UHp/HoaRiavZJBiDXrcEtcxtg3MQOwqtnpCUlTJtF4XS/XClko1CIKjKsx7a2tfKU8gbLxs4XUTtbIqpWrRY7EOG53sx2YKRtTQtvvBvRM7WQEdPd+e/Tl85gVJHExXwJLNotop/exG/pmd1rhrBaM/FQ3vhplW2fILbMfXrVkd+ZLKKGSSkROL5/1VorbX+O02d65pIbLXiCXHe6UXHSbswUV6eFGTAq0v0gC5BPtW91AyOpNEpc/BE2jXmB+L0U5/OKXTURLogIcR4jNTAolE1UyD0=;9VD16QipI9GyDGWJ4gX7iw=="
+secured: "f8JdRSlQ2hvkSp7iLx5TI1q6gB8GqSdKBMiL/BgVC41L8tPrXhFbmkQD0VTZM5AstTLFlepaupV8U0XktoQ1B0xDm7E0+8iaMPb7s5IAUWpcZk1gl5G7IURLld4zIx/dZ3t5n+cxwKFZcGE4zQFPXXemJZxW1Iw7sysixcnCVIyOxWVouSgQgQAkHJ54zgz/ClxToEXuLnClSZ2DpPZE/fRft72+DAQ/ApP9W5uZD8y+xbz3Gt6R6AlO8xnaFeMJDxTSPT3cTaszsjeUldeedS1wE5VI8a6cbkOsl6ETGeZIiqNCOLtR4r7Z+0Eo0RGSRPbyyUe+Hgfq0kAHosh/Pe+EASeY8XXBenFmHZib/WI1863a4IAPlpa8xxPP3Bn5Sagg3iQ27/Ln1k1KP+AFitchSYC8cvV4bnNwY5zveK7NuZyhiX4sFpUtfT+i2jQBX8tqH2bxr10cAQHkA4PxBjeInvUAYUDpJ8epRK+HjVZN36jrRDgLfpCy0zQMc70dhYmSvpdrwzy9tRfBPBmubg==;+lwSF3hiA18FJvH6Qgoq4Q=="
 ---
 

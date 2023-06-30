@@ -33,6 +33,15 @@ related:
       name: Time
       domain: time.com
     quality: 49
+  - title: "How artificial intelligence is dividing the world of work"
+    excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
+    publishedDateTime: 2023-06-30T00:01:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/30/how-artificial-intelligence-is-dividing-the-world-of-work/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "qZxj7Kj7IYE3k7MgZ5PnyRU6UI96C30ONjZ3r5m1Z2iUTlauYR7bkWsj+i7SxIa743VGI9Ro/R4tiJGcW3i+EfdHjEKCfyCmb6d5ykeWXorIqUsEyRm0likA9iAptjUJK/EGNztNILDuQO/hXP9WL8SsCq1PvYJ6+QsdsYb2GYd0lC6jvhCyt5T/58vfFT0wh96m/7JJgrwn4M9fgwfeN421Qa1Oah08fprDEiWQPbgiaO2KsOefyJF3SxcdJD3nmDp3JFYeT0W/B0Y9zGHlSJUSpnKVOVKMU75gJTRALEJ6c2HXxj/nSHOQywJzLZCwmDm6mQ0NqJL6xR+GzTdVH6Hs8Dp5CtzfEbZUnEYsk8f9BvbCG5kcmP0wWxxQ/r4M7gFdPPG7KMBw6kl8MYSF0RrgXvbDA6WsmGoB+5sZrLqCvaYwpCtwHG+kXzXsooc/+3XW/SGM6NppGgxibR0FQUUpodtX89EVt9pUkxZopYwFVhp9PgfOppXD60KiglrzhfeUOjvor8Es10PuAXXLpw==;BGMJRH7Vx2U9foyPSbIIYA=="
 ---

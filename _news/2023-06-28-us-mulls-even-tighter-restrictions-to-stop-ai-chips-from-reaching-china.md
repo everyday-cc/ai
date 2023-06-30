@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-s
 webUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

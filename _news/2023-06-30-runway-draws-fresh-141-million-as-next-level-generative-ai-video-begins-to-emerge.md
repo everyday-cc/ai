@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-29T19:16:00Z
 originalUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
 webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
@@ -275,6 +276,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "T91GeMEbM5BDZVGBhdTbPL0xHSlkkFJb0H3d8+Lc/AQF/aHahD/RaWKo/VeqWiq/pnYqd8Aw3PgzWEoeR7Bi9uzvmKcmbrasvYxLBee6QRQDhIdsgFw/N63K+yiI87ZFLzZLh2XUCbtw7dk1qcENFFKktQoCHZudPh3Pnf5+A3oy2uKvuVW0bMIfed8tUPHm6yKEycVI6Y1DuXwo3p5aYuJW9YBTZMFP7UIMe5YgsQDjQKwLGv9jPRqZchr7uARHAHbNm5raP3igpGpoRx2CVUs/xvZsH1yvZCFCRlAjBnRw2Leas//u17CZsD4C84yK3epfLe+jtQVI28lu7hZmHfITP2aHsbVxMSWcNny+Tdk=;1uERG1eyM+8mi6bj7xvS8A=="
+secured: "60iQjzqF6/Vwo3SG2siCG0FVHUEGBsmRSBZl/plG75Xx9Dqoh1l47cQ2lqSMpQIM2ZsFYzVDX+8jqIbBvQ0U3pCye4FNEYY1YamlluZQBQM590KTGQ56phj7ubbrc7v4LuiJ001TyF6aTD3QOjfYsO/5Lo8KHnCubtD350Eng6MbdWLxgZZ2qwfeoaUH68S7QrULf95ovI2r8P71LiLxIkWb2vyJe9RKzEiLxcIyRyjgsAirsPy49+BkhBnzdHohlli1PILCrbAJl1GcSPJwy5zgUwot6SRRDF0Ds+96s6dSa8qs6F13xetk6vGH1fmQV8CzBNRtaWn9GTc4uyZUW++GtriqCIlf7fbsIvulrwUpwSauJjv1BqKRW0WyYXa6YsoVZqFPRezOCC+rm3hX8Tt8xoox4LYcEiMv1vbAIyAgtCgbktNKE5+arApF9y9/Ola1webgrcKUu4cAc8Ygg/xxhweudiYdY4+rtX/sMV85jIzhHTSRuHsqJHDc6kIX+Cu3CAjXZPJRAEfCzwBQ9Q==;KVi5dr6q1C0+9RqPUf84qw=="
 ---
 
