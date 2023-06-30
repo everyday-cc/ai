@@ -409,6 +409,24 @@ related:
         width: 1000
         height: 625
         isCached: true
+  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
+    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
+    publishedDateTime: 2023-06-30T15:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842393.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services"
+    publishedDateTime: 2023-06-30T11:48:00Z
+    webUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 42
   - title: "Microsoft Bing Chat set to launch image recognition very soon"
     excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
     publishedDateTime: 2023-06-27T07:10:00Z
@@ -643,6 +661,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "ooUnCuVK2BCBhsMmdOGn77kG8rpcrDyoztaz1soE0xC7dUA6Hb3lPhUgq1GmmkV459nUBqbQe0f2uMaFR/dw3kKlvE73tEYcqz/996m9VPqiRWvdNT/gfgHYSWOi+UrSC5q25QkjyjFpzngSOaD8IpenknJues5ECHZpDL5kG7IVMOJ3nJjIZl9QkHXK+NqCsEDLHIm+k2OUKqRggzQH6PdGua2M20a78BvyfWyowB2DKqQocJgRnIGf1hdsYJnQVeo6s/0tN4fBfd/a9q7yDFMbk58evOsCZha5cma6UMc8Fp5aXrSpxGrbrQzryLIZ979Ys6p7LCI/YFdyrQScHfNd+PwYjcUZpcyFB13FhOk=;GtRFH44gS0ZKzakvn2SiJg=="
+secured: "DAVxnS7UdZFreKsYjy4a//CZQ4j4RzCq77Z73XfN7v7duQM6oTRf+7fFxytIP0FfQXj8/rdeRoUEi3qR1bdxPu9f1tTWZo6lGiIpLQ9RRoTesRxAIs8nbHvpvpRkJ8ocp89lo6boMXtcZndWD+JWmvxX6fYchxYE86naBWuNJSfL8iAIl/3NLLs/xHddGySbhzSGxYZxKoj+ngzZaPOIRsSNrGCSOQqJrF2ZBI95i9hmYPfALSBh2kLBJRSwZs0gK2gSCqRRc/vofASFWzRRL+gxx+/pIl7ybeeIPAQVpp2a9fdrtv6CpVMnlVQ/7aMsKlVi3TMgDV57HDBTRHi0AbuTTNlvOVy/yBSZ/ZkAvxX5WzXZFkdqi1BsOYiCNGjzCu/KJnCPT6sHw7OqJPXp82Bh+sS9QZBgNqDJjOyfCw1YGO2wKMBI7RC6eYcoVYrSIPa++jzPv9xWvR932+jOlhY2hksL1Ya/4avXk2SDhMqE2OO+RcSYEo8EGABO9cb67C8lL0hxyk0BRDkhdJUEoQ==;veLXRp7VIZ4Pt0lZxUa6CQ=="
 ---
 

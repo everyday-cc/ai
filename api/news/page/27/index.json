@@ -2,6 +2,580 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-06-12-how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform.md",
+      "title": "How Docus.ai Is Powering A Groundbreaking AI Powered Health Platform",
+      "excerpt": "Docus.ai has developed an innovative AI Health assistant leveraging ChatGPT to save lives. Learn how Docus.ai is focused on saving lives and improving healthcare access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64873a040574cb40e8d8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/06/12/how-docusai-is-powering-a-groundbreaking-ai-powered-health-platform/amp/",
+      "publishedDateTime": "2023-06-12T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-its-humans-and-ai-not-humans-vs-ai.md",
+      "title": "It’s Humans And AI, Not Humans Vs. AI",
+      "excerpt": "In 2013, IBM and MD Anderson embarked on a joint project ... The bar was set too high for Watson Health. In the area of diagnoses then, AI cannot replace humans—at least, not yet—but it can assist in certain diagnoses where there is enough data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6487382d36c8dc564b5004be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/06/12/its-humans-and-ai-not-humans-vs-ai/amp/",
+      "publishedDateTime": "2023-06-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud.md",
+      "title": "Microsoft has added ChatGPT into the secure US government Azure cloud",
+      "excerpt": "Microsoft has announced its Azure OpenAI Service is now available to the US government in an even more secure format, with specific compliance promised for regulatory standards for classification and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
+      "originalUrl": "https://www.techradar.com/news/microsoft-has-added-chatgpt-into-the-secure-us-government-azure-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E9JMqiF2RG9PQAUBVnHM6h-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-is-there-a-right-cloud-strategy-for-banking.md",
+      "title": "Is there a “right” cloud strategy for banking?",
+      "excerpt": "Looking at what cloud technology can offer central banks and the challenges they face in adopting it.\nThe post Is there a “right” cloud strategy for banking? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "originalUrl": "https://www.ibm.com/blog/is-there-a-right-cloud-strategy-for-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:34:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research.md",
+      "title": "AI researchers face higher risk of loneliness, insomnia and drinking: research",
+      "excerpt": "According to research published Monday by the American Psychological Association, artificial intelligence researchers are risking their mental and emotional health and are more likely to suffer ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/06/Artificial-intelligence_getty.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/4045392-ai-researchers-face-higher-risk-of-loneliness-insomnia-and-drinking-research/amp/",
+      "publishedDateTime": "2023-06-12T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-5g-network-rollout-using-devops-myth-or-reality.md",
+      "title": "5G network rollout using DevOps: Myth or reality?",
+      "excerpt": "How can IT DevOps principles apply to the deployment of a complex 5G network?\nThe post 5G network rollout using DevOps: Myth or reality? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "originalUrl": "https://www.ibm.com/blog/5g-network-rollout-using-devops-myth-or-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/dsc07568.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:16:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc.md",
+      "title": "Using the metadata service to identify disks in your VSI with IBM Cloud VPC",
+      "excerpt": "Recently, IBM Cloud VPC introduced the metadata service, which allows you to query data about itself and get identity tokens and more from the VSI. \nThe post Using the metadata service to identify disks in your VSI with IBM Cloud VPC appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "originalUrl": "https://www.ibm.com/blog/using-the-metadata-service-to-identify-disks-in-your-vsi-with-ibm-cloud-vpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/lhj_2193-edit-161212-gj.lr_2x1.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T07:09:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-cops-yell-at-stalled-self-driving-cruise-car-to-get-out-of-the-way-during-a-mass-shooting-in-san-francisco-video-shows.md",
+      "title": "Cops yell at stalled self-driving Cruise car to get out of the way during a mass shooting in San Francisco, video shows",
+      "excerpt": "A Cruise self-driving taxi disrupted emergency crews at a mass shooting in San Francisco on Friday night, according to witnesses and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "originalUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/648721831eeec400193dd877?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-driverless-car-blocks-first-reponders-mass-shooting-san-francisco-2023-6?amp",
+      "publishedDateTime": "2023-06-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging-talent-demands.md",
+      "title": "Fullstack Academy to Launch Programs in Artificial Intelligence & Machine Learning and Cloud Computing Amid Surging Talent Demands",
+      "excerpt": "National tech education provider Fullstack Academy today announced the launch of two new bootcamp programs: Artificial Intelligence (AI) & Machine Learning, and Cloud Computing. The curricula, designed and delivered by industry-experienced tech practitioners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/fullstack-academy-to-launch-programs-in-artificial-intelligence-machine-learning-and-cloud-computing-amid-surging/article_7f39b968-7bbe-532c-aa62-ceb7b19bd412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/20230531JuneJoplinMagazine-1.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-5-ways-to-explore-the-use-of-generative-ai-at-work.md",
+      "title": "5 ways to explore the use of generative AI at work",
+      "excerpt": "ChatGPT and other generative AI tools have captured the public imagination. Here's how you can turn a much hyped tool into a productivity boon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
+      "originalUrl": "https://www.zdnet.com/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 287,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6448985610910fb9c6027b90eaf317dac61b65da/2023/06/12/c6a475c6-2642-4195-b8e8-9aabbb64edee/gettyimages-1252207238.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-ways-to-explore-the-use-of-generative-ai-at-work/",
+      "publishedDateTime": "2023-06-12T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-overcoming-apprehension-using-generative-ai-in-grc.md",
+      "title": "Overcoming Apprehension: Using Generative AI In GRC",
+      "excerpt": "With the right safeguards in place, generative AI can help efficiently address the complexities inherent in GRC for use cases around regulations, policies and risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/12/overcoming-apprehension-using-generative-ai-in-grc/amp/",
+      "publishedDateTime": "2023-06-12T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-12-openai-deepmind-will-open-up-models-to-uk-government.md",
+      "title": "OpenAI, DeepMind will open up models to UK government",
+      "excerpt": "LONDON — Google DeepMind, OpenAI and Anthropic have agreed to open up their AI models to the U.K. government for research and safety purposes, Prime Minister Rishi Sunak announced at London Tech Week on Monday. The priority access will be granted in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/",
+      "originalUrl": "https://www.politico.eu/article/openai-deepmind-will-open-up-models-to-uk-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-how-ai-can-help-customer-experience-agents.md",
       "title": "How AI Can Help Customer Experience Agents",
       "excerpt": "When reading recent AI headlines, many people may be afraid of AI or worried that it will render their day-to-day roles obsolete.",
@@ -612,583 +1186,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features.md",
-      "title": "Scality ARTESCA 2.0 Object Storage Focuses On CyberSecurity And Enterprise Features",
-      "excerpt": "Scality ARTESCA 2.0 S3 software-defined object storage enables new cybersecurity and cyber-resilience capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648642d4a607fe1d81f4b945/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/11/scality-artesca-20-object-storage-focuses-on-cybersecurity-and-enterprise-features/amp/",
-      "publishedDateTime": "2023-06-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation.md",
-      "title": "Sunak Keeps Up Push To Make UK a Leader in AI Regulation",
-      "excerpt": "UK Prime Minister Rishi Sunak will on Monday keep up his push to give Britain a leading role in global regulation of artificial intelligence, while warning industry leaders the nation must act quickly to retain its position as one of the world’s tech capitals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-11/sunak-keeps-up-push-to-make-uk-a-leader-in-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMt.CfJNIqk/v1/1200x802.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-ai-jobs-with-mind-blowing-paychecks-of-375k-a-year.md",
-      "title": "AI jobs with mind-blowing paychecks of $375K a year",
-      "excerpt": "When we’re talking AI and jobs, it’s easy to be nervous that the tech will make yours obsolete. Scan this list to see if AI might change the way you work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "originalUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-jobs-with-mind-blowing-paychecks-375k-year.amp",
-      "publishedDateTime": "2023-06-11T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-amazon-bets-big-on-ai-how-the-company-is-investing-in-the-future-of-technology.md",
-      "title": "Amazon Bets Big on AI: How the Company Is Investing in the Future of Technology",
-      "excerpt": "and Amazon Rekognition. Finally, Amazon is more than just another e-commerce platform. It also operates a logistics network that is on par with United Parcel Service in delivering a package from a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-bets-big-on-ai:-how-the-company-is-investing-in-the-future-of-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-creating-a-strong-foundation-for-your-startup-with-ai.md",
-      "title": "Creating A Strong Foundation For Your Startup With AI",
-      "excerpt": "Startups must take proactive steps to overcome business challenges and get ahead. One of those steps should be implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64824c948f1cd79e3030c0ae/0x0.jpg?format=jpg&crop=2988,1679,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/06/11/creating-a-strong-foundation-for-your-startup-with-ai/amp/",
-      "publishedDateTime": "2023-06-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools.md",
-      "title": "Recruit teachers, upgrade labs to start AI, robotics classes: CISCE to schools",
-      "excerpt": "Syllabus prepared for subjects, uploaded on Council website The CISCE has already prepared the syllabus for the two new subjects - artificial intelligence (AI) and robotics - that are to be introduced in class IX from this academic session and uploaded it ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-100907494,width-1070,height-580,imgsize-86732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
-      "publishedDateTime": "2023-06-11T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-samsungs-chip-division-to-introduce-custom-ai-services-for-employees.md",
-      "title": "Samsung's chip division to introduce custom AI Services for employees",
-      "excerpt": "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg",
-          "width": 630,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230611000126",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126",
-      "publishedDateTime": "2023-06-10T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo.md",
-      "title": "New Trump Video Uses Matt Damon Monologue From ‘Air’ And Fake AI Photo",
-      "excerpt": "Trump’s campaign released a new video late Friday—the first since the former president was indicted on charges over his alleged mishandling of classified information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64853ab153c607d02d03689b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/06/10/new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo/amp/",
-      "publishedDateTime": "2023-06-10T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-11-how-could-ai-destroy-humanity.md",
-      "title": "How Could A.I. Destroy Humanity?",
-      "excerpt": "Researchers and industry leaders have warned that A.I. could pose an existential risk to humanity. But they’ve been light on the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/10/technology/ai-humanity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/11/business/00ai-existential/00ai-existential-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-10T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-how-ai-is-transforming-business-outcomes-across-industries-and-sectors.md",
-      "title": "How AI Is transforming business outcomes across industries and sectors",
-      "excerpt": "Why companies that embrace AI will find new and productive ways to integrate it with their existing workforces, products and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-is-transforming-business-outcomes-across-industries-and-sectors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1347947373.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-the-ethics-of-using-ai-in-education.md",
-      "title": "The ethics of using AI in education",
-      "excerpt": "The continuous advancements in AI technology and its ability to simulate human listening, speaking, thinking, and learning has seen it emerge as a promising tool to enhance student learning experiences. Some studies have demonstrated the positive impact of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
-      "originalUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/hdt9vp/article66936849.ece/alternates/FREE_1200/12EPBS_AI%20IN%20ED.jpg",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-ethics-of-using-ai-in-education/article66936845.ece/amp/",
-      "publishedDateTime": "2023-06-10T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-heres-whats-hot-and-whats-not-in-fintech-right-now.md",
-      "title": "Here's what's hot — and what's not — in fintech right now",
-      "excerpt": "That's as ChatGPT, the popular generative AI software from OpenAI which produces human-like responses to user queries, dazzled fintech and banking leaders looking to understand its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/10/money-20/20-2023-whats-hot-and-whats-not-in-fintech.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/10/money-20/20-2023-whats-hot-and-whats-not-in-fintech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107253379-1686234428699-Screen_Shot_2023-06-08_at_42638_PM.png?v=1686398310",
-          "width": 2546,
-          "height": 1904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/10/money-20/20-2023-whats-hot-and-whats-not-in-fintech.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/10/money-20/20-2023-whats-hot-and-whats-not-in-fintech.html",
-      "publishedDateTime": "2023-06-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

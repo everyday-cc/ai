@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Trusting Social brings AI-powered agents to enterprises"
-excerpt: "VOV.VN - Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-publishedDateTime: 2023-06-30T09:14:00Z
-originalUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
-webUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
+excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+publishedDateTime: 2023-06-30T11:59:00Z
+originalUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: VOV Online
-  domain: english.vov.vn
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
-  - Microsoft AI
-  - AI
   - AI in Finance
-
-images:
-  - url: "https://vov-media.emitech.vn/sites/default/files/styles/og_image_en/public/2023-06/signing%201.JPG.jpg?v=1688116468"
-    width: 600
-    height: 315
-    isCached: true
+  - AI
 
 related:
   - title: "Get Ready For AI-Powered Social Media Scams"
@@ -58,7 +51,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI permeates SA social media platforms"
+    excerpt: "Artificial intelligence (AI) tools are gaining ground in SA’s social media space, as more brands experiment with generative AI technologies to engage users. This is one of the key findings of the South African Social Media Landscape 2023 report,"
+    publishedDateTime: 2023-06-30T13:01:00Z
+    webUrl: "https://www.itweb.co.za/content/Gb3BwMWa3g4v2k6V"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
 
-secured: "/hSoX3Y4lewUUTly4fzG1irrQzBS0ZBqU/PIYvGQN29VJ4ofzQ+WuQey2atNQO0wtEdgqZlQW/ILiEjyv53g4NZPgCir2arwp/XDWeCIzK2zfuRA2RJbTI2nOO2o7chC3Ad8HU/GjrIUUG2lUZyeOU725ZGWmeFKO1k4h3AjbJUYBDfuwfl63yKAFiG84hSVBJTUeC/rWhp13Yt5fhMRjf5309mPJyOIKozOx0cpwX8cnO4xPyWQ+/gsJ9GI5ggGvd1V3rmub77cvvPwWEUgDqZFfICto3vsWditxl8s0XImx/XObdR8Y87RsTIy/xPYsWqf0BXqk814gvV52g6sp4dkfQ11ldycJqCed2DdW7M=;XsCoWQtvphdQJ2GSy6kpng=="
+secured: "xrS5JEMlNWBuyn6BnLinVLer65kWoi7e5jS8lHdtmv5h0Uq1ptQPAy4H+88JuYdChkbhhWp6WADbqF7yu0L0a8gjf1E33fY6bpJ1KtBlN34fnHG3fm8+8AWdcmgeRAYK+Xy5mIyUL+0RbvmqHL+IqCmYliQDtpjJg1q3GWRi25BYKJptNdEOe6w1OkTps16Phh6B75hX7BAEsMTZqYneI3QmFbH15IjnXT9I/gh1U7MMYMW0VoUQMSCO0wXQ2Lj1pUaGVTBRDTYjQ2/iNRi6QDQjJYvn7iqs1oYjnN0+ldLle1qtgn5seQATXy++gA6qny95eg4swqEXMAvP0x6x/9uGpP5Eh7eEJx0DbNBefTaN+X9AulV8AGbLUUtGwVnf0JGwur444s2yrXIGXQ9eCd2vrQseKLsRhzfHVLGr4lYg7o3nH1nbdcvid59hP8n4Zto3rJ5jNUF9KOzWdx9VC5Dy4tRClXk8twTgiTf7Ps13e+YCbrP9doL+2ddbEVzhRZSjfPnMnbMG7HMg/1naEg==;y7r07bVLDSOVI33Z6flwyw=="
 ---
 

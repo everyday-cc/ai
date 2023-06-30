@@ -2,6 +2,602 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-06-09-tensorflow-lite-c-api-reference.md",
+      "title": "TensorFlow Lite C API Reference",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "originalUrl": "https://www.tensorflow.org/lite/api_docs/c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-which-cars-have-self-driving-features.md",
+      "title": "Which Cars Have Self-Driving Features?",
+      "excerpt": "A self-driving car (sometimes called an autonomous car or driverless car) is a vehicle that uses a combination of sensors, cameras, radar, and artificial intelligence (AI) to travel between destinations without a human operator. Companies developing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
+      "originalUrl": "https://www.jdpower.com/cars/shopping-guides/which-cars-have-self-driving-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jdpower",
+        "domain": "jdpower.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-ai-chips-could-help-intel-stock-nasdaqintc-regain-its-footing.md",
+      "title": "AI Chips Could Help Intel Stock (NASDAQ:INTC) Regain Its Footing",
+      "excerpt": "Intel (NASDAQ:INTC) stock seems to be stuck in neutral, but a new focus on artificial intelligence (AI) chips could help the company regain",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chips-could-help-intel-stock-nasdaq-intc-regain-its-footing-1032379568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-156.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 781,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments.md",
+      "title": "Microsoft unveils Azure OpenAI Service for Government & AI customer commitments",
+      "excerpt": "Microsoft announced its new Azure OpenAI Service for government and the tech giant unveiled a new set of three AI commitments to its customers",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-unveils-azure-openai-service-for-government-ai-customer-commitments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_u.s._flag_made_out_of_computer_code_edcc3754-3681-4c8e-8cc6-5e39e2d58c06.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-ai-startup-cohere-now-valued-at-over-21b-raises-270m.md",
+      "title": "AI startup Cohere, now valued at over $2.1B, raises $270M",
+      "excerpt": "Cohere, a generative AI startup with ties to Google, has raised $270 million in a round that values the company at over $2.1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "originalUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?resize=1200,420",
+          "width": 1200,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/08/ai-startup-cohere-now-valued-at-over-2-1b-raises-270m/amp/",
+      "publishedDateTime": "2023-06-08T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger.md",
+      "title": "Meta unveils plan to infuse generative AI into Facebook, Instagram, Messenger",
+      "excerpt": "Mark Zuckerberg, the CEO of Meta , recently shared his plans to integrate generative artificial intelligence into popular platforms like Facebook, Instagram, and Messenger.Generative AI has",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
+      "originalUrl": "https://www.thenews.com.pk/latest/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-06-09/1078378_023343_updates.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1078378-meta-unveils-plan-to-infuse-generative-ai-into-facebook-instagram-messenger",
+      "publishedDateTime": "2023-06-08T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-uks-plans-for-first-global-summit-on-ai-safety-draw-criticism.md",
+      "title": "UK’s plans for “first global summit” on AI safety draw criticism",
+      "excerpt": "These worries were recently amplified by some AI experts likening the potential threats posed by AI to those of pandemics or nuclear weapons. \"AI\" has also been an extremely buzzy term in business recently.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/uk_ai_summit_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/uks-plans-for-first-global-summit-on-ai-safety-draw-criticism/amp/",
+      "publishedDateTime": "2023-06-08T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals.md",
+      "title": "LinkedIn is adding AI-powered tools to help marketing professionals",
+      "excerpt": "LinkedIn has been quick to adopt generative AI tools on its platform, such as AI-generated Recruiter messages and profile sections, to help both businesses and professionals reach their goals. On Thursday, LinkedIn introduced AI-generated Copy Suggestions, powered by advanced OpenAI GPT models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
+      "originalUrl": "https://www.zdnet.com/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/082aa5e66f966b8c65a199f933d9a9c62c40e43b/2023/06/08/e7f2ec41-4941-4938-8aba-a10ddc1bcf5f/gettyimages-1239071698.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-is-adding-ai-powered-tools-to-help-marketing-professionals/",
+      "publishedDateTime": "2023-06-08T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters.md",
+      "title": "Segway partners with Drover AI, Luna to bring computer vision to e-scooters",
+      "excerpt": "Segway-Ninebot is partnering with Drover AI and Luna Systems to integrate their sidewalk riding detection tech into its AI-enabled e-scooters.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
+      "originalUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Segway_Ninebot_Booth_Micromobility_Europe_2022.jpeg?w=1168",
+          "width": 1168,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/07/segway-partners-with-drover-ai-luna-to-bring-computer-vision-to-e-scooters/amp/",
+      "publishedDateTime": "2023-06-08T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift.md",
+      "title": "Human Connection In The Digital Age: Leadership Lessons From Hybrid Work, Generative AI, And Taylor Swift",
+      "excerpt": "As hybrid work and generative AI advance, effective leaders recognize and tap the need for human connection to make their workplaces more desirable and productive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/",
+      "originalUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6481d37a8043380174214435/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbremen/2023/06/08/human-connection-in-the-digital-age-leadership-lessons-from-hybrid-work-generative-ai-and-taylor-swift/amp/",
+      "publishedDateTime": "2023-06-08T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-08-exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart.md",
+      "title": "Exploring Generative AI in conversational experiences: An Introduction with Amazon Lex, Langchain, and SageMaker Jumpstart",
+      "excerpt": "Customers expect quick and efficient service from businesses in today’s fast-paced world. But providing excellent customer service can be significantly challenging when the volume of inquiries outpaces the human resources employed to address them. However, businesses can meet this challenge while providing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exploring-generative-ai-in-conversational-experiences-an-introduction-with-amazon-lex-langchain-and-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/06/LLM12016-arch_diagram-new.png",
+          "width": 1139,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T10:51:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-09-dont-bank-on-ai-predicting-the-stock-market-anytime-soon.md",
+      "title": "Don't bank on AI predicting the stock market anytime soon",
+      "excerpt": "The idea of artificial intelligence being able to predict the market is a pipe dream, according to Wall Street vet Marty Chavez. Here's why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6",
+      "originalUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64820c2d8f265d001998c5e8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/can-ai-predict-the-stock-market-marty-chavez-sixth-street-2023-6?amp",
+      "publishedDateTime": "2023-06-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-google-translate-vs-chatgpt-which-one-is-the-best-language-translator.md",
       "title": "Google Translate vs. ChatGPT: Which One Is the Best Language Translator?",
       "excerpt": "We put ChatGPT, Bing AI, and Google Bard to the test, asking people who are fluent in seven, non-English languages to rate how AI chatbot results compare to responses from Google Translate.",
@@ -620,585 +1216,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government.md",
-      "title": "Hamdan bin Mohammed launches Dubai Centre for Artificial Intelligence to accelerate AI adoption in government",
-      "excerpt": "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of The Executive Council of Dubai and Chairman of the Board of Trustees of the Dubai Future Foundation, t",
-      "sourceUrl": null,
-      "webUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
-      "originalUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emirates247.com/polopoly_fs/1.712892.1686234760!/image/image.jpg",
-          "width": 2048,
-          "height": 1362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
-      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/hamdan-bin-mohammed-launches-dubai-centre-for-artificial-intelligence-to-accelerate-ai-adoption-in-government-2023-06-08-1.712890?ot=ot.AMPPageLayout",
-      "publishedDateTime": "2023-06-08T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Emirates247",
-        "domain": "emirates247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-exploring-how-the-human-brain-and-artificial-neural-networks-assemble-knowledge.md",
-      "title": "Exploring how the human brain and artificial neural networks assemble knowledge",
-      "excerpt": "As humans explore the world around them and experience new things, they innately start to make sense of what they encounter, creating mental connections between the objects, people, places, and events they encounter.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/exploring-how-the-huma.jpg",
-          "width": 946,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-exploring-human-brain-artificial-neural.amp",
-      "publishedDateTime": "2023-06-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-impact-of-ai-on-strategy-games.md",
-      "title": "The Impact Of AI On Strategy Games",
-      "excerpt": "AI is already playing a big role in the development of digital strategy games, and its influence will only grow as the tech gets better and better. How will this influence change the way users experience their gameplay? Here are four key ways AI technology will impact the future of strategy game development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6256dda687bf08ec5a185a6b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-impact-of-ai-on-strategy-games/amp/",
-      "publishedDateTime": "2023-06-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf.md",
-      "title": "Apple Displaced As Top Holding By AI-Play Big Tech In Robot-Run Large-Cap ETF",
-      "excerpt": "In a surprising twist in the world of AI-driven investment, the Qraft AI-Enhanced U.S. Large Cap ETF (NYSE:QRFT) has displaced Apple Inc. (NASDAQ:AAPL) as its top holding, replacing it with another big tech player,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/apple-displaced-as-top-holding-by-ai-play-big-tech-in-robot-run-large-cap-etf-1032378628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/TCS_Invests_In_AI_1.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware.md",
-      "title": "To combat GPU shortage for generative AI, startup works to optimize hardware",
-      "excerpt": "AI startup CentML aims to help address the worldwide shortage of GPUs for training and inference of generative AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
-      "originalUrl": "https://venturebeat.com/ai/to-combat-gpu-shortage-for-generative-ai-startup-works-to-optimize-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
-      "title": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold",
-      "excerpt": "AI Chips Are Hot. Here's What They Are, What They're for and Why Investors See Gold SAN FRANCISCO (AP) — The hottest thing in technology is an unprepossessing sliver of silicon closely related ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2023-06-01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-value-of-virtual-physical-therapy-for-musculoskeletal-care.md",
-      "title": "The Value of Virtual Physical Therapy for Musculoskeletal Care",
-      "excerpt": "Patient-initiated virtual physical therapy (PIVPT) changes the landscape of musculoskeletal ... such as health coaching or PT provided by artificial intelligence–driven software. Our estimate of the per-patient gross savings and ROI of PIVPT is likely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/the-value-of-virtual-physical-therapy-for-musculoskeletal-care",
-      "originalUrl": "https://www.ajmc.com/view/the-value-of-virtual-physical-therapy-for-musculoskeletal-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/mjhlifesciences.com/sitelogos/AJMC_1200x637.png",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-ai-and-the-economy-what-has-changed.md",
-      "title": "AI And The Economy: What Has Changed?",
-      "excerpt": "The economy will change markedly due to ChatGPT and similar models. After years of gradual advances, the latest tools will lead to a huge shift in the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/",
-      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647e1daafc74342c7713b285/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/06/08/ai-and-the-economy-what-has-changed/amp/",
-      "publishedDateTime": "2023-06-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-weakness-of-artificial-intelligence-in-marketing.md",
-      "title": "The Weakness Of Artificial Intelligence In Marketing",
-      "excerpt": "Artificial intelligence (AI) is the new \"internet.\" Like the internet, AI has created a lot of these same responses. The stark reality is technology has never gone backward. It marches on, and how we respond to these developments for better or worse is what shapes the outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6480df6d3a8f502c9a595936/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/08/the-weakness-of-artificial-intelligence-in-marketing/amp/",
-      "publishedDateTime": "2023-06-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023.md",
-      "title": "Generative AI Is ‘Emerging Opportunity’ For Gaming Investors In 2023",
-      "excerpt": "Venture capitalists and other gaming investors should consider generative AI as a huge emerging opportunity, according to PitchBook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6480ea0b59cee9714cd235e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/06/08/generative-ai-is-emerging-opportunity-for-gaming-investors-in-2023/amp/",
-      "publishedDateTime": "2023-06-08T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech.md",
-      "title": "The Multidimensional Relationship Between AI And Cybersecurity And Its Impact On Fintech",
-      "excerpt": "The relationship between AI and cybersecurity has massive implications for the banking ecosystem and can be explained by looking at three different dimensions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/603e3db037a40065dd90c173/0x0.jpg?format=jpg&width=1200",
-          "width": 797,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/08/the-multidimensional-relationship-between-ai-and-cybersecurity-and-its-impact-on-fintech/amp/",
-      "publishedDateTime": "2023-06-08T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.md",
-      "title": "Microsoft launches GPT-enabled Azure AI for US government agencies",
-      "excerpt": "Microsoft has announced the availability of a new Azure OpenAI service, designed specifically to meet stringent requirements of US government agencies. These generative AI capabilities offered by the new service can help US government agencies improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
-      "originalUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_716332027-100940548-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3699110/microsoft-launches-gpt-enabled-azure-ai-for-us-government-agencies.amp.html",
-      "publishedDateTime": "2023-06-08T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

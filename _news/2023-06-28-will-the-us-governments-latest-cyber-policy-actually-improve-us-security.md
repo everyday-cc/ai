@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why healthcare in the cloud must move to zero trust cybersecurity"
+    excerpt: "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks."
+    publishedDateTime: 2023-06-30T14:07:00Z
+    webUrl: "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Uncovering How AI's Dual Relationship With Cybersecurity Operates"
     excerpt: "Cybersecurity has evolved and played a pivotal role in AI discussions due to threat feeds, AI platform protection and the need for rapid data analysis."
     publishedDateTime: 2023-06-28T13:45:00Z

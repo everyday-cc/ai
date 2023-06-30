@@ -402,6 +402,24 @@ related:
         width: 1000
         height: 625
         isCached: true
+  - title: "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year"
+    excerpt: "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award."
+    publishedDateTime: 2023-06-30T15:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842393.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
+  - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
+    excerpt: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services"
+    publishedDateTime: 2023-06-30T11:48:00Z
+    webUrl: "https://www.siliconindia.com/news/general/tech-mahindra-integrates-microsoft-azure-openai-to-boost-enterprise-knowledge-search-nid-223864-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 42
   - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud, AI technologies"
     excerpt: "Trusting Social, a leading Asian fintech AI company, on Thursday announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises. The Agent Foundry will integrate Microsoft Cloud and ..."
     publishedDateTime: 2023-06-30T11:54:00Z

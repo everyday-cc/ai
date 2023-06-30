@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-av
 webUrl: "https://markets.businessinsider.com/news/stocks/kyvos-announces-availability-of-analytics-acceleration-semantic-layer-as-azure-application-on-marketplace-1032415935"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "Sports Info Solutions acquires basketball analytics provider Blueprint Stats"
+    excerpt: "The acquisition will combine SIS advanced data, analytics and AI engines with Blueprint Stats’ stat-taking technologies to enable an end-to-end data and analytics offering."
+    publishedDateTime: 2023-06-30T14:32:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/30/Technology/sports-info-solutions-blueprint-stats.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 1
 
 secured: "y6vWhe0zQkmk1J8bDkvQDYUz0RFUGJGT+hqlFp41Phpv7HL76zlV9Jfmm9ogJfG5/S6e09QwUrxSkpUrv/Ru2CQgMRvqv/zzuMuRlWrNM7c8LwTgWD/RFrsRsIZNALtbLO6JUyCCswJgjdy+wTSiPPJsqRsQY7RWo7S5nTeDla8kHhXQhqaHvTIEIvHW73QzLziVSVATYmtUDoHGeUgk18KytVHvw2RMaHk8/lrqzk8KhpnvUj2LmoE3DwQdl8gFj5JpIMHVFs+IQR6W6uv3D9TvkzDZMFpVgHxH5IYG+m16rMgflNYfnl3lmHH6mlb7RYuw6R1My7wBMFtgQcScyARwsNQ+ucu+h7Z7D15G2aS/+Cx55MOm+gd+Sa8S+UZkAOSavNb4v8Kz/mATZ/REQTi9djWgj43ZygxZlUHnPaSautZLcJbU6ZcCe4WLm3WBRZSK65e9f4U2OfSwB9euWgD0/cVBNCmuHgP4oIu5SW8C7vJOwO8U/sEJm1wHtIqRfStJsfuetoXmEaLO9R8c4A==;cGfXxNjy6WAcHUSPgaRzHA=="
 ---

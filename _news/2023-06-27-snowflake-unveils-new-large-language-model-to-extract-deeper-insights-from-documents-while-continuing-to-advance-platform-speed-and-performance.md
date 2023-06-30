@@ -39,6 +39,15 @@ related:
         width: 1199
         height: 599
         isCached: true
+  - title: "Snowflake Concludes its Largest Data, Apps, and AI"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, last week concluded its fifth-annual Snowflake Summit conference and its largest data, apps, and AI event with nearly 12,000 in-person attendees live in Las Vegas,"
+    publishedDateTime: 2023-06-30T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-concludes-its-largest-data-apps-ai-event-/2023/06/30/9842339.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "/Z6NiSKgcA2lfG8MHv0Obvhlm/Ox68W531ZbHuLg6oDcHi8wG9RvL5g1eyPYGg47xQONTLu7hdXHWv0STt3ZMC7oT2lz7VlNl4Y/kLDgfs+/jdL04KKgQ4fwM1rt2J0/oA1Czh4jxwWrkBkj8rmkapNYadH2cl+V2EGT4Spq7TzcWbrasLjyssrkTTEJEBRsb5FCxdLrohM3IDnoddBHjs17mQWR8+0uTOz1RtMlnXMGeNGpNN1lHe+4/yY9ktp/dc3WXCb5sfc7LvOFuJU9vA5Fc/Pw/JXHL8ZqQkTgMtkcASSnG7MANVb5GpiBuBoUNaLhjzHHOR7QgKve/MyjIpst+gl2l1lxEM2LdnhMhDtjOTb6md+1WUSujBxfvIDoS2oDBa1MDgMmYG1o+gUXMMhGYAz5axrrgpJgIyinDXq+ZRF9ClwzXisPElghBddPtbWZv4mTmLJQqnlCNH/dIZwcjtAJ8SeBGJGL4krUdhQN6JbGLg2B2Us7XU6tdtWu2o8n0Vk38F19TVmijqTqcA==;7y1bXfrOQEH2NlLpIGPbFA=="
 ---

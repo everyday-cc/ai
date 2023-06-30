@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-co
 webUrl: "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
     excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
     publishedDateTime: 2023-06-26T19:57:00Z

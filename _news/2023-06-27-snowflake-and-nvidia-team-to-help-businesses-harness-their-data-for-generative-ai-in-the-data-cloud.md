@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
+    excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
+    publishedDateTime: 2023-06-30T14:08:00Z
+    webUrl: "https://www.wsj.com/articles/businesses-cfo-aim-to-harness-generative-ai-to-shake-up-accounting-finance-f427ff"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-809446/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Generative AI vs. Machine Learning"
     excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
     publishedDateTime: 2023-06-29T23:49:00Z
@@ -140,6 +154,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key"
+    excerpt: "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly."
+    publishedDateTime: 2023-06-30T14:41:00Z
+    webUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "AI is the future, but we need to have a responsible future"
     excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
     publishedDateTime: 2023-06-26T11:17:00Z
@@ -239,6 +267,20 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
         width: 2000
         height: 1334
+        isCached: true
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"

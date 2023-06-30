@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,20 +47,24 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises"
-    excerpt: "VOV.VN - Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-06-30T09:14:00Z
-    webUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
+  - title: "AI permeates SA social media platforms"
+    excerpt: "Artificial intelligence (AI) tools are gaining ground in SA’s social media space, as more brands experiment with generative AI technologies to engage users. This is one of the key findings of the South African Social Media Landscape 2023 report,"
+    publishedDateTime: 2023-06-30T13:01:00Z
+    webUrl: "https://www.itweb.co.za/content/Gb3BwMWa3g4v2k6V"
     type: article
     provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 41
-    images:
-      - url: "https://vov-media.emitech.vn/sites/default/files/styles/og_image_en/public/2023-06/signing%201.JPG.jpg?v=1688116468"
-        width: 600
-        height: 315
-        isCached: true
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T11:59:00Z
+    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 19
 
 secured: "9/LBEm8ItpT6PeYtxqz4F9q6/Xz44/bWJ4hX+9Z2mPtYdLqXRa/KASCIkvWJcfJ+qW2PecvYk7Uk4GW0BZSqdPski1zIzpqGm5khECstrR1foC1y5ps1V0HITm5vstIDaRrKJlYF85USmidFABhJbCGpoR6+RzHzzJyt5dxX2IyBOtRJ64wX5r/MSzrR2/jaZKwsTMucnCQRXpJDytkvFmWV2LA4zircPz+mBAaiSItykPgJBhYB97i2rFLqIpxB93lasCUwp5Sif6Muh7uZH81WjjU5qzy7aBIilxi7NAaz/xd5s8FCOv2NpX5a2a4VzsFuHAGAVmuxT1yVAJfehyc81Dyrex+oBKBR+dymLfdE+ZGGtTIrjR3izVjPJGXYIVZp0q5IGnvKnXMAqd/IGW/m6mnoW0q0aFT3bvVtov/qQ9MpO42ErMzlrbCqSwxB/TpznPX9cEfVT3b1s9LYH2f1PIAcfT46UXHuFk8Xc2mV1jeRPjnMMZ/0MvquWLN0QIGsIVqDUhCk10Vdu+P6fQ==;PdqgDEjgL+Y49CWngknubg=="
 ---

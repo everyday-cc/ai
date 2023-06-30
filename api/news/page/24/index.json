@@ -2,6 +2,566 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-06-14-2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research.md",
+      "title": "2030 | Artificial Intelligence and Robotics in Aerospace and Defense Market Research",
+      "excerpt": "Jun 14, 2023 (The Expresswire) -- \"Artificial Intelligence and Robotics in Aerospace and Defense Market\" is segmented into Regions, Applications",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research-2023-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/2030-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-research-2023-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amds-new-ai-chip-wont-be-enough-to-knock-nvidia-off-its-throne.md",
+      "title": "AMD's new AI chip won't be enough to knock Nvidia off its throne",
+      "excerpt": "Nvidia (NVDA) is likely to remain the dominant artificial intelligence chip designer, despite fellow Club holding AMD's best challenge yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/14/amd-new-ai-chip-not-enough-to-knock-nvidia-off-its-throne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255927-1686678111044-gettyimages-1454311939-_8db9584_cfaef0d0-1157-4b88-8cf2-14e3c6b21865.jpeg?v=1686736801&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-korea-issues-first-ai-ethics-checklist.md",
+      "title": "Korea issues first AI ethics checklist",
+      "excerpt": "The government has outlined the first national standard on how to use artificial intelligence (AI) ethically, in a move to bolster the emerging industry's sustainability and enhance its global presence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/06/129_352971.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202306/aea2f90aea944e83a89d1db0b41f89a7.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352971",
+      "publishedDateTime": "2023-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-2023-research-on-automated-machine-learning-automl-market-size-with-114-pages.md",
+      "title": "2023 Research On \"Automated Machine Learning (AutoML) Market\" Size | With 114 Pages",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War | COVID-19",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-research-on-automated-machine-learning-automl-market-size-with-114-pages-2023-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-research-on-automated-machine-learning-automl-market-size-with-114-pages-2023-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-a-new-song-from-the-beatles-is-due-out-this-year-thanks-to-artificial-intelligence.md",
+      "title": "A new song from the Beatles is due out this year, thanks to artificial intelligence",
+      "excerpt": "Paul McCartney says A.I. is being used to remake the voices of John Lennon and George Harrison. CNN's John Vause discusses the news with music expert Bob Lefsetz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "originalUrl": "https://www.cnn.com/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230614024930-exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world-00000808.png?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2023/06/14/exp-new-beatles-song-a-i-bob-lefsetz-interview-061401aseg2-cnni-world.cnn",
+      "publishedDateTime": "2023-06-14T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music.md",
+      "title": "AI Creates ‘Final Beatles Song’: What Does It Mean For The Future Of Music?",
+      "excerpt": "Explore how AI is revolutionizing the music industry, from creating original songs to altering how we discover and listen to music & even posing questions about copyright",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64895da1c32a9cf3edb12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/14/ai-creates-final-beatles-song-what-does-it-mean-for-the-future-of-music/amp/",
+      "publishedDateTime": "2023-06-13T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders.md",
+      "title": "TRAI directs telcos to deploy AI, machine learning to detect pesky SMS senders",
+      "excerpt": "The Telecom Regulatory Authority of India said that while measures taken by it to curb pesky messages has led to a drop in complaints against Register",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/articleshow/100975010.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100975008/100975008.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/trai-directs-telcos-to-deploy-ai-machine-learning-to-detect-pesky-sms-senders/amp_articleshow/100975010.cms",
+      "publishedDateTime": "2023-06-13T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-introducing-new-ai-powered-ad-solutions-to-drive-demand.md",
+      "title": "Introducing new AI-powered ad solutions to drive demand",
+      "excerpt": "Google and YouTube’s new AI-powered solutions help advertisers multiply their creativity and generate demand.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
+      "originalUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/edited2-VVC__Demand_Gen_Launch_Hero_Image_V04.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/ads-commerce/new-ai-powered-ads-to-drive-demand/amp/",
+      "publishedDateTime": "2023-06-13T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator.md",
+      "title": "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator",
+      "excerpt": "MAS has launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Singapore-iPhone-Money.jpeg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "publishedDateTime": "2023-06-13T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus.md",
+      "title": "AMD launches new Instict MI300X AI chip to take on Nvidia’s GPUs",
+      "excerpt": "Chipmaker Advanced Micro Devices Inc. is taking on Nvidia Corp. with the launch of a new artificial intelligence accelerator chip, announced at its Data Center & AI Technology Premiere event today.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/",
+      "originalUrl": "https://siliconangle.com/2023/06/13/amd-launches-new-instict-mi300x-ai-chip-to-take-on-nvidias-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-14_084033192.png",
+          "width": 687,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.md",
+      "title": "AMD reveals new A.I. chip to challenge Nvidia's dominance",
+      "excerpt": "AMD's announcement on Tuesday represents the strongest challenge to Nvidia, which currently dominates the market for AI chips. AMD said on Tuesday its most-advanced GPU for artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1686778965",
+          "width": 4548,
+          "height": 3026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/13/amd-reveals-new-ai-chip-to-challenge-nvidias-dominance.html",
+      "publishedDateTime": "2023-06-13T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-3-fintech-stocks-with-high-potential-for-growth.md",
+      "title": "3 Fintech Stocks With High Potential for Growth",
+      "excerpt": "The financial technology (fintech) industry continues to reshape ... further strengthens its long-term prospects. Leveraging AI and machine learning across its products and services enables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-with-high-potential-for-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
       "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
       "excerpt": "This report provides strategists, marketers and senior management with the critical information they need to assess the neural network software market. The global neural network software market is expected to grow from $21.",
@@ -592,630 +1152,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator.md",
-      "title": "AMD unveils MI300x AI chip as 'generative AI accelerator'",
-      "excerpt": "To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "originalUrl": "https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/09a61156c2e512b3889a7a43ae434e45b6622c57/2023/06/13/840d775b-68f5-4132-b4c2-96dd75f3de48/amd-mi300x-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/",
-      "publishedDateTime": "2023-06-13T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds.md",
-      "title": "TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds",
-      "excerpt": "TikTok's new Script Generator tool uses AI to generate ad scripts within seconds. All that the user has to do is select an industry and enter a product name and description to get a custom script for videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9dc660b29580f24121a2d9e8bb20f7cc3f4d8fb2/2023/06/13/d3bcd14b-3920-4145-98bc-c991499c26e4/gettyimages-1405560217-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/",
-      "publishedDateTime": "2023-06-13T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-frances-mistral-ai-raises-113-million-in-big-eu-startup-debut.md",
-      "title": "France’s Mistral AI Raises $113 Million in Big EU Startup Debut",
-      "excerpt": "Mistral AI, a new startup from former DeepMind and Meta Platforms Inc. researchers, has raised €105 million ($113 million) in an initial financing round to become “a new global player” in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-13/france-s-mistral-ai-raises-113-million-in-big-eu-startup-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iprLPgQiE4Hk/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker.md",
-      "title": "How Forethought saves over 66% in costs for generative AI models using Amazon SageMaker",
-      "excerpt": "This post is co-written with Jad Chamoun, Director of Engineering at Forethought Technologies, Inc. and Salina Wu, Senior ML Engineer at Forethought Technologies, Inc. Forethought&nbsp;is a leading generative AI suite for customer service. At the core of its suite is the innovative SupportGPT™ technology",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-forethought-saves-over-66-in-costs-for-generative-ai-models-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/forethought-generative-ai-sagemaker.jpg",
-          "width": 1022,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:41:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amazon-experiments-with-using-ai-to-sum-up-product-reviews.md",
-      "title": "Amazon experiments with using AI to sum up product reviews",
-      "excerpt": "Amazon is experimenting with using artificial intelligence to sum up customer feedback about products on the site, with the potential to cut down on the time shoppers spend sifting through reviews before making a purchase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/221025100312-amazon-online-shopping-stock.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/13/tech/amazon-generative-ai-review-summaries/index.html",
-      "publishedDateTime": "2023-06-13T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-vectara-lands-285m-to-supercharge-enterprise-search.md",
-      "title": "Vectara lands $28.5M to supercharge enterprise search",
-      "excerpt": "Vectara, a platform providing AI-powered enterprise search tech, has raised $28.5 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
-      "originalUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1352189853-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/vectara-lands-28-5m-to-supercharge-enterprise-search/amp/",
-      "publishedDateTime": "2023-06-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights.md",
-      "title": "Reinventing the data experience: Use generative AI and modern data architecture to unlock insights",
-      "excerpt": "Implementing a modern data architecture provides a scalable method to integrate data from disparate sources. By organizing data by business domains instead of infrastructure, each domain can choose tools that suit their needs. Organizations can maximize the value of their modern data architecture with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-the-data-experience-use-generative-ai-and-modern-data-architecture-to-unlock-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/generative-ai-modern-data-architecture.jpg",
-          "width": 1021,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:18:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra.md",
-      "title": "How BrainPad fosters internal knowledge sharing with Amazon Kendra",
-      "excerpt": "This post discusses how to structure internal knowledge sharing using Amazon Kendra and AWS Lambda and how Amazon Kendra solves the obstacles around knowledge sharing many companies face.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-brainpad-fosters-internal-knowledge-sharing-with-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/brainpad-kendra.jpg",
-          "width": 1020,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:14:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency.md",
-      "title": "AWS Inferentia2 builds on AWS Inferentia1 by delivering 4x higher throughput and 10x lower latency",
-      "excerpt": "The size of the machine learning (ML) models––large language models (LLMs) and foundation models (FMs)––is growing fast year-over-year, and these models need faster and more powerful accelerators, especially for generative AI. AWS Inferentia2 was designed from the ground up to deliver higher performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-inferentia2-builds-on-aws-inferentia1-by-delivering-4x-higher-throughput-and-10x-lower-latency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/13/inferentia2-builds-on-inferentia1.jpg",
-          "width": 1025,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:09:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations.md",
-      "title": "Striveworks snaps up first funding of $33M to build tools for machine learning operations",
-      "excerpt": "MLOps, or DevOps for those working with machine learning models, has seen a boom of interest in the last year, and that should come as no surprise: organizations want to bring more machine learning to bear in their data science stacks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
-      "originalUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1140706398.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/13/striveworks-snaps-up-first-funding-of-33m-to-build-tools-for-machine-learning-operations/amp/",
-      "publishedDateTime": "2023-06-13T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up.md",
-      "title": "French company Mistral AI raises 105 mln euros shortly after being set up",
-      "excerpt": "\"Bravo to the start-up Mistral AI which has raised 105 million euros just a month after its creation: a record!\" wrote Barrot on his Twitter account on Tuesday. Mistral AI was set up by former Meta and Google artificial intelligence researchers, and it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/french-company-mistral-ai-raises-105-mln-euros-shortly-after-being-set-up-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MS2EJQ474JPEXC4RWVPXT4BLJ4.jpg",
-          "width": 4000,
-          "height": 2741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-silicon-valley-ai-chip-startup-simaai-hooks-key-investors.md",
-      "title": "Silicon Valley AI chip startup SiMa.ai hooks key investors",
-      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. SiMa.ai/Handout via REUTERS/File Photo OAKLAND, California, June 13(Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jo7mRBawPSBhYlaFccaHL42PO1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LWMV7SSZZ5L7TNYIV7HNEYJKYQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

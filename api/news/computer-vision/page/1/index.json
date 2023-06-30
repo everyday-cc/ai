@@ -236,6 +236,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-6-key-features-of-singlestore-kai-for-mongodb.md",
+      "title": "6 key features of SingleStore Kai for MongoDB",
+      "excerpt": "Much of the data accumulated in today’s world is in JSON (JavaScript Object Notation) format ... enabling use cases like semantic search, image recognition, and similarity matching. No code changes or data transformations Developers can continue to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
+      "originalUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/real-time-os_nautilus_clock_against-the-clock_future_by-raspirator-getty-100804551-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html",
+      "publishedDateTime": "2023-06-27T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-24-forget-chatgpt-facial-recognition-emerges-as-ai-rulebooks-make-or-break-issue.md",
       "title": "Forget ChatGPT: Facial recognition emerges as AI rulebook’s make-or-break issue",
       "excerpt": "The battle brewing over artificial intelligence in Brussels is about facial recognition. On Wednesday, the European Parliament's plenary passed its version of the Artificial Intelligence Act after two years of wrangling. The text — backed by a coalition ...",
@@ -783,11 +835,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
       "publishedDateTime": "2023-06-20T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1376,50 +1437,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-12-four-legged-robot-traverses-tricky-terrains-thanks-to-improved-3d-vision.md",
-      "title": "Four-legged robot traverses tricky terrains thanks to improved 3D vision",
-      "excerpt": "The researchers will present their work at the 2023 Conference on Computer Vision and Pattern Recognition (CVPR), which will take place from June 18 to 22 in Vancouver, Canada. \"By providing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230612200423.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230612200423.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

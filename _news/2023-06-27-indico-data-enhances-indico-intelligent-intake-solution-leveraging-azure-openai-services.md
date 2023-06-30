@@ -82,6 +82,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
+  - title: "NHS England to roll out Microsoft 365 productivity tools for more efficient healthcare services"
+    excerpt: "Healthcare provider NHS England will equip 1.5 million members of its workforce with Microsoft 365 productivity tools to enhance care and maximise time for care as part of a new five-year agreement with Microsoft."
+    publishedDateTime: 2023-06-30T13:13:00Z
+    webUrl: "https://www.technologyrecord.com/article/nhs-england-to-roll-out-microsoft-365-productivity-tools-for-more-efficient-healthcare-services"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 24
 
 secured: "ATPrbYVH7xCmLpUUj+iK1l+Yu7l62ZSzi8zBSQvY8rDinAr+gFFAAXYEqAfbKcE7k54PCXZfWk4B9nAttLzDhxA3IHUIDz+p6KM6yUmP3QBBW02Cp0Fs/Qzw3W9VL6ytVOXN1axk7Ts3Hn22YJl/jVLuKowONeZansveNstngSoIA6C4kZTm+FxR44Spgwf3mMEfUnMy8mhTY52wQMMCDK9A2DVKhcvD7Rj6nLW0ZeI7KX98bQZptWRFVYaWDOe/+oXtNedGDJLoQtQ0Wbn5N5GU1j19KVyVrYkFaZft0pHt6zXg2kizLA7pJC9AUvRY7S8XQeX0/xQIFdteM1RIaVHOZIqX/1KovqPHbdJZc1s5QGNxJYPxTrJIgbdDwfLueEzOjGOXdVN4P8rXQcnJifpSUUSFxSQ1tqF4+MCc6eDEPuejK0F9F/h40ZRgmuBU4xj2cmLD2eJQdybKm6ymfovKFulmoTfEI3w/1RcxreeO3OXPJQuTjObmhwkwL2FJ26t3kLcevMCV5bDB9JLrMA==;X1LOauXCZL8A+Qg4IoUVIA=="
 ---

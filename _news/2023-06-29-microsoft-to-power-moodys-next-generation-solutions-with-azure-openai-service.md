@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 25
+  - title: "NHS England to roll out Microsoft 365 productivity tools for more efficient healthcare services"
+    excerpt: "Healthcare provider NHS England will equip 1.5 million members of its workforce with Microsoft 365 productivity tools to enhance care and maximise time for care as part of a new five-year agreement with Microsoft."
+    publishedDateTime: 2023-06-30T13:13:00Z
+    webUrl: "https://www.technologyrecord.com/article/nhs-england-to-roll-out-microsoft-365-productivity-tools-for-more-efficient-healthcare-services"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 24
 
 secured: "QZb7xB6o4u5oQmMagjyymjpQlTlWVIcJyIc6+kR308mjX/UcNi1dgUNKY0raDKWNVa1XYAQjsaLRjmtp9Hd6rRndkOazINZBUPmHMHpmawAj0uDJgVR4URzN4odO+Gfxb5l074REcMiO0dApVmfjYO03GAW8HPUNCxFWx3z18YrVG0U8LdGYjLSmJP4+OSiqPToO13AuDogyoAad88Ea82d1kBUMxgPyyfsBIf8+aaCnpUHNdOP0BePD1XTTTRdO/26XhSc07hk/7/2rsAKGUvb7lgHkuIC0KY6NoHy0Qf2jOSaZlakcv72VV/AJV2xdudii45RuXYdo1smNtlMOcjFRMU8f2NSjVSM0yHJX/Mo=;8d/LJZGGcXR4sfCPaEEE9g=="
 ---

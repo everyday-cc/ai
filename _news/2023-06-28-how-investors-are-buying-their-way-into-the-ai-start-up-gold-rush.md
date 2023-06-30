@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI frenzy draws hordes to private markets in industry gold rush"
-    excerpt: "The buzz around artificial intelligence has investors snapping up shares of start-ups on alternative venues, looking to find the next wave of technology giants before they even go public."
-    publishedDateTime: 2023-06-27T16:58:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/27/ai-frenzy-draws-hordes-to-private-markets-in-indus/"
+  - title: "The AI-powered rally to start the year could broaden out in the third quarter"
+    excerpt: "Investors are wrapping up a surprisingly strong start to the year as they enter a seasonally weak period for markets."
+    publishedDateTime: 2023-06-30T13:08:00Z
+    webUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 37
+      name: CNBC
+      domain: cnbc.com
+    quality: 64
     images:
-      - url: "https://thumb.spokesman.com/OJaj3h9KLrONrLzGvfEECx1svOs=/1200x630/smart/media.spokesman.com/photos/2023/06/27/649b0abbab614.hires.jpg"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/107238566-1683674471648-gettyimages-1487312741-dscf9295_2siyfzc1.jpeg?v=1688137703&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "This AI-powered glove could help stroke patients play the piano again"
+    excerpt: "A customizable smart glove powered by artificial intelligence shows promise as an easy-to-use, wearable tutoring aide for musicians recovering from strokes. According to a study published with Frontiers in Robotics and AI,"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/stroke-piano-smart-glove/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "uR5cx8s2SNdNGGmbOAur7UUYvyDLSI0DpGXIMqWBKfCGlh5qNjM9Iw5lJrVa27nt0HhaPGyMVMfNavMUoYobm0+9r215HDAS/Ki4vdShwLWxSDIAEM2/Yo+YBb6MTfBJxcy4xxVmVv6zgMyFJi65I3LBa+qRxyVSh2EfZue39X/60gD+eh23RQk++L66iDn4Pw9PgNq49d/MvMCMKIb1vKP3axuBAPki0H7MHR9MTAQODsSWkOPS6YwXMawHvKuJ8rwyI20y0ptw73rAD7kiRcQCCUeXgPyqw8O3JeeVhMjPPhLxLYjh6jCsAvuSF3CPfSY7TxaNcVPxWYRVu95Xk0uRk3Flvzq0IZNao+Ewx5s=;JlcPlB39iGLaMJav3J4IqA=="
 ---

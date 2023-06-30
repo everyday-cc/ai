@@ -161,6 +161,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google DeepMind calls for ‘responsible’ approach to AI usage"
+    excerpt: "The surge in people and companies experimenting with AI was triggered by last year's release of ChatGPT, a generative AI chatbot capable of humanlike conversations and tasks."
+    publishedDateTime: 2023-06-30T15:09:00Z
+    webUrl: "https://www.canadianmanufacturing.com/Y0iqA"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 54
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2022/10/PLT_ADVMANREPORT_SUPERBIGBOX_RGB.jpg"
+        width: 300
+        height: 600
+        isCached: true
   - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
     excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
     publishedDateTime: 2023-06-26T12:01:00Z

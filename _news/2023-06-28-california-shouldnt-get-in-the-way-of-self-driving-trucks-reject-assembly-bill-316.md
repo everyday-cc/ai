@@ -43,6 +43,31 @@ related:
         width: 450
         height: 235
         isCached: true
+  - title: "A.I. makers must create and observe new ‘laws of robotics’"
+    excerpt: "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,"
+    publishedDateTime: 2023-06-30T13:59:00Z
+    webUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
+    ampWebUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 74
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "AI makers must create, observe new laws of robotics | Thomas Elias"
+    excerpt: "No one is controlling A.I. development, leaving it free to go in any direction, good or evil. Human survival demands limits on this, as Isaac Asimov foresaw. If"
+    publishedDateTime: 2023-06-30T12:30:00Z
+    webUrl: "https://hanfordsentinel.com/opinion/columnists/ai-makers-must-create-observe-new-laws-of-robotics-thomas-elias/article_fef0872c-6200-5eeb-845c-a67bb24ba1b6.html"
+    type: article
+    provider:
+      name: Hanford Sentinel
+      domain: hanfordsentinel.com
+    quality: 49
   - title: "Sacramento-based Abstract offers artificial intelligence to track California legislation"
     excerpt: "Sacramento startup Abstract has developed an automated platform that uses artificial intelligence to search and track California legislation, analyze how it could affect businesses and industries, and keep users updated on amendments."
     publishedDateTime: 2023-06-26T11:30:00Z

@@ -118,6 +118,15 @@ related:
         width: 6139
         height: 4093
         isCached: true
+  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
+    excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
+    publishedDateTime: 2023-06-30T14:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
   - title: "5 FinTech platforms redefining the future of lending in India"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-06-28T07:57:00Z

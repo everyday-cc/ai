@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
-      "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
-      "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "originalUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/kinetix-text2emote.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content/amp/",
-      "publishedDateTime": "2023-04-26T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-25-ai-isnt-just-for-tech-stocks-heres-how-coca-cola-is-teaming-up-with-openai.md",
       "title": "AI Isn't Just for Tech Stocks. Here's How Coca-Cola Is Teaming Up With OpenAI",
       "excerpt": "In March, the company launched an AI-driven design platform, \"Create Your Own Magic.\" Beyond marketing, Coke aims to use AI in areas like customer service and ordering. The partnership shows that ...",
@@ -1365,6 +1313,58 @@
         "name": "Nikkei Asia",
         "domain": "nikkei.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-04-why-halt-ai-research-when-we-already-know-how-to-make-it-safer.md",
+      "title": "Why Halt AI Research When We Already Know How To Make It Safer",
+      "excerpt": "This path is eminently clear: Instead of halting research, we need to improve transparency and accountability while developing guidelines around the deployment of AI systems. Policy, research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "originalUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/642b528c9a4669561fee612f/191:100/w_1280,c_limit/ideas_ai_tech_research_regulation.jpg",
+          "width": 1232,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/",
+      "publishedDateTime": "2023-04-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

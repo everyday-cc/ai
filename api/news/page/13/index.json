@@ -2,6 +2,496 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
+      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
+      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions.md",
+      "title": "SoftBank’s Masayoshi Son Says He’s Focusing on AI Inventions",
+      "excerpt": "The CEO says he wants to invest more aggressively as tech stocks revive. “I want SoftBank to lead the AI revolution.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "originalUrl": "https://www.wsj.com/articles/softbanks-masayoshi-son-says-hes-focusing-on-ai-inventions-621089ac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-803798/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-facial-recognition-cameras-to-boost-security.md",
+      "title": "Facial recognition cameras to boost security",
+      "excerpt": "Labasa may be the first town in the country to install CCTV facial recognition security cameras. This will be funded and installed by the Northern Duavata Crime Prevention committee. If you’re a wanted person with the police,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "originalUrl": "https://www.fijitimes.com/facial-recognition-cameras-to-boost-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fijitimes.com/wp-content/uploads/2023/06/Fiji-Day-Online.jpg",
+          "width": 750,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fiji Times",
+        "domain": "fijitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
+      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
+      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
+          "width": 1128,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
+      "publishedDateTime": "2023-06-20T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan.md",
+      "title": "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan",
+      "excerpt": "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/21/baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-21-065008-1.png",
+          "width": 908,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-biden-visits-marin-after-ai-forum-in-san-francisco.md",
+      "title": "Biden visits Marin after AI forum in San Francisco",
+      "excerpt": "But already the training of generative AI on huge volumes of copyrighted data has spawned lawsuits, drawn scrutiny from Congress and sparked fears that tech companies could use art, photos, news articles, music, screenplays, books, research papers and code ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
+      "originalUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marinij.com/wp-content/uploads/2023/06/MIJ-Z-BIDEN-VISIT-0621-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/06/20/biden-visits-marin-after-ai-forum-in-san-francisco/amp/",
+      "publishedDateTime": "2023-06-20T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-biden-meets-with-ai-experts-in-effort-to-manage-its-risks.md",
+      "title": "Biden meets with AI experts in effort to manage its risks",
+      "excerpt": "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna90136",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136",
+      "publishedDateTime": "2023-06-20T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-biboard-powers-bittle-x-voice-controlled-robotic-dog.md",
+      "title": "Biboard powers Bittle X voice controlled robotic dog",
+      "excerpt": "The Petoi family of programmable robot dogs has a new member: an ESP32 board powered “Bittle X”, which has the new feature of also being voice controlled. We’re talking a palm-sized, open-source programmable robot dog, designed for STEM and robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
+      "originalUrl": "https://www.electronicsweekly.com/blogs/gadget-master/robot/biboard-powers-bittle-x-voice-controlled-robotic-dog-2023-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-how-intelligent-is-artificial-intelligence.md",
+      "title": "How Intelligent is Artificial Intelligence?",
+      "excerpt": "This failure might lead to the inevitable question of, how intelligent is artificial intelligence (AI)? Apparently, the supposedly intelligent AI can’t even find a picture of me on the Internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counterpunch.org/2023/06/21/how-intelligent-is-artificial-intelligence/",
+      "originalUrl": "https://www.counterpunch.org/2023/06/21/how-intelligent-is-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CounterPunch",
+        "domain": "counterpunch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-hacker-claims-tesla-full-self-driving-has-secret-elon-mode.md",
+      "title": "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'",
+      "excerpt": "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
+      "originalUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg",
+          "width": 1600,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-tusimple-tests-removing-human-driver-from-self-driving-truck-in-china.md",
+      "title": "TuSimple tests removing human driver from self-driving truck in China",
+      "excerpt": "TuSimple is doubling down on its China business after completing a fully autonomous \"driver-out\" truck run in Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
+      "originalUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/19/tusimple-tests-removing-human-driver-from-self-driving-truck-in-china/amp/",
+      "publishedDateTime": "2023-06-20T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-cisco-sets-a-foundation-for-ai-network-infrastructure.md",
       "title": "Cisco sets a foundation for AI network infrastructure",
       "excerpt": "In addition, each Silicon One device can support 512 Ethernet ports letting customers build a 32K 400G GPU AI/ML cluster requiring 40% fewer switches than other silicon devices needed to support ...",
@@ -441,11 +931,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
       "publishedDateTime": "2023-06-20T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -642,502 +1141,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-in-san-francisco-biden-talks-with-tech-leaders-about-risks-and-promises-of-artificial-intelligence.md",
-      "title": "In San Francisco, Biden talks with tech leaders about risks and promises of artificial intelligence",
-      "excerpt": "SAN FRANCISCO – President Joe Biden convened a group of technology leaders on Tuesday to debate what he called the “risks and enormous promises” of artificial intelligence. The Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "originalUrl": "https://www.clickondetroit.com/business/2023/06/20/biden-will-host-a-forum-about-artificial-intelligence-with-technology-leaders-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-cruise-launches-an-android-app-for-its-self-driving-taxis.md",
-      "title": "Cruise launches an Android app for its self-driving taxis",
-      "excerpt": "Cruise has finally launched an Android app for ridehailing, giving potential customers in San Francisco the option to call one of its robotaxis even if they're not iPhone users..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
-      "originalUrl": "https://www.engadget.com/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/5dzf4NlsIvcmGvpR7BMA4Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/689d9960-0f60-11ee-bf85-8f84a2ed3cb6.cf.jpg",
-          "width": 795,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-launches-an-android-app-for-its-self-driving-taxis-160045696.html",
-      "publishedDateTime": "2023-06-20T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-can-ai-generated-music-win-a-music-award-the-grammys-reveal-new-rules.md",
-      "title": "Can AI-generated music win a music award? The Grammys reveal new rules",
-      "excerpt": "\"Only human creators are eligible to be submitted for consideration for, nominated for, or win a Grammy Award,\" according to the new 2024 Grammy Awards rules. Even though only human creators will be recognized for their work, it doesn't mean AI-generated music won't be recognized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
-      "originalUrl": "https://www.zdnet.com/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0a6b6c01d8099074d6b67af95c58f995c397acd9/2023/06/20/18940ca6-0746-44be-beaa-47fb0547e7fd/gettyimages-1239723062.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-generated-music-win-a-music-award-the-grammys-make-their-verdict/",
-      "publishedDateTime": "2023-06-20T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-ai-is-already-being-used-in-health-care-but-not-all-of-it-is-medical-grade.md",
-      "title": "AI is already being used in health care, but not all of it is 'medical grade'",
-      "excerpt": "In our recent article in the Medical Journal of Australia, we argue using AI effectively in health care will require retraining of the workforce, retooling health services, and transforming workflows. Critically, we also need to collect evidence AI tools are \"medical grade\" before we use them on patients.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-us-1.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "publishedDateTime": "2023-06-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-nuwellis-davita-partner-on-ultrafiltration-therapy-pilot-program.md",
-      "title": "Nuwellis, DaVita partner on ultrafiltration therapy pilot program",
-      "excerpt": "Nuwellis (Nasdaq:NUWE) announced today that it entered into a supply and collaboration agreement with DaVita (NYSE:DVA). The agreement enables Nuwellis — formerly CHF Solutions — to pilot its Aquadex ultrafiltration therapy within selected U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "originalUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce-model-hallucinations.md",
-      "title": "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations",
-      "excerpt": "The Galileo LLM Studio debugs the data and prompts to reduce hallucinations powered by powerful algorithms. Today, Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/1c/31c7a945-e802-54b0-8ef8-6a4703482f1c/6491c881081f3.image.jpg?crop=1890%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
-      "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
-      "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/1z6_0227.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:15:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-scientists-develop-magnetically-controlled-soft-medical-robot-inspired-by-the-pangolin.md",
-      "title": "Scientists develop magnetically controlled soft medical robot inspired by the pangolin",
-      "excerpt": "Pangolins are fascinating creatures. This animal looks like a walking pine cone, as it is the only mammal completely covered with hard scales. The scales are made of keratin, just like our hair and nails.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/pangolin-the-inspirati.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-scientists-magnetically-soft-medical-robot.amp",
-      "publishedDateTime": "2023-06-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-apples-machine-learning-head-departs-to-run-ai-thinktank.md",
-      "title": "Apple's machine learning head departs to run AI thinktank",
-      "excerpt": "The Allen Institute for Artificial Intelligence, a non-profit aimed to furthering AI research, has named Apple machine learning chief Ali Farhadi as its new CEO. Starting from July 31, Darhadi will become the CEO of the Allen Institute for Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank",
-      "originalUrl": "https://appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/55013-111615-30930-51101-coreml-og-xl-xl.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/20/apples-machine-learning-head-departs-to-run-ai-thinktank/amp/",
-      "publishedDateTime": "2023-06-20T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows.md",
-      "title": "The Hybrid Cloud Forecast: A podcast with IBM Fellows",
-      "excerpt": "Explore the Hybrid Cloud Forecast, a podcast featuring a rotating cast of IBM fellows.\nThe post The Hybrid Cloud Forecast: A podcast with IBM Fellows appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows/",
-      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/2019_BigBets_ConnieZhou_01.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T07:36:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-how-ai-technology-can-positively-impact-small-businesses.md",
-      "title": "How AI Technology Can Positively Impact Small Businesses",
-      "excerpt": "AI is not only a feature of the near future but also of the here and now, ready to help us optimize our operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6d5d914a72e260b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/20/how-ai-technology-can-positively-impact-small-businesses/amp/",
-      "publishedDateTime": "2023-06-20T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

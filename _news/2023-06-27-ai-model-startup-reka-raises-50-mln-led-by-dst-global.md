@@ -45,20 +45,20 @@ related:
         height: 720
         isCached: true
   - title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
-    excerpt: "The chief business officer at Google's artificial intelligence research lab says the world is having a \"eureka moment\" around artificial intelligence, but we have to be responsible with the technology."
-    publishedDateTime: 2023-06-29T20:33:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment-1.6461891"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/6/29/1_6461891.amp.html"
+    excerpt: "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,"
+    publishedDateTime: 2023-06-29T19:32:00Z
+    webUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
+    ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
+    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
+      name: The StarPhoenix
+      domain: thestarphoenix.com
     quality: 72
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/6/20/1_6334864.jpg"
-        width: 1020
-        height: 574
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "AI startup Reka, with no revenue yet, raises $50 million: Report"
     excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"

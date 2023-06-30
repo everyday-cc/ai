@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/snowflake-launches-llm
 webUrl: "https://venturebeat.com/data-infrastructure/snowflake-launches-llm-driven-document-ai-and-more-at-annual-conference/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Snowflake Concludes its Largest Data, Apps, and AI"
+    excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, last week concluded its fifth-annual Snowflake Summit conference and its largest data, apps, and AI event with nearly 12,000 in-person attendees live in Las Vegas,"
+    publishedDateTime: 2023-06-30T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-snowflake-concludes-its-largest-data-apps-ai-event-/2023/06/30/9842339.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Snowflake Unveils New Large Language Model to Extract Deeper Insights from Documents, While Continuing to Advance Platform Speed and Performance"
     excerpt: "Snowflake (NYSE: SNOW), the Data Cloud company, today announced at its annual user conference, Snowflake Summit 2023, new advancements to"
     publishedDateTime: 2023-06-27T16:01:00Z

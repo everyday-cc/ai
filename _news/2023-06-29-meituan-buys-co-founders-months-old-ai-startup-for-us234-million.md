@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Meituan acquires AI startup Light Year"
+    excerpt: "Food-delivery giant Meituan has jumped onto the bandwagon of ChatGPT by acquiring its co-founder's artificial intelligence startup Light Year. According to the company's stock exchange filing on Thursday,"
+    publishedDateTime: 2023-06-30T12:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/30/WS649eb7c7a310bf8a75d6c9b3.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 17
 
 secured: "iZ6YLSMUPiEKOH3IMO33/2OBo0HCDl9VohEAsNhboScvZNX5/PfRQAYnVw27Of+Lgv+rvXTx1xvrlL+Zr8j1iTy4lKYPHTit5BpZRW8eagbfruz/M5k1erwWZWhpxPEYmqkcIvO5WPG6cUyliJq+o3OHvrUPRf1ChfInXbZTgghKdOuhRFCQpENNhU+uhnpNRjqwu7dIu1X2B+/rZcfqsRsZnlJsvmS138fnNhRYySm1DTp10DWX9YMXV5ojQf/ztU7QW5+8Mn6xsrC4stKpZjMJnDO+U5tMZEXuX6hSW/imt0KmlnCZcGmvsY9SWdWKNDxwaqmr3hfqCkk5pr3xGs4d52VT+rAN/hC7eXdSOSHz2Yd8Xl7mkAJLTUt+88HKjNZ5v3I2EN6M43FKWIgHkWFbVi2sWMMAPfflHjDOrywGoYyt9xk5PZQfWC9GR/1+v2vrb+k1+ytplt1y0maRuZwqzJNuEC8Qa8kZXGqa5DqTOa1xACIzmw+srNWF4/UdgcfU8vweqfr8X+ceqI4HSQ==;loq7VomFuI4B2YKnNS90hQ=="
 ---

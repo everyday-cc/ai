@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Resistant AI extends Series A to $27.6m with new funding"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-30T11:34:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/resistant-ai-extends-series-a-to-27-6m-with-new-funding/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
   - title: "Resistant AI Extends Series A to $27.6m with new Funding from Notion Capital to Boost Fight Against Rapidly-evolving Financial Crime"
     excerpt: "Resistant AI, an artificial intelligence (AI) and machine learning security company that protects financial services from financial crime, today announced it has expanded its Series A funding to $27.6m,"
     publishedDateTime: 2023-06-27T06:52:00Z

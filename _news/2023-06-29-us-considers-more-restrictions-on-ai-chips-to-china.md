@@ -343,6 +343,22 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Rising AI & Falling Shares: Nvidia Facing New Export Restrictions"
+    excerpt: "Nvidia Corp.'s (NASDAQ: NVDA) meteoric year-to-date increase of 186.60% is largely due to the company's semiconductors that are behind the boom in artificial intelligence applications."
+    publishedDateTime: 2023-06-30T15:00:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/06/33077218/rising-ai-falling-shares-nvidia-facing-new-export-restrictions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33077218"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33077218"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/30/nvda.jpg?width=1200&height=800&fit=crop"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Nvidia drops on report US plans more AI chip curbs for China"
     excerpt: "The two lead the market for chips vital to the development of generative artificial intelligence models such as ChatGPT. In China, traders unloaded a slew of AI-related stocks, pushing Inspur Electronic Information Industry Co. and Unisplendour Corp ..."
     publishedDateTime: 2023-06-28T15:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-is-going-to-change-softw
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-going-to-change-software-development-in-massive-ways-says-mongodb-cto/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -29,56 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "MongoDB Embraces AI & Reduces Developer Friction With New Features"
-    excerpt: "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ..."
-    publishedDateTime: 2023-06-25T21:40:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "6 key features of SingleStore Kai for MongoDB"
-    excerpt: "Much of the data accumulated in today’s world is in JSON (JavaScript Object Notation) format ... enabling use cases like semantic search, image recognition, and similarity matching. No code changes or data transformations Developers can continue to ..."
-    publishedDateTime: 2023-06-27T10:55:00Z
-    webUrl: "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.html"
-    ampWebUrl: "https://www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700448/6-key-features-of-singlestore-kai-for-mongodb.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/07/real-time-os_nautilus_clock_against-the-clock_future_by-raspirator-getty-100804551-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "MongoDB ‘Loves Developers’ At MongoDB.local NYC"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead highlights the new capabilities for MongoDB Atlas announced at the MongoDB.local event."
-    publishedDateTime: 2023-06-27T23:48:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/mongodb-loves-developers-at-mongodblocal-nyc/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649b74e50a9a56279ec53940/0x0.jpg?format=jpg&crop=627,352,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 898
-        isCached: true
 
 secured: "JgxALQByXGAIqkkJDTNUp8Cz/DpwxRo25tLwEKHcB3hJAAsl65+4qMi/qHp+4duVFEQryHffASt/5Ewwol13Y6XQUFFxJmYg0eFp2qf7IfdnHiM7vz5jdLPjPkQF7QhbX2uUzok98Kjd+N96iSCLXIQoPpw6WkOivfQ538BmRMMnBBTWamYNaPEJ54+koZI9DlBI0REXgdTMOjl+YQyiVe/bhbNjCaIZF5ggnOAUpVNAsZ45IsSCaLlY6+eJHN3ijMMSQzQmEhtSpBGniO+8g8gtq6g1U3ASVAwvYC9h5lFDSRKJF+YH1L2imJKd+gH2xTsYVGtIBiyzXcMsBRsUsrCkMahITjn83catG1KqxWs1LkDXWmIvUK16HfTWPNhOO3a13on/a0i89xEQ4oePZlfJ9GBvqN4tsnMXGsyC1k1bUnTfhp35+DgZSzsad1n+k/qmMSCuX7PO5uLAoBvGyu/MgMcr4heh9fPCJ2A0tVLBPVfN5ICB3MLuq46TaSNUb94aJUTajo08d5WAH72R/A==;sKrExAfzobWWs352mbSyYQ=="
 ---

@@ -131,6 +131,15 @@ related:
         width: 6139
         height: 4093
         isCached: true
+  - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
+    excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
+    publishedDateTime: 2023-06-30T14:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-dob-brings-game-changing-ai-powered-solution-/2023/06/30/9842353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
   - title: "Wells Fargo helps FinTech create $70m fund to widen SME credit access"
     excerpt: "Wells Fargo has partnered with Hello Alice and the Global Entrepreneurship Network (GEN) to create a $70 million fund designed to improve access to credit for small business owners."
     publishedDateTime: 2023-06-29T10:42:00Z

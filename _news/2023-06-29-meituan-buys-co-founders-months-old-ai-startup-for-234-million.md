@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 37
+  - title: "Meituan acquires AI startup Light Year"
+    excerpt: "Food-delivery giant Meituan has jumped onto the bandwagon of ChatGPT by acquiring its co-founder's artificial intelligence startup Light Year. According to the company's stock exchange filing on Thursday,"
+    publishedDateTime: 2023-06-30T12:10:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/30/WS649eb7c7a310bf8a75d6c9b3.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 17
 
 secured: "eyZm17E8dm/gbeFU87HrdCyEyg9FIVvDxx3z92hHHrq80aC8KCa0LCGF+AvKmw6gmZAaAVKVkYUMuv0FBdeDbBDcAwEHj1p2BKTg7igK1ucxj77SAltS1oawim06BiquMJP97imC29f6aKbctXOidngSIW4vb3Ptzrhk4Z1ZPEbxKxLTltkYJvSnl9RzHfwZPYqPVuE8NtJ0lREuKPg3djuXmsJChS0e8h8lOPwdchx9HGjPtGG2/hoRNy4YCMKL/P/1YsqibI3F2NPvx5vUS81k6C1wZNP4g9Nu+W3MLLjopgZ+qXXRE+CfKH8IZEpCp/qzMccl3CCj/TvzibKgm+uF1M3a/167L7unAO2+NIlUVO83+0MGwWNRlDx9yCB4hg0T4mQksS4WL0xlT4o8F9M05bm8/OOOhRsNmfALrnUW7RQbA0WPKgDwMJ0ArsuXjlFTXV1Z23WpJDx166dH5G8XoYG+9XGZ955/rRlYwKUNK9w7oUF0dWzOLMcYe2dCLrCgafyb2twM/h2qN3KXzg==;MFuqHwAdmO9ZdiIXHgVIzg=="
 ---

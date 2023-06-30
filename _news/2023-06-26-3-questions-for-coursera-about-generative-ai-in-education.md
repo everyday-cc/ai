@@ -54,6 +54,22 @@ related:
         width: 1023
         height: 513
         isCached: true
+  - title: "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story."
+    excerpt: "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology."
+    publishedDateTime: 2023-06-30T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/"
+    ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1249
+        isCached: true
   - title: "AWS invests $100 million in new Generative AI Innovation Center"
     excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
     publishedDateTime: 2023-06-26T15:26:00Z
@@ -83,6 +99,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
         width: 1200
         height: 677
+        isCached: true
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-26T09:19:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
+        width: 1500
+        height: 844
         isCached: true
   - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
     excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
@@ -241,6 +273,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-06/25/C_4a95bimage_story.jpeg"
         width: 679
         height: 452
+        isCached: true
+  - title: "AWS announces generative AI innovation center"
+    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-27T06:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
+        width: 1280
+        height: 852
         isCached: true
   - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
     excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."

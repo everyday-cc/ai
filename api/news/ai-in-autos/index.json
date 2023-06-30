@@ -248,6 +248,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-zoox-headcount-grows-as-amazons-self-driving-unit-expands-testing-in-vegas.md",
+      "title": "Zoox headcount grows as Amazon's self-driving unit expands testing in Vegas",
+      "excerpt": "Amazon.com Inc's self-driving vehicle unit Zoox has grown its headcount by about 16% at a time when access to capital is tight and other large companies have exited the autonomous driving sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/zoox-headcount-grows-amazons-self-driving-unit-expands-testing-vegas-2023-06-27/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/zoox-headcount-grows-amazons-self-driving-unit-expands-testing-vegas-2023-06-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/v5PPqHoJSQefoTKP70Zj_3R-9AY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ROQNI57GJFN33DWO7C2PROMDHY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-artificial-intelligence-risks-ethics-and-future.md",
       "title": "Artificial Intelligence: Risks, Ethics and Future",
       "excerpt": "With great power comes great responsibility, despite the numerous advantages that AI evolution brings to the world. It could pose profound risks to society if not handled properly. Along with other global/societal risks i.",
@@ -1385,58 +1437,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence.md",
-      "title": "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence",
-      "excerpt": "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-06-19T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

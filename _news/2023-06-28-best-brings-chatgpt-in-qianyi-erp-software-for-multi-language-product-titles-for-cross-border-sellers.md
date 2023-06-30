@@ -57,6 +57,20 @@ related:
         width: 1500
         height: 1125
         isCached: true
+  - title: "Xiao-I Releases Cutting-Edge Large Language Model \"Hua Zang\" to Create China's Own ChatGPT"
+    excerpt: "Mr. Hui Yuan, Chairman and CEO of Xiao-I, declared, 'Our large language model serves as a catalyst for our vision to establish China's own ChatGPT, deeply embedding our technology in various sectors and fostering a symbiotic relationship with the AI ecosystem.'"
+    publishedDateTime: 2023-06-30T04:04:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273883844/xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-chinas-own-chatgpt"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1688011446603.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "HZpkOY0fAyHMws9zEytONpXsYrHO+hL1t0lS1c983ssprEVWS6uZzHvLZ01ing3pWvE7gJXiEWlI+deEeKujRTeIAKk3t2TxFpkDSRNseZ0x3+fAYw63TSv1JUlzZ53en04mnCMGtZQPM9fpyHQ9OdaAiK8JARm86cxwhO4zr/i5wARnlsbcDoBW6i79+kt8h9uxTOCYpGhuHi4tc77EsJ87UotgG3FQeSLGjiXtZNcwb5on8GJbi5MMcAzPOcLh6+GiJwIQ6+gOUZhtgJeMOvPjkwYTw21vuUjQ7iSr9hQl7WvcIAE/ppU0uOfdjIg3/IGyRd2hOvesTQisXZzy0cqGslJp1BUqnID+IlV22/4=;jylSiaFSluiawoIUZUw70g=="
 ---

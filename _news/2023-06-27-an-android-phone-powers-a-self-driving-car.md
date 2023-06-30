@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inside an Aurora Self-Driving Truck Testing in Texas"
+    excerpt: "A number of autonomous truck developers like Aurora have set up operations in Texas, allowing them to run test drivers and preview routes with their self-driving technology."
+    publishedDateTime: 2023-06-30T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/Aurora-truck-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "5SBQ4GQm6gsnfN9OpgoBWuSBBzFCatdPdbcW7Jm24gtxMrt3jkg4W7W1hstE/e6rZLmbSxkgZzGGKzLtbY1LmrGNWZFR9nmflpWincublU27j4+SOduVU2x9lLx0BiwB4YIEzwdpstKst+d1P/Zugr0ddr0gJhR71BS+In1hQlNQY/EdnjZkMuabuV+vwhcXrWvyuJu0ElWf7apGxVLgOMDmpz39spo5SxAYJ0YCqv5XHG3qJklLKBUifiD0qDMqEJ5ACMBQsk1i/amISmH/GEVqFIWFPW6C6GvmR9Etlm5csJ2Wnot1LS0Mhxlh5DbWOVjDYvFRYS3I/eVQeK0+PSoIPBJecQvGGnihmQjAEAd8N2fjGCKtGDnreAawOMRmRCxReRQiplOm4sn+J+U+9M435dthMPxgEH9KIOUepZGzO/6cokL3Rq/sNAGJvcEqGdxzg/gF2oIsBn3GfiDMHRREwjWur6l8dRavPfzAmGNDtkuhP63+cXtOVepLq1ylbicEpgZDNfPcPp8TQv+5WA==;jkzKiqOUtke3jB272Oheww=="
 ---

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report"
-excerpt: "The Scanbot Barcode Scanner SDK turns any mobile device into a reliable, easy-to-use barcode scanner, while the Document Scanner SDK enables enterprises to transform physical docu"
-publishedDateTime: 2023-06-30T06:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/30/9842182.htm"
+excerpt: "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\"."
+publishedDateTime: 2023-06-30T12:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
+webUrl: "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153"
 type: article
-quality: 18
-heat: 18
+quality: 68
+heat: 68
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Ian4cWTKG3Nut6Tub1EMyUch6Ak+wayXUiiDGyus9/tNmG1awUnQPKIwULbczxKn7mguVPppJw8er+5HDpzPiCS5kM+HsugGAw98anUcGRJuqdWVd3MpZprSfxi3Z0VhCKWVZJn0mn/OG9Hau6AaSqaPZD/qkGL2IAj4dgB9AzijJ3+zcooDlcqzmkynMmVnYpIF7eWYCV8LxtQxAdls0gij4mH3G4DYoRtAA1LbFqdmM0chbnwWa2CIr+/puew5bIaL+qUTiYM//J4NEVgZRenhhlrMykhcmfSISmXJl+t1YvFIQEVKgSHuERh3D7ofWloRZ9AYouqnynlQjBi3utIdDXzGTd+eqTQ6rE2OBaA=;JfqFJu4vFtPc1bVBgSTscw=="
+images:
+  - url: "https://mma.prnewswire.com/media/2142895/Scanbot_SDK_Tool.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "PaTUWyydzCPhvu+Ny6/2Z+54WuHA8UytexJr9hBNfVfFpZ+s5F+JMNO3eKtwSRnF02iBm0EnLSgXv4YDl0j0avpyck4cGAdmHAJRGPFZ48msucqtDp0mCprpy7/zfhgD7keeZ0WMe+mtHVDJG+6E5pFmAg3xExTOtuCQQ5qBNqWUAzJwKZ3dFbxBek7Wy5Bo1nI9TBmC0iQs4Uro+RK7sDiCwbXqRAFGouQE491rr8jccNjEEyNpH8OXIcyyjZNBkDCwItOflGvNSkkZBg1vPnFeFaMGvjNLykW5P2Lrl18f+JX+psxepB/XahwCeETiKocM8k1DXwus6nCu56pqVWxC8C1+U/lHqkmOt4zDZMc=;beA/Q/JyVcLTOdCxVLBw5g=="
 ---
 

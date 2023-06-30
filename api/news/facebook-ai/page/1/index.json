@@ -158,7 +158,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -200,49 +200,6 @@
         "AWS AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
-      "title": "Crypto scams are going to ramp up with the rise of AI",
-      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
-      "publishedDateTime": "2023-06-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1405,6 +1362,58 @@
       "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
       "publishedDateTime": "2023-06-07T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-07-job-listings-asking-for-generative-ai-skills-are-soaring-analysis-finds.md",
+      "title": "Job listings asking for generative AI skills are soaring, analysis finds",
+      "excerpt": "The average advertised salary for jobs citing generative AI skills is $146,244, according to job search engine Adzuna.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
+      "originalUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647df19740bf000019fa30c1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/more-companies-seeking-workers-with-generative-skills-adzuna-2023-6?amp",
+      "publishedDateTime": "2023-06-07T01:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

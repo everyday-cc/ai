@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intel
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CoinTelegraph
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing the AI Wave: Crypto Explores New Avenues for Blockchain Integration"
-    excerpt: "Is the integration of AI and crypto may be the next best thing? Read on to know more about recent developments in the space."
-    publishedDateTime: 2023-06-25T20:47:00Z
-    webUrl: "https://insidebitcoins.com/news/embracing-the-ai-wave-crypto-explores-new-avenues-for-blockchain-integration"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 34
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/Crypto-and-AI.png"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Crypto.com to set up global R&D hub in Singapore to focus on blockchain, Web3 and AI"
     excerpt: "SINGAPORE - Cryptocurrency exchange Crypto.com will be setting up its first global innovation lab that focuses on blockchain technology, Web3 and artificial intelligence (AI) here. Read more at straitstimes."
     publishedDateTime: 2023-06-27T03:33:00Z

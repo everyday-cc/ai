@@ -52,6 +52,15 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
+    excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/features/ais-teachable-moment-how-chatgpt-is-transforming-the-classroom/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
     excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
     publishedDateTime: 2023-06-27T18:01:00Z

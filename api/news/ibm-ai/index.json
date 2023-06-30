@@ -2,6 +2,177 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-in-recruitment.md",
+      "title": "AI in recruitment",
+      "excerpt": "Let’s rethink recruiting. If you were to design the recruitment process for a new company, what would you automate to identify and get the best talent?\nThe post AI in recruitment appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "originalUrl": "https://www.ibm.com/blog/ai-in-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:45:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-cmms-vs-eam-two-asset-management-tools-that-work-great-together.md",
+      "title": "CMMS vs. EAM: Two asset management tools that work great together",
+      "excerpt": "Two commonly used asset management and maintenance solutions are computerized maintenance management systems (CMMS) and enterprise asset management (EAM).\nThe post CMMS vs. EAM: Two asset management tools that work great together appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
+      "originalUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:12:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
+      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
+      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:10:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-building-resilient-healthcare-supply-chains.md",
+      "title": "Building resilient healthcare supply chains",
+      "excerpt": "Find out how the healthcare industry can address shortages, delays, rising costs, tight regulations and more with resilient supply chains.\nThe post Building resilient healthcare supply chains appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
+      "originalUrl": "https://www.ibm.com/blog/building-resilient-healthcare-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-what-is-asset-reliability.md",
       "title": "What is asset reliability?",
       "excerpt": "Asset reliability is the ability of an asset to perform under certain conditions over a specified period without breaking down.\nThe post What is asset reliability? appeared first on IBM Blog.\n",
@@ -695,7 +866,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -1168,212 +1339,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-21T06:02:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
-      "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
-      "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg",
-          "width": 1197,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T04:15:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-ai-reveals-ancient-symbols-hidden-in-peruvian-desert-famous-for-alien-theories.md",
-      "title": "AI reveals ancient symbols hidden in Peruvian desert famous for alien theories",
-      "excerpt": "Researchers studying Peru's ancient Nazca Lines used artificial intelligence to uncover four more geoglyphs etched into the country's Nazca desert.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "originalUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d34a3dc0-7781-491d-8b2e-f4174f3e0c28/fd78257f-da74-491a-8c0d-3fa96814144f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-reveals-ancient-symbols-hidden-peruvian-desert-famous-for-alien-theories.amp",
-      "publishedDateTime": "2023-06-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-re-invent-your-warranty-process-with-a-digital-twin.md",
-      "title": "Re-invent your warranty process with a digital twin",
-      "excerpt": "Warranty management is a continuous process. Learn how it will be reinvented with the wide availability of digital twins.\nThe post Re-invent your warranty process with a digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/09052022_SpencerLowell_Working_World_Le_Monde_Tesla_03.l_2x1-e1687276509879.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
-      "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
-      "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/1z6_0227.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:15:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

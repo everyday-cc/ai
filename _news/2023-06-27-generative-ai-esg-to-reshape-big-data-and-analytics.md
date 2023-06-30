@@ -70,6 +70,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "Sports Info Solutions acquires basketball analytics provider Blueprint Stats"
+    excerpt: "The acquisition will combine SIS advanced data, analytics and AI engines with Blueprint Stats’ stat-taking technologies to enable an end-to-end data and analytics offering."
+    publishedDateTime: 2023-06-30T14:32:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/30/Technology/sports-info-solutions-blueprint-stats.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 1
 
 secured: "w/Tw9qAl/9Ihwc+HnI+8KuHf6DjWLRgVAVNISFVhhL0Y/xFFFK8POCZuhKHJNecxne+LShZTo0+RCcsO/itnMB1GNjWocX9z0+w6H/Khs9j0XsIcQioiODdaOxpTOwbaCqKj38qvkinl2LuxdrMJIAWBwonNNkae41Giq9H8sKlZLWN9rN0wIXgolmZEJjH6autY+7QJ/C+4GO7g1enqsun5TbKQC1F3ENgQVVrnN16FTKDo2o+td8qoZADEVMO+nPFsLcX77fmz9dJL4THPeJ8nqGtAHgY8nGF5+2EA6JiEpUtRoY/FhQuQvGUwWtMbwAwQDp3MpuO16MhRWOaum8HcEb2W37+JBhsP6D9sP8E=;vPCUlbDrwzNYI9OBbR5pfQ=="
 ---

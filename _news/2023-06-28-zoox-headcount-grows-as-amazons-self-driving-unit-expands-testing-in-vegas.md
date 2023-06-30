@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/zoox-headcou
 webUrl: "https://www.reuters.com/business/autos-transportation/zoox-headcount-grows-amazons-self-driving-unit-expands-testing-vegas-2023-06-27/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Reuters
@@ -42,6 +42,20 @@ related:
       - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Inside an Aurora Self-Driving Truck Testing in Texas"
+    excerpt: "A number of autonomous truck developers like Aurora have set up operations in Texas, allowing them to run test drivers and preview routes with their self-driving technology."
+    publishedDateTime: 2023-06-30T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/Aurora-truck-1200.jpg"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "iOmGVm8JZywMjigkQdBtYu+OylclFVFxf7dSWgUi9jIii8akudEAAtx4XcLOcMJniVPmUZ/dmBqCgINHDxq73nFlTjG4pJDhTfBK/5NWcDG84b31LgaSUUdUBYL5c+LoT7a4Wa29JmBYBZvm/C56Pt1qrq+cnDDExSW9fAspa1mbjXOPNw2kwnlW4zjDNNKHm34myT/ehibDdOnK6a8UNs05mfSyJlTNKMNp30Vme9lc+X1CoJ5c/db6RAiifEhkR5z7OGQFIa7FqCOFle1rGVzMOk2GVtNyA/xF8sfX8G0MpGyFtBlG0tO3/rsBF2iukAgTSq/WqpqwRbFEE+HvRcqdQoE1cENagh1wANPzp21hLe9Sxw5RcG5b40DofT4MyGoGK3BALpvP4qbxCrKa404kiaOOh0g5nURdAkbwECVci134vOGVtC/elP9jEuPHiiz19i65Q5lghX8xQK8dpEB+kATUvM8Sph978OQT4Qer3n1vpjmR46mZTA3kkJgIVhnf2+kspidJLOoNzTfZaw==;XQd/oYIo0kFuy96WMrJylw=="

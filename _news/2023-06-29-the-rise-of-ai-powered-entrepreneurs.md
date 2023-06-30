@@ -46,20 +46,24 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Trusting Social brings AI-powered agents to enterprises"
-    excerpt: "VOV.VN - Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
-    publishedDateTime: 2023-06-30T09:14:00Z
-    webUrl: "https://english.vov.vn/en/economy/trusting-social-brings-ai-powered-agents-to-enterprises-post1029683.vov"
+  - title: "AI permeates SA social media platforms"
+    excerpt: "Artificial intelligence (AI) tools are gaining ground in SA’s social media space, as more brands experiment with generative AI technologies to engage users. This is one of the key findings of the South African Social Media Landscape 2023 report,"
+    publishedDateTime: 2023-06-30T13:01:00Z
+    webUrl: "https://www.itweb.co.za/content/Gb3BwMWa3g4v2k6V"
     type: article
     provider:
-      name: VOV Online
-      domain: english.vov.vn
-    quality: 41
-    images:
-      - url: "https://vov-media.emitech.vn/sites/default/files/styles/og_image_en/public/2023-06/signing%201.JPG.jpg?v=1688116468"
-        width: 600
-        height: 315
-        isCached: true
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T11:59:00Z
+    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 19
 
 secured: "3N3D4Gapz10R6WkCpgzo8UaAFqTwCtIrm2DJcMeSJublwdRdH4dKhScz63i9HIuZ8FLcGAiHIQdFB2QzwK+JTNNc0zRd+YJFDp9xiZ488aeWy9PRRL0EQ1vgSBgeA66QjyTvIscm3zsujbsqCpYse6KBWGIHZiNakBrToAqxTnWQQr4KsfA9SKCxq6emvF2sj4uHsOz72+bdEcbrvreL6LJItU1jZmfBT/pfKYKrX1BDy3tugvZ92XgyQhBudSh3m6Bj+I2+g3N+6Z5bFr44FVCJTpPdDYYa85NuktHNbGCEihqXpQOa94U5vnKSxaDy5LwExLy/T5DlCQHKV3aaye8bzQb7rlmtnnYjdjMq3nc=;Bvxsi1a4YwOanJ4pxtjg0g=="
 ---
