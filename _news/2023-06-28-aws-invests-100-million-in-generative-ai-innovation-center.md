@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-
 webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
 type: article
 quality: 86
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
         width: 724
         height: 482
-        isCached: true
-  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
-    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
-    publishedDateTime: 2023-06-26T15:02:00Z
-    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
-        width: 1200
-        height: 677
         isCached: true
   - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
     excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."

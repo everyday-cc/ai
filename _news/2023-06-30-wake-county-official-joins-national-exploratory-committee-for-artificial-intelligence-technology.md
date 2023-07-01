@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs17.com/news/local-news/wake-county-news/wake-county-o
 cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/local-news/wake-county-news/wake-county-official-joins-national-exploratory-committee-for-artificial-intelligence-technology/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Plainsight Granted U.S. Patent for Foundational Vision AI Technology"
-    excerpt: "Proprietary System Expedites Development of Customized Livestock Solutions for Automated Identification, Counting, and Monitoring with Near-Perfect Accuracy SAN FRANCISCO (PRWEB) Plainsight, the leade"
-    publishedDateTime: 2023-06-26T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/p33006368/plainsight-granted-u-s-patent-for-foundational-vision-ai-technology"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33006368"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33006368"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "tfhefTxyytA550CEMdBcNjigKSUjp2w37MAvZ7JnoLexB7UhmBQnMT4uTvzvqnvrdCAAGYPE5/hSyTAH8SQ9lFfAMkKCePHssSGF8Hizu4dvLlpXYYasBMJZ0ugtolBLnb07sEbZg0iQFz+m25IpQVOmK2O0afHtaswkmUgG0if7vt5pLmcWHdJfo30xGHhC8uqvDx0A4GoA+HJlcPN7kysFbx7Cxua5eN1jgZXsMuKBw+jzcX7tyNwp/sxClUp4QCrxAO0iP1+LHyt6nccq5iJKShFFIJlLy38In2ziUK+Fhu9Y4+A9Sjcrt2ne49YeB7ZdYa2VHPKpA7wMT12s8n0MDjtmrl4Yas1vhcjOZuQ=;KCfwG5PQuEojj9hPCu2wjA=="
 ---

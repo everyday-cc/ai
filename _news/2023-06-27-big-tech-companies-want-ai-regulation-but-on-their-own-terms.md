@@ -143,15 +143,6 @@ related:
         width: 1152
         height: 768
         isCached: true
-  - title: "AI to the rescue"
-    excerpt: "The pace of work is outpacing our ability to keep up. AI is poised to create a whole new way of working, according to a new report from Microsoft."
-    publishedDateTime: 2023-06-26T13:17:00Z
-    webUrl: "https://emerging-europe.com/news/ai-to-the-rescue/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 19
 
 secured: "04Ktiwm+j42ZoJxY36b7tGokOWdkuDbr8G73uk6NxbJxeLJXBaGxRVfNCA6fikpwiqwaUpI7nx8kgFbCtrOqN8MVlCCA0HHtlNoX7jCLPeXi+jT6uh9KJdv5hp5MqV+Jn98O/94zlbJMoFiu6Wi6CiDM77QJhIUNonZaevNX4v0eLoTyh4zpN52E82J5GGOscr2cB0wFhFysJmHspN/I0elU/XTqXPheTgIzGs//JXQnnGt5LfbfIs2RdVlEzjWhHeJGpfN04w5b9UNfYWXauuD6G53xVdmNDlD3GrC4ocKmuvQjfHQZZr7nXc3+CxZmFBJzncs6UjVhyhen012OiMozcMKMqUCiJxb4CtJIOMA=;KBSousv5gD1F3xhgtaxE9w=="
 ---

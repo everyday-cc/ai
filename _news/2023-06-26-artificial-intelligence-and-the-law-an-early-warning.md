@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jayadkisson/2023/06/26/artificial-intelligence-and-the-law-an-early-warning/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Hope, fear, and AI"
-    excerpt: "Some industry figures, like OpenAI CEO Sam Altman, want AI giants to steer regulation, shifting the focus to perceived future threats, including the “risk of extinction.” Others, like EU politicians,"
-    publishedDateTime: 2023-06-26T14:11:00Z
-    webUrl: "https://www.theverge.com/c/23753704/ai-chatgpt-data-survey-research"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/NI1o81hUl4Nlp9Uc_JjkLGtR96Q=/51x205:699x545/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24747183/header_2000_x_2000.png"
-        width: 648
-        height: 340
-        isCached: true
 
 secured: "G9/4tiXw8SIYLwZnAZcZtOJjOtziLD9VJLoEpVnjoFYqTGvZ2H1seEMh1BAkvesuAQKYHMA13fs1o4mR1tsRW2+qpyk3r04XD9WDg0bIVMS8mA0Pf4/gpY9Sm9aLYks2/reBg7NNWBB/lD40+98OYWqc/s1yH4xflcNJm4Pa6GqrjR1aA3Txhw/y/Y2iGky7+510DVwcL/YGD8r1U1JkObIrpNygN5JPpKIGKe10MLlc+BVTvyDdGkP2ndKOKvw77cbLDDeWvAMEUMhYGJP1+nwaPucMUDFLQ/AioXvYPn6JY+oJLHiCS2BBblVuMaULyoWgR7fOiaSc9OW6jKCZpTsqI9gaYt+nF9jGbUbsUUfnOK87X4RtmlOlhWRjd1S9mDjixQ/G9TO4/Jm8RdDjskCrdzsHjXaVeB958I77j/nkB/HEFkZ/7psf898onAVz9zz40X/KZpUEvbsxYTc+jPv6DshYZcPAceN2L6KOgKemuKqB7HwHdrGnZV8tSrb9anKVxVG6+mdXr9QnBWS1Pg==;qxbEnuW1gSaCnVwiDIS9Eg=="
 ---

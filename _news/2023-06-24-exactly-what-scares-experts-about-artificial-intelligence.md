@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Exactly What Scares Experts About Artificial Intelligence"
-excerpt: "Yet exactly one year after a humble Google engineer stumbled onto what he believed to be a sentient form of artificial intelligence and was famously heckled and fired for it (more on that later), the clamor for a global framework to govern advances in AI has reached a fever pitch."
+excerpt: "It is not too often you see an entire industry on the brink of exploding into untold profits and innovations beyond wildest imagination begging"
 publishedDateTime: 2023-06-23T17:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
-webUrl: "https://www.nasdaq.com/articles/exactly-what-scares-experts-about-artificial-intelligence"
+originalUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
+webUrl: "https://www.fool.com/investing/2023/06/23/exactly-what-scares-experts-about-artificial-intel/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "kyaC6u7M56TKrA/UB8/lV5s/ul0stWp/Cer3TcSOd8oUmCgY1sTnVQReU60p1iJu9mRxX/RcuHOpn9RrogEANgdwwFYeDIwIAIulBQArhlETqrJ/OYa7u6y0CTpaGZJ+2uEg0EXW0PoGBJtOlKsb1GJWY4maxMjzrhj4u6WrpGhqsnpOg0zW7i8NT1RuHvl6nssQFnh7y9Ft3pZwkh/lCibVVgaI0PhniWUdbHgBjwqx4W3T71N+4kYW3ZuUbw6Sg68k+hWilw1xar/XjyEluU9xS43x7AlL3qoqa9s0G7AXOOw4sjMU2YoZKq5M6jI6DtsUgMlGe+YUMgVeCFlKiM0/wcs5GVXbE8yx49pBqkI=;JTPrnGB/BmoNZ7mls/OiBg=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F737513%2Fbuffett13-tmf.jpg&op=resize&h=340"
+    width: 510
+    height: 340
+    isCached: true
+
+secured: "Sc+J1hL33DzYHDrxkJ4NdXVvVWkvQDvk3M0k4JXNrBGC5JRjOrcWGd5r+CLAnuM5YbUuyV7jtxAbMCE40CVxvDcJT1sk9D8nD/BE5G57CYSYfApmf2gpZVrqIhE5xhVRGTRcwduKi0r7gZF3CZRDLV6RTPkw+diIDbdLBAYmqXjdKLQZ/PK0OEWWAjpmlboCdJ2fmHJLq29XXpy7n64tVTzKJm3FHfnfMKvmLm2r/ewqQMxwzUg3hAwFh1c0l1i8Vlp4QePiiOSemB8wZsNwFhvlpFNCAiuhcSYnoXGj4mfkPRKCT2IqbNWG00hy9HbVzm2z2A8N5SBSAq67LF5Ov+6aS0O00NENqdJd7vcTO6w=;KvLMLfQtIGXNdyY1dsr/6A=="
 ---
 

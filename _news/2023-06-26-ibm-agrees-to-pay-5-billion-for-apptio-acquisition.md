@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM Buys Apptio For $4.6B To Boost Watson, Red Hat, Hybrid Cloud Abilities"
-    excerpt: "IBM acquires FinOps software company Apptio for $4.6 billion to boost Watson, Red Hat, automation and hybrid cloud capabilities."
-    publishedDateTime: 2023-06-26T13:06:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-buys-apptio-for-4-6b-to-boost-watson-red-hat-hybrid-cloud-abilities"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
 
 secured: "7ILvIyUSgMgXgdteOB4UGlNugeL88/p/pHHjruvwIOO9wt68tQ3yf+21lDCesN42GWUSePY9ty+8cy22atOy84eCX//dTYPpgRm/udJsSqbvX2inGFMX4fsgweAm5EA6kzEXl4EpXCkqg5VYpIOk9wAjZDLXmraZn/dRbyFTvmIdONl0bPPoPHl/Fiaw5YRbYkEBcjLPiEN6Lr5hM775x69QTcLi5RQKvDftD1XB9GkpGF+Db4eFxD96px1gttUCy4jS71gKL4n+QVXb61+N0uEUXTnT8ZPWrj3NylMW7Istzq/eEDV1/Jj2pxZmtnCMfZ0Y4X1OZJigKLS5ly/eoHDbTbS5v7GHqQl0trfhUj7QUtcKoTc+TrD209R5vipX6kAmuWMtb8u9TYVF+mkjBGMJgGthKuEOnTMgWP5QJ4+4j9MUVNn/nef+aEVK1ntF/Xf/ExNdArcgdTXkrMAeVpal7SOhRVkdIKI//PjGk8VOBRu9/Nh//31OciL2yMHUvlbJqdpkXXjUwyyS1sKjrw==;Dz7DmonfQTrekKagOWiOiw=="
 ---

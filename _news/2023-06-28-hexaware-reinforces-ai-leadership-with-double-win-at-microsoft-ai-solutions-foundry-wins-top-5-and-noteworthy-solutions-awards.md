@@ -747,15 +747,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 14
-  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models and Increased Machine Learning Capabilities to the Data Cloud"
-    excerpt: "\"Snowflake's partnership with Microsoft is evolving and focused on improving our field collaboration to help our customers enter the next wave of generative AI,\" said Chris Degnan, Chief Revenue Officer,"
-    publishedDateTime: 2023-06-26T13:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/26/9838883.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "2a6wm4BcFHzqn1xTteniwFy/+oWmAFQLWDfX3W08/t3ggTPhrVq5Rjm7cXAqgnDwql5FP/G6ZO8/XmtDICVub+xWgqZJdwuX3GMSNirka9VPfZtDFwftc5Penx6pnvKkhgFu15L+kpfODTxhhYCi1Hs9wO6ah6jZoYLtbNpFij0XYAFQXT9qjdAZkNQeDLFCYjfhW7SXHDlgE9w5X8DaqVrP17ttsS+VixlJQ5fXwa+CWuTtD3kJ1cKwByliEjKXAi30RJ40rO9ajnkSaJKATN7To0Wbx22rBB8kG+Y+N75BRRIiru2WTPsLQ8FMp71l+tOdt7RIdE07ArIG7Lxpz5+GxpJt00D6VyGy4Bv1pJc=;37SyDt3vxIGp5oLxSu7+mA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
 webUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM Buys Apptio For $4.6B To Boost Watson, Red Hat, Hybrid Cloud Abilities"
-    excerpt: "IBM acquires FinOps software company Apptio for $4.6 billion to boost Watson, Red Hat, automation and hybrid cloud capabilities."
-    publishedDateTime: 2023-06-26T13:06:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-buys-apptio-for-4-6b-to-boost-watson-red-hat-hybrid-cloud-abilities"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
 
 secured: "4Jui5Kq1cQGAg1IK3ntiKS/c4/J5n2O1EIhj2XGRF5dFEE7lEqxA5vNYTHxp2wZdZgw7ufnY4ivBIB/wOBm8OPgU8VQfFOHL/tdSiwZQvehQpjx67AVIZJikxGLfawhkZPSgQiAx9ZYDh2XkpgK9L0NapaD1Dtyy2rb2gXCpkDII2aHaZBRnnqqMFL/cKHTzuY/47/DvLns00jk0h3Ldzd8W0drtK69F3vC9WX00/innCakWuYS7mp56eqEFwUfYBIjvqo8MSkMdOFaFfmz3cG1HZzlM5go48ckaW10w3ztGassG1IWh2fayPAsI+VOjgrzfV8oG86tvRt8D+cZ82TPJI0j7mWiU+gkn+Wf0L6IXbhr7vjK27jKJUbDjXHrNc3U8PhUr9+BUaJDYjW1pZv+f04TEm5dInItTJfe46+rDLTT1g3oTzoo8oFGsn1albmNmy8bdpuyzQ3cYVrjSRS2sC1W+obO0O2sNWGnf8wMQnbOSH+FfupHt3eiXqKTDXZ/Vjpt+rUK2WfQwNeY1wg==;EGCdk6NGX/AvXCTCkdEsqQ=="
 ---

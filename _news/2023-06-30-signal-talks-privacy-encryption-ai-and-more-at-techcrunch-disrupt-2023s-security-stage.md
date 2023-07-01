@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/signal-talks-privacy-encryption-ai-and-more-at-techcrunch-disrupt-2023-security-stage/amp/"
 type: article
 quality: 95
-heat: 96
+heat: 95
 published: true
 
 provider:

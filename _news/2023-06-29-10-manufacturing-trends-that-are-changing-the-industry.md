@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing
 webUrl: "https://www.ibm.com/blog/10-manufacturing-trends-that-are-changing-the-industry/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,15 +31,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Navigating Future Trends: The Game-Changing Impact of Fintech on Small Business Lending"
-    excerpt: "Fintech has changed small business financing. Traditional lenders are being outpaced by agile fintech startups, ushering in a new era of"
-    publishedDateTime: 2023-06-26T14:59:00Z
-    webUrl: "https://thesiliconreview.com/2023/06/impact-of-fintech-on-small-business-lending"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
-    quality: 0
 
 secured: "d0LgQBnExg2TM8+Eq5eJ3I1puIS+QbTMS2UM6yfHEg+/vikpKz/BSFK51pvZbqQTZWMB6Q3AVrksE4lHPa/aYDciA6Cec79MaTB9Ei4uz88wOaVFXZm4R2cXFEiuGb2tSPYCfUB83IJKAlkhYeg4bSM9GdoVqStRlKEBFYLy2lFZsLAeEx3xa5Dkke57xMfgbtScMX12Knb6NoJ8PHSgJwO1XRegSG7U/24EBKITz32UOGS5DrZvKXv9fZH2CtycqYCF1kJ1vsvudmB2XELGAQocIJl0QMmO/DTz+wrw5FqYjIPQiX9sFlPyJiOcxawO5Marg/sbUK6wwJAXmqrsEmvxps4PcsWfMt5SFu/sBAk=;1VkJTRSNWT4TJkpbRFOvnQ=="
 ---

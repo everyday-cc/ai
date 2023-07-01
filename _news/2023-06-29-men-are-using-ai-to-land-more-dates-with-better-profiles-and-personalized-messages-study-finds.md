@@ -22,15 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Slang taps AI to answer phone calls for brick-and-mortar businesses"
-    excerpt: "Slang, which is developing tech to help brick-and-mortar businesses field phone calls, has emerged from stealth with $20 million."
-    publishedDateTime: 2023-06-28T12:29:00Z
-    webUrl: "https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/"
+  - title: "Geologists are using artificial intelligence to predict landslides"
+    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
+    publishedDateTime: 2023-06-29T12:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230628130502.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Do’s and don’ts now that Fortune 500 companies are using AI to screen resumes"
+    excerpt: "Artificial Intelligence has bled into the job market leading to avoidable pitfalls on resumes often only viewed by bots."
+    publishedDateTime: 2023-06-26T15:40:00Z
+    webUrl: "https://www.bizpacreview.com/2023/06/26/dos-and-donts-now-that-fortune-500-companies-are-using-ai-to-screen-resumes-1371970/"
+    type: article
+    provider:
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 36
+    images:
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2023/06/SG-AI-Interview-1200x630-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UCLA geologists are using artificial intelligence to predict landslides"
+    excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
+    publishedDateTime: 2023-06-28T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/994057"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "dLLE/8SNT/04L5u/wt6hR60AnEbY7rCAb1Z/YRSs7gHftbE9SejHUCykbJ4EBVozYrV/kI8O86/e5/rBFmWWx3seYgjZhvGO3oFX+VPfn7YXbDk4dq57XXZLXWXUlxVgi4pwC1suQDDbELhDNf4f5Az/MOlYcEaxPihQTxdBXTIKxIL/rGThSVN6dPjNW+O1Yqm8Ib5SyZ1vPOrRE/lv0WeMH+2QJHHeW6FHBEi8x8VUO3YwrhMhPZpvBYCOgNClW+lBVjLw8YjZTd6pIUavvDlwZaRa8IT8wlIxlpr0XqY0vsVOB+RYT5MAIeGndP5nNAVqgs4eiDKIfYnRt26imZGaAakCU2q66lE7KMUX1l5wvVmasDAvftifRIzO4p+vLIgyVsHUeI7nIWpFgPycRkpOHeNb+UEFW0yLTcHxz8YUpwi658ymZpRwAdp6A+kbXPOSlo7zI5766i6Y9K/l884nxv2V2jBbI/NqjioKhbN0jj4DDckQgGrovi8GwIvjFJRev/oLcOiDD1iQhv5r2A==;ehQDU5+I3NNWOkmEn4U45g=="
 ---

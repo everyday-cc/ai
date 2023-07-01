@@ -23,6 +23,7 @@ topics:
   - Microsoft AI
   - IBM AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"

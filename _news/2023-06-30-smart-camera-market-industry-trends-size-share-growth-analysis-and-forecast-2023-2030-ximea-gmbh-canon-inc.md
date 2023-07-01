@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Hemophilia Market Size, Share Analysis, Trends and Industry Report 2023 – 2030"
-    excerpt: "According to the DataM market research report, the Global Hemophilia Market size reached US$ 11,723.2 million in 2022 and is projected to"
-    publishedDateTime: 2023-06-26T13:17:00Z
-    webUrl: "https://www.medgadget.com/2023/06/hemophilia-market-size-share-analysis-trends-and-industry-report-2023-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-
 secured: "CSxo+W2WOJ7EzO0jZJ8zSMwaU2zM6y75vvtcLoSYDGosEsQRy5KI3AkaVSLpSkAh9bCpEI/mDrSTTzC41UKhmkGblNsQaCZ4fYQMTcoqZykHq7F76rIKlw9fgrOBdtljpi99vKj1Oo123c951RvZO7bhfst6srDc4PC9rRPcQaGdODYKLLwIP6DNxIkEuyASzF7VeSWqFUWKE4f6U44IBvPFgMWpufSZNtq/+dehzT/gXHQeAj4x1KVME2eGpL7pzCBYA/kqf6HjtvKzGEbeAKfurI4FQO2wO5CH/TUZxIRwG1TYH+S8RlMZHHNiupa+0HPkbcXAN84HN+uSDeYrp/9XgKMXHK6h/r1940+GZWI=;/gJyUjP3S6QY94aT9EjQMg=="
 ---
 

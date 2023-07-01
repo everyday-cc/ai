@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/06/230628130502.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/06/230628130502.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,29 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Geologists use artificial intelligence to predict landslides"
-    excerpt: "A new technique developed by UCLA geologists that uses artificial intelligence to better predict where and why landslides may occur could bolster efforts to protect lives and property in some of the world's most disaster-prone areas."
-    publishedDateTime: 2023-06-26T14:08:00Z
-    webUrl: "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.html"
-    ampWebUrl: "https://phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-geologists-artificial-intelligence-landslides.amp"
+  - title: "Do’s and don’ts now that Fortune 500 companies are using AI to screen resumes"
+    excerpt: "Artificial Intelligence has bled into the job market leading to avoidable pitfalls on resumes often only viewed by bots."
+    publishedDateTime: 2023-06-26T15:40:00Z
+    webUrl: "https://www.bizpacreview.com/2023/06/26/dos-and-donts-now-that-fortune-500-companies-are-using-ai-to-screen-resumes-1371970/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: BizPac Review
+      domain: bizpacreview.com
+    quality: 36
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ucla-geologists-are-us.jpg"
-        width: 1920
-        height: 1082
+      - url: "https://www.bizpacreview.com/wp-content/uploads/2023/06/SG-AI-Interview-1200x630-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
+    excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
+    publishedDateTime: 2023-06-28T18:39:00Z
+    webUrl: "https://www.businessinsider.com/how-men-are-using-ai-for-dating-profiles-messaging-study-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "UCLA geologists are using artificial intelligence to predict landslides"
     excerpt: "Many factors influence where a landslide will occur, including the shape of the terrain, its slope and drainage areas, the material properties of soil and bedrock, and environmental conditions like climate,"
     publishedDateTime: 2023-06-28T00:00:00Z
