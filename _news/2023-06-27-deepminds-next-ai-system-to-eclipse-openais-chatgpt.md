@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind Unlocks Web-Scale Training for Open-World Detection"
-    excerpt: "Open-vocabulary object detection plays a crucial role in numerous real-world computer vision tasks. However, due to the scarcity of detection training data and the fragility of pre-trained representations,"
-    publishedDateTime: 2023-06-27T02:06:00Z
-    webUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/"
-    ampWebUrl: "https://syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/26/deepmind-unlocks-web-scale-training-for-open-world-detection/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
   - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
     excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
     publishedDateTime: 2023-06-29T06:18:00Z

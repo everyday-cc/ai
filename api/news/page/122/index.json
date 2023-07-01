@@ -2,6 +2,125 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2023-04-14-microsoft-stock-is-easily-your-best-ai-bet-for-2023.md",
+      "title": "Microsoft Stock Is Easily Your Best AI Bet for 2023",
+      "excerpt": "That’s okay, though, as it’s not too late to take a position in Microsoft (NASDAQ:MSFT) stock. No doubt about it — Microsoft will continue to push the boundaries in the generative AI field this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-stock-is-easily-your-best-ai-bet-for-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-amazon-takes-the-lead-in-generative-ai-with-two-new-large-language-models.md",
+      "title": "Amazon takes the lead in generative AI with two new large language models",
+      "excerpt": "In a recent blog post, Amazon Web Services (AWS) has announced its entry into the rapidly growing generative AI industry. The company has introduced Amazon Bedrock, a new service that allows AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
+      "originalUrl": "https://www.merca20.com/amazon-aws-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "promocionar",
+        "domain": "merca20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-14-elon-musk-to-tucker-carlson-ai-has-the-potential-to-destroy-civilization.md",
+      "title": "Elon Musk to Tucker Carlson: AI has the potential to destroy civilization",
+      "excerpt": "Twitter and Tesla CEO Elon Musk weighs in on the dangers of artificial intelligence, the future of Twitter and more in an exclusive 'Tucker Carlson Tonight' interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325033515112",
+      "originalUrl": "https://www.foxnews.com/video/6325033515112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da690c3c-5e61-47c0-bccc-5beca326338b/1fbe27f8-e5d4-49cc-b091-9bc43566bf28/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazon-ceo-andy-jassys-5-boldest-remarks-on-layoffs-chips-and-ai.md",
       "title": "Amazon CEO Andy Jassy's 5 boldest remarks on layoffs, chips And AI",
       "excerpt": "From AWS facing \"short-term headwinds\" to customers looking at \"cost-optimizing\" versus cutting cloud costs, Amazon CEO Andy Jassy has some very bold statements regarding his vision for Amazon Web Services.",
@@ -1052,135 +1171,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates.md",
-      "title": "Amazon AWS expands generative AI efforts with Bedrock and CodeWhisperer updates",
-      "excerpt": "Amazon Web Services (AWS), announced today that it is expanding its generative AI services in a bid to make the technology more available to organizations in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-aws-expands-generative-ai-efforts-with-bedrock-and-codewhisperer-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-can-artificial-intelligence-predict-the-weather-months-out-this-company-says-it-can.md",
-      "title": "Can artificial intelligence predict the weather months out? This company says it can",
-      "excerpt": "As artificial intelligence is introduced across different sectors, one company touts its machine-learning method for weather forecasting months ahead of time – and is getting pushback.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
-      "originalUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99c2d3f0-ca52-4098-9181-5c055a78fc88/280113b3-7fc9-4279-a467-a3ad7e69045b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/can-artificial-intelligence-predict-weather-months-out.amp",
-      "publishedDateTime": "2023-04-13T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-built-world-ai-is-the-present-and-the-future.md",
-      "title": "Built-world AI is the present and the future",
-      "excerpt": "Since the creation of AI technology, its use in fintech has proved the most popular and profitable. AI technologies can help fintech companies and institutions to keep in touch with their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
-      "originalUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

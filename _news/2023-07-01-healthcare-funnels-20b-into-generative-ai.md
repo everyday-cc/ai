@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Mizuho Rolls Out Generative AI to All 45,000 Bank Staff in Japan"
-    excerpt: "Mizuho Financial Group Inc. is giving all its Japan bank employees access to Microsoft Corp.’s Azure OpenAI service this week, making it one of the country’s first financial firms to adopt the potentially transformative generative artificial intelligence technology."
-    publishedDateTime: 2023-06-27T02:16:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 86
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0xv1fS6PkA/v0/1200x793.jpg"
-        width: 1200
-        height: 793
-        isCached: true
   - title: "How Generative AI is a Game Changer for Cloud Security"
     excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
     publishedDateTime: 2023-06-29T16:34:00Z

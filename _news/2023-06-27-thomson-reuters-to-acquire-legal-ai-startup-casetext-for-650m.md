@@ -33,10 +33,10 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "LexisNexis and Thomson Reuters Weigh In on the Future of AI in Legal Research"
+  - title: "LexisNexis and Thomson Reuters Weigh in on the Future of AI in Legal Research"
     excerpt: "The recent acquisition of Casetext by Thomson Reuters has raised many questions about the future of generative AI in legal research. Here, LexisNexis and Thomson Reuters weigh in on issues including build vs."
-    publishedDateTime: 2023-06-30T20:58:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
+    publishedDateTime: 2023-06-30T17:10:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
     type: article
     provider:
       name: Law

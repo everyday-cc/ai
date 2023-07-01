@@ -1,10 +1,10 @@
 ---
 category: news
-title: "LexisNexis and Thomson Reuters Weigh In on the Future of AI in Legal Research"
+title: "LexisNexis and Thomson Reuters Weigh in on the Future of AI in Legal Research"
 excerpt: "The recent acquisition of Casetext by Thomson Reuters has raised many questions about the future of generative AI in legal research. Here, LexisNexis and Thomson Reuters weigh in on issues including build vs."
-publishedDateTime: 2023-06-30T20:58:00Z
-originalUrl: "https://www.law.com/thelegalintelligencer/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
-webUrl: "https://www.law.com/thelegalintelligencer/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
+publishedDateTime: 2023-06-30T17:10:00Z
+originalUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
+webUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
 type: article
 quality: 36
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 375
         isCached: true
 
-secured: "PExR+8DOiTQWcrpoIsHyo/fkriq41dO5yJwR00LPpW1NrmaSmJ86tLVOEgRBLti9e3EGE5pllcbGhzf6KJJDj45Dkka21Ae1QqC0O+UHhv5QdKtsap7wvt09xSdW0yUbTfsGjeMHcWSbtmWLBxf0jDZPpKiUX+h00eBhwT6GeO0FScMdMXoKsioizAQiZN+efs2zJbIW1WoapNAsH3kzRtmIHtI1sco8MvjSU36kSkluu4MQqCFhGjKGGO4vwmHqbL/VM5d/9GOkzWLyMa8fjcnJkvA6hJhVDp89oiYJMJnbgzbz+ueruOwYjeJW1DwREQ0OaLSZaQZ3KcUSU2m5qwEmz8oyWgQ9QMrqJeLuvNU=;ql7cFWcYfyrmtXOorCiggw=="
+secured: "sJFUAX2KX0yjMg3QOSAy0jiKNo8TXe2wSKKJHX3JFgaLyV3FVPUr0Zkk99rRMbNATUONySsI7JUVqVymNurQMPAkvkclnGxFEVfVwYC5eXZbq4IkHRyWgBumewXlyjkKzNlWpr/VZ1M3gZxJ9YuL5KLsi8zN1Ib64iIzZGhg9jLqvLisO5UGs2Jpe7LCtYTcn6/fYUYVbQZ5Oiyw5sRXF3XHncraARtDQ8TmRIgVqKZu1/TWiSD0grtTwBCgRHI8TEvaRDvepuBXgkDlew8Tgp7Gulc3rYErTFAsyC9i4BoswCwVXTgQ9Vyvw00oEXhOECKc1N4B25AbYxPgp6kXj5lYXEmJq1AY4YtY7QyBvmE=;eHChgICELXACwhNa9gC2Xw=="
 ---
 

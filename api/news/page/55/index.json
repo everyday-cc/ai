@@ -2,6 +2,161 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-05-24-3-ways-openai-says-we-should-start-to-tackle-ai-regulation.md",
+      "title": "3 ways OpenAI says we should start to tackle AI regulation",
+      "excerpt": "The blog post outlines three different course of actions that could serve as a good starting point for AI regulation. First, the post calls for there to be some form of a coordinating entity that focuses on the safety and smooth integration of AI technologies into society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/67ecfca84a21b3d7483897b2bfc190bd1cf398dc/2023/05/24/81259cee-41f2-463b-b6c2-85ec4d9c32ea/gettyimages-1453111695.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "publishedDateTime": "2023-05-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
+      "title": "Microsoft aims to win the AI app race with three big advantages",
+      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 426,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "publishedDateTime": "2023-05-24T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-google-to-work-with-europe-on-stop-gap-ai-pact.md",
+      "title": "Google to work with Europe on stop-gap ‘AI Pact’",
+      "excerpt": "Google's Sundar Pichai has agreed to work with lawmakers in Europe on what's being referred to as an \"AI Pact\" -- seemingly a stop-gap set of voluntary rules or standards while formal regulations are still being worked on.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
+      "originalUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1194872527.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
+      "publishedDateTime": "2023-05-24T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-alteryx-reimagines-data-analytics-with-generative-ai.md",
       "title": "Alteryx reimagines data analytics with generative AI",
       "excerpt": "How will AiDIN generative AI help? AiDIN is an umbrella term for a series of generative AI innovations set to make their way into the Alteryx Cloud Platform portfolio of products.",
@@ -1014,162 +1169,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-generative-ai-podcasts-are-here-prepare-to-be-bored.md",
-      "title": "Generative AI Podcasts Are Here. Prepare to Be Bored",
-      "excerpt": "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-prediction-this-cathie-wood-ai-stock-will-be-1-of-the-top-5-largest-companies-by-2030.md",
-      "title": "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030",
-      "excerpt": "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/733173/artificial-intelligence-ai.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-beyond-text-ai-model-digests-80-hours-of-video-to-learn-sign-language.md",
-      "title": "Beyond text: AI model digests 80 hours of video to learn sign language",
-      "excerpt": "For deaf and hard-of-hearing people, voice recognition technology like Alexa and Siri can be a barrier to effective communication. Researchers have used AI to develop a tool that converts sign language to text,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
-      "originalUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/305943e/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Faf%2F14%2F844d8eb54f478f6ff82d2ffe4a41%2Fdepositphotos-607081878-l.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

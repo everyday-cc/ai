@@ -40,20 +40,15 @@ related:
         width: 395
         height: 400
         isCached: true
-  - title: "Space and Time uses generative AI to enable data analytics in natural language"
-    excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."
-    publishedDateTime: 2023-06-27T04:13:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/space-time-uses-generative-ai-enable-data-analytics-natural-language/"
+  - title: "AWS Announces Availability of AWS AppFabric to Improve Leading SaaS Applications for enhanced Productivity and Security"
+    excerpt: "AWS, today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications"
+    publishedDateTime: 2023-06-28T13:20:00Z
+    webUrl: "https://itsecuritywire.com/news/aws-announces-availability-of-aws-appfabric-to-improve-leading-saas-applications-for-enhanced-productivity-and-security/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-27_064307840.png"
-        width: 721
-        height: 487
-        isCached: true
+      name: itsecuritywire
+      domain: itsecuritywire.com
+    quality: 27
   - title: "Generative AI, ESG to reshape big data and analytics"
     excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
     publishedDateTime: 2023-06-27T08:27:00Z

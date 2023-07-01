@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/273883844/xiao-i-releases-cutt
 webUrl: "https://www.bignewsnetwork.com/news/273883844/xiao-i-releases-cutting-edge-large-language-model-hua-zang-to-create-chinas-own-chatgpt"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 630
     height: 420
     isCached: true
-
-related:
-  - title: "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters"
-    excerpt: "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model"
-    publishedDateTime: 2023-06-27T02:43:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 62
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "BEST Brings ChatGPT In Qianyi ERP Software For Multi-Language Product Titles For Cross-border Sellers"
-    excerpt: "BEST Inc. BEST integrated the natural language processing tool ChatGPT into its Qianyi ERP software. The integration allows cross-border sellers to generate multi-language product titles and descriptions using AI,"
-    publishedDateTime: 2023-06-28T11:19:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/23/06/33038758/best-brings-chatgpt-in-qianyi-erp-software-for-multi-language-product-titles-for-cross-border-se"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33038758"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33038758"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/28/best.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "mrTO3fJMhsrCtnF/5Y+8I8omCJGas5HIjFkP3Mx/RNS46fomeei/1aFaO2eJ6ZmsBFuwrm6+SNd9o7ucu2KdgW7uTSYoD+C4m5FaqhsP3ZDcKMKm6VxsvqgaKonqJeyRRoNepXYpeqKR/1mcr3YE7yzaa+geR6eKGrHpbLfnZln6WACSf3VAslk4w7yEYuv9FzITwZqfWUuFxyY+rc9m2k9lPv9m72S5SULvPdcwZ8cKdFXtyLd4mSp6qlqr0MvqmCHUPpuCaebH9R56fp4nG7J+fNs8sg5B+hCGJ0UuZ/TG5/4pYko2JO9zMmq4ek/xe7P5lpAXnSJscz0MKYOwoYWXWmOJDIg/gWl9A0EiYGc=;PnBbHd4VjkOGmlNWXgPXUg=="
 ---

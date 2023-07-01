@@ -2,6 +2,84 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-06-21-ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace.md",
+      "title": "Ekinops Offers Direct Routing Voice and Security Abilities to Microsoft Teams Clients from the Azure Marketplace",
+      "excerpt": "Ekinops is available on the Microsoft Azure Market place. Telecom service vendors can benefit from developing their voice services.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/06/Ekinops-Offers-Direct-Routing-Voice-and-Security-Abilities-to.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace/amp/",
+      "publishedDateTime": "2023-06-21T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-moveworks-recognized-for-generative-ai-innovation-in-2023-artificial-intelligence-breakthrough-awards-program.md",
+      "title": "Moveworks Recognized for Generative AI Innovation in 2023 Artificial Intelligence Breakthrough Awards Program",
+      "excerpt": "About AI Breakthrough Part of Tech Breakthrough, a leading market intelligence and recognition platform for global technology innovation and leadership, the AI Breakthrough Awards program is devoted to honoring excellence in Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230621128127/en/Moveworks-Recognized-for-Generative-AI-Innovation-in-2023-Artificial-Intelligence-Breakthrough-Awards-Program/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230621128127/en/Moveworks-Recognized-for-Generative-AI-Innovation-in-2023-Artificial-Intelligence-Breakthrough-Awards-Program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-devron-awarded-2023-best-machine-learning-company.md",
       "title": "Devron Awarded 2023 \"Best Machine Learning Company\"",
       "excerpt": "Devron, the leader in AI and machine learning for distributed and private data, today announced that it has been selected as",
@@ -1085,92 +1163,6 @@
       "provider": {
         "name": "newsroom.businesswire.com",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-deepmind-co-founder-wants-the-new-turing-test-to-be-based-on-how-good-an-ai-is-at-getting-rich.md",
-      "title": "DeepMind Co-Founder Wants the ‘New Turing Test’ to Be Based on How Good an AI Is at Getting Rich",
-      "excerpt": "With artificial intelligence hype leaving venture capitalist firms foaming at the mouth, ready to buy into any new company that sticks an “A” and “I” in its name, we sure as hell need a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/21/7f93bbcb28942de51d929b39f7c7da7f.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
-      "publishedDateTime": "2023-06-21T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
-      "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
-      "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32940522",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940522",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

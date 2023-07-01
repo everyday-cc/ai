@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/portland/inno/stories/fundings/2023/06
 webUrl: "https://www.bizjournals.com/portland/inno/stories/fundings/2023/06/27/sixty-ai-mat-ellis-cloudability.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial intelligence program will soon help with Portland non-emergency calls"
-    excerpt: "We are surrounded by artificial intelligence in everyday life, whether it’s through smart devices or the algorithms that decide which ads are presented to us online."
-    publishedDateTime: 2023-06-27T01:38:00Z
-    webUrl: "https://www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/"
-    ampWebUrl: "https://www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/06/27/artificial-intelligence-program-will-soon-help-with-portland-non-emergency-calls/?outputType=amp"
-    type: article
-    provider:
-      name: Fox 12 Oregon
-      domain: kptv.com
-    quality: 52
-    images:
-      - url: "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/qzJdLdxC1qRT6GImkNkEafdDIi4=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/06-27-2023/t_efa59ccc67984616bef30770158f15ce_name_YT_THUMBNAIL__43_.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "OJHM8+A+OPsJBLNabEZlvzh3HryoYU54BZkGg/6wIlndc5yYNhL3hg2Y0aQJzfG/t+dORanm+m7PECA/aQm0BPBeootwp1D8WTtCq2uCxtS3AwxNeneXt/fbDkHzPWGX/23yEMa36xJsSNGCkP8X0iP7kxxJu92gl7aHMhNh2+ub9/kVE8Ej/s7e4zOxEP4IlF9NzK5qWQfw37h2hIf4wvJybLCXJjQ0gkT0WuzLCJX1W0uKfuVM7ZrpHJU+pwUWvyWF5va/u1nNKRbaWf/P4EXKOFpMdl+CII5kR0GELyi9CUPv0NS40buYt8jo/jSFZCWxcgMY06J2lRRCkdEyufl+EIOJyc0Y3MbAPWpNE8HxII6XT4kA+wRt0xTr8X/JqRSXyjvW1IKSN4PyGtts49Nl5X8kCQqJBl4+AN3MldBdbOW5UVpRcg/+hoM4TdaS/WuEIfnUrLxhkLS4sdOMXqhuH91lBf3dhyRDnVfzi0m+E+jWDo+ynuDzK3q3bnjFyUVcZY2hFhte5J73Wqz6TA==;thhd3/3Igg0g17ACMYSgBA=="
 ---

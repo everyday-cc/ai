@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-21-deepmind-co-founder-wants-the-new-turing-test-to-be-based-on-how-good-an-ai-is-at-getting-rich.md",
+      "title": "DeepMind Co-Founder Wants the ‘New Turing Test’ to Be Based on How Good an AI Is at Getting Rich",
+      "excerpt": "With artificial intelligence hype leaving venture capitalist firms foaming at the mouth, ready to buy into any new company that sticks an “A” and “I” in its name, we sure as hell need a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/21/7f93bbcb28942de51d929b39f7c7da7f.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
+      "publishedDateTime": "2023-06-21T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraft-parts.md",
+      "title": "Capgemini and AWS announce the launch of a technology platform to improve the lifespan of aircraft parts",
+      "excerpt": "Email: magali.rouault@capgemini.com AWS Press Contact:Jonny StokesTel.:+ 31 621 52 37 43 Email: jjstokes@amazon.nl Capgemini and AWS announce the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/tr32940522/capgemini-and-aws-announce-the-launch-of-a-technology-platform-to-improve-the-lifespan-of-aircraf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940522",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940522",
+      "publishedDateTime": "2023-06-20T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
       "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
       "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
@@ -976,6 +1062,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
+      "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
+      "excerpt": "Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a military technology company integrating robotic hardware and software to protect and support the",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/",
+      "originalUrl": "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/09/teal-goldren-eagle.jpg?fit=900%2C602&ssl=1",
+          "width": 900,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-researchers-expand-ability-of-robots-to-learn-from-videos.md",
       "title": "Researchers expand ability of robots to learn from videos",
       "excerpt": "The research could help improve the utility of robots in the home, allowing them to assist people with tasks like cooking and cleaning. Two robots successfully learned 12 tasks including opening a ...",
@@ -1015,142 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-biden-holds-meeting-on-possibilities-and-the-risks-of-ai.md",
-      "title": "Biden holds meeting on 'possibilities and the risks' of AI",
-      "excerpt": "President Biden held a meeting on artificial intelligence during a visit to San Francisco.  He assured his administration would work to \"manage the risks to our society\" while \"safeguarding\" the rights and safety of Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
-      "originalUrl": "https://www.nbcnews.com/video/biden-holds-meeting-on-artificial-intelligence-183553093957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687293423519_f_mo_dc_biden_ai_meet_230620_1920x1080-etwbna.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo183553093957",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo183553093957",
-      "publishedDateTime": "2023-06-20T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says.md",
-      "title": "Thousands of realistic but fake AI child sex images found online, report says",
-      "excerpt": "This \"explosion\" of \"disturbingly\" realistic images could help normalize child sexual exploitation, lure more children into harm's way, and make it harder for law enforcement to find actual children being harmed,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1395557548-800x534.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/06/thousands-of-realistic-but-fake-ai-child-sex-images-found-online-report-says/amp/",
-      "publishedDateTime": "2023-06-20T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-the-ai-therapist-is-in-can-chatbots-boost-mental-health.md",
-      "title": "The (AI) therapist is in: Can chatbots boost mental health?",
-      "excerpt": "AI experts have warned against virtual therapy companies losing sensitive ... Researchers deduced that \"artificial intelligence assistants may be able to aid in drafting responses to patient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/article-746992",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/article-746992",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/538477",
-          "width": 690,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/article-746992/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/article-746992/amp",
-      "publishedDateTime": "2023-06-20T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

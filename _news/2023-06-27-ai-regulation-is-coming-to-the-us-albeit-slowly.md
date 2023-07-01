@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 803
-        isCached: true
-  - title: "The AI Rules Companies Really Want From the EU"
-    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
-    publishedDateTime: 2023-06-27T04:44:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "How AI is affecting the patent system"
     excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
@@ -103,20 +89,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
         width: 1200
         height: 676
-        isCached: true
-  - title: "The Race to Regulate Artificial Intelligence"
-    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
-    publishedDateTime: 2023-06-27T04:49:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Executives urge Europe to rethink its world-leading AI rules"
     excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"

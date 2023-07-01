@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Awareness Now A Must On Any Business Resume"
-    excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
-    publishedDateTime: 2023-06-27T02:57:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
+  - title: "Slang taps AI to answer phone calls for brick-and-mortar businesses"
+    excerpt: "Slang, which is developing tech to help brick-and-mortar businesses field phone calls, has emerged from stealth with $20 million."
+    publishedDateTime: 2023-06-28T12:29:00Z
+    webUrl: "https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1525
-        height: 900
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Business Hunter will host a summit this week to discuss the implications of artificial intelligence for Hunter businesses"
     excerpt: "He has previously covered issues including the health and environmental impacts of uncovered coal wagons in the Hunter Valley, the pollution of legacy of former industrial sites and freedom of information issues."
     publishedDateTime: 2023-06-27T23:00:00Z

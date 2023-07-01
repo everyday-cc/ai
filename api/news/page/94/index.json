@@ -2,6 +2,134 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-05-02-financialbuzzcom-recruiters-implement-ai-powered-solutions-to-ease-processes.md",
+      "title": "FinancialBuzz.com: Recruiters Implement AI-Powered Solutions to Ease Processes",
+      "excerpt": "Inc. (AWS) to deliver artificial intelligence (AI) solutions designed to solve customers' critical business challenges across a variety of industries, including defense and intelligence as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58971879-financialbuzz-com-recruiters-implement-ai-powered-solutions-to-ease-processes-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-05/58971879-financialbuzz-com-recruiters-implement-ai-powered-solutions-to-ease-processes-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-city-councilman-introduces-bills-to-limit-facial-recognition-technology.md",
+      "title": "City councilman introduces bills to limit facial recognition technology",
+      "excerpt": "THE SECOND BILL REVOLVES AROUND FACIAL RECOGNITION TECHNOLOGY. IT WOULD REGULATE NOT ONLY ITS USE, BUT HOW DATA IS RECOVERED, RETAINED AND THEN ULTIMATELY DESTROYED. BARNETT SAID AT TONIGHT’S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "originalUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "publishedDateTime": "2023-05-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAL-TV",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided.md",
+      "title": "92% of businesses use AI-driven personalization but consumer confidence is divided",
+      "excerpt": "State of Personalization report highlights the significance of building customer loyalty through tailored experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "originalUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/personalization-marketing-targeting-e1683039275909.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/92-of-businesses-use-ai-driven-personalization-but-consumer-confidence-is-divided/amp/",
+      "publishedDateTime": "2023-05-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-new-relic-launches-grok-its-ai-observability-assistant.md",
       "title": "New Relic launches Grok, its AI observability assistant",
       "excerpt": "New Relic introduces Grok, its generative AI assistant for observability, simplifying data analysis and task management for engineers.",
@@ -1077,152 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-pioneer-quits-google-to-warn-about-the-technologys-dangers.md",
-      "title": "AI pioneer quits Google to warn about the technology’s ‘dangers’",
-      "excerpt": "Hinton’s pioneering work on neural networks shaped artificial intelligence systems powering many of today’s products. He worked part-time at Google for a decade on the tech giant’s AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230501094028-geoffrey-hinton-file-restricted-090519-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html",
-      "publishedDateTime": "2023-05-01T19:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-samsung-reportedly-bans-use-of-generative-ai-tools.md",
-      "title": "Samsung Reportedly Bans Use of Generative AI Tools",
-      "excerpt": "Employees are prohibited from using the popular tools on company equipment after a data leak, Bloomberg reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "originalUrl": "https://www.cnet.com/tech/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/734ac9449cb8169694bff4472bec103682803272/hub/2021/12/16/e9b75d85-82f3-4925-ae9e-79b6728957b7/20211209-samsung-san-jose-california-headquarters-06.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-reportedly-bans-use-of-generative-ai-tools/",
-      "publishedDateTime": "2023-05-01T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions.md",
-      "title": "AI chatbot outperforms human doctors in responding to patient questions",
-      "excerpt": "An artificial intelligence chatbot was able ... presented a team of licensed health care professionals with responses to 195 randomly drawn patient questions. The evaluators determined that ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
-      "originalUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/11/laptop-doctor_042822istock_cyber-health-care.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3982046-ai-chatbot-outperforms-human-doctors-in-responding-to-patient-questions/amp/",
-      "publishedDateTime": "2023-05-01T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

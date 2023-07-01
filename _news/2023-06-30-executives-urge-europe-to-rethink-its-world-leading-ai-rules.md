@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "The AI Rules Companies Really Want From the EU"
-    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
-    publishedDateTime: 2023-06-27T04:44:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "How AI is affecting the patent system"
     excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
     publishedDateTime: 2023-06-28T13:34:00Z
@@ -113,20 +99,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
         width: 1200
         height: 676
-        isCached: true
-  - title: "The Race to Regulate Artificial Intelligence"
-    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
-    publishedDateTime: 2023-06-27T04:49:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ILeK3YEanfL+RssWe93hyYKoR/yEKWnbTngA4urWWaQSRLGaPT9BdWBrU1+AN4cwr35zaWiU5ZTuso/PGyf65xrqcKJ1wF0Wv1sJe15/WbJ9ICnXGXGPFEZL+oKwwU5PEd7cZ91JnL3OOCGDxU/c2Gjz9G8T64dEQfWc36ZUfGS/ikzYNEo/HW0rMgLJnolFu+Ftblg/b/S9OQ66biOmXdJoOp9VCDivkOTvtJFOsbEN+7iynV///S8VFhwpV5sb/ILs0oKQS/xY795ztyLn8Vpkr5VLpxjHEUFEQ+Qndtf5mX8DRbMNt5cztd+koCmQneKiA8GSG97FEghVBhhNNQGUYeMy4sKn+FED1K3pdmluoxScqJj9hNad+3QTsTHSvfj+KRZ6d1ULNUCjjcDaOaVUc9VYKFl9t2m2geUNhw2wowwRJyBsairdTOMX6hjLuI9n9AGKhONUy8b3Cc5nkEh1dBji11ttzZkx8HzFOyxgCjYGcut2yMrsUUyD1DRv6orwWJtosnwLsLqJOzd2Fw==;4SBNETzdDRmXq3/8r8bNBg=="

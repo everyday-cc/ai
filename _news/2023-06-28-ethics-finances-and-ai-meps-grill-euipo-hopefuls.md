@@ -41,6 +41,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "The future? Artificial Intelligence and safety"
+    excerpt: "Is safety a good fit for AI? Graham Sharp at Stanley thinks so. Here he shares how the technology is changing the landscape."
+    publishedDateTime: 2023-06-29T05:45:00Z
+    webUrl: "https://www.shponline.co.uk/technology-2/the-future-artificial-intelligence-and-safety/"
+    type: article
+    provider:
+      name: SHP Online
+      domain: shponline.co.uk
+    quality: 37
+    images:
+      - url: "https://s32891.pcdn.co/wp-content/uploads/2023/06/G39DX0-scaled.jpg"
+        width: 2560
+        height: 1850
+        isCached: true
 
 secured: "PRUlTmf0sUl2KLKH807mKy/7ov1A8SOties1A5NpSs+FM2SF1qkdBgW3jZ/SkNtWJuKnnHPcSLvl/U+VN5jjT5B0GGw3m3gO7YfYRWV3Qh5DNNvFetUI7Do9HQl746mnsG3jCZELFLzQ4jGSEILxaK200RvhQsyierQ4cMRjQ6CJFsmjvBYXlG+R1c8Lh6ysRXKJk0iXx+T0r/2NjJJh+gLK0WIqseyow4wVw5tzBNQZckkevNFTamg3batrNVnSfTjB5EUQgZpb4vqY62AkfZEs5W+G5+55vkCucU1+/S85+y9+IwB1Ax0aX6wNHsm9SmxX+I53rBQ9EYTj9gOvY/ohX7h+1tr1HZBj2hANIeIuC+ORFn+0Z84iRqVqexYfzfptiPvzi0BYXX7N2XxkJls3gPSAegTEulMnApvbF7Si2wACyFUXGG+7zwzZSJ3eUlIjiiZmoPN3Dj+lE70GtD+TGD6XKb0lTS2DNw6SaPoqfC/Rml1qoccdHiaKDouBiVdUYv+qgIHHDeu/zVD+bA==;G+EkNuvI6FZwRipTIB+VFQ=="
 ---

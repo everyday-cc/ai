@@ -681,6 +681,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-14-alibaba-reveals-progress-with-large-language-model-research-as-chinese-big-tech-firms-continue-to-push-for-chatgpt-rival.md",
+      "title": "Alibaba reveals progress with large language model research as Chinese Big Tech firms continue to push for ChatGPT rival",
+      "excerpt": "The new DAMO Academy model is an enhancement from previous vision-LLMs as it can tackle two challenges in video understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3223829/alibaba-reveals-progress-large-language-model-research-chinese-big-tech-firms-continue-push-chatgpt",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3223829/alibaba-reveals-progress-large-language-model-research-chinese-big-tech-firms-continue-push-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031.md",
       "title": "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031",
       "excerpt": "Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include brand purchase advertising, workflow management tools, trend predictions among others.",
@@ -1353,49 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-celebrate-with-us-elon-has-been-promising-self-driving-cars-for-ten-years.md",
-      "title": "Celebrate With Us: Elon Has Been Promising Self-Driving Cars For Ten Years",
-      "excerpt": "Elon Musk has been promising self-driving cars are right around the corner for the last decade. And what a decade it’s been! Full of scandal, intrigue, and poorly manufactured cars and car ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/elon-musk-tesla-self-driving-cars-anniversary-autopilot-1850432357",
-      "originalUrl": "https://jalopnik.com/elon-musk-tesla-self-driving-cars-anniversary-autopilot-1850432357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/75e30f9d4277af3056e4442933dad78f.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-07T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

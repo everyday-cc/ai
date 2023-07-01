@@ -47,20 +47,15 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Space and Time uses generative AI to enable data analytics in natural language"
-    excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."
-    publishedDateTime: 2023-06-27T04:13:00Z
-    webUrl: "https://siliconangle.com/2023/06/27/space-time-uses-generative-ai-enable-data-analytics-natural-language/"
+  - title: "AWS Announces Availability of AWS AppFabric to Improve Leading SaaS Applications for enhanced Productivity and Security"
+    excerpt: "AWS, today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications"
+    publishedDateTime: 2023-06-28T13:20:00Z
+    webUrl: "https://itsecuritywire.com/news/aws-announces-availability-of-aws-appfabric-to-improve-leading-saas-applications-for-enhanced-productivity-and-security/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-27_064307840.png"
-        width: 721
-        height: 487
-        isCached: true
+      name: itsecuritywire
+      domain: itsecuritywire.com
+    quality: 27
   - title: "Kyvos Announces Availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
     excerpt: "Kyvos, a modern, cloud-native analytics acceleration platform, has announced the availability of its azure application"
     publishedDateTime: 2023-06-29T19:23:00Z
