@@ -79,38 +79,6 @@ related:
         width: 1000
         height: 544
         isCached: true
-  - title: "Databricks’ $1.3 billion MosiacML acquisition to boost generative AI offerings"
-    excerpt: "Data lakehouse provider Databricks on Monday said that it was acquiring large language model (LLM) and model-training software provider MosiacML for $1.3 billion in order to boost its generative AI offerings."
-    publishedDateTime: 2023-06-26T16:58:00Z
-    webUrl: "https://www.infoworld.com/article/3700773/databricks-1-3-billion-mosiacml-acquisition-to-boost-generative-ai-offerings.html"
-    ampWebUrl: "https://www.infoworld.com/article/3700773/databricks-1-3-billion-mosiacml-acquisition-to-boost-generative-ai-offerings.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700773/databricks-1-3-billion-mosiacml-acquisition-to-boost-generative-ai-offerings.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 83
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large-100917188-large-100921746-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Databricks' $1.3 billion buy of AI startup MosaicML is a battle for the database's future"
-    excerpt: "On Monday, Databricks, a ten-year-old software maker based in San Francisco, announced it would acquire MosaicML, a three-year-old San Francisco-based startup focused on taking AI beyond the lab, for $1.3 billion."
-    publishedDateTime: 2023-06-26T16:07:00Z
-    webUrl: "https://www.zdnet.com/article/databricks-1-3-billion-buy-of-ai-startup-mosaicml-is-a-battle-for-the-databases-future/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-1-3-billion-buy-of-ai-startup-mosaicml-is-a-battle-for-the-databases-future/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-1-3-billion-buy-of-ai-startup-mosaicml-is-a-battle-for-the-databases-future/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/07403f9ee0b1d9108bf4b6d0aefdca4444495285/2023/06/26/6bba09a8-3acf-4aae-80bb-09f20e13b3c6/databrick-hero.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Immuta updates its Data Security Platform for Databricks to strengthen AI workload protection"
     excerpt: "Immuta said that the updates to the Databricks platform aim to unlock data value and maintain robust data security."
     publishedDateTime: 2023-06-27T20:21:00Z
@@ -176,20 +144,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Databricks acquires AI startup MosaicML in $1.3 billion deal"
-    excerpt: "Databricks said on Monday it had agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at $1.3 billion, marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
-    publishedDateTime: 2023-06-26T15:57:00Z
-    webUrl: "https://www.aol.com/news/databricks-acquires-ai-startup-mosaicml-122853989.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/5263d4a4d41793262ccdf150f16f06dd"
-        width: 533
-        height: 800
-        isCached: true
   - title: "Databricks Buys Generative AI Startup MosaicML For $1.3B"
     excerpt: "Data storage and management startup Databricks signed a definitive agreement to acquire OpenAI competitor MosaicML for $1.3 billion."
     publishedDateTime: 2023-06-26T17:29:00Z
@@ -203,20 +157,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/Money_Stack.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "Databricks acquires generative AI startup MosaicML in $1.3B deal"
-    excerpt: "Big-data and machine learning software provider Databricks Inc. said today that it will acquire the generative artificial intelligence startup MosaicML Inc. in a deal worth $1.3 billion, with a goal to make open-source AI models more accessible to enterprise businesses."
-    publishedDateTime: 2023-06-26T16:54:00Z
-    webUrl: "https://siliconangle.com/2023/06/26/databricks-acquires-generative-ai-startup-mosaicml-1-3b-deal/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/64991359c628c150d21c19f6_Mosaic_Databricks_Teamup4.jpg"
-        width: 2400
-        height: 1260
         isCached: true
   - title: "Databricks’ $1.3B MosaicML Buyout: A Strategic Bet on Generative AI"
     excerpt: "Databricks is the latest company to place a large bet – to the tune of $1.3 billion – on generative AI. On the first day of its sold-out Data + AI Summit,"

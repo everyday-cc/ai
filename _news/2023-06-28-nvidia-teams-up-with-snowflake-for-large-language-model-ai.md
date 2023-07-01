@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-l
 webUrl: "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,63 +23,73 @@ topics:
   - AI
 
 related:
-  - title: "HPE GreenLake Large Language Models And IEEE Urges Ethical Use Of AI"
-    excerpt: "HPE announced GreenLake AI Cloud for privately trained large language models. IEEE cautions that in addition to the good that it enables we must avoid AI for malicious applications."
-    publishedDateTime: 2023-06-26T16:03:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/"
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
+    publishedDateTime: 2023-06-27T00:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6499b54a89da5466485d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1519
-        height: 900
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs"
-    excerpt: "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer."
-    publishedDateTime: 2023-06-28T21:30:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/"
+  - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
+    excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
+    publishedDateTime: 2023-06-27T00:29:00Z
+    webUrl: "https://www.techzine.eu/blogs/applications/107281/nvidia-lowers-case-for-gen-ai-data-concerns-on-snowflake-secure-llms/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: techzine
+      domain: techzine.eu
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/f0f35af3-7772-4b75-b1a5-985839196e0d.jpg"
+        width: 2048
+        height: 1436
+        isCached: true
+  - title: "Nvidia, Snowflake announce partnership for custom generative AI models"
+    excerpt: "Nvidia and Snowflake are entering a partnership that will let Snowflake customers build custom generative AI models."
+    publishedDateTime: 2023-06-27T06:59:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-snowflake-announce-partnership-custom-000058515.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/LUDd2fPwcZFoKu.F9tIu_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/91ebdfd245b3934c569bc9119203d5d1"
         width: 1200
-        height: 635
+        height: 800
         isCached: true
-  - title: "HPE Dives Into Supercomputing As-A-Service With GreenLake For AI LLMs"
-    excerpt: "HPE teamed up with Aleph Alpha, an AI startup, to offer ready-to-use large language models (LLMs) as part of its on-demand, multi-tenant supercomputing cloud service."
-    publishedDateTime: 2023-06-28T15:35:00Z
-    webUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/"
-    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/hpe-dives-into-supercomputing-as-a-service-with-greenlake-for-ai-llms/amp/"
+  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
+    publishedDateTime: 2023-06-27T11:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c2e8927a2d87aa15d41ce/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 707
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
+        width: 300
+        height: 207
         isCached: true
-  - title: "HPE Further Highlights GreenLake On-Prem Cloud Through At Discover Event"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as HPE Discover just took place in Las Vegas and CEO Antonio Neri started the proceedings."
-    publishedDateTime: 2023-06-26T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/26/hpe-further-highlights-greenlake-on-prem-cloud-through-at-discover-event/"
+  - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
+    excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
+    publishedDateTime: 2023-06-27T13:15:00Z
+    webUrl: "https://www.industryleadersmagazine.com/nvidia-partners-with-snowflake-to-create-customized-generative-ai-models/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 33
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 18
 
 secured: "OKaTSWtGPARsCuWnfkxkyo1W1rYKmLsAALfwqHc1o83B8AfAEJfLb+oaJUTHIXllHDa9p/M+q8DT/+E8Y1ZL+G438f97CPqbcuF32NpHG912guK0IsKHPERerG5GGD6xuJaUbtoz6yG2vdSpbUCIMZUmVZkxDxuXZgQtY9QwtDFGe2r0nvF8Ol+7Z0gBOU0diXLH8sCBdD4ekyTBGmMeGbN+w8pv89NyqTRq/xKY36gAvuHD/9dptj1Rdf5I8Kan2tWJ/MbxxtIoR7x1W+C8K7vuMb+3RxgVGG2sDWI4AUOtJ0T+cbBwjGKy9b3fAFLMj7eX+nBRmMiSN5inK1zpzGiJ/HMva0VvOZND6Lc5x0aKvuXjvEk1stAVDV1il5994AnulrVXTdgOCwy5QU/JEnaSA8+zP50wCNYUajtvmtg7BJWxyFqp4nzK3gxyTozQlZjOEDALZY3WMUyMJMhom3GUj9J/OsK40GyQ/UJ4hnaj9ilABsGE5zqdFSN1uEjyWCrNveRAkfa+LClcLFkumg==;u84Uatz8lFyUOlAAid14Pw=="
 ---

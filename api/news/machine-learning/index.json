@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
+      "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
+      "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
+      "originalUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-499840007.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
+      "publishedDateTime": "2023-06-30T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1363,59 +1415,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind.md",
-      "title": "Artificial Intelligence and Machine Learning Market Overview 2023 to 2030, Future Trends and Forecast | Anki, Amazon, Deepmind",
-      "excerpt": "id=847258&mode=SB07 The Key companies profiled in the Artificial Intelligence and Machine Learning Market : The study examines the Artificial Intelligence and Machine Learning Market 's competitive landscape and includes data on Anki, Amazon, Deepmind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-overview-2023-to-2030-future-trends-and-forecast-anki-amazon-deepmind-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

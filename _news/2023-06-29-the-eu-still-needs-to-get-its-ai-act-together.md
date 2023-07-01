@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-i
 webUrl: "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4bdac59cb787d8865f0e5ea267c6636a65f903b/0_0_6041_3840/master/6041.jpg?width=620&quality=85&auto=format&fit=max&s=cef2f3f80987cb6bfcd6d3ce267f62fe"
         width: 620
         height: 394
+        isCached: true
+  - title: "Businesses and tech firms criticize proposed EU AI Act"
+    excerpt: "EU business leaders worry that a perceived excess of regulation could derail efforts to make Europe one of the front-runners in AI technology development."
+    publishedDateTime: 2023-06-30T16:32:00Z
+    webUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/artificial_intelligence_anonymous_binary_mask_by_brownmantic_cc0_via_pixabay_1200x800-100763680-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "QfZAEjk6s2pm/TTXurafMjW2ryknHrEJo2wy8ygzAZI27GXLlrJdLkZ1b/W+sNvFOB9Mk+LxB37SF+62lbsE9t1hAPHWlKkPYuIv+wxM04/CB6G5GQZLDISuWS+ueWm/cZCJGf+tSzZnd295jHiJS5lY0FJCQcuW4vZTlM5nW1xSbGCf7QmEImdAeIVaFiMwnkg/bVn57kseDBnX2AVbPTgo15iupaXSeaQ8a6ACjG1oAMmywE4Os0p9q8M8fmwf3fzOAgItnJJCECIcQdH5C5UzILXKeu3gv/FApvDuKSDrI7mZpqqz/nVB8Y1crgtWdztQlovKF1WYGTWWKbRRki3cE84W4821+eYTpVKfEutFksLtG672SYIlzg2WFosU+aczs1SeVTC91h5AFbep57yLhvpG2p6UO2m5eikgy2nNABPgAbyh6+fh+Ys14vvUitouZw+SueLcdTfNMmHn7XKtDMEVlMthUKvaPN5EKzMOFPLTTHIAqPL5ojy8sIbw/QpNRb2GPaniefzf99dsEw==;nC+1yOQoDcbOBHcc1DlKKQ=="

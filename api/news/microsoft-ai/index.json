@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms.md",
+      "title": "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs",
+      "excerpt": "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "publishedDateTime": "2023-06-28T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-vertical-ai-the-next-logical-iteration-of-vertical-saas.md",
       "title": "Vertical AI: The next logical iteration of vertical SaaS",
       "excerpt": "The AI category is rapidly evolving but developing into three layers: foundational models, AI infrastructure and AI applications.",
@@ -315,7 +367,7 @@
       "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 696,
+      "heat": 676,
       "tags": null,
       "images": [
         {
@@ -578,7 +630,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ibm-acquires-apptio/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1422,50 +1474,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software.md",
-      "title": "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software",
-      "excerpt": "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
-      "originalUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg",
-          "width": 1400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

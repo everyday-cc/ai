@@ -2,6 +2,194 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-06-26-the-hybrid-cloud-forecast-part-2.md",
+      "title": "The Hybrid Cloud Forecast: Part 2",
+      "excerpt": "Looking at the theme of \"Journey to Cloud\" on the Hybrid Cloud Forecast podcast.\nThe post The Hybrid Cloud Forecast: Part 2 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-2/",
+      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:43:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-the-six-strategic-uses-cases-for-aiops.md",
+      "title": "The six strategic uses cases for AIOps",
+      "excerpt": "Six strategic use cases for AIOps and practical next steps to guide your AIOps journey.\nThe post The six strategic uses cases for AIOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
+      "originalUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/amv-textilebusinessa141011.lr_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:33:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000.md",
+      "title": "SoundHound AI Shares Rise 11% After Inclusion to Russell 3000",
+      "excerpt": "By Chris Wack SoundHound AI shares were up 11%, to $4.06, after the company said it was selected to be included in the Russell 2000 and broad-market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000-80bd042b",
+      "publishedDateTime": "2023-06-26T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-mining-companies-bet-on-ai-to-make-dangerous-jobs-safer.md",
+      "title": "Mining companies bet on AI to make dangerous jobs safer",
+      "excerpt": "The global mining industry has come a long way since the days when coal-blackened miners would carry a bird underground with them in hopes its distress would alert them to the presence of toxic gases.",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer",
+      "originalUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/no0626nutrien.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer/wcm/8ccc0f7d-21ac-49d2-8851-9315e1414c65/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/commodities/mining/mining-companies-bet-ai-dangerous-jobs-safer/wcm/8ccc0f7d-21ac-49d2-8851-9315e1414c65/amp/",
+      "publishedDateTime": "2023-06-26T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-artificial-intelligence-and-the-law-an-early-warning.md",
       "title": "Artificial Intelligence And The Law: An Early Warning",
       "excerpt": "We have now defined the limitation of AI in its relationship to the law: AI cannot successfully engage in a nuanced or contextual application of the facts of a given situation to the law, at least at the current time and no matter how good the AI program purports to be.",
@@ -1029,195 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-how-ai-driven-behaviour-change-can-influence-healthcare-system.md",
-      "title": "How AI-driven behaviour change can influence healthcare system",
-      "excerpt": "There is now 'a holistic combination of AI and human expertise that can work in a complementary framework to deliver personalized interventions' in.health. healthcare. fiitnes. wellness. nutrition. diet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
-      "originalUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/6/26/behavior-society-c.jpg",
-          "width": 1248,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "onmanorama",
-        "domain": "onmanorama.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-youtubes-new-tool-can-automatically-dub-videos-in-other-languages.md",
-      "title": "YouTube's new tool can automatically dub videos in other languages",
-      "excerpt": "YouTube has plans to let creators go beyond translated subtitles by allowing creators to dub videos into other spoken languages..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "originalUrl": "https://www.engadget.com/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/sWK7TdJnqTIq6KsjTmn06A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-08/45c46cf0-260b-11ed-9bf9-3bb387a3204a.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtubes-new-tool-can-automatically-dub-videos-into-other-languages-093624288.html",
-      "publishedDateTime": "2023-06-25T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-and-more.md",
-      "title": "Today in AI: How Artificial Intelligence can land you your dream job, AI in education and more",
-      "excerpt": "Recent report states that 99 per cent of the Fortune 500 utilise an application tracking system. These systems are powered by artificial intelligence and sort through large numbers of résumés, categorising them into \"yes\" and \"no\" categories according to keywords, years of experience, educational background, and other criteria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/05/Today-in-AI-cover-image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/today-in-ai-how-artificial-intelligence-can-land-you-your-dream-job-ai-in-education-ai-based-education-apps-boon-or-curse-10856571.html/amp",
-      "publishedDateTime": "2023-06-25T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape.md",
-      "title": "Future CEO Rishi Mandal: AI Fitness Doesn’t Address “Historical Barrier” Of Staying In Shape",
-      "excerpt": "Rishi Mandal is the co-founder and CEO of Future. Future is a digital fitness coaching app that connects elite performance fitness coaches to individuals virtually",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6498cdf2fa73fa357e8f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1409,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/25/future-ceo-rishi-mandal-ai-fitness-doesnt-address-historical-barrier-of-staying-in-shape/amp/",
-      "publishedDateTime": "2023-06-25T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

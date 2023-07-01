@@ -284,22 +284,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "China stocks fall on weak industrial profit, US weighing new chip export curbs"
     excerpt: "China and Hong Kong stocks fell on Wednesday, after profit at Chinese industrial firms declined in May, and on news that the U.S. is weighing new restrictions on AI chip exports to China."
     publishedDateTime: 2023-06-28T03:17:00Z

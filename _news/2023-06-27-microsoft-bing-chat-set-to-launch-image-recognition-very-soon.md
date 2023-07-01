@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Develop Microsoft Azure skills with 30 Days to Learn It"
-    excerpt: " The Microsoft Cloud Skills Challenge 30 Days to Learn It program is aimed at helping individuals develop proficiency in the most in-demand skills in the tech industry, such as learning the Microsoft Azure platform. The program offers various learning journeys designed for participants with different"
-    publishedDateTime: 2023-06-26T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/develop-microsoft-azure-skills-with-30-days-to-learn-it/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Learn-It-Blog-Pic.jpg"
-        width: 900
-        height: 541
-        isCached: true
   - title: "AI needs 'a new era of law and regulation,' says Microsoft president"
     excerpt: "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\""
     publishedDateTime: 2023-06-29T06:51:00Z
@@ -331,20 +317,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Snowflake and Microsoft bring large-scale generative AI models and increased ML capability"
-    excerpt: "The enterprise data cloud platform Snowflake has increased its investment in its Microsoft partnership, focusing on new product integrations across AI, low code/no code application development, data governance,"
-    publishedDateTime: 2023-06-26T16:49:00Z
-    webUrl: "https://itwire.com/business-it-news/data/snowflake-and-microsoft-bring-large-scale-generative-ai-models-and-increased-ml-capability.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 61
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/f883205e16a260870596f09dd551a364_M.jpg"
-        width: 375
-        height: 300
-        isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 bln from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."
     publishedDateTime: 2023-06-29T16:26:00Z
@@ -460,6 +432,20 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 49
+  - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
+    excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
+    publishedDateTime: 2023-06-29T20:36:00Z
+    webUrl: "https://www.theinformation.com/articles/microsofts-cloud-server-business-in-2022-was-less-than-half-of-aws-new-document-reveals"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 47
+    images:
+      - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Business leader express concerns about ethics and implementation of artificial intelligence"
     excerpt: "A report claims that the majority of business leaders still grappling with the skills and ethics needed to implement artificial intelligence"
     publishedDateTime: 2023-06-29T07:44:00Z
@@ -547,20 +533,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/96_OpenAI_DALLE_2_A_data_center_f.2e16d0ba.fill-1200x630.png"
         width: 1024
         height: 538
-        isCached: true
-  - title: "Snowflake Expands Partnership with Microsoft"
-    excerpt: "Snowflake, the Data Cloud company, today announced an expanded partnership with Microsoft, enabling new product"
-    publishedDateTime: 2023-06-26T16:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-expands-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
         isCached: true
   - title: "Microsoft Guidance Offers Language for Controlling Large Language Models"
     excerpt: "Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/28/how-to-prepare-for-the-financial-and-environmental-costs-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI method predicts how cells are organized in disease microenvironments"
-    excerpt: "Cells in the human body, the building blocks of life, are arranged in a precise way. That's necessary because pathways and spaces provide a means for cells to communicate, collaborate and function within the specific tissue or organ."
-    publishedDateTime: 2023-06-26T15:45:00Z
-    webUrl: "https://phys.org/news/2023-06-ai-method-cells-disease-microenvironments.html"
-    ampWebUrl: "https://phys.org/news/2023-06-ai-method-cells-disease-microenvironments.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-method-cells-disease-microenvironments.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-method-predicts-how.jpg"
-        width: 2880
-        height: 2193
-        isCached: true
-  - title: "The light and dark of artificial intelligence"
-    excerpt: "Join the discussion on managing the risks and rewards of AI—just how disruptive will artificial intelligence become?"
-    publishedDateTime: 2023-06-26T15:13:00Z
-    webUrl: "https://www.csoonline.com/article/3700853/the-light-and-dark-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/06/blog-5_ai_article-image-100942601-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 626
-        isCached: true
   - title: "Aveni unveils AI platform for financial advice firms"
     excerpt: "Fintech business Aveni has rolled out launched Aveni Assist, an AI admin assistant for the financial advice market. Aveni Assist supports advisers with writing investment reports, auto-populating CRM systems,"
     publishedDateTime: 2023-06-27T10:03:00Z

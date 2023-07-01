@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 31
-  - title: "IBM Agrees to Pay $5 Billion for Apptio Acquisition"
-    excerpt: "IBM has made an official announcement regarding its definitive agreement with Vista Equity Partners. The agreement entails the acquisition of Apptio Inc. for a total of $5 billion."
-    publishedDateTime: 2023-06-26T16:07:00Z
-    webUrl: "https://insidebitcoins.com/news/ibm-agrees-to-pay-5-billion-for-apptio-acquisition"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 24
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2023/06/4.2-1.png"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ptp7ltA6MXnIWugsLwo3YZ9r0Z83pvX6wOnduLZHo2+KfYp4JHEPkyf/TUVC41GTfrrcPuSzq+CcsDzsxxDuzbK1Yl9gmcomghuoyQakhmlXaw8fhNJv0+hgV8iemNGvi8lmPgx3TJLgrIvXajxEirOhv/fQSZTI8s6JPZIcnA/EFfdOU59B40RlBN1kw2J7kAXmkRyLjBP1saxspFFlCQ9rUvlIiTKD3bedyeegzcgdJi3xWs8mKWuB/7bKInJi/DZHisIy/mYjPFaPly7umqSaUfyH8v3HAiRdhCyhaBG7fNT2G3LlSadEon59WGokD9WDxulCtKsQbeJ6HTNdPzduzzHq5bX4eICHaXlrOYJGJMzsStCK/KCIXr5O0Th+7RYXJIK0g3+2lCQw1YfFQ0M1DZCfEuLeAv+G51OB1mADYY8sUFFDyZg055s/1Okhhsix8aKysIAaejbLxReVx9ghZ/t9BMh59/ECHaU8sbo+m6WyTgIDDlsa+DaXetKj3qKalaQazUKhev1vZkAPgA==;4XRjDkN90hLrjL3M98cf2Q=="
 ---

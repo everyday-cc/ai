@@ -101,20 +101,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Five AI gadgets making the most of machine learning"
-    excerpt: "As cameras have become more powerful and AI has become more sophisticated, the idea of locating a pair of ears in a room and having speakers beaming sound to them is more plausible than it sounded a decade ago."
-    publishedDateTime: 2023-06-26T16:00:00Z
-    webUrl: "https://www.ft.com/content/7ac91591-3817-41ba-ad93-8c29bc55c3fa"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 56
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8f498b3-4c24-4789-8363-5fb1b2bc94b5.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Efforts to label AI content in influencer marketing are gaining steam, but industry insiders warn regulation will face hurdles"
     excerpt: "Ad agency Ogilvy launched an initiative to disclose the use of AI influencers. Creator-economy insiders discuss whether regulation is needed."
     publishedDateTime: 2023-06-29T14:59:00Z
@@ -225,20 +211,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "NASA is building an artificial intelligence that will make talking spaceships real"
-    excerpt: "NASA engineers are saying the agency is constructing a ChatGPT-like artificial intelligence interface to assist astronauts while on a mission."
-    publishedDateTime: 2023-06-26T16:16:00Z
-    webUrl: "https://www.tweaktown.com/news/92089/nasa-is-building-an-artificial-intelligence-that-will-make-talking-spaceships-real/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 31
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92089_56115_nasa-is-building-chatgpt-like-assistant-to-help-astronauts_full.jpg"
-        width: 1500
-        height: 682
         isCached: true
 
 secured: "EDrQrRapP77M1UZM6X4+oSi/vrYlvXDTi00RXHLZIv4nhBJClLEl86fSRVj/Nc/gjqU/q9785e588aCA6v0daiZECqo1tZsBoQA3HdkzY4kaXS0F9jGpL+MB57RodKwCtt2IPriDh4VD2NRKYMdi73FwY5ONQEsjOOEz2M0TrqxtRPMoR3t1Fv0Lw+ptNDhHWMdAT4hq3zswF1gdWoR+UNAeIw64kKteBpmnrguVk536RwIZdmhoQeMU4bJ7x6PNU4JSUtNhKDzQYJQ9ChtgCo/95lEMsanK+hHTTcmfU+I1aR17UNvlnd6xztfhlKgzX/um5zyBucMOYbtktlsDWXddxMoBZO+OgG8BDvhnokHdvctHVDzrt6pJkZYIo+TMZKNeSrFvujm6zIIK7MV5TM6DNkw2ndk5KTm/kXtF/E15uvxq4whw2ulcchBHDnOrEryvuFodz3WTookOrwOQX6SocL1AlzKzoRwVXb1RbZZuxsRfeATBzkY7xJxZLGEH8D2lkOdk009Yit9n2YGQPQ==;InpWqQic9Pos1x+09kJPQQ=="

@@ -2,6 +2,178 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-06-16-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
+      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
+      "excerpt": "SAP® and IBM announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven insights and automation to help accelerate innovation and create more efficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106443967/SAP-to-embed-IBM-Watson-Artificial-Intelligence-into-SAP-Solutions",
+      "originalUrl": "https://menafn.com/1106443967/SAP-to-embed-IBM-Watson-Artificial-Intelligence-into-SAP-Solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/15/pr_2392_bc38ab02_image_story.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-embracing-robotic-assistance-a-cleaner-home-a-better-life.md",
+      "title": "Embracing Robotic Assistance: A Cleaner Home, A Better Life",
+      "excerpt": "Embarking on the journey towards a cleaner and healthier home is an investment worth exploring. Today, this objective is made easier, thanks to smart appliances that simplify household chores. Among these game-changing innovations,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/embracing-robotic-assistance-a-cleaner-home-a-better-life/",
+      "originalUrl": "https://techbullion.com/embracing-robotic-assistance-a-cleaner-home-a-better-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
+      "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
+      "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648b5dfc6c909f5e645e44a7/0x0.jpg?format=jpg&width=1200",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/15/why-experts-cant-understand-or-predict-ai-behaviors/amp/",
+      "publishedDateTime": "2023-06-15T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-binary-classification-using-a-scikit-neural-network.md",
+      "title": "Binary Classification Using a scikit Neural Network",
+      "excerpt": "Machine learning with neural networks is sometimes said to be part art and part science. Dr. James McCaffrey of Microsoft Research teaches both with a full-code, step-by-step tutorial. A binary classification problem is one where the goal is to predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2023/06/15/scikit-neural-network.aspx?p=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WeirdSpaceImageSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-a-machine-learning-engineers-guide-to-the-ai-act.md",
       "title": "A Machine Learning Engineer’s Guide To The AI Act",
       "excerpt": "EU Parliament passed the EU AI Act. The EU Parliament, Commission and Council will now engage in a final process to negotiate the final version of the law.",
@@ -1023,195 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonxdata.md",
-      "title": "The disruptive potential of open data lakehouse architectures and IBM watsonx.data",
-      "excerpt": "Learn about watsonx.data, a data store built on an open data lakehouse architecture to help organizations scale AI workloads.\nThe post The disruptive potential of open data lakehouse architectures and IBM watsonx.data appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
-      "originalUrl": "https://www.ibm.com/blog/the-disruptive-potential-of-open-data-lakehouse-architectures-and-ibm-watsonx-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-ai-will-stir-the-pot-but-wont-change-the-game-for-decades-mark-zandi.md",
-      "title": "AI will ‘stir the pot,’ but won’t change the game for decades: Mark Zandi",
-      "excerpt": "The biggest factor contributing to companies' bottom lines right now is artificial intelligence, says Mark Zandi, chief economist at Moody's Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107235733-1683218950741-gettyimages-1252638648-SENATE_GOP_DEBT_LIMIT.jpeg?v=1686828721",
-          "width": 5182,
-          "height": 3455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/15/mark-zandi-says-ai-may-gradually-change-the-job-market.html",
-      "publishedDateTime": "2023-06-15T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
-          "width": 873,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "publishedDateTime": "2023-06-15T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law.md",
-      "title": "Can Generative AI Be Saved From AI Hallucinations By Using Chain-Of-Thought Step-By-Step Techniques, Asks AI Ethics And AI Law",
-      "excerpt": "Generative AI is prone to AI hallucinations, but maybe the use of chain-of-thought step-by-step techniques can overcome or at least reduce such maladies. Here's the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648a7b3bea640d0f0675c365/0x0.jpg?format=jpg&crop=1589,1192,x266,y22,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/06/15/can-generative-ai-be-saved-from-ai-hallucinations-by-using-chain-of-thought-step-by-step-techniques-asks-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

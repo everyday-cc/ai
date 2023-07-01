@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 541
+heat: 531
 published: true
 
 provider:
@@ -272,22 +272,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/9108cfe9bac593cac8c6c2122e63124e_M.jpg"
         width: 375
         height: 211
-        isCached: true
-  - title: "Nvidia To Continue Running The Generative AI Chip Show For The Foreseeable Future"
-    excerpt: "According to Grand View Research, the AI market is projected to grow at a CAGR of 37% throughout the end of the decade."
-    publishedDateTime: 2023-06-26T16:57:00Z
-    webUrl: "https://www.benzinga.com/23/06/33009766/nvidia-to-continue-running-the-generative-ai-chip-show-for-the-foreseeable-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33009766"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33009766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-    images:
-      - url: "https://cdn.benzinga.com/files/ai-technology-microchip-background-digital-transformation-concept.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Beautiful Rally, AI Chips to China, Bank Stress Tests, Fed, Defense Stocks"
     excerpt: "The U.S. is considering new restrictions on exports of AI capable chips to China, negatively affecting Nvidia and AMD."

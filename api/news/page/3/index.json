@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-ai-robots-put-to-work-at-kent-co-recycling-center.md",
+      "title": "AI robots put to work at Kent Co. recycling center",
+      "excerpt": "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
+      "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
+      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
+      "publishedDateTime": "2023-06-29T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-the-eu-still-needs-to-get-its-ai-act-together.md",
+      "title": "The EU still needs to get its AI Act together",
+      "excerpt": "The AI Act was proposed by European lawmakers in April 2021. In their proposal, lawmakers warned the technology could provide a host of “economic and societal benefits” but also “new risks or negative consequences for individuals or the society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
+      "originalUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/COIkr_CgYMvsmNgD-38qtDdVMtE=/0x0:5061x3374/1200x628/filters:focal(2531x1687:2532x1688)/cdn.vox-cdn.com/uploads/chorus_asset/file/24759053/1258919883.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-meituan-buys-co-founders-months-old-ai-startup-for-234-million.md",
+      "title": "Meituan Buys Co-Founder’s Months-Old AI Startup for $234 Million",
+      "excerpt": "Meituan is buying a co-founder’s generative AI startup for almost $234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHb7ClLHeKDY/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
       "title": "How AI Influences What You See on Facebook and Instagram",
       "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
@@ -378,6 +524,58 @@
         "AI",
         "AI in Autos",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms.md",
+      "title": "HPE Brings AI-as-a-Service to the Enterprise with Its GreenLake for LLMs",
+      "excerpt": "HPE introduced new GreenLake for Large Language Models, a service-based offering backed its Cray supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ca472b50dadc6316aa41f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/",
+      "publishedDateTime": "2023-06-28T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -787,7 +985,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1034,208 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition.md",
-      "title": "Nvidia sweeps AI benchmarks, but Intel brings meaningful competition",
-      "excerpt": "Intel is building a mutli-thousand-chip cluster internally based on its Gaudi AI accelerator, the company said, which could be even bigger competition for Nvidia down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-sweeps-ai-benchmarks-but-intel-brings-meaningful-competition/",
-      "publishedDateTime": "2023-06-28T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-google-stakes-a-claim-to-all-things-generative-ai.md",
-      "title": "Google Stakes A Claim To All Things Generative AI",
-      "excerpt": "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
-      "publishedDateTime": "2023-06-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real.md",
-      "title": "AI is making smart manufacturing faster, greener, virtual — and more real",
-      "excerpt": "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/",
-      "originalUrl": "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AdobeStock_596539467_Preview.jpeg?w=1200&strip=all",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-wisconsin-healthcare-system-using-artificial-intelligence.md",
-      "title": "Wisconsin healthcare system using artificial intelligence",
-      "excerpt": "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "originalUrl": "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "cdnAmpWebUrl": "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293",
-      "publishedDateTime": "2023-06-28T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WISN 12 NEWS",
-        "domain": "wisn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

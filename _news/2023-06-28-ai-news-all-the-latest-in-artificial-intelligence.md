@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence 101 for Baffled and Bemused Investors"
-    excerpt: "A lot of investors don't understand how artificial intelligence will change the companies they own. Garrett Baldwin will explain"
-    publishedDateTime: 2023-06-26T15:09:00Z
-    webUrl: "https://moneymorning.com/2023/06/26/artificial-intelligence-101-for-baffled-and-bemused-investors/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 37
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/06/bp-report-01.png"
-        width: 400
-        height: 356
-        isCached: true
   - title: "How investors are buying their way into the AI start-up gold rush"
     excerpt: "Despite the broader tech market being subdued, investors are piling in to private AI start-ups like OpenAI and Anthropic through high-priced secondary sales."
     publishedDateTime: 2023-06-27T21:16:00Z

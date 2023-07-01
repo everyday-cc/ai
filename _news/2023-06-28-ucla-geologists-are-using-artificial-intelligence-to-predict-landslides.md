@@ -28,20 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Do’s and don’ts now that Fortune 500 companies are using AI to screen resumes"
-    excerpt: "Artificial Intelligence has bled into the job market leading to avoidable pitfalls on resumes often only viewed by bots."
-    publishedDateTime: 2023-06-26T15:40:00Z
-    webUrl: "https://www.bizpacreview.com/2023/06/26/dos-and-donts-now-that-fortune-500-companies-are-using-ai-to-screen-resumes-1371970/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 36
-    images:
-      - url: "https://www.bizpacreview.com/wp-content/uploads/2023/06/SG-AI-Interview-1200x630-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Men are using AI to land more dates with better profiles and personalized messages, study finds"
     excerpt: "Men are using AI tools like ChatGPT to date, generate bios for their profiles, and craft personalized messages to their matches, a new study finds"
     publishedDateTime: 2023-06-28T18:39:00Z

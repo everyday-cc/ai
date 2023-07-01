@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "100+ acts boycott venues using facial recognition"
-    excerpt: "Over 100 artists, including Tom Morello and Zack De La Rocha, have pledged to boycott venues that use face-scanning technology. The boycott was organised by the digital rights advocacy group Fight for the Future,"
-    publishedDateTime: 2023-06-26T15:50:00Z
-    webUrl: "https://www.iq-mag.net/2023/06/100-acts-boycoot-venues-facial-recognition/"
-    type: article
-    provider:
-      name: iq-mag
-      domain: iq-mag.net
-    quality: 39
-    images:
-      - url: "https://www.iq-mag.net/wp-content/uploads/2021/11/tom-morello-2.jpg"
-        width: 800
-        height: 371
-        isCached: true
   - title: "Sheriff says facial recognition not a factor in false arrest"
     excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
     publishedDateTime: 2023-07-01T00:00:00Z

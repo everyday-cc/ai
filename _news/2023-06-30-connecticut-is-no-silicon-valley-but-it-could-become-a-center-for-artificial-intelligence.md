@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-29T22:37:00Z
 originalUrl: "https://www.chron.com/politics/article/artificial-intelligence-center-connecticut-yale-18171586.php"
 webUrl: "https://www.chron.com/politics/article/artificial-intelligence-center-connecticut-yale-18171586.php"
 type: article
-quality: 7
-heat: 7
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "bN/BDdZlvO+i+MAgqE16Ti1UwbIuvpenWBARc9JmxTx8B1XQHN8WdRJ3TjoG7kN4sjOI+vmoSIiDWpVkY6dkzL4XKqg//+WfxUNC6QwpmmtrIVI16DWlkpezYtJsfZPQE+lSqrlTFuLdZafjcUyc1Di7VUpjnpfDOK0MpaN1ETq4BU1fI+N07yMw/aqw3jPowL/LbO4QYmdRVwGrfz78Ae4UFj9MhEaT3Q1t7bx/Z0H6D0yQkOLx1oMfKz9VtKOnMU7Kqh3JP3VfzYzbkNwv3mRptj468Y59Gf2E0ssIA3sAbJr4bt40/WW9TT40nqQl95/zo64teftWzXnYEEvILv8yiahTzVfmJxxfFhnE8FRdGoaMdr5z6+QnEQinhF4gg26BkQuohOiUQ4tGn83D0fMjwvTUw3HWBvCXDhTTZ4HvGNvDIChXicdk7VBGAU06dj84KWginCsppr7CNzDNWp+/KQJg64tHQdyvg0RB50TDGMt7F5D01ABRTFJGlEoRVvWqfefE2Vg7IAgFx53EFA==;rJkEFD7s0cK5y3wLiE0eKw=="
+images:
+  - url: "https://s.hdnux.com/photos/01/26/51/14/22713093/4/rawImage.jpg"
+    width: 1800
+    height: 1200
+    isCached: true
+
+secured: "gL6w2nV9LZd71mLjMg5cMJyg5dSVDD8mN6AhGWAzOLaOIhg1vXzSWhJfaChETolWebONGCUDYkCTFUdUGof29Tkq3+1eJNUOaWyZS/heVzzp6gpa0YxtrRQ2J3B2pkR3N+QbC8ucvwI0og8wfkGAIHDc8f1tyWtyVXbY0zao8HTbFYvhtlPzM57YAKpFVXgUVu2pxOp9gxgnuFY37CH5ZvgTSQEA9fYC/LIKP2d+wuCzBu/5qi7DOH0kzpK/liARcMB0/2qIjNeNSkC1sqgfuLkStOL39AxsEqU+MHp+u6CgFb8K8SSDlJEc4WYIDdWKlwy0Opk1Tlak+qwcnJ/WWFbH25wHTPXyTidWcgr+ul0=;vatUbPdB2zZ9QFPsKMBqTA=="
 ---
 

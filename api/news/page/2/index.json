@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-when-bytes-bias-unraveling-the-myth-of-neutral-ai.md",
+      "title": "When Bytes Bias: Unraveling The Myth Of Neutral AI",
+      "excerpt": "In this article, we discuss the concept of technochauvinism, shedding light on the often-overlooked societal implications and biases in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649e7325a69e4ef2a20b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/30/when-bytes-bias-unraveling-the-myth-of-neutral-ai/amp/",
+      "publishedDateTime": "2023-06-29T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-contoro-robotics-brings-in-47m.md",
+      "title": "Contoro Robotics brings in $4.7M",
+      "excerpt": "This round follows a round from 2022 that totaled $1.3 million, and brings the Contoro Robotics' total funding to date to $6 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "originalUrl": "https://www.therobotreport.com/contoro-robotics-brings-in-4-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/contoro-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
       "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
       "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
@@ -157,7 +251,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -976,6 +1070,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era.md",
+      "title": "Why Startups Need An Old-School Approach To Talent Development In The AI Era",
+      "excerpt": "It was an era that took computers from room-sized systems that seemed to consume punch cards to something smaller and more usable. We were on the verge of enormous change, introducing computers into business processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c36af10ee767e81facb6d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/why-startups-need-an-old-school-approach-to-talent-development-in-the-ai-era/amp/",
+      "publishedDateTime": "2023-06-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
       "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
       "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
@@ -1067,152 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-robots-put-to-work-at-kent-co-recycling-center.md",
-      "title": "AI robots put to work at Kent Co. recycling center",
-      "excerpt": "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,",
-      "sourceUrl": null,
-      "webUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
-      "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
-      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
-      "publishedDateTime": "2023-06-29T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOOD-TV",
-        "domain": "woodtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-the-eu-still-needs-to-get-its-ai-act-together.md",
-      "title": "The EU still needs to get its AI Act together",
-      "excerpt": "The AI Act was proposed by European lawmakers in April 2021. In their proposal, lawmakers warned the technology could provide a host of “economic and societal benefits” but also “new risks or negative consequences for individuals or the society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
-      "originalUrl": "https://www.theverge.com/2023/6/29/23777239/eu-ai-act-artificial-intelligence-regulations-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/COIkr_CgYMvsmNgD-38qtDdVMtE=/0x0:5061x3374/1200x628/filters:focal(2531x1687:2532x1688)/cdn.vox-cdn.com/uploads/chorus_asset/file/24759053/1258919883.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-meituan-buys-co-founders-months-old-ai-startup-for-234-million.md",
-      "title": "Meituan Buys Co-Founder’s Months-Old AI Startup for $234 Million",
-      "excerpt": "Meituan is buying a co-founder’s generative AI startup for almost $234 million, a deal that gets the food-delivery giant into a Chinese race to develop ChatGPT-like services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHb7ClLHeKDY/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

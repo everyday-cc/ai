@@ -56,20 +56,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Artificial Intelligence May Create More Jobs Than It Kills"
-    excerpt: "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by"
-    publishedDateTime: 2023-06-26T17:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
     excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
     publishedDateTime: 2023-06-27T14:12:00Z

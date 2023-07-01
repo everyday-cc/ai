@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "100+ acts boycott venues using facial recognition"
-    excerpt: "Over 100 artists, including Tom Morello and Zack De La Rocha, have pledged to boycott venues that use face-scanning technology. The boycott was organised by the digital rights advocacy group Fight for the Future,"
-    publishedDateTime: 2023-06-26T15:50:00Z
-    webUrl: "https://www.iq-mag.net/2023/06/100-acts-boycoot-venues-facial-recognition/"
-    type: article
-    provider:
-      name: iq-mag
-      domain: iq-mag.net
-    quality: 39
-    images:
-      - url: "https://www.iq-mag.net/wp-content/uploads/2021/11/tom-morello-2.jpg"
-        width: 800
-        height: 371
-        isCached: true
   - title: "ACLU lawsuit: Facial recognition led to wrongful arrest, prosecution"
     excerpt: "A young man says he was arrested, imprisoned, and prosecuted for a crime he did not commit, and is now suing both Bloomington Police and Hennepin County Sheriff’s Office for allegedly violating his rights."
     publishedDateTime: 2023-06-28T23:27:00Z

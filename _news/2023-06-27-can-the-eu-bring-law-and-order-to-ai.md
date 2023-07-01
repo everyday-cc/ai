@@ -74,6 +74,22 @@ related:
         width: 660
         height: 441
         isCached: true
+  - title: "Businesses and tech firms criticize proposed EU AI Act"
+    excerpt: "EU business leaders worry that a perceived excess of regulation could derail efforts to make Europe one of the front-runners in AI technology development."
+    publishedDateTime: 2023-06-30T16:32:00Z
+    webUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.html"
+    ampWebUrl: "https://www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3701510/businesses-and-tech-firms-criticize-proposed-eu-ai-act.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/artificial_intelligence_anonymous_binary_mask_by_brownmantic_cc0_via_pixabay_1200x800-100763680-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "F9UoA2IA0rolDoNducuihzhdOgg1OnUfL0vBCG7Cqc7JmSzHICL9UHccwG6bpE4NpPkUaXpUpMmUhEw/9QwUTGJOMOgqwt9Sgbs/f9mJ1X4FKp6/b5p60sBol5GmkcRTZBr2SsKP+3D6c6bDIii2BHY3tfFOoOjoSY/fkrmnAcocw/d+u2Qi/Jc1itdOXdnsYkc/nG/AlXlmUhZfT2joTX9nnDSURoLRCbgl6xp9lIyCMIyEdrG5gkorJZVtaihydsbz147tdczRqYkKqXOrpQFFRtk8gNcJSkgRCPQ4g/znfILYgsryLvSv7M6nCQRkQLLIZDo/NrCMh/FW02BY3GU2U1VKd7a3LyHiWmUuxmrQ92Ii8MEfwqsaL4fTNEynUa/Pg2wn68O0iTuo2+XIc86ift+wT+0JukapComMJLKw62R52AKKD4JHLbaL8B7YJ3Un/2VJCAQfoKJ2yv49/AZN659UMISTMnUi7F4CVBxohOhOr+7EG5BfOuRV7ZcAd5N5ZnjAt2G+KJV1WzssXw==;VUAJ2qV6uRICMXWyf14bOA=="
 ---

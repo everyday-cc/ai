@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Is AI Changing the Future of Modern Health Care?"
-    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
-    publishedDateTime: 2023-06-26T16:24:00Z
-    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
-    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "13 Principles for Using AI Responsibly"
     excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
     publishedDateTime: 2023-06-30T12:14:00Z

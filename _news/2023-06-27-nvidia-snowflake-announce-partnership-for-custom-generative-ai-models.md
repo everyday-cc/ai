@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia teams up with Snowflake for large language model AI"
+    excerpt: "Snowflake extends its Snowpark offering with GPU instances to run foundation models from Nvidia's NeMo framework -- to be further trained on customer data stored in Snowflake."
+    publishedDateTime: 2023-06-27T18:41:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
     publishedDateTime: 2023-06-27T00:01:00Z
@@ -54,20 +63,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/06/f0f35af3-7772-4b75-b1a5-985839196e0d.jpg"
         width: 2048
         height: 1436
-        isCached: true
-  - title: "NVIDIA H100 Aces Generative AI, Breaks MLPerf Records"
-    excerpt: "NVIDIA’s flagship H100 chip has blown the competition out of the water yet again, demonstrating the best performance yet on a set of MLPerf training benchmarks. The GPU set new records across the board in a new attempt conducted in conjunction with CoreWeave and Inflection AI."
-    publishedDateTime: 2023-06-28T06:39:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-aces-generative-ai-breaks-mlperf-records/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/nvidia.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
     excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"

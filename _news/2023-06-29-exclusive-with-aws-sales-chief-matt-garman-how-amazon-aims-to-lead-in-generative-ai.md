@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 1249
         isCached: true
-  - title: "AWS invests $100 million in new Generative AI Innovation Center"
-    excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
-    publishedDateTime: 2023-06-26T15:26:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706"
-    ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 76
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
-        width: 724
-        height: 482
-        isCached: true
   - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
     excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
     publishedDateTime: 2023-06-29T07:00:00Z

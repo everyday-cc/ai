@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -131,20 +131,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
-    excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
-    publishedDateTime: 2023-06-26T16:13:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/artificial-intelligence-revolution-nothing-like-internet-bubble-16127306"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 35
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/29048444-0b6e-11e8-addd-fd11d05b714c.png"
-        width: 1152
-        height: 768
         isCached: true
 
 secured: "yx2HmTqKlLwjKy2qbDCZMxuAgm4ZOD9h2Vx1u8yJmqFfucc13h4OPc9V2ggSHqEFYKwqQo4YlhsSnGQWJ53/9+NWe3HhKJ07SyT69iZCZg30ENPM09mtyObAN5tG+KbNAQbt/Y46R+SFXQjK/OV/EzXLj2IVChhMEH6yLLxvoTf9EFqI1+rmo4h+0XxQszGv4yM0PPkNvKhwMWpM/3BWZVu3KG/AKG/+sFuGNHfVhKPoLpj/O1wCHnaLBEY2Cb/Gys5mJRMC0qo3Y21pSknXsq9Yd1Us/Z4jfiyaSFqLgNxgrht4sqVnKu162dmRnnALPCOKWAn2Mk4Ahh5IZpIyZjVJQlO2JHqlr5tQbtIc/I89szoVxTfgm1mFQ6cQj9Xb50zuYtR1pVyKwbaEPnbQXp/V85Tq+IO4f+bKuW4O2mfsrejWh8uVSQsWvmJhf+kMCTp4tLi1/tKcvku8TE7v8pLVf6vNzPoTf2wKq0WDC1n7F/Xl5alIGHTIC7XNZlr8lRK7clu5k9cxpib8AdPthg==;lHNA4QfUYCjsSayGxLwWpg=="

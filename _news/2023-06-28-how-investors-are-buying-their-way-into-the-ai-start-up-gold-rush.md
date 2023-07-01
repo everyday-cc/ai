@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence 101 for Baffled and Bemused Investors"
-    excerpt: "A lot of investors don't understand how artificial intelligence will change the companies they own. Garrett Baldwin will explain"
-    publishedDateTime: 2023-06-26T15:09:00Z
-    webUrl: "https://moneymorning.com/2023/06/26/artificial-intelligence-101-for-baffled-and-bemused-investors/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 37
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/06/bp-report-01.png"
-        width: 400
-        height: 356
-        isCached: true
   - title: "AI news - All the latest in artificial intelligence"
     excerpt: "Allan Wong, co-founder of Hong Kong toymaker VTech, thinks the technology will arrive by 2028 - and could free up the parents to do other activities."
     publishedDateTime: 2023-06-28T10:46:00Z

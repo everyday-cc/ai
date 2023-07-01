@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Is AI Changing the Future of Modern Health Care?"
-    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
-    publishedDateTime: 2023-06-26T16:24:00Z
-    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
-    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
     excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
     publishedDateTime: 2023-06-28T14:38:00Z

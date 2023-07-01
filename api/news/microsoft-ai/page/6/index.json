@@ -2,6 +2,60 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
+      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
+      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 408,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-box-introduces-box-ai-to-bring-the-power-of-ai-to-enterprise-content.md",
       "title": "Box Introduces Box AI To Bring The Power Of AI To Enterprise Content",
       "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, dives into Box AI, a new capabilities suite that natively integrates advanced AI models into the Box Content Cloud.",
@@ -1464,58 +1518,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-chatgpt-how-to-use-the-ai-chatbot-thats-changing-everything.md",
-      "title": "ChatGPT: How to use the AI chatbot that’s changing everything",
-      "excerpt": "AI enthusiasts have compared it to the surge ... It runs on Microsoft’s Azure system infrastructure and is powered by Nvidia’s GPUs. ChatGPT recently launched a new version of its own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 579,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-04-26T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
