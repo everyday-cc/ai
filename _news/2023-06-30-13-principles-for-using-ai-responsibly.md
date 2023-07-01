@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Where healthcare ranks in AI jobs"
+    excerpt: "Explore the rankings of economic sectors in hiring AI workers, with technology leading the list at 4.6%. Healthcare services lag behind at 0.4%."
+    publishedDateTime: 2023-06-29T21:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-healthcare-ranks-in-ai-jobs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
     excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
     publishedDateTime: 2023-06-28T14:38:00Z

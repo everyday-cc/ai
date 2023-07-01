@@ -176,20 +176,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "YouTube is using AI to break down language barriers"
-    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
-    publishedDateTime: 2023-06-27T01:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Balancing AI And Engineering Expertise In The Fab"
     excerpt: "Before a new device makes it to high-volume manufacturing, there are countless engineering hours spent on developing the lithography, etching, deposition, CMP, and many other processes, at high yield."
     publishedDateTime: 2023-06-28T07:01:00Z

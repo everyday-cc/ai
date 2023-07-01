@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Where healthcare ranks in AI jobs"
+    excerpt: "Explore the rankings of economic sectors in hiring AI workers, with technology leading the list at 4.6%. Healthcare services lag behind at 0.4%."
+    publishedDateTime: 2023-06-29T21:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-healthcare-ranks-in-ai-jobs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "13 Principles for Using AI Responsibly"
     excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
     publishedDateTime: 2023-06-30T12:14:00Z

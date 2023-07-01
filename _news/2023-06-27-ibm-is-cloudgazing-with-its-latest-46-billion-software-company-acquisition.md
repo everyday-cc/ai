@@ -22,22 +22,6 @@ topics:
   - IBM AI
   - AI
 
-related:
-  - title: "IBM will buy software company Apptio for $4.6 billion"
-    excerpt: "IBM will buy software company Apptio for $4.6 billion, marking the seventh acquisition this year as Chief Executive Officer Arvind Krishna pushes the company's transformation into a hybrid-cloud and artificial intelligence business."
-    publishedDateTime: 2023-06-26T23:38:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jun/26/ibm-will-buy-software-company-apptio-for-46-billio/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 24
-    images:
-      - url: "https://thumb.spokesman.com/mwjLpV2MoD_Q5l-i_P4SF6gEFiE=/1200x630/smart/media.spokesman.com/photos/2023/06/26/649a13e04c797.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "IIqxkaz2X8v059x2LA5V2vArbXPTQV47iGp8P9y8PUw6yVmisk1QqwPn1ec4vyBLVpHojCVolCXvwqLpK9rwTpFN+zfAPwrqyvPkC/pE19rViH0dZqChkyTZ4/bzckF76SIOdxu1lQ5Vpy5XriVf7uBAvxAo+OQ1ORYWpsk1iUj5PheSvt8H/ebF1nGElQkavonvTqjePFAlaRlGgKsNgbTWNjIolkZuAoS+94xAlMUGN8QcELX62p526RtNd0XPPGD1lcrQJoRx32UFbvFUnn2iM0kmawGwHQm4239hRDheKPcNYfVO32g82FegYJw6hxdLKtJzRz/ISqQ5I+Zh/Ueas7yKhiJNrNk7de3Srrvqmv51tITguF2395dBw0cdjqxEE4ydccTz6RdP12isqWkWBlVhNz21cPLseyJ/MlBide6myMi+MvAZWhv2Y5BMdoS0wbTLf74+W+BWPPacdcox8/JRX2lMoWNAG+/RDgGgWKGHJMcB62c8pmyK0A2SilBPeFBaIzWpl+8Z3VM0qw==;7NTjuA3RUcSwAEepMjPZiw=="
 ---
 

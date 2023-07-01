@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "Researchers teach an AI to write better chart captions"
+    excerpt: "A new tool helps scientists develop machine-learning models that generate richer, more detailed captions for charts, and vary the level of complexity of a caption based on the needs of users. This could help improve accessibility for people with visual disabilities."
+    publishedDateTime: 2023-07-01T17:24:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/06/230629193303.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Körber Prize for German AI Researcher"
     excerpt: "Cordelia Schmid is awarded the Körber European Science Prize that is endowed with one million euros. The German computer scientist Cordelia Schmid is a pioneer in computer-aided image processing. Schmid developed revolutionary new procedures that enable computers to understand image content."
     publishedDateTime: 2023-06-28T07:26:00Z

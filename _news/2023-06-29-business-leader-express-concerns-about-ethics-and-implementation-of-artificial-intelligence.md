@@ -468,6 +468,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
+    publishedDateTime: 2023-07-01T15:40:00Z
+    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 45
+    images:
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A Year-old Startup Inflection AI Raises $1.3 Bn from Microsoft, NVIDIA, Bill Gates and Others"
     excerpt: "A year-old AI startup Inflection AI, led by CEO Mustafa Suleyman, has secured $1.3 billion in their latest round of funding."
     publishedDateTime: 2023-06-29T16:47:00Z

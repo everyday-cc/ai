@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/money/2023/jun/27/the-future-is-bleak-ho
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/money/2023/jun/27/the-future-is-bleak-how-ai-concerns-are-shaping-graduates-career-choices"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "How actors are losing their voices to AI"
+    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
+    publishedDateTime: 2023-07-01T13:00:00Z
+    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "hagJm3C8+3ifORFvnuj8ljH349iuOxj99rQ7qX+7CqpB8a4KnxVkJUQnMgo/NGMyzolu9GBzStB/JI9t/h9DnO1RFAHcUzuqs920E0i7FabFu42hbdRoeSZGZXIi3HdcPae3/NJwfMoMDOIbh1uAWeNZO4o3PkcS9+1a1AjquPmcMuJoN9rBnMjHskqXABFQATCTQKVtC5L+i7T0GAoEnu+8sVf5gGmtKsdSV9z9lofgxeAVT6wsI5YCCXMPPtA9063inGnSWpwPvq8H53c5N8KIQkhyuZ7UwVVj9VAHR15xFZuAzf6XjpCALcBi+NMIi42tiobj4aBi2sG0+Zdzufcz351SkIjmlRlNWdG9D8E=;ScJjeC/RccTtsMd1ps1Ndw=="
 ---

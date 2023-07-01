@@ -137,31 +137,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Databricks acquires AI startup MosaicML in $1.3 billion deal"
-    excerpt: "Databricks said on Monday it had agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at $1.3 billion, marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
-    publishedDateTime: 2023-06-27T00:28:00Z
-    webUrl: "https://www.channelnewsasia.com/business/databricks-acquires-ai-startup-mosaicml-13-billion-deal-3587356"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--aJ7v1-XT--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-26t155333z_1_lynxmpej5p0lq_rtroptp_3_mosaicml-m-a-databricks.jpg?itok=0wl2TlDZ"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "US$1.3b price tag for AI startup MosaicML ‘easy to justify’, says Databricks chief"
-    excerpt: "IT IS “easy to justify” paying US$1.3 billion for generative artificial intelligence (AI) startup MosaicML based on its revenue potential, Databricks chief executive Ali Ghodsi told The Business Times (BT) in an interview."
-    publishedDateTime: 2023-06-27T00:26:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/us13b-price-tag-ai-startup-mosaicml-easy-justify-says-databricks-chief"
-    ampWebUrl: "https://www.businesstimes.com.sg/startups-tech/us13b-price-tag-ai-startup-mosaicml-easy-justify-says-databricks-chief?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/startups-tech/us13b-price-tag-ai-startup-mosaicml-easy-justify-says-databricks-chief?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 31
   - title: "Databricks adds federation, generative AI front end and development tools to its lakehouse"
     excerpt: "Databricks Inc. is joining the generative AI parade today with a query engine that lets users ask questions and get contextually relevant answers in natural language. LakehouseIQ is integrated with the company’s Unity Catalog governance platform to ensure adherence to internal security and governance rules."
     publishedDateTime: 2023-06-28T15:59:00Z
@@ -235,15 +210,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
-  - title: "Databricks to buy generative AI startup for US$1.3 billion, heating up AI arms race"
-    excerpt: "US-BASED data software unicorn Databricks on Monday (Jun 26) inked an agreement to acquire generative artificial intelligence (AI) startup MosaicML for US$1.3 billion. This follows the recent spate of billion-dollar investments by tech giants to get ahead in the AI race."
-    publishedDateTime: 2023-06-26T23:47:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/databricks-buy-generative-ai-startup-us13-billion-heating-ai-arms-race"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 11
 
 secured: "Hd6PXeo/jK8euNH6iT8831QnneorQJv+yYSpXEWKlvYYmkioFjXqwwEXSh7r+2jlyzdxuVIjXuLj2AXdTjiQiB5v89xlm7RXZrh4gNUG/jBjIcAd3nmijZ4MNugVqrqbzrYJIPqCSXQzHAWha3MjGCQa3MfdciUcW5JukMuFy8OaR1mOwbaOyHSyTVWTrTkS0v4h+CheJFGd83eWlA7NMfkaZWSJtmzkMWb8WJe/U9J0b0wtOHO1uPQBkNos4Aq3el4MQHPHJIUnwl2HplEitQ5WRLi+RTcnP8hXSbw+fdxEQ+maDka926Hu3g5FDOE4spzGZ/HL7UI0TCX4dWXDYBDR5+BbnjSESsnhV4eQSORLPO91zNuUdOWFJvDFqEvtFD3hRzaJhq48qik4/bx9ROOfLnB/Qrc9kTLmrWb0iSHQs9/CsB2jJ1fQr3t6xKo//XlHuPIeV/1bGi0DnnHcazyzv9/L1GemxM41PD5GYNRENQzj3xPDQ8AUsOMyBhVBvv+LnpKv0JX34fxxcqyA4w==;uzV9SNHZKU+8c1PQ4BrhoQ=="
 ---

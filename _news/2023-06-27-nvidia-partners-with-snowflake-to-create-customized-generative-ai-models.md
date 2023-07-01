@@ -28,36 +28,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
-    publishedDateTime: 2023-06-27T00:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
-    excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
-    publishedDateTime: 2023-06-27T00:29:00Z
-    webUrl: "https://www.techzine.eu/blogs/applications/107281/nvidia-lowers-case-for-gen-ai-data-concerns-on-snowflake-secure-llms/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/f0f35af3-7772-4b75-b1a5-985839196e0d.jpg"
-        width: 2048
-        height: 1436
-        isCached: true
   - title: "Nvidia, Snowflake announce partnership for custom generative AI models"
     excerpt: "Nvidia and Snowflake are entering a partnership that will let Snowflake customers build custom generative AI models."
     publishedDateTime: 2023-06-27T06:59:00Z

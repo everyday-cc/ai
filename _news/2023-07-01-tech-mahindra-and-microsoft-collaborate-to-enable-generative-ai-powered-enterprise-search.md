@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
-excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
-publishedDateTime: 2023-06-29T18:17:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
-webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
+title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
+excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
+publishedDateTime: 2023-07-01T15:40:00Z
+originalUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
 type: article
-quality: 62
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TechnoSports
+  domain: technosports.co.in
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
+
+images:
+  - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Five Microsoft AI Advances That Business Leaders Should Know About"
@@ -309,6 +311,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft's 3 new AI-powered shopping tools could save you time - and money"
+    excerpt: "If you've ever spent hours reading product reviews or had buyer's remorse when a price dropped after a purchase, you'll want to check out these new Bing and Edge features."
+    publishedDateTime: 2023-06-29T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-3-new-ai-powered-shopping-tools-could-save-you-time-and-money/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search"
     excerpt: "Tech Mahindra Integrates Microsoft Azure OpenAI to Boost Enterprise Knowledge Search - Tech Mahindra, a leading provider of digital transformation, consulting, and business re-engineering services"
     publishedDateTime: 2023-06-30T11:48:00Z
@@ -456,20 +467,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/10781/35961e76-cb5e-4c8c-a5a5-720d82802ace.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
-    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
-    publishedDateTime: 2023-07-01T15:40:00Z
-    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 45
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Business leader express concerns about ethics and implementation of artificial intelligence"
     excerpt: "A report claims that the majority of business leaders still grappling with the skills and ethics needed to implement artificial intelligence"
@@ -761,6 +758,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "wB36vBvpFxKt8t0D9esNRldFXILBxT+sS5LTFGXvsZf/AghCPbqPsO+IP3TEjvgmnZRBKCO+wgpGVbEuJyA3xWKD+0kjreAoO7FtX4PQDMZZt/gFlsYY4yGBt52kC9EdQTiL2jp+dJoZtk8ZLPeBhMg/idXftTbVhnY2+Xr2OxJmkSkr2UF4Trb7G+aBKGNP/2KSCNkPMc9EG0kAFWTg2Y+tP0xiJUDuSFQA8wlOyq6XbQUQe/MadRQ0ZuOnSvRpQd94Hsa9FctxFlFmRCrPoOJbqpBdM/XlayAdnwav6OClMex8VqO6CNQUItcrcM45ZqJ1gslFEB37gQelw5/xuefM7rw7TjOH5xP+3HiBgwcdzrAcBtbdFLYP+BIL1BWa8+6pqxMLbd5QVeE69qVhmLndVUAUIy8cJU0ZtQsAxKc9BJ1JDw/Qb9igEIl14My9M33tujCI0lJl+g/EC1ZfybYDd26dfcVLTt5IBMLQYXSErs5M2FHpUrVyoWRkIdkxB0fmlIJSObXmBobSwt21TQ==;K+Sw+b2zfinOZiCjpqgS5g=="
+secured: "DWVe1JHZd97NUecKBOGCuXzppdZ6SjbHEMykEtocfoSjethbI8s0W7scp/YeRMIKccLK/5svS6A20lifJspJNS1DIYo6sZQKcQwSfFyjgMneT7zEBboH0R7DAIQGIFgTnjDAR6Mx7bIWf4ysbGDVGk1UrytMYH/e4hBcS6CKNZnEPcdAvYTCjv0sojloOEu/8nfmqzQ9zrH8f8Q+C96P3j/lGL9h9axM39gV6LtHQKaCV235FJOz6tC3a1vdl+Pprklg7/j/F7GlUtqCFmshRBQn7LF7JPDRcHaY8q9ri1aITLrWE5Dv+Wun32rEWztPTFGPSIqVtPwPWPVQodXaZQMUGonlB+9hv4nrWr3SmRQ=;QOte76nx0lflWHkxXyec9g=="
 ---
 

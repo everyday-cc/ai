@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Körber Prize for German AI Researcher"
-excerpt: "Cordelia Schmid is awarded the Körber European Science Prize that is endowed with one million euros. The German computer scientist Cordelia Schmid is a pioneer in computer-aided image processing. Schmid developed revolutionary new procedures that enable computers to understand image content."
-publishedDateTime: 2023-06-28T07:26:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234959"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234959"
+title: "Researchers teach an AI to write better chart captions"
+excerpt: "A new tool helps scientists develop machine-learning models that generate richer, more detailed captions for charts, and vary the level of complexity of a caption based on the needs of users. This could help improve accessibility for people with visual disabilities."
+publishedDateTime: 2023-07-01T17:24:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/06/230629193303.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/06/230629193303.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/691ad9d7-4745-4c65-9657-13c1a086b98d-resslogovertical.png"
-    width: 1261
-    height: 1081
-    isCached: true
 
 related:
   - title: "Researchers teach an AI to write better chart captions"
@@ -57,16 +55,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Researchers teach an AI to write better chart captions"
-    excerpt: "A new tool helps scientists develop machine-learning models that generate richer, more detailed captions for charts, and vary the level of complexity of a caption based on the needs of users. This could help improve accessibility for people with visual disabilities."
-    publishedDateTime: 2023-07-01T17:24:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/06/230629193303.htm"
+  - title: "Körber Prize for German AI Researcher"
+    excerpt: "Cordelia Schmid is awarded the Körber European Science Prize that is endowed with one million euros. The German computer scientist Cordelia Schmid is a pioneer in computer-aided image processing. Schmid developed revolutionary new procedures that enable computers to understand image content."
+    publishedDateTime: 2023-06-28T07:26:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234959"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 39
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/691ad9d7-4745-4c65-9657-13c1a086b98d-resslogovertical.png"
+        width: 1261
+        height: 1081
+        isCached: true
 
-secured: "6UJ3mmiNWy0vuliae5CcTRnb9wdDZshgKOHnobSUgf18QHA9EAkTjL+1+TOLJ/XXtHNGLDvZcnf8SOimw6aDY2sWtQKFTzndiIIcwmoB2n61rqste0VK4rp1/7x0urQWvJPdAT/OG3HVWLU1C2zn4bfzD9SoVAHqZPXcfEG4E/zX69yb9fEbHeWb2KZBqD3zIdsDeFt7eE79+OYtP99WmzGtc2BSWL9i/NiqfUMc3fkbqdWDp7poop1/am9FHi6WzYJTHGUJkquqGd8eaXeoQ1vfuMWKSHXrMbgLlzyT7cf8a1V6GOcZn8/O2SEhqrYnGiGM9L7TELgICbMuh0XCXDLTHGU0ZxyqzVHAKPIgSs37i8RfQAhTTZLpDPHlssVjOT713HwpWDPpp6Y8iiJxRrwLQ1Myt3XYCx9azWWbd6/Y6w5/HJ8496FLJL3AMepT4nGDGSeUztGjVyuZY61jAiYne7keTWabrJCUUNY8MCvhIcxeXJdaCqJzQVMOKM8TkECMS163zK6q6HxIaflEag==;pBuMDOj/hK6HsFCblgzvVQ=="
+secured: "vaQZU18RJm1EsqrQziBdUgHN6Qcx+kBDcAtur20SJpQ6jeZj1U/THBg5IjYtZPIaAI9IC7VIO/ccJrlOcyYAx8upH2pmyNvJzq7/D59xtZJEfk4BKhwzBCH6F3R3TWX2aPVt2DCJTZRCad4oYXhyRlAotORXhJGYbLQwenOTw9vSU9SfUlUGrcrLe64pJKCfXXx6KuQv4EEHwSklb82TGDIcENSQOq9PG8AfpxIMPCIMj4qtra3xZtFjTFowv2JF1qhIlqCDSyIrIy/DLlxK+keoMezVHiB2TD/9m0CNCb6uaGpZCbtmfenRPGgoub8hZaMzgbmFkq441ENDvKtq9E7cqH4ygz3OJmAyyQP6w8Q=;Hoym2hvEZ1wVnEkV0U6oIw=="
 ---
 

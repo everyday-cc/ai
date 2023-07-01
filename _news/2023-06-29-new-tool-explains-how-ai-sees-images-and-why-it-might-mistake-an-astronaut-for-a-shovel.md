@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-tool-ai-images-astronaut-shovel.amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: techxplore
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New tool explains how AI ‘sees’ images and why it might mistake an astronaut for a shovel"
-    excerpt: "A team of Brown brain and computer scientists developed a new approach to understanding computer vision, which can be used to help create better, safer and more robust artificial intelligence systems."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://www.brown.edu/news/2023-06-27/computer-vision"
-    type: article
-    provider:
-      name: Brown University
-      domain: brown.edu
-    quality: 30
-    images:
-      - url: "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2023-06/computer_vision.jpg?h=4d2d395b&itok=5YL5352Q"
-        width: 1219
-        height: 686
-        isCached: true
   - title: "New tool explains how AI ‘sees’ images and why it might mistake an astronaut for a shovel"
     excerpt: "A team of Brown brain and computer scientists developed a new approach to understanding computer vision, which can be used to help create better, safer and more robust artificial intelligence systems."
     publishedDateTime: 2023-06-28T16:14:00Z

@@ -259,20 +259,6 @@ related:
         width: 340
         height: 238
         isCached: true
-  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
-    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Enterprises need to control their own generative AI, say data scientists"
     excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
     publishedDateTime: 2023-06-27T12:30:00Z

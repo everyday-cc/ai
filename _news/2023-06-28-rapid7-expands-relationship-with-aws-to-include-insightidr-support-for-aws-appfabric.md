@@ -2,9 +2,9 @@
 category: news
 title: "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric"
 excerpt: "AWS AppFabric quickly connects SaaS applications across an organization so IT and security teams can easily manage and secure applications using a standard schema, and employees can complete everyday tasks faster using generative artificial intelligence (AI)."
-publishedDateTime: 2023-06-27T19:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rapid7-expands-relationship-with-aws-include-insightidr-support-/2023/06/27/9840156.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rapid7-expands-relationship-with-aws-include-insightidr-support-/2023/06/27/9840156.htm"
+publishedDateTime: 2023-06-27T18:16:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/06/27/9840156.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/06/27/9840156.htm"
 type: article
 quality: 12
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 875
         isCached: true
 
-secured: "rokbeHq5CcLzCa40jfVeFMnzYGj6zn8D9fE7T6wEAl8jdYm9Vx92tIw8SGMY5FOAcLMiInXQoAp+b/nwt3CZZ3AyH0Cmu3QiklJerB6SCuz9EBflilyuyP+scJetvIXj4uqbErmKNXzz4GIXI1ETZdGoYc/23UrjdcxmOm/H6vlcHIWG2rRgwLqqEClQXcO0vUpmAm0qXbpburdy2N8pNkMp3y8/rnaNmDUdBu5e10raGc+2+/cgGZYFimBjaXBzdW/+MhhoS/9FVIrffQMCIU0JQXNRh5shSnf16SUrAAegMHg6aSP9sDSJQPqHy/VdNfzetXdpllIkx1RKSAwQlyBXNhMkR0nH8CjQvYgyNzY=;p5nvon27IEkiP7CtLunvSQ=="
+secured: "m+qalvh9pTY4I9NvYRFHqAss1VKjqKs1U38QrQlymn2dSpIjxoood+9PxgxKXtjZB2kk5MAclGbGhrGfsQa512xcd9ektocSqg39aXo9WcE8DGaaJVeUHrpNMTj/1VW84U2nc/HznRdv3rONlA1usNSFyUTpoCVHZCN4k0dZZfdXsOKxsE58TJ4RKtJtddKcH67w68IgDJJqvoBjjQOCxUOp7wPWkT/YdyLU7M3NfzjK/jJW/EHck0KbQLcPCk5BGhPsfvQPARrC/OImEt0GXPZF1Y7BZ1imel/duj8pJ9ldblX8QummyGc5IuOyhIWhAkwEkvu4BI96tHBkJsf/Dy3fhe/duyNlGbjhqMOlKB4=;Cts05zH4qFcLxd5q6AQPNg=="
 ---
 

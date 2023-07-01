@@ -458,6 +458,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Mahindra and Microsoft Collaborate to Enable Generative AI-Powered Enterprise Search"
+    excerpt: "Tech Mahindra, a leading provider of digital transformation and consulting services, has announced a strategic integration with Microsoft to introduce"
+    publishedDateTime: 2023-07-01T15:40:00Z
+    webUrl: "https://technosports.co.in/tech-mahindra-and-microsoft-collaborate/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 45
+    images:
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/07/Collage-Maker-01-Jul-2023-09-37-PM-5636-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Business leader express concerns about ethics and implementation of artificial intelligence"
     excerpt: "A report claims that the majority of business leaders still grappling with the skills and ethics needed to implement artificial intelligence"
     publishedDateTime: 2023-06-29T07:44:00Z

@@ -186,20 +186,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "YouTube is using AI to break down language barriers"
-    excerpt: "YouTube has announced that it is working on integrating a tool for translating and dubbing videos into multiple languages, using artificial intelligence."
-    publishedDateTime: 2023-06-27T01:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/06/27/youtube-is-using-ai-to-break-down-language-barriers"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/06/27/2147103.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
     excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."
     publishedDateTime: 2023-06-30T00:02:00Z
