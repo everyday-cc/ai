@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "AI linked to new crop of business email scams"
-    excerpt: "Firms can no longer count on bad spelling and grammar to red-flag problem emails: Fraudsters are using AI to craft well-written email messages at scale."
-    publishedDateTime: 2023-06-28T13:10:00Z
-    webUrl: "https://www.constructiondive.com/news/ai-linked-new-crop-of-business-email-scams/654181/"
+    excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
+    publishedDateTime: 2023-06-28T13:18:00Z
+    webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
     type: article
     provider:
-      name: Construction Dive
-      domain: constructiondive.com
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://www.constructiondive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
+      - url: "https://www.ciodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
         width: 770
         height: 435
         isCached: true

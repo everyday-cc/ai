@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "More details emerge about Google DeepMind efforts to surpass ChatGPT"
-    excerpt: "Google DeepMind is working on a new system, Gemini, that combines LLMs with reinforcement learning techniques used in AlphaGo."
-    publishedDateTime: 2023-06-26T17:19:00Z
-    webUrl: "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AI-5.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "DeepMind CEO says that Google's next AI system called Gemini will outshine ChatGPT"
     excerpt: "Gemini, the latest AI product DeepMind researchers are working on, will seemingly put ChatGPT to shame. Demis Hassabis, CEO and co-founder of the British AI research"
     publishedDateTime: 2023-06-27T17:28:00Z
@@ -117,6 +103,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
+    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
+    publishedDateTime: 2023-06-29T22:22:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says CEO Demis Hassabis"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z
@@ -175,20 +177,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
-    excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
-    publishedDateTime: 2023-06-26T17:13:00Z
-    webUrl: "https://www.onmsft.com/news/google-deepmind-devises-a-strategy-to-outwit-chatgpt-with-gemini/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/photo-1529612700005-e35377bf1415-1.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Here’s why Google thinks its Gemini AI will surpass ChatGPT"
     excerpt: "Google DeepMind CEO Demis Hassabis believes that the Gemini AI system could match and even beat OpenAI's GPT-4."
     publishedDateTime: 2023-06-30T21:02:00Z
@@ -217,15 +205,6 @@ related:
         width: 850
         height: 425
         isCached: true
-  - title: "Google DeepMind Claims Its New Algorithm Will Trump ChatGPTs"
-    excerpt: "The CEO of Google DeepMind claims that its new AI network Gemini will be more capable than GPT-4. Should Open AI be scared?"
-    publishedDateTime: 2023-06-26T18:18:00Z
-    webUrl: "https://tech.co/news/google-deepmind-new-algorithm-chatgpt"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 34
   - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
     excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
     publishedDateTime: 2023-06-28T12:58:00Z

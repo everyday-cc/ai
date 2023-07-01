@@ -70,6 +70,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Transforming Generative AI Into Domain-Savviness Via In-Context Learning And A Dash Of Data Engineering Seems Promising, Says AI Ethics And AI Law"
+    excerpt: "Latest efforts to imbue generative AI with domain expertise makes use of data engineering and in-context model learning. This close look explores how this works."
+    publishedDateTime: 2023-07-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/01/transforming-generative-ai-into-domain-savviness-via-in-context-learning-and-a-dash-of-data-engineering-seems-promising-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI in startup fundraising"
     excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
     publishedDateTime: 2023-06-26T21:46:00Z

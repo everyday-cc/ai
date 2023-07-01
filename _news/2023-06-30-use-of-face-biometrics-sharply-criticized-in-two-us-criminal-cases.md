@@ -53,15 +53,6 @@ related:
         width: 1920
         height: 1274
         isCached: true
-  - title: "PixLab and FaceIO update privacy policy for face biometrics, age verification"
-    excerpt: "PixLab and its brand FaceIO have updated their privacy policy and TOS to align them with the GDPR and the California Consumer Privacy Act."
-    publishedDateTime: 2023-06-26T17:57:00Z
-    webUrl: "https://www.biometricupdate.com/202306/pixlab-and-faceio-update-privacy-policy-for-face-biometrics-age-verification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 1
 
 secured: "CXFXZnViTEx73C2Ib5yxcM7vW9BNCBXfiMTqch23nwGOUqpt2XUHxCABpFWsMYSUe4rwwTH2mseQYnvS15KXtsfZxj0FnNlzZyBxpXBt/AZJCSqhVtH3Lt9VE+q4iNNb+5NSYxwP1T4uQY0UvBifzHKWRPuRUJYaQdGgXKC2JHGa/uYD0m91XStTue8+HNLCRVy+S691BhUAq5/kPmrRSh+whcCb2IcnhGOIVmfiYMc8geO9LTwlkT5g6CvAth0blaInySfKl20AzLfcf9D5mRZ4tU9SngNQr1O+zot57XF75QERO63Zz+O5X/axYj/89GZls0G+WeBFAgzx5ElKatr4iMxvicS/wnF89TpBX2s0q1j8pCZjYWcwQYGsqK0a+fFLSiuXnjh8sPPQbMWSNHepaqUjbLD9rf1m5jnEekZcQdb3GKQrlcVsiwG2n4VMsFezd9xafvikdsA5jYHt842wGBAKFFWglNEkPrEur6SleTTsLFr4qjXdGmwyPfL5eAzCwAOTBW2CmHcouNU1CQ==;IharfG9NZICdq6oy61fAtQ=="
 ---

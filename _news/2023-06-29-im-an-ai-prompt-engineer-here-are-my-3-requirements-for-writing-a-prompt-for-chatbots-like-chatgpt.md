@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
-    excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
-    publishedDateTime: 2023-06-29T22:22:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/openai-chatgpt-generative-ai-lawsuit-rcna91892"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna91892"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg"
-        width: 2500
-        height: 1663
         isCached: true
   - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
     excerpt: "And how do teachers, institutions and governments find room to plan for the future?"

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2023/06/tp-off-platform-ai-positives.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"

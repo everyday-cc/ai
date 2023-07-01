@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "HPE Further Highlights GreenLake On-Prem Cloud Through At Discover Event"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as HPE Discover just took place in Las Vegas and CEO Antonio Neri started the proceedings."
-    publishedDateTime: 2023-06-26T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/26/hpe-further-highlights-greenlake-on-prem-cloud-through-at-discover-event/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 33
 
 secured: "q7j0OLNV1S4nRw+NhU5nrksjzhZi/ojq69HMT6cB1rnANC9ePqnD9DdiTonQMiFAz0PN8vsdKIp6EOZ266S4LkShmeIENpUBmH/1u84RAUpX/dIc/Zke/nwU4j26/d4Ihh6LhSEXC3S4T+yEafqS65HhDtGDLoiW2rhZwlClgnqvt8CS2Yn8WZRupdFpz+DQ3emjpTY5WjWyUz9fZG1oS+L2hk5+LgegCJElkn010t8jp25BLsA7Bcapd79MOVLllN2ELEITF8LSzGs6KkbQ4GMja0SLYjDFaj325FQSctPDjl3q5ZkDYO8kJExOkU8zjKZN7uch3b41dHNLFz3+86Pq5kmYQU9yeM7DYJO+45OKI9hqohwIkWcsZaPwBPrS+EBH2lbvLwS5LekxpsOTzMkSy74sQdEXv1qfe4mVSuMRgCM2kXFOG3wDJP/GycBqgD4PzHCDG7sWmz/T5FSMO8/8dGnS9+E4dE7XzyaQBHZk1m1uNNv99MPIdxMQCbUBgQ6rVeA0V4PVAFKOZQGPsg==;vZLXyjgMbAB3BzFGoQJxjw=="
 ---

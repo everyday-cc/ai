@@ -483,6 +483,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 52
+  - title: "AMD Stock Could Extend Gains, Thanks to AI Opportunity"
+    excerpt: "Advanced Micro Devices (NASDAQ:AMD) stock is a beneficiary of the jump in demand for chips that drive AI (Artificial"
+    publishedDateTime: 2023-07-01T10:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-stock-could-extend-gains-thanks-to-ai-opportunity-1032421855"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
     excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
     publishedDateTime: 2023-06-30T17:40:00Z

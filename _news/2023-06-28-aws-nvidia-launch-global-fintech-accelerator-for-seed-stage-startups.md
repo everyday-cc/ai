@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
+    excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
+    publishedDateTime: 2023-07-01T10:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-scaled-1024x785.jpg"
+        width: 1024
+        height: 785
+        isCached: true
   - title: "AWS opens up applications for Global Fintech Accelerator"
     excerpt: "AWS plans to select as many as 150 fintech startups across multiple regions as part of its Global Fintech Accelerator, which is now open."
     publishedDateTime: 2023-06-28T10:07:00Z

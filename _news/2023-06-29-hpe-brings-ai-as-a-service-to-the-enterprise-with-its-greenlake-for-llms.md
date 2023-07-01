@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/28/hpe-brings-ai-as-a-service-to-the-enterprise-with-its-greenlake-for-llms/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "HPE Further Highlights GreenLake On-Prem Cloud Through At Discover Event"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as HPE Discover just took place in Las Vegas and CEO Antonio Neri started the proceedings."
-    publishedDateTime: 2023-06-26T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/26/hpe-further-highlights-greenlake-on-prem-cloud-through-at-discover-event/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 33
 
 secured: "9cGN8Cn8uzPl/fnSOzs/VT+cXFZA7rE6xSgkYBWPYW2FbhIriWBwYbQs4mUHl3ugvr6T7r6k+LuL8G5j7vqYoI0LMy9+1JaZaWcFbPsAk7EiJHNTZ3kk/UmsQx2H3QEFf4GHMqtuPsTaLz3opfjohhiDn0ruOaiSIV5LMIZElMrZIvEdAOnb7SQpG435Qla+FBqfTeuln6LmOggUE7+V87buJc/rq2/YUelO56unr0Cl/5VJWm+UxyXGo8p4+KYYmODivJGrXHztQWS+ZPopiDSkTtEieG4YE9aCVnevWeuTfY7/fJkFt5v26Wx2E0EN3yGAI3tpf7v2zI9YAjzK0h43wsuGsqQCpEpY4kfcbAF7MEMD/sIabzhe5XNCgJP1BaW1cxReoLoGkbQ+pnu0b0xqcY4aPx4c5rxvuHwDfZDp7nsIYE+OV8sRGyN7/sAkZN1pKlinmwRGVYAks7R+h1z+2NnRaSJz3BJ2vZxCCIIao+oj4AVTDXv18mDvVJwKvNuowu5AWqtB0ZxepZcD9A==;99R7EwpNCm1WN10WpsLj/Q=="
 ---

@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft, TikTok give generative AI a sort of memory"
+    excerpt: "The programs use databases to beat ChatGPT at hundreds of turns of dialogue. The innovations can give any large language model ChatGPT-like abilities."
+    publishedDateTime: 2023-07-01T10:34:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-tiktok-give-generative-ai-a-sort-of-memory/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/40efaf31e076a7b5738d107834bb0317e0dbb0fa/2023/06/30/23a7542e-8178-46ab-9918-d592cb186aec/tiktok-memory-bot-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tech Mahindra Collaborates Microsoft Azure To Enable Generative AI Powered Enterprise Search"
     excerpt: "Tech Mahindra's Generative AI-powered Enterprise Knowledge Search integrates Microsoft Azure OpenAI Service, Azure Cognitive Search, and Azure Language understanding to help enterprises unleash knowledge accessibility, which will eventually improve the ..."
     publishedDateTime: 2023-06-30T10:08:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06F5yZaZDh0KUdY8GipZEGR-1.fit_lim.size_1200x630.v1687974682.jpg"
         width: 1108
         height: 630
+        isCached: true
+  - title: "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week"
+    excerpt: "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here."
+    publishedDateTime: 2023-07-01T11:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33088892"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 81
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop"
+        width: 626
+        height: 417
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others"
     excerpt: "Inflection AI said on Thursday it had raised $1.3 billion in a funding round backed by investors including Microsoft and Bill Gates."
@@ -384,6 +416,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/09/rubrik.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft, Nvidia Invest In Ai Startup Inflection Ai"
+    excerpt: "san francisco: microsoft and nvidia were among a host of investors who took a stake in ai company inflection ai.<br /> <br /> the company rai"
+    publishedDateTime: 2023-07-01T10:16:00Z
+    webUrl: "https://menafn.com/1106541563/Microsoft-Nvidia-Invest-In-Ai-Startup-Inflection-Ai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/01/TP_ee5b5image_story.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard"
     excerpt: "In this article, we will look at how to identify and fix performance issues in Go programs using the pprof and trace packages. We will begin by covering the fundamentals of the tools, then delving into practical examples of how to use them. By the end of ..."

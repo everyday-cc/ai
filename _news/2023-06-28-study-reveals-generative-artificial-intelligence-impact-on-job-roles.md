@@ -337,20 +337,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T18:19:00Z
-    webUrl: "https://www.hrdive.com/news/generative-AI-startups-enterprise-software/653923/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Healthcare funnels $20B into generative AI"
     excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
     publishedDateTime: 2023-06-30T18:24:00Z

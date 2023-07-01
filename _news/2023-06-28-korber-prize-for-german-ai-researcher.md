@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "UPMC researchers studying artificial intelligence's ability to identify heart attacks"
+    excerpt: "PITTSBURGH (KDKA) - Researchers at the University of Pittsburgh said they're studying how artificial intelligence can help them identify patients having heart attacks. They are developing an algorithm that can interpret electrical signals from the heart and identify patients having different types of heart attacks."
+    publishedDateTime: 2023-07-01T11:46:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/upmc-researchers-studying-artificial-intelligences-ability-to-identify-heart-attacks/"
+    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/upmc-researchers-studying-artificial-intelligences-ability-to-identify-heart-attacks/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/upmc-researchers-studying-artificial-intelligences-ability-to-identify-heart-attacks/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2021/07/22/fa691f2d-3a27-435c-a93f-0e651085adcc/thumbnail/1200x630/4631785b8ee24e6173f5437740cfdf39/upmc-logo.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6UJ3mmiNWy0vuliae5CcTRnb9wdDZshgKOHnobSUgf18QHA9EAkTjL+1+TOLJ/XXtHNGLDvZcnf8SOimw6aDY2sWtQKFTzndiIIcwmoB2n61rqste0VK4rp1/7x0urQWvJPdAT/OG3HVWLU1C2zn4bfzD9SoVAHqZPXcfEG4E/zX69yb9fEbHeWb2KZBqD3zIdsDeFt7eE79+OYtP99WmzGtc2BSWL9i/NiqfUMc3fkbqdWDp7poop1/am9FHi6WzYJTHGUJkquqGd8eaXeoQ1vfuMWKSHXrMbgLlzyT7cf8a1V6GOcZn8/O2SEhqrYnGiGM9L7TELgICbMuh0XCXDLTHGU0ZxyqzVHAKPIgSs37i8RfQAhTTZLpDPHlssVjOT713HwpWDPpp6Y8iiJxRrwLQ1Myt3XYCx9azWWbd6/Y6w5/HJ8496FLJL3AMepT4nGDGSeUztGjVyuZY61jAiYne7keTWabrJCUUNY8MCvhIcxeXJdaCqJzQVMOKM8TkECMS163zK6q6HxIaflEag==;pBuMDOj/hK6HsFCblgzvVQ=="
 ---

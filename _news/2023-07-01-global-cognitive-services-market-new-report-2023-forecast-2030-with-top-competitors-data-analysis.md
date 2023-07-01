@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106534435/Global-Cognitive-Services-Market-New
 webUrl: "https://menafn.com/1106534435/Global-Cognitive-Services-Market-New-Report-2023-Forecast-2030-With-Top-Competitors-Data-Analysis"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Janitorial Services Global Market Report 2023"
-    excerpt: "(globe newswire) -- reportlinker announces the release of the report janitorial services global market report 2023 - <br"
-    publishedDateTime: 2023-06-26T17:22:00Z
-    webUrl: "https://menafn.com/1106504614/Janitorial-Services-Global-Market-Report-2023"
+  - title: "Smart Camera Market Industry Trends, Size, Share, Growth Analysis And Forecast 2023 2030 | Ximea Gmbh, Canon Inc."
+    excerpt: "california, united states, june 30, 2023/einpresswire / -- according to our latest study, the global smart camera market is estimated to account for"
+    publishedDateTime: 2023-06-30T11:31:00Z
+    webUrl: "https://menafn.com/1106522625/Smart-Camera-Market-Industry-Trends-Size-Share-Growth-Analysis-And-Forecast-2023-2030-Ximea-Gmbh-Canon-Inc"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 24
+    quality: 3
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?757417"
-        width: 444
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?822843"
+        width: 405
         height: 250
         isCached: true
 

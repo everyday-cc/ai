@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial-recognition tech helps nab 90 miscreants during Rath Yatra in Puri"
+    excerpt: "Armed with facial recognition software and trained in analysing crowd behaviour during the annual Rath Yatra this year, a specialised team formed by the Puri Police arrested over 90 snatchers during the festivities in this pilgrim town,"
+    publishedDateTime: 2023-07-01T11:02:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
+    ampWebUrl: "https://m.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/nation/facial-recognition-tech-helps-nab-90-miscreants-during-rath-yatra-in-puri-521849"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 43
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/7/2023_7$largeimg_163952569.JPG"
+        width: 600
+        height: 400
+        isCached: true
   - title: "US facial recognition developers jockey for position in NIST accuracy testing"
     excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."
     publishedDateTime: 2023-06-29T18:45:00Z

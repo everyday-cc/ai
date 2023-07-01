@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/amp/"
 type: article
 quality: 74
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i2-prod.insider.co.uk/news/article30339315.ece/ALTERNATES/s1200/0_Mohsin-Rashid.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Firm Brex Taps Jason Mok to Support Next Generation of Founders"
+    excerpt: "Brex recently announced that Jason Mok has joined Brex to support the firm’s commitment to serving startups and their founders."
+    publishedDateTime: 2023-07-01T10:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/209498-fintech-firm-brex-taps-jason-mok-to-support-next-generation-of-founders/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Aston-Martin-Fintech-scaled-1024x785.jpg"
+        width: 1024
+        height: 785
         isCached: true
   - title: "AWS, NVIDIA launch global FinTech accelerator for seed-stage startups"
     excerpt: "Amazon Web Services (AWS) in partnership with NVIDIA, a major supplier of artificial intelligence hardware and software, has set up a new global FinTech accelerator for seed-stage startups. The AWS Global Fintech Accelerator is dedicated to helping jump-start early-stage FinTech startups that are leveraging artificial intelligence (AI) and machine learning (ML) to innovate financial services."

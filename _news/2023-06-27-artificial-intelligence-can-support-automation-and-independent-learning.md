@@ -20,15 +20,20 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation"
-    excerpt: "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-26T18:52:31Z
-    webUrl: "https://www.ibm.com/blog/yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation/"
+  - title: "Robotics and AI at automatica: practical insights into leading-edge research"
+    excerpt: "Robotics and AI at automatica: practical ... At this year’s automatica trade show, the munich_i high-tech platform will highlight robotics and AI developments for the third time. More than 30 demos will be on display in the AI."
+    publishedDateTime: 2023-06-27T18:01:00Z
+    webUrl: "https://idw-online.de/en/news816821"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 74
+      name: idw
+      domain: idw-online.de
+    quality: 66
+    images:
+      - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+        width: 498
+        height: 259
+        isCached: true
 
 secured: "wmknsVRrM2VbZpopcJvrOz9AcRgVxrO1o97K0tYdqsEhrGDKwkIokAp1jfsHDj1l/6+N+kJeiuL8Lo65PYKGZHAmawVDVRdM8nqf0l3+z7gAgEdvdbyFJbO5Vy1t2pkHDHj67avm9cgOTJ+cFd61TMAx0FWFUKSXAbrXEvju7kNkYGdNGIPQoLOm+MC8LviheAxANtX4sV6oPnzD3KH6LVOXwETW7hyIyfFbVCSlozClFGOy8tN7Sa63FC/n1UVRsbhwClpO4UIsrH6gBFIPDKcbdcPe1ldJiLh4LNcOg4kwLiGeuakhtnhvCHMXiFs+5kTbdIqU4U4k4wD6GO7FswLQ8pwKFdn7e4i8x3DtI77G/AJmBPnJ76udcaUiXMuDlXRR+u58YvKzhwJC8r/D4bMkWqoqoHob5RDdKT5o7a9H/1iZl2GmOG3iDsvDQZ1TaJSsFjjXWn0wUuJVxcxBLDygthRMiGmDAeR3O4EjTRXs4wO/Cfw9aQ3lvf0AeiKcLvS0nTS1pusKqmzxfov+iw==;+3ojpUB3yk/F4TGipJ6Vvw=="
 ---

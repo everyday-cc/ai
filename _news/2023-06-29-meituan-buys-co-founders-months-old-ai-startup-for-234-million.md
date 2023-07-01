@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/meituan-buys-co-founder-s-months-old-ai-startup-for-234-million"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "China's Meituan to buy artificial intelligence firm Light Year from co-founder"
+    excerpt: "Visitors stand near a booth of Meituan at the 2022 World Robot Conference in Beijing ... said on Thursday that it is acquiring artificial intelligence (AI) company Light Year from its co-founder and former director Wang Huiwen, in a bid to develop its ..."
+    publishedDateTime: 2023-06-29T16:06:00Z
+    webUrl: "https://www.reuters.com/markets/deals/chinas-meituan-buy-ai-firm-light-year-co-founder-2023-06-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
     images:
       - url: "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg"
         width: 1200

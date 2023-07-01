@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 531
+heat: 541
 published: true
 
 provider:
@@ -476,6 +476,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 52
+  - title: "AMD Stock Could Extend Gains, Thanks to AI Opportunity"
+    excerpt: "Advanced Micro Devices (NASDAQ:AMD) stock is a beneficiary of the jump in demand for chips that drive AI (Artificial"
+    publishedDateTime: 2023-07-01T10:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-stock-could-extend-gains-thanks-to-ai-opportunity-1032421855"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "For Nvidia and China, an AI Battle with Washington Bodes Ill"
     excerpt: "An escalating chip war between the U.S. and China is putting chip makers in the crosshairs."
     publishedDateTime: 2023-06-28T11:17:00Z
