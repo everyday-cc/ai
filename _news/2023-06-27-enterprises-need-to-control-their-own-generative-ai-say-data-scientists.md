@@ -22,35 +22,51 @@ topics:
   - AI
 
 related:
-  - title: "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI"
-    excerpt: "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com"
-    publishedDateTime: 2023-06-29T00:55:00Z
-    webUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
+  - title: "FTC Concerned About Generative AI Monopolies"
+    excerpt: "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space."
+    publishedDateTime: 2023-06-30T21:56:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
-        width: 340
-        height: 238
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Relativity Piloting GPT-4, Aiming to Rise Above ‘All the Noise’ Surrounding Generative AI"
-    excerpt: "We all want to get [generative AI] out fast, because you feel like if you don't, you have a bit of FOMO, right? But [we said], let's not overtly take the bait. Let's breathe through this and make sure that when we do deliver something,"
-    publishedDateTime: 2023-06-26T20:05:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/26/relativity-piloting-gpt-4-aiming-to-rise-above-all-the-noise-surrounding-generative-ai/"
+  - title: "AWS Announces Generative AI Innovation Center"
+    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
+    publishedDateTime: 2023-06-26T09:19:00Z
+    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
+    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 32
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Relativity-logo-767x633.jpg"
-        width: 768
-        height: 633
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "AWS announces generative AI innovation center"
+    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-27T06:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
+        width: 1280
+        height: 852
         isCached: true
 
 secured: "eMyCUbKxjW2A8lG7GIXY6zMSrD5jjJdPGxeLTyBHFSBeRsHrJAb8js2DuPmsdN2jogFjgwlzsHFautToOHglskbKegVB50772hHG+jHGTzLLe9XKcpnjcezYnc8A4iBHKYoqwdqZfkFpENIKPu+ZrNPCak7TrmGFuVB0BHbHySQ0hcOXyjOBsUAXnQNLw8JDMU+mTTv/NhXqSEUj4+4e+6H6qYIe2s4oPuzTSe49+3Du6ZT06j28q+lOVNSG7mJh53BnR65na1lAWqY6lPMn0nArt6EmFpToZz9JmQ7Bd6ddW7qcmB6bx5JHcP3tICxDVaqspOZ1biqZq4kL48vy2j4yDkFSmyABj2VQmLBlrAeRqHY79qW9Rp6WbqwYnSE7V/zD1Ap1EwAYzR3KfPK4zg1UWNsBnh6Bc1UhrlRZam5pCikxxhWsfwZN3cRWJ4Wz2dQ7cQaNn2GmF8tWEE3BBxW8JOt3OgXa5crKk+vQPESSp5sPb47MhOEUB6fMISTHCs+wjtgEr/hTjPJ9CCVS+Q==;EqeMF3scGw7J9MzkZ8cYLA=="

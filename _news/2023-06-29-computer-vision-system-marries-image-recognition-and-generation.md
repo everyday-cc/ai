@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-vision-image-recognition-generat
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-vision-image-recognition-generation.amp"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:

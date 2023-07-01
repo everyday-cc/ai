@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/06/29/whats-new-in-the-world-of-genera
 webUrl: "https://techcrunch.com/2023/06/29/whats-new-in-the-world-of-generative-ai/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,29 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "What are the best ways to use generative AI in the workplace?"
-    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
-    publishedDateTime: 2023-06-26T21:05:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
+  - title: "What would Einstein have said about the impact of generative AI on higher education?"
+    excerpt: "The debate over AI taking over our jobs has intensified in recent years. There was much discussion after the 2011 Jeopardy quiz show during which IBM’s Watson outsmarted two human champions, and the 2016 Go match in which Google’s AlphaGo beat Go ..."
+    publishedDateTime: 2023-06-30T22:18:00Z
+    webUrl: "https://www.scmp.com/comment/opinion/article/3225987/what-would-einstein-have-said-about-impact-generative-ai-higher-education?module=live&pgtype=homepage"
     type: article
     provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
+      name: scmp.com
+      domain: scmp.com
+    quality: 79
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
-        width: 1000
-        height: 600
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/fb5e7661-4967-4384-aec2-0bbdfb230ba9_f8895cc2.jpg?itok=ZIS8I_lg&v=1688042148"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Is flash storage the key to effective and sustainable AI?"
-    excerpt: "Pure Storage’s flash storage solutions can provide the performance, flexibility and reliability that AI needs in a sustainable way"
-    publishedDateTime: 2023-06-28T02:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/flash-storage-key-effective-and-sustainable-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "Cf7GK9lfXNou8QgTKDGTEa9eaWAwud4TYeTa+DcFdpiZ0IK+qGTsoyumxOkC9Cnj4LqpYpa9IpNZ7gV1UBmYML1zx2aU6Hye9yBkqf7JULTHZUt1o1FCtG8fZQO63Ype3ATvUJEUj0+gvefzs4Ub4pTMqjfMDt6cghKqSykAxj1k1DKNE0r5/69Ar6LFOHU0mGL6D4KbhxMS+ol7Raug0iKPoShli7XjsnwBxcKuGL1RaQevsaPsAf1mf4rkiNrJV+XC0eUnOTdJ+WKNiHDiqtPINn81CzEI/er3q1FY1LjeSBIo/XVaIrv97kb7d1iNOzSK/6iQnbiYfpY+XhQVLbv9LLon8R/XuPaHd2mBHFBpnx3CaOdRpks/Pj9vKF5btAUBDt5Q5vASfewLX9ZD4+Rgurb9WJqc/FTiZBqRL5+VbgkEE3hzwL2cMSW2lM4RBtyav7O3hwmc+7UbHwR+WBf4EneDARGqZyH19del2FBk/tFI0p5Nli4a3lZQD07Z6GLsg58UsvyxCfik9MyvOQ==;cD/eAiaRmoN1XsOxZe9aeA=="
 ---

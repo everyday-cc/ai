@@ -42,15 +42,6 @@ related:
         width: 340
         height: 238
         isCached: true
-  - title: "Enterprises need to control their own generative AI, say data scientists"
-    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
-    publishedDateTime: 2023-06-27T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "TdAQy2oUdFudBDDWr54QBRRhVTmt9oMu1tsbDCQjLiCQ19m84VHhk2G9aQgGoRsyVPq0ZpW/60MDq1sIUw2gyqPglqRUoppn4tlPUTOIIGJf/Tsh9VpV6MK5ltXscYU5TsMpMawvS+ZqLTrjRKFN3nRboW04P0EtgnErGDh62nPT8NzLebKiehBTGWT81lLqu0PojS+RXEvHC6PeHFvWr6+uN5KS1pmRS79d+MGXFgliLZF+92Lrzh0mMHWsiPyUND+oeC3oikKtFoMW9Zq1y40rAnySd1tHi680CWkZMNLR8wpgLzyCLNdOmy6j4g26M3yu1sMZBrQmlAyK6Csrcig4pCC2DAAs1a42VMyGF+9nV56tzGV+ueGsOj3MR1PhrU1aaYi0x81iRPBdzBBjFtyQTPz8vv7joDOMoWqVyVP8C6sLj9/7mj99Qm2Mlt48gvDPHcaRibXJBSggklgofcx5kBGyhUOKhfJ/3uPmftFuCkmXSJvo1kyunD+APLTko6CLHBXeNprByNnXF/0hbw==;enZAA/AgaYPjQ1NFnyAYiA=="
 ---

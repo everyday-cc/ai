@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chip connection technology maker Celestial AI raised a $100M Series B round"
+    excerpt: "Celestial AI Inc., a developer of chip connection technology, has raised $100 million in new capital. The Santa Clara startup has developed what it calls a Phonic Fabric system, which uses beams of light instead of electrons to transmit data between chips and between chips and memory modules."
+    publishedDateTime: 2023-06-30T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/30/celestial-ai-raises-100m-series-b.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
 
 secured: "Y56yHyySSSx3XKOviHlUyD9Sr/DATL6zLjYTCMFxOOdtHHcV5Y7u4RTo+bdNXPgstppalhY1CcEIRkgEypaKi88Ptc1Ss6PIqYRqkiwsDMw+nPdZEdHOj8thvKIjJY0oPZ9acuDNAEOh09RKDMBgTTdswo88+GJJlXjJlfWPZTiF3Xu/FiKF5Z8hlRirGjwmUaxUknBNRLDeFNRPKLjHckUrFIoM4OEeuKsH/msM49h0FB5VBWfr0Wic3hMz0PJFHe1naqQ8jWHRpcIC2lqvfBrhchBBFfjRElWFjAS/LKaovuvePqzOEXB8/p2BjzPi2IsXH+kadSPcVfk5JFd/8nSOd5ejlU5jhE4Xdoe7TbI76NkL3VKrX9y/kfvA05VJcTJ+Wpm5nNlF2Xw4hpV1n2n1ACRV61KBoFab+B/ncn/Z/tdp88J3dr/ci+nKtx6ilH3Y0RieTd2BySOPYPpzONtCzX6vsxA6BC1fQ0yuRyRB6lB8dygJsTdQLgKMJ04fU0wvOGaImkyMJMoIOageZA==;ooKf4hrLZxu2vKVawmYjng=="
 ---

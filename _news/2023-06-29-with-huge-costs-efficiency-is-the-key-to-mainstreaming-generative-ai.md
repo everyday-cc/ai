@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-i
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
 type: article
 quality: 59
-heat: 81
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Platform
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprises need to control their own generative AI, say data scientists"
-    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
-    publishedDateTime: 2023-06-27T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "Relativity Piloting GPT-4, Aiming to Rise Above ‘All the Noise’ Surrounding Generative AI"
     excerpt: "We all want to get [generative AI] out fast, because you feel like if you don't, you have a bit of FOMO, right? But [we said], let's not overtly take the bait. Let's breathe through this and make sure that when we do deliver something,"
     publishedDateTime: 2023-06-26T20:05:00Z

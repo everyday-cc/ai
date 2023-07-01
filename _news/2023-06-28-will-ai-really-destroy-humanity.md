@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: An Existential Risk To Humanity"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T07:24:00Z
+    webUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993"
+    ampWebUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Will AI Really Destroy Humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
     publishedDateTime: 2023-06-27T09:14:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/27/125105.JPG?v=1687853100"
         width: 1000
         height: 665
-        isCached: true
-  - title: "When AI bots pose as humans"
-    excerpt: "I’ve been doing a lot of thinking about the implications of artificial intelligence. One of the most fragile parts of the"
-    publishedDateTime: 2023-06-27T03:50:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/288681/When-AI-bots-pose-as-humans"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-06-26-16011900.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Can AI really destroy humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"

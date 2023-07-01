@@ -190,22 +190,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
-    excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
-    publishedDateTime: 2023-06-26T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/17/11/m365copilot_business_1920x1080_print-100938654-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI startup Inflection raises $1.3b from Microsoft, others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday it had raised $1.3 billion in a fresh round of funding amid a boom in the artificial intelligence (AI) sector."
     publishedDateTime: 2023-06-29T15:29:00Z
@@ -221,6 +205,20 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
+    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
+    publishedDateTime: 2023-06-30T23:30:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 69
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Report: 2022 Microsoft Azure Revenue Less Than Estimated, Half That Of AWS"
     excerpt: "An unredacted Microsoft document reportedly revealed that the vendor’s Azure cloud server business revenue in the 2022 fiscal year generated half the revenue of rival Amazon Web Services – and less than the amount some analyst firms had assumed."
@@ -694,15 +692,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
-    publishedDateTime: 2023-06-26T06:30:00Z
-    webUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 24
   - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
     excerpt: "\"We are equally thrilled and humbled by the recognition at Microsoft AI Solution Foundry. I dedicate this award to the development, technical, and functional teams for setting new standards in the HRMS and Payroll Software domain for being the pioneers in utilizing Microsoft Azure AI effectively,"
     publishedDateTime: 2023-06-26T20:39:00Z
@@ -758,6 +747,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "D/Js/QAkX6V5di0875FcEn74WPxzn2m0ppkQyZPRB93FJaPC7cmx786cCGBjmSxsaOuEZbKXe+yw8RCH1Bl6/hveCMan1yifcyFhDqYnpIB8Jrszb4Oot13vlb4I+ArSZxhfojbK7cSH3CIMzqHzwyjDzKiYGoo4JyXCcvMjHhYqgpa+ClIuCAMWxJt35KXdLB959fUI/bSjyXWstQLd63exwi33KK0sONBO4/q7RJjrD0tuL+Bx1I22TJ/oGg/t6fouzijbv5m7b/b0i2eF7Jfi/MnOuViHfS2bymvPEEOL9hM/9VN5dLA7OGCpnAlk12uhqC9ADMmd06e/uBCC8h4UtiEUJNAL/TO/rBLFeLY=;LZNm2F+BwHFS7tkKh8Sj5Q=="
+secured: "v3nB3/a3nRB3JkL3xlgrSn2iOE3CaleUcKnx+Ruj50rxafyLRzyE/UAACfVRJjYy1jC3hrgBlcUycaLZTC63bHr+oDeBVV7sOnrmHGs9EVZMgcwrwoxzf8FqIlHOdIA1KrVdQ4mnNx8ztaKkmXoxEycCBNrHBYtMjy3fgCxK/dnnVDMH3kjuIFNqcFZIGSPSOIYWkdvHxMt81mbL91D7B8JAeznpas/tV1hO2xO5kgqLL8fUbCj4KKfstj49PMWdYtjAijdBgNMa9Mp4HVMA6/s5+BrozIHgIFl5xnw/WVVQqzNMqJQ5qM6XBon1kyKnbmxoQRyrhW4g1Ag2c1/Bx+FLyRE1hrJTAYWs8Ft7qq47xSIX0eTwZgrzd2dUaWIQxv5if7j7eWhECAdj/yVTpRK+wyYG77Ka4rU1y2zK6vfowKlqTyTDbRkn+Z+m2AqQP4RymH8E0L5M8N5amh5azilwErjsQSTCotlurKI0qIVqK+FqftP9v1Xv3BMSsUQt2GFDRnvnyFeedFVcwYOYCw==;HSooIFGfOwq3OYIDAlrvgA=="
 ---
 

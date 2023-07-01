@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/cyera-raises-100m-expand-data-sec
 webUrl: "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Chip connection technology maker Celestial AI raised a $100M Series B round"
+    excerpt: "Celestial AI Inc., a developer of chip connection technology, has raised $100 million in new capital. The Santa Clara startup has developed what it calls a Phonic Fabric system, which uses beams of light instead of electrons to transmit data between chips and between chips and memory modules."
+    publishedDateTime: 2023-06-30T19:28:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/30/celestial-ai-raises-100m-series-b.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
 
 secured: "HI/DBk7NPLInekpIT2SudQGc8uvDDDNMZ145TlY9mRrim7LWGVwVtb+/gqoxvwipu5evdPVt0R3jzzG4AW0GYf7S3p+T3xHCx+fTIygTQophYoOZb7ILvUkpFey5xmaKIuzIDxNkrU1TthqSn+g6Y7r/SGwFm9XGya9lJjp+PvqV/V1Ab9qDZL0PxpfjIwNSYQU98V7u5u05jbEs8cnZHpTRaqZZCbpZWGd4EXJIVJsgBBnqkjf/i4+2Ww7ejNX41JTsFENuzb/zkl4aic6Zu+nRhj4Ml7loOugBWNhZ+r2kPsE6bC4HoB4KhWfIl4e/0otVuFeLWl246U8O27Ywq//2Wm4/jzSLG8ls6Vtfki3J4L1FLZPAZB7ibd5Oplxh63DEXdNjWfQFgF7b13nGMRw8119taD29XDkix7DawhrXIfH/gid5psV0TGMm9qsoA1+dwzu4EFM6BjNjLT3sAjPJH19QQ5HBYaEAi6mnlLl390VxrXgDwSmfdAoawhIIQ6ahMlf+WAWt1H2n7J61Lw==;ibl9OYAb1hxaDDnptJpA5w=="
 ---

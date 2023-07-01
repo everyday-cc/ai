@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
+    publishedDateTime: 2023-06-30T16:17:00Z
+    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
     excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"

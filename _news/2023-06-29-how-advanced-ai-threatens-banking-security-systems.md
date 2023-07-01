@@ -7,7 +7,7 @@ originalUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-
 webUrl: "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

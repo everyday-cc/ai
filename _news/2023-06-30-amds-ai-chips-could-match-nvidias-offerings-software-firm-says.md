@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 743
         isCached: true
+  - title: "US Planning for New Restrictions on AI Chip Exports to China"
+    excerpt: "US may halt shipments of chips made by Nvidia, Advanced Micro Devices (AMD), and other chip companies to customers in China as early as July."
+    publishedDateTime: 2023-06-29T03:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/06/29/us-planning-for-new-restrictions-on-ai-chip-exports-to-china/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Screenshot-2023-06-29-084046.png"
+        width: 901
+        height: 486
+        isCached: true
   - title: "Report: US considering new restrictions on AI chip exports to China"
     excerpt: "The United States is considering new restrictions on exports of artificial intelligence chips to China, the Wall Street Journal (WSJ) reported"
     publishedDateTime: 2023-06-27T23:36:00Z

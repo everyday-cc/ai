@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "AWS Announces Generative AI Innovation Center"
-    excerpt: "Amazon Web Services, Inc., announced the AWS Generative AI Innovation Center, to help customers successfully build and deploy generative AI solutions."
-    publishedDateTime: 2023-06-26T09:19:00Z
-    webUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/"
-    ampWebUrl: "https://enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aws-announces-generative-ai-innovation-center/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/06/AWS-Announces-Generative-AI-Innovation-Center.png"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
     excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
     publishedDateTime: 2023-06-29T07:00:00Z
@@ -230,20 +214,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/06/29/600x338/Delhi_Lead_1688036701270_1688036717445.jpg"
         width: 599
         height: 338
-        isCached: true
-  - title: "AWS announces generative AI innovation center"
-    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
-    publishedDateTime: 2023-06-27T06:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
-        width: 1280
-        height: 852
         isCached: true
   - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
     excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."

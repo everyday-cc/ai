@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-p
 webUrl: "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/"
 type: article
 quality: 71
-heat: 74
+heat: 75
 published: true
 
 provider:

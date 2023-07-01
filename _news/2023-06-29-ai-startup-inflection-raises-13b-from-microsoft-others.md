@@ -201,21 +201,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "M365 Copilot, Microsoft’s generative AI tool, explained"
-    excerpt: "Microsoft’s generative AI assistant is about to be integrated in a host of workplace apps. Here’s what companies need to know and what they can do now to prepare."
-    publishedDateTime: 2023-06-26T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.html"
-    ampWebUrl: "https://www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3700709/m365-copilot-microsofts-generative-ai-tool-explained.amp.html"
+  - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
+    excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
+    publishedDateTime: 2023-06-30T23:30:00Z
+    webUrl: "https://redmondmag.com/articles/2023/06/30/azure-openai-model-servicing.aspx"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 69
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/17/11/m365copilot_business_1920x1080_print-100938654-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/170719BinaryBuildingGraphic.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Report: 2022 Microsoft Azure Revenue Less Than Estimated, Half That Of AWS"
     excerpt: "An unredacted Microsoft document reportedly revealed that the vendor’s Azure cloud server business revenue in the 2022 fiscal year generated half the revenue of rival Amazon Web Services – and less than the amount some analyst firms had assumed."
@@ -689,15 +687,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Pocket HRMS Recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "Pocket HRMS’ achievement is a testament to their deep expertise in leveraging Microsoft Azure AI technology stack. Pocket HRMS is a user-friendly hire-to-retire solution that transforms complex HR processes into simple automated functions,"
-    publishedDateTime: 2023-06-26T06:30:00Z
-    webUrl: "https://www.businesswireindia.com/pocket-hrms-recognized-as-a-noteworthy-ai-solution-in-microsoft-ai-solution-foundry-program-85257.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 24
   - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
     excerpt: "\"We are equally thrilled and humbled by the recognition at Microsoft AI Solution Foundry. I dedicate this award to the development, technical, and functional teams for setting new standards in the HRMS and Payroll Software domain for being the pioneers in utilizing Microsoft Azure AI effectively,"
     publishedDateTime: 2023-06-26T20:39:00Z

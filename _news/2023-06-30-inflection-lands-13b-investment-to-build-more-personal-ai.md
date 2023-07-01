@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investmen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

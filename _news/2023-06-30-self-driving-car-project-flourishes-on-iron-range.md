@@ -7,7 +7,7 @@ originalUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapi
 webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Self-Driving Cars Are Like Surveillance Cameras On Wheels For Police"
+    excerpt: "Authorities are serving self-driving companies with warrants for hours of footage of private citizens in an effort to solve crimes"
+    publishedDateTime: 2023-06-30T23:11:00Z
+    webUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/07/fca-waymo-exclusive-agreement-2-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "More self-driving cars are on Minnesota roads, fueled by public funding"
+    excerpt: "He uses his car's partially automated self-driving function almost every day. Though there are certain maneuvers — like when he backs out of his driveway or there's a tricky turn ahead — where he'll take back the steering control."
+    publishedDateTime: 2023-06-27T09:00:00Z
+    webUrl: "https://www.startribune.com/more-self-driving-autonomous-cars-vehicles-are-on-minnesota-roads-fueled-by-public-funding-tesla/600285545/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://chorus.stimg.co/24754096/merlin_71220689.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "omI1FTK2cAoYzDfEslduxAhX6JEy3xyk1Jf0uhWItuqnOTpMx+wgTY1HiKHC12uwQ0y6rMJaHRrr3KtGwsSarhfCbjLjoPZ8HuMkcClmU5ieUXsPO7aazhy9SlChs28GmhdLwQTInc5xnixkkEIKxqeTD7A3IIF0lOBzBsDUho0ICyb3Hvw6P7lTrvv6DRs7UFjgi3eAs6mFQJ4ZRAvXAOHrY5Yq8w2uJOb9DjYpJglYkD+pRA7nF+UuhB2GELARq7Ld/pJD1bqoa2d1+q8jTqVujIH2HrgZwxdne6fJSmHscu8lppLjGu+H28QUzYqJunpKR1XFDIc2tXUS8IhCXNkO0QNYCnxukHAIpqOXStSneQa+RJduDRXJD42Q9/8ae2rzrAmQyBwK4lCcSP9FLAUIaMomGk+/WXMrrsr7qMT+fnNq42sl0zY4yTsJtTZmTTFLtQjYQ2ZhrQaPTMqoG12JaXMAnUznFsMda7Kf3KwV8cq7cKp9Z6J1Ux2rLH91dCwW04QAVI06yrD1wSg+bg==;e1lvupQcrnBzgx+WbwQ4VQ=="
 ---
