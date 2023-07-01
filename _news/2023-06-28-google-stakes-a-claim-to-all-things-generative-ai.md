@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
 type: article
 quality: 91
-heat: 371
+heat: 351
 published: true
 
 provider:
@@ -278,20 +278,6 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "The best use for generative AI in healthcare"
-    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
-    publishedDateTime: 2023-06-26T21:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Enterprises need to control their own generative AI, say data scientists"
     excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
     publishedDateTime: 2023-06-27T12:30:00Z
@@ -352,20 +338,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Relativity Piloting GPT-4, Aiming to Rise Above ‘All the Noise’ Surrounding Generative AI"
-    excerpt: "We all want to get [generative AI] out fast, because you feel like if you don't, you have a bit of FOMO, right? But [we said], let's not overtly take the bait. Let's breathe through this and make sure that when we do deliver something,"
-    publishedDateTime: 2023-06-26T20:05:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/06/26/relativity-piloting-gpt-4-aiming-to-rise-above-all-the-noise-surrounding-generative-ai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 32
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Relativity-logo-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
     excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
     publishedDateTime: 2023-06-29T06:57:00Z

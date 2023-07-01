@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
+    excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
+    publishedDateTime: 2023-06-29T14:00:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/as-googles-waymo-expands-so-does-a-police-surveillance-tool"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving car project flourishes on Iron Range"
     excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
     publishedDateTime: 2023-06-30T12:00:00Z

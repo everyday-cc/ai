@@ -79,6 +79,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Meta Uses AI to Organize Your Feeds. Now It's Telling You How"
+    excerpt: "The company uses AI that incorporates your \"feedback\" (how you engage with content by liking, sharing or commenting on it) to refine which posts it serves up to you via your social feeds. In theory, this means that it should deliver content tailored to your own interests and preferences -- but that doesn't mean it always gets it right."
+    publishedDateTime: 2023-07-01T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/meta-uses-ai-to-organize-your-feeds-now-its-telling-you-how/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Developing Litigation Issues - The Age of AI"
     excerpt: "The seventh Webinar in the “Age of AI” series focused on the risk factors at the intersection of litigation and AI. The presenters started with a brief background on AI and the practice of"
     publishedDateTime: 2023-06-30T20:50:00Z
@@ -93,24 +102,15 @@ related:
         width: 500
         height: 278
         isCached: true
-  - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
-    excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
-    publishedDateTime: 2023-06-26T19:18:00Z
-    webUrl: "https://eurweb.com/2023/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask-videos/"
-    type: article
-    provider:
-      name: EURweb
-      domain: eurweb.com
-    quality: 18
   - title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
     excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
     publishedDateTime: 2023-06-27T12:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+    webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?gnt-cfr=1"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 12
+    quality: 14
 
 secured: "jsBrvPA9C58HCqTNYcgVjjllf/rUd/kZYIjxN+ccVi8I1ytQiAUxRZFKB4RUULu6okQ5QTYq3b+VV5GgPOyCEF5teBRpOL7HKkgnK2Ik7TiBUDR+QwLdeVlvdpN5Csqtox3n/AtI34ZcDwQ5K4Lc8vHbRuSlgu7WEsKVWn6immKaI0a1y0PXFWQpU085KLc8vQ/iYlESutNS5aNd25zv0WvxEj+F1jDdp1G5ltntjffUSsZLtcjw9qOZrDAt5uO1q13M0U4yGmuZAmWc0eFH3hZW31v/OvA3cdcaNc5UOblJ4vcMKq+pMydxjmBSQuZI/9vunqxuaA/zbMU66sSaFE2nSKePgfbMQOfRDJuM7L5b1k3+9uUytuEA/UOYYofIBhr3LXfRnmEwp4wEm7qbOb0SebSZYy88WqLHBNFNHgzobLYaWJ1XqdVrclE5PYq7iJuf6fbvLT98oErjjb5yeoKMKVw9kKZH0Tv34EB/xVMGthChP8FP6spLgdqiLUliehnAO9d4XmIWxDSYb7mb8g==;v16yJ242vEOq70hLLUZp6g=="
 ---

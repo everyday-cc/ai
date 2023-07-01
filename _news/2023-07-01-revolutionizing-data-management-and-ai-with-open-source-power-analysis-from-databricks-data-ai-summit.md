@@ -152,34 +152,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Databricks acquires AI startup MosaicML"
-    excerpt: "Databricks has agreed to acquire artificial intelligence (AI) startup MosaicML in a mostly stock deal valued at US$1.3 billion ($1.95 billion), marking Databricks' latest efforts to build an ecosystem for enterprises to train their own AI models."
-    publishedDateTime: 2023-06-26T19:51:00Z
-    webUrl: "https://www.itnews.com.au/news/databricks-acquires-ai-startup-mosaicml-597337"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/2023-06-26T155333Z_1_LYNXMPEJ5P0LQ_RTROPTP_4_MOSAICML-M-A-DATABRICKS.JPG"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Databricks To Acquire Generative AI Startup In $1.3B Deal"
-    excerpt: "Data lakehouse vendor Databricks has struck a deal to acquire generative AI platform vendor MosaicML for approximately $1.3 billion, Databricks said Monday. With the acquisition Databricks will provide customers with the ability to “build, own and secure generative AI models with their own data,” according to a company statement."
-    publishedDateTime: 2023-06-26T20:22:00Z
-    webUrl: "https://www.crn.com/news/software/databricks-to-acquire-generative-ai-startup-in-1-3b-deal"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0280-17de97d4d622-cf68a97a36c8-1000/ali-ghodsi-databricks.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Databricks Acquires MosaicML, a Generative AI Startup, in a $1.3 Billion Deal"
     excerpt: "Databricks has announced its acquisition of MosaicML, a San Francisco-based generative artificial intelligence startup, for $1.3 billion"
     publishedDateTime: 2023-06-27T06:57:00Z
@@ -219,15 +191,6 @@ related:
         width: 2758
         height: 1672
         isCached: true
-  - title: "Databricks acquires generative AI startup MosaicML for US$1.3 bil"
-    excerpt: "MosaicML is a generative AI platform known for its state-of-the-art MPT (or MosaicML pre-trained transformer) large language models (LLMs). The platform has over 3.3 million downloads of MPT-7B and released MPT-30B, a more powerful version of one of its open-source models on June 22."
-    publishedDateTime: 2023-06-26T19:32:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/tech/databricks-acquires-generative-ai-startup-mosaicml-us13-bil"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
   - title: "Databricks Purchases AI Startup MosaicML For $1.3 Billion"
     excerpt: "Databricks' acquisition of MosaicML for $1.3 billion is one of the most significant transactions of its kind within the AI space. The acquisition took place amidst the tech industry's growing focus on AI. As noted above, tech giants such as Google and Microsoft, along with venture capital investors, are heavily investing in AI startups​."
     publishedDateTime: 2023-06-27T19:20:00Z
@@ -264,15 +227,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 18
-  - title: "Generative AI: Databricks to Acquire MosaicML for $1.3B"
-    excerpt: "San Francisco-based data and AI startup Databricks today announced a $1.3 billion deal to acquire generative AI platform MosaicML, whose large language models (MPT-7B and MPT-30B) have more than 3.3 million downloads."
-    publishedDateTime: 2023-06-26T19:33:00Z
-    webUrl: "https://insidehpc.com/2023/06/generative-ai-databricks-to-acquire-mosaicml-for-1-3b/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
   - title: "Databricks rolls out AI assistant to help analyze business data"
     excerpt: "Databricks, a San Francisco-based startup most recently valued at $38 billion ... without using computer code. Behind the scenes, an AI system will interpret the question, fetch the needed data, read it and produce an answer. Ali Ghodsi, chief executive ..."
     publishedDateTime: 2023-06-28T13:33:00Z

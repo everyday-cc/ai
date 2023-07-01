@@ -43,6 +43,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Facial-recognition tech helps nab 90 snatchers during Rath Yatra in Puri"
+    excerpt: "As many as 117 phones were seized. Thousands of devotees had congregated at the seaside town for the Rath Yatra on June 20. The return car festival was celebrated on June 28 with devotees pulling the chariots of the deities back to the Jagannath Temple from another shrine, three km away."
+    publishedDateTime: 2023-07-01T11:29:00Z
+    webUrl: "https://www.telegraphindia.com/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 43
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "US facial recognition developers jockey for position in NIST accuracy testing"
     excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."
     publishedDateTime: 2023-06-29T18:45:00Z
@@ -62,6 +78,6 @@ related:
       domain: indiatimes.com
     quality: 12
 
-secured: "3VgkhbCmkmxwfWIucb0+hw8eYF3L+fM1RQaLuB4kALDvWdtPOWDX2BA+etnMcE3lkIItZtMr3MYFV5nrpeqw0MgfaUfLo8QUUlnlxTuvvyAcCaB649LO994rrub3B+NokJ7rSHiI6dCKgenwFDQGpV3QVRqk6eQLF3lB266vMbs2L9I/OVbPfgvA0tATA7vE4IRi1xURJvg4pXFMTVUUIybKNbhZLV2lKRNvG9GVY7WLx+2gS+IkozHsPaMaRmIHw8Jgc2pF18L3wlPwy8NfIOLug0x75GAe9syfcYOfmW946av6ub2Nk0u9opokHGMEpDsNTuG220OK8fv9pvpiOalS0UfBlSCChIBqJGuYdBo=;XzGEcqn7nh4NQ64bylM8TQ=="
+secured: "QUH3lOCsKrdVJSyWXGTqa8wWm5ZEp/RMDkemnfSmeF8XuDVrV3+30P24OHDVWROE2SDMJ3n8ztQpAlhXj4iKpaVpUxkTGo6s5gn0zqYzCM/3phaz5PO/d82A354ylaPU92VH3c0QxXBAq0a9+2u/pVPndeh4I5R1GwJCJzMrjGthJjPb6P2C779vugDZesH0E8/HPWf7DXjAIFKDm1gO/9OO36iAoMgc9Nmrz1nDz3i0E0M0B8ewY96wTmKeAEk5R9J3751aiLhBDGq9VWZD7xOp8p53MzJ1IKa8eopJY0CqDWHvpjmGCv+toMVi3dKC6hfQXxpL5JQCly9wOA/+R1RhW1uGn6gXxfCnzy+/Q2l/1vO/Foi+/t77LW04ctJRaFUBNbnBIJXRYh3qPQ2iPovyo8E0I1h1syZcQCQ3HRNhz2QRTrLTrTTrHH6wxl/LTXGRXjzDBc2M+gW9N+8BdbibT1WOG23rgGmEqmU2kEHDtiL2iQ6XhapNBUZ/kGWCKqpJdXq/p0ekH3q4rJdtPQ==;MJj08iJMq5u/48a5Uh0Asg=="
 ---
 

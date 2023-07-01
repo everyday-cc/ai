@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Considers New Curbs on AI Chip Exports to China"
-excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao The Biden ..."
-publishedDateTime: 2023-06-28T09:35:00Z
-originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
-webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
+excerpt: "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon development and hacking."
+publishedDateTime: 2023-06-28T13:23:00Z
+originalUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
+webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
 type: article
 quality: 84
 heat: -1
@@ -563,6 +563,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Potential US Export Restrictions on AI Chips Shake Tech Market"
+    excerpt: "The Biden administration is reportedly contemplating new restrictions on the export of artificial intelligence-related semiconductors to China, stirring anxiety among leading chipmakers like Nvidia and AMD."
+    publishedDateTime: 2023-06-29T14:00:00Z
+    webUrl: "https://www.unite.ai/potential-us-export-restrictions-on-ai-chips-shake-tech-market/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
   - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
     excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
     publishedDateTime: 2023-06-29T13:11:00Z
@@ -600,6 +609,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "5IG0Pbyds180aBo0O3YoLginFRxdPlMuMw63CyzwB89GCjEXfZoOOzTOIXk97/mlaTzG3ZrhP3IULbTszT0yErx/+WfZ7bWknP8Iq0WkBC7ioEYtmKABD/yQDCSidcxL9idWq/9nA+jijmk69h2ZJK9plZ5feWCTiI8mZ3MlN7QnBBNe1Sm6P7BH+IQNCOiBCjf7evkRqohJ5p2BW46A6ywXCmKOwilcAo4VbH7t7P/9ALK9whYUtDLsPXKUvQEIc5EV2Z1Jm7oXw2IYTmjLqqGGFvfGOiSGkp/Dr532UkbhlTgDA3JsiwTDp02I7guzqcQe9Me8yGlk1octhdvJYF63T0oWgZ6pzd1IivQ/h7I=;um5GMZfp8Ves/rjcb/yYPA=="
+secured: "DRjq2gKlJey+oRRekgaQ0Xnd7LpESsF2BFSzjFk9G+e0xstbeB7gQl9QcJTRyY1w4EOhVRZFvhxRn6JiEhR6yGDguEX/ZkxCH7EE19HlTS0RPZ12pu160WYktm1KrzYaOtAnKEyem+JOlu03qKmeslUcfjTr/C6puMqqRwBuGneNqj3OKgVUMUjiiTZwpMIeNs1eBHAVx931INejSJJRuxybUN0IT6A9WvyL4/TmjV8zAFATeF2QNkAyG2AvC2WBWzrmVa7T1ogAUM06zCR86ALIwz+FGlVqixf1HlJOpQyRL9vyRoymgl4ypxszj4A/BVcIDsXqAVZMY3tWk4fqfl7GeJZN0wqvAmjpKXl7L0o=;LCog7NGBxe7aSWRHmwTC4g=="
 ---
 

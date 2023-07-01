@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/7/2023_7$largeimg_163952569.JPG"
         width: 600
         height: 400
+        isCached: true
+  - title: "Facial-recognition tech helps nab 90 snatchers during Rath Yatra in Puri"
+    excerpt: "As many as 117 phones were seized. Thousands of devotees had congregated at the seaside town for the Rath Yatra on June 20. The return car festival was celebrated on June 28 with devotees pulling the chariots of the deities back to the Jagannath Temple from another shrine, three km away."
+    publishedDateTime: 2023-07-01T11:29:00Z
+    webUrl: "https://www.telegraphindia.com/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 43
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "US facial recognition developers jockey for position in NIST accuracy testing"
     excerpt: "U.S. developers do not appear among the first seven algorithms of the leaderboard for the Face Recognition Vendor Test for verification."

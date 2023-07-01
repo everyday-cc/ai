@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/06/29/using-ai-in-your-business-though
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/29/using-ai-in-your-business-thought-leaders-explain-the-best-ways-in-kenan-institute-qa/?amp=1"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 948
     height: 532
     isCached: true
+
+related:
+  - title: "Why business leaders must tackle ethical considerations as AI becomes ubiquitous"
+    excerpt: "Technology will only continue to evolve, so it is essential that we remain vigilant and keep ethical AI top of mind."
+    publishedDateTime: 2023-07-01T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/why-business-leaders-must-tackle-ethical-considerations-as-ai-becomes-ubiquitous/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/business-meeting.GettyImages-1130939432.jpg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "3T9G484n6tNtrq125T3gaFyThjGSUEAGQyhTxffoej5QaGRj8UVoqMNx8gRfSOVnNMiqK6KQtopgiNIqigxMR/1o0pmae0VoOV0CKjHO/VmWzAUWdRRFOyDbcwsiVITsnhEke4+pj5knckYWGGnRR78OggHnN/EHz/cskVtWEudvY6C3krDfkIB08AvyLVqwVgqkrHfU6gMvAnFewpyChVhl3rFLIdMaH09DqR+IN9OfUh5Wq8FEQf5qKc1d/lEqgVX91DThLNegmgEf/Rz9LP5lQ44uTM2/J+Nctidk9KbULKrDTUEAI+tVN4rNCGpvntvxFaJJamniGwf7P7NFEebNC8JpclvM+AlxlwhqCLPFNXVGXvSze0A9bW1TaOkkxp9bfiA5gEOD4TdZZ0KQqIuVHw/qn5e4Pu75C7bjrc0ogGF3QAEuApbLMiqmTqBcpAIs6kmYNArKGk7ypomx+/ZGwWLXWqoBALX/sFeer3+6BxbMcgEyNhXXJcX2Rp+ks2ke0C/GW3NOkDkEHZtNNQ==;0d4krwJrPP/ndkVwEAjqAQ=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What are the best ways to use generative AI in the workplace?"
-    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
-    publishedDateTime: 2023-06-26T21:05:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "YDmg5an/gMksvCdCMtJSrmDGYbWAyNia1U3FfJoWLqVaNMcrYiKpFGA+shsc17dRQTxOGfBUyJB16GRYrjdSkaP926C5ufMnAaPzaFlL7nHWevuotRc3CXjzqpQ59l2q6frjSHwriusqrlY3skjmqJQiqvjGeDa/j9HzP8tCZW5QvmeoxgdqHjk9GXlez8mJIIFNRhxCZS1uBwVhYFEBPEUn2Al2BuGP6tLx7QANvCzAvqrjlzmfpEEaFHZk6gYpuhFEilldInyW/w5sZ/ZxHolCn8phL4XmYsqsz9SGKGgQiGy5k/hDhLRVWoa9jYPW+Yw/d8pPK46ANQEpN93DdgQH/HeTunwEtxv3/pLoauU=;RbpFLgLZ3IbimcKh32M/Bg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massiv
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 818
     isCached: true
-
-related:
-  - title: "Stability AI Head of Research Resigns From Startup"
-    excerpt: "At least two high-profile people have left the artificial intelligence startup in recent weeks. Stability AI, the closely watched artificial intelligence startup, has lost at least two top executives in recent weeks, including its head of research and chief operating officer."
-    publishedDateTime: 2023-06-26T22:22:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXreZVrCiv0Q/v0/1200x798.jpg"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "8NX40Tf09ghbZjLP7vQfN9oYG0HupWkFsyBm5GFZKgbXVhLSpH7fxK9OJt/725IJml6fufN6A4GjpOG93iw/7JGxwPFbBxmHigeXmihVli89wfXVT4AyN1Tj+yX7V+3XNhhh7POuXQndYP+SCnEJrRWAEllvMsxMOM3D9ZJFjcGX2g7pWxXdoamnYLjUEz5qB+Ftnj2leycVjJQnRhjcpJrKWF5N0HzZt1jKqzIYxCMegq0ci2xr4Re68zoEJWjOQJlMlwF5X/6N8OODbAfKPcRZ7/zf3KdK34KHt4TRmInXQwSeb5poupNycyEqYHVAZkkWE+T+YmwnfcL4xP3GoZAwFgwlODWAW8xCOxwCrTYmSoJ+1aXPhhWLmMT5CFm7LP9ioDVKuNg1v5cpqV5fwGkBGAQYbmR2ZxcZ9oHISYefnQoDTZvTuhSU7amxXSe9DqId64cDqxYhxuX8u5jLSWZnDm3L3poNh4xdeX3kI9s8Qqgs0kZE2LctYm5wiM24mgIs3cE5MmYkZg3rZoFDDw==;pp+WidkNhACWq4S2D98dxw=="
 ---

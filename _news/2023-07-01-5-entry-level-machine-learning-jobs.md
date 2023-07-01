@@ -8,8 +8,8 @@ webUrl: "https://cointelegraph.com/news/5-entry-level-machine-learning-jobs"
 ampWebUrl: "https://cointelegraph.com/news/5-entry-level-machine-learning-jobs/amp"
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-entry-level-machine-learning-jobs/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/2ca76d22-1f2e-4a92-b954-54762b0c9419.jpg"

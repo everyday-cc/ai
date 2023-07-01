@@ -51,6 +51,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facial-recognition tech helps nab 90 snatchers during Rath Yatra in Puri"
+    excerpt: "As many as 117 phones were seized. Thousands of devotees had congregated at the seaside town for the Rath Yatra on June 20. The return car festival was celebrated on June 28 with devotees pulling the chariots of the deities back to the Jagannath Temple from another shrine, three km away."
+    publishedDateTime: 2023-07-01T11:29:00Z
+    webUrl: "https://www.telegraphindia.com/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/facial-recognition-tech-helps-nab-90-snatchers-during-rath-yatra-in-puri/cid/1949087"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 43
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Jun/1687088023_rath-yatra.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Tech boost to policing as facial recognition cameras keep track of criminals in Puri"
     excerpt: "In a first in Odisha, the Puri police have introduced a facial recognition technology to track the movement of habitual offenders. Based on the feedb"
     publishedDateTime: 2023-06-30T17:57:00Z

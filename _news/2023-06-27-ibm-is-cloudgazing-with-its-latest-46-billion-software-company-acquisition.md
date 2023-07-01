@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2023/06/27/ibm-is-cloudgazing-wit
 webUrl: "https://www.forbes.com/sites/qai/2023/06/27/ibm-is-cloudgazing-with-its-latest-46-billion-software-company-acquisition/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services"
-    excerpt: "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year."
-    publishedDateTime: 2023-06-26T22:05:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/Apptio_Newsroom_Banner_1920x720.jpeg"
-        width: 1343
-        height: 712
-        isCached: true
   - title: "IBM will buy software company Apptio for $4.6 billion"
     excerpt: "IBM will buy software company Apptio for $4.6 billion, marking the seventh acquisition this year as Chief Executive Officer Arvind Krishna pushes the company's transformation into a hybrid-cloud and artificial intelligence business."
     publishedDateTime: 2023-06-26T23:38:00Z

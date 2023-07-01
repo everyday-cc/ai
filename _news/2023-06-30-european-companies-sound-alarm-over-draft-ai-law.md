@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
+    excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."
+    publishedDateTime: 2023-06-30T19:57:00Z
+    webUrl: "https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 33
 
 secured: "KddJ8eD6QnbsXg6FnPNMcSQpFWxD/A8vzuwGF4pHXHbfodzi7wjEDEiYewFuaA/q9jeVeXA65OAhjzDdz5Fb3H6P3QG86VJxqbUPFKwxIIP2lY4mUv3hmbciXhJ2W3DGOgoUU/MtKN5R+2iJ8TM8wxhVgBAYQ49X1PmlOS5b3xbi7z/bwfBTz9Qg8fgoDlScIWtvH2/PDhJqYOeisZzHoq4C3QzXXxNJMDY/mhLainCbZvLc+n4BrXsdcIbuKULB+r6XlNj+hynBG1HovaolUk8keTUFkocmgWPOrNt7QHiXF33u1TZJ1RbI+JUH/Z+buYkPlYKbigksSJjVGu9JB9ztDr+qtE2chLAgwpNJgL+NF8HqQY96MAl0onXAQ2OIgboXG7DVmu/3L33kB8WN1JTOeYN3wwfxipcWSzT/vcFSYUieA6idLzoQ8iniSxSeCaL+qCEi5pBSqkkIToP4OyrOZqjXHg2AmVdFc1xDxU0J17ruiTFhViAHuCKa1QHfDvbLsUz588VqO3Ku6u8WMQ==;o5xoUQdqRI9YX0NujRXzcA=="
 ---

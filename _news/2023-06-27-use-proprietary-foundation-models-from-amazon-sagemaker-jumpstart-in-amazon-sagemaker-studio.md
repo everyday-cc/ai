@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK"
-    excerpt: "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas"
-    publishedDateTime: 2023-06-26T20:42:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 94
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg"
-        width: 1023
-        height: 507
-        isCached: true
   - title: "Democratize computer vision defect detection for manufacturing quality using no-code machine learning with Amazon SageMaker Canvas"
     excerpt: "Cost of poor quality is top of mind for manufacturers. Quality defects increase scrap and rework costs, decrease throughput, and can impact customers and company reputation. Quality inspection on the production line is crucial for maintaining quality standards. In many cases, human visual inspection"
     publishedDateTime: 2023-06-30T16:41:52Z
@@ -92,6 +78,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/interatively-fine-tune-falcon-40b-sagemaker-1.jpg"
         width: 1020
         height: 512
+        isCached: true
+  - title: "AI is making smart manufacturing faster, greener, virtual — and more real"
+    excerpt: "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution."
+    publishedDateTime: 2023-06-28T13:50:00Z
+    webUrl: "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AdobeStock_596539467_Preview.jpeg?w=1200&strip=all"
+        width: 1000
+        height: 560
         isCached: true
 
 secured: "2K8s5owV7MmNARVUmc8amngE4+hLj9LoqQt7QrHNTAX2LQ04eZu0HISShxaEbES8fKFFdJjqav/GJ+xz5WoLNLcLrZesCoGp4wcOnzj80N495wn4e34KABJdptUYxUSMx8r6OczDhzvyQZJg7ZL7ju4Ko0xhOn26UIYsUM6ljqSN8Q/4dfv0/K9lJp0F4ZpiMRk1Ro9LG2/I4oUcfAHmzN/Gdu9JHBFj2R3H0dMSw8a2Hr1FRWMCtnb2iaS3XuTmzGfJemA+mDh82LqcIkSrlNlw44k+Nsg8WjbTOB4qtVZZSYJUEGCQuDE+JPi8SN1N4L9Q2Rfo2JXIw9O7509iKiN9ePVxS+5z9vytcqjR21g=;qPKFFAdc5ZebUxuNjhTMUQ=="

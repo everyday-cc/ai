@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services"
-    excerpt: "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year."
-    publishedDateTime: 2023-06-26T22:05:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-acquires-apptio/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/Apptio_Newsroom_Banner_1920x720.jpeg"
-        width: 1343
-        height: 712
-        isCached: true
   - title: "IBM Is Cloudgazing With Its Latest $4.6 Billion Software Company Acquisition"
     excerpt: "The acquisition news was a rare glimmer of hope for IBM’s share price, given the stock has had a gloomy 2023 so far."
     publishedDateTime: 2023-06-27T13:37:00Z

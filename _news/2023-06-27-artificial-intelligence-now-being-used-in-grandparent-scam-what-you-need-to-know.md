@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence now being used in Grandparent Scam. What you need to know"
 excerpt: "In a new twist, artificial intelligence is now being used to clone grandkids' voices in the Grandparent Scam. Here's how to protect yourself."
 publishedDateTime: 2023-06-27T12:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
-webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/"
+originalUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?gnt-cfr=1"
+webUrl: "https://www.usatoday.com/story/news/nation/2023/06/27/artificial-intelligence-grandparent-scam-what-to-know/70358750007/?gnt-cfr=1"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Age of AI: Everything you need to know about artificial intelligence"
@@ -82,6 +83,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Meta Uses AI to Organize Your Feeds. Now It's Telling You How"
+    excerpt: "The company uses AI that incorporates your \"feedback\" (how you engage with content by liking, sharing or commenting on it) to refine which posts it serves up to you via your social feeds. In theory, this means that it should deliver content tailored to your own interests and preferences -- but that doesn't mean it always gets it right."
+    publishedDateTime: 2023-07-01T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/meta-uses-ai-to-organize-your-feeds-now-its-telling-you-how/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Developing Litigation Issues - The Age of AI"
     excerpt: "The seventh Webinar in the “Age of AI” series focused on the risk factors at the intersection of litigation and AI. The presenters started with a brief background on AI and the practice of"
     publishedDateTime: 2023-06-30T20:50:00Z
@@ -96,16 +106,7 @@ related:
         width: 500
         height: 278
         isCached: true
-  - title: "Everything You Need to Know About AI but Were Too Afraid to Ask | VIDEOs"
-    excerpt: "Love it or hate it, everyone is paying attention to artificial intelligence/AI right now. Here’s everything you need to know to keep up."
-    publishedDateTime: 2023-06-26T19:18:00Z
-    webUrl: "https://eurweb.com/2023/everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask-videos/"
-    type: article
-    provider:
-      name: EURweb
-      domain: eurweb.com
-    quality: 18
 
-secured: "0iY4kb7fG2rNX3ikCJLgqtwx4SsnMrL21CZ1jED1B6lLPFjTZc+IsWXXfZU66jFbKKp6AOIFnsoTUtEXO1C2wonKLVnaDA6wB/l5mYdPdTwjiWh49TI8Tti9Zh0r9mWmx4/W/juToOZg140+gY7zh2gz3q0krvBWZsqMYWclTvuZz70M0dY+ZNkcWiVlMA7jWWqK8PnAPJ5xaHv08p+8y3Y7l4XdJN5lzjVLKWNZHzW2A0GAxwD6TmdWDgKUsZSQ0X57Ja4s1y8fps1CLUgIXMv5clfFf058bUryxAVEoBvlP6ySLkPuJTIpneewRvjGt5DkIeMNG753eLcH6PWvdCJgWyt1TRbFtPlPgumtxSJj2FD3fmolD5o1EZSHDmcVkNcMFuLczODL7YzOVVsNgPneYophDanoafUTwze4Ii1fAYMDbiBiOxczeSUnBzgLF3Q3HRg9mKujCQX9LIT752Mv3qeZl2VNAY22Jo4ic8mzKA3UH7AvyiaZ8GiffZgcPDLTj5gwACRCQf9+bTmQhA==;+RB9rGf/7Kt6X0Oq6GYUrw=="
+secured: "tmmpGv5zf1TzeQTF/aGrREU6pDWK+gLF95rad58CAY5Ky4AOBop2pHz7Br0+s+kpwS6QZzI3uPkiFDR/6ZpGroILdDKytDA8ea/yzTcyZjuBFgXIwJFCGKESBZuhxCkcsxnMxKPhiv9Z401MHFxSvvV8JQHukfZkmskTG0nPhmOQm2zxFyzBcBha7tRQhJHZrKI6dPL2blMla6+5QpEEDSOwhbIBOfZhKlsxUjgQjZdkEnqY4AVgifnaUCbJTz6wo6JQ4HoWoP5hbI/hAHKcLbKkos39wCUUkL6gcj8UUv8t7UH39NMa3JTtmxbTub1It2Q82ZKKZXH4HyLOw1QNK5649Aex0nkJWkglFe1m+oHIf+brtZ3ogEg50heaZ3AaLOLEDQL6znq5F0TyJzdSEvg2bIs7XOdxmEfusRgIZ2KAXBBbCQHVZ616sJN+MsGNvBDeNVud3pnIo4ktaq6G1FV6YzLuZZp3kAZIH1TRKx9Rw5sa6lmd6Rqc2sw+jBAA5kbav0DN+AOMZZYeNGHPcw==;b4MjbBmZj22bmJTLVDmekg=="
 ---
 

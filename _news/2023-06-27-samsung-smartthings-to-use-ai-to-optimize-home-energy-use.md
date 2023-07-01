@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/home-and-office/sustainability/samsung-smart
 webUrl: "https://www.zdnet.com/home-and-office/sustainability/samsung-smartthings-to-use-ai-to-optimize-home-energy-use/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Samsung to mass produce HBM chips for AI, competing with SK Hynix"
-    excerpt: "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market."
-    publishedDateTime: 2023-06-26T19:57:00Z
-    webUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/06/Samsung-Headquarter.jpg"
-        width: 1210
-        height: 765
-        isCached: true
 
 secured: "EJrF4tPnPgzi1MLrNvvFHaaz6lpDc49LUv8emMHb7CFwIQe2U5I9fGq3Qwymkg9mLT+1zx0hCY8JPStbVc+Lr6BO8js/HuwRykhPLuhsZSp4xkEzYM/yhTCpBV//wZfbp+ezIzURZfRJFPKWZ62jt462g3OTPyAP5/RoedLuiQns5BEECEBDk3TduCkjSkyWPiqadWNAXlJkJDJnGJXOOcqO3VWpxXBTzKslSbAPgZG+S1VUYeChK58Vqn6bsPfCs7DaKDGO3ZFJBSUuqyxBUXeAlzQZxJa8KtpoBLiWR8ZUJSC/DTmTwoTDlRhRyWJrsWUMjsz4AGHpOfwoa8Wcrqy0jsBi1NQjYKt9hpvQYLFMZ9+oQnn1L98Sg+dx68VP/1e0RNh/pIp5eIa9DBVE+ggVvD4XO+PUKgnM9ztrtrSGvRg+QQGDT4cDG5GEKn1jUbqXyRkys04aOlbtgRZig+WLhYbBuWt7L4cl7Wy/+OqcLh5ZoQJMA9MVrnfTKqJHz66S57w+H4TFKj5ujJw9ww==;C84Tu7zu/ms0Mcn6hfeYxQ=="
 ---

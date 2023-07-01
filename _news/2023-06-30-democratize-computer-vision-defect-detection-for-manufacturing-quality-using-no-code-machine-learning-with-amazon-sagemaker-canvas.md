@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer
 webUrl: "https://aws.amazon.com/blogs/machine-learning/democratize-computer-vision-defect-detection-for-manufacturing-quality-using-no-code-machine-learning-with-amazon-sagemaker-canvas/"
 type: article
 quality: 93
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: AWS
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK"
-    excerpt: "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas"
-    publishedDateTime: 2023-06-26T20:42:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 94
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/define-customized-permissions.jpg"
-        width: 1023
-        height: 507
-        isCached: true
   - title: "Capture public health insights more quickly with no-code machine learning using Amazon SageMaker Canvas"
     excerpt: "Public health organizations have a wealth of data about different types of diseases, health trends, and risk factors. Their staff has long used statistical models and regression analyses to make important decisions such as targeting populations with the highest risk factors for a disease with therapeutics,"
     publishedDateTime: 2023-06-28T16:12:30Z
@@ -86,6 +72,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/29/interatively-fine-tune-falcon-40b-sagemaker-1.jpg"
         width: 1020
         height: 512
+        isCached: true
+  - title: "AI is making smart manufacturing faster, greener, virtual — and more real"
+    excerpt: "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution."
+    publishedDateTime: 2023-06-28T13:50:00Z
+    webUrl: "https://venturebeat.com/ai/ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AdobeStock_596539467_Preview.jpeg?w=1200&strip=all"
+        width: 1000
+        height: 560
         isCached: true
   - title: "Use proprietary foundation models from Amazon SageMaker JumpStart in Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker JumpStart is a machine learning (ML) hub that can help you accelerate your ML journey. With SageMaker JumpStart, you can discover and deploy publicly available and proprietary foundation models to dedicated Amazon SageMaker instances for your generative AI applications. SageMaker JumpStart"

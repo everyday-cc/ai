@@ -53,20 +53,6 @@ related:
         width: 2000
         height: 1124
         isCached: true
-  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
-    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
-    publishedDateTime: 2023-06-26T22:00:00Z
-    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "FqYqB/P/bH3l2SNoaglQksf24DT5RJFkp06Yr/wj4oaMnUPC2+8UHJ8Ly7QAtPZ/B+gSyW3GQE8BlCkx+zFET4Mz2uJUkD+zu7W34jeQ0fVZsoJTkezudd3LPV+GcGODY6wRhZQXMeMwTgPxqL3zgVZn3TR+AmSN4i3IW+PqV0Wo2w24eCTNi9Ma6gSZSfS6Mdh202MtkQrKBykhXLprhYsVp7b/XZoTHdOPdc8tw+xAcErGDSv0LRfQ8/9mKljsTS0xMB5Nb3K43h0jdCZoMyhch9/i6iyZyVRtZ8aMdicvFo5hYmyJ1fvd6FvR9tDSpwYIHclzsnXKzkzbswMFNJttVDg6ZR+dO6vK+TjdFT3V1H49uG3QEHSEbDeCuL8bBr80HOj09xF9ayXOs8YLuDOf55p0lDgnuuzD4xleAFln55f32wFTgwaWN0ShoTny5iUE0M80YvfHc6dsTCFCxczmyXrp9lQhfkzFfFn8THg82NwuyRqVLMJx10xOP5rT0HIeThbTK2hYlYGt0k0Slg==;0m70EV4qJfyMyFTKNpf9Fg=="
 ---

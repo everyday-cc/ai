@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-s
 webUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
         width: 2000
         height: 1124
-        isCached: true
-  - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
-    excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."
-    publishedDateTime: 2023-06-26T22:00:00Z
-    webUrl: "https://www.biometricupdate.com/202306/even-accurate-and-unbiased-facial-recognition-brings-privacy-cost-harms-groups-say"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
         isCached: true
 
 secured: "E4rnPw3lspEnd3/Ah84pHfrbSgkl3NTpdqTwALNJhh3YDXzUVpRmnJVgAl/tktv75DZLkaEZWv6F2JqPUfV5P5e03CI1uFF6Ab2XqNnKhTC62+IbSFKBC/TR/evSk/fqFxK6/BlJFfekbK14ZhC9itxb7iTIs3zzJb+BTAgn/c+YQg/if7+1+U72Hw3itSnuQWWH+5tJN7sG0tb2WD3x4JdgpiwdcbRHsOS6DolxFQqsizv7twwVQQ22Idsci9IDnOv+BCyNyNQAtpwhFYJbUWkRzVCGYQo1BIgNdXomO3shIw/cXmls5DwoFcu8X0mFAKm3ZYrioVdLuK57pv/ykICt+zysg4ZPXBCM15uY3eMPgwh//aZuedOl1nmfgK9tkZrzHYxrqRgj89y6KgfOcgQgSVs237lHTn7paI8xuVktHMV4h29WjRtjxzNTQ+6NZbV4zZTwiclxixYy/OlFkN2yzm9JB6T2ph1a0Iou+eGHz33di7T9HVYE7UPNkem9fOcdVVJsyaHgc2H8oLemKw==;q+bcowUSwxh4tzbFtxRTDQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boyc
 webUrl: "https://completemusicupdate.com/article/100-artists-pledge-to-boycott-venues-that-employ-facial-recognition-technology/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Over 100 artists pledge to boycott venues that use facial recognition"
-    excerpt: "Over 100 artists have boycotted a number of venues that use facial recognition at gigs, including Madison Square Garden. Artists to sign the boycott include Bedouine, Boots Riley, Wheatus and Deerhoof."
-    publishedDateTime: 2023-06-26T20:12:00Z
-    webUrl: "https://faroutmagazine.co.uk/over-100-artists-pledge-to-boycott-venues-that-use-facial-recognition/"
-    type: article
-    provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 41
-    images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/1/2021/05/Live-music-concert.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "100+ artists sign pledge to boycott venues that use facial recognition technology"
     excerpt: "More than 100 artists, including guitarist Tom Morello, The Coup frontman Boots Riley, and Rage Against The Machine vocalist Zack De la Rocha, have banded together to boycott venues that use modern face scanning technologies."
     publishedDateTime: 2023-06-27T12:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-already-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What are the best ways to use generative AI in the workplace?"
-    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
-    publishedDateTime: 2023-06-26T21:05:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How artificial intelligence is dividing the world of work"
     excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
     publishedDateTime: 2023-06-30T00:01:00Z

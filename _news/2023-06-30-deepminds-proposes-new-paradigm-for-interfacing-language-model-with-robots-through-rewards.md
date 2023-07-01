@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/06/30/deepminds-proposes-new-paradigm-for-interfacing-language-model-with-robots-through-rewards/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 790
     height: 320
     isCached: true
-
-related:
-  - title: "DeepMind unveils self-training RoboCat"
-    excerpt: "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\""
-    publishedDateTime: 2023-06-26T20:10:00Z
-    webUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html"
-    ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Tqny/Ut/GjlaqNGtZstiFH73d/n+Ebbhh0r2zLJyObYUcV2zp68l0ABQfLN/FA0fNH9uxP/+4+o1dXlGkQ9I3Y69JkvUhxhmBScsA+09a/CDWFBKwsaukU3E3nkICUcErgTpWryagQKgN4+ecPhbSVhUBoplXg6elbO/qbX9JKdBD3RrjKtEijp1cqtybMvNQ1SZpTPrXl6CmjKn317+/DA+q8wOiydi0FuRpsnZmnkhZz8PgnvRNNsHe4uXMoiatb1Fg2fPw2frs7eHpmo0VSXaRfLBcw+j5sZfvd9NBMJW/K1WS2laJyAtkBBBgOd2F7zLfOmMCprXpCJPqQO3LJ7DSjCQv6MIYWF5CwW3I3G30o0DXABBuhT26+7JkxiyPyNUH8ynXfwcJqJV6DsUfOI6Ny+YQ3Qaujid5ABYbsESJOXHh5kqg3S5qof3wOFa6NoVqNteYeFMZY6pMYA6zYvWrvv4ymzkAaF1jYsxhH1Zv+bEPZvZ9ZxGDFpcNIYQyU7a1Kckeng4zBdM+3hDNQ==;2P/Y0r95EqQ6KavhCfAahA=="
 ---

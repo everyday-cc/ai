@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 684
         height: 523
         isCached: true
-  - title: "Is ChatGPT good at translation? How to use the chatbot to translate languages"
-    excerpt: "ChatGPT excels at language-based tasks, so how well does it handle translation? We think it's worth a try, for popular languages anyway."
-    publishedDateTime: 2023-06-26T20:53:00Z
-    webUrl: "https://www.androidauthority.com/is-chatgpt-good-at-translation-3339418/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 66
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI's Teachable Moment: How ChatGPT Is Transforming the Classroom"
     excerpt: "And how do teachers, institutions and governments find room to plan for the future?"
     publishedDateTime: 2023-06-30T12:00:00Z
@@ -68,15 +54,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Congress is reportedly limiting staff use of AI models like ChatGPT"
-    excerpt: "Congress apparently has strict limits on the use of ChatGPT and similar generative AI tools. Axios claims to have obtained a memo from House of Representatives administrative chief Catherine Szpindor setting narrow conditions for the use of ChatGPT and similar large language AI models in congressional offices."
-    publishedDateTime: 2023-06-26T19:57:00Z
-    webUrl: "https://www.engadget.com/congress-is-reportedly-limiting-staff-use-of-ai-models-like-chatgpt-195454777.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "These two AI models claim to be better than ChatGPT. Here's what we know"
     excerpt: "ChatGPT was the first AI chatbot to gain massive popularity, setting the standard for all future competitors and making it the one to beat. Now, two new chatbots claim to be better than ChatGPT, and one hasn't even been released yet."
     publishedDateTime: 2023-06-27T18:01:00Z
@@ -108,6 +85,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Clippy is back as a ChatGPT-powered AI assistant for Windows 11"
+    excerpt: "An unofficial Clippy app for Windows 11 puts ChatGPT 3.5 on your desktop - here’s what you need to know about running it."
+    publishedDateTime: 2023-07-01T15:03:00Z
+    webUrl: "https://bgr.com/tech/clippy-is-back-as-a-chatgpt-powered-ai-assistant-for-windows-11/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "ChatGPT has healthcare potential but needs guardrails, surgeon says"
     excerpt: "Alan Reznik, MD, an orthopedic surgeon at Connecticut Orthopaedics in Hamden, connected with Becker's to discuss how ChatGPT and other artificial intelligence programs will evolve in healthcare. Editor's note: Responses have been lightly edited for clarity and length."

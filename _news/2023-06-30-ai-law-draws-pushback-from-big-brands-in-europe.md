@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands
 webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "European VCs and tech firms sign open letter warning against over-regulation of AI in draft EU laws"
+    excerpt: "Executives from 150 businesses highlighted the risks of tight regulation, saying the rules could threaten the ability of European companies to compete in AI."
+    publishedDateTime: 2023-06-30T19:57:00Z
+    webUrl: "https://techcrunch.com/2023/06/30/european-vcs-tech-firms-sign-open-letter-warning-against-over-regulation-of-ai-in-draft-eu-laws/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 33
   - title: "European companies sound alarm over draft AI law"
     excerpt: "EU politicians, after nearly two years of wrangling, recently agreed on the toughest set of rules on AI in the world. The draft text of the Artificial Intelligence Act will serve as the negotiating position between member states and the European Commission."
     publishedDateTime: 2023-06-30T04:00:00Z

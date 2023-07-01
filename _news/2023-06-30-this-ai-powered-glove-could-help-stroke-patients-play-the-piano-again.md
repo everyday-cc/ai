@@ -18,20 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "The AI-powered rally to start the year could broaden out in the third quarter"
-    excerpt: "Investors are wrapping up a surprisingly strong start to the year as they enter a seasonally weak period for markets."
-    publishedDateTime: 2023-06-30T13:08:00Z
-    webUrl: "https://www.cnbc.com/2023/06/30/the-ai-powered-first-half-rally-could-broaden-out-in-the-third-quarter.html"
+  - title: "The Rise Of AI-Powered Entrepreneurs"
+    excerpt: "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large."
+    publishedDateTime: 2023-06-29T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107238566-1683674471648-gettyimages-1487312741-dscf9295_2siyfzc1.jpeg?v=1688137703&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "The huge power and potential danger of AI-generated code"
+    excerpt: "Late last year, a team at Stanford University posted a research paper that looked at how using a code-generating AI assistant they built affects the quality of code that people produce. The researchers found that programmers getting AI suggestions tended to include more bugs in their final code—yet those with access to the tool tended to believe that their code was more secure."
+    publishedDateTime: 2023-06-30T16:42:00Z
+    webUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/06/the-huge-power-and-potential-danger-of-ai-generated-code/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/Screenshot-2023-06-29-at-14-19-27-The-Huge-Power-and-Potential-Danger-of-AI-Generated-Code-640x311.png"
+        width: 640
+        height: 311
+        isCached: true
+  - title: "The Huge Power and Potential Danger of AI-Generated Code"
+    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
+    publishedDateTime: 2023-06-29T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, announced the launch of its Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-06-30T11:59:00Z
+    webUrl: "https://vir.com.vn/trusting-social-brings-ai-powered-agents-to-enterprises-103145.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 19
 
 secured: "qRWvNN183yfVtX9LlONFNKBV6CfrmoBZmJtVFrEK+rXpP7DjOZlEpijZJyCSX0yx2xZOGLL4th/skoCeLlgeBOcEVaki3UBtl3G2Qbt4AmC6XlXKORtPgVpekk2D714e/R2T1uxADjG5UHsFGZlrI6mVKv2UsUMR/aogMj/KU4aKdw1QLgxU/0syypCb2El3BvMhT3v+kwXj3/At4OlvFkv2BmBrR/MR6efmYGtnAIJ3FMNzqzKyyKK/FgKVNz4cL/l8ud3FNRbZN4QvnLCXeL5JwUjOuu7IEYchAm+g4RXry1TYKnxz4i3942lJWi0UkugETtsgsqu5v47cIyMweo2RFMXMHCEol3k1jJSDwSSrQWb6zvjzkPjPc7C42Hp0JXiNaK01beskopkhgFL9FL42C4JtrFgieDZtbY5GhmfESwEbA+u/yGKlDGAX1DqkN+MkGHYtNqmE6gQNg2JmvhxfM7c2kpFTi1/vuQBvK0lmQtyWuNQVuk7bjF4GNs8olBjoIpTBl9A4olEy+5AmjQ==;vaGjG3WAIBk2HfZPatUk/g=="
 ---

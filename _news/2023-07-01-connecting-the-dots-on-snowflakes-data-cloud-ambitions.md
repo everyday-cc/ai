@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-01T01:12:00Z
 originalUrl: "https://siliconangle.com/2023/06/30/connecting-dots-snowflakes-data-cloud-ambitions/"
 webUrl: "https://siliconangle.com/2023/06/30/connecting-dots-snowflakes-data-cloud-ambitions/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/AdobeStock_106703428_Preview.jpeg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/649e548f60d84051f9324232/0x0.jpg?format=jpg&crop=3796,2530,x671,y0,safe&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI in startup fundraising"
-    excerpt: "Navigating the world of startup fundraising can often feel like walking a tightrope, balancing a compelling pitch with hard data, all while trying to predict what investors want to hear. The good news? Artificial intelligence (AI) is here to lend a helping ..."
-    publishedDateTime: 2023-06-26T21:46:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/ai-is-becoming-a-game-changer-in-startup-fundraising/453560"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1687270308-ai-startup-fundraising-0623-g1403168955.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Next-gen content farms are using AI-generated text to spin up junk websites"
     excerpt: "Major brands are paying for ads on these sites and funding the latest wave of clickbait, according to a new report."

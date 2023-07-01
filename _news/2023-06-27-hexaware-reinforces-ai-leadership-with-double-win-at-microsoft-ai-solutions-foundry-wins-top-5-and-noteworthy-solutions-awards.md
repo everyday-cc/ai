@@ -357,15 +357,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
-  - title: "Snowflake and Microsoft expand their partnership to AI, low-code, data governance"
-    excerpt: "Snowflake revealed an expanded partnership with Microsoft. The collaboration will facilitate the integration of new products in areas such as AI, low code/no code application development, and data governance."
-    publishedDateTime: 2023-06-26T19:11:00Z
-    webUrl: "https://sdtimes.com/msft/snowflake-and-microsoft-expand-their-partnership-to-ai-low-code-data-governance/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 59
   - title: "Microsoft AI Will Help You Shop on Bing and Edge With Buying Guides, Reviews, Price Match"
     excerpt: "Here's how to use new AI-infused tools for Microsoft's browser and search engine to shop till you drop online."
     publishedDateTime: 2023-06-30T18:50:00Z
@@ -388,20 +379,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2021/11/Snowflake.jpg"
         width: 1500
         height: 800
-        isCached: true
-  - title: "Snowflake and Microsoft expand partnership with focus on AI"
-    excerpt: "As part of their expanded partnership, Snowflake and Microsoft are working on an integration that will make it easier to use Azure OpenAI Service with records stored in the former company’s cloud data platform. There are a number of ways enterprises can use such records in their AI projects."
-    publishedDateTime: 2023-06-26T21:33:00Z
-    webUrl: "https://siliconangle.com/2023/06/26/snowflake-microsoft-expand-partnership-focus-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/snowflake-1.png"
-        width: 933
-        height: 520
         isCached: true
   - title: "Rubrik integrates zero trust platform with Microsofts generative AI"
     excerpt: "Rubrik and Microsoft will collaborate on integrating generative AI functionality into the Rubrik Security Cloud platform. This should help security"
@@ -721,15 +698,15 @@ related:
       name: Channel Buzz
       domain: channelbuzz.ca
     quality: 26
-  - title: "Pocket HRMS recognized as a Noteworthy AI Solution in Microsoft AI Solution Foundry Program"
-    excerpt: "\"We are equally thrilled and humbled by the recognition at Microsoft AI Solution Foundry. I dedicate this award to the development, technical, and functional teams for setting new standards in the HRMS and Payroll Software domain for being the pioneers in utilizing Microsoft Azure AI effectively,"
-    publishedDateTime: 2023-06-26T20:39:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230626/4093122.html"
+  - title: "Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities"
+    excerpt: "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load ... Subscribe for free. Microsoft continues to prioritize the development of cloud services that align with US regulatory ..."
+    publishedDateTime: 2023-06-30T09:30:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/azure-openai-government-agencies/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 24
+      name: InfoQ
+      domain: infoq.com
+    quality: 26
   - title: "Moody’s and Microsoft Announce Partnership for Innovative AI-Based Research and Risk Analysis"
     excerpt: "Built on a combination of Moody’s robust data and analytical capabilities and the power and scale of Microsoft Azure OpenAI Service, the partnership creates innovative offerings that enhance insights into corporate intelligence and risk assessment,"
     publishedDateTime: 2023-06-29T18:35:00Z

@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Would you leave grandma with a companion robot? Care bots and robot pets find favor in Pacific NW"
+    excerpt: "Twenty grandmas and grandpas on the Washington coast joined a pilot project that is trialing how artificial intelligence-driven companion robots could reduce loneliness and social isolation among seniors —especially those living alone."
+    publishedDateTime: 2023-07-01T14:08:00Z
+    webUrl: "https://www.ijpr.org/science-technology/2023-07-01/would-you-leave-grandma-with-a-companion-robot-care-bots-and-robot-pets-find-favor-in-pacific-nw"
+    type: article
+    provider:
+      name: Jefferson Public Radio
+      domain: ijpr.org
+    quality: 26
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/33f900b/2147483647/strip/true/crop/3984x2092+0+282/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2F58%2F65%2Ff411a0294dc896d4e05587f50142%2F062723tb-jan-worrell-and-her-elliq.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CDJv1r5bOzPv2q+qLVFx8ALUv5Tds2UMUdCG3lh1VoS38Npw8/+X1Vqjs8e8xCmZyU/zsG5gWZtmxz/NutL8K/tG1/3xvMmA4wB2Qpm1Kmq6qKx1yRbNXKyTL/q185nK01qQxk97TXZ7AZ8Hf3pEtNP3B7eo9qba2GxOPyznllhD0JrRBljX6F08A+r06a1zerq6YU31S4bFBp2rDCiahEFhdFCNcD/YHyiDTMoMjrGFIopu9XZWwq80kEvnY5cv4oqDaZPYUV5rBWq47SWqNTjkCvu6ABmZ961L5qHbEkxMlwsyfZErPYfnGkO5Jh6FlFnuCc5ii5x/WoZBxoa46ypTg0ies449bvq24P9Q+Zct2o/Yh6E+5DJKxL/7kSetIQjL+hTSRbITmDZiIhNYgfjKDvHY0ib35QIsixhbk5mJmfT33KKLP1+BmNQmPa7JIoYJkXiD9zLEqWv+JI3PYlBLZdJhJZ7lv5EueaFib9pVI7VMoR6FPSfK7yXRMa80QxbL4+ZRlU/1bN1j0lDoIA==;9TGz9uHdoH1lhgThvNTsyQ=="
 ---

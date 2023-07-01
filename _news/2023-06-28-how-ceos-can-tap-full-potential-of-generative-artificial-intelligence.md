@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "The Huge Power and Potential Danger of AI-Generated Code"
-    excerpt: "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common."
-    publishedDateTime: 2023-06-29T16:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
+  - title: "IBM Study: CEOs Embrace Generative AI as Productivity Jumps to the Top of their Agendas"
+    excerpt: "A new global study by the IBM Institute for Business Value found that nearly half of CEOs surveyed identify productivity as"
+    publishedDateTime: 2023-06-27T17:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-study-ceos-embrace-generative-ai-as-productivity-jumps-to-the-top-of-their-agendas/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: datanami.com
+      domain: datanami.com
+    quality: 31
     images:
-      - url: "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
         isCached: true
-  - title: "The Picks And Shovels Of The AI Gold Rush"
-    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
-    publishedDateTime: 2023-06-26T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "4cD0TUGQN0DKkZ7sgowPLpJ7h5+5+Xhy8mHg2fIprXqOnbFhMb1OBMEPewBwOY0dcLol8ABzQC2SqWYacOVU7ee4/B2P6IGX8gExEFfqkP7U7eICNn2zoqRJ4MGgkxYFDfBN+B85N0tcekFs04QTQmyvVzTPwhtRh6Siw7zouHZyRWC5D0UyPATSwrPSKz/xUJe+jHGhbLUBm2b/tDdcOmLL/4Dx7Q5j8xj3tb9tmdNvBPluW2knTXcUrfcxGMdJSH8M1ngiyWXNjYedK5rWWAATc3KLJwkIbI/CzrNvgk69JJELlTdBnSPeecXISPYnNT11CC9FAmlWAQ5UDVyYJ2Man1noi+CFiwkN94jG/fc=;ZlVna06dlVPDr61ExLK8jg=="
 ---

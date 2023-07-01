@@ -57,20 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Europe launches massive AI test facilities"
-    excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."
-    publishedDateTime: 2023-06-26T19:52:00Z
-    webUrl: "https://techxplore.com/news/2023-06-europe-massive-ai-facilities.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "EU to open artificial intelligence ‘crash test’ centres"
     excerpt: "The centres, which are virtual and physical, will from next year give technology providers a space to test AI and robotics in real-life settings"
     publishedDateTime: 2023-06-27T13:28:00Z

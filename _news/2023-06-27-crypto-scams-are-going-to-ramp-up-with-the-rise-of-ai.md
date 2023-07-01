@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intel
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -41,6 +41,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "How actors are losing their voices to AI"
+    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
+    publishedDateTime: 2023-07-01T13:00:00Z
+    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "l8K9mA9RQeU6cbUc6IfpNtDX5iojf15/9yD6MS5f68c+Q1vtdAadrA1clgzBlxs0CzYuXOVPFzp2PVvG498IDJnLu4zxiKZLLNEVoZzF3kQ5o5s4A5si4RaAPfnbLjSZAL8n3XdbgEBWn2bg8T1mlwPmKiKeL87AxKvamUH1xHWjnJosix3cvWzcpt8z2KwGbZftbebXD/bAL9nowWrmBtf/FpZtptdGDGgGJjFd1Xoh/VaEToS9auuDUJoOmGdcawc3d2BQdZqp35fXReD1qwKOvthdiiD/UpBce7s8/ag2GX9v1mH38NJUwHFPgZFHvdqDbyx0mEgrqHqIHNBfV4sXghzm6HJMKi0OFjag8Z8=;I8wQqpaDO68ZXWtyHD+/CQ=="
 ---

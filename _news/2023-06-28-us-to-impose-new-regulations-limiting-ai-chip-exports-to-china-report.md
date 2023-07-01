@@ -74,9 +74,9 @@ related:
         height: 900
         isCached: true
   - title: "U.S. Considers New Curbs on AI Chip Exports to China"
-    excerpt: "Chip maker Nvidia broke into the exclusive club of companies that have a $1 trillion market cap. WSJ’s Asa Fitch breaks down how Nvidia got there—and why AI is fueling the company’s rapid growth. Photo illustration: Annie Zhao The Biden ..."
-    publishedDateTime: 2023-06-28T09:35:00Z
-    webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb?mod=hp_lead_pos11"
+    excerpt: "Restrictions come amid concerns that China could use AI chips from Nvidia and others for weapon development and hacking."
+    publishedDateTime: 2023-06-28T13:23:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-considers-new-curbs-on-ai-chip-exports-to-china-56b17feb"
     type: article
     provider:
       name: Wall Street Journal
@@ -558,6 +558,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Potential US Export Restrictions on AI Chips Shake Tech Market"
+    excerpt: "The Biden administration is reportedly contemplating new restrictions on the export of artificial intelligence-related semiconductors to China, stirring anxiety among leading chipmakers like Nvidia and AMD."
+    publishedDateTime: 2023-06-29T14:00:00Z
+    webUrl: "https://www.unite.ai/potential-us-export-restrictions-on-ai-chips-shake-tech-market/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
     quality: 34
   - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
     excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
