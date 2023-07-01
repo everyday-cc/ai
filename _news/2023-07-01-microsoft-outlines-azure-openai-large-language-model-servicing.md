@@ -254,20 +254,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
-    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 63
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Microsoft unveils first professional certificate for generative AI skills"
     excerpt: "With the new AI Skills Initiative, people can take free online training via LinkedIn to learn concepts of Ai good toward a Career Essentials certificate."
     publishedDateTime: 2023-06-29T18:52:00Z
@@ -742,6 +728,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "JqRpdTd+YUhjQHJlj0+u1lvnHE1dZzmessTUYR9CrepofIfoujzoBSlI+c1YPSXk2WMLjYWjlls8PcABZ55D4q18s/IYELMyJYgYSZeewqDjzpzxnjFoeP8MXNR91t+/vG6J7bcffMKTc4HL5fzItlT3UFDLT9XFauCVueJ46RhwgiIIKkCnUtkV7A7wo5zrkFTC/ZNp5epAumy43cfWHBVBCZvb69JB+JV4LidPp4vY5ZWHUWRP540Ou5VCR0BdbrxPe8K1PjI4vjRgybCvzIseiGntminjz++6gcz9eTO7BhHZyLxg8HvVKGN7Vtjsjqs4bFWGH2nKa1NnVU7y2TFSSb93fXhVTi/1NXb12Bw=;58pm77lnQwvtv2oBHNNjAA=="
+secured: "L9+Og46Tkefn+Xaw7w/JoDQuw1Put7Hc2XF9n0oDOQ6fByK3Gwc+/cD+n8bH3ZrJ6YM0dC6sL7k0aYmstpMoGPMymUCraO+5ip9AVi/0zD9MZiwsZ5hvLXDEmmcMwaf+wvs5So9H1GxLNEyXwsJW8X+6zchNjmS8ofrzdcxrIApef3zLA8DP3xUz+CAhRSg36xCrgd1r80H/Ij95KPBksCKw9zhEiBKTsO1M2aF/CL61+zyzgfMgEEj+yUu22RBP0NZlwAUSdLHeJNfeeqxGKpnxufc2ppzqlYJqEEoib/u39wsOsBwC8kMqLF9eFHTxmZ54gg08TCr3DmvABRp26L5Ui+1XszeCvPvmWfSojZ1NYYaWt8GXTveJOMw9UPXWIR/9dXqa15zVT5lUpR9wmR88CPJU/UGewk9sXTs6S+Edo2l92Uyt/z2yMs7tvTuvxHtkdPm2rGjUfwrUEEgZ1vm2iYx/DPGsN6YMwmZftQe2rbZDAYT8r12Fey3pCWqkY0UuMp4lLiCK2n0FukY3UQ==;LoAEVzg9iD3AsikOXQiTUw=="
 ---
 

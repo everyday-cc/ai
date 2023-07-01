@@ -416,6 +416,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-gay-rights-rulingsupreme-court-backs-web-designer-opposed-to-same-sex-marriage.md",
+      "title": "Gay Rights RulingSupreme Court Backs Web Designer Opposed to Same-Sex Marriage",
+      "excerpt": "Both Mr. Phillips and Ms. Smith have said they would serve gay people as individual clients but object to providing services for a ... President Biden signed into law a bill that would mandate federal recognition of same-sex marriage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
+      "originalUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21scotus-gayrights-polls-VERSION-cwjl/21scotus-gayrights-polls-VERSION-cwjl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-larry-ellison-says-oracle-plans-to-spend-billions-on-nvidia-gpus-even-more-on-ampere-and-amd-chips.md",
       "title": "Larry Ellison says Oracle plans to spend billions on Nvidia GPUs, even more on Ampere and AMD chips",
       "excerpt": "Oracle will spend billions of dollars to purchase Nvidia GPUs this year alone, driven by the rising demand for generative AI-based products, which require considerable hardware",
@@ -572,7 +624,7 @@
       "originalUrl": "https://www.zdnet.com/article/generative-ai-or-no-code-development-converging-but-with-caveats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -905,7 +957,7 @@
       "originalUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -959,7 +1011,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/06/30/the-top-ten-transferable-skills-into-fintech-as-of-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1240,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
-      "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
-      "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
-      "originalUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/394e3d1a-2c3c-4952-bd34-87dddb705f01/0e3d4baf-6b00-410b-9f36-9e2d4d32a45e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
-      "publishedDateTime": "2023-06-29T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

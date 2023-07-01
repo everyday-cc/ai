@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-s
 webUrl: "https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/6d127b17-e043-4f9c-b615-c71e4406815a/thumbnail/1200x630/91e71a94070a14dcd1184289cdb48e1e/c25ab25b1a0da1ad4580e18e4ba5d050.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Sheriff says facial recognition not a factor in false arrest"
+    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
+    publishedDateTime: 2023-07-01T00:00:00Z
+    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 39
+    images:
+      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
+        width: 2000
+        height: 1124
         isCached: true
   - title: "Even accurate and unbiased facial recognition brings privacy, cost harms, groups say"
     excerpt: "Demands to halt facial recognition use are not being met, or at least not quickly enough for some civil society groups and academia."

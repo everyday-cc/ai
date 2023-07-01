@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to help save a woodpecker species in decline"
-    excerpt: "Minnesota researchers are using small audio recording devices to better understand the range and population of red-headed woodpeckers. The bird has seen a precipitous population decline over several decades."
-    publishedDateTime: 2023-06-26T09:00:00Z
-    webUrl: "https://www.mprnews.org/story/2023/06/26/researchers-use-ai-to-help-save-a-woodpecker-in-decline"
+  - title: "Researchers use AI to translate 5,000 year-old tablets containing mysterious languages"
+    excerpt: "Archaeologists are taking the power of artificial intelligence and aiming it at ancient tablets that contain mysterious texts that date back 5,000 years."
+    publishedDateTime: 2023-06-26T10:44:00Z
+    webUrl: "https://www.tweaktown.com/news/92088/researchers-use-ai-to-translate-5-000-year-old-tablets-containing-mysterious-languages/index.html"
     type: article
     provider:
-      name: MPR News
-      domain: mprnews.org
-    quality: 39
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
     images:
-      - url: "https://img.apmcdn.org/5038ae18e2b8888658bf03f280e169e8ef42ff48/widescreen/5f7de2-20230621-red-headed-05-2000.jpg"
-        width: 2000
-        height: 1124
+      - url: "https://static.tweaktown.com/news/9/2/92088_156_researchers-use-ai-to-translate-5-000-year-old-tablets_full.png"
+        width: 1500
+        height: 845
         isCached: true
 
 secured: "25YwmrHi22lHD8eF7HL9EHfUdm3rdGfP6HsfdojcF2CLQLdsMzw3yP33GSlcCHo0Up0b0kc3HgrgOppr4VbVaAIOXrZd+T0+R2fGidXvnuEE4RbugpInwOuEmzUafq7R16Ezi+y3V36w01ctCnyKbuwyQZQAQde2D2N65Oa7/dIycE07ExOLGCx4lPzunS0YAnqxC/eMsQAzMhSXgUXcDHzKcumNrRrl4FTvhCyjh/Ar58ryNZnS/54EumAJdjK8DhBdae1c133AbcTe74Re6tV/a5cP/yX6eQis1rnr4QaKf4Hjg1v4Os49KYUocqbbhoQGxTLjDiSuhyYDel2Q4m+/l+qsGt7VPidUhbzUOwU=;jQdXTWPbUvn+e2fkwB04rg=="

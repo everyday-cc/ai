@@ -105,22 +105,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Google’s New AI is Amazing At Listening, Speaking, and Translating Languages"
-    excerpt: "For years, Google has been dedicated to harnessing the boundless capabilities of AI, and their most recent breakthrough is called AudioPaLM. This"
-    publishedDateTime: 2023-06-26T08:09:00Z
-    webUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/"
-    ampWebUrl: "https://propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/26/googles-new-ai-is-amazing-at-listening-speaking-and-translating-languages/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 56
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/06/google-translate-e1687765379515.jpg"
-        width: 999
-        height: 560
-        isCached: true
   - title: "Efforts to label AI content in influencer marketing are gaining steam, but industry insiders warn regulation will face hurdles"
     excerpt: "Ad agency Ogilvy launched an initiative to disclose the use of AI influencers. Creator-economy insiders discuss whether regulation is needed."
     publishedDateTime: 2023-06-29T14:59:00Z
@@ -164,22 +148,6 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Translating Japanese, finding rap rhymes: How these young Toronto-area workers are using AI"
-    excerpt: "People working in marketing, sales and music are using ChatGPT for a host of reasons. Here are ways five young people in the GTA are using it."
-    publishedDateTime: 2023-06-26T09:01:00Z
-    webUrl: "https://www.thestar.com/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/06/26/translating-japanese-finding-rap-rhymes-how-these-young-toronto-area-workers-are-using-ai.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 49
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/business/personal_finance/2023/06/26/heres-how-to-make-the-high-cost-of-groceries-pay-for-that-dream-flight/biz_rewards_smartmoney_web.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
     excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."
@@ -247,20 +215,6 @@ related:
       - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
         width: 766
         height: 524
-        isCached: true
-  - title: "Contractors, tried using Artificial Intelligence to create your CV?"
-    excerpt: "Who isn’t (I know), but I’m a big fan of Artificial Intelligence (AI) and use a range of AI tools to garner efficiencies in our business, writes Matt Craven, founder of contract work-winning advisory The CV & Interview Advisors."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://www.contractoruk.com/cv/contractors_tried_using_artificial_intelligence_create_your_cv.html"
-    type: article
-    provider:
-      name: contractoruk.com
-      domain: contractoruk.com
-    quality: 37
-    images:
-      - url: "https://www.contractoruk.com/sites/default/files/socialmedia-thumbnail.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
     excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."

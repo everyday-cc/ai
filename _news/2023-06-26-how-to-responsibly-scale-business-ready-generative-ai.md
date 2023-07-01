@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-g
 webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
 type: article
 quality: 119
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
+    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
+    publishedDateTime: 2023-07-01T00:07:00Z
+    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key"
     excerpt: "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly."
     publishedDateTime: 2023-06-30T14:41:00Z
@@ -247,7 +261,7 @@ related:
   - title: "13 Principles for Using AI Responsibly"
     excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
     publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
     type: article
     provider:
       name: Harvard Business Review

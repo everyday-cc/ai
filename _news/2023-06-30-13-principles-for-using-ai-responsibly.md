@@ -3,8 +3,8 @@ category: news
 title: "13 Principles for Using AI Responsibly"
 excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
 publishedDateTime: 2023-06-30T12:14:00Z
-originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
-webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
+webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
 type: article
 quality: 39
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
@@ -152,6 +152,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
+    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
+    publishedDateTime: 2023-07-01T00:07:00Z
+    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key"
     excerpt: "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly."
     publishedDateTime: 2023-06-30T14:41:00Z
@@ -351,6 +365,6 @@ related:
       domain: unite.ai
     quality: 19
 
-secured: "NyJRIbU/Tjf1C80ZUsXEtaTSX9KFG7BWWyR/w3l6UtR8DiatXokLXQwSPf7nCcPWvgeX50EveEcx2WEmBfrqtLE3iHPMvDCJvdj3uSeC5VgfeA4PKjOFZqeochTpRf+3+CdKjgqvXsPXTJpohpqd0jXu9BBZw/aWcCl1Yi1soNdO9Lj6M7TMIqzEwkIYqI01x/2WcYLlI6pwaXFh3AtijzU5Oy/hFfiGM5slLSxBsL5ufduP6Q6p5V2i2QAstQYi7TUmxvyiZPjfkEo0mjbAl7ZxpzozrVhw26fK0TwzFq4LnYH3V87pfFmF2L2fmBKQ0uQ079ntXqXjswh/yLCJzV5pLzm9kzo254h2PJ0nuCmIHBTQ760VPtQ1WKLRMnSgubK7iKG4hKEgzcGFH9+K2f5vNK+4lu0d+zEbv8laMV1cyET3qukdTUMQy3bV8hwefCSoSqqTp5tp5SErK8jfZwpIW4r50NlTM5TZ3JBf3GHD/pn28epSIXDI7VvVvSkABK+54GzMgks4xZtWIsOLzQ==;DuUtL0GDAIh52NT4DAZZKw=="
+secured: "ivk04z4UlZ1iLzt1zuvtQNQ0svCuTnVouhtt3pNR5td2tbsHs9nBNVtH22dZYoER4xy5efhCdEKOt2TY66Tp7d//BlRRVpTEyO+p/wWX0MWp4M8+++n17ss3i8cavbrPApmVDgLE+ceEB2V4hxT8I1aoI+muV3JKna4jRMYCRG5bk5ulZP/a7IMp5dW1G82uZFvyviDBhU4r6STye2/bDP+DueMh8e5wd359hp4xmZGxJd3deZyOiL21g8ygRGzjcsMIzPWJPuFeZclfybRCdlhv6/GMFIlm6JiHLcXpOfn6+EQcg+YEnDHLponZ7ojvI+YnPX8usIFrbzEBqFzLaqJZKxEERjkWSfjm3XxkcvY=;fN2alGgsWCmbWjgAcJP+tg=="
 ---
 

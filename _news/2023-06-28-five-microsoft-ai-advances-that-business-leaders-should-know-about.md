@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 696
+heat: 686
 published: true
 
 provider:
@@ -259,20 +259,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Accenture Partners with AWS, Google and Microsoft to Unleash Generative AI Initiatives"
-    excerpt: "Accenture has announced that it is going to partner with AWS, Google and Microsoft to accelerate the company’s abilities revolving around generative AI."
-    publishedDateTime: 2023-06-26T08:53:00Z
-    webUrl: "https://analyticsindiamag.com/accenture-partners-with-aws-google-and-microsoft-to-unleash-generative-ai-initiatives/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 63
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/Accenture-AI.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Microsoft unveils first professional certificate for generative AI skills"
     excerpt: "With the new AI Skills Initiative, people can take free online training via LinkedIn to learn concepts of Ai good toward a Career Essentials certificate."
     publishedDateTime: 2023-06-29T18:52:00Z

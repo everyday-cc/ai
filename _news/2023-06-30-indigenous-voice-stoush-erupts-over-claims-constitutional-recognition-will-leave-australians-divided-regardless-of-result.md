@@ -2,17 +2,19 @@
 category: news
 title: "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result"
 excerpt: "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics."
-publishedDateTime: 2023-06-29T23:29:00Z
-originalUrl: "https://www.cairnspost.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
-webUrl: "https://www.cairnspost.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
+publishedDateTime: 2023-06-29T21:42:00Z
+originalUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
+webUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8"
+ampWebUrl: "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
+cdnAmpWebUrl: "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: The Cairns Post
-  domain: cairnspost.com.au
+  name: Adelaide Now
+  domain: adelaidenow.com.au
 
 topics:
   - Natural Language Processing
@@ -34,6 +36,6 @@ related:
         height: 674
         isCached: true
 
-secured: "C+nNWgQF0Kq2FMDWeQbVbF552zDd8PJkTR5SoC/Ao86xzmAs4xWQoEalErhW3+ax+meqoN6V619B+g3DduxKKdhQgYG2P+iJFUr6clloJc9brApevMQWbHL35UJn+Vt4WN4JXPsGfv7mAoXW9ZB46ZsTFgS+6MDKyvFFc/FIzvn2JPIh1WDehrBx7YWNuheaFr4eVOVD0YDxkg7h5McuW7U5qazcyOlgCkZf2lTai4oyFv44fs/VYGt8gx2xoPdzMpY7hF+OOiZQ5o0TXJmorwnqNQMVecj0OAi02LgGuxCHJNAuZiW1zhku58GlWMMdWwxmVXYq1P5APt5rOKZi/L6M8VAvi5A3f0n2ozxs7Fh7CntuSktvSvNVyyJtYFYApaYGje5v3yu3ot4MHLlyl+k6eagnIf+tTQUVWy22ef+p5KAre0zZ6QEH2jgNB+hQOcbverQpevwE/jfQYjvKdI5xtJUtNEdkQjKf3IgDpDeYMy6Z+Kwtopeyy94+FLnuJrcSvo1bsGJZ7VYDx7WcLg==;Ir40jULrohy6hYXHy1qtpA=="
+secured: "a9+8JGTt9ZEdZmwgRkPER6T2nGsOlatI6gWzgv1W18FEXEen9OBEeCFD/T8S/Oj1E0sW+co8xgzs82orMauQbwzYC0ELHUYC5k4IohCBXuIGi9nDZMrhaueI0F/VQgQ9H+jatnKziqefCd+bsMFUFuYMrqbg+NSwZgxVWeLY7YeeO6EIlq1+ZJkaWVtAQoqK4gy2KqI9vGi9sAV2ijP4T5af3esKmRYvpmrpcrb2Wx2wmd1mSQXS56wh3+1dVzGY+7BdnSEUDdOVs2jZJ9KZzFVFO8ebIit3QOM2PquCDovs8dG4/By4WdrpaD+uWer5FP0W3DcMOywRwGvMGN1PAGYOSomqEDqeLmwr6z4ZzaYMeTXSOyVgUDd/VHxYqnSsgvRWoRKdwXtd4YQKg7jJTfHgbaa2lfJkwHUt1/xU+qVmKUcsiN3StLqs9uqrrPNAOXtxNwS2NSra/FLnejUPRo7/rpf1sH/Z2eMdH8CCidAVjGyvObWMRo9IEq+Rvcw4Ed4LDIN6kXjReoh/yBlc0w==;tw+efjxSKN+NtxCe2WBroA=="
 ---
 

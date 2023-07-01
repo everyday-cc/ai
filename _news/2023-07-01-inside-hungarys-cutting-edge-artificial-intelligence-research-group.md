@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-30T22:00:00Z
 originalUrl: "https://bbj.hu/business/tech/innovation/inside-hungarys-cutting-edge-artificial-intelligence-research-group"
 webUrl: "https://bbj.hu/business/tech/innovation/inside-hungarys-cutting-edge-artificial-intelligence-research-group"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bbj.hu/uploads/banners/20236/Jelasity_image_1.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 3037
     isCached: true
 
-secured: "fpmLMzKvn8Hk2AQm0SZo0vTRkx+XAPKdd5sZn2dRjNo0+FBwmWnPdVPBCmyNmOjK/cT41CEbR49hA4PBg13trv3OUCuZmuyYa6+k1iYkWon2WGnmcSplRMenBnCkM/R2xLJNRDdQ6JaCAjHR797LHgnIsW/gK4dsdqUV88CTgM1SQtN2VurIo4D6nIKZm+FbQrZx3FXYP7Jxs4bUsmb60HCNaZECdCtV1oDitNdlaNOGszy95HX7kaCyFIjp1/XLT/pgxx9QobRxAM2fvNllEAXITYPZ+tjGl7L6CeI7CsjvN09RlLNZlFaGYG+mz4l89ze7XPAPpjdRge75qFKWyo9SGnF5kvsI95c0vcWpJLY=;6PP+qLuZWsKmtULSk9BQTA=="
+secured: "dqDUUX9OQLzLVZSJePdtYkQ0gOgFYp/BJOCr/RLdkFf9884cAoUGc/5y2ze18io+jMh3x5C6yKJNvifA71VOscpZGgTXA4iA1M+y+kg2Ybg7Ey34fVRSs+ZUjcorM3oTwDwXAVg3R96O9aOGyw4jnB4FvmKxV+cWGccV8+10Y1ec3TNimQtIZiwPh3+8D6Lac4j1u9cUhRNpzQtUL9+FbGpvJ/gnh4BMcjDpSPF7p6qrCl927lU8azOtHZvKJII1DdfmAACS7KaGik2n7mN4PzfPDQ+8Ab0fnkpfxl/qCnswtBZ5LLwOYTC1kC4vnPd9bf8qVYluNHmkPPQjHf/EfIx7zTMnl73kmcw2lKPVgyzW63PoYurIhvxLFMy0RAk5BYkDwS4+obB3yvObJy16ZvU12t/jiEEANN/cUV2rn5u3lMEiynjKtTazwinZm7JOHqYV6nawnjVMAGdrtehNxk+1ZIHkY6/IsBw5xBEMZv1vJ//mLtv5wRoMgc4WDo+JL/QMdpr3vuD97r7dS5X2Tw==;5fhamo9RuP3ZbOcF68q8FQ=="
 ---
 

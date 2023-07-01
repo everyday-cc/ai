@@ -36,22 +36,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How CISOs can balance the risks and benefits of AI"
-    excerpt: "Rapid growth and development of AI is pushing the limits of cybersecurity and CISOs must take charge now to be ahead of a range of risks including data leak, compliance and prompt injection attacks."
-    publishedDateTime: 2023-06-26T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.html"
-    ampWebUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Using AI To Determine The Health Of The Electrical Grid"
     excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
     publishedDateTime: 2023-06-29T18:21:00Z

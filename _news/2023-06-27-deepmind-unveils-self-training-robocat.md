@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-r
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
-    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
-    publishedDateTime: 2023-06-26T08:00:00Z
-    webUrl: "https://i-hls.com/archives/119736"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 54
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "DeepMind’s Proposes New Paradigm for Interfacing Language Model with Robots Through Rewards"
     excerpt: "Recent advancements in Large Language Models (LLMs), pretrained on extensive web-based datasets, have endowed these models with a broad spectrum of novel capabilities through in-context learning, including the ability to direct robot behaviors."
     publishedDateTime: 2023-06-30T16:37:00Z

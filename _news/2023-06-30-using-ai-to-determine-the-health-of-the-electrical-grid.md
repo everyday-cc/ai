@@ -36,22 +36,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How CISOs can balance the risks and benefits of AI"
-    excerpt: "Rapid growth and development of AI is pushing the limits of cybersecurity and CISOs must take charge now to be ahead of a range of risks including data leak, compliance and prompt injection attacks."
-    publishedDateTime: 2023-06-26T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.html"
-    ampWebUrl: "https://www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3700152/the-challenge-of-balancing-risks-and-benefits-of-ai-for-cisos.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "The Picks And Shovels Of The AI Gold Rush"
     excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
     publishedDateTime: 2023-06-26T19:42:00Z

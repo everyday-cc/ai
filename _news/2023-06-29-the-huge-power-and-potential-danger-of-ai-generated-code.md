@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated
 webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Wired

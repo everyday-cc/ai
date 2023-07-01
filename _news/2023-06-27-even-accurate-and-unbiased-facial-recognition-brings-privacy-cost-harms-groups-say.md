@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sheriff says facial recognition not a factor in false arrest"
+    excerpt: "The Hennepin County Sheriff's Office is pushing back on claims that facial recognition technology led to a man's false arrest. Kylese Perryman, 21, filed a lawsuit Wednesday against the city of Bloomington and Hennepin County over his 2021 arrest and prosecution for a carjacking and subsequent armed robbery that he did not commit."
+    publishedDateTime: 2023-07-01T00:00:00Z
+    webUrl: "https://www.mprnews.org/story/2023/06/30/sheriff-says-facial-recognition-not-a-factor-in-false-arrest"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 39
+    images:
+      - url: "https://img.apmcdn.org/06ed6042d31c378e5586f26062785f29b192db7f/widescreen/fc49d1-20230628-a-man-looks-past-the-camera-2000.jpg"
+        width: 2000
+        height: 1124
+        isCached: true
 
 secured: "Iw2UCgbbgac/5mAcYNNYm5h9ionBz8NvY2V0ff3u8t0n2UgAOOTW5NyPpULkRLrIj7lpjWDwmc7s20cf1tKzS8eNh8+57hNxFvvDmD3qbDS9e6oKSvxG7NvhWdBMybTxbwfbkO8sjUlirZnOSRqm/YrdwlZxvBdL4N0jyylqz5BeJHo0TRk+f8AyeIkPOUIz0YE6AAFZSf94AOur4HGTRrMy8AthE2wwB92HFo9f249e+W1DXm/KpsTp8UC/zbhfyGKIg/5a2Mul/ctLmC3JTci5emuJrMWUlhlVWFHcGvfyMct7RItjdQUUtEdXzPIn1PLwT2xjLY5OI/ETgGJ3lDGc756CVPaS8GW4AZ9Rk2/jNyAgaZ8sH3K3ksvN0HMJCMeT9XBbSNQ6wKOqAdav4FOpJ3D55Um5MfdzBJI2C6l0jQWLPSDj+im/Q7bntdpBb9gGy4DRXx2vO/6tEJV1FOGxU3jHuNlRPScpEgsU/kyKheU3j1JMHV6Ftdb+Sqsk4rfW4lD3Y2xVD8cp22C/4Q==;2eZ9/NZcI+nQmGpXw+KAIA=="
 ---

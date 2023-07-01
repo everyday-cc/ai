@@ -3,25 +3,25 @@ category: news
 title: "A.I. makers must create and observe new ‘laws of robotics’"
 excerpt: "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,"
 publishedDateTime: 2023-06-30T13:59:00Z
-originalUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
-webUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
-ampWebUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+originalUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
+webUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
+ampWebUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
+  - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
     width: 1024
     height: 682
     isCached: true
@@ -78,6 +78,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "EEq+Vj7MEtCc3S48ZkOdUDX++dHLGFcpHxEH8i+DPQXUSndGFvTlaJo6Vk7D+D3At+dLkMBm7R62i0Lzl53pPlN0fW+Z3EKtffENdpOsKmvEnE3bY611qrB54jA07GgjqWd3PiwtAHz6xeucgC3VD4yKWeXS8Do5blJme6EZXO6WTex0Flfbbm1ILTEY5dbyNhydW2SQycpfTJVnHMuUDwNy7CUBAMFWrAy8KpPyx0YqK8V7eFyZrt6ov6WF1px6XGUHssxe5m4xyael3sg0n5KlI4IfUsvb5bRe3IFw5AnDLU0343yRSVB5U6t8NEsXRIcYsB8hP2JMHSEKP8/93AO7qmm3Li2wpaPQlLvllLN+LmD0ZsW1KppLKzKi6ju5Hn3uXNSpb/m51lMjX2pvp3GlsBPccYs1e3bq7PvOcqUBLg0yjEWivPTMJLMe0jGwKpDOiA6cIf10a34zOFKTM5Ey4xv7asv0sQL9RzqwR6yLI7wRDuIxaxIM7OIii7rKVOYaiAuDyvzZUZDfSTbL2Q==;1+fsVGP+v2nbZviajuoPog=="
+secured: "oIBUmmALw2p8Isbwmz9Q5jGGTa9TtpE01zw1udhbIlEdOpCtTmjUrtlz/quxCgHumkiIN2QcnMWKFIsNRm0aR1WYf7rgVSPIFj3Lk5IP91jEkC8NZg54TOocacx2nRkQgl1BplA//ZPF4JsiBq7R4SL1bYJVDVCE7hL524awYaB5zD8HG5mL14xwD4uLV74Vb/krSl/lpPMmL5LlmF6ckWmgL7L0GVE3Vw9rLAY5MgFmeo22BSnv0mW+RT6jSlhtWefiBHvTWaQTMbjtl7ZypwWELvVNnWBOJILrQ202cWhn8rDDGRMZLxW0tunDDsABLU4+PcsYcf97ccUCeQjnrV6k78ZgVdzgXrG0bhkSRSA=;guUSYpqF1Re3IA05Do1tig=="
 ---
 

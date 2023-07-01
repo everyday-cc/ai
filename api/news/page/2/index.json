@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-teddy-bears-with-ai-cool-creepy-or-a-true-security-risk.md",
+      "title": "Teddy Bears with AI: Cool, creepy or a true security risk?",
+      "excerpt": "Are artificial intelligence-powered toys the next big thing or the next cybersecurity nightmare? Here's how to ensure your kids play it safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "originalUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/394e3d1a-2c3c-4952-bd34-87dddb705f01/0e3d4baf-6b00-410b-9f36-9e2d4d32a45e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/teddy-bears-ai-cool-creepy-true-security-risk.amp",
+      "publishedDateTime": "2023-06-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.md",
       "title": "Where Americans want and don't want AI in healthcare: 7 things to know",
       "excerpt": "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-06-29/ai-why-india-risks-falling-behind-in-the-tech-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -207,7 +259,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -460,58 +512,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-29-the-huge-power-and-potential-danger-of-ai-generated-code.md",
-      "title": "The Huge Power and Potential Danger of AI-Generated Code",
-      "excerpt": "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-29-microsoft-to-power-moodys-next-generation-solutions-with-azure-openai-service.md",
       "title": "Microsoft To Power Moody's Next-Generation Solutions With Azure OpenAI Service",
       "excerpt": "Moody's Corp (NYSE: MCO) tapped Microsoft Corp (NASDAQ: MSFT) to deliver next-generation data, analytics, research, collaboration, and risk solutions for financial services and",
@@ -615,7 +615,7 @@
       "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/where-americans-w
 webUrl: "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:

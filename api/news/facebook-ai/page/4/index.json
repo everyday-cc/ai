@@ -2,60 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-04-27-microsoft-is-staking-its-future-on-generative-ai.md",
-      "title": "Microsoft Is Staking Its Future On Generative AI",
-      "excerpt": "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 348,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6449730f6426343270f3312d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/26/microsoft-is-staking-its-future-on-generative-ai/amp/",
-      "publishedDateTime": "2023-04-26T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-04-26-kinetix-launches-text-to-animation-ai-for-new-era-in-user-generated-content.md",
       "title": "Kinetix launches text-to-animation AI for new era in user-generated content",
       "excerpt": "Kinetix has announced Text2Emotes, a generative AI technology that heralds a new era of user-generated gaming content (UGC).",
@@ -1384,6 +1330,40 @@
       "provider": {
         "name": "YAHOO!Finance",
         "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-05-meta-to-debut-ad-creating-generative-ai-this-year-cto-says.md",
+      "title": "Meta to debut ad-creating generative AI this year, CTO says",
+      "excerpt": "TOKYO -- Facebook owner Meta intends to commercialize ... The company, which began full-scale AI research in 2013, stands out along with Google in the number of studies published.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Technology/Meta-to-debut-ad-creating-generative-AI-this-year-CTO-says",
+      "originalUrl": "https://asia.nikkei.com/Business/Technology/Meta-to-debut-ad-creating-generative-AI-this-year-CTO-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

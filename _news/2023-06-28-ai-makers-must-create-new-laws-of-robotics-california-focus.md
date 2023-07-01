@@ -30,16 +30,16 @@ related:
   - title: "A.I. makers must create and observe new ‘laws of robotics’"
     excerpt: "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,"
     publishedDateTime: 2023-06-30T13:59:00Z
-    webUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
-    ampWebUrl: "https://www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+    webUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/"
+    ampWebUrl: "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 74
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683"
         width: 1024
         height: 682
         isCached: true

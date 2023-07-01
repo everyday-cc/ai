@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DeepMind Introduces Self-Improving AI Model Called RoboCat"
-    excerpt: "The new introduction by Google’s DeepMind is a self-improving AI model called “RoboCat”, and it may be the key to machines that can self-generate new training data to improve their technique without too much human interference,"
-    publishedDateTime: 2023-06-26T08:00:00Z
-    webUrl: "https://i-hls.com/archives/119736"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 54
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2023/06/hand-3685829_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "Tqny/Ut/GjlaqNGtZstiFH73d/n+Ebbhh0r2zLJyObYUcV2zp68l0ABQfLN/FA0fNH9uxP/+4+o1dXlGkQ9I3Y69JkvUhxhmBScsA+09a/CDWFBKwsaukU3E3nkICUcErgTpWryagQKgN4+ecPhbSVhUBoplXg6elbO/qbX9JKdBD3RrjKtEijp1cqtybMvNQ1SZpTPrXl6CmjKn317+/DA+q8wOiydi0FuRpsnZmnkhZz8PgnvRNNsHe4uXMoiatb1Fg2fPw2frs7eHpmo0VSXaRfLBcw+j5sZfvd9NBMJW/K1WS2laJyAtkBBBgOd2F7zLfOmMCprXpCJPqQO3LJ7DSjCQv6MIYWF5CwW3I3G30o0DXABBuhT26+7JkxiyPyNUH8ynXfwcJqJV6DsUfOI6Ny+YQ3Qaujid5ABYbsESJOXHh5kqg3S5qof3wOFa6NoVqNteYeFMZY6pMYA6zYvWrvv4ymzkAaF1jYsxhH1Zv+bEPZvZ9ZxGDFpcNIYQyU7a1Kckeng4zBdM+3hDNQ==;2P/Y0r95EqQ6KavhCfAahA=="
 ---
