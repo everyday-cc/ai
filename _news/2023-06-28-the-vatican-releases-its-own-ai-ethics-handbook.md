@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/am
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

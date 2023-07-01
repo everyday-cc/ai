@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-30-capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key.md",
+      "title": "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key",
+      "excerpt": "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
+      "originalUrl": "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
       "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
       "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -160,6 +212,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-the-huge-power-and-potential-danger-of-ai-generated-code.md",
+      "title": "The Huge Power and Potential Danger of AI-Generated Code",
+      "excerpt": "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
       "title": "How AI Influences What You See on Facebook and Instagram",
       "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
@@ -168,7 +272,7 @@
       "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -211,7 +315,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -252,59 +356,6 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
-      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
-      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "Facebook AI"
       ]
     },
@@ -1370,58 +1421,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-price-well-pay-for-our-ai-future-more-loneliness.md",
-      "title": "The price we'll pay for our AI future: more loneliness",
-      "excerpt": "Many Amercians already harbor this worry: A recent survey by the Pew Research Center found that one of Americans' top concerns with AI is the technology's inherent \"lack of human connection.\" Our time on earth is limited. While the convenience of AI could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647653d9df2567001837c25c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-technology-americans-loneliness-crisis-mental-health-friendship-recession-2023-5?amp",
-      "publishedDateTime": "2023-06-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

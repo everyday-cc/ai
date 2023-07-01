@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-28-five-microsoft-ai-advances-that-business-leaders-should-know-about.md",
+      "title": "Five Microsoft AI Advances That Business Leaders Should Know About",
+      "excerpt": "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 686,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
+      "publishedDateTime": "2023-06-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
+      "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
+      "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "originalUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-chip-dip-the-bloomberg-open-americas-edition.md",
+      "title": "Chip Dip: The Bloomberg Open, Americas Edition",
+      "excerpt": "Good morning. Chipmakers fall as the US is said to consider new curbs on exports to China. Looks like the global race for AI dominance is heating up. And Joe Biden faces an uphill battle with voters as inflation still bites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibuzuUN8d1U0/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-staying-authentic-while-using-ai-in-your-marketing-strategy.md",
       "title": "Staying Authentic While Using AI In Your Marketing Strategy",
       "excerpt": "Before diving into all that AI has to offer, consider the importance of staying authentic and maintaining a distinguished brand.",
@@ -62,7 +209,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -294,7 +441,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -337,7 +484,7 @@
       "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -431,7 +578,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751",
       "featuredContent": null,
       "highlight": null,
-      "heat": 551,
+      "heat": 541,
       "tags": null,
       "images": [
         {
@@ -523,6 +670,108 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-when-the-ai-is-more-compassionate-than-the-doctor.md",
+      "title": "When The AI Is More Compassionate Than The Doctor",
+      "excerpt": "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1273,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/",
+      "publishedDateTime": "2023-06-27T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise.md",
+      "title": "Reka emerges from stealth to build custom AI models for the enterprise",
+      "excerpt": "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/",
+      "publishedDateTime": "2023-06-27T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -682,7 +931,7 @@
       "originalUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -768,57 +1017,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont.md",
-      "title": "EU AI-rule proposal could clip ChatGPT's wings, but likely won't",
-      "excerpt": "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/eu-ai-rule-proposal-could-clip-chatgpts-wings-but-likely-wont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fclarification.png&width=684",
-          "width": 684,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-loora-a-generative-ai-app-that-uses-an-audio-interface-to-help-users-learn-english-raises-925m.md",
       "title": "Loora, a generative AI app that uses an audio interface to help users learn English, raises $9.25M",
       "excerpt": "Unlike many of the generative AI apps that are text-based -- you write prompts for ChatGPT, Midjourney, etc. -- Loora is completely focused on audio.",
@@ -870,38 +1068,29 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models.md",
-      "title": "CalypsoAI raises $23M to add guardrails to generative AI models",
-      "excerpt": "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital.",
+      "path": "_news/2023-06-28-kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services.md",
+      "title": "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services",
+      "excerpt": "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/",
+      "webUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
+      "originalUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 76,
       "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/",
-      "publishedDateTime": "2023-06-27T11:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -917,7 +1106,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1004,196 +1193,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-will-the-us-governments-latest-cyber-policy-actually-improve-us-security.md",
-      "title": "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 720,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
-      "publishedDateTime": "2023-06-27T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
-      "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
-      "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "originalUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
-      "publishedDateTime": "2023-06-27T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
-      "title": "Spectrum Scale on IBM Cloud performance",
-      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T10:20:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
-      "title": "New bioinspired robot flies, rolls, walks, and more",
-      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
-          "width": 1600,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
-      "publishedDateTime": "2023-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

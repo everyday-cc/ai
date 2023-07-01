@@ -45,60 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-the-true-threat-of-artificial-intelligence.md",
-      "title": "The True Threat of Artificial Intelligence",
-      "excerpt": "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
-      "originalUrl": "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.md",
       "title": "Where Americans want and don't want AI in healthcare: 7 things to know",
       "excerpt": "Explore how Americans feel about AI leading primary care appointments in this study from Boston Children's Hospital and Harvard Medical School.",
@@ -107,7 +53,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -238,7 +184,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -281,7 +227,7 @@
       "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -324,7 +270,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -377,7 +323,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -463,59 +409,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
-      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
-      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
       ]
     },
     {
@@ -1402,6 +1295,92 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-the-ceo-of-pharma-giant-eli-lilly-shares-3-ways-ai-could-transform-his-industry.md",
+      "title": "The CEO of pharma giant Eli Lilly shares 3 ways AI could transform his industry",
+      "excerpt": "An curved arrow pointing right. The pharma-and-biotech industry has already begun to use artificial intelligence to improve how it operates, develops drugs, and ultimately makes things easier for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/eli-lilly-ceo-interview-ai-artificial-intelligence-biotech-healthcare-2023-5",
+      "originalUrl": "https://www.businessinsider.com/eli-lilly-ceo-interview-ai-artificial-intelligence-biotech-healthcare-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646548c7fb9a9d0018c8ff71?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/eli-lilly-ceo-interview-ai-artificial-intelligence-biotech-healthcare-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/eli-lilly-ceo-interview-ai-artificial-intelligence-biotech-healthcare-2023-5?amp",
+      "publishedDateTime": "2023-06-15T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-healthy-approach-to-ai.md",
+      "title": "Healthy approach to AI",
+      "excerpt": "The risk AI poses in the health care industry is that people will go ... “It’s not just computational power, AI is bringing us the intelligence to solve problems,” Capps said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
+      "originalUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2023/06/15/using-artificial-intelligence-improve-healthcare.amp.html",
+      "publishedDateTime": "2023-06-15T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

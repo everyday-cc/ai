@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-29-im-an-ai-prompt-engineer-here-are-my-3-requirements-for-writing-a-prompt-for-chatbots-like-chatgpt.md",
+      "title": "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT.",
+      "excerpt": "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6",
+      "originalUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp",
+      "publishedDateTime": "2023-06-29T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
       "title": "Human oversight key to keeping AI honest",
       "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2023/06/vatican-has-ai-ethics-handbook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -296,7 +348,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1405,58 +1457,6 @@
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-the-australian-ai-governance-debate-starts-to-heat-up.md",
-      "title": "The Australian AI governance debate starts to heat up",
-      "excerpt": "Australian ministers debate whether implementing regulations for AI will address the challenges caused by a lack of skilled AI talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
-      "originalUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-artificial-intelligence-ai-synitia-data-intelligence.jpeg",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

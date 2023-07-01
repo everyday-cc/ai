@@ -51,48 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Inside the race to build an ‘operating system’ for generative AI"
-    excerpt: "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers"
-    publishedDateTime: 2023-06-30T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T14:14:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T18:19:00Z
-    webUrl: "https://www.hrdive.com/news/generative-AI-startups-enterprise-software/653923/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "O3wx7+6c4tBEqeYYGiuSqOnWh7kw7Rfvpqho24KTXZgwcFzwHtQDmLNYz11oHVtfcSYjMLGhqWMAFfbChb4LnF42SDShfZF1NcHoqso4mot8IJhS6E1E3r7qRurdgi17+NSYvJtuoQClMAxR6LQ7EfivglFdxAAeM+9TYHWJPjiobh+qZRQx+YgpqOOxf3DRIZTB0GTZIAypVi6FdRHiwrv+tBveHCMZtkTzTK/Pex5+Rfft2Lz4rhXJML5NXb24pMZvlreDpBFswI2X9kd7W94hx+G7/JiUtKf0WAlvJw9+0qi5AyDQTMn0nRUnAYm99iPfMcmZSLkAL7+UgU8ppFOk00/qxcc2DKpYxkSXUcc=;y0xy19xuxGAiP/75i/+t0w=="
 ---

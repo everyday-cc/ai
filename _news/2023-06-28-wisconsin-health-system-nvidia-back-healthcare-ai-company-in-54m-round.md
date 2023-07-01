@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI can help build solutions to systemic challenges faced by healthcare systems: WEF study"
-    excerpt: "Read more about AI can help build solutions to systemic challenges faced by healthcare systems: WEF study on Devdiscourse"
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2501103-ai-can-help-build-solutions-to-systemic-challenges-faced-by-healthcare-systems-wef-study?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 65
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/30_01_2019_17_21_19_6857604.jpg?width=1280"
-        width: 1280
-        height: 759
-        isCached: true
   - title: "How Is AI Changing the Future of Modern Health Care?"
     excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
     publishedDateTime: 2023-06-26T16:24:00Z
@@ -72,6 +56,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "13 Principles for Using AI Responsibly"
+    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
+    publishedDateTime: 2023-06-30T12:14:00Z
+    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
     excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"

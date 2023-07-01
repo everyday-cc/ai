@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Safe image generation and diffusion models with Amazon AI content moderation services"
-    excerpt: "Generative AI technology is improving rapidly, and it’s now possible to generate text and images based on text input. Stable Diffusion is a text-to-image model that empowers you to create photorealistic applications. You can easily generate images from text using Stable Diffusion models through Amazon"
-    publishedDateTime: 2023-06-28T16:08:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/safe-image-generation-and-diffusion-models-with-amazon-ai-content-moderation-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/28/safe-image-generation.jpg"
-        width: 1023
-        height: 513
-        isCached: true
   - title: "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story."
     excerpt: "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology."
     publishedDateTime: 2023-06-30T15:02:00Z
@@ -170,20 +156,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
-    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
-    publishedDateTime: 2023-06-29T08:00:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Regulation and talent: India’s catalysts for generative AI triumph"
     excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"

@@ -35,22 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Peter Dutton urges Anthony Albanese to dump vote on Voice and instead hold referendum on constitutional recognition"
-    excerpt: "Opposition Leader Peter Dutton has warned the Prime Minister against proceeding with the Voice to Parliament and potentially risking setting reconciliation back."
-    publishedDateTime: 2023-06-26T09:23:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/peter-dutton-urges-anthony-albanese-to-dump-vote-on-voice-and-instead-hold-referendum-on-constitutional-recognition/news-story/bd6ecf9d39f939789e81daa4dd5f1618?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 22
-    images:
-      - url: "https://origin.go.skynews.com.au/wp-content/uploads/2023/06/CHP_Export_282716059_CANBERRA-AUSTRALIA-NewsWire-Photos-JUNE-17-2023-Leader-of-the-Opposition-Peter.jpg?includeSharpen=true&w=1280&h=720&crop=1&strip=all"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "yHaZPyafuk3OsdRMtEOkoX73zwsuX6f4GjMYNjtP8y27S2NyjVUjeKeZPX5xBHO6nW7DM1F82mRyEziGq4KqXMueNM6VPBPth4GNRihSZDvK0HR7qdLfiuoTSKthVLpADQcR0Aj+az5EmU/apwa7QZ9JSI5nRFxXwEEt6gGLJKan1nvI9vKtC8+8HFwJe6sCl+YX/sY1DhGqKVzqFqeW9sNGJ00uuftrh0z7pmL+cA+VDjksc8S+2rEqIjBQech9l3Q1elYzA+SkxyVA7W/V3xbb3CCMZB9yzexi1pPWt7oSmSz8p+1Ixj6Y0GBULN7Jt+TNMsd14cXTxTg4SsSi5ZkJ6QbPst/Mb+XYOF3XEGq2iTF5pNvu/Y/yZq6fz7/IQYCoJ2taP7u8PpWlWH80LqfKDotW5hj2Vt/MZT5JdT4k3J1mbZQZs7SwxJ4/87AtaLv3IzZKsPBWKh2M34tEev8or86a6JoCTsUCTsV+pa5IcfbsJ9E8NwbL/PSNGd1SSB/qfjaD0DlZKY+owPw2/g==;Ivs9MkeAHXgxlSwlWcH5Gg=="
 ---

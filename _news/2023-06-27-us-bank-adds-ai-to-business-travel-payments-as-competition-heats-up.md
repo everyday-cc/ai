@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/payments/news/u-s-bank-adds-ai-to-b
 webUrl: "https://www.americanbanker.com/payments/news/u-s-bank-adds-ai-to-business-travel-payments-as-competition-heats-up"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "NHS Trusts to have access to artificial intelligence for diagnosis and treatment"
-    excerpt: "A new £21m fund has been launched to give NHS staff access to artificial intelligence (AI) technology for the diagnosis and treatment of patients."
-    publishedDateTime: 2023-06-26T10:38:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/nhs-trusts-to-have-access-to-artificial-intelligence-for-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 32
-    images:
-      - url: "https://www.theengineer.co.uk/media/uqqlswvt/x_ray_adobestock_422714239.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PJQpcTqp9xk48HVJnCJmNmZkGTaUMHbul9JvRHI7orYTTaaKUssi5iycdrimR0Bvgei54tgrXrpQEOMsJQPfbdG7WhT9vk7bUt1ACcAmPRMHCBVacVRlKR9m107Bpx5u6PXBRl8DkX2/f0L/tBUtw/FSSCl36yRXhtVjrpZqvLPorEE5t7yQcDOk6DRoYDNtA708nK+km/bC5IYk+8xQH1GYF4XtKmIv70Bo/Hrd1mtx4hiU888KW4bEtuKRDt96Acx1AaiyGZHgl0O1JPDjDw62eNOcKZyNm1CNd+v3VTyc1xAOjy5PSYqZ2pGXcF8sCEOfq2lqpyI67q7Woc5T33cvMSH8UmhOt3nMkRIsFpxNjkRbXNypXsmCjHDYcslHIupfBdSt0TU7kzzvC3UBBSjXmNGpZiDGZmvVPavhkCzLJe4PHYl4TYTkZpJUBl4kfltTJjcVOgzx+dpimEs/FIoGQdzjyba6qzrILw59k1QjbiX0sJ+Om44VPqp3+VjKf5ctEW8HA+PxY5cqCIcCLA==;F2j/ZcZgwvOssGHx3tAPNQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-
 webUrl: "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "Samsung Enters AI Chip Market With High-Bandwidth Memory Solutions, Challenging SK hynix"
-    excerpt: "Samsung Electronics leaps into the artificial intelligence (AI) chip market, planning to mass-produce high-bandwidth memory (HBM) chips this year, potentially upsetting current leader SK hynixs market dominance"
-    publishedDateTime: 2023-06-26T09:30:00Z
-    webUrl: "https://www.econotimes.com/Samsung-Seeks-to-Overtake-SK-hynix-in-AI-Memory-Chip-Field-1658444"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 45
-    images:
-      - url: "https://f1.econotimes.com/2023/06/7c1ee880tt_th_1024x0.jpg"
-        width: 1024
-        height: 694
-        isCached: true
 
 secured: "zmjfLFsvUy4snmZ2qWCo2+EDLn11GJjRql689NBD3hsZ5G9Fnzd4GCglY7oKtJd/nEN/YVuDN/Gs70Lz2Z2qmjvORk1pTbPgYSnFvibPJaZNuR+ecB4qNWfy12HydArUutSE2HZ8bxNoPpUHe/ud2b0UPKl9vGWRrCJZOhXnHSoiiGflqAxNRC16f5eO8uuw6S2fhnPkd1RqtamHDpLAdyJZf2fYRn5YKhEkLfHArGyO+EPyduBODyWqOQACid11qzbeh3D9FnOvrp5lH30fwSPqAU3w4YhPCr5RWr0dTNrY7x+Rm9z8No8DXExZ7UHJu+gFqQ03s8ySpE3b28g8TMfNrZHu47krp0Gngbb9FA2PBZRrUjbdVWicRxurl2Kb3VrKlEl38SLbLUtXRoHo9wc6bfX8+Gnh0dtc9Hm51T7x5Y8ZlHRCiWIHwstRlKYyX/hwf/d9BBw3dygPYjLI6AdNvr3Fl8WrVDk8OPOkM0N7gYyt7vHvoiDkFkc3HVpHMrLbQ55y4eZuFKzCZoAKeQ==;OJHcArP6LRcufhljUhD+8A=="
 ---

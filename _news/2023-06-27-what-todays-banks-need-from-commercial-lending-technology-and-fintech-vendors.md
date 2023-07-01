@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Google chose Gujarat for its global fintech operations hub"
-    excerpt: "Google CEO Sundar Pichai announced plans to open a global fintech operations centre in Gujarat’s GIFT city during Prime Minister Narendra Modi’s visit to the US. He said the move will “cement” and “build” on India’s fintech leadership - founded on the United Payments Interface (UPI) and Aadhar ID system - and “take it globally”."
-    publishedDateTime: 2023-06-26T09:57:00Z
-    webUrl: "https://www.forbesindia.com/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/news/why-google-chose-gujarat-for-its-global-fintech-operations-hub/86119/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 44
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_211681_googlepay.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "London fintech firm relocates HQ to Aberdeen"
     excerpt: "Fintech start-up ZIPZERO has relocated its head offices from London to Aberdeen, in a bid to accelerate its growth. The platform crowdsources paper and digital receipts directly from consenting shoppers to help optimise spending and lower household bills,"
     publishedDateTime: 2023-06-28T08:12:00Z
@@ -110,20 +94,6 @@ related:
       - url: "http://htxt.co.za/wp-content/uploads/2022/12/aws-sign-header.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Lloyds places £2m bet on AI-powered B2B fintech Fennech"
-    excerpt: "The £2m investment marks the latest of several investments the bank has made in startups including investments in Bink and Caura"
-    publishedDateTime: 2023-06-26T10:09:00Z
-    webUrl: "https://www.altfi.com/article/lloyds-places-gbp2m-bet-on-ai-powered-b2b-fintech-fennech"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/5gPXGxHmAqyn2VMgKmERK/cbb5523e0dce03ea16f866421e598159/Emmanuel_Fennech.jpg"
-        width: 6139
-        height: 4093
         isCached: true
   - title: "Fintech Dobin Brings Game-Changing AI-Powered Solution to Personal Finance"
     excerpt: "Singapore-based fintech Dobin has launched. Dobin is the first company in Southeast Asia to use open finance and advanced data analytics to: give users a single view of their finances; create unique anonymised customer insights;"
@@ -194,20 +164,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
-  - title: "Fintech Aveni launches Aveni Assist to transform productivity in Financial Advice market"
-    excerpt: "Aveni Assist. The GPT-powered AI assistant has been designed specifically for the financial advice market to transform administrative tasks, allowing advisers to focus on supporting a significantly greater number of consumers."
-    publishedDateTime: 2023-06-26T09:43:00Z
-    webUrl: "https://ifamagazine.com/article/fintech-aveni-launches-aveni-assist-to-transform-productivity-in-financial-advice-market/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 15
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2021/03/AdobeStock_251113564-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "How Boost transformed from a homegrown eWallet to a regional full spectrum fintech brand"
     excerpt: "Boost has evolved into a regional full spectrum fintech leader in Southeast Asia, that’s equipped with a holistic fintech ecosystem."
     publishedDateTime: 2023-06-29T14:30:00Z

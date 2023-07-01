@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Israeli-founded AI recruitment startup hit with fraud allegations"
-    excerpt: "Joonko CEO Illit Raz steps down after investigation finds 'egregious, unethical and fraudulent conduct' following irregularities in financial statements"
-    publishedDateTime: 2023-06-26T09:41:00Z
-    webUrl: "https://www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/"
-    ampWebUrl: "https://www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 57
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2023/06/ilit-joonko-e1687771010922-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
 
 secured: "FosmhmHxahtXyj7dTKlh1arBpxIRzT5nFHjOQUymjpIFhSvhBEdQJu7lDF2r2pSJwVE+1cWJp03STk5iHb6ZTzlFutNt7roWliWMAmuiit69T2W3S3v8wBRvQbP8z0mdrLgBv5cs7lPVtztnnVSCMQKgYN3WwT4JCnJ6WK0gyK9F8Ky3Ampo37pRNK7xPxJOJQYwYOPiz3XoaAkc9vrANwjwSWh7Hd9TtpNGSRQL3vEjiNQptAzZoW7v7kRwEjb913DS6nwU2FR5uRqLSv/wEUUaN1ORtZr3sphZFhBk7sIGqT27h0Gv9xZyaxIDe+g0OFBVJUJEDidKzsOzuUcj5ggpVtjrGfhOjVLQhqR7Vy+gvY2/MiL/FZlD6qs/Ue4q7IkmDqlgNIRwL5I2QhIh5QpY/UTVHXF5MsgsyH8uvWELlGYBBvBCuTRGLCFK4sRrtM5dWW8Kq1iKKSBAWvB/VzJTAlHehbU8hpzARfKR5FJpEiC9Vef6rglASUhyahAsjjzKViIWCQtgJcVd4YxBoA==;3UQPFvP0wMB8ukkFpWCi3A=="
 ---

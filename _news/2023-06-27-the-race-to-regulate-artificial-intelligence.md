@@ -24,344 +24,141 @@ images:
     isCached: true
 
 related:
-  - title: "How to responsibly scale business-ready generative AI"
-    excerpt: "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-26T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
-  - title: "Google Stakes A Claim To All Things Generative AI"
-    excerpt: "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ..."
-    publishedDateTime: 2023-06-28T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Six Risks Of Generative AI"
-    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI Awareness Now A Must On Any Business Resume"
-    excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
-    publishedDateTime: 2023-06-27T02:57:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
+  - title: "AI Regulation Is Coming To The U.S., Albeit Slowly"
+    excerpt: "Bipartisan legislation to form a National AI Commission indicates Congress' pressing need to educate itself on AI, and signals that federal AI regulation is coming."
+    publishedDateTime: 2023-06-27T09:49:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/"
+    ampWebUrl: "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1525
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649a325468e062698c5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "How Generative AI is a Game Changer for Cloud Security"
-    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
-    publishedDateTime: 2023-06-29T16:34:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
-    excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
-    publishedDateTime: 2023-06-30T14:08:00Z
-    webUrl: "https://www.wsj.com/articles/businesses-cfo-aim-to-harness-generative-ai-to-shake-up-accounting-finance-f427ff"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-809446/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Generative AI vs. Machine Learning"
-    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
-    publishedDateTime: 2023-06-29T23:49:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Oracle taps generative AI to streamline HR workflows"
-    excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
-    publishedDateTime: 2023-06-28T21:19:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Transforming Healthcare With Generative AI"
-    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
-    publishedDateTime: 2023-06-27T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+  - title: "Chinese Companies Are Reacting To AI Regulations By Releasing Their Own Rules"
+    excerpt: "China is currently home to some of the most advanced AI regulations in the world. Its party-state government, free from the burden of compromise, can swiftly regulate AI as it sees fit. Beijing has in recent months and years crafted regulations that both (partially) protect citizens from tech companies’ greediest impulses and uphold the paternalistic impulse to preserve state power over individual expression and corporate interest."
+    publishedDateTime: 2023-06-29T15:37:00Z
+    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/"
+    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/06/29/chinese-companies-are-reacting-to-ai-regulations-by-releasing-their-own-rules/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
-    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
-    publishedDateTime: 2023-07-01T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649da4c486456d34f90b96c9/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 631
+        height: 803
         isCached: true
-  - title: "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key"
-    excerpt: "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly."
-    publishedDateTime: 2023-06-30T14:41:00Z
-    webUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
+  - title: "The AI Rules Companies Really Want From the EU"
+    excerpt: "Welcome to the Brussels Edition, Bloomberg’s daily briefing on what matters most in the heart of the European Union."
+    publishedDateTime: 2023-06-27T04:44:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-27/the-ai-rules-companies-really-want-from-the-eu"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irQNYp5Q9YoM/v0/1200x900.jpg"
         width: 1200
-        height: 750
+        height: 900
         isCached: true
-  - title: "AI is the future, but we need to have a responsible future"
-    excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
-    publishedDateTime: 2023-06-26T11:17:00Z
-    webUrl: "https://www.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720"
-    ampWebUrl: "https://m.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720/amp"
+  - title: "How AI is affecting the patent system"
+    excerpt: "Robert Plotkin of Blueshift IP LLC discusses challenging questions raised by AI for the patent system, including the legal standards that apply to inventorship, nonobviousness, written description and enablement."
+    publishedDateTime: 2023-06-28T13:34:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/how-ai-is-affecting-patent-system-2023-06-28/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/6RDiNFJaoYEgBXrTGH2tOWz9eA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKGXR6M5CRGCPIHXVCJVHX2RFI.JPG"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Big tech companies want AI regulation - but on their own terms"
+    excerpt: "The remark prompted Internal Market Commissioner Thierry Breton to accuse Altman of “attempting blackmail.” Altman clarified his comments the next day, and when the CEO and commissioner met in person last week,"
+    publishedDateTime: 2023-06-27T05:44:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/big-tech-companies-want-ai-regulation-but-on-their-own-terms-10863871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 59
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/541536"
-        width: 690
-        height: 407
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/06/399311845.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "The best use for generative AI in healthcare"
-    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
-    publishedDateTime: 2023-06-26T21:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
+  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
+    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
+    publishedDateTime: 2023-06-26T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "MAS Releases Open-Source AI Toolkit to Promote Responsible Use in Finance Sector"
-    excerpt: "MAS has released an open-source toolkit to enable the responsible use of Artificial Intelligence (AI) in the financial industry."
-    publishedDateTime: 2023-06-27T03:43:00Z
-    webUrl: "https://fintechnews.sg/75549/ai/mas-releases-open-source-ai-toolkit-to-promote-responsible-use-in-finance-sector/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "EU, Unesco to help developing countries shape AI rules"
+    excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
+    publishedDateTime: 2023-06-27T15:44:00Z
+    webUrl: "https://www.todayonline.com/world/eu-unesco-help-developing-countries-shape-ai-rules-2200641"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 51
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Releases-Open-Source-AI-Toolkit-to-Promote-Responsible-Use-in-Finance-Sector.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
-    publishedDateTime: 2023-06-27T00:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Dataiku unlocks the potential of generative AI in business apps"
-    excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
-    publishedDateTime: 2023-06-26T11:12:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/108092/dataiku-unlocks-the-potential-of-generative-ai-in-business-apps/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "AI linked to new crop of business email scams"
-    excerpt: "Businesses can no longer count on bad spelling and grammar to red-flag problem emails: fraudsters are using AI to craft well-written email messages at scale."
-    publishedDateTime: 2023-06-27T15:59:00Z
-    webUrl: "https://www.cfodive.com/news/ai-linked-new-crop-of-business-email-scams/653977/"
-    type: article
-    provider:
-      name: cfodive
-      domain: cfodive.com
+      name: TODAYonline
+      domain: todayonline.com
     quality: 39
     images:
-      - url: "https://www.cfodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "13 Principles for Using AI Responsibly"
-    excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
-    publishedDateTime: 2023-06-30T12:14:00Z
-    webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HydQWz2b--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/06/27/20230627_afp_unesco.jpg?itok=qYdYlSpM"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "Study reveals generative artificial intelligence impact on job roles"
-    excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
-    publishedDateTime: 2023-06-28T11:46:00Z
-    webUrl: "https://www.openaccessgovernment.org/study-reveals-generative-artificial-intelligence-impact-on-job-roles/162139/"
+  - title: "Executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 company executives are urging the European Union to rethink the world's most comprehensive rules for artificial intelligence, saying Friday that upcoming regulations will make it harder for companies in Europe to compete with rivals overseas,"
+    publishedDateTime: 2023-06-30T16:17:00Z
+    webUrl: "https://www.chron.com/news/world/article/executives-urge-europe-to-rethink-its-18178786.php"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
-        width: 2000
-        height: 1334
+      - url: "https://s.hdnux.com/photos/01/33/41/01/23990346/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
-    publishedDateTime: 2023-06-27T11:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
+  - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
+    excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
+    publishedDateTime: 2023-06-26T16:13:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/artificial-intelligence-revolution-nothing-like-internet-bubble-16127306"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 35
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
-        width: 300
-        height: 207
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/29048444-0b6e-11e8-addd-fd11d05b714c.png"
+        width: 1152
+        height: 768
         isCached: true
-  - title: "Here are four ways we can use AI responsibly | Opinion"
-    excerpt: "Alexa, Siri, chatbots, and thousands of other systems are powered by AI, from text-to-voice translation and facial recognition programs to vehicle accident-avoidance mechanisms. And it’s anticipated that future AI technology could lead to substantial health advances, like earlier detection and diagnosis of cancer."
-    publishedDateTime: 2023-06-26T13:50:00Z
-    webUrl: "https://www.pennlive.com/opinion/2023/06/here-are-four-ways-we-can-use-ai-responsibly-opinion.html"
+  - title: "AI to the rescue"
+    excerpt: "The pace of work is outpacing our ability to keep up. AI is poised to create a whole new way of working, according to a new report from Microsoft."
+    publishedDateTime: 2023-06-26T13:17:00Z
+    webUrl: "https://emerging-europe.com/news/ai-to-the-rescue/"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 19
-  - title: "AI linked to new crop of business email scams"
-    excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
-    publishedDateTime: 2023-06-28T13:18:00Z
-    webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 19
-  - title: "Generative AI is breaking all the rules"
-    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
-    publishedDateTime: 2023-06-27T18:15:00Z
-    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 19
-  - title: "How CEOs can tap full potential of generative artificial intelligence"
-    excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
-    publishedDateTime: 2023-06-27T18:58:00Z
-    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "Call for generative AI guardrails, responsible design"
-    excerpt: "Researchers are cautiously optimistic about where generative artificial intelligence (GenAI) will lead humanity, but “we must develop more guardrails”. This is according to Pascale Fung, chair professor in the Department of Electronic and Computer Engineering of Hong Kong SAR,"
-    publishedDateTime: 2023-06-29T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/06/29/call-for-generative-ai-guardrails-responsible-design/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "How Businesses Can Leverage Google’s AI Tech"
-    excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
-    publishedDateTime: 2023-06-29T13:49:00Z
-    webUrl: "https://www.unite.ai/how-businesses-can-leverage-googles-ai-tech/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
+      name: emerging-europe.com
+      domain: emerging-europe.com
     quality: 19
 
 secured: "sfQAAG2qb3hIEfc6m1A+UXV8c59fFPogHrcEdj8q0xMgFAeRL7VlbdwQ+Fhes9zZC4LxsECYLi/3lm2iGcVbkDT6v9A2vgTw/9vjCvDqZFyEL4bEuDQzGrz3X1EmUAizIAG4RvetkQSEksUe0eunOivR9MJkdPDZ2WDMTCd1UZ4E8wE6GMD7YSgqKEHdKdpkFFJZoz+Gl8RZTX6NsrcGO2Y8Mztg+XWLQeYhv6BWYpxW5pj6ICTp7WsxC7TVRWXcusdLjaF6CI+YAn4KrlgH/iqFI4VhIp9tJXNE6JzhZa/6TCkPmUghaftOfbjZdx7f50XSrlcLbEJp/hetce4Y+lF86V9nEKCRNFNk8UkoBT27LY5sKvBC+rLFDfcIAm3FldGAlJVesXhvpk61CjJB+yhYZDNmo0QDmcKF3zKgtxqf5W8+lXKHKFdkOgEIGJcYo14QNLGIOaIphy36PN7bTuozcgrC504Z5E0NEIcDL81Ie6XVeJJGoUFwM0TTHqE59ErM5Cjxl6ulPVnw5iwVaQ==;NsJkIR+YEavIqFWvUt6UTQ=="

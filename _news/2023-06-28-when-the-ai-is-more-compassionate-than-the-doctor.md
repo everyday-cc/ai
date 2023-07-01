@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-mor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,37 +30,77 @@ images:
     isCached: true
 
 related:
-  - title: "AI is my copilot"
-    excerpt: "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone."
-    publishedDateTime: 2023-06-26T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html"
-    ampWebUrl: "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html"
+  - title: "The True Threat of Artificial Intelligence"
+    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
+    publishedDateTime: 2023-06-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
     images:
-      - url: "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Windows 11’s Copilot brings AI chat to desktops in first public preview"
-    excerpt: "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen."
-    publishedDateTime: 2023-06-29T17:08:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
+  - title: "Artificial Intelligence May Create More Jobs Than It Kills"
+    excerpt: "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by"
+    publishedDateTime: 2023-06-26T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "High-resolution cameras with AI show cuttlefish camouflage is more complex than previously thought"
+    excerpt: "Cuttlefish, along with other cephalopods like octopus and squid, are masters of disguise, changing their skin color and texture to blend in with their underwater surroundings."
+    publishedDateTime: 2023-06-28T15:00:00Z
+    webUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.html"
+    ampWebUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cuttlefish-camouflage.jpg"
+        width: 2637
+        height: 2416
+        isCached: true
+  - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
+    excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
+    publishedDateTime: 2023-06-27T14:12:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375358/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358-640x360.jpg?cb=20230627"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "How Policymakers Can Tackle the Complexities of AI Models"
+    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
+    publishedDateTime: 2023-06-27T16:05:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "mOd7naEhOpsZV034vMfiQcndxvg9uVA7ofMH65cpZo/XIY3UUTdev6W5GHUVCRGkonDRWrDJL4pt85TR0eaofcWnSV/e7i+7RjoCnxJ2v/Pta7SHL6SdZtYPNHznMo7BzHA4Vq7XFBawmFjewHWl80HfohNfDxkeNyT19WgFoRFkoxpIC0flk3WQSSiaOltgqwRaspSi9pxXdOCpmlSUq2Hy8r0ObmYjSbYiNAnS/ylgQ4JTJsuBwVW2BCy/kMR+lklebKcL7AvezM7Nn1+DTDd3kzsdeh7Xo9zYad1jj0buEjw9MZIf7CKFLpRJ0KuKyTkSyfwMJg0e5yNWYENF8X52oci/O6FDa6eEWdJ6UYy+jC8lzdbqJ4GH3ZCjZPPfsswIaBrz1UgYGAPomtmoaNtUJDw5hIOcQjMcOCar43DjMax7t3OHjTbjcQ8BoHQ8P0x7fgbZRjIGaHd/SWYsVSlXn04JWwU2dW3B0p2s434rhQFCBYd3uXx0N7ZjvNDkWvqyfUGU1yn8wdckdJGeQg==;4LY4xW9M9RpmyfIoAmZIyA=="

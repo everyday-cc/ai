@@ -2,6 +2,306 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-27-wimbledon-teams-up-with-ibm-to-introduce-generative-ai-video-commentary-and-highlight-clips.md",
+      "title": "Wimbledon teams up with IBM to introduce generative AI video commentary and highlight clips",
+      "excerpt": "The All England Club is partnering with tech giant IBM to bring AI-generated audio commentary and captions to the Grand Slam tournament's online highlights videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips",
+      "originalUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/1200/675/Wimbledon-Championship.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp",
+      "publishedDateTime": "2023-06-26T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai.md",
+      "title": "Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI",
+      "excerpt": "Last week, we talked with Kindred Ventures, a small, nine-year-old, San Francisco-based early-stage venture firm that, despite investing in a lot of nascent startups — more than 100 to date — takes a generalist approach,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-26-at-11.07.59-AM.png?resize=1200,818",
+          "width": 1200,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
+      "publishedDateTime": "2023-06-26T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking.md",
+      "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
+      "excerpt": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
+      "publishedDateTime": "2023-06-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival.md",
+      "title": "Tech leaders discuss future of AI at Aspen Ideas Festival",
+      "excerpt": "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
+      "originalUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo185196101717",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717",
+      "publishedDateTime": "2023-06-26T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-ai-awareness-now-a-must-on-any-business-resume.md",
+      "title": "AI Awareness Now A Must On Any Business Resume",
+      "excerpt": "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1525,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/",
+      "publishedDateTime": "2023-06-26T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-microsofts-latest-small-language-model-outperforms-chatgpt-with-a-fraction-of-parameters.md",
+      "title": "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters",
+      "excerpt": "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
       "title": "Here’s how robotics in healthcare settings could reduce wait times",
       "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
@@ -43,58 +343,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-snowflake-nvidia-partner-to-enable-generative-ai-app-development-in-the-snowflake-data-cloud.md",
-      "title": "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud",
-      "excerpt": "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -306,7 +554,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/06/26/samsung-mass-produce-memory-chips-ai-competing-sk-hynix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -504,7 +752,7 @@
       "originalUrl": "https://venturebeat.com/ai/more-details-emerge-about-google-deepmind-efforts-to-surpass-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -607,7 +855,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -648,110 +896,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-wingpt-is-a-windows-31-ai-chatbot-for-your-old-ibm-compatible-desktop.md",
-      "title": "“WinGPT” is a Windows 3.1 AI chatbot for your old IBM-compatible desktop",
-      "excerpt": "WinGPT supports any 16- or 32-bit version of Windows 3.1 or newer but won't run natively on 64-bit versions of Windows. You can download it from the bottom of this Dialup.net page, which also doubles as a development blog detailing how it was built and how its icon was designed.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/image_editor.png",
-          "width": 728,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/",
-      "publishedDateTime": "2023-06-26T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-artificial-intelligence-may-create-more-jobs-than-it-kills.md",
-      "title": "Artificial Intelligence May Create More Jobs Than It Kills",
-      "excerpt": "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
       ]
     },
     {
@@ -1092,162 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-bentoml-scores-9m-funding-to-expedite-ai-app-development.md",
-      "title": "BentoML scores $9M funding to expedite AI app development",
-      "excerpt": "Chaoyu Yang and his co-founders have built the AI development framework BentoML, which just announced a seed financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1224500457.jpg?resize=1200,886",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai.md",
-      "title": "HPE GreenLake Large Language Models And IEEE Urges Ethical Use Of AI",
-      "excerpt": "HPE announced GreenLake AI Cloud for privately trained large language models. IEEE cautions that in addition to the good that it enables we must avoid AI for malicious applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499b54a89da5466485d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1519,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-beyond-nvidia-does-ai-processing-gpus.md",
-      "title": "Beyond Nvidia: Does AI processing = GPUs?",
-      "excerpt": "With all the hype excitement around AI recently, we have noticed that most people have taken the default position that all AI workloads will always be",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
-      "originalUrl": "https://www.techspot.com/news/99197-beyond-nvidia-does-ai-processing-gpus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-26-image-13.jpg",
-          "width": 4000,
-          "height": 2623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acqu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/26/databricks-acquires-mosaicml-to-make-generative-ai-more-accessible/amp/"
 type: article
 quality: 89
-heat: 389
+heat: 379
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Immuta_Primary_Logo@3x.jpg?w=1200&strip=all"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML"
-    excerpt: "Databricks has agreed to buy generative AI startup MosaicML in a deal valued at roughly $1.3 billion, a move aimed at capturing the fast-growing demand from businesses to build their own ChatGPT-like tools."
-    publishedDateTime: 2023-06-26T10:40:00Z
-    webUrl: "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?tpl=venturecapital"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-806103/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Databricks Gains MosaicML and Its Generative AI for $1.3 Billion"
     excerpt: "Learn what the Databricks acquisition means for companies looking into public or private generative AI foundation models."

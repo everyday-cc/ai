@@ -62,7 +62,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/where-americans-want-and-dont-want-ai-in-healthcare-7-things-to-know.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -200,21 +200,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-30-big-tech-corporate-venture-capital-generative-ai-startups.md",
-      "title": "Big Tech corporate venture capital 🤝 generative AI startups",
-      "excerpt": "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks.",
+      "path": "_news/2023-06-30-runway-a-startup-building-generative-ai-for-content-creators-raises-141m.md",
+      "title": "Runway, a startup building generative AI for content creators, raises $141M",
+      "excerpt": "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
-      "originalUrl": "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/",
+      "webUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
+      "originalUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617",
           "width": 1200,
-          "height": 675,
+          "height": 617,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,9 +222,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T12:43:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/",
+      "publishedDateTime": "2023-06-29T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -355,6 +355,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-30-windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview.md",
+      "title": "Windows 11’s Copilot brings AI chat to desktops in first public preview",
+      "excerpt": "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/",
+      "publishedDateTime": "2023-06-29T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-amazon-prime-day-2023-best-early-deals-and-when-the-sale-starts.md",
       "title": "Amazon Prime Day 2023: best early deals and when the sale starts",
       "excerpt": "Amazon Prime Day takes place on July 11 - 12 this year but the retailer already has a vast number of early Prime Day deals for you to shop now. We've searched through them and picked out the best ...",
@@ -459,6 +510,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-29-im-an-ai-prompt-engineer-here-are-my-3-requirements-for-writing-a-prompt-for-chatbots-like-chatgpt.md",
+      "title": "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT.",
+      "excerpt": "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6",
+      "originalUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp",
+      "publishedDateTime": "2023-06-29T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-amazons-rapid-fire-ai-testing-ground.md",
       "title": "Amazon's rapid-fire AI testing ground",
       "excerpt": "Amazon wants to help AI models learn even quicker.  The company is seeking to patent a method for \"fast annotation of samples\"",
@@ -509,6 +612,58 @@
         "Microsoft AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-the-huge-power-and-potential-danger-of-ai-generated-code.md",
+      "title": "The Huge Power and Potential Danger of AI-Generated Code",
+      "excerpt": "Programming can be faster when algorithms help out, but there is evidence AI coding assistants also make bugs more common.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/649cd8329ec11a2433532c08/191:100/w_1280,c_limit/AI-Coding-Assistants-Fast-Forward-Business-932736250.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1058,143 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
-      "title": "How AI Influences What You See on Facebook and Instagram",
-      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
-      "publishedDateTime": "2023-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "about.fb",
-        "domain": "fb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-startup-typeface-valued-at-1-bln-after-salesforce-led-fundraise.md",
-      "title": "AI startup Typeface valued at $1 bln after Salesforce-led fundraise",
-      "excerpt": "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
-      "title": "AI will transform finance sector, regulator says",
-      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
-      "publishedDateTime": "2023-06-28T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -247,6 +247,15 @@ related:
       name: PhoneArena
       domain: phonearena.com
     quality: 31
+  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
+    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
+    publishedDateTime: 2023-06-28T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 21
   - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
     excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
     publishedDateTime: 2023-06-27T13:13:00Z

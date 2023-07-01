@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI model can help doctors determine the extent of cancer within the prostate"
     excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
     publishedDateTime: 2023-06-28T01:14:00Z

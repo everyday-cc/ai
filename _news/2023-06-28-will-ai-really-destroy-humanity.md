@@ -73,6 +73,15 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "The real reason claims about the existential risk of AI are scary"
+    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
+    publishedDateTime: 2023-06-28T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 19
   - title: "Can AI really destroy humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
     publishedDateTime: 2023-06-30T21:20:00Z

@@ -76,22 +76,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Older adults are comfortable using WhatsApp and Facebook - but draw the line at AI"
-    excerpt: "Over half of adults over the age of 65 say they would like to become more confident with using and understanding digital technology, research has found."
-    publishedDateTime: 2023-06-26T10:46:00Z
-    webUrl: "https://www.express.co.uk/life-style/science-technology/1784564/older-adults-digital-technology-whatsapp-facebook-ai"
-    ampWebUrl: "https://www.express.co.uk/life-style/science-technology/1784564/older-adults-digital-technology-whatsapp-facebook-ai/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/science-technology/1784564/older-adults-digital-technology-whatsapp-facebook-ai/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 53
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/4824128.jpg?r=1687776381284"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Meta reveals “secret” behind AI-powered content personalisation on Facebook, Instagram"
     excerpt: "Meta is explaining the AI influence in an effort to be more transparent and accountable. (Photo Credits: Reuters) We live in an era where we cannot imagine our day without Instagram or Facebook, but has this ever popped into your head that why are you consuming this particular content?"
     publishedDateTime: 2023-06-30T09:11:00Z

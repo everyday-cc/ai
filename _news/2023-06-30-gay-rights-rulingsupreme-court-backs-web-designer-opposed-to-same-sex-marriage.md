@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-
 webUrl: "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law"
 type: article
 quality: 50
-heat: 70
+heat: 71
 published: true
 
 provider:

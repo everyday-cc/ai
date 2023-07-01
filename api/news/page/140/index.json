@@ -2,6 +2,154 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2023-03-26-ai-software-revenue-is-racing-toward-14-trillion-2-growth-stocks-to-buy-now-and-hold.md",
+      "title": "AI Software Revenue Is Racing Toward $14 Trillion: 2 Growth Stocks to Buy Now and Hold",
+      "excerpt": "Forrester Research says Nvidia GPUs are synonymous with AI infrastructure. That brand authority means the company is perfectly positioned to benefit as AI becomes more widespread, and its growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/26/ai-software-racing-2-growth-stocks-to-buy-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/26/ai-software-racing-2-growth-stocks-to-buy-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725653/artificial-intelligence-6.jpg",
+          "width": 2190,
+          "height": 1369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-artificial-intelligence-godfather-on-ai-possibly-wiping-out-humanity-not-inconceivable.md",
+      "title": "Artificial intelligence ‘godfather’ on AI possibly wiping out humanity: ‘Not inconceivable’",
+      "excerpt": "Geoffrey Hinton, a computer scientist who has been called “the godfather of artificial intelligence”, says it is “not inconceivable” that AI may develop to the point where it poses a ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/",
+      "originalUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008804240.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/26/artificial-intelligence-could-threaten-humanity-scientist/amp/",
+      "publishedDateTime": "2023-03-26T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-26-robot-recruiters-can-bias-be-banished-from-ai-hiring.md",
+      "title": "Robot recruiters: can bias be banished from AI hiring?",
+      "excerpt": "A third of Australian companies rely on artificial intelligence to help them hire the right person. But studies show it’s not always a benign intermediary",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
+      "originalUrl": "https://www.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7f7673f391ffe95c5dd2dee68ff972d8c513292c/38_0_5931_3559/master/5931.jpg?width=620&quality=85&auto=format&fit=max&s=05eed7a313f4cb83a3e388c5da98b626",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/27/robot-recruiters-can-bias-be-banished-from-ai-recruitment-hiring-artificial-intelligence",
+      "publishedDateTime": "2023-03-26T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-better-late-than-never-3-artificial-intelligence-ai-stocks-that-still-have-massive-upside.md",
       "title": "Better Late Than Never: 3 Artificial Intelligence (AI) Stocks That Still Have Massive Upside",
       "excerpt": "SentinelOne's use of artificial intelligence gives it a performance edge over its ... SentinelOne scores very high on benchmarks such as MITRE's ATT&CK Evaluations, and research firm Gartner gave it the top rank in endpoint protection.",

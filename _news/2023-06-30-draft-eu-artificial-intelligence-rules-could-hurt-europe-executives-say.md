@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/draft-eu-artificial-intelligenc
 webUrl: "https://www.reuters.com/technology/draft-eu-artificial-intelligence-rules-could-hurt-europe-open-letter-2023-06-30/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
-    excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
-    publishedDateTime: 2023-06-26T15:39:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
+  - title: "AI Law Draws Pushback From Big Brands in Europe"
+    excerpt: "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules."
+    publishedDateTime: 2023-06-30T10:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 39
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-809998/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "European companies sound alarm over draft AI law"
     excerpt: "EU politicians, after nearly two years of wrangling, recently agreed on the toughest set of rules on AI in the world. The draft text of the Artificial Intelligence Act will serve as the negotiating position between member states and the European Commission."

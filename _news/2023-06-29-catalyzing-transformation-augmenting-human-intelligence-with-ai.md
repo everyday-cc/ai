@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Transforming Healthcare With Generative AI"
+    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
+    publishedDateTime: 2023-06-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "The Transform AI Survey: Help discover the state of generative AI"
     excerpt: "Take the VB AI Survey to shed light on the challenges businesses are facing and learn where your company stands on the AI adoption curve."
     publishedDateTime: 2023-06-29T13:11:00Z

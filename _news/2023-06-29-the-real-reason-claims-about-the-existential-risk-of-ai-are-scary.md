@@ -19,66 +19,77 @@ topics:
   - AI
 
 related:
-  - title: "The True Threat of Artificial Intelligence"
-    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
-    publishedDateTime: 2023-06-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
+  - title: "Artificial Intelligence: An Existential Risk To Humanity"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T07:24:00Z
+    webUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993"
+    ampWebUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 73
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
+        width: 1200
+        height: 738
         isCached: true
-  - title: "The Picks And Shovels Of The AI Gold Rush"
-    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
-    publishedDateTime: 2023-06-26T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+  - title: "Will AI Really Destroy Humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
+    publishedDateTime: 2023-06-27T09:14:00Z
+    webUrl: "https://www.barrons.com/news/will-ai-really-destroy-humanity-c7c6eb2e"
+    ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI Threatens Creative and Intellectual Workers"
-    excerpt: "Several years ago, various studies and reports 'promised' creative and intellectual work would be safe from the artificial intelligence revolution. But the emergence of GPT-4 and Midjourney immediately became a threat."
-    publishedDateTime: 2023-06-28T01:17:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-ai-ancam-pekerja-kreatif-dan-intelektual"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 41
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/yJKxvZMF304_8HhiZMAwNk8WX_Q=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F06%2F27%2F84b58d5f-7dc7-4362-84ea-a3901da86749_jpg.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1075391273045126903995874226896604482966---1.jpg"
+        width: 768
+        height: 511
         isCached: true
-  - title: "How Policymakers Can Tackle the Complexities of AI Models"
-    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
-    publishedDateTime: 2023-06-27T16:05:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
+  - title: "Will artificial intelligence really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence (AI) poses an existential risk to humanity and must be shackled before it is too late. But"
+    publishedDateTime: 2023-06-27T07:51:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/27/125105.JPG?v=1687853100"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "Will AI really destroy humanity?"
+    excerpt: "Artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity? PAPE"
+    publishedDateTime: 2023-06-27T17:48:00Z
+    webUrl: "https://www.channelnewsasia.com/world/will-ai-really-destroy-humanity-3589001"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--rufyPV2I--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/a89bb75455985ebfe4237db09c27f3b5374ac12a.jpg?itok=EtV4Jhu7"
+        width: 1200
+        height: 676
         isCached: true
+  - title: "Can AI really destroy humanity?"
+    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
+    publishedDateTime: 2023-06-30T21:20:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/will-ai-really-destroy-humanity1"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "SQwRhzlqZUxzpRLEAWt/l595StJ8GHGMvX1SUAMj6GEJnZtw8h9bQ052ECqvQezhGnknwugf+UpX4xa+lMUR3qIwu4cRTKk1TUf+7Pp555vxaEQGeW6JZQTYQzvYc/0a8dgfBj6oYiArXWUUlUB8wX+KZJrUbX4ffep4bey5jRf5UCxJcly4FMacPxJLO0A63ETv1ab84+dcawaV1no951XRyxYIk6QRNqQNzT4Q6dYwqf4IZJu/f5bFmkn5HifRxrO442STgCFXmteqPc9LP6Jz3pMgWfdM294Qv/WrOBcd/PPefO798US08W7g+BX7UEGwDZsNcAjy8SZyiAetBkjZ2nUd/an+CvP946gnZRuQ2u2tcgmrY6to7Ad949j4sHYFDu7CY2ihdsNzV8RTcZShCNDT7gLIkE88sOJ5K119irw65eeh1J1F8wdwg90cASzmVJKaXj81V4gZAaRTrk2QRZaMXLQWgkdQJXmtJDJoSmF4IiFhfpYBx4hbFeNvoAbICCYVwDslDSsurZI/Lg==;y6R+522H1s269t60f91M4Q=="
 ---

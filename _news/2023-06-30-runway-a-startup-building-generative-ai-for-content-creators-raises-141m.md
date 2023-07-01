@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: TechCrunch
@@ -30,97 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
-    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
-    publishedDateTime: 2023-06-27T18:38:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Faros AI raises $20M to bring visibility to software engineering teams"
-    excerpt: "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round."
-    publishedDateTime: 2023-06-27T15:28:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Reka emerges from stealth to build custom AI models for the enterprise"
-    excerpt: "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round."
-    publishedDateTime: 2023-06-27T23:29:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "CalypsoAI secures $23 million to lead enterprise AI security market"
-    excerpt: "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution."
-    publishedDateTime: 2023-06-27T11:30:00Z
-    webUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/"
+  - title: "Cyera raises $100M to expand data security platform for AI-driven enterprises"
+    excerpt: "With this latest funding round, Cyera has raised a total of $160 million for its data security platform for enterprises driven by AI."
+    publishedDateTime: 2023-06-28T16:51:00Z
+    webUrl: "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_vector_art_of_AI_security_13117b12-b3d2-4178-8ffb-89eb5868470e.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
-  - title: "CalypsoAI Raises $23 Million for AI Security Tech"
-    excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
-    publishedDateTime: 2023-06-27T11:30:00Z
-    webUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/"
-    ampWebUrl: "https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 74
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Cyera-Founders.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Faros AI raises $20M to bring AI insights to software engineering"
-    excerpt: "Faros AI, an AI startup focused on software engineering, announced today that it has raised $20 million in Series A funding."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://venturebeat.com/ai/faros-ai-secures-20m-engineering-leaders-data-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
         isCached: true
   - title: "Scriptic raises $5.7M for user-generated games using generative AI"
     excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
@@ -136,15 +58,40 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "Healthcare funnels $20B into generative AI"
-    excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
-    publishedDateTime: 2023-06-30T18:24:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-funnels-20b-into-generative-ai.html"
+  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
+    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
+    publishedDateTime: 2023-06-27T15:50:00Z
+    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
+    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 53
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Robotics startup raises millions for AI, remote control applications"
+    excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
+    publishedDateTime: 2023-06-29T01:22:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/inno-insights/2023/06/28/contoro-robotics-lands-millions-for-warehouse-bots.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
+  - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
+    excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "d5qz14vRJowBHoRwn3/fq0gUDJa3kx+G9xV9Rdnp9oX+HS6tGIv0DegJ+xoifIjuffGU2Px7GZD3LYMqBq3PUEDNw00WprfN6VKldPcjYx3qa5fMego7Hoj9QTzPkfHAkGvcwLV8jU5TRPynxKo7YwJOq0vwPg1zli8Wo85OZ4SChDfSfVc94XhGiZHIqagHRW1XrYc8O0TWI+t/VhwnS0v7J+PfQsCceAkIXKraxe5J+Ei8LmWvRLgwj6xom3dwzJBjsvTT9y/xVcF+91bhU+cRPMo/NqRYfSmshzktl25Z7n0/Ehkw+OjvzAF7O26OxzDu+A9sEAce4KDmNrjpIZUQGO27RiEnfbFnUWTLEXcoYFbBjaYgU8C1UVH/RZHwVEz/nd0AvPGb9tsVrija3JEJ/YiB1mO17towYvF8HTsK5Bw6a+WrfkEzptMBSPdrc0OGeyBoiqEUs4ZJBZpKB2AdQE62AxpAJBHEn/BKehXWOaAdxH2tnTpsF+YskjYv5ITbgs6+mQ3BRxDx0jB3ng==;k8k6Kn4rpppo7z/upTw3dw=="
 ---

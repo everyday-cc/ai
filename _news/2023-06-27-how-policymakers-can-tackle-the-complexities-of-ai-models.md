@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "When The AI Is More Compassionate Than The Doctor"
+    excerpt: "More physicians are using AI to help in the more “human” aspects of medical care, including communicating with empathy and compassion."
+    publishedDateTime: 2023-06-27T23:44:00Z
+    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/"
+    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b7397aa671b8e72c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1273
+        height: 900
+        isCached: true
   - title: "The True Threat of Artificial Intelligence"
     excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
     publishedDateTime: 2023-06-30T09:00:00Z
@@ -39,47 +55,50 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Picks And Shovels Of The AI Gold Rush"
-    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
-    publishedDateTime: 2023-06-26T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+  - title: "Artificial Intelligence May Create More Jobs Than It Kills"
+    excerpt: "Everyone knows AI is going to steal all our jobs. What a new study presupposes is... maybe it won't? A research paper published this month by"
+    publishedDateTime: 2023-06-26T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/06/26/artificial-intelligence-may-create-more-jobs-than/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Using AI To Determine The Health Of The Electrical Grid"
-    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
-    publishedDateTime: 2023-06-29T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI Threatens Creative and Intellectual Workers"
-    excerpt: "Several years ago, various studies and reports 'promised' creative and intellectual work would be safe from the artificial intelligence revolution. But the emergence of GPT-4 and Midjourney immediately became a threat."
-    publishedDateTime: 2023-06-28T01:17:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-ai-ancam-pekerja-kreatif-dan-intelektual"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 41
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/yJKxvZMF304_8HhiZMAwNk8WX_Q=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F06%2F27%2F84b58d5f-7dc7-4362-84ea-a3901da86749_jpg.jpg"
-        width: 1024
-        height: 576
+      - url: "https://g.foolcdn.com/editorial/images/737575/featured-daily-upside-image.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "The real reason claims about the existential risk of AI are scary"
-    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
-    publishedDateTime: 2023-06-28T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
+  - title: "High-resolution cameras with AI show cuttlefish camouflage is more complex than previously thought"
+    excerpt: "Cuttlefish, along with other cephalopods like octopus and squid, are masters of disguise, changing their skin color and texture to blend in with their underwater surroundings."
+    publishedDateTime: 2023-06-28T15:00:00Z
+    webUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.html"
+    ampWebUrl: "https://phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-high-resolution-cameras-ai-cuttlefish-camouflage.amp"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
+      name: Phys.org
+      domain: phys.org
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cuttlefish-camouflage.jpg"
+        width: 2637
+        height: 2416
+        isCached: true
+  - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
+    excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
+    publishedDateTime: 2023-06-27T14:12:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375358/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358-640x360.jpg?cb=20230627"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "OXAyQLekstsy5QP5Z2tsO66LEjUJKpQhB4EqrZSHTnzvbyjN7RAeRwqyShlNlHnfMAEj7wrmG+8C6dT6nhnKD5esWHbzBmt2RBO2rX0rPNh7/QYTGjjXOMtOZNsWCXf6AlIMGzmxMzDessn5H92rLh22s11ZwjZn1r+Mrw1PNuA8HCR+E3eXFvnQ+dA2BwefWrnjhANr/wNSxzEzxB86nsnJxfNKEx1R1UcRWzZ3GXjuOcq3rGU33LlCIZbOOKXndnFEcCCdCEgubq+TJYRDvDuy2ULevSQvf9xEey39HKANjf9gmuLqOxYLdpPpNLUZxDBXW3k2Rj9BJjoBlAc1BibWvvoqYLREr9kdwduRsMynHYBF5yn6VtINBTT/jrpvw2JlJw8ultrsgYK6ZcnJuHT1hf1gCs7L2Yf+aChCLWvB0eX1H5LbSCzTRG0YQLqnEJgJIXx/yQ2bwh4KQk1XdG/gz0jlqleeA/tvu81BZfy97Rd0z3yoxjkaQ0Udo3y9TIXyIQw2L/SAy5AmzuR/bw==;DwuaAohipliGZ1FHIH2seA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "13 Principles for Using AI Responsibly"
 excerpt: "The competitive nature of AI development poses a dilemma for organizations, as prioritizing speed may lead to neglecting ethical guidelines, bias detection, and safety measures. Known and emerging concerns associated with AI in the workplace include the spread of misinformation,"
 publishedDateTime: 2023-06-30T12:14:00Z
-originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
-webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly?ab=HP-hero-latest-image-1"
+originalUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
+webUrl: "https://hbr.org/2023/06/13-principles-for-using-ai-responsibly"
 type: article
 quality: 39
 heat: -1
@@ -25,346 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "How to responsibly scale business-ready generative AI"
-    excerpt: "Generative AI is being analyzed for a variety of use cases across businesses. Learn how you can responsibly scale AI for your business.\nThe post How to responsibly scale business-ready generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-06-26T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-to-responsibly-scale-business-ready-generative-ai/"
+  - title: "Wisconsin healthcare system using artificial intelligence"
+    excerpt: "AND JOINING US THIS AFTERNOON TO TALK ABOUT OTHER USES FOR ARTIFICIAL INTELLIGENCE IN HEALTH CARE IS FRANK LAO. HE’S THE SENIOR DIRECTOR OF EMERGING TECHNOLOGIES AT UW HEALTH IN MADISON. DR. LAO, THANK YOU SO MUCH FOR YOUR TIME THIS AFTERNOON."
+    publishedDateTime: 2023-06-28T13:27:00Z
+    webUrl: "https://www.wisn.com/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 76
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXData_A05.l-e1683578205623-630x330.jpg"
-        width: 630
-        height: 330
-        isCached: true
-  - title: "Google Stakes A Claim To All Things Generative AI"
-    excerpt: "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ..."
-    publishedDateTime: 2023-06-28T14:03:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Six Risks Of Generative AI"
-    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
-    publishedDateTime: 2023-06-29T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
+      - url: "https://kubrick.htvapps.com/vidthumb/5cb33f08-aec1-41e4-98f6-970833e79135/1bda7701-8a0f-4ab7-877e-249b3d2e1b9e.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Awareness Now A Must On Any Business Resume"
-    excerpt: "Succeeding in business — across all occupations — will require at least some working knowledge of AI, industry experts concur. “In today’s global business environment, you’d be hard-pressed to find many roles that don’t require digital skills to complete daily tasks,” says Maureen Lonergan, vice president for training and certification at AWS."
-    publishedDateTime: 2023-06-27T02:57:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/06/26/ai-awareness-now-a-must-on-any-business-resume/amp/"
+  - title: "How Is AI Changing the Future of Modern Health Care?"
+    excerpt: "Discussions about artificial intelligence have proliferated as more people have access to programs that can make art or answer questions. In the health-care industry, the move to using AI is already well underway."
+    publishedDateTime: 2023-06-26T16:24:00Z
+    webUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care"
+    ampWebUrl: "https://www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/how-is-ai-changing-the-future-of-modern-health-care?_amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621921e91ed8cdeb7a949c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1525
-        height: 900
-        isCached: true
-  - title: "How Generative AI is a Game Changer for Cloud Security"
-    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
-    publishedDateTime: 2023-06-29T16:34:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
-    excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
-    publishedDateTime: 2023-06-30T14:08:00Z
-    webUrl: "https://www.wsj.com/articles/businesses-cfo-aim-to-harness-generative-ai-to-shake-up-accounting-finance-f427ff"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-809446/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Generative AI vs. Machine Learning"
-    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
-    publishedDateTime: 2023-06-29T23:49:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Oracle taps generative AI to streamline HR workflows"
-    excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
-    publishedDateTime: 2023-06-28T21:19:00Z
-    webUrl: "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Transforming Healthcare With Generative AI"
-    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
-    publishedDateTime: 2023-06-27T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
-    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
-    publishedDateTime: 2023-07-01T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "Capital One’s new chief scientist says ‘responsible, thoughtful’ generative AI is key"
-    excerpt: "Prem Natarajan, Capital One's new chief scientist and head of enterprise AI, says the company has a 'deep imperative' to operate responsibly."
-    publishedDateTime: 2023-06-30T14:41:00Z
-    webUrl: "https://venturebeat.com/ai/capital-ones-new-chief-scientist-says-responsible-thoughtful-generative-ai-is-key/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-30T080615.824.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "AI is the future, but we need to have a responsible future"
-    excerpt: "A panel discussion was held by Blumberg Capital on the Future of FinTech, discussing how the new generation will consume financial services and how Gen AI will affect this sector."
-    publishedDateTime: 2023-06-26T11:17:00Z
-    webUrl: "https://www.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720"
-    ampWebUrl: "https://m.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/ai-is-the-future-but-we-need-to-have-a-responsible-future-747720/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/541536"
-        width: 690
-        height: 407
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/50e74b7/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2F41%2F5a00b53049eebb276280f1f7f796%2Fgenerative-ai.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "The best use for generative AI in healthcare"
-    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
-    publishedDateTime: 2023-06-26T21:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
+  - title: "Wisconsin health system, Nvidia back healthcare AI company in $54M round"
+    excerpt: "Wisconsin health system joins Big Tech in backing healthcare AI company Flywheel, which uses AI to analyze medical imaging data. Investors include Microsoft, Hewlett Packard Enterprise and the venture capital arm of Nvidia."
+    publishedDateTime: 2023-06-28T14:38:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/wisconsin-health-system-nvidia-back-healthcare-ai-company-in-54m-round.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 54
+    quality: 53
     images:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
         isCached: true
-  - title: "MAS Releases Open-Source AI Toolkit to Promote Responsible Use in Finance Sector"
-    excerpt: "MAS has released an open-source toolkit to enable the responsible use of Artificial Intelligence (AI) in the financial industry."
-    publishedDateTime: 2023-06-27T03:43:00Z
-    webUrl: "https://fintechnews.sg/75549/ai/mas-releases-open-source-ai-toolkit-to-promote-responsible-use-in-finance-sector/"
+  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
+    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
+    publishedDateTime: 2023-06-28T03:35:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 51
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 29
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Releases-Open-Source-AI-Toolkit-to-Promote-Responsible-Use-in-Finance-Sector.png?x22319"
-        width: 1024
-        height: 567
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
-    publishedDateTime: 2023-06-27T00:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Dataiku unlocks the potential of generative AI in business apps"
-    excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
-    publishedDateTime: 2023-06-26T11:12:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/108092/dataiku-unlocks-the-potential-of-generative-ai-in-business-apps/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "AI linked to new crop of business email scams"
-    excerpt: "Businesses can no longer count on bad spelling and grammar to red-flag problem emails: fraudsters are using AI to craft well-written email messages at scale."
-    publishedDateTime: 2023-06-27T15:59:00Z
-    webUrl: "https://www.cfodive.com/news/ai-linked-new-crop-of-business-email-scams/653977/"
-    type: article
-    provider:
-      name: cfodive
-      domain: cfodive.com
-    quality: 39
-    images:
-      - url: "https://www.cfodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The Race to Regulate Artificial Intelligence"
-    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
-    publishedDateTime: 2023-06-27T04:49:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Study reveals generative artificial intelligence impact on job roles"
-    excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
-    publishedDateTime: 2023-06-28T11:46:00Z
-    webUrl: "https://www.openaccessgovernment.org/study-reveals-generative-artificial-intelligence-impact-on-job-roles/162139/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
-    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
-    publishedDateTime: 2023-06-27T11:27:00Z
-    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 23
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
-        width: 300
-        height: 207
-        isCached: true
-  - title: "Here are four ways we can use AI responsibly | Opinion"
-    excerpt: "Alexa, Siri, chatbots, and thousands of other systems are powered by AI, from text-to-voice translation and facial recognition programs to vehicle accident-avoidance mechanisms. And it’s anticipated that future AI technology could lead to substantial health advances, like earlier detection and diagnosis of cancer."
-    publishedDateTime: 2023-06-26T13:50:00Z
-    webUrl: "https://www.pennlive.com/opinion/2023/06/here-are-four-ways-we-can-use-ai-responsibly-opinion.html"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 19
-  - title: "AI linked to new crop of business email scams"
-    excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
-    publishedDateTime: 2023-06-28T13:18:00Z
-    webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 19
-  - title: "Generative AI is breaking all the rules"
-    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
-    publishedDateTime: 2023-06-27T18:15:00Z
-    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 19
-  - title: "How CEOs can tap full potential of generative artificial intelligence"
-    excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
-    publishedDateTime: 2023-06-27T18:58:00Z
-    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "Call for generative AI guardrails, responsible design"
-    excerpt: "Researchers are cautiously optimistic about where generative artificial intelligence (GenAI) will lead humanity, but “we must develop more guardrails”. This is according to Pascale Fung, chair professor in the Department of Electronic and Computer Engineering of Hong Kong SAR,"
-    publishedDateTime: 2023-06-29T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/06/29/call-for-generative-ai-guardrails-responsible-design/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "How Businesses Can Leverage Google’s AI Tech"
-    excerpt: "Business leaders in today's tech and startup scene know the importance of mastering AI and machine learning. They realize how it can help draw valuable insights from data, streamline operations through smart automation,"
-    publishedDateTime: 2023-06-29T13:49:00Z
-    webUrl: "https://www.unite.ai/how-businesses-can-leverage-googles-ai-tech/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
 
-secured: "ivk04z4UlZ1iLzt1zuvtQNQ0svCuTnVouhtt3pNR5td2tbsHs9nBNVtH22dZYoER4xy5efhCdEKOt2TY66Tp7d//BlRRVpTEyO+p/wWX0MWp4M8+++n17ss3i8cavbrPApmVDgLE+ceEB2V4hxT8I1aoI+muV3JKna4jRMYCRG5bk5ulZP/a7IMp5dW1G82uZFvyviDBhU4r6STye2/bDP+DueMh8e5wd359hp4xmZGxJd3deZyOiL21g8ygRGzjcsMIzPWJPuFeZclfybRCdlhv6/GMFIlm6JiHLcXpOfn6+EQcg+YEnDHLponZ7ojvI+YnPX8usIFrbzEBqFzLaqJZKxEERjkWSfjm3XxkcvY=;fN2alGgsWCmbWjgAcJP+tg=="
+secured: "EEFlQr8s/lauDfCMga5F7qyMqFvQ/6WBQ8qg/pilqusQgZGQPfwL3hL/ec51xCwGa4E/W8FJi7jfqmscU9/Hki74g1cn1VTSARWfKzsLWv5C/G6apnAAEDZX5NsI4560UEJPx0JZ4cTBQ63rcD8P6RykC5xKP4XGTk/lnJBSNxXe7PHerIrZUMDNtagEfasvI5U4lAT3/PJPWRQMeaje88fTCemwOBfmWfn9UTDXBhNfRQzfbVmMmmYFMsFqK7RKTYdle3aNbkLrwEr8oyGFCHYo7jl/9kUC0h8f2Hhzi837IFLo+UfKEqXOsxTf0O5OYpgT3Wco2REyIMEEOqXe5+otMsAv7PV25beir/aAqcw=;Y/qv1h6JmBBTC4gMyHKv5Q=="
 ---
 

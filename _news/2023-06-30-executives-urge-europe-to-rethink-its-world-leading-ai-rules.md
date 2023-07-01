@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "The Race to Regulate Artificial Intelligence"
+    excerpt: "Artificial intelligence is taking the world by storm. ChatGPT and other new generative AI technologies have the potential to revolutionize the way people work and interact with information and each other."
+    publishedDateTime: 2023-06-27T04:49:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/race-regulate-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/06/26/RTSK1XQ2.jpg?itok=MbCk3wU1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Artificial Intelligence Revolution Is Nothing Like the Internet Bubble"
     excerpt: "Some of the big-cap technology names, like Apple, are now viewed as safe havens. These stocks aren't going down, so they are safer than just about anything else. The market doesn't seem concerned about valuation,"
     publishedDateTime: 2023-06-26T16:13:00Z

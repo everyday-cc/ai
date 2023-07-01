@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
+    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
+    publishedDateTime: 2023-06-29T16:27:00Z
+    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
+    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "EU AI-rule proposal could clip ChatGPT's wings, but likely won't"
     excerpt: "Though the EU's heavy-handed approach to tech regulation looks likely to continue with the AI Act, we still see room for a middle ground on restrictions on generative AI like ChatGPT."
     publishedDateTime: 2023-06-27T20:01:00Z
@@ -32,6 +48,20 @@ related:
       - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fclarification.png&width=684"
         width: 684
         height: 523
+        isCached: true
+  - title: "Is ChatGPT good at translation? How to use the chatbot to translate languages"
+    excerpt: "ChatGPT excels at language-based tasks, so how well does it handle translation? We think it's worth a try, for popular languages anyway."
+    publishedDateTime: 2023-06-26T20:53:00Z
+    webUrl: "https://www.androidauthority.com/is-chatgpt-good-at-translation-3339418/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 66
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Lawsuit against ChatGPT creator shows the creepiness of AI"
     excerpt: "The class-action lawsuit claims OpenAI, the creator of ChatGPT, engages in theft by scraping data and content from internet users."
@@ -76,6 +106,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
+  - title: "BEST Inc. enhances AI capabilities by integrating ChatGPT into Qianyi ERP software"
+    excerpt: "BEST Inc. announced today that it has integrated the natural language processing tool ChatGPT into its Qianyi ERP software, allowing cross-border sellers to generate multi-language product titles and descriptions using AI."
+    publishedDateTime: 2023-06-28T09:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-inc-enhances-ai-capabilities-by-integrating-chatgpt-into-qianyi-erp-software-1032414274"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Viewpoint: Why healthcare providers shouldn't ban ChatGPT"
     excerpt: "Rather than banning ChatGPT, healthcare providers should make their employees aware of how to use it with patient privacy in mind."
     publishedDateTime: 2023-06-30T16:53:00Z
@@ -99,6 +138,15 @@ related:
       name: Becker's Spine Review
       domain: beckersspine.com
     quality: 34
+  - title: "Complex AI Prompting: 'Putting the Prompt Last Helps the LLM to Stay on Task'"
+    excerpt: "As AI takes hold in the enterprise, Microsoft is educating developers with guidance for more complex use cases in order to get the best out of advanced, generative machine language models like those that power ChatGPT and the company's Copilot assistants that are popping up all over."
+    publishedDateTime: 2023-06-27T19:50:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/06/27/complex-prompting.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 18
 
 secured: "K5N9DtYYJDdWbzdJjgfd/1niICqooi9hYAPir4NsDWsijQF83iqI4jard1weWnJusNh2mi2fApLnu6r1EmsOoDH042GMlSivvdtas084G00h+pHCkL+4sb0/tAqE5NJNNNs45h83GDDQdbN+oiCXs4jRot8jWN8054yPlpvEGNRUUkey6SNXNhxkU/jPIzwsLcq7zXdGCTq0YM2ziZ8pmhvQpYBTdQoE7BbC++zz7uOrs6hCaGS2RVQD2IM1836YDaztTgDD7lMO8iE9wjyXuIT/CRG+YQdnpkaMyYmg8XuCOMIE1mSy0ocTFH+or5i7BSj1uDlhb6cUU20niswh+iqlbLD6EofXmcSPYXVLjiGhfIESaglRUXe6xSA3I3KVzEP1aVKzoD+qL2oYtNxQlpDOFIojBl829Z2ZJn0BBgYm2KjelZi3qMSIWTteM4y//Tc6atC5Aay45NZEN5pxxU5R5Z9z3gJyPC2DltCVIKYMaHB7pj+Ii/OKfhtO2f5Swj7gvjRzYXhMii63mgiHMw==;+zZrBB2RfY/06wf5LVipPg=="
 ---

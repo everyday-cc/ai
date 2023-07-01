@@ -1,10 +1,10 @@
 ---
 category: news
-title: "LexisNexis and Thomson Reuters Weigh In on the Future of AI in Legal Research"
+title: "LexisNexis and Thomson Reuters Weigh in on the Future of AI in Legal Research"
 excerpt: "The recent acquisition of Casetext by Thomson Reuters has raised many questions about the future of generative AI in legal research. Here, LexisNexis and Thomson Reuters weigh in on issues including build vs."
-publishedDateTime: 2023-06-30T20:58:00Z
-originalUrl: "https://www.law.com/thelegalintelligencer/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
-webUrl: "https://www.law.com/thelegalintelligencer/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
+publishedDateTime: 2023-06-30T17:10:00Z
+originalUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
+webUrl: "https://www.law.com/legaltechnews/2023/06/30/lexisnexis-and-thomson-reuters-weigh-in-on-the-future-of-ai-in-legal-research/"
 type: article
 quality: 36
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 375
         isCached: true
 
-secured: "6PsV1zuoS6UVWmPE3mwoiG+xA9BJ8qHWG5SRaUZva/N2erUiNp9J041KkbNkHsqfD4XuIh6OfzV/Btahtf34F5T32XIY1a1nyuCOOIby4QZXF5iGIHAw3EROTi+GwptjT3FLkEcEYrgizA/qMCFt62avqR4kJ9EKzUunWDicTBXetIIYmYQ8QzcxZ0ZdqZlcE3HdAWQeUzO5+b0QW3W4oMBl+fYk0fZJam/VvzDCo3h55FhHgMaEbdBacsuuLdVPHi63Z8ZDZeBAhsa5Tnn5RoLxFeQjz9wdDITSzRubqswDG216UZo1ERAq4RE2cL51YpUkcJDAqIJ64BxefD7g9W4B94WQNbHO6jG9rF8zxlJnSFI0M+yG2NVVBpSWvbw4PLibcMFwk/vbOFDR+lu/owuRK8e1jNWfeD4IB/TCdTF7flVlHD+kqrY7Aj61TF4N3rZbVz6taaKxGqq3PEGAhPz/Ztlg2YmiezzYsFhESPHoQ4jOiF0N59qfHXdKWqhicgNlGjegku+BHuuoS1K8Bg==;VMxR8p3SOfeODNydDqYs1A=="
+secured: "VjrwCm2QCJHcXij78SJkqgkZRsS7w+VxD03cWQ0us+Q4Wbw2Z+TKukw0z61zU9pGCwUEo0uH3K0yb/xBbSLpTqrVilCY0JVZyrI7e/8Woki3J9tEP+W++evEZFDFX15vkxakWdFGmrsPdT1/fO7HTarLy0SYUrmP6RTj2bjJv8u1IR75QCr9vBVghfXoqGGBL14FN3d0COeplQl47zYTwxnRsTbKJWd68txm7uYWkVZvtNfd3PjUzecBygYS+0+J5B8OnLv+pmSva5hFCsWjBqiIQTvR1fLmhZnnkoewNr41V3JuiG2TrrMIaNBJF4/s6pDmB5FiahBIXM7MI8iUcx5Hnl6CmVseQDRxTGy+f/I=;tpD6Vhv2H310uAZVVS1NTw=="
 ---
 

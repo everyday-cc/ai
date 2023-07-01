@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Europe launches massive AI test facilities"
-    excerpt: "A 220m€ investment launching on 27 June provides a permanent capacity to deliver responsible AI in Europe by testing solutions before they hit the"
-    publishedDateTime: 2023-06-26T09:44:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234886"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/667d0e02-55ba-46e9-b5a1-7427026e47dd-Corp_Red_RGB.png"
-        width: 1951
-        height: 2846
-        isCached: true
   - title: "EU to open artificial intelligence ‘crash test’ centres"
     excerpt: "The centres, which are virtual and physical, will from next year give technology providers a space to test AI and robotics in real-life settings"
     publishedDateTime: 2023-06-27T13:28:00Z

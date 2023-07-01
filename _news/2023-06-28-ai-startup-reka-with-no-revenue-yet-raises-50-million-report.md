@@ -58,34 +58,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "AI model startup Reka raises $50 mln led by DST Global"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind , has raised $50 million in a fresh round of funding from investors including Yuri Milner's DST Global and Snowflake ,"
-    publishedDateTime: 2023-06-27T15:04:00Z
-    webUrl: "https://www.reuters.com/technology/ai-model-startup-reka-raises-50-mln-led-by-dst-global-2023-06-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/RWA0Ya2T3MAuv2aIuYymMdsLXFM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GDMQKGOBNBIQVHXGF3ZLSCKWBY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI model startup Reka raises US$50 million led by DST Global"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global and Snowflake,"
-    publishedDateTime: 2023-06-27T16:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-3590381"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
     excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
     publishedDateTime: 2023-06-27T21:18:00Z

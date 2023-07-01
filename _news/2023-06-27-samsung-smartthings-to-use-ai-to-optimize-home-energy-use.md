@@ -36,20 +36,6 @@ related:
         width: 1210
         height: 765
         isCached: true
-  - title: "Samsung Enters AI Chip Market With High-Bandwidth Memory Solutions, Challenging SK hynix"
-    excerpt: "Samsung Electronics leaps into the artificial intelligence (AI) chip market, planning to mass-produce high-bandwidth memory (HBM) chips this year, potentially upsetting current leader SK hynixs market dominance"
-    publishedDateTime: 2023-06-26T09:30:00Z
-    webUrl: "https://www.econotimes.com/Samsung-Seeks-to-Overtake-SK-hynix-in-AI-Memory-Chip-Field-1658444"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 45
-    images:
-      - url: "https://f1.econotimes.com/2023/06/7c1ee880tt_th_1024x0.jpg"
-        width: 1024
-        height: 694
-        isCached: true
 
 secured: "EJrF4tPnPgzi1MLrNvvFHaaz6lpDc49LUv8emMHb7CFwIQe2U5I9fGq3Qwymkg9mLT+1zx0hCY8JPStbVc+Lr6BO8js/HuwRykhPLuhsZSp4xkEzYM/yhTCpBV//wZfbp+ezIzURZfRJFPKWZ62jt462g3OTPyAP5/RoedLuiQns5BEECEBDk3TduCkjSkyWPiqadWNAXlJkJDJnGJXOOcqO3VWpxXBTzKslSbAPgZG+S1VUYeChK58Vqn6bsPfCs7DaKDGO3ZFJBSUuqyxBUXeAlzQZxJa8KtpoBLiWR8ZUJSC/DTmTwoTDlRhRyWJrsWUMjsz4AGHpOfwoa8Wcrqy0jsBi1NQjYKt9hpvQYLFMZ9+oQnn1L98Sg+dx68VP/1e0RNh/pIp5eIa9DBVE+ggVvD4XO+PUKgnM9ztrtrSGvRg+QQGDT4cDG5GEKn1jUbqXyRkys04aOlbtgRZig+WLhYbBuWt7L4cl7Wy/+OqcLh5ZoQJMA9MVrnfTKqJHz66S57w+H4TFKj5ujJw9ww==;C84Tu7zu/ms0Mcn6hfeYxQ=="
 ---

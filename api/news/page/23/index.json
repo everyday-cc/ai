@@ -2,6 +2,134 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-06-15-vantagepoint-ai-unveils-groundbreaking-white-paper-demonstrating-superior-predictive-power-of-artificial-intelligence-in-trading.md",
+      "title": "Vantagepoint A.I. Unveils Groundbreaking White Paper Demonstrating Superior Predictive Power of Artificial Intelligence in Trading",
+      "excerpt": "Louis B. Mendelsohn founded the Florida -based Vantagepoint A.I., LLC in 1979 to develop and license trading software for personal computers. In 1983 the Company released the first commercially available trading software in the financial industry to perform strategic back-testing on personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/15/9833699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2102037/VantagePoint_Software__An_In_Depth_Analysis_of_Vantagepoint_s_Predictive_Accuracy.jpg",
+          "width": 311,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-eu-takes-major-steps-towards-regulating-ai.md",
+      "title": "EU takes major steps towards regulating AI",
+      "excerpt": "The European Union’s parliament passed a draft law restricting AI, limiting the use of facial recognition software and requiring AI companies to disclose more about the data behind their programs. NBC News’ Gabe Gutierrez has more details on the global debate over the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/eu-takes-major-steps-towards-regulating-ai-182262853951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1686784674905_nn_ggu_europe_approves_regulations_scam_warnings_230614_1920x1080-uuck9l.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo182262853951",
+      "publishedDateTime": "2023-06-14T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-15-global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-propel-growth.md",
+      "title": "Global Neural Network Software Market Report 2023: Rising Demand for Digitalization is Expected to Propel Growth",
+      "excerpt": "The \"Neural Network Software Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32866210/global-neural-network-software-market-report-2023-rising-demand-for-digitalization-is-expected-to-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32866210",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32866210",
+      "publishedDateTime": "2023-06-14T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-mechanical-turk-workers-are-using-ai-to-automate-being-human.md",
       "title": "Mechanical Turk workers are using AI to automate being human",
       "excerpt": "\"Turkers\" appear to be using AI to do tasks that were specifically intended to be done by humans because AI couldn't. Great job everybody!",
@@ -1099,161 +1227,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how.md",
-      "title": "Artificial Intelligence Will Dramatically Impact Facebook And Instagram. Here’s How",
-      "excerpt": "Later, you might use a built-in AI feature that’s part of the app, asking for modifications. Using a text interface, you might ask Instagram to make the photo brighter or even add a brighter smile to your face. On Facebook, you might do a broader text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/14/artificial-intelligence-will-dramatically-impact-facebook-and-instagram-heres-how/amp/",
-      "publishedDateTime": "2023-06-14T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-6-gmail-ai-features-to-help-save-you-time.md",
-      "title": "6 Gmail AI features to help save you time",
-      "excerpt": "These AI-powered Gmail features can make your email experience even faster, easier and more organized.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/gmail/gmail-ai-features/",
-      "originalUrl": "https://blog.google/products/gmail/gmail-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gmail_powered_by_ai_hero.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/gmail/gmail-ai-features/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/gmail/gmail-ai-features/amp/",
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop.md",
-      "title": "AMD's Hardware AI Ryzen 'Phoenix' CPUs Set to Soar in Razer's Blade 14 Laptop",
-      "excerpt": "The chip maker is counting the iconic gaming ultraportable among its key design wins, ringing in the first-ever x86 processors with dedicated AI-accelerating silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
-      "originalUrl": "https://www.pcmag.com/news/amds-hardware-ai-ryzen-phoenix-cpus-set-to-soar-in-razers-blade-14-laptop",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03rpTfXU080tXpK8FhRFeGK-1.fit_lim.size_1200x630.v1686682147.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

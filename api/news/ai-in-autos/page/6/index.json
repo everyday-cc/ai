@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-10-will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert.md",
-      "title": "Will Artificial Intelligence Take Away Jobs? Not Many for Now, Says Expert",
-      "excerpt": "The growing abilities of artificial intelligence have left many observers wondering how AI will impact people’s jobs and livelihoods. One expert in the field predicts it won’t have much effect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "originalUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/01000000-0aff-0242-405c-08db5119be00_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "publishedDateTime": "2023-05-09T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-baidus-smart-speaker-unit-to-launch-a-phone-next-week.md",
       "title": "Baidu’s smart speaker unit to launch a phone next week",
       "excerpt": "The company has said it plans to embed its AI tools into all major business lines, including in search, autonomous driving and smart gadgets. The introduction of a handset under the Baidu umbrella ...",
@@ -1361,6 +1318,49 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-29-anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Anchorage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "The Odom Corporation will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students at No-Cost for a 2nd time in the Fall of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g32097415/anchorage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32097415",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32097415",
+      "publishedDateTime": "2023-04-28T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

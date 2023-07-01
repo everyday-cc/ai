@@ -29,256 +29,416 @@ images:
     isCached: true
 
 related:
-  - title: "AWS invests $100 million in Generative AI Innovation Center"
-    excerpt: "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first."
-    publishedDateTime: 2023-06-28T16:52:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "The Industrial Revolution, Y2K, The Internet & Generative AI. Still The Same Old Story."
-    excerpt: "As we attempt to regulate AI, we should also explore its amazing capabilities. We should do so as optimistic explorers, not strippers worried about victims of technology."
-    publishedDateTime: 2023-06-30T15:02:00Z
-    webUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/"
-    ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/06/30/the-industrial-revolution-y2k-the-internet--generative-ai-still-the-same-old-story/amp/"
+  - title: "Google Stakes A Claim To All Things Generative AI"
+    excerpt: "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ..."
+    publishedDateTime: 2023-06-28T14:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/649eea1ecc0ec4522e0b9757/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 1249
+        height: 799
         isCached: true
-  - title: "AWS invests $100 million in new Generative AI Innovation Center"
-    excerpt: "Amazon Web Services (AWS) announced that it is investing US$100 million in a program it calls the Generative AI Innovation Center that will connect AWS artificial intelligence (AI) and machine learning (ML) experts with customers to help them build and deploy generative AI products and services."
-    publishedDateTime: 2023-06-26T15:26:00Z
-    webUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706"
-    ampWebUrl: "https://www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-invests-100-million-in-new-generative-ai-innovation-center/541706?amp=1"
+  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
+    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
+    publishedDateTime: 2023-06-27T18:38:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 76
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/06/GettyImages-925557862-1.jpg"
-        width: 724
-        height: 482
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Merlyn Mind launches education-focused LLMs for classroom integration of generative AI"
-    excerpt: "Merlyn Mind's education LLMs can interact with specific collections of educational content as part of its educational generative AI platform."
-    publishedDateTime: 2023-06-26T15:02:00Z
-    webUrl: "https://venturebeat.com/ai/merlyn-mind-launches-education-focused-llms-classroom-integration-generative-ai/"
+  - title: "Six Risks Of Generative AI"
+    excerpt: "Advance on their generative AI journey with their eyes wide open to the technology's potential risks and take steps to mitigate those risks where needed."
+    publishedDateTime: 2023-06-29T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/six-risks-of-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/2f8773e2-1b01-424a-880d-777b8d2efd97.png?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64959f01282610fa438daaa0/0x0.jpg?format=jpg&crop=2820,1586,x0,y28,safe&width=1200"
         width: 1200
-        height: 677
+        height: 675
         isCached: true
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, Google"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including the investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google"
+  - title: "FTC Concerned About Generative AI Monopolies"
+    excerpt: "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space."
+    publishedDateTime: 2023-06-30T21:56:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Mizuho Rolls Out Generative AI to All 45,000 Bank Staff in Japan"
+    excerpt: "Mizuho Financial Group Inc. is giving all its Japan bank employees access to Microsoft Corp.’s Azure OpenAI service this week, making it one of the country’s first financial firms to adopt the potentially transformative generative artificial intelligence technology."
+    publishedDateTime: 2023-06-27T02:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan"
     type: article
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 67
+    quality: 86
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0xv1fS6PkA/v0/1200x793.jpg"
         width: 1200
-        height: 751
+        height: 793
         isCached: true
-  - title: "AI Startup Typeface Raises $100 Million From Salesforce, GV"
-    excerpt: "Typeface Inc., an artificial intelligence startup focused on content creation services for businesses, has raised $100 million from backers including investment arms of Salesforce Inc. and Alphabet Inc."
-    publishedDateTime: 2023-06-29T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-startup-typeface-raises-100-million-from-salesforce-google?leadSource=uverify wall"
+  - title: "How Generative AI is a Game Changer for Cloud Security"
+    excerpt: "Generative AI will be a game changer in cloud security, especially in common pain points like preventing threats, reducing toil from repetitive tasks, and bridging the cybersecurity talent gap."
+    publishedDateTime: 2023-06-29T16:34:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-cloud-security/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOqsa6PLReLk/v1/1200x751.jpg"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/clio-unveils-cloud-platform.jpeg"
         width: 1200
-        height: 751
+        height: 803
         isCached: true
-  - title: "Salesforce to invest $4 bln in UK on AI innovation"
-    excerpt: "Salesforce will invest $4 billion in its UK business in the next five years, the U.S. software company said on Thursday, thanks to strong demand for digital transformations and artificial intelligence."
-    publishedDateTime: 2023-06-29T07:06:00Z
-    webUrl: "https://www.reuters.com/article/salesforce-investment-britain/update-1-salesforce-to-invest-4-bln-in-uk-on-ai-innovation-idUSL8N38L1DZ"
+  - title: "Businesses Aim to Harness Generative AI to Shake Up Accounting, Finance"
+    excerpt: "CFOs have ambitious plans for AI to boost efficiency, cut costs and ease a labor crunch, but the technology’s promise could take years to fulfill."
+    publishedDateTime: 2023-06-30T14:08:00Z
+    webUrl: "https://www.wsj.com/articles/businesses-cfo-aim-to-harness-generative-ai-to-shake-up-accounting-finance-f427ff"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/Bhk9gMA5x69Ey00c_W6lZi0SbO4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VGY4MCSLFJZPKGYHMC7TQ5VA4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.wsj.net/im-809446/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Inflection AI Raises $1.3 Billion in a Booming Market for Generative AI"
-    excerpt: "Venture funding in generative AI startups rose to $12.7 billion in the first five months of 2023, compared with $4.8 billion in all of 2022, according to PitchBook."
-    publishedDateTime: 2023-06-29T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/inflection-ai-raises-1-3-billion-in-a-booming-market-for-generative-ai-5954424c"
+  - title: "Generative AI vs. Machine Learning"
+    excerpt: "Both generative AI and machine learning use algorithms to address complex challenges, but generative AI uses more sophisticated modeling and more advanced algorithms to add a creative element. Generative AI is a form of artificial intelligence that is ..."
+    publishedDateTime: 2023-06-29T23:49:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/06/ew-generative-ai-versus-machine-learning.png"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Google’s AI Blitz Worked Too Well for Wall Street’s Liking"
+    excerpt: "Google stepped on the gas with its artificial intelligence efforts last month. Some on Wall Street are already trying to tap the brakes: Two high-profile brokers have downgraded"
+    publishedDateTime: 2023-06-27T16:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-27-2023/card/google-s-ai-blitz-worked-too-well-for-wall-street-s-liking-13uoYXJTrXa40TsEpOTw"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 67
     images:
-      - url: "https://images.wsj.net/im-809809/social"
-        width: 1280
-        height: 640
+      - url: "https://images.wsj.net/im-807776?width=600"
+        width: 600
+        height: 800
         isCached: true
-  - title: "Exclusive with AWS sales chief Matt Garman: How Amazon aims to lead in generative AI"
-    excerpt: "Amazon Web Services Inc. has been the undisputed leader of cloud computing, but with the recent eight-month surge towards artificial intelligence applications, rivals such as Microsoft Corp. are swiftly gaining ground."
-    publishedDateTime: 2023-06-28T22:04:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/exclusive-aws-sales-chief-matt-garman-amazon-aims-lead-generative-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 66
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Matt-Garman-Headshot-1.jpg"
-        width: 2225
-        height: 2504
-        isCached: true
-  - title: "Runway draws fresh $141 million as next-level generative AI video begins to emerge"
-    excerpt: "Runway, one of the hottest generative AI startups with its text-to-image video tools, raised $141 million in new funding."
-    publishedDateTime: 2023-06-29T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/runway-draws-fresh-141-million-as-next-level-generative-ai-video-begins-to-emerge/"
+  - title: "Oracle taps generative AI to streamline HR workflows"
+    excerpt: "Oracle launches new generative AI features in Fusion Cloud HCM to streamline HR workflows and boost productivity."
+    publishedDateTime: 2023-06-28T21:19:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-taps-generative-ai-to-streamline-hr-workflows/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 63
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T151443.463.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2016/09/Larry-Tuesday-Keynote4-e1687980611451.jpg?w=1200&strip=all"
         width: 1200
-        height: 750
+        height: 599
         isCached: true
-  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
-    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
-    publishedDateTime: 2023-06-29T08:00:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
+  - title: "Big Tech corporate venture capital 🤝 generative AI startups"
+    excerpt: "As the race to build generative AI tools for the enterprise devolves into a battle royale, Big Tech is busy wielding its most powerful weapon: checkbooks."
+    publishedDateTime: 2023-06-29T19:43:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/big-tech-cvc-generative-ai-startups/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inside the race to build an ‘operating system’ for generative AI"
+    excerpt: "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers"
+    publishedDateTime: 2023-06-30T11:00:00Z
+    webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 60
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all"
+        width: 1028
+        height: 685
         isCached: true
-  - title: "Regulation and talent: India’s catalysts for generative AI triumph"
-    excerpt: "Generative AI has taken the world by storm; every business and sector is rushing to integrate it into their systems and make maximum use of the technology. Innovators in the US have pioneered their"
-    publishedDateTime: 2023-06-30T11:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/regulation-and-talent-indias-catalysts-for-generative-ai-triumph/"
+  - title: "Perception Point launches AI model to combat generative AI-based BEC attacks"
+    excerpt: "Perception Point unveils new detection technology employing AI-powered LLMs and deep learning architecture to identify, thwart BEC attacks."
+    publishedDateTime: 2023-07-01T00:07:00Z
+    webUrl: "https://venturebeat.com/ai/perception-point-launches-ai-model-to-combat-generative-ai-based-bec-attacks/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Default_A_menacing_robot_hacker_stares_into_a_screen_its_green_0_2e981a1e-b44a-4292-97e9-1e9ddfef4817_1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
+    excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
+    publishedDateTime: 2023-06-28T21:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/209387-artificial-intelligence-startup-cohere-io-joins-ramp-to-bring-generative-ai-to-finance/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
+        isCached: true
+  - title: "With Huge Costs, Efficiency Is The Key To Mainstreaming Generative AI"
+    excerpt: "The hype around generative AI is making every industry vibrate at an increasingly high pitch in a way that we have not seen since the days of the Dot Com"
+    publishedDateTime: 2023-06-29T00:55:00Z
+    webUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/06/28/with-huge-costs-efficiency-is-the-key-to-mainstreaming-generative-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "http://www.nextplatform.com/wp-content/uploads/2015/02/machine-learning.jpg"
+        width: 340
+        height: 238
         isCached: true
-  - title: "Democratization of information with AI: Empowering innovation & inclusion"
-    excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Gurugram brought industry leaders together to learn and brainstorm to accelerate innovation, drive inclusion and enhance accessibility with Artificial Intelligence."
-    publishedDateTime: 2023-06-29T11:14:00Z
-    webUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion-11688035902518.html"
-    ampWebUrl: "https://www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/democratization-of-information-with-ai-empowering-innovation-inclusion/amp-11688035902518.html"
+  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
+    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
+    publishedDateTime: 2023-06-27T00:00:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 58
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/29/600x338/Delhi_Lead_1688036701270_1688036717445.jpg"
-        width: 599
-        height: 338
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AWS Announces $7.8 Billion Investment in Data Center Expansion"
-    excerpt: "Ohio's status as a technology and innovation center, attracting further investments and fostering collaboration between public and private entities."
-    publishedDateTime: 2023-06-27T10:53:00Z
-    webUrl: "https://techstory.in/aws-announces-7-8-billion-investment-in-data-center-expansion/"
+  - title: "AWS announces generative AI innovation center"
+    excerpt: "Amazon Web Services has launched the AWS Generative AI Innovation Center, a new program designed to assist customers in building and deploying generative artificial intelligence (AI) solutions."
+    publishedDateTime: 2023-06-27T06:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230626VL205/aws-generative-ai-innovation-software-big-data.html"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230626vl205_files/1_2b.jpg"
+        width: 1280
+        height: 852
+        isCached: true
+  - title: "The best use for generative AI in healthcare"
+    excerpt: "AI is being used to reduce the administrative and paperwork burden for clinicians, with tools from vendors like Abridge, Ambience, Augmedix, Nuance and Suki. Re"
+    publishedDateTime: 2023-06-26T21:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/the-best-use-for-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Enterprises need to control their own generative AI, say data scientists"
+    excerpt: "New poll data from Domino Data Lab finds generative AI cannot be outsourced — enterprises need to fine-tune or control their own models."
+    publishedDateTime: 2023-06-27T12:30:00Z
+    webUrl: "https://venturebeat.com/ai/enterprises-need-to-control-their-own-generative-ai-say-data-scientists/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
+  - title: "Axonify Evolves Artificial Intelligence Capabilities, Launching New Generative AI Tool"
+    excerpt: "Axonify, a leader in frontline employee enablement, today announced the launch of Max, a new conversational generative AI tool that instantly answers on-the-job questions to better enable frontline workers to get the job done quickly and more accurately,"
+    publishedDateTime: 2023-06-28T14:39:00Z
+    webUrl: "https://www.macaubusiness.com/axonify-evolves-artificial-intelligence-capabilities-launching-new-generative-ai-tool/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 46
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
+        width: 800
+        height: 480
+        isCached: true
+  - title: "Mizuho permits 45,000 employees to use generative AI"
+    excerpt: "Some 45,000 employees of banking holding firm Mizuho Financial Group, Inc will be allowed access to generative artificial intelligence (AI) this week, according to reports."
+    publishedDateTime: 2023-06-30T16:37:00Z
+    webUrl: "https://www.hcamag.com/asia/specialisation/hr-technology/mizuho-permits-45000-employees-to-use-generative-ai/451243"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
     quality: 39
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/aws-sign-v2.jpeg"
-        width: 609
-        height: 457
+      - url: "https://cdn-res.keymedia.com/cms/images/us/039/0321_638237397957554662.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "AWS enters the GenAI scene with Bedrock, helping the enterprise enter the next generation of technology"
-    excerpt: "Artificial intelligence is taking society by storm ... to scramble to figure out how to take advantage of the emerging innovation. “What [AWS] is doing is trying to offer customers a lot of choices; we’re making the best foundation models available ..."
-    publishedDateTime: 2023-06-28T14:36:00Z
-    webUrl: "https://siliconangle.com/2023/06/28/aws-enters-genai-scene-bedrock-helping-enterprise-enter-next-generation-technology-hpediscover/"
+  - title: "The deluge of new generative AI products is just getting started"
+    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
+    publishedDateTime: 2023-06-26T14:14:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "The deluge of new generative AI products is just getting started"
+    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
+    publishedDateTime: 2023-06-26T18:19:00Z
+    webUrl: "https://www.hrdive.com/news/generative-AI-startups-enterprise-software/653923/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Study reveals generative artificial intelligence impact on job roles"
+    excerpt: "A groundbreaking study on the impact of generative artificial intelligence (GenAI) on job roles – reveals skills gap and more"
+    publishedDateTime: 2023-06-28T11:46:00Z
+    webUrl: "https://www.openaccessgovernment.org/study-reveals-generative-artificial-intelligence-impact-on-job-roles/162139/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/06/iStock-1469706455-scaled.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
+  - title: "Healthcare funnels $20B into generative AI"
+    excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
+    publishedDateTime: 2023-06-30T18:24:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-funnels-20b-into-generative-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Relativity Piloting GPT-4, Aiming to Rise Above ‘All the Noise’ Surrounding Generative AI"
+    excerpt: "We all want to get [generative AI] out fast, because you feel like if you don't, you have a bit of FOMO, right? But [we said], let's not overtly take the bait. Let's breathe through this and make sure that when we do deliver something,"
+    publishedDateTime: 2023-06-26T20:05:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/06/26/relativity-piloting-gpt-4-aiming-to-rise-above-all-the-noise-surrounding-generative-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/06/Relativity-logo-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Sequoia Capital Partners with AI Startup Dust to Bolster Generative AI Initiatives"
+    excerpt: "Sequoia Capital recently announced that it is going to partner with France based AI Startup Dust. “We at Sequoia were thrilled to lead their seed round and become their partners”, the company said in their blog post on the website."
+    publishedDateTime: 2023-06-29T06:57:00Z
+    webUrl: "https://analyticsindiamag.com/sequoia-capital-partners-with-ai-startup-dust-to-bolster-enterprise-automation-generative-ai-initiatives/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/06/unnamed-3-1.jpg"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "Inflection, Runway and Stability receive funding as capital pours into generative AI startups"
+    excerpt: "Today several generative AI startups received funding, including the chatbot startup Inflection AI Inc., the AI-powered video generator startup Runway AI Inc. and text-to-image generator Stability AI Ltd. Inflection AI, an AI startup building chatbot that ..."
+    publishedDateTime: 2023-06-29T17:20:00Z
+    webUrl: "https://siliconangle.com/2023/06/29/inflection-runway-stability-receive-funding-capital-pours-generative-ai-startups/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 38
+    quality: 26
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/Shaown-Nandi-Clean-Thumb.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Booming Venture Capital Investment in Generative AI: Considerations for Investors and Companies"
-    excerpt: "Accordingly, investors need to weigh these signals against the general consensus that generative AI has a staggering potential as a disruptive technology, leading to big winners and above average multiples. U.S. chip maker Nvidia and other large technology ..."
-    publishedDateTime: 2023-06-27T17:57:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/booming-venture-capital-investment-in-1740966/"
+  - title: "Generative AI is breaking all the rules"
+    excerpt: "With the right guardrails in place, artificial intelligence could help us push past the constraints of our own thinking."
+    publishedDateTime: 2023-06-27T18:15:00Z
+    webUrl: "https://www.thestar.com/business/mars/2023/06/27/generative-ai-is-breaking-all-the-rules.html"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Toronto Star
+      domain: thestar.com
     quality: 19
-  - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
-    excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
-    publishedDateTime: 2023-06-28T13:56:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/28/9840691.htm"
+  - title: "Call for generative AI guardrails, responsible design"
+    excerpt: "Researchers are cautiously optimistic about where generative artificial intelligence (GenAI) will lead humanity, but “we must develop more guardrails”. This is according to Pascale Fung, chair professor in the Department of Electronic and Computer Engineering of Hong Kong SAR,"
+    publishedDateTime: 2023-06-29T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/06/29/call-for-generative-ai-guardrails-responsible-design/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "AVkzTtQ4iCtVklooiWtpD7Xg76o0hIlPAXjKQ/jXscUKVmqo9aJSmckBJxS67YWMEFo3oTBaEU320ynhN3V7mU+69Bxy6amm24+iGomDJDKkhYRFvh4UgmWDN0yKtLQm3hjWBV9hAry7wp4oJhigHC5Qj89hZKtjJ3r4mqHhIyyRSrnAP2zLf5ggWDa4TunMJmujY1IQ6Hf+RL2l1pOiQUzTIzOJ9M8IpcNOol7v/M9hDSofx6asIVKLqd53NHxdEbDFsLVs11apx2I+gzVClU5IrinxtSMpOH9+zly9qyFvsouMBtfUXEr2mkUnarFR7m6lbCXAYUkaV0klHW+/isVDLCIqaIlt03YwTKF5spw=;VbHGu2qgXYB4R4Sr1VPeRw=="
 ---

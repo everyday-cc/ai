@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
+    excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
+    publishedDateTime: 2023-06-27T17:05:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Space and Time uses generative AI to enable data analytics in natural language"
     excerpt: "The decentralized data warehouse startup Space and Time Labs Inc. said today it has integrated with OpenAI LP’s chatbot technology to enable developers, analysts and data engineers to query their information and create dashboards using natural language prompts."
     publishedDateTime: 2023-06-27T04:13:00Z
@@ -43,15 +57,6 @@ related:
         width: 721
         height: 487
         isCached: true
-  - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
-    excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
   - title: "Generative AI, ESG to reshape big data and analytics"
     excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
     publishedDateTime: 2023-06-27T08:27:00Z

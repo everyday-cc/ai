@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 797
         isCached: true
-  - title: "Artificial Intelligence Startup Cohere.io Joins Ramp to Bring Generative AI to Finance"
-    excerpt: "At Ramp they’re dedicated \"to pushing the frontiers of AI to help businesses save time and money, with innovations like Ramp Intelligence.\"\""
-    publishedDateTime: 2023-06-28T21:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/06/209387-artificial-intelligence-startup-cohere-io-joins-ramp-to-bring-generative-ai-to-finance/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
-        isCached: true
 
 secured: "uEySTQ/GLB4weZpTRwPZqvEW/zyD+qjf8flezvrRJk6aeuxAzhffcBmFD7lyKRaI+ABOW3krrNahaIrVhLuHOTdTR6vrtViOtp4IhtL1dRSeE4RLDlmxcHmjDn4RF0vVyy4dr+TvaGiYoa2NzpwqytrinCMHxLfqKXuvkDDwl9iy9KThTBZ0YVdDaK3eRAA+XWsEhpqJAWWD3b4h8Aj3S3Q6iK2tLcxZeCzZ0h6OKGGZJKayt9rgUlbGr8v4T+BYXdPC6BiA9MVpk8xwpv2vCgMQTRtxu1oEI1Zlr06iYaYKoJzHTTsp4jT+mKrcDg/C94lim6JO+E+hhB9Z2dTSQjoGdYcVbWtYxyVloaFP/M7uBt9770U4f2I/a/LUOl0Dgz5eiaPIrL4NS/H0FjDIeLZU0I6voZvpc6nv5g2hbNy/CEtVo/dEyg0Eb8RYosH9yApVgNeJxY4UQHJAWn/LhtUiXvti0DxFsl6AMrurUXE4AN9CLeoO2pfd6N1qHFSVKd21aeAI/43cEsZDgP9rUQ==;X6hTDjMr1DENbS/zmO5+KQ=="
 ---

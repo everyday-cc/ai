@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services.md",
+      "title": "Kumo empowers deep learning in Snowflake Data Cloud through Snowpark Container Services",
+      "excerpt": "The new integration will run Kumo AI services directly on the Snowflake Data Cloud through Snowpark Container Services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
+      "originalUrl": "https://venturebeat.com/ai/kumo-empowers-deep-learning-in-snowflake-data-cloud-through-snowpark-container-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ibm-to-acquire-apptio-for-46-billion-boosting-hybrid-cloud-and-ml-services.md",
       "title": "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services",
       "excerpt": "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year.",
@@ -1366,49 +1409,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue.md",
-      "title": "Global Automated Machine Learning (AutoML) Market [2023-2030]: Future Growth Insights and Industry Revenue",
-      "excerpt": "No. of Report Pages: [103] | \"Global Automated Machine Learning (AutoML) Market Outlook and Top Companies Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-2030-future-growth-insights-and-industry-revenue-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

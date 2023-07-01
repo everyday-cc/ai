@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "MAS Releases Open-Source AI Toolkit to Promote Responsible Use in Finance Sector"
+    excerpt: "MAS has released an open-source toolkit to enable the responsible use of Artificial Intelligence (AI) in the financial industry."
+    publishedDateTime: 2023-06-27T03:43:00Z
+    webUrl: "https://fintechnews.sg/75549/ai/mas-releases-open-source-ai-toolkit-to-promote-responsible-use-in-finance-sector/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 51
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/MAS-Releases-Open-Source-AI-Toolkit-to-Promote-Responsible-Use-in-Finance-Sector.png?x22319"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "XhLLhFFnURJaw0aZimIAFwi0oCOU44C+8wFVmzPF9AuwD1CGhgeTH6fR8DL0x/d7bitbtagAIdKY6CfbA9jRIFTHGXA5kACYEbEZOq2BqJs+HXrqBhogMTk9QCMdxrZr9IzhRMUcP5aE3NnFsub4rlLAqAIDf30TYl5GGYaO4Ecf3P33evgpMso3G/eS2cH9CBCoCIZ+86/h+UnOKE4KiZAjQSgsdDq/tOkTjI5C0JogWSBwWprp31CTb/224QnMsYRP2cz8ZXXul2ijIjXoHGN/Q/WjdnZ+Qxx2fwj9rzc8UUkuGHVaRgX98+w23nZijNXPq88YvhA3W8h/dRntjeZB9uHu5itLzm2dir5FXGR0XQuQ8FFBB7ghUd+gOhI3q/J6FPo+NsBMGevmQcDDP2rPOP/RfgGlDejFvo/qCiKsc3Pu2PPmE2gXN+wicH/O4N0bgzN1uHKYAZ7yBJhw0N7JS5JrtzUaAD7/wZcSq75+Vr9OLFYXOT0orWszqVgBirf+7utliitA52CZbk2lKg==;JBR1lhvWORKtCINXDIFQ9Q=="
 ---

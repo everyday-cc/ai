@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Law Draws Pushback From Big Brands in Europe"
+    excerpt: "Executives from firms such as Heineken and Renault joined a lobbying effort as Europe negotiates the West’s first comprehensive rules."
+    publishedDateTime: 2023-06-30T10:36:00Z
+    webUrl: "https://www.wsj.com/articles/ai-law-draws-pushback-from-big-brands-in-europe-9a703f2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-809998/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Draft EU artificial intelligence rules could hurt Europe, executives say"
     excerpt: "The proposed EU Artificial Intelligence legislation would jeopardise Europe's competitiveness and technological sovereignty, according to an open letter signed by more than 160 executives at companies ranging from Renault to Meta ."
     publishedDateTime: 2023-06-30T08:35:00Z
@@ -31,22 +45,6 @@ related:
       - url: "https://www.reuters.com/resizer/BZZiDdK2-b6MMPX1dKB_GnxGIg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TRI4RJLDVJNYLKQZNAH2FSAF4Q.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Generative AI and ESG Will Reshape the Big Data and Analytics Software Market in the Years to Come, Says IDC Europe"
-    excerpt: "BELGRADE – The Semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC) predicts a quite limited effect of the"
-    publishedDateTime: 2023-06-26T15:39:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/generative-ai-and-esg-will-reshape-the-big-data-and-analytics-software-market-in-the-years-to-come-says-idc-europe-47838/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 39
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "KddJ8eD6QnbsXg6FnPNMcSQpFWxD/A8vzuwGF4pHXHbfodzi7wjEDEiYewFuaA/q9jeVeXA65OAhjzDdz5Fb3H6P3QG86VJxqbUPFKwxIIP2lY4mUv3hmbciXhJ2W3DGOgoUU/MtKN5R+2iJ8TM8wxhVgBAYQ49X1PmlOS5b3xbi7z/bwfBTz9Qg8fgoDlScIWtvH2/PDhJqYOeisZzHoq4C3QzXXxNJMDY/mhLainCbZvLc+n4BrXsdcIbuKULB+r6XlNj+hynBG1HovaolUk8keTUFkocmgWPOrNt7QHiXF33u1TZJ1RbI+JUH/Z+buYkPlYKbigksSJjVGu9JB9ztDr+qtE2chLAgwpNJgL+NF8HqQY96MAl0onXAQ2OIgboXG7DVmu/3L33kB8WN1JTOeYN3wwfxipcWSzT/vcFSYUieA6idLzoQ8iniSxSeCaL+qCEi5pBSqkkIToP4OyrOZqjXHg2AmVdFc1xDxU0J17ruiTFhViAHuCKa1QHfDvbLsUz588VqO3Ku6u8WMQ==;o5xoUQdqRI9YX0NujRXzcA=="

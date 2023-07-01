@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-24-is-ai-dangerous-heres-what-musk-pichai-and-ai-experts-think.md",
+      "title": "Is AI dangerous? Here's what Musk, Pichai, and AI experts think",
+      "excerpt": "With AI getting better by the day, experts are starting to question: is AI dangerous? The answer depends on whom you ask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "originalUrl": "https://www.androidauthority.com/is-ai-dangerous-threat-3316199/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/elon-musk-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-we-all-contribute-to-ai-should-we-get-paid-for-that.md",
       "title": "We all contribute to AI — should we get paid for that?",
       "excerpt": "The idea is for people to “get paid for what they create, even when it is filtered and recombined” into something that’s unrecognizable. The concept isn’t brand new, with Lanier first introducing the notion of data dignity in a 2018 Harvard Business Review piece titled,",
@@ -1411,50 +1463,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines.md",
-      "title": "Artificial Intelligence In Indian Healthcare System: ICMR Releases First Ethical Guidelines",
-      "excerpt": "In a major development in the healthcare system in India, the Department of Health Research and ICMR's Artificial Intelligence Cell have released the first-ever ethical guidelines for applying artificial intelligence in biomedical research and healthcare structure in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
-      "originalUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/03/AI-in-healthcare.png",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-in-indian-healthcare-system-icmr-releases-first-ethical-guidelines-965130/amp/",
-      "publishedDateTime": "2023-03-26T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

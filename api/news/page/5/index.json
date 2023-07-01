@@ -2,6 +2,196 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-28-will-the-us-governments-latest-cyber-policy-actually-improve-us-security.md",
+      "title": "Will The U.S. Government’s Latest Cyber Policy Actually Improve U.S. Security?",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into EO 13984, which risks creating new problems for IaaS vendors without actually improving cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b18aa9dbdc4ceaf3c85e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 720,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/27/will-the-us-governments-latest-cyber-policy-actually-improve-us-security/amp/",
+      "publishedDateTime": "2023-06-27T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-former-deepmind-researchers-founded-ai-startup-reka-raises-50-mn.md",
+      "title": "Former DeepMind researchers founded AI startup Reka raises $50 mn",
+      "excerpt": "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "originalUrl": "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404",
+      "publishedDateTime": "2023-06-27T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-spectrum-scale-on-ibm-cloud-performance.md",
+      "title": "Spectrum Scale on IBM Cloud performance",
+      "excerpt": "The IBM Cloud Spectrum Scale catalog tile has been designed to offer you the shortest path to get to a high-performance compute and storage cluster.\nThe post Spectrum Scale on IBM Cloud performance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "originalUrl": "https://www.ibm.com/blog/spectrum-scale-on-ibm-cloud-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/fsc_2816.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T10:20:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-new-bioinspired-robot-flies-rolls-walks-and-more.md",
+      "title": "New bioinspired robot flies, rolls, walks, and more",
+      "excerpt": "A newly created real-life Transformer is capable of reconfiguring its body to achieve eight distinct types of motion and can autonomously assess the environment it faces to choose the most effective combination of motions to maneuver.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-bioinspired-robot.jpg",
+          "width": 1600,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-bioinspired-robot-flies.amp",
+      "publishedDateTime": "2023-06-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ai-ethics-toolkit-updated-to-include-more-assessment-components.md",
       "title": "AI ethics toolkit updated to include more assessment components",
       "excerpt": "The second iteration of the Veritas Toolkit includes assessment methodologies for accountability and transparency, to guide financial institutions on the 'responsible' use of artificial intelligence.",
@@ -114,7 +304,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -416,6 +606,57 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-faros-ai-raises-20m-to-bring-visibility-to-software-engineering-teams.md",
+      "title": "Faros AI raises $20M to bring visibility to software engineering teams",
+      "excerpt": "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/",
+      "publishedDateTime": "2023-06-27T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy.md",
       "title": "Higher education plays a big role in preparing graduates for an AI-led economy",
       "excerpt": "A career development expert at the best college for entrepreneurship shares how higher education institutions should prepare their students for the future of work.",
@@ -621,6 +862,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-27-calypsoai-secures-23-million-to-lead-enterprise-ai-security-market.md",
+      "title": "CalypsoAI secures $23 million to lead enterprise AI security market",
+      "excerpt": "CalypsoAI, an AI security startup, announced today that it has raised $23 million in financing to further develop its AI governance solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/",
+      "originalUrl": "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/nuneybits_vector_art_of_AI_security_13117b12-b3d2-4178-8ffb-89eb5868470e.png?w=1200&strip=all",
+          "width": 1028,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-the-transformative-impact-of-artificial-intelligence-in-medical-tech.md",
       "title": "The Transformative Impact Of Artificial Intelligence In Medical Tech",
       "excerpt": "While potentially impeding progress, government regulations play a crucial role in protecting patients and society.",
@@ -629,7 +922,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/the-transformative-impact-of-artificial-intelligence-in-medical-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -734,7 +1027,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -838,7 +1131,7 @@
       "originalUrl": "https://www.forbes.com/sites/washingtonbytes/2023/06/27/ai-regulation-is-coming-to-the-us-albeit-slowly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -931,7 +1224,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -963,308 +1256,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-wimbledon-teams-up-with-ibm-to-introduce-generative-ai-video-commentary-and-highlight-clips.md",
-      "title": "Wimbledon teams up with IBM to introduce generative AI video commentary and highlight clips",
-      "excerpt": "The All England Club is partnering with tech giant IBM to bring AI-generated audio commentary and captions to the Grand Slam tournament's online highlights videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips",
-      "originalUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/1200/675/Wimbledon-Championship.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/wimbledon-teams-up-ibm-introduce-generative-ai-video-commentary-highlight-clips.amp",
-      "publishedDateTime": "2023-06-26T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai.md",
-      "title": "Kindred Ventures foresees a ‘massive explosion of startups’ courtesy of AI",
-      "excerpt": "Last week, we talked with Kindred Ventures, a small, nine-year-old, San Francisco-based early-stage venture firm that, despite investing in a lot of nascent startups — more than 100 to date — takes a generalist approach,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-26-at-11.07.59-AM.png?resize=1200,818",
-          "width": 1200,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/kindred-ventures-foresees-a-massive-explosion-of-startups-courtesy-of-ai/amp/",
-      "publishedDateTime": "2023-06-26T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking.md",
-      "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
-      "excerpt": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "publishedDateTime": "2023-06-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival.md",
-      "title": "Tech leaders discuss future of AI at Aspen Ideas Festival",
-      "excerpt": "Artificial intelligence was the talk of the Aspen Ideas Festival. NBC News' Tom Llamas sits down with panelist Daniel Huttonlocher in the Colorado Rockies to talk about AI's impact on society and its future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
-      "originalUrl": "https://www.nbcnews.com/now/video/tech-leaders-discuss-future-of-ai-at-aspen-ideas-festival-185196101717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1687836128249_now_topstory_aspen_festival_ai_230626_1920x1080-u407mb.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo185196101717",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo185196101717",
-      "publishedDateTime": "2023-06-26T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-microsofts-latest-small-language-model-outperforms-chatgpt-with-a-fraction-of-parameters.md",
-      "title": "Microsoft’s Latest Small Language Model Outperforms ChatGPT with a Fraction of Parameters",
-      "excerpt": "Microsoft plans to open source Phi-1 on HuggingFace, further bolstering the accessibility and collaborative potential of this language model",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/27/microsoft-outperformed-chatpgt-3-5-1-billion-parameters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/microsoft-1-1-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-mizuho-rolls-out-generative-ai-to-all-45000-bank-staff-in-japan.md",
-      "title": "Mizuho Rolls Out Generative AI to All 45,000 Bank Staff in Japan",
-      "excerpt": "Mizuho Financial Group Inc. is giving all its Japan bank employees access to Microsoft Corp.’s Azure OpenAI service this week, making it one of the country’s first financial firms to adopt the potentially transformative generative artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/mizuho-rolls-out-generative-ai-to-all-45-000-bank-staff-in-japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0xv1fS6PkA/v0/1200x793.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

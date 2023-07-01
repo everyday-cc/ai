@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Snowflake, Nvidia partner to enable generative AI app development in the Snowflake Data Cloud"
-    excerpt: "The partnership brings Nvidia's AI-accelerated computing technology to Snowflake’s Data Cloud for generative AI model development."
-    publishedDateTime: 2023-06-27T00:00:00Z
-    webUrl: "https://venturebeat.com/ai/snowflake-nvidia-partner-enable-generative-ai-application-development-snowflake-data-cloud/"
+  - title: "Snowflake and NVIDIA Team to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "The integration of NVIDIA NeMo with Snowflake will let businesses securely build custom large language models using their own proprietary data in the Snowflake Data Cloud Snowflake (NYSE:SNOW), the Data Cloud company,"
+    publishedDateTime: 2023-06-27T00:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/b33016514/snowflake-and-nvidia-team-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-clou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33016514"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33016514"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/NVIDIA-Snowflake-image-1920x1080-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Nvidia lowers case for gen-AI data concerns on Snowflake secure LLMs"
     excerpt: "As the global technology industry moves rapidly towards a world of generative Artificial Intelligence (gen-AI) enabled advantage, those tech vendors"
@@ -67,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Snowflake and NVIDIA Partner to Help Businesses Harness Their Data for Generative AI in the Data Cloud"
+    excerpt: "Snowflake and NVIDIA today announced at Snowflake Summit 2023 that they are partnering to provide businesses of all sizes with"
+    publishedDateTime: 2023-06-27T11:27:00Z
+    webUrl: "https://www.datanami.com/this-just-in/snowflake-and-nvidia-partner-to-help-businesses-harness-their-data-for-generative-ai-in-the-data-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 23
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/nvidia-snowflake-300x207.png"
+        width: 300
+        height: 207
+        isCached: true
   - title: "NVIDIA Partners with Snowflake to Create Customized Generative AI Models"
     excerpt: "Snowflake and NVIDIA data collaboration will allow customers ranging from financial institutions to healthcare and retail to build AI models using their own data."
     publishedDateTime: 2023-06-27T13:15:00Z
@@ -76,15 +92,6 @@ related:
       name: Leadership
       domain: industryleadersmagazine.com
     quality: 18
-  - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
-    excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
-    publishedDateTime: 2023-06-27T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230627337396/en/Weights-Biases-Accelerates-Deep-Learning-Large-Language-Models-LLMs-and-Generative-AI-Securely-in-the-Snowflake-Data-Cloud-with-New-Snowpark-Container-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "TVDalIEHvVB3ctemjGbZrlODXb2m9q4QpfNAzFJWJkMbRs0OV+WafYTvG8ZjxJ7DEzbhrJLfLYmYfWpZ9dpqWTzGSqMifkPFbEZMeWPA2ejMg0LcxGO7L04zkohD6XkD/Aq1syurjhaUmerGgdWYwbtYyZMVhQGNEEL7dGcl+X5ans/hgEY7j0umZGpcpbPfKZV91GyDWSw7bcXwl3JwkCI8AF26+GDZF8j7TdhsRTsU4cPr0SjTZj/5JgK75v1uNtXQdktmFYTIOjufLH1bbXgIF88hB8vM4Dk6/k1s2uByn3VGhV/GyQFgls8YTDW3S89AvC5/jVm84js8ZZoRBzifWY+HfuH2VSRjV0WSzkg=;s8o3owlYLAIr9xdZC4RAzA=="
 ---

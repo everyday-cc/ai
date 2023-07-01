@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html"
 type: article
 quality: 87
-heat: 111
+heat: 107
 published: true
 
 provider:

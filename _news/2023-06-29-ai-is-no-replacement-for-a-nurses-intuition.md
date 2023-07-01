@@ -37,22 +37,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Israeli-founded AI recruitment startup hit with fraud allegations"
-    excerpt: "Joonko CEO Illit Raz steps down after investigation finds 'egregious, unethical and fraudulent conduct' following irregularities in financial statements"
-    publishedDateTime: 2023-06-26T09:41:00Z
-    webUrl: "https://www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/"
-    ampWebUrl: "https://www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-founded-ai-recruitment-startup-hit-with-fraud-allegations/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 57
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2023/06/ilit-joonko-e1687771010922-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Shanghai to host major artificial intelligence event in July"
     excerpt: "SHANGHAI - The World Artificial Intelligence Conference (WAIC) 2023 will be held from July 6 to 8 in Shanghai, according to a press conference held by the municipal government on Thursday. With the theme \"Intelligent Connectivity Generating Future,"
     publishedDateTime: 2023-06-29T07:31:00Z

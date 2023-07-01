@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
+    excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
+    publishedDateTime: 2023-06-27T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230627337396/en/Weights-Biases-Accelerates-Deep-Learning-Large-Language-Models-LLMs-and-Generative-AI-Securely-in-the-Snowflake-Data-Cloud-with-New-Snowpark-Container-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "3nw7aRJjBj2FDKVmNFUxXujgBWqUuopv9i4oPYzYMw8qKBikxP7Tpe64gl3vdujPAbVuZzPFwIY5SqcUmxZ4MPV2c1KbSvAblTULeKX1zqX9RNn03QjMkjROKRFNM/vPJya+QKVpCXWP6K98UNLLDL3dD8XeekudS3cHTyNLUWTKSCYX3l5Y4JZ01olFdRdTu8Q+JgLqs8yWG3KG5ZECM8UtUIZkjzTU6pwmthixg5zbH9myLgD6eugtNxHuCogEhf2dS5pv36x30Yjni4UMTaRCHHXDFqDicssbvQIIYXMLdD1n9PCzDXY625zzHTRSbTOTh04UOYQsBCqQoBkLjUaGnCL72AK5lU7XO+yf6CfexdpAjnebqDJk2O9rVAz7UEf68ND0/dcdQ9nyLNT4SkLPRN2UAhOW7nOkwr2FiruiQFPvMu/+KTbc1r2y+U44J0R1ffCH1kM2aw3l9eZ7K3dt+RUTLEqkY1pXG+CBQ8IbpIL+QYgphttMRza2igEXCZxdi4qdB9hYKOkMty3dEw==;OL1C/6h3xvQVnt2ydij03A=="
 ---

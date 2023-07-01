@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Transforming Healthcare With Generative AI"
+    excerpt: "Generative artificial intelligence (AI), a subset of deep learning that has enabled users to create content in multiple formats, is projected to help mitigate some of the issues in the healthcare industry. It has numerous transformative use cases across ..."
+    publishedDateTime: 2023-06-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/27/transforming-healthcare-with-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Catalyzing transformation: Augmenting human intelligence with AI"
     excerpt: "Mint Future Ready - Lead the AI Era, a curated dialogue organized by Microsoft and Mint in Mumbai brought together visionaries, experts and technology enthusiasts under one roof to explore the frontiers of artificial intelligence through keynotes,"
     publishedDateTime: 2023-06-29T11:46:00Z

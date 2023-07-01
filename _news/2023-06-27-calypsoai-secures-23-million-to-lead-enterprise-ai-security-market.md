@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-l
 webUrl: "https://venturebeat.com/security/calypsoai-secures-23-million-to-lead-enterprise-ai-security-market/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: VentureBeat
@@ -29,70 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "CalypsoAI raises $23M to add guardrails to generative AI models"
-    excerpt: "CalypsoAI, a startup developing guardrail tech for generative AI models, has raised $23 million in venture capital."
-    publishedDateTime: 2023-06-27T18:38:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/calypsoai-raises-23m-to-add-guardrails-to-generative-ai-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Faros AI raises $20M to bring visibility to software engineering teams"
-    excerpt: "Faros AI, a startup building tools to increase visibility into software engineering processes, has raised $20 million in a venture round."
-    publishedDateTime: 2023-06-27T15:28:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/faros-ai-raises-20m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Reka emerges from stealth to build custom AI models for the enterprise"
-    excerpt: "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round."
-    publishedDateTime: 2023-06-27T23:29:00Z
-    webUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
-    ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Runway, a startup building generative AI for content creators, raises $141M"
-    excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
-    publishedDateTime: 2023-06-29T18:00:00Z
-    webUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/"
-    ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617"
-        width: 1200
-        height: 617
-        isCached: true
   - title: "CalypsoAI Raises $23 Million for AI Security Tech"
     excerpt: "CalypsoAI is building tools to help “accelerate trust and governance” in enterprise adoption of AI and machine learning technologies."
     publishedDateTime: 2023-06-27T11:30:00Z
@@ -109,43 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Faros AI raises $20M to bring AI insights to software engineering"
-    excerpt: "Faros AI, an AI startup focused on software engineering, announced today that it has raised $20 million in Series A funding."
-    publishedDateTime: 2023-06-27T10:00:00Z
-    webUrl: "https://venturebeat.com/ai/faros-ai-secures-20m-engineering-leaders-data-insights/"
+  - title: "BeeKeeperAI Raises $12.1 Million Series A to Accelerate AI Development on Privacy Protected Healthcare Data"
+    excerpt: "BeeKeeperAI, Inc., a pioneer in zero-trust, collaboration software for the development and deployment of artificial intelligence (AI), today announced that it has closed $12.1 million in Series A financing."
+    publishedDateTime: 2023-06-27T15:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/06/27/9839844.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/FarosAI_3Founders_Hi-Res.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
-    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
-    publishedDateTime: 2023-06-29T07:30:00Z
-    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
-        isCached: true
-  - title: "Healthcare funnels $20B into generative AI"
-    excerpt: "Investment in generative AI is on the rise in the healthcare sector, with $20 billion being funneled into AI that can aid clinicians and life sciences."
-    publishedDateTime: 2023-06-30T18:24:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-funnels-20b-into-generative-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "mWybmZ1xJagQL4HiyO96puvwL1sNUiAFJo3heJa1C8HkOapx4t1yL18iAEomgCxmaLHgdtqjyBvg5Offj0sdHNvRD9oKF/JnXrSecQbHFmGgWZ0IO1S3YPZ549y9otH4UCTWL/QdxQVdUMAJE9bICxdoZNYqTW4Z86WdvM80ztx43FL07eGFEBZtb1zX6fYj12ppZ8eLOKR4ItN9bApsO/FDl24uO4WrznXuSiv/8YSG2GPuqY2lUaxHFyixAovRpG4PKG15LlUWzwdlxmPMUyb+GpOoXS1vqYBiUwem0xaM38Km6fd4NstQJS6wCVRyZRbGQUWSWY70I27wCQj25V2Hn2zU2S1zVjWoqqJ98F2jC9KAr1TtcUjHHVJVlvy2XtP0Q5PmTaZKTqJt84Jq+pKPXRwCYLfjrksUAZTPw/dOmEoibaKqRN5iYeerv5Z/p9lyJuHBisMoBjhjToi8vR0Zsi2H7KMjyXY9jN5lw3eyo9A2SkwLhJo7vXTO1nIycd4nPsA4mP3VYidSu8hmew==;qJnIaaC9k4eLtpltfnBSIQ=="
 ---

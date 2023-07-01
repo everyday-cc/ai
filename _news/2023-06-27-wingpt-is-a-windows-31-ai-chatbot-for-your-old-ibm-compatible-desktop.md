@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-c
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/wingpt-is-a-windows-3-1-ai-chatbot-for-your-old-ibm-compatible-desktop/amp/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -30,31 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "I'm an AI-prompt engineer. Here are my 3 requirements for writing a prompt for chatbots like ChatGPT."
-    excerpt: "One area I did cover in my degree was the ethics of AI. I studied the problems of consciousness, identity, truth, inherent bias, how creativity and work affect society, and more, but had little to no understanding of what a language model was before ..."
-    publishedDateTime: 2023-06-29T16:27:00Z
-    webUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6"
-    ampWebUrl: "https://www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-become-an-ai-prompt-engineer-skills-needed-2023-6?amp"
+  - title: "Windows 11’s Copilot brings AI chat to desktops in first public preview"
+    excerpt: "This week's Windows Insider Preview build for Dev channel users, build 23493, will be the first to enable Copilot for public testers. After installing the update, preview users can press Windows + C to open a Copilot column on the right side of the screen."
+    publishedDateTime: 2023-06-29T17:08:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/649c39f36eb0a800194d7407?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/windows-copilot-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Today in AI: AI leads industry gold rush, DeepMind is building chatbot to rival ChatGPT and more"
-    excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo. Google's Artificial Intelligence (AI) research labs, DeepMind, is working on a new chatbot that will rival ChatGPT,"
-    publishedDateTime: 2023-06-28T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/today-in-ai-ai-leads-industry-gold-rush-deepmind-is-building-chatbot-to-rival-chatgpt-and-more-10874201.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
 
 secured: "kK4eDR1QflpFOf1jnnX7RCMK6rNkpdFuFglYc/eizi2fzS5HkJuwUgkK9XKD1rc3H4P68Fymd1QM9xP2xzRCsmL+eP74OjixU9kp3UbxqtMY+a1HfYfC1YlHhpzy5cDpaypP5FE5jfFk2n0He38Lfy70+G6fkxKYCCht2jmlJs5UhnVHYX9tWifr2hVCO15sQmKdTh5qkXHFj1G5AtkCr8TsZeKfpdLL7sSboTFQKP8En2zYYetw2XTkU4RSCRP+MEl9z/+qTGkkkh/EQJOwPAomEnqQWutnD6NzitKUXGqSYcckq9NxQK2y4sTBq319pUb3PpZRswHPdBA1w10W00HI+Ro5aqEUUXT6JWy6N1M=;/EwNMw5IQb2jCUeiGWDmBA=="
 ---

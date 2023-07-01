@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-arms-race-this-global-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

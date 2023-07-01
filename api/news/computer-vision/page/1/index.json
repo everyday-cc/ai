@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-01-tasting-success-in-puri-facial-recognition-now-in-big-cities.md",
+      "title": "Tasting success in Puri, facial recognition now in big cities",
+      "excerpt": "In a first-of-its-kind initiative, the state police have introduced a facial recognition technology in Puri to track the movement of habitual offende",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/articleshow/101408716.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-101408730,width-1070,height-580,imgsize-1561423,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bhubaneswar/tasting-success-in-puri-facial-recognition-now-in-big-cities/amp_articleshow/101408716.cms",
+      "publishedDateTime": "2023-06-30T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-gay-rights-rulingsupreme-court-backs-web-designer-opposed-to-same-sex-marriage.md",
       "title": "Gay Rights RulingSupreme Court Backs Web Designer Opposed to Same-Sex Marriage",
       "excerpt": "Both Mr. Phillips and Ms. Smith have said they would serve gay people as individual clients but object to providing services for a ... President Biden signed into law a bill that would mandate federal recognition of same-sex marriage.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court/same-sex-marriage-law",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -922,19 +965,19 @@
     {
       "path": "_news/2023-06-21-red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone.md",
       "title": "Red Cat and Athena AI announce breakthrough artificial intelligence and computer-vision capabilities for Teal 2 military-grade drone",
-      "excerpt": "Red Cat Holdings, Inc. (Nasdaq: RCAT) (“Red Cat” or the “Company”), a military technology company integrating robotic hardware and software to protect and support the",
+      "excerpt": "Red Cat Holdings, Inc. (NASDAQ:RCAT) (\"Red Cat\" or the \"Company\"), a military technology company integrating robotic hardware and software to protect and support",
       "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/",
-      "originalUrl": "https://www.suasnews.com/2023/06/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabilities-for-teal-2-military-grade-drone/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/g32932769/red-cat-and-athena-ai-announce-breakthrough-artificial-intelligence-and-computer-vision-capabiliti",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/09/teal-goldren-eagle.jpg?fit=900%2C602&ssl=1",
-          "width": 900,
-          "height": 602,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -942,13 +985,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T14:05:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32932769",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32932769",
+      "publishedDateTime": "2023-06-20T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1383,49 +1426,6 @@
       "provider": {
         "name": "Voice of America",
         "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-hybrid-ai-powered-computer-vision-combines-physics-and-big-data.md",
-      "title": "Hybrid AI-powered computer vision combines physics and big data",
-      "excerpt": "Researchers from UCLA and the United States Army Research Laboratory have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/hybrid-ai-powered-comp.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-hybrid-ai-powered-vision-combines-physics.amp",
-      "publishedDateTime": "2023-06-14T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

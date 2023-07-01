@@ -499,15 +499,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 52
-  - title: "3 AI Stocks That Could Get an Amazon-AMD Deal Boost"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors in the realm of artificial intelligence are closely watching the"
-    publishedDateTime: 2023-06-26T09:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-get-an-amazon-amd-deal-boost-1032409143"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AMD's AI Chips Could Match Nvidia's Offerings, Software Firm Says"
     excerpt: "Nvidia dominates the market for the powerful chips that are used to create ChatGPT and other AI services that have swept through the technology industry in recent months. The popularity of those services has pushed Nvidia's value past $1 trillion and led to a shortage of its chips that the Nvidia says it is working to resolve."
     publishedDateTime: 2023-06-30T17:40:00Z

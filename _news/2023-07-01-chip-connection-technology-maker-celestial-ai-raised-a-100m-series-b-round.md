@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/202
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/06/30/celestial-ai-raises-100m-series-b.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,49 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Cyera raises $100M to expand data security platform for AI-driven enterprises"
-    excerpt: "With this latest funding round, Cyera has raised a total of $160 million for its data security platform for enterprises driven by AI."
-    publishedDateTime: 2023-06-28T16:51:00Z
-    webUrl: "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/"
+  - title: "Optical interconnect startup Celestial AI raises $100M to tackle AI’s ‘memory wall challenge’"
+    excerpt: "Advanced AI models deployed in data centers don’t always run as fast as they could. The reason is a performance issue commonly referred to as the memory wall challenge. Celestial AI has developed an optical interconnect technology,"
+    publishedDateTime: 2023-06-28T21:00:00Z
+    webUrl: "https://siliconangle.com/2023/06/28/optical-interconnect-startup-celestial-ai-raises-100m-tackle-ais-memory-wall-challenge/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Cyera-Founders.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
-    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
-    publishedDateTime: 2023-06-27T15:50:00Z
-    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
-    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 53
-    images:
-      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UCSF Spinout Raises $12M for Platform That Facilitates Secure AI Development"
-    excerpt: "BeeKeeperAI — which offers a platform to facilitate the development and deployment of healthcare AI models — raked in $12.1 million in Series A funding led by Santé Ventures. The startup was spun out of UCSF last year."
-    publishedDateTime: 2023-06-27T20:37:00Z
-    webUrl: "https://medcitynews.com/2023/06/ai-algorithm-privacy-cybersecurity-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 36
-    images:
-      - url: "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg"
-        width: 788
-        height: 443
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/chip.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "YEFbVJTv4Iu9lr5YailWUjNvhC7vtcY8ZErRgb8WEDu+epXcuNmtkKutcC7EcauH7kDHl8UbVAz6tAPbub3g1oVngmRMiLDqYNHFl+51xap3XLE/i0yh5b833PjtGgNoWP20ZNaehRmNMxePH6NipbnzdplgNwfy6Tjah2XYku0B/2JF8B0B3PU3LgcEnu4dOxnXTmeJKn/gC4nCmSGYxtkb40BpkVfpAqqCQ3S1xOOPvcCMQl6lm5WxkArZiRdT7J4ssTlcu4np9EqukML+TlPtQr6inROJvgOB6CLEiV5DKC3rxoAp6BJ9KZKID9cdVK7tMi1NtsI0adgb4+/GYRIYvYkkWCiESomWiH1l7OCy8LMH27+jbPHYQ2cUMcgYa7nL9cfNkCRfXLNPBQ1YGLI20+6+JVrmxRNpkx1Q5AzmpKD3741hDXjMDjxsZhLWVnln2Qe5ZqfGDGdnSKvGfddJwAbzWtn64eXK4zYb+Hf16pm0eXHi9NlCWCg6fsDYx1mbiRVt21Q00YuS27t9hg==;cif2kBPNfKBXo///FPaBdQ=="

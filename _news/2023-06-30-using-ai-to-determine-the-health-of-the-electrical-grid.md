@@ -22,66 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "The True Threat of Artificial Intelligence"
-    excerpt: "The neoliberal instinct behind Uber’s business model is that the private sector can do better than the public sector — the market bias. It’s not just cities and public transit. Hospitals, police departments and even the Pentagon increasingly rely on Silicon Valley to accomplish their missions."
-    publishedDateTime: 2023-06-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/06/30/opinion/artificial-intelligence-danger.html"
+  - title: "Doctors tout use of artificial intelligence to detect breast cancer"
+    excerpt: "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ..."
+    publishedDateTime: 2023-06-28T03:37:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 73
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/images/2023/06/30/opinion/sunday/30Morozov/30Morozov-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Picks And Shovels Of The AI Gold Rush"
-    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
-    publishedDateTime: 2023-06-26T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+  - title: "Teaching AI to Detect Specific Objects is a Game Changer"
+    excerpt: "According to a new AI tool created by researchers at the University of Surrey, it’s possible to train emerging AI tools to be more discerning in thei | Technology"
+    publishedDateTime: 2023-06-27T17:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer"
+    ampWebUrl: "https://www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25489/teaching-ai-detect-specific-objects-game-changer/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI Threatens Creative and Intellectual Workers"
-    excerpt: "Several years ago, various studies and reports 'promised' creative and intellectual work would be safe from the artificial intelligence revolution. But the emergence of GPT-4 and Midjourney immediately became a threat."
-    publishedDateTime: 2023-06-28T01:17:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/06/27/en-ai-ancam-pekerja-kreatif-dan-intelektual"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 41
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/yJKxvZMF304_8HhiZMAwNk8WX_Q=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F06%2F27%2F84b58d5f-7dc7-4362-84ea-a3901da86749_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How Policymakers Can Tackle the Complexities of AI Models"
-    excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."
-    publishedDateTime: 2023-06-27T16:05:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2023/06/how-policymakers-can-tackle-complexities-ai-models/387021/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Labroots
+      domain: labroots.com
     quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/06/01/milad_fakurian_58Z17lnVS4U_unsplash/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The real reason claims about the existential risk of AI are scary"
-    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
-    publishedDateTime: 2023-06-28T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
+  - title: "AI model can help doctors determine the extent of cancer within the prostate"
+    excerpt: "A new study shows that an artificial intelligence (AI) model co-developed by researchers in the UCLA Jonsson Comprehensive Cancer Center and department of Urology at UCLA can help doctors determine the extent of cancer within the prostate."
+    publishedDateTime: 2023-06-28T01:14:00Z
+    webUrl: "https://www.news-medical.net/news/20230627/AI-model-can-help-doctors-determine-the-extent-of-cancer-within-the-prostate.aspx"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "43JaCHv+qnSZgwJmEmsSTPgPkVdx7AmSx8RlbYOYcJCrKFgwUfNK38dXVPDpp3RUCx15QYMWrnZ4xdl4gNEjxPE1xZ58hNSFltGlsPtnaxlFOVg9qAa7DJ9H45gRympwQyggr+pIdbIFinPUeNebnOy+6+LCbQjbVTWhtq+fIC6QyT9Jb1GNVgABipiLue1+bPuA8AsOBeTNgBkTBnElrG4O6GCGYVIY9A0nMHSVbAnFi0RGxzYeQ6P64oXQerAv8/It2ANW+RQgnaApmcdGDKJnf9ldhX/qZo8572ITo555pMqc1Gmib7UrhTssSVZ0bSaY/UblWNTUjDOhCA8PHSj8GQZaqsdieQ3Id6/uiHwdYq2CMSgkg2bHkhA65B03+EhnMSrTFDhe0gQZGixshGNnIw5S++VySPsMLpnCewHIqutq6wWQGw/uNjfYBWIzUk3QpuZEYCtawAgypr1RV0lhcYXSEya9X4OBd+qVEH9fTX/UVny9lbpT1m/Qw0iOnRXmq55oH6VYbgpYV1ExGA==;+QNk3YnXJWhfV2ySFaYzIw=="
 ---

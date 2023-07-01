@@ -7,7 +7,7 @@ originalUrl: "https://www.duluthnewstribune.com/news/minnesota/researchers-use-a
 webUrl: "https://www.duluthnewstribune.com/news/minnesota/researchers-use-ai-to-help-save-a-woodpecker-species-in-decline"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1418
     height: 1066
     isCached: true
-
-related:
-  - title: "Researchers use AI to translate 5,000 year-old tablets containing mysterious languages"
-    excerpt: "Archaeologists are taking the power of artificial intelligence and aiming it at ancient tablets that contain mysterious texts that date back 5,000 years."
-    publishedDateTime: 2023-06-26T10:44:00Z
-    webUrl: "https://www.tweaktown.com/news/92088/researchers-use-ai-to-translate-5-000-year-old-tablets-containing-mysterious-languages/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92088_156_researchers-use-ai-to-translate-5-000-year-old-tablets_full.png"
-        width: 1500
-        height: 845
-        isCached: true
 
 secured: "25YwmrHi22lHD8eF7HL9EHfUdm3rdGfP6HsfdojcF2CLQLdsMzw3yP33GSlcCHo0Up0b0kc3HgrgOppr4VbVaAIOXrZd+T0+R2fGidXvnuEE4RbugpInwOuEmzUafq7R16Ezi+y3V36w01ctCnyKbuwyQZQAQde2D2N65Oa7/dIycE07ExOLGCx4lPzunS0YAnqxC/eMsQAzMhSXgUXcDHzKcumNrRrl4FTvhCyjh/Ar58ryNZnS/54EumAJdjK8DhBdae1c133AbcTe74Re6tV/a5cP/yX6eQis1rnr4QaKf4Hjg1v4Os49KYUocqbbhoQGxTLjDiSuhyYDel2Q4m+/l+qsGt7VPidUhbzUOwU=;jQdXTWPbUvn+e2fkwB04rg=="
 ---

@@ -47,48 +47,6 @@ related:
         width: 1600
         height: 880
         isCached: true
-  - title: "Inside the race to build an ‘operating system’ for generative AI"
-    excerpt: "What does it take to build an operating system for generative AI? According to Intuit's Srivastava, there are four main layers"
-    publishedDateTime: 2023-06-30T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/inside-the-race-to-build-an-operating-system-for-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Feature-image.png?w=1200&strip=all"
-        width: 1028
-        height: 685
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T14:14:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-startups-enterprise-software/653706/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "The deluge of new generative AI products is just getting started"
-    excerpt: "Most venture-backed startups have enterprise-grade solutions in the works as IT leaders grapple with the pros and cons of rapidly adopting the technology."
-    publishedDateTime: 2023-06-26T18:19:00Z
-    webUrl: "https://www.hrdive.com/news/generative-AI-startups-enterprise-software/653923/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/imgproxy/HnAfEwvit5wmXawTLEIgqt264R06Y7FYud2fRnr3xSA/crop:5851:3305/g:nowe:0:0/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzOTAwMjQ5ODAuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Table of Experts: The future of AI"
     excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
     publishedDateTime: 2023-06-27T13:06:00Z

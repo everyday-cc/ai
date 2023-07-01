@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-how-ai-influences-what-you-see-on-facebook-and-instagram.md",
+      "title": "How AI Influences What You See on Facebook and Instagram",
+      "excerpt": "We’re making it easier to control what you see on Facebook and Instagram, and sharing more info on how our AI systems rank content.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "originalUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2023/06/Content-Recommendations-Policy-Updates-NC_Header.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/06/how-ai-ranks-content-on-facebook-and-instagram/amp/",
+      "publishedDateTime": "2023-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "about.fb",
+        "domain": "fb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-startup-typeface-valued-at-1-bln-after-salesforce-led-fundraise.md",
+      "title": "AI startup Typeface valued at $1 bln after Salesforce-led fundraise",
+      "excerpt": "Typeface, a generative AI platform for enterprise content creation, said on Thursday that it was valued at $1 billion after an oversubscribed Series B funding round led by Salesforce's global investment arm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-typeface-valued-1-bln-after-salesforce-led-fundraise-2023-06-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ZSQXVFoZhkTbBX5nPujAzelH_KY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C24LFCQN3FPIPM7JQ2F3WDUUKQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-will-transform-finance-sector-regulator-says.md",
+      "title": "AI will transform finance sector, regulator says",
+      "excerpt": "Artificial Intelligence (AI) will lead to the \"transformation of business\" in Guernsey's finance industry, the regulator has said. The director general of Guernsey's Financial Services Commission (GFSC) was speaking after a conference looking at the role of AI in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9C2E/production/_130228993_mason2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-guernsey-66041385.amp",
+      "publishedDateTime": "2023-06-28T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-executives-not-inclined-to-remove-humans-from-ai-decision-making.md",
       "title": "Executives Not Inclined To Remove Humans From AI Decision-Making",
       "excerpt": "Fear of losing control is justified, and will motivate executives to keep humans within any AI decisioning processes.",
@@ -598,7 +735,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -643,59 +780,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-28-cyera-raises-100m-to-expand-data-security-platform-for-ai-driven-enterprises.md",
-      "title": "Cyera raises $100M to expand data security platform for AI-driven enterprises",
-      "excerpt": "With this latest funding round, Cyera has raised a total of $160 million for its data security platform for enterprises driven by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/",
-      "originalUrl": "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Cyera-Founders.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-ai-arms-race-this-global-index-ranks-which-nations-dominate-ai-development.md",
       "title": "AI arms race: This global index ranks which nations dominate AI development",
       "excerpt": "Although the past few months have seen a surge in AI developments, the global AI arms race has been underway for years. Since 2020, Tortoise Media has produced its annual Global AI Index, which ranks the nations competing for AI dominance -- and the latest rankings are in.",
@@ -704,7 +788,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-arms-race-this-global-index-ranks-which-nations-are-dominating-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -953,6 +1037,59 @@
       ]
     },
     {
+      "path": "_news/2023-06-28-google-stakes-a-claim-to-all-things-generative-ai.md",
+      "title": "Google Stakes A Claim To All Things Generative AI",
+      "excerpt": "If Google wants you to know one thing, it’s this: Google has generative AI covered ... more than 100 languages to complete tasks like text processing, classification, sentiment analysis, etc. PaLM 2 can “understand, generate, and translate” text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c3740ddad085e7cfacb6d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/06/28/google-stakes-a-claim-to-all-things-generative-ai/amp/",
+      "publishedDateTime": "2023-06-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-ai-is-making-smart-manufacturing-faster-greener-virtual-and-more-real.md",
       "title": "AI is making smart manufacturing faster, greener, virtual — and more real",
       "excerpt": "Manufacturers today invest in intelligent technology as key foundations of \"smart manufacturing\" in the Fourth Industrial Revolution.",
@@ -1089,153 +1226,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-five-microsoft-ai-advances-that-business-leaders-should-know-about.md",
-      "title": "Five Microsoft AI Advances That Business Leaders Should Know About",
-      "excerpt": "Microsoft announced developer tools, analytics solutions, Windows and Edge upgrades to help companies add generative AI into applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 686,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c227727a2d87aa15d41a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/",
-      "publishedDateTime": "2023-06-28T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics.md",
-      "title": "Achieve competitive advantage in precision medicine with IBM and Amazon Omics",
-      "excerpt": "A deeper understanding of biology has the potential to transform how healthcare is delivered, how people are screened, how clinical conditions are treated and monitored. The exponential growth of biomedical datasets over the recent years has resulted in the identification of a great number of molecular",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-competitive-advantage-in-precision-medicine-with-ibm-and-amazon-omics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-chip-dip-the-bloomberg-open-americas-edition.md",
-      "title": "Chip Dip: The Bloomberg Open, Americas Edition",
-      "excerpt": "Good morning. Chipmakers fall as the US is said to consider new curbs on exports to China. Looks like the global race for AI dominance is heating up. And Joe Biden faces an uphill battle with voters as inflation still bites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-28/chip-dip-the-bloomberg-open-americas-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibuzuUN8d1U0/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

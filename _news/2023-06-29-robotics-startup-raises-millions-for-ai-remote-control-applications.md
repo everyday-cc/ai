@@ -19,66 +19,75 @@ topics:
   - AI
 
 related:
-  - title: "New WEF research identifies revolutionary healthcare AI applications"
-    excerpt: "World Economic Forum report released today highlights the transformative potential of artificial intelligence (AI) in healthcare and the importance of public-private collaboration in driving its global adoption."
-    publishedDateTime: 2023-06-28T08:02:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications"
-    ampWebUrl: "https://www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2503686-new-wef-research-identifies-revolutionary-healthcare-ai-applications?amp"
+  - title: "Runway, a startup building generative AI for content creators, raises $141M"
+    excerpt: "Runway, a startup building generative AI tools geared toward film and image content creators, has raised $141 million in a Series C extension."
+    publishedDateTime: 2023-06-29T18:00:00Z
+    webUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/"
+    ampWebUrl: "https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2023_08_02_07_2980727.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/gen-2.png?resize=1200,617"
+        width: 1200
+        height: 617
         isCached: true
-  - title: "The Revolution of AI in Music Production"
-    excerpt: "AI is reshaping the music industry, stirring ethical debates and inspiring innovations. This article explores AI's impact on music, the response of key industry players, and the promising developments in Europe's MusicTech startups."
-    publishedDateTime: 2023-06-30T11:00:00Z
-    webUrl: "https://techround.co.uk/news/revolution-ai-music-production/"
-    ampWebUrl: "https://techround.co.uk/news/revolution-ai-music-production/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/revolution-ai-music-production/amp/"
+  - title: "Cyera raises $100M to expand data security platform for AI-driven enterprises"
+    excerpt: "With this latest funding round, Cyera has raised a total of $160 million for its data security platform for enterprises driven by AI."
+    publishedDateTime: 2023-06-28T16:51:00Z
+    webUrl: "https://venturebeat.com/security/cyera-raises-100m-expand-data-security-platform-ai-driven-enterprises/"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/06/marcela-laskoski-YrtFlrLo2DQ-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Cyera-Founders.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Healthcare leaders open to potential AI legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer releases framework for potential legislation regulating AI; healthcare leaders express openness"
-    publishedDateTime: 2023-06-28T14:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-leaders-open-to-potential-ai-legislation.html"
+  - title: "Scriptic raises $5.7M for user-generated games using generative AI"
+    excerpt: "Scriptic (formerly known as ElectricNoir) has raised $5.7 million in funding to create games based on generative AI."
+    publishedDateTime: 2023-06-29T07:30:00Z
+    webUrl: "https://venturebeat.com/games/scriptic-raises-5-7m-for-user-generated-games-using-generative-ai/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/scriptic.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
         isCached: true
-  - title: "Health care’s AI revolution is well under way"
-    excerpt: "Public health predictions, streamlining administration and new drug discovery are among some of the uses for AI already under way, said Dr. Jose Morey, an Eastern Virginia Medical School"
-    publishedDateTime: 2023-06-26T11:34:00Z
-    webUrl: "https://www.dailypress.com/2023/06/26/health-cares-ai-revolution-is-well-under-way/"
+  - title: "BeeKeeperAI Platform for AI Development on Sensitive Data Receives $12M in Funding"
+    excerpt: "BeeKeeperAI has raised $12.1 million in Series A funding for a secure collaboration platform designed for AI development on sensitive data."
+    publishedDateTime: 2023-06-27T15:50:00Z
+    webUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/"
+    ampWebUrl: "https://www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/beekeeperai-platform-for-ai-development-on-sensitive-data-receives-12m-in-funding/amp/"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 39
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 53
     images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/06/TVP-L-NW-AI-HEALTH-CARE-0625-KW-01.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 681
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Causely launches Causal AI for Kubernetes, Raises $8.8M in seed funding"
+    excerpt: "Causely, a Boston-based AI startup, announced today that it has raised $8.8 million in seed funding, led by 645 Ventures."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/causely-launches-causal-ai-for-kubernetes-raises-8-8m-in-seed-funding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "/FAAgS4IrqnR5Egvw4ZiX8PCrIL9xq5pHrrVEtr5SuLB+KXIsMMHSQUGs25OpJmhkKAwrb1Jy3nyb6gmye74fyT0XmwaT5JEKta0tuPe6PSun7SXt5F7IyzQjauuct4mNga0V4KJPosxLF5bL/1JSHxXVnL1n1vyeIWo+A69a8zRs5bI0qtxzAhRVFmIJBwuMSTFdDBIQruPY5EP4qjaKtv5ulwsACfkAaWaPN3RHyIQ2bTPbpIecZDT1zYDFd33kc1BkXsNJQj+qTxoLm++sUn/7Hx7IXXgMegbl3fqG6rivY3LOMqXwWcn5ICk32lQLR2yyHbih4r83yeL50/Wjr3Gab2l6GCyNJKAClOpn4nFVgzsaSHBjWyQykJpC8WfoSLyXpyfjrqxpmE1fNkABLOJHCZ1uRwP323N9uWPm+bkm+63pMZIUossnqDjbLJfxSPU2+DGwZC9aZZwOpI0FniofWqLae4nlj5+RgxdXv3G1RcdxiCNmz2s1n6mRx/lub736llFkavhM20+W2u7iw==;45gyqinKSfqeBYpzuXZQsA=="
 ---

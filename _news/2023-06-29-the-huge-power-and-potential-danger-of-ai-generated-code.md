@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated
 webUrl: "https://www.wired.com/story/fast-forward-power-danger-ai-generated-code/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -27,6 +27,40 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "The Picks And Shovels Of The AI Gold Rush"
+    excerpt: "As AI moves into the mainstream players like IBM, Elastic, Oracle, Lenovo, and HPE are delivering the \"picks and shovels\" of the AI gold rush."
+    publishedDateTime: 2023-06-26T19:42:00Z
+    webUrl: "https://www.forbes.com/sites/stevendickens/2023/06/26/the-picks-and-shovels-of-the-ai-gold-rush/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Dataiku unlocks the potential of generative AI in business apps"
+    excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
+    publishedDateTime: 2023-06-26T11:12:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/108092/dataiku-unlocks-the-potential-of-generative-ai-in-business-apps/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 41
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "How CEOs can tap full potential of generative artificial intelligence"
+    excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
+    publishedDateTime: 2023-06-27T18:58:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "ViqoyAbKhsjN2PBVXtYsOoTHXQf0UPvM1VRGccJEzufqRK0QpLNyHeMzwq0OxBEkVXQS1R4PygsDvhBPA+vqhsXDjvW3XQ+nzcqcaNxM6FCw4sjT2qmG/btZorl2aM89KruemjSJqIiBbFJOVgGF+W7R2HglOUuBAezOPE8eOBeFmaXZ45YAKDlmqIt1X6qfoiKb4PxpPAPvrvaUrZ0INCPUHZZ6pC6CBawPGFiBq2D6NxrjwWgBw9+X7kEEnpL31tppkmdBGdbpfmD3vMwOCYNFTxI4brxxnx7o64txNaVcFv3ULk9v6NSWTlATikzliiqIzOO+f11HH6NRVmQLGE1G0SV4rRWV7dEcXgJhor+y+fBDAImLWcjxYhiIs9I9Wtb4aqpH2YA3h/aBo0kuzN+iiiuXrS/ZR0dF7mlsIgShAOEZc9bthk3AKFqJKwROyT/v/IBgpulkzUGk6ttBjcLa54XVOh04fZMZNO7KyUDNlKvdyoY28FYqN6SsmZyW71WBGxiMsBCflO1WDPX12Q==;Y126FPlyw7uFccsemyqygg=="
 ---

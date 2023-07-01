@@ -28,53 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Former DeepMind researchers founded AI startup Reka raises $50 mn"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/former-deepmind-researchers-founded-ai-startup-reka-raises-$50-mn-1687886710404"
+  - title: "Reka emerges from stealth to build custom AI models for the enterprise"
+    excerpt: "Reka, a startup developing custom AI models for enterprise use cases, has raised $58 million in a venture round."
+    publishedDateTime: 2023-06-27T23:29:00Z
+    webUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
+    ampWebUrl: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/amp/"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1173717186-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google DeepMind calls for 'responsible' approach to AI amid 'eureka moment'"
-    excerpt: "The explosion of interest around AI has come from recent advances in the technology that have allowed people to use it with conversational language, rather than the programmers who predominantly dabbled with it before,"
-    publishedDateTime: 2023-06-29T19:32:00Z
-    webUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment"
-    ampWebUrl: "https://thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
-    cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/pmn/business-pmn/google-deepmind-calls-for-responsible-approach-to-ai-amid-eureka-moment/wcm/1e5bc4fe-260e-4b6b-a92e-85495a4c4082/amp/"
+  - title: "Generative AI startup Typeface raises $100M to customize enterprise content creation"
+    excerpt: "Typeface helps enterprises create content using generative AI with machine learning training customized on an organization's content."
+    publishedDateTime: 2023-06-29T08:00:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-startup-typeface-raises-100m-customize-enterprise-content-creation/"
     type: article
     provider:
-      name: The StarPhoenix
-      domain: thestarphoenix.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/06/chy143-the-canadian-press.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "AI startup Reka, with no revenue yet, raises $50 million: Report"
-    excerpt: "AI model startup Reka, which was founded by former researchers at Alphabet's DeepMind, has raised $50 million from investors including Snowflake. Yuri Milner, who was an early backer of Facebook and Twitter,"
-    publishedDateTime: 2023-06-27T17:24:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-reka-with-no-revenue-yet-raises-$50-million-report-1687886710404"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/06_jun/27_tue/img_1687885340058_451.jpg?"
-        width: 1080
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-robot_drawing_AI-image_text-to-image_generative-ai_180822246.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
   - title: "AI model startup Reka raises US$50 million led by DST Global"
     excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global and Snowflake,"
@@ -90,20 +72,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI model startup Reka raises US$50 million led by DST Global Partners"
-    excerpt: "Reka, an AI model startup founded by former researchers from Alphabet's DeepMind, has raised US$50 million in a fresh round of funding from investors including Yuri Milner's DST Global Partners and Snowflake,"
-    publishedDateTime: 2023-06-27T21:18:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-model-startup-reka-raises-us50-million-led-dst-global-partners-3590381"
+  - title: "AI English Tutor Emerges From Stealth With Seed Funding In Hand"
+    excerpt: "An Israeli startup teaching English language using generative AI has emerged from stealth with $9.25 million in seed funding."
+    publishedDateTime: 2023-06-27T12:25:00Z
+    webUrl: "https://nocamels.com/2023/06/ai-english-tutor-emerges-from-stealth-with-seed-funding-in-hand/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--D7raNv5T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-27t160433z_1_lynxmpej5q0pv_rtroptp_3_reka-snowflake-funding.jpg?itok=YjpsbcqQ"
-        width: 1200
-        height: 676
-        isCached: true
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
 secured: "cYYjxU0dDdqEo1a6mTS7NscC8+uYAw+wh696nCvoc1nzmRt9XnF4gcA/SXDVCnrQjIC/erbQQKen9bKDrztjw/0PIZ1n3WANRAR5gxmCI1qb0k4yReTOQtlNpV7MggPLtSpZthHtPmZdJfIwoDCuXU8Vco1NiS0trp57ZJ68nd2m7xoV1uMeTA7y0P/kM21HD8rFeK7xwi756Gsvj3mQDyR/v5GnzIBa3/fzQnQHr532Z5SXHaEytm3EjmzTQL/smlhS2EHEBIMTuk1ePm87z9+QtH3jhUAwqUJQT6gCGNazAGyF92imDNucgQyFluuYTmscUTGIlr/YCBEH8hVYnL7rDD/irdaaIs80rjbrAKe9G0lhYO8ISIBuNYd62n7IMEIdbrSPfgDHDfV+unxx8SB2TQfiwZEaxPc0ZgMeX91/FhyQl+TWu2OIbzxjzJ2Og4VowT2BSneffvDHEYgpCHA5Kk9yhmWIrSFibM7hxNG9jEhH6T8WcsMO/tFnhQ1TMMUM8nEdl4ygTo/OiOd/UQ==;uiiEF+8K65ECNEnVyoec1w=="
 ---
