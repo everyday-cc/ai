@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Company executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 executives are urging the European Union to rethink the world’s most comprehensive rules for artificial intelligence"
+    publishedDateTime: 2023-06-30T14:17:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_c2f08ee87d82cea63cfcbfa166709d52_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "EU to open artificial intelligence ‘crash test’ centres"
     excerpt: "The centres, which are virtual and physical, will from next year give technology providers a space to test AI and robotics in real-life settings"
     publishedDateTime: 2023-06-27T13:28:00Z

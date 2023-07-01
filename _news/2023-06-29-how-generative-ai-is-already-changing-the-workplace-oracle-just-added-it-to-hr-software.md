@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-already-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: ZDNet
@@ -31,30 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+  - title: "What are the best ways to use generative AI in the workplace?"
+    excerpt: "Artificial intelligence is not intelligent, all it does is pattern match' There has been a lot of attention paid to AI lately, and especially the generative kind. But what exactly is it, and what do employers need to know before deploying it in the workplace?"
+    publishedDateTime: 2023-06-26T21:05:00Z
+    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/what-are-the-best-ways-to-use-generative-ai-in-the-workplace/377117"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Canadian HR Reporter
+      domain: hrreporter.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0379_638234103170918866.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Table of Experts: The future of AI"
-    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
-    publishedDateTime: 2023-06-27T13:06:00Z
-    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+  - title: "How artificial intelligence is dividing the world of work"
+    excerpt: "Many employees fear the rise of this software will lead to the loss of their jobs, prompting some to adopt an anti-AI stance."
+    publishedDateTime: 2023-06-30T00:01:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/06/30/how-artificial-intelligence-is-dividing-the-world-of-work/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
 
 secured: "WzfRYqOKlS8DRVLZOikfiSG67gvBZxCfCIOpvrW4jfC/GP0rxDfe7yjUb1tVwIDIcLDKedgnXYiWaneYnijrTLHtCbVUiobOXa1zQLtwbjOBRX8WN0RuBBG/T1aHdOF9loHnD4fIkMHEcgVTUyfpq0WHhlNfVwzdQZtS29isG9DMPZ42zqvao6BfuRmqyWzMlNPX0UiQyKBvL1QEoDN+3yEdIkZ+kK7rLUmOKgO0Q2IT/sK69K9G+XTwmUzO4qT9QQcW8trelEQ4kuJtKKSoHG1ElqMXC1oJxM/e0mIWnxUE9lR6Iu4wfDUiMWKL9qwI3YiwrGbaaolmMRedw3dnnJXxGYwmGMuw3yncGlBQMueNYiQ6b7dX010SV/STrb/xCcqVjiPYL9JCUoWMSyCY9bxdX243fNVbYrlgSBcF4CVO7DxPpLru+I244FKr8qwwEXsCDu1iW/xT37xKWHoLNQ3X0MqyE/Zz7F+Jzp3Zo6hpx8pL29AokMDldREpHcbtEtnxEPTMJYWLsJUIblsbqg==;puwhYczv+WDnItAqbnnDoQ=="

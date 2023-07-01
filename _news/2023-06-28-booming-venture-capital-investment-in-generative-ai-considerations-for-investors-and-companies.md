@@ -229,15 +229,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
   - title: "infinitii ai announces $1.5 million five-year contract for its new generation of Machine Learning technology"
     excerpt: "CNW/ - infinitii ai inc. (\"infinitii ai\" or the \"Company\") (CSE: IAI) (FSE:7C5) (OTC: CDTAF), a leader in AI-driven predictive analytics software for"
     publishedDateTime: 2023-06-28T13:56:00Z

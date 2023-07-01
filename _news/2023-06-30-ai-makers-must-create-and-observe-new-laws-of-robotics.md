@@ -68,15 +68,6 @@ related:
         width: 1024
         height: 692
         isCached: true
-  - title: "Sacramento-based Abstract offers artificial intelligence to track California legislation"
-    excerpt: "Sacramento startup Abstract has developed an automated platform that uses artificial intelligence to search and track California legislation, analyze how it could affect businesses and industries, and keep users updated on amendments."
-    publishedDateTime: 2023-06-26T11:30:00Z
-    webUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2023/06/26/abstract-ai-gov-tech-legislation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
 
 secured: "oIBUmmALw2p8Isbwmz9Q5jGGTa9TtpE01zw1udhbIlEdOpCtTmjUrtlz/quxCgHumkiIN2QcnMWKFIsNRm0aR1WYf7rgVSPIFj3Lk5IP91jEkC8NZg54TOocacx2nRkQgl1BplA//ZPF4JsiBq7R4SL1bYJVDVCE7hL524awYaB5zD8HG5mL14xwD4uLV74Vb/krSl/lpPMmL5LlmF6ckWmgL7L0GVE3Vw9rLAY5MgFmeo22BSnv0mW+RT6jSlhtWefiBHvTWaQTMbjtl7ZypwWELvVNnWBOJILrQ202cWhn8rDDGRMZLxW0tunDDsABLU4+PcsYcf97ccUCeQjnrV6k78ZgVdzgXrG0bhkSRSA=;guUSYpqF1Re3IA05Do1tig=="
 ---

@@ -71,15 +71,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 17
-  - title: "IBM Will Buy Software Company Apptio for $4.6 Billion"
-    excerpt: "International Business Machines Corp. will buy software company Apptio for $4.6 billion, marking the seventh acquisition this year as Chief Executive Officer Arvind Krishna pushes the company’s transformation into a hybrid-cloud and artificial intelligence business."
-    publishedDateTime: 2023-06-26T12:47:00Z
-    webUrl: "https://www.bnnbloomberg.ca/ibm-will-buy-software-company-apptio-for-4-6-billion-1.1937987"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 4
 
 secured: "7ILvIyUSgMgXgdteOB4UGlNugeL88/p/pHHjruvwIOO9wt68tQ3yf+21lDCesN42GWUSePY9ty+8cy22atOy84eCX//dTYPpgRm/udJsSqbvX2inGFMX4fsgweAm5EA6kzEXl4EpXCkqg5VYpIOk9wAjZDLXmraZn/dRbyFTvmIdONl0bPPoPHl/Fiaw5YRbYkEBcjLPiEN6Lr5hM775x69QTcLi5RQKvDftD1XB9GkpGF+Db4eFxD96px1gttUCy4jS71gKL4n+QVXb61+N0uEUXTnT8ZPWrj3NylMW7Istzq/eEDV1/Jj2pxZmtnCMfZ0Y4X1OZJigKLS5ly/eoHDbTbS5v7GHqQl0trfhUj7QUtcKoTc+TrD209R5vipX6kAmuWMtb8u9TYVF+mkjBGMJgGthKuEOnTMgWP5QJ4+4j9MUVNn/nef+aEVK1ntF/Xf/ExNdArcgdTXkrMAeVpal7SOhRVkdIKI//PjGk8VOBRu9/Nh//31OciL2yMHUvlbJqdpkXXjUwyyS1sKjrw==;Dz7DmonfQTrekKagOWiOiw=="
 ---

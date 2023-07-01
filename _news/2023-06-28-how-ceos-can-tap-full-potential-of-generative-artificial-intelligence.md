@@ -42,20 +42,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Dataiku unlocks the potential of generative AI in business apps"
-    excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
-    publishedDateTime: 2023-06-26T11:12:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/108092/dataiku-unlocks-the-potential-of-generative-ai-in-business-apps/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
 
 secured: "4cD0TUGQN0DKkZ7sgowPLpJ7h5+5+Xhy8mHg2fIprXqOnbFhMb1OBMEPewBwOY0dcLol8ABzQC2SqWYacOVU7ee4/B2P6IGX8gExEFfqkP7U7eICNn2zoqRJ4MGgkxYFDfBN+B85N0tcekFs04QTQmyvVzTPwhtRh6Siw7zouHZyRWC5D0UyPATSwrPSKz/xUJe+jHGhbLUBm2b/tDdcOmLL/4Dx7Q5j8xj3tb9tmdNvBPluW2knTXcUrfcxGMdJSH8M1ngiyWXNjYedK5rWWAATc3KLJwkIbI/CzrNvgk69JJELlTdBnSPeecXISPYnNT11CC9FAmlWAQ5UDVyYJ2Man1noi+CFiwkN94jG/fc=;ZlVna06dlVPDr61ExLK8jg=="
 ---

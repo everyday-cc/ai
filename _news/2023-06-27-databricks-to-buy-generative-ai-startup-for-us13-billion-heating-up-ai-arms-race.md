@@ -170,15 +170,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Databricks strikes $1.3 bln deal for generative AI startup MosaicML"
-    excerpt: "Databricks said on Monday it has agreed to acquire generative artificial intelligence startup MosaicML in a deal valued at roughly $1.3 billion. The deal comes at a time when Artificial Intelligence (AI) is dominating the tech industry, with rapid AI ..."
-    publishedDateTime: 2023-06-26T12:31:00Z
-    webUrl: "https://www.reuters.com/markets/deals/databricks-strikes-13-bln-deal-generative-ai-startup-mosaicml-2023-06-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Databricks AI Assistant Offers ‘Cemented’ Business Knowledge"
     excerpt: "An AI LLM trained on open data has broad knowledge drawn from publicly available resources, but the definition of a ‘customer’ or ‘fiscal year’ etc. always varies."
     publishedDateTime: 2023-06-28T21:16:00Z

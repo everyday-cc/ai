@@ -28,6 +28,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "Connecting the dots on Snowflake’s Data Cloud ambitions"
+    excerpt: "Data from people, places, things and activities in the real world drive applications, not people typing into a user interface; and 2) Informing and automating decisions means all data must be accessible."
+    publishedDateTime: 2023-07-01T01:12:00Z
+    webUrl: "https://siliconangle.com/2023/06/30/connecting-dots-snowflakes-data-cloud-ambitions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/AdobeStock_106703428_Preview.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Weights & Biases Accelerates Deep Learning, Large Language Models (LLMs), and Generative AI Securely in the Snowflake Data Cloud with New Snowpark Container Services"
     excerpt: "Weights & Biases announced that it can now run the W&B Dedicated Cloud securely in the Snowflake Data Cloud with Snowpark Container Services."
     publishedDateTime: 2023-06-27T19:05:00Z

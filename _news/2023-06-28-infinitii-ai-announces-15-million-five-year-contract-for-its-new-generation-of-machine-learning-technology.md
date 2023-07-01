@@ -237,15 +237,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Amazon is spending $100 million to teach cloud customers about AI"
-    excerpt: "Amazon's cloud unit is building a program to help customers develop and deploy new kinds of artificial intelligence products."
-    publishedDateTime: 2023-06-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-spending-100-million-to-teach-cloud-customers-about-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
 
 secured: "mCxz4PCPMbRplNHdBC1WEUCWwk69PTu0Hz+DJqxIkyfaS8GdAajggOv7BPElAZ4epHgxB9RRALSXj6qNQiwg666NKUU2Xued146EkifmpYE6K8GGint2YUAFsQrVeg+vd0ohg2p91TY/eL162gql+IOX47d08Jg+2lOMaD7yA/lzL68yCKreIV/0Z+d30cP5IB1iayrCoxpE3Fw1w2xyYoT+0r3xWtDi0NmL8ElWPUNrUzBd97htaKWHc40tx1cyhIOdRtzUdF8yh6JM05zibP9dxWVaw/l44ZjrPoDYGm/aW2WogItazSTF7dNZxVkJ++NzMPFiAnr3purX5sLE+GTmP79xrUOiuhIMihs5sWw=;uml9iTNMb3Q8thebjxdQ2Q=="
 ---

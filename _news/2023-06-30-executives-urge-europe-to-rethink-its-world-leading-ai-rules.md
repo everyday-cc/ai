@@ -100,15 +100,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Navigating The Storm: AI Regulation And The Future Of Business"
-    excerpt: "In the absence of defined rules and guardrails, businesses must make complicated ethical, privacy and other contentious decisions on their own."
-    publishedDateTime: 2023-06-26T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/26/navigating-the-storm-ai-regulation-and-the-future-of-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "EU, Unesco to help developing countries shape AI rules"
     excerpt: "The European Union will help fund a Unesco scheme supporting developing countries as they create laws regulating artificial intelligence, the UN cultural body said Tuesday (June 27)."
     publishedDateTime: 2023-06-27T15:44:00Z
@@ -161,6 +152,6 @@ related:
       domain: emerging-europe.com
     quality: 19
 
-secured: "z0bVB1aElPRUlkRsqwB/bExmSiiJ8MA7m6OneZm+RznVJT4EY8eZOPlR9K6IUJ3H1QB6qSexFqKJ4+oPWnDLdRz/FETGIYhzu48WCzFysqt+B1CpNiP2Iy2eZtl1idRwZylAb/0MI9imVk8uHiNjZKvW7+HN6kbHdzin8806MFAqyB77wYnXtHenHQvWyXDTiIETkyyaHBjw1jTTcw6/sbRxr0TJyFzL3gSbdMAY7yVft+kQd/gokNk4BH5AUcamMunQqmslLgf+jGRFT2FN7d2BkiYzkMA6C/SQB4OJuhyghElR+ASBB/+fA++/SIY9FW3afxanfSUAN2P94v0dwLEC28xuudmOqXZLDPEFY6Q=;IWwWYeNxzc2HAwJYDW7pAQ=="
+secured: "ILeK3YEanfL+RssWe93hyYKoR/yEKWnbTngA4urWWaQSRLGaPT9BdWBrU1+AN4cwr35zaWiU5ZTuso/PGyf65xrqcKJ1wF0Wv1sJe15/WbJ9ICnXGXGPFEZL+oKwwU5PEd7cZ91JnL3OOCGDxU/c2Gjz9G8T64dEQfWc36ZUfGS/ikzYNEo/HW0rMgLJnolFu+Ftblg/b/S9OQ66biOmXdJoOp9VCDivkOTvtJFOsbEN+7iynV///S8VFhwpV5sb/ILs0oKQS/xY795ztyLn8Vpkr5VLpxjHEUFEQ+Qndtf5mX8DRbMNt5cztd+koCmQneKiA8GSG97FEghVBhhNNQGUYeMy4sKn+FED1K3pdmluoxScqJj9hNad+3QTsTHSvfj+KRZ6d1ULNUCjjcDaOaVUc9VYKFl9t2m2geUNhw2wowwRJyBsairdTOMX6hjLuI9n9AGKhONUy8b3Cc5nkEh1dBji11ttzZkx8HzFOyxgCjYGcut2yMrsUUyD1DRv6orwWJtosnwLsLqJOzd2Fw==;4SBNETzdDRmXq3/8r8bNBg=="
 ---
 

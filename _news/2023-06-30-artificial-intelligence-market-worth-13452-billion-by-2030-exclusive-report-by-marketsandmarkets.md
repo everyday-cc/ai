@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence Market worth $1,345.2 billion by 2030 - Exclusive Report by MarketsandMarkets™"
 excerpt: "The global Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.8% during the forecast period, to reach USD 1,345.2 billion by 2030 from USD 150.2 billion in 2023,"
-publishedDateTime: 2023-06-30T16:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-worth-13452-billion-2030-exclusive-/2023/06/30/9842399.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-worth-13452-billion-2030-exclusive-/2023/06/30/9842399.htm"
+publishedDateTime: 2023-06-30T16:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
+webUrl: "https://it.tmcnet.com/news/2023/06/30/9842399.htm"
 type: article
 quality: 3
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "t9D8ZLR3SPEX5K9sdJ9NPhyonJmzSPKn+IEJkBccltOiIkbwwJ5vO1wGMOPgIRxrOt9sxaLPKpw9qZc3wJzJzK6rqMutRTjNIGVgEqHp2GFEj20XlO+0tv59ixWGtEsrK0/nwjm/8m75eL8deirfeKo63ypPfe66f711rA46b8KO+fthS0O69KAt+zf+dcF4OsDBXoqbf4S5e0JuPH0+miRKcErIoH3Fhy/GKONUBlyeB3FoTGDQnt81AWrnK1yzY6/D39DDOb2eUFhXGqOnnDbK1z62jqX9ltInkK6nQvceLbYXRSS0WUSD8ES1G4zrmP7xO/TC3CFqZcW2fdwzL3+DW0ShL6HEC0WnxujwdfkRr8m/h2GALl1Go3gJ3cPvtmMKajdplG4bH3s/hzcP00FhilpYGCEc+giQu4uscmJm3f+RsCyGfBhjOzMIXtFmhvcBfIFqKbE/MvoCfPLJ9z9tO9/kwX90oSbuSxi78mQa3HNI4SNF5zZnbcLIz4z1y759DhouLpFUcyX7u8CMuQ==;v4dYmfzFbsNAUl7021dTLA=="
+secured: "pz32jN8yRj7cVEGj7etmPr8hNFeWDqn7tsTAiKMiNWd0yjvCVtG+/gFRXPte4JaMxzu/6hao72V2QXQXGVziDB5H0z1De7l/DZD1jeQw8q0DavdfMm79Mhj7MBKJu9S8YzhNTslSSKGTR8tbKC8eD0jVAgMNwrmEnSbJmm2b9fUFT45YJUjRZgyftjnuRFoaKXaR0UxUbswTxqhccQgtrFC9QbjRbik+RsEzZ9j3+gTIBZSKfDWC12Ld8pXCfHYWPHt7qLU4U+Ma07XoHcoCHtLHM9MZFUgh82wCt8Du2Ik3VU6EP1TMwSzAIpiYPudboHX8KE7a6eRBV7ZvSPJjwScUnpEIKWs6bXoSTBcdLMlADALUI3KsmSG7wcFr4gbXpvKTkXiiSaYDh9P15qYvGIapWaWqSyj/zDvsfNsdf5fb1BJhd2Ku0tLQEDx7NKN+PWB7vPl39BvCwsJIc138V4fV8OY56S1LA0w561TG+kMM1P9vMoBc9ax9Frm/NqS5oXPrY6t53M+cIxBm+92isw==;/vtFhXI/MjR3OtsjkxGbaQ=="
 ---
 

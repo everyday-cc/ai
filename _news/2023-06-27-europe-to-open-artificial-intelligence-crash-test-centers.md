@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/430426/finland-eu-ai-technology-right.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Company executives urge Europe to rethink its world-leading AI rules"
+    excerpt: "More than 150 executives are urging the European Union to rethink the world’s most comprehensive rules for artificial intelligence"
+    publishedDateTime: 2023-06-30T14:17:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/executives-urge-europe-rethink-world-leading-ai-rules-100536838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_c2f08ee87d82cea63cfcbfa166709d52_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Europe launches massive AI test facilities"
     excerpt: "Artificial intelligence has entered the public sphere. The term AI is everywhere, and millions of Europeans use the technology every day, often without even realizing it."

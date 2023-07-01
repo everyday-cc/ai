@@ -41,20 +41,6 @@ related:
         height: 750
         isCached: true
   - title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
-    excerpt: "Forget about the canary in the coal mine — experts say the day is coming when there won't even be a need for a human."
-    publishedDateTime: 2023-06-26T12:40:00Z
-    webUrl: "https://www.princegeorgecitizen.com/highlights/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-7194646"
-    type: article
-    provider:
-      name: The Prince George Citizen
-      domain: princegeorgecitizen.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/06/20230620130656-152159e5d2902365d3b01e4bef7a7e7c96b673de2bef23da917f1ccf24364258.jpg;w=650;h=433;mode=crop"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Mining companies betting on autonomous technology to make dangerous jobs safer"
     excerpt: "The global mining industry has come a long way since the days when coal-blackened miners would carry a bird underground with them in hopes its distress would alert them to the presence of toxic gases"
     publishedDateTime: 2023-06-28T01:00:00Z
     webUrl: "https://www.sudbury.com/beyond-local/mining-companies-betting-on-autonomous-technology-to-make-dangerous-jobs-safer-7200160"

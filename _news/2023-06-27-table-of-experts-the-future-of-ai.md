@@ -19,37 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Excellent CX: Leveraging Enhanced Generative AI"
-    excerpt: "I will break down where the CX industry is already deploying these tools and best practices for AI to improve work experiences, operating efficiency and CX to boost brand reputation."
-    publishedDateTime: 2023-06-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/26/the-future-of-excellent-cx-leveraging-enhanced-generative-ai/amp/"
+  - title: "AI-Driven Consumer Experience: How Not To Cross The Line"
+    excerpt: "Although AI-powered solutions often come with the promise of accelerating company processes, the power of these tools may be overestimated."
+    publishedDateTime: 2023-06-27T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6495a2640a3e4d13703cb337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 880
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "How generative AI is already changing the workplace: Oracle just added it to HR software"
-    excerpt: "Generative AI-powered features will improve the job posting, search, and hiring processes for HR pros​ and job applicants alike, the company says."
-    publishedDateTime: 2023-06-28T17:42:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-already-changing-the-workplace-oracle-just-added-it-to-its-hr-software/"
+  - title: "How AI solutions can enhance credit union marketing and member experience"
+    excerpt: "Artificial intelligence, or AI, is the latest and greatest buzzword. It comes on the heels of “omnichannel” and “automation.” But it’s really just another"
+    publishedDateTime: 2023-06-30T07:45:00Z
+    webUrl: "https://www.cuinsight.com/how-ai-solutions-can-enhance-credit-union-marketing-and-member-experience/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 55
     images:
-      - url: "https://www.zdnet.com/a/img/resize/cb7e8fe61ddc541ff899e37f15206a20bb3c8b90/2023/06/28/fde1d28f-b5df-42db-8111-ec12a6095501/oracle.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/06/bigstock-Ai-The-Concept-Of-Artificial-473117115.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "O3wx7+6c4tBEqeYYGiuSqOnWh7kw7Rfvpqho24KTXZgwcFzwHtQDmLNYz11oHVtfcSYjMLGhqWMAFfbChb4LnF42SDShfZF1NcHoqso4mot8IJhS6E1E3r7qRurdgi17+NSYvJtuoQClMAxR6LQ7EfivglFdxAAeM+9TYHWJPjiobh+qZRQx+YgpqOOxf3DRIZTB0GTZIAypVi6FdRHiwrv+tBveHCMZtkTzTK/Pex5+Rfft2Lz4rhXJML5NXb24pMZvlreDpBFswI2X9kd7W94hx+G7/JiUtKf0WAlvJw9+0qi5AyDQTMn0nRUnAYm99iPfMcmZSLkAL7+UgU8ppFOk00/qxcc2DKpYxkSXUcc=;y0xy19xuxGAiP/75i/+t0w=="

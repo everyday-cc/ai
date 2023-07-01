@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-drive
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/27/ai-driven-consumer-experience-how-not-to-cross-the-line/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "eQOxU3EOaYj+lpvM80uwx50we9arQ0Gg81bwUzqgNPpN4hR7py8Rpi0PrAenHqBjd2htjI6eEmyMMbgA4E2c5bQGVSlyYhbfDeBpVOLiBBo2TXlhmlto1scRUbKk+OvZOnKwWY3xJs3n+VaEh1x/tB1hYqjaHGcVv0SmBVdLDsJBywT1ERQ4I4/UpTN/gAkIpLFJi0TLfgpLW4e9X6RL8aOIXLBQFWFysyQdpZg/kC0+1/3D5Gn9KxpSqbvzP1kAFMAllCqRhutQS5oecGiMImdmVfe0BNLVZLOZGZOgzI6tgW4OlbFtwIMbQRBpoTuDVuI2UzXf2YH9mrgVFSWVtR19PeyoNV8DBC+ZzOdkfBw=;JQSbr5X8KJcoMJhNFwtx0A=="
 ---

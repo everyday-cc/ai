@@ -68,15 +68,6 @@ related:
       name: Hanford Sentinel
       domain: hanfordsentinel.com
     quality: 49
-  - title: "Sacramento-based Abstract offers artificial intelligence to track California legislation"
-    excerpt: "Sacramento startup Abstract has developed an automated platform that uses artificial intelligence to search and track California legislation, analyze how it could affect businesses and industries, and keep users updated on amendments."
-    publishedDateTime: 2023-06-26T11:30:00Z
-    webUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2023/06/26/abstract-ai-gov-tech-legislation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
 
 secured: "vdnnyiJfOLwvK6YAyRlV7PTfh2k5kLFNkax4k5Egl/9borjyO55CN+eMFzA7JhTGdIan4e9NpoAfRG5qhCyUDIL8qU2gs4J3kdOTALh+etFuiVYqlDATxwZ84sebCeGQfS4hOx+fYSMN53iKZN6tgEdk64aRzO2ui3gDXkSpeiTfahu3QcCa/qbmSVdj18aUnvk8IGXAUxqupi15GwsFVOzxPnLHRGmBHxgQEKl8nhbtCv6FjPguKjGoYv3SMmQLuaExKhtSv+Wu2c8fMp5k/IgAPJgsZac7zwTbLoF+j0wE97rO8SNP5fH8pPk6uIo9aMPGi6dm71EHr53KLNkDJ5ZDBkFfsvYC0rtgyo8fnVVVgfc2+YlPRgFuVyRf22ctspxfLoeMjWQRZWSn6ClHw6GWaysTv7X8RdWscqkrVQNAZNjdk7V7Gy8qYL6HPoMay+T8J9pmoWl63cgm31Ck0IVr9l0UaP63yf1x9w+9VkWpGAgD10QXRP4vyNNQkEUZPxbGVjOenwcrd83kICzoOQ==;ritlOzdj9TIBrgjN/OCqqA=="
 ---

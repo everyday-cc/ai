@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
+      "title": "Robots and rights: Confucianism offers an alternative",
+      "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "publishedDateTime": "2023-05-25T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain.md",
       "title": "Build a powerful question answering bot with Amazon SageMaker, Amazon OpenSearch Service, Streamlit, and LangChain",
       "excerpt": "One of the most common applications of generative AI and large language models (LLMs) in an enterprise environment is answering questions based on the enterprise’s knowledge corpus. Amazon Lex provides the framework for building AI based chatbots. Pre-trained foundation models (FMs) perform well at natural",
@@ -1171,40 +1214,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-a-startup-backed-by-openai-uses-ai-powered-robots-in-the-real-world.md",
-      "title": "A startup backed by OpenAI uses AI-powered robots in the real world",
-      "excerpt": "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html",
-      "publishedDateTime": "2023-05-25T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

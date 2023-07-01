@@ -188,15 +188,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind’s CEO Says Its Next Algorithm Will Eclipse ChatGPT"
-    excerpt: "The company is working on a system called Gemini that will draw on techniques that powered AlphaGo to a historic victory over a Go champion in 2016."
-    publishedDateTime: 2023-06-26T12:01:00Z
-    webUrl: "https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Google DeepMind devises a strategy to outwit ChatGPT with Gemini"
     excerpt: "DeepMind, a subsidiary of Google specializing in AI, is currently developing an algorithm dubbed 'Gemini' that will combine natural language processing and"
     publishedDateTime: 2023-06-26T17:13:00Z

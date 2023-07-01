@@ -42,6 +42,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Table of Experts: The future of AI"
+    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
+    publishedDateTime: 2023-06-27T13:06:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Pi8CUZxXYDIUyvCQZSzeWhKOLfXL8VL27e7ijMgzVhwe5oFWaliARLRH4sTcB13T4hXqEwIpc8r2hcgidTXEmREP+Nj0f/i3F0//62rBYSZupp+FnM2VB8WxTS2FNcJ3sH+NXlbtWoJxUrdfwBHtW2Qub+y1d6DqranYIYIhEniAhNCxJKU85IO2uHuFE647LDO9w5ANKp8U148y98/ryHdXL4a5Byj/+uhVGRGwJyrq4wVxNLaN/cmZx6YcqyYp+ISc2cVO3xsw587Gj7CDegdgGd2oxS5lC0bowJeSlBV0zQ87aeNl3DOiNhWzbvZ+0eVUg1wGpwkHwFPE3tbedSKyhtJ0sTR4kVktl2mQPFMzHUv24QLvj+q2GrDOtCKuLW/2Rob//LT5fusOcRU8ZruXEe3mINv5OOvW9u30jJ/J6bVK88+gwSj/MxZiXWi+tlspjdl4sc6a3xjyjpTzXRPv60XrTOeHdxBbpdnNqOtUhE29LWxbCGQRGRqzfb88jwzxgbLBu64Wiz1D+iomzg==;YZEkw73vt4euO9zm6br4jw=="
 ---

@@ -66,15 +66,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Startup Unveils Personalized AI Tool To Spot Cybersecurity Risks"
-    excerpt: "An Israeli company, Rescana, has developed a new personalized artificial intelligence tool to help its clients detect cybersecurity risks."
-    publishedDateTime: 2023-06-26T12:41:00Z
-    webUrl: "https://nocamels.com/2023/06/startup-unveils-personalized-ai-tool-to-spot-cybersecurity-risks/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 17
 
 secured: "vssU+ogyOlNR6z2FpCZadn/vzq+M6Jf194mRklQrYi0gV3yDDjXB9HTaNJw9SwbjRVc+DGE8rM1wefYqTMiZsjyzTPWpStdAZaavKvh6hMK1l+AF6dFevsT6RItueDl84lhq9l/pqo1osZyNoBo2QurWATKQhNf5EV9P7NBWsLtU3NbK+TgT1Nru5sv5LIOGLL+/dIgwRShANhgSOzWTkNCDWQhMcGNUbezJbf28jpqIXPnajPWxGd3A2myYV/GfK8JPmc17e8Z4a4iFtN7UAXKd+TQW1P+jPiZaRIWg+EcXUia99acUaQHV/M50o2RMevBgWclWSkZbVc9F1rEq51sX/gqXyP4HXGpQdiY7UgJjjHbs/ZdAN/EnvzIv68F+id/OYbpK5Xr2Qd9jqK5GxmsJ7VX+wTpSJUAli7e3wHIkt4IRD+RxjaM0MODzHHPqGWMlyvzP2JKEnlpuB1nXVA/VI7EovDDnW/bSguYT6DcOiBRCqw6AjEQNddKaKzXgder9ZVwDuhn5vSAS4oOqgg==;MV/KuoEOwgUWqabcFMNhYQ=="
 ---

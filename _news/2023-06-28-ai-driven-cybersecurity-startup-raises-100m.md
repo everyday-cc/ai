@@ -63,15 +63,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Startup Unveils Personalized AI Tool To Spot Cybersecurity Risks"
-    excerpt: "An Israeli company, Rescana, has developed a new personalized artificial intelligence tool to help its clients detect cybersecurity risks."
-    publishedDateTime: 2023-06-26T12:41:00Z
-    webUrl: "https://nocamels.com/2023/06/startup-unveils-personalized-ai-tool-to-spot-cybersecurity-risks/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 17
 
 secured: "ov//Mq76F3EnmDYiCy3fj4fVTX40aVuU1xluYPu0G683DVD3zGHeBK09nDEZWJ443LSjgFm3HFEuWefmP5c0tmaqSYd5VfKPju8l7G6Wqki7tRQQUtr4f7enVZR35TGg1KBka/9cAh1T+RPxBP26kkzKIDFFuUoC0GXtF3rm7v0fNyd4YUlIHdPXm76g0gEY2V3KBGvVdowhr6tfNiB5zsZCfbM5fB4QoJ4qx5RTEvqpeOZd60EXDuTDdgDyuQEdRZpxSCet6kuYqd8TZIffZzG2065s21PDW8NNq1lVT9swB5ZIk0M/sxmGZP/B8I0toTKnVJQnTNxaNDcz5ItWEaa1h/LrUR1857vfMu/qvj+6pvmJknwJDvCWEUTV2sPaQexp9UAadafWSX54Uc1jLfz07nKlc5+zW6Hdbgf8zVUR+gcgU6Fla0oYymreOdNO+Gw5q8X+iPJPXgRIoVojDVIAKkqQBWQSDX/AqjdkmynpbPIo2S+XYtI7pyWQyjxawA9TgECuftMChe59o5wCJw==;qdpmHab5VDmgwJcwv5OPdw=="
 ---

@@ -36,20 +36,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Dataiku unlocks the potential of generative AI in business apps"
-    excerpt: "Dataiku offers enterprises a framework for AI laws and various use cases in the new Generative AI Use Case Collection. Dataiku now offers enterprises a"
-    publishedDateTime: 2023-06-26T11:12:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/108092/dataiku-unlocks-the-potential-of-generative-ai-in-business-apps/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "How CEOs can tap full potential of generative artificial intelligence"
     excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
     publishedDateTime: 2023-06-27T18:58:00Z

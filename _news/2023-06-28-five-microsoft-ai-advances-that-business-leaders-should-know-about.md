@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/06/28/five-microsoft-ai-advances-that-business-leaders-should-know-about/amp/"
 type: article
 quality: 106
-heat: 686
+heat: 706
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/05/27/artificial_intelligence_ai_machine_learning_-_30212411048_0.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Trusting Social brings AI-powered agents to enterprises, backed by Microsoft Cloud"
+    excerpt: "Trusting Social, a leading Asian fintech AI company, has announced the launch of Agent Foundry, a generative AI platform that provides trainable, AI-powered autonomous agents to enterprises."
+    publishedDateTime: 2023-07-01T03:15:00Z
+    webUrl: "https://theinvestor.vn/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.html"
+    ampWebUrl: "https://theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
+    cdnAmpWebUrl: "https://theinvestor-vn.cdn.ampproject.org/c/s/theinvestor.vn/news/trusting-social-brings-ai-powered-agents-to-enterprises-backed-by-microsoft-cloud-d5631.amp"
+    type: article
+    provider:
+      name: theinvestor
+      domain: theinvestor.vn
+    quality: 70
+    images:
+      - url: "https://t.ex-cdn.com/theinvestor.vn/resize/600x360/files/news/2023/06/29/hnf-12345-195910.jpeg"
+        width: 600
+        height: 360
         isCached: true
   - title: "Microsoft Outlines Azure OpenAI Large Language Model Servicing"
     excerpt: "Microsoft on Friday outlined how Azure OpenAI users can automatically keep up with the latest large language model updates, and also gave assurances about privacy issues."
@@ -636,6 +652,20 @@ related:
       - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
+    excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-30T04:29:00Z
+    webUrl: "https://menafn.com/1106518886/Winners-Of-The-Microsoft-Ai-For-Accessibility-Hackathon-2023-Showcase-How-Inclusion-Is-Innovation-In-Asia-Pacific"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?290279"
+        width: 452
+        height: 250
         isCached: true
   - title: "Microsoft-backed AI startup Inflection raises US$1.3 billion from Nvidia and others"
     excerpt: "Inflection AI, a startup backed by several Silicon Valley heavyweights, said on Thursday (Jun 29) it had raised US$1.3 billion from investors including Microsoft and Nvidia, amid a boom in the artificial intelligence (AI) sector."

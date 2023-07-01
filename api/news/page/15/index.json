@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-06-20-galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce-model-hallucinations.md",
+      "title": "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations",
+      "excerpt": "The Galileo LLM Studio debugs the data and prompts to reduce hallucinations powered by powerful algorithms. Today, Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/1c/31c7a945-e802-54b0-8ef8-6a4703482f1c/6491c881081f3.image.jpg?crop=1890%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
       "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
       "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
@@ -348,8 +391,8 @@
       "title": "Clairvoyant Networks, Inc. awarded £80k by Longitude Prize on Dementia for AI / Neural Network Driven Fall Detection and Prediction",
       "excerpt": "Clairvoyant Networks, Inc. has been named a semi-finalist in the Longitude Prize on Dementia for its innovative AI / Neural Networking remote monitoring platform for detecting and predicting falls amo",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/p32924009/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n32923996/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n32923996/clairvoyant-networks-inc-awarded-80k-by-longitude-prize-on-dementia-for-ai-neural-network-driven-f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -366,9 +409,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32924009",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32924009",
-      "publishedDateTime": "2023-06-20T06:41:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32923996",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32923996",
+      "publishedDateTime": "2023-06-20T06:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -1145,58 +1188,6 @@
         "AI",
         "AI in Autos",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-amazon-and-the-ai-war-irobot-acquisition-in-focus.md",
-      "title": "Amazon And The AI War: iRobot Acquisition In Focus",
-      "excerpt": "Amazon is also in talks with AMD (NASDAQ: AMD) to use its new chips, the MI300X. The MI300X is the fastest production-quality AI-centric super chip on the market now. It has more processing power and memory than NVIDIA’s H100 and could dominate the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
-      "originalUrl": "https://www.entrepreneur.com/finance/amazon-and-the-ai-war-irobot-acquisition-in-focus/454401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-454401.jpeg?format=pjeg&auto=webp",
-          "width": 1000,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

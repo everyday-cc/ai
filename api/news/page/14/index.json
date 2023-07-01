@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-06-21-biden-meets-with-ai-experts-in-effort-to-manage-its-risks.md",
+      "title": "Biden meets with AI experts in effort to manage its risks",
+      "excerpt": "The use of artificial intelligence has exploded in popularity, including ChatGPT, an AI chatbot that has become a global sensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/biden-meets-ai-experts-effort-manage-risks-rcna90136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-06/230620-joe-biden-mn-1111-3297ec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna90136",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna90136",
+      "publishedDateTime": "2023-06-20T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-best-handwriting-recognition-apps.md",
       "title": "Best Handwriting Recognition Apps",
       "excerpt": "Handwriting recognition software allows computers and mobile devices to replace traditional notepads. The best handwriting recognition apps can instantly upload your notes to the cloud for secure ...",
@@ -1079,49 +1121,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce-model-hallucinations.md",
-      "title": "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations",
-      "excerpt": "The Galileo LLM Studio debugs the data and prompts to reduce hallucinations powered by powerful algorithms. Today, Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce/article_8a861513-a01c-5262-b855-5c4c3029de90.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/1c/31c7a945-e802-54b0-8ef8-6a4703482f1c/6491c881081f3.image.jpg?crop=1890%2C992%2C0%2C52&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
