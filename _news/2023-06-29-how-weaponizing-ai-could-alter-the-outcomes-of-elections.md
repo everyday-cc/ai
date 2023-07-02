@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-a
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 740
     height: 416
     isCached: true
+
+related:
+  - title: "Using AI To Determine The Health Of The Electrical Grid"
+    excerpt: "Utility companies can use AI to detect anomalies in large data sets, which helps utilities prioritize critical maintenance."
+    publishedDateTime: 2023-06-29T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2023/06/29/using-ai-to-determine-the-health-of-the-electrical-grid/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "TD0esTznc5HRE8WZ4215odjUOJ9fIVdMRN2aZ0lZPXoU9UgIGG2/YBjhXMhbJUCDu1+YDlhRqgKiurDAFEdTTBHjUEPs/5nnAER3XMSD8dwttr1sscsuhVz+1R40cjlsFYZUU9vKHzXcKCWhMgWRa6zBipTnEFu1K64TwaYkqnmsixo9HU/cYKYkIP3f+zG9oSvILhO4uvnnl07H86K8EFuU67/qp7uiBDdHFHlX+clFPs83ELfQUl+8wv62mwldA2cm040fbH0Ou/4WvNGQyq1eZHTtnZcV9YUESc6q/BJYCXDIzgLctvDoMKhKEJAy/YU/6Is4eToBKS+nlQlbUJyH2KrIPiXdr+hooXRR0HI=;xUSaQkHbR9Mvj+1aE66U2w=="
 ---

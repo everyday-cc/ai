@@ -31,20 +31,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 63
-  - title: "Nvidia leads selloff after report of more US AI chip curbs"
-    excerpt: "Nvidia Corp led declines in tech stocks after a report Washington could close loopholes in the sale to China of powerful chips used to train artificial intelligence, potentially denting sales in the world’s top semiconductor market."
-    publishedDateTime: 2023-06-28T04:36:00Z
-    webUrl: "https://www.straitstimes.com/business/nvidia-leads-selloff-after-report-of-more-us-ai-chip-curbs"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/06/28/2023-06-27T132227Z1034386068RC21P1ACV1YZRTRMADP3REKA-SNOWFLAKE-FUNDING_4.JPG?VersionId=gcW3t9zqQrFiutN9vQP.SGlBVGOXd7Gd"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "9V2DUAVzsC/qMvhux9RcJC5aiEjNhgVvsmFQxB2D4fNwe+ziuuRQUWNju2Ut9TdlsTxFX3txslVFRYF1BHYAP7ODUn1JKsyLl7Pcco54Z6Wxv1yxXbl+YAl4ZIvhz2eIdIWgWrgbYcACut7Umq1pjMKi/aeheZn06qOC/NBPAmDuCcHovkVK+1jdwV3D7jhg5g5iCTMjU74LSXxtaH1Fj6qvMnJydKqCMT+lh6jP648v35leKM6kGLFEmt5MQR33trIigyoT2Neasz9HmgxAklRY6t1+A3ZrcSw0HF4MfqrBgVs+chW91wgL1yzBWCXHJZRplBdRPrCoUj3qVK9DObqKihR9PWM90LrghPf2lZkd23v7T3LVyHB2jkEkuK7XBt5Z0epPHy+7xbpqCmHPFmWWGsaTDOV/1SDI2+ON2/TBGe3zrU9FS9EtLR/Gwn6F/8AxQovj/84gBVbbAaHwbQgZwwVHsXvL2d6084vij0GtCho2O30wgMC+mt+Ihdyru+L3qDzS3x6UvuZxEKookw==;QHIFpBYk9jVx9NjDSPEyXA=="
 ---

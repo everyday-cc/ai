@@ -118,20 +118,6 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "How AI is Reshaping Banking in 2023"
-    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
-    publishedDateTime: 2023-06-28T01:43:00Z
-    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 54
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "How artificial intelligence and machine learning are being used by credit unions in 2023"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) technologies continue to expand in their applications, uses, and benefits for credit unions. Because of this maturity and expanded adoption rate, AI/ML is helping to solve highly complex opportunities ..."
     publishedDateTime: 2023-06-28T17:00:00Z

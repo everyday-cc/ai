@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 617
         isCached: true
+  - title: "AI Video Startup Runway Raises $141 Million From Google, Nvidia"
+    excerpt: "Runway AI Inc., whose artificial intelligence software can create a short video from just a few typed words, has raised $141 million in funding from Alphabet Inc.’s Google, Nvidia Corp., Salesforce Inc. and other investors."
+    publishedDateTime: 2023-06-29T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-29/ai-video-startup-runway-raises-141-million-from-google-nvidia"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQBBcycoPcKg/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Robotics startup raises millions for AI, remote control applications"
     excerpt: "Contoro Robotics, which spun out of medical robotics startup Harmonic Bionics, has raised $6 million in venture backing. The company, led by founder and CEO Youngmok (Mok) Yun, was created last year when Harmonic Bionics,"
     publishedDateTime: 2023-06-29T01:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 63
-  - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
-    excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
-    publishedDateTime: 2023-06-28T04:44:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "AI watch: UK electoral warning and OpenAI’s move into London"
     excerpt: "This week in artificial intelligence"
     publishedDateTime: 2023-06-30T07:43:00Z

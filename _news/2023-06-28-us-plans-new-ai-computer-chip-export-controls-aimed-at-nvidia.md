@@ -151,6 +151,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "AMD's AI Chips Could Match Nvidia's Offerings"
+    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
+    publishedDateTime: 2023-07-02T19:48:00Z
+    webUrl: "https://financialtribune.com/articles/sci-tech/118911/amds-ai-chips-could-match-nvidias-offerings"
+    type: article
+    provider:
+      name: Financial Tribune
+      domain: financialtribune.com
+    quality: 34
   - title: "Here's how Nvidia has stayed ahead in artificial intelligence"
     excerpt: "\"I would say the volume is turned to 11 in terms of execution, but the method and way of working hasn’t changed,\" Nvidia's Ian Buck says of the company's artificial intelligence work."
     publishedDateTime: 2023-06-30T17:53:00Z

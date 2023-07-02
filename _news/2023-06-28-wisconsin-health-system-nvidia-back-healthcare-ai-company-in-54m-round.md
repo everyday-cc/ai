@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
-    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
-    publishedDateTime: 2023-06-28T03:35:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "L6iuZyGd5EQTtR2oWlmpnAO9wUFcPs/khxFpbt45+eSntf74MQTpb9JRQINx+BoIzFut3isZLCS3/ISOIjtBeGX4PO5/BlebPNztc22sUsJvbfIf7v82Gzo3O2oayV8iK+xS4X51GNZeU4CzDlaR728cPDIK/edoUE4jAOTOKrAGIY/jyZTRtzfuBEcQ6kE1W2VNy0eEYlkFFIhsFT1tj6SrB8pDjX9/wo10l9+JRPjprsSa/MZLwKEE/o6MoUtrwJH9FahUqNsKF2AC+Lwz/XfDKUel8Ex4uPZFuYJxaGaVVhlvTau01KC1hpq4zp+fG/BrwPOcdFUlZ9xYBODxQSAI9TQmUUA5sE5XO4HBZKs=;rBEcNx7Kv7gd8iOHqN1LcA=="
 ---

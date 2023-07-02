@@ -87,22 +87,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 63
-  - title: "Google DeepMind is building a potent competitor to ChatGPT: Know more"
-    excerpt: "Google's DeepMind takes on OpenAI's ChatGPT with its ambitious language model project, aiming to surpass its capabilities and spark an intriguing AI competition."
-    publishedDateTime: 2023-06-28T04:44:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-deepmind-developing-an-ai-bot-to-outperform-chatgpt-2023-06-28-878219"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/06/google-deepmind-1687926990.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Google DeepMind Will Eclipse OpenAI"
     excerpt: "DeepMind founder Demis Hassabis, recently claimed that the company’s next LLM project Gemini is going to eclipse ChatGPT."
     publishedDateTime: 2023-06-29T07:30:00Z

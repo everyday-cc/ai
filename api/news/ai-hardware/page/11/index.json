@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-27-govees-new-smart-lights-use-ai-to-match-your-monitors-colors-in-real-time.md",
+      "title": "Govee's new smart lights use AI to match your monitor's colors in real time",
+      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-lights-use-ai-to-match-your-monitors-colors-in-real-time/",
+      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-lights-use-ai-to-match-your-monitors-colors-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/638047537db02930881084aec76f7a88775753d7/2023/03/27/24d52491-64e4-4d63-955c-b325cccc2bb4/govee-ai-gaming-sync-box-kit.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/govees-new-smart-lights-use-ai-to-match-your-monitors-colors-in-real-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/govees-new-smart-lights-use-ai-to-match-your-monitors-colors-in-real-time/",
+      "publishedDateTime": "2023-03-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-ai-chip-for-data-centerss-market-analysis-2023-with-focus-on-business-opportunity.md",
       "title": "AI Chip for Data Centerss Market Analysis 2023 with Focus on Business Opportunity",
       "excerpt": "The \"AI Chip for Data Centers Market\" [NEW FORECAST REPORT] 2023 analysis gives thorough assessment of a market within",

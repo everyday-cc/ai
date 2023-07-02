@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-02-ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation.md",
-      "title": "AI and machine learning revolutionizing the lending landscape: Trends and innovation",
-      "excerpt": "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing",
+      "path": "_news/2023-07-03-3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023.md",
+      "title": "3 Artificial Intelligence Stocks That AI Predicts Will Deliver Triple-Digit Returns in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The most exciting rally in the tech sector since 2021 has undeniably been in",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-predicts-will-deliver-triple-digit-returns-in-2023-1032422283",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg",
-          "width": 1706,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
-      "publishedDateTime": "2023-07-02T02:53:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T12:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -85,6 +84,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines.md",
+      "title": "AI and the future of work: A collaboration of humans and machines",
+      "excerpt": "By taking over repetitive and boring tasks, AI has the potential to increase human potential by freeing people up to concentrate on more imaginative and mentally challenging activities. This change is similar to those that occurred during the Industrial Revolution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design2.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-ai-and-the-future-of-work-a-collaboration-of-humans-and-machines-3151586/lite/",
+      "publishedDateTime": "2023-07-01T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -676,6 +718,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-01-artificial-intelligence-to-reshape-deep-science-learning.md",
+      "title": "Artificial Intelligence to reshape deep science learning",
+      "excerpt": "Artificial Intelligence, beyond the hype and hysteria in headlines today, plays a growing role in daily life and business—with uses ranging from predictive text to Netflix recommendations to the detection of bank fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html",
+      "originalUrl": "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-57.jpg",
+          "width": 1280,
+          "height": 1941,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-artificial-intelligence-reshape-deep-science.amp",
+      "publishedDateTime": "2023-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-voiceai-raises-6m-as-its-real-time-voice-changer-approaches-500k-users.md",
       "title": "Voice.ai raises $6M as its real-time voice changer approaches 500K users",
       "excerpt": "With more than 480,000 users and a library of more than 50,000 voice filters, Voice.ai has picked up $6M to take its voice changing tech into new places.",
@@ -1133,91 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-cmms-vs-eam-two-asset-management-tools-that-work-great-together.md",
-      "title": "CMMS vs. EAM: Two asset management tools that work great together",
-      "excerpt": "Two commonly used asset management and maintenance solutions are computerized maintenance management systems (CMMS) and enterprise asset management (EAM).\nThe post CMMS vs. EAM: Two asset management tools that work great together appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
-      "originalUrl": "https://www.ibm.com/blog/cmms-vs-eam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:12:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
-      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
-      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:10:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

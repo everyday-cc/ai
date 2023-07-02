@@ -154,6 +154,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "AMD's AI Chips Could Match Nvidia's Offerings"
+    excerpt: "Artificial intelligence chips from Advanced Micro Devices are about 80% as fast as those from Nvidia Corp, with a future path to matching their performance, according a Friday report by an AI software firm."
+    publishedDateTime: 2023-07-02T19:48:00Z
+    webUrl: "https://financialtribune.com/articles/sci-tech/118911/amds-ai-chips-could-match-nvidias-offerings"
+    type: article
+    provider:
+      name: Financial Tribune
+      domain: financialtribune.com
+    quality: 34
 
 secured: "DRu/HMiDaEohhdVuAWuTDKejSUp1PGXRfDfj7DozFqHcvKN/e8gIv785KHoQtw4lqzFjHb3uEUUMXvVK7kuhR3FX7qpqErzsDy+YFptASdRobIs/oj60Q3osN79Ln27zGDL6yZYktweRdi96v8EGTQWvS8TScQp0FJ05DytPj8Aijv4z5luBL5dBuQF93zIGLWg5BIibFGOMz5duiYTdJHEpwdVjeQsy5AzHvGaPQUX9iwpekGsbO77uqY4aXTElh7rnDHA+sh6m14G6JlJ+/kGYHwFrnjGOO8HApHIzuYeRY3mJ7dEo13dtCytc4OJqVUmtEXKKjaki0822dI4nxCNaGOu1iM2pNOxMZRS8t2sx5PvtX3TljZ68cfZiBPTW8zOQGFomyl2wsa8X4nqhUr1+gK26bDDNj3lx1nYfqrKZwKER9dz9Lj0lmMzkrU88djPJZKa5Q30Bn1Hw4UjUeQBv9bB+I0EAqpZur4hzpNT58Tj0CbZ4YLgIF8UI/WJjeiw1OPC6D9OlmgZ3HjZv8g==;RhQllAfj/mAQkxAaSFqYfA=="
 ---

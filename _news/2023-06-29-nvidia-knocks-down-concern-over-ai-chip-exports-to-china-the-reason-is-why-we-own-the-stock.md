@@ -69,38 +69,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "US considering new restrictions on AI chip exports to China: Report"
-    excerpt: "Shares of Nvidia fell more than 2%, while Advanced Micro Devices (AMD) fell about 1.5% on the news in extended trading."
-    publishedDateTime: 2023-06-28T02:44:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/us-considering-new-restrictions-on-ai-chip-exports-to-china-report/101323295"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/us-considering-new-restrictions-on-ai-chip-exports-to-china-report/101323295"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/us-considering-new-restrictions-on-ai-chip-exports-to-china-report/101323295"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-101323295,imgsize-92840,width-1200,height=765,overlay-ettelecom/devices/us-considering-new-restrictions-on-ai-chip-exports-to-china-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "US Considers New Regulations on Export of AI Chips to China: Report"
-    excerpt: "The United States is considering new restrictions on exports of artificial intelligence (AI) chips to China, the Wall Street Journal reported on Tuesday, citing people familiar with the matter. Shares of Nvidia fell more than 2 percent,"
-    publishedDateTime: 2023-06-28T03:48:00Z
-    webUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792"
-    ampWebUrl: "https://www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/us-consider-new-restrictions-ai-chip-export-china-starting-july-report-4158792/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 74
-    images:
-      - url: "https://i.gadgets360cdn.com/large/ukraine_neon_semiconductor_shortage_reuters_1647068115179.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese Internet Stocks Slip on Report U.S. to Tighten AI Chip Exports"
     excerpt: "China internet stocks lost ground Wednesday following a report in The Wall Street Journal that the Biden Administration intends to make it harder for chip makers Nvidia and Advanced Micro Devices to sell their most advanced processors to Chinese companies ..."
     publishedDateTime: 2023-06-28T20:12:00Z
@@ -133,20 +101,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "US to further tighten curbs on AI chip sales to China: report"
-    excerpt: "Existing restrictions on AI chip sales by US corporations to China will be further tightened, the Wall Street Journal reports, claiming there are rising concerns over the technology being sold to US rivals."
-    publishedDateTime: 2023-06-28T03:46:00Z
-    webUrl: "https://itwire.com/government-tech-news/technology-regulation/us-to-further-tighten-curbs-on-ai-chip-sales-to-china-report.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 71
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/9108cfe9bac593cac8c6c2122e63124e_M.jpg"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Beautiful Rally, AI Chips to China, Bank Stress Tests, Fed, Defense Stocks"
     excerpt: "The U.S. is considering new restrictions on exports of AI capable chips to China, negatively affecting Nvidia and AMD."
     publishedDateTime: 2023-06-28T11:37:00Z
@@ -160,20 +114,6 @@ related:
       - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png"
         width: 1152
         height: 768
-        isCached: true
-  - title: "China stocks fall on weak industrial profit, US weighing new chip export curbs"
-    excerpt: "China and Hong Kong stocks fell on Wednesday, after profit at Chinese industrial firms declined in May, and on news that the U.S. is weighing new restrictions on AI chip exports to China."
-    publishedDateTime: 2023-06-28T03:17:00Z
-    webUrl: "https://www.reuters.com/article/china-stocks-midday-idUSL1N38K07D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Chip Stocks Drop as U.S. Mulls Fresh Curbs on AI Access to China"
     excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
@@ -216,15 +156,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "US considers tougher restrictions on AI chip exports to China"
-    excerpt: "The Biden administration is contemplating new export controls on chips for artificial intelligence, as Washington increases its efforts to make it harder for China to obtain technology with military applications."
-    publishedDateTime: 2023-06-28T03:48:00Z
-    webUrl: "https://www.ft.com/content/a6c6b769-349e-440f-a55b-c92371d00dd9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "U.S. Officials Assesses New AI Chip Export Restrictions on China"
     excerpt: "As per a report from the Wall Street Journal, the U.S. Commerce Department may put restrictions on exports of AI chips made by NVIDIA, AMD, and other chip companies to customers in China as early as July. Posted on Jun 29, 2023 by Mia Garcia In a move ..."
     publishedDateTime: 2023-06-29T13:11:00Z

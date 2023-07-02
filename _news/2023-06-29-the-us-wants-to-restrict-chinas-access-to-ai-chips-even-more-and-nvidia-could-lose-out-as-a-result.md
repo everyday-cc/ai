@@ -99,20 +99,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "US to consider additional sanctions on AI chip exports to China"
-    excerpt: "With the rise of generative AI applications like ChatGPT and AI's increasing importance, the US is considering additional sanctions on exports of AI chips to China. However, despite Washington's best efforts,"
-    publishedDateTime: 2023-06-28T03:53:00Z
-    webUrl: "https://www.digitimes.com/news/a20230628VL203/us-china-chip-ban-ai-chips-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230628vl203_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Potential US Export Restrictions on AI Chips Shake Tech Market"
     excerpt: "The Biden administration is reportedly contemplating new restrictions on the export of artificial intelligence-related semiconductors to China, stirring anxiety among leading chipmakers like Nvidia and AMD."
     publishedDateTime: 2023-06-29T14:00:00Z

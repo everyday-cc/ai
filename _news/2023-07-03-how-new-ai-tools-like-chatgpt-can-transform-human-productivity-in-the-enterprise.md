@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
-    excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
-    publishedDateTime: 2023-06-28T05:00:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-says-its-secret-ai-weapon-could-eventually-outsmart-chatgpt"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/j2dgg7wUnxEbnBRwTJVzgg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind's AlphaGo-powered chatbot will rival ChatGPT, says Google CEO"
     excerpt: "Google's AI research lab is working on a new project called Gemini, which will use techniques pioneered with AlphaGo."
     publishedDateTime: 2023-06-28T06:01:00Z
@@ -201,6 +187,15 @@ related:
         width: 850
         height: 425
         isCached: true
+  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
+    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
+    publishedDateTime: 2023-07-02T18:11:00Z
+    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 34
   - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
     excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
     publishedDateTime: 2023-06-28T12:58:00Z
@@ -220,6 +215,6 @@ related:
       domain: moneycontrol.com
     quality: 21
 
-secured: "k+I4x39EImg5jx/kf5Hu1tmA+37qpqcklk3h8tVH/bWfcDnje8UOqKRcQqmKoJM0Z5ggXwFz5E9iPxs5eITtZr6Z3YbBss7rUVLp0SDPXBURASUUd2Abj0sQWCxfWOgCim9tMxgxKNhp2ARKAVEwIVdITXNp5TmbL8V3KiBM0FQwT4kVZZAROZLDDC8TnTiYK0YUZsM/1bixPOmAtxJBhcDLxDfSzw8nl6lMN7KjGKvLGJjn+QjScWSTr6NnviouasP8kn6YhrgCrgqu4hpgq5PgwigiSfVg1o6aAy7zZ7RnfKtDZ52Q9flOr5iMVBNrxdg4W0MFkwAiyQYskDjHI9uNKcq8MSMbUoM8HWxCgTY=;4+3KyHUccvy77zaNlBL3QQ=="
+secured: "+gwzRG3sQLpXTPp5XixgKpoRW2Q2F7Y8TaJV5yppyCM83zynJ8Oujo5lpSkAeBu+e+0xmL9tUd72/ew0egfxIX8S7qpCCYyc1794J/VvNfl5gGuHZV1zfxg2AlEaQA4+QFlzRqzDIcM3HWsWAR/kT4D/I9EI/AnSuuA9XIhu+njHwUZW5Ch1sZs4Ztx1WTialsZOOGaCxyOFfUTzO+o/qHnicqBKag0a/z2WQuevb9Y+BAkNabX47nP1cC1qTndd00DN++3IwCYknrip1oN3AbYrz0xhrk5yTbwuSHaVOBlCuVg4pCe7cKnzOlmISHDMRHisTWLAEuxCBdsSHl+XIFknGLYYZeMThdP51LJXRDh5xgOQgm6+1eXG7jKZlbMb8I1WqiaXApcEChoYBwCYkcMVbJe//WOXsVkKzzKSz+l5wC6Fb00nz88A0nK38qUlR9ZPq25dny0N/ZxMXvzNVgkuaPv/EjiWOt1U6dQYO4/YqOmnogdayp2BDhpevVwj+6Yn7jC5r7F/BtODwRVtfA==;SniJiSvEwz829MB+jQUMvg=="
 ---
 

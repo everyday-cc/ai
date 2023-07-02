@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-s
 webUrl: "https://www.pcmag.com/news/us-mulls-even-tighter-restrictions-to-stop-ai-chips-from-reaching-china"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/06/Screen-Shot-2023-06-28-at-10.14.52-AM.jpg"
         width: 1024
         height: 718
-        isCached: true
-  - title: "US to consider additional sanctions on AI chip exports to China"
-    excerpt: "With the rise of generative AI applications like ChatGPT and AI's increasing importance, the US is considering additional sanctions on exports of AI chips to China. However, despite Washington's best efforts,"
-    publishedDateTime: 2023-06-28T03:53:00Z
-    webUrl: "https://www.digitimes.com/news/a20230628VL203/us-china-chip-ban-ai-chips-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230628vl203_files/1_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "The US wants to restrict China's access to AI chips even more, and Nvidia could lose out as a result"
     excerpt: "The US government is weighing up plans to further restrict the export of AI processors to China. The Biden administration has heightened concerns about the access Chinese companies have to bleeding edge tech,"

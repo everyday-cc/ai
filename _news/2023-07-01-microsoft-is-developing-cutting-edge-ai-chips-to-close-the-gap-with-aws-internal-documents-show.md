@@ -400,6 +400,22 @@ related:
         width: 975
         height: 548
         isCached: true
+  - title: "Use speech-to-text in Windows 10, 11 and Microsoft Word will write what you speak. Here’s how"
+    excerpt: "With speech-to-text, you can dictate content instead of typing it manually. This is especially useful for those, who struggle with typing efficiency."
+    publishedDateTime: 2023-07-02T20:50:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/articleshow/101439612.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/amp_articleshow/101439612.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how/amp_articleshow/101439612.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23804,msid-101439620/use-speech-to-text-in-windows-10-11-and-microsoft-word-will-write-what-you-speak-heres-how.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft’s Cloud Server Business in 2022 Was Less Than Half of AWS, New Document Reveals"
     excerpt: "For years Microsoft has kept a lid on details about the true size of its Azure cloud server rental business, making it impossible for investors to know how Microsoft’s cloud operations unit stacked up against industry leader Amazon Web Services."
     publishedDateTime: 2023-06-29T20:36:00Z
@@ -566,20 +582,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-    publishedDateTime: 2023-06-28T04:00:00Z
-    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 33
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
     excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
     publishedDateTime: 2023-06-30T04:29:00Z

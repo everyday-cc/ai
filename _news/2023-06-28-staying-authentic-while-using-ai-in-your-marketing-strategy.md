@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/28/staying-authentic-while-using-ai-in-your-marketing-strategy/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://www.exchange4media.com/news-photo/128298-big.jpg"
         width: 730
         height: 395
-        isCached: true
-  - title: "How AI is Reshaping Banking in 2023"
-    excerpt: "Artificial Intelligence is reshaping global finance by improving customer experience, operational efficiency, and more."
-    publishedDateTime: 2023-06-28T01:43:00Z
-    webUrl: "https://fintechnews.sg/75367/ai/how-artificial-intelligence-is-reshaping-the-financial-industry-in-2023/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 54
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Artificial-Intelligence.png?x22319"
-        width: 1024
-        height: 567
         isCached: true
   - title: "Bringing AI to the classroom: It’s time to start learning – and teaching – how to use it"
     excerpt: "Many of us are going to be (or already are) expected to use these tools for our jobs. Students cannot leave educational institutions where AI is taboo and expect to be successful in a labor market where it is required."

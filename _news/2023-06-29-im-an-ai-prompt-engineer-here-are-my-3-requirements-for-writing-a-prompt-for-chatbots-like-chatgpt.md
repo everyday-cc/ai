@@ -47,20 +47,6 @@ related:
         width: 620
         height: 382
         isCached: true
-  - title: "Google says its secret AI weapon could eventually outsmart ChatGPT"
-    excerpt: "The AI is deep in development at the moment – “a process that will take a number of months”, according to Hassabis. It will also cost Google a ton of money as the project pr"
-    publishedDateTime: 2023-06-28T05:00:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-says-its-secret-ai-weapon-could-eventually-outsmart-chatgpt"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/j2dgg7wUnxEbnBRwTJVzgg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How new AI tools like ChatGPT can transform human productivity in the enterprise"
     excerpt: "With AI, businesses can automate repetitive tasks, use intelligent data analysis, augment productivity, enhance collaboration and more."
     publishedDateTime: 2023-07-02T17:10:00Z
@@ -202,6 +188,15 @@ related:
         width: 850
         height: 425
         isCached: true
+  - title: "Here’s Why Google DeepMind’s Gemini Algorithm Could Be Next-Level AI"
+    excerpt: "Google DeepMind's CEO, Demis Hassabis, says their Gemini algorithm will use reinforcement learning to take AI beyond GPT-4."
+    publishedDateTime: 2023-07-02T18:11:00Z
+    webUrl: "https://singularityhub.com/2023/07/02/heres-why-google-deepminds-gemini-algorithm-could-be-next-level-ai/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 34
   - title: "Another AI sorcery in the making: Gemini by Google DeepMind to rival ChatGPT"
     excerpt: "Demis Hassabis, Google DeepMind’s co-founder and CEO, announces that his team is working on a new AI system, called Gemini and aimed at getting the best of ChatGPT."
     publishedDateTime: 2023-06-28T12:58:00Z

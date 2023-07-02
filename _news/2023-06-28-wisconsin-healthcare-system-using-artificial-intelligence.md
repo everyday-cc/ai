@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wisn.com/amp/article/wisconsin-healthcare-system-using-a
 cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/wisconsin-healthcare-system-using-artificial-intelligence/44372293"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2023/06/Jun23_30_200245321-001.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI Advances in Healthcare: Koning Corporation Unveils Revolutionary AI-Enhanced Software to Boost Breast CT Image Quality"
-    excerpt: "Koning Corporation, a global leader in breast computed tomography (CT) technology, is thrilled to announce the launch of its breakthrough Artificial Intelligence (AI)"
-    publishedDateTime: 2023-06-28T03:35:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/ai-advances-in-healthcare-koning-corporation-unveils-revolutionary-ai-enhanced-software-to-boost-breast-ct/article_af86e7f8-b507-54c7-8b35-d2cad2106f7d.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "3ju3/KDdxLWmAwGQxwl7ZL167sayo+SaYNQzLkjO9KtSRMnJ/l+U5loeSqRnTpYV4UlNDeBQaiErzCXlBHOkEoM3tAORJ50IZo3wG5i/n8vKThqkmW0Ttt1dEaUDNGiwmfcMK4TghL57Oae+Clw77GORuROYkPeFkYzMMdFEayBqWLXeVqc4RiSXcDAhwhzNBt0k3Qu1+tgoTTqZ1QmQ2oUndJnBJH7waPO1E8rSj04/BUqtoB9eSprYfz2VHUjUxwWACHWNH+NsAeTtoeozkojSoKX7W2un77LTSikppMyk0+VERyz1QRohWIrv3KgbN25mBADZDGWwD/F+d/2iZX1f7jesakwxCf2ffhRSpP8=;o+Pdjs5s4IoSP8NQZUj63A=="

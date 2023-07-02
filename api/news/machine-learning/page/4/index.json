@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-01-security-becomes-much-bigger-issue-for-aiml-chips-tools.md",
+      "title": "Security Becomes Much Bigger Issue For AI/ML Chips, Tools",
+      "excerpt": "Security is becoming a bigger issue in AI and machine learning chips, in part because the chip industry is racing just to get new devices working, and in part because it’s difficult to secure a new technology that is expected to adapt over time.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "originalUrl": "https://semiengineering.com/security-becomes-much-bigger-issue-for-ai-ml-chips-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_436324709-security-05-08-23-scaled.jpeg?fit=2560%2C1181&ssl=1",
+          "width": 2560,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-wall-street-breakfast-deep-learning.md",
+      "title": "Wall Street Breakfast: Deep Learning",
+      "excerpt": "Investors will have some deep learning to do after being consumed by everything AI this year, especially as they sort through the growing list of companies talking up how they've been AI plays all ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "originalUrl": "https://seekingalpha.com/article/4608736-wall-street-breakfast-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452604857/image_1452604857.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-resonate-offers-ai-neural-network-for-predictive-modeling.md",
       "title": "Resonate Offers AI Neural Network For Predictive Modeling",
       "excerpt": "Resonate has introduced an AI neural network designed to help brands transform data into updated consumer attributes. The new network, rAI, fuels predictive models designed to dynamically generate ...",
@@ -1153,93 +1241,6 @@
       "provider": {
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
-      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
-      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-terminology-101-automl-the-game-changer-in-machine-learning.md",
-      "title": "AI Terminology 101: AutoML - The Game Changer in Machine Learning",
-      "excerpt": "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "originalUrl": "https://yourstory.com/preview/2023/05/ai-terminology-101-automl-demystified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null
