@@ -56,15 +56,6 @@ related:
       name: itsecuritywire
       domain: itsecuritywire.com
     quality: 27
-  - title: "Generative AI, ESG to reshape big data and analytics"
-    excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
-    publishedDateTime: 2023-06-27T08:27:00Z
-    webUrl: "https://it-online.co.za/2023/06/27/generative-ai-esg-to-reshape-big-data-and-analytics/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Sports Info Solutions acquires basketball analytics provider Blueprint Stats"
     excerpt: "The acquisition will combine SIS advanced data, analytics and AI engines with Blueprint Stats’ stat-taking technologies to enable an end-to-end data and analytics offering."
     publishedDateTime: 2023-06-30T14:32:00Z

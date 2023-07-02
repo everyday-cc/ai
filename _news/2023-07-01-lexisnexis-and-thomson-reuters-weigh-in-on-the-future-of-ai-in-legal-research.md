@@ -34,20 +34,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "Thomson Reuters to acquire legal AI startup Casetext for $650M"
-    excerpt: "Thomson Reuters (TRI) said on Monday it had agreed to acquire California-based Casetext, a Y Combinator-backed legal tech startup, in a $650 million all-cash deal.The move"
-    publishedDateTime: 2023-06-27T08:05:00Z
-    webUrl: "https://seekingalpha.com/news/3983029-thomson-reuters-to-acquire-california-based-casetext-for-650m"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403479106/image_1403479106.jpg?io=getty-c-w750"
-        width: 750
-        height: 375
-        isCached: true
 
 secured: "Ht0gdtHSMBir1OQgUKb1na1bDP0Ra+hpo4ab8HPoxMZZm+eD9Jfs8jYFLciQnT5be6m7Do4oUXvrNLFd/SJ/aACGZ/jsIlv3RQ1eFlmwUILCiOBx20TCaPPPRYfAf4PmGQTT3H04iWV0a/O8cw3qoCpSaRof3WB46YSj7dTkXTJDBMRgymQicTOuZiJcCwWQ0onf7Js4QwBVuzpWhvZlvqUgTLiaAhRsUpTXcu6dd9p5yOeSCtldiRDpX2O/2WAXlwQNhqqPMpyP1f+vylWsXD88+FZmSSUFfcjPiVEjDhlkY1lwF1r3LN/4CgYkFzSK14J6ZvhA3sMoHskNWPwB1iDn0ml+6shi1DOnm0W51jbhLWRVS84N2jSgT3oG6N8gUBoTsBtgI9+FP11KggD8O++3JbgWgJaXuWrZKr3sVHG1PTN0mBNzDPi0B32kJ3d087r/CEvrzGoqUH1aPUuqF/WMDsTQ4XMIZ/cI9eI0aqi2Rx92+vpL505eiktBcy2Gc8usEk/n6DDHcBotggXw8Q==;9TS5qvtu5BkM1cztnw28kA=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "More self-driving cars are on Minnesota roads, fueled by public funding"
-    excerpt: "He uses his car's partially automated self-driving function almost every day. Though there are certain maneuvers — like when he backs out of his driveway or there's a tricky turn ahead — where he'll take back the steering control."
-    publishedDateTime: 2023-06-27T09:00:00Z
-    webUrl: "https://www.startribune.com/more-self-driving-autonomous-cars-vehicles-are-on-minnesota-roads-fueled-by-public-funding-tesla/600285545/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 24
-    images:
-      - url: "https://chorus.stimg.co/24754096/merlin_71220689.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving car project flourishes on Iron Range"
     excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
     publishedDateTime: 2023-06-30T12:00:00Z

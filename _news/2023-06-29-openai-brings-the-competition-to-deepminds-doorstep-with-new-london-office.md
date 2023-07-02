@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/28/openai-brings-the-competition-to-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/28/openai-brings-the-competition-to-deepminds-doorstep-with-new-london-office/amp/"
 type: article
 quality: 102
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
-    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
-    publishedDateTime: 2023-06-27T08:29:00Z
-    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
-    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "OpenAI Opens Office in London, Home Base of Google's DeepMind"
     excerpt: "Altman, CEO of ChatGPT developer OpenAI, said that they see this expansion as an opportunity to attract world-class talent and drive innovation in AGI development and policy."
     publishedDateTime: 2023-06-29T06:18:00Z

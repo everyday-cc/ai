@@ -35,20 +35,6 @@ related:
       name: Mixmag
       domain: mixmag.net
     quality: 14
-  - title: "Zack De La Rocha and Tom Morello among artists to boycott venues that use face-scanning technology"
-    excerpt: "Rage Against the Machine founders Tom Morello and Zack de la Rocha are among the artists boycotting US music venues that use face-scanning technology. A digital rights advocacy group named Fight for the Future has organised the boycott,"
-    publishedDateTime: 2023-06-27T08:07:00Z
-    webUrl: "https://www.aol.com/news/zack-la-rocha-tom-morello-080621218.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 10
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/57bd0c712ebc5f95dd7c0ee69f9d512c"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "WlnorZClnVZUqulNKjnLABn02SzawiCl/3mZKMUEGDlPrfxOheRB6vGVLa+T99MAsyycQUn2RZSrKM4Hr6IuPhf/ZdA8CwOMwP3LXQ/4oCDZGMlzSV6fAKT8lxHY9MEh6sN8qoCU7D6nk0ZY7gRbyU16/0sfzeMV9ieJxrhu/tKGaCV7JvL7liRCWnY+Ju2puunZytk+ZLEYUKe5qEVgHqCkEXFWxUYC4rotTphH5rN2sbAMbtkzmqT3uMIC2YeHdNcYA8naFq5uDM+7Q0ZBLUguoHMsfeNrs/UdTjWWH+aQfnlD76IFJub5PpdjaLMEbnAhnuGRi5pm2RulOUINKJ40OPBw++XfD7Uh0AVjvqI+aQ7WUWXWRBv5QMP7jkBaAetwovPVu3XnxqVNylPCWUUOeNZrSoW+ZScnzrYqTMPxLlEc3cREba0NOXlIlFlC9QYMiY32Vw76XMXwUHMfBIh4rBt18rs0EmB3rA7+mzMVxcAwbBHRETcM/3Pb3q22D/+Ft/dqd7CKF4BVyhZ2EQ==;CQ6ZGQy+OX0E4X+xh76Myg=="
 ---

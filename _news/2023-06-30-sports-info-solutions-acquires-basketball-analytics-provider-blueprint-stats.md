@@ -56,15 +56,6 @@ related:
       name: itsecuritywire
       domain: itsecuritywire.com
     quality: 27
-  - title: "Generative AI, ESG to reshape big data and analytics"
-    excerpt: "Emerging agendas that revolve around generative AI and environmental social and corporate governance (ESG) is expected to transform data utilisation approaches in the coming years. This is among the findings from the semiannual Big Data and Analytics Software Tracker published by International Data Corporation (IDC),"
-    publishedDateTime: 2023-06-27T08:27:00Z
-    webUrl: "https://it-online.co.za/2023/06/27/generative-ai-esg-to-reshape-big-data-and-analytics/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Kyvos Announces Availability of Analytics Acceleration Semantic Layer as Azure Application on Marketplace"
     excerpt: "Kyvos, a modern, cloud-native analytics acceleration platform, has announced the availability of its azure application"
     publishedDateTime: 2023-06-29T19:23:00Z

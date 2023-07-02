@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Thomson Reuters to acquire legal AI startup Casetext for $650M"
-    excerpt: "Thomson Reuters (TRI) said on Monday it had agreed to acquire California-based Casetext, a Y Combinator-backed legal tech startup, in a $650 million all-cash deal.The move"
-    publishedDateTime: 2023-06-27T08:05:00Z
-    webUrl: "https://seekingalpha.com/news/3983029-thomson-reuters-to-acquire-california-based-casetext-for-650m"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403479106/image_1403479106.jpg?io=getty-c-w750"
-        width: 750
-        height: 375
-        isCached: true
   - title: "LexisNexis and Thomson Reuters Weigh in on the Future of AI in Legal Research"
     excerpt: "The recent acquisition of Casetext by Thomson Reuters has raised many questions about the future of generative AI in legal research. Here, LexisNexis and Thomson Reuters weigh in on issues including build vs."
     publishedDateTime: 2023-06-30T17:10:00Z

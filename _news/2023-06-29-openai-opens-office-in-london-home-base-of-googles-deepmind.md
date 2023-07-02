@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind's next AI system to eclipse OpenAI's ChatGPT"
-    excerpt: "DeepMind CEO Demis Hassabis has said that google-owned artificial intelligence (AI) company is working on a new AI system named"
-    publishedDateTime: 2023-06-27T08:29:00Z
-    webUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt"
-    ampWebUrl: "https://glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/deepminds-next-ai-system-to-eclipse-openais-chatgpt?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/06/z7XZUARB_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Google’s DeepMind Unveils Its Powerful New AI, Gemini"
     excerpt: "Discover Google's DeepMind new AI project, Gemini, a cutting-edge system aiming to rival OpenAI's ChatGPT. By blending AlphaGo's strategic capabilities with advanced language processing, Gemini seeks to redefine AI technology."
     publishedDateTime: 2023-06-29T22:37:00Z

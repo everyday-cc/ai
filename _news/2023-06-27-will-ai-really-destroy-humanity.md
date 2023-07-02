@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/will-ai-really-destroy-humanity-c7c6eb2e"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Barron's
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: An Existential Risk To Humanity"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-    publishedDateTime: 2023-06-27T07:24:00Z
-    webUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993"
-    ampWebUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Will artificial intelligence really destroy humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence (AI) poses an existential risk to humanity and must be shackled before it is too late. But"
-    publishedDateTime: 2023-06-27T07:51:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 59
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/27/125105.JPG?v=1687853100"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Will AI really destroy humanity?"
     excerpt: "Artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity? PAPE"
     publishedDateTime: 2023-06-27T17:48:00Z
@@ -73,15 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The real reason claims about the existential risk of AI are scary"
-    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
-    publishedDateTime: 2023-06-28T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
   - title: "Can AI really destroy humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity?"
     publishedDateTime: 2023-06-30T21:20:00Z
@@ -90,6 +49,15 @@ related:
     provider:
       name: Japan Today
       domain: japantoday.com
+    quality: 19
+  - title: "Will artificial intelligence really destroy humanity?"
+    excerpt: "With the media, in particular, questioning the potential threat posed by AI, here’s a look at posited disaster scenarios, and why they could or couldn’t happen."
+    publishedDateTime: 2023-07-01T04:31:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/07/01/will-artificial-intelligence-really-destroy-humanity/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
 
 secured: "oXING4xtTdCJJAnexU1oLmXREYfuH8hV5DwRCNsBW9SgWedg+6y8UqGRfNMfXpBrGONwtmIQwVLlAyGLiJe83NYkDwvh1pv7LI8RceBib3qjRb1+PVI9zJwTv3Fk1mBOfqUmBPJD39js54k8HHSm7Y7NHFP+aNfwrqlCi8Zlj3AnqUyHVbq4Xn3AfkD0t7Kg589O5UgI/DYifsnOjrJYhuDyh/GFzrSTG27Q7HMaYmq+YSZG0qGX0GCpvrwLUnyau3eF7iAihHU4BvhZ6O6FSZMIto2MhEYYaXSk+iK4vfFHDbnqEk8kG6BHXdES0ow+S/KsHJvaFq0Momoq/hhA2H6E890USkOLPj4pZvxTNlTjZgoUvVPk2XdcFPSg5IpggkdXTMJgNVdJ+zfBvHpCpO7G7jy83jlBXEL7ypedNV5/Wy2zblYaNwFjbUSlE0lzxAt6G6miNVi4+Au1tkw5ojwG8Kh1dYX9cmZGaoyIuyjb24JS8Px3jZ/aLOXJzW7v9QWRGfqpfHlVZkiAJAG8Tg==;OTNeyCanhLmSwe2u6vTG/g=="

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence: An Existential Risk To Humanity"
-    excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
-    publishedDateTime: 2023-06-27T07:24:00Z
-    webUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993"
-    ampWebUrl: "https://www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/is-artificial-intelligence-an-existential-risk-to-humanity-4155993/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-06/4kcths8c_artificial-intelligence-generic-ai-generic_625x300_05_June_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Will AI Really Destroy Humanity?"
     excerpt: "The warnings are coming from all angles: artificial intelligence poses an existential risk to humanity and must be shackled before it is too late."
     publishedDateTime: 2023-06-27T09:14:00Z
@@ -51,22 +35,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "Will artificial intelligence really destroy humanity?"
-    excerpt: "The warnings are coming from all angles: artificial intelligence (AI) poses an existential risk to humanity and must be shackled before it is too late. But"
-    publishedDateTime: 2023-06-27T07:51:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/06/27/will-artificial-intelligence-really-destroy-humanity/76649"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 59
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/06/27/125105.JPG?v=1687853100"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Will AI really destroy humanity?"
     excerpt: "Artificial intelligence poses an existential risk to humanity and must be shackled before it is too late. But what are these disaster scenarios and how are machines supposed to wipe out humanity? PAPE"
     publishedDateTime: 2023-06-27T17:48:00Z
@@ -81,14 +49,14 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The real reason claims about the existential risk of AI are scary"
-    excerpt: "Claims that superintelligent AI poses a threat to humanity are frightening, but only because they distract from the real issues today, argues Mhairi Aitken, an ethics fellow at The Alan Turing Institu"
-    publishedDateTime: 2023-06-28T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg25834453-300-the-real-reason-claims-about-the-existential-risk-of-ai-are-scary/"
+  - title: "Will artificial intelligence really destroy humanity?"
+    excerpt: "With the media, in particular, questioning the potential threat posed by AI, here’s a look at posited disaster scenarios, and why they could or couldn’t happen."
+    publishedDateTime: 2023-07-01T04:31:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/07/01/will-artificial-intelligence-really-destroy-humanity/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
 
 secured: "TZF1L9Ayh03z1aHNIj27GS1Dhm5W9Rv7xsHM6MdN20j8quUbMRM3W6vx53loQhi2G8Hkzaag/NM4/pxnA7YXdQQ0uC3JieiEh9phjG45n8yzcP4NfF+ktR0PMPFvsZZSKyA07nJ1GM2/5hcv3PCfhKToMRNr0qAjnF3n8fJVQmU2ITXcHH6E2wSnS8kJnPKWNhb+rQO+6/I1DZwzh82CrCQZyOKuzHWw3Th6chU3o+dKGUhdrMKn7pVCDIeTaH/USr27rdlAxsttt64Ktgw1tNMjI58L5TLTL9k0HS1og2pD6+h0Vi1WHt/Hx4eXytsVf2yUeVJ9aRWoH/qxgTB+G6xxOL/CyX9QV4BW+BxDzWSPp/PPhcNOqvfesaaWLOAAOY1pbNawWZ9TIAcp6gGfTInvypv7amoxJNt6ILMSjUfUIMViefN3o02uNm4TP/kxOb5xrkC3f44bHFG1xisRtRBz7u17eC1IveSoQxroaLcb7hydk5744qhCEnikndZgOaWlCYqGsLwfVrQkt3Xhmw==;C3GuZHcHNHCOir9k4BSfTQ=="

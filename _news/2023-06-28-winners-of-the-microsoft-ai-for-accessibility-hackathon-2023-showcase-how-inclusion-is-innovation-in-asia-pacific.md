@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
-publishedDateTime: 2023-06-28T04:00:00Z
-originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
-webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
+publishedDateTime: 2023-06-28T12:00:00Z
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
-    width: 400
-    height: 225
+  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -542,20 +544,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Microsoft Bing Chat set to launch image recognition very soon"
-    excerpt: "Bing Chat will soon be able to detect and understand objects within images and provide a detailed explanation regarding the picture."
-    publishedDateTime: 2023-06-27T07:10:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-bing-chat-set-launch-image-recognition-very-soon-1717116"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 41
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1716336/microsoft.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Microsoft partners with Moody’s for “Moody’s Copilot,” generative AI for their financial services"
     excerpt: "Moody's, a renowned global entity headquartered in New York, is expanding its prowess with a newly announced alliance with Microsoft. The collaboration will"
     publishedDateTime: 2023-06-29T15:22:00Z
@@ -758,6 +746,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "XJXsG70mh3Kkupyvm1NH3peUbL2jH6K+bdWw0hkNjJ2hPo/d8uZXtd/We/YKnXer0bETbfttlA8xl374LaCJFFa1fyemUDWlY/WnEQD4cZbgs6qFtuoReAng0zaYEYejPXC4jxyWiAQbNYwVXPKy3EYKHWztnvr+c11H271S6Y2ICvKXrCPfWURcsp8NEsqWgkgYTNCI1u6cqGF0KtjIgnxfv51cLvzXSmsN62DN4C8IAA/kGZTahYNKc09mDdh6hGATXse6ynNlXQy7Jm3MTWs8TjxE197KvCqqLVsYpVgZouj9Ck94Jo250VtHnN2qOheqClAVpAvPPwXbVBs+K7SQJo/jdVdWQbDxk5PNC4s=;EHEa31UbAEB6WKEHotcuVg=="
+secured: "23GfQXGTQPSW+JCwSDrKBSz5Wmzwt4p1FxnrdWtJvhGJ2Kz3oBgcA9BIZ2nN144M9CywfXw95wIIq6CfTAsZWYmndlcSYfER3G8EJR3mbEuz3A0O4wKIu29zOtbp/2qjSp1BnUj9wnoy8Pcslu5G3DWPNz3Mf3nyBpZBNAWq7QpaTGrVRQaBEccI/fFkyXmscsDiJalIPguvlQjPYF9EmuSmgRoVQfejvpJSXUaVvpVuLdchMWJk1nJSJ4pYxv5mhb8sa7ri/qQtitRBkmRz9j77qfYSy0qpKQc8Gb6qFhKH3u5g2zh3jn2vlaZUkaZ1BYCuwfCA0nr4LaOYJgtQv77swJKvGYf59UiipSRK7XY=;jIfZC1u4xAlejKfOhw8YQw=="
 ---
 
