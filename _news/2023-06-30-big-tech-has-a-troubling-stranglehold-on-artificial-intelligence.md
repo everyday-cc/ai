@@ -2,25 +2,29 @@
 category: news
 title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
 excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."
-publishedDateTime: 2023-06-30T00:02:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai/c779b68a-1703-11ee-9de3-ba1fa29e9bec_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai/c779b68a-1703-11ee-9de3-ba1fa29e9bec_story.html"
+publishedDateTime: 2023-06-30T04:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai"
+webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie5XYaJRJeK8/v1/1200x799.jpg"
+    width: 1200
+    height: 799
     isCached: true
 
 related:
@@ -184,6 +188,6 @@ related:
         height: 524
         isCached: true
 
-secured: "P+c9mzP2+4YQnMDwG2ZRpRd0YloP+qf4IcjwJXSUsif8WJYf+DXgNB3gpkvDdju+WVEfLxYWFpROOpRPGTLuiZsRzGuGVqYxWA+M1sYOhW6epY2vxBrpdh54igESWYw3QmX1RX9vKDk0pBuR87biyZMBjLP2n08j/afZN7SQn4AOeFF0w20Y1qeNdHiXE+9xX77wW+gJdoNUnszyRWuMBjGg77iucbnIr2Xd0HSz/Vb5WnilkAopF65ikohk8+lP5KgWP6Taa97SOMGAiMnFbAxa81aOwWBiUBxSUeRkXAFHh/TdfMLgMDOW8gktQuecgW6SCZeHw5IBG/uAPDfsdWDEe13J2Y0X9ey2XwRaIOU=;FKhT1UeXt55BAdO3F1vleg=="
+secured: "zDVVIOuAr3gYgnx7q317Q3TLatSfnYLEFxGg2r+MGY38tZ5yBuUWzdTQlP2cYYjGiYrCGZD0zsLulP30h3bdglsnzPlQbt11yZCF4KR372v+kPjRLlwMmsTrejktt69sNa/+PhLwqgDxZqxW8+Zr1Pk7kiW1cp+RyTdi4VOk4u8iZWQRFHU/JB88wfIXEa5MHCmxUMyr1dxp2iV9SVN8q29KUfAm2xieDPSIU20Nh/QLKzssDanweVg5FqbpNs0qEJi0blym4FK5qErKlzyeL1+ntJK7VOmhkkQ00olOcSII3y1WXI9yyoGY2mGXMJy+XIO37AUnsVewRm/qzlR04upUAUWY28jhTBBSiGXn3aM=;ajj3bSvqRcNOB6Rxd4BsgQ=="
 ---
 

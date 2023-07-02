@@ -162,15 +162,6 @@ related:
       name: PhoneArena
       domain: phonearena.com
     quality: 31
-  - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
-    excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
-    publishedDateTime: 2023-06-27T13:13:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108164/gemini-chatbot-is-more-powerful-than-chatgpt-says-google-deepmind/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "kkh6Fh/Kc2oZrc2oU+fYtwWi3Jz8fyTx4dmFwoSl/dfBzlBzlWUXbf7nWbCbv/fm+Mo/B6AlrrPsbj1eg7RLMv6bWXuptp9gyPv/CU44ZvpqSULWmgyFRWVwQXAPBrSjiVhmeW6FT0JU06GERRlcA5XMGA5uKU8IdDF4xDBLsGVQUJc2RElanbAjDHfnivCqV9p52y4bGMKtc/eJqK/2BP202xlAIE7zyQSRs19t9/gaDKL0HR12a/xc66eMgXMOVELCCPsSD0tL8ePKZTpfzdnYyFbCLMsklrxsWDp027a9Wes1rtHUUHM6edSkfkO0PW0/pPvBh6VXqCvtH1b8Pvo7HDDwTnKPaWZ0smtWLbo=;Rpwih/fqKEQOWwgihfCw8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-mor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/06/27/when-the-ai-is-more-compassionate-than-the-doctor/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/cuttlefish-camouflage.jpg"
         width: 2637
         height: 2416
-        isCached: true
-  - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
-    excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
-    publishedDateTime: 2023-06-27T14:12:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375358/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358-640x360.jpg?cb=20230627"
-        width: 640
-        height: 360
         isCached: true
   - title: "How Policymakers Can Tackle the Complexities of AI Models"
     excerpt: "Diversity, precision regulation and governance are key to building responsible and trustworthy artificial intelligence (AI) models."

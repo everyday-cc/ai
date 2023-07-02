@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-06-confident-ai-generated-essays.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-confident-ai-generated-essays.amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1451
     isCached: true
-
-related:
-  - title: "Training AI to recognize fly mating identifies a gene that controls mating positions"
-    excerpt: "A research group at the Graduate School of Science, Nagoya University in Japan has used artificial intelligence to determine that piezo, a channel that receives mechanical stimuli, plays a role in controlling the mating posture of male fruit flies (Drosophila melanogaster)."
-    publishedDateTime: 2023-06-27T14:20:00Z
-    webUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.html"
-    ampWebUrl: "https://phys.org/news/2023-06-ai-fly-gene-positions.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-fly-gene-positions.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/boy-fly-meets-girl-fly.jpg"
-        width: 2750
-        height: 2000
-        isCached: true
 
 secured: "yl2BOxbvF70fmvDmpF7ctGeFDtQyAZ40bc822ZaanXH/ZKro/WiMD049XJeXIEJKzIg0MKBm2bkwm8OX16MAdC9oqnF54uotHGyy5Y0Dvq9dRxA0JcUaFKGf2sKnAm6E/zvhcg8Tw7mmBU4WJFmibh3TaTv7jbHIaIxwJECpz8XQbzjwnytleBx7Q1khAvvMJlx34soj53D+Hu/gvIp7DmYn4KJ99NUj0EByhORayXQ5u6WNmSgJlqMko2oy6Z4K1HYNcngGPPowrn9SR9dOLe3JLrx3Ifl2sEPtu5T9OnQLj58ROKT+ve8AfI4p7YJkK3qHX6v/DO7aUgeNi7ia+rOOd7xbVO4wLJut16wD1h9eTQ5pZuqezgpkNVVIYlzEbT6XyjxoZ4iozR9z6kgfRSDl/KGBv+GGXSXHw0l92Tfh+nCsIcFCyf48fIs3ioC2o4iIRXn729eVUFJnh1JrwSAvqzw3cUZ93s0QzzFy4M7ETJvHlvNER4fj9k8yMTGJq/h/VSLer+V1H7k8wFp0fw==;Yn3eGhfrQPIMACWgQZDyPw=="
 ---

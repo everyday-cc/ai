@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33060304"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33060304"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Integration of Azure OpenAI Service extends Indico Data's enterprise large language model ('LLM') capabilities and enables insurance carriers to"
-    publishedDateTime: 2023-06-27T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Indico Data Launches New Integration with Microsoft Azure OpenAI Service to Amplify Its Enterprise LLM Capabilities"
     excerpt: "Indico Data, a leader of intelligent intake solutions for unstructured data, today announced the launch of its integration with"
     publishedDateTime: 2023-06-27T21:01:00Z

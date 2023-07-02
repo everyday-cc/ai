@@ -1,14 +1,16 @@
 ---
 category: news
 title: "How CEOs can tap full potential of generative artificial intelligence"
-excerpt: "The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'. CEOs are reassessing their business models and re-evaluating their current stance in terms of capabilities and skills."
-publishedDateTime: 2023-06-27T18:58:00Z
-originalUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
-webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318424.cms"
+excerpt: "Boardroom conversations are dominated by the relevance of this technological advancement, its applicability, regulations, interoperability and adoption. The perception of GenAI across industries has shifted from 'the new buzzword' to a 'transformative opportunity'."
+publishedDateTime: 2023-06-27T19:03:00Z
+originalUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318695.cms"
+webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/articleshow/101318695.cms"
+ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/amp_articleshow/101318695.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/how-ceos-can-tap-full-potential-of-generative-artificial-intelligence/amp_articleshow/101318695.cms"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -18,7 +20,27 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+    width: 710
+    height: 408
+    isCached: true
+
 related:
+  - title: "AWS launches AppFabric, a generative AI tool that helps tame SaaS application sprawl"
+    excerpt: "With AWS AppFabric, companies can connect multiple SaaS applications into a single console to improve security, management and productivity. It was announced today at AWS Applications Innovation Day."
+    publishedDateTime: 2023-06-27T17:05:00Z
+    webUrl: "https://siliconangle.com/2023/06/27/aws-launches-appfabric-generative-ai-tool-helps-tame-saas-application-sprawl/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/06/image_2023-06-23_080739550.png"
+        width: 657
+        height: 429
+        isCached: true
   - title: "IBM Study: CEOs Embrace Generative AI as Productivity Jumps to the Top of their Agendas"
     excerpt: "A new global study by the IBM Institute for Business Value found that nearly half of CEOs surveyed identify productivity as"
     publishedDateTime: 2023-06-27T17:02:00Z
@@ -34,6 +56,6 @@ related:
         height: 767
         isCached: true
 
-secured: "4cD0TUGQN0DKkZ7sgowPLpJ7h5+5+Xhy8mHg2fIprXqOnbFhMb1OBMEPewBwOY0dcLol8ABzQC2SqWYacOVU7ee4/B2P6IGX8gExEFfqkP7U7eICNn2zoqRJ4MGgkxYFDfBN+B85N0tcekFs04QTQmyvVzTPwhtRh6Siw7zouHZyRWC5D0UyPATSwrPSKz/xUJe+jHGhbLUBm2b/tDdcOmLL/4Dx7Q5j8xj3tb9tmdNvBPluW2knTXcUrfcxGMdJSH8M1ngiyWXNjYedK5rWWAATc3KLJwkIbI/CzrNvgk69JJELlTdBnSPeecXISPYnNT11CC9FAmlWAQ5UDVyYJ2Man1noi+CFiwkN94jG/fc=;ZlVna06dlVPDr61ExLK8jg=="
+secured: "NHqIq3wZkbqsxfuCq8YCCAE4jwMc2Fi8LtpP/4qOJor9ZL8St3uvZdrq1P7rrijwqGqhQNY5JHxNzd+knCTenMEIXtTnRSIWFBOLsb+ZgE8ssEhVn9GfAOPOCnyJhHPLRrjRU8UvwrvgwQKyCe3qhGm46PBIKUG7vPrfMpDId74Noevr01bKM67re0ZhRoBIPIHvR42C/OLJ1BIJM0H4jwxibjVmklJYkx8YzHtigiLbg8dgmVvqNRxUtzAUsRYPBdDNVOnsbbXWBsVqZxKLssexG3WBL+g7S3eMCzSJFcQUbSGGqHqCrZrJjuSf3qsTHlPcG9/zN0ng5MrVRGBDAnC3aTnoVHH75ETyiBaHwnE=;RYUazIigiwyrwHjtWlLhQQ=="
 ---
 

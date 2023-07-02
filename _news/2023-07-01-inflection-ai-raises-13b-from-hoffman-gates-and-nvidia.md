@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
+    excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
+    publishedDateTime: 2023-06-30T09:35:00Z
+    webUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/"
+    ampWebUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 48
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/inflection-ai-1-3b-funding-round.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "EomFAmoj+q/V7xLsM9npSxUD4mgVL4cNG4lcMS9WX4ci2M6V6csO1iBqFx4bpjUfMs78f0AzFnVZ4QRUZQY/60b4JmzKY/diTwoxaZnbNowoEBuPjPoKLg/gYj/v7TbZUpNCSlE6g+vMTsHElyghuzC5A0z0wFTXSuwsjmGJJyDH+zTaRxeCyVZDPC1N7vrKSnFijPYs2yQobmpvKTNI14H37Z00ENM2BORmzWwUgFwTiz9ijEycB2p04R+xsA/f9mJiExXgAU7B15euc1eFdqlec5uSQrP3i1y4vwUGqlfIuwH8x+ewIpVTTWg5pXOicZ5Y01k8Kn3PQAQiAzyfn7gYMajSgvS2Nksre5WP3Goy4QuosL1O4Dn7h7XvosfPBNrfp9iVNBETmwdrkBm/dYbKuWd3C38wh0jhjN8iLbiWyVC9izaBpSR73U1HJ0nH0mInpEuMfl+yFDMg2b3hcc7k8ZuRYlJGHnbe7Q/OCNE31vEwelti9zeEU9SvChvlMH28wsUo2zZC/JlCcZ3m7Q==;knnslzoDJDxePn2z49eBUg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-repo
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-amd-stocks-fall-on-report-of-new-ai-chip-bans-from-biden-administration-a8574751"
 type: article
 quality: 101
-heat: 551
+heat: 561
 published: true
 
 provider:
@@ -464,6 +464,20 @@ related:
     quality: 54
     images:
       - url: "https://techcentral.co.za/wp-content/uploads/2022/09/nvidia-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD making big gains on Nvidia in AI chips: research"
+    excerpt: "AI chips from AMD are about 80% as fast as those from Nvidia, with a path to matching their performance, a report has found."
+    publishedDateTime: 2023-07-02T06:35:00Z
+    webUrl: "https://techcentral.co.za/amd-making-big-gains-on-nvidia-in-ai-chips-research/227735/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 54
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/07/artificial-intelligence-ai-1500-800.jpg"
         width: 1500
         height: 800
         isCached: true

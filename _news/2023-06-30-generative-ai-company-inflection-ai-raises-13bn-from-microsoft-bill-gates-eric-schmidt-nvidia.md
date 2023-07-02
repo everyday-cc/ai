@@ -395,22 +395,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-    excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-    publishedDateTime: 2023-06-28T12:00:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 53
-    images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft launches new AI skills training initiative with LinkedIn and GitHub"
     excerpt: "Microsoft is joining forces with LinkedIn and GitHub to launch a new artificial intelligence skills initiative to help people prepare for the digital workplace. The Microsoft AI Skills Initiative includes free coursework developed with LinkedIn that will cover introductory concepts of AI and responsible AI frameworks."
     publishedDateTime: 2023-06-29T09:48:00Z
@@ -536,20 +520,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Guidance Offers Language for Controlling Large Language Models"
-    excerpt: "Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation,"
-    publishedDateTime: 2023-06-27T14:42:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/guidance-microsoft-language/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 38
-    images:
-      - url: "https://res.infoq.com/news/2023/06/guidance-microsoft-language/en/headerimage/guidance-microsoft-domain-specific-language-header-1687789721356.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Inflection AI raises $1.3B in funding led by Microsoft and NVIDIA"
     excerpt: "The company has raised $1.525 billion in funding since its inception last year."
     publishedDateTime: 2023-06-29T18:00:00Z
@@ -609,6 +579,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
+    excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+    publishedDateTime: 2023-06-28T04:00:00Z
+    webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 33
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Winners Of The Microsoft Ai For Accessibility Hackathon 2023 Showcase How Inclusion Is Innovation In Asia Pacific"
     excerpt: "(MENAFN- dubai pr network) singapore - media outreach - 28 june 2023 - the microsoft ai for accessibility (ai4a) hackathon 2023 is an annual event for teams in asia pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
     publishedDateTime: 2023-06-30T04:29:00Z

@@ -85,20 +85,6 @@ related:
         width: 2637
         height: 2416
         isCached: true
-  - title: "AI Model More Accurate Than MRI at Predicting Tumor Margins"
-    excerpt: "Scientists at UCLA developed an AI model that helps determine how extensive cancer is within the prostate gland."
-    publishedDateTime: 2023-06-27T14:12:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/375358/ai-model-more-accurate-than-mri-at-predicting-tumor-margins-375358-640x360.jpg?cb=20230627"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "OXAyQLekstsy5QP5Z2tsO66LEjUJKpQhB4EqrZSHTnzvbyjN7RAeRwqyShlNlHnfMAEj7wrmG+8C6dT6nhnKD5esWHbzBmt2RBO2rX0rPNh7/QYTGjjXOMtOZNsWCXf6AlIMGzmxMzDessn5H92rLh22s11ZwjZn1r+Mrw1PNuA8HCR+E3eXFvnQ+dA2BwefWrnjhANr/wNSxzEzxB86nsnJxfNKEx1R1UcRWzZ3GXjuOcq3rGU33LlCIZbOOKXndnFEcCCdCEgubq+TJYRDvDuy2ULevSQvf9xEey39HKANjf9gmuLqOxYLdpPpNLUZxDBXW3k2Rj9BJjoBlAc1BibWvvoqYLREr9kdwduRsMynHYBF5yn6VtINBTT/jrpvw2JlJw8ultrsgYK6ZcnJuHT1hf1gCs7L2Yf+aChCLWvB0eX1H5LbSCzTRG0YQLqnEJgJIXx/yQ2bwh4KQk1XdG/gz0jlqleeA/tvu81BZfy97Rd0z3yoxjkaQ0Udo3y9TIXyIQw2L/SAy5AmzuR/bw==;DwuaAohipliGZ1FHIH2seA=="
 ---

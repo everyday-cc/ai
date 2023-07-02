@@ -41,6 +41,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
+  - title: "How actors are losing their voices to AI"
+    excerpt: "Performers forced to compete with themselves as companies’ use of technology for cloning prompts calls to update copyright law"
+    publishedDateTime: 2023-07-01T13:00:00Z
+    webUrl: "https://www.ft.com/content/07d75801-04fd-495c-9a68-310926221554"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "iYBXyIh3NVUPaTVpDr2eFkRzMhzXF3ikcZm1h6hrMR+K7yScdYg4H2Ss81fF0wT+tXX5AqEORpTymjihvUSktlQ5KZmEkO52q6bU6xj05ZGVMXN6WdTDQ6xv84RZ984x+64d+pEU+1AA7ng7MlmsDGfuejZMtWtHuIREOgDofcyNsPq9sv6IXlcztnjfIZmVsqP6iVfiErJOi7OeNaZGx3eY3v+vXz+Lql+usOv5074H6VN2IJ1Rm4RtyhmeAjlPTKauiXS9vkASkJyqm4uacurIBZg17eB8D0pGs4OPx863j/ABpFw+iwcaW4aCZRUv34ub8Bk+PoHlEP1/IAouXBZGa86ZsUmRRvpprUig0d0=;22bb0vBBh3/2mDEcI4noNw=="
 ---

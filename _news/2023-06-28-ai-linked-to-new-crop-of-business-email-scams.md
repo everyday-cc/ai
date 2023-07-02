@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI linked to new crop of business email scams"
-excerpt: "Firms can no longer count on bad spelling and grammar to red-flag problem emails: Fraudsters are using AI to craft well-written email messages at scale."
-publishedDateTime: 2023-06-28T13:10:00Z
-originalUrl: "https://www.constructiondive.com/news/ai-linked-new-crop-of-business-email-scams/654181/"
-webUrl: "https://www.constructiondive.com/news/ai-linked-new-crop-of-business-email-scams/654181/"
+excerpt: "Generative artificial intelligence tools such as ChatGPT could be aiding the proliferation of more convincing email scams aimed at stealing money from businesses, according to cybersecurity firm Fortra."
+publishedDateTime: 2023-06-28T13:18:00Z
+originalUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
+webUrl: "https://www.ciodive.com/news/AI-business-email-compromised/654075/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Construction Dive
-  domain: constructiondive.com
+  name: CIO Dive
+  domain: ciodive.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.constructiondive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
+  - url: "https://www.ciodive.com/imgproxy/UvNo1x7CIRoouHT7Rn6YdOY6MzKN20yrsRib9ftjeoY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTgxNzQ4NjAyOC5qcGc.jpg"
     width: 770
     height: 435
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 435
         isCached: true
 
-secured: "cLKiNlyqhodvmY55XCfDlEBibpS/dQKPD0e89lNLSliipItb/RKkFEb/Y3t8NbXfo0fnV1/sHXje1QI/JWwInTGw0oTqhgDppagEKTBEqKYd3WMDnzYo/SbEFViwa7n5bW5Urylshu2D/NFUD21MVMd8nQo7BiZy3TrCiuFZpiK3T9eEo8ZEFWDPSAkTGxngH34MvywDl9OG69jO871gaB31/0VWOcLq1APIUhKdvU1F0kS8bsktH8eNLq/Yr1KCR4kEBEsL4sPmmy2OoAsWmSNG+DKF95jqBzpZAUySyrlwCjsxRUUvAup8JURQKc6MdtpCv22AVl1VAz9dVdFFGKdiw1ThA0NJn2Cg5JRA8Ho=;49De5UfzF1iZc8fTCMu52g=="
+secured: "HuWQ0qrBA4eMdvJVFCgOtgAAHz7c07chi3mYy0Mzdwk+qV9RHxNRpDNvU77qpFmh7UJoG74Ax9fgtSFe1Qb3vPj9AgfpyoUEL6f29iL0+XRbGbxGzVc85CaJ1yBG/VWU0Usz+gwY/kXcLlHD/2U6GKxyDfcHgzj1cSvOcNQHmXA1j0lw3emoeRZrmab/PUcM+4fiG8UPtN7Dekmn0p69/0cpzzynrwTxrvZpJM3nq/kOGNuqabwb2b5A4mwrHurD1rLwQjzUjI1PMwuqCCUELTSkzjrEs+kYimEn9Gz7lq9U19G79iktna8c1MyeQDL0goVetDXCebwm6gWKm7yWHBU/KZOnFw5HHhF3WxN8xL0=;Lmia+xo7zF9Dw6PyffRx5w=="
 ---
 

@@ -66,6 +66,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "7 Strategies to Prepare Educators to Teach With AI"
+    excerpt: "Some experts believe conversations around integrating AI into education should start with teacher preparation programs that ensure new educators are prepared to teach in the age of AI. In a June 27 panel discussion at the International Society for Technology in Education conference ,"
+    publishedDateTime: 2023-06-27T19:12:00Z
+    webUrl: "https://www.edweek.org/teaching-learning/7-strategies-to-prepare-educators-to-teach-with-ai/2023/06"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/92dc984/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F61%2Fe6%2F5b0584994946b87bd5a5c770ae6d%2F011023-ai-lessonplans-1290349042-b.jpg"
+        width: 942
+        height: 630
+        isCached: true
 
 secured: "6UJ3mmiNWy0vuliae5CcTRnb9wdDZshgKOHnobSUgf18QHA9EAkTjL+1+TOLJ/XXtHNGLDvZcnf8SOimw6aDY2sWtQKFTzndiIIcwmoB2n61rqste0VK4rp1/7x0urQWvJPdAT/OG3HVWLU1C2zn4bfzD9SoVAHqZPXcfEG4E/zX69yb9fEbHeWb2KZBqD3zIdsDeFt7eE79+OYtP99WmzGtc2BSWL9i/NiqfUMc3fkbqdWDp7poop1/am9FHi6WzYJTHGUJkquqGd8eaXeoQ1vfuMWKSHXrMbgLlzyT7cf8a1V6GOcZn8/O2SEhqrYnGiGM9L7TELgICbMuh0XCXDLTHGU0ZxyqzVHAKPIgSs37i8RfQAhTTZLpDPHlssVjOT713HwpWDPpp6Y8iiJxRrwLQ1Myt3XYCx9azWWbd6/Y6w5/HJ8496FLJL3AMepT4nGDGSeUztGjVyuZY61jAiYne7keTWabrJCUUNY8MCvhIcxeXJdaCqJzQVMOKM8TkECMS163zK6q6HxIaflEag==;pBuMDOj/hK6HsFCblgzvVQ=="
 ---

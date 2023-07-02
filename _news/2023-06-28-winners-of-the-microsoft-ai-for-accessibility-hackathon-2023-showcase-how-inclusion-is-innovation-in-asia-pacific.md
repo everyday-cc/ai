@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Winners of the Microsoft AI for Accessibility Hackathon 2023 showcase how inclusion is innovation in Asia Pacific"
-excerpt: "SINGAPORE - Media OutReach - 28 June 2023 - The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements"
-publishedDateTime: 2023-06-28T12:00:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/06/28/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/229616"
+excerpt: "SINGAPORE – Media OutReach – 28 June 2023 – The Microsoft AI for Accessibility (AI4A) Hackathon 2023 is an annual event for teams in Asia Pacific to tackle problem statements and build solutions for a more inclusive and accessible society."
+publishedDateTime: 2023-06-28T04:00:00Z
+originalUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
+webUrl: "https://www.macaubusiness.com/winners-of-the-microsoft-ai-for-accessibility-hackathon-2023-showcase-how-inclusion-is-innovation-in-asia-pacific/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/image-1-Xc2yRM.jpeg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -535,20 +533,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Microsoft Guidance Offers Language for Controlling Large Language Models"
-    excerpt: "Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation,"
-    publishedDateTime: 2023-06-27T14:42:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/guidance-microsoft-language/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 38
-    images:
-      - url: "https://res.infoq.com/news/2023/06/guidance-microsoft-language/en/headerimage/guidance-microsoft-domain-specific-language-header-1687789721356.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Inflection AI raises $1.3B in funding led by Microsoft and NVIDIA"
     excerpt: "The company has raised $1.525 billion in funding since its inception last year."
     publishedDateTime: 2023-06-29T18:00:00Z
@@ -686,6 +670,6 @@ related:
       domain: webindia123.com
     quality: 5
 
-secured: "OZlVLP6AVvkuto8yu8BRF4gTdr+FsO5G0T2EXI15hMYbiW9BlPlSUb9/y6jKkZwVXCeJSWNujav2nr6vtkOuMWYiaoxAtR8ufYkuQ37CdoTTdlLuPohciHH6ymJY/W8t84vELfH1lljfoNgwdtQj8wFepQxXd3Kz4h9WQuJrxWuL/FeYufXdjaIsk3Ayn8nQnf4Ccv68v1AAMC0kOX4IQyXq9m535yBjXrpqTP/gOxXFdgpE58uUxMy7IeyahIXgvdamRTNBQ8qt9ft8gkpakaEb9caX+2pve5viCJBpieB6c/FUTNihf+asdMDcDxR37G+gT9Hn/IdqaOMRNoKMYfK3DPwcsQnb2rP3MQqPZkmEz/MeWf54qljEB9q6f4kTAKrb8THZd1kCSboHehQzZZOi4mIc6uOh5l4aNUUhh9PJ9igOG6JB8mZVIP/5Piki6vGGb2gCePbMhuygG6RCaasHg2MfyxnRRIovCFj+w0XlVZpGr/O/Xk8vIzf7yzYgKDAc1q0lKSjb5JEHHb7kZw==;FBGRllwn/IjrllquyvQ1gA=="
+secured: "Cv6gyrSR67OD+U87lp2KRXQnsi4IR5TXrjv/DftLXDOXzA46DX/AGFSgg4iwKR1HjQa2PrM7DJq7LfEd2NcxeVnrMbZ8e1KveJs6lRcwElDKkv5lyFxxFHPBaSMOHw1Avr0oBQKk8wQvFB+zVmvcP0FPQD4m4LN/5KYOUk4XUdiFCarYs23ENmdZ/NsynfnY3NvC0GG3ghmufH+Y1YM6DHYZ+PnLs+SupKEebDkjG30GPbkshqaxQZd1H/DRqnFPY7kKDFJAdwYVezCNANvbKGjsCghh/znnGZOhJJzAcv/PB+C/MieW+7s/3ufAs2z6lvDfPGM0YWt4zHDIuluGti/uvXq+PrKNrfpsCSpNsqo=;kJXWOMNURt6WknBIAG9oAQ=="
 ---
 

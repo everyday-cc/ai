@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Racial bias concerns prompt lawmakers to ask HUD to ban biometric surveillance, including facial recognition"
-    excerpt: "Two members of the U.S. House of Representative have asked the Department of Housing and Urban Development to end the use of biometric technology, including facial recognition, for surveillance purposes in public housing."
-    publishedDateTime: 2023-06-27T14:23:00Z
-    webUrl: "https://www.bdcnetwork.com/racial-bias-concerns-prompt-lawmakers-ask-hud-ban-biometric-surveillance-including-facial"
-    type: article
-    provider:
-      name: Bdcnetwork.com
-      domain: bdcnetwork.com
-    quality: 20
-    images:
-      - url: "https://www.bdcnetwork.com/sites/bdc/files/man-5946820_1920.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
 
 secured: "CXFXZnViTEx73C2Ib5yxcM7vW9BNCBXfiMTqch23nwGOUqpt2XUHxCABpFWsMYSUe4rwwTH2mseQYnvS15KXtsfZxj0FnNlzZyBxpXBt/AZJCSqhVtH3Lt9VE+q4iNNb+5NSYxwP1T4uQY0UvBifzHKWRPuRUJYaQdGgXKC2JHGa/uYD0m91XStTue8+HNLCRVy+S691BhUAq5/kPmrRSh+whcCb2IcnhGOIVmfiYMc8geO9LTwlkT5g6CvAth0blaInySfKl20AzLfcf9D5mRZ4tU9SngNQr1O+zot57XF75QERO63Zz+O5X/axYj/89GZls0G+WeBFAgzx5ElKatr4iMxvicS/wnF89TpBX2s0q1j8pCZjYWcwQYGsqK0a+fFLSiuXnjh8sPPQbMWSNHepaqUjbLD9rf1m5jnEekZcQdb3GKQrlcVsiwG2n4VMsFezd9xafvikdsA5jYHt842wGBAKFFWglNEkPrEur6SleTTsLFr4qjXdGmwyPfL5eAzCwAOTBW2CmHcouNU1CQ==;IharfG9NZICdq6oy61fAtQ=="
 ---

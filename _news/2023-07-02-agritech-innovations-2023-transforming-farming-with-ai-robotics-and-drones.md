@@ -9,7 +9,7 @@ ampWebUrl: "https://krishijagran.com/agriculture-world/agritech-innovations-2023
 cdnAmpWebUrl: "https://krishijagran-com.cdn.ampproject.org/c/s/krishijagran.com/agriculture-world/agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones/?amp=1"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "u5R2DokrIgz+Vq9YCR2kdRBMGzjmKy/Ztr1afreekoc8qRloCW/nBCn4i2EOdGAsrJuH//fBk52LsSGbsO/3VEpJDPILKrKKSApe+lT0a3F9JHVHTGBmIGJVys8B7PVkTN4ctBfMvmqCQy05adRhpgxUJWkqkIzXKs2fJUfMtC1AX0THCI/G5P2ZWd/iKNCyqcRgPDek8JONIopF/h6jPQvQJcabYda8nXpN3evfdC/+D1L1MXicCr9p4+ou9v5d+DyeG5nm/Ne/abwkEE7kWJr9f/UNAbVzIbwGvq9OcGWUMSPZkIQBdY6V99pQnhC4Gg2VSYug1IVd4ccQHRB9Kwcym3Z2CA8763p+SnRC2qg=;7h6lixK+Pov84c9CMqUgXQ=="
+secured: "TLt5WE6OHXl47JKKjeoijtcsoBaS6yDaH7X7EfQhSL+cEyxu6Ir/isVaS621pKuuYSlAh+6zdRTcSlh9eug3c7BKjVO4VEKvX1CLeSL8XDNzSjR0jQuSNQBZ0nq54sGYGq+xFJzg99aMFdAfvFisaBem9ZQhVheSwIQLKMluZ4Y1N9cIIc4U6wM0bLbC7mT6IZ43Ci+Qs44d+JF/MiPNTPvvoWv8zZwbv2wQ9vEgLr5MCxrvxU3BEtUb6WmunjG0ugTLxxUd3Q2DXwoi7RyELYhqpkscn+ekvXdCyB6p7EkbMQ09562BZklZItADuGTk0X3EfVDhntHHHE3JeWBOzsPhfJa5XF4+hrZdN+xAQshQ1WKMBTa+7ZAVn7A/aQ5M4A9f2AdDEd9dSeeto2QQ63OKg+1w24j/wlkd8tM+ZcfDSPF6Jw5hSAeoltfjKFCEJZxUPkCsOEepB2Ydljrd77mkdSS+KGym/2zRVzuIlX+9pg2Jn6AloX7fsatspUTj9c6PsdMH0X6AKfPvDei0YQ==;1FIG3wxgLY0bnTr4ynMN1Q=="
 ---
 

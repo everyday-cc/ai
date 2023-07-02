@@ -163,15 +163,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
-    excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
-    publishedDateTime: 2023-06-27T13:13:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108164/gemini-chatbot-is-more-powerful-than-chatgpt-says-google-deepmind/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "Wk9Ik6mgsYpTs9hMtj7GTg0fOX79tRO9oN84NLYvB1qGgjyJ4pXGo5Yeap3CpK+rYTwSPmIehNUIjNBqukd3qlmG3MLxQlkdp95EPS0HFLkcWoVPr9q7f9A3wlqQP5ByCYb69zlspcn/AYgp9BBxGj5D6pla+sQ+1fPAz2W+UeXl9O3XeeKBA5U/NhTYTP9LlMwJ2iy6wRQrpERP09yKdId9UbuyqqNExab1tYZNEPqNvrsdeoN3Z4N6YpYrFlVc9k6xwSkggvRuoQ0a7+fjqv8XeOOMZ+9fNiTnw5PEtbXAiPkaRIJYaZDcBqWXMtuYbIosUmmQT4ovywzdbYNcPihRuxRM7wXehA8LFWEhwkc=;ZgYqiwZCIEbSNTVNUD7b+g=="
 ---

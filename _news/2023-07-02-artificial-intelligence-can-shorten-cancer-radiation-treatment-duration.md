@@ -8,8 +8,8 @@ webUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radi
 ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-can-shorten-cancer-radiation-treatment-duration-10889391.html/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2023/07/julien-tromeur-V2G1YnMHZwk-unsplash-1.jpg"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "e2VdftOKc6vCzGCtbSERRKQW7GeQXqU9mX/bqtywiDUB51o6nEvMlxgZx7YlqQd8hu+TJT/94Gn8cM+JANAs1iYkmtWhzusIGOBT2Pi2paMXDi6FaMXNXrpFhn/A3AwcXFTGYDn6WzCZHGq9LCg+aFhYxgfSuMDHZ7/YTQxTEMnqvqfuqgsyN4RVVKRdvoQYWgOqJkhrYqtJoiRLi1qJEyrx3KevS3YIt4O/S1KomMQl6jrO0kBmMhakJiRcou3fBOwv6LB9+eJevGAOVRw0Vt+b/ump3Z1hDb4BbqJPfTdO4WpYc6Fk2OiaB6mKbaxbTUSvaDq1GftgywV867IuOfdFjbWUieJyyx/y4M7wmU0=;vzWd1JwyKxNle4YmPOtRgA=="
+secured: "qs2WdsVzfjUA1B9rFyRRUtJOeKZ57R6QRLbWHBHJOFwnIIw4a5B6c6Qbi81HeXZYJwI+UcU2npgnfLHiypdis9+jOpLw1Y0+ArTU0ab85L5K7yr4HQ0bIBvuG8Y8JEniqnb1Zlvni714o5171nWo9KOl8ImBGFYPXc+PIPF5aGTvccij/gcwpYKctW3Dto1bcXhJqUAOxKaugigZCy0ZPiFLY7q1gOvCqD48W0GeloQ2MLwlaIG6DOqmsD7Gx3l/XPodVqxpO0yBf7yshGpTtH8OjbJda/aC/mkZ0hL0X6lecT6zF+wfx8HdMmg23XcG9/GGjaxPiZ59I6BtIoO3Y1hG2WwK44DSCjYfMb0mAQ1FK6T/Woz7CvwkH88EkNckUJdO/XZwVAIlK8TlV2ElfZsV6FxZOUz+d120jMsm5tbPzTm5Qhl2+vgG0MtixTFGn82eg+7U5ObkZBdXnT2EkxRKdab/PkF2b2i87moTSrW0DssEzxtpzKFBE6V+pFpfNuqrPjGTGq8SJJr4X4Ryjg==;UH/Ntd5Kh7AxyUG+puOsKw=="
 ---
 

@@ -25,34 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Zoox headcount grows as Amazon's self-driving unit expands testing in Vegas"
-    excerpt: "Amazon.com Inc's self-driving vehicle unit Zoox has grown its headcount by about 16% at a time when access to capital is tight and other large companies have exited the autonomous driving sector."
-    publishedDateTime: 2023-06-27T23:00:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/zoox-headcount-grows-amazons-self-driving-unit-expands-testing-vegas-2023-06-27/"
+  - title: "Self-Driving Cars Are Like Surveillance Cameras On Wheels For Police"
+    excerpt: "Authorities are serving self-driving companies with warrants for hours of footage of private citizens in an effort to solve crimes"
+    publishedDateTime: 2023-06-30T23:11:00Z
+    webUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/"
+    ampWebUrl: "https://www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/06/self-driving-cars-are-like-surveillance-cameras-on-wheels-for-police/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
     images:
-      - url: "https://www.reuters.com/resizer/v5PPqHoJSQefoTKP70Zj_3R-9AY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ROQNI57GJFN33DWO7C2PROMDHY.jpg"
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/07/fca-waymo-exclusive-agreement-2-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Self-Driving Car Footage Gives Police Controversial New Tool"
+    excerpt: "As self-driving cars become a fixture in major American cities like San Francisco, Phoenix and Los Angeles, police are increasingly relying on their camera recordings to try to solve cases."
+    publishedDateTime: 2023-06-29T14:00:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/as-googles-waymo-expands-so-does-a-police-surveillance-tool"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 24
+    images:
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
         width: 1200
         height: 628
         isCached: true
-  - title: "Inside an Aurora Self-Driving Truck Testing in Texas"
-    excerpt: "A number of autonomous truck developers like Aurora have set up operations in Texas, allowing them to run test drivers and preview routes with their self-driving technology."
-    publishedDateTime: 2023-06-30T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/inside-aurora-self-driving"
+  - title: "Self-driving car project flourishes on Iron Range"
+    excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
+    publishedDateTime: 2023-06-30T12:00:00Z
+    webUrl: "https://www.startribune.com/self-driving-car-iron-range-grand-rapids/600286553/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-06/Aurora-truck-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
+      name: Star Tribune
+      domain: startribune.com
+    quality: 4
 
 secured: "5SBQ4GQm6gsnfN9OpgoBWuSBBzFCatdPdbcW7Jm24gtxMrt3jkg4W7W1hstE/e6rZLmbSxkgZzGGKzLtbY1LmrGNWZFR9nmflpWincublU27j4+SOduVU2x9lLx0BiwB4YIEzwdpstKst+d1P/Zugr0ddr0gJhR71BS+In1hQlNQY/EdnjZkMuabuV+vwhcXrWvyuJu0ElWf7apGxVLgOMDmpz39spo5SxAYJ0YCqv5XHG3qJklLKBUifiD0qDMqEJ5ACMBQsk1i/amISmH/GEVqFIWFPW6C6GvmR9Etlm5csJ2Wnot1LS0Mhxlh5DbWOVjDYvFRYS3I/eVQeK0+PSoIPBJecQvGGnihmQjAEAd8N2fjGCKtGDnreAawOMRmRCxReRQiplOm4sn+J+U+9M435dthMPxgEH9KIOUepZGzO/6cokL3Rq/sNAGJvcEqGdxzg/gF2oIsBn3GfiDMHRREwjWur6l8dRavPfzAmGNDtkuhP63+cXtOVepLq1ylbicEpgZDNfPcPp8TQv+5WA==;jkzKiqOUtke3jB272Oheww=="
 ---

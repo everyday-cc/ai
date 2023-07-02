@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.co.uk/programmes/p0fy6c9g"
 webUrl: "https://www.bbc.co.uk/programmes/p0fy6c9g"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,34 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "New York Is Buying a Supercomputer to Understand and Regulate AI"
-    excerpt: "New York is seeking to procure a supercomputer to run artificial intelligence systems and gain a deeper understanding of the technology for more effective regulation."
-    publishedDateTime: 2023-06-27T14:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-27/new-york-is-buying-a-supercomputer-to-understand-and-regulate-ai"
+  - title: "AI improving understanding of migratory birds' internal clock, map and compass"
+    excerpt: "Different species of migrating bird have different genetically programmed procedures that signal when it is time to head off and when it is time to return. It may have to do with factors such as daylight,"
+    publishedDateTime: 2023-06-29T19:30:00Z
+    webUrl: "https://phys.org/news/2023-06-ai-migratory-birds-internal-clock.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqgSeCFCYwA/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI hiring tools to be audited for sexism and racism under New York law"
-    excerpt: "A New York City law is requiring companies to show that the AI-powered tools they use in hiring and promotion are not biased. Critics say it lets most employers off the hook"
-    publishedDateTime: 2023-06-29T06:01:00Z
-    webUrl: "https://www.newscientist.com/article/2376984-ai-hiring-tools-to-be-audited-for-sexism-and-racism-under-new-york-law/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/06/27175015/SEI_161950089.jpg"
-        width: 1350
-        height: 900
-        isCached: true
+      name: Phys.org
+      domain: phys.org
+    quality: 13
 
 secured: "Nd0517w7FIiRMRGq2O5q8PMyzObEcdeGvER0Ou/U0M/C/6XkExK5DHcpQPjOugKacBOYAIbwpe0aBOHp7TKXOr3StnQd46lyqIt5vr3lfy+BgVDn3ut/G/8x7yx2Ro2IfWYU5ash8NHnc0xtLTtlEiPLkIOVIyCDa9LIazu7kY7NJe66l93Q6L80ES12Dch5Of762qlHqGvsaooY6IP5KDjYGdyNBsWMU/MZwFehXodcHqmvlh9PrQwQeagxwycFyOhLD0X8UOrDRfk0buznQT7/He0iF5PHpLdeqxERBkG65U9fwPyjYtAOIcQ+m0pYAabArQWsThkSSzDXBnZ+KVPwJALIDZcntncdlftmbF/8UZvRtG680wkJPkK/7hsVpxDUbbRT3TS+4kaHfLb0J65jVdfpk/SkL1a1ih1yFLy688W/wsz3W1HxfR8h/cko6h88l+OjWx35aRZReIzXCy23X1cXkgOGcbIZcQKbLgyXbV0qOajlT/mL0jjO1DZxCuLoXTBCIabD+iaazlqMUA==;+AQChfimAGHKPLATV4JjeA=="
 ---

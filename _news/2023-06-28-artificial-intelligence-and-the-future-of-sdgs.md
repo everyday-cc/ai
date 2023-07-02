@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Table of Experts: The future of AI"
-    excerpt: "As AI develops new capabilities and becomes more prevalent, business owners and leaders are looking at its applications across multiple industries."
-    publishedDateTime: 2023-06-27T13:06:00Z
-    webUrl: "https://www.bizjournals.com/albany/news/2023/06/27/table-of-experts-the-future-of-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "My Greener Future: The pros and cons of AI"
     excerpt: "President Franklin D. Roosevelt said at the beginning of World War II, “The only thing we have to fear is fear itself.” Well, he wasn’t facing the arrival of artificial intelligence. So, should we"
     publishedDateTime: 2023-07-01T11:46:00Z

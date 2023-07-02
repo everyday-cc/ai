@@ -33,6 +33,20 @@ related:
         width: 395
         height: 400
         isCached: true
+  - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
+    excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
+    publishedDateTime: 2023-06-27T17:05:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity/article_c1b49bc1-6ec6-5a5c-9fb4-ff4afad1596d.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS Announces Availability of AWS AppFabric to Improve Leading SaaS Applications for enhanced Productivity and Security"
     excerpt: "AWS, today announced AWS AppFabric, a no-code service that enhances companies’ existing investment in software as a service (SaaS) applications"
     publishedDateTime: 2023-06-28T13:20:00Z
@@ -42,15 +56,6 @@ related:
       name: itsecuritywire
       domain: itsecuritywire.com
     quality: 27
-  - title: "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security"
-    excerpt: "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity."
-    publishedDateTime: 2023-06-27T18:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/27/9840130.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 23
   - title: "Sports Info Solutions acquires basketball analytics provider Blueprint Stats"
     excerpt: "The acquisition will combine SIS advanced data, analytics and AI engines with Blueprint Stats’ stat-taking technologies to enable an end-to-end data and analytics offering."
     publishedDateTime: 2023-06-30T14:32:00Z

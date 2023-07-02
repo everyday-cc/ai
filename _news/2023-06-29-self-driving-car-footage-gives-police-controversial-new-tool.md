@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "An Android Phone Powers A Self Driving Car"
+    excerpt: "As auto manufacturers have brought self-driving features to their products, we’re told about how impressive their technologies are and just how much computing power is on board to make it"
+    publishedDateTime: 2023-06-27T15:30:00Z
+    webUrl: "https://hackaday.com/2023/06/27/an-android-phone-powers-a-self-driving-car/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2023/06/android-self-drive-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Self-driving car project flourishes on Iron Range"
     excerpt: "But the ice and snow that come with the Iron Range's harsh winters can be unforgiving, so she's thrilled with a new self-driving vehicle program serving the region. It has given about 2,000 rides since it launched last fall."
     publishedDateTime: 2023-06-30T12:00:00Z

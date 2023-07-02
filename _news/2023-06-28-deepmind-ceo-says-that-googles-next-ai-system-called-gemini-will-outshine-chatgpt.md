@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-p
 webUrl: "https://www.techspot.com/news/99216-gemini-google-next-ai-system-promises-outshine-chatgpt.html"
 type: article
 quality: 78
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -167,15 +167,6 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 21
-  - title: "Gemini chatbot is more powerful than ChatGPT, says Google DeepMind"
-    excerpt: "Google DeepMind, the cloud and tech giant's AI research lab, is developing the LLM chatbot Gemini. It should be more powerful than competitor OpenAI's"
-    publishedDateTime: 2023-06-27T13:13:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108164/gemini-chatbot-is-more-powerful-than-chatgpt-says-google-deepmind/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "eGUgMC7QEJmxxBwnLsV7v8jvJkldWUKT+kB+PsRdrVypclGX4HIhVeuC9lQadSYMTUEHtE0U5iNZf9w2CpekZZvUmjTHBex57WU/yG0nilUIPo+hmKbNXcFMkbSQxeuiqXMOrM99KP1Bb9/ivm7vgQjqfFwYH+Iamh5OpLHNGAEvW71Itg6SKn4usF5DfS7eEgTR+RJi0614LVW5d2vjhnMB881MGwAH3ZzAJeOX3maefjhg8DsgJMeAI3/jpi2hCnudF+yRM1kZ/s9Up7t0mv3vVoTWXyaCU7DD/6fz3RyVnbS3801Ui3SKTggjBRiU6df1kwZACc85IvPSufEZNHOza54IlUbplvk8jT5K90umSXNG5swlVv8cPXYf2bQLr18Ta4OHJ2NeuSgL9l6Wr4FJirQQRg6bWmfekko3PiflK5sGWD614/2O1THTy1kQcEGowQf5boPSAJbx2wpcJzA0SUKmFap864x8tNJUGniUKmbTng21EalGrUV98d4xWcHfhvtNLxPufaQh46iM8w==;G+pYYWR5SB76UTCfE8fuKg=="
 ---

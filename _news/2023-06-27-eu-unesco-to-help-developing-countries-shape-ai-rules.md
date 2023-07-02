@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence: Partnership between UNESCO, EU to speed up implementation of ethical rules"
-    excerpt: "At a moment where concerns over generative AI are growing, the partnership between UNESCO and the European Commission will help low-income countries to develop their"
-    publishedDateTime: 2023-06-27T14:38:00Z
-    webUrl: "https://www.securityinfowatch.com/industry-news/press-release/53064520/artificial-intelligence-partnership-between-unesco-eu-to-speed-up-implementation-of-ethical-rules"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 40
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/06/16x9/Marco_etico_global_sobre_la_Inteligencia_artificial_.649af267bf04d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Unesco official: AI could accomplish more tasks in newsroom"
     excerpt: "He said that with more than 7,000 languages worldwide, of which 4,000 can be expressed in written form, AI through machine translation provides an opportunity for media to expand readership and inclusion with proper contextualization. Organized by the ..."
     publishedDateTime: 2023-06-28T23:49:00Z

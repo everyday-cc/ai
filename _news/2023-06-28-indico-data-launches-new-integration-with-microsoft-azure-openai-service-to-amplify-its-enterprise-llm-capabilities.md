@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Indico Data enhances Indico Intelligent Intake Solution leveraging Azure OpenAI Services"
-    excerpt: "Integration of Azure OpenAI Service extends Indico Data's enterprise large language model ('LLM') capabilities and enables insurance carriers to"
-    publishedDateTime: 2023-06-27T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/indico-data-enhances-indico-intelligent-intake-solution-leveraging-azure-openai-services-1032412035"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
   - title: "Johnson Controls wins 2023 Microsoft Global Independent Software Vendor Partner of the Year"
     excerpt: "Johnson Controls awarded for OpenBlue connected solutions for buildings, using cloud, edge, AI, and machine learning to achieve new levels of"
     publishedDateTime: 2023-06-27T19:49:00Z

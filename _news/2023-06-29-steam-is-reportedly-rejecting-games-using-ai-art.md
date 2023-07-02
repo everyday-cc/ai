@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
+    excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."
+    publishedDateTime: 2023-06-30T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie5XYaJRJeK8/v1/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Efforts to label AI content in influencer marketing are gaining steam, but industry insiders warn regulation will face hurdles"
     excerpt: "Ad agency Ogilvy launched an initiative to disclose the use of AI influencers. Creator-economy insiders discuss whether regulation is needed."
     publishedDateTime: 2023-06-29T14:59:00Z
@@ -171,20 +185,6 @@ related:
       - url: "https://semiengineering.com/wp-content/uploads/process3.png?fit=766%2C524&ssl=1"
         width: 766
         height: 524
-        isCached: true
-  - title: "Big Tech Has a Troubling Stranglehold on Artificial Intelligence"
-    excerpt: "Altman’s admission underscores a troubling dynamic in the growing generative AI business, where the power of incumbent tech firms is becoming more entrenched thanks to the value and scale of their infrastructure. Rather than create a thriving market for innovative new companies, the boom appears to be helping Big Tech consolidate its power."
-    publishedDateTime: 2023-06-30T00:02:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/30/nvidia-microsoft-big-tech-have-a-troubling-stranglehold-on-ai/c779b68a-1703-11ee-9de3-ba1fa29e9bec_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
 
 secured: "GRShzKAg2FDt/IQCJJJjogeiZGY/Kb4wiWLz4U8wbhDXHJwgu1eO2z3VMmK8HPEa/XTENaj1kSW9DIwcZrQqkli5tWGc2BAmzn+oHd+D0I5EtU7cIIp5KAe+J+Vb9gwdFEoYL9aY0Gz3SNajfBOrII1vONtkiYwAQatXS5JL6dcmz3ou9z1u+9tprltFG3pFVRowtr6bnz+krywKv4uwndsUkyMiP0MyO11i26VQpePbdFXqJgeSwFRVH9KbobXM7E03Y6KzTS9Ua+LOooJnnWs1t7HxOs4iLXtMqhnn/j8QV8V4To01sNI2plj+ST3vIyVuSoYrs7jDfDn5+jRVz9d6PzqSF88832d0qENoMTiMCthLhGA3M+ZivZMX6E2DKRerf/FgFpn5o0GW4gCkFuuTa04ueBKFcs+xVBiNNro7Aw4A6my7tyFJNrUbQ4ZVti3TYp23jagQVS9vrMupIV1zuEmUovKMydj3c/yQ4j/DXxur+Aeu5FLEW/U/YBajjS4nizeAVenky0IWh87mRw==;zAfRJ0JipqPksVEjw1Bv7g=="

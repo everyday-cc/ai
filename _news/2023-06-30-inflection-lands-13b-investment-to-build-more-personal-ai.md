@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investmen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/Untitled-design-2023-06-29T122624.682.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Inflection AI Completes $1.3B Funding Round, Aims to Develop One of World’s Largest AI Models"
+    excerpt: "Inflection AI may have just completed a $1.3 billion funding round, according to a Thursday announcement by the company."
+    publishedDateTime: 2023-06-30T09:35:00Z
+    webUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/"
+    ampWebUrl: "https://www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/inflection-ai-1-3b-funding-round/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 48
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/inflection-ai-1-3b-funding-round.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Inflection AI Raises $1.3B From Hoffman, Gates and Nvidia"
     excerpt: "Inflection AI, a startup that makes a “kind and supportive” chatbot called Pi, has raised $1.3 billion in one of the largest funding rounds of Silicon Valley’s current artificial intelligence frenzy."
